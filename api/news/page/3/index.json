@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-29-who-owns-voice-and-image-artificial-intelligence-rights.md",
+      "title": "Who Owns Voice And Image Artificial Intelligence Rights?",
+      "excerpt": "With the advent of the ability of artificial intelligence (\"AI\") to alter an individual's voice and image (whether in deepfakes or expressly fictional works), it is critical to determine who – if anyone – owns the right to do so,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/",
+      "originalUrl": "https://www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635c427f8cf45c068908fd18/0x0.jpg?format=jpg&crop=2330,1311,x0,y16,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/amp/",
+      "publishedDateTime": "2022-10-28T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-music-science-and-healing-intersect-in-an-ai-opera.md",
+      "title": "Music, Science and Healing Intersect in an A.I. Opera",
+      "excerpt": "The work-in-progress “Song of the Ambassadors” got a test run at Alice Tully Hall — with Lincoln Center’s artistic director lending her brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/28/arts/music/artificial-intelligence-opera.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/28/arts/music/artificial-intelligence-opera.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/arts/28AI-Notebook-1/28AI-Notebook-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/28/arts/music/artificial-intelligence-opera.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/28/arts/music/artificial-intelligence-opera.amp.html",
+      "publishedDateTime": "2022-10-28T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-tomiai-selected-for-google-for-startups-cloud-program.md",
       "title": "Tomi.ai Selected for Google for Startups Cloud Program",
       "excerpt": "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a",
@@ -1102,109 +1205,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments.md",
-      "title": "Argo AI will cease operations as Ford and Volkswagen pull investments",
-      "excerpt": "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/",
-      "originalUrl": "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/argo-car-the-end-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast.md",
-      "title": "Reduce food waste to improve sustainability and financial results in retail with Amazon Forecast",
-      "excerpt": "With environmental, social, and governance (ESG) initiatives becoming more important for companies, our customer, one of Greater China region’s top convenience store chains, has been seeking a solution to reduce food waste (currently over $3.5 million USD per year). Doing so will allow them to not only",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/reduce-food-waste-forecast.jpg",
-          "width": 1342,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T09:31:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

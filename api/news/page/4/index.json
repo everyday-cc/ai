@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-27-argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments.md",
+      "title": "Argo AI will cease operations as Ford and Volkswagen pull investments",
+      "excerpt": "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/",
+      "originalUrl": "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/argo-car-the-end-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast.md",
+      "title": "Reduce food waste to improve sustainability and financial results in retail with Amazon Forecast",
+      "excerpt": "With environmental, social, and governance (ESG) initiatives becoming more important for companies, our customer, one of Greater China region’s top convenience store chains, has been seeking a solution to reduce food waste (currently over $3.5 million USD per year). Doing so will allow them to not only",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/reduce-food-waste-forecast.jpg",
+          "width": 1342,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T09:31:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-trust-and-ethics-in-ai-systems-possible.md",
       "title": "Trust and ethics in AI systems - possible?",
       "excerpt": "I asked the question whether we should fear the accelerating AI systems. My answer was: yes, we should be scared.",
@@ -145,6 +248,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research.md",
+      "title": "Tempus Announces Real-World Data-Driven Program to Accelerate Precision Oncology Research",
+      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine ... Kuzel, MD, FACP, Division Chief of Hematology/Oncology/Cell Therapy at Rush University Medical Center. \"By having access to these large data sets accumulated from hundreds of centers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1107,163 +1253,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds.md",
-      "title": "Bumble Releases Dick-Pic-Fighting AI Into the Open-Source Wilds",
-      "excerpt": "No dating app can stop cyberflashers all by itself. So Bumble is sharing its software to help stop sexual harassment across the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2213c38769a7ec9c5f6ceee918340cd920557932/hub/2022/10/25/d6c6b6d0-fd12-4047-bc3d-0e6e171be888/dall-e-2022-10-25-16-44-48-contented-female-commander-with-closed-eyes-deploys-her-army-of-robot-bees-to-attack-digital-art.png?auto=webp&fit=bounds&height=630&precrop=1024,538,x0,y0&width=1200",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "publishedDateTime": "2022-10-26T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda.md",
-      "title": "Deploy a machine learning inference data capture solution on AWS Lambda",
-      "excerpt": "Monitoring machine learning (ML) predictions can help improve the quality of deployed models. Capturing the data from inferences made in production can enable you to monitor your deployed models and detect deviations in model quality. Early and proactive detection of these deviations enables you to take",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/deploy-machine-learning-inference-lambda.jpg",
-          "width": 1342,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T08:54:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-the-ai-bill-of-rights-a-technology-perspective.md",
-      "title": "The AI Bill Of Rights - A Technology Perspective",
-      "excerpt": "The White House recently unveiled the AI Bill of Rights. What is this, why is it needed, and what does it do? In this post, I provide some perspective - from a technology and business standpoint, about this document and what it can or should mean for businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63594c110c272daef33671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 1088,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/",
-      "publishedDateTime": "2022-10-26T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Tempus Announces Real-World Data-Driven Program to Accelerate Precision Oncology Research"
-excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced Tempus+, a proprietary program that powers collaborative precision oncology research through the use of real-world data."
-publishedDateTime: 2022-10-27T13:01:00Z
-originalUrl: "https://www.wsiltv.com/news/illinois/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_3fadd9c1-e1ef-53b6-9091-311a76a7cf66.html"
-webUrl: "https://www.wsiltv.com/news/illinois/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_3fadd9c1-e1ef-53b6-9091-311a76a7cf66.html"
+excerpt: "Tempus, a leader in artificial intelligence and precision medicine ... Kuzel, MD, FACP, Division Chief of Hematology/Oncology/Cell Therapy at Rush University Medical Center. \"By having access to these large data sets accumulated from hundreds of centers ..."
+publishedDateTime: 2022-10-27T14:01:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: WSIL-TV
-  domain: wsiltv.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ZntiqBuzraPaLY/1BnBph0Woe/gOokgI49jNvl9nkf7CJPUhUkLdbDNzeVH6FghWaVOow0HeRK+PNn7jDVvCu3ZnpsFtmjKfApteIderr5u1T2LoJSIwPcOiGK+3Pfe9RGx4jy+s+685NBfCIIfbhQ3tlemF0nv2C436N6TLR7srggzbzSX/w+YCQYK3I70T+tAS5nqFsgWLNlbqctmC43biqGcDCJekkWxqfzxTaPveo9FfuXhayadWPlYTL+GYrzBSFSNr+GypfacOTtQRBC6oJW8PsNeqHRC0DeWv/l4MynqplCQmYNbaeoisurruv9eusa7Rf3Vn3hQ54ChlT0sbBIhR4fibAR8St4Ow4yA=;MZwcxYF960uFqi9P5txP9A=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "lt0oAIXkyl7UB/OxGBjueXu/tpnORoLCyiO4stVa74TyYO67Xybya7TyIYCiZW1QlPcrcNjOyCTkjW7QMAn3+6z6qvfWjfAyRWjzgt/1WIwB5n0uht+U3t2u4HypS+2jQ7XFslultXO2iajIa0Li8ikm7+2byo4f0QSsBRjKDtTTE/SD28+k9kl9Cx7AhdCWbgKDu8rh3fhzjz32MGr+RfgW5aAupkRyqWIZIjjWcA00VLtntwI742xe3pCFXOW3jHXnzCV69sYiSUMycEzQdcu6nxamQto2oEXj6x73xcL1X1CdUQ4NGFuZrlhAHUn4EEcxsetns23tUaoVwxgXfhS04/j3DZccdadgONuiqNk=;zLLPsF6KT6gDu9qGgMz1xw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intell
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: ThePrint
@@ -28,34 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tomi.ai Selected for Google for Startups Cloud Program"
-    excerpt: "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a"
-    publishedDateTime: 2022-10-28T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739"
+  - title: "CEO of AI Startup Says Many AI Startups Will Fail Because They're Making a Serious Mistake"
+    excerpt: "But according to Will Manidis, the founder and CEO of AI-driven healthcare startup ScienceIO, generative AI is all flash, no substance — and while it might be attracting VC cash now, most ventures will quickly fade into startup oblivion. \"There are ..."
+    publishedDateTime: 2022-10-28T18:40:00Z
+    webUrl: "https://futurism.com/the-byte/ceo-ai-startups-will-fail-serious-mistake"
+    ampWebUrl: "https://futurism.com/ceo-ai-startups-will-fail-serious-mistake?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ceo-ai-startups-will-fail-serious-mistake?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Futurism
+      domain: futurism.com
+    quality: 47
     images:
-      - url: "https://mma.prnewswire.com/media/1932593/Konstantin_Bayandin_Dmitry_Popov_Tomi_ai.jpg"
-        width: 400
-        height: 246
+      - url: "https://wp-assets.futurism.com/2022/10/ceo-ai-startups-will-fail-serious-mistake-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "‘Alter’ a new AI startup by Google"
-    excerpt: "Google purchases the startup for about $100 million with an end goal to work on its substance game and rival TikTok."
-    publishedDateTime: 2022-11-01T04:26:00Z
-    webUrl: "https://techstory.in/alter-a-new-ai-startup-by-google/"
+  - title: "3 Ways AI Can Help Your Startup Be More Successful"
+    excerpt: "From automating processes to improving talent acquisition and employee performance, utilizing AI can help your business become the best it can be."
+    publishedDateTime: 2022-11-01T21:35:00Z
+    webUrl: "https://www.inc.com/joel-comm/ai-business-startup-grow-successful.html"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/Larsen-Toubro-LT-1280x720-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "H2ldgiBPpiVU6YhV6qbFLi7QtalmjisRh7HA3N+krMoSfbw0uMUuAGhWeUwpzKlrZ69nRAzJT3gFr1x51boAbD+lflVvgTcG1JDBiF4r4sKBBWKQ3Oa7Lr86KeWibMelZMj+Sk7DLXg7ggBaWBFuhXHPPqPoYkRbfzuLuRO7fm6NW6zRiBlMQJKz1LHOblO6XYcx2fLDtVefplNV6ADC/aqaGLzZnz320J6Pmn0/M/YnnDiGfa47nNKNi5xL6QUsIJJmDnxxtyLGQJ7Pe4fkK3y+uDHcvZ0rJ7yfZu8RJrNKyvmV9x+YyXEwzC3oWmpfzV9k/j7JXrRSHvefIfRmLezAWVIhqqZCyVpP9On1rOalSMHv+NBNd7wJdb/gCFKIVnUpyMHqGHwLre/C0dpLrciEfEG3yaBuA4+mEY8+L1ResV17JAfI79XVep3gzplK4xcxuX8BtmCH8jHvfCPwxV/nOYIacokEhWRNvfXjNjYOC9/OBKw6sazOSOMtp3B230ZWCMu/AwFDl4dVbupHdw==;1gV/J50/b8zwmb4tnI4Nnw=="
 ---

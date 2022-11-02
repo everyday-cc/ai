@@ -30,20 +30,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 77
-  - title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
-    excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
-    publishedDateTime: 2022-10-28T15:41:00Z
-    webUrl: "https://www.biometricupdate.com/202210/minimum-ethical-and-legal-standards-urged-for-uk-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 56
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
-        width: 1292
-        height: 715
-        isCached: true
   - title: "The Use of Facial Recognition by UK Police Falls Short of “Legal and Ethical Requirements.”"
     excerpt: "The new audit tool was developed by a team from the University of Cambridge’s Minderoo Centre for Technology and Democracy to assess “compliance with the legislation and national advice” on concerns such as privacy,"
     publishedDateTime: 2022-10-30T17:41:00Z

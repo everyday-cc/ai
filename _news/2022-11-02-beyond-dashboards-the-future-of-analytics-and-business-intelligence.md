@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboard
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,7 +40,21 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Applying human intelligence to AI-driven data analytics is the fuel that drives the growth for our clients’ brands"
+    excerpt: "How 81qd is helping biopharmaceutical companies improve patient outcomes by leveraging RWD (Real-World Data), AI (Artificial Intelligence), and (HI) Human Intelligence."
+    publishedDateTime: 2022-10-31T19:54:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/sponsored/applying-human-intelligence-to-ai-driven-data-analytics-is-the-fuel-that-drives-the-growth-for-our-clients-brands/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 17
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/10/MMM-Podcast_Oct2022_81qd-003-1280-x-900.png"
+        width: 1280
+        height: 900
+        isCached: true
 
-secured: "+VX9g1thAxks1u8kom+Gu3AcLJoBKJ/Nh5kzvt1PdrmZUsEE6buCt7/j7o0HYihHajK/7YMNoF0MsV3bgp1T3E4vEVcRVOqIJeCtG+2vY8a0Fjw0cEbMnT/1BcQxjBoZg9am9OGLGNZJ15julISs5B9jzaMPJHNQ3TUZ7xqpWvQBXkKNimCLq1DIMjvijIwHM7nlo50Mwzv4qsyMFpfddtzggNZKveEMotEN/JePhpYqLFZEJgjJHt3+OqNcDw4tAIGgMvJc++8LKcB/iC8sBaW/8Yl3i8djNGJ4QZI3x9hBiSkD5S/DKhWWxE1QYEyi2O1msPf9qKy5m0WPU7SOusYSylUlhaP2VdSKbpkGUq0=;/2wukVC+/8CyAqvAM2iaaQ=="
+secured: "KwCeemh4l7xcUXAjLFqZGrG8RZel7AvI+vJiaQ7I6nylZk/QbYzYEH8DSSwCZmYH4gzwjbUyaD3INxhlvkyTQlZbz0w6QyfAvbBa27hj/O2nWThbWph447YCl2HV5XGX1++lxN1JQkypvpUnX2eGLapIvnK0BJNjfCrmdys8cyvZl1ELuC6qzS0UYNcsiUKeQgjbPI3yNjTyp934Y2G1Xr9gzCk6aWlJbjGeYeMlCwWGO33ZYv2o4JdBWD68c7wZLs7fdngLo/GmcTfgBe6HLSHBXKPy72cKWqRge2FSFwMQL3DoYtMdAczg04G8U81l+xQ4VWnvyrA2hIdvvrSnCltEWuYVwSPnv0SMDe9gj3QqBW2S58HoeXGd1FCBxSXUV+7FiTVjpFeeaZnEC1bl82DN3KmRejEwmSJFx3YH3fpTOx07oXRJM9ga9pgnX6+LUYJLKOCwefKE3LQZQA5QnCNWsvnYKdhdQRYYKDKahkW8SMChsDEzq6yfxTs+rxUuPWaTMn6AR18t8QPUctPT8g==;DDFVAHClCE6+6jc5UQcVFA=="
 ---
 

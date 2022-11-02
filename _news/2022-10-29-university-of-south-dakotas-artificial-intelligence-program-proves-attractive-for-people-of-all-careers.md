@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-29T11:00:00Z
 originalUrl: "https://siouxcityjournal.com/news/local/education/university-of-south-dakotas-artificial-intelligence-program-proves-attractive-for-people-of-all-careers/article_90f6ff24-96c5-50ea-9e5a-a506ebc81cae.html"
 webUrl: "https://siouxcityjournal.com/news/local/education/university-of-south-dakotas-artificial-intelligence-program-proves-attractive-for-people-of-all-careers/article_90f6ff24-96c5-50ea-9e5a-a506ebc81cae.html"
 type: article
-quality: 2
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/38/c3827a9b-0760-5fdd-a756-fbd86577961e/635c60da4fd34.image.jpg?crop=1711%2C898%2C0%2C156&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "USD artificial intelligence program attractive for people of all careers"
@@ -34,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fpITLeoAG+eg2adLvrz/9lFvvTMRECJcIeCOESyGairuyZsSZY6aizvACgwKsVF+qerJkzv/hy+VmOPxDcFK3eQiZw3zNNAtAhecVWhNVN2Q5Y7VD3mb8dTvQcdmzMnuO1XUUrEs7QnTmOGIBP1neGss83asC87Txk5RFaY0ok9ZzJmXaCf4ACb2eeB+1QvhUGZwg7g9O3w+JhIoTV7d4igLEbrv8qQQilZPdsJhWFI6NH7qILhA2IFvIR8JVpx+U/0ZbfeRWLSHaDcJdPAI15uHQhld0JaO8ApviREos8l96yOI/qwt1YbA55uYtmlo3lulKADvdjpSq0syjX+VGfoPUZz1PVenJECGGAb0mN8dm3z8WIQuVz84xMPmXaWTAntjDyqR6fJLXCK/PK/n+Fr593uEoGKsNLPutLlbeY6wLe1NxgjvB5l6IBAC5gd9/43FkrqrsXx21S9ZMyuXqqpovMHg9EYSqQ17CwOZAR1qWvuajYcWvYM0rmV6/AJwtisshgYhIy2cteNyYKyAgg==;tigXlMwj7MwvMl6rt3je9A=="
+secured: "QyMNaXgUVr+t2/92C17S+mBzQqrpyH+yZmoNi20pEUamzQkTc9EGw/1/Uw4JS2I9ITw68okMtfbpMNf1LhST27jXHWGBkrMerbHWUv7fN4YsZq/P1VXl6Z+lty9xXr79yp6vxLHmjU37fGWYUDbJqS1qpaIcZM/MfGgwYY7geRR50iSNsiYFvrH6+wpIIxEB20mH2qpaMJ7+DVbMQau7cjhvC496WsK+XoFSQ8b9rp8DQ3xQhxSodlDo2HXR0EII/2jXTOK+v2aO/QxA1cYjmZm3JeCZdT1dVWLQY1Nssci2qAl4JfbTDENIbTYqIGizYSqqwdbggcvdatr7S+0M1JUQA7VvWto1CGrd7BIvjn4=;prb7nRUSu8cIPuRhJ/x7fg=="
 ---
 

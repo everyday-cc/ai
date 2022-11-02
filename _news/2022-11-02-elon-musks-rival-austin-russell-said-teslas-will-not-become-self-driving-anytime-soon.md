@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp"
 type: article
 quality: 96
-heat: 116
+heat: 119
 published: true
 
 provider:

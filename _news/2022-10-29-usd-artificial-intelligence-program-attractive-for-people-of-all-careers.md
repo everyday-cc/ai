@@ -34,7 +34,12 @@ related:
     provider:
       name: Sioux City Journal
       domain: siouxcityjournal.com
-    quality: 2
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/38/c3827a9b-0760-5fdd-a756-fbd86577961e/635c60da4fd34.image.jpg?crop=1711%2C898%2C0%2C156&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZZKgMfB+IpeRlEqnU7l7wCqRDKHQ6X+jDoqF2mPF9HLCtJfPvjTL6i37gnSEJePxvd2c4Gu/t8bCNpZ8ZkqlnAlWMFCrKSY1dGDdxnrMmityguRfWKxsSTlEobuxyih5bAP4ZK9fInSbQ2LU0PwdmDUp37wegrua+vudEVaIVIn6w6Z6LZvBQP+kUA0SpBmUyRP4CCWqe7OZQqjajZwQVC9WiwVHKbSfVRl6pf2Y5j+Sb8L2mbuX+OeusET/Ya4BtrMVjZHmb4exGZPNgLOiC1DTPYee6q6ow0TOxwLekYy9wY+2MDIPa9kK0Ok98kj+5hhw+d/jLGtiYPSSRMNKC+zI5wyzg7jMffZTco1j7NafhpyHJMju5bv+uHNxZ8JSlNOJgfHys0MRd3i0sqpQShu4eaRXx4pBdblthzkw8LUhH3Bp0kTSGc1+uRKbslhHcQYAJ18+m3kZAqJXsTtEZdPgr+WlPr6c/JdmgKkEfNwrYTQB67eTRW9rIICFrgMNiP7Xzvtm/wp63M2ntFdRlw==;5rcKOIk5vNeGziyd3ik5ow=="
 ---
