@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Video gaming may be associated with better cognitive performance in children"
-excerpt: "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ..."
-publishedDateTime: 2022-10-24T15:08:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
-webUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp"
+excerpt: "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ..."
+publishedDateTime: 2022-10-24T00:00:00Z
+originalUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
+webUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/child-gaming.jpg"
-    width: 2880
-    height: 1917
-    isCached: true
-
-secured: "mUqPQuQuT0lSHMMwRuFQpvJNRB5tBf5RFoOgsxymTRfbAHRUs7Dbf/WwyO8FAcuEPfeq0pXoluTVKCjjfIAS41hXwzxBqgzpph2sBmW6F2Rh/Paabf77cR5zPb/Sn/UarWYuK1peVbSE2+aAvoo2vLPfSq0Kphq2wTUSH3iwf6IqY5DQgZrVv28VdKnv1TgqrmYRWK6nBjjHAdcB4ra7r58xa/iD5drbc7rHal6J72GjbZtgh8tlguI1CS1b+iiw9/m61ePweP2FqZzp0EUL9GAlW/kWHgek9M0SOWTHRs/v4FCitugagDoIxjxp6HD/CTXqjhLRhSqNB40UJM62Ddh3zg5gmocwIgTA8lSD8M4=;2qG83tiS/08uqtfn/rm3eA=="
+secured: "ubJS1WvaIGJedur8VFeJdzBJDVY01KX0TXWnDsDdH8gZ9tTH29RXNCqX73AaIhRyi9IePe9/3f49b6O4tfp6eZGL2aHD+h/2VoROGmSzfpwimN4vUZzOZK8Q8dg7YNYq02MYUaW6jlvCoOxM5wfEv6Vu8sp+ve2Ssm+aSjHiM910TBTw17lnnrSfH1iDLsH2/gDOoFi9UcK1Vf+LJtrgZP/wbmSPXWWQnyE8PlidIDy8qw5XkpCTLGnDKVn60raEg9Bcu0bs5ck6TUczMrHioAKLO0utsxINhop+Sp2ZufCF39Qf/iFX555/QvIxdGZL9S9vZRHORxzM+SqI/ZeMyLFc1P2UO8+c7lhhwr/G/BQ=;KaTOsdkpyJEYrodnSKxajg=="
 ---
 

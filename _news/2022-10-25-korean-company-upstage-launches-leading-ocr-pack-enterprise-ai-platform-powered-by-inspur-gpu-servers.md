@@ -2,29 +2,19 @@
 category: news
 title: "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers"
 excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ..."
-publishedDateTime: 2022-10-25T09:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25"
-webUrl: "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25"
+publishedDateTime: 2022-10-25T13:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "E6B8LB40dSR5QgLwoAkyaNwMfdYDhw0VXFUaLxEZqcbpCaqrmwPNoWmApPe19HKMkQj8ybTOffo59GzTfhyuc+FQPvB6+Dmh42bRbBVF8cXhSKKIEl7w0+BPjto8FadsyDRbMzamXFEmBQ2yKch7U4KijnxzZleNvCP6dj7w1a73o1Jc3rXqSDQYmLbWRQ74PsItM4umsnllTULdi06Ph/KCaWDQj3XgwLtdgQ2+9YJ4h3jgoO70NpwL7iSSPu2TCYi1/kbevulXFaoavmAGdnR2wqeC85jiICNIHLRZizX2PhMkpCmSbTp6thl/zwwO9x7VXgc961iXUqXPOL9vClZokDmWkG/TxBFNDdp7p0c=;PvLLJY6e5fF5ljlAcfqETA=="
+secured: "zvC/zm9NcdcSWThmNu1NYbUFcl6fY9vBaLq/CXGhKIa94odWffQFIBdRJRtGvPgO5Qniw8mK4zyiAkBfstDXczciJ2R1NdTmEDdymZ5UyJL9D2eQ4g8e0UUZgz7NgS9wjkZXFL9I28J2M279O6Gbe1DPmFjFJwsAD4edoahrITgElByqeCO597OnP1TTxlD/rUxKFEWvCaUjfbm6Dq9jVjO6pw1N+AtaQo9NJsZ6jQ81gcxDDnzC8+6IXFf80ZBJaiGfj9Z0/vn2ss+EkWv5LVUyYhABeeg84lyYB/aGymEKb6kErCjPWLONmwQhICF5g1FGJg17FTStHCGs1DJpGuu59I0lwxhwiqkKBiiSFkM=;DH7vcrz4N+Muq9jAPdHUKw=="
 ---
 

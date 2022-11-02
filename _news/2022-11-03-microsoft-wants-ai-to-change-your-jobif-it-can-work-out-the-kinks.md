@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg"
@@ -81,6 +82,6 @@ related:
       domain: bnnbloomberg.ca
     quality: 36
 
-secured: "XiIgizE3B+wUeVTckg2n4sYy7ONke+OTb5qiVQ6kWbYfEzNDU8t6CgBQlO+Ivz69T4VOQCRArukXnnWdn6zfei0cMtFTvOxH0YEfDX45AejFYxt8vdgVUNHrDjLES8xxDgR23K3eN2Qt+wNrD54RSdVASZWO9Kj/yB7RY321Ovl3JI77h09UBe9wDWbj2euLSuCxlZ6QzHTcsCB2R7Vb6UVIYKp1RitLVL+ZpMt8vvJA8MbgS7ykJy0nMKV/V9Y/e6YIEwyczujQEpnqfiyHHoOoIQY+BY5ZvCb1f2vnZmwP/bE3RZBEaznPbV+lH6nsalzEKPyh0DjUfGD20dQ9p5Tazbb3ipoqd6vUEk40f/c=;Qk1/uBvKtDlAS2B2P0xsQA=="
+secured: "kh9fPq5r5bbJg9sPao+HUAPQ1vWS3hSPbBtvcbD8nj+kt6hbDIFEB2MpNCsF7GN7FqzQkR9p0VST5YY7KpBuBfDpkO62BFpR9VpondJI5X1n0hpJYyEe9HVUlhmtfDsmNLmyB6viJ9sGvx9wWcCH+rkHujQGVbPOivIg/648RD7Ea+HA65KmkeTQwAIPr33C/GPkNefMmhX1jo/tb6hD4vNLbI6FFSJNTfGi1lpFP4sJUzWMmH5vdk2akuUcQiL6qTVdfXcDO9uNfhJczf/ZA5SS3teByFT1lAdGAtWaLXFRqDupwbG5SvQTLAYOf+V4pVK/lIblGOY80QHH22DobnNxDE806bcHZ3TtrmDwbLIwaZmxNv+F+KXm8slWx87q3UuipOs9LF3cCkU0BPWlJnJnZ3keE7tCEpueMtbj2Cvh3SjVatHtZJvqIuUXCzWzNppkc0IGAtM1kGX6HrJAarRy8O9gibzehkJGbFo7gqNtrZkVOeX8rRlqZemLkaFw5QAOR2Sen8bf5Jm9O4SrrA==;ewpOhQAmTnY4g5/zj2UNcw=="
 ---
 
