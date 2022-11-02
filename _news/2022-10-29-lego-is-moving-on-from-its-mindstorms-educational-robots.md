@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mind
 webUrl: "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lego to discontinue Mindstorms robot line at the end of 2022"
-    excerpt: "We have seen some pretty incredible creations incorporating Lego Mindstorms over the years. A recent example and arguably one of the most impressive was this fully"
-    publishedDateTime: 2022-10-28T18:51:00Z
-    webUrl: "https://www.techspot.com/news/96484-lego-discontinue-mindstorms-robot-line-end-2022.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-28-image-12.jpg"
-        width: 2381
-        height: 1340
-        isCached: true
   - title: "Lego is discontinuing its educational robots from Mindstorms"
     excerpt: "It has been reported on several Lego fan sites, including Brick Fanatics and Brickset, that Lego will no longer be producing its Mindstorms kits. These kits were designed to allow children and adults to build robots out of Lego components such as bricks,"
     publishedDateTime: 2022-10-29T10:24:00Z

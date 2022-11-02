@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "This Video AI Startup Aims To Be A Global Success Story From India"
+    excerpt: "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. It was when Vikram Gupta discovered that video AI (artificial intelligence for video surveillance) could become a game-changer in different industry verticals that Awiros ..."
+    publishedDateTime: 2022-11-02T10:55:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1667384039-Untitleddesign-2022-11-02T154257643.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Artificial Intelligence Company AIEGS AI Launches its Mobile Application for the Android Users in India"
     excerpt: "In this fast-paced technology race, Artificial Intelligence is overtaking the world and creating an easy process for everything."
     publishedDateTime: 2022-10-31T06:17:00Z
@@ -41,6 +55,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "3 Ways AI Can Help Your Startup Be More Successful"
+    excerpt: "From automating processes to improving talent acquisition and employee performance, utilizing AI can help your business become the best it can be."
+    publishedDateTime: 2022-11-01T21:35:00Z
+    webUrl: "https://www.inc.com/joel-comm/ai-business-startup-grow-successful.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "sXi4p84ZlKqAf0ptvPNrGVyKrkF59wZGZDbSKSVYMiPasydEr/y+hU9WEUMBJ7OQ3oT0B1u9GCXF7AfidE8H+PrwX2ofEUSaeX0JcjGb3TGciLwBpRShX7dZvAkNgr4RH/5BKllCyjfZW6HJnhZFXIvT6vtA4YTgErgxlo7pYSfb1RRCRra54QinwNyV94rSN0BB9j+yGKq779Mp94SOWIQU8gLupTUkMX6p2vhBOGyFcE5yNffGXlCbirXVDjy+WGJc79UBYXmNNhMnoCP/ryeFM1UK8pL1stn8gAC7h1U0qjffa2XZ5jOIdN6cAobGvjgPXbQhwo6H6Q0KpF2bvcM2CTypnEvgoRcf5THyMjGSvQFqEZnxuxyCUNlpasoaVwO1x4MJuZTEJkTi2Cc0jbMqeMsIs1d5wfqXjYsbSpuCV9+d/b4nkDYLILAx6JBXzhG2teBmt11WnSroc50a/8w//SSgh7fuD295j34dgBMLlH9l0U8+/+OBm/w2CAnS3b2mOiRULLZUrlylywhb1g==;qatsDtwnNHuek55XBnD9Eg=="
 ---

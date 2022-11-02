@@ -238,50 +238,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-31-startups-of-artificial-intelligence-and-unreal-impact.md",
-      "title": "Startups: Of artificial intelligence and unreal impact",
-      "excerpt": "Artificial intelligence is doing the unthinkable. At a time of evolving business models, AI enables businesses to rethink their strategies and adopt a more humane way of instilling enablement. Everyday examples of such enablement include automated cars,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/",
-      "originalUrl": "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2022/10/ANI-20221031070740.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp",
-      "publishedDateTime": "2022-10-31T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
       "title": "Today’s news in 10 minutes",
       "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
@@ -394,7 +350,7 @@
       "originalUrl": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -639,10 +595,10 @@
     {
       "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
       "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
+      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -652,12 +608,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T05:31:00-07:00",
+      "publishedDateTime": "2022-10-27T06:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1423,6 +1388,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028.md",
+      "title": "Artificial Intelligence (AI) Robots Market Survey Report 2022 Along with Statistics, Forecasts till 2028",
+      "excerpt": "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028-2022-10-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028-2022-10-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 90
 published: true
 
 provider:

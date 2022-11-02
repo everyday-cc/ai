@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Lego to discontinue Mindstorms robot line at the end of 2022"
-    excerpt: "We have seen some pretty incredible creations incorporating Lego Mindstorms over the years. A recent example and arguably one of the most impressive was this fully"
-    publishedDateTime: 2022-10-28T18:51:00Z
-    webUrl: "https://www.techspot.com/news/96484-lego-discontinue-mindstorms-robot-line-end-2022.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-28-image-12.jpg"
-        width: 2381
-        height: 1340
-        isCached: true
 
 secured: "zUsiHGzcxT1/TOVoMKK96LEp/856PThA3P3S0Gnmn4Iq+px2ZNn00+HmTleUo2W1Dnz0tzFT+n6InOTO2Ku61aKc7vgmIPymScJJE3MqOXXbMomZ3kqq9LLUKu8oVkkf69DqAoHTY3N7IJPYXoIsVGXIy5bml4Hj1A1uKtFQOIe6n0U7BAfSNh8r0L/K3ZZA5yIvzPK1eAm8+Q9pivXxQ0piCZbw4eoqvVCSq/bgKEs5ZI5SDPNZRe/DJ8qS2IUM+6dK2QGwbBwY5NzvK7XWpNdI8ge2pN9oouFHPN3h8oHfugwLKdCMLW49279QgzD1Ok81RgfdxW5URJYGCgQmBMrXh44pfnXqtFfIY2fM4aExDsCgwP8BoESm85D7tLuUWGzeor3uF8ujIOIBPGjrag/OO+7dfZU3n6mp8mrsXlminRLBYG0feMK+aNu7a6QAbUt9vL6Dv6VL6rOWwNc9Nvog3ROq9TozLldGcUSufVswxVGLDIvlTy/BhUHIuARVvvau3w5hEu4pvGW57TBXzw==;t2mvp7q+e0XSHbPjLImK/w=="
 ---

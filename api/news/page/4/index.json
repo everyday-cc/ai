@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-28-its-time-to-admit-self-driving-cars-arent-going-to-happen.md",
+      "title": "It’s time to admit self-driving cars aren’t going to happen",
+      "excerpt": "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864",
+          "width": 1200,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "publishedDateTime": "2022-10-27T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence.md",
+      "title": "English-learning startup ELSA launches Speech Analyzer to help people gain conversational confidence",
+      "excerpt": "ELSA is based on mid-Western American English as the standard most often used in business, education and everyday settings. Speech Analyzer is free.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/3-1.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
+      "publishedDateTime": "2022-10-27T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-microsoft-previews-vision-studio-for-working-with-azure-computer-vision-api.md",
+      "title": "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API",
+      "excerpt": "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform.",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments.md",
       "title": "Argo AI will cease operations as Ford and Volkswagen pull investments",
       "excerpt": "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,",
@@ -295,6 +443,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
+      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
+      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
       "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
       "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
@@ -343,40 +534,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
-      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1107,152 +1264,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-uaes-minister-for-artificial-intelligences-praise-for-jaishankar.md",
-      "title": "UAE’s Minister for Artificial Intelligence’s praise for Jaishankar",
-      "excerpt": "Omar Sultan Al Olama, Minister of State for Artificial Intelligence, United Arab Emirates virtually joined in CyFY2022 organised by Observer Research Foundation (ORF) on October 26. While commenting on managing UAE’s geo-political headwinds,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/videoshow/95107771.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/videoshow/95107771.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-95107771/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/amp_videoshow/95107771.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/amp_videoshow/95107771.cms",
-      "publishedDateTime": "2022-10-26T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
-      "title": "Volkswagen no longer investing in self-driving startup Argo AI",
-      "excerpt": "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-a-new-genome-sequencing-tool-powered-with-our-technology.md",
-      "title": "A new genome sequencing tool powered with our technology",
-      "excerpt": "Genome sequencing provides a more complete description of cells and organisms, allowing scientists to uncover serious genetic conditions such as the elevated risk for breast cancer or pulmonary arterial hypertension. While researching genomics has the potential to save lives and preserve people’s quality",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
-      "originalUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_card.max-1300x1300.png",
-          "width": 1300,
-          "height": 728,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

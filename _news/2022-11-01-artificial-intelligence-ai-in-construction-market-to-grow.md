@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Witness Huge Growth by 2028 : Nvidia, Google, IBM"
-    excerpt: "Pune, Maharashtra — (SBWIRE) — 10/28/2022 — The Latest Released Artificial Intelligence (AI) in Healthcare market study has evaluated the future growth potential of Global Artificial ..."
-    publishedDateTime: 2022-10-28T17:23:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-witness-huge-growth-by-2028-nvidia-google-ibm"
+  - title: "Artificial Intelligence in Security Market to grow by"
+    excerpt: "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe."
+    publishedDateTime: 2022-11-02T10:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 53
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 56
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Twitter-Musk-Social-Media-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg"
+        width: 400
+        height: 225
         isCached: true
+  - title: "Facial Recognition Market Will Play a Significant Role in the Future of Security and Surveillance"
+    excerpt: "As per the report published by Fior Markets, the global facial recognition market is expected to grow from USD 4.2 billion in 2020 and reach USD 12.84 billion by 2028, growing at a CAGR of 15% during the forecast period 2021-2028."
+    publishedDateTime: 2022-10-31T12:50:00Z
+    webUrl: "https://techbullion.com/facial-recognition-market-will-play-a-significant-role-in-the-future-of-security-and-surveillance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
 
 secured: "CHI8i0/B5OTCg2YbA6iEomubK+tDEhubr+ZpPHhxoLXs9u1ngyBAj8bkN8YOb/T4IplGRJufJVOOdWfcwbdDBCUisnF6+Bc8TKj2IUndd8Dhoe4SuZ2qPBneDvFIjvLIq3zmhXRXnvi0rryRXZYtGrrbMY27pln/KcFvgMj+z3V1xvLWKywyAOClH5zgacTvYYo+5jNcIwpTJkomlXy+vkbA1HyvCVaxSovmdonOJbtuzcudevG2EpAjposq5ht42zBiM+sqY6XEwr57pJdsBAgL1f8EJbAO+hwGK+nJwhNzNPqB1Ea+EHrVWEoihO26sKff7VnaP6nPx89y03+Tmrm4Oe16j+1jjLThwVF3u8QcN/O3BwwycbyEe0rbX6r2oVzQxEnwoxAuzNTCnMApgYHjTsCJnpWfvl8TsKVSiJP/KeBPvR0xSxd1I5+FVhtq8I+wF3C35HZyxY2QS/wpecSV90/fSE4VDPX9MN/2u06sTMtxoxaIh1RFl4gUJzUMSZnzHuv21leBYAEHZKZT2g==;cD+GqCToXGFL18Tbn8gqRQ=="
 ---

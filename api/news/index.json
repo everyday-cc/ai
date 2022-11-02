@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics.md",
+      "title": "MIT and MIT-IBM Watson AI Lab help machines see better using spatial acoustics",
+      "excerpt": "Researchers at MIT and MIT-IBM Watson AI Lab have created a technique that allows machines to better perceive their immediate environment. This is done using a machine-learning model that accurately captures the way sound interacts with an environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/11/MIT-Research-Sound.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
+      "publishedDateTime": "2022-11-02T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-artificial-intelligence-in-security-market-to-grow-by.md",
+      "title": "Artificial Intelligence in Security Market to grow by",
+      "excerpt": "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-this-video-ai-startup-aims-to-be-a-global-success-story-from-india.md",
+      "title": "This Video AI Startup Aims To Be A Global Success Story From India",
+      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. It was when Vikram Gupta discovered that video AI (artificial intelligence for video surveillance) could become a game-changer in different industry verticals that Awiros ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1667384039-Untitleddesign-2022-11-02T154257643.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-tesla-reluctantly-gave-full-self-driving-beta-demo-to-dmv-and-critics.md",
+      "title": "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics",
+      "excerpt": "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
+      "originalUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/fsd-pole.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
+      "publishedDateTime": "2022-11-02T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-singapore-startup-looks-to-shine-light-on-solar-energy-affordability.md",
       "title": "Singapore startup looks to shine light on solar energy affordability",
       "excerpt": "Solar AI Technologies hopes its \"rent-to-own\" service will help drive the installation of solar panels amongst households in the country, where adoption of the renewable energy remains low due to hefty upfront costs and lack of confidence it can be an alternative power source.",
@@ -85,6 +275,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027.md",
+      "title": "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027",
+      "excerpt": "Attractive Opportunity: Supercharge your Visualization The industry participants extensively focused on leveraging",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -196,49 +438,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-tesla-gives-demo-to-california-dmv-probing-self-driving-claims.md",
-      "title": "Tesla Gives Demo to California DMV Probing Self-Driving Claims",
-      "excerpt": "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims",
-      "originalUrl": "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-lot-1200.jpg?itok=GC9i4pxI",
-          "width": 470,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Transport Topics",
-        "domain": "ttnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -905,7 +1104,7 @@
       "originalUrl": "https://venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -956,7 +1155,7 @@
       "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1007,7 +1206,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1047,196 +1246,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-sony-a7r-v-hands-on-sonys-high-resolution-shooter-adds-ai-smarts.md",
-      "title": "Sony a7R V Hands-On: Sony's High-Resolution Shooter Adds AI Smarts",
-      "excerpt": "We took the Sony a7R V out for a photowalk along Manhattan's photogenic High Line to see what the high-res camera could do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/sony-a7r-v-hands-on-sonys-high-resolution-shooter-adds-ai-smarts",
-      "originalUrl": "https://www.pcmag.com/news/sony-a7r-v-hands-on-sonys-high-resolution-shooter-adds-ai-smarts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02qxtVGsyR6RJI5nLgxiEuq-1.fit_lim.size_1200x630.v1666985294.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-university-at-buffalos-robot-dog-contributes-to-ai-research.md",
-      "title": "University at Buffalo's Robot Dog Contributes to AI Research",
-      "excerpt": "A yellow quadrupedal robot nicknamed Yubie, branded Spot the Agile Mobile Robot, is wandering around campus helping researchers study robotics, computer science, artificial intelligence and other high-tech fields.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/3d04f07/2147483647/strip/true/crop/1000x521+0+72/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F37%2F94%2F85761bbc4a8e928c7748a81f7fd6%2Fspot.png",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
-      "publishedDateTime": "2022-10-31T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-researchers-plan-to-use-ai-to-better-understand-and-treat-brain-tumors.md",
-      "title": "Researchers plan to use AI to better understand and treat brain tumors",
-      "excerpt": "Medical doctors are collaborating with computer scientists to improve care for patients with cavernous malformations, some of the most difficult-to-treat tumors in the head and spine.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-brain-tumors.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-brain-tumors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/lsu-researchers-use-ai.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-brain-tumors.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-brain-tumors.amp",
-      "publishedDateTime": "2022-10-31T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker.md",
-      "title": "Cost efficient ML inference with multi-framework models on Amazon SageMaker ",
-      "excerpt": "Machine learning (ML) has proven to be one of the most successful and widespread applications of technology, affecting a wide range of industries and impacting billions of users every day. With this rapid adoption of ML into every industry, companies are facing challenges in supporting low-latency predictions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/cost-efficient-ml-inference.jpg",
-          "width": 1341,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T13:33:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

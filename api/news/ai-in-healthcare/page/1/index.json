@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-artificial-intelligence-in-security-market-to-grow-by.md",
+      "title": "Artificial Intelligence in Security Market to grow by",
+      "excerpt": "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-beyond-dashboards-the-future-of-analytics-and-business-intelligence.md",
       "title": "Beyond Dashboards: The Future Of Analytics And Business Intelligence?",
       "excerpt": "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need.",
@@ -34,6 +78,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027.md",
+      "title": "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027",
+      "excerpt": "Attractive Opportunity: Supercharge your Visualization The industry participants extensively focused on leveraging",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -138,50 +234,6 @@
       "topics": [
         "AI",
         "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-startups-of-artificial-intelligence-and-unreal-impact.md",
-      "title": "Startups: Of artificial intelligence and unreal impact",
-      "excerpt": "Artificial intelligence is doing the unthinkable. At a time of evolving business models, AI enables businesses to rethink their strategies and adopt a more humane way of instilling enablement. Everyday examples of such enablement include automated cars,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/",
-      "originalUrl": "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2022/10/ANI-20221031070740.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp",
-      "publishedDateTime": "2022-10-31T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
         "AI in Healthcare"
       ]
     },
@@ -1391,49 +1443,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Healthcare Diagnosis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 111
 published: true
 
 provider:

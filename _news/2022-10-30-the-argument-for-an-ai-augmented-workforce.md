@@ -38,7 +38,7 @@ related:
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/01/image/jpeg/3AAj3tcVr0qksGHrVPoLyezVrdZB9luADq2K86Iv.jpg"
         width: 1920

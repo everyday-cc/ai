@@ -5,9 +5,11 @@ excerpt: "It’s never been more important for companies to ensure that their AI
 publishedDateTime: 2022-11-01T11:50:00Z
 originalUrl: "https://www.technologyreview.com/2022/11/01/1062474/how-to-survive-as-an-ai-ethicist/"
 webUrl: "https://www.technologyreview.com/2022/11/01/1062474/how-to-survive-as-an-ai-ethicist/"
+ampWebUrl: "https://www.technologyreview.com/2022/11/01/1062474/how-to-survive-as-an-ai-ethicist/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/01/1062474/how-to-survive-as-an-ai-ethicist/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "pS8De3rfVeysCg+ZBOVIe1bsf+qOxHm4I1lZerUg+fyIGOGFFHuJTXr17LMF39/uR2FwT9GGTaV9qBFCqYTaJnuwrhK1xFaRr3bNoO6VMVNwQeiwPk7QtQnWMKtzASKFlhgd/ufR9wbYX2wdf8wkjFZrws/lWekpICHKBfBStLu1m/YiHKXz4LafvrJszIpl2jrbSn0fMPfsB+KgpQfEYQ+1cIpMtzPEjTs8UF7YhRqodKWC0LKj6GNA233jsRGVDPlqv9pn28Se8prCxfkEjYqh0yP/8BxgVlF55ZF4qUrhRrQsLTMKqMYCFqY1Q1dcxr/6VX7aiEGlbBSHbqV651IVVtwe0u2/20UAD1++IS4=;L8cJocBgbui2ZsLfxNuUUQ=="
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/10/burnout-AI2.jpeg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
+
+secured: "yv+gOPygDnP9XfixhnJ9Qv4m7QvHwzCJ+uSfjDIIxMpVB+/dGHvF5GwxTqTsOVcyyNAcIpoTR2l86wTsZpEjwhbulN8XvDzq+SLXmrmeTrkKTwx/zeSMvxrDcD9G5xiTANbJzUnD2vjgJA9MJtHN06/zzIQRaPxIzMeJT/05TCEjHu8vQ1DjEGHOad8Y4giB8mnRPQvYFx7Oj/oXKWStxIRNEy/j62CvGbszg9XvFqVPIBpg2T4mCYvh0ZPpmC3wyZHNM7yPNjAACduEmOOc/AeSfQD29j5+Tz7J5wcCLmjjeudGSL5wIQ3DbsYxyQxicQKlPOZr+9t29E2CeCorEyoDC6AbFx1DP2AjBACx0JU=;5W2RhmJA/lBWOxz2oayrvQ=="
 ---
 

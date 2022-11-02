@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-14-saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions.md",
+      "title": "Saudi govt authorities, IBM join forces to reduce kingdom’s emissions",
+      "excerpt": "Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM announced the signing of a strategic agreement to drive adoption of artificial intelligence in the carbon capture and industrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions-through-ai/",
+      "originalUrl": "https://gulfbusiness.com/saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/ekrem-osmanoglu-Uor3RZNHZ9E-unsplash.jpg",
+          "width": 930,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
       "title": "Saudi Data and AI Authority and Ministry of Energy partner with IBM",
       "excerpt": "This is the first use case as part of a strategic agreement with SDAIA & Ministry of Energy to partner with IBM to reduce carbon emissions across the country. The AI technology developed with IBM’s will enable the detection and management of Carbon ...",

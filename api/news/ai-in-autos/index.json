@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-02-tesla-gives-demo-to-california-dmv-probing-self-driving-claims.md",
-      "title": "Tesla Gives Demo to California DMV Probing Self-Driving Claims",
-      "excerpt": "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event.",
+      "path": "_news/2022-11-02-tesla-reluctantly-gave-full-self-driving-beta-demo-to-dmv-and-critics.md",
+      "title": "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics",
+      "excerpt": "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present.",
       "sourceUrl": null,
-      "webUrl": "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims",
-      "originalUrl": "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims",
+      "webUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
+      "originalUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-lot-1200.jpg?itok=GC9i4pxI",
-          "width": 470,
-          "height": 246,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/fsd-pole.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T14:00:00-07:00",
+      "ampWebUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
+      "publishedDateTime": "2022-11-02T03:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Transport Topics",
-        "domain": "ttnews.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -209,7 +218,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1055,6 +1064,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-25-vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials.md",
+      "title": "Vitamin-powered batteries: how ‘self-driving’ labs are using AI to develop remarkable new materials",
+      "excerpt": "It can take many years for a new substance to get from a successful lab experiment to a solution ready to roll out across the world. But AI can be used to sidestep this bottleneck",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/26b842453095a3ed54f895bad5493df2a6fec192/0_240_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=aac2bdbdbf137bae219f1e48acf93394",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "publishedDateTime": "2022-10-25T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
       "title": "YOUR HEALTH: Brain-like AI, no internet needed",
       "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
@@ -1414,58 +1475,6 @@
         "name": "BBC",
         "domain": "bbc.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
-      "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
-      "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "publishedDateTime": "2022-10-20T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

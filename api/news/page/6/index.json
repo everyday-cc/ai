@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-26-words-face-recognition-supported-by-1-brain-hemisphere-study.md",
+      "title": "Words, face recognition supported by 1 brain hemisphere: study",
+      "excerpt": "Research shows how words, face recognition can be supported with a single brain hemisphere Research findings, published by University of Pittsburgh researchers in the Proceedings of the National ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "originalUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/12/02/191202-brain-networks_16ec6b5e666_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "publishedDateTime": "2022-10-25T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029.md",
+      "title": "Cloud AI in Fintech Market : Competitive Strategy Analysis and Forecast Values 2022-2029",
+      "excerpt": "Cloud AI in Fintech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-aizen-global-to-introduce-ai-banking-service-at-singapore-fintech-festival.md",
+      "title": "AIZEN Global to introduce AI banking service at Singapore Fintech Festival",
+      "excerpt": "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-intels-mobileye-self-driving-car-unit-prices-ipo-above-range.md",
       "title": "Intel's Mobileye Self-Driving Car Unit Prices IPO Above Range",
       "excerpt": "The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to $20 range previously expected.",
@@ -619,6 +757,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-25-vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials.md",
+      "title": "Vitamin-powered batteries: how ‘self-driving’ labs are using AI to develop remarkable new materials",
+      "excerpt": "It can take many years for a new substance to get from a successful lab experiment to a solution ready to roll out across the world. But AI can be used to sidestep this bottleneck",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/26b842453095a3ed54f895bad5493df2a6fec192/0_240_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=aac2bdbdbf137bae219f1e48acf93394",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "publishedDateTime": "2022-10-25T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
       "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
       "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
@@ -1006,187 +1196,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
-      "title": "YOUR HEALTH: Brain-like AI, no internet needed",
-      "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "originalUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/mJT1ZA4do6crwyKcA266GlU_m7g=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/56TBXSJTO5AKLMJVGDMLBKZETU.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "publishedDateTime": "2022-10-25T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAFB",
-        "domain": "wafb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.md",
-      "title": "SAS Data Ethics Director Reggie Townsend on Building Ethical AI and Why It Matters",
-      "excerpt": "What is ethical artificial intelligence (AI), why is it vital to the future of technology, and how can CIO’s and business leaders help foster it? We spoke to Reggie Townsend, Data Ethics Practice Director at analytics software company SAS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "originalUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/10/reggie-townsend-100933805-medium.jpg?auto=webp&quality=85,70",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "publishedDateTime": "2022-10-24T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-why-writers-need-to-make-use-of-ai-content-generator.md",
-      "title": "Why writers need to make use of AI content generator",
-      "excerpt": "The need to make the writer’s content more interesting and attractive with available multimedia content has made technology the right tool for content to stay fresh and relevant. There is a huge responsibility for content writers that their content should be unique,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "originalUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/10/pexels-startup-stock-photos-7112.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "publishedDateTime": "2022-10-24T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-the-value-of-artificial-intelligence-isnt-just-insights.md",
-      "title": "The Value Of Artificial Intelligence Isn’t Just Insights",
-      "excerpt": "The impact of AI will take time until it is felt, argue Aja Agrawal, Joshua Gans, and Avi Goldfarb, co-authors of Power and Prediction: The Disruptive Economics of Artificial Intelligence. Right now,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63575c205665bd66e7a133f3/0x0.jpg?format=jpg&width=1200",
-          "width": 933,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
-      "publishedDateTime": "2022-10-24T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

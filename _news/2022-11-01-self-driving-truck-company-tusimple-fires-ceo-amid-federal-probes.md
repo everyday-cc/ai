@@ -3,8 +3,8 @@ category: news
 title: "Self-driving truck company TuSimple fires CEO amid federal probes"
 excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
 publishedDateTime: 2022-10-31T20:43:00Z
-originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
-webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
+originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=mw_latestnews"
+webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=mw_latestnews"
 type: article
 quality: 54
 heat: -1
@@ -58,6 +58,22 @@ related:
       - url: "http://images.wsj.net/im-656515?width=1280&height=720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "American Self-Driving Truck Startup Fires CEO Over Chinese Ties"
+    excerpt: "The startup, which in 2021 became the first company to operate a self-driving truck on public roads in America with no humans aboard, said that an investigation launched by its board showed that some of its employees had spent paid hours working for Hydron Inc."
+    publishedDateTime: 2022-11-02T11:20:00Z
+    webUrl: "https://www.carscoops.com/2022/11/american-self-driving-truck-startup-fires-ceo-over-chinese-ties/"
+    ampWebUrl: "https://www.carscoops.com/2022/11/american-self-driving-truck-startup-fires-ceo-over-chinese-ties/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/american-self-driving-truck-startup-fires-ceo-over-chinese-ties/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/11/TuSimple-2-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Self-driving truck startup TuSimple ousts CEO over ties to Chinese rival"
     excerpt: "Self-driving truck biz TuSimple fired co-founder and CEO Xiaodi Hou on Monday amid what's reported to be US federal investigations into whether he inappropriately assisted and shared blueprints with Chinese startup Hydron."
@@ -131,6 +147,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "46fdDKfAubf6fuszt+CCj50HvPOJPqtHzFjAFJpuZ/tYugwbkMl2QmP+cIm/IB2YSYxBMTtRFYiNliA4inQbmMzrhmWgwaHxb38PDmpR605nwuOWdGnUgV0CFHrKgnKe6fPGp7Ph5oaTUTPuoEJPiyCTFV46d7y+F2xQh4rQtWcFgtbGwVBltpvVDjExpz+g6ElKmQniF1mkqt58xoCIJj6t9Ho0k3soQD3YGfGqNiT3qWPACdN0k5Qc6skJABQgfNLhV2APA97mL/XP8SIRr6ZdL8rSd6b+FmUN+SV0DsYJ5buzPSl6ecvv7vGdU0FUkP5mKbzM6/mfQ/xruLwBdfkRylbNH0mbqtQbSbpdwJ4=;7la+bX/X85+y/eJpXbPq0g=="
+secured: "Odj9CGIlcdidWVMbMlsnU1YJQDm720O5e+1SWaea6x/s4zxBSeEsV8LyrqtrHL2hdt2p5rZvMndXGKrJXgaBou373EfSoAaQHd0MApT56kUMpFiuH36VobLdUxbXSpdMtPXOjiBRG2WkkgdjvIMtdo/+51/c4LonbSKp2PDqTxRhPoZwPScNNOrF+7AbRj7Fi+6DnmdWmmH1Cl+IVIzs3mZGFvR04J5o50nNolCg2Yxop2rzH34tv/JhZzOYwIvjNCdx0INXdjaQXhnc322OqsXoS0r7irUpqOmPNdAY9J5F7vh2d8Ks3mO58/s08iJXHS2DzA8116qM+beRe6qRGe2bjz3qsX1jVKextK1mQf0=;UeGysbputrb8khdafDjz4Q=="
 ---
 

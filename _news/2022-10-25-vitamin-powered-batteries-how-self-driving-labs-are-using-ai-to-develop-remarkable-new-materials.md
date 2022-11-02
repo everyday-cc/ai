@@ -3,14 +3,11 @@ category: news
 title: "Vitamin-powered batteries: how ‘self-driving’ labs are using AI to develop remarkable new materials"
 excerpt: "It can take many years for a new substance to get from a successful lab experiment to a solution ready to roll out across the world. But AI can be used to sidestep this bottleneck"
 publishedDateTime: 2022-10-25T15:09:00Z
-originalUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials?amp;amp"
-webUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials?amp;amp"
+originalUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials"
+webUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials"
 ampWebUrl: "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
   name: The Guardian
@@ -30,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "zDufP6LxYu9d+368wRry4Mk2K0d0QLW9QsmIDi8Nj5pmxT/dV7mNOhIixbByzVWuNBvtTWgS9oQKWqpNDBmDO+jMyU1SLdLzsmeo577wef+jgUPdbM7AADhfrR4ossRml3pBW0/gaTp5B7mAdZcCp44zRdCO44g1TBhlLCfTxTBqYkcJYFLDkusqLF/FZD1QB4tCrNqK9Vz4swU1GL84I+PNF1427Cz49QklRT0fn/6clNt6AUwYttQUqFKctQm9iFqIlmGvXcp/GDJ/FeXSbnCTiSJhcD3I9BbjyQYG1tdPwJwt1lf0Hwinf8oHxezOWxr0fP148k1gSTM+SJioKkSCNuZApj04sFvy8aPoj8c=;bJCnIyPmptjBmKr34vWpUg=="
+secured: "I5hyH2RVPlIu83giKmBHhPySkOV85+YoRLa1swM30SedN4xlwz7Zdu3QiW7xFLIXNttbu+ZLwQcGQ+h+u77WX8jEqqeThZs9Pl+VD/oUSwNBrjGOyglIrbLEBu/xwzEiKenQjfvi8YoHl9XPFDfBt+fmjgEZFLOonlXUpy9uKeKfDtH1/BlhDIY+Tqk7x7y2SeLNNfIyNX++qQaOyMoNwiE2ybWW8aaxlZwbODXIc1Ina/Xpb81igzAL+DcYj5k3B8VvoUoQ3PzcPp6KeUAsC4cRb9Vlpe36Ck8qz4dOKzEmYl+aEO4dDDLsAuY+UvuTBRjrIXse+TILWyQpFHNu2T831H2WJgH8V+k/+hjH6v0=;hfyRufgZbVUvqMzkCgR+Ew=="
 ---
 
