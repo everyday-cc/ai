@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Japan's capital begins same-sex partnership recognition"
-excerpt: "Japan's capital, Tokyo, began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed."
-publishedDateTime: 2022-11-01T16:29:00Z
-originalUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
-webUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
-ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
-cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
+excerpt: "Japan's capital has begun issuing certificates recognizing same-sex couples, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed"
+publishedDateTime: 2022-11-01T15:53:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+webUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-    width: 1020
-    height: 574
+  - url: "https://s.abcnews.com/images/International/WireAP_a0d053bbdb524cd3b755673c23e2df9a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "pBjst/iLusaZjHNflEYb+yeCCiY9ExKVP+kjSJ+OCE7yFh6xT+QlWNDOzwVmHWzup46Yj0q5Pl59xlhEGZ3vlZ8W7TjSgPiPOXZEaJ2rdwu/bHxjur4GzZixHI11Io3vPrBDUi8ssEAsdnaG8kzxV2/Paf7nX9dbQt/SbOrIjsItXGH03Gnku/+X+42YvweFILJYVrBIuRnkXUWUysgnp1qeECouP3Ztg49VQZ7o1qmnwDpQs4zSP+NfPPOuqLyrxFrvQyBGfqRfc9fFLiC5HgQCw56TJYjIoGQvC0BvUJnA2o3kavj1JTeovKI11yrnfE/Q4YKsfyrCs0OS1BrIc55YY2MNlBJtrulFyykMbSVXyTNaU7jTM3yWkcKdyZroxwD6JYoAibQZviHQQgc3WWFD6apveM+XKx7qNIIX0foDTtyTNU55opCv26wI+8I975Kjm40bFH/joM3X21G9p7HU7a2MqpboRx3c2VrAzYjDlJzif70T1eAww2K9vIV4wlDaov5DX4Die4tCt4bC2w==;qAYyWyH9hE2bMn20ef3+wQ=="
+secured: "EZobXBJXJsyUix2QPgpq+R+hDtX1aDUufZOlVq3BhFqqIC275VLgLQbHo/EMTVpKOFbNOzVtxNCgLCLy/ovi+kzuvTBe0sWlJ5RgBhJU76U9CjkiPJM1GbaUo4CQ9gN5CpZouugUdbmxbKOQ44nNZVR89c9LYDHaPEE48m7jFiw5UgYpXWZCKH14J9AwAZYwwFIFw3ejcidxVofBUEeKWdHT4Nb4i1h3iPdrFCUH8LkXDDXtJlf4v9cjs5QCuyxdPg5IHRqvQUK+ZCUqxSJkTy3340hTxbkkf/T8+tt9MkNxdMP+vP3MD+GmBYRvkE4h3tUQmv6VH3H+kDfdT4eJVkuPKBMkj74FE7h8ApCxeEk=;JNZ8POuXPbnSu/CpER5ZSw=="
 ---
 

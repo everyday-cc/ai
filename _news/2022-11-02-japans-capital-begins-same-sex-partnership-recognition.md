@@ -44,20 +44,20 @@ related:
         height: 1485
         isCached: true
   - title: "Japan's capital begins same-sex partnership recognition"
-    excerpt: "Japan's capital, Tokyo, began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed."
-    publishedDateTime: 2022-11-01T16:29:00Z
-    webUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
-    ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
+    excerpt: "Japan's capital has begun issuing certificates recognizing same-sex couples, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed"
+    publishedDateTime: 2022-11-01T15:53:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
+      name: ABC
+      domain: abcnews.go.com
     quality: 44
     images:
-      - url: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
+      - url: "https://s.abcnews.com/images/International/WireAP_a0d053bbdb524cd3b755673c23e2df9a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Tokyo’s capital begins same-sex partnership recognition"
     excerpt: "Tokyo's capital began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed. Seven years after Tokyo's Shibuya district first introduced same-sex partnership recognition in 2015,"

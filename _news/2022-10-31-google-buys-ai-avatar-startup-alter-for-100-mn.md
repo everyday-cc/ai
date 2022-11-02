@@ -90,22 +90,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Google bought an AI startup silently to build your Avatar: Know-more"
-    excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
-    publishedDateTime: 2022-10-28T11:21:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 57
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/google-1666955968.jpg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Google buys AI startup Alter for $100 million"
     excerpt: "Search giant Google has acquired AI avatar start-up Alter for $100 million in a bid to compete with short-form video platform TikTok. Google confirmed the purchase to publication TechCrunch but did not disclose the financial terms of the deal."
     publishedDateTime: 2022-11-01T11:58:00Z

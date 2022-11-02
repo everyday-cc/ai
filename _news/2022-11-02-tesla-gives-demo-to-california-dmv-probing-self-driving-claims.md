@@ -7,8 +7,8 @@ originalUrl: "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-pr
 webUrl: "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Transport Topics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla gives demo to US agency probing self-driving claims"
+    excerpt: "Tesla Inc demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
+    publishedDateTime: 2022-11-02T04:21:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/tesla-gives-demo-to-us-agency-probing-self-driving-claims"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1801075.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Tesla’s Full Self-Driving 10.69.3 Update Is Full Of Big Changes"
     excerpt: "Tesla customers who have Full Self-Driving technology can be on the lookout for a new update with a lot of big improvements. As of late October 31, FSD Beta version 10.69.3 is rolling out to a small subset of customers."
     publishedDateTime: 2022-11-02T00:36:00Z

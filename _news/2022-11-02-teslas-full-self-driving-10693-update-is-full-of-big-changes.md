@@ -35,6 +35,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Tesla gives demo to US agency probing self-driving claims"
+    excerpt: "Tesla Inc demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
+    publishedDateTime: 2022-11-02T04:21:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/tesla-gives-demo-to-us-agency-probing-self-driving-claims"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1801075.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "mlGGEpAIT8NQqy+mZ/L9LRkRJ/AXpJKwXJHHr7TmaQtGlT5HcDPrNH1Cf8uOjcedHxcT1y6n5MiiILNlKzXhLFzmCjw4f+7XfZgkThqqe683WEkRND220+dx0KuWSwyNXUbUFQ7kGSz/ZlgCPCGdB1I4MLuRc7UjTJzCySNhOLJjSfVXZjToHRpBjLZ9pHuJ531gupa+aSCqnsau5ztRrLNi8RapGYBV0Qgl5qrMckOzVkQsY36Oe3mEClMT1xUaVOwqiHbKXSrt9iEiP1W5coFgSCWCy+aMQzXK8/s0K+zZQPPiUSvGDwyjhZ/EmW3TC3SqUn5JM7lThKkurEWzimkt/oIpfwFHl0HaZm6KsDpHwWku/d0TcQJjr9V3Yt2n/LVy1lGwAv9lfwGGexkgm3ndttj8fL375Jv06KXjUOlskeQolbw06tD9yRyHjT5qxvsr8vfeAoIgEcsECRv86wKixGBnQgL6LhtzKcBj99Lkia3TWXf6FU1LAWGwQgkwqGVv8+Ey/14AFCz7QiMyMw==;4ab4xkeBt7wMyolvGOp+vA=="
 ---
