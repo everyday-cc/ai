@@ -7,7 +7,7 @@ originalUrl: "https://www.ncronline.org/news/summit-explores-role-ethics-develop
 webUrl: "https://www.ncronline.org/news/summit-explores-role-ethics-development-artificial-intelligence"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 560
     height: 350
     isCached: true
-
-related:
-  - title: "Summit explores role of ethics in development of artificial intelligence"
-    excerpt: "Universities around the world are taking steps alongside major technology companies to explore ways to bolster ethics education in the artificial intelligence field in line with an initiative supported by the Vatican."
-    publishedDateTime: 2022-10-28T09:46:00Z
-    webUrl: "https://cruxnow.com/vatican/2022/10/summit-explores-role-of-ethics-in-development-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Crux
-      domain: cruxnow.com
-    quality: 53
-    images:
-      - url: "https://wp.cruxnow.com/wp-content/uploads/2022/10/20221027T1020-UNIVERSITIES-AI-ETHICS-1750934.jpg?w=1200"
-        width: 1050
-        height: 631
-        isCached: true
 
 secured: "m0KZcJbvIw0b+vtduM54e5Etj/79SpVBgDFRjoxb22OMcOR4WAJijJicVkySdgKGPunql38J+RgdWdSZpDRzXf0hqwkTpDxKa94rf+kg7LYXWJ0Sd4iCVdsv+FoM3kRfTu+Gg5XFF0FQoTIteYl4HW0L8k5F8pKnTaCMW8UjfkLpg9KKq3gPePucTO+Xe5320XZ8RYN8xUaDwqjnN6bnKXBNk7HbulkhdSfQl53J3MedhRdQGLnaGNV9hknBuk19GT2x1r82Ez9bTqpCxIdqVZ24VN47//SdZiZf7HZ4DVi4+vShVx16Rl8M+mwaICapXDHYtnrBgNgCrXIIpmizTjVa3ow780BjgoQuggOR6S/XPONPfV+gU3vlMaGh3SUFR9QuVQfeeqCQcPpSxhdUNRgzRMSfyGTQgHkKV+faqLx5fo9xSKTUZe13SUB1LZtR1CVKbXP8S9NqOiskQiaoTtzBe7Llw4NZnogQbrM5lAgjcYzZ+D4X1FitNLf2jBdDRYfkiEJE1YWZkrv+xxbl/A==;sXNB8zir5d9k6HON2KQ4XQ=="
 ---

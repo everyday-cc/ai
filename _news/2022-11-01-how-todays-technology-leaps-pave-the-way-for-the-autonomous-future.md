@@ -7,7 +7,7 @@ originalUrl: "https://www.forconstructionpros.com/pavement-maintenance/article/2
 webUrl: "https://www.forconstructionpros.com/pavement-maintenance/article/22444994/paving-the-way-an-automated-future"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The future of empathetic AI in today’s technological world"
-    excerpt: "There is also the possibility that AI ethics can be superior to human ethics. Humans have many cognitive biases, which an emotionally intelligent AI can work to eliminate. How can AI make use of empathy? Artificial intelligence can utilize empathy to make ..."
-    publishedDateTime: 2022-10-28T10:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Iyer.png"
-        width: 318
-        height: 308
-        isCached: true
 
 secured: "dUowoI/Muz+b0N2SqDxoEhBOp7Kyx6BQymkmYdBEhG11yHSiQLmPZSma5cji7rIP9xyeVDhXIqht4sTN8/bKgSELkGmmAvQ10iXOg66OSV9zOuuccmoqnea89pAFdH9VFTZJzJ0ynwZgbRJ8tv+Kh9Rsk5G2P4UptZDd+qnbNPMRfnIP70C3Fa+js0qtVAg97v/nXqXCmZsF/FdzSDAMAx4We6uzLfohFCneFhU9pALjJQdKYfkQIYdAJ1TlZTzOAoGrFm0fgxFgHjYXCcHq7hjwK/z/A2YL15ESpTJdOGLnJ5co8pT/1mznley4K9YdWPVREXp95TWtkkBSpDacTFfkVO138Wx31E6n/PQxm3hQfsbD8MP1TNRd5Dq347kce0xLhRM+3XSL5+DX+0e8hV5CGIFdcLpar159WPZWLMG9+7vV04RSox2jRanOGP8QDGqasNGpKZZx2d4bxTp9IKH5lnwJm9jOLtnrjhoAu52MNaa0IbhBQyoThAw3W45HtdxZUvmcHTf1tDPij92dLw==;spMGipgByE/y1AHcq4+BaA=="
 ---

@@ -33,15 +33,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Baidu’s EV subsidiary Jidu launches special edition of its first car"
-    excerpt: "Jidu Auto, the electric vehicle unit of Chinese search engine giant Baidu, has launched a special edition version of its first vehicle"
-    publishedDateTime: 2022-10-28T09:53:00Z
-    webUrl: "https://technode.com/2022/10/28/baidus-ev-subsidiary-launches-special-edition-of-its-first-car/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 19
 
 secured: "Qx6PAFxf6YWY5zWe0anXI60zLWlYqhFafPQVxU6KkguCPpbClRieb/E27ue629wfq30MD7OzyZPMuA8JQ47sVFr7riqKcmLy4qjOx46YX3yNplyvERVhyYyig97aafB6xabUJPO2KUAOIH7e8r3A4YQLWd9ciHsTfCePDrg3VsIQVu0672vFvx2bIeITaw23jrHJVz3eeN74rlCtefpW0vNiswLjLNLOm/T5IoPAGm+UaSEzkAr0Xx9LcRBXwn1xXU+oIH8EaqePWPrqT2E+svw4+BwjtyiRz+s1OorGyC9SU+uBlEuaeCexUNGPCkrN38j/l3cMvIaZTApRSWd6peBkbTK0VKUkxIexDVJPsk/cs9fRGlC0vyNWaJpejDbFudMCTbhj/kwxCcEub8p0LdZlVTVlWWYHGb9ZyrEqwhJelo1QAWGpztVa2UluMIcOAg2ZDRbFyVpmFYg7rjtVAxyrC0yvSgI7vMPzV1WvTs5cg7E6P2EEJikgeWRy9XzxPRFON4BFI5ZKoqTNRPtqLw==;9e3g3Ylqkiy9SHM3/lGIcA=="
 ---

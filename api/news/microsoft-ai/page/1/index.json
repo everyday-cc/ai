@@ -46,21 +46,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
-      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
-      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
+      "path": "_news/2022-11-02-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
+      "title": "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks",
+      "excerpt": "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,23 +68,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T07:24:00-07:00",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "publishedDateTime": "2022-11-01T12:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -94,7 +85,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -106,7 +98,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {

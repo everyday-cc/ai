@@ -106,6 +106,40 @@
       ]
     },
     {
+      "path": "_news/2022-10-25-artificial-intelligence-ai-in-clinical-trials-market-worth-48-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic.md",
       "title": "Perceptron: AI saving whales, steadying gaits and banishing traffic",
       "excerpt": "In this edition of TechCrunch's Perceptron column, we look at efforts to track Parkinson's progression, stop whale-boat collisions, and more.",
@@ -315,49 +349,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-25-artificial-intelligence-ai-in-clinical-trials-market-worth-48-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Artificial Intelligence (AI) in Clinical Trials Market is projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR of 25.6% during the forecast period",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29399791/artificial-intelligence-ai-in-clinical-trials-market-worth-4-8-billion-by-2027-exclusive-report-by",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29399791/artificial-intelligence-ai-in-clinical-trials-market-worth-4-8-billion-by-2027-exclusive-report-by",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29399791",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29399791",
-      "publishedDateTime": "2022-10-25T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-25-generative-ai-will-impact-every-tool-out-there-says-jasper-ceo.md",
       "title": "Generative AI will ‘impact every tool out there,’ says Jasper CEO",
       "excerpt": "Dave Rogenmoser, CEO of Jasper AI, says that generative AI is no flash in the pan — and enterprise companies should consider their strategy.",
@@ -489,10 +480,10 @@
     {
       "path": "_news/2022-10-25-voice-recognition-has-hidden-dangers-says-swiss-report.md",
       "title": "Voice recognition has hidden dangers, says Swiss report",
-      "excerpt": "Online speech and face recognition digital systems should be better regulated to protect consumers, a Swiss technology think tank has recommended. Virtual assistants that react to voice commands ...",
+      "excerpt": "Online speech and face recognition digital systems, such as Alexa, should be better regulated to protect consumers, a Swiss technology think tank advocates.",
       "sourceUrl": null,
-      "webUrl": "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
-      "originalUrl": "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
+      "webUrl": "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
+      "originalUrl": "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -511,7 +502,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T05:24:00-07:00",
+      "publishedDateTime": "2022-10-25T05:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Swissinfo",

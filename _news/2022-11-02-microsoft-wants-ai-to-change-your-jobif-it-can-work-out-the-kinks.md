@@ -5,10 +5,12 @@ excerpt: "Microsoft believes its artificial intelligence tools are poised to re
 publishedDateTime: 2022-11-01T19:10:00Z
 originalUrl: "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
 webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 76
+heat: 96
+published: true
 
 provider:
   name: Hindustan Times Tech
@@ -17,8 +19,29 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
+  - title: "Microsoft Previews Computer Vision Image Analysis API 4.0"
+    excerpt: "Microsoft announced the public preview of a new version of the Computer Vision Image Analysis API, making all visual image features ranging from Optical Character Recognition (OCR) to object detection available through a single endpoint."
+    publishedDateTime: 2022-10-31T09:40:00Z
+    webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 56
+    images:
+      - url: "https://res.infoq.com/news/2022/10/azure-computer-vision-api/en/headerimage/generatedHeaderImage-1666799178769.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks"
     excerpt: "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards"
     publishedDateTime: 2022-11-01T12:01:00Z

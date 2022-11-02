@@ -7,7 +7,7 @@ originalUrl: "https://www.bnnbloomberg.ca/microsoft-wants-ai-to-change-your-job-
 webUrl: "https://www.bnnbloomberg.ca/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-1.1840027"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,11 +24,32 @@ related:
     excerpt: "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards"
     publishedDateTime: 2022-11-01T19:10:00Z
     webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
     type: article
     provider:
       name: Hindustan Times Tech
       domain: hindustantimes.com
-    quality: 34
+    quality: 76
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft Previews Computer Vision Image Analysis API 4.0"
+    excerpt: "Microsoft announced the public preview of a new version of the Computer Vision Image Analysis API, making all visual image features ranging from Optical Character Recognition (OCR) to object detection available through a single endpoint."
+    publishedDateTime: 2022-10-31T09:40:00Z
+    webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 56
+    images:
+      - url: "https://res.infoq.com/news/2022/10/azure-computer-vision-api/en/headerimage/generatedHeaderImage-1666799178769.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jlRDXjL+u8MFu8V0I4HiGiaW8dtJZdLhPW7hfcAi8D9VzbvjodWNHV5Uk8+UD3U1ptx8jLV0Jldibq6W0ghKnp1T/ghy2ooqZsrlnxlsXSLVDFD5uyLC6dowAr4MM4M33kHQBPUBARWFGhNjIipwGDwZWvpEqgIx5mgE+t6uZkfsS0LY35zyDBI3T1BLVfq56em+dNxXR5EPcVBit/04cwurNbja1KNz9kivfgJtNWjxJidyzbFYKk58zrSPh9ztfCqZEF+3GwUHAskgsT6wVE+j2gLz3e3401PhsRj6skyHIuudqbi4HcXIVW3OZiLMNoD5RzPH3GYvgarMmkXK2FnMWQH8FRAeUKkZTOvGISs=;Ig5Bcsjnaj02Kb0VbfiwKw=="
 ---

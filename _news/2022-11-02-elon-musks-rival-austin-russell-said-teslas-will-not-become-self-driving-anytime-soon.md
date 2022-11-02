@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Argo AI, a self-driving tech company with offices in Austin, is shutting down operations"
+    excerpt: "Argo AI, a company that had been testing autonomous vehicles in Austin, is shutting down. According to a report by KVUE's news partners at the Austin American-Stateman, the company is being absorbed by two of its biggest supporters,"
+    publishedDateTime: 2022-11-01T23:59:00Z
+    webUrl: "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 50
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/b0f511de-1e3e-488c-8d76-b76f56eecd46/b0f511de-1e3e-488c-8d76-b76f56eecd46_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Elon Musk Challenger Who Rose To Fame For Taking On Tesla Autopilot Now Departs His Own Self-Driving Tech Company"
     excerpt: "Hotz once challenged Elon Musk's Autopilot, saying that he can develop a better self-driving software than Tesla. What Happened: Hotz announced the decision on his Github page and said that he is taking time away from Comma AI — the company he started in ..."
     publishedDateTime: 2022-11-01T10:28:00Z

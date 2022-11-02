@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s EV subsidiary Jidu launches special edition of its first car"
-    excerpt: "Jidu Auto, the electric vehicle unit of Chinese search engine giant Baidu, has launched a special edition version of its first vehicle"
-    publishedDateTime: 2022-10-28T09:53:00Z
-    webUrl: "https://technode.com/2022/10/28/baidus-ev-subsidiary-launches-special-edition-of-its-first-car/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 19
   - title: "China's New Intelligent EV company JIDU Launches its Limited-Edition Robocar Called the ‘ROBO-01 Lunar Edition'"
     excerpt: "Baidu-backed Chinese electric vehicle company Jidu officially launched its first vehicle, the limited-edition “ROBO-01 Lunar Edition”. It’s a futuristic EV that comes packed with advanced technology and “point-to-point Autopilot” (PPA) autonomous driving capabilities."
     publishedDateTime: 2022-10-28T18:29:00Z

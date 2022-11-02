@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-27-how-ai-is-changing-the-game-in-insurance.md",
+      "title": "How AI Is Changing The Game In Insurance",
+      "excerpt": "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632e1d204d78bb340e7d2c21/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
+      "publishedDateTime": "2022-09-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail.md",
       "title": "Artificial Intelligence opens doors for media but ethics must prevail",
       "excerpt": "Ten years ago, if you bandied around the word Artificial Intelligence in a Kenyan newsroom, you would be branded an illusionist, today it is the buzzword. AI, machine learning and",

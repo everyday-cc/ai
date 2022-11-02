@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Ford-VW driverless car venture folds in face of tech challenges"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
+    publishedDateTime: 2022-10-29T14:13:00Z
+    webUrl: "https://www.ft.com/content/4afc571f-2dae-4f33-944a-c217397c3f91?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
     excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
     publishedDateTime: 2022-11-01T09:49:00Z

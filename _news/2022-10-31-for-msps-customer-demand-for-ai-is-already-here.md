@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-31T14:47:00Z
 originalUrl: "https://www.crn.com/news/managed-services/for-msps-customer-demand-for-ai-is-already-here"
 webUrl: "https://www.crn.com/news/managed-services/for-msps-customer-demand-for-ai-is-already-here"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/027a-167a8eb140c4-b202d60e1c04-1000/nexgen-panel2.jpg"

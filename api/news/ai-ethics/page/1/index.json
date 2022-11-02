@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
+      "title": "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks",
+      "excerpt": "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "publishedDateTime": "2022-11-01T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai.md",
       "title": "AI Ethics And AI Law Grappling With Overlapping And Conflicting Ethical Factors Within AI",
       "excerpt": "They will ignore, in the process, many other features of the given charity such as its long-term record, recent changes in leadership, its ratio of expenses to payouts, and so on” (as mentioned in “AI Assisted Ethics” by Amitai Etzioni and Oren ...",
@@ -1378,58 +1422,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-how-ai-is-changing-the-game-in-insurance.md",
-      "title": "How AI Is Changing The Game In Insurance",
-      "excerpt": "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632e1d204d78bb340e7d2c21/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
-      "publishedDateTime": "2022-09-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Ethics"
       ]
