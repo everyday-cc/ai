@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
+          "width": 717,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "publishedDateTime": "2022-11-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m.md",
       "title": "Galileo looks to improve unstructured data for machine learning (ML), raises $18M",
       "excerpt": "Register here. Machine Learning (ML) requires data on which to train and iterate. Making use of data for ML also requires a basic understanding of what is in the training data, which isn’t always an easy problem to solve. Notably, there is a real ...",
@@ -1391,59 +1434,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
-      "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
-      "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "publishedDateTime": "2022-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

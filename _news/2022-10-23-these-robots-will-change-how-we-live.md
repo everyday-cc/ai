@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets.ozy.com/ozy-prod/2022/10/robots07.jpg?width=1200&height=630"

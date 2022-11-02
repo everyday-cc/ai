@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-02T00:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

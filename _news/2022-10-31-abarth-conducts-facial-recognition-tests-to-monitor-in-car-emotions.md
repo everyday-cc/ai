@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 788
         isCached: true
+  - title: "Abarth uses facial recognition technology to measure driver and passenger enjoyment"
+    excerpt: "Abarth has become the first manufacturer to use facial recognition technology to understand the emotions experienced when in its cars. Working with the world renowned Loughborough"
+    publishedDateTime: 2022-11-02T17:22:00Z
+    webUrl: "https://www.sgcarmart.com/news/article.php?AID=27555"
+    type: article
+    provider:
+      name: Car
+      domain: sgcarmart.com
+    quality: 33
+    images:
+      - url: "https://i.i-sgcm.com/news/article_news/2022/27555_1_l.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "x+wyNTEWSxUHH1jnFdTQmYjkDmTksWHq+/kovnngjAoqcGCNw/YYKLkeI8qIFrcHzpqNlq8kbgDFkGYJTgd1/TSdC6MH2mAGxqeYIYH9X61saBuq3/GLh0CoUa+Qxv2ySB3ckNQz2uIGjw1wQqAT8Wooj2Pf2ytLNDH2Uo6va3ZIw97IZ/hFkB0698lYhJscHaLIpmCTQmyPTP/C4BjYnwbxWGf91taTF5gLNoWgNV2qdIRfNrjGVMLTJHjZPnVNgBVgdp/IMFBi+96WbkWs191pUvbNm2JXLt6XLgD66lQNNYHHwL0FXnZOF1XzJyhNNSxLNzd/ydaxObv5RdPYSiA6ADlyx6SMWSELJ6hUyMGJnV2ff1WnGHDR96q8yGFouFJmWoBKsp9qAryoJ4L6kQQQMJIvwKNg+N2LaM8Ej88UbigZsVz2/d7A2hcOVITOhTP3ox/pKOXsQElholiBPu9AaIsS4kunQSXAgKDqq4pNy1a8ioc0mBqy1UqzhaPUkNl6aFGxiL3fOB1zMMCPWg==;3vxbDvMPaAZ6QRKZGUALDw=="
 ---

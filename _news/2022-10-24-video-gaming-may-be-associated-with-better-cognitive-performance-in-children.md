@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Video gaming may be associated with better cognitive performance in children"
-excerpt: "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ..."
-publishedDateTime: 2022-10-24T00:00:00Z
-originalUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
-webUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
-ampWebUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
+excerpt: "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ..."
+publishedDateTime: 2022-10-24T15:08:00Z
+originalUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
+webUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp"
 type: article
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280"
-    width: 1280
-    height: 782
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/child-gaming.jpg"
+    width: 2880
+    height: 1917
     isCached: true
 
-secured: "LJ+4OYzKLyPI5zYTayRa0FdGybnVIZfe4IgNE6qZhRPl6wLh9DL7lalL1+3j/sR7Fznsu9AR5xFsrN9aKmIMGEzIaqfjw4COQwmdgy4RlP5U+3F+WRYO9LJenlErggnMFYeYLLl+XJhlissPQFUC0Eg5gcujMF98XHBvDDD5W9r0t712OdLjWvzrHEkLPofsgVOxPfxR6J8i6uOqCvJhX30GHNMVaEbiGr0HeuZ6WgIMxyEjAO6QaiiqLxGcn2joyc7JO+ftAE+oPtOPiG1gO6hSxqfV3FeohJSpnhqHZiABS6hxM2E5xlkSoh7yfX5ARzIt808UQtCeVY3lKPa6+rniHgq/GRzm/pm4IfQ8k3Q=;GU8ycntz52YqsxKgXOkvxQ=="
+secured: "mUqPQuQuT0lSHMMwRuFQpvJNRB5tBf5RFoOgsxymTRfbAHRUs7Dbf/WwyO8FAcuEPfeq0pXoluTVKCjjfIAS41hXwzxBqgzpph2sBmW6F2Rh/Paabf77cR5zPb/Sn/UarWYuK1peVbSE2+aAvoo2vLPfSq0Kphq2wTUSH3iwf6IqY5DQgZrVv28VdKnv1TgqrmYRWK6nBjjHAdcB4ra7r58xa/iD5drbc7rHal6J72GjbZtgh8tlguI1CS1b+iiw9/m61ePweP2FqZzp0EUL9GAlW/kWHgek9M0SOWTHRs/v4FCitugagDoIxjxp6HD/CTXqjhLRhSqNB40UJM62Ddh3zg5gmocwIgTA8lSD8M4=;2qG83tiS/08uqtfn/rm3eA=="
 ---
 

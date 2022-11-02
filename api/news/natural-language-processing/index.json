@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-improve-data-extraction-and-document-processing-with-amazon-textract.md",
+      "title": "Improve data extraction and document processing with Amazon Textract",
+      "excerpt": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/02/improve-data-extract-textract.jpg",
+          "width": 1340,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T09:04:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-google-announces-ai-advances-in-text-to-video-language-translation-more.md",
       "title": "Google announces AI advances in text-to-video, language translation, more",
       "excerpt": "At a Google AI event in New York City, the company announced a variety of AI advances, including in generative AI and language translation.",
@@ -640,7 +693,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.swissinfo.ch/resource/image/48005788/landscape_ratio16x9/1920/1080/f57d36d0a50b2259cc434f67a939138b/9F4D27AA999894CD4C58141C5A16BEE5/voice.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1315,49 +1377,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-20-metas-ai-translator-can-interpret-unwritten-languages.md",
-      "title": "Meta's AI translator can interpret unwritten languages",
-      "excerpt": "but one that Meta has reportedly addressed with its latest open-source language AI advancement. As part of Meta’s Universal Speech Translator (UST) program which is working to develop real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "originalUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/.NCBpPmk4OgpgCNqtbHWlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/e182b1b0-4efb-11ed-bff7-30a6eacb6c7e",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-20-meta-ai-translator-can-figure-out-unwritten-languages.md",
       "title": "Meta AI Translator Can Figure Out Unwritten Languages",
       "excerpt": "Meta announced what it's calling the \"first AI-powered speech translation system for an unwritten language\" Wednesday, according to a blog post from the tech company. The system successfully translated the Taiwanese language Hokkien,",
@@ -1410,21 +1429,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-19-language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report.md",
-      "title": "Language Processing Market Strategies, Future Plans, Competitive Landscape, Emerging Trends & Growth Opportunities by Latest Research Report 2022-2028",
-      "excerpt": "Natural language processing is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages ...",
+      "path": "_news/2022-10-20-metas-ai-translator-can-interpret-unwritten-languages.md",
+      "title": "Meta's AI translator can interpret unwritten languages",
+      "excerpt": "but one that Meta has reportedly addressed with its latest open-source language AI advancement. As part of Meta’s Universal Speech Translator (UST) program which is working to develop real-time ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
+      "webUrl": "https://www.engadget.com/metas-ai-translator-can-interpret-unwritten-languages-150001511.html?ref=upstract.com",
+      "originalUrl": "https://www.engadget.com/metas-ai-translator-can-interpret-unwritten-languages-150001511.html?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/cyberattacks-hackers-russia-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/e182b1b0-4efb-11ed-bff7-30a6eacb6c7e",
+          "width": 6144,
+          "height": 3456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1434,12 +1453,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T01:15:00-07:00",
+      "publishedDateTime": "2022-10-19T15:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

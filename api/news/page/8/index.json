@@ -2,6 +2,213 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
+      "title": "BICS launches Communications Platform as a Service",
+      "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "originalUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
+      "title": "Video gaming may be associated with better cognitive performance in children",
+      "excerpt": "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/child-gaming.jpg",
+          "width": 2880,
+          "height": 1917,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
+      "publishedDateTime": "2022-10-24T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/24/9698227.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/24/9698227.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers.md",
+      "title": "How The Availability Of AI Is Changing The Security Landscape For Both Users And Developers",
+      "excerpt": "In certain instances, analytics like movement tracking and basic object recognition helped organizations that could afford to implement them, but they were still hampered by limiting factors such as camera quality and processing power. Today, that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6352a22b37aebac3a2e382e7/0x0.jpg?format=jpg&crop=2015,1134,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "publishedDateTime": "2022-10-24T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets(TM)",
+      "excerpt": "This has opened a huge opportunity for the edge AI hardware market players. Smart wearables and health trackers could further accelerate the growth of the edge AI hardware market for wearables. The market for GPU is expected to grow with the highest CAGR during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-ai-coming-of-age-lessons-for-startups.md",
       "title": "AI Coming Of Age: Lessons For Startups",
       "excerpt": "Startups might have an advantage over larger organizations in using AI: Building new business processes is a lot easier than changing existing processes that affect thousands of employees.",
@@ -678,49 +885,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
-      "title": "Video gaming may be associated with better cognitive performance in children",
-      "excerpt": "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
-      "originalUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
       "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
       "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
@@ -992,194 +1156,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-the-amazing-race-fans-speculate-which-season-34-racer-contracts-covid-19.md",
-      "title": "‘The Amazing Race’ Fans Speculate Which Season 34 Racer Contracts COVID-19",
-      "excerpt": "Following the premiere of The Amazing Race Season 34 Episode 5, CBS aired a preview for episode 6. It appears as though the teams will stay in Jordan for the fifth leg of the race. The pairs will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
-      "originalUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cheatsheet.com/wp-content/uploads/2022/10/The-Amazing-Race-Season-34-1.jpg?w=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-22T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cheat Sheet",
-        "domain": "cheatsheet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-driverless-car-quest-has-made-a-bonfire-out-of-75-billion.md",
-      "title": "Driverless car quest has made a bonfire out of $75 billion",
-      "excerpt": "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
-      "originalUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-10/1181fb60-5153-11ed-b7d7-2a25405a846d",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
-      "publishedDateTime": "2022-10-22T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai.md",
-      "title": "How small and midsize businesses can take advantage of text-to-image AI",
-      "excerpt": "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
-      "publishedDateTime": "2022-10-22T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it.md",
-      "title": "AI Digitally Restored a Lost Trio of Gustav Klimt Paintings. Not Everyone Is Happy About It.",
-      "excerpt": "They say, ‘No, Klimt has never used such a green.’ This is true. He did not use it before the Faculty Paintings and not even after it, but I'm sure that during this particular period, because it was such an outstanding period for him,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "originalUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-614597",
-          "width": 1280,
-          "height": 1897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "publishedDateTime": "2022-10-22T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

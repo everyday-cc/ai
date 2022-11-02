@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
+          "width": 717,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "publishedDateTime": "2022-11-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-improve-data-extraction-and-document-processing-with-amazon-textract.md",
+      "title": "Improve data extraction and document processing with Amazon Textract",
+      "excerpt": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/02/improve-data-extract-textract.jpg",
+          "width": 1340,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T09:04:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-google-announces-ai-advances-in-text-to-video-language-translation-more.md",
       "title": "Google announces AI advances in text-to-video, language translation, more",
       "excerpt": "At a Google AI event in New York City, the company announced a variety of AI advances, including in generative AI and language translation.",
@@ -348,7 +444,7 @@
       "originalUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -503,7 +599,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -543,7 +639,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -703,7 +800,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -800,7 +897,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -840,7 +937,9 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -852,7 +951,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -904,7 +1003,7 @@
       "originalUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1144,102 +1243,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-how-ai-and-machine-learning-quietly-went-mainstream.md",
-      "title": "How AI And Machine Learning Quietly Went Mainstream",
-      "excerpt": "Now that the novelty, and frankly, some of the fear factor, around AI has begun to fade, we’re entering a generation in which technology will just be better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
-      "originalUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6361209b71c915fecc08fd14/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
-      "publishedDateTime": "2022-11-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai.md",
-      "title": "AI Ethics And AI Law Grappling With Overlapping And Conflicting Ethical Factors Within AI",
-      "excerpt": "They will ignore, in the process, many other features of the given charity such as its long-term record, recent changes in leadership, its ratio of expenses to payouts, and so on” (as mentioned in “AI Assisted Ethics” by Amitai Etzioni and Oren ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

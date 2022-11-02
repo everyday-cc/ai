@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-30T14:58:00Z
 originalUrl: "https://www.gulftoday.ae/news/2022/10/30/rta-uses-emotional-ai-to-assess-tram-drivers-in-real-time"
 webUrl: "https://www.gulftoday.ae/news/2022/10/30/rta-uses-emotional-ai-to-assess-tram-drivers-in-real-time"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2022/10/30/rta-tram-driver-750x450.ashx?h=500&w=750&hash=7A4BC303C2E4DA33166C3BB8DD7F66F9"

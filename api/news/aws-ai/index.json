@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-improve-data-extraction-and-document-processing-with-amazon-textract.md",
+      "title": "Improve data extraction and document processing with Amazon Textract",
+      "excerpt": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/02/improve-data-extract-textract.jpg",
+          "width": 1340,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T09:04:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges.md",
       "title": "Startups across AWS Accelerators use AI and ML to solve mission-critical customer challenges",
       "excerpt": "Relentless advancement in technology is improving the decision-making capacity of humans and enterprises alike. Digitization of the physical world has accelerated the three dimensions of data: velocity, variety, and volume. This has made information more widely available than before, allowing for advancements",
@@ -1390,59 +1443,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-run-ensemble-ml-models-on-amazon-sagemaker.md",
-      "title": "Run ensemble ML models on Amazon SageMaker",
-      "excerpt": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg",
-          "width": 1547,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T08:50:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

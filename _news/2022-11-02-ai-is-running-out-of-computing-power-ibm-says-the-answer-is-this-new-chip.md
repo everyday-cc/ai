@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/"
 type: article
-quality: 102
-heat: 122
+quality: 106
+heat: 126
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/df1c7593bb82d966aaa309915488b64e46238ce9/2022/10/28/85cb2f88-0b6a-4419-accd-78eca77bf320/ibmaiu.jpg?auto=webp&fit=crop&height=675&width=1200"
