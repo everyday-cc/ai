@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "signifyd"
   url: "https://twitter.com/signifyd"
-  followers: 1875
+  followers: 1876
 
 size: 201-500 employees
 yearFounded: 2011
