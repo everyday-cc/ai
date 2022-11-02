@@ -1,20 +1,37 @@
 ---
 category: news
 title: "Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence"
-excerpt: "Most deaths from melanoma—the most lethal form of skin cancer—occur in patients who were initially diagnosed with early-stage melanoma and then later experienced a recurrence that is typically not detected until it has spread or metastasized."
-publishedDateTime: 2022-10-31T20:59:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.html"
-webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.html"
+excerpt: "Researchers have developed and validated a machine learning--based method to predict which patients with early-stage melanoma are most likely to experience a cancer recurrence."
+publishedDateTime: 2022-10-31T18:45:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "l4rAOm69ml3LDpbQ006k2E8v92Tbrtnqk0+BC4n8AnEXy0Sdc1tYxxga6OAVQdYe9UpBgLTIHzo5pmJZ9KPkv4/kn1g2W0sm9H+rqOgjshdf6bBgcvZ5muVzpBKAIVEH7YDhRPhNBQ5rlje9w0RZE9fbtXM5sUk1sjho2E9eb9ExQNuZiIVhkWXH7uRFuK4k8u/O+eVXsdfNVg/yiUKBklSnOfvgYOVLDT+LUp2/9i0C1QMbxmty9IkFsvTTTEkD1Ryjdex2DQqRNUOqhxE/agvAejcE+JsdncDjyoZiupiGQpAERnB87Dt84vjMB/fm/6X9Uwb6J/OiWQCspWzZyNZ9Zk+b44q9jaH3GfqFIn/6n8b28R1pNChXX6pua3ARLIfpvRmysY4S/DfrL6HorUtQX5Li6P2bG5sgFEqA8+GbrfyNbtouSez6byzqQ6sTH/KsaOZXo8FRM4gbdoS8MBO1u3TI/7666ss/DNSEHoeBI3Q1CnxFd12xzhprKiiv5wMw9ymG8+73xYkkVvB6hw==;r4/mh1I45p0Fwa0C2mSJjQ=="
+related:
+  - title: "Artificial intelligence-based method may help predict early-stage melanoma recurrence"
+    excerpt: "Most deaths from melanoma-;the most lethal form of skin cancer-;occur in patients who were initially diagnosed with early-stage melanoma and then later experienced a recurrence that is typically not detected until it has spread or metastasized."
+    publishedDateTime: 2022-10-31T17:57:00Z
+    webUrl: "https://www.news-medical.net/news/20221031/Artificial-intelligence-based-method-may-help-predict-early-stage-melanoma-recurrence.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 12
+
+secured: "kLpUWuSkAnrodNMLCDU/34JOi35WOBLtGvLLdalnT5RJiL0BlqJDulf0iJA2qTuM4uUJkUh1ucl7K9TiLljuLO2UeZm16L3Oz3nf51lBP92/2xw80cQ6jRs0pjH/H/9YwnwwFVjVTdbn7fovdhjw+J4nAMCehoW5gXTFpYProNgzPIYgd2abPdtyICcUCqyr1/nVAMIlOhJ+fQNGdSCMVbEviIwP8PmDQrwWG5sf/qtTLnyaxY3ftOEZIPyw1DHZ7EuixvqVPpo7VwdE9sXWPphn+vW87oI2E0D9x8ANaUTd/JQV3SnJua0IsKVdEUJTA/7hlYcm5PSWlvs2g1Ooha/hU84O66z+M4GB3x/LeCs=;9bOS2O+xd0j+p1AuYVZqAg=="
 ---
 

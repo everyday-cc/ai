@@ -20,15 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Driverless cars aren’t going away, but we need to lower our expectations about them"
-    excerpt: "The driverless car startups that haven’t run out of money, gone out of business, or been bought out want you to know that driverless cars aren’t going away. These companies insist that ..."
-    publishedDateTime: 2022-10-28T20:11:00Z
-    webUrl: "https://www.theverge.com/2022/10/28/23427129/autonomous-vehicles-robotaxi-hype-failure-expectations"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 43
   - title: "Ford-VW driverless car venture folds in face of tech challenges"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
     publishedDateTime: 2022-10-29T14:13:00Z

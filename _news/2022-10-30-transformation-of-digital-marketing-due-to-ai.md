@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digita
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting"
+    excerpt: "Co-led by Insight Partners and CMFG Ventures, this investment from new and existing investors will support Zest AI's next phase of growth in the"
+    publishedDateTime: 2022-11-02T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting-1031864078"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
 
 secured: "ujFEPrRI8mL1IMTVW9lmGDNfVjAycoyvTSkva6JGbQKGz7U2EpVDF1xGZq3PVcjJOPG2KPk1dLv863+8YFV/2Ow8xPqqzGOgpQFkxhO937p5e8XcuVMGAB0RJ6pkkEslJGotMuciNTUD62yKfEqomq2PoYPdZedxFpcekSkQdasHE1zN9bsIstHP4CrBYpcS3xQwE/5ied8zVM3hI+qpsK7+la7svOxsd0CJFoTtJ9nA1HKyRsmxRmOCZeO8o9uXH4+EMVbWY0qBsYUFUxOmUcswVr9Jy1JpVGGUCVK2o+5amx4nQ4/6GajiFDVeAxp3R5zAYgzzERE0mTp4Bo394q/k+iYl3ZE+Y5IspYck4xc=;KryOxOhn9+wuuFz746Oc5w=="
 ---

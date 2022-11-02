@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T13:34:00Z
 originalUrl: "https://www.bangordailynews.com/2022/11/02/bdn-maine/waterville-based-accelerator-expands-in-house-staff-with-an-experienced-startup-founder/"
 webUrl: "https://www.bangordailynews.com/2022/11/02/bdn-maine/waterville-based-accelerator-expands-in-house-staff-with-an-experienced-startup-founder/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Bangor Daily News

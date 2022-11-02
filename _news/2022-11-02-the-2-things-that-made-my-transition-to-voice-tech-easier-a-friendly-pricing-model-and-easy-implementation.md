@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T13:00:00Z
 originalUrl: "https://medcitynews.com/2022/11/physician-burnout-voice-assistant-ai-healthcare/"
 webUrl: "https://medcitynews.com/2022/11/physician-burnout-voice-assistant-ai-healthcare/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MedCity News

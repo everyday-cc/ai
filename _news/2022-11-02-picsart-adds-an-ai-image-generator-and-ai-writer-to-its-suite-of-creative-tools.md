@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T12:07:00Z
 originalUrl: "https://techcrunch.com/2022/11/02/picsart-adds-an-ai-image-generator-and-ai-writer-to-its-suite-of-creative-tools/"
 webUrl: "https://techcrunch.com/2022/11/02/picsart-adds-an-ai-image-generator-and-ai-writer-to-its-suite-of-creative-tools/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: TechCrunch

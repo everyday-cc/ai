@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T14:41:00Z
 originalUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
 webUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Business Insider

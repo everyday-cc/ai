@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T10:14:00Z
 originalUrl: "https://www.fastcompany.com/90804268/pov-the-future-of-industry-isnt-digital"
 webUrl: "https://www.fastcompany.com/90804268/pov-the-future-of-industry-isnt-digital"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fast Company

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T13:08:00Z
 originalUrl: "https://www.bizjournals.com/denver/news/2022/11/02/denver-amp-robotics-fundraise-recycling-robots.html"
 webUrl: "https://www.bizjournals.com/denver/news/2022/11/02/denver-amp-robotics-fundraise-recycling-robots.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Business Journals

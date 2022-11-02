@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-01T19:37:00Z
 originalUrl: "https://hbr.org/sponsored/2022/11/optimizing-machine-learning-driven-business-outcomes-by-adopting-mlops"
 webUrl: "https://hbr.org/sponsored/2022/11/optimizing-machine-learning-driven-business-outcomes-by-adopting-mlops"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:

@@ -8,7 +8,7 @@ webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-acquires-artifi
 ampWebUrl: "https://m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 

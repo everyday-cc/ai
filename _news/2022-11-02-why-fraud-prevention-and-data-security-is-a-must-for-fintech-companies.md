@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T13:01:00Z
 originalUrl: "https://www.bbntimes.com/financial/why-fraud-prevention-and-data-security-is-a-must-for-fintech-companies"
 webUrl: "https://www.bbntimes.com/financial/why-fraud-prevention-and-data-security-is-a-must-for-fintech-companies"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: bbntimes

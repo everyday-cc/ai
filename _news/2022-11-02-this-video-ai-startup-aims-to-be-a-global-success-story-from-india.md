@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-02T10:55:00Z
 originalUrl: "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346"
 webUrl: "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346"
 type: article
-quality: 67
-heat: 97
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "3 Ways AI Can Help Your Startup Be More Successful"
-    excerpt: "From automating processes to improving talent acquisition and employee performance, utilizing AI can help your business become the best it can be."
-    publishedDateTime: 2022-11-01T21:35:00Z
-    webUrl: "https://www.inc.com/joel-comm/ai-business-startup-grow-successful.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "EAr/fI0rSNuz2k2xi5a0X8FwBSig49nFr+aIvC4y4MzvRC2VYCNzi0iK8547pQW0tcnmgHGwEmy76xS89+74HrQVaE13BvO2tMNwvtg2vQqWyZyeq1LiPj4sBsJ96lYJJsaiSEcYiLUWRZfgj3ebCLxP3Z1hDZ+AzBy7AS+oG34Y1aPmA32TVaByk1bYURUKzG3mzzNBXZEWu5eeLutwbl/F1H/JvktVM9/J0q6yO7GFH9eaYpwi5vptooAdP+E/s7mubtmCUHEnxO9WSMrt0b4sgmTSs4Ok5CnaHgPylXhedLym2PuZN3r2c16YnKRvBGj9+ccNg5cHwnj2gOeh0l9LExmNsMFWbGro0t8fVqZQj5OdVTO5yMp6IonqEW1VNlZl+2LpMZi7XOpnwPUHEabhFquV5bCVl36x8eBAd1/7d+zZHhqRrBbRsPiKfDLeyvmzsl5yJn8PcIEd8NjlwkHo14OIUuRoz4lMDV1iw5R/f6HHE54txrinU2QDIOr5Z6nSLKrI2V9eZ4E5dx9TWw==;PBg7R/LoDj9wB3jMaYFt2g=="
 ---

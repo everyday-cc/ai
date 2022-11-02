@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "From Banks to Bananas: The Future of AI for IT Operations"
+    excerpt: "From finance to retail to logistics, so many industries can benefit from the combined power of artificial intelligence (AI) and the mainframe to drive higher levels of agility and resilience across IT environments."
+    publishedDateTime: 2022-11-02T14:49:00Z
+    webUrl: "https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/11/5_david-100934065-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "K0Eefy6oW3KFjqYEeyGx2mKK8j9muGEhUwgX/HplVDZGrKLFQ5aPAXI/MFd0lOnOrTTW/gIF50QMWBX1r/VdUoxdiOfSpFg72jR6f1+1bmwoXDPMW0l6FWuvd+hi9iWk32V3I8Pm18Fq36b7V4nCcBHo65A0KgbxwsPntb6+at0vEeB9vYKnMd4z+OX4CarwyxttjgbiZupmSz7xnCFHFHd36ul+pq3iyi1X5dYjs7c3B5ABHxniP5BiHpS2HSmcfZR9oGua+OU/aGj/xmJPFYCOCjNtrdIdKjbwZYhuv0B2LfsoH9xpVB5UPp8Tf086fXQbDLBXn8m+fl8ZZ7LYIRhDKrvRPoM3axuAfiUtacM=;E/Yl+VDrgALYUP7SD+CMYQ=="
 ---

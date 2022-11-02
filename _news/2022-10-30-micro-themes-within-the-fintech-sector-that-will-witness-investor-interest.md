@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Transaction Monitoring and the Future of Fintech AML Compliance"
+    excerpt: "The fintech sector is renowned for being innovative and has created some of the biggest shifts in financial services in recent years. Regulation that squashes this would not be useful for any of us. One key example is when it comes to customer processes - some smaller Fintechs may struggle to collect all the necessary data on customers,"
+    publishedDateTime: 2022-11-02T15:33:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-11-2-transaction-monitoring-and-the-future-of-fintech-aml-compliance"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 4
 
 secured: "n1YEWVwghR+kvHu90FjgxFOnawMN9uJCrrh7jRvhVM2obDNiRXqn02NekyiCsZWfpwj4ZvGOjflcZR0VNZ+GSmmxnPeipN/HwLqwUSFPvcmSxUs2fQHz63ye6J5lmGb9+YF8pMQx9sp2h+LfReob97RxTGXsuTDd9WcohV5a9CaDKTO4E/AoYNboWKAMiDLUe8z6/pwro/BkdNqwHiuz/y9Gw6Gw6bmvMqHTgjWsyjXIazyb1afduok39+4AoxdVqoiNzrZTHBjsMxdM/vpDW4PuhFY1U4YChbwjtR82W4AQsXIBFMLmfgpVWcv6syj7taXflL62B0dhIALlFYuo1AaUJlW6zCT6zyY/WaJALbE=;mokvFv/WCxjJA8bLidY4nw=="
 ---

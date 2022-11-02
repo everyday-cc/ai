@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T13:11:00Z
 originalUrl: "https://compoundsemiconductor.net/article/115638/Kyocera_develops_GaN_laser-based_night_vision_system"
 webUrl: "https://compoundsemiconductor.net/article/115638/Kyocera_develops_GaN_laser-based_night_vision_system"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Compoundsemiconductor.net

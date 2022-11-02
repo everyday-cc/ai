@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T12:03:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/amp-robotics-raises-91-million-in-series-c-financing/article_6bf8ef39-adf1-5464-bc4e-f394689b810f.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/amp-robotics-raises-91-million-in-series-c-financing/article_6bf8ef39-adf1-5464-bc4e-f394689b810f.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Joplin Globe

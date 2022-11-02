@@ -24,6 +24,22 @@ images:
     height: 573
     isCached: true
 
+related:
+  - title: "SingHealth runs facial recognition pilots for visitor management at hospitals"
+    excerpt: "Hospitals in Singapore are trialing facial recognition to identify visitors, just as recommended by Princeton Identity CEO Bobby Varma in a recent editorial."
+    publishedDateTime: 2022-11-02T14:14:00Z
+    webUrl: "https://www.biometricupdate.com/202211/singhealth-runs-facial-recognition-pilots-for-visitor-management-at-hospitals"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18144038/contactless-biometric-access-control.jpg"
+        width: 999
+        height: 435
+        isCached: true
+
 secured: "XIcjglWiH5uWL5knUORXtcqFQePTeKkWsXXQ/j+JDWJDJsRov5FJjXoc5u6613h6R00FL+jncwMNSl6FZ2yOQn3AmukZXpFQbXxOYfwe9q3COZK80waBocBnPWUpebKDCa52UP2nYgflz313Nb26pKoeRoMb/61+oP0NA77Ae3yDLHjtrrM0GGW+YLxI+4HjOWY8ch7aMuNbZ5hyyAANZn4Hqt+JR9UoGBhBLcoaYDNcpsEUTRm2P2dgIj1thGY5CqcFeUtz/cwx8LWDKPTqLGB/KG5UTKq6R2SY+rFNvPKXpbueVzzlstRvNh3gbKWtMdlItEEFN0RSe2s4ubMyk1n/P+JsnxeajG0cmMUqlRw=;tq6x1ZoQl7QHoPSHZU43xg=="
 ---
 

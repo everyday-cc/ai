@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T12:30:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/fintech-cloud-market-to-reach-196-2-bn-globally-by-2031-at-16-4-cagr-allied-market-research-301666068.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/fintech-cloud-market-to-reach-196-2-bn-globally-by-2031-at-16-4-cagr-allied-market-research-301666068.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: PR Newswire

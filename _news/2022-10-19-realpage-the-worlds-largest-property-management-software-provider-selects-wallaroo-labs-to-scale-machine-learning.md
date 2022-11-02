@@ -1,23 +1,31 @@
 ---
 category: news
-title: "RealPage, The World's Largest Property Management Software Provider, Selects Wallaroo Labs To Scale Machine Learning"
-excerpt: "RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo Labs as their applied AI platform. Using Wallaroo, RealPage will scale their AI an"
+title: "RealPage, The World’s Largest Property Management Software Provider, Selects Wallaroo Labs To Scale Machine Learning"
+excerpt: "Today RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo"
 publishedDateTime: 2022-10-19T14:27:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29325713/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-m"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29325713/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-m"
-ampWebUrl: "https://www.benzinga.com/amp/content/29325713"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29325713"
+originalUrl: "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19"
+webUrl: "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "AqaD2SJ/68GZC2Nr+WhS1ZFErtuX0jBn2EpNkjMAruUiJgzSrJcL/eU3M1/49PnKfnDrrkaVItqgZl9qIjSQttDbgqdjUj6Y5aAShJtEE2un6y3Qw7uL5ekDjRnMq3FzJ8fvt+w4e0nuhLjJqyCUzYAq3StAl/bMmTJ1SfSgpRRcb1iUXF80eW89M3YbMzunxzUB36fcdRLCwZydDBypZkyRJvtCbHDtIU1kZ186HBoM7OXbVTVfKQMqdIPxRTULgyH4V+9Kac1yqs4oRYbR4E6NvSO31cmf1m9HKmyskWQSr/07FgFmfvamB+UJ+u8eH3500E/FrjRE8Yp6y6ppj7/jMbWOkhHHeQCKFQSMXcI=;fAjlGxLz64KXvUN/miP3vQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "12w/21/PH3pG8LhPUUOZZQ8Y8LRBOSh+hMUNpWqaBZ4uInyjPgYz595P+vyJojFySiXAFZ5mrVmfZv9O6fQHOse3wNiM8jka2Ou3OEl+4zo6rvWxNR5FE5ns31zlXlXdupVIfDNOnnIbS4PRLhcwlNRbO/7gBwxdNJ84vYNybLNZjMTTvqAayb4Nb6b3fA0riYCOxsK+XojBBjsE92TO/U7sxizDYE9FyEEwt9fvPLn4a0d5EJL3nMY8MMVwk9K1h50I4jdEAdU1yCY6SKQRTRShJL0fgKB3HE+h+VRqUoiim/Hz7H/lhwERzjNv66ofHXZRZ7RY45cDslnDuBzZW2dCo1dzEp+jxXwDxubhbmg=;i9d1sL0WUSrVVRUFaI0Zeg=="
 ---
 

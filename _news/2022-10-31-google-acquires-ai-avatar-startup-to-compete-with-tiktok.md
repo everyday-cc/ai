@@ -44,7 +44,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://static.toiimg.com/thumb/msid-95180698,width-1070,height-580,imgsize-29398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069

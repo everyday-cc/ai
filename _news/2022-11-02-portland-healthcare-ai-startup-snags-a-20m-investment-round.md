@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T10:00:00Z
 originalUrl: "https://www.bizjournals.com/portland/inno/stories/fundings/2022/11/02/carta-healthcare-fundraise-portland.html"
 webUrl: "https://www.bizjournals.com/portland/inno/stories/fundings/2022/11/02/carta-healthcare-fundraise-portland.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Business Journals
