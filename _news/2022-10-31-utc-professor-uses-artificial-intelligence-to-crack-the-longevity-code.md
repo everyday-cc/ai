@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-31T00:07:00Z
 originalUrl: "https://www.timesfreepress.com/news/2022/oct/30/utc-professor-uses-artificial-intelligence-to/"
 webUrl: "https://www.timesfreepress.com/news/2022/oct/30/utc-professor-uses-artificial-intelligence-to/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102555278_Hong-Qin-at-UTC_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"

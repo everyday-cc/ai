@@ -33,7 +33,7 @@ related:
     provider:
       name: Chattanooga Times Free Press
       domain: timesfreepress.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102555278_Hong-Qin-at-UTC_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600

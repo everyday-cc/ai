@@ -647,6 +647,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-27-doj-reportedly-investigating-teslas-autopilot-self-driving-claims-after-crashes.md",
+      "title": "DOJ reportedly investigating Tesla’s Autopilot self-driving claims after crashes",
+      "excerpt": "The Justice Department launched a probe last year to look into whether Tesla had made unsupported full self-driving claims, according to Reuters..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html?src=rss&ref=upstract.com",
+      "originalUrl": "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html?src=rss&ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/63779510-55e0-11ed-bfe1-18d97e45c86d",
+          "width": 1600,
+          "height": 1056,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-ford-cant-afford-other-bets-like-driverless-cars.md",
       "title": "Ford Can’t Afford Other Bets Like Driverless Cars",
       "excerpt": "Ford’s decision to reverse out of the driverless-taxi business shows a laudable focus on delivering tangible products—but also the company’s financial weakness relative to crosstown rival ...",
@@ -1414,49 +1466,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas.md",
-      "title": "IKEA Is Using Driverless Trucks to Move Its Furniture in Texas",
-      "excerpt": "Kodiak has been moving furniture and other IKEA goods since August, but the companies carried out a testing period before making the agreement public. The route runs from an IKEA distribution center in Baytown, east of Houstin, to a store in Frisco, 290 ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "originalUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/10/Kodiak-Ikea-Back-2.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "publishedDateTime": "2022-10-19T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

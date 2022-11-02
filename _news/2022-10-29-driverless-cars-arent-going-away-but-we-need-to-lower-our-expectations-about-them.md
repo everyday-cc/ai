@@ -32,6 +32,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 13
+  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
+    excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
+    publishedDateTime: 2022-11-01T19:19:00Z
+    webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "u9cQ+PwuVMtOOrlMw8cX2NjxPPQV0dK5ySRo4LJ7ZP9/aXfJOdtR60Jqjm/KiJ6rN3IdJzTD2ONk9A2SGGMwjD1JPZyB6t+pQDRAnrb3AVjGbksTBKy9ZMEJyFDAAlj8Dk8hIDFwz8F6gE9S1bRaWwT2pbh/38v/+gOIo2UwOozGAz0K3RQp/Qj/Fb95UR+WVk/2HWxYwusGiXOQLvJLCR9DnfLCvfBzIWtBsqA1nhJybg2z8qgsZ+WsHU/HemQZG/1SnkUxPhgNv80QwPwmPkCxY+BAzljiNpKac0ItgkzHNwP9AA7mr6D/y2UYGknxQwt+hTQFvPUOH0AuOAp1a6Dc1nHAFJUN6f+aLmgMoEA=;009wRS1t/Hs4b9brKsqUXw=="
 ---

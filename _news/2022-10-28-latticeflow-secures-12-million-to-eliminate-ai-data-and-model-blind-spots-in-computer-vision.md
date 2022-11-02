@@ -8,9 +8,6 @@ webUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secu
 ampWebUrl: "https://www.benzinga.com/amp/content/29453267"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29453267"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
   name: Benzinga.com
@@ -20,22 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "LatticeFlow secures $12m to support computer vision work"
-    excerpt: "LatticeFlow, an artificial intelligence (AI) platform that can automatically find and fix AI data and model errors, has announced a $12 million Series A funding round."
-    publishedDateTime: 2022-10-28T09:10:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/latticeflow-secures-12m-to-support-computer-vision-work"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/timaggpe/artificial-intelligence-5866644_1280.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "OWjFZ3VIj3028WcwAV3ccnngBdXgb+5OxbGkxpxY62FB4Odq22XWQsij1fkM3dO8WVxfEF1t9jDAfL4Mfh9+WwVuHgiVfwtqnapqBh+O/U6s6mTLpwC+UR20nSFPm7BrpW5iV33y/Tddm8hIDZr1YmxoPAQSCZ8wGkELMdXTDLRhu1bQbbGvNqSsJo/NMG0SkqlzWwlKMWTMpRnRCL7F6XX1dPnfo2atYbfLpum2RyqC8RXIMc0UGGi0VRJNHHVCiW0hn3knSw/1SLEM+pKSM8q4AZfuZkAn8HRi9TxYTq30IONSlSRuoo/0eppxwfD5GrYI8MeYR/PGkbrrlDkdo/7iim8BZcxxsueMb1MMps4=;Im5Vu1lDo+q5QNao3dMKEA=="
+secured: "2/Z5StrdRp3ZdwHric8RxDLyd/ew4hhtlgooxa+/6fs+ha+ENAE9ywTdPsfabz1qJl8Uosx/d+vzDsXvNsUb/91DRyRXtiINdA/4D3jwwJHJIAbCVDJtX7nUQIfkNmcT1jY+2SmbGnDQRK1FTU/d+fYYJl/U2p9h5yJMlllCehA047DN9Gt4BCCm4hix0v2YN00Nx+XNCh8wdFyLx45X2iqjcPZbq3UDpBY87b71ZXBjsihM7kE5tvRxUgsvBJrqsGOgr38y5JPcCwANfyqZ99qyUL82LcBbprgzK0GV0kpW3riXkwf9N8OpuhVE4gFdjDcuBx029Z9hFPqOJGm2jSURwnNe8swuMXOpdWAhuP4=;cx3MDm7rxMOegfIPojoZgg=="
 ---
 

@@ -30,22 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Book Review: How Motherhood Alters the Brain"
-    excerpt: "In \"Mother Brain,\" Chelsea Conaboy draws on neurological and cognitive research to explore myths about parenting."
-    publishedDateTime: 2022-10-28T07:47:00Z
-    webUrl: "https://undark.org/2022/10/28/book-review-how-motherhood-alters-the-brain/"
-    type: article
-    provider:
-      name: Undark
-      domain: undark.org
-    quality: 39
-    images:
-      - url: "https://undark.org/wp-content/uploads/2022/10/GettyImages-1320328879_crop.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "GnKmx+YdwIzinWu5yPJtPR45oC6dmbDrjyiM5e6Zr8CQiYHk6O0ixHY1oaDkS6guE6O/6yDEwr0KExyir1333v6E9O5mIY8d/dYNAQ+3KmtGu59M7I96mTIaos0r5AjDkavvFWfSV5zfhA1Q1n63aSbX5uoyO66EhKontDZ++Ue9ZmUxZsIuwgcviBoCsftTfahF3i1/zlYNlyIlds7DXM9tylIkEXr0GRffQMaRQVPHR/ntl+zG4Ah/ZitF18C/NG3lmN3rr8B/gDC8sHtcjmb4WZ0IN3hdOTFyyxxgMB+c3memTQ3mfwuPAo4SmXHEr+tqstPnI13O/MBEZhykF+3ZdSP7vQyWTp6FTOoAzv3wZNlcPuCvivo3Px/70SQ3gBaXnXsOduxbQ8X3GjzueqFnc4kX/1SMSMZzh0Y5okJAJzUpiroivYx+U3xh4hKpDWEtZNvz/TSmLjyPXvBHXPlewnC7a8XiNH7GIhCxahetIbLS09yHM4p+p7oQrJGvZBIKKmsqARE+hAY7axomNg==;/c9mErSm5b+yevsTvo9I4Q=="
 ---
 

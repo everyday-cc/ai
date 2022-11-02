@@ -3,12 +3,9 @@ category: news
 title: "DOJ reportedly investigating Tesla’s Autopilot self-driving claims after crashes"
 excerpt: "The Justice Department launched a probe last year to look into whether Tesla had made unsupported full self-driving claims, according to Reuters.."
 publishedDateTime: 2022-10-27T12:09:00Z
-originalUrl: "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html"
-webUrl: "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html"
+originalUrl: "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html?src=rss&ref=upstract.com"
+webUrl: "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html?src=rss&ref=upstract.com"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
   name: Engadget
@@ -22,61 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Tesla Is Under Criminal Investigation Over Self-Driving Car Claims"
-    excerpt: "An investigation recently launched examining Tesla's claims about its vehicles self driving capabilities, probing whether or not the company has misled its consumers."
-    publishedDateTime: 2022-10-27T14:41:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1666880890-GettyImages-490597708.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "It’s time to admit self-driving cars aren’t going to happen"
-    excerpt: "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible."
-    publishedDateTime: 2022-10-27T17:53:00Z
-    webUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/"
-    ampWebUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864"
-        width: 1200
-        height: 864
-        isCached: true
-  - title: "Tesla Under Criminal Investigation for Self-Driving Claims"
-    excerpt: "The Department of Justice is investigating whether Tesla misled consumers, investors and regulators by making unsupported claims about its driver assistance technology's capabilities. We're following the story at TheDetroitBureau."
-    publishedDateTime: 2022-10-27T20:16:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/10/tesla-under-criminal-investigation-for-self-driving-claims/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 54
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2019/05/Tesla-Navigate-on-Autopilot.jpg"
-        width: 1125
-        height: 750
-        isCached: true
-  - title: "Reports: Tesla will face DOJ, SEC scrutiny over self-driving claims"
-    excerpt: "Unconfirmed reports from Reuters and the Wall Street Journal this week claim that Tesla faces a criminal probe and a civil investigation from the two respective arms of federal government."
-    publishedDateTime: 2022-10-28T12:18:00Z
-    webUrl: "https://www.greencarreports.com/news/1137653_reports-tesla-will-face-doj-sec-scrutiny-over-self-driving-claims"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 34
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/63779510-55e0-11ed-bfe1-18d97e45c86d"
+    width: 1600
+    height: 1056
+    isCached: true
 
-secured: "Ts7R8k+PqWBujUvhAnX2xyEXBxBI9TOKlb0pivGdivOZKulZpBZClxOmeD7kq+V6d6AgNHRP1gxs+ESbP8xkhSTXgBxiRBWn6vyM9wy+lJ5Gv4O/Q84xvuYAwmwb68YAmGxPU1S7tMYmmpNWhwITail7Y4HxDlC0+QwYCmug2DKXqjoVI4WnOQ8tMv5l81LhJrBnU0n/wJhl4saWNRqkCOYU+UqAWreesGu92oTfcw2ked8eR6uaq5+YUpbqCZhD2TIPF4tURtis+IXcl1IAa7H3IY0gipr7hhbvdvbudaLR+2pccjxG7KUnBQBZfE0MVk4F8Qoy7d7l11VTr+l/jQsSu+unFKYcRiNg5oVMR8U4JzxYl3dRouuusetVoX7GWnWs699xGu0ncM+x5XN4wngZd9UayDyV6Xj4hbDDM56WfQ9R+KXJXyo3ad4cT9nWz61+OdLrcDyX42sM+ZDAlQrjPy+llZ9Qp6ZtHcnf75Rp/K4nyLqLeOcU7m0783NpnL5+m2hORpgNr7k3mt/P2w==;ciCg1bOyNAKFzk/CwrHp5A=="
+secured: "iL9z/6W9zoNhNk73LtGxilvuTDW4uuQ5z8zGV3AMHNvC4t6A67yvFy8m7dccMx7BMHhpnF5Fnx5UnJe2ZStkoW9StwaKfEfJT8+aVWIUrZFnRmARnOMD5SA9oiLi6mM5MGUE46ZUNUGZBJYxqU7He8jN1GTMDSLciHNE7HOffaF7cD21121qYgtaoCXjKcZQO20cpZb7ftvnJkNI3stkGcjkLYXTqh3pt90Bc3/BYHyFt2YyfH4Rg7xJvcNw20FdL0ldoqj+ayjG2CAfyjkLRicfPnTQ9aAXpCSn526BIwViVRUFSj5kQNY4Sh9A1gqW1LuYN8MUXtbOSZpkw7QB5gABvHXW624BAZZfq43tYB4=;pp7BwX7GISsZhQ7dOzyTTw=="
 ---
 
