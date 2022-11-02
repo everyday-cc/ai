@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-re
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

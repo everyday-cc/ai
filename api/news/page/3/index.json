@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-28-tomiai-selected-for-google-for-startups-cloud-program.md",
+      "title": "Tomi.ai Selected for Google for Startups Cloud Program",
+      "excerpt": "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1932593/Konstantin_Bayandin_Dmitry_Popov_Tomi_ai.jpg",
+          "width": 400,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
+      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-heres-how-this-company-uses-ai-to-grow-shrimp-sustainably.md",
       "title": "Here’s How This Company Uses AI To Grow Shrimp Sustainably",
       "excerpt": "This company's shrimp farming technology is an AI-powered automated system that remotely monitors water quality, regulating temperature and oxygenation, and feeding the shrimp.",
@@ -205,33 +308,24 @@
     {
       "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
       "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
-      "excerpt": "In the past few years, computer vision AI models have surpassed human-level performance across image classification, detection, and other tasks in the lab. However, models often fail to work as ...",
+      "excerpt": "The LatticeFlow platform was built to automate the process of solving data quality and blind spot issues in computer vision AI models, critical to enabling model performance in the wild. Data ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
-      "originalUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/bd/7bd4c58c-f9a8-5e72-b4e2-08b7e1ee9324/635b9083a776d.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
-          "width": 960,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T01:25:00-07:00",
+      "publishedDateTime": "2022-10-28T01:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1111,101 +1205,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-trust-and-ethics-in-ai-systems-possible.md",
-      "title": "Trust and ethics in AI systems - possible?",
-      "excerpt": "I asked the question whether we should fear the accelerating AI systems. My answer was: yes, we should be scared.",
-      "sourceUrl": null,
-      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible",
-      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.philstar.com/photos/2022/10/24/watsons-club_2022-10-24_13-36-56343_thumbnail.jpg",
-          "width": 686,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible/amp/",
-      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible/amp/",
-      "publishedDateTime": "2022-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "philstar.com",
-        "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run.md",
-      "title": "Lego to discontinue Mindstorms robot line after a 24-year run",
-      "excerpt": "Lego Mindstorms debuted on September 1, 1998, as a breakthrough educational tool—originally developed at MIT—that allowed kids and adults alike to craft robotic systems using",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lego_mindstorms_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

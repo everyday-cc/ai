@@ -10,7 +10,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -43,6 +43,50 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-university-at-buffalos-robot-dog-contributes-to-ai-research.md",
+      "title": "University at Buffalo's Robot Dog Contributes to AI Research",
+      "excerpt": "A yellow quadrupedal robot nicknamed Yubie, branded Spot the Agile Mobile Robot, is wandering around campus helping researchers study robotics, computer science, artificial intelligence and other high-tech fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/3d04f07/2147483647/strip/true/crop/1000x521+0+72/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F37%2F94%2F85761bbc4a8e928c7748a81f7fd6%2Fspot.png",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "publishedDateTime": "2022-10-31T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -551,10 +595,10 @@
     {
       "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
       "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
+      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -564,21 +608,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T06:44:00-07:00",
+      "publishedDateTime": "2022-10-27T05:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1386,49 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-after-turmoil-datarobots-new-boss-looks-to-turn-ai-startup-around.md",
-      "title": "After turmoil, DataRobot’s new boss looks to turn AI startup around",
-      "excerpt": "Saha’s career experience positioned him well to guide the AI startup through its recovery ... she will tell you that I have always been a robot and finally found the right place,” he joked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/10/19/business/after-turmoil-datarobots-new-boss-looks-turn-ai-startup-around/",
-      "originalUrl": "https://www.bostonglobe.com/2022/10/19/business/after-turmoil-datarobots-new-boss-looks-turn-ai-startup-around/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/o-VvcTqQoVPB1j1st4moDxj4Dmg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/AH2QJHW6UNDHPEVWMMC776SEEQ.png",
-          "width": 506,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

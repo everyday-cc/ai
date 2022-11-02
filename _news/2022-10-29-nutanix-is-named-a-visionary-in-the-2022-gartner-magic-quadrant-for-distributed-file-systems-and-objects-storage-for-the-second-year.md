@@ -33,28 +33,6 @@ related:
         width: 695
         height: 463
         isCached: true
-  - title: "Qumulo Named a Five-Time Leader in Gartner® Magic Quadrant™ for Distributed File Systems and Object Storage"
-    excerpt: "Qumulo, the radically simple way to manage petabyte-scale data anywhere, today announced its position as a Leader in the 2022 Gartner Magic Quadrant for Distributed File Systems and Object Storage for"
-    publishedDateTime: 2022-10-28T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29460491/qumulo-named-a-five-time-leader-in-gartner-magic-quadrant-for-distributed-file-systems-and-object-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29460491"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29460491"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
-  - title: "Nutanix is Named a Visionary in the 2022 Gartner® Magic Quadrant™ for Distributed File Systems and Objects Storage for the Second Year"
-    excerpt: "Click Here to See His Next Trade! Nutanix NTNX , a leader in hybrid multicloud computing, announced today it has been named as a Visionary in the Gartner022 Magic Quadrant for Distributed File Systems and Objects Storage."
-    publishedDateTime: 2022-10-28T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29460489/nutanix-is-named-a-visionary-in-the-2022-gartner-magic-quadrant-for-distributed-file-systems-and-o"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29460489"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29460489"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
   - title: "Nutanix is Named a Visionary in the 2022 Gartner® Magic Quadrant™ for Distributed File Systems and Objects Storage for the Second Year"
     excerpt: "Nutanix has announced that it has been named as a Visionary in the Gartner October 2022 Magic Quadrant for Distributed File Systems and Objects Storage. This marks the second consecutive year the company has been recognised in this report."
     publishedDateTime: 2022-10-31T15:04:00Z

@@ -2,6 +2,147 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-26-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
+      "title": "MLsec could be the answer to adversarial AI and machine learning attacks",
+      "excerpt": "With research showing that private investment in artificial intelligence (AI) reached roughly $93.5 billion in 2021, it’s no secret that many organizations are implementing AI and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
+      "originalUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks.md",
+      "title": "Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS",
+      "excerpt": "This post was co-written with Sachin Kadyan, a leading developer of OpenFold. In drug discovery, understanding the 3D structure of proteins is key to assessing the ability of a drug to bind to it, directly impacting its efficacy. Predicting the 3D protein form, however, is very complex, challenging,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T12:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-ibm-announces-three-new-ai-libraries-for-natural-language-processing.md",
+      "title": "IBM announces three new AI libraries for natural language processing",
+      "excerpt": "IBM unveiled three new embeddable AI libraries to reduce the barriers for AI adoption and to address the AI skills shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-25-at-1.12.13-PM.png",
+          "width": 1202,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event.md",
       "title": "Microsoft Celebrates 10 Years Of Surface At Its 2022 Surface Event",
       "excerpt": "I believe Microsoft has made some incredible innovations for its hardware and software over the past 10 years and with its Surface Brand. That path is marked by the Surface teams",
@@ -444,40 +585,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
-      "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
-      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29397500",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500",
-      "publishedDateTime": "2022-10-25T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-25-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
       "title": "MLSec could be the answer to adversarial AI and machine learning attacks",
       "excerpt": "Hidden Layer announces the launch of a new MLSec platform designed to detect and respond to adversarial AI and machine learning attacks.",
@@ -523,10 +630,10 @@
     {
       "path": "_news/2022-10-25-voice-recognition-has-hidden-dangers-says-swiss-report.md",
       "title": "Voice recognition has hidden dangers, says Swiss report",
-      "excerpt": "Online speech and face recognition digital systems, such as Alexa, should be better regulated to protect consumers, a Swiss technology think tank advocates.",
+      "excerpt": "Online speech and face recognition digital systems should be better regulated to protect consumers, a Swiss technology think tank has recommended. Virtual assistants that react to voice commands ...",
       "sourceUrl": null,
-      "webUrl": "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
-      "originalUrl": "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
+      "webUrl": "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
+      "originalUrl": "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -545,7 +652,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T05:17:00-07:00",
+      "publishedDateTime": "2022-10-25T05:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Swissinfo",
@@ -709,6 +816,58 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
+      "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
+      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1020,144 +1179,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-from-artificial-intelligence-to-ancestral-foods-check-out-these-november-happenings.md",
-      "title": "From Artificial Intelligence to Ancestral Foods, Check Out These November Happenings",
-      "excerpt": "The ceremony is open to the public and will include an Objects Out of Storage display showcasing artifacts from the museum’s noted military history collections. Guest chefs Elena Terry and Zoe Fess will prepare Seedy SassSquash,",
-      "sourceUrl": null,
-      "webUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
-      "originalUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-thumbnailer.cdn-si-edu.com/uDp3cqkk6y0G3GfJ9d7m41ONrbY=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/7b/cf7bdb68-a1fa-425f-bac2-a0fc7e3e81db/lemelson.png",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithsonian Magazine",
-        "domain": "smithsonianmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
-      "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
-      "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "originalUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "publishedDateTime": "2022-10-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-model-using-daily-step-counts-predicts-unplanned-hospitalizations-during-cancer-therapy.md",
-      "title": "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy",
-      "excerpt": "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/pedometer.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "publishedDateTime": "2022-10-24T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft wants AI to change your job – if it can work out the kinks"
+    excerpt: "The most hyped words in tech today may be “generative AI”. The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user."
+    publishedDateTime: 2022-11-02T07:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/microsoft-wants-ai-to-change-your-job---if-it-can-work-out-the-kinks"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1800869.jpeg"
+        width: 1240
+        height: 929
+        isCached: true
 
 secured: "jlRDXjL+u8MFu8V0I4HiGiaW8dtJZdLhPW7hfcAi8D9VzbvjodWNHV5Uk8+UD3U1ptx8jLV0Jldibq6W0ghKnp1T/ghy2ooqZsrlnxlsXSLVDFD5uyLC6dowAr4MM4M33kHQBPUBARWFGhNjIipwGDwZWvpEqgIx5mgE+t6uZkfsS0LY35zyDBI3T1BLVfq56em+dNxXR5EPcVBit/04cwurNbja1KNz9kivfgJtNWjxJidyzbFYKk58zrSPh9ztfCqZEF+3GwUHAskgsT6wVE+j2gLz3e3401PhsRj6skyHIuudqbi4HcXIVW3OZiLMNoD5RzPH3GYvgarMmkXK2FnMWQH8FRAeUKkZTOvGISs=;Ig5Bcsjnaj02Kb0VbfiwKw=="
 ---

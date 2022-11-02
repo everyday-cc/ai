@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fai
 webUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards"
 type: article
 quality: 77
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "UK police fails ethical tests with “unlawful” facial recognition deployments"
-    excerpt: "A team of researchers from the University of Cambridge have called for UK police to be banned from using facial recognition in public spaces, and claimed that police deployment of the tech to date has not met “minimum ethical and legal standards”."
-    publishedDateTime: 2022-10-28T13:32:00Z
-    webUrl: "https://www.techcentral.ie/uk-police-fails-ethical-tests-with-unlawful-facial-recognition-deployments/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 68
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/10/police-facial-recognition-GettyImages-1355656549.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
     excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
     publishedDateTime: 2022-10-28T15:41:00Z

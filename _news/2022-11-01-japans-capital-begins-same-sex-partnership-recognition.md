@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Japan's capital begins same-sex partnership recognition"
-excerpt: "Japan's capital has begun issuing certificates recognizing same-sex couples, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed"
-publishedDateTime: 2022-11-01T15:53:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
-webUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+excerpt: "Japan's capital, Tokyo, began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed."
+publishedDateTime: 2022-11-01T16:29:00Z
+originalUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
+webUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
+ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CTV News
+  domain: ctvnews.ca
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_a0d053bbdb524cd3b755673c23e2df9a_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+    width: 1020
+    height: 574
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "EZobXBJXJsyUix2QPgpq+R+hDtX1aDUufZOlVq3BhFqqIC275VLgLQbHo/EMTVpKOFbNOzVtxNCgLCLy/ovi+kzuvTBe0sWlJ5RgBhJU76U9CjkiPJM1GbaUo4CQ9gN5CpZouugUdbmxbKOQ44nNZVR89c9LYDHaPEE48m7jFiw5UgYpXWZCKH14J9AwAZYwwFIFw3ejcidxVofBUEeKWdHT4Nb4i1h3iPdrFCUH8LkXDDXtJlf4v9cjs5QCuyxdPg5IHRqvQUK+ZCUqxSJkTy3340hTxbkkf/T8+tt9MkNxdMP+vP3MD+GmBYRvkE4h3tUQmv6VH3H+kDfdT4eJVkuPKBMkj74FE7h8ApCxeEk=;JNZ8POuXPbnSu/CpER5ZSw=="
+secured: "eB9m9MQ6gTGXWHlB2WjRK1PIV+dwFVVPY77fCitiLionKU2uKO0oXrGJIaHtcDLNqa+fjmUGyPagPyOwtku7aehUIDoWqpAxvtRsBnSy53Kru/TkvYxJK8S8fjr8pbY3n0X4blkDSlZFa2CaKRp/eAnzn96LwrZM62hUOxPABiNT59XnHTh26oRsJ61b2aCmxFbN8P4zbOW3aNl9h040N7uoRckiWCFbmANkVDg4AG5pm+H2y5ETcPYCPd9rSMNXC9998Og09tqTkndzgMIpc45kKhG/k/PVIhwcgZvg/budRXL21/6NuuP69mcjaN12E/FDM+lNMB/t3ui5tCtM5RP4cMZc7cproyXvNcXzMts=;c3nB3su9AUz3Nh9n/6eoLg=="
 ---
 

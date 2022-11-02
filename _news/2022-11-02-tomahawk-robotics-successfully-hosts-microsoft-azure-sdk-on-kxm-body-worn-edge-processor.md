@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hos
 webUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

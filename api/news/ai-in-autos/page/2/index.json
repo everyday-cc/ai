@@ -1061,6 +1061,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-artificial-intelligence-ai-market-cagr-of-556-size-share-growth-trends-industry-analysis-growth-opportunities-and-forecast-2022-to-2030.md",
+      "title": "Artificial Intelligence (AI) Market CAGR of 55.6% Size, Share, Growth, Trends, Industry Analysis, Growth Opportunities and Forecast 2022 to 2030",
+      "excerpt": "The global artificial intelligence market size is expected to reach $169,411.8 million in 2025, from $4,065.0 million in 2016 growing at a CAGR of 55.6% from 2018 to 2025. Artificial Intelligence (AI) has been one of the most progressive technologies in computer science since its introduction in the 1950s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-cagr-of-556-size-share-growth-trends-industry-analysis-growth-opportunities-and-forecast-2022-to-2030-2022-10-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-cagr-of-556-size-share-growth-trends-industry-analysis-growth-opportunities-and-forecast-2022-to-2030-2022-10-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence.md",
       "title": "New exhibit at Seattle museum explores origins and potential of artificial intelligence",
       "excerpt": "(GeekWire Photo / Charlotte Schubert) Seattle’s Museum of History and Industry opens a new exhibit this Saturday called “Artificial Intelligence: Your Mind & The Machine.” GeekWire got a ...",
@@ -1345,49 +1397,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-artificial-intelligence-shows-how-kim-kardashian-and-sisters-look-with-no-cosmetic-work.md",
-      "title": "Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic work",
-      "excerpt": "A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
-      "originalUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article27997829.ece/ALTERNATES/s1200/3_Khloe-Kardashian.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
-      "publishedDateTime": "2022-10-13T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

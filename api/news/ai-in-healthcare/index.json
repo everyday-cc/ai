@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-beyond-dashboards-the-future-of-analytics-and-business-intelligence.md",
+      "title": "Beyond Dashboards: The Future Of Analytics And Business Intelligence?",
+      "excerpt": "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6362212a73ae471fe027c5a2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "publishedDateTime": "2022-11-02T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-university-at-buffalos-robot-dog-contributes-to-ai-research.md",
+      "title": "University at Buffalo's Robot Dog Contributes to AI Research",
+      "excerpt": "A yellow quadrupedal robot nicknamed Yubie, branded Spot the Agile Mobile Robot, is wandering around campus helping researchers study robotics, computer science, artificial intelligence and other high-tech fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/3d04f07/2147483647/strip/true/crop/1000x521+0+72/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F37%2F94%2F85761bbc4a8e928c7748a81f7fd6%2Fspot.png",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "publishedDateTime": "2022-10-31T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-ai-experts-question-tech-industrys-ethical-commitments.md",
       "title": "AI experts question tech industry’s ethical commitments",
       "excerpt": "From healthcare and education to finance and policing, artificial intelligence (AI) is becoming increasingly embedded in people’s daily lives. Despite being posited by advocates as a dispassionate and fairer means of making decisions, free from the ...",
@@ -1348,102 +1444,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-recent-advancements-in-artificial-intelligence.md",
-      "title": "Recent Advancements In Artificial Intelligence",
-      "excerpt": "Over the last few years, artificial intelligence (AI) has worked its way into every area of our lives. If you’re a programmer, chances are you’ve started working with GitHubs",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-07T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House Unveils Artificial Intelligence Bill of Rights",
-      "excerpt": "The White House has unveiled a 'blueprint' for an AI Bill of Rights, which outlines five protections Americans should have in the face of the rising use of these technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "originalUrl": "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2021-03-05-GettyImages-474772731-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "publishedDateTime": "2022-10-07T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

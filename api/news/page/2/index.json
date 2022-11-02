@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-01-uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards.md",
+      "title": "UK Police Use of Facial Recognition Fails to Meet 'Legal And Ethical Standards'",
+      "excerpt": "Cambridge University researchers call for police to be banned from using facial recognition in public spaces over human rights concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards",
+      "originalUrl": "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-artificial-intelligence-methods-may-replace-histochemical-staining.md",
+      "title": "Artificial intelligence methods may replace histochemical staining",
+      "excerpt": "Pathologists observe tissue samples by staining them first. However, the standard procedures for staining tissue samples in histopathology are time-consuming and require specialized laboratory infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-77.jpg",
+          "width": 2880,
+          "height": 2681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
+      "publishedDateTime": "2022-10-31T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-farm-robotics-technology-company-buys-big-santa-clara-office-building.md",
       "title": "Farm robotics technology company buys big Santa Clara office building",
       "excerpt": "A farm robotics company whose technologies could revolutionize farming and food production has bought a big Santa Clara office building that it had previously subleased.",
@@ -507,7 +594,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1131,109 +1218,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tomiai-selected-for-google-for-startups-cloud-program.md",
-      "title": "Tomi.ai Selected for Google for Startups Cloud Program",
-      "excerpt": "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1932593/Konstantin_Bayandin_Dmitry_Popov_Tomi_ai.jpg",
-          "width": 400,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
-      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
-      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

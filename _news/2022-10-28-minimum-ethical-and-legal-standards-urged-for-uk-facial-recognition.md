@@ -35,20 +35,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 77
-  - title: "UK police fails ethical tests with “unlawful” facial recognition deployments"
-    excerpt: "A team of researchers from the University of Cambridge have called for UK police to be banned from using facial recognition in public spaces, and claimed that police deployment of the tech to date has not met “minimum ethical and legal standards”."
-    publishedDateTime: 2022-10-28T13:32:00Z
-    webUrl: "https://www.techcentral.ie/uk-police-fails-ethical-tests-with-unlawful-facial-recognition-deployments/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 68
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/10/police-facial-recognition-GettyImages-1355656549.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "The Use of Facial Recognition by UK Police Falls Short of “Legal and Ethical Requirements.”"
     excerpt: "The new audit tool was developed by a team from the University of Cambridge’s Minderoo Centre for Technology and Democracy to assess “compliance with the legislation and national advice” on concerns such as privacy,"
     publishedDateTime: 2022-10-30T17:41:00Z

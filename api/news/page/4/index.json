@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-27-trust-and-ethics-in-ai-systems-possible.md",
+      "title": "Trust and ethics in AI systems - possible?",
+      "excerpt": "I asked the question whether we should fear the accelerating AI systems. My answer was: yes, we should be scared.",
+      "sourceUrl": null,
+      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible",
+      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.philstar.com/photos/2022/10/24/watsons-club_2022-10-24_13-36-56343_thumbnail.jpg",
+          "width": 686,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible/amp/",
+      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible/amp/",
+      "publishedDateTime": "2022-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "philstar.com",
+        "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run.md",
+      "title": "Lego to discontinue Mindstorms robot line after a 24-year run",
+      "excerpt": "Lego Mindstorms debuted on September 1, 1998, as a breakthrough educational tool—originally developed at MIT—that allowed kids and adults alike to craft robotic systems using",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lego_mindstorms_hero-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-tesla-is-under-criminal-investigation-over-self-driving-car-claims.md",
       "title": "Tesla Is Under Criminal Investigation Over Self-Driving Car Claims",
       "excerpt": "An investigation recently launched examining Tesla's claims about its vehicles self driving capabilities, probing whether or not the company has misled its consumers.",
@@ -54,49 +149,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
-      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
       "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
       "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
@@ -145,6 +197,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
+      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
+      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1178,102 +1264,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report.md",
-      "title": "Artificial Intelligence(AI) in Healthcare Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share | 125 Pages Report",
-      "excerpt": "Oct 26, 2022 (The Expresswire) -- \"Artificial Intelligence(AI) in Healthcare Market\" valuation is Projected to reach USD 13240 Mn USD by 2027, From 2222.5",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-sonys-alpha-7r-v-takes-autofocus-to-another-level-with-ai-body-tracking.md",
-      "title": "Sony’s Alpha 7R V Takes Autofocus to Another Level With AI Body Tracking",
-      "excerpt": "With cameras like the Sony Alpha 7R IV, eye-tracking even works when a subject is turned away from the camera, and only a small part of their eyes are left visible. But in many instances, if a subject’s eyes are completely occluded,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585",
-      "originalUrl": "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585/amp",
-      "publishedDateTime": "2022-10-26T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

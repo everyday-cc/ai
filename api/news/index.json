@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-beyond-dashboards-the-future-of-analytics-and-business-intelligence.md",
+      "title": "Beyond Dashboards: The Future Of Analytics And Business Intelligence?",
+      "excerpt": "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6362212a73ae471fe027c5a2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "publishedDateTime": "2022-11-02T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-on-kxm-body-worn-edge-processor.md",
       "title": "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor",
       "excerpt": "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -201,7 +253,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -402,7 +454,7 @@
       "originalUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -454,7 +506,7 @@
       "originalUrl": "https://www.cnn.com/2022/11/01/business/self-driving-industry-ctrp/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -998,6 +1050,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-01-university-at-buffalos-robot-dog-contributes-to-ai-research.md",
+      "title": "University at Buffalo's Robot Dog Contributes to AI Research",
+      "excerpt": "A yellow quadrupedal robot nicknamed Yubie, branded Spot the Agile Mobile Robot, is wandering around campus helping researchers study robotics, computer science, artificial intelligence and other high-tech fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/3d04f07/2147483647/strip/true/crop/1000x521+0+72/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F37%2F94%2F85761bbc4a8e928c7748a81f7fd6%2Fspot.png",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "publishedDateTime": "2022-10-31T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-researchers-plan-to-use-ai-to-better-understand-and-treat-brain-tumors.md",
       "title": "Researchers plan to use AI to better understand and treat brain tumors",
       "excerpt": "Medical doctors are collaborating with computer scientists to improve care for patients with cavernous malformations, some of the most difficult-to-treat tumors in the head and spine.",
@@ -1006,7 +1102,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-ai-brain-tumors.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1140,93 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards.md",
-      "title": "UK Police Use of Facial Recognition Fails to Meet 'Legal And Ethical Standards'",
-      "excerpt": "Cambridge University researchers call for police to be banned from using facial recognition in public spaces over human rights concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards",
-      "originalUrl": "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-artificial-intelligence-methods-may-replace-histochemical-staining.md",
-      "title": "Artificial intelligence methods may replace histochemical staining",
-      "excerpt": "Pathologists observe tissue samples by staining them first. However, the standard procedures for staining tissue samples in histopathology are time-consuming and require specialized laboratory infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-77.jpg",
-          "width": 2880,
-          "height": 2681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
-      "publishedDateTime": "2022-10-31T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 type: article
 quality: 57
-heat: 88
+heat: 87
 published: true
 
 provider:

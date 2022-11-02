@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ct
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ctrp/index.html"
 type: article
 quality: 74
-heat: 84
+heat: 87
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EVGneq1q+UEaq9jhGTUHCl9gaPLMoaEztp8Qk7SfXwjgZtJRqAg3e/VsCKsFvX3Q3xy56fvMXXMviMbWcXfIIV4bPJwRpEH2lF1MpmaSa5MMMlAeVR7Rq+SHRHrvv4eZDOKGm0MxbwIYPFgOiQ2WYj1BCFOs/Xlh+hUjM0aSCSl//8XGlcbtYt0bAYnOSlNwEGToyBKt6iu2tkD6WqnHpFLUgvS64VL+lr+dtEa3WZrNXmHI1FKQCpbepfgAyk0UCTgLB9TWvedpQcPQv7uqTfCPczOZiOEcTKJOmyMJTpsJgr2/qX6ny6Q80BrUyl3v4zTwzGHYc11/EV3GecbHJioBX8UzuqJmSBhh2AcJh9U=;ECXxZx+YVUTt7i3Cmqux5w=="
+secured: "4DtL19ck1d853eBbhpxcBM00j0gHoUnm6miJ7Z0ytUOdXfwzPNjq2qOecCdN2qmvBZZwPChyxkEaGoF1yMX5vvmPI/W7ZV1+7plZLUVeU84CewTgnU2UP4c4oNRPgu5u16XCxSdonmmgoaLRRIGyoBQdzWuzs+ASG+rpInTqyHOKldFMzvREJgLrsV1XiA0OoU3w+cVIX2hqdCbgknHMGZkH/Lt6w92PLhhHo6ryMj2yj3y/toIp8RJy8C1rZ0LHAJJiTV/08416HoKjEh4auw0Wns9gyEc4BMusKu7Ol5zeQJvdzdyJqy73IJ+9JxH8n/OKaoeYqxsFJKQC6j/ozuxDmDf00madyUpR5kPo8P/bxJZK9kXX33MyYBX/k9qQ02CQFrBvj6L5toih+jWnhy4KjeR/LnQ2de1uM9YHK7NCoN4xGt743p6gkrSTY8M3m1Y5V7U37a6ewlLj/zhywYwU8yAnHguqIqB/PDrWukz2zYqiQw+yfaG/dooHZ5qwW1KAlltkCKRF+1v848Y5HA==;US+W4/9zypot7mFHNF0yHA=="
 ---
 
