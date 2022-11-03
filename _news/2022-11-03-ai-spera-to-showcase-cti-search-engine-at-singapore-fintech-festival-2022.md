@@ -39,6 +39,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Singapore Fintech Festival 2022: Saxo launches digital wealth advisory solution"
+    excerpt: "During the week of Singapore Fintech Festival 2022, Finextra caught up with Saxo's APAC CEO Adam Reynolds and regional head of Saxo Institutional Ivan Chang at their offices in Singapore to discuss the launch of SaxoPartnerConnect."
+    publishedDateTime: 2022-11-03T11:50:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41255/singapore-fintech-festival-2022-saxo-launches-digital-wealth-advisory-solution/markets"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 20
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/buysell.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "edeoGgZjKDoxuMmNzy33a6DRoM84WkF0n2T7OTGNfbqYmXY7D0Rjliq4uTmMHOXHJfVq7K+2291fgTvkzo2RHsteEGntOlo9kqjVDF5pjL+bP28O0QXyJGar+SdT40+JNZtOeImBZG4Cb3pp9DDs339+lJ6Kbjh+5wnDRgPdgr13Su/vY4FuyA6W/hFxxXHcnTiaNxL1HU5IU4royGtUnc1Yyk4J7fK8QO8xvNcEQPvMvtADBswGcRmkf5qwEwPi7y/57X8BgC9uq7vSOM0FBZumYC1pzP1ABLJtrkD4SA2/IWGsSNI+5O7YjeJbauu+B30e48umuoVdfK1mblgrbPnpFDgU4egLDC0FCrvRPbSv8HoYoFppHfT8kBZMRqgTZBuEsoUBS/CDpTCu8876YwMHLCCVr2im82POu3N1KAteoLyy/++IHtE4qd0dMlmk42zy6ej8VTM3/7IJwX6OVm60AErgA+YXvVGDIZWXTdx2WIP0bZK1ZsI2IAsY0Bi+mRjTKJ186kWq4iJ9Pib9HQ==;BYH8D5BspurC/m8tLlxx+Q=="
 ---

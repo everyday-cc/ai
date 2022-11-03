@@ -23,36 +23,40 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Transformation of digital marketing due to AI"
-    excerpt: "When it comes to making purchasing judgments, modern consumers have become unusually good researchers. They are gaining greater insight and awareness as technology enables them to make more informed judgments online."
-    publishedDateTime: 2022-10-30T04:30:00Z
-    webUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/"
-    ampWebUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
+  - title: "Brain Corp Introduces Third Generation AI Autonomy Platform to Power the Next-generation of Autonomous Commercial Robots"
+    excerpt: "Brain Corp, an artificial intelligence (AI) company creating transformative core technology in robotics, today announced the launch"
+    publishedDateTime: 2022-11-02T15:00:00Z
+    webUrl: "https://enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/"
+    ampWebUrl: "https://enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/Untitled-design-24-3.jpg"
-        width: 1200
-        height: 675
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/Brain-Corp-Introduces-Third-Generation-AI-Autonomy-Platform-to-Power-the-Next-generation-of-Autonomous-Commercial-Robots.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "The power of vision in marketing and branding"
-    excerpt: "Even the crafting of a brand name may help in recognition. In India the runaway success of PayTm was probably aided by the fact that the brand name played on the commonly used cash dispensing machine the ATM. When consumers see a new object, they want to ..."
-    publishedDateTime: 2022-11-03T02:44:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/the-power-of-vision-in-marketing-and-branding/95265465"
+  - title: "Picsart Adds AI-Powered Image Generation And Copywriting Tools"
+    excerpt: "Picsart, the Miami-based creative platform, has integrated AI technology to its app, adding generative tools for images and copy"
+    publishedDateTime: 2022-11-02T18:55:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/02/picsart-adds-ai-powered-image-generation-and-copywriting-tools/"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 41
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95265465,imgsize-113708,width-1200,height-628,overlay-etbrandequity/the-power-of-vision-in-marketing-and-branding.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "As AI-Generated Art Grows, a Wave of Litigation Is on the Horizon"
+    excerpt: "With artists pushing back against AI systems that are trained on their original works, IP attorneys expect the complex legal issues of this practice to spur a long road of litigation."
+    publishedDateTime: 2022-10-31T12:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/10/31/as-ai-generated-art-grows-a-wave-litigation-is-on-the-horizon/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 17
 
 secured: "nIleXp8yhaOb1RhoHs0QsQ0MBTZtN2TGsCO5zylvHIwwlB9i1qKg99zKFqAeF61XXzFgLZMRgvXoxlUG/+WtIDx+YTfNZ5QQ9I783slHIEGmL/NsSAhg2P6q1w6MhU259xDQp2Yli7lahw+DwkHXntD4kQgiS7UNK+bnwX/6BgbIXIu3W2C8eZTl4bankgM4hUH9GzndrFgXCHkNoLTqB3n2qPyk8a716tGaJt1KC9iStqB59cq8+OoFhZoJm5YU9S2ee+mUMbU9JrYt6ZyiIVPjQoWY/k8iSWCFWIjA9u3spYIM+78QuaS/3PefzOt/T7Vul8VcPpdLBMRiaNoZlSOSvL9dMR6dGD7Z2Jbjbegat3Z5buDhzJQ4w9ewD+PyiQzjMR9dygmDGkLG/7gBWOvdtYlh/Ac7RRBw6SvBGwd1FJFLyGSFTF09n0PELqzNblYfbLXiil61aK2usBRkWD9LnzwZ8tOaDY2/9JX+8wBpTmwo4M/AzhLZzTNz1X4QUh69hCMimUm0Uv1mJ5L61w==;Lim5qLTKmlar+tMq4Tnugg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.outlookindia.com/outlook-spotlight/5g-iot-and-ai-platform-i
 ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/5g-iot-and-ai-platform-interconnection-is-essential-for-ease-of-living-and-ease-of-doing-business--news-234442/amp"
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/5g-iot-and-ai-platform-interconnection-is-essential-for-ease-of-living-and-ease-of-doing-business--news-234442/amp"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1667463538.jpg"
@@ -26,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ITpuZJrLEYjZnwdW19KeaRM6WsgGBISEXMEIeJjPNA1gcVmzDtBJHYU2bjrbPer280z6WU5R6NvFrPFei4X7BPBpL+m789esIcROZOd77JHZUHkvaFsYBFZ/krJzXTFX3fzNdxeRJ6qlhOB9XFBieCRstmtGDHoFQ/I/Lxi4FWdxxJ51bp1LysDoXThMBjA6hGi5VLPtCkzTQWRhK3GM3htA78hNej5g63a1FE3eHcSjqYSqGWHEssVfcqQ12nT1Wnz6MgFGswCIz1lstkpe8mNeWt981LKRV2IKogJ3OhyKUlykgTP150PtYZoYoeXnmdbsMewxw0aAmxtaZk0te5eL4M0hLPMyVsVc5D2iAd4=;ZJm0uqFCajQ8rEFrPxE64w=="
+secured: "UEG4o1RZgmrQx+4Ma/b7qm4crmCNkA2bBF8WboWd1B/EUtYGBvzjVnyyHLFuSd0LdJOEQjOjBvVWyFNetUas8M7l0AlXPUtnBVVh/3pFAgM45Y2KRS0FlxmJ1ijKuZlG1CphGL3pEuUEsmZ16cWfSPq7zGuliU280SjQX1SkwiI2kBBG3NmQObTvd4yMvZkmdvkR9If/e/EyavJ4eghdBIEUavLbXqrKv49X89Z/MntTSF80ZXXeSrmYUhSzJcAJCdXCLUEnalGvz1xBZPVHKDdS9/hGomGOQKjW51GimS5Quf2fArBJAsu8VX7UISZik4fF+fIdkEzqimi8HLep6zFtiboafRAoQ8lleYHpzA+co6CAnDaZZRcWm3xP8Affpe4Zjln8mtlLJti+PpsZ9A+ENWxCZczuhPf5k+STMUApp1MEs/fd4H3aDaUAAG3V4gcbAqE0f6nP/77AX04xL8M6IfS9zk45LVgi+a0uv6Iy/78WvF+NIuYa+M38eINRmLSKvAax5v5MIQgBdTkhqg==;ELkwKlL6HfqVbP58oGacDw=="
 ---
 

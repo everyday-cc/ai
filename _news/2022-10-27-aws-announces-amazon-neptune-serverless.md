@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces Amazon Neptune Serverless"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that automatically scales to support unpredictable and business-critical graph database workloads."
-publishedDateTime: 2022-10-26T22:03:00Z
-originalUrl: "https://apnews.com/article/technology-business-amazoncom-inc-web-services-ddc9b996e2fd48ef9b8742ead239213f"
-webUrl: "https://apnews.com/article/technology-business-amazoncom-inc-web-services-ddc9b996e2fd48ef9b8742ead239213f"
+excerpt: "Amazon Web Services, Inc. (AWS) has announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that"
+publishedDateTime: 2022-10-27T16:11:00Z
+originalUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
+webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "8Y3b+n4M/BLIVgRZ+3a3lMhK68FT2eR+Agp8TqP315Ext9hIxZnoTIgeFcFKqPHR5hsyhw4k6HCjXmNQFhaAFw081SJEJ9JJaWrpnpesMQWv2UUbQEPrjjBGP0kQLxiI2mvpx/b67xmHpz/4+wowNPYtsjh7ec864vFWbsbsm9sn9KGalkB7H0vLk5GZXx17XPLIsXi2cXYvTLruqnoWA8BiqH3hlSa5EUCqbSPezV3I6qyR70G6/sNbs9m170c0Yx/WhLQxMwd3BLdQ8obFtDLdtBDLgyDDl3yWFh7ex51qnpm2QdFlJ2BzMwcFzFcWP9bhrrp1gUxQ9zbQ6W8CPA/WZCeq2mODcGBX3oOfdng=;K3uOF3zobd+Lq96ozXUfbQ=="
+secured: "kcvWmWoWjaEIC9M3nFvnCOiaMbLk3gQoTMLdmpQAHdfwPPx2KVtR4Gww6VjO7c7jhquBWEVu0/8+uPHr36wjCO5StAlqXZAllJcH1Q+56iGK93iViPHON2b1NxG6JOTgIGFJCJOp1AbZmloe4r0cusy19lclksBJhLF+786sT3ViT32cIeb+g4OZVCl4HDiPBBMghkaSLFje1mcJLmktN88fMbe/6+8RB9grglGciphE3YdFTO8C9yTNnb6VwemaOhnykzw1/shOjPRwkpN9OhD4ExPHeED6MV9k0hp/Ydvbm0PDpC+b4J/hy43K3UBOx2ttGwnVsrrregK5+wVhHU43M/ffVCCr7fH42oYhxs0Za/rmuu8cBi7iAiCJtxN6rmupBdtNnhEtW0AVNhqiS9JQWtbMSwA48d/0ru8SBZ3dhbay/4Uvi5ZECTNLS5zkAGJfG6G31FRHp2JvbnAv1g8S4fGNvEKgYvBSXm4PBZ1uIl2LdeaciWwBMGlRF+CbT+EHo2WRxbXOmMAyAM2rMQ==;4BnVPN+vgu0NU/gnrcMqOg=="
 ---
 
