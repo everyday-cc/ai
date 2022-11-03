@@ -5,8 +5,6 @@ excerpt: "School-age kids who spend hours a day playing video games may outperfo
 publishedDateTime: 2022-10-25T14:50:00Z
 originalUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
 webUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
-ampWebUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg"
-    width: 800
-    height: 600
-    isCached: true
-
-secured: "lRy56aPVuerZlGT7tLMeKZpcXz87YNBvAnzmc7OyIegHOxdv+h1JwJYcY95i404MozAcb9Qan+MU7+H/KPvGIxPJ21gankWChgLFXDqCfz4T3FBtxf5HzsoFTgQuO0+B8qFO2nuR8dNHG3wjj6oSfIGrCA3fUEoq9GW5DZHHNUkYxskyBomdR0IqjEPIHOtd6eQjiy3BiUWYghAWVpzSugFGKk8OIs+YRB6F+6ZwiyYHqLDmqk4mSjd8uv31zSYRCXOxTAu7A3n/NR5hk6W9ftWzJLW3M8KHELSWZf1nJfWbYo3dO99a06gTM7kwWYStFjyWHBJwamuIWqY/KwVTw3aPL8BzUik+WeBOElaj8Ls=;dXWYqgVS70AGz9Ajbity7A=="
+secured: "W0NjGyz20zvQYTzSGqZyLronkYdfmmHtTljHpG1/CNXtGIjWteUibzqk2ZL5Wf3hrarhKRyZP3rTwAWYTFu6eW9Zai2Za9jf9vxwvGhUVNQCxg+x445Iye6VXv4nRk3y8vW16GF3CN7h7RANOuJ0IGN26cZhoPb6QMU/tyUXlu433EmpZpbs6ufqRIqbWqeU8HSnnre5QfhQIbzw0qHzwCy+u2YNBtzmeyJ4bAXcRk6KaU5VEtUhIHYXRnMpgmp/ZHAmuUm/VA/WaHmpVZztBgNH8DdYTWPBI0bBihkzrfrKTZH7PEbOzJ4DhT6W89Xi+PYAHw9xtx86279IIqzpymMXmhgSR1R6NjLt8yt0GII=;HlowkHUM6tYirLuXmESpOA=="
 ---
 

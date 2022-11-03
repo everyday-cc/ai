@@ -21,6 +21,8 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "How AI And Machine Learning Quietly Went Mainstream"

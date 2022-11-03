@@ -1,22 +1,20 @@
 ---
 category: news
 title: "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision"
-excerpt: "\"LatticeFlow is an enabling technology that empowers engineers and companies to deliver quality data and performant computer vision models that work in the real world,\" said Petar Tsankov, Co ..."
-publishedDateTime: 2022-10-28T08:08:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
-ampWebUrl: "https://www.benzinga.com/amp/content/29453267"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29453267"
+excerpt: "The LatticeFlow platform was built to automate the process of solving data quality and blind spot issues in computer vision AI models, critical to enabling model performance in the wild. Data ..."
+publishedDateTime: 2022-10-28T08:10:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
   - AI
 
-secured: "S+/BGkuQoxu83wgdWVm3Z+XHMn7LVhwe7Bp5OSwHC1kac6Naz532xaIQI0tv3n4f+UgUInJjNw4nL5GHld8b7zHTGROaYJWI+ctfHaFURM9GbZHaLvz+8sVEae4gfKEkt2X517Wzi46aiq6boha0p8V5pfmuQpCNyxY9evmrkaNxyfByBmMQKIS3qMm5L95xn/yAm43Ucmek5C5d1AKhUbIe6Wxl0AcWYmhluKxEluezBJva/9BYggx/fO784XoczwgaK2rXX1jAZKqdbPgelWwFASVIRKj0e7p8nRBII5fbFvFeO+HP97y+/4ZIJInD5tqUwl5/1cBSJ5d22n7PZ+54JfzhafIlHjTzOWc97zg=;uIudBZu2E8qeg6z+22hSdA=="
+secured: "eFvtJ8tJUFjSjkLCdyG1xgrVydwbKVM2izrnteNyo5lQYi+AIfwIeHeSvwT1T181vHhY9cSyDK50HFL03vKVgcoOo6T12VkhhfrOhqIehFSArIwhr87F4TG4zOxNBo36SiD8Ko7wSQt/eQmRP5UBIrwVZ2cxQYsuhJY03cyyICrWm5GHLWSa5LCd7liT8ZHvQe7PWGmCGVuDbY+VE8Pa00bgkm+9qoXk0zjfyKTMFvs7fCrS9VF/gDf/OK5Oxui1Q2HZEi9tcfjFNcZ3tUq0ijtyi7PV+JlLeFhL1jxHItdKV+iyRSAsC4ZuB5mGwT9FymQSGPJRZdVZT5ODoDb1dyEBjwMVaMH4VcmvpPip6gw=;zpO8v03in+E0VCYVro+XPQ=="
 ---
 

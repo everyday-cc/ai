@@ -1,28 +1,24 @@
 ---
 category: news
 title: "IBM Helps Ecosystem Partners Accelerate AI Adoption by Making it Easier to Embed and Scale AI Across Their Business"
-excerpt: "\"By bringing to market the same portfolio of embeddable AI technology that powers our industry-leading IBM Watson products, we are helping Ecosystem partners more efficiently deliver AI ..."
-publishedDateTime: 2022-10-25T12:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro"
-ampWebUrl: "https://www.benzinga.com/amp/content/29394114"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29394114"
+excerpt: "The expanded portfolio provides access to the same AI libraries that power popular IBM Watson products. It is designed to help lower the barrier for AI adoption by helping partners and clients ..."
+publishedDateTime: 2022-10-25T12:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-across-their-business-1031832382"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-across-their-business-1031832382"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "jRpNiY8GRAURiw6YPGZuAPgCPMpzO+vLpsQ+0CjgBD4h+jj/ISMpde4fnPgU8dCy+BXW9gPLNiASr4jBc5LrrpNmUD42T4+pZjMdGfy+DKQ0JdSzUSJwSUWpKuR2rxIo5+Ck+wfL7g+wskCAxQbq5f1rmXO7FqnSXylZEFWa4WUnZqMXod2+NA/aPUueAPuNCoovFOYMsysSo1TzXPAmcc22b7QV+Qqi6tRaS9M1CqUnHiBpUXM3edFGPAABycOyBQgxcEFBqS2emfPsuvn6vOIuTMnI7uqXMxKk9Ddcjw/e4fVpZvIc5Z6NIab2Sc3nZvujUwS5A+Axnze0UbUDonk8yHBE6VMd4JerdaZtQjk=;r+Oih1RA6J8WmD0KbnIM/g=="
+secured: "OJp+E5iR9D9dKUYRgQou/3D+rUbCbkkTt8g4ByNfQJ1yOG9+kH1PKgp36dJF72okidxT0JbLOho6Aslloo8Fve8GPvDGTMagRGZXbS0I8781kK507vmEppS4UX61GRnMAP9lmtuz3DRGCwFwmnkLbdq6bkPM5eTG0nN2HAVVfUTRhaHr40EV8qDUU/F+FBc1ZZaFJVSj2NC+XAI2FpNnoZ/UrDTdmapfKljKbxsDRLXnDTaknY3Bf9/2glV6Nv6IGaG28puGCbwNpaIg3ojKVG00jXndDvSOW36GRdOmQbdUjIP3QwctWxpE43P2WXNf4bAXYsUpTn/kp+iBeVCDINRB3S+sCSWBHj1mNriqdVY=;zI5+cBwqS6F8XKE5u5gEFA=="
 ---
 

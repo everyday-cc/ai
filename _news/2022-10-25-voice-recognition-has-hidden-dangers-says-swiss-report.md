@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.swissinfo.ch/resource/image/48005788/landscape_ratio16x9/1920/1080/f57d36d0a50b2259cc434f67a939138b/9F4D27AA999894CD4C58141C5A16BEE5/voice.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "pAndt23znSp68bkTA1s8o+sIy0lruwDGZNvOD2H54nKqduQHgVu7gpnyitTWa1IV8GHE10vzA7oe0wSsQfIR5Mk+lhZ9sLv0lboAtR+Av95X5I17Jxpbdgp9y99XHc9nUc0uC6fyQQMcuS1tzWdLmVPdP5XH8oFFoUG8KDI0AMhJq2R7sfsNmGW571YST59lbU2oJt8PAxhvpsJ3mIX5rEqZOPSGMLRksrLfvMGb3oc3F7EsEtskq7MQTLNZ2ArUWC8fGx/+fppFoqXIi4taHBx2+YhVW80G34Ot1kE76qPx2hzrKqC4ZnlQOSoyO+dO5dRLQk5mbipuvJmJpF2VJ98xCFhz6VvzkENR7ljioyk=;B2dNXPSjBiNGiov22Y+yEQ=="
+secured: "uypi8TgVSaass0ntZKSGbFtoJVsJ+8bwKeCc8qjTkYfp6wurTkGcxa5TcvO5kjAFMbKMnz8CSe3vHLgtPwDrHeZ6jf2ZFCkhC3VNurCW8NvUkTanv+nU38v+l/oyPdMIwQPTvzPJLfXl9X+IfwiVeERm6/W07/iqMsMtCKLof6mi359uD1r3XG4TBuODi+ZWBqX+AypC5/eOJYl2KBLct0wrlWG27h6nqzM+zbypI0CAue5E9WxCOSi0VljaUCTJlcc15Alx5acB+x2xFKxFZdJLmEYty9qcub8/UHGwbwQNYTOnZvcyAscA1etIDen8v4M/mcGLXmUjvQUFuxyGj/0rM73n094v9jLdzKet0TA=;Ys+wpUSZZyROqSy6KFLBvA=="
 ---
 
