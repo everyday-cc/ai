@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.axios.com/7Z1qDS73y7LWFFmgY9knwwWD1Ss=/0x0:1920x1080/1366x768/2022/11/02/1667422940533.jpg"
