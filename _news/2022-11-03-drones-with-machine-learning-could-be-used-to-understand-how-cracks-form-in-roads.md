@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T12:02:00Z
 originalUrl: "https://www.news.com.au/national/drones-with-machine-learning-could-be-used-to-understand-how-cracks-form-in-roads/video/8c130d3fa5ef46f275b4dc0ec1f65167"
 webUrl: "https://www.news.com.au/national/drones-with-machine-learning-could-be-used-to-understand-how-cracks-form-in-roads/video/8c130d3fa5ef46f275b4dc0ec1f65167"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Couriermail

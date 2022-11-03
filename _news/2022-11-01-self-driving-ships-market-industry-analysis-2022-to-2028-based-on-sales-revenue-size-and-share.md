@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-ships-marke
 webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
 type: article
 quality: 57
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -58,6 +58,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rehabilitation Robotics Market 2022 Latest Developments, Recent Trends, In-depth Analysis, Size share, Business Strategy, Forecast to 2027"
+    excerpt: "Nov 03, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Rehabilitation"
+    publishedDateTime: 2022-11-03T07:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/rehabilitation-robotics-market-2022-latest-developments-recent-trends-in-depth-analysis-size-share-business-strategy-forecast-to-2027-2022-11-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "Artificial Intelligence in Manufacturing Market: Industry Analysis, Size, Share, Growth, Trend And Forecast By VMR"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 02, 2022 (Heraldkeepers) -- New Jersey, United States-Artificial Intelligence in Manufacturing Market research report is an asset for analyzing competitive development ..."
+    publishedDateTime: 2022-11-02T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-industry-analysis-size-share-growth-trend-and-forecast-by-vmr-2022-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
   - title: "Voice Recognition Software Market 2022-2029 CAGR Analysis, Future Business Analysis, Competitive Landscape, Segments, Sales, Supply, Demand"
     excerpt: "Global Voice Recognition Software Market report 2022 includes development history, Competitive Landscape, manufacturing cost analysis, market overview, future trends, industry share, growth and ..."
     publishedDateTime: 2022-10-31T05:39:00Z

@@ -68,6 +68,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rehabilitation Robotics Market 2022 Latest Developments, Recent Trends, In-depth Analysis, Size share, Business Strategy, Forecast to 2027"
+    excerpt: "Nov 03, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Rehabilitation"
+    publishedDateTime: 2022-11-03T07:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/rehabilitation-robotics-market-2022-latest-developments-recent-trends-in-depth-analysis-size-share-business-strategy-forecast-to-2027-2022-11-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "Artificial Intelligence in Manufacturing Market: Industry Analysis, Size, Share, Growth, Trend And Forecast By VMR"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 02, 2022 (Heraldkeepers) -- New Jersey, United States-Artificial Intelligence in Manufacturing Market research report is an asset for analyzing competitive development ..."
+    publishedDateTime: 2022-11-02T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-industry-analysis-size-share-growth-trend-and-forecast-by-vmr-2022-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "gnvvuP03kSX2ayDp+JEQfcIMzTiut60HRt8nbMA7bGN/HXAYoh4wJtWCof20QydXxwivvWiwrRXxMmBCFB8KWjO1y/s9WXihDkNebELJnAAwpRdjth4BG5xZrVjpfGhau7lqlO0HxsL/kJMOLVaHpnyQASvUBAwc5EHFIMC0c79dl/flQWkx7GepC1/lZoZM/B8GyEyVQgA8o9C8Grod3dacz8/7TGZ/49bjfwwpi9CljDMAqM7Es/k1WTpKNABj4oIpeOaG3Dpc4rBEjI1jJ3a0VHepIXM4d/wqRgPp6rifXt0Uc6ushv2FXfcSm0XVvHaHsaDCqyJlVhQKWvBuL8EiKdBBRUJErjpeP+w05nE=;TBKWH6sPJ8rv76xlPAUe0Q=="
 ---

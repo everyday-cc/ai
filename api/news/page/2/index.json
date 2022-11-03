@@ -2,6 +2,198 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-02-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-on-kxm-body-worn-edge-processor.md",
+      "title": "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor",
+      "excerpt": "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1935465/Tomahawk_Robotics_KxM.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-metas-ai-powered-audio-codec-promises-10x-compression-over-mp3.md",
+      "title": "Meta’s AI-powered audio codec promises 10x compression over MP3",
+      "excerpt": "Meta announced an AI-powered audio compression method called \"EnCodec\" that can reportedly compress audio 10 times smaller than the MP3 format at 64kbps with no loss in quality. Meta says this technique could dramatically improve the sound quality of speech on low-bandwidth connections,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/encodec_hero_2-800x451.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/amp/",
+      "publishedDateTime": "2022-11-01T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m.md",
+      "title": "Galileo looks to improve unstructured data for machine learning (ML), raises $18M",
+      "excerpt": "Register here. Machine Learning (ML) requires data on which to train and iterate. Making use of data for ML also requires a basic understanding of what is in the training data, which isn’t always an easy problem to solve. Notably, there is a real ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
+      "originalUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-954077270.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
+      "publishedDateTime": "2022-11-01T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
+      "title": "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks",
+      "excerpt": "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
+      "publishedDateTime": "2022-11-01T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge.md",
       "title": "Problem scaling AI? MIT proposes sub-photon optical deep learning at the edge",
       "excerpt": "Using wavelength division multiplexing, researchers were able to perform image recognition using optical computing, thereby dramatically lowering the energy required.",
@@ -474,7 +666,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -517,7 +709,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -569,7 +761,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1049,188 +1241,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-artificial-intelligence-methods-may-replace-histochemical-staining.md",
-      "title": "Artificial intelligence methods may replace histochemical staining",
-      "excerpt": "Pathologists observe tissue samples by staining them first. However, the standard procedures for staining tissue samples in histopathology are time-consuming and require specialized laboratory infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-77.jpg",
-          "width": 2880,
-          "height": 2681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
-      "publishedDateTime": "2022-10-31T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-farm-robotics-technology-company-buys-big-santa-clara-office-building.md",
-      "title": "Farm robotics technology company buys big Santa Clara office building",
-      "excerpt": "A farm robotics company whose technologies could revolutionize farming and food production has bought a big Santa Clara office building that it had previously subleased.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/SJM-L-SCLABUY-x-01-1.jpg?w=1024&h=523",
-          "width": 1024,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
-      "publishedDateTime": "2022-10-31T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-andrej-karpathy-considers-coming-back-to-tesla-to-work-on-optimus-and-agi.md",
-      "title": "Andrej Karpathy considers coming back to Tesla to work on Optimus and AGI",
-      "excerpt": "As Tesla expanded its effort from self-driving to broader artificial intelligence, Karpathy was promoted to senior director of AI at Tesla. In March, Karpathy announced that he was going on sabbatical for four months. At the time, we reported that it was ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
-      "originalUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
-      "publishedDateTime": "2022-10-31T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-ai-experts-question-tech-industrys-ethical-commitments.md",
-      "title": "AI experts question tech industry’s ethical commitments",
-      "excerpt": "From healthcare and education to finance and policing, artificial intelligence (AI) is becoming increasingly embedded in people’s daily lives. Despite being posited by advocates as a dispassionate and fairer means of making decisions, free from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
-      "originalUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
-      "publishedDateTime": "2022-10-31T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
       ]
     }
   ],

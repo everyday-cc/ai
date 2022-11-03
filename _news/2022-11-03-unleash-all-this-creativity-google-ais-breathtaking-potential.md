@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-03T09:30:00Z
 originalUrl: "https://www.axios.com/2022/11/03/google-artificial-intelligence"
 webUrl: "https://www.axios.com/2022/11/03/google-artificial-intelligence"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

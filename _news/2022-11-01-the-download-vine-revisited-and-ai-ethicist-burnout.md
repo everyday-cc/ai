@@ -28,6 +28,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 70
+  - title: "AI Ethics And AI Law Just Might Be Prodded And Goaded Into Mandating Safety Warnings On All Existing And Future AI"
+    excerpt: "There is buzz afoot about having AI provide warning or safety indications, aiming to protect humankind when using or relying upon AI. We take a close look at this idea to see whether it is practical and sensible."
+    publishedDateTime: 2022-11-03T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/03/ai-ethics-and-ai-law-just-might-be-prodded-and-goaded-into-mandating-safety-warnings-on-all-existing-and-future-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
 
 secured: "4L+aX2H0MUqxbv2WUzRvKrpeSkjX2vgKee+0f0uaZNsRywskz+IazsN0+UaLWU6kSeoHqtYGC/yIeEf9+ZF3LtsgQ9aC6BQi4w/AMxfTW2EtFignoui2BpxSGh6MmCTusxxX5d0ZZXO/eN6+nAvuope2+uKdQGC3jD51KcQ8iIYq1K4Oz+ivbbMHpz3uP7p1Ttb2hi+HVNk6rjpGcGhp3EP0SelX5e/Y6XMKeigEICTynF1fD0kUO1jhSkiEhYCHQ9wvrOLMxx/sF9hhzIye+2NlGc5xqg9nXZGDkMPXbmneQOX/A6s6kccIZHBSNu/x6vr9lWaqYjwkZOrMHc3dP19VJ+2OemwcFgXzvsXvkMIhtHJ3ir9N/RVIPJQwcO2S/e1aO5oYfFjkkdNcCUbjUmip7Y2tvlIH6ykp82bB99Ma5GZKpZnT7Gg1gH3pm1b3H54ZNYSlHH6zkGAbTost2v7n5+xAparUv4Q1KTaFGCE034lFvq0m+FpxlkcqU7/x9ieShqfvSPVnh6AUMzZC/g==;BgJCY31PVWySnr2m/Vd/Ug=="
 ---

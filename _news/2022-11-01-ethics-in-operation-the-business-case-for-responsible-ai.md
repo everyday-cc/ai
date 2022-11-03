@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1342
         height: 669
         isCached: true
+  - title: "The future of AI for business is human"
+    excerpt: "Did he cheat, or was he simply demonstrating the power that AI has to take over human tasks, even those involving substantial human creativity?  AI is increasingly transforming organisations across all sectors of the economy."
+    publishedDateTime: 2022-11-03T12:13:00Z
+    webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/the-future-of-ai-for-business-is-human"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "From Banks to Bananas: The Future of AI for IT Operations"
     excerpt: "From finance to retail to logistics, so many industries can benefit from the combined power of artificial intelligence (AI) and the mainframe to drive higher levels of agility and resilience across IT environments."
     publishedDateTime: 2022-11-02T14:49:00Z

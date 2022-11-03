@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T07:51:00Z
 originalUrl: "https://www.albawaba.com/business/pr/libf-mena-releases-whitepaper-how-satellites-artificial-intelligence-and-machine"
 webUrl: "https://www.albawaba.com/business/pr/libf-mena-releases-whitepaper-how-satellites-artificial-intelligence-and-machine"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Al Bawaba News

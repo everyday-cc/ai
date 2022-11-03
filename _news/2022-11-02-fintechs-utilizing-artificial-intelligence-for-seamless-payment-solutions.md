@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/business/brand-content/fintechs-util
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Experts Predict 8 Biggest FinTech Trends For 2023"
+    excerpt: "AI will also continue to drive infrastructure decisions in the FinTech sector. Chatbots specifically will become more sophisticated and could soon be the future of fintech customer service. In fact, studies from Juniper Research suggest that successful ..."
+    publishedDateTime: 2022-11-03T15:26:00Z
+    webUrl: "https://www.techdigest.tv/2022/11/experts-predict-8-biggest-fintech-trends-for-2023.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2022/08/klarna-1024x576-1.jpeg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "y3ARvboe85SJj4Wdf+gmlTLu7TaTqFT1dughLHhEWXXmQvplXqYmZLD1bhkBzt8NIBoZnaBM5x3T0DueXWsirWVfu0bZopMk2lEdUT8GMEmT1pr91Qt8tDgecuwwzIUKJ00yYe+w843hO6qlfBr1TbL4vfOq9Z+A8oBZ53BZaR+/ntH+0GjL5ngEeW281R7EXzEwlrwGKjbWAOjDxhMBTwSToc1lGa/WdBAgbDFx+LGkEs4NQ0IdJ2V5QQSOr1IXqC9zpGgwE73Kv1QxIUmK6MqBgbx3dzgNFeC1EvWy5+RTQIpAVfvWrNN89qahO7svwL9DXOm2DogZI55Zv5EWi8ot4dNwHqePUOIahgZ+HpQ=;TSKED5VUe1GGX0G7gF0qkA=="
 ---

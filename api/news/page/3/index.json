@@ -2,6 +2,188 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-01-artificial-intelligence-methods-may-replace-histochemical-staining.md",
+      "title": "Artificial intelligence methods may replace histochemical staining",
+      "excerpt": "Pathologists observe tissue samples by staining them first. However, the standard procedures for staining tissue samples in histopathology are time-consuming and require specialized laboratory infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-77.jpg",
+          "width": 2880,
+          "height": 2681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
+      "publishedDateTime": "2022-10-31T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-farm-robotics-technology-company-buys-big-santa-clara-office-building.md",
+      "title": "Farm robotics technology company buys big Santa Clara office building",
+      "excerpt": "A farm robotics company whose technologies could revolutionize farming and food production has bought a big Santa Clara office building that it had previously subleased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/SJM-L-SCLABUY-x-01-1.jpg?w=1024&h=523",
+          "width": 1024,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
+      "publishedDateTime": "2022-10-31T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-andrej-karpathy-considers-coming-back-to-tesla-to-work-on-optimus-and-agi.md",
+      "title": "Andrej Karpathy considers coming back to Tesla to work on Optimus and AGI",
+      "excerpt": "As Tesla expanded its effort from self-driving to broader artificial intelligence, Karpathy was promoted to senior director of AI at Tesla. In March, Karpathy announced that he was going on sabbatical for four months. At the time, we reported that it was ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
+      "originalUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
+      "publishedDateTime": "2022-10-31T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-ai-experts-question-tech-industrys-ethical-commitments.md",
+      "title": "AI experts question tech industry’s ethical commitments",
+      "excerpt": "From healthcare and education to finance and policing, artificial intelligence (AI) is becoming increasingly embedded in people’s daily lives. Despite being posited by advocates as a dispassionate and fairer means of making decisions, free from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
+      "originalUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
+      "publishedDateTime": "2022-10-31T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-shift-robotics-used-ai-to-create-the-worlds-fastest-shoes.md",
       "title": "Shift Robotics Used AI to Create the 'World's Fastest Shoes'",
       "excerpt": "Reminiscent of those plastic strap-on roller skates kids wear, Moonwalkers use a combination of AI and machine learning to help the wearer move much more swiftly than they can in a typical pair of shoes, and without having to actually run. A brushless DC ...",
@@ -412,7 +594,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1036,203 +1218,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-chinas-new-intelligent-ev-company-jidu-launches-its-limited-edition-robocar-called-the-robo-01-lunar-edition.md",
-      "title": "China's New Intelligent EV company JIDU Launches its Limited-Edition Robocar Called the ‘ROBO-01 Lunar Edition'",
-      "excerpt": "Baidu-backed Chinese electric vehicle company Jidu officially launched its first vehicle, the limited-edition “ROBO-01 Lunar Edition”. It’s a futuristic EV that comes packed with advanced technology and “point-to-point Autopilot” (PPA) autonomous driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/5581/China’s-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition’",
-      "originalUrl": "https://www.futurecar.com/5581/China’s-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition’",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202210/28/l_635c2286a71c6.png",
-          "width": 800,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tomiai-selected-for-google-for-startups-cloud-program.md",
-      "title": "Tomi.ai Selected for Google for Startups Cloud Program",
-      "excerpt": "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1932593/Konstantin_Bayandin_Dmitry_Popov_Tomi_ai.jpg",
-          "width": 400,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
-      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
-      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-heres-how-this-company-uses-ai-to-grow-shrimp-sustainably.md",
-      "title": "Here’s How This Company Uses AI To Grow Shrimp Sustainably",
-      "excerpt": "This company's shrimp farming technology is an AI-powered automated system that remotely monitors water quality, regulating temperature and oxygenation, and feeding the shrimp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635b145e4f0146de48876e01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/amp/",
-      "publishedDateTime": "2022-10-28T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

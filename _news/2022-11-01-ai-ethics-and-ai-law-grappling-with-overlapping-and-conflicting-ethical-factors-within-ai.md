@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-a
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "AI Ethics And AI Law Just Might Be Prodded And Goaded Into Mandating Safety Warnings On All Existing And Future AI"
+    excerpt: "There is buzz afoot about having AI provide warning or safety indications, aiming to protect humankind when using or relying upon AI. We take a close look at this idea to see whether it is practical and sensible."
+    publishedDateTime: 2022-11-03T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/03/ai-ethics-and-ai-law-just-might-be-prodded-and-goaded-into-mandating-safety-warnings-on-all-existing-and-future-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "The Download: Vine revisited, and AI ethicist burnout"
     excerpt: "Dealing with these issues can be especially taxing to women, people of color, and other marginalized groups, who tend to gravitate toward AI ethics jobs. Consequently, AI ethicists are burning out—and it’s harming the entire field. Read the full story."
     publishedDateTime: 2022-11-01T13:12:00Z

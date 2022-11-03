@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T12:02:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/03/ai-ethics-and-ai-law-just-might-be-prodded-and-goaded-into-mandating-safety-warnings-on-all-existing-and-future-ai/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/03/ai-ethics-and-ai-law-just-might-be-prodded-and-goaded-into-mandating-safety-warnings-on-all-existing-and-future-ai/"
 type: article
+quality: 42
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -18,6 +21,26 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "AI Ethics And AI Law Grappling With Overlapping And Conflicting Ethical Factors Within AI"
+    excerpt: "They will ignore, in the process, many other features of the given charity such as its long-term record, recent changes in leadership, its ratio of expenses to payouts, and so on” (as mentioned in “AI Assisted Ethics” by Amitai Etzioni and Oren ..."
+    publishedDateTime: 2022-11-01T13:21:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+  - title: "The Download: Vine revisited, and AI ethicist burnout"
+    excerpt: "Dealing with these issues can be especially taxing to women, people of color, and other marginalized groups, who tend to gravitate toward AI ethics jobs. Consequently, AI ethicists are burning out—and it’s harming the entire field. Read the full story."
+    publishedDateTime: 2022-11-01T13:12:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/01/1062478/download-vine-revisited-ai-ethicist-burnout/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "v4P+i9vIZihdNsNCG2E4bHt/DKfpy8WqvvmNaJBQEek0audwImA0tvtAmbiSeNzhIWXPLCuYCdhdLxxqTfmJrdVf/O2BWXAtcvSQdHp7ZJkRy5yVbxPN+hRnn00Zz8qIQhpD/uMH4pXM+wnEEWaL6PHuIaSJXp2W7vVjZcjfsJsQ93g9cQ+KotiB8VZxg/hdMA8GGG6a/fdr6RpZe5YH3bN+mbtNjA/O3Dbvp8EVIo4kryjoiORwJrCcSmggUTEWfzEmft0OW5irsGw7psIwu8qDwuGCFQbH/rZIj1aPJYQK4IVtGkjBI8pnIHT0fvLriwVtA/0Ozjed2qstDHC51ALPmzJuVFiD/dEJILwGMN/kwmc5+Q516IzjLhxCu8UXmTWyitroVJmM0Gg2THnHe8ZBOj/56/EWrNZgOBZGa9Hmg6+ojgGcQGGF4eM16P/6oB7z+M0BY9Q4j1qGqzwX62Oa7rB7eIob598Q2fwyO9FsKd/gOt8HSqXdDWl+KUsZwPcX4c1cVycQdZ9sPDuhVA==;61mOVB4zwGVGd/Sm0xkgdA=="
 ---

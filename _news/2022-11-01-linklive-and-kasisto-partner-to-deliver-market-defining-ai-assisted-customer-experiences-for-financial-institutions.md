@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/b29494701/linklive-and-kas
 ampWebUrl: "https://www.benzinga.com/amp/content/29494701"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29494701"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 secured: "rq2LuFKcvnj6b/y6BS7hIE51pserDDlchHC3rE22qXjVt/CQsoMAz5QNjigDSTiJExH4ek+dAJ6Hdd+BQ4hieBJfHCeTjH26JPi0nAVhoW0WgULJ573levjWU+kdsbejDJQ5fYkvfKyq/62P1aiZEcPHyu9LiRntJmTs3rfTgE484qn4WCWeh2qVEFk7ctyc26dsb8vw1Vfgc3S4oyOgtgjTkV4AScbUdqZGK5ZUsHSECoATn9+0CLuLjUnFwaEEmKEeh1gkZH5q1E7UKPPNtTpe8qgXDWfwLNpqBz7SszaAUjVMlkZTA+VxdNe4poZorRlTCRuy+G3S64ziPxQS5KcDuXnCFjSjNcYkxrRg3Rg=;BFRo41QgRIr7HRpTtQdd1g=="
 ---

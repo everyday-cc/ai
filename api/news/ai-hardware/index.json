@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-03-todays-cache-are-taiwanese-chip-firms-decoupling-from-china.md",
+      "title": "Today’s Cache | Are Taiwanese chip firms decoupling from China?",
+      "excerpt": "Taiwanese chip makers have been investing in mainland China since the 1980s, and thousands of firms operate there today. Decoupling from China won’t be an easy affair, but the process seems to have st",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/h89wyb/article65983848.ece/alternates/FREE_1200/2022-10-05T043447Z_921512572_RC2XQS933LTO_RTRMADP_3_TAIWAN-ECONOMY-CHIPS.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece/amp/",
+      "publishedDateTime": "2022-11-03T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-george-hotz-aka-geohot-is-leaving-commaai-for-a-lofty-ai-project.md",
       "title": "George Hotz, aka ‘geohot,’ is leaving Comma.ai for a lofty AI project",
       "excerpt": "Comma.ai founder George Hotz says he is taking \"some time away\" from the driver assistance system startup. Here's what he's working on now.",
@@ -534,41 +577,23 @@
       "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
       "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T02:09:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29397500",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500",
+      "publishedDateTime": "2022-10-25T06:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -639,8 +664,8 @@
       "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™.",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/24/9698227.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/24/9698227.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/24/9698227.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/24/9698227.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -650,7 +675,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T07:58:00-07:00",
+      "publishedDateTime": "2022-10-24T06:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -741,6 +766,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-report-tsmc-stops-work-on-chinese-ai-chip-amid-sanctions-confusion.md",
+      "title": "Report: TSMC stops work on Chinese AI chip amid sanctions confusion",
+      "excerpt": "Foundry Taiwan Semiconductor Manufacturing Co. Ltd. has stopped making AI chips for Chinese startup Biren while it ensures compliance with US requirements, according to a Bloomberg report. Biren is a 2019 startup that has developed its first GPU/AI chip as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/52902/report-tsmc-stops-work-on-chinese-ai-chip-amid-sanctions-confusion.html",
+      "originalUrl": "https://www.design-reuse.com/news/52902/report-tsmc-stops-work-on-chinese-ai-chip-amid-sanctions-confusion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage52902/usb.jpg",
+          "width": 470,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1277,92 +1345,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
-      "title": "The Chip War With China Is Just Getting Started",
-      "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
-      "originalUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d644194ab28271ead84e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
-      "publishedDateTime": "2022-10-17T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-complex-tradeoffs-in-inferencing-chips.md",
-      "title": "Complex Tradeoffs In Inferencing Chips",
-      "excerpt": "Designing AI/ML inferencing chips is emerging as a huge challenge due to the variety of applications and the highly specific power and performance needs for each of them. Put simply, one size does not fit all, and not all applications can afford a custom ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
-      "originalUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

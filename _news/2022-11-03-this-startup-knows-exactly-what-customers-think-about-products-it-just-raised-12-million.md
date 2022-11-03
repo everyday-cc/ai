@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T13:50:00Z
 originalUrl: "https://www.geektime.com/revuze-raises-12m/"
 webUrl: "https://www.geektime.com/revuze-raises-12m/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Geektime

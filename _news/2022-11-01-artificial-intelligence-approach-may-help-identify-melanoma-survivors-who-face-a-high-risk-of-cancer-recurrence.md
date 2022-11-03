@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-31T18:45:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
 type: article
-quality: 29
-heat: 29
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence-based method may help predict early-stage melanoma recurrence"
@@ -33,6 +32,6 @@ related:
       domain: news-medical.net
     quality: 12
 
-secured: "Uyb5dqF2KoMaX+6K/BPOtckf+Agc0O5cJFImZbo+k7LXZRPMsBWfqCJu8OV1P5CkS4VM1cqG6NFJbtZmMQkpKvqV04HCLwV9NUN0Eelx4lTTZMB58ZOkUKJ8IZvQqd38XRe6HOdJSe3iDjlBCX+Ica36pV6VaBENav3E0GbBaGBD7tKRrHMXP+IhNgXrTyJs/sJ/SRPeaf4X+zTo980JHxFrb1DtdoG+q6cGU6k44HqPcTabF7eid3ODVz2QBkJjEYBNCZfC6EzaZApd8KyyCBFxXL0d6vIueHNsgEv99cQctyUrI2DqM7ITQyDjvFr+Sb/WInluH99qFb7N9umRXpBcOrdPiZFyYUKmEG3pFWw=;h3yxG6TP2LMNxMNuA5a20g=="
+secured: "v3O6YJOxCcTFmLECi0K4goyqKuYt68gCd1fHRJhre8MAINm6YWox6jjwaxGivPhnmJhkcvcKxPJ+DIbPow+PrlaQKE4cJEyyLYYQwlB1fnFA5DGkT9x6G+o/sJhKbC1coR0RyeYq7YjM7BAJrbYF9s1DtqPW9iW60ejha6C0zfgDlJHHc9qnZHU3hipbQ3nPgsW7DZhBxuaJyg4IFKsrW/5eTPaiMH5q+uRCyE1e/AuXZQoW+AoKinVX76dljXD9/5nvJaXYcB75ijOz5FUPWuMDsa8X4l+plQEi3h0NHDV+dELyFJoyiK4FgoAt8/3CS9z1froDHm+jOUqMqz/bWnQeUvt0+3ftEIEWU2XHGd0=;JlSRaZMVs4UoEXxfZXBYoQ=="
 ---
 

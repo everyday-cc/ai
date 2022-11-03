@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T12:48:00Z
 originalUrl: "https://alsnewstoday.com/news/verge-starts-first-human-trial-pikfyve-inhibitor-als/"
 webUrl: "https://alsnewstoday.com/news/verge-starts-first-human-trial-pikfyve-inhibitor-als/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: ALS News Today

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zest AI Secures Growth Capital to Advance AI-Automated Underwriting"
+    excerpt: "Zest AI, which claims to be the leader in automating underwriting, announced that the company has \"raised over $50 million in a new growth round.\""
+    publishedDateTime: 2022-11-03T13:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
+        width: 1280
+        height: 1104
+        isCached: true
   - title: "US Air Force and MIT commission a lead AI pilot for their innovative project"
     excerpt: "The U.S. Air Force and MIT created an artificial intelligence project called the AI Accelerator and commissioned the pilot."
     publishedDateTime: 2022-11-01T21:20:00Z

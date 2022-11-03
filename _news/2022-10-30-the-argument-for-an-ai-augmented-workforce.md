@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zest AI Secures Growth Capital to Advance AI-Automated Underwriting"
+    excerpt: "Zest AI, which claims to be the leader in automating underwriting, announced that the company has \"raised over $50 million in a new growth round.\""
+    publishedDateTime: 2022-11-03T13:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
+        width: 1280
+        height: 1104
+        isCached: true
   - title: "The digitally transformed workforce"
     excerpt: "It’s not digital control over human slaves. It’s transformative collaboration across human, machine and business."
     publishedDateTime: 2022-11-03T06:47:00Z
