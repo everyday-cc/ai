@@ -1,10 +1,10 @@
 ---
 category: news
 title: "3 ways that Amazon's advertising business is becoming as dominant as Google's"
-excerpt: "Amazon's rights to air the NFL's \"Thursday Night Football\" has given it an advertising forum that other digital giants like Google don't have."
-publishedDateTime: 2022-10-31T09:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
-webUrl: "https://markets.businessinsider.com/news/stocks/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
+excerpt: "In another example, advertisers can use AWS' machine-learning platform SageMaker to create algorithms to find customers and zap them with ads across the open web. Amazon lets you track if someone bought a product off Amazon Paula Despins, VP of ads ..."
+publishedDateTime: 2022-10-31T14:41:00Z
+originalUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
+webUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
 type: article
 quality: 51
 heat: 51
@@ -28,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "IFI0HNi44dLUdjAT4btFCzmAlWstHobikID00IjfMJ+iQVfzLHpHpjkDU56s0YD5pK8n8yziwnVf0rYMMt5Tdm65feA8ccgFGVON/RSIlEVO4qTlmwEApP2Q33XbKSmxTtypyzs1y5WOTeOeh2yEezqSbzoZbkWuxN6dMCoZdJI8StBPD2TDSbrKoAr629MX52dPbxNfXBKZLF4Xm7+7Ck26I30kRMAMJIvtRXvEiHKiakzXESlOXCbwTk+oyNO3O7XYHdvQqppVmAi4gvNudRDp3G/8rMw1gmYrt9svU6z5gZtbRUxou3n9by7n3R9DDKX1QMbKbHSb9tCoVFe5jVnzqp5Xqnwfs29F4+uRf01sgzHu+If/rn5a/pyitMQ1L8du1AQYy/7lbIX7/jvrR9//q0RQRyzzlKU8bsigY3GsLcE2GV9yOXM1En5L3MqHonkQitM3FJRqWOxM1Tlrsi7Oxc9sxiEsd5oagUK8eODHNULo5le0t0OtLo7YRtWa+QVkMEYX8ReQOMP2t/3P8A==;xYu5xel6Uk2ySYJECZi1+g=="
+secured: "jbPD4PHPFWuYvPlc35XlJ4R+Z+AsMnpBCu82nPHc5Ve8ZhltA3vHDe/fYEMIBOmlFnfyDjv5x2qsVMflcUG5sPasUBSpen5usCCC4bLZroWZraB8GveWqIO8JIcCJqs+XAQW04tpUrLG86iaPiYbVXCvd8VEKDxyNfCGhd28Fqlrrt8baqKCeW+FfHhlbdkWA3t1g8VscWck3FyGssvyaIqcxE8s92ZlU2BHbGRKTu3v6d0Y8zINe78vu328rIO8YDn/t6EArusMBT/1nlqoXIrxj8bjnGlC06WyyTkt6O+9FgNlB09OkG08xPJpu9R9zu7mRmj8DE+Ks0wP6hzD2A7boQawjJ2swzm6nkAGdUw=;j8oh3YAE+vZOTdzj3OrnbA=="
 ---
 

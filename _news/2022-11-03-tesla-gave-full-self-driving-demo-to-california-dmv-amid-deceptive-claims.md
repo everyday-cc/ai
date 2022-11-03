@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla Gives Demo to California DMV Probing Self-Driving Claims"
-excerpt: "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
-publishedDateTime: 2022-11-01T21:00:00Z
-originalUrl: "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims"
-webUrl: "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims"
+title: "Tesla gave full self driving demo to California DMV amid deceptive claims"
+excerpt: "Tesla gave a full self-driving demo to the California DMV and other FSD critics. In recent times the California DMV has been pressuring."
+publishedDateTime: 2022-11-03T02:44:00Z
+originalUrl: "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/"
+webUrl: "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/"
 type: article
-quality: 54
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Transport Topics
-  domain: ttnews.com
+  name: tech
+  domain: techstory.in
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-lot-1200.jpg?itok=GC9i4pxI"
-    width: 470
-    height: 246
+  - url: "https://techstory.in/wp-content/uploads/2022/11/fsd-beta-canada-scaled-1.jpg"
+    width: 2560
+    height: 1920
     isCached: true
 
 related:
@@ -57,19 +57,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla gave full self driving demo to California DMV amid deceptive claims"
-    excerpt: "Tesla gave a full self-driving demo to the California DMV and other FSD critics. In recent times the California DMV has been pressuring."
-    publishedDateTime: 2022-11-03T02:44:00Z
-    webUrl: "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/"
+  - title: "Tesla Gives Demo to California DMV Probing Self-Driving Claims"
+    excerpt: "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
+    publishedDateTime: 2022-11-01T21:00:00Z
+    webUrl: "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 68
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 54
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/fsd-beta-canada-scaled-1.jpg"
-        width: 2560
-        height: 1920
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-lot-1200.jpg?itok=GC9i4pxI"
+        width: 470
+        height: 246
         isCached: true
   - title: "Tesla gives demo to US agency probing self-driving claims"
     excerpt: "Tesla Inc demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
@@ -106,6 +106,6 @@ related:
       domain: autoblog.com
     quality: 30
 
-secured: "ozffTD04A9WWTlty7TRgZpWelT2LZTIFxHrlfrp4vyOJ6+RgVegrvKVwZD2nBZgx1Sg+Cpp81MweZo1GmzRx0OGaTi1nHFgu8P82K2awNCj3S4Lp95r9jQpd2zcMfT17y4tQ/7QfElW4kK8Lb+HvNd+vJsCrTD+jB6J79fs56wEkSvTuO9eq4ecnsQqT5tPWWwL2sw5mCGzBxLYFj6M8du8XJttvbs/aSVkqJChSm8pZQvpf2q4tJGq+MAG9M3fUX+Dz1g422GtHYK57XIrZRLE7Iwp/UoQXIUeOsZ9dzyQKjoOYh5MD56LYqkxpXdiJYQJB2LIqlHv0JuGvWtHSnLrMb1MDYiwtfOHZPYX/iE4=;0WCqDVlp+hfkqqdIVoTJrg=="
+secured: "gbt/FPzXnvF68KJij50jZHh9sv7I2k6vlD3D1FiYcCnYAIKbhCnkWNDSVfmfaksg6SeR68tdDi505jK5BKw2cNpcNSvsrAMgooEEGE4LNLKoC45RD0Oz1e9DmQzME1ZWGNp1eGX+I7B1QgOrwhmsnlobU+fdbgac2AvAZ01VA3bvrJ7DvepnV7lDxvWHyYqWUWqIPPqgrt1galfK0ssTCMDVCNLq/AuejREFvv7sNTmOF0QRM/7whccE8cmvmcDd53pifPVpoHPh01XJNKFw0JYipvXrYnKaEWkphYPHMrSBua5/jgDIyMJCoZu3Kkabld/21ZXBMJzZcVoJAbvpATAgAQ6sFmNsdI6IGMEQQa8=;yatgqiIlagmB/uy7kfKyEg=="
 ---
 

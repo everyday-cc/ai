@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence"
-excerpt: "Most deaths from melanoma—the most lethal form of skin cancer—occur in patients who were initially diagnosed with early-stage melanoma and then later experienced a recurrence that is typically not detected until it has spread or metastasized."
-publishedDateTime: 2022-10-31T20:59:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.html"
-webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.amp"
+excerpt: "Researchers have developed and validated a machine learning--based method to predict which patients with early-stage melanoma are most likely to experience a cancer recurrence."
+publishedDateTime: 2022-10-31T18:45:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
 type: article
-quality: 39
-heat: 39
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-79.jpg"
-    width: 1347
-    height: 798
-    isCached: true
 
 related:
   - title: "Artificial intelligence-based method may help predict early-stage melanoma recurrence"
@@ -36,16 +32,7 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 12
-  - title: "Melanoma survivors might be identified using an artificial intelligence technique: Study"
-    excerpt: "According to a study, the majority of melanoma-related deaths occur in people who had an early-stage diagnosis of the deadliest kind of skin cancer and later suffered a recurrence that was often not noticed until it had spread or metastasized."
-    publishedDateTime: 2022-11-01T12:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/news/melanoma-survivors-might-be-identified-using-an-artificial-intelligence-technique-study/videoshow/95233057.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 8
 
-secured: "NUiYovbIm5SegMzk0NxDf7Q4nB3IEBN488MFC32o/vc+8XDPjoHrsF9jt6Y8P7cdxXyqqcje4JoXbd7D0ABKyJHxnkN3iSlWagNy2z/HqjrWDL+F2GRki/kqe5zzco39qYUAva1Simc4YIx70zkMm9mC6ayO2d3fujHiRlTblrn+dk8NJq8pnKzdTP1pR/svSoB6k9GWD4vyEjcvU/lbbMJMWs0r7D+uJmP4dPQ9OcAP0vDw3vajo4rlsOHqKN/VrxTycU1aEpSafuAjsWTzmZaBDXX0T3g4IKxZtAq1TftBAukMA989zlyvSAji/FIiR+XfgqotPO8DE16DuOXLnuXKCGEqAKsoE2iIZAlbXxk=;Lji2RQooO8IMyqugE3/QQg=="
+secured: "NiNgCRTwJJ4kpMBQZfdAiIs2pdrmQM5GPJ6u1dKDmbz05K4zOiiVQ0iJHdbjDG1FvX3Pnt6Bdh5pR1G4QUKZZv0pKp7T40S5JnNB/YwFxo5l19Ca+SZi7sv0u1bqw8Cwtnud/xHtua0EE6Sc+mUlsB8j/jLhQojtl9ZibqUFmoWoX0EDDnJchWrFWOnDw03nqIzduKRiVGvwwrRGIM9odlIZaASEFoy2kM+BStJrlrcECriHSU3tXtmj7P2T/6PbxsPpUtTsMQRWqw+HdX8uTnBu5w0sRyxpr5tI6cz4rT36tPhMG8lkxaRinff+Ttl6Gax0/vvf6/YddshuTnm+1tbJdhM+SC0CJTRtfW4dQf4=;7titi1PWbBfhDERM6mkaqA=="
 ---
 

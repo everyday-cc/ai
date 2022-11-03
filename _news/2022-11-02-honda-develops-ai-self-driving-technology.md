@@ -28,13 +28,13 @@ images:
 
 related:
   - title: "Honda to test micro EVs geared for mapless self driving"
-    excerpt: "Honda Motor will soon begin field testing microsized electric vehicles equipped for mapless autonomous driving as part of an initiative to develop next-generation mobility services. Honda on Wednesday conducted a demonstration of micromobility machines."
-    publishedDateTime: 2022-11-02T19:11:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Honda-to-test-micro-EVs-geared-for-mapless-self-driving"
+    excerpt: "TOKYO: Honda Motor will soon begin field testing microsized electric vehicles equipped for mapless autonomous driving as part of an initiative to develop next-generation mobility services. Honda on Wednesday conducted a demonstration of micromobility machines."
+    publishedDateTime: 2022-11-03T02:59:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/11/03/honda-to-test-micro-evs-geared-for-mapless-self-driving/"
     type: article
     provider:
-      name: Nikkei Asia
-      domain: nikkei.com
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 19
 
 secured: "084qVpkCbG74qvulZ96AcGc9r2QiGwGpPT32VPa6iupc+S9GSk8LW44Z5pjq0Th4QrMsjhZIJKdn3XIewJ5uG7c02I0oGjFdztXNA52XoaEsilwMppipf+Jgw4+eov560wmaxrT9OUOeRqiq+05oS9hnTBSpNu+05Wcr5xWIipUbRTdR99znM5aNFGLEjG9q9Q7lYYI4LGaTsSmCrkQ3V7gEt2n07UHh5C46XjtFkO+OzAeEMQxCXSuo0CJJug8gWxkdPCOn3kLsTBajAXeBpECegCrm6UFoY6fo+Ak2etnMoSRjvZDEVhKRaXqUKLfH1hCSfPemfNam+Cb1PYefxJMXYeVhHY5U8f1xNVKy7pcj3eDKLpAohmvgF3jkNGXYkiHIIYt/vwxvnF2DQGZhhclV2A9fSZSzp1TxNcKpgZJ9GA7Xr7fhRAUFMR6G3Z9PGQxOt5Xw0zCsLGuaHNEztSFT8PAa0FNvWtOhPww3ricVJhkVL2spG2R6n2NRWx8HUSwW8i2EAIbZ42rg5u2Mmg==;3GPn2QhbaLYSx3C8iyixng=="

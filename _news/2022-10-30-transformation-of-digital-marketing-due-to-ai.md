@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digita
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The power of vision in marketing and branding"
+    excerpt: "Even the crafting of a brand name may help in recognition. In India the runaway success of PayTm was probably aided by the fact that the brand name played on the commonly used cash dispensing machine the ATM. When consumers see a new object, they want to ..."
+    publishedDateTime: 2022-11-03T02:44:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/the-power-of-vision-in-marketing-and-branding/95265465"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 41
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95265465,imgsize-113708,width-1200,height-628,overlay-etbrandequity/the-power-of-vision-in-marketing-and-branding.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting"
     excerpt: "Co-led by Insight Partners and CMFG Ventures, this investment from new and existing investors will support Zest AI's next phase of growth in the"
     publishedDateTime: 2022-11-02T13:08:00Z

@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "QQ035v8uFeK2f1V9GNvQDvT5ALkSzyVKZTyjRkiN2DbUlvXgtYfCzsTmzFUCjNxjdznrHD3UmISctnw/CI6CqdNnUn/eGb5IRyszSq46V0l+XZnZqvu2q3biaiUJnsuObamr/soqkcHUzsW8pMsWB7JFOHxpWFhW1rMknfIYXMhm0kHxYtZIIVgx8+FhTM1WIys9+nzxZIItvuiQhuRwCghvDFsa8rbJ4p7xvW3qBoOBLrXwDKA2AmF9aanwjAa+7j6O6zse9zaQ5Tvuc2PchPwnhSpii55CvVjdDyRotz8cT7BbMAsPu/vrK6bfiZteOKgZzStFypGDwBaHd9KhGPCn1r9jRC+2gBTQwc7XQT4=;2x9uR+MTRmC7d5Lfv9w6Yg=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-10/20/I_ccc7cimage_story.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "U3ys+fUZ04JXdTvTG3Umpb5FQMT8WyHgIyCteQfTN0UQ3LMhJ+erfIW8K1EyyXs2Vm+5XMKb6U8G6CYL+HusGMrXKBiKLF5etZ/LLQdGvb7tA+wwXqgq0QIydeWwdk28oJLPVU0nmc6TtyuWeWokCaXRDhqwPvHcn8fTvONT2SqcXb43flDtvHAALFC363EuSGOgyAZNdm0qe0oovZFkQtHYMrUakGec6X+AtUvgYL6Bggh12JeRjNXcH22TCDbFEvoZCgrlkEASQsiYhmyLsCgOhL++n7cGmuP8YxVuD7z/ChFQHPcdH26MR3qk1ILGX2If7b6KaMh7iSW6imO8E5X0aQjyXFPA2itB92LAdr4=;hfuGqK9818G399C6FJTC7A=="
 ---
 

@@ -1,0 +1,42 @@
+---
+category: news
+title: "AI company secures $91M for fleet of automated recycling robots"
+excerpt: "AMP Robotics said a recent flood of funding will support the technology needed to do better with the recycling of plastics."
+publishedDateTime: 2022-11-02T15:55:00Z
+originalUrl: "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
+webUrl: "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
+type: article
+quality: 74
+heat: 84
+published: true
+
+provider:
+  name: UPI
+  domain: upi.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/2431667403016/2022/1/911d0aad918d0cc8241708e8274f6bcc/v1.5/AI-company-secures-91M-for-fleet-of-automated-recycling-robots.jpg"
+    width: 1200
+    height: 802
+    isCached: true
+
+related:
+  - title: "Denver company raises $91M to build fleet of recycling robots"
+    excerpt: "said the capital would grow the startup's manufacturing capacity to support a fleet of 275 robots around the world. The company has three production facilities located in Denver, Atlanta and Cleveland, Ohio. AMP's artificial-intelligence-powered robotic ..."
+    publishedDateTime: 2022-11-02T13:08:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/11/02/denver-amp-robotics-fundraise-recycling-robots.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+
+secured: "EEGGq0klw/9/M/CzGlMxexiaLOrRc31+emOw+7ClQ4+GHibIth82pTCvHc7QdNu+WTvovvzWtuK0OujCbkort4PFT6NCQUano0i1IdS/c9/d0ZRihZvmnUqCDvvN/axWJV9vOZjnZ6hUW9jlaMfLFv711GCJmsLQdZARBYqzo8dUQfKqwaIej6Ju+Q6dammomQoOC+lEeT/YU1yue4LBETKx8biXBDupV7VI2q0eS+oFATP07kFlBHwac7fllTXBg+xqVgF+Cr0UDGyds0MjbYSI0vVhibw361b56C+zLX1gpednyYUGgqb6kt/wTM3K5RebcQcbVShWh/eT1PH/E0tQ5XWAHlHigr9JAN+z2SE=;nrVUXGyQy+5j/C0N3+I2gQ=="
+---
+
