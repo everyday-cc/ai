@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-insight-pre-and-post-covid-19-impact-covered-during-forecast-period-2022-2027-2022-11-01"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Data Management Market Size to be Driven by the Rapid Urbanisation in the Forecast Period of 2022-2029 | 109 No. Pages"
-    excerpt: "Cognitive Data Management Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Data Management market from a Global and Regional perspective."
-    publishedDateTime: 2022-11-02T05:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-to-be-driven-by-the-rapid-urbanisation-in-the-forecast-period-of-2022-2029-109-no-pages-2022-11-02"
+  - title: "Self-driving Ships Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. The global Self-driving Ships market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report)."
+    publishedDateTime: 2022-11-01T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 25
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Size 2022 | Industry Share, Growth, Analysis and Forecast to 2027"
+    excerpt: "What is Natural Language Processing? How Big is Natural Language Processing Market? Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
+    publishedDateTime: 2022-11-02T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2022-industry-share-growth-analysis-and-forecast-to-2027-2022-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market 2022-2029 CAGR Analysis, Future Business Analysis, Competitive Landscape, Segments, Sales, Supply, Demand"
+    excerpt: "Global Voice Recognition Software Market report 2022 includes development history, Competitive Landscape, manufacturing cost analysis, market overview, future trends, industry share, growth and ..."
+    publishedDateTime: 2022-10-31T05:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-recognition-software-market-2022-2029-cagr-analysis-future-business-analysis-competitive-landscape-segments-sales-supply-demand"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 7
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Wall-Street-New-York-DJC-1K-600x337.jpeg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "PpIpJUbk5E9Qm/FbLHKgGa7PWIDuTp1aV/ydYVz5D1GT2eKFO0QWoDSRgsfmu1pPFAFXPRKPDTqSi/UiD92mKmkJMShjo78kc33ugGjnxMQtRDIQahgS3w//n2TCDjOEE/2EnRanT1Ve+s2ym43TcR2ZI3EN94C+BWydAFbwP1LP6MQsvB7i8tRkjMV1+AZmCIg6UJveT4uOn/RixK75kYaPzJi/y6Vuk9ZQccLodSRiZbFZsVEVyKMt5Fo5QcX5AU+tOtZ+6rg3cDp6gkaepTOrXqHztvBlRyO7gFLMitkdGOA8/EGrSUdKdlOtj/7FWCuwBvHcGOM5xwtXrzgLbqQit63F9uvEw00h/p56gg4=;F3ehzKGWtYL7XRsNsVzY1w=="

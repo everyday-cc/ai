@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Google wants AI in one thousand languages"
-excerpt: "NEW YORK -Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next"
-publishedDateTime: 2022-11-03T05:22:00Z
-originalUrl: "https://business.inquirer.net/371065/google-wants-ai-in-one-thousand-languages"
-webUrl: "https://business.inquirer.net/371065/google-wants-ai-in-one-thousand-languages"
+excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+publishedDateTime: 2022-11-02T20:08:00Z
+originalUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Philippine Daily Inquirer
-  domain: inquirer.net
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://business.inquirer.net/files/2022/08/2022-08-24T075637Z_1_LYNXMPEI7N07C_RTROPTP_4_AUSTRALIA-GOOGLE-620x413.jpg"
-    width: 620
-    height: 413
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
 related:
@@ -100,6 +102,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "gDRtpRprC2yp1HeJD0L8MikAJE3HwxWWVNcORDAvBcysSgvRA6uWjPyQLOdOAdh5ooVabvshAkerE+CEhB6Qa6rQN71y1/KFg/8a699mCsCrMCu6DxGDJkRldew0vFMEtxOIvEtvfr1dOzfBoDgC3uclFbB9xqgCLtMsFHbNcCMlWF3fSI1uPilwQ8tVHypGl1wRudoDeBsHRZaFPV18pDy739zHzhqLvmHy16pn3DhKdrPZUDTJPI1IMAKd1/XqK2Aj/8mgybGTFRuRQf1L9fRuK1r6Awtp8ge/iCsUtQ852BCD8NIP/7J5H/vj7rOSc8jKzB0c4s/lKMBC37EnGWbg3uV6hcAg/Qav4FluUXDCFlMqFtdY+A7RaXs8fVP+hwrWz9O+aExsxD9+2mdadRCMc6Bp3NY5jKGSKVYKihl8N7icUqfXNIFwsLEMylxTNdNnPjm87TetNjimSa4Mq2WgrABPHFmjQEb1noPn5ObHNfnYN48lKZVA0W+3DBZYLDfKTvIECcrIqrE3BLqIGA==;XaSAwDkA8VRURrYc5A9Z/Q=="
+secured: "sKtkX3So3nq8DEDCIw3n0y8ZsywNKEWkVazPmPvYp9x77adQvWJ+9TelKbhuR4JVDUhn2IJMQU4XsvJs6RNtARlzTX8BiIRqQfOKlD/52BQp+0pOyoBek9iIs5HntIl3Tz8hphqAxGWAO7tgRzoIZrrjmpQLbtMigH1vHNDSpjbMNGKVuwuLXeRsj5VTwYzZJEpxvi1xiV/U2sH9mWUvJXq/z0K0biSSCiLO9wjAWuH5RZLYPKJVk9SQ03ZZYrlHHHxXJ8GYUW07xbFVyjY66JylBqp+qYquqHjL69rxoP35Qr2Ot5W4Q59y4umfOJqzdYPywQLmcP02XAIecN0ZtHT3m/6IpXXYl1Mi73pAXw8=;XW5OO9Fk9Qo7LtdfmteLKA=="
 ---
 

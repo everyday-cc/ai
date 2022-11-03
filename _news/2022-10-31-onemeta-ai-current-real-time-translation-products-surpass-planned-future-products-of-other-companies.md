@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies"
-excerpt: "OneMeta AI announced that notwithstanding what other companies have announced about forthcoming translation products, OneMeta's existing translation products already perform simultaneous translation in 85 different languages."
-publishedDateTime: 2022-10-31T16:01:00Z
-originalUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
-webUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
-ampWebUrl: "https://www.barrons.com/amp/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+excerpt: "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ..."
+publishedDateTime: 2022-10-31T12:08:00Z
+originalUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
+webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/fffd4e29798b933a9233cdc66dfb1610e12b396a-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 1091
         isCached: true
 
-secured: "Jt+liOLQfEvKDhl2KFBXHp+FFwOyNVd+pMv+Pj1uiVKLCamKfvJkaSem61RoOEzlegy12HX6I0oX5Vc39FJR8bgj4MjyAEhIGTX2eEAk6Sf4Wo/dSQbNjl1UDexwfTnsSpxZdGgcY+AgfC7ZW0X9BrFSVyZjccm3KkItnCyGNLzdw4s0UbvvXGAigL9VK4/XIGfZsUbH6i5Jvkg5HB4e41GaAx68LpIshhUh7z+jbR+uLHLWlwskptUd/h/vhnRW9NHuWROLVkTJuiFforP0vC6oXaJpdih31GUrKi/5gYsMuzJ2t0Fw7kwMQnJglznd28RcbYL3N6xec30K2FsMYWdz3fXNBag6HLnrj5HO8Dk=;4p1K8hv23jyCBxkzdhE0wA=="
+secured: "N2n/vHVycj/8x1uBJ6bkkiDUJ0tWPGXjcxcaHP/OrbPXrXSl7ek9ITRxvX579Yiv1HqMRYb5BHVRDOqDdOHo8tKdIS0V39Y3x+QQpG2kN7/m1YODqacLDZErhys7XlFSqs32Gj8KwKhmDOrZveofGrZvFr3WGlLz0MstvFlXlqPIl59w93xGZyAwDAHXAZbBLWlGFSGrAfzj7vZlolVFX2Rx3FPNLNkktqjqLDTn9OpdOqu25IJa3TlMfnslaIYn4tWFOd2dnK27CkgDKm8I9tYn+nZIsmK6165hfm5+w+oQVYyCrts0q9AnR/uVFoecQIJ+A6exfAuuGbYvUYMgjgmPcAeJZn0I7CDz2xruCQs=;VEHXN+cfflrwGlvKFcfFgg=="
 ---
 

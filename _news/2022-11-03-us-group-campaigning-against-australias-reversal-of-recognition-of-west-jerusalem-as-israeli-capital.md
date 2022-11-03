@@ -3,8 +3,8 @@ category: news
 title: "US group campaigning against Australia’s reversal of recognition of West Jerusalem as Israeli capital"
 excerpt: "StandWithUs places ad in the Weekend Australian and asks readers to email Anthony Albanese and Penny Wong about issue"
 publishedDateTime: 2022-11-02T23:33:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital"
-webUrl: "https://www.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital"
+originalUrl: "https://www.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital?amp;amp;amp"
+webUrl: "https://www.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "edaALA+FFYSkLOSeqh7EuDBykp0TTNUsNqsslNsM1m7miecVRqQERj58w7npdER0fgKY05dAnxPAwcKepURSNUvrCQFeYRoXMvQBytWJDMJvqV6iFciKkUsgxStXZ/+a/9q2hyQJSLPAaakDsEeFzHanbNmMhtBhZ390sJlxOW6f0SkN99KB0Bk6E4W2Q2XrWjGMB+lx1hSqv6N0BoAmpI2g4cqE2HhbOBJH0eLErzM0rZQf7wq2wAai140LtTYB1LvkwnbDwqJJROrLdDm8mkYabUOE6+pdV7ODIvrdjWp/aqnadpt3asb16Uaef42KOvNsxUaAORNrYjdod7mI1rDQdRGstQCmbEbnLMKUD8depHGqEULK4Nz+j1DZnzfr5bI7MJleFUSnVWdVZqx+eEnxX9IjPCjmDyeIzyMWTEpbW9+JdOWCKSYzktWR5dRM3gl+5oDI6k51eNu7+edIVt3q26W39/ryuQAE/OWc5HV2HSzmPGNBhR81UHxb4KByPLiwcJI41GHJOZ9GfBnEwQ==;i8WNgGR+ivvDTNOvdZDK+Q=="
+secured: "pO7hFwoBdSC0WdlKvwS+Avh5xbOLTAE7MDajRXWb9o2ly3dMUqbpJxtryQDPzLBorf0bSMbEf2vL9ai6jnX4fhCkSPIZrNlqaiMhqB3AG9gcpWLa8A8b9UNdRm3CJ/VvWEOWcRDATeP8/U9WGDNG4ZBNwLjKsXgEvBLc2Yaz+AYOl7++bZm+Px7HfJDME9pOe08Jls/KDULM8rq6jqDuFYjoUxnfM8Ojmsp19V53ApRhQYh9QBQYqLUm81uqx7M3sybgyqszegC1o1pKK7SdVIjfpgd2QoIaVm6w1YjUUDAfo2FKMkLNLoX/EEC3RgAl6dm2p8agln7KqLAoWGEl5TaqqI3loQGd0rUZYQyez9E=;igL9ukUPLtHlIzyMQSoEjQ=="
 ---
 

@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-24-new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa.md",
+      "title": "New Oracle Interconnect for Microsoft Azure region opens in SA",
+      "excerpt": "Oracle has announced the opening of a new Oracle Interconnect for Microsoft Azure location in Johannesburg, providing direct connectivity between the Oracle Cloud Johannesburg region and the Microsoft Azure South Africa North region.",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2022/10/24/new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa/",
+      "originalUrl": "https://it-online.co.za/2022/10/24/new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-azure-scales-530b-parameter-gpt-3-model-with-nvidia-nemo-megatron.md",
+      "title": "Azure Scales 530B Parameter GPT-3 Model with NVIDIA NeMo Megatron",
+      "excerpt": "Combining NVIDIA NeMo Megatron with our Azure AI infrastructure offers a powerful platform that anyone can spin up in minutes without having to incur the costs and burden of managing their own on-premises infrastructure. And of course, we have taken our benchmarking of the new framework to a new level,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/74a401ab-b737-4144-a596-059842980bda.png",
+          "width": 1024,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T02:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-timekettle-ai-translator-earbuds-empower-english-language-learners.md",
+      "title": "Timekettle AI Translator Earbuds Empower English Language Learners",
+      "excerpt": "OTTUMWA, Iowa, Oct. 24, 2022 /PRNewswire/ -- Tech company Timekettle was recently invited to attend the Ottumwa Community School District Board Meeting in the U.S of Iowa to showcase its ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-english-language-learners-1031827735",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-english-language-learners-1031827735",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1927562/Co_founder_Timekettle_Alex_Qin_students_wearing_translator_earbuds_Ottumwa_School.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-these-15-people-are-shaping-the-office-of-the-future-designing-meeting-pods-hologram-calls-and-buildings-that-actually-make-workers-healthier.md",
       "title": "These 15 people are shaping the office of the future, designing meeting pods, hologram calls, and buildings that actually make workers healthier",
       "excerpt": "Power players from tech-startup CEOs to architects make workplaces safer and happier. See how offices can be more interactive, collaborative, and flexible.",
@@ -1007,151 +1145,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-ai-tool-colorizes-black-and-white-photos-automatically.md",
-      "title": "AI tool colorizes black-and-white photos automatically",
-      "excerpt": "A Swedish machine learning researcher named Emil Wallner has released a free web tool called Palette.fm that automatically colorizes black-and-white photos using AI. After uploading a photo, users can choose a color filter or refine the colors using a written text description.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/palette_working_example-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-how-to-use-midjourney-to-generate-ai-images.md",
-      "title": "How to use Midjourney to generate AI images",
-      "excerpt": "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/Midjourney-River.jpg?p=1",
-          "width": 1664,
-          "height": 1109,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
-      "publishedDateTime": "2022-10-21T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance.md",
-      "title": "FiscalNote Provides A Mission-Critical Solution To Address Regulatory Compliance",
-      "excerpt": "FiscalNote Holdings rides on a strong secular tailwind that provides it with a long runway of growth. Read what investors need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4548212-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance",
-      "originalUrl": "https://seekingalpha.com/article/4548212-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1370928101/image_1370928101.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fai
 webUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       name: Computing
       domain: computing.co.uk
     quality: 38
-  - title: "Cambridge report finds UK police use of facial recognition technology may breach ethical and legal obligations"
-    excerpt: "A report released Thursday from Cambridge University claims the United Kingdom police’s use of facial recognition technology (FRT) has breached numerous ethical and human rights obligations."
-    publishedDateTime: 2022-10-29T16:23:00Z
-    webUrl: "https://www.jurist.org/news/2022/10/cambridge-report-finds-uk-police-use-of-facial-recognition-technology-may-breach-ethical-and-legal-obligations/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 36
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "hIWE7caXpCC+vX9JnxBJYYrxiCd45fyQeHHNK9PSs3SzdKynaDmeBAYqPvO9t0tfbrs16VU+0Y2t37uMIP2snihuC1sILnYoXW9XrLyNy0rgH195Y/x6KDgis1Tt1tBfkNNRHTaMmN3JvW/CmSD7eCxgjHmfr9qqENM8+498PdtGCmBbT17dZfcYhOx7445qtMZIAdzRtrsUHQRNFOHlJvc8qdejVaaQi4+o/mMaS64J564Y6fNR1tmNketCLHjhBvb7BIsyprwXBeC+PHccD4yS0684QgsRh26qYf++Lfglit3QaRY3jFKJYb4Gql6Uk+1FU1Cd1XC9O9zBymaR1XJcu76ZKbTOZG2tPZyCeoVG+GAeoS44bDs9Wnt8B94pyVi7PnoMsF/4Itl4hepP4e0uR0xQR0Sf9v8oEDV3vnHEguOAHsQnxNv8lEXZdcSTnjoGz6awR1btwwJrL1Af/cSfJNygldli9wDYQk8KDEBvYUUmEHX7gKh1jUjPaMRyWDlkMLg6XymvPLOSQ0+ngQ==;bX8y8G1tv5it1KxqpWbCgg=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision"
-excerpt: "The LatticeFlow platform was built to automate the process of solving data quality and blind spot issues in computer vision AI models, critical to enabling model performance in the wild. Data ..."
-publishedDateTime: 2022-10-28T08:10:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm"
+excerpt: "In the past few years, computer vision AI models have surpassed human-level performance across image classification, detection, and other tasks in the lab. However, models often fail to work as ..."
+publishedDateTime: 2022-10-28T08:25:00Z
+originalUrl: "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html"
+webUrl: "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "h/PNj972gViTzV5VlFxc0h8te1hUOWGon6kVWZ1rmAoH5ogSY6CS4diOXlZLh2vr7KUIUCjgGo/RrYhKzDnoS9fI/POXCMQQR4s7s7yyBh/9pnO+G3XE+f5qH/ZWp8Xq3fV510UmxgcUmcYQ/Ad4GvyzsXXLKNZO5luPXTSxjg3HyebZdFQQ0b7VSQcY4qDU0umpBczCAxZGKzIMIF71wfN1j2uCHOWWIZ/C7ip9ydogMmsS7m8BEepxypce0vy4AATO8RAJibhURajJF15xyFRlcaB+flbRzWqsM5QhYGqiodJ/jK5Vpk4sV7L/aQxLvKQEEj+/kCz81q9ICdxQ+jgxHVm//Pbc2IfdBKNuUw4=;2ZxfBGDEZ6DXLj84XXIc6A=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/bd/7bd4c58c-f9a8-5e72-b4e2-08b7e1ee9324/635b9083a776d.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize"
+    width: 960
+    height: 504
+    isCached: true
+
+secured: "/1lNh6V5eM/iC04OshsSZ+LbAUOBwOJVWiyOtKmbi2ToFu015Orn/11fHPuC8SwoxnccEpCE34S0RjqFtqbwx9lS1ey3RED1kHhvSJotqwvngtahqhs4g3G8KVA4iUVadG9V1CV/V8a/Dps73rtqhISVpZahYSbHIoywwSFoHkvC3OZTY45E8pFf0g2894hQPEcumcWTcnMKNG86xOfryb18DHPcYzq1pdjzIKstS3lIRjrAnRF0pmCeuMJpAizWEsWqByU0uJTzz9EHivHY4T2DID2HC47FJGuo3dDoYiqHUYpUnYx8xllmA/TcbjYg/OHPepuc+qPUc+9bcbcJA1EalgpaQFT3xXLX1QgtmBg=;NiyuZceWW65v7LmyRuGM/A=="
 ---
 

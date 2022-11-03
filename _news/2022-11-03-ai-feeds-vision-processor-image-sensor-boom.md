@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-03T07:04:00Z
 originalUrl: "https://semiengineering.com/ai-feeds-vision-processor-image-sensor-boom/"
 webUrl: "https://semiengineering.com/ai-feeds-vision-processor-image-sensor-boom/"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
+  - AI Hardware
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/Fig04_Omnivision_OG0tB.png?fit=1430%2C1045&ssl=1"
@@ -23,6 +25,6 @@ images:
     height: 1045
     isCached: true
 
-secured: "1VIbsyxX5rgsh4pyGSUsSyyvWx+Gy/uzRK9Q3Q+scdvJIvq+dTwFjoGXr/n9X4FBSSBiYfAwaDzvq/KP2aOyTBOPkBOMslCOQPcv6HMb7NFpKQJPnhGwOwEb+2HurxEJFzoBBGuXqgjIC8xhRwG1P7un81+LdSZnaYnNQtyqxTFIlHaCEwF06XjEtB/h2BiNC4uhFOho9KxVhg1GRQSi5akjybZS7WRHyQd6RbHjgG6huDfXJOb0WWxdnmjHtdebL4IeRVK1heC7oR82lpd6patEbVsL4FhUhZRamR34lAlXCDclrK7klZip0QZTq9W37IVgzWXEi/Pyat9/5ojpdYGLAuN5jiVJGRwJ/e2/TbU=;Vv7/1S5gt0fWY9Ld75uXWQ=="
+secured: "br396gWEXv3zkOUt6ikZ2iqBWEgy18LCAIGSKKQqc9Q4p5Z2P84jrw5a80lttDHNWRkD6NdP47oYGboIcAp2oX0jEowUqgAItOllQ35QLgByIpl3AwMQThbQCTnWiXq45Lzgvft2YX5z9ARjYn/h466PNjrrsbAxaW7W/78GXki6O1fTZTWs9Nijeb1b7scbOtZ1KjeE2sYorCwxqM5yFMY4moj/jRASTQVikPQVjdLCKHCfu76JhpFxxm0VncVVHqYNBwl8VBW9bKhe378/4JLwwoygcKzMEUpwcU1h3WNWSSf2lTlCfOyfi+itDsQ/KFdfARw7dSjHOnSFen2YkVlXp2QS1+/gsnOX8hgqWLCzCmG7LOZCSZJ185WeaVdIftlRJiT/fh9UIP3sLI0xNsih2a2f/LSnoWuQfo+0YJ5j0wDmY1J0DELscDXXgOiv9JtASasDV5gAhmTScSLtCTzKOSFYt+XjU607JypzzUPDj45lg3LYr5l4YlhPOMGMMoil16ZvoFgii7NBrKpRGA==;AQvUBKIxQ8g8cCoFjghxDA=="
 ---
 

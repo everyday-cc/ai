@@ -44,20 +44,6 @@ related:
       name: Computing
       domain: computing.co.uk
     quality: 38
-  - title: "Cambridge report finds UK police use of facial recognition technology may breach ethical and legal obligations"
-    excerpt: "A report released Thursday from Cambridge University claims the United Kingdom police’s use of facial recognition technology (FRT) has breached numerous ethical and human rights obligations."
-    publishedDateTime: 2022-10-29T16:23:00Z
-    webUrl: "https://www.jurist.org/news/2022/10/cambridge-report-finds-uk-police-use-of-facial-recognition-technology-may-breach-ethical-and-legal-obligations/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 36
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "3Ve4nE7i5Qg5mihQ0+j26zl1w2Rs5hKGU3H6n/PBIi8EZO6/m2WWjIIQlRdqVgkwpll8mLI+DVH48zKGqaoWg9m9IxoOo3FcV7e64QrPNe+oZgXwGLipCO4SwywCAu5F/vbf067zP3+K8WIjhD0S6K51nGJiVGYAGN4VQ6SEeMx5OI0RDJp9sk2ZGXHYImvgj6a2a3ZL7VxwTyLOqxxzq8STkNdaH8tfE/RabErI7RO7FqfsFxv/Rk8R+rKrhXWWLASsZvn9ePA5dMF/XVksuX1O+oofsLkLb6KS6Evi43ZSXmgkCY6+dLp7KO0O/xz2MI8NxYf1h2oxXYqmbQIbk8sezHJneWGZRKAT1u2yaCpXpU8lbx+LalNGstmaHBJFkGb2wz7QKoVwaXAJ+OX/O3Kz7DglmolpvdwlXPFT0YZdIyybISybh9fUVib/Coyo3gM+U92dJJAl328NXJvyrTxArhbkmqTnDKim8XLCP5aTMfRhs2h92ds4AjTARM24oY+8uCAQOhWkPh+xtc0Zkg==;CUh6D6v8eMRBW3S+kdTJGg=="
 ---

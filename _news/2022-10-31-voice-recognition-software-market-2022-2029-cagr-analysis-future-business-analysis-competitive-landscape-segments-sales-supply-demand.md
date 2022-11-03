@@ -26,19 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Global Market Study on Speech and Voice Recognition with CAGR 19.8%"
-    excerpt: "Speech and Voice Recognition Market Size, Share & Industry Analysis, By Component (Solution, Services), By Technology (Voice Recognition, Speech Recognition), By Deployment (On-Premises ..."
-    publishedDateTime: 2022-10-31T08:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-market-study-on-speech-and-voice-recognition-with-cagr-19-8"
+  - title: "Self-driving Ships Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. The global Self-driving Ships market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report)."
+    publishedDateTime: 2022-11-01T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Wall-Street-New-York-DJC-1K-600x337.jpeg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Size 2022 | Industry Share, Growth, Analysis and Forecast to 2027"
+    excerpt: "What is Natural Language Processing? How Big is Natural Language Processing Market? Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
+    publishedDateTime: 2022-11-02T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2022-industry-share-growth-analysis-and-forecast-to-2027-2022-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in Machine Vision Market Insight | Pre and Post COVID-19 Impact Covered | During Forecast Period 2022-2027"
+    excerpt: "Nov 01, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning in"
+    publishedDateTime: 2022-11-01T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-insight-pre-and-post-covid-19-impact-covered-during-forecast-period-2022-2027-2022-11-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gnvvuP03kSX2ayDp+JEQfcIMzTiut60HRt8nbMA7bGN/HXAYoh4wJtWCof20QydXxwivvWiwrRXxMmBCFB8KWjO1y/s9WXihDkNebELJnAAwpRdjth4BG5xZrVjpfGhau7lqlO0HxsL/kJMOLVaHpnyQASvUBAwc5EHFIMC0c79dl/flQWkx7GepC1/lZoZM/B8GyEyVQgA8o9C8Grod3dacz8/7TGZ/49bjfwwpi9CljDMAqM7Es/k1WTpKNABj4oIpeOaG3Dpc4rBEjI1jJ3a0VHepIXM4d/wqRgPp6rifXt0Uc6ushv2FXfcSm0XVvHaHsaDCqyJlVhQKWvBuL8EiKdBBRUJErjpeP+w05nE=;TBKWH6sPJ8rv76xlPAUe0Q=="

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Natural Language Processing Market Size 2022 | Industry Share, Growth, Analysis and Forecast to 2027"
-excerpt: "What is Natural Language Processing? How Big is Natural Language Processing Market? Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
-publishedDateTime: 2022-11-02T10:11:00Z
-originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2022-industry-share-growth-analysis-and-forecast-to-2027-2022-11-02"
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2022-industry-share-growth-analysis-and-forecast-to-2027-2022-11-02"
+title: "Self-driving Ships Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
+excerpt: "Pre and Post Covid is covered and Report Customization is available. The global Self-driving Ships market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report)."
+publishedDateTime: 2022-11-01T05:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 57
+heat: 87
+published: true
 
 provider:
   name: MarketWatch
@@ -19,8 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Autos
   - AI
+  - AI in Sales
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -29,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Ships Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The global Self-driving Ships market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report)."
-    publishedDateTime: 2022-11-01T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
+  - title: "Natural Language Processing Market Size 2022 | Industry Share, Growth, Analysis and Forecast to 2027"
+    excerpt: "What is Natural Language Processing? How Big is Natural Language Processing Market? Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
+    publishedDateTime: 2022-11-02T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2022-industry-share-growth-analysis-and-forecast-to-2027-2022-11-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -72,6 +73,6 @@ related:
         height: 337
         isCached: true
 
-secured: "Rz3s9HysyimYvEIJijQU7dyBmDZaQUkxcH4Qutbt1V6BFHR/2urO5BFii7zwijKM9snMynBDb1myidQUwELg2CViGcUD/F3gPrF1GDFgSDJTB5AEzdQwtHOs0h+j0jYANgzA/0EuE80ImexW1p7AZanh1uXxUcUA79xRbXpPtCYNfrF8OYMGHdQQIB35o2zvElbGc3b91KjaIOHOSabOXBjA0q52G+VXKaEQCi/mIJTVfoq3EZsTgnSJuJdruIhSLv350E9+tvKGY70nhOKXqMzufrV5wQ7cyMMFjUwfyQzVfUvhKemHDcXPC4Q3hRpWXpdLopltafMaY9sJYBhMdbZr8jBoHIyBzivQd87bkCw=;Rg6wfIrD9j9qimG7mBwfEQ=="
+secured: "ioCyl/vScsPqZh4Z/V66mvhEZyxcRjqLTGXIVctndRS3F9pgvgavDPn7H8wqs8MzIPtVSogxB6nCoKyxUYMGJql1DH+wmdiNY62lZNtcNLAQDzBqzYIavJoPDtugbPecMvecn74HEapORR8qdZUpiqF3ISZVhWzX+ZGES3J5BYWhWMiuXtCcFaKgGjsmjfsi5MFllE2tNWfGyDsyK7q9v6kjhsU8AWrbnnQq/JK0QgsnkpEPr3pcIxRQqJrS1ybS0dWoJ02zafg07pBNYLezYs4W/nY+f6IyR9HyXMNhDYhDHoPTvUQCM85Qn/iwbPti+/6zmlQ4KiDaZhLS/RDS4YMXrX16OoduWfNPSVbvtVk=;+hrB1Huo/rvhlm4DaIx64g=="
 ---
 

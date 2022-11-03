@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Meta's AI Translator Can Translate Unwritten Languages"
-excerpt: "San Francisco, Oct 20 (IANS) Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company ..."
-publishedDateTime: 2022-10-20T11:48:00Z
-originalUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
-webUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
+title: "Meta's AI translator can translate unwritten languages"
+excerpt: "Meta has announced an AI -powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
+publishedDateTime: 2022-10-20T15:15:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/metas-ai-translator-can-translate-unwritten-languages-766157"
+webUrl: "https://www.thehansindia.com/technology/tech-news/metas-ai-translator-can-translate-unwritten-languages-766157"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-10/20/I_ccc7cimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://assets.thehansindia.com/h-upload/2022/10/20/1317169-meta.jpg"
+    width: 1200
+    height: 720
     isCached: true
 
-secured: "RlRQ6XPCWAyFIQFmYmOpS2mC2z8X5h9P2pmBaKwAAFvAu/yVbKuAiCF3dPS5XT39mvTAAvx1G7gbpm3NbyKB52XjXLPh9AFbowbmr2EE0NpkHaVX98lCT49WeziSWBGcj6q8JM2Ygu5c06Ji2DwCIglL+Ay1D3K6H7gQ6GytdZ2Xj+yC/NRYcKRmZDp6XsOvEC5MbJzNJrdlFAWv05/poy9rBztzLUoW0RiXbOWIRukgXWbrkuvEhjRGSfDBPnGkvL70KskFW/5oOdtg1ljT/L0MRxhBR0H6RdgUJSnQm/QS0HIM2MrHeSfh9isQkcPs5Y18qWi6HdUdzy86B6N3jKfOxpbEykHTk1GaaKaSC7c=;NNPX+INeFlH9PS17IfcNVg=="
+secured: "jF03I6VvJ+zVxnyJD1lHffS5/4PLDXlnitF4BD69v5VNx91hwXVoE8OkNSYjZ9NiiEy1bzPjEOjLcbIAYfvOcmIxJJZaQQQdtSHWZjOl9laSNqsIiYSTAahcqj96Nhoa4h8RnCO8QZ1cWoyV2edW6rY2oc0l9MtcIJ1/iCiX9AzRgQGdViweyFhToZ4eystpnlZoKVktmeq/Ths6UUERaQ5iAyPjIuEta1iVX1lTInlOhYlr4P8eepfXQXKav+ndTrRmTsCu/9eD9kAp6qwB/NOddeM6PL+JDVEMBDnwMgS2YWxwaJ9thPEA+jl+0jlOEZHHb1FobHdWOu1ZWx5fDFP06vtOns7cWJroxxmlBuE=;g0s0llWhuj3RPKcdXQfoaA=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "How artificial intelligence is branching out into politics"

@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+    publishedDateTime: 2022-11-02T20:08:00Z
+    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "How Google uses AI to solve modern day problems"
     excerpt: "Using this, Google plans to improve its products, such as YouTube, GBoard, and Translate, and make it easier for people to find relevant information in their native language. In addition to supporting 1,000 languages, Google says it will use its AI to ..."
     publishedDateTime: 2022-11-02T14:57:00Z
@@ -88,20 +104,6 @@ related:
       - url: "https://scitechdaily.com/images/Artificial-Intelligence-Artists-Concept.jpg"
         width: 2000
         height: 1500
-        isCached: true
-  - title: "Google wants AI in one thousand languages"
-    excerpt: "NEW YORK -Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next"
-    publishedDateTime: 2022-11-03T05:22:00Z
-    webUrl: "https://business.inquirer.net/371065/google-wants-ai-in-one-thousand-languages"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://business.inquirer.net/files/2022/08/2022-08-24T075637Z_1_LYNXMPEI7N07C_RTROPTP_4_AUSTRALIA-GOOGLE-620x413.jpg"
-        width: 620
-        height: 413
         isCached: true
 
 secured: "HDTreNV1pGgr4d9z6+x0XWqiliIvPmR3JWSumqjcj5itS+0DHxyGVQ057M9L2u32daO+ozU+uB2Pi99d591dmxQzeCfLQA3V51zVymBrzCE6e7lpgb+AArsyVCeO+Btsdw/F7OhpVeA38d3qc5dlizeWyk6dFnpmeIyiX9DpBntXoxVYA3yhoXbTMjk4QqrPeIX3ikx8ipijIhYQcJXvkyWaCJXgTFg+jGgtWWx58pkPepdafr57CQJKwveH+Jp1s5Z/DSvIXBoTNEz1RO3WIELJkuy1s99cVSaXluI4+kDuuPpCtTFChMaYp3Kk/oVTsx5x0Q45ee6TaRVQMLH7iym0zWy6GpYNlH0uglTCnefQSueVpNBE1gzWbmyX0Nz/mNzU4dEq5sbj4yFIhyrChMI6z/YnXoPZj0i8QNmEppvKpwNvNpZLdOMGJ+JpTst6FYAn1PAll/icGDhqcXW7hql0UC+trML2+IaGTYwITG8sPEBEZ4pRzPv6mmprJCjWGBlGCcWFdvN7sFKikVjdIA==;9oB2S5BbYdisaKzH9xWFZg=="
