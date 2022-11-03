@@ -23,7 +23,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 23505
+        "followers": 23504
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -78,7 +78,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 43305
+        "followers": 43306
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -125,7 +125,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 26333
+        "followers": 26330
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -282,7 +282,7 @@
       "twitter": {
         "username": "Knewton",
         "url": "https://twitter.com/Knewton",
-        "followers": 14110
+        "followers": 14109
       },
       "yearFounded": 0,
       "locations": [
@@ -591,7 +591,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 34026
+        "followers": 34025
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -701,7 +701,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 590241
+        "followers": 590236
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -884,7 +884,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 84466
+        "followers": 84471
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
@@ -922,7 +922,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1089420
+        "followers": 1089402
       },
       "yearFounded": 0,
       "locations": [
@@ -964,7 +964,7 @@
       "twitter": {
         "username": "Upstart",
         "url": "https://twitter.com/Upstart",
-        "followers": 17796
+        "followers": 17794
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1065,7 +1065,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 76375
+        "followers": 76380
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1118,7 +1118,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 21298
+        "followers": 21299
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
