@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-31-self-driving-truck-startup-tusimple-fires-its-ceo-over-improper-ties-to-a-chinese-firm.md",
+      "title": "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm",
+      "excerpt": "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105735152-1550011600980dy1_nvtvyaawmqd.jpg?v=1667224750",
+          "width": 1737,
+          "height": 1159,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "publishedDateTime": "2022-10-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it.md",
+      "title": "AI Will Impact The Labor Market, But Workers Should Embrace The Technology, Not Fear It",
+      "excerpt": "Alexander Konovalov is the founder and CEO at vidby, a Swiss startup offering AI-powered video translation and dubbing across 70 languages. The debate about whether artificial intelligence (AI) might displace human workers in the future has been going on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f57eee4bedb44f6caa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "publishedDateTime": "2022-10-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.md",
       "title": "Intel's new Data Center GPU Flex Series now supports TensorFlow acceleration",
       "excerpt": "Intel adds its new Data Center GPU Flex Series to Pluggable Devices, something Intel is calling Intel Extension for TensorFlow, available right now.",
@@ -779,6 +884,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-29-chinas-new-intelligent-ev-company-jidu-launches-its-limited-edition-robocar-called-the-robo-01-lunar-edition.md",
+      "title": "China's New Intelligent EV company JIDU Launches its Limited-Edition Robocar Called the ‘ROBO-01 Lunar Edition'",
+      "excerpt": "Baidu-backed Chinese electric vehicle company Jidu officially launched its first vehicle, the limited-edition “ROBO-01 Lunar Edition”. It’s a futuristic EV that comes packed with advanced technology and “point-to-point Autopilot” (PPA) autonomous driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/5581/Chinas-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition",
+      "originalUrl": "https://www.futurecar.com/5581/Chinas-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202210/28/l_635c2286a71c6.png",
+          "width": 800,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-tomiai-selected-for-google-for-startups-cloud-program.md",
       "title": "Tomi.ai Selected for Google for Startups Cloud Program",
       "excerpt": "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a",
@@ -1080,144 +1228,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
-      "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
-      "excerpt": "In the past few years, computer vision AI models have surpassed human-level performance across image classification, detection, and other tasks in the lab. However, models often fail to work as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
-      "originalUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/bd/7bd4c58c-f9a8-5e72-b4e2-08b7e1ee9324/635b9083a776d.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
-          "width": 960,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
-      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
-      "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-artificial-intelligence-has-an-achilles-heel-data.md",
-      "title": "Artificial Intelligence Has An Achilles Heel: Data",
-      "excerpt": "Artificial intelligence just doesn’t pop up when you install tools and software. It takes planning and, most of all, it takes data. But getting the right data to make AI and machine learning algorithms — and understanding it — is where many organizations are slipping up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635b38cb63aefdcfb6876e01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/amp/",
-      "publishedDateTime": "2022-10-27T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

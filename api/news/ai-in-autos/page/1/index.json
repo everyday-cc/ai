@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-02-googles-new-prototype-ai-tool-does-the-writing-for-you.md",
-      "title": "Google’s new prototype AI tool does the writing for you",
-      "excerpt": "Remember that time Google showed off its artificial intelligence prowess by demoing conversations with Pluto and a paper airplane? That was powered by LaMDA, one of Google’s latest-generation conversational AI models. Now, Google’s using LaMDA to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda",
-      "originalUrl": "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/mlBNdR6hlHI6xIGwMu8ZCVQG53U=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/24162041/IMG_0296.JPG",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-02-honda-develops-ai-self-driving-technology.md",
       "title": "Honda develops AI self-driving technology",
       "excerpt": "Honda Motor says it is developing an AI self-driving system that uses cameras to help the vehicle better recognize its surroundings. This is the company's latest step toward putting autonomous driving technology into commercial use.",
@@ -452,6 +400,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-chinas-new-intelligent-ev-company-jidu-launches-its-limited-edition-robocar-called-the-robo-01-lunar-edition.md",
+      "title": "China's New Intelligent EV company JIDU Launches its Limited-Edition Robocar Called the ‘ROBO-01 Lunar Edition'",
+      "excerpt": "Baidu-backed Chinese electric vehicle company Jidu officially launched its first vehicle, the limited-edition “ROBO-01 Lunar Edition”. It’s a futuristic EV that comes packed with advanced technology and “point-to-point Autopilot” (PPA) autonomous driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/5581/Chinas-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition",
+      "originalUrl": "https://www.futurecar.com/5581/Chinas-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202210/28/l_635c2286a71c6.png",
+          "width": 800,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

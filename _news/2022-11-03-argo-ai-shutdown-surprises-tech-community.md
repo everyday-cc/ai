@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-02T19:49:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/02/argo-ai-shutdown-wake-up-pittsburgh-tech.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/02/argo-ai-shutdown-wake-up-pittsburgh-tech.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Argo.ai Shuts Down - What Will Happen To Its LiDAR Unit?"

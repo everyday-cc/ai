@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-26-ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy.md",
+      "title": "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy",
+      "excerpt": "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "originalUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "publishedDateTime": "2022-10-26T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-uk-watchdog-warns-against-ai-for-emotional-analysis-dubs-immature-biometrics-a-bias-risk.md",
+      "title": "UK watchdog warns against AI for emotional analysis, dubs ‘immature’ biometrics a bias risk",
+      "excerpt": "‘Orwellian’ AI lie detector project challenged in EU court In another example, UK heath startup, Babylon AI, demonstrated an “emotion-scanning” AI embedded into a telehealth platform back in a 2018 presentation — saying the tech scanned facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/",
+      "originalUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/5563567802_8419411440_k.jpg?resize=1200,929",
+          "width": 1200,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/",
+      "publishedDateTime": "2022-10-26T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-how-can-human-powered-ai-advance-the-future-of-music-in-advertising.md",
+      "title": "How Can Human-Powered AI Advance The Future Of Music In Advertising?",
+      "excerpt": "The ushering in of human-aided AI for music will be a renaissance where we see how technology can inspire new ways of creativity in music production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/26/how-can-human-powered-ai-advance-the-future-of-music-in-advertising/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/26/how-can-human-powered-ai-advance-the-future-of-music-in-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6357eb9d937240d55da133ef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/26/how-can-human-powered-ai-advance-the-future-of-music-in-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/10/26/how-can-human-powered-ai-advance-the-future-of-music-in-advertising/amp/",
+      "publishedDateTime": "2022-10-26T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs.md",
       "title": "AI Risk Management: A Prerequisite For Sustainable Growth Of AI Programs",
       "excerpt": "The comprehensive implementation of AI risk management will be essential for the long-term success of AI initiatives.",
@@ -195,6 +341,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-a-top-aws-exec-shares-advice-on-what-you-should-do-when-the-company-you-want-to-work-for-is-in-a-hiring-freeze.md",
+      "title": "A top AWS exec shares advice on what you should do when the company you want to work for is in a hiring freeze",
+      "excerpt": "The director of product and engineering at AWS says job seekers should \"boost their own marketability\" while waiting for recruiting to thaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/aws-nancy-wang-advice-for-job-seekers-in-hiring-freeze-2022-10",
+      "originalUrl": "https://www.businessinsider.com/aws-nancy-wang-advice-for-job-seekers-in-hiring-freeze-2022-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/634f12056bd52700191534c6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1000,187 +1198,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-shutterstock-to-offer-ai-generated-art-while-compensating-human-artists.md",
-      "title": "Shutterstock to Offer AI-Generated Art While Compensating Human Artists",
-      "excerpt": "The stock image provider is embracing OpenAI's DAll-E 2 program, but will also launch a fund to pay artists for contributing to the AI art generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
-      "originalUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05aAKSsxub8UucKDaCAuuDN-1.fit_lim.size_1200x630.v1666708832.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-hardware.md",
-      "title": "AI chip startup Axelera lands $27M in capital to commercialize its hardware",
-      "excerpt": "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "publishedDateTime": "2022-10-25T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-artificial-intelligence-ai-in-clinical-trials-market-worth-48-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales.md",
-      "title": "Perceptron: AI halts traffic, stabilises gaits, and saves whales",
-      "excerpt": "An AI system listens for the calls of certain species and reports back to a researcher, who can then determine where the animal or animals are by correlating the data with factors like water temperature and weather as well as historical records of whale sightings in the area.",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales/",
-      "originalUrl": "https://bestgamingpro.com/perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/10/Perceptron-AI-saving-whales-steadying-gaits-and-banishing-traffic.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

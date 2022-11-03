@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-word
 webUrl: "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google: Well Positioned To Continue Benefiting From AI"
-    excerpt: "YouTube uses machine learning to optimize how many times a viewer sees an ad from a given company. See why the stock is a Buy for long-term investors."
-    publishedDateTime: 2022-10-30T13:01:00Z
-    webUrl: "https://seekingalpha.com/article/4550896-google-well-positioned-to-continue-benefiting-from-ai"
+  - title: "Google's Prototype AI Tool Can Write a Short Story. But Is It Any Good?"
+    excerpt: "A conversational AI created by Google is writing fiction using input from published authors, the tech giant said this week. Thirteen writers used Google's LaMDA, or Language Model for Dialogue Applications,"
+    publishedDateTime: 2022-11-02T22:08:00Z
+    webUrl: "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1414475159/image_1414475159.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
+      - url: "https://www.cnet.com/a/img/resize/d7328e5e13b1f655ee3e54bafe5577912bfdf48c/hub/2022/11/02/a0806138-a770-4236-a21b-979a314d6ef8/gettyimages-1065679054.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qKXm+KHmAPvwohEQ755Xe+Y4d9py268Ye/v9tYA7N+ncAm3CHarrJZF9xfJN2AbVnEylXVuP3XEzSi7tD5jtRTVxhoNjKaOuS8jhJDPVEt8+6ncr2WIQKuL4uzOncwvjPXVUfIKU1SVAa/8j7paZg3sHu09Y7FSntKwOXaGjvMNGeSSC/yU8o7KQt15sTQUjEXjoeOlHndP92KhaMRYwK13Y9+H6Rc6DM6KCeAChDCAk9HgU1hhos58aPr/1uobH6dhcPG7lqI+4X8fuYiN8OLu5qXfLXG0vHzsdd4XdWPrbEDFiTJJonq0ZCtuQdNdxIc2Fm1rBWk5EKJcZXcayPjoQmjoGd+/osA9C7A5QOG8QgABrUu2w/byOw5bpRdICYtPeTTmU+/7eDNJNsIfAl4JsK6DD1wKX1RY27CR879io0j7MWY03PLbgXVEU0//zEwkTZ/CD5zXQJoFuTVvTJ434cIuKkGFQfzwSVIgTE9kdv5G6s5bgj1rId5WuZdQtsKeW3/d4rtAnmMCqnqiZXQ==;SoDeBKn6muerefNgc6iFSQ=="

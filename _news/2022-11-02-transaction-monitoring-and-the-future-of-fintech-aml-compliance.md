@@ -35,20 +35,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "28/10 – Weekly Fintech Recap"
-    excerpt: "Partnerships Payer and American Express Partner to Accept B2B Payments Across the Nordics Payer, the premier B2B technology company specialising in digital conversion, payments, and finance automation,"
-    publishedDateTime: 2022-10-29T06:45:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2810-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_9.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "dVbBc2G3qmGA+/0dcFJXVawA9KE5di3hJquAfhOc3if4VZ5qar5mwYzba1S07J0vaRvcvHH1crMVXH6jKb0AM45+Ml25Wqb+MuTH9I7fWvx0IHmUMFTJK5K/8Az89riIJ9iXmDLODmJEyA++1Ahsu3gDHlALvY3d9gn44ePe+mxp1UZmz7pQ4pGLM/EiT81prwoX3YKA4gMpEiQB5d0E3ftYJwChZGQfs+h3cqxptctmHUYz0g224aXrpHYps7iCdWcKiTiRGIBZaPYSuEiTyJtFMGZJvRtvhdrmoTvk1vIhemWd8E4MvPE+TQaHBPgIB3b9J5j0VuGOscnvSOj2Ichp26qsp62vsTt0It71LgA=;MYEjCUAlbDWOuVjsK2cphg=="
 ---

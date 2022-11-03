@@ -42,7 +42,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 73
+    quality: 75
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
         width: 685

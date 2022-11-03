@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intellige
 ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
@@ -45,6 +46,6 @@ related:
         height: 800
         isCached: true
 
-secured: "OgZKEbio7oq6BvmhdwNBcVXPqxde5CxJtxpAN99fO5/VmmkSsgX5UK9RzBNgcHmGsjQzwWZvP+jEXUeGJz/g2PTFeHTu0Y9uSkdKPcs2v+nuhFUtlibupTkub+9JSuymnMxexNESuvcc952/GVV0HlUJeeJxPdYos9IRsogOQPUzrtAvNo6OBty7HoIRJQykZoH0s8rBULlJZTV75QwYdGO1RVryCVe6PRA7D/y7s4fTUWipjxj1VO4ScJOgMHLy1oIywJSxafOPm8ZBlr17pmeQsD6Si8UOw97KNrdxQPwyvLgma6Y7FVGiFlY7QSfUYDJOGaOKfYYRrVS4TeQvjrk9VBK7uHJoBqjoUDu2hHo=;pQ/mJXe1GnCaD00M/LQJYA=="
+secured: "E4lAsL3Y5XbM6B2sZ03/HKpvIVzExkpaaMCaxmqI0eLLBjbTQgyJV65S76p8glP11TZQ954OQOihUC/Xh+Q4L3cpwjX14p6p4qs9hlQyHL3zG/LgVHFRj5OBOVUbMSgyLqi++ftcNKagKaPBiZ1xhAeUTJt9UvlilxZ+NfqjMJ19ZE4x1m0Blata/skgbcnYfjcaua3f9BpDGxm9abSiTfA5STG+FitxL+I/ZJosIR88UZTp/b1uS9XMa/4Azrzqdf07wTSpX8oDl7ACfVqPDraNh9JY9GwNU38Fti4BJz+UiOSax1Yg/7RliitTboZkU4SOcZ6ll52+Po2RjNjsSkZvItsdFWdocomdpmxmSwBvC4Q57iN795MnS6I8bJYWlk7KSELkmTomTlHzRoooQL1mLnDKto6gzrcceV9EvhF4KrWKyZxOLEbvHpH+c7IVPnXQi0w7ReKp1kAJ6LyadmYn6pRls+kuALXJmSuQ1K/ubX/aL029a7TfZcq/P6RIXSShefvWvljFnPwLsa3+5w==;bqLQlUGAhHUDbCdMHmvcmA=="
 ---
 

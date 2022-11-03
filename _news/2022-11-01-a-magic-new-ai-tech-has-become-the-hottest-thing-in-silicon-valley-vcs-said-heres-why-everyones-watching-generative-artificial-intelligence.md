@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/generative-artificial-intelligence
 webUrl: "https://www.businessinsider.com/generative-artificial-intelligence-hot-ethical-safety-concerns-funding-venture-capital-2022-10"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”"
-    excerpt: "There's a lot of confusion about generative AI, including how new exactly it is, and whether it's becoming massively overhyped."
-    publishedDateTime: 2022-10-29T06:28:00Z
-    webUrl: "https://techcrunch.com/2022/10/28/generative-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/10/28/generative-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/28/generative-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/intro-1.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "3p85D3uU+5uaNDRcHFECjLA2H6EKU0sUoGQBGp4TwEl4jNr/IMvgNjYp70NlRBhuKcQloCPxdCGLrCjArWkahC/LTVa9msDALqG93w06iF0L6ObfuTl6oPTs2RbSdDF6pykMz4IureDVrkMwMOtdewf1ANrzdrV2gJdKgrzRMF7FElxayOPz78uOM2auu4caKCUK39qXn2u8sjWuP8YQJt1BBj50XhtjizW3kmWt9vLK35Wuq1ucvJyUqVMEQKvI0YwdD87QdKl/xcObq3/xZMGHQqzC3e//h/zSwUIRGkMNL4mplf4ETF/UzWRmeV4dx6m/bTlTcXJODntIHfuQepAGfi4mPt0RbNbV3HXHReHWzjzAWkM5E1roVHJy32FeMA9MAFZb8ygY+tk1pU4okFLYeQTvVbE7afeBQtJNAouXZ74m2CwX7wlXWtOpSNG1aK0tBGQGffAMGNS+gNdB/341j9BctmTk4gUPW0G1awBh2DOxmV5Hrm2Bu9roHNEvh41rpHxBO1ur27Z9z3mbcg==;izp+5vS1NYK23nLspZIvwA=="
 ---

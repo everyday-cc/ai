@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-03-nvidia-enters-the-speech-ai-race-joining-meta-and-google.md",
+      "title": "Nvidia enters the speech AI race, joining Meta and Google",
+      "excerpt": "Nvidia and Mozilla Common Voice have partnered to develop speech AI models that work universally for every language speaker worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
+      "publishedDateTime": "2022-11-02T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good.md",
+      "title": "Google's Prototype AI Tool Can Write a Short Story. But Is It Any Good?",
+      "excerpt": "A conversational AI created by Google is writing fiction using input from published authors, the tech giant said this week. Thirteen writers used Google's LaMDA, or Language Model for Dialogue Applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "originalUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/d7328e5e13b1f655ee3e54bafe5577912bfdf48c/hub/2022/11/02/a0806138-a770-4236-a21b-979a314d6ef8/gettyimages-1065679054.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "publishedDateTime": "2022-11-02T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-listen-to-an-ai-sing-an-uncannily-human-rendition-of-jolene.md",
       "title": "Listen to an AI sing an uncannily human rendition of 'Jolene'",
       "excerpt": "Holly+, the digital \"twin\" of experimental musician Holly Herdon, does Dolly Parton's classic 'Jolene' surprising justice..",
@@ -101,6 +204,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-louisvilles-amp-robotics-raises-91m-in-series-c-funding-round.md",
+      "title": "Louisville’s AMP Robotics raises $91M in Series C funding round",
+      "excerpt": "Louisville’s AMP Robotics Corp. has raised $91 million in a Series C equity funding round, with the company planning to scale its business while continuing international expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
+      "originalUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
+      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
+      "publishedDateTime": "2022-11-02T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Camera",
+        "domain": "dailycamera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -250,58 +396,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-googles-new-prototype-ai-tool-does-the-writing-for-you.md",
-      "title": "Google’s new prototype AI tool does the writing for you",
-      "excerpt": "Remember that time Google showed off its artificial intelligence prowess by demoing conversations with Pluto and a paper airplane? That was powered by LaMDA, one of Google’s latest-generation conversational AI models. Now, Google’s using LaMDA to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda",
-      "originalUrl": "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/mlBNdR6hlHI6xIGwMu8ZCVQG53U=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/24162041/IMG_0296.JPG",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -990,7 +1084,7 @@
       "originalUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1121,110 +1215,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-computer-vision-brings-intelligence-to-retail-tech.md",
-      "title": "Computer vision brings intelligence to retail tech",
-      "excerpt": "Cashierless checkout and inventory management tools powered by AI and computer vision are on the rise, despite economic downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
-      "originalUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1155281842.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
-      "publishedDateTime": "2022-11-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-self-driving-cars-were-supposed-to-take-over-the-road-what-happened.md",
-      "title": "Self-driving cars were supposed to take over the road. What happened?",
-      "excerpt": "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the fully self-driving car. Such vehicles would usher in an era of consumer safety and convenience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/11/01/business/self-driving-industry-ctrp/index.html",
-      "originalUrl": "https://www.cnn.com/2022/11/01/business/self-driving-industry-ctrp/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221101094715-argo-ai-vehicle-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ctrp/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ctrp/index.html",
-      "publishedDateTime": "2022-11-01T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

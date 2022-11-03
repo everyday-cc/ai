@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/problem-scaling-ai-mit-prop
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:

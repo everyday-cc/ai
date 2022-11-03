@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "28/10 – Weekly Fintech Recap"
-    excerpt: "Partnerships Payer and American Express Partner to Accept B2B Payments Across the Nordics Payer, the premier B2B technology company specialising in digital conversion, payments, and finance automation,"
-    publishedDateTime: 2022-10-29T06:45:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2810-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_9.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Transaction Monitoring and the Future of Fintech AML Compliance"
     excerpt: "The fintech sector is renowned for being innovative and has created some of the biggest shifts in financial services in recent years. Regulation that squashes this would not be useful for any of us. One key example is when it comes to customer processes - some smaller Fintechs may struggle to collect all the necessary data on customers,"
     publishedDateTime: 2022-11-02T15:33:00Z

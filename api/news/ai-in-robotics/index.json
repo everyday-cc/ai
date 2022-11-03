@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-03-louisvilles-amp-robotics-raises-91m-in-series-c-funding-round.md",
+      "title": "Louisville’s AMP Robotics raises $91M in Series C funding round",
+      "excerpt": "Louisville’s AMP Robotics Corp. has raised $91 million in a Series C equity funding round, with the company planning to scale its business while continuing international expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
+      "originalUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
+      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
+      "publishedDateTime": "2022-11-02T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Camera",
+        "domain": "dailycamera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-on-kxm-body-worn-edge-processor.md",
       "title": "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor",
       "excerpt": "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge.",
@@ -595,10 +638,10 @@
     {
       "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
       "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
+      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -608,21 +651,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T06:44:00-07:00",
+      "publishedDateTime": "2022-10-27T05:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1388,58 +1422,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028.md",
-      "title": "Artificial Intelligence (AI) Robots Market Survey Report 2022 Along with Statistics, Forecasts till 2028",
-      "excerpt": "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision"
-excerpt: "In the past few years, computer vision AI models have surpassed human-level performance across image classification, detection, and other tasks in the lab. However, models often fail to work as ..."
-publishedDateTime: 2022-10-28T08:25:00Z
-originalUrl: "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html"
-webUrl: "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html"
+excerpt: "The LatticeFlow platform was built to automate the process of solving data quality and blind spot issues in computer vision AI models, critical to enabling model performance in the wild. Data ..."
+publishedDateTime: 2022-10-28T08:10:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/bd/7bd4c58c-f9a8-5e72-b4e2-08b7e1ee9324/635b9083a776d.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize"
-    width: 960
-    height: 504
-    isCached: true
-
-secured: "rHxN8dNm/W1THqerpk4QiOuQROxbVCfY0vv0G06yWujacmFJrwkSeU0Vk3EFamKMuLx2Aiv9saj7kl/Y4ka8trQY4/waTooPx+lQMH4CB3D22Os/mgvSV3fFTNrLBr5nmt40dGoCDZB/dwzJLIJo3v82g57J0OCt7uvwICVeDxnL4Qk3IZm+HaXPVnZYykNheTxG9G1IyJOcUFc7ZbxKbF1Ttk+lM0Q6n0BKxCxbiA7gKmJteU0C4U/0bu0U3Z9Ybof/tMnIidJicPwUFmxbwFULDg5aNIbF7oZ+Zxa9y3crhyLlUJiNiH4KieSKFfP27PVr8J2yt345BM6N4zeBXHHLWedK7JqpiQa7zFhKBoE=;FPdSp55ZeDIE7ISLu5HePA=="
+secured: "wSLdc9iVo0gAsnU83uhoERUvIqDErkwhusilpP19nxMsGml1U+rw68fyD4Br2as3qC2c5u9RMAOOMLUWEkkvtFl3VH7+ZxpQg7kQqMvQm7jJewDUYDaqWkfR3tqYpg1KwyPUhTXvLFQu0SsOGWR+b19M65U/f+mduwmfzH1ryIXo9GbiBnZ4eEL8I+wHGMLJ2eaVGGB7czY0npCLiAsK1pordwsr7NM5YCIs1jNJVwv+EzId3kJXu7sSEvHk7bSj1W61dt1kP/m1j4oUy7XNlSq8XPy1ZvbpgdEpf7jnPrlJdQAKyJGZa3oRgpv6nv2V2VTyF8anrqUa2jHI1it55pWNC9P5eNES5DEva6vM+Nc=;UfkmYmhD6juO5LITOURK3A=="
 ---
 

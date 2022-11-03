@@ -2,6 +2,187 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-25-shutterstock-to-offer-ai-generated-art-while-compensating-human-artists.md",
+      "title": "Shutterstock to Offer AI-Generated Art While Compensating Human Artists",
+      "excerpt": "The stock image provider is embracing OpenAI's DAll-E 2 program, but will also launch a fund to pay artists for contributing to the AI art generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
+      "originalUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05aAKSsxub8UucKDaCAuuDN-1.fit_lim.size_1200x630.v1666708832.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-hardware.md",
+      "title": "AI chip startup Axelera lands $27M in capital to commercialize its hardware",
+      "excerpt": "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
+      "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
+      "publishedDateTime": "2022-10-25T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-artificial-intelligence-ai-in-clinical-trials-market-worth-48-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales.md",
+      "title": "Perceptron: AI halts traffic, stabilises gaits, and saves whales",
+      "excerpt": "An AI system listens for the calls of certain species and reports back to a researcher, who can then determine where the animal or animals are by correlating the data with factors like water temperature and weather as well as historical records of whale sightings in the area.",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales/",
+      "originalUrl": "https://bestgamingpro.com/perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/10/Perceptron-AI-saving-whales-steadying-gaits-and-banishing-traffic.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic.md",
       "title": "Perceptron: AI saving whales, steadying gaits and banishing traffic",
       "excerpt": "In this edition of TechCrunch's Perceptron column, we look at efforts to track Parkinson's progression, stop whale-boat collisions, and more.",
@@ -315,40 +496,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
-      "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
-      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29397500",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500",
-      "publishedDateTime": "2022-10-25T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-25-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
       "title": "MLSec could be the answer to adversarial AI and machine learning attacks",
       "excerpt": "Hidden Layer announces the launch of a new MLSec platform designed to detect and respond to adversarial AI and machine learning attacks.",
@@ -614,6 +761,58 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
+      "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
+      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -968,197 +1167,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-from-artificial-intelligence-to-ancestral-foods-check-out-these-november-happenings.md",
-      "title": "From Artificial Intelligence to Ancestral Foods, Check Out These November Happenings",
-      "excerpt": "The ceremony is open to the public and will include an Objects Out of Storage display showcasing artifacts from the museum’s noted military history collections. Guest chefs Elena Terry and Zoe Fess will prepare Seedy SassSquash,",
-      "sourceUrl": null,
-      "webUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
-      "originalUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-thumbnailer.cdn-si-edu.com/uDp3cqkk6y0G3GfJ9d7m41ONrbY=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/7b/cf7bdb68-a1fa-425f-bac2-a0fc7e3e81db/lemelson.png",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithsonian Magazine",
-        "domain": "smithsonianmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
-      "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
-      "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "originalUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "publishedDateTime": "2022-10-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-model-using-daily-step-counts-predicts-unplanned-hospitalizations-during-cancer-therapy.md",
-      "title": "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy",
-      "excerpt": "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/pedometer.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "publishedDateTime": "2022-10-24T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops.md",
-      "title": "Microsoft’s Windows Dev Kit 2023 lets developers tap AI processors on laptops",
-      "excerpt": "Microsoft has released the Windows Dev Kit 2023, initially announced at Build, which features a dedicated AI processor and software for AI app development on laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/",
-      "originalUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/",
-      "publishedDateTime": "2022-10-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
