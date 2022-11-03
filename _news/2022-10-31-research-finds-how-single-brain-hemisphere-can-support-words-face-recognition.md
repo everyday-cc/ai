@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273011682/research-finds-how-s
 webUrl: "https://www.bignewsnetwork.com/news/273011682/research-finds-how-single-brain-hemisphere-can-support-words-face-recognition"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Study finds how words and face recognition can be adequately supported with half a brain"
-    excerpt: "An unprecedented study of ybrain plasticit and visual perception found that people who as children had undergone surgery removing half of their brain correctl"
-    publishedDateTime: 2022-10-29T14:01:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273006039/study-finds-how-words-and-face-recognition-can-be-adequately-supported-with-half-a-brain"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 45
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1667052098.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Study finds how words and face recognition can be adequately supported with half a brain"
     excerpt: "An unprecedented study of ybrain plasticit and visual perception found that people who, as children, had undergone surgery removing half of their brain correctly recognized differences between pairs of words or faces more than 80% of the time."
     publishedDateTime: 2022-10-30T01:58:00Z

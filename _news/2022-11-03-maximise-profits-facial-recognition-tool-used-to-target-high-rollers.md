@@ -7,7 +7,7 @@ originalUrl: "https://www.smh.com.au/national/nsw/maximise-profits-facial-recogn
 webUrl: "https://www.smh.com.au/national/nsw/maximise-profits-facial-recognition-tool-used-to-target-high-rollers-20221025-p5bsot.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "‘Maximise profits’: Facial recognition tool used to target high rollers"
+    excerpt: "Facial recognition technology has been hailed as a measure to minimise problem gambling. But one tech company is marketing it differently."
+    publishedDateTime: 2022-11-02T06:30:00Z
+    webUrl: "https://www.brisbanetimes.com.au/national/nsw/maximise-profits-facial-recognition-tool-used-to-target-high-rollers-20221025-p5bsot.html"
+    ampWebUrl: "https://amp.brisbanetimes.com.au/national/nsw/maximise-profits-facial-recognition-tool-used-to-target-high-rollers-20221025-p5bsot.html"
+    cdnAmpWebUrl: "https://amp-brisbanetimes-com-au.cdn.ampproject.org/c/s/amp.brisbanetimes.com.au/national/nsw/maximise-profits-facial-recognition-tool-used-to-target-high-rollers-20221025-p5bsot.html"
+    type: article
+    provider:
+      name: Brisbane Times
+      domain: brisbanetimes.com.au
+    quality: 59
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "ue2eynaPpavG72x7KzyhqNDY61a5SJUBMk9a7g+UGBMr4CvAZgy9Jfmqus/8c+pJNEXtzB1uDf1gkI4ag5e1RGi1VY/i16KlSgJr6oRAjFCuuPhIRpPTVV8wU7YN6bK6P24K5Da1GW+A7Dk2G4n0ECISyfX3d3ql2L5i44pZFIMYvCUTCRMeSCr90dJ+z3Vg2KpeuIbXWb5w9IOvUF5K2fkqiDgbuQ2Hn4l53SbkPz4XE1knSDF3IR0bK9vvDuxNjUsIyv94rDVjds1lUE84D47RpA6ODERvVIgmsPTVf1lH26kOv/SU/K50e7Xk36KVybWtPpQWukTk3zQGfdXshtV4sSAzrn6T8rFC/nKfQclKvlJzFsqVr/92cMjD2YrpI+9gfkOAlXhBwyqfmsVFe12ZJqfaz9rXQ8ozkssXPkrH9oHMt+x4nB72fWDWwSlVtWPM6luieVQFlLCpxaQwpQcN4fREJBi/6uaRzsESMTZL/uRgFvg4b2jo2Qds5uV8ikbVZYUVcisgIp7Ia2zTXw==;Vnj3wXXtGvLu/K6gatVQcg=="
 ---

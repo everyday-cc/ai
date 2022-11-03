@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The digitally transformed workforce"
+    excerpt: "It’s not digital control over human slaves. It’s transformative collaboration across human, machine and business."
+    publishedDateTime: 2022-11-03T06:47:00Z
+    webUrl: "https://www.itweb.co.za/content/WnpNgq211BRMVrGd"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/WnpNgq211BRMVrGd"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnpNgq211BRMVrGd"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2022/11/Lauren-Wortmann-2022.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VYdnhJ2fi6BBoXnsBtZjMqE8IlV/pxouDHsXwylSJEX/B4HmsezqqYUtpT+oeJE780ROFzMyK2GyRVF1paz5jMQnVa0nM0z8rnLNka1jvzrAcUQdcqSSNaDR+LZ+rne/s7hLKkoWDKLlao4AtKHvnBl3/CMFQo6YJDFcCPmz+K2l2ldt2TF3WVkcYovXmd9x+6VtTtZvLgZeq8sqzTDdiJumW0UnrVnzs5wEpMDvLIMeVD6EGg6F9O+eYwxLJnHofD0qo53yTerjjdhdXXNmvfyV1EoL+r3pP2RBM3ukbLu84a2mKa2VG8HLe4x6RMCXkRNmYb0XyTPQZ5VmgZYD1DA/gXmT2IQmcZIXQck9s14YCqMkKni389iTEJQDmE8RXyQzFi+Hg7yMVDisLROtlOWBgEphm9P9dh4Es2ZJkMaDi4R1s8HOv+fS+5X8tH4jj7rODByQDqvfUnC4RTx93D0f4OauEsD26+FIeu4bP7XJMCtDwucH8YuMo6pCdpYC1a5vDjWQOoE2ftyfgoDc8Q==;z5hQMYLcUnop3TPENepYkw=="
 ---

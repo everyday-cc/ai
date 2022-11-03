@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Shoplazza Shared Innovative Practices in the Age of AI at AWS Summit China"
-excerpt: "To solve the pain points, Shoplazza uses the data flow and computing power of Amazon EMR and Amazon SageMaker and combines all the processes, including sampling, featuring training, and estimation ..."
-publishedDateTime: 2022-10-24T19:29:00Z
-originalUrl: "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china"
-webUrl: "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china"
+excerpt: "The summit hosted by Amazon Web Services (AWS) is its largest annual technology event in China and a benchmark in the global cloud computing field. As a globally leading shopping cart SaaS company, Shoplazza was invited to the summit to share its excellent practices with advanced product features and technology."
+publishedDateTime: 2022-10-24T17:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china-1031829467"
+webUrl: "https://markets.businessinsider.com/news/stocks/shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china-1031829467"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_5020059_33882458.jpg?h=252f27fa&itok=lHZ54Tpo"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/1927772/image_5020059_33882458.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "ekcpaopTTlyriWOAa9fwP96d8kiurWWqTfOhCzOD6v4y3k1MyQTG0IcDldGaCOTwLiSPte4hNj7+e6OYhXZVfhGhRfF3JLsyJLu9e2ari1FYI7IdAEv+oD/fG7lVFR2feXmdbvRpqAbPMJaaf45esvzeH0d/tyW9WtOC300NwLeUdAYuFs7gGsZT+zJI0/2g4zP6RELXYQta7kS+GbPuAXBkyk3RJze+wf9UJuDgFK+NNkV6UkS1u1JmuMeMLK8oAm6deRQgkMoHnXB6aPHhhfzxSf4qH/HM9745gtsBQKzBeO2nApsEdVstY7s7tUsVnfKGRm82wy1mkGtv7pHxVViIadiiEHHMcYFFWx1kqj8=;sQ2HWnYk0dLe7raIXnLcwA=="
+secured: "7G8cjZHb8gr4ZERWMZ8JDeGNSXSYIK4GOoYW85dGD3R6gn60clp6dhb04yfOOtuSRHM/Kph22dQOGg/QnzDe+3fWxgMCoYstDW1UpfVTH+D0fkYmEQ5d7GuXRPx40n3+Ty20tyZCPg3Toj8WKBHKaF92m38Af94Rcn0/z5ppf9/fxO9IL6avw4JxzPGr6aDXwPkvG7qz97ay36/eUY/9y8F+Jn2uXWXRMoDWxwfcF37pWezU295tNSPTpdhRER3lEqZyjV1Fpiq+opf9ppTb+cpvnwylGp5owzbLqWIKUXLGtoiP8rvFqMZSXe8GxOMC70CVCDs4ouhOoKibsVsHaeNl4MRp4/jTh++84+yd6FI=;xPOcD5FijJR3tKwR6/3SuA=="
 ---
 

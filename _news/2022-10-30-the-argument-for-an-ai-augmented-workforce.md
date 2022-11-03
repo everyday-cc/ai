@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The digitally transformed workforce"
+    excerpt: "It’s not digital control over human slaves. It’s transformative collaboration across human, machine and business."
+    publishedDateTime: 2022-11-03T06:47:00Z
+    webUrl: "https://www.itweb.co.za/content/WnpNgq211BRMVrGd"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/WnpNgq211BRMVrGd"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnpNgq211BRMVrGd"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2022/11/Lauren-Wortmann-2022.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "US Air Force and MIT commission a lead AI pilot for their innovative project"
     excerpt: "The U.S. Air Force and MIT created an artificial intelligence project called the AI Accelerator and commissioned the pilot."
     publishedDateTime: 2022-11-01T21:20:00Z

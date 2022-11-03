@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 809
         isCached: true
-  - title: "As Argo AI shuts down, will its driverless technology leave Austin's streets?"
-    excerpt: "Argo AI, a technology company that has been testing its driverless car platoform in Austin, is shutting down. The Pittsburgh-based company has been operating in Central Texas since 2019 in ..."
-    publishedDateTime: 2022-10-29T14:59:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2022/10/28/as-argo-ai-shuts-down-will-its-driverless-tech-leave-austin-streets/69594150007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/aba8586b-d3dd-4843-b7ae-7a3f6191805b-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Argo AI shutdown surprises tech community"
     excerpt: "Argo AI LLC’s shuttering last month brought Pittsburgh’s innovation scene to a yet-to-be-seen reality amid the backdrop of a national tech downturn. The autonomous vehicle startup’s closure led to the termination of nearly 700 jobs throughout the ..."
     publishedDateTime: 2022-11-02T19:49:00Z
