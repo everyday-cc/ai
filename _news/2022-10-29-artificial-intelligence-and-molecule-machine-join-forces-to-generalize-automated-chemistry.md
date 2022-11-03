@@ -5,6 +5,8 @@ excerpt: "Artificial intelligence, \"building-block\" chemistry and a molecule-m
 publishedDateTime: 2022-10-28T18:55:00Z
 originalUrl: "https://phys.org/news/2022-10-artificial-intelligence-molecule-machine-automated.html"
 webUrl: "https://phys.org/news/2022-10-artificial-intelligence-molecule-machine-automated.html"
+ampWebUrl: "https://phys.org/news/2022-10-artificial-intelligence-molecule-machine-automated.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-artificial-intelligence-molecule-machine-automated.amp"
 type: article
 quality: 11
 heat: 11
@@ -18,7 +20,14 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Healthcare
 
-secured: "KdCCWizO6Hb4W+goL/DhxtnUFcHrnISYf6voKcQ6DKijfGEC/0h3L4Cww+jvbzz33mFP54DrNE7tK+ADPmRcplPUFCkqHboeyXUJlAd6v01pSfBOKAKoUgpk0qePN6sCXq+4uHFjx4qX1H3TSlnovtFSVgcqcDn3vRhmc3xVUd1KaSB3gJ2/VitDVrcUMBpDCnKix+aww1Kj6OXno9yKc0OaTbpTovA+iaUiP3jJqOYh/WqQqq+PbfV4krzPbI/xSD9VljvbVCjAx6z4mj1mzkzF5zR5jBU2KxmDq76RStQfA3uApdky0o0jdLjeEMZbqoygwwkJG3+eMuNixO4o6mG3THA7psOq+Z8WcMIaZliaAbwajTADov6UvXt7trd3LaGoq56RWND4d242adQ3FQAvT3MG0uZZ/IhJf63Ntel7epmL5vs1yWL4I7oXG6n91F3OczXPzdzcR9LxdkJKzf5ENvcU13POY7RMSzdzO9HoOVJUTqCGN6T+fBa4z3Cq76UCFBanOwg5ttaN+E5svA==;bb99wuKhHuXAFJNXbknm0A=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-76.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "d4uVEmSh/F/7dQ2O9XKAHyhIR9/aSloNY4TqAaAYhv1gX2PeY+YplGO3nQEzwtfJUrRk4pQqkjiYkuXHlLIwWEBhQEjvccWLrV9l3XtleHsr99uFJaPbqz1T7RlBhYEj1a/z7pWATP1rpAi5WDX/1PZsDLH1hcKDUi63kHKn0Rw71Je4ALevIwNVlMuZbrscjH5LWI93bOBlf1klNDW6JlzJ85tCHscPXBdks46nB9ggVD/sy76qCBaClS22u7C/VeIufodVwPse6A6wZ+q2+wqUGyf0rzwzcOIiK86w5x2hMAJbk3m+AbBfFtHiQJVQlPwomsnmvRWVcYDNSByH75OYS9SJQ8N7TsSCXlFqH44=;Kdh3hoSkxcliQAgWsXvEig=="
 ---
 

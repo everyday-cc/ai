@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T18:01:00Z
 originalUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/oracle-mysql-heatwave-the-only-mysql-cloud-service-with-built-in-in-memory-query-accelerator/95285551"
 webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/oracle-mysql-heatwave-the-only-mysql-cloud-service-with-built-in-in-memory-query-accelerator/95285551"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: cio.economictimes.indiatimes

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transformation of digital marketing due to AI"
-    excerpt: "When it comes to making purchasing judgments, modern consumers have become unusually good researchers. They are gaining greater insight and awareness as technology enables them to make more informed judgments online."
-    publishedDateTime: 2022-10-30T04:30:00Z
-    webUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/"
-    ampWebUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/Untitled-design-24-3.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "3 ways that Amazon's advertising business is becoming as dominant as Google's"
     excerpt: "In another example, advertisers can use AWS' machine-learning platform SageMaker to create algorithms to find customers and zap them with ads across the open web. Amazon lets you track if someone bought a product off Amazon Paula Despins, VP of ads ..."
     publishedDateTime: 2022-10-31T14:41:00Z
@@ -62,6 +46,6 @@ related:
         height: 600
         isCached: true
 
-secured: "lL4ChenfY0j1SfoZkRlNT8GSc3Pg5jfeg0FXd9Mkp0RpxqmGy5eDXvflX7pvCcB4lgK/Ap1QmSwr09+RJ2QzL6BaUTyRWDNbmQhmDQrc8XemjhRRRjCG0Ro0YeBHSyrsgH8RthS00/8coYGQAY4mNH2EuQUE6mSaOuYwue1uW1rK3pl0QX1CYpWjSwuZ3PZu72VPdyHA5cJPsKjcqhGBFxKb4ogCT1SKV6HIANP+HmZHwZZQ3qewC+DUsS9kmmXs2EfS82Z9aBrmI3yn0zaLvXbs0g/i3VREzNJUKuGtIe82SM+oz+2T5m/ey1Sv3AwYgJPXgNUnlMlA23INiCnMUP3S6edr2/r5yPsiL8IlH0w=;TnO3GtGB5kEtEaLdGKb+ZQ=="
+secured: "vIXO9/RSWrhOEayDwN4NzvnZq7FlVkbNF1uvEHPspJnyh3WP055la72RxqIcoBoUhGXhWyYgXQGOas+lVS3p7/GXnXTVqLWK185rF2XsE8lohdEKxMSshSEWZLVJIq5ryMIb4UoAcMqrKPu+sBDZLstg128PluG3PSg3KJhq5zF2lWgkVelrmiy6pEIe8c6NCG7D5FPhGTmUeAu0U8smelkCk5M5MwwqpAbhg3Bmgl/Lbmc/uSfGGAJUX7ygm4Y5XGu5q9cgvOhenqIxhc2yjDaa2wCZ6Rvn8zXqsxi2SlicUhpE+iduZZoGXXqQaEBGgdykcxnwLPXqFVU6L/BGkFHdW2bkJcmAvZPCxRRjg5DfCYcLKR/fOxGZ+wdrBIObxgzGukTKprMpV+/xMtlCNbrxh9fooLHWcQqRHUPhB1cf6Y6BlZq1aLOKbopGS4TtIumQBHLeIj99HjrthBMKI++4f0TvGXBYXnOCiajpdnQhvVA0sH/ucyGqUXXFihV5WqzdtGmHYNlfaggTqQsojg==;31F6AkfnGJoXVJjG0OJXDA=="
 ---
 

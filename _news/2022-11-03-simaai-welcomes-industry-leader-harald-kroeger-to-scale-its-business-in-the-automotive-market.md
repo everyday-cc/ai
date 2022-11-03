@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
+  - title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
     excerpt: "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and Mercedes Benz,"
-    publishedDateTime: 2022-11-03T13:19:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-simaai-launches-auto-business-former-bosch-mercedes-executive-3041566"
+    publishedDateTime: 2022-11-03T13:08:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 49
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--aJOz7uG9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-03t131954z_2_lynxmpeia20jc_rtroptp_3_chips-automotive-sima-ai.jpg?itok=vpjkLYJA"
-        width: 1200
-        height: 676
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Former Bosch exec Harald Kroeger joins AI startup"
     excerpt: "SiMa.ai says its machine learning chip platform can achieve 10 times better performance in processing camera images with “significantly reduced power consumption compared to conventional AI chips.” Kroeger will lead its automotive division."
     publishedDateTime: 2022-11-03T12:59:00Z

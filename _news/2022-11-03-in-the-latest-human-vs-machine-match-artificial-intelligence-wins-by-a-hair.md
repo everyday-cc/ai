@@ -1,31 +1,27 @@
 ---
 category: news
-title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
-excerpt: "Vikas Nanda has spent more than two decades studying the intricacies of proteins, the highly complex substances present in all living organisms. The Rutgers scientist has long contemplated how the unique patterns of amino acids that comprise proteins determine whether they become anything from hemoglobin to collagen,"
-publishedDateTime: 2022-11-02T21:06:00Z
-originalUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html"
-webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html"
-ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
+title: "In the Latest Human vs. Machine Match, Artificial Intelligence Wins by a Hair"
+excerpt: "The competition matching Nanda and several colleagues against an artificial intelligence (AI) program has been won, ever so slightly, by the computer program. Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses,"
+publishedDateTime: 2022-11-02T20:58:00Z
+originalUrl: "https://www.rutgers.edu/news/latest-human-vs-machine-match-artificial-intelligence-wins-hair"
+webUrl: "https://www.rutgers.edu/news/latest-human-vs-machine-match-artificial-intelligence-wins-hair"
 type: article
-quality: 75
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Rutgers University
+  domain: rutgers.edu
 
 topics:
   - AI in Healthcare
   - AI
-  - Machine Learning
-  - AI in Autos
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
-    width: 685
-    height: 375
+  - url: "https://www.rutgers.edu/sites/default/files/artificial-intelligence-hero.gif"
+    width: 2880
+    height: 1318
     isCached: true
 
 related:
@@ -53,8 +49,8 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 61
+    quality: 65
 
-secured: "E4lAsL3Y5XbM6B2sZ03/HKpvIVzExkpaaMCaxmqI0eLLBjbTQgyJV65S76p8glP11TZQ954OQOihUC/Xh+Q4L3cpwjX14p6p4qs9hlQyHL3zG/LgVHFRj5OBOVUbMSgyLqi++ftcNKagKaPBiZ1xhAeUTJt9UvlilxZ+NfqjMJ19ZE4x1m0Blata/skgbcnYfjcaua3f9BpDGxm9abSiTfA5STG+FitxL+I/ZJosIR88UZTp/b1uS9XMa/4Azrzqdf07wTSpX8oDl7ACfVqPDraNh9JY9GwNU38Fti4BJz+UiOSax1Yg/7RliitTboZkU4SOcZ6ll52+Po2RjNjsSkZvItsdFWdocomdpmxmSwBvC4Q57iN795MnS6I8bJYWlk7KSELkmTomTlHzRoooQL1mLnDKto6gzrcceV9EvhF4KrWKyZxOLEbvHpH+c7IVPnXQi0w7ReKp1kAJ6LyadmYn6pRls+kuALXJmSuQ1K/ubX/aL029a7TfZcq/P6RIXSShefvWvljFnPwLsa3+5w==;bqLQlUGAhHUDbCdMHmvcmA=="
+secured: "67zwAXP4a5Vb7cwedQWsdwIvFPpQWjcOfAKsV4GxQz+jA0EaA05DyzhUK2e6DFEd4XN+6LvldriahmuM8CVWWoUBWB7GmoH9DQUvd1FZKx8XEsu/3hY91ltmOc5B5DMVvWASIo9xoDXLdgaTRNexfLXba/bMZn0odD/764ah4xMJMW+USGfR23cO4lLD0aqlzw6CHe+3BKFIS+ehTUcEgBQWp/OAvy9xj/2GzqzvrvNNbqH1akHTDEk4mA/huTIjC/ScY9KPtYYw/ltTdEPMKf87fENDH3WUr9C1A+LNHjg6I/1ThPajz0VbBE2xcvKddRVBf9u7gNe/NNUYGZqg8qIvITmD9i+Ig5oNmPtthKo=;Xt5twhNdcuxEDkwtUXijcw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T16:01:00Z
 originalUrl: "https://www.thenewcivilrightsmovement.com/2022/11/watch-extremist-republicans-openly-attack-public-schools-teaching-science-math-history-and-social-studies-to-kids/"
 webUrl: "https://www.thenewcivilrightsmovement.com/2022/11/watch-extremist-republicans-openly-attack-public-schools-teaching-science-math-history-and-social-studies-to-kids/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The New Civil Rights Movement

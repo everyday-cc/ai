@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-rais
 cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
+    quality: 49
+  - title: "Amp Robotics raises $91M in funding"
+    excerpt: "The company says the investment will support the modernization and scaling of waste infrastructure to improve the economics and efficiency of recycling."
+    publishedDateTime: 2022-11-02T00:00:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-raises-91-million-funding/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
     quality: 49
   - title: "AMP Robotics Raises $91 Million in Series C Financing"
     excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $91 million in corporate equity in a Series C financing,"

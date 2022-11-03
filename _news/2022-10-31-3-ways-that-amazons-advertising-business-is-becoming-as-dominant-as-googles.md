@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Transformation of digital marketing due to AI"
-    excerpt: "When it comes to making purchasing judgments, modern consumers have become unusually good researchers. They are gaining greater insight and awareness as technology enables them to make more informed judgments online."
-    publishedDateTime: 2022-10-30T04:30:00Z
-    webUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/"
-    ampWebUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/Untitled-design-24-3.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0krpKz+OAb1SkLCA4ycAhSV+V3Cuz7GpHndsQ64sIj+9Jyo+yZPVtNEwof2RIIqaXS91kgvc+GZUb7N1occ8pxOE8ftmS3y/OAqjFw2Ni/Q7huQ4QN4smqHyzKX1W9/w3EVDdOeo38Wqbgn28rjIcJb5H2l7YvxOjIZ4AUoe6kjC/yreO0blwAYeBaVsZYPEj5yimC3ILTmQsqOWAPbxTSdt+quhi7MKgKcELJQ6VcB8MZBpYbXhSGLEJqomWH/b6Gza45DlHS9zBUYjk4qbjUTpXarEd63xAYxBDv96nl90rjH8b3LSDImfDyQty6IywjiGRPwAubAYDbk3JhR0+XYQlVq84ZYir45SCmNPo427B/+a2g2NDi/cBQwd3bjGJFtEza+7DTNbmh47bMgcNSE36RPdDkd9WuvsYjistIDKwmp2Hk02yBsiUs9FHj2I3hkRciuDNqPm/4DdF6cYzs5fX0eDjHMCuvmPK9lK0IfqsACzl/joHmN/vsbKKPcm/KolpI73HAlnCDlKDvAerQ==;ltevH/mpOFirBiaQJ1lc/w=="
 ---

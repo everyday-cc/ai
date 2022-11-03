@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T19:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29486536/pioneering-video-ai-startup-shorttok-announces-financing-from-info-edge-ventures"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29486536/pioneering-video-ai-startup-shorttok-announces-financing-from-info-edge-ventures"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Benzinga.com

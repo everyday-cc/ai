@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/"
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dataloop automates data management and annotation to accelerate AI projects, raises $33M"
+    excerpt: "Dataloop, a data-management and labeling company for unstructured AI data, has raised $33M in a series B round of funding."
+    publishedDateTime: 2022-11-03T21:33:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/"
+    ampWebUrl: "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Automatic-Annotation-title.jpg?w=1200&strip=all"
+        width: 1200
+        height: 609
+        isCached: true
   - title: "Contract management startup Icertis raises $150M in debt financing"
     excerpt: "Icertis announced the financing round today. The round, which was provided by Silicon Valley Bank, includes $75 million in convertible debt and a $75 million revolving credit facility. Bellevue, Washington-based Icertis provides a software-as-a-service platform that companies use to manage contracts such as supplier agreements."
     publishedDateTime: 2022-10-31T17:40:00Z

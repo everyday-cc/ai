@@ -3,10 +3,10 @@ category: news
 title: "Self-driving truck company TuSimple fires CEO amid federal probes"
 excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
 publishedDateTime: 2022-10-31T20:43:00Z
-originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
-webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
+originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets"
+webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.mktw.net/im-655659/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm"
@@ -141,6 +147,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "BYYG8gv8KrYRFo1jFjqc5bABxbzt0HprpP8NRpgXsEbg1n6c9EKGRdVQjavNGluTet+RH+UCFi5ihmLxxX6y/bXhxvvua07E9F/6WiW6AZ7on6WCTudcvz0w1qvazQMbg8E5NkpJXfzoDq82uAgtNplmJNCok+WfXJosA2uc5it34Uz3FcUDEZrwDyQejEdN5g/fzfeMcjAC9Lc2Op/JYkF04OcSwrpou+W4JKMGx0OeOcMW4NzXAcrGM6l0TAPcfFW4MbaGYOw3limDkYn3SK8dz32KAlkd7QUUdGDNjtym/6wrH9PtD+qqUE0mulnhVKKtlnSzmQ8U+7ua9eyqhBdRh/WLrAT0lOuXUrvAi4t6KxhqGtDeK9PvbJLWHjLSrwmgihkkYl6muK0NuYURZFcZPKzeeatnUUiUydMTTC8UQkwQHBDfFtMI3Rt48iTsldm8QkJ588ETbEC5h8o3bGVeSH2Ysiq/8TNoKyS+39CWV2/GCy0fbbgiCUO55e1QLSqkf7A0JbITicLLHlsPRw==;tSvTYmp+/b+wTgT0LaSXQQ=="
+secured: "+qD7m5zGnMxkGN/au/F52cUK200T9szeGSgPXNbPK6ruqJfirTeNN0OicEpWBCOLS5dCwm7KC5alHJ5x4KDEy9JOC+n+zaz6/LFpVnZLWoBN9JYJGKfyJo4t2UWkBt3sOYt1KV2pTLIoTnvFB6ZE02s2fzYCBgAIkv30Y7IK4jRIlKy9rCNSRzKt4oSCDMHRBVPuQ1G/v6cWn246l06hKNzbbd3zEfy4a63+Qmyp3FL1stQi19sWk7FtCLz1AovBGACFZdyyjCWK5Iec9I4GhWabrtTMJPF6ggrL4/Z7wlAtdjSX5BskBurQnre65FDFba5LX5BEzkOujiXAaESHoS4F/5M/8AZCNeUiwCawB10=;fyPQMAEaM21ydZ9MrR/o/Q=="
 ---
 

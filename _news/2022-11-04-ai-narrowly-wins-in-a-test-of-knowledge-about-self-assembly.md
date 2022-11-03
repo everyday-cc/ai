@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T18:23:00Z
 originalUrl: "https://interestingengineering.com/science/ai-narrowly-wins-in-a-test-of-knowledge-about-self-assembly"
 webUrl: "https://interestingengineering.com/science/ai-narrowly-wins-in-a-test-of-knowledge-about-self-assembly"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Interesting Engineering
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "dxplkftU17f9ZY1V1LexN5nr6S8rQ3vJ6mOQkug2FzqcN0KnAYwl+c4MOjaiXdyxTmAYcM8Cb7AmFQUGaY8Pk5R0AOjMhBmlGnhugHZwmO/SwA651J7fUcF83c3Pcojzr47c9jLB69Ey2sYh+JGTx4RY7zmeWOO9eqsU4bgjs5AQ204xQG9gR4OC59xw7ArKIFak1lM6WdoYa6+wBBocsyYUtOb03TS63OnL1sKzYFgeAhD1e61fSgfVR7+0aGqT/uK9jtWyrCG4Udlo6cCG+LCYw4+7MdL4CfQRt3liheQ8V0VZEksJaMgL/1jjCCtdTJPYHjb92pCtmYcFAyMHF5fAs1isX/ozkbHwkH+t0oDE02WUWXrBxXuOAD+gCIjGA+EYRtssNs1fTa4eLvT4ssPSZ2U7heOOFIJFIOMsZ1cER3a0XceelXIy2uyoP0RsNXuq4321J6+yOJel2QuJPqPbnmEJmCg9EUpSSnL9Z8NrNSFXPamzbh23voEl5NT2E8PukXDPyaJIcLQ8p9AoPw==;dTFDW1R0h2FNVsb45Zv9vw=="
+images:
+  - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/03/image/jpeg/ORWZHTqZvz3SyOXJnb1D220Baohizk2ovxTWILC7.jpg"
+    width: 1920
+    height: 960
+    isCached: true
+
+secured: "zcOdLuyHRiuZVzmKr3JwnbcUS1ZZ3VGtChbFL72YYGp9cTHxH9P8e5weR5qAYZeXv0IoF5Mcm91T2e3rxrVDzXMOXgROzTYyFt3dPj3uhBco689WOdSc5K58QUO1BoE+joY45YaJ5tTu/T2KlAP6NJAaLyikBWU1Aq92sqeLh/3OOAZ04uhuFqH7mYYdqFX+lECRDsI0aEyT6y2IZHoDLt7GHNEnwFjP4xPeCfhk5FcGiKdnAlLImbj9kQfbf1ywiwx/RAyo2MqL6G33oDJ7wEf/J6HdJxqkSfu4nmmwbvtSPOAy0Z6UnHhTY+HOcKknRunMDTcsreRvVgkKAg4sx8gM5oNXXkoFpzW/EY+Vh1g=;zr+Dtl0KPQ0ymr0n5hktwA=="
 ---
 

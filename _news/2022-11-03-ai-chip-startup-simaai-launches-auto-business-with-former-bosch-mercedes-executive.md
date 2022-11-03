@@ -1,29 +1,26 @@
 ---
 category: news
-title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
+title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
 excerpt: "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and Mercedes Benz,"
-publishedDateTime: 2022-11-03T13:19:00Z
-originalUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-simaai-launches-auto-business-former-bosch-mercedes-executive-3041566"
-webUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-simaai-launches-auto-business-former-bosch-mercedes-executive-3041566"
+publishedDateTime: 2022-11-03T13:08:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--aJOz7uG9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-03t131954z_2_lynxmpeia20jc_rtroptp_3_chips-automotive-sima-ai.jpg?itok=vpjkLYJA"
-    width: 1200
-    height: 676
-    isCached: true
+  - AI
 
 related:
   - title: "Former Bosch exec Harald Kroeger joins AI startup"
@@ -45,6 +42,6 @@ related:
       domain: design-reuse.com
     quality: 7
 
-secured: "oXrW2os4iz6oGP6UX/kYTBQomWNfLAHd5EM8E5V5n+zmtueD4b3kBnuh5lOG9IHXPKUxv7TYLgRDcXe/ajg6BPk0GLq+x4pE9L79zt8l2nJPwzBhqZBCUV9Kq2kemoF/ov8RQQkmPfTNlVGEuHA5hM/hAK1KuNYVyHnykzyrEKsqwZSF18a3jvcP6hVd7mWZ9I1UZbWIdi03sl+50fuDV1m3gqC8d/U7Ri7vrinRyCqXSXsYbiW5ZVnMAtiZcD9kq060qHb4gz8bYrBGAS7S2A1DNt4NS6jZiy8GOmMP24fBfUGHIJ8mT8kl1hE8ENfegcQacb/McWg+isCxQqEklvceiDbkzk7goYJDwZUDwqx2/jr1BkMQt1Rbneg0hdPskTQ9UK8jpAXZWpA6LtuVMBHaxaQRdCempuRYG81gdvkfEFNLqSUcy7r3WimfZCOEVpR6BexPIQT2BxYJicLFGF4ByFxAdQmoCGN3zvT8AgyVA6XNm0fXj9siY+2H0N0kuof3xs1r7opkZTufb+nBzw==;tNfWuuqgklJ9sgoszGsvbA=="
+secured: "qRlsmnAuvLRH2WXNEKx2LpIr63WiI9BBsgrOkljrjYL3PcwVI6KePlUXXqu4ywkeDWdQ8gX6D+AS/jXDF71KMtp8vAPOPJM4VuNFcJTjORj3vdgbgkBSlo35qjgIpOlbbshtnp1mcMAXraQZazA1qF7dofgOGWvZEj6HoHAYylvXv4O7ADC2Jn6Bt8hO4l5Qn+aY1JYbtuE/xJPdYmi4NqwATyPoHBaWuH2DsgbchzzXrbR3NejCKpG5WZm+kUKoWvJo/Jpb4tWYBw4eBKEDTTNqm3LME0pZ/txJn5w356GmQ0Do1uXjij0lfdyzTFkS0siwHl/+GRdX+Aotxw9Ca+CTlVSHuFGjvLeuii18Ql1WqKVu79Gbv/klvKJER8ltvs9PZ4itRQJ+hn8hylqdJttwJW1s20Bg32hedqxxUdWHn+K445AOOgK0pzte3ZFstfNjmAtk7iCMVJh2pB0vzGuEXe3InURZUK63Ks9ixXrrRQ3YlBdvA+J7yPiIGO0NVb7A/lQKxWCediQjIADexw==;y/Yevek9BtIi5ra0nupVPw=="
 ---
 

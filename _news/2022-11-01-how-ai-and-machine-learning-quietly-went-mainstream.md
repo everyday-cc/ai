@@ -33,22 +33,6 @@ images:
 
 related:
   - title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
-    excerpt: "Vikas Nanda has spent more than two decades studying the intricacies of proteins, the highly complex substances present in all living organisms. The Rutgers scientist has long contemplated how the unique patterns of amino acids that comprise proteins determine whether they become anything from hemoglobin to collagen,"
-    publishedDateTime: 2022-11-02T21:06:00Z
-    webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 75
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
-        width: 685
-        height: 375
-        isCached: true
-  - title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
     excerpt: "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology."
     publishedDateTime: 2022-11-03T17:34:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/11/221102164140.htm"
@@ -56,7 +40,21 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 61
+    quality: 65
+  - title: "In the Latest Human vs. Machine Match, Artificial Intelligence Wins by a Hair"
+    excerpt: "The competition matching Nanda and several colleagues against an artificial intelligence (AI) program has been won, ever so slightly, by the computer program. Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses,"
+    publishedDateTime: 2022-11-02T20:58:00Z
+    webUrl: "https://www.rutgers.edu/news/latest-human-vs-machine-match-artificial-intelligence-wins-hair"
+    type: article
+    provider:
+      name: Rutgers University
+      domain: rutgers.edu
+    quality: 51
+    images:
+      - url: "https://www.rutgers.edu/sites/default/files/artificial-intelligence-hero.gif"
+        width: 2880
+        height: 1318
+        isCached: true
 
 secured: "UvifSXSMPzPTb1J72F62kco/dsT1bEX7Mp6rQPi+hj32xhsVyU7blrvLh9tvYYhYq8y4ZZrhlxWenEyKmNEr1iX2u4wGbbVW+tXPKy44cxYx81+9o/tduLsbHORsA9Q0HLL6xg7ykz6VZKQk0I+TzSk6qKOLwV15wrwfhAg2EnAiCyHkr4uoxOy8FDt38To0PvN1H5C8DeEPVQij+4aqBbqxsdsRajzzUPX6R6lnPhuAwnyZnB+yek/c5KgMA3EnpPo1RDiGITfGWyEg5eTCvPmafzXbs1tCHZtztLKUk9e8Nf3FbY+T2n9JzP6C5ET/n0+E+Ni9bMplWhLX0CaMpsUBKjWmGo4YGnlLOE0iXq4fCUTwYOx+Doy512jYsDJ2zUw1y00+ASpmnlwugvLIFi5lU/FABjeL2stTbLF7u1tb1E+Cg6ldaY1n7MdWNlMcVWfQzOR1FyE67eYjXp5AHno+Lqdl8plTSMZQJKavBXhanNNomqyYR5atklsWXA3+KnpayGWyhTRyvmEOzbG/eA==;7CuP6b1xAq25CNg+Dw52fg=="
 ---

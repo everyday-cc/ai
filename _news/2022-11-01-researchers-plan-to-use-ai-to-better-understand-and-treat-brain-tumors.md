@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Researchers encourage retailers to embrace AI to better service customers"
+    excerpt: "Researchers have identified new ways for retailers to use Artificial Intelligence in concert with in-store cameras to better service consumer behavior and tailor store layouts to maximize sales."
+    publishedDateTime: 2022-11-03T20:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221103104954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 48
   - title: "Researcher combines AI and microelectronics to create neural implants that fight brain disorders"
     excerpt: "Neural implants can help treat brain disorders such as Parkinson's disease and epilepsy by directly modulating abnormal activities—and the University of Toronto's Xilin Liu is working with microelectronics and artificial intelligence to make this emerging technology both safer and smarter."
     publishedDateTime: 2022-10-31T07:33:00Z

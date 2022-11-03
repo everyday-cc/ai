@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Meta touts AI that translates spoken-only language"
-    excerpt: "Meta billed the work at its Universal Speech Translator project as an effort to enable users from around the world to socialise regardless of the languages they speak."
-    publishedDateTime: 2022-10-31T08:52:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/meta-touts-ai-that-translates-spoken-only-language-90efe196-278b-46bf-94ca-412dd66c303e"
+  - title: "Google details flurry of new AI research projects"
+    excerpt: "The search giant announced the projects on Wednesday during an event held in Manhattan. The first AI development effort that Google detailed is known as the 1,000 Languages Initiative. Through the initiative,"
+    publishedDateTime: 2022-11-03T18:58:00Z
+    webUrl: "https://siliconangle.com/2022/11/03/google-details-flurry-new-ai-research-projects/"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 34
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/google-2.png"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "M8bMYZ0FBWbaNfE8OwF3Qg1lnwQuD39nNBrWEQu7eSyQ3TQzxH6bgqQqkQfU2O1N4mInnGpqZ+aiPoqc3/Nwbucibj7xiXQJnv817ydrXPlRk+FWoNnZOJundkjDQGBBtotp7KLPZhsy+o/aV1B69bR1C26S+4kwIc4V2mVfnfdIaKQ8YgV1vigD+25ue1stdScZYbpXRYJaZrAP84tedXSu+dKgKe7iprPqNmiqpRoCL7H0w3y5fPmbB2Zwx2jIjMe55au+dh85x8Luxd9b0bI+dK3k/WhA+BNVqMiTER4yjOP/CHO0ZCKZApuFl+fItyjY2jypELzvRPB5vEPKX8PgeIfx+3qARHwM1fQqgad9gt2BQAZH84C4pqdJ4R/uJ70FpZdOncSGo2VGxC0126yqR2JpJGR2HFkTVC5xkbIZEW8QsUcsMwLhSHb9/TW+uVZfaao6lGpOEK+V/FfOAKqAkNv4Sti5evbdnol94baC0eTkb1yQWgjHasrKBTz/A6qJg+iCix8mUmBAE1kukQ==;+J4bSbECZqGTCiyyKU4QzA=="
 ---

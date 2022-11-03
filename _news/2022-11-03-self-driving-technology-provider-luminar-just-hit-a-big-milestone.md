@@ -2,11 +2,11 @@
 category: news
 title: "Self-Driving Technology Provider Luminar Just Hit a Big Milestone"
 excerpt: "Luminar lidar is now being used in production cars, and the company reported third-quarter results that beat Wall Street expectations."
-publishedDateTime: 2022-11-02T21:21:00Z
-originalUrl: "https://www.barrons.com/articles/luminar-results-51667424013"
-webUrl: "https://www.barrons.com/articles/luminar-results-51667424013"
-ampWebUrl: "https://www.barrons.com/amp/articles/luminar-results-51667424013"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-results-51667424013"
+publishedDateTime: 2022-11-03T16:42:00Z
+originalUrl: "https://www.barrons.com/articles/luminar-results-51667424013?siteid=yhoof2"
+webUrl: "https://www.barrons.com/articles/luminar-results-51667424013?siteid=yhoof2"
+ampWebUrl: "https://www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,19 @@ images:
     height: 640
     isCached: true
 
-secured: "9twmh+wc6yLD+7qNmYP/29qPRYZwHKkzeXVTKrNpGd4Xra5ncYTQmcCPE7Dvgnc+4rU7+BXFayhigGcD7ihWflWrTK+4XA9EdmrqsnzLjfEac+IcuuoevPkQ94SAHJ+sHdZnmdXixDdh+94eZmn87EBHDshusSpPEFsBa5vWq5qBAFaRBPDISVB/5cWFyPRy6RmSH3mKIgCc0W3iK196qAPBqunFytudXY1FKWtJVqC+FBP7Qbw4wBwBn74g0yfRdiZH6SAc1dq6bDKD1v4ikHc2qqFbkfdiS2OTG8Mqu0fAzplJ0kmELLBQJJw8Q3bnmCsrqVfcugTWRYAPXFerL5jqb8imr/TUJrqmbNxkD+pLeIu3S6UrbglgNSPBSflSZuaT8AmaecAoiqZTbGyvprdMl9xE1K3/p4+ewY75BklTb1Ik/Y1HaMjFaLlngSRKjZ/Yjy6aVYO51K9sjFgA8uOdGXAU0WPj8Us+eB5EVroIRtZ2k1Pb+xPClAto5+MIJfm3pcKdssazAxaYMbxheg==;sgJ6bIrx2QgU3GzY8syw/g=="
+related:
+  - title: "Luminar revenue surges amid production of SAIC's self-driving cars"
+    excerpt: "The Orlando technology company's manufacturing is scaling into series productions as its autonomous vehicle technology goes into cars entering the marketplace."
+    publishedDateTime: 2022-11-03T20:53:00Z
+    webUrl: "https://www.bizjournals.com/orlando/news/2022/11/03/florida-2022-tech-cars-manufacturing-luminar.html"
+    ampWebUrl: "https://www.bizjournals.com/orlando/news/2022/11/03/florida-2022-tech-cars-manufacturing-luminar.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/orlando/news/2022/11/03/florida-2022-tech-cars-manufacturing-luminar.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+
+secured: "181hHUftUUIFj2zhng3tMLNIpDtjQX0KQI9xmp6D+a9VQP4iixrIcxXc3ege25tkVAE+8JIsMqKJQZqWG2ApuexAqldaC3xfLGZxmMnYZtlQkBTd4cjNVWxmkRR2V7p21SfXQhIbnlsA4r4eZPFWNcLQgmcmKvsccnu6htVcmzm9kf+R9mgI8xU9qmmjZsp3ungXk8Tp4R86bk89+t+mS7+u0VKQHOClh75X+OoW/AcQDrtCAFhdgI64/x8oGn99ZOOytlY906b5mUSjzbkclIVvd4MwB8k+1JTsMZjMEfIl4pe1zfpcjthLaha5FuFK6BA5LsOcwNMbVBJHkGy+l7GbZeHs+gm5peHDb4pb6dk=;0dxkHY2GySQGPTr5Go0UlA=="
 ---
 

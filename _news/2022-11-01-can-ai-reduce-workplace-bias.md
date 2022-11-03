@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T02:09:00Z
 originalUrl: "https://www.theatlantic.com/sponsored/servicenow-2022/storyteller-2022/3764/"
 webUrl: "https://www.theatlantic.com/sponsored/servicenow-2022/storyteller-2022/3764/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Atlantic

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T19:50:00Z
 originalUrl: "https://www.govtech.com/education/k-12/what-are-the-privacy-concerns-with-school-facebook-pages"
 webUrl: "https://www.govtech.com/education/k-12/what-are-the-privacy-concerns-with-school-facebook-pages"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Government Technology

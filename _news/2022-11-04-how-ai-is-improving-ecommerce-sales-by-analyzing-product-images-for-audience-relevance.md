@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T17:00:00Z
 originalUrl: "https://venturebeat.com/ai/how-ai-is-improving-ecommerce-sales-by-analyzing-product-images-for-audience-relevance/"
 webUrl: "https://venturebeat.com/ai/how-ai-is-improving-ecommerce-sales-by-analyzing-product-images-for-audience-relevance/"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: VentureBeat

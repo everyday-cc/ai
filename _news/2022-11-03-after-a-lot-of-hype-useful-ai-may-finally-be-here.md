@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T12:48:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/artificial-intelligence-jasper-stabilityai-unicorn/"
 webUrl: "https://news.crunchbase.com/ai-robotics/artificial-intelligence-jasper-stabilityai-unicorn/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: news.crunchbase

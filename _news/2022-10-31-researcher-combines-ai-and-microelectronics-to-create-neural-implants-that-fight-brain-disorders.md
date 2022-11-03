@@ -57,6 +57,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Researchers encourage retailers to embrace AI to better service customers"
+    excerpt: "Researchers have identified new ways for retailers to use Artificial Intelligence in concert with in-store cameras to better service consumer behavior and tailor store layouts to maximize sales."
+    publishedDateTime: 2022-11-03T20:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221103104954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 48
   - title: "Do AI Models Really Understand The Human Brain?"
     excerpt: "Day after day, the computer is becoming intelligent like humans and may likely surpass us. But the idea of AI models perceiving human perception seems like a tricky business"
     publishedDateTime: 2022-10-31T06:30:00Z

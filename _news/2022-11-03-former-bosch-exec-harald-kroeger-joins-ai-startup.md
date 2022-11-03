@@ -20,20 +20,15 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
+  - title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
     excerpt: "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and Mercedes Benz,"
-    publishedDateTime: 2022-11-03T13:19:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-simaai-launches-auto-business-former-bosch-mercedes-executive-3041566"
+    publishedDateTime: 2022-11-03T13:08:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 49
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--aJOz7uG9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-03t131954z_2_lynxmpeia20jc_rtroptp_3_chips-automotive-sima-ai.jpg?itok=vpjkLYJA"
-        width: 1200
-        height: 676
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "SiMa.ai Welcomes Industry Leader Harald Kroeger to Scale its Business in the Automotive Market"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced the appointment of esteemed automotive industry executive Harald (Harry) Kroeger as its President of Automotive Business and to the SiMa."
     publishedDateTime: 2022-11-03T13:32:00Z

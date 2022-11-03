@@ -43,6 +43,20 @@ related:
         width: 1737
         height: 1159
         isCached: true
+  - title: "Self-driving truck company TuSimple fires CEO amid federal probes"
+    excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
+    publishedDateTime: 2022-10-31T20:43:00Z
+    webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://images.mktw.net/im-655659/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-Driving Truck Firm TuSimple Face Probes Over China Ties"
     excerpt: "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ..."
     publishedDateTime: 2022-11-01T20:13:00Z
@@ -73,15 +87,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Self-driving truck company TuSimple fires CEO amid federal probes"
-    excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
-    publishedDateTime: 2022-10-31T20:43:00Z
-    webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
     excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
     publishedDateTime: 2022-11-01T00:19:00Z

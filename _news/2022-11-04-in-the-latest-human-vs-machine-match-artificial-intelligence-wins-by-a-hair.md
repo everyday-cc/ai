@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-03T17:34:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/11/221102164140.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221102164140.htm"
 type: article
-quality: 61
+quality: 65
 heat: -1
 published: false
 
@@ -41,21 +41,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
-    excerpt: "Vikas Nanda has spent more than two decades studying the intricacies of proteins, the highly complex substances present in all living organisms. The Rutgers scientist has long contemplated how the unique patterns of amino acids that comprise proteins determine whether they become anything from hemoglobin to collagen,"
-    publishedDateTime: 2022-11-02T21:06:00Z
-    webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
+  - title: "In the Latest Human vs. Machine Match, Artificial Intelligence Wins by a Hair"
+    excerpt: "The competition matching Nanda and several colleagues against an artificial intelligence (AI) program has been won, ever so slightly, by the computer program. Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses,"
+    publishedDateTime: 2022-11-02T20:58:00Z
+    webUrl: "https://www.rutgers.edu/news/latest-human-vs-machine-match-artificial-intelligence-wins-hair"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 75
+      name: Rutgers University
+      domain: rutgers.edu
+    quality: 51
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
-        width: 685
-        height: 375
+      - url: "https://www.rutgers.edu/sites/default/files/artificial-intelligence-hero.gif"
+        width: 2880
+        height: 1318
         isCached: true
 
 secured: "JcqIBWKbm08mufQBl1sR4XglREa8AWtutjBaW0QISgKD81TBctNMg5fJqP0XdphPlAegUQmmeqG2OBayIqiEblCgyA4a7bEfNi0eRTQY7vBipLWICiLlt1frHuSwslhBwxyp57L2XNIHOdkBltS/4vIgtXfkdikVKHF5kAa+HyrKOl3FMkgbAGjJx9xyX9Fe2MTogkZPlZVOM6TxqBbF+7dSTuNUTM4zIoL/QTXitihTMa+iNGpe1vxFQACHtf7/Bnwk03gSpbxMEI2Q5uCDHLUFdB1QO+0V3uFB3vWpkB2DMvRfZC1nf8ZwD0NaF6K7jhn8mMUHnc/Vp3CcX5XGQuCY8qeoCbcl10Lu8+rWmtU=;BbD9TT+xNrSREJWFuYn40w=="

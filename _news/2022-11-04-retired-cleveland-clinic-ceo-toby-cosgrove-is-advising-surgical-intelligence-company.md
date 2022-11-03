@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T18:32:00Z
 originalUrl: "https://www.bizjournals.com/cleveland/news/2022/11/03/toby-cosgrove-is-advising-surgical-tech-company.html"
 webUrl: "https://www.bizjournals.com/cleveland/news/2022/11/03/toby-cosgrove-is-advising-surgical-tech-company.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals
