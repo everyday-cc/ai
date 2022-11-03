@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/this-video-ai-startu
 webUrl: "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.mid-day.com/images/images/2022/oct/Kids-Age_d.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "VCs Based in India Investing in AI Startups"
-    excerpt: "There are hundreds of VCs investors across public and private sectors that are increasingly getting interested in “pitching into” the sector. Let’s look at some of these India-based investors looking to invest in AI and the technology sector in general!"
-    publishedDateTime: 2022-10-29T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/vcs-based-in-india-investing-in-ai-startups/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/rupee-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "EAr/fI0rSNuz2k2xi5a0X8FwBSig49nFr+aIvC4y4MzvRC2VYCNzi0iK8547pQW0tcnmgHGwEmy76xS89+74HrQVaE13BvO2tMNwvtg2vQqWyZyeq1LiPj4sBsJ96lYJJsaiSEcYiLUWRZfgj3ebCLxP3Z1hDZ+AzBy7AS+oG34Y1aPmA32TVaByk1bYURUKzG3mzzNBXZEWu5eeLutwbl/F1H/JvktVM9/J0q6yO7GFH9eaYpwi5vptooAdP+E/s7mubtmCUHEnxO9WSMrt0b4sgmTSs4Ok5CnaHgPylXhedLym2PuZN3r2c16YnKRvBGj9+ccNg5cHwnj2gOeh0l9LExmNsMFWbGro0t8fVqZQj5OdVTO5yMp6IonqEW1VNlZl+2LpMZi7XOpnwPUHEabhFquV5bCVl36x8eBAd1/7d+zZHhqRrBbRsPiKfDLeyvmzsl5yJn8PcIEd8NjlwkHo14OIUuRoz4lMDV1iw5R/f6HHE54txrinU2QDIOr5Z6nSLKrI2V9eZ4E5dx9TWw==;PBg7R/LoDj9wB3jMaYFt2g=="

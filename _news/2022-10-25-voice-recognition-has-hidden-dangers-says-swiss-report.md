@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Voice recognition has hidden dangers, says Swiss report"
-excerpt: "Online speech and face recognition digital systems should be better regulated to protect consumers, a Swiss technology think tank has recommended. Virtual assistants that react to voice commands ..."
-publishedDateTime: 2022-10-25T12:24:00Z
-originalUrl: "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
-webUrl: "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
+excerpt: "Online speech and face recognition digital systems, such as Alexa, should be better regulated to protect consumers, a Swiss technology think tank advocates."
+publishedDateTime: 2022-10-25T12:17:00Z
+originalUrl: "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
+webUrl: "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "6IREgHZEnbnGYHBbTQAuBiHik76PMkNZFTQFiz94T77uRx0EeiJRpPS4ZpFUHfZfWS5q+XxJr6O41jtH5YKJFUemCeqnpcvxSGoQ/srCVIz1kD+oEcI/98RsJZh9y7u3GNG7F7FnC23u+iq57hlOcy6k790ZHMg5zSKHhIjWC6OU5IlKJdUAFzecsVGPaD82n1xG2BQ1N714r2quOVDu/eWwpOosF3Xr/pN34TuT3zmuN1jgePOI7JijUdAAEGbsay+RtEy2A00ZHkLL43vbxJbiJVZvitpgBQrjBxTvcuMeSaekZW89rovupvbt88XCJdXrfHp2+6PCLBqt/cLplJKYQG5Qz3pgPvfDhcyiQj4=;M9NAHd78U1RTB6V+t3Q1YQ=="
+secured: "LlYu01uCCwRYLmDvVWif8E1KfN2RwdiOhCZhMfCOgVe9sZJ5CS8J5bE/pDJ1b1+MQeoK86tF8MzHoAyFe2KwSl2U6sw9/mQDyBy7ZkmJHcXrfCU3lWg4uwYBdcgOxeUk04fiY2w//0p2qF6a7/Akm+aYzfcTBLwh8M4SJz5965kYjWttJJPxvDl8tsp/yH/48egc0T0D0W/jMyaFCLnLlvmrQmtRXPa7ysc3lysFeA8Dt1L2RY2l3umLylMKID8okMbX2YiCtCCI/FrzK4sOoL0DGyrlpF4T1ZHxg1LGUbePfNaIBT7un8O7ZYe2xj9n7pdxrxbNo8c6D1ZEiUJIDrOWsaMDK07tY6Sa1A2nn9U=;Ty7eW5XPQXD1PO9vRFQSKQ=="
 ---
 

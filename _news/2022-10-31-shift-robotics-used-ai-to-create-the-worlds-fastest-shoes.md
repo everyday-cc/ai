@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-31T16:05:00Z
 originalUrl: "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes"
 webUrl: "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes"
 type: article
-quality: 99
-heat: 99
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://i.pcmag.com/imagery/articles/02ezmmIMIHYAOMO3vQBGmBZ-2.fit_lim.size_1200x630.v1667231348.jpg"
