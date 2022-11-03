@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-31T18:45:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
 type: article
-quality: 29
-heat: 29
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -33,6 +32,6 @@ related:
       domain: news-medical.net
     quality: 12
 
-secured: "NiNgCRTwJJ4kpMBQZfdAiIs2pdrmQM5GPJ6u1dKDmbz05K4zOiiVQ0iJHdbjDG1FvX3Pnt6Bdh5pR1G4QUKZZv0pKp7T40S5JnNB/YwFxo5l19Ca+SZi7sv0u1bqw8Cwtnud/xHtua0EE6Sc+mUlsB8j/jLhQojtl9ZibqUFmoWoX0EDDnJchWrFWOnDw03nqIzduKRiVGvwwrRGIM9odlIZaASEFoy2kM+BStJrlrcECriHSU3tXtmj7P2T/6PbxsPpUtTsMQRWqw+HdX8uTnBu5w0sRyxpr5tI6cz4rT36tPhMG8lkxaRinff+Ttl6Gax0/vvf6/YddshuTnm+1tbJdhM+SC0CJTRtfW4dQf4=;7titi1PWbBfhDERM6mkaqA=="
+secured: "Uyb5dqF2KoMaX+6K/BPOtckf+Agc0O5cJFImZbo+k7LXZRPMsBWfqCJu8OV1P5CkS4VM1cqG6NFJbtZmMQkpKvqV04HCLwV9NUN0Eelx4lTTZMB58ZOkUKJ8IZvQqd38XRe6HOdJSe3iDjlBCX+Ica36pV6VaBENav3E0GbBaGBD7tKRrHMXP+IhNgXrTyJs/sJ/SRPeaf4X+zTo980JHxFrb1DtdoG+q6cGU6k44HqPcTabF7eid3ODVz2QBkJjEYBNCZfC6EzaZApd8KyyCBFxXL0d6vIueHNsgEv99cQctyUrI2DqM7ITQyDjvFr+Sb/WInluH99qFb7N9umRXpBcOrdPiZFyYUKmEG3pFWw=;h3yxG6TP2LMNxMNuA5a20g=="
 ---
 

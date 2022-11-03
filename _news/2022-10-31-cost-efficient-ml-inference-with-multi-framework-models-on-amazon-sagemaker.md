@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/"
 type: article
 quality: 103
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "AWS Celebrates 5 Years of Innovation with Amazon SageMaker"
-    excerpt: "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of parameters, and generate hundreds of billions of monthly predictions."
-    publishedDateTime: 2022-10-29T13:00:00Z
-    webUrl: "https://insidebigdata.com/tag/amazon-sagemaker/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
 
 secured: "tZTK/uGzgzeHDebUN7QIwnJ7mP8Oj7kDnYwxZ0jOAmiQwIDEyx7l5gEKZyKOEKGufGu+/wpOnhDKsh28dkxRV0if5m8+LA2BdZ8p1vvilxdhZKSVlZhbv/3DMUdWJS/aRRvvjK1o9slVF5Yfouas9WpCIi4n6urSJp7zH+TvJn/uF5w61QrNYy9wDlVJpLaq3r/2icTigYvTQyDdY2osUV8okyDPRXuOC6vkJYJmVMoWdcH10D2ewzBWODqiwLzqA8BcdJSJQCiGtqqTn2Ns5J2Wx6oU41najluY/9CVFxIN5YEsfIxvOHT7XY5Zi4cx4Yfnp6uoAt5WPM0XYUUqXDxfYUTdlBfVbFdiRuoG6qg=;5/mIAe2KJN+y6rgRw8pLPw=="
 ---

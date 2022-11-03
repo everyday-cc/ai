@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Voice recognition has hidden dangers, says Swiss report"
-excerpt: "Online speech and face recognition digital systems, such as Alexa, should be better regulated to protect consumers, a Swiss technology think tank advocates."
-publishedDateTime: 2022-10-25T12:17:00Z
-originalUrl: "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
-webUrl: "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
+excerpt: "Online speech and face recognition digital systems should be better regulated to protect consumers, a Swiss technology think tank has recommended. Virtual assistants that react to voice commands ..."
+publishedDateTime: 2022-10-25T12:24:00Z
+originalUrl: "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
+webUrl: "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "L2TCeCKMhVQKrBWcL0Ke1GXj2taiUMDxGkTEKRCivnYLzDYgJvKA+0LTqedOzPHvR/mcyTI+dZgk8dWqNO3PaDtmfjSBeeok6Pn3IRGtftvU8wt+pucj+i//anr5XUKVLObFoSlYWkUkmHA2XkMJ6uZgyVOLBiDSzwKJyfljpdsYJjVrosbXDM4SbBhTBC20VLUPpR9nwCchGK61b8pyGERItCxB3HIMgZt2djc4ymT2dzzHCc8ILpCNsbmczq4y3jc2nggU/4SodTquCBvdzT0ifGGq2eM4qLWwZD6I67u78a7s9XHGvz0uqJ/LmpdGJxwKHQNFKW8oEiKdCgocb3t32HWKZIEUIaIBJR9/lykz+7/qqktFnGExVpvn3LphfJf6Rc7VMr3szZPhTJDN5tYZ7zsBgwBvOGqxJB2+mu3YVgwfCwPxRzTT/+XkmuNNjJ8aJuxIsVxiWywFsCU2JgxgRCYKevBcoT3MkHGmCjfjhoqkapTUPHfEd3UN0L1KMAhfPT1+mudsC/6TGvGrOw==;wHPuq8AjvdoIiyX3Oty/Eg=="
+secured: "QCoBA4qqMcJTsuiQan48XVaAsQTQICorNeuYE/evPUCSQlbdOmMwb9e8nR1Z6stIkPBfvijPfQF4OacLU1t9CqjJWM/Ks4fSTc1KqdmdzC7OFmW2Q+uhrXXHOMR99uy8YNwlkwiFO5tdOeyzJupHaUs1WYD/RiUQ+FSPmipP7AjDicrgzpXhlibblId64M/WdipdbN89mDx+PjPXt3WXjDIUE/FbymDZ1v8fgJSVTMcS2YOyUwzkwkCKFnGnAYpzpRgukHoTEiEDt9qF4IGNaEw6Ml0pzn4NSMqENOk4VoTlTe2kbYbWLtpqa0jrv9SFmtZMH2XNaxecbB4h5oAuaMLFy7ch9ZM/3Fig8JwnEmY=;w/eJH14KQvIv4bO0HQThHA=="
 ---
 
