@@ -7,7 +7,7 @@ originalUrl: "https://www.freemalaysiatoday.com/category/business/2022/11/03/hon
 webUrl: "https://www.freemalaysiatoday.com/category/business/2022/11/03/honda-to-test-micro-evs-geared-for-mapless-self-driving/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Honda develops AI self-driving technology"
-    excerpt: "Honda Motor says it is developing an AI self-driving system that uses cameras to help the vehicle better recognize its surroundings. This is the company's latest step toward putting autonomous driving technology into commercial use."
-    publishedDateTime: 2022-11-02T11:10:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221102_36/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221102_36/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221102_36/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20221102_36_1179612_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "V6Oe0m3AeRWBVqRWeksLdQbt1c696sUXCmBXJmpdz08s9bWA88MYzDQZEehFRv/W7CrtwoBPfDXgIiAtfmyjUJggHvPFyZ70O823M307ISiYHzkwaYV53Mca9SVTJqUp1sKY4ZOIjqoRGFGFhmtMzIxw2Fm9oFPBcaCDZZtHXg+Z31VN55GqI4/qkpITrztrcmUgkX0o4ljFB3HwEkm35/BIRkVADsuTIfbaEBWCVrAf9UHaON5XO5/VpLUN2oM3+Lx6jSEIaF+f1OkDEcN4cVjHxKW7Fp4ESfjwVw5FfVDAEpAwQqtic8ZKluKmnDWhrOdTlDc8zTmFEqYpRzc2EXGVMN4gjy07P0HJJxQSnLfU6fIrbw06hU/tgClE1g5Jnx/rVxFNlPDaO3wIITqmF+9nPssKH9qr/xEBTIaPX+CYqzi7x7fLpVUrJe0nOUry5q2SgAOGIcj5P8nMEJ/p0BIC6grwVgD/MGaoag3LkQU8QUejaz6fqyB8ouoA4yQ2zhusiH9FFeZ98HeFKrSryw==;Vi49Vu6vlYnM7epZttWjlw=="
 ---

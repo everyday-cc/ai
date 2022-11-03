@@ -8,8 +8,8 @@ webUrl: "https://mixmag.net/read/warp-records-reissue-album-artificial-intellige
 ampWebUrl: "https://mixmag.net/amp/warp-records-reissue-album-artificial-intelligence-aphex-twin-autechre"
 cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/warp-records-reissue-album-artificial-intelligence-aphex-twin-autechre"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "yAae/NEQ/pKJeN8KqJvJHlA0pB+Q4LhtLw90tP/uSFfy+xcuFTeaQaUpDre+ZGfWSwTB3xwmYAmicz8zO4ww/jTvvPCRNbiTVGgQYLt6GCXI4mD4vQhp1MvQdmdt29GlewZtM8sfUdKLT26+VEGa9+qSWM2U5iteo3eYG/xvZdFRWAXshLtiqJB1HIsovm3c9jOfRupiXUa+8zr1TAP/8A4cd7KBR2KhBqazOUyGNSDKnJbScWwTrTXGd28Ji6ri36rY0e8EzYlvy4aaKk/R1QaJEfE1tozXQ7b7HsTo20GqurA4B272zwihsgT7As3/EPj2qg/oS7i8YIUYVDoYwp4IeG4RpE4/QhhHRtQHsVA=;OXCL4PV2U9BCHtNbcv8ssA=="
+images:
+  - url: "https://mixmag.net/assets/uploads/images/_full/aphex_1.jpg"
+    width: 1008
+    height: 672
+    isCached: true
+
+secured: "PZzhQYyxuteqwpssapJCiINn+aSDztNYfoFs/W9uLM3M2/4I4M6dFmCv5UdkS1czpyC+wthAHlXT4QyQfIBe8nPy/QV6xa/MRflopw+TGv5tiAoyA97yXJCFwJbn0EJKk1wcLZJ533Dqb1Y8Zq3SYvjQUi9pEMMTMudLKJbDwICrQYsr0Jv6AKC20rhNxCG4cZIxXncJr+JykEqkmI9Sae/yDbLXCfq0jxe4uftP04Uz212DbPsXsBAJiHg0wTOGvzEzTtKtENALwx3LANAHKxo5FecxdvwBYIL7tm4eWL2li7tf3G10AXFpXaaxuuuXcHfH54px03YxTpkLmlISCjSGgw2Y7/9U9ZyAziNc9l4=;KyElVrOA5o+OtZbZ0DQjwA=="
 ---
 

@@ -101,6 +101,20 @@ related:
         width: 2000
         height: 1500
         isCached: true
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
+    publishedDateTime: 2022-11-03T17:45:00Z
+    webUrl: "https://www.enca.com/life/google-wants-ai-one-thousand-languages"
+    type: article
+    provider:
+      name: eNCA
+      domain: enca.com
+    quality: 39
+    images:
+      - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-02/doc-9YK3FU-%40photo0.jpg?h=b34c8690&itok=WQAyrw8s"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wW8WUDqAt9nOVWM+w/OoTNDue76MoNpz27pZBjLICnQm+aI26mHnnwRIG9EpuhZjTVvV4OnWL0pfrqRAJhk70PvRoNoZz+OtJTtj+8wxABzl79EOGX1nYHCHlx0vPYZtQzcAQ/PUVjLZiYIWJfmrI2Pv3tZL6Z57pQrTTcpAHZ7bRUMo4pH35KMqymLK+R7STW6BMveQVFh53R3lJcU86SVYdLf4t5v8kc0F3sGSs368OxtZ5DgoA1X6ttmUEPi1NGVA+/9MBQCg2oBInlBbkyjHZTQnqodSzov7hpENHd462YQVubV+qneGjzZVHDIoVSLJ7jrV8JzX1Uv1RImIsBKOhFxM/4OWePF1TaJdcA2jcGxTyZXa+yauEqFq55x72UxaT7uYGn2egXk4uA7yHVQrDEXd4CmZq7Oy7hCEIGwDvcLN96L2V4tewArMfImGjIW6iKp2QSga5mtjBIuGWeagXdYRNJtj4V1A+lIhXoF7+urirYfbWpzDJJQdSfu7WikN9LW7M6bC0ohxZPMbFA==;GqRL/mbIUdbgR+MCIMkBQg=="
 ---

@@ -72,6 +72,20 @@ related:
         width: 1341
         height: 672
         isCached: true
+  - title: "Improving stability and flexibility of ML pipelines at Amazon Packaging Innovation with Amazon SageMaker Pipelines"
+    excerpt: "To delight customers and minimize packaging waste, Amazon must select the optimal packaging type for billions of packages shipped every year. If too little protection is used for a fragile item such as a coffee mug, the item will arrive damaged and Amazon risks their customer’s trust. Using too much"
+    publishedDateTime: 2022-11-03T16:11:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improving-stability-and-flexibility-of-ml-pipelines-at-amazon-packaging-innovation-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/training-1.jpg"
+        width: 714
+        height: 429
+        isCached: true
 
 secured: "SqvapAxQDz3vmcpcc5MvJb0LWhWamMKhrmhrXQubRfsuinij/s1rWHIy6XjQiXI2EK4AcL6PAPQXvzbmGJOH4KazlFCMk1zYgFaLURLAjWU5ySjxqOIQ8lViFizpTWqxu+9H5DCkpfB011wPS5MzcYEXxiD9amRs3U+Mdx8VfCKH/YQ2LKcOKKFSKi99ow2NVXKS8hx0awUkCDF9swAaf/eZldnqvpKeN68joTdYONwCkvEB19EPJKOJSgdKuqau25KL1NcuysVdEx8AHCE3OiBM86qClAZx4XqzsqQGMJf1+0txZkrhCqBBp/3q3G9zB+7ZFYdKBaZWaPQlKQXDlWpq5t43juOij9zntEygRng=;QCBFbztrtCCUaHc9inKv8g=="
 ---

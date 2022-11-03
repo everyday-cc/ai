@@ -15,9 +15,9 @@ provider:
   domain: channelnewsasia.com
 
 topics:
-  - AI Hardware
-  - AI
   - AI in Robotics
+  - AI
+  - AI Hardware
 
 images:
   - url: "https://onecms-res.cloudinary.com/image/upload/s--aJOz7uG9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-03t131954z_2_lynxmpeia20jc_rtroptp_3_chips-automotive-sima-ai.jpg?itok=vpjkLYJA"
@@ -45,6 +45,6 @@ related:
       domain: design-reuse.com
     quality: 7
 
-secured: "SBPcU7Q5lco4OynqGn49ANS0tsNhXfW9wrnWZo419K+N2sUMnfDTbO+n0UNn61kxZ0Q6S9czg7RozXmXidUjWfemRDtKEVx94iGAKIHa6ZNyj/6v4HgW9oZAGASEMiSql18d6AvtFlxGkY/g2fejElrkutrRXzcX/UXs/jiSev4KBoCXmwHj9k5BtP1PvZ0sSGN7bl4IfxGMeagm1auwAp/HUgXzMk3xSRIk8WFOT3Ea46ujasixcVwre2IPfl4ZcpjkgXghQq8xrhO68LMkUElYJdkqMbkHyf+5nW1426ACPE53oCqhJAJPVI/DL3uLpWWdOP3CL/RDaOK5i20O081HJPQ1zuxp6MxJPXKkrnc=;OWl6ah3lOUQRUIqKgSsXTg=="
+secured: "yR+svgS806wVqh9Z1BkNeeI/P1GcNnRNwuTjVrHNoQq1cFB0izJPmtDTlwrIhe8A7UkJcEarc/aOomZ2JYtlCO4pOm5OgKukU+B7RC+6gJ/CIxAQ1YJThU3VKseR380gGfDjRFgoBrBWkmY43LTN496L5pZO5iLajjIFSdYWriXeqDhIOryW/g4xhxOpFWAfut26M8Zu4fiAkcBqRx6fHT7fyTYzM5lVOhAm05tRRIuMG0LRWhR6FZ+bSp33mOPK0jYlKMRNPxYUbI5jIPBNQE+8oVEugCjU87fEoGpzE/ymlXJVlOFogg/cdBZKf2CrDQdEBk7vRQsuf1b6wevvgHkA5Zd7MnP8OAafU6qlI+A=;q9Ev/T2ZLszUOIYsqAsjjQ=="
 ---
 

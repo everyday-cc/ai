@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-02T07:29:00Z
 originalUrl: "https://ohsonline.com/articles/2022/11/02/enhancing-workplace-safety-with-the-adoption-of-artificial-intelligence.aspx"
 webUrl: "https://ohsonline.com/articles/2022/11/02/enhancing-workplace-safety-with-the-adoption-of-artificial-intelligence.aspx"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2022/11/sparkcognitionfeat.png"

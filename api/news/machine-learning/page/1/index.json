@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-03-unleashing-machine-learning-for-all.md",
+      "title": "Unleashing Machine Learning For All",
+      "excerpt": "This learning happens when the model tunes its own parameters and increases its prediction accuracy with every data point. The larger the number of parameters, the longer it takes to tune the model, thereby increasing model training times,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/unleashing-machine-learning-for-all/",
+      "originalUrl": "https://www.wired.com/sponsored/story/unleashing-machine-learning-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63616aeb8dc1e93e918678e9/master/pass/Trainium.jpg",
+          "width": 8000,
+          "height": 4800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/unleashing-machine-learning-for-all/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/unleashing-machine-learning-for-all/amp",
+      "publishedDateTime": "2022-11-03T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
       "title": "Study urges caution when comparing neural networks to the brain",
       "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
@@ -212,7 +265,7 @@
       "originalUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -265,7 +318,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1383,58 +1436,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ai-is-changing-scientists-understanding-of-language-learning.md",
-      "title": "AI is changing scientists’ understanding of language learning",
-      "excerpt": "For this reason, many language scientists—including Noam Chomsky, a founder of modern linguistics—believe that language learners require a kind of glue to rein in the unruly nature of everyday language.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/parent-child-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

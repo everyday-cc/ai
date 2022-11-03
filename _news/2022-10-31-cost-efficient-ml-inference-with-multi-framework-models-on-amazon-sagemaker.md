@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/move-sagemaker-models-pipelines.jpg"
         width: 1341
         height: 672
+        isCached: true
+  - title: "Improving stability and flexibility of ML pipelines at Amazon Packaging Innovation with Amazon SageMaker Pipelines"
+    excerpt: "To delight customers and minimize packaging waste, Amazon must select the optimal packaging type for billions of packages shipped every year. If too little protection is used for a fragile item such as a coffee mug, the item will arrive damaged and Amazon risks their customer’s trust. Using too much"
+    publishedDateTime: 2022-11-03T16:11:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improving-stability-and-flexibility-of-ml-pipelines-at-amazon-packaging-innovation-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/training-1.jpg"
+        width: 714
+        height: 429
         isCached: true
 
 secured: "tZTK/uGzgzeHDebUN7QIwnJ7mP8Oj7kDnYwxZ0jOAmiQwIDEyx7l5gEKZyKOEKGufGu+/wpOnhDKsh28dkxRV0if5m8+LA2BdZ8p1vvilxdhZKSVlZhbv/3DMUdWJS/aRRvvjK1o9slVF5Yfouas9WpCIi4n6urSJp7zH+TvJn/uF5w61QrNYy9wDlVJpLaq3r/2icTigYvTQyDdY2osUV8okyDPRXuOC6vkJYJmVMoWdcH10D2ewzBWODqiwLzqA8BcdJSJQCiGtqqTn2Ns5J2Wx6oU41najluY/9CVFxIN5YEsfIxvOHT7XY5Zi4cx4Yfnp6uoAt5WPM0XYUUqXDxfYUTdlBfVbFdiRuoG6qg=;5/mIAe2KJN+y6rgRw8pLPw=="

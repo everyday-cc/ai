@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-makes-massive-commit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://scitechdaily.com/images/Artificial-Intelligence-Artists-Concept.jpg"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
+    publishedDateTime: 2022-11-03T17:45:00Z
+    webUrl: "https://www.enca.com/life/google-wants-ai-one-thousand-languages"
+    type: article
+    provider:
+      name: eNCA
+      domain: enca.com
+    quality: 39
+    images:
+      - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-02/doc-9YK3FU-%40photo0.jpg?h=b34c8690&itok=WQAyrw8s"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "xlz3hMll7/pXLb9QkYlfxhk6I/9LJqRyFs9Ccjwf+n5/3JT7caPhrx6EoDdjb4XGgB8Ssyb5wJz7JnDgdx5nBXoqYt976s/XVRiq+YVi85X2Rvbhq1ZHoGe/bO1PsPeJP+pb/unBTrqLFpryg7698aDc5S21kDhwfRBn5hrJoCVfKZCWoJ1z4XvIENvYVufgo71XVdpjyo6RY2J7qGvDVJmOUZkIy2M+CPTtfrWvFZHtJjEW1ykzxxTvZr+eWFIQSC7AEVALOAtiiECDSIYbERBxWT2OX2hYy5PxRX7HNziyVGIXSB4CRw+ehjlrRoxk5E0q3VzFPg994vvFhJeJb0HxH4k0yNOUIB93CYhvd/9AcG/JvoW7XFv35E6MMKLwOpRXAhpLDI+b0noTCrJWlg+ruYPpBGrK2opzzrbF6uk+WfGNlNqgFXmxHF4SwCsJmObcky3lnwuZIsTdpxNkxVO9S+ICbbfhY742SYxvPpcrcoT2QihwIDIJrOQdJNskp5V0LeZ0CHBw7yECvoJu/g==;NFa9K49Uw8InMqXwNFHApA=="

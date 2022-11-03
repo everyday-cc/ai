@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
+    excerpt: "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology."
+    publishedDateTime: 2022-11-03T17:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221102164140.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 61
 
 secured: "E4lAsL3Y5XbM6B2sZ03/HKpvIVzExkpaaMCaxmqI0eLLBjbTQgyJV65S76p8glP11TZQ954OQOihUC/Xh+Q4L3cpwjX14p6p4qs9hlQyHL3zG/LgVHFRj5OBOVUbMSgyLqi++ftcNKagKaPBiZ1xhAeUTJt9UvlilxZ+NfqjMJ19ZE4x1m0Blata/skgbcnYfjcaua3f9BpDGxm9abSiTfA5STG+FitxL+I/ZJosIR88UZTp/b1uS9XMa/4Azrzqdf07wTSpX8oDl7ACfVqPDraNh9JY9GwNU38Fti4BJz+UiOSax1Yg/7RliitTboZkU4SOcZ6ll52+Po2RjNjsSkZvItsdFWdocomdpmxmSwBvC4Q57iN795MnS6I8bJYWlk7KSELkmTomTlHzRoooQL1mLnDKto6gzrcceV9EvhF4KrWKyZxOLEbvHpH+c7IVPnXQi0w7ReKp1kAJ6LyadmYn6pRls+kuALXJmSuQ1K/ubX/aL029a7TfZcq/P6RIXSShefvWvljFnPwLsa3+5w==;bqLQlUGAhHUDbCdMHmvcmA=="
 ---
