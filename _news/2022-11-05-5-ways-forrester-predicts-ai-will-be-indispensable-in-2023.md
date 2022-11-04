@@ -23,6 +23,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1421615048.jpg?w=1200&strip=all"
@@ -30,6 +32,6 @@ images:
     height: 800
     isCached: true
 
-secured: "IQoku6GSXvAEsQ1kBGzu/mc9+dfoMlCRAG5rK12Oxk8TCXMBUO6s9Y3XeXROsoBNKW8qJ44YfV+Tztpjh3G8jjCffalGIsJv3cYbE/I0gb8d6+78S3wCKeXW0oH1hSNBW32zYIbu3+VQ8E9hewPopxwYxCiTR5zjBvPzxh3SgAAqTfgajejCiwSgxh61Jx/kYcr8h8C1gUlUJU65JQtCt9Xf0JWGYDKD1QA8qrKknVE9TEb+kPyimwlEJZt4VCxdNJqnylkjlKJ4wZOgEA9xIL9dvF6i1kXvyzjvb6x/wxgK+QiUsQ94MnKgOZb1ts1EZhD7bQQCCxRlucr6dGfqODdE+xbelE88u7/vcJDXzZ4=;lRIEiZG9uubEESGG1IIQ9A=="
+secured: "tX8tv76pwGC1rvajGNpJeYr9JJNoghxppv8pvoYVDRFT1TSI2jEUfZCQRcpwvQ36qABbw4JgW+EflQgA01RiluRfdTSeaQoKYdx9cPVAG4XDIpo673lYv6QcWKG/UO1a1c3k1vo6LmCiAVMfinBQt/z1zuwg57eYSboERx+5zmhrpZd/pjApA12yBOjUh2fN/PwoKwxnZWTyYg1fTO/88NMdv2qpY4PswALzb0vqvHwmyRHoPnP3OssOjiZsT93siDX2EYKFzc+TZ/wfwuAGO2AQD4VD9VfZffDYEWrdZDomafa2DXXNqcFg9vRoH1CQ+DlR8H7ntRXDVVi01rmGf9SS/QXtaUL0uN7KeZ2QrSptn85ZNgoLvKziEwT+qqFpRLUdZM63Wx+7QipAWkVDfko7FVeyikMbtAxCxieXMuLVTzDfjEOYF120GdoUxufNPt2qavjw6tFSfZ/V02bagYooP+C28YJGmXzqq44rCd6kVibj6LK7KIJJksKkf7NKtnOMSy5QStq71I1TLEtAwA==;dZYE4YdARFoKfRTUPDWs7A=="
 ---
 

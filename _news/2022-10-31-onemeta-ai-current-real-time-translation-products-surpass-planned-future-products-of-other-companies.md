@@ -1,47 +1,20 @@
 ---
 category: news
 title: "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies"
-excerpt: "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ..."
-publishedDateTime: 2022-10-31T12:08:00Z
-originalUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
-webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
+excerpt: "OneMeta AI announced that notwithstanding what other companies have announced about forthcoming translation products, OneMeta's existing translation products already perform simultaneous translation in 85 different languages."
+publishedDateTime: 2022-10-31T16:01:00Z
+originalUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+webUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/fffd4e29798b933a9233cdc66dfb1610e12b396a-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-related:
-  - title: "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)"
-    excerpt: "OneMeta AI (Ticker: ONEI) stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares outstanding,"
-    publishedDateTime: 2022-10-31T09:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29475051"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29475051"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.abnewswire.com/uploads/1666894655.png"
-        width: 1222
-        height: 1091
-        isCached: true
-
-secured: "VEJQXd8O5NnIPDUcPaP99JR+696Bww360zK8kMrBYkhPUBSCqBUreBch3tWbI16HrEhERRmVeVGIkEqkmWaSDAffN/M3fJ91bDsW7yjrmQ0PvdTmnAiZVCfCLdX97Dz1vSPJ0xlCBdwPB5qe/xF8APKtrtIWXWIK2Mtt0VtZLVLujy8vdVsInmcWNFiWezt6sSPSCLv1q+3hKPborGmDMocI5Nb/Wbhdpy+4d8Ca+msgTJrmA85fnL331MiXe4jUVK2NVidSCT7Z0WnalCLRf1G+qHV0R66GsXz0EksKDp6T/bamZ3hS4WewtMdXj12P6um/4G4tfb3Trn0gNAkBoq/sPvLC358FYFuphhw5lB4=;lumY3kcPGxmigNiIHFMkQA=="
+secured: "TyrofFWYSoAaqe5TtPYYF5gSWjYv5/9UVEFre80SAO51zfwvqHYzW0vQHe6inLtheZWbxH2e/zOc6KI0q1cu/3SiBlzPGT6duI3Hv2mCVE6y4nGceALgl6/bOKqdTauVUkpw52a1ice/QIzT80KLs+sAsf1M6sFCDFXruYG0rwS2bhFlGGa7kiAwxBY2G68hh2NRYZwOG07xUuyH7ILmcxqoJFy8r6Rt10mqnT7eNmp2LydWHS6yLn5cvsnPOxiHD+Jfk3BAXvFmIkOU/Lmz3wOHzIdeEBiZ8D1dj6PiVDAm4/ZtNdbX1Tc16m9wZgZ5OnwfVAO/g1LAq1iCtgzG8AxgmR+cXlNHA+eIiZH40qs=;IZPPqE0Jh42j1wzij4PAng=="
 ---
 
