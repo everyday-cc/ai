@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-02T23:59:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/969673"
 webUrl: "https://www.eurekalert.org/news-releases/969673"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence-based model predicts patients' risk of acute kidney injury"

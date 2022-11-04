@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-
 ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-77.jpg"

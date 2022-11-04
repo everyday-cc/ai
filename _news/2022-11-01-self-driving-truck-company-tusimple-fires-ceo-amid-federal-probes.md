@@ -91,6 +91,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "World’s first listed driverless technology company TuSimple fires co-founder"
+    excerpt: "Hou Xiaodi, co-founder of self-driving truck firm TuSimple, has been fired from his roles as chief executive and president at the company, according to a securities filing published on Monday. The news comes after the Wall Street Journal reported Sunday ..."
+    publishedDateTime: 2022-11-01T17:35:00Z
+    webUrl: "https://technode.com/2022/11/01/worlds-first-listed-driverless-technology-company-tusimple-fires-co-founder/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
     excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
     publishedDateTime: 2022-11-01T00:19:00Z
@@ -147,6 +161,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "JtCWLRzzMwCSLRIj/cXgPAJWFWmiwUeechDjmXTZZcaWOIMFctBMLT3GUNRKhBmvYFpAvIUmknEf+0P7ba2Dncq1+1DZvt47DRq1E7JHc4eJuf38FQP9uztY+bYq+Z/+59hQPuTSp5txXNm5YReZ4ErbSU5bOiu3tD2jlo16844tHBWKFuVh0+dha3J/DV6DfjvfkJ9TpZQl27bfdIg16ShfKyL0qy3AfJwGP/AVxnAz3HBBpLjN3EqFcvay1kkaS5RnSQdzgbUTv5lpGrJK9EY1Ihf43qOYSQt5QUSxvvdq3qGxPGYR/KoM61yg5+Jjj2GcdA+3rMOyER9kMjQat6LuVpCf3kzWj/Kd65i5z24=;W1gD46wza8Op516TvsAw0g=="
+secured: "3cJ8hOMLA05iQcJCdY59kbz1mgVyHFgbmYomWOZlQKfEsRapCHUzmD7E2XbOXXjss7cJ8hgkXbpNSAE3hBzVj6aTfdGsexjHD5YaR3/mvFnVbqOT+UtiL8uhF54qXWGos8AgGbSmzSzpj+Uj2g4Z5dITcXhnU2VF9ZHOoe5g/9xIjsbZ95uHqkE8tXfSJgHAROXJ2KDcmFNL2luZXsrGal08tDIk1O3MjFan0WdiX0JKKIxKbziGk2kycRei4Ls/tDqfsHzSSVZ2G87pZEE56YAr226hO1hHGJqcFJ59oaJ4GUkVDX62lOtld38aTxPEMrXwDkNM4SNxdyvWF3HsBY9SnikLxIeQrcaNyxZiPTfau5rNmlOhakLUor/oDHg9YpVm8khDWaLXVZhboxpf+1fT60v4OdIDzuzuQetUP0J3fhc9zYZ1L8m7W2diptYVBQRyfOkebbxekX+EDLcpfOc5HU3Gf399+rHjbzSwx4FuobbfGGWp5HHBXN3jV6XG/boAXqTDIxugSJbC1xF5/Q==;5V5UkaPSYXbFUHedQL8JuA=="
 ---
 

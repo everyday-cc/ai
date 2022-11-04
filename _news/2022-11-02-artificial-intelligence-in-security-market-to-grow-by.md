@@ -50,7 +50,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://techbullion.com/wp-content/uploads/2022/11/AI-Governance-Market.jpg"
         width: 1200

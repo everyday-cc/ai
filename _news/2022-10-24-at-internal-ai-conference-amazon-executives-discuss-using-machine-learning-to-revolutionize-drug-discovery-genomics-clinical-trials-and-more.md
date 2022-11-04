@@ -23,6 +23,7 @@ topics:
   - AI
   - Machine Learning
   - AWS AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/633c86774d423e0018204ab5?width=1200&format=jpeg"

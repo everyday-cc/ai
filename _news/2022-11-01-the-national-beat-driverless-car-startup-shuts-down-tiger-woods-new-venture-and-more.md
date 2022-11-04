@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/3
 webUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI in Autos
 
 related:
+  - title: "As automakers adjust, why are we still waiting for driverless cars?"
+    excerpt: "Anthony’s company, which shut down earlier this year, sought to solve the problem through an artificial intelligence system that trained cars to spot visual clues to what pedestrians are going ..."
+    publishedDateTime: 2022-10-31T15:12:00Z
+    webUrl: "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 54
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cA79I_m8-REToeKBKMhKRSmGL3E=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/K5YFTNSB7PBEHGAV6BOIHT2TJU.JPG"
+        width: 506
+        height: 337
+        isCached: true
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
     excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
     publishedDateTime: 2022-11-01T19:19:00Z

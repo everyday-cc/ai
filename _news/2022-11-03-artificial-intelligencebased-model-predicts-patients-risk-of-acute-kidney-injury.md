@@ -59,7 +59,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 5
+    quality: 7
 
 secured: "YL3/tLvTUsnTV1tAgaI3ajJGBtKXNDwv9vC+QiQH3ZgCMGLIIV9onJg5Uz2nQc9I7K4/YPeLy/+bMXfjATJF7evXvj2XEDvzrihJdxGau4DDLnaLw7ZvEMWuMOvBAC+O7WzKgkfB+U5HQeTJU2NLIsNxSGMIxKZl6yrT7SGBlZTORN4alIvlIp7LSsN7yH2IeuJSrGyynmXfeJOO1CFARyoV2oDt4Dr32N6rTFqbKatJLtrY3X0o8afHIr3j6MazEZky3cQ1LRC2nzUR6mQfVBEEnh2NsUbuZ6FsTQvfKoM2uGvwwr0WHrKz0cEvzdYiFufCgfjQa5EGL7OlOQs+VkMzkTSReRmkuULo1oisPag=;aSaJ4vVmuDtOBCDBrgMNLQ=="
 ---

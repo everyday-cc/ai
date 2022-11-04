@@ -8,7 +8,7 @@ webUrl: "https://techbullion.com/ai-governance-market-scenario-featuring-key-dri
 ampWebUrl: "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/11/AI-Governance-Market.jpg"
@@ -65,6 +66,6 @@ related:
       domain: techbullion.com
     quality: 25
 
-secured: "DhvjYFCoxZuBcOqWVgGOJLAhq5qSyAWCrTOOKZPf39qVJrhp8Ry/yhsMJEKG9nHE8YQyrL5wY2AYqJ7nui2hnIoGVLaiaivgoFBbbtMLEyB83IYTUh611fsp3ww9DW3KVj4sR4sQ97OIS0ZVLhdwMuhW+HsXc0YV93Z9mSHr+TzsssBj0TqkmZlYsfq0Q18CBZsv65ddljYu2r9jl39/IL33wVphsrIlGvv31DsfPgNxOG5K9KLGcs3ju15zA+4nmJwQTIzGSbc98ctM9am3bWA2G99wVB/4rQcav9FOxuMKdIfZRsPF8lOblJfQk0TeXmaTapE40i3rY1NZehqnj1eBM+zwf6Hjobyvgxc7ico=;/h/S9frULE1X1mVYXBg5fg=="
+secured: "wqo5nrNVchRE16/9sQCGFcDE2m+JGMpPmphpQ7Z/+hx2FnDZfhfbb6cs3H8cc4Y/DPxDdKA5AECdrWzUATYBJ8ENgIrw2/BlppfS+rDG4wMnd4hexweqLqFqwdLbCzWfI7A1THeOHhezWN13+wxUHXfm5+hc0ndzUc8XKWFDPBUujiV5H9ppAPJnO4Nk1n85iPhx23rNKsClH93U1xxXRRI9sD8I25Hz7vCUeKGKYQMlWvBt+NtPi0EVXoHkpFerSyifBITPxiLFCjE7ID/oQqLFE88+ImteG5/PEAmJ6kqwercOcH0AGaM3xqCFm+EqusQ0Kyt/USb35YBS9Gb8b578cf2iW4g/y0fZum2j/Luxg7UGZUAptwCxMDmyphXkaKj4KnoAD50mQx09pi/fVdu0p6yAj+7+29hq2ZeMP4f/T2JO9GIQ54AGXfMmxsrVyG4l6Jb41gs9IKebPL2B86I7zOFe6vdEFSwXv7qGAw6x7LBtyqYxY6ACjDzFRWlz/b7NXjJfR77ncF4kFfgPWw==;kd3vIdwjqCaHSmg/60afHg=="
 ---
 
