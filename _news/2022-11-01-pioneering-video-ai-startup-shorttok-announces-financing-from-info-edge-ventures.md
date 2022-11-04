@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Pioneering Video AI Startup, ShortTok, Announces Financing from Info Edge Ventures"
-excerpt: "ShortTok, an early-stage software company developing automated visual storytelling technologies, announces today that it has secured a financing commitment from Info Edge"
-publishedDateTime: 2022-10-31T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29486536/pioneering-video-ai-startup-shorttok-announces-financing-from-info-edge-ventures"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29486536/pioneering-video-ai-startup-shorttok-announces-financing-from-info-edge-ventures"
-ampWebUrl: "https://www.benzinga.com/amp/content/29486536"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29486536"
+excerpt: "ShortTok, an early-stage software company developing automated visual storytelling technologies, announces today that it has secured a financing commitment from Info Edge Ventures, subject to regulatory approvals."
+publishedDateTime: 2022-10-31T19:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pioneering-video-ai-startup-shorttok-announces-financing-from-info-edge-ventures-1031854952"
+webUrl: "https://markets.businessinsider.com/news/stocks/pioneering-video-ai-startup-shorttok-announces-financing-from-info-edge-ventures-1031854952"
 type: article
-quality: 31
-heat: 31
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "m0BycMVgE74h1S3S06fuBY8z5EmirqyKFgl8ANbMF7SJmzdeJhHOGeDEyOIqUhvJjRDF3kCc5vHT6+BBZY54sjyXGSIIGoBCvlDqFzQv0Mkas5yMtfQNRGxYeBWA9K41CYY1yIVEtmqav4sWMgiVxIA3B95F7cFO1nKkKyaxcbCSZhzuYQSWr2in+b1royiZ7mMqaTM2LrSLb9aWIyZVrbLQfysM3fKScxrRP/k7wCTB+CYdxbYcDdhpytNBdV0df2C9QYGRalHXZ0Vx6thUj0RabIRXOl1DMsf4NA0Vh54Xx1Vy1AQWmxf3fCDLbliy0yYMbQUes3MD5fccdRaqqJ0F6+6i8xd9jn5v/fCNl60=;Vo92e48nARDusf/hjtrKTg=="
+secured: "PmSdeCqnChS4KOHiBT8TNayXq5BHPCMAp/KE3Q3SKO+p1+cnA75JvqbAynqdFoWd2f66TEnH+1Vb8pxKNcqGGaimnbXRrHmsLHcA8kujLRjw4kCJ0+v2Plj3GWwJr7V+Lr+APTSerAIptBkn5ZfW5/hXU/F4ljFj4nLDa4qAsJTTmV7PQlrkudR2+L0X9FtvWSaGHXPBt2AoQSFHjxpYfwjTDrrmXOi2cJu2OnIZggRGNaE3ZgZFC/tLIinivuVjIjOKTl6sXqz7XIprn/cUj7h7JYpt+LHlId0pkeH9pumAwU5L3iXifDb3hnrqKI3ZJkNhB6/QDk5rZm8DRFArZRpR+whHL40I58rEee3k4B8=;1EuFqTxWWjGbFg2MHaxXgQ=="
 ---
 

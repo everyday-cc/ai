@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T13:00:00Z
 originalUrl: "https://www.theinformation.com/articles/when-artificial-intelligence-isnt-smarter"
 webUrl: "https://www.theinformation.com/articles/when-artificial-intelligence-isnt-smarter"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Information

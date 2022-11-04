@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T13:52:00Z
 originalUrl: "https://www.physiciansweekly.com/natural-language-processing-annotation-tool-improves-cognitive-phenotyping/"
 webUrl: "https://www.physiciansweekly.com/natural-language-processing-annotation-tool-improves-cognitive-phenotyping/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Too Old to Operate

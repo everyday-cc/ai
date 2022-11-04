@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-ships-marke
 webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
 type: article
 quality: 57
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
+    excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
+    publishedDateTime: 2022-11-04T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-size-2022-segmented-by-material-type-end-user-swot-analysis-trends-and-forecasts-2029-with-top-growth-companies-2022-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "ioCyl/vScsPqZh4Z/V66mvhEZyxcRjqLTGXIVctndRS3F9pgvgavDPn7H8wqs8MzIPtVSogxB6nCoKyxUYMGJql1DH+wmdiNY62lZNtcNLAQDzBqzYIavJoPDtugbPecMvecn74HEapORR8qdZUpiqF3ISZVhWzX+ZGES3J5BYWhWMiuXtCcFaKgGjsmjfsi5MFllE2tNWfGyDsyK7q9v6kjhsU8AWrbnnQq/JK0QgsnkpEPr3pcIxRQqJrS1ybS0dWoJ02zafg07pBNYLezYs4W/nY+f6IyR9HyXMNhDYhDHoPTvUQCM85Qn/iwbPti+/6zmlQ4KiDaZhLS/RDS4YMXrX16OoduWfNPSVbvtVk=;+hrB1Huo/rvhlm4DaIx64g=="
 ---

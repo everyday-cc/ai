@@ -5,8 +5,10 @@ excerpt: "A report by the NHS AI Lab and Health Education England calls for all 
 publishedDateTime: 2022-11-03T07:53:00Z
 originalUrl: "https://www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report"
 webUrl: "https://www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report"
+ampWebUrl: "https://www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report?amp=1"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "NHS report calls for artificial intelligence training for all staff"

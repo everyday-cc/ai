@@ -7,8 +7,8 @@ originalUrl: "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-fl
 webUrl: "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: TweakTown
@@ -25,6 +25,120 @@ images:
     width: 620
     height: 348
     isCached: true
+
+related:
+  - title: "Transfer learning for TensorFlow object detection models in Amazon SageMaker"
+    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
+    publishedDateTime: 2022-11-04T15:28:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 120
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg"
+        width: 1550
+        height: 774
+        isCached: true
+  - title: "Transfer learning for TensorFlow text classification models in Amazon SageMaker"
+    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
+    publishedDateTime: 2022-11-04T15:24:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-text-classification-models-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 119
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-text-models-sagemaker.jpg"
+        width: 1550
+        height: 774
+        isCached: true
+  - title: "Cost efficient ML inference with multi-framework models on Amazon SageMaker "
+    excerpt: "Machine learning (ML) has proven to be one of the most successful and widespread applications of technology, affecting a wide range of industries and impacting billions of users every day. With this rapid adoption of ML into every industry, companies are facing challenges in supporting low-latency predictions"
+    publishedDateTime: 2022-10-31T20:33:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 103
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/cost-efficient-ml-inference.jpg"
+        width: 1341
+        height: 672
+        isCached: true
+  - title: "Solve business problems end-to-end through machine learning in Amazon SageMaker JumpStart solutions"
+    excerpt: "Amazon SageMaker JumpStart provides pre-trained, open-source models for a wide range of problem types to help you get started with machine learning (ML). JumpStart also provides solution templates that set up infrastructure for common use cases, and executable example notebooks for ML with Amazon SageMaker."
+    publishedDateTime: 2022-10-31T20:27:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/solve-business-problems-end-to-end-through-machine-learning-in-amazon-sagemaker-jumpstart-solutions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/solve-business-problems-sagemaker-jumpstart.jpg"
+        width: 1342
+        height: 673
+        isCached: true
+  - title: "Train gigantic models with near-linear scaling using sharded data parallelism on Amazon SageMaker"
+    excerpt: "In the pursuit of superior accuracy, deep learning models in areas such as natural language processing and computer vision have significantly grown in size in the past few years, frequently counted in tens to hundreds of billions of parameters. Training these gigantic models is challenging and requires"
+    publishedDateTime: 2022-10-31T20:23:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-gigantic-models-with-near-linear-scaling-using-sharded-data-parallelism-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/train-gigantic-shard-sagemaker.jpg"
+        width: 1344
+        height: 673
+        isCached: true
+  - title: "Use Github Samples with Amazon SageMaker Data Wrangler"
+    excerpt: "Amazon SageMaker Data Wrangler is a UI-based data preparation tool that helps perform data analysis, preprocessing, and visualization with features to clean, transform, and prepare data faster. Data Wrangler pre-built flow templates help make data preparation quicker for data scientists and machine learning"
+    publishedDateTime: 2022-11-04T15:41:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-github-samples-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/github-samples-sagemaker.jpg"
+        width: 1549
+        height: 775
+        isCached: true
+  - title: "Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines"
+    excerpt: "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best custom machine learning (ML) models based on your data. It’s an automated machine learning (AutoML) solution that eliminates the heavy lifting of handwritten ML models that requires ML expertise. Data scientists need to only"
+    publishedDateTime: 2022-11-01T16:51:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/move-sagemaker-models-pipelines.jpg"
+        width: 1341
+        height: 672
+        isCached: true
+  - title: "Improving stability and flexibility of ML pipelines at Amazon Packaging Innovation with Amazon SageMaker Pipelines"
+    excerpt: "To delight customers and minimize packaging waste, Amazon must select the optimal packaging type for billions of packages shipped every year. If too little protection is used for a fragile item such as a coffee mug, the item will arrive damaged and Amazon risks their customer’s trust. Using too much"
+    publishedDateTime: 2022-11-03T16:11:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improving-stability-and-flexibility-of-ml-pipelines-at-amazon-packaging-innovation-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/training-1.jpg"
+        width: 714
+        height: 429
+        isCached: true
 
 secured: "wKZhkiKuZUXPsDPhMu1etiGQ6nLx5qR0Abh7bZvgcMdOfPofobCFMB8MhaRTAEfiILM9cxwAbzSWGxJzCYcvD5U06Dn4i7r4hfbSIUkISqL7ghdKz6KVUn2Pod1xLT5hunNbSQIbcr+y0+RDra85jMKrtjwtOAnYDMyJbn3ehcO1KH1S87MycKPLFalAqFJH47fGghL5HJZAD5jdlkjCj9R9zU4DMuYe/2NxfKNQMTyCVBtqN+CDxZsUul1+EDuetH2QIzCFKqTWTFJFp29lKURZvs+K8o6/ZghRBpxCfSrBh22+rBBMRStXA0IrR3Z0WUNyVOrEUCA3pJr2giMp3TdFN4CjTPnqjeDNFM4hNmqwnwbYanXnYt/D5FLUBtviucsWxWwiHB58veHRHkSGwOXA33POPjv4atcmZbrXfNyI7gzBif5rvI6h+ozz+ZokUqlh7m94oidbhI5D0jAGg0zeWr8rLRvof1NRRyDD2P938+5yNfvOi7gcyJzAvgcIrDZwEQGeA2XQxqXhTWfa7A==;Z30CZv4pAN598iA3OVQ9zg=="
 ---

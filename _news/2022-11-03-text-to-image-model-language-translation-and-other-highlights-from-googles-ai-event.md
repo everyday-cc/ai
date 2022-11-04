@@ -33,6 +33,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Epic AI Fails — A List of Failed Machine Learning Projects"
+    excerpt: "AI models are undoubtedly solving a lot of real world problems, be it in any field. Building a machine learning model that is genuinely accurate during real world applications and not only during training and testing is what matters."
+    publishedDateTime: 2022-11-04T12:55:00Z
+    webUrl: "https://analyticsindiamag.com/epic-ai-fails-a-list-of-failed-machine-learning-projects/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
 
 secured: "M8bMYZ0FBWbaNfE8OwF3Qg1lnwQuD39nNBrWEQu7eSyQ3TQzxH6bgqQqkQfU2O1N4mInnGpqZ+aiPoqc3/Nwbucibj7xiXQJnv817ydrXPlRk+FWoNnZOJundkjDQGBBtotp7KLPZhsy+o/aV1B69bR1C26S+4kwIc4V2mVfnfdIaKQ8YgV1vigD+25ue1stdScZYbpXRYJaZrAP84tedXSu+dKgKe7iprPqNmiqpRoCL7H0w3y5fPmbB2Zwx2jIjMe55au+dh85x8Luxd9b0bI+dK3k/WhA+BNVqMiTER4yjOP/CHO0ZCKZApuFl+fItyjY2jypELzvRPB5vEPKX8PgeIfx+3qARHwM1fQqgad9gt2BQAZH84C4pqdJ4R/uJ70FpZdOncSGo2VGxC0126yqR2JpJGR2HFkTVC5xkbIZEW8QsUcsMwLhSHb9/TW+uVZfaao6lGpOEK+V/FfOAKqAkNv4Sti5evbdnol94baC0eTkb1yQWgjHasrKBTz/A6qJg+iCix8mUmBAE1kukQ==;+J4bSbECZqGTCiyyKU4QzA=="
 ---

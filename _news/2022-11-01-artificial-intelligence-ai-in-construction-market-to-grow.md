@@ -63,6 +63,17 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 25
+  - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
+    publishedDateTime: 2022-11-04T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "CHI8i0/B5OTCg2YbA6iEomubK+tDEhubr+ZpPHhxoLXs9u1ngyBAj8bkN8YOb/T4IplGRJufJVOOdWfcwbdDBCUisnF6+Bc8TKj2IUndd8Dhoe4SuZ2qPBneDvFIjvLIq3zmhXRXnvi0rryRXZYtGrrbMY27pln/KcFvgMj+z3V1xvLWKywyAOClH5zgacTvYYo+5jNcIwpTJkomlXy+vkbA1HyvCVaxSovmdonOJbtuzcudevG2EpAjposq5ht42zBiM+sqY6XEwr57pJdsBAgL1f8EJbAO+hwGK+nJwhNzNPqB1Ea+EHrVWEoihO26sKff7VnaP6nPx89y03+Tmrm4Oe16j+1jjLThwVF3u8QcN/O3BwwycbyEe0rbX6r2oVzQxEnwoxAuzNTCnMApgYHjTsCJnpWfvl8TsKVSiJP/KeBPvR0xSxd1I5+FVhtq8I+wF3C35HZyxY2QS/wpecSV90/fSE4VDPX9MN/2u06sTMtxoxaIh1RFl4gUJzUMSZnzHuv21leBYAEHZKZT2g==;cD+GqCToXGFL18Tbn8gqRQ=="
 ---

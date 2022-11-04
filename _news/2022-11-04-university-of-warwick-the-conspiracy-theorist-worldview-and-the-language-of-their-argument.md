@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T07:05:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-warwick-the-conspiracy-theorist-worldview-and-the-language-of-their-argument/"
 webUrl: "https://indiaeducationdiary.in/university-of-warwick-the-conspiracy-theorist-worldview-and-the-language-of-their-argument/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: India Education Diary

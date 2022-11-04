@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T13:53:00Z
 originalUrl: "https://ifamagazine.com/article/financial-services-sector-not-walking-the-talk-on-gender-pay-gap/"
 webUrl: "https://ifamagazine.com/article/financial-services-sector-not-walking-the-talk-on-gender-pay-gap/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: IFA Magazine

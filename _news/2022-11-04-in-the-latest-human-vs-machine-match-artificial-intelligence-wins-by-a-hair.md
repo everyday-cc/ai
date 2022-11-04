@@ -51,12 +51,21 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 71
+    quality: 73
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
         width: 685
         height: 375
         isCached: true
+  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
+    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
+    publishedDateTime: 2022-11-04T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "JcqIBWKbm08mufQBl1sR4XglREa8AWtutjBaW0QISgKD81TBctNMg5fJqP0XdphPlAegUQmmeqG2OBayIqiEblCgyA4a7bEfNi0eRTQY7vBipLWICiLlt1frHuSwslhBwxyp57L2XNIHOdkBltS/4vIgtXfkdikVKHF5kAa+HyrKOl3FMkgbAGjJx9xyX9Fe2MTogkZPlZVOM6TxqBbF+7dSTuNUTM4zIoL/QTXitihTMa+iNGpe1vxFQACHtf7/Bnwk03gSpbxMEI2Q5uCDHLUFdB1QO+0V3uFB3vWpkB2DMvRfZC1nf8ZwD0NaF6K7jhn8mMUHnc/Vp3CcX5XGQuCY8qeoCbcl10Lu8+rWmtU=;BbD9TT+xNrSREJWFuYn40w=="
 ---

@@ -20,6 +20,17 @@ topics:
   - AI
   - AI in Finance
 
+related:
+  - title: "SoundHound and HARMAN Join Forces to Deliver an Effortless Conversational Voice AI Experience to Auto Customers"
+    excerpt: "SoundHound will draw on its knowledge of automotive voice technology to deliver advanced speech recognition software to the HARMAN Ignite Store, a leading connected vehicle platform which enables automakers to develop, manage and operate their own in ..."
+    publishedDateTime: 2022-11-03T13:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20221103005621/en/SoundHound-and-HARMAN-Join-Forces-to-Deliver-an-Effortless-Conversational-Voice-AI-Experience-to-Auto-Customers  "
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
+
 secured: "rq2LuFKcvnj6b/y6BS7hIE51pserDDlchHC3rE22qXjVt/CQsoMAz5QNjigDSTiJExH4ek+dAJ6Hdd+BQ4hieBJfHCeTjH26JPi0nAVhoW0WgULJ573levjWU+kdsbejDJQ5fYkvfKyq/62P1aiZEcPHyu9LiRntJmTs3rfTgE484qn4WCWeh2qVEFk7ctyc26dsb8vw1Vfgc3S4oyOgtgjTkV4AScbUdqZGK5ZUsHSECoATn9+0CLuLjUnFwaEEmKEeh1gkZH5q1E7UKPPNtTpe8qgXDWfwLNpqBz7SszaAUjVMlkZTA+VxdNe4poZorRlTCRuy+G3S64ziPxQS5KcDuXnCFjSjNcYkxrRg3Rg=;BFRo41QgRIr7HRpTtQdd1g=="
 ---
 

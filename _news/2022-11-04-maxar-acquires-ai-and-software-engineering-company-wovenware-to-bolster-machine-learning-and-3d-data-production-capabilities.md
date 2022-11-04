@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T20:02:00Z
 originalUrl: "https://apnews.com/article/technology-business-puerto-rico-artificial-intelligence-539546894d504f66bbebae9b48d00a8e"
 webUrl: "https://apnews.com/article/technology-business-puerto-rico-artificial-intelligence-539546894d504f66bbebae9b48d00a8e"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Associated Press

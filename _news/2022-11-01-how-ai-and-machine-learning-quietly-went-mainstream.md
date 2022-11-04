@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -42,7 +42,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 71
+    quality: 73
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
         width: 685
@@ -57,6 +57,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 65
+  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
+    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
+    publishedDateTime: 2022-11-04T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "UvifSXSMPzPTb1J72F62kco/dsT1bEX7Mp6rQPi+hj32xhsVyU7blrvLh9tvYYhYq8y4ZZrhlxWenEyKmNEr1iX2u4wGbbVW+tXPKy44cxYx81+9o/tduLsbHORsA9Q0HLL6xg7ykz6VZKQk0I+TzSk6qKOLwV15wrwfhAg2EnAiCyHkr4uoxOy8FDt38To0PvN1H5C8DeEPVQij+4aqBbqxsdsRajzzUPX6R6lnPhuAwnyZnB+yek/c5KgMA3EnpPo1RDiGITfGWyEg5eTCvPmafzXbs1tCHZtztLKUk9e8Nf3FbY+T2n9JzP6C5ET/n0+E+Ni9bMplWhLX0CaMpsUBKjWmGo4YGnlLOE0iXq4fCUTwYOx+Doy512jYsDJ2zUw1y00+ASpmnlwugvLIFi5lU/FABjeL2stTbLF7u1tb1E+Cg6ldaY1n7MdWNlMcVWfQzOR1FyE67eYjXp5AHno+Lqdl8plTSMZQJKavBXhanNNomqyYR5atklsWXA3+KnpayGWyhTRyvmEOzbG/eA==;7CuP6b1xAq25CNg+Dw52fg=="
 ---

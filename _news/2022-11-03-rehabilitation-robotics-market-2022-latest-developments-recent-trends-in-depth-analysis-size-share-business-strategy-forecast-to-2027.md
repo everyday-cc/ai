@@ -102,6 +102,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
+    excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
+    publishedDateTime: 2022-11-04T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-size-2022-segmented-by-material-type-end-user-swot-analysis-trends-and-forecasts-2029-with-top-growth-companies-2022-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "0R2SqG75/f3ZCoMEf5j5NvyhGAz0nB0rEN90O6DrrMiESkvl0QnrAc1SyU4FVn7HoE20qwLympbw+ET0hmSU6m9UYiC2dFshxAqZNTuvQnZNVI1nyidhlYmquIyoofnZk8fd8EHawnLmq8FN9PX3GltRbz0Yt7Uj83MgryGXy/txoLkhLsrCzLSqD2uTBtHaTGuTby9qThgoFtLqckwoeZQIfe3qyGA7DShRd1BTRzeBxSaNnTCt0nXGm4qOKTaF6VLQwgdngPrCQLPnfQyfcEbEUcvnZ+SndM0RmTE6pXRW7CXdF8oSmnH76es8lMhgMKA26r7+Nv+ZmqxQ3/GKkyRPOHOco1Y4qKUX5qQM9J4=;zypMTCGgAgtJQ5tt3OYK4A=="
 ---

@@ -47,16 +47,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 29
-  - title: "Artificial intelligence-based method may help predict early-stage melanoma recurrence"
-    excerpt: "Most deaths from melanoma-;the most lethal form of skin cancer-;occur in patients who were initially diagnosed with early-stage melanoma and then later experienced a recurrence that is typically not detected until it has spread or metastasized."
-    publishedDateTime: 2022-10-31T17:57:00Z
-    webUrl: "https://www.news-medical.net/news/20221031/Artificial-intelligence-based-method-may-help-predict-early-stage-melanoma-recurrence.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 12
+    quality: 31
 
 secured: "LAs56M15DszmlbrpzGbUudD4RVBiDhJEOIQ2ZunkausWs+RJG1IRlKq1KpPdGflOyi9fftSEvo7DAJAd/zbLPZnjmPf5oUH1qi15spfL0kJuzFCl6GFNGOqy/zs0iO8j6DoyrVFeCjna0rho54RL3rej0jF2HEw//BKPtIOWpCIletQNwQ3NL2llq3rkEDca3D64ww+3+Qz9StwOjG2YSTO/JcGTjCM2579Zab68urdyYIGxxFmKrlBO1OjWBBhfTghmD6Ka3b0ty1o4mJM5JxRLtKHtoUA0XDFxCMt+WiXGMxXXCZF/VOi90A75MAQcv12TKz6I2K4vCnZ472JBuHuc1ABrvNnQ23HDysWpspw=;eG0l+u8UJ1oU3snL2Y2y5Q=="
 ---

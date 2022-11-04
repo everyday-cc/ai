@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 812
         isCached: true
+  - title: "IBM Unveils Software Suite, OpenAI Startup Fund Pledges $100M, More News"
+    excerpt: "Company officials said that along with IBM Planning Analytics with Watson and IBM Cognos Analytics with Watson ... general manager of data, AI and automation for IBM, said in a statement. \"But to truly be data-driven, organizations need to be able to ..."
+    publishedDateTime: 2022-11-04T13:37:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/ibm-unveils-software-suite-openai-startup-fund-pledges-100m-more-news/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/ibm-unveils-software-suite-openai-startup-fund-pledges-100m-more-news/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/ibm-unveils-software-suite-openai-startup-fund-pledges-100m-more-news/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 58
+    images:
+      - url: "https://www.cmswire.com/-/media/6d901154dbc74b268d0d79aad629f43a.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "LZlKS0WoCCpFMXby4G1jwM0KvxATxord9skMoEQP4mg10UYkahntePXD+A+WEB2IN4N+SwvGIDMairgvWoaTEd9nGSSA0Ob2exQIcZhp6p6NrDWGIQ/L5Rzbn1nWlWbD5RrCPpjrTqJlbm/8QZnjvN0EpJpnw206wPlKk6/o+8m7wvgWmDyISosV3eyxB1uOwdhooAvtHzoDuACMuY1RsLOr495ekiupeIm8wLALPlOrbJhDeMPxL5+AwFUclG9d+dUW8wy6aVR29Ei3kQht3//4zJK9/v8mGKyS6kc6ez2kXwUDWgEKHMAdXp8im53IbmZdhfG/aJCY/WZO73GTZJhgVHcfxCecAzJ08mYuK4/9tzzBYxvmo2bnGNL/jY+lgD8pKUCpLzpDgEBgWH/wbmP/A5HNOq/tj+IOFXvZ8VZ6e2CWcsgvH/jFjWpR+x7Gd4zB0ZJJtjcQyqo0UqwIDv6ge0vAi1GguOT5QuNhjsb6Nh9nY22gH+DH8sPuBVGmOoIYVCUMUivZm2t0/nbR3A==;5tnhjRvHMXm6iFt6dOb6QQ=="
 ---

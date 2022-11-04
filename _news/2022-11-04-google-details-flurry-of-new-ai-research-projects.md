@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Epic AI Fails — A List of Failed Machine Learning Projects"
+    excerpt: "AI models are undoubtedly solving a lot of real world problems, be it in any field. Building a machine learning model that is genuinely accurate during real world applications and not only during training and testing is what matters."
+    publishedDateTime: 2022-11-04T12:55:00Z
+    webUrl: "https://analyticsindiamag.com/epic-ai-fails-a-list-of-failed-machine-learning-projects/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
   - title: "Text-to-Image Model, Language Translation and Other Highlights from Google’s AI Event"
     excerpt: "Google hosted its first AI@ event to showcase its latest work in AI. The event focused on new developments as well as early researches from Google AI and research teams in areas of climate change, natural language understanding,"
     publishedDateTime: 2022-11-03T12:33:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T13:00:00Z
 originalUrl: "https://insidehpc.com/2022/11/recent-results-show-hbm-can-make-cpus-the-desired-platform-for-ai-and-hpc/"
 webUrl: "https://insidehpc.com/2022/11/recent-results-show-hbm-can-make-cpus-the-desired-platform-for-ai-and-hpc/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: insideHPC

@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "Transfer learning for TensorFlow object detection models in Amazon SageMaker"
+    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
+    publishedDateTime: 2022-11-04T15:28:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 120
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg"
+        width: 1550
+        height: 774
+        isCached: true
+  - title: "Transfer learning for TensorFlow text classification models in Amazon SageMaker"
+    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
+    publishedDateTime: 2022-11-04T15:24:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-text-classification-models-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 119
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-text-models-sagemaker.jpg"
+        width: 1550
+        height: 774
+        isCached: true
   - title: "Cost efficient ML inference with multi-framework models on Amazon SageMaker "
     excerpt: "Machine learning (ML) has proven to be one of the most successful and widespread applications of technology, affecting a wide range of industries and impacting billions of users every day. With this rapid adoption of ML into every industry, companies are facing challenges in supporting low-latency predictions"
     publishedDateTime: 2022-10-31T20:33:07Z
@@ -72,6 +100,20 @@ related:
         width: 1344
         height: 673
         isCached: true
+  - title: "Use Github Samples with Amazon SageMaker Data Wrangler"
+    excerpt: "Amazon SageMaker Data Wrangler is a UI-based data preparation tool that helps perform data analysis, preprocessing, and visualization with features to clean, transform, and prepare data faster. Data Wrangler pre-built flow templates help make data preparation quicker for data scientists and machine learning"
+    publishedDateTime: 2022-11-04T15:41:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-github-samples-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/github-samples-sagemaker.jpg"
+        width: 1549
+        height: 775
+        isCached: true
   - title: "Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines"
     excerpt: "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best custom machine learning (ML) models based on your data. It’s an automated machine learning (AutoML) solution that eliminates the heavy lifting of handwritten ML models that requires ML expertise. Data scientists need to only"
     publishedDateTime: 2022-11-01T16:51:41Z
@@ -85,6 +127,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/move-sagemaker-models-pipelines.jpg"
         width: 1341
         height: 672
+        isCached: true
+  - title: "Intel's new Data Center GPU Flex Series now supports TensorFlow acceleration"
+    excerpt: "Intel adds its new Data Center GPU Flex Series to Pluggable Devices, something Intel is calling Intel Extension for TensorFlow, available right now."
+    publishedDateTime: 2022-10-31T03:11:00Z
+    webUrl: "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 70
+    images:
+      - url: "https://static.tweaktown.com/news/8/9/89240_03_intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.jpg"
+        width: 620
+        height: 348
         isCached: true
 
 secured: "Ac033YL4CBkmjoZHmSsCVMaDc3hWK7lvzo7XFO6j1rWfYw/k0nNUrKC4c4exschLNk/sr5l4c8vOmNz/pFV2KzWVd/zjPPVPA0MkPNrFpZW+oDn1vZmITVfo1Vnsoa5ptKhX5TOjlFYPz3+w5gduhqmlFtog+XSnZpEMVTEZbsLrqcWwuM3JHrYfVu8CzdfoKMdam2Fm4EhBOgtqdJ/tbic9/Mnh9CZ+hnKiA+Knw+twrBi1LCTWNypq0a1JSCUkBDXnjAwU0mH/iij79xblh6x8e87oz7iefVDvghTNH6UWPKwffuksNe/gPC529ldApUouadgrmane3ycxXYw1zDbfGfVkji5HiADPkWYPNBU=;kM98smrnTuzChzzhtNu08Q=="

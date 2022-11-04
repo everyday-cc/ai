@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intellige
 ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
@@ -52,6 +53,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 65
+  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
+    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
+    publishedDateTime: 2022-11-04T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "U33Q4ired5JbEYj+PqleFy9+FJwzqFB6E3KQCTmmAYvwChTCKQoHqvLJuzjTvSWu0NHst6YyEXOIesnZ79VryhM45DkHbAifSNwn4Hz/aTLOoxAuwQSjK0Gqt7i4R3D39HI1hcRczK0T9HJyPKZuLAmzC6MGcypPMocDRo7wcAf7id7LDj8M9iJDU+qirYorAwXzIO6KGW5GL67m7/nA4hnC5/cXb4FlV26XmHgDRvmhlMXjC2UmpR1L0IGdKxpco4pquPZWnMEGGGYnR01qU7ejjNm3GT+g0m5zDD8WWUwfJsv7DsFdsh00OA8b9qJR+wKroORpC4lS/XVYrxePqsEwUCJQdCJKnq9eMj/ELyAH8+KTo5QMBPJ+laSbP5a9dqn5ENKj+LuN+QCaJTyarvJqEHqF83DunmDdsg5RHH2ZNL0pcIhPTORWowrOKTAu7SiwhYjzoTVjC6du+Es9sOq6vOoHoFPHrpA7RlW/w4Gsjovx3OX8tqNbDSQBgRQyXxMziyGHkWEicUp4LH75eA==;TMo8AtJPkllcU6e+iKn/Jw=="
 ---

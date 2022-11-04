@@ -28,8 +28,8 @@ images:
 
 related:
   - title: "Colovore Announces New 9MW, Liquid-Cooled AI Data Center in Santa Clara"
-    excerpt: "Offers the highest I.T. scalability, lowest TCO, and lowest PUE in Silicon Valley Colocation Colovore, provider of the most efficient and scalable colocation solutions in the Bay Area, today announced"
-    publishedDateTime: 2022-11-03T18:56:00Z
+    excerpt: "The modern servers underlying these applications require 10-20x the amount of power and cooling to operate reliably versus just ten years ago, driven principally by advances at the CPU and GPU processing level. Today, AI and HPC servers routinely draw 1kW ..."
+    publishedDateTime: 2022-11-03T18:58:00Z
     webUrl: "https://www.benzinga.com/pressreleases/22/11/b29554211/colovore-announces-new-9mw-liquid-cooled-ai-data-center-in-santa-clara"
     ampWebUrl: "https://www.benzinga.com/amp/content/29554211"
     cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29554211"

@@ -34,15 +34,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Picsart Adds AI-Powered Image Generation And Copywriting Tools"
-    excerpt: "Picsart, the Miami-based creative platform, has integrated AI technology to its app, adding generative tools for images and copy"
-    publishedDateTime: 2022-11-02T18:55:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/02/picsart-adds-ai-powered-image-generation-and-copywriting-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting"
     excerpt: "Co-led by Insight Partners and CMFG Ventures, this investment from new and existing investors will support Zest AI's next phase of growth in the"
     publishedDateTime: 2022-11-02T13:08:00Z

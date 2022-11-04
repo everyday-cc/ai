@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T13:06:00Z
 originalUrl: "https://techcrunch.com/2022/11/02/orum-raises-22m-to-inject-ai-into-the-sales-prospecting-process/"
 webUrl: "https://techcrunch.com/2022/11/02/orum-raises-22m-to-inject-ai-into-the-sales-prospecting-process/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

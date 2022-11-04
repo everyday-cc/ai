@@ -43,6 +43,15 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Mayo Clinic Expands Artificial Intelligence-Enabled Diagnostics Partnership"
+    excerpt: "Mayo Clinic and Numares Health have expanded their collaboration to develop artificial intelligence-based diagnostic testing for patients with chronic diseases."
+    publishedDateTime: 2022-11-04T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-expands-artificial-intelligence-enabled-diagnostics-partnership"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 17
 
 secured: "gJsfzDs9KCjp55lCSgXIZC5vkyHlrGbzFxXjta+GU3Ixm1+kRSisZ+vL6+yKQ6dFojwME/XharkrsMNQHNmh0h80hhv30mrOW8gCGcCnWjQLTJZLYUiVQ8tDb+dkM/h4E/+BUJe7mdI2vylYv/xWhhI4j3qzvmV5nAxd3B8ec5xXth3wOccznAGTA78DBjohQJ3glGfbnNeyQqi2pNbcKtv21LB2BxACgwJ6YzACXAchao04CmzoVPUNjWMe8ZGaSquKoUS6j4itbdQGdmTnyP8QoSjxuecp4QAV1alKopoUnTgpBLArSfA0DriXqJc0zgjB1AcQVuYia5DBnFxESwmx90WtF61x6Qqw+mPfw68=;vVvKdeDvjBLoXILpFcmLmQ=="
 ---

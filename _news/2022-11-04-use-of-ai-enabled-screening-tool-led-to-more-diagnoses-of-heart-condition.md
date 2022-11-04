@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/use-of-ai-enabled-screening-t
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/use-of-ai-enabled-screening-tool-led-to-more-diagnoses-of-heart-condition"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Analytics
@@ -43,6 +43,15 @@ related:
         width: 1834
         height: 1920
         isCached: true
+  - title: "Mayo Clinic Expands Artificial Intelligence-Enabled Diagnostics Partnership"
+    excerpt: "Mayo Clinic and Numares Health have expanded their collaboration to develop artificial intelligence-based diagnostic testing for patients with chronic diseases."
+    publishedDateTime: 2022-11-04T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-expands-artificial-intelligence-enabled-diagnostics-partnership"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 17
 
 secured: "sG05AfePtu3//hW/V53QzCGwyD6/48YRwyF6tt/vHzD8rZO8LlPVU8v7bi0yVFpJoKqqVXwQWeHhgkwBsisw1FjiqQl8tntFUnB60UAtTS+nIhHGWvftqHLrqF98mCmdrIkNdw0jGtUiVA4aqjk3bZP5tu0fHtCnvhzU1QY4tsw3Q9GAfgmYKga79uTxumtuHXum6fTGMYKjcRLWV3UzpWyMXcCakI6eoQBjLehRxt9f+RiJykDWw9CZLXZdWF7C/3JCxznexcXhYuNIpcanlDRjBqLqyitHKk5gfBma1jTnvXyFIRA7YZxiuDSiBuL/CbhnX9wUBt44SXixc1Mj0pGzOYv0uLCi4dRUoi6HOp0=;zkXJVMlAtzuCYwWvsz7QXg=="
 ---
