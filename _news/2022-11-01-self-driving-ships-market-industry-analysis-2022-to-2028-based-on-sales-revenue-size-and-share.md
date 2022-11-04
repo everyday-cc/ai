@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-ships-marke
 webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing for Finance Market 2022 : Trend Analysis, Competitive Outlook of Top Industry Players and Future Expansion by 2028"
+    excerpt: "Nov 03, 2022 (The Expresswire) -- \"Natural Language Processing for Finance Market\" Research Report gives detailed facts with consideration to market"
+    publishedDateTime: 2022-11-04T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-2022-trend-analysis-competitive-outlook-of-top-industry-players-and-future-expansion-by-2028-2022-11-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Video gaming may be associated with better cognitive performance in children"
-excerpt: "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ..."
-publishedDateTime: 2022-10-24T15:08:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
-webUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp"
+excerpt: "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ..."
+publishedDateTime: 2022-10-24T00:00:00Z
+originalUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
+webUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
+ampWebUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/child-gaming.jpg"
-    width: 2880
-    height: 1917
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280"
+    width: 1280
+    height: 782
     isCached: true
 
-secured: "+X9aCY/QTCNvpVRiK2a+C4SaCou44AZax4StJkeEw7Vu7HseYTja2UqLy3RF6rewiJyZvqQ03ssRV8c6iUGqNpi2zTHOvnEVsFYieMA46yrp0PwBNOL8CIz7HoN/O161OcSeMiDZDqEVIstRyUBx/SuIjFB+y8XoA1WaaXieujJ6OdR1y/9RbqK9Ghdw5FbfRZ/KYjFU5GZ6qgbOcWv+gU0m3LPFhz2TXntdwDH7n4G/H2ffo8sEtnsVdN7HYmnkol/BGuzHTHQ53D2IP0zj8TftFATFpE+6gDcP2hiFLcj6WTuLIRc8oOKuuHXfvGn9paSQ96utKVrPRRAmatvUy8k5VWfwZCUSo9ijjfBNo1I=;O7aiatpD0guMg01UdpPPNw=="
+secured: "59DQmyE2o8Xbm2eZL0I+gzXpSCTA0qmJVE0OeKtAWJD2Y8AXTz9/cDn4hf+l2iYjJoPV4awi4xZucyxixrU0tLpfPvJ8yYs1D+wWDXnkA8YFYbPnrbnN9Y2XWXHLQXjvM+3JUyT0W9GtoiDSXbkTrQQesEjEslcBLgEiZIA8l1sekEpR70p2SJI9OycSHSEdyH2lxJ5tFf29jIUmkEe6ud/Bj4rjRKlzq0XIxKxZaSz4oLtTYKrG8oZ3jufhuWlwx1Tbdq8XOd85VV1anwBKhBTnl4DUw/iD+8xXc8pWiIjdbv7Z7z0oOoewEngWIEA/bZT+8NqegvdR8ppIw2mlFE8j5brIbfn6dewP4sGcc2U=;CtFSKB2q/HifQhNGUKpkag=="
 ---
 

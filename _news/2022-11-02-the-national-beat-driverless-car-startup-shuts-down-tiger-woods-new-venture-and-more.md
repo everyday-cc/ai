@@ -20,20 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "First cross-country driverless trains to operate on HS2"
-    excerpt: "HS2 signed a £2bn contract with manufacturers Hitachi and Alstom in December to build trains for the network Credit: HS2 via PA HS2 passengers will travel in the first driverless trains on a ..."
-    publishedDateTime: 2022-10-30T13:12:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2022/10/30/first-cross-country-driverless-trains-operate-hs2/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 54
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2022/10/30/TELEMMGLPICT000280222344_trans_NvBQzQNjv4BqyuLFFzXshuGqnr8zPdDWXhbQKbwj1ZsnNMhuR7O6ySI.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
     excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
     publishedDateTime: 2022-11-01T09:49:00Z

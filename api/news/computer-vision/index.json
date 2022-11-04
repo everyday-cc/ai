@@ -281,19 +281,53 @@
     {
       "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
       "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
-      "excerpt": "In the past few years, computer vision AI models have surpassed human-level performance across image classification, detection, and other tasks in the lab. However, models often fail to work as ...",
+      "excerpt": "The LatticeFlow platform was built to automate the process of solving data quality and blind spot issues in computer vision AI models, critical to enabling model performance in the wild. Data ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
-      "originalUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
+      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
+      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/bd/7bd4c58c-f9a8-5e72-b4e2-08b7e1ee9324/635b9083a776d.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
-          "width": 960,
-          "height": 504,
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
+          "width": 3278,
+          "height": 2458,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -303,11 +337,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T01:25:00-07:00",
+      "publishedDateTime": "2022-10-27T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Hackaday",
+        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1356,58 +1390,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-5g-will-advance-payments-and-mobile-commerce.md",
-      "title": "5G will advance payments and mobile commerce",
-      "excerpt": "G technology could bring about positive changes to the retail industry, as retailers seek to maintain their digital transformation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "originalUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f45112889aff80028ab7b48?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "publishedDateTime": "2022-10-19T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

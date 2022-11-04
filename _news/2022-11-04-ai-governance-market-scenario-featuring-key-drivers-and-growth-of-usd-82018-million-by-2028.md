@@ -1,0 +1,70 @@
+---
+category: news
+title: "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028"
+excerpt: "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028."
+publishedDateTime: 2022-11-04T07:38:00Z
+originalUrl: "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/"
+webUrl: "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/"
+ampWebUrl: "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/"
+cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/"
+type: article
+quality: 48
+heat: -1
+published: false
+
+provider:
+  name: Impacts
+  domain: techbullion.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2022/11/AI-Governance-Market.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence in Security Market to grow by"
+    excerpt: "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe."
+    publishedDateTime: 2022-11-02T10:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market to Grow"
+    excerpt: "The artificial intelligence (AI) in construction market is expected to grow by USD 2.32 billion during 2021-2026. In addition, the growth momentum of the market will accelerate at a CAGR of 29.81% during the forecast period,"
+    publishedDateTime: 2022-11-01T07:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-construction-market-grow-usd-232-/2022/11/01/9702840.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1932378/market_research_report.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Facial Recognition Market Will Play a Significant Role in the Future of Security and Surveillance"
+    excerpt: "As per the report published by Fior Markets, the global facial recognition market is expected to grow from USD 4.2 billion in 2020 and reach USD 12.84 billion by 2028, growing at a CAGR of 15% during the forecast period 2021-2028."
+    publishedDateTime: 2022-10-31T12:50:00Z
+    webUrl: "https://techbullion.com/facial-recognition-market-will-play-a-significant-role-in-the-future-of-security-and-surveillance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+
+secured: "DhvjYFCoxZuBcOqWVgGOJLAhq5qSyAWCrTOOKZPf39qVJrhp8Ry/yhsMJEKG9nHE8YQyrL5wY2AYqJ7nui2hnIoGVLaiaivgoFBbbtMLEyB83IYTUh611fsp3ww9DW3KVj4sR4sQ97OIS0ZVLhdwMuhW+HsXc0YV93Z9mSHr+TzsssBj0TqkmZlYsfq0Q18CBZsv65ddljYu2r9jl39/IL33wVphsrIlGvv31DsfPgNxOG5K9KLGcs3ju15zA+4nmJwQTIzGSbc98ctM9am3bWA2G99wVB/4rQcav9FOxuMKdIfZRsPF8lOblJfQk0TeXmaTapE40i3rY1NZehqnj1eBM+zwf6Hjobyvgxc7ico=;/h/S9frULE1X1mVYXBg5fg=="
+---
+

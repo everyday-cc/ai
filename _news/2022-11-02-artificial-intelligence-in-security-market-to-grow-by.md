@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-m
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://mma.prnewswire.com/media/1932378/market_research_report.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028"
+    excerpt: "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028."
+    publishedDateTime: 2022-11-04T07:38:00Z
+    webUrl: "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/"
+    ampWebUrl: "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/AI-Governance-Market.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Facial Recognition Market Will Play a Significant Role in the Future of Security and Surveillance"
     excerpt: "As per the report published by Fior Markets, the global facial recognition market is expected to grow from USD 4.2 billion in 2020 and reach USD 12.84 billion by 2028, growing at a CAGR of 15% during the forecast period 2021-2028."

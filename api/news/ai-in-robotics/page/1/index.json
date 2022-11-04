@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-04-fugro-opens-space-robotics-and-ai-facility-in-australia.md",
+      "title": "Fugro Opens Space Robotics And AI Facility In Australia",
+      "excerpt": "Fugro opens space robotics and AI facility in Australia . November 3, 2022 by . Fugro has officially opened the Australian , better known as S",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105128133/Fugro-Opens-Space-Robotics-And-AI-Facility-In-Australia",
+      "originalUrl": "https://menafn.com/1105128133/Fugro-Opens-Space-Robotics-And-AI-Facility-In-Australia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-11/03/R&AN_e0f63image_story.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
       "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
       "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
@@ -1387,49 +1430,6 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-new-flexible-steerable-device-placed-in-live-brains-by-minimally-invasive-robot.md",
-      "title": "New flexible, steerable device placed in live brains by minimally invasive robot",
-      "excerpt": "Imperial College London scientists have successfully placed a bioinspired steerable catheter into the brain of an animal for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-flexible-steerable.jpg",
-          "width": 1934,
-          "height": 1894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
-      "publishedDateTime": "2022-10-21T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

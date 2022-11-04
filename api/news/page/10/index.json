@@ -2,6 +2,102 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-24-lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network.md",
+      "title": "Lunit partners with SEHA to test AI-based radiology via UAE's largest healthcare network",
+      "excerpt": "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this year SEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ -- Lunit (KRX: 328130.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
+      "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
+      "excerpt": "Aetina has launched new embedded MXM GPU modules powered by the NVIDIA® RTX™ family, including RTX A1000, RTX A2000, and RTX A4500. These NVIDIA Ampere",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29371511",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371511",
+      "publishedDateTime": "2022-10-23T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-children-may-get-a-cognitive-boost-from-playing-video-games.md",
       "title": "Children may get a cognitive boost from playing video games",
       "excerpt": "A compelling new study published in JAMA Network Open suggests there may be some cognitive benefits associated with playing video games. The research looked at around 2,000 children and found ...",
@@ -136,6 +232,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
+      "title": "Video gaming may be associated with better cognitive performance in children",
+      "excerpt": "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
+      "originalUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "publishedDateTime": "2022-10-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1012,144 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-clinical-trials-using-new-cancer-imaging-and-treatment-technology-start-soon-in-ns.md",
-      "title": "Clinical trials using new cancer imaging and treatment technology start soon in N.S.",
-      "excerpt": "It uses artificial intelligence combined with radiation therapy to target tumours with more precision. He said he expects the therapy will result in shorter wait times and result in fewer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
-      "originalUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6619689.1666046131!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ethos-cancer-treatment.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6619681",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6619681",
-      "publishedDateTime": "2022-10-21T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-google-in-talks-to-invest-200-million-into-ai-startup.md",
-      "title": "Google in Talks to Invest $200 million Into AI Startup",
-      "excerpt": "Alphabet’s Google is in talks to invest at least $200 million into artificial intelligence startup Cohere, in another sign of the escalating arms race among large technology companies in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
-      "originalUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-649470/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-100-most-wanted-holiday-gifts-why-the-irobot-roomba-j7-is-the-best-robot-vacuum-to-gift-this-year.md",
-      "title": "100 Most Wanted Holiday Gifts: Why the iRobot Roomba j7+ is the best robot vacuum to gift this year",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/100-most-wanted-holiday-gifts-irobot-roomba-j7-robot-vacuum/",
-      "originalUrl": "https://www.cbsnews.com/essentials/100-most-wanted-holiday-gifts-irobot-roomba-j7-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/21/33e76c7e-4966-40cc-922d-004479797a70/thumbnail/1200x630/773971e2e4152ee5364d74db78d44e06/cbsn-essentials-holiday-100-2022-irobot-roomba-option1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/100-most-wanted-holiday-gifts-irobot-roomba-j7-robot-vacuum/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/100-most-wanted-holiday-gifts-irobot-roomba-j7-robot-vacuum/",
-      "publishedDateTime": "2022-10-21T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
