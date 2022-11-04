@@ -31,6 +31,20 @@ related:
     quality: 57
   - title: "SiMa.ai Welcomes Industry Leader Harald Kroeger to Scale its Business in the Automotive Market"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced the appointment of esteemed automotive industry executive Harald (Harry) Kroeger as its President of Automotive Business and to the SiMa."
+    publishedDateTime: 2022-11-04T05:20:00Z
+    webUrl: "https://www.businesswireindia.com/simaai-welcomes-industry-leader-harald-kroeger-to-scale-its-business-in-the-automotive-market-81579.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 27
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81579.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SiMa.ai Welcomes Industry Leader Harald Kroeger to Scale its Business in the Automotive Market"
+    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced the appointment of esteemed automotive industry executive Harald (Harry) Kroeger as its President of Automotive Business and to the SiMa."
     publishedDateTime: 2022-11-03T13:32:00Z
     webUrl: "https://www.design-reuse.com/news/52950/sima-ai-harald-kroeger-automotive.html"
     type: article

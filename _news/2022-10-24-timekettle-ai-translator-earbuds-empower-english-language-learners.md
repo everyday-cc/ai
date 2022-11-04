@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Timekettle AI Translator Earbuds Empower English Language Learners"
-excerpt: "OTTUMWA, Iowa, Oct. 24, 2022 /PRNewswire/ -- Tech company Timekettle was recently invited to attend the Ottumwa Community School District Board Meeting in the U.S of Iowa to showcase its ..."
-publishedDateTime: 2022-10-24T08:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-english-language-learners-1031827735"
-webUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-english-language-learners-1031827735"
+excerpt: "The language barrier is a common challenge faced ... simultaneous interpretation, and AI translation. Currently, there are hundreds of WT2 Edge in use in the Ottumwa school district."
+publishedDateTime: 2022-10-24T09:01:00Z
+originalUrl: "https://www.asiaone.com/business/timekettle-ai-translator-earbuds-empower-english-language-learners"
+webUrl: "https://www.asiaone.com/business/timekettle-ai-translator-earbuds-empower-english-language-learners"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1927562/Co_founder_Timekettle_Alex_Qin_students_wearing_translator_earbuds_Ottumwa_School.jpg"
-    width: 400
-    height: 267
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/Co_founder_Timekettle_Alex_Qin_students_wearing_translator_earbuds_Ottumwa_School.jpg?h=252f27fa&itok=EQeHvo5r"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "I354D9QZuXRtMQ0VRyXlVuYywi983UoZ4KrwqkAc1C0x5LkyyH6erRvyx9mjbhA6EXiUKOcZhBcfg2eXzpOOJgAnMQvSKYDym9yCrINkTGW7WuDfz3kW5bZlw9/ask8y1DBRSxAkrWSxJ9qlSs9anaxDo1QQ4d6HD13JFyKdKX4eRJVBNtS1NqXaCBHjzUTNt8WdjXxvjqc2ZkHreDCLGNvZfbvuwWgFRbKmo0QATj7vF8VHk02pDWQvbYOi5TcJ5uOzH1/65c2AXrlZMA363q67JSw3F+2KyRUcZkOox79O8JhKi0jOLJEsk3XXsDBh72/s/AQGnjqj+VnMDEAC0oRYFtWyC8Lw5XC+tPFGdBE=;lL1ydCzyEcZY18f+3lXJ4g=="
+secured: "w1jRTnAiMj4NsNTIp7FjGyBuCCsQLVzEn+yeOgIH1OygMvDigEbWLFKqWSv1GKNiglCLHDJsC03nL2QvJHXDRTlI2LrLs7kESPKC2CFD7xO6LFVpwGhMFjIRuW80eyUOgdmizvvAHg7beFO9TXjMB+uC6RlLSp9p/vXMQ0YnubDMwxI38HNGFgqkqzUQPmif2pEjNE7ddmYLtL07wOKYaHJgKbtdxyokL1nHqVxVHKpS8+F8D8as0oiExhh5xz/wuFha+Wg+I4SFNoscSAlTsSYkPQBaCrAbdhrcZy2t9uEkgsTF5A+VxwmI759iTuy6OBWd5msCAJ0VUc+tOjSxNgMxrx3tphVXR8a5dYYj0z0=;VO1rg7kiY7y2f8D5+PoUdQ=="
 ---
 

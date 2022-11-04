@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial intelligence–based model predicts patients’ risk of acute kidney injury"
+    excerpt: "Investigators recently developed and validated an artificial intelligence–based model that can help clinicians predict which patients in the intensive care unit are most likely to develop acute kidney injury."
+    publishedDateTime: 2022-11-02T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/969668"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
   - title: "Artificial intelligence–based algorithm predicts major adverse kidney events after hospitalization"
     excerpt: "Researchers have developed and validated an artificial intelligence–based algorithm to predict hospitalized patients’ risk of major adverse kidney events after discharge. • Results from the study will be presented at ASN Kidney Week 2022 November 3–November 6."
     publishedDateTime: 2022-11-02T23:59:00Z
