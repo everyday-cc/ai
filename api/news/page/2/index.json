@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-02-this-video-ai-startup-aims-to-be-a-global-success-story-from-india.md",
+      "title": "This Video AI Startup Aims To Be A Global Success Story From India",
+      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. It was when Vikram Gupta discovered that video AI (artificial intelligence for video surveillance) could become a game-changer in different industry verticals that Awiros ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/this-video-ai-startup-aims-to-be-a-global-success-story/438346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1667384039-Untitleddesign-2022-11-02T154257643.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-tesla-reluctantly-gave-full-self-driving-beta-demo-to-dmv-and-critics.md",
       "title": "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics",
       "excerpt": "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present.",
@@ -462,7 +514,7 @@
       "originalUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -569,7 +621,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -621,7 +673,7 @@
       "originalUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -673,7 +725,7 @@
       "originalUrl": "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1074,7 +1126,7 @@
       "originalUrl": "https://venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1125,7 +1177,7 @@
       "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1176,7 +1228,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1200,57 +1252,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-sony-a7r-v-hands-on-sonys-high-resolution-shooter-adds-ai-smarts.md",
-      "title": "Sony a7R V Hands-On: Sony's High-Resolution Shooter Adds AI Smarts",
-      "excerpt": "We took the Sony a7R V out for a photowalk along Manhattan's photogenic High Line to see what the high-res camera could do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/sony-a7r-v-hands-on-sonys-high-resolution-shooter-adds-ai-smarts",
-      "originalUrl": "https://www.pcmag.com/news/sony-a7r-v-hands-on-sonys-high-resolution-shooter-adds-ai-smarts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02qxtVGsyR6RJI5nLgxiEuq-1.fit_lim.size_1200x630.v1666985294.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

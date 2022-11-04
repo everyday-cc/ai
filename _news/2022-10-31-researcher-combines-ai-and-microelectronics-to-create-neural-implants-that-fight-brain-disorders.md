@@ -65,7 +65,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 48
+    quality: 50
   - title: "Do AI Models Really Understand The Human Brain?"
     excerpt: "Day after day, the computer is becoming intelligent like humans and may likely surpass us. But the idea of AI models perceiving human perception seems like a tricky business"
     publishedDateTime: 2022-10-31T06:30:00Z

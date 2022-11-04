@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google’s AI has a long way to go before writing the next great novel"
+    excerpt: "As language models evolve, engineers are trying to find creative applications for it. One of these could be fiction writing assistance."
+    publishedDateTime: 2022-11-03T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-ai-wordcraft/"
+    ampWebUrl: "https://www.popsci.com/technology/google-ai-wordcraft/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-wordcraft/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/11/03/david-klein-94oJK3PDQw-unsplash.jpg?auto=webp"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "qKXm+KHmAPvwohEQ755Xe+Y4d9py268Ye/v9tYA7N+ncAm3CHarrJZF9xfJN2AbVnEylXVuP3XEzSi7tD5jtRTVxhoNjKaOuS8jhJDPVEt8+6ncr2WIQKuL4uzOncwvjPXVUfIKU1SVAa/8j7paZg3sHu09Y7FSntKwOXaGjvMNGeSSC/yU8o7KQt15sTQUjEXjoeOlHndP92KhaMRYwK13Y9+H6Rc6DM6KCeAChDCAk9HgU1hhos58aPr/1uobH6dhcPG7lqI+4X8fuYiN8OLu5qXfLXG0vHzsdd4XdWPrbEDFiTJJonq0ZCtuQdNdxIc2Fm1rBWk5EKJcZXcayPjoQmjoGd+/osA9C7A5QOG8QgABrUu2w/byOw5bpRdICYtPeTTmU+/7eDNJNsIfAl4JsK6DD1wKX1RY27CR879io0j7MWY03PLbgXVEU0//zEwkTZ/CD5zXQJoFuTVvTJ434cIuKkGFQfzwSVIgTE9kdv5G6s5bgj1rId5WuZdQtsKeW3/d4rtAnmMCqnqiZXQ==;SoDeBKn6muerefNgc6iFSQ=="
 ---

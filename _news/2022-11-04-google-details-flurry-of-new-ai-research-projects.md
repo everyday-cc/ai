@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-03T18:58:00Z
 originalUrl: "https://siliconangle.com/2022/11/03/google-details-flurry-new-ai-research-projects/"
 webUrl: "https://siliconangle.com/2022/11/03/google-details-flurry-new-ai-research-projects/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/google-2.png"
@@ -35,6 +36,6 @@ related:
       domain: analyticsindiamag.com
     quality: 12
 
-secured: "wT0d0Zis1d39c7r4giHqp0EJKdfmXu+4mLXPDD6sDoWW3cz97iN7bu7Ne/2wbeupY6j+ERZ7XbtcadxbUXBr1KIwBdCknSzB69agGAv67xwPIPvVErpt/LdjIQbL0HwLxpLALyEu6ZvWmyOWDp740CzR2Rt1fcOdeXqBx6LIjN2CB47G3xvGYhaYlgM981csfPvQj9H/kEqVyv07AIyijfCfbA+3U/YujWjEyG52vVFArK5ydgVvu1pwGS3nkE2kl5S+dLfCUieTRe7ws2n2nlUyzC9xs9OIk6qObuXYhEwBKSH2eK67GQ/C2sEBiVnpPAtoOMkXsN2UuUHfy92mGUuh0F+DA/Oa/EkFylSsn+c=;7cR2CEDTtNOEzMr3pRvikg=="
+secured: "uL6VGVMwWXOZjFD+y1Hvzo/zgFB056D4VK5fh/dcRoR8kuNjej59vq80wveoCxbrGveJ04WLU/hf1nh2SrA4Thto2XEt4w/xACQn4UHJEoK4Xtc8yDpcPIiaSoWEOF0SYuYH6p6sEKPJ44EquXUq9K2XRrongMYQwN5lwA05tu9GMGtpcvQ/OW7e76mMUmHyzyNt46lGohFWdN6TdsoBQkkBeCOqahvRClcAhKsuYE/FixDLx3LYrQvlDP6FrlMFwXRMHykQeZRv6nMgHIwL5+rLVnFdvUitbFR2Kplillb3Q0RpPMr3mn9VRwvxsmnznz2Tt1msbORaaoBqIhvOLsiC4k9Cyvbs0QOXjKd2Hds2sgBoYv5LIQfaAnn22NRJ7JM988MKk24RHPMBe7yug2EAOVa1Vsokvr4JH8/h73zLOrB7lj41amsfpZtAqNAmhK82NfuzCOz3uhxb9ICWnCiGat1D1OAXb3hn3jEsJj8ISOhXkSpRJza9Avacz2RyWTW0nyD30EnaRDEOF3o8Wg==;Oc1f4xHp8m4yQVGAUVWZMw=="
 ---
 

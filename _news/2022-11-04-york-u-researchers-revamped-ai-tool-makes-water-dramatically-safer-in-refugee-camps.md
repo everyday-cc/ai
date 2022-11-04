@@ -29,7 +29,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 54
+    quality: 56
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/york-u-researchers-rev.jpg"
         width: 2500
