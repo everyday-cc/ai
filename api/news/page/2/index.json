@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-02-mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics.md",
+      "title": "MIT and MIT-IBM Watson AI Lab help machines see better using spatial acoustics",
+      "excerpt": "Researchers at MIT and MIT-IBM Watson AI Lab have created a technique that allows machines to better perceive their immediate environment. This is done using a machine-learning model that accurately captures the way sound interacts with an environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/11/MIT-Research-Sound.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
+      "publishedDateTime": "2022-11-02T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-artificial-intelligence-in-security-market-to-grow-by.md",
+      "title": "Artificial Intelligence in Security Market to grow by",
+      "excerpt": "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-this-video-ai-startup-aims-to-be-a-global-success-story-from-india.md",
       "title": "This Video AI Startup Aims To Be A Global Success Story From India",
       "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. It was when Vikram Gupta discovered that video AI (artificial intelligence for video surveillance) could become a game-changer in different industry verticals that Awiros ...",
@@ -1150,108 +1237,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-argoai-shuts-down-what-will-happen-to-its-lidar-unit.md",
-      "title": "Argo.ai Shuts Down - What Will Happen To Its LiDAR Unit?",
-      "excerpt": "Argo announced that it would shut down operations on October 25, 2022, impacting ~2100 employees in the United States and Germany. Coincidentally, they acquired New Jersey based Princeton Lightwave for their LIDAR capabilities exactly 5 years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635f0460106f8f455f046fef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/",
-      "publishedDateTime": "2022-10-31T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-replits-ghostwriter-ai-can-explain-programs-to-youor-help-write-them.md",
-      "title": "Replit’s Ghostwriter AI can explain programs to you—or help write them",
-      "excerpt": "According to Replit, Ghostwriter works by using a large language model trained on millions of lines of publicly available code. This baked-in data allows Ghostwriter to make suggestions based on what you've already typed while programming in Replit's IDE.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ghostwriter_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/",
-      "publishedDateTime": "2022-10-31T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

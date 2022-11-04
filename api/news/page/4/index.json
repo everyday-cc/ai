@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-30-google-buys-an-ai-avatar-startup-to-take-on-tiktok.md",
+      "title": "Google buys an AI avatar startup to take on TikTok",
+      "excerpt": "Google has quietly acquired a startup that was working on using AI to generate avatars for social media users and brands. According to TechCrunch, the company recently paid about $100 million to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
+      "originalUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/6bf6dc20-57b9-11ed-9bff-f67e87022c36",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
+      "publishedDateTime": "2022-10-29T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-how-to-manage-risk-as-ai-spreads-throughout-your-organization.md",
+      "title": "How to manage risk as AI spreads throughout your organization",
+      "excerpt": "AI has many possibilities. But organizations must strategically implement AI to gain benefits and avoid risk and harmful consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "publishedDateTime": "2022-10-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong.md",
       "title": "You think your customers want a humanlike AI; you may be wrong",
       "excerpt": "There’s a wide variety in how brands are approaching the design of VA experiences today, and there seems special interest in the highly humanlike ones—VAs that aim for the appearance and behavior of the real humans who previously fielded these inquiries.",
@@ -780,10 +883,10 @@
     {
       "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
       "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
-      "excerpt": "The LatticeFlow platform was built to automate the process of solving data quality and blind spot issues in computer vision AI models, critical to enabling model performance in the wild. Data ...",
+      "excerpt": "\"LatticeFlow is an enabling technology that empowers engineers and companies to deliver quality data and performant computer vision models that work in the real world,\" said Petar Tsankov, Co ...",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57427476-latticeflow-secures-dollar-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision-004.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -791,13 +894,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T01:10:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29453267",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29453267",
+      "publishedDateTime": "2022-10-28T01:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1114,93 +1217,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
-      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
-      "excerpt": "Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more complicated Technics building pieces, featuring gears and other mechanical components, to build semi-autonomous robots controlled by sensors and a programmable brick.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
-      "originalUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
-      "publishedDateTime": "2022-10-27T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts.md",
-      "title": "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts",
-      "excerpt": "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg",
-          "width": 1334,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
-      "publishedDateTime": "2022-10-27T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

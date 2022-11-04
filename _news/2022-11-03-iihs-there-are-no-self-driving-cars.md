@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IIHS: There Are No Self-Driving Cars"
-excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
+excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving 12 percent of ProPILOT Assist users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
 publishedDateTime: 2022-11-02T21:05:00Z
-originalUrl: "https://www.timesunion.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php?IPID=Times-Union-cars-headlines"
-webUrl: "https://www.timesunion.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php?IPID=Times-Union-cars-headlines"
+originalUrl: "https://www.chron.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php"
+webUrl: "https://www.chron.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
@@ -107,6 +107,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0U9mq++VolakB6mSNqZXa2Fb+k2bcec0mC0XjoDjdtGst1UZQz6WcDMNsWXBZnyrk8seEXEkqmW6tOahlS1S4BssNZw0p/3BrGOJlLKSCrJl+cOjjjDwd0ccWTjWYl+ALsneYAwv0vZuuoGwn1vVrm29xvSwXNNqozmg5mtvfPyvxtjO9fIR3EDSxKDj3pe9UADkw5BWM9tv1gWqmYo+HmnLagpz23T7pbnTTTREvOQFvF3PXGe2s57x8TBtmpqjOq3VOxYgCknSnLUKqBeQG+iluLlB85LUKUsX3N6UjzkPF5Lt7wzon+YEPUUTTNoRq/Qrunf/e1GNU3A+5iMpVy3uND7O3m4WZmaVJSGS1ik=;LlIzIBST41QZKtLkbUgheA=="
+secured: "kHqzkM4WeQkcFDJiwpkvm2y+FheP1s/zIxKklgQVTIw2SOgDoMqD0yMbJnc2zp82C8YM/kIcPnTi/IDdry2wmLfdbycR0SWjPoAM45OOiIMQKqVYP5m6k4UhU3ZKnPRG+vuOpa+S/Fn/m+M8F/WI1iubNE7KrrizRiW+YsopokTOdEFnauLWi4WeN5MNDI7mo/L1wH3ZJ1gtrbbEhqPIiVfzFdPixY9AYDdrEOv5cg3cMo7P0mERcd7LwXs8LcEJBhuKDjabDoT7+RZ2HLlIp+NLkkJdaQy9TSRQvu4A/bR+820okvHW6YRXxiA1XKfhL3oZUam3A1ItfgoRCb9LWBfaEevoaoZYo86GA4z3pls=;qg76xFOTUC01+R2XAaivBA=="
 ---
 

@@ -98,20 +98,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
-    excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
-    publishedDateTime: 2022-10-30T08:00:00Z
-    webUrl: "https://telanganatoday.com/google-buys-ai-avatar-startup-alter-for-100-million"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Google Acquires AI Avatar Start-up Alter For $100 Million"
     excerpt: "Tech giant Google has reportedly acquired Alter, an artificial intelligence (AI) avatar start-up for about $100 million in an effort to boost its own"
     publishedDateTime: 2022-10-31T06:11:00Z
@@ -139,20 +125,6 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/3joc3r/article66076254.ece/alternates/FREE_1200/Google.JPG"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
-    excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
-    publishedDateTime: 2022-10-30T07:05:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 16
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
-        width: 627
-        height: 418
         isCached: true
 
 secured: "vajLj8IKh9YROIFKo8e+3bCLDrWK+2xJHPnLsC4BOvMJm7obn++xKra6ROL1gyVnz7pAwiF/FjE6mCCKufeC3Q87ObGW6LZbK5w1+zctidWH39x1PMNwSYJLRNlfgO0RVRuQCAzdTLzLIpo+zteoevkLuNHdz7/g5fafH87TojVUJp6ddmA4ZrtkRp9bsYRbpPNYiO1WszKzjELrlo8AKTEHPVmIFq+1ey5qJ1csvV3Mb8D3G0SBOcmLQya+aWK3wqW5/pO6esRMCbgdZxn8T1wpT2j/aPQ4zbZJfYc3IWeVP6TPJ1l3q9FMMYXcAJUzeCx+tGcSxi/KhM8zZbYDtPI3lx0tj+2d+sAcTQV9ggKSQcYLM80/E2LkXHlMKUeZ9kuTRNHuQGFVh+5zRbn/EioG4myF51AmJCJIzwvBq/qcytS74Cs28C35UnuSV4rnogMUemcLOVhY++1TOIFo1IZK6kg5s0ruwlDnwXGU8vJ+nPDZ6y5dLw2MEyi2mNPnkXcpCFZnF1L/NE0qQtJoUw==;A4aYxfboAOyjaJn34v7nLA=="

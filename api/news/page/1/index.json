@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
+      "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
+      "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "publishedDateTime": "2022-11-03T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
       "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
       "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
@@ -198,6 +241,58 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
+      "title": "Dear Artists: Do Not Fear AI Image Generators",
+      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
+          "width": 1396,
+          "height": 1524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "publishedDateTime": "2022-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1104,93 +1199,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics.md",
-      "title": "MIT and MIT-IBM Watson AI Lab help machines see better using spatial acoustics",
-      "excerpt": "Researchers at MIT and MIT-IBM Watson AI Lab have created a technique that allows machines to better perceive their immediate environment. This is done using a machine-learning model that accurately captures the way sound interacts with an environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/11/MIT-Research-Sound.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
-      "publishedDateTime": "2022-11-02T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-artificial-intelligence-in-security-market-to-grow-by.md",
-      "title": "Artificial Intelligence in Security Market to grow by",
-      "excerpt": "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
       ]
     }
   ],

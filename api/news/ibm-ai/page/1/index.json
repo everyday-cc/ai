@@ -203,6 +203,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-26-ibm-expands-embeddable-ai-portfolio-with-plug-and-play-watson-libraries.md",
+      "title": "IBM expands embeddable AI portfolio with plug-and-play Watson libraries",
+      "excerpt": "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build extremely sophisticated AI capabilities directly into their ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "originalUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg",
+          "width": 830,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-across-their-business.md",
       "title": "IBM Helps Ecosystem Partners Accelerate AI Adoption by Making it Easier to Embed and Scale AI Across Their Business",
       "excerpt": "The expanded portfolio provides access to the same AI libraries that power popular IBM Watson products. It is designed to help lower the barrier for AI adoption by helping partners and clients address the skills shortage and development costs required to build machine learning and AI models from scratch.",
@@ -1371,40 +1414,6 @@
       "provider": {
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-ibm-announced-as-cop-27-technology-partner.md",
-      "title": "IBM Announced as COP 27 Technology Partner",
-      "excerpt": "IBM – a leading hybrid cloud, AI, and business services provider – has been named technology partner of the 2022 United Nations Climate Change Conference, or COP27 IBM – a leading hybrid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/ibm-announced-cop-27-technology-partner-1491285",
-      "originalUrl": "https://www.albawaba.com/business/pr/ibm-announced-cop-27-technology-partner-1491285",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -90,20 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
-    excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
-    publishedDateTime: 2022-10-30T08:00:00Z
-    webUrl: "https://telanganatoday.com/google-buys-ai-avatar-startup-alter-for-100-million"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Google Acquires AI Avatar Start-up Alter For $100 Million"
     excerpt: "Tech giant Google has reportedly acquired Alter, an artificial intelligence (AI) avatar start-up for about $100 million in an effort to boost its own"
     publishedDateTime: 2022-10-31T06:11:00Z
@@ -141,20 +127,6 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 17
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
-    excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
-    publishedDateTime: 2022-10-30T07:05:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 16
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
-        width: 627
-        height: 418
-        isCached: true
 
 secured: "sycN9QaU8T0fPfBCCK7c2i8byPgG0Y0IMXZqjONYmjZ78kN+yiqKXs9lR/w2pg30DZlsNVqfL2XHbLc8tjxiUdWZPPIjjI1h8CN8IheEbwpcwc60lRLo2yEYm8YYO7ASDrqhMU3a8bENjlqgIOgXMVepYvStHnJAhsGyaBSeSTjmOWCKucQsNKeHilvvyCVRcbpQsGwC6t9uyDUxyDYn/Nwq4aHIO9tjiYgzb74t6dod43FXGX1RStPHihDijKoy/HHVxqviQndQ5vwW2AdZMIzcKwgjYZol83Fg19c+GyIIEpL5Pg9iKNHdnNJ29I6VcNjQ2x8R7mB72lnwVOg0Ts5hDrEWc3H6uF3T1jR80jDMa6Q6/+KGK7ih92FNah1D6PwBC3r5qe2IZYoMBxrQEiW6AWrEKoGPWN8TogEWGoyXau8eeR2myhaFOjchDa9kBPhDv7bokiFzwznwr2R2HCG6HJo27EHZmBnXbSZR9cIGToSYca6CFfniIVF5bh2vQcB8YkTEidzX6g5FUN05Og==;FAmm+pePmObW+PiXmtx97Q=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Self-driving truck company TuSimple fires CEO amid federal probes"
 excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
 publishedDateTime: 2022-10-31T20:43:00Z
-originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=mw_latestnews"
-webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=mw_latestnews"
+originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos26"
+webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos26"
 type: article
 quality: 54
 heat: -1
@@ -147,6 +147,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "KnkNIbcRBPT6qDWQXWoHuVnGv1MMnjuhEX8vVXoAEys61BZ68sCQiqsMCw+XCgSNbI/XxHXivZmwwjJtIn186Zvv3TbfyMmjvgTCvdEOC5aKbQ6GVpMadHyrNWwIXFU0+Q2ZLJtXXcGaQ4Lx7P6IOwUS9kgTriEzc+DR9Y2M59A3Ohg+xNHKQadloUKpLETid3hJxdXp2Fhywd2lqGiD9rdsZ5Hzmi4VaQ4RqB9ECWidayrDl8hBONcbBgRIQNG2ohJBo55cLCno6AWEpTqWO1JdrZ5Z7npkxCKyf8KgGkx4Mk1H7aY1tNpTXVaQvU2R4r3SllgMw8R+o8gKIi/5sb3SoPuF6kB7ZTJWRQeuTbY=;exjAeCHbX+De5PvHkkcbKQ=="
+secured: "rB6M57rXLF+ME7bJL1dC9392hnceOFRuG6pcTn0frqbHP5Na0E9G2/duyhTWeoeTreZfU+qXUcsHqKvS0du9nxIHiMYWr9dLrG0BasDByRiLYTVAFYPvhTBM5VXSnAXm2ulCwUlLt3eye/3ZWSOLLi44AGQS8GyanGpft31ZebiIre75QlD7lfpBCV5IgRMH7M056Ed0Phio5cF8+Sba1SuGAHZ05tfGwDJuEWDL0tJ1bDOqONUu8LmzCe4MRBl7VG0EYdlYCSvow3Aj8mFbO7t2baGqElyFG3ZQoqQ8XTnwBWMiMPgwAW6QB6rBznDCl02JDeaeehQsg7ZDA+gUUvIwqBGtlRws0vXIxpLRyLU=;Np/HgjP6Lx3/ZU77DFXdmA=="
 ---
 

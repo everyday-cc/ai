@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
+      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
+      "excerpt": "Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more complicated Technics building pieces, featuring gears and other mechanical components, to build semi-autonomous robots controlled by sensors and a programmable brick.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
+      "originalUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
+      "publishedDateTime": "2022-10-27T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts.md",
+      "title": "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts",
+      "excerpt": "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg",
+          "width": 1334,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
+      "publishedDateTime": "2022-10-27T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028.md",
       "title": "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028.",
       "excerpt": "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand.",
@@ -1108,110 +1195,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ford-cant-afford-other-bets-like-driverless-cars.md",
-      "title": "Ford Can’t Afford Other Bets Like Driverless Cars",
-      "excerpt": "Ford’s decision to reverse out of the driverless-taxi business shows a laudable focus on delivering tangible products—but also the company’s financial weakness relative to crosstown rival ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
-      "originalUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-652054/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims.md",
-      "title": "Exclusive: Tesla faces U.S. criminal probe over self-driving claims",
-      "excerpt": "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Pc83Ei_m8ULxEdqo8XyYwlSi_f0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S72XIA724ZL7BKAKEXM3RWBDYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

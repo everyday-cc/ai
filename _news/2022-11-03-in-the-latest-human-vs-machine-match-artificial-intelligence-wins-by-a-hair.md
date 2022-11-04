@@ -1,27 +1,29 @@
 ---
 category: news
-title: "In the Latest Human vs. Machine Match, Artificial Intelligence Wins by a Hair"
-excerpt: "The competition matching Nanda and several colleagues against an artificial intelligence (AI) program has been won, ever so slightly, by the computer program. Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses,"
-publishedDateTime: 2022-11-02T20:58:00Z
-originalUrl: "https://www.rutgers.edu/news/latest-human-vs-machine-match-artificial-intelligence-wins-hair"
-webUrl: "https://www.rutgers.edu/news/latest-human-vs-machine-match-artificial-intelligence-wins-hair"
+title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
+excerpt: "Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses, such as artificial human tissue for wounds and catalysts for new ..."
+publishedDateTime: 2022-11-02T21:06:00Z
+originalUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html"
+webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html"
+ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Rutgers University
-  domain: rutgers.edu
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.rutgers.edu/sites/default/files/artificial-intelligence-hero.gif"
-    width: 2880
-    height: 1318
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
+    width: 685
+    height: 375
     isCached: true
 
 related:
@@ -51,6 +53,6 @@ related:
       domain: sciencedaily.com
     quality: 65
 
-secured: "67zwAXP4a5Vb7cwedQWsdwIvFPpQWjcOfAKsV4GxQz+jA0EaA05DyzhUK2e6DFEd4XN+6LvldriahmuM8CVWWoUBWB7GmoH9DQUvd1FZKx8XEsu/3hY91ltmOc5B5DMVvWASIo9xoDXLdgaTRNexfLXba/bMZn0odD/764ah4xMJMW+USGfR23cO4lLD0aqlzw6CHe+3BKFIS+ehTUcEgBQWp/OAvy9xj/2GzqzvrvNNbqH1akHTDEk4mA/huTIjC/ScY9KPtYYw/ltTdEPMKf87fENDH3WUr9C1A+LNHjg6I/1ThPajz0VbBE2xcvKddRVBf9u7gNe/NNUYGZqg8qIvITmD9i+Ig5oNmPtthKo=;Xt5twhNdcuxEDkwtUXijcw=="
+secured: "EVDpiPpbjFMZ0/xdw/zlnHqD5T9/HJHe3Rm29OPBup7Gp1qXLfJjQWWYH88UrgL40AqjmJglssHUKbHnAZOACvJgvMyZdIXbQ+fAx+9CNb3Vbh0NGFK9Ndk+QQnOZEXKLKsvT9x8zLP8ZYgpJydoMNGU79bEQckN+gOoBQaXNFYv6YD373J3weotl5uHI973UWVImA6hDeCCIFce371BHU0qFfTn+4/eUjN0E/sFWC6BCuAFYB96ZXpHsFFdNO5k7Tp31grkMtWoF6Eu2yS+zyQ4G1p9Uxr4nz36VfXuLWPMd9fNUkauzGSSpFW++hZwshZDr/PnoAPbd86cldcbzlAywVwb5U6sMW0D23xz4Q4=;oVGgV9uXBP/ACQO6N11JQg=="
 ---
 

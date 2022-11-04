@@ -104,20 +104,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
-    excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
-    publishedDateTime: 2022-10-30T08:00:00Z
-    webUrl: "https://telanganatoday.com/google-buys-ai-avatar-startup-alter-for-100-million"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Google buys AI avatar start-up to compete with TikTok"
     excerpt: "Google has acquired Alter, an AI avatar start-up for creators and brands to express their virtual identities. The acquisition to improve its content game and compete with TikTok was made two months ago for about $100 million,"
     publishedDateTime: 2022-10-31T05:22:00Z
@@ -141,20 +127,6 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 17
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
-    excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
-    publishedDateTime: 2022-10-30T07:05:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 16
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
-        width: 627
-        height: 418
-        isCached: true
 
 secured: "FKQb0Y6tknSXKVxfnBV6Puw2Yfhqt04yK22KoypGxHY7vuR8172xCrkwCiJpNyDsy3RCb8S8BAuNqv9X7HWlkItPM7NOBetFv4AiZGJjmgiRR0jvYnNFSUhqpJ2eplLVriK3tv2BEK/peeVVhP6385brJDvqVE9ZHZOikqTHnBh+uUwI9+z4rhPhC+3jzMJnK238seUDnFBB2+TN3jsfh9amleP6l/QlbogVe/hV+r8nYvLq/KVYnNqN3h98RXpfsnzLlX79/Q0M/hs064+Y8sz0Xhz/GPbYGansVf960nLjwa+l6lRrCfKYgUSfFHadr7PiBWDqb42KrVrmfH6OEMpdHiFzCHtbDspV4uVBQy2SRu42qjpdWKWlgK0YJ0MMnWemdAYFpJb0S0upvlbGPfvkoUdFXK2iyKNI8E3G7V/vCz8qPz8bZPAdWm4Cu4d5+HU9dqM9xx/gs6eDse3IUabFjX0yokwz2VHqCapeNrtw1IB+pjzZVkPb3JQGyGdWO+lyDYAccAbGc7p23KOPUw==;we4k4g48TptJRBJzE0n9hg=="
 ---

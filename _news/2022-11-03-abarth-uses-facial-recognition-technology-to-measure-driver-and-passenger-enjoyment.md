@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers"
+    excerpt: "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ..."
+    publishedDateTime: 2022-11-03T23:46:00Z
+    webUrl: "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/"
+    ampWebUrl: "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 54
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Abarth trials facial recognition technology to measure driver happiness"
     excerpt: "Performance car brand, Abarth, has become the first manufacturer to trial facial recognition technology to understand driver happiness"
     publishedDateTime: 2022-10-31T12:59:00Z

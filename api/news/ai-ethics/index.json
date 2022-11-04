@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
+      "title": "Dear Artists: Do Not Fear AI Image Generators",
+      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
+          "width": 1396,
+          "height": 1524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "publishedDateTime": "2022-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-ai-ethics-four-essentials-cios-must-know.md",
       "title": "AI Ethics: Four Essentials CIOs Must Know",
       "excerpt": "All CIOs are under immense pressure to adopt AI-based technologies, and this demand will definitely continue to grow",
@@ -1380,40 +1432,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-ai-the-technology-is-here-now-its-a-question-of-trust.md",
-      "title": "AI: The technology is here, now it’s a question of trust",
-      "excerpt": "A lot of organisations are not following an enterprise approach with trust and ethics sufficiently. They are finding it difficult and not prioritising the potential consequences of AI, such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/eu-ai-act-trustworthy-tech",
-      "originalUrl": "https://www.siliconrepublic.com/machines/eu-ai-act-trustworthy-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

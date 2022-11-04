@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/google-acquires-artificial-i
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
 type: article
 quality: 73
-heat: 163
+heat: 143
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
-    excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
-    publishedDateTime: 2022-10-30T08:00:00Z
-    webUrl: "https://telanganatoday.com/google-buys-ai-avatar-startup-alter-for-100-million"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Google Acquires AI Avatar Start-up Alter For $100 Million"
     excerpt: "Tech giant Google has reportedly acquired Alter, an artificial intelligence (AI) avatar start-up for about $100 million in an effort to boost its own"
     publishedDateTime: 2022-10-31T06:11:00Z
@@ -143,20 +129,6 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 17
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
-    excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
-    publishedDateTime: 2022-10-30T07:05:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 16
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
-        width: 627
-        height: 418
-        isCached: true
 
 secured: "kfE/sL2Zjz+3/puy/+hnJw72q5EM+6WDM77gP+H9TSzFKLvmC0NbwV+XZgCcxxX3LJ1v+VPFm/qAYa5pdbL3qoN3BmM9d7ZD3SjMv4yIlTU1aVgCzUNstoTXH/N1RwC9NaMLhWHEBUk2tQXmCkmSikAXY5FUbe+Qke+7TI8nLMKq36uCxl7C9MbhEuh5lLipJatXtgeeH5FL1yCKCjJZmuhfm9a0sNmXCxhC5m00VMjhA+GqNWnjarjkmZ6Y/Q+S4ABgAdNY0hUVMa4ScF6lg3Y8XqoVqojAn5/R+RzvXl3lTPFhsQkG4KZtGkH3HdZEFnO4uRyTsOTtDZZ1cTaJxzpjxxW7WGbEenC747pCCxQ=;j5hgC4UToHNhNnuXylrYUg=="
 ---

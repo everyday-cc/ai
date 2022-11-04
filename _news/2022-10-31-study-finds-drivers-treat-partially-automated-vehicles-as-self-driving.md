@@ -93,13 +93,13 @@ related:
       domain: azfamily.com
     quality: 26
   - title: "IIHS: There Are No Self-Driving Cars"
-    excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
+    excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving 12 percent of ProPILOT Assist users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
     publishedDateTime: 2022-11-02T21:05:00Z
-    webUrl: "https://www.timesunion.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php?IPID=Times-Union-cars-headlines"
+    webUrl: "https://www.chron.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 24
     images:
       - url: "https://s.hdnux.com/photos/01/30/13/52/23116424/3/rawImage.jpg"
