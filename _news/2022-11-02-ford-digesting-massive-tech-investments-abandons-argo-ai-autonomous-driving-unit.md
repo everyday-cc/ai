@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4552004-ford-abandons-argo-ai-aut
 webUrl: "https://seekingalpha.com/article/4552004-ford-abandons-argo-ai-autonomous-driving-unit"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 750
     height: 500
     isCached: true
-
-related:
-  - title: "Argo AI Shuts Down: Is ‘Self-Driving Cars’ a Realistic Dream?"
-    excerpt: "Argo AI ceases operations. Questions are now being asked on what’s next for autonomous vehicle technology. Ford and VW-backed ‘Argo AI’, the autonomous vehicle technology company, is shutting down. The company,"
-    publishedDateTime: 2022-10-31T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/argo-ai-shuts-down-is-self-driving-cars-a-realistic-dream/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/car.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Db/d9IhT9KUCEGM8WxFS/mWxOo+o1AVPdrw9l2SXR+fNvgtehihQcLBiG9C6M1uOZh010JQIJNAruGAnNgfIXaK42asn27wcz2QI2/Khaxb4B+Fl0Hfsabm7avqy9dIU5J9VsLqoNRM0SIZq4eAAchRehZMMDn4M0pMkOAeVnpBAa7pEu/ey88WcY0xM5/v85ZBmNPSybYiV/6et96vLnxlaqcaXjAI6UaVQVomoGe8Bzkb164BSo49DXwrv9aAxroJzZm5pfE4AvKWqE4rRYnRnf5t/HP7BQx4O0bl1+IM7tHzKCAiyHYW+6OAYNljhCV7Fj9EcFI+R5OCV0jomldhqeVtUSluPKoURErejMlg=;lb5Ng9mDXQQmlRR+U40G6g=="
 ---

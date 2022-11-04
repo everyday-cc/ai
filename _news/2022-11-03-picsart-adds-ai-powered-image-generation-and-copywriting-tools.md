@@ -36,6 +36,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "DALL-E AI Art Engine Now Available For All Developers"
+    excerpt: "OpenAI has announced the release of an API for DALL-E which will let developers use the AI tool for their apps."
+    publishedDateTime: 2022-11-04T18:21:00Z
+    webUrl: "https://techreport.com/software/3483402/dall-e-ai-art-engine-now-available-for-all-developers/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 17
 
 secured: "1iwcbvf7UCFQ51GU0wdUUX8sM/4m7mVP6fF6ggKo67kgoCJXB50X8qDZt/y3cEZm4Wd9n/YgQZpm04f3/yaRUNlVprNFLbdtMJpC3T5djl1ieUoTvhr2l32xaLdTxWKwS7U43ar6WIcnreq25jM2ZZdWvq1JnzuNz5zfehP8CaT9J3rDeD4BXZQcgTUenNH5g6zgd4pnBnuPk89DEadGAKVc29Chuw+yCB398Zl4bJeTvYlxjywlzmAhVSTofDA/YY60rPh2Ljrjms5kW+xZ3S6Sw2fNz8qRSAOvW4FYM243jqD8RZ8czoqAWf8155ugd9+PFg0WaJWhs5QQ58dSGU7vwf6QeFb92YaeB67KIXlNVcGI63MofTllwTBTSUWyX7SLqKm6HYWtalV2zv1SBc/nnIMvppriha405al4GzMYvuNAUGx8K25W92TrYVdQiQSxP0/XW8ieX52I64Rb6GNgoXAQYN4p02xgNHv8zI7eJ/bRos3n9LWYpisDtOlszGQ2/us6qmd6eQPUezvDmA==;sr3rek8l8l0iRFkm7yhLSA=="
 ---

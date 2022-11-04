@@ -49,6 +49,20 @@ related:
         width: 1024
         height: 788
         isCached: true
+  - title: "Cops in 5 nations see a way to use facial recognition safely and effectively"
+    excerpt: "Privacy advocates willing to consider giving police facial recognition tools have said they would support it only if certain policies were in place."
+    publishedDateTime: 2022-11-04T20:27:00Z
+    webUrl: "https://www.biometricupdate.com/202211/cops-in-5-nations-see-a-way-to-use-facial-recognition-safely-and-effectively"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
+        width: 1292
+        height: 715
+        isCached: true
   - title: "Abarth uses facial recognition technology to measure driver and passenger enjoyment"
     excerpt: "Abarth has become the first manufacturer to use facial recognition technology to understand the emotions experienced when in its cars. Working with the world renowned Loughborough"
     publishedDateTime: 2022-11-02T17:22:00Z

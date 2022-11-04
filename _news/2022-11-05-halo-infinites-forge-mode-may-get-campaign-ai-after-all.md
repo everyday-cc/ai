@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T19:55:00Z
 originalUrl: "https://www.windowscentral.com/gaming/halo-infinites-forge-mode-may-get-campaign-ai-after-all"
 webUrl: "https://www.windowscentral.com/gaming/halo-infinites-forge-mode-may-get-campaign-ai-after-all"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Windows Central

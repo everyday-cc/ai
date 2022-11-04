@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T17:00:00Z
 originalUrl: "https://www.theage.com.au/politics/federal/does-the-pm-need-dutton-to-secure-the-voice-20221103-p5bvgd.html"
 webUrl: "https://www.theage.com.au/politics/federal/does-the-pm-need-dutton-to-secure-the-voice-20221103-p5bvgd.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Age

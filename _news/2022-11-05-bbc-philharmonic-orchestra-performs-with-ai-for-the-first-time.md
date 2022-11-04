@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T17:59:00Z
 originalUrl: "https://www.newscientist.com/video/2345754-bbc-philharmonic-orchestra-performs-with-ai-for-the-first-time/"
 webUrl: "https://www.newscientist.com/video/2345754-bbc-philharmonic-orchestra-performs-with-ai-for-the-first-time/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: New Scientist

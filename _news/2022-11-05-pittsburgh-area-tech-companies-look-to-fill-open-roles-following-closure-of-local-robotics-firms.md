@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T19:55:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/04/robotics-firms-look-to-hire-local-talent.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/04/robotics-firms-look-to-hire-local-talent.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Business Journals

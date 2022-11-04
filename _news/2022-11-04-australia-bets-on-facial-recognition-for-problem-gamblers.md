@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Fugro Opens Space Robotics And AI Facility In Australia"
-    excerpt: "Fugro opens space robotics and AI facility in Australia . November 3, 2022 by . Fugro has officially opened the Australian , better known as S"
-    publishedDateTime: 2022-11-04T05:11:00Z
-    webUrl: "https://menafn.com/1105128133/Fugro-Opens-Space-Robotics-And-AI-Facility-In-Australia"
+  - title: "Australia bets on facial recognition to deter problem gamblers despite concerns over rights"
+    excerpt: "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population."
+    publishedDateTime: 2022-11-04T21:06:00Z
+    webUrl: "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
+    ampWebUrl: "https://amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 69
+      name: scmp.com
+      domain: scmp.com
+    quality: 79
     images:
-      - url: "https://menafn.com/updates/pr/2022-11/03/R&AN_e0f63image_story.jpg"
-        width: 800
-        height: 533
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/04/ea3a5d70-cb1c-4d31-9a49-62c4a096cdde_a7fb0940.jpg?itok=qMGIsekb&v=1667570814"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US group campaigning against Australia’s reversal of recognition of West Jerusalem as Israeli capital"
+    excerpt: "StandWithUs places ad in the Weekend Australian and asks readers to email Anthony Albanese and Penny Wong about issue"
+    publishedDateTime: 2022-11-02T23:33:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital?amp;amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/03/us-group-campaigning-against-australias-reversal-of-recognition-of-west-jerusalem-as-israeli-capital"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/e498b1e2163bffaa7fed3f6a9815e26b1aad2fbe/0_161_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=23c0da344eb5ad5a9780bd46f94cde69"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Australia lobby group ClubsNSW seeks more facial recognition in clubs; debates rages"
+    excerpt: "The law has stirred debate after the country’s umbrella body for clubs insinuated the technology could be expanded to other purposes."
+    publishedDateTime: 2022-10-31T22:34:00Z
+    webUrl: "https://www.biometricupdate.com/202210/australia-lobby-group-clubsnsw-seeks-more-facial-recognition-in-clubs-debates-rages"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
         isCached: true
 
 secured: "XhWFifiNjsbaMfl2ow77v7xb9gZXGvTXJCH9o0ktLQ5AyHRid6hYhxlUBkB0VTmKI46fnNWeQTth7LfoOZAeVthF7L2y6SEDsrnAARn4CLJvh+sI87n1YI9xfjxlAs2sicso/lAHMv3xwzVP05VsPidOKLKCHAnL+c2zePHr6OgySAyziNDsBPYLGi2RuAYpYdMaanPc/jluyPaXOp/4MPn6Y0TSSqYlony+6ijrYw7YzEYC4wlR8tay0HtRks95L0GNdovtSrOnJLnFzr27LYJfUPz5JI97Q4vgP/A/PWB3K/m33Oa9lv4+kVHuzarjVBDcmou4tp7d9X1+33LYIqavPsj0IPsIrwdfZFe/9mQ=;pmWAZFdRIH74iBV5CnsT3A=="

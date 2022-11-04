@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispe
 ampWebUrl: "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 93
+heat: 93
 published: true
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T14:20:00Z
 originalUrl: "https://www.fastcompany.com/90801389/four-steps-to-strategic-storytelling-inspired-by-machine-learning"
 webUrl: "https://www.fastcompany.com/90801389/four-steps-to-strategic-storytelling-inspired-by-machine-learning"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Fast Company

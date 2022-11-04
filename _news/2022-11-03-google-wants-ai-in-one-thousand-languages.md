@@ -115,6 +115,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google: AI to be in 1 000 languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world’s one thousand most spoken languages as tech giants compete to dominate the internet’s next battleground. Data is crucial to advances in AI,"
+    publishedDateTime: 2022-11-04T11:11:00Z
+    webUrl: "https://www.thesouthafrican.com/technology/ai-language-in-1000-ways-google-says-breaking-4-november-2022/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 19
 
 secured: "A6F9DeryNFVCL4NU6LHAO0ulqomlQK0Jaq7ziK5Z4dcWfIwyVBYFuJb2E9xbR2ntXvzsm4BTwa8DhijnTumHPKONvD4vfCP1zjiZftgdYb3ftpuTSwdMmVsQ0lsItx3Sah38nqV+tcWizZhIN/j02UeA8jlZGLGD0+TcP1LXItvkQD3tmW7iqrUdpC2Z8K8wueY7o4ZLMBABy25zO8L3frHPoWvqkLnIK/TIY+nkEgwYg+dHZ2AAjH6N9ADm6R8NBAMWi16H9vmbsPL6CG4I+C4SvxeMd499aYtnumxSGlY9q0xAe2M6G8KZQx8sXfF/qYwYbn0/FA3YtocroueLShbc0gR+b5Mujti6ddBTUYCdWAgdxXkLSX0mPV1RUk8bB4q62xLdR25iprMQifR4I6sI29Umji6uaa5lGHe7FBGUSvUtFUCsoNsBq49aqxwwwWBoU3E+0WZmOs8ooHz2UCi6u3NDcknphnmsKNWyVRXIZtAtja5V3+jI/aw4uOSFnw4lIwg1z/JqHG1vjtGVXQ==;22wpggiiUiAHi7Y1qdN3BA=="
 ---

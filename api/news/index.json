@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-05-australia-bets-on-facial-recognition-to-deter-problem-gamblers-despite-concerns-over-rights.md",
+      "title": "Australia bets on facial recognition to deter problem gamblers despite concerns over rights",
+      "excerpt": "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "originalUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/04/ea3a5d70-cb1c-4d31-9a49-62c4a096cdde_a7fb0940.jpg?itok=qMGIsekb&v=1667570814",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "publishedDateTime": "2022-11-04T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
       "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
       "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -50,7 +102,9 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -263,7 +317,7 @@
       "originalUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -316,7 +370,7 @@
       "originalUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -367,7 +421,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -410,49 +464,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-fugro-opens-space-robotics-and-ai-facility-in-australia.md",
-      "title": "Fugro Opens Space Robotics And AI Facility In Australia",
-      "excerpt": "Fugro opens space robotics and AI facility in Australia . November 3, 2022 by . Fugro has officially opened the Australian , better known as S",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105128133/Fugro-Opens-Space-Robotics-And-AI-Facility-In-Australia",
-      "originalUrl": "https://menafn.com/1105128133/Fugro-Opens-Space-Robotics-And-AI-Facility-In-Australia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-11/03/R&AN_e0f63image_story.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -515,7 +526,7 @@
       "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {

@@ -34,6 +34,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Top Stories: Microsoft teams with Sophia Genetics on healthcare tools; Teladoc posts $611M in revenue in Q3"
+    excerpt: "Sophia Genetics' data display module leverages Microsoft Azure services to provide AI and machine learning capabilities."
+    publishedDateTime: 2022-11-04T18:03:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/top-stories-microsoft-teams-sophia-genetics-healthcare-tools-teladoc-posts-611m-revenue-q3"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 18
 
 secured: "hG0mD9UKZZkx2onJugdAQrXsNSPJjcxbNAMmQPdvOsg2+KrkiZvbYuOKjm+Kkg67Ke8MtLZx3CAiLLlAptcRWMKOeAXqsgEpz1fQ3OrtkAKApn6mik5VM/ALDX08yp0+/0kcGwgQjBTl9YS4yAu++5VBJcNjhr3Z7evhKYjDL38+IATIJvG8lBjfGoA/xOKzBRQj3ruWK657cDfPeZtVyiihtdSaVJNPAr2eDIJ1oeVKdyJ19TXSVnfec9BwblUla4sdHdZ9WHYXQne9y6Z8ONRY551uDc5FSjNiQuaJMREBI9EcucMwAqerZpdgTH7TGWAC9QZQHjA+gEPiebIkmJCPGZUHGrWLO8fkZVk+3Mk=;dC2ZmAFRVHiwr4x4/qObJg=="
 ---

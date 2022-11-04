@@ -142,20 +142,6 @@ related:
         width: 714
         height: 429
         isCached: true
-  - title: "Intel's new Data Center GPU Flex Series now supports TensorFlow acceleration"
-    excerpt: "Intel adds its new Data Center GPU Flex Series to Pluggable Devices, something Intel is calling Intel Extension for TensorFlow, available right now."
-    publishedDateTime: 2022-10-31T03:11:00Z
-    webUrl: "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 70
-    images:
-      - url: "https://static.tweaktown.com/news/8/9/89240_03_intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.jpg"
-        width: 620
-        height: 348
-        isCached: true
 
 secured: "XSoFSeam5jVBDNWTXhV8RhOl1Y2T6HLy6mpA9y4zirMH5tIexQhgd4iIsN45jAFa94S3YCsLnCXJnS3+wt5jKRh0IhnY0usl8o1ab/MaGZrOMrGs3tUFGT3Z/I0w/4pN34M/ex9rbrppYkoXIRwy0y6BOfpD0msJF6wza7xNtxYZrQ4DmTIbAczqXdHGISD6xAicYIdFbBEekdL+UHGowbvXqwUVzwwnxesJQWDx9GU/E/DTqJBk5ZmWW8+4Z77wq8Fs1X55568UYj93KXECo7AgHF0t6GZuOlCgpCtPwF0g4fdeMfg+bJpozXdusPI4qGez9rWuEfD6mHqOJ1jYmNX6lFSpdp2dsWi6hAyGfis=;4OXVtdecgmE0EJWSH+H+iw=="
 ---

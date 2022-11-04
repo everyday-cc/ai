@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T19:13:00Z
 originalUrl: "https://www.uta.edu/news/news-releases/2022/11/04/makedon-nsf-robots"
 webUrl: "https://www.uta.edu/news/news-releases/2022/11/04/makedon-nsf-robots"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: UTA Radio

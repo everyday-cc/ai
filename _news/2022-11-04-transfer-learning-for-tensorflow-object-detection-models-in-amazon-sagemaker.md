@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/"
 type: article
 quality: 120
-heat: 210
+heat: 200
 published: true
 
 provider:
@@ -142,20 +142,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/training-1.jpg"
         width: 714
         height: 429
-        isCached: true
-  - title: "Intel's new Data Center GPU Flex Series now supports TensorFlow acceleration"
-    excerpt: "Intel adds its new Data Center GPU Flex Series to Pluggable Devices, something Intel is calling Intel Extension for TensorFlow, available right now."
-    publishedDateTime: 2022-10-31T03:11:00Z
-    webUrl: "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 70
-    images:
-      - url: "https://static.tweaktown.com/news/8/9/89240_03_intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.jpg"
-        width: 620
-        height: 348
         isCached: true
 
 secured: "HHeRoHnQom13wU1YiYVgTt8BX8n+4J16uTp3mLk3/le0j3zFbXf0IGfDh57C7QODwWY+nuQvc0Jn37t8HtDM5/8npNnyHttPsGgiJbzeWJZaYCO7GOto4w0xvyZ8oM7NFxezOE+QqoGSwMs9QHFjptQRqVOFKgTx+JypsOj9Sg/432reA2E3PlQ5aRAaiY5SY0MHJ259jZjnNdp/MGzjDQpD3XQFUmISmuNUfOZjA9eS8+/q1HOsS3per7Brdq58G5h5K3FxP5lwOMk7tzr2YgHZ6KnHfz7GsPNLsQtf04T4XSyLbg/pWK3x0IxqUhSau/JFN+9lZR40h7sR9auW2tbpl0FqvRqAEPe5DNOxaZE=;Zg2ItT16NqXI7ngS3mZzoQ=="

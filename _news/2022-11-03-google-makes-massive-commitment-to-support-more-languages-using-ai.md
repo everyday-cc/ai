@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-makes-massive-commit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google: AI to be in 1 000 languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world’s one thousand most spoken languages as tech giants compete to dominate the internet’s next battleground. Data is crucial to advances in AI,"
+    publishedDateTime: 2022-11-04T11:11:00Z
+    webUrl: "https://www.thesouthafrican.com/technology/ai-language-in-1000-ways-google-says-breaking-4-november-2022/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 19
 
 secured: "xlz3hMll7/pXLb9QkYlfxhk6I/9LJqRyFs9Ccjwf+n5/3JT7caPhrx6EoDdjb4XGgB8Ssyb5wJz7JnDgdx5nBXoqYt976s/XVRiq+YVi85X2Rvbhq1ZHoGe/bO1PsPeJP+pb/unBTrqLFpryg7698aDc5S21kDhwfRBn5hrJoCVfKZCWoJ1z4XvIENvYVufgo71XVdpjyo6RY2J7qGvDVJmOUZkIy2M+CPTtfrWvFZHtJjEW1ykzxxTvZr+eWFIQSC7AEVALOAtiiECDSIYbERBxWT2OX2hYy5PxRX7HNziyVGIXSB4CRw+ehjlrRoxk5E0q3VzFPg994vvFhJeJb0HxH4k0yNOUIB93CYhvd/9AcG/JvoW7XFv35E6MMKLwOpRXAhpLDI+b0noTCrJWlg+ruYPpBGrK2opzzrbF6uk+WfGNlNqgFXmxHF4SwCsJmObcky3lnwuZIsTdpxNkxVO9S+ICbbfhY742SYxvPpcrcoT2QihwIDIJrOQdJNskp5V0LeZ0CHBw7yECvoJu/g==;NFa9K49Uw8InMqXwNFHApA=="
 ---

@@ -19,6 +19,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "TZh3T5wIYZTRqq5OTfstg1AyaYjtF2+x9EhFbZC1FYi3v8YDRpOswCs1TyA/XnXxjoxPjUxd5lDL5aJ0kVDwS44SbVHP/ZmOoo7Ajk8ftndbDrRNwT1KTx+pVmPFKIfo7Uj9t52grMp7DwVeiEcCdO0b9yXxMInpNfho5Soxka/CbgCmN215C9wfQiPM0p2y/mCo4HnNNtHeCrXzmZMGrokgyvNcX4rpRmkIeQnw3AUFXsP1Jav62jmrAp63tmxV0YdwzihrSGLcFNtMLDy2LGQcxw/oyE5UMGL5YVyZzC3AAeZhAyyISNJkVSMRxeqeTxHXtOBXb4htkg+ve7l0fDWgSiX1iKYyd9LdQPzSpz4=;Xtzt76Uo7pS/l18VG3kuPg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1927562/Co_founder_Timekettle_Alex_Qin_students_wearing_translator_earbuds_Ottumwa_School.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "MSZG0xjzUTIIA/pArDb7CJlScVegjYffdFr+l6bulToN7wHLDHrKhBsLcv/aQc+yKr9ymNKfQ5XG/oXHEq8f76kqRYz6jE1z+AP6pBpSG8ZubrwmcKIxNIEK+ABjnmSPckQ43Xmdqf3gFhXIehA6H2BwRdRifk84YxmysTC6icn9qFhslTEeSnr391iPjlYTvN8xcxC5mYx16jdEnZ76zvrEyptjSaQyaVVskuSJTl9/uZo5D92TaX1/gOkJjNxmzrRKxZBk5nnBUQDHmDCgaMaSru24LuNXPg2DkrjqcPslG3wyOJAlM0ywLma2u4y7VGNzvLaiFgWIgvpCCH5qqKqXYNDJs22ZiJCt6n/tslE=;FmUxVkR7N9RmYlQPxHbFvQ=="
 ---
 
