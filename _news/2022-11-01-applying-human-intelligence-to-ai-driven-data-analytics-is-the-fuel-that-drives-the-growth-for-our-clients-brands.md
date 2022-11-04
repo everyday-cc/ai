@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "“IBM Introduces New Software to Break Down Data Silos and Streamline Planning and Analytics"
+    excerpt: "IBM (NYSE: IBM) has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
+    publishedDateTime: 2022-11-04T10:00:00Z
+    webUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/"
+    ampWebUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/IBM-Introduces-New-Software-to-Break-Down-Data-Silos-and-Streamline-Planning-and.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Business Intelligence Market Size in the Healthcare Sector"
     excerpt: "The global business intelligence market in the healthcare sector has been categorized as a part of the global systems software market. The global systems software market covers organizations that are engaged in developing application development and management software,"
     publishedDateTime: 2022-10-31T19:23:00Z

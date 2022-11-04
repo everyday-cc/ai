@@ -24,6 +24,22 @@ images:
     height: 312
     isCached: true
 
+related:
+  - title: "Dutch fintech Yabx enters Nigerian market"
+    excerpt: "Yabx, a FinTech venture headquartered at Netherlands, today announced its foray into Nigerian markets with a mission to democratize credit across the country with its digital lending offerings."
+    publishedDateTime: 2022-11-04T11:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94778/dutch-fintech-yabx-enters-nigerian-market"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+
 secured: "gkLTgTlDZcBX2KZcN6T+YOEssVe1Kmg+6LxTmKmTRxYxg02rIOKjXDqzM48MtqzJ4jU2G2k/a6VQYC824KaRH7vQV0ByaWZQKCoBNWF3XDIZbzYhsjSoBlCR87wrNpLmodmX1JtF50eAZcVXD29KUztZ+Li5XwsD4iu7lDT1o865HcE9SRhg4zNrzI1D/J4NhlBg+67L0NrNrXaN45Zx28QlDlzsDEeukeb5f62djaamiMhip7v4e7J/SOPUlXLAgMUVBuMKofWPK9Cqm4+fs484UsHhQcTZeiZ1o21NAsTpeM+Xp/PNWJ1nPXgbP2P7JE0EOrh7z28SHG13ars3vNwhtuJwstNxuyQHVwatvPJVDuD+Exk2PaOrSpF4S3ZlUC01ISuVLuSa3D+TFmWjylMJYzs+n3ZM3vqdy6EJ48wawRb8paoIWYzvmARWEErbltbLoGY+QItI9WFJHU0wIwKOjLXQhI7Pa1WwJU5HwtN8hHnbBWGRhdcAw6iStz+gNGg9yautJPMLmqHgDaheXg==;PKlx+sV8I/7pff8JwMxfLw=="
 ---
 

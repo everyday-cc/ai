@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/intelligence.jpg"

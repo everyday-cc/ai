@@ -107,7 +107,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -923,19 +923,19 @@
     {
       "path": "_news/2022-10-24-lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network.md",
       "title": "Lunit partners with SEHA to test AI-based radiology via UAE's largest healthcare network",
-      "excerpt": "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this year SEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ -- Lunit (KRX: 328130.",
+      "excerpt": "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this yearSEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ --",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1927497/Lunit_SEHA_officials_attend_a_collaboration_agreement_signing_ceremony_Lunit_s.jpg",
+          "width": 400,
+          "height": 280,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -945,21 +945,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T22:46:00-07:00",
+      "publishedDateTime": "2022-10-23T22:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
         "publishers": null,
         "authors": null
       },

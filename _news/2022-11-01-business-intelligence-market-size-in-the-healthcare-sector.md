@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "“IBM Introduces New Software to Break Down Data Silos and Streamline Planning and Analytics"
+    excerpt: "IBM (NYSE: IBM) has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
+    publishedDateTime: 2022-11-04T10:00:00Z
+    webUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/"
+    ampWebUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/IBM-Introduces-New-Software-to-Break-Down-Data-Silos-and-Streamline-Planning-and.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Applying human intelligence to AI-driven data analytics is the fuel that drives the growth for our clients’ brands"
     excerpt: "How 81qd is helping biopharmaceutical companies improve patient outcomes by leveraging RWD (Real-World Data), AI (Artificial Intelligence), and (HI) Human Intelligence."
     publishedDateTime: 2022-10-31T19:54:00Z

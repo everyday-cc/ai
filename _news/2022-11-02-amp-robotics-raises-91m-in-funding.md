@@ -36,13 +36,13 @@ related:
         height: 563
         isCached: true
   - title: "AMP Robotics Raises $91 Million in Series C Financing"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $91 million in corporate equity in a Series C financing,"
-    publishedDateTime: 2022-11-02T12:03:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/amp-robotics-raises-91-million-in-series-c-financing/article_6bf8ef39-adf1-5464-bc4e-f394689b810f.html"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $"
+    publishedDateTime: 2022-11-02T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: newsroom.businesswire.com
+      domain: businesswire.com
     quality: 49
   - title: "AMP Robotics Raises $91 Million in Series C Financing"
     excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $91 million in corporate equity in a Series C financing,"

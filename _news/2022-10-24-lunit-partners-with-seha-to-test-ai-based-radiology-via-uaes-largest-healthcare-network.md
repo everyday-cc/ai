@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Lunit partners with SEHA to test AI-based radiology via UAE's largest healthcare network"
-excerpt: "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this year SEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ -- Lunit (KRX: 328130."
-publishedDateTime: 2022-10-24T05:46:00Z
-originalUrl: "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24"
-webUrl: "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24"
+excerpt: "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this yearSEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ --"
+publishedDateTime: 2022-10-24T05:54:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
@@ -21,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1927497/Lunit_SEHA_officials_attend_a_collaboration_agreement_signing_ceremony_Lunit_s.jpg"
+    width: 400
+    height: 280
     isCached: true
 
-secured: "fCjZ+XLYesNP1ogRGf+blLXKj8waJqLEk2ACKPdMzpqYMGdQnvMCS+EtmCmSILp7voM41Jlnp0QREgsyuJ9LsuOKBqiXB0uU5K8nKvhltjUibf0VNTq4ylK3Qyh553o4rWf1xMXWPpv51YsCcG0pJZ70adQ+d36jbBNvdqKpLeUFiVo5NFS6zBWVbFeEzLlac/7AH3fqnfTruaJRgwTzCUyiaDuPUMk3Q7QsBn/uIYrK0Lvc/YNfRx4oUFF7dy5+DBWIB0DkI4wZAeGXhhK/s10CoSx4H+/rBP0T73gKH+0pC2/DuAq3hFUCiKlFfeeSqZljVVcBnPJyz8atEdbFQwLpUizwJUKaCB+ngywDZAI=;3pt4yhrsPDlZ7cWQPYVmyw=="
+secured: "F4V+uwBlLWP11735TbHYoqMndItXf0RYsB6MOAY+iP2f7MdxrU/wKEaZJxWc9nY3vurQxM2dg9KU00pPRWs/dKWxuQXj0SbnVDU4BKvWKzdmS/GQ/wjC9Dtej8rlEzGovkqyOxT7O9r/ptD6TxThTrxJOhtHABxz0IRDwsrk3W5I29+Q/jXlUqJHDoGTzXDjD8aD1zSoA3XTPb1ZonV0ECSi0oLfRsj0+ZerOfgcFm7uoEPPpVn4EfSwheOWAj/gAN7O+G7YMjx2CvEsdzPuerhY5K8V7i3diqzbac8SyNKv4gxjQfl1VwyMKKk1b94wey/8aPL6Pz8jFHCwDTzpIoKJJ26qLuIbb6gF5bvnML8=;kPASyrtd/EdgmqpX18mdmw=="
 ---
 
