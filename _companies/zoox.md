@@ -2,7 +2,7 @@
 name: "Zoox"
 overview: "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy."
 type: "profile"
-heat: 0
+heat: 93
 
 website: https://zoox.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zoox"
   url: "https://twitter.com/zoox"
-  followers: 21304
+  followers: 21305
 
 size: 1,001-5,000 employees
 yearFounded: 2014
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "NBAy9xbKcGN6xYxzxUfpNF3CTNhZ/7ndufl2EmoqEYeAaEY0FTun7TFBnele1ABgw8Jo84xHPXh0ll/DltPI2VzEPr09/QqupwAio8xpVAaeIcvIDkK98EmjJAAvik/5gxPhTb1g7pUietK8h92e7qEraSLdB9CaNG8hc2MnZ4jlEOGn0GHDG0fa6YnGrjbdDQME1RTzWps2tlaNe6bfGWESTCPW3iDFFE0PexpRaw/FvGaBYvi2f+PTKTReOtbfBz9Frhsc4C5ZTG2gpitFTZC/hUimjIH8fJGAevzr2nBZbbQ99rq0H4AtGdnlez+XYOa+sFYXU0nNZ6x8Q1pdKMi9On4zKHI+apCQrBE0+8DWLtqPqWeuErg0HTu5WQTQdWhEgyzPEQAhANCoKxakVf+5tCbJRIbcSH/DkqQaMK0=;NQI2q7RmqoLowkx+HhYGlw=="
+secured: "Mw3IdRH4qLExV1g2AOeR3LvxMgjeq49KKtwjfbYccjGu852T9BwB1wNo4KWE6f/1cs5EhTZdEkMFCNcxyNFHHMg/wvNaxhtEvEvIuNWKNbLTAco1XHmJ4izpk5N5bfwGDjdowqbTAJKlG9SdvooDeCX5xnI/C0fRtVaykBMkUJuQgHqTMc0/osYfEm9kBaC261Mt5uBXSD4UEug82sSeGsQ4vlSFKY6Ri34VTZueIGphx7HgDWmym3t5hs5C0DRwVn3jIXYDBiBqAV7CM8Y0rrkL2JiYWzcYBVrC1C0ui9hIniKMm2iR1xb5ytF9QT+CYLWcr9GIfdMYQemSfeqtjvg45c5OWUAwhJYgMPDTT13R7Iw8792x9AjmqwNU3PsNTk8tuv0YILUWzvPSzFNCuaipNYysI4o9T8DBm7LtG58=;Jc/HmQNfAJidjrKmtVCEQw=="
 ---
 

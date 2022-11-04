@@ -2,7 +2,7 @@
 name: "Alegion"
 overview: "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale."
 type: "profile"
-heat: 42
+heat: 78
 
 website: https://www.alegion.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Alegion"
   url: "https://twitter.com/Alegion"
-  followers: 1745
+  followers: 1746
 
 size: 51-200 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "DCKL/0WUxoQW6yde1I66qkA/7VK/DK5DFZ6EDuyx8Q8fgcCQxH011Hi72fnbwIpf2RP33GcbQx2lsCY5FXbNq5ukATqq5LvxZlVP4Orhx8vLlPsc+Sq3X85hnOCtLfDfcQI4jpjUIP69hrzbc5YBeyQobgkDcojd5NR/Q2UTl4/TmNhxSyUtNJvMG2Ph4+QeFc03BVVK9TQ7C0KYKasfNPZwW+4u+iqbP5mhILxgs6kfnp//gO+8Xqpd6Qjs7DP7dXcIExwhhLtcIhM/dUXwV+/oWhhBoZY2C5V33wVkjTs0GAOTqrwBCA3tZ2jvBpQM39GOr18Cmq5R5TwFa5ZZTERP6fdNAusuELiGKUDpqttdGz3VSIw0pu2EkjcQzqx2AuaiIeCEImONnTzuGDnqJmTOi2Q6J2Ekj9MINRBxUvk=;K5OqZf2CfmhePHEj0B56rg=="
+secured: "SkL05AgnmYymBs8efoiyKeytHzOM1JghCeCK/AIxBaxzve1bhWhxVPj2r8polYdq8CyT0tgb+OMsW9Uuku0fs0qKCnfqh5BaY3a3QAp1WaOW6u5r7cM1an1zWPh1KXuv8IVXpRXwdvii0eX0Ug2Y0VC7TReqY64xEfuSUvo9WhuGj6uS5adhWph/ybRAc4nWPvK8MgXBzl33ASbZ7czLqbxiyms+LHZ5AGX6cvWktN40h6xdRz1kWFOsTmwDC14bHzv9wjXLddGYUvSjZF0cKUqUGmwYaW2yO2oE5NN5fUXoy0dNxZin2IFMqWS67uX7bUWg4n07Xhpa67xEnDitUAqVh1+hcktMk+RwISK0kCqls61jDaHzh4mSqPfXEgJpMn5Rti95CQ5jX6J5xaRMuXn1f0LnKhiKBMnYcd+zaTU=;Cefone3qvAzdWEuIN6Jtkw=="
 ---
 
