@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial intelligence–based algorithm predicts major adverse kidney events after hospitalization"
+    excerpt: "Researchers have developed and validated an artificial intelligence–based algorithm to predict hospitalized patients’ risk of major adverse kidney events after discharge. • Results from the study will be presented at ASN Kidney Week 2022 November 3–November 6."
+    publishedDateTime: 2022-11-02T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/969673"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 5
 
 secured: "PT8iGYPKitCGuXfU47+rfhtCSsZ0la0R5ouuNbJIpnxVP0LV7XhYUu9uoIkHGNsqiQkkFPajHi9XCeoNAApWrm9OSkCh8aS4EuBN33wptq4n3clz2LOfhn9sApJQd3uS+J0qk43pDPBz2PROTv8FhiXfgwmlO2eb5hYNEhu+oyL3nAw/qzCC0dODyGjO8hHtpsIYDp1uvlW0ZFidqYSyjKi4g6rBMFeFgiaRnfV/TJ9OQANXa3NcZIvb4BIEtAw8IBk+ilUyD5oe1ovsbP85yED/UdbbOaP72mo5YqnM/bLIviiuzef4FK16YJZbVWZaZ5V7qylNRcAkKVUzEgHMBHCqU4kDoG5yJLHkqOrghrKAxy3g5Wj+UBoiy4YYiR9jv5cKHOvQEnHuk9hKAH9G0AuO2DZ+hmpduyEnW6DXeOeXEo3qn0Jc/u0uMz8hLzoT7kB9z+rzKY4qYMELenYsS0aUBS3BmlLPrmnUJTot475nS1XbKZKPIkoAyRiIvK524qrfmF49/yClaOhedYm6Bw==;ZWTLIb7vQnyhgX3tyFbOFw=="
 ---

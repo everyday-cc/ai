@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fine tuning storm forecast with artificial intelligence"
-    excerpt: "This didn't need to be the case. Recent advances in artificial intelligence have made it possible to model extreme weather events and predict their timing, path and severity with impressive accuracy."
-    publishedDateTime: 2022-10-30T10:06:00Z
-    webUrl: "https://www.news-press.com/story/opinion/2022/10/30/fine-tuning-storm-forecast-artificial-intelligence/10609479002/"
-    type: article
-    provider:
-      name: The News-Press
-      domain: news-press.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/10/26/PFTM/e8c71a0a-a8da-47fc-9afd-9e1c57878aa8-Kevin_Gerrity.JPG?auto=webp&crop=967,544,x0,y371&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "LDrd1Nf6F3/PhRL9KiJGprx39r+UKGpGp/GoCYFz7Q4swlEHtPKCEQeF19U+sVKDGfbyY4Is+ZSfxqf78LoAgrm0KGAKRadZ9+pQE9bmXtgQ/AuQd+qEAIMMzTLIuprTagp3bY0Nw226BFQet4IF0uO6CSaT8G9wEBXAQ9jeqQOYGQsb+x6ObnLk52dy0BHceDMJhNhAnW6Mb716lY8CLhvGzujygCOKa1RJ4nfrxwLTJzJ5W4pbR+C6O3SQfIGUnddvdsA/BJXSE1BSH2YNl86zuaIEQKN8R7Y9qSKGx/Cq9MyucWNcXTDUjzDA6GBpnnWFcvthenI/PaAytF5rUC/SRiLL36AzW4gHTpWAf2c=;RHU5kuddphxwb+jm20Hgfg=="
 ---

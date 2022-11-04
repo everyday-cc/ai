@@ -63,7 +63,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 50
+    quality: 52
   - title: "Researcher combines AI and microelectronics to create neural implants that fight brain disorders"
     excerpt: "Neural implants can help treat brain disorders such as Parkinson's disease and epilepsy by directly modulating abnormal activities—and the University of Toronto's Xilin Liu is working with microelectronics and artificial intelligence to make this emerging technology both safer and smarter."
     publishedDateTime: 2022-10-31T07:33:00Z

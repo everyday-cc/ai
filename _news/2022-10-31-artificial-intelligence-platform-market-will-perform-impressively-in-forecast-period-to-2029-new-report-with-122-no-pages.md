@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fine tuning storm forecast with artificial intelligence"
-    excerpt: "This didn't need to be the case. Recent advances in artificial intelligence have made it possible to model extreme weather events and predict their timing, path and severity with impressive accuracy."
-    publishedDateTime: 2022-10-30T10:06:00Z
-    webUrl: "https://www.news-press.com/story/opinion/2022/10/30/fine-tuning-storm-forecast-artificial-intelligence/10609479002/"
-    type: article
-    provider:
-      name: The News-Press
-      domain: news-press.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/10/26/PFTM/e8c71a0a-a8da-47fc-9afd-9e1c57878aa8-Kevin_Gerrity.JPG?auto=webp&crop=967,544,x0,y371&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cognitive Data Management Market Size to be Driven by the Rapid Urbanisation in the Forecast Period of 2022-2029 | 109 No. Pages"
     excerpt: "Cognitive Data Management Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Data Management market from a Global and Regional perspective."
     publishedDateTime: 2022-11-02T05:02:00Z

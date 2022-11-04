@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-based-patients-acute-kidney.amp"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Medical Xpress
@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1361
         isCached: true
+  - title: "Artificial intelligence–based algorithm predicts major adverse kidney events after hospitalization"
+    excerpt: "Researchers have developed and validated an artificial intelligence–based algorithm to predict hospitalized patients’ risk of major adverse kidney events after discharge. • Results from the study will be presented at ASN Kidney Week 2022 November 3–November 6."
+    publishedDateTime: 2022-11-02T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/969673"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 5
 
 secured: "2CYPngqoBWPEpytXW+CuzSdZc8wLdXTZqZ/L//A6QhTibtm/5NMHCr/t6I7uPzBGgdV616ooGM7brUDDMHXyjZeJybyyhTFUOANIpFvIrSxSr80r6z1A+Nk1esdCu7hjfinM6Lkss2amL7FtOQo2Wpr1Ywm7YYZML7Ib4/CvFoOl1tpuNbhPgW3ANma12RAJVaK1BnO5NpSkvmy1+sGHPxwIgxljhejInnLXE9041mOCRk9aUvkqn1Zm6Ncp2kI2VBU1fcY91K/9vtq4xOcOaTP3k1v0Plop0tVMoR03DS2UOWos+E4UsO8hiebNNxSL/5wgwBYeLGsWhfu9n2HLouGVyT4SlNFXs3M7NGP6haKe97VXTsSNZPC3S3HR7IwRCaJiV1VfdAw97bv51Qo3qoKPgcqA5t72g4H/cv5+m3ajG84bprlIP5E/XQ3mYUncWlWwVmrWqSxw3aKqOuJ/FwsZ7SVRO7W4DKboAMSAIprFSdoCYM+VV5fRaTrWkq2DlDoezeuhDw+ndya+ATj1ow==;FNcmVDOhWNjRapMpQNxwrQ=="
 ---

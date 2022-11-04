@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-03T20:16:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/11/221103104954.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221103104954.htm"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Machine Learning
 
 related:
   - title: "Researchers plan to use AI to better understand and treat brain tumors"

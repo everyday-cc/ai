@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zest AI Secures Growth Capital to Advance AI-Automated Underwriting"
+    excerpt: "Zest AI, which claims to be the leader in automating underwriting, announced that the company has \"raised over $50 million in a new growth round.\""
+    publishedDateTime: 2022-11-03T13:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
+        width: 1280
+        height: 1104
+        isCached: true
   - title: "Denver company raises $91M to build fleet of recycling robots"
     excerpt: "said the capital would grow the startup's manufacturing capacity to support a fleet of 275 robots around the world. The company has three production facilities located in Denver, Atlanta and Cleveland, Ohio. AMP's artificial-intelligence-powered robotic ..."
     publishedDateTime: 2022-11-02T13:08:00Z
