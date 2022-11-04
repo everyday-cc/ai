@@ -111,6 +111,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
+    excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
+    publishedDateTime: 2022-11-04T15:56:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-4-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "2B5xQXaou67pFw9/Uv5mI1Rw7gam4nOMJJdjnATDR+dQpxZtpgHCtKaiMILB+bsxGpVaSIgH0CYs1tCqMJO7ZiTrPW4Q5FjNFpIqW2bBQRItsICofubI/YbkpQ/Umbji1KUwEPoh8J/cVF93kB2yPtSc+LWG0lepYq2n+iAosnoYSfbZ97+EmgPvCh153LY1a721Bxl8d7Gsr8oHrHobLEPANUawgrgzaEUyaouy1rBeVTsif4MHQav0BZSwumkiB5bQnIWD6Y7nUROEBIUcTjWTWly5bkys1mDGEs++IUvF3AS7Rw0QoHuWqR81WeTApjHhZpWEpQ1jAtYeG3XIWIOCxdM3WfUf2kdASZAgv20=;Fs4/+Em4vgY/a9VJUyraHg=="
 ---

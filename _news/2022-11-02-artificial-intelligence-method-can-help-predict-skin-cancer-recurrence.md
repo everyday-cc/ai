@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-metho
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-method-can-help-predict-skin-cancer-recurrence"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence"
-    excerpt: "Citation: Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence (2022, October 31) retrieved 3 November 2022 from https://medicalxpress ..."
-    publishedDateTime: 2022-10-31T00:01:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-79.jpg"
-        width: 1347
-        height: 798
-        isCached: true
   - title: "Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence"
     excerpt: "Researchers have developed and validated a machine learning--based method to predict which patients with early-stage melanoma are most likely to experience a cancer recurrence. Most deaths from ..."
     publishedDateTime: 2022-10-31T18:34:00Z

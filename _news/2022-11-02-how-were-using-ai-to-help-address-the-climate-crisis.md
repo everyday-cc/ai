@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adap
 webUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adaptation-efforts/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - Google AI
 
 related:
-  - title: "Temple Health using AI to reduce cost of care"
-    excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
-    publishedDateTime: 2022-11-01T16:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
   - title: "Use artificial intelligence to combat climate change"
     excerpt: "AI can improve weather predictions, improve carbon capture solutions, make transportation more efficient and less detrimental to the environment"
     publishedDateTime: 2022-10-31T13:01:00Z

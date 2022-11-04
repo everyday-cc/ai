@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How and Where the Artificial Intelligence Courses for C-suite Executives Market is Set to Grow in forecast period 2029"
+    excerpt: "As per Market Growth Report, Hydraulic Gear Pumps market size is USD million in 2022 from USD million in 2021, with"
+    publishedDateTime: 2022-11-04T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-courses-for-c-suite-executives-market-is-set-to-grow-in-forecast-period-2029-2022-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Will Play a Significant Role in the Future of Security and Surveillance"
     excerpt: "As per the report published by Fior Markets, the global facial recognition market is expected to grow from USD 4.2 billion in 2020 and reach USD 12.84 billion by 2028, growing at a CAGR of 15% during the forecast period 2021-2028."
     publishedDateTime: 2022-10-31T12:50:00Z
@@ -63,17 +77,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 25
-  - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
-    publishedDateTime: 2022-11-04T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "CHI8i0/B5OTCg2YbA6iEomubK+tDEhubr+ZpPHhxoLXs9u1ngyBAj8bkN8YOb/T4IplGRJufJVOOdWfcwbdDBCUisnF6+Bc8TKj2IUndd8Dhoe4SuZ2qPBneDvFIjvLIq3zmhXRXnvi0rryRXZYtGrrbMY27pln/KcFvgMj+z3V1xvLWKywyAOClH5zgacTvYYo+5jNcIwpTJkomlXy+vkbA1HyvCVaxSovmdonOJbtuzcudevG2EpAjposq5ht42zBiM+sqY6XEwr57pJdsBAgL1f8EJbAO+hwGK+nJwhNzNPqB1Ea+EHrVWEoihO26sKff7VnaP6nPx89y03+Tmrm4Oe16j+1jjLThwVF3u8QcN/O3BwwycbyEe0rbX6r2oVzQxEnwoxAuzNTCnMApgYHjTsCJnpWfvl8TsKVSiJP/KeBPvR0xSxd1I5+FVhtq8I+wF3C35HZyxY2QS/wpecSV90/fSE4VDPX9MN/2u06sTMtxoxaIh1RFl4gUJzUMSZnzHuv21leBYAEHZKZT2g==;cD+GqCToXGFL18Tbn8gqRQ=="
 ---

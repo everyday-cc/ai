@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/"
 type: article
 quality: 120
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/cost-efficient-ml-inference.jpg"
         width: 1341
         height: 672
+        isCached: true
+  - title: "Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed"
+    excerpt: "The last few years have seen rapid development in the field of deep learning. Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large deep learning models"
+    publishedDateTime: 2022-11-04T16:45:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/deploy-bloom-deepspeed.jpg"
+        width: 1549
+        height: 771
         isCached: true
   - title: "Solve business problems end-to-end through machine learning in Amazon SageMaker JumpStart solutions"
     excerpt: "Amazon SageMaker JumpStart provides pre-trained, open-source models for a wide range of problem types to help you get started with machine learning (ML). JumpStart also provides solution templates that set up infrastructure for common use cases, and executable example notebooks for ML with Amazon SageMaker."

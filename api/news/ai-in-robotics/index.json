@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
+      "title": "Robotics Engineering Week to address critical development issues",
+      "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "originalUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/featured-web-robotics-engineering-week.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
+      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
+      "excerpt": "\"But where we can really see robotic sorters making a difference is in environments which are less well suited for humans, such as the sorting of contaminated waste or working in",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "originalUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "publishedDateTime": "2022-11-04T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-fugro-opens-space-robotics-and-ai-facility-in-australia.md",
       "title": "Fugro Opens Space Robotics And AI Facility In Australia",
       "excerpt": "Fugro opens space robotics and AI facility in Australia . November 3, 2022 by . Fugro has officially opened the Australian , better known as S",
@@ -295,7 +391,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -965,6 +1061,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
+      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
+      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-who-the-fck-wants-a-kinder-egg-or-beef-jerky-mid-walk-in-the-parking-lot.md",
       "title": "'Who the f*ck wants a Kinder Egg or beef jerky mid-walk in the parking lot.'",
       "excerpt": "Walmart caught headlines earlier in the year after announcing that it would be deploying a team of remote-controlled robots to its parking lots. With help from tech startup Tortoise, the venture ...",
@@ -994,40 +1133,6 @@
       "provider": {
         "name": "The Daily Dot",
         "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
-      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1326,110 +1431,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion.md",
-      "title": "Mind control: The metaverse may be the ultimate tool of persuasion",
-      "excerpt": "In an unregulated metaverse, a controlling force with deep knowledge of users can use feedback loops to drive them toward a desired goal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "originalUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Metaverse-Mind-Control-image-001.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "publishedDateTime": "2022-10-22T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-google-in-talks-to-invest-200-million-into-ai-startup.md",
-      "title": "Google in Talks to Invest $200 million Into AI Startup",
-      "excerpt": "Alphabet’s Google is in talks to invest at least $200 million into artificial intelligence startup Cohere, in another sign of the escalating arms race among large technology companies in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
-      "originalUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-649470/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Robotics"
       ]

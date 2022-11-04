@@ -65,17 +65,20 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
-    publishedDateTime: 2022-11-04T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
+  - title: "How and Where the Artificial Intelligence Courses for C-suite Executives Market is Set to Grow in forecast period 2029"
+    excerpt: "As per Market Growth Report, Hydraulic Gear Pumps market size is USD million in 2022 from USD million in 2021, with"
+    publishedDateTime: 2022-11-04T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-courses-for-c-suite-executives-market-is-set-to-grow-in-forecast-period-2029-2022-11-04"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5tsU4ymdy2zH/VbiI3zWPGlGUZp15ipwvdchxykX0+OSNaQcgygZSRJHsPAfPsoTezUbIg+lNCNUnZyFpotEN9B8jf69xoeFjscJY2Td0QD6xgp07w5ZGQyM6CbJUplvts83f3jrVeuk6PQmnl5eaNPrWtGJQ2TlJMmOGbr11a9A//jvitKnV1gVY/fcSrRLXiJll/6nO0lC1xLg7fbI4MXbf16/8SLS/bnUx6y66g+ym9OOiBkd/9uwNAn4s0nyoBkGm4G7Zy0u1WlkPKe+z7/KK9Jkre58aQDU+lZHbYZ3xomp39heEZP4zguSOqqsiGoXQKcruzc09uBalBodKVn8xI5zrvQ5hW4O2jCNlKucoq511mBUpONq4pl2PftTTs6JQCVKrDEs9S1TI4QkzCQwbid9PfspbQyI0kG8fZmVYqF84j4b4aD5Dv4rEQ+rVnJdh4iKfxEPF5gUqeO2zyewwXgZvRq1NEpgTx3e4p/hdq0X7kKrHDWXARAwN4OntYmaTZGPVoCS3DMA+eenXA==;cR1pPF/YixhoRXapV6pgFg=="
 ---

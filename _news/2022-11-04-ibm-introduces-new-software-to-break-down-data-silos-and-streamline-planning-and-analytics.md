@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "CIO interview: Marc Jennings, CIO of analytics and AI, TUI"
+    excerpt: "Jennings’ group-wide role covers all the analytics and artificial intelligence systems, platforms and processes within the group."
+    publishedDateTime: 2022-11-04T12:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252526590/CIO-interview-Marc-Jennings-CIO-of-analytics-and-AI-TUI"
+    ampWebUrl: "https://www.computerweekly.com/news/252526590/CIO-interview-Marc-Jennings-CIO-of-analytics-and-AI-TUI?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252526590/CIO-interview-Marc-Jennings-CIO-of-analytics-and-AI-TUI?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "Business Intelligence Market Size in the Healthcare Sector"
     excerpt: "The global business intelligence market in the healthcare sector has been categorized as a part of the global systems software market. The global systems software market covers organizations that are engaged in developing application development and management software,"
     publishedDateTime: 2022-10-31T19:23:00Z
@@ -66,6 +77,31 @@ related:
         width: 1280
         height: 900
         isCached: true
+  - title: "IBM Launches Business Analytics Enterprise to Break Down Data Silos and Streamline Planning and Analytics"
+    excerpt: "IBM's Business Analytics Enterprise includes Analytics Content Hub to bring together business intelligence solutions from multiple vendors."
+    publishedDateTime: 2022-11-03T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Launches-Business-Analytics-Enterprise-to-Break-Down-Data-Silos-and-Streamline-Planning-and-Analytics-155745.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 7
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "Lexalytics, an InMoment Company, Announces Jeff Catlin and Paul Barba Will Present at the Text Analytics Forum"
+    excerpt: "Lexalytics®, an InMoment® Company and pioneer in AI-based NLP technology, announced today that its Head, Jeff Catlin, and its Chief Scientist, Paul Barba, will present at the Text Analytics Forum in Washington,"
+    publishedDateTime: 2022-11-04T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29574282/lexalytics-an-inmoment-company-announces-jeff-catlin-and-paul-barba-will-present-at-the-text-analy"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29574282"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29574282"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "HHaj2gAdL5OdgyWz+SGhlZNPHVWomUzzm342r3mpSjIzrTSBzLWPrL+9zbYKBC6fMcAcl6qSn7G90dNMZwVArtTGMzkRmIOFzdwr1K45USAObjOEvGUGZ4+Nu2UqaisOh+SheQcal0bNnh3mPbS5IJt5bAgjlFlDTJT9wXD1dXPPQK8eTOqaTbMeOeeJrPU3S66rJj493uj+PJEHVPRBBrNpLrPjmKwZiXPIvD2lZGIOyRqNEz9fvTzogo01XeYYkM5r/gsorEvl4MC0UttnLkvq3/3Xkwz028ZxwBnp6iMVcwrMj7K74BEfU1zHPxrc/GIpNMlItMW6PnAlmALQOVtjxpLTdMIoTfDoeqpNlqMme0qo2RaHdR4hvRFFIfWIbkQ0bUj0m1S/PxVICvlJU5AWTKRrqZSNzxDEGmVxRyXEW23i7oHg/+LrRgBvYS+IdgkmzV/nxsl7oUrQhgkK0WBI6uGaIQV7MiaY+UHLsnWMukDv/CeQWP1f5lJuLodpZbRvGoViAsCQLZZzMtVksg==;Z4RZT6jiyjlYu06kLFCjKw=="
 ---

@@ -2,6 +2,312 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
+      "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
+      "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1421615048.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
+      "publishedDateTime": "2022-11-04T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most.md",
+      "title": "The people building artificial intelligence are the ones who need AI the most",
+      "excerpt": "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "originalUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "publishedDateTime": "2022-11-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
+      "title": "Robotics Engineering Week to address critical development issues",
+      "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "originalUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/featured-web-robotics-engineering-week.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures.md",
+      "title": "How code-generating AI (code LLMs) is creating new challenges as it matures",
+      "excerpt": "As code LLMs mature, we’re beginning to discover the challenges they must overcome, including licensing, transparency, security and control.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "originalUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1147087236-e1667580334849.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "publishedDateTime": "2022-11-04T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
+      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
+      "excerpt": "\"But where we can really see robotic sorters making a difference is in environments which are less well suited for humans, such as the sorting of contaminated waste or working in",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "originalUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "publishedDateTime": "2022-11-04T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
+      "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
+      "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
+      "originalUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6365367400aff92bacb21cde/master/pass/Musk_EthicalAI_twitter_biz_GettyImages-1395053069.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/twitter-ethical-ai-team/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/twitter-ethical-ai-team/amp",
+      "publishedDateTime": "2022-11-04T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-ai-image-generator-dall-e-is-coming-to-your-apps.md",
       "title": "AI image generator DALL-E is coming to your apps",
       "excerpt": "OpenAI has announced that its AI image generator can now be integrated into apps and products through its new DALL-E API.",
@@ -61,7 +367,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -146,6 +452,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-twitter-layoffs-to-start-friday-company-tells-staff-in-an-email.md",
+      "title": "Twitter layoffs to start Friday, company tells staff in an email",
+      "excerpt": "Twitter will tell employees by email on Friday about whether they have been laid off, temporarily closing its offices and preventing staff access, following a week of uncertainty about the company's future under new owner Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/",
+      "originalUrl": "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9TVoa6Sfyub4DTtIraYPIN-C6Pg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PS6JHGIU7JN4ZK7BUYMRYW7TGA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -855,350 +1212,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good.md",
-      "title": "Google's Prototype AI Tool Can Write a Short Story. But Is It Any Good?",
-      "excerpt": "A conversational AI created by Google is writing fiction using input from published authors, the tech giant said this week. Thirteen writers used Google's LaMDA, or Language Model for Dialogue Applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "originalUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/d7328e5e13b1f655ee3e54bafe5577912bfdf48c/hub/2022/11/02/a0806138-a770-4236-a21b-979a314d6ef8/gettyimages-1065679054.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "publishedDateTime": "2022-11-02T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-listen-to-an-ai-sing-an-uncannily-human-rendition-of-jolene.md",
-      "title": "Listen to an AI sing an uncannily human rendition of 'Jolene'",
-      "excerpt": "Holly+, the digital \"twin\" of experimental musician Holly Herdon, does Dolly Parton's classic 'Jolene' surprising justice..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "originalUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/d9b47f20-5aec-11ed-97f3-720746f80e8d",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "publishedDateTime": "2022-11-02T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-google-makes-massive-commitment-to-support-more-languages-using-ai.md",
-      "title": "Google makes massive commitment to support more languages using AI",
-      "excerpt": "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "publishedDateTime": "2022-11-02T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-louisvilles-amp-robotics-raises-91m-in-series-c-funding-round.md",
-      "title": "Louisville’s AMP Robotics raises $91M in Series C funding round",
-      "excerpt": "Louisville’s AMP Robotics Corp. has raised $91 million in a Series C equity funding round, with the company planning to scale its business while continuing international expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
-      "originalUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
-      "publishedDateTime": "2022-11-02T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Camera",
-        "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-george-hotz-aka-geohot-is-leaving-commaai-for-a-lofty-ai-project.md",
-      "title": "George Hotz, aka ‘geohot,’ is leaving Comma.ai for a lofty AI project",
-      "excerpt": "Comma.ai founder George Hotz says he is taking \"some time away\" from the driver assistance system startup. Here's what he's working on now.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/",
-      "originalUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/amp/",
-      "publishedDateTime": "2022-11-02T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms.md",
-      "title": "How Can Teachers Deal With The AI Writers Hiding In Their Classrooms",
-      "excerpt": "If you are a teacher, the probability is high that some of the essays you are collecting from students were actually written by an algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/",
-      "originalUrl": "https://www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6362aff5bdce0df674de53f3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/amp/",
-      "publishedDateTime": "2022-11-02T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
-      "title": "Study urges caution when comparing neural networks to the brain",
-      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
-          "width": 717,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
-      "publishedDateTime": "2022-11-02T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

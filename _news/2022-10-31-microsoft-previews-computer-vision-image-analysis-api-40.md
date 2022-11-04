@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft Previews Computer Vision Image Analysis API 4.0"
-excerpt: "Microsoft announced the public preview of a new version of the Computer Vision Image Analysis API, making all visual image features ranging from Optical Character Recognition (OCR) to object detection available through a single endpoint."
-publishedDateTime: 2022-10-31T09:40:00Z
-originalUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/?topicPageSponsorship=90364373-c027-46f3-bc75-be9a087f45a8"
-webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/?topicPageSponsorship=90364373-c027-46f3-bc75-be9a087f45a8"
+excerpt: "The upgrade of Computer Vision API is also part of Microsoft’s Responsible AI process and its principles of fairness, inclusiveness, reliability, safety, transparency, privacy and security, and ..."
+publishedDateTime: 2022-10-31T12:55:00Z
+originalUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
+webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
 type: article
 quality: 56
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: infoq.com
 
 topics:
-  - Computer Vision
-  - AI
   - Microsoft AI
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://res.infoq.com/news/2022/10/azure-computer-vision-api/en/headerimage/generatedHeaderImage-1666799178769.jpg"
@@ -82,6 +82,6 @@ related:
       domain: bnnbloomberg.ca
     quality: 36
 
-secured: "WM/XFBSlvpKb4ZRQf61kXL0IZJFLVMBbCFaaymrBunAtDlnEGunJXHjF8uuWfNQ916fL8dpuChkCsyxbVh2oRjEyPn6C0cw9HAWkY+gMvQLMgo0aZ4Knv5qcHxgGPy79ZcTtyqqolzBR6PoI3LBzs1Sb/Biu6y4oCUkph6EJQ0X4snhlHjepnymo2cUn8J4F5F0BtJ+1sVuyU+DwG1v/ePDUAOz7vCuszLSOxg/G78N7/436pe5LNGnBBB4geQQC/ZKMPdaHIkoxd5fyNVWzYQ0HZw5XduRKtM4iz2nY3m3VvwLKlfNlse2x7Ftvo2KIQYH9ysL5j08kF4JMmsIBs04ssZ5177VNfw+h3Pwt1eA=;orNtZT+G3hy1OEVR/GtuwA=="
+secured: "Csn24GZZNhrvriy66F2Or9eEyQAxG7I/Bl6VvOitFW9fN1Ieg3Zg/uTDChX61hddVeGHTvXRHN1zb3W7QtesG7hNgqd6GXvMIV1yfVH5kqvo5/OXV/q+vs7fbNDwuDho8PWIKf/eG1+XRXrwZHNPaTnRSOA7M+8a+MX+WKsjWF8PXdHWlDIJnOQ7bBnVj9/mQYiTZtglx2fD3EQOO1pIl3QFinf9l9Ggcg47qgubu1tJ6wktaHHWv2wfhQMMd6lJmMz4z/mUouXQiL5rgwodTfa5VPNz8lTHo4VwWXOnpEsoF0T/TQRkIZziYB0RXoKroBisdWTLQtkXOES1YXq3gf1a4Rg+VQr0g9OFv8J0Gt0=;ziPifIIW5Ko8o0VePBDlaA=="
 ---
 

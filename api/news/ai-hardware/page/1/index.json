@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
+      "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
+      "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1421615048.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
+      "publishedDateTime": "2022-11-04T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most.md",
+      "title": "The people building artificial intelligence are the ones who need AI the most",
+      "excerpt": "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "originalUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "publishedDateTime": "2022-11-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-todays-cache-are-taiwanese-chip-firms-decoupling-from-china.md",
       "title": "Today’s Cache | Are Taiwanese chip firms decoupling from China?",
       "excerpt": "Taiwanese chip makers have been investing in mainland China since the 1980s, and thousands of firms operate there today. Decoupling from China won’t be an easy affair, but the process seems to have st",
@@ -1265,102 +1371,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-has-there-been-a-second-ai-big-bang.md",
-      "title": "Has There Been A Second AI Big Bang?",
-      "excerpt": "Aleksa Gordic explains how the latest AI models work, and explores whether the arrival of Transformers amounts to a second Big Bang in AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 935,
-          "height": 1021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "publishedDateTime": "2022-10-18T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540.md",
-      "title": "Axiomtek unveils advanced industrial ATX motherboard with 12th Gen Intel® Core™ processor for AIoT application - IMB540",
-      "excerpt": "This motherboard has a total of five PCIe slots ­– two PCIe 4.0 x16 slots and three PCIe x4 slots ­– for GPU, AI acceleration, frame grabber, NIC, and motion control card configurations.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540-1031811520",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540-1031811520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

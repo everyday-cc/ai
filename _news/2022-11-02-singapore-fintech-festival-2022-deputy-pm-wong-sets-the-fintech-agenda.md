@@ -42,7 +42,7 @@ related:
   - title: "Singapore Fintech Festival 2022: Saxo launches digital wealth advisory solution"
     excerpt: "During the week of Singapore Fintech Festival 2022, Finextra caught up with Saxo's ... for businesses wishing to take advantage of the nascent possibilities that AI and machine-learning present to the wealth sector. Scalable personalisation, algorithmic ..."
     publishedDateTime: 2022-11-03T11:06:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41255/singapore-fintech-festival-2022-saxo-launches-digital-wealth-advisory-solution/markets"
+    webUrl: "https://www.finextra.com/newsarticle/41255/singapore-fintech-festival-2022-saxo-launches-digital-wealth-advisory-solution"
     type: article
     provider:
       name: Finextra

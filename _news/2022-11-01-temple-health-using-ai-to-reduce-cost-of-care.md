@@ -19,24 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "How we're using AI to help address the climate crisis"
-    excerpt: "Communities around the world are facing the effects of climate change — from devastating floods and wildfires to challenges around food security. As global leaders meet in Egypt for COP27, a key area of focus will be on how we can work together to adapt to climate change and implement sustainable solutions."
-    publishedDateTime: 2022-11-02T13:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adaptation-efforts/"
+  - title: "The people building artificial intelligence are the ones who need AI the most"
+    excerpt: "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,"
+    publishedDateTime: 2022-11-04T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Use artificial intelligence to combat climate change"
-    excerpt: "AI can improve weather predictions, improve carbon capture solutions, make transportation more efficient and less detrimental to the environment"
-    publishedDateTime: 2022-10-31T13:01:00Z
-    webUrl: "https://mg.co.za/opinion/2022-10-31-use-artificial-intelligence-to-combat-climate-change/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 105
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Zest AI Secures Growth Capital to Advance AI-Automated Underwriting"
+    excerpt: "Zest AI, which claims to be the leader in automating underwriting, announced that the company has \"raised over $50 million in a new growth round.\""
+    publishedDateTime: 2022-11-03T13:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 17
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
+        width: 1280
+        height: 1104
+        isCached: true
 
 secured: "G9bbV0HgXkGz11BSkjxEc01/TblQvtgUGryhmX4NP451NXlldUn3SHMnqi0QSoJmc6I7zWi9TpZu9YGglzCNIg+RrNIrsXSxe9+qcgDoHzJthU5u/ONBD2EoyBUlTh19lxtwxEJGdRND3R0SBa6d9OLbTpCWzbySpgfiEs8OSOkHOCuGkx2muw9zYn0xhj6iNWqTuXhgFSjCIfGW/lx1UWygxY/19Dm/WPRKwcvjfPTlmsWbphdPvrl298J/OT5UI7ljuyFPwEb8uZmP1kmzJPZGQnggW8bnmm+ozGhFrBadg/aV7OEl5CVMQbonP3dI7Qp/hGF+MbKmTiMccR2qQ1CpL9hldRTEoOt3UFK5XYI=;MrTMGVfQrM2Ppy+fgjiaCg=="
 ---

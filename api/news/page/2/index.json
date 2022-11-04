@@ -2,6 +2,350 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-03-googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good.md",
+      "title": "Google's Prototype AI Tool Can Write a Short Story. But Is It Any Good?",
+      "excerpt": "A conversational AI created by Google is writing fiction using input from published authors, the tech giant said this week. Thirteen writers used Google's LaMDA, or Language Model for Dialogue Applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "originalUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/d7328e5e13b1f655ee3e54bafe5577912bfdf48c/hub/2022/11/02/a0806138-a770-4236-a21b-979a314d6ef8/gettyimages-1065679054.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
+      "publishedDateTime": "2022-11-02T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-listen-to-an-ai-sing-an-uncannily-human-rendition-of-jolene.md",
+      "title": "Listen to an AI sing an uncannily human rendition of 'Jolene'",
+      "excerpt": "Holly+, the digital \"twin\" of experimental musician Holly Herdon, does Dolly Parton's classic 'Jolene' surprising justice..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
+      "originalUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/d9b47f20-5aec-11ed-97f3-720746f80e8d",
+          "width": 1400,
+          "height": 931,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
+      "publishedDateTime": "2022-11-02T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-google-makes-massive-commitment-to-support-more-languages-using-ai.md",
+      "title": "Google makes massive commitment to support more languages using AI",
+      "excerpt": "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "publishedDateTime": "2022-11-02T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-louisvilles-amp-robotics-raises-91m-in-series-c-funding-round.md",
+      "title": "Louisville’s AMP Robotics raises $91M in Series C funding round",
+      "excerpt": "Louisville’s AMP Robotics Corp. has raised $91 million in a Series C equity funding round, with the company planning to scale its business while continuing international expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
+      "originalUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
+      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
+      "publishedDateTime": "2022-11-02T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Camera",
+        "domain": "dailycamera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-george-hotz-aka-geohot-is-leaving-commaai-for-a-lofty-ai-project.md",
+      "title": "George Hotz, aka ‘geohot,’ is leaving Comma.ai for a lofty AI project",
+      "excerpt": "Comma.ai founder George Hotz says he is taking \"some time away\" from the driver assistance system startup. Here's what he's working on now.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/",
+      "originalUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/amp/",
+      "publishedDateTime": "2022-11-02T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms.md",
+      "title": "How Can Teachers Deal With The AI Writers Hiding In Their Classrooms",
+      "excerpt": "If you are a teacher, the probability is high that some of the essays you are collecting from students were actually written by an algorithm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/",
+      "originalUrl": "https://www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6362aff5bdce0df674de53f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petergreene/2022/11/02/how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms/amp/",
+      "publishedDateTime": "2022-11-02T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
+          "width": 717,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "publishedDateTime": "2022-11-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-improve-data-extraction-and-document-processing-with-amazon-textract.md",
       "title": "Improve data extraction and document processing with Amazon Textract",
       "excerpt": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured",
@@ -63,7 +407,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -201,7 +545,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/sustainability/cop27-adaptation-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -486,7 +830,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -877,364 +1221,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip.md",
-      "title": "AI is running out of computing power. IBM says the answer is this new chip",
-      "excerpt": "The hype suggests that artificial intelligence (AI) is already everywhere, but in reality the technology that drives it is still developing. Many AI applications are powered with chips that weren't designed for AI – instead, they rely on general-purpose ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "originalUrl": "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/df1c7593bb82d966aaa309915488b64e46238ce9/2022/10/28/85cb2f88-0b6a-4419-accd-78eca77bf320/ibmaiu.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "publishedDateTime": "2022-11-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-elon-musks-rival-austin-russell-said-teslas-will-not-become-self-driving-anytime-soon.md",
-      "title": "Elon Musk's rival Austin Russell said Teslas will not become self-driving anytime soon",
-      "excerpt": "While Elon Musk has been promising autonomous cars are on the horizon, Austin Russell has made billions betting against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63611d136e8b9800192dd7fe?width=1200&format=jpeg",
-          "width": 1182,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp",
-      "publishedDateTime": "2022-11-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-computer-vision-brings-intelligence-to-retail-tech.md",
-      "title": "Computer vision brings intelligence to retail tech",
-      "excerpt": "Cashierless checkout and inventory management tools powered by AI and computer vision are on the rise, despite economic downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
-      "originalUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1155281842.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
-      "publishedDateTime": "2022-11-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-tokyo-begins-same-sex-partnership-recognition.md",
-      "title": "Tokyo begins same-sex partnership recognition",
-      "excerpt": "They often face discrimination at school, work and at home, causing many to hide their sexual identities. Still, many sexual minority couples say the partnership recognition will improve their daily lives, allowing them to rent apartments and sign ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041",
-      "originalUrl": "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221101-tokyo-same-sex-partnership-recognition-al-1035-0799ad.jpg",
-          "width": 2500,
-          "height": 1485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna55041",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna55041",
-      "publishedDateTime": "2022-11-01T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges.md",
-      "title": "Startups across AWS Accelerators use AI and ML to solve mission-critical customer challenges",
-      "excerpt": "Relentless advancement in technology is improving the decision-making capacity of humans and enterprises alike. Digitization of the physical world has accelerated the three dimensions of data: velocity, variety, and volume. This has made information more widely available than before, allowing for advancements",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/startups-across-aws.jpg",
-          "width": 1338,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T08:05:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-revealed-the-worlds-top-female-scientists-in-2022.md",
-      "title": "Revealed: The World’s Top Female Scientists In 2022",
-      "excerpt": "There are some who object to focusing solely on female scientists ... the less likely it was that women would get recognition. And if these rankings help give female scientists the credit they deserve then that can send a very positive message about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63610d25316980fb5908fd10/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/amp/",
-      "publishedDateTime": "2022-11-01T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
-      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
-      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

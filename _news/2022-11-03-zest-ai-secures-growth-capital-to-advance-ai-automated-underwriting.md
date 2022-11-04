@@ -27,31 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI company secures $91M for fleet of automated recycling robots"
-    excerpt: "AMP Robotics said a recent flood of funding will support the technology needed to do better with the recycling of plastics."
-    publishedDateTime: 2022-11-02T15:55:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
+  - title: "The people building artificial intelligence are the ones who need AI the most"
+    excerpt: "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,"
+    publishedDateTime: 2022-11-04T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 105
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2431667403016/2022/1/911d0aad918d0cc8241708e8274f6bcc/v1.5/AI-company-secures-91M-for-fleet-of-automated-recycling-robots.jpg"
-        width: 1200
-        height: 802
+      - url: "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768"
+        width: 768
+        height: 512
         isCached: true
-  - title: "Denver company raises $91M to build fleet of recycling robots"
-    excerpt: "said the capital would grow the startup's manufacturing capacity to support a fleet of 275 robots around the world. The company has three production facilities located in Denver, Atlanta and Cleveland, Ohio. AMP's artificial-intelligence-powered robotic ..."
-    publishedDateTime: 2022-11-02T13:08:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2022/11/02/denver-amp-robotics-fundraise-recycling-robots.html"
+  - title: "Temple Health using AI to reduce cost of care"
+    excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
+    publishedDateTime: 2022-11-01T16:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "CuH/wMrYOK6tCy/qOhCtS2yiW4xPP5C5rmdq3A/qLtLpuDrxNJjtzFBFJ3UId+il9nuuYbQAEV10VFH3g1by+t5j4rEekF9E5i+Awbfm4O1YqhDmA0jxL6Ny9AzJfNdb/savzmyKrAIb2729UYeGg/9Q74QPT0GPERlvvwbgjQvQy8j0dNzb201cWSLeRD/1svwsRm2OPFobuXXzM/T1MOBungMLKR3Q+MJhkcRb3u7UFiJdXE9cWYVPLxLYiKtpBj5qLr1+q0mQQ7I00IuaVt2wC6c1p9S3LbGrrzpcZKnHfp5heWcEdnjYpEZ5COL3emGnwo/SZOVqHYFJ5wWlha6MB/jArW9phnhdvDN5N1Y=;pV1SIdPRCy4fDtn99bHPzw=="
 ---

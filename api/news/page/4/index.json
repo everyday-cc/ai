@@ -2,6 +2,351 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-31-as-automakers-adjust-why-are-we-still-waiting-for-driverless-cars.md",
+      "title": "As automakers adjust, why are we still waiting for driverless cars?",
+      "excerpt": "Anthony’s company, which shut down earlier this year, sought to solve the problem through an artificial intelligence system that trained cars to spot visual clues to what pedestrians are going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/",
+      "originalUrl": "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cA79I_m8-REToeKBKMhKRSmGL3E=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/K5YFTNSB7PBEHGAV6BOIHT2TJU.JPG",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m.md",
+      "title": "How AI and NLP accelerate contract lifecycle management (CLM), Icertis raises $150M",
+      "excerpt": "Icertis, specializing in contract lifecycle management (CLM) and manager of over 10 million contracts, has raised $150M in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
+      "publishedDateTime": "2022-10-31T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-self-driving-truck-startup-tusimple-fires-its-ceo-over-improper-ties-to-a-chinese-firm.md",
+      "title": "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm",
+      "excerpt": "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105735152-1550011600980dy1_nvtvyaawmqd.jpg?v=1667224750",
+          "width": 1737,
+          "height": 1159,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "publishedDateTime": "2022-10-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it.md",
+      "title": "AI Will Impact The Labor Market, But Workers Should Embrace The Technology, Not Fear It",
+      "excerpt": "Alexander Konovalov is the founder and CEO at vidby, a Swiss startup offering AI-powered video translation and dubbing across 70 languages. The debate about whether artificial intelligence (AI) might displace human workers in the future has been going on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f57eee4bedb44f6caa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "publishedDateTime": "2022-10-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-google-acquired-alter-an-artificial-intelligence-avatar-startup-details.md",
+      "title": "Google Acquired 'Alter', An Artificial Intelligence Avatar Startup; Details",
+      "excerpt": "According to TechCrunch, tech giant Google has acquired 'Alter' – an artificial intelligence (AI) Avatar startup – for about $100 million USD with an intention to amp up its content game and compete with TikTok.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here",
+      "originalUrl": "https://www.thequint.com/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2022-09%2F3ca83e94-3c18-40a4-a8da-5aac5a3eed86%2F2a253c1258143da0dbcb615b6a8e21da.jpg",
+          "width": 400,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here",
+      "publishedDateTime": "2022-10-31T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
+      "title": "Today’s news in 10 minutes",
+      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
+      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "publishedDateTime": "2022-10-30T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-history-of-ai-in-33-breakthroughs-the-first-thinking-machine.md",
+      "title": "History Of AI In 33 Breakthroughs: The First ‘Thinking Machine’",
+      "excerpt": "Catalan poet and theologian Ramon Llull perfected in 1308 his method of using paper-based mechanical means to create new knowledge from combinations of concepts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635eef10995a5ba1a8046ff3/0x0.jpg?format=jpg&crop=2200,1238,x0,y138,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/amp/",
+      "publishedDateTime": "2022-10-30T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-30-first-cross-country-driverless-trains-to-operate-on-hs2.md",
       "title": "First cross-country driverless trains to operate on HS2",
       "excerpt": "HS2 signed a £2bn contract with manufacturers Hitachi and Alstom in December to build trains for the network Credit: HS2 via PA HS2 passengers will travel in the first driverless trains on a ...",
@@ -874,327 +1219,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-heres-how-this-company-uses-ai-to-grow-shrimp-sustainably.md",
-      "title": "Here’s How This Company Uses AI To Grow Shrimp Sustainably",
-      "excerpt": "This company's shrimp farming technology is an AI-powered automated system that remotely monitors water quality, regulating temperature and oxygenation, and feeding the shrimp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635b145e4f0146de48876e01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/amp/",
-      "publishedDateTime": "2022-10-28T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-using-artificial-intelligence-in-cancer-genome-research.md",
-      "title": "Using Artificial Intelligence In Cancer Genome Research",
-      "excerpt": "Artificial intelligence plays a role in cancer genome research by reducing the time to develop ... [+] genetic mutation treatment plans by more than 50%. Researchers from the Institute of Medical Science at the University of Tokyo (IMSUT) and Fujitsu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635b27dab6cac768db876e01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/",
-      "publishedDateTime": "2022-10-28T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ais-true-goal-may-no-longer-be-intelligence.md",
-      "title": "AI's true goal may no longer be intelligence",
-      "excerpt": "Some scholars of AI warn that the present technologies may never add up to \"true\" intelligence or \"human\" intelligence. But much of the world may not care about that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d8452d84a72bddf317ccce52ec12fa799a3860aa/2022/10/27/a22915c0-394e-41e6-92d4-125c5b82fe4b/hi-im-ai-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "publishedDateTime": "2022-10-28T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh.md",
-      "title": "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?",
-      "excerpt": "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
-      "originalUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESA",
-        "domain": "wesa.fm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ford-says-full-self-driving-is-a-long-way-off-as-argo-ai-shuts-down.md",
-      "title": "Ford says full self-driving ‘is a long way off' as Argo AI shuts down",
-      "excerpt": "DETROIT — Ford Motor Co. posted a third-quarter loss of $827 million that it largely blames on newly revealed plans to shut down Argo AI, a self ... using artificial intelligence and 3D printing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report-newsletter/ford-says-full-self-driving-long-way-argo-ai-shuts-down",
-      "originalUrl": "https://www.autonews.com/mobility-report-newsletter/ford-says-full-self-driving-long-way-argo-ai-shuts-down",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/roundup%20hyundai_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
-      "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
-      "excerpt": "\"LatticeFlow is an enabling technology that empowers engineers and companies to deliver quality data and performant computer vision models that work in the real world,\" said Petar Tsankov, Co ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29453267",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29453267",
-      "publishedDateTime": "2022-10-28T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
-      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
-      "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

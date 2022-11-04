@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-05-the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most.md",
+      "title": "The people building artificial intelligence are the ones who need AI the most",
+      "excerpt": "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "originalUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "publishedDateTime": "2022-11-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics.md",
       "title": "MIT and MIT-IBM Watson AI Lab help machines see better using spatial acoustics",
       "excerpt": "Researchers at MIT and MIT-IBM Watson AI Lab have created a technique that allows machines to better perceive their immediate environment. This is done using a machine-learning model that accurately captures the way sound interacts with an environment.",
@@ -1371,49 +1425,6 @@
       "provider": {
         "name": "SiliconRepublic",
         "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-ibm-korea-introduces-new-data-fabric-technology.md",
-      "title": "IBM Korea introduces new 'data fabric' technology",
-      "excerpt": "IBM Korea has introduced a new data utilization method, simplifying access to a vast amount of information based on artificial intelligence (AI). The global IT solution provider held a press conference Thursday on Yeouido,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/09/419_336108.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/09/419_336108.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202209/568d62e2d9b64a278f200b2cc5ed36d6.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=336108",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=336108",
-      "publishedDateTime": "2022-09-15T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
         "images": null,
         "publishers": null,
         "authors": null

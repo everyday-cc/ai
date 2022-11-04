@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-ships-marke
 webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
 type: article
 quality: 57
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 0
+  - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
+    excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
+    publishedDateTime: 2022-11-04T15:56:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-4-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 0
 
 secured: "ioCyl/vScsPqZh4Z/V66mvhEZyxcRjqLTGXIVctndRS3F9pgvgavDPn7H8wqs8MzIPtVSogxB6nCoKyxUYMGJql1DH+wmdiNY62lZNtcNLAQDzBqzYIavJoPDtugbPecMvecn74HEapORR8qdZUpiqF3ISZVhWzX+ZGES3J5BYWhWMiuXtCcFaKgGjsmjfsi5MFllE2tNWfGyDsyK7q9v6kjhsU8AWrbnnQq/JK0QgsnkpEPr3pcIxRQqJrS1ybS0dWoJ02zafg07pBNYLezYs4W/nY+f6IyR9HyXMNhDYhDHoPTvUQCM85Qn/iwbPti+/6zmlQ4KiDaZhLS/RDS4YMXrX16OoduWfNPSVbvtVk=;+hrB1Huo/rvhlm4DaIx64g=="

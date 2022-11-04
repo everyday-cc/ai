@@ -3,8 +3,8 @@ category: news
 title: "Singapore Fintech Festival 2022: Saxo launches digital wealth advisory solution"
 excerpt: "During the week of Singapore Fintech Festival 2022, Finextra caught up with Saxo's ... for businesses wishing to take advantage of the nascent possibilities that AI and machine-learning present to the wealth sector. Scalable personalisation, algorithmic ..."
 publishedDateTime: 2022-11-03T11:06:00Z
-originalUrl: "https://www.finextra.com/newsarticle/41255/singapore-fintech-festival-2022-saxo-launches-digital-wealth-advisory-solution/markets"
-webUrl: "https://www.finextra.com/newsarticle/41255/singapore-fintech-festival-2022-saxo-launches-digital-wealth-advisory-solution/markets"
+originalUrl: "https://www.finextra.com/newsarticle/41255/singapore-fintech-festival-2022-saxo-launches-digital-wealth-advisory-solution"
+webUrl: "https://www.finextra.com/newsarticle/41255/singapore-fintech-festival-2022-saxo-launches-digital-wealth-advisory-solution"
 type: article
 quality: 20
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 270
         isCached: true
 
-secured: "BqyGd+oNjeerJi7kfJ+3hAfDmahwozpm+1gdpaWbd8LCjtzJB1po3cluV+lewh71zeqCAXKLY13m0zhXPBPJ89Oaozse7TraXxjbItW1TTjvMiWhO4FmKeWMF5rqSOl0KNkB/Y6M40HutaLLg/SQnJ4nWLDg9cfy7blL8pTX+47Im6unSpI0u/n8tntF/OEDrfonfYltIDN/x4ZdlHSiM5w1CJqY8/UvLWQQagmHjkToKkYynll+bt8pszvl6UjYy36QQyE4E++Pd1S+B3ZyaxXOBtVJgVHaIDBKZBlgUeeqAsYnbTZX5kup+9ohjpKrvejUTa+GDiMW57dlfsYXFxrx/PTOAR8Wuawz8HdyfElNYe8Fe30bR6pI5xMs1bGN2cwsyYsoGPik1Ip+suL1wC1jWkahJULPNpMCes4IrIatQ026f9rQ9ny7Jr7noCAZXd+NDUwLPuAhS7Qnxor2KfoNhQ6zHzQdqhJ5XZj2g/uPo7ZdV5jQzQTfXc0XNxqCRjpaITwWlpf+Bgw0vGaBjg==;eWtKzMZoYpr9cO/kQ5q1hA=="
+secured: "q5x3TNdh3Yy85Ui3ljOQY8T3irgsz4LfoGXNptAlhhyb+RoVgHkXegIllXZs5HPqa1BvzGHKIiJw0/X974FlXlqfv7TgD7hSoDpn5fQXID4fsEDkdYaOKIkVo3IGvK2DOM8VUukFiu2Puy2JWJp34ddi0gRsqEQjgJHnM/1cnHEgzQv0Or+gS13/JDw0HmYWNnIPqh6932U+CqboMRUVk5DOM445xZ8mZgQmwn1nufjFvcMhGhMLP+AKH5g8WpObIGlQvXk7Dft0Gf+LjElsSeT7lH7fkE+RbPOjC2W9yUjMtOVB72w4Qhn4MylOGZ+POu56IhqRQHH//DNbQl7mxXMCXBuHmoW/OFhbd+IUP10=;nA+BsRh5G8CH0Xy0+lOGwA=="
 ---
 

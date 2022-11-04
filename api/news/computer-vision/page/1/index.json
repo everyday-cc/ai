@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
+      "title": "Robotics Engineering Week to address critical development issues",
+      "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "originalUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/featured-web-robotics-engineering-week.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
       "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
       "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
@@ -281,24 +325,33 @@
     {
       "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
       "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
-      "excerpt": "\"LatticeFlow is an enabling technology that empowers engineers and companies to deliver quality data and performant computer vision models that work in the real world,\" said Petar Tsankov, Co ...",
+      "excerpt": "In the past few years, computer vision AI models have surpassed human-level performance across image classification, detection, and other tasks in the lab. However, models often fail to work as ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision",
+      "webUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
+      "originalUrl": "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/bd/7bd4c58c-f9a8-5e72-b4e2-08b7e1ee9324/635b9083a776d.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
+          "width": 960,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29453267",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29453267",
-      "publishedDateTime": "2022-10-28T01:08:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T01:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1345,58 +1398,6 @@
         "name": "Asia One",
         "domain": "asiaone.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition.md",
-      "title": "Aftermath Islands Metaverse replaces usernames and passwords with blockchain-based face recognition",
-      "excerpt": "Aftermath Islands Metaverse launched its Liquid Avatar app to replace usernames and passwords with proof of humanity. That means that you will be able to sign into its metaverse apps by using verified face recognition on your smartphone instead of using a normal login.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "originalUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Aftermath-Islands-Image-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
