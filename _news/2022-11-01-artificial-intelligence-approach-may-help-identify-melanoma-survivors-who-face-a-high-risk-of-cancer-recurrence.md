@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence"

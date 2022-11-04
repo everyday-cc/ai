@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://thehill.com/wp-content/uploads/sites/2/2022/07/artificial_intelligence_AI_11292019_AP20007048093657.jpg?w=1280"

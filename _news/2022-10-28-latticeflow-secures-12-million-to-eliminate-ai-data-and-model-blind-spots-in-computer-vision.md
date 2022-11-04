@@ -5,8 +5,6 @@ excerpt: "\"LatticeFlow is an enabling technology that empowers engineers and co
 publishedDateTime: 2022-10-28T08:08:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
-ampWebUrl: "https://www.benzinga.com/amp/content/29453267"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29453267"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "J4SbedP3I930WpAvGAYtcBwYJI1sI00ciEXb0d59Ss/rn5lL1SGHlGi7FJYGpTwHui3EM3s0IF7QbQAA4tEqsGCsIkb/Nc37QTsdGYseyXNl8JtP+HVaNKch0WkCiYKyM7MnimfgXX/X8C3svJiM3/cGFR45YyrMJLIJscBBm3H/bIA7O1ihSZ0bZ7OkzyEUC+s7DUVBWR45edNY/Z61VExppGVHZ+Vea1rEJj3IuSu+umNSVG2hYhJExvuuXy9XX9TolZRRJNOawLtzGSK8sqf0TOsMHktnV5UgsUtTd9ttsIbxRxVHBKUN7spX1jCjxFqcTeLR1oir/mdhzVxGTnUBJFnLztFdtDR68Cxhtus=;Qm9ouLkDvK+9hKLUVuTAuA=="
+secured: "VVqWhwgyaUJIGMv7cYO19tEE6UWWVrwkHJ2Sd/4PTRb9yTTfnMzF1hhZOw8g4C88Cl8UjV0EHrjY9v13h4BCuU6Yt22w+8BvykDL2p4EsTch3hXqKEncduaQR9i43nde9z/+BpThOw2U9NIi3rjTcKqw/yWHKdc9duJiGMMX6VrCKYmN0yL4raNZuuOdpAsGLmb792VGA3taTKH1e15J/4Ei5ajqYNp0M6wxsh1ymPn8QF57EsmEG+WT/LqHCz+IlFWf5AP0ktJ1KAbtpQKzDwl1FNMRMLdaEBJt4MLYhM57rrndZDa2TITIi1A2dlwnXfW+aulAHLDnlY/UG6VgeiCACKlvbQ4NdrS5bDUvshk=;/XUmyvy7jNnMDRA+9syMmw=="
 ---
 
