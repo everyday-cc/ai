@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusim
 webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: MarketWatch
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm"
-    excerpt: "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,"
-    publishedDateTime: 2022-10-31T14:00:00Z
-    webUrl: "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105735152-1550011600980dy1_nvtvyaawmqd.jpg?v=1667224750"
-        width: 1737
-        height: 1159
-        isCached: true
   - title: "Self-Driving Truck Firm TuSimple Face Probes Over China Ties"
     excerpt: "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ..."
     publishedDateTime: 2022-11-01T20:13:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://regmedia.co.uk/2020/10/26/fired.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "World’s first listed driverless technology company TuSimple fires co-founder"
-    excerpt: "Hou Xiaodi, co-founder of self-driving truck firm TuSimple, has been fired from his roles as chief executive and president at the company, according to a securities filing published on Monday. The news comes after the Wall Street Journal reported Sunday ..."
-    publishedDateTime: 2022-11-01T17:35:00Z
-    webUrl: "https://technode.com/2022/11/01/worlds-first-listed-driverless-technology-company-tusimple-fires-co-founder/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 36
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
         isCached: true
   - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
     excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
@@ -151,15 +121,6 @@ related:
         width: 1785
         height: 935
         isCached: true
-  - title: "TuSimple Stock Plummets as Self-Driving Start-Up’s CEO Is Removed"
-    excerpt: "Shares of the self-driving truck technology company TuSimple are tumbling as investors weigh a surprise management change. Monday, TuSimple (ticker: TSP) said it has terminated CEO Dr. Xiaodi Hou because a continuing investigation by the audit committee of ..."
-    publishedDateTime: 2022-10-31T13:42:00Z
-    webUrl: "https://www.barrons.com/articles/tusimple-stock-ceo-removed-51667222385"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "KMfueeoS+gZeemEqSRjZXPv3eedA3dcCE8DG0VpsyZj2B+sVh1H4oUA//+MMXhA0R6DM1S198Y6jQJ2W6qYSAj07kKprYCiHYq6Yjtq8VAiTtXo2v1tbzqj/lQzrKRUaeDy1MldXFKP4ahAwMB/FN5FN951k+txvh5XR+WyKXObzZ+5eBxItrwz+EhDgXfNoa9JFQwqbccQSww34ojzKCTR85NyoD0TtNSi9YbXL0YVOfsOcWKDnte10KlM/KzAtf/aEtk0rdixiJUofrV9syb7hYhxgfvZZV3WY4+750FgQTRl48OY/XMGQft35vEiKcli6zphd70B0XrnNoPeSU5/Bu0UbycNMjq1EfW491TglLPYuMfFuWZytxr19fIx/XNQyj0PW3yLCKbNPL3OeRGjKb2kBWHouUE3xhNSeB03KY4CuE0dV3V7EifsuAIrV1/PLCmAe4x3tmSWYA1uElH+5B1A6D8iDOLBOQd4P2O9VTaJVCCW77LH7n9BEZP/5d4UvSY7xki1etiwPFxRhZQ==;x+pTKAJmgEUA6jqFPTXRFw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-manag
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 700
     height: 400
     isCached: true
+
+related:
+  - title: "Dataloop automates data management and annotation to accelerate AI projects, raises $33M"
+    excerpt: "Dataloop, a data-management and labeling company for unstructured AI data, has raised $33M in a series B round of funding."
+    publishedDateTime: 2022-11-03T21:33:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/"
+    ampWebUrl: "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Automatic-Annotation-title.jpg?w=1200&strip=all"
+        width: 1200
+        height: 609
+        isCached: true
 
 secured: "JzsuiAX6KhbI3af0DRiphWLZWVKOGV15pAvuucS0PrqTT4HKxxVC547f6Ij0E6samivoJfdLA4P8fajKZYaJaODb706saodx/cSgmWDDjtnvVYxcbUyZjEfqa1igYEtTRsId6dxn5BsIkQ2JpymnDVMRf0YwTtT1QLN2C+qKq/9FrhlH7d0X4mpdbIEn3NMdj4M9IbAefwKkgqPDSub4P0c1MZXjUXNQWJWgGDcdYb6WEIg7KxmROKaK++4ODylBzCZHkxSAuyEL7Qp3wPn7PbAT3UIaQET0ichLvJvOK0aalERZsAWzS5X9PN35w7KaMtYH8sFjMmOqpUlOXOIiDbKhWnxrTfhZF90JLmnsJwDMpTTabKFyOxycqdhE3kdq0dGN4ZlDJcckHmJHZr0j1zrHcT5Qtggn7Fj+zETzG8Zf7H4FqbYLkqu5rxvz6LjZytMoWbuwM5GDFqImLQySng2JP8tps9SzQOdgyzu82HzTdW+50OGlsazC9Paygk6jrp4MQJqjqps/J0QqYv578Q==;WBXQH8omXkBPc5dq8N6lzw=="
 ---

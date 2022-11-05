@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-
 webUrl: "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "World’s first listed driverless technology company TuSimple fires co-founder"
+    excerpt: "Hou Xiaodi, co-founder of self-driving truck firm TuSimple, has been fired from his roles as chief executive and president at the company, according to a securities filing published on Monday. The news comes after the Wall Street Journal reported Sunday ..."
+    publishedDateTime: 2022-11-01T17:35:00Z
+    webUrl: "https://technode.com/2022/11/01/worlds-first-listed-driverless-technology-company-tusimple-fires-co-founder/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
     excerpt: "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped."
     publishedDateTime: 2022-10-31T19:26:00Z

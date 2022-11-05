@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm"
-    excerpt: "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,"
-    publishedDateTime: 2022-10-31T14:00:00Z
-    webUrl: "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105735152-1550011600980dy1_nvtvyaawmqd.jpg?v=1667224750"
-        width: 1737
-        height: 1159
-        isCached: true
   - title: "Self-driving truck company TuSimple fires CEO amid federal probes"
     excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
     publishedDateTime: 2022-10-31T20:43:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://regmedia.co.uk/2020/10/26/fired.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "World’s first listed driverless technology company TuSimple fires co-founder"
-    excerpt: "Hou Xiaodi, co-founder of self-driving truck firm TuSimple, has been fired from his roles as chief executive and president at the company, according to a securities filing published on Monday. The news comes after the Wall Street Journal reported Sunday ..."
-    publishedDateTime: 2022-11-01T17:35:00Z
-    webUrl: "https://technode.com/2022/11/01/worlds-first-listed-driverless-technology-company-tusimple-fires-co-founder/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 36
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
         isCached: true
   - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
     excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
@@ -147,15 +117,6 @@ related:
         width: 1785
         height: 935
         isCached: true
-  - title: "TuSimple Stock Plummets as Self-Driving Start-Up’s CEO Is Removed"
-    excerpt: "Shares of the self-driving truck technology company TuSimple are tumbling as investors weigh a surprise management change. Monday, TuSimple (ticker: TSP) said it has terminated CEO Dr. Xiaodi Hou because a continuing investigation by the audit committee of ..."
-    publishedDateTime: 2022-10-31T13:42:00Z
-    webUrl: "https://www.barrons.com/articles/tusimple-stock-ceo-removed-51667222385"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "Fqyh3L/wjvRVxIjjitdQGW2TOHWfTj7P3hfv/kDk9ReiQC/iL6BBkm62/d8JNQy3GYXc3cLSglf3/ShbKVnufo7G363/uoZAtuDWQDPyIp0TyY/QNbGvt3MF/0PEi6DtFZ8GcFmfU8oVswXn651jcDrjAS4mTY5xNBhefnusbcRqRZ0eByV5XUtIcOOIFaXQQh9rekkw/8Lkc/PbHIeIuE7oRyAHHUEufDyC4UsxiAVbGZILGONkRWOPTbQzJW5M60tdlxoIbQe0Obm70A2NNAYpNIjD/DusO/Zp65au0Afv5NMTQOOcbLpLQTjMLuvUlXbdEb/dDuhWZ9zNL7cJRFQlJsV2GbTpeAiPRGyIu2eodl7oWyJia5qAOPImGFBPHIwS3hPEfI5eyakg0qvoP71dR0AVpwm0xq/xRF8bsh996df2R2p+JbfWisdZBeut4nklQpg0Hl31b9weLvo1/1cMvd1q3S6kzFmkOxMYujlRelRFFqDq8bY2HEGOe2eBGLrBlkwzSadXf7z7JyWlxQ==;+rCDmsMymJw7KeijDO8IDg=="
 ---

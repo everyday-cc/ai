@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Why Fraud Prevention and Data Security is a Must for Fintech Companies?"
-    excerpt: "As fintech companies continue to dominate the financial services industry, fraud and data breaches are continuously increasing."
-    publishedDateTime: 2022-11-02T13:01:00Z
-    webUrl: "https://www.bbntimes.com/financial/why-fraud-prevention-and-data-security-is-a-must-for-fintech-companies"
+  - title: "PolyU: PolyU’s School of Accounting and Finance launches its first Fintech Adoption Index Survey"
+    excerpt: "School of Accounting and Finance, in collaboration with AI investment trading start-up Asklora, has released the inaugural PolyU-Asklora Fintech Adoption Index (FAI), which is the first locally develo"
+    publishedDateTime: 2022-11-05T01:18:00Z
+    webUrl: "https://indiaeducationdiary.in/polyu-polyus-school-of-accounting-and-finance-launches-its-first-fintech-adoption-index-survey/"
+    ampWebUrl: "https://indiaeducationdiary.in/polyu-polyus-school-of-accounting-and-finance-launches-its-first-fintech-adoption-index-survey/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-polyus-school-of-accounting-and-finance-launches-its-first-fintech-adoption-index-survey/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 21
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 46
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/download-5-1.jpg?fit=600%2C315&ssl=1"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "dVbBc2G3qmGA+/0dcFJXVawA9KE5di3hJquAfhOc3if4VZ5qar5mwYzba1S07J0vaRvcvHH1crMVXH6jKb0AM45+Ml25Wqb+MuTH9I7fWvx0IHmUMFTJK5K/8Az89riIJ9iXmDLODmJEyA++1Ahsu3gDHlALvY3d9gn44ePe+mxp1UZmz7pQ4pGLM/EiT81prwoX3YKA4gMpEiQB5d0E3ftYJwChZGQfs+h3cqxptctmHUYz0g224aXrpHYps7iCdWcKiTiRGIBZaPYSuEiTyJtFMGZJvRtvhdrmoTvk1vIhemWd8E4MvPE+TQaHBPgIB3b9J5j0VuGOscnvSOj2Ichp26qsp62vsTt0It71LgA=;MYEjCUAlbDWOuVjsK2cphg=="
 ---

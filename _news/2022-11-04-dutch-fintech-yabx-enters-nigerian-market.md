@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech innovator TSLC launches its revolutionary neo-banking platform in Nigeria"
-    excerpt: "The Social Loan Company (TSLC) is set to offer its unique credit-led neo-banking platform for the underserved in the African market"
-    publishedDateTime: 2022-10-31T13:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/fintech-innovator-tslc-launches-its-revolutionary-neo-banking-platform-in-nigeria-hx2egett"
+  - title: "Chime Slashes 12% of Staff, Marking Latest Casualty in Fintech Meltdown"
+    excerpt: "Online banking startup Chime, which before this year’s market meltdown had been widely seen as a candidate for a blockbuster initial public offering, is slashing 12% of its 1,300 person workforce, or around 150people,"
+    publishedDateTime: 2022-11-02T17:11:00Z
+    webUrl: "https://www.theinformation.com/articles/chime-slashes-12-of-staff-marking-latest-casualty-in-fintech-meltdown"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
+      name: The Information
+      domain: theinformation.com
+    quality: 24
     images:
-      - url: "https://static.zawya.com/version/c:NzFkYzA4MmItYjg2MS00:NDNmZDhl/15-jpg.jpg?f=3%3A2"
-        width: 468
-        height: 312
+      - url: "https://tii.imgix.net/production/articles/9029/40e07f7b-f724-4991-9717-841d13611201.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "/C9ZzdiIFeh7BnevesJXYZPL+816vi1Y+UbYFSzG8R8+ZOeaXYMjJg+h0KwNHAjuoh8+/NCqyjWr5zc2RnfRVLc6pI3MBMsJPmfjTVlRjMRwpwMbZAx9EkVdSLaKx6fM+kKR5uFLVM3DW7NFazbkvzDuXznDkdDVYfA6yBFAvPQ0lvTatWAP/2u2BpoGvgFW7IQFx6qY/d4VKzUpJMf/Vusnqakk9MYhRUWaaaJYD+A7SBdfYV04XioHAbquu5HparK4GFldK5YPyi7jVV+N4eblKqoVS4wmYMcHrCjiImrI7Z7yXZu8GucX7U0kiWjfQx/OFMrTyAXbRfHtzQRQLXFa5f99Stw4vVYLIOjspUQ=;4TyPISmllzO8mXFayIiH1Q=="

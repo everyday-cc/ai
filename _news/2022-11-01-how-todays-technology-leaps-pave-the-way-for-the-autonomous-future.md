@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Today's Technology Enables an Automated Future"
+    excerpt: "The fully automated job site might be closer on the horizon than you think. What can the road building industry learn from the technology of other industries?"
+    publishedDateTime: 2022-11-03T14:52:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22444994/how-todays-technology-enables-an-automated-future"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 24
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/09/F5SWHsCE.6328822c1aa6c.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Today's Technology Enabling an Automated Future"
     excerpt: "The fully automated job site might be closer on the horizon than you think. What can the road building industry learn from the technology of other industries?"
     publishedDateTime: 2022-11-04T16:37:00Z
