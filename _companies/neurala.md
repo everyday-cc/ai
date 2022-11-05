@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "neurala"
   url: "https://twitter.com/neurala"
-  followers: 2774
+  followers: 2773
 
 size: 11-50 employees
 yearFounded: 2006
