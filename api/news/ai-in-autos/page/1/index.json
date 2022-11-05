@@ -317,7 +317,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -637,6 +637,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-tesla-and-argo-ai-setbacks-sap-momentum-for-driverless-tech.md",
+      "title": "Tesla and Argo AI setbacks sap momentum for driverless tech",
+      "excerpt": "The driverless tech industry hit a couple of snags this week. First came news in Ford’s (F) Q3 earnings report that the automaker was shutting down its Argo AI autonomous driving joint venture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
+      "originalUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/PjszFwy462T9BOJ7cFK3bQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njk-/https://media.zenfs.com/en/aol_yahoo_finance_433/9113db93c990a4cb7e94c8aa550cb8be",
+          "width": 1200,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-29T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1163,6 +1206,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-27-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
+      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
+      "excerpt": "Stay on top of the auto industry’s transformation by signing up for Bloomberg’s Hyperdrive newsletter here. The autonomous-driving sector just endured a day that tech and automotive giants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-10-27/tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-10-27/tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH4.lzNqrV6s/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-doj-reportedly-investigating-teslas-autopilot-self-driving-claims-after-crashes.md",
       "title": "DOJ reportedly investigating Tesla’s Autopilot self-driving claims after crashes",
       "excerpt": "The Justice Department launched a probe last year to look into whether Tesla had made unsupported full self-driving claims, according to Reuters..",
@@ -1369,110 +1464,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-intels-mobileye-unit-for-self-driving-cars-opens-above-ipo-range.md",
-      "title": "Intel's Mobileye Unit for Self-Driving Cars Opens Above IPO Range",
-      "excerpt": "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
-      "publishedDateTime": "2022-10-26T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
-      "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
-      "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
-      "originalUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
-      "publishedDateTime": "2022-10-26T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

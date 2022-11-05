@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-05-herzog-and-zizek-become-uncanny-ai-bots-trapped-in-endless-conversation.md",
+      "title": "Herzog and Žižek become uncanny AI bots trapped in endless conversation",
+      "excerpt": "Between them, a transcript of AI-generated text is highlighted in yellow as AI-generated voices simulating those of Herzog or Žižek read through it. The conversation goes back and forth between them,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/herzog-and-zizek-become-uncanny-ai-bots-trapped-in-endless-conversation/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/herzog-and-zizek-become-uncanny-ai-bots-trapped-in-endless-conversation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/ai_conversation_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/herzog-and-zizek-become-uncanny-ai-bots-trapped-in-endless-conversation/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/herzog-and-zizek-become-uncanny-ai-bots-trapped-in-endless-conversation/amp/",
+      "publishedDateTime": "2022-11-04T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-australia-bets-on-facial-recognition-to-deter-problem-gamblers-despite-concerns-over-rights.md",
       "title": "Australia bets on facial recognition to deter problem gamblers despite concerns over rights",
       "excerpt": "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1122,21 +1173,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-03-how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses.md",
-      "title": "How Artificial Intelligence Is Transforming Out-Of-Home Advertising For Small Businesses",
-      "excerpt": "Like almost every part of our lives, artificial intelligence is transforming out-of-home advertising. Now, it could be a more efficient alternative for small businesses, especially brick-and-mortar companies.",
+      "path": "_news/2022-11-03-data-quality-is-also-an-ai-problem.md",
+      "title": "Data Quality Is Also An AI Problem",
+      "excerpt": "Any AI processes that use traditional data sources will be just as dependent on those sources being of high quality as any other analytic processes.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5faab56810f967bcd6e5b876/0x0.jpg?format=jpg&width=1200",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63122d3b4220a3347b2931c5/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 810,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1144,8 +1195,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/amp/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
       "publishedDateTime": "2022-11-03T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1169,60 +1220,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-nvidia-enters-the-speech-ai-race-joining-meta-and-google.md",
-      "title": "Nvidia enters the speech AI race, joining Meta and Google",
-      "excerpt": "Nvidia and Mozilla Common Voice have partnered to develop speech AI models that work universally for every language speaker worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
-      "publishedDateTime": "2022-11-02T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

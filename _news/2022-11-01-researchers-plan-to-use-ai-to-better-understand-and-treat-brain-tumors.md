@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/fighting-brain-disorde.jpg"
         width: 1140
         height: 760
-        isCached: true
-  - title: "Do AI Models Really Understand The Human Brain?"
-    excerpt: "Day after day, the computer is becoming intelligent like humans and may likely surpass us. But the idea of AI models perceiving human perception seems like a tricky business"
-    publishedDateTime: 2022-10-31T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/do-ai-models-really-understand-the-human-brain/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/brain-copy.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "t2rRQwLNWdLm6bnuDT2fqlCGxtHwoG+MIwhrLWiQobcXqLhZdcvAgL1XpHNPp6AOJlJCcRV8YuurZjktY3j2YfB1gpRpNHERPgQeDPA2NWcud1fznPlt04Eibid88q20S76ZS9VBl10iRllxXA35dTSdhK40cVZZaQKAqWC+4khTHKLiDPj6x3vPTXVGHYCBgdO+ULxkrM5qGcM5O2ggZbQzC0Yi2nI7iB3PiSThns4qLTU1uo/D61YIGtME8fn1A1X5oo6LxX8HizTkAj2CCsAN4cfER1idgcA9/gGgBAeRE4LgA/ahX7k2PEWfVuyvzT/qKtnoh9UF2BKI7/5Fw+SPlk7N7POmDdE/SzDipCTNav7a3rAnv8z30hgiE3wLCzOixpkUw6DsDLOs9txhVgkqRCHMcG8kbs/jqnpixWqLJA73qWEP7+/NTBQgwsSaUZUPyNePrSsVIeqIBJTZc6H1T4jRKZnSVVroIz9mEcN6n9DKV4mW1S6dlqBJS74im5cpaHQ4cf8n98PV6OtkNA==;NP3AMaIfvEeetx9b6d9q3w=="

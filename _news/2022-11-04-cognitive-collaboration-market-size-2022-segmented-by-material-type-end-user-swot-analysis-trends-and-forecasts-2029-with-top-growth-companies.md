@@ -97,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Voice Recognition Software Market 2022-2029 CAGR Analysis, Future Business Analysis, Competitive Landscape, Segments, Sales, Supply, Demand"
-    excerpt: "Global Voice Recognition Software Market report 2022 includes development history, Competitive Landscape, manufacturing cost analysis, market overview, future trends, industry share, growth and ..."
-    publishedDateTime: 2022-10-31T05:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-recognition-software-market-2022-2029-cagr-analysis-future-business-analysis-competitive-landscape-segments-sales-supply-demand"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Wall-Street-New-York-DJC-1K-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
     excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
     publishedDateTime: 2022-11-04T15:56:00Z

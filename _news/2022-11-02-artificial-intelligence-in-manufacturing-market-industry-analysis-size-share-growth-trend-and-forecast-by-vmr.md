@@ -87,20 +87,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Voice Recognition Software Market 2022-2029 CAGR Analysis, Future Business Analysis, Competitive Landscape, Segments, Sales, Supply, Demand"
-    excerpt: "Global Voice Recognition Software Market report 2022 includes development history, Competitive Landscape, manufacturing cost analysis, market overview, future trends, industry share, growth and ..."
-    publishedDateTime: 2022-10-31T05:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-recognition-software-market-2022-2029-cagr-analysis-future-business-analysis-competitive-landscape-segments-sales-supply-demand"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Wall-Street-New-York-DJC-1K-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
     excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
     publishedDateTime: 2022-11-04T04:39:00Z

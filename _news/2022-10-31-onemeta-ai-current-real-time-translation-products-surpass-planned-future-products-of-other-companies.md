@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies"
-excerpt: "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ..."
-publishedDateTime: 2022-10-31T12:08:00Z
-originalUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
-webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
+excerpt: "OneMeta AI announced that notwithstanding what other companies have announced about forthcoming translation products, OneMeta's existing translation products already perform simultaneous translation in 85 different languages."
+publishedDateTime: 2022-10-31T16:01:00Z
+originalUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+webUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+ampWebUrl: "https://www.barrons.com/amp/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/fffd4e29798b933a9233cdc66dfb1610e12b396a-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 1091
         isCached: true
 
-secured: "pujAaqzLuDkAGFrcnjbKrpTmz0WV7YEO/GLcjZlLW52Oyr03VdW5mFOfjn6RENr7M63jryNQOmURzUJfizujQsmUhPdgA0KB64of5tBEXjMW8wxgSpmBdihPPDAoUu9jei2Bj+/vqcvGBwq/YBF7I/91bI4MIuRuCsmE/4CmmEMCfX6TsTrOmgZU5vzvx+cTrZnafXWsMvVryw5SoMxgM86NIovrjNVdB9VdFp2NUQJ3ceER37ulR07Rc81J51pfdG0wtwARti1VJvdAXj5Sove2ztCa3CkVA4oYfNN5qpIyYos15h60jgK6ui29JTUI0fl7FFNWzSjlVH1PZRrmrOUfEyVCHGWLKWOHYjVv+KA=;UCxgb50qx+OUBNhaAMOeew=="
+secured: "QgwABeH47DRlBiFJfSHpUWQQ6cMFPzXEZnKg9ymq2FMQbVqEyuHlg++Lvhe7lQTNBy7BbsMbiUt42V3EjkiQh2SSl1rSp4oDri79EbMlB/tPmImWFWQiWb+FuiWe3rKlkUmywKBM5oxH8pprFlmb8L/ufYiSALTcHxiCfverRtN3m5lc9SD1jb8H3TFUjtAeRRpcWUVqjjsPY5WA87GosjNrbXS9l9/db37BA6PAsD34VV6kUP1YFrNgEouC+X3rsfTVQUdCwPgMJMpQaMptdpbR94ff4zcMtMEoXJMP7j1FAFtLegYLi633X/LnULtpp74eWCCM3CazgBzMNkD+BZCOK/VEeq2ZucL7uM0UP+Y=;0KtRxth3uM03lUt6yMUS8g=="
 ---
 

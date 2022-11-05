@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/article/3198521/australia-bets-facia
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Hotel bets on face recognition tech to deal with gambling addicts"
+    excerpt: "MELBOURNE—As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The"
+    publishedDateTime: 2022-11-04T23:19:00Z
+    webUrl: "https://newsinfo.inquirer.net/1689578/hotel-bets-on-face-recognition-tech-to-deal-with-gambling-addicts"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://newsinfo.inquirer.net/files/2022/11/AUSTRALIA-GAMBLING-620x413.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Australia lobby group ClubsNSW seeks more facial recognition in clubs; debates rages"
     excerpt: "The law has stirred debate after the country’s umbrella body for clubs insinuated the technology could be expanded to other purposes."
     publishedDateTime: 2022-10-31T22:34:00Z
@@ -76,6 +90,6 @@ related:
         height: 1812
         isCached: true
 
-secured: "Qh9LzmN7vbHpjFFHzHfSFw5llqg2rwvCVxfrwQES+EnSyNCYZZxoymZQW74O6pltFr/6LsS/8Q+omMHv7LcEN7sRQ0LCrQsHp2/l+bFUaaryEPmr6JmgPQDACj6CKXSVDFBri/cv46w/G6DMkXApzu9+YhAwS+iZQ4XzVnx2JbIUWgB5BZ/55Cx8IhCreVrj+ymES/iP/x7bcM6zxGezDGY34RY8j8fDoN5WnTOoaEQXeNVwcelpQpEwN8uSeLYP9hIb/DJ1OfqxlWlwu87dMx7BreyJ/1DOJtpMcKF9EhYvsCI2aiYVfIDCQXFiq9Lx5zISAmXN0ZorO/xsrXP7W3MeASiI5xRIVd5aEOOih7A=;WxYLJ+iT3LO1SQjBCyeh/A=="
+secured: "pLuS/BMPp2iiuISmhrzp7bQoc9F/EZLnbJ17BNhuMtmp3adaSjS5VjQMCUNWE7MWB7DdU2Onbji0t02rLFsFgqMWo2rodA6vwSUuvhsnmZdh+dri4tkUyAk9Y3PnDf2jGyQoM1hRhewh3b1osMv9l7EKFQUchLwv+ZbrUwgZFGH2ab2rkL4/+g7EQkmSGjT5UUbROl3HEeVoaSubEy/Z1pTqlTtvatHxQhse7pgBGEVz8dlnEs1VfsOEWFUbtLpJ61YYvVQM5P8nGMX1Vdk5n9TQoet/TcPE4X8wsjFW/ZiYUJVyFknhQ6uEeu5Y95lIwLViYDpuEyTpNjcVRcVw0+4dlVXDKDvUC/+HA0BfbH7xU71N63cgD/uKF7l1hE+BHr//K53GmX4/iIJD99b3mbeAZR2OTKMgm1PySdY0srx+W7hS6OQ52Pq2IMtqCqLzoCdJCuE5mc/is990cJz9VDvUJ5dO7N+klQY+vLkDxqmkeZY123CuxTpT27guLjDIm6BJTqRdBgyhQlyKgEYsog==;89ntmZA5BO/BbwSZksebgw=="
 ---
 

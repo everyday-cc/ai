@@ -1,108 +1,19 @@
 ---
 category: news
 title: "European AI Startup Axelera AI Closes $27 Million Series A"
-excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
-publishedDateTime: 2022-10-25T15:26:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
+excerpt: "EINDHOVEN, Netherlands--(BUSINESS WIRE)--European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding will support Axelera AI’s launch and ..."
+publishedDateTime: 2022-10-25T13:27:00Z
+originalUrl: "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ=="
+webUrl: "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ=="
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI
-  - AI Hardware
 
-related:
-  - title: "AI chip startup Axelera lands $27M in capital to commercialize its hardware"
-    excerpt: "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital."
-    publishedDateTime: 2022-10-25T16:36:00Z
-    webUrl: "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/"
-    ampWebUrl: "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742"
-        width: 1200
-        height: 742
-        isCached: true
-  - title: "AI Chip Startup Axelera Receives USD 27M to Commercialize its Hardware"
-    excerpt: "Axelera AI has announced that they secured capital from VCs including Imec’s venture arm, Imex.xpand to commercialize their chip technology"
-    publishedDateTime: 2022-10-26T13:35:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/10/AI-Chip-Startup-Axelera-Receives-USD-27M-to-Commercialize-its-Hardware.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Axelera AI reels in $27M for its edge AI chip"
-    excerpt: "Axelera AI detailed today that it has also secured a $6.7 million loan from the Netherlands Enterprise Agency. Founded in 2021, Axelera AI is developing a chip optimized to run artificial intelligence software at the edge of the network,"
-    publishedDateTime: 2022-10-25T17:55:00Z
-    webUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/chip-2.png"
-        width: 800
-        height: 498
-        isCached: true
-  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The Axelera AI Team is proud to announce its latest funding round."
-    publishedDateTime: 2022-10-26T14:20:00Z
-    webUrl: "https://www.businesswireindia.com/european-ai-startup-axelera-ai-closes-27-million-series-a-81425.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 39
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_81425.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI start-up Axelera AI closes $27m Series A funding round"
-    excerpt: "The European AI start-up Axelera AI has announced the close of its $27 million Series A investment round. The funding will support the company’s launch and mass production of its first-generation AI acceleration platform, powered by its disruptive in ..."
-    publishedDateTime: 2022-10-26T10:17:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/ai-start-up-axelera-ai-closes-27m-series-a-funding-round"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 37
-    images:
-      - url: "https://www.newelectronics.co.uk/media/nuckng5c/axelera-ai-series-a-funding.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "European Startup Axelera AI Closes $27M Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
-    publishedDateTime: 2022-10-25T21:39:00Z
-    webUrl: "https://www.datanami.com/this-just-in/european-startup-axelera-ai-closes-27m-series-a/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-
-secured: "CM34kHwdIDlbMvSlp5T5xDEXQAuJUpntg4IdQ9SvyFP/J/NlPNnKFrXOH8OSfwDkpp/uQ7GY8Z4og9fKysTYKcO/V4J41ERft/spq+hozgVBAlwS7MLkZSqeyryuxA0D2FMoDhr8o4l3nw9PaS4ajYkW2PJjkB0YPAvCR3Mv4Izp6SG+B8HWnh+HGDA6raew5EnxwDC813xo0+CK6lB+WJRd4uywHnThB2aRN+/UYqgfeCgerCr2woJ4MvP8VOVhhTc/wf186n0xK8SgJEPLYyhH+VYqRaGbulc4CqNI7A+h2v+msk52pdnF7gdJdnuM5Tk04YKaUhVGATWZjenIEjm/yThGrTndxVU8ah11k+97nDoAA7+plw9NSALUtSY9iij8F928x+NKInSDxzsCdKr+c+Nk8/4g1wqak21rMI2iOJCWfw0lqiuXvoEE0+lgDvlHcv/lUV6fpQWx4PMYYLk/whY+iR2C8P/vyPxULxutE0hL9UyM9UVuhdguWTI3wRwmGNdagIJ79jQjP0I28w==;sDlb5iFmCUxEIf5qquGmKg=="
+secured: "8vDhHG7DeL8KVSDagnxFRpgjAAC/+vG2DLICzqojwAh0ZpVmPYZ4NjG9TMxflxxDlvuJEREDqYnxkKFtOHAzfbVtK1EKriiankN2GrYJrPtWAfJHTeTqVmqlZcmnt9+oh0WSGx4o05bKm2u6Vfw/ReQvo4BhiX0aOyavK3Elp7ZP3hF6DSgX30ADErUPwkeR2bkkOMVxODD7CFfoRuwlJG6wrqSTL36gD4Kq4mGc3lrFnB4tQ+t3jD517qeAcj7ogG4z4QEjXHLcWoBha+g4AyEySL7NA2RYv/Dk03953nVfPkDBBUY837xFVZLk2j8s1UxfkSgj5iowMG8vGWIDpW9ea2FRzgJVAu57QRODSd4=;q5nTfMAUb/5bEwC6n3Ldew=="
 ---
 

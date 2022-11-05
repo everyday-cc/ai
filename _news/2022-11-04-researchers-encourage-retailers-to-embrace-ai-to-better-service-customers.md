@@ -71,20 +71,6 @@ related:
         width: 1140
         height: 760
         isCached: true
-  - title: "Do AI Models Really Understand The Human Brain?"
-    excerpt: "Day after day, the computer is becoming intelligent like humans and may likely surpass us. But the idea of AI models perceiving human perception seems like a tricky business"
-    publishedDateTime: 2022-10-31T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/do-ai-models-really-understand-the-human-brain/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/brain-copy.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "AcU1tn8E8ffvqFX7vLCHNyiNe3tI+2udyqwloXCdWFaPtvftTh0Tt9OO7dGlavdu41FmyAQSEhCjg5psNrRidnEPrlAkloKezEEt+sgNgfBvgBvo5atvZCB0vnbBE0Iq/xIpQ7P5WuYp4yT2CPjpQMVwRDZjze0HyYWylEB4gp0T1eDpbUN6DvzuxpWmrYYl1Vb2YYyLcGfhOGWNs3pDSQ7AQOdGVgZUJYQrkXKM8hXLdKilkOhNPn3N8U20s+ZPMKpJPt4NbqhDaslZ8Sd9ArM/8r0MjpUZigMpgSdw7S8n46xVgIsp0rXDQ+t5msDpxF28w03Un1+6Ng64o1g/jM2XCr8AC1hir+C5qQHL2aU=;B43QdDULBgeM0AoS6mg0FQ=="
 ---

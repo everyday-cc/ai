@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-met
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 620
     isCached: true
 
-secured: "si7tOhlyLWpdBP5HJssLcJVCTuaoCmvm2VZPqrC5g6TBQEpYuOJKOFnuN9Xdo8cyttITMt3YdjwmuqGEzRY/ra7EajkBMra23JIPMtdYE4rMZeC2Z5lQuj2ix8h/ikv1/qu2OCO7u+iRRKI3rK1PyETbi2YpLI4Y/TxR07gwtTwd+yOMhzBMChEjzJDjrBIHTDYMj/xzuYAYvcujN0VQivJFn8FQvkUNGOzxkd3bejLgHl3oAGki2ZtW1dOFpzlM4oprvoN76+C2roWEFfH1ALEmi2zEH2CHUAQfUotKyqH8zTW2jBPlugKs+YMwjjw9XU9QaEe+8y014WanMN3KC6+pJWdHJBrLo2paNg5H9pE=;4XMtbBWNNo2LRyruQ50hVA=="
+related:
+  - title: "AI predicts structural properties of metamaterials in a new study"
+    excerpt: "Researchers want to use AI to eventually design new complex metamaterials based on machine learning predictability."
+    publishedDateTime: 2022-11-04T22:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-predicts-structural-properties-of-metamaterials-in-a-new-study"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/04/image/png/eboc0WdlwVgxPhB5n5fFpyEOqOupTH6nleU94Gxn.png"
+        width: 1920
+        height: 1281
+        isCached: true
+
+secured: "nllMTUZjP2pMrQeA0eZ9TgsBB3wWjNQoXn3J6neLsESPPxrLWnnhbFGqwjudzrVTQziYxJVBEcOlyyJyST0wIiOOq4IBq8NlUccZLvYgH86bTqrTEmWPv2wX88lsbNknNw6VkEM2ygknMZ2T+m8+k++/+1xGtzTBMhFanN0I9N2wSzbesZgfB+qYzJiKrbDXNh62rbmNCxAqyD/saYKvTa+IEgXp5MmD1bGfeMfXoS6kKAdSmf1FVBEF9NilvztyEHa8i+oXYMgU4Yhw84qG6DWGsEct8Ezeb7yXy25nH3JgzBnWTg4Rmani+BtPuJGQOUT+E6bPYaVajhvhmmV0txfRTA7tDUpr0jsLICEGgq7KzcWD6BK7Rd5uCsqSvmlFm0JWtih5oUuVI9oGHwcXvLe1eqcpF2oH6iEKE3eQCXXJskc/Z6c4Q1GgKpTGeEhz9UNgqgX7OxaDPh/Lq3FQythENd1CytVtVLsB8pfnXdsNjjfjYyAJvO4/IQ/610lzcN4a7es+MxzIffgOQACgQg==;B1JQUfQyf2sFOxhA2XMNwQ=="
 ---
 

@@ -57,6 +57,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Hotel bets on face recognition tech to deal with gambling addicts"
+    excerpt: "MELBOURNE—As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The"
+    publishedDateTime: 2022-11-04T23:19:00Z
+    webUrl: "https://newsinfo.inquirer.net/1689578/hotel-bets-on-face-recognition-tech-to-deal-with-gambling-addicts"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://newsinfo.inquirer.net/files/2022/11/AUSTRALIA-GAMBLING-620x413.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Australia lobby group ClubsNSW seeks more facial recognition in clubs; debates rages"
     excerpt: "The law has stirred debate after the country’s umbrella body for clubs insinuated the technology could be expanded to other purposes."
     publishedDateTime: 2022-10-31T22:34:00Z

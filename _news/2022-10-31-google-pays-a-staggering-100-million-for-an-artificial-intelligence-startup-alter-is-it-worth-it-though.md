@@ -58,34 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google Acquires AI Avatar Start-up Alter For $100 Million"
-    excerpt: "Tech giant Google has reportedly acquired Alter, an artificial intelligence (AI) avatar start-up for about $100 million in an effort to boost its own"
-    publishedDateTime: 2022-10-31T06:11:00Z
-    webUrl: "https://www.techworm.net/2022/10/google-acquires-ai-avatar-start-up-alter-for-100-million.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 37
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/10/GOOGLE.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google buys AI avatar start-up to compete with TikTok"
-    excerpt: "Google has acquired Alter, an AI avatar start-up for creators and brands to express their virtual identities. The acquisition to improve its content game and compete with TikTok was made two months ago for about $100 million,"
-    publishedDateTime: 2022-10-31T05:22:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/google-buys-ai-avatar-start-up-to-compete-with-tiktok/article66076190.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 37
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/3joc3r/article66076254.ece/alternates/FREE_1200/Google.JPG"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "‘Alter’ a new AI startup by Google"
     excerpt: "Google purchases the startup for about $100 million with an end goal to work on its substance game and rival TikTok."
     publishedDateTime: 2022-11-01T04:26:00Z

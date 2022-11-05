@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intellige
 ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"

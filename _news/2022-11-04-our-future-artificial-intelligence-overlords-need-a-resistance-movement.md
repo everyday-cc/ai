@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Our Future Artificial Intelligence Overlords Need a Resistance Movement"
-excerpt: "Improving transparency about how algorithms reach their decisions is essential to keeping humans safe from harm."
-publishedDateTime: 2022-11-04T01:00:00Z
-originalUrl: "https://www.washingtonpost.com/business/our-future-artificial-intelligenceoverlords-need-aresistance-movement/2022/11/04/be00019e-5c06-11ed-bc40-b5a130f95ee7_story.html"
-webUrl: "https://www.washingtonpost.com/business/our-future-artificial-intelligenceoverlords-need-aresistance-movement/2022/11/04/be00019e-5c06-11ed-bc40-b5a130f95ee7_story.html"
+excerpt: "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies and stunning fake photographs. They’re even writing code."
+publishedDateTime: 2022-11-04T06:41:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement"
+webUrl: "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "vz5nYf/khktqzOy0Z3tMttlFqtUlU+i6S0UQqy5tiFYb46KBNIF91/aPbDFOoX8vPXEM1+pqMMJKkhd0koLYDEDEEMrBeyFnwcIpyLBgkK70vI3XfA8pgWli+cJ18GOPm9AmrCeId+4goCq/EBGz51aagx5NQGkaife6u6jnd2fobMI8E9hLsyOHhslrFOt5UjqCNbwe/1Xvm1OQxUSImePdIQc3OORWF7o1nM2fAUQ0SXl+lmpgY6TCXJagoPKutDbI/Notaqi5DSiIxEZIQHoXeQicrwE5w3X1BguTLytYhU2vKGsZ6gvG6+Gmf0rWC8+GM6waudqVwQ/CvWUvR64b0UA+2/7aZV+AksiG1Cs=;KMknOyQHpStzy5k7/zMZ1A=="
+secured: "KEAlkB++Z4yc8Wi3oV9uNBj6EF6FtrrYl9InINREv+NcVhpBmE3X+YlDar/jkVBNvQOH6wEfHQREMwd1VFQDB8aCrENblWFXREViB13K1SrXAExDoMNJqeWvIlkPni+MtKnum+ZfgtcZn8a7LewVJldM+XmdBns0wuptn8ljuv0RrdQ6AgnR7geQNCxCmGwmbCOaKz6koKpjyU9cH0JhpVAneFa3scqkqmGwb9XAbOet/VcUEFE9YchrZdqAv6PpH09IeEUjNmRUY7N5ia3XHXYz3zrKRMRPVbEJMtJLIFwoKaa+9HkBhsIf76MmWQbgeVviujR6KIOdgwz2mOYT3Wu1tjpYcu8gcvqkhfT+y0g=;cS0mQ3hzSf6P7T/VgDwZjA=="
 ---
 

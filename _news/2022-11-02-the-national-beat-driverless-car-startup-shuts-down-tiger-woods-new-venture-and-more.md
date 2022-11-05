@@ -35,14 +35,14 @@ related:
         height: 337
         isCached: true
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
-    excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
-    publishedDateTime: 2022-11-01T09:49:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    excerpt: "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped."
+    publishedDateTime: 2022-10-31T19:26:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 13
+    quality: 11
 
 secured: "wlEYXYmVY5UiXAubzUylfzL0Y1mICyiOsFWJ3T0B3GAEKWF0/x7NCvORuFzkFW8e6EQePSK00JT23BsvXVudJNCsjM5Suncoj4mhskv5PvAjd2SF65ACdDHfPNAkLCWY5mHwJneKf+M1OVi/rTrTGQMcswxUqEGk9gcDVxaU4jvHf6GoeECihOk32wmwOw/0sHcKyRyYUCUfk6O9ISn1uAx9DeKPl9uYj0+ygwMJb7ZIWsCZHqJ65HaYziBJ6/YAC9yLwlht9rC0qy5AJUILy1iGwtv0iLmGcw5615f+Lxdak7h2KHRoIu+rmYE2zobzWUGXJ85Dzt2g9ddmr5M6UcNpi9Q0DsG/HUEb31Njly38nzwtv04+orkEgcZtUwCLNvyM0L/YT4490eXKRro2DVxjsiTHBgck+nC84eOZ/LjjgrgyKlJfpUHd/sGhydcG7bm7UnFZxXwyJkitJdxRscVVplaYTwxpveKpuZ1nlluBywl/10GXxNymd/t66kJqvW0MbHpghqetMAunLB0QiQ==;klgQwcDsbu/kuNpumsBBgg=="
 ---

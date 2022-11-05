@@ -3,25 +3,25 @@ category: news
 title: "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022"
 excerpt: "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to cybersecurity."
 publishedDateTime: 2022-11-03T04:08:00Z
-originalUrl: "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html"
-webUrl: "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_dfa4ada7-9433-5e05-b7e2-c750b8072e89.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_dfa4ada7-9433-5e05-b7e2-c750b8072e89.html"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/c9/3c94ed0a-6c17-5fec-8ce9-4cd34d6bd131/63633fddb13d3.image.jpg?resize=400%2C286"
-    width: 400
-    height: 286
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/80/680d2929-60b5-5d2b-9099-2274ce0e9e31/63633fcbdbb71.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 270
         isCached: true
 
-secured: "htnSkOtX9Oh/9LyhkDiFIPqm+ogcu74Eo+5yH84Fju6CPmv9JOk/ngnAHrTr1lA/Mezaw13OTpLBGu9F6LhWaFxRrqG6HirD7jXuH0+T78w20DFgNcZSTwLRZ3D7RPYdiKpOqXq0qsT+fdfF0A+5teu+WDXy9gYEpiAfHp+Yh0cPC3icKz9ak0GEB5xudd156+VBBjmNinL3VA/YKWifallABCp2YgiwXi2zXTTZ/CbxPu7r5ARpAtvjKSy9R2LlONFYPbUYFHqqhAJT0p5brSQoBsDUKxD+uAhJtIj/r3+sRC+1R7uZJaPongJFd9vLqjdarDPdGxusB8vf86nC88rqjRJmniHwNs4YG4jK85o=;Sd+SBnIDX2W/U4Bv9Cv1Lw=="
+secured: "aoPW7oh5DILx0Hkt4FpnSR4/GcM0JeoTe8y631uVas4u2rKlrcUc4FGcrq/NrkvgsG3r3dszZe1TQuxOtRtskT6QtKiDUj3S+qUcYbyIRszvXOgIpSosida3kb+0dAIxQ9PtouZgZyBhT3udXRzwKJFdOamneoYpcWLZYcfRDidEv1vGL+zLgKnUcuCP6myhv1XSOYOUOpzQCb/8Cmf4BGXMto491PbiBtSN/liHO43yScqkGLfoBqmN91oJdpSZ1rdl67BLxa0FaF68zHog88z2+CAdAXmH8t7/uQF0v6/yxB4dtHFZYLCpbfHg9cxvqcSIALNg8gqNUG5e+jY+PnOvoulYfOYYv0Se/LsMI5Q=;qt/PcxDukMWbbLQTBcdfEQ=="
 ---
 
