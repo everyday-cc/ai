@@ -1,47 +1,31 @@
 ---
 category: news
 title: "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies"
-excerpt: "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ..."
-publishedDateTime: 2022-10-31T12:08:00Z
-originalUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
-webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
+excerpt: "OneMeta AI announced that notwithstanding what other companies have announced about forthcoming translation products, OneMeta's existing translation products already perform simultaneous translation in 85 different languages."
+publishedDateTime: 2022-10-31T16:01:00Z
+originalUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+webUrl: "https://www.barrons.com/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+ampWebUrl: "https://www.barrons.com/amp/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies-01667217971"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/fffd4e29798b933a9233cdc66dfb1610e12b396a-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)"
-    excerpt: "OneMeta AI (Ticker: ONEI) stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares outstanding,"
-    publishedDateTime: 2022-10-31T09:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29475051"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29475051"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.abnewswire.com/uploads/1666894655.png"
-        width: 1222
-        height: 1091
-        isCached: true
-
-secured: "3qXeKHUGP95+XVndDZwWI2GlE8v+L1Klb+wiMngRXfJi2ORBJ/guSDKIOWCXUaHXfVT3v04IRUfrwDEg35zL1K6E0ufkxOeHVt5j9FygcOzSW2PDNog0d3vYb96v1e0QtR1Fi0btxlvQ74EwiVslPnNAn4dxdtXtTkvI/T8YPBd+h8tzc7TQ64/Naw31ZmrmtNyNwvYkBZ+Xa+kbaxlX2k4clXp3EQW2C+sNvXmz0ZbbuIoHyGMQRvdw9azdexpHtwltBHNMljQaZTXX7Q1ByRWHe2TBJmFedYjL9/sfQYET9R+8MVSA50Ln1cZyYVPP/GpMwTHL4yJWw9vqXA1ZNp51L85WT32XVTlkDL9JV9Y=;Khbbo6Jq08VDzDmLNggWCw=="
+secured: "AVLE573eEbS8pF34ZfOQtgEHlmeQBXE7HVm082dKsWy8Q92Fwl2Nc2q30CkTJqNtfUgidtak170nLHWmWXq1PiS3aJuhqT83Ke+l9PReYKPAv7oUYHKaYHM06bRff55kkG+IAjWkiQUmVRvHTlpT1MavzXxVlVE1sK/eOv/2vWZWkrG4r9NC17cgSPyrKz+9n9S34Wo372MuangvAEFnOtCQKfHAa7Z5cH4lScO3iK1jvwxbF3Q3OQ9aVTY9YaTuR+yIRJUUzieyxc+79AYR3R1u+5mvRlLygrdZL4YjmUCXiVUnwTmqay9DLAAndZ7S0pNBVxcGfb1gOYvpvoNxb/e77bqb2kAxbPeoo4TjB2I=;4ohUGrf/Eeb1bHpnrhdKNA=="
 ---
 

@@ -48,20 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
-  - title: "Alpa: Automating Model Sharding for Distributed Deep Learning"
-    excerpt: "This led to an increased effort within the deep learning community to develop larger models. To keep up with the growing network size, the scaling of training compute has also accelerated ..."
-    publishedDateTime: 2022-10-31T09:26:00Z
-    webUrl: "https://www.infoq.com/news/2022/10/alpa-model-parallel/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2022/10/alpa-model-parallel/en/headerimage/generatedHeaderImage-1667066581811.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "kQGVfmVQ3fe4ANOOzxLxJIOGgmEj+36SWKso8bltJ0mXY6sD/qj57GcUjnv5YZV78oPruSYmh6VkGm/u54y7do77G2dDWXsRQgT+wXixrTDt7EBMD6fMkEnDJXzR3Zi1ZuvwI+at0AiU8CzdP8nnn6LfxT6NnfRl/GHZ3SWIA0WPdrI8FQFTdB35wz4cO660ftF9TDdF1elfYxpUbux75H/dZn/xbPo8V70/wnQkej0M2TubrZ18hxo9ou3Y6W75/oRdujxURC9st2Jq/134cXJQAqwNA3vrm14ygsfOOIbYTzQZAkkQWc4t23OpW9ellfaZjpKJtN1rX+IqsfiMMjCxVdbZ0SAAxOJSnTfaGr0=;nvAZKiInMQ1xZRx1qrjbvA=="
 ---

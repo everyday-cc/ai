@@ -1,24 +1,19 @@
 ---
 category: news
 title: "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)"
-excerpt: "OneMeta AI (Ticker: ONEI) stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares outstanding,"
-publishedDateTime: 2022-10-31T09:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf"
-ampWebUrl: "https://www.benzinga.com/amp/content/29475051"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29475051"
+excerpt: "OneMeta AI (Ticker: ONEI) stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ..."
+publishedDateTime: 2022-10-31T09:53:00Z
+originalUrl: "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei"
+webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://www.abnewswire.com/uploads/1666894655.png"
@@ -26,22 +21,6 @@ images:
     height: 1091
     isCached: true
 
-related:
-  - title: "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies"
-    excerpt: "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ..."
-    publishedDateTime: 2022-10-31T12:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/fffd4e29798b933a9233cdc66dfb1610e12b396a-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
-secured: "v7+My+8s/7QrfXRb0TglhazSPxnfn1Lj+XLTj+JAqcFIATh3m5LxrYpcpAHDzdYXjeuNSbEc6lRSVrokRJ7qcFQvhbujzQyvOUSI66pEtm2Jj+SARYfLVO2DPyRa8DuZRhmPUFDKixQmqegPObc5/Ffm1o2g6/k+RmFlurEjG/DN8RzcgdVyysOouw3ZBUgZPPG30k8E617IT8Lfpo7T69tWLANqvfbfIwVQ0HLTYI4krphHh/Fl61m7ZIjlqMTFHUdDGizQOR6rlGWqDlDEUc3+dUs16qCDc0Z8GJdvSNOcH4l/e9qmsH/VEZkPcJQxvNozbecBqURkzAB+99cHrATkFcJACLSWBDXD75ZrBHo=;CZlXjKKlIGfTjHThq9Mh2Q=="
+secured: "mLH7eMhv0QZV3DxUTd5osms+ejw5O0lYhfhueg68CfY1p2LUJWAo0FlSRwiCA1WbdV6K4sXYSPKrtvdX9q2zJt50wAK6omsPp3V3pIeAsi1X243E4ure0D4vcseXh8xBUmY5G610Qx/k9Te+NbtuZYA6ZDpIATJHi/Bpg+ZillK8Lgye8RzypuHGAay4ihly+bJExDcDppHxnGeHI+zFTPxq+JwghLab/wz+Hu2+9mip4DUrqm+GvsanRhvv5nw9VoAHNYBGaEAJWimDU+v1mwXayaxlxa99LNVn7AqMJV4wv9SqqebBmrwe3W4kC2sJJn2ngHqpwrxdUI+ghe0ftaseGGMxWbXAkBOQD3+1RNQ=;6f70CrBMD6qBFDmLBWojxQ=="
 ---
 

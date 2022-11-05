@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fai
 webUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - Computer Vision
   - AI
   - AI Ethics
-
-related:
-  - title: "Police use of facial recognition not ethical or legal"
-    excerpt: "All facial recognition deployments the researchers examined fell short of minimum ethical and legal standards."
-    publishedDateTime: 2022-10-31T10:15:00Z
-    webUrl: "https://www.computing.co.uk/news/4059116/police-facial-recognition-ethical-legal"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 38
 
 secured: "hIWE7caXpCC+vX9JnxBJYYrxiCd45fyQeHHNK9PSs3SzdKynaDmeBAYqPvO9t0tfbrs16VU+0Y2t37uMIP2snihuC1sILnYoXW9XrLyNy0rgH195Y/x6KDgis1Tt1tBfkNNRHTaMmN3JvW/CmSD7eCxgjHmfr9qqENM8+498PdtGCmBbT17dZfcYhOx7445qtMZIAdzRtrsUHQRNFOHlJvc8qdejVaaQi4+o/mMaS64J564Y6fNR1tmNketCLHjhBvb7BIsyprwXBeC+PHccD4yS0684QgsRh26qYf++Lfglit3QaRY3jFKJYb4Gql6Uk+1FU1Cd1XC9O9zBymaR1XJcu76ZKbTOZG2tPZyCeoVG+GAeoS44bDs9Wnt8B94pyVi7PnoMsF/4Itl4hepP4e0uR0xQR0Sf9v8oEDV3vnHEguOAHsQnxNv8lEXZdcSTnjoGz6awR1btwwJrL1Af/cSfJNygldli9wDYQk8KDEBvYUUmEHX7gKh1jUjPaMRyWDlkMLg6XymvPLOSQ0+ngQ==;bX8y8G1tv5it1KxqpWbCgg=="
 ---

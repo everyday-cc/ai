@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/google-buys-ai-startup-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-buys-ai-startup-alter-for-100-million-9428551.html/amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: moneycontrol.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Acquired 'Alter', An Artificial Intelligence Avatar Startup; Details"
-    excerpt: "According to TechCrunch, tech giant Google has acquired 'Alter' – an artificial intelligence (AI) Avatar startup – for about $100 million USD with an intention to amp up its content game and compete with TikTok."
-    publishedDateTime: 2022-10-31T10:38:00Z
-    webUrl: "https://www.thequint.com/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here"
-    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here"
-    type: article
-    provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 70
-    images:
-      - url: "https://images.thequint.com/thequint%2F2022-09%2F3ca83e94-3c18-40a4-a8da-5aac5a3eed86%2F2a253c1258143da0dbcb615b6a8e21da.jpg"
-        width: 400
-        height: 220
-        isCached: true
   - title: "‘Alter’ a new AI startup by Google"
     excerpt: "Google purchases the startup for about $100 million with an end goal to work on its substance game and rival TikTok."
     publishedDateTime: 2022-11-01T04:26:00Z
@@ -69,6 +53,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/a-1.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Google acquired AI avatar startup Alter for $100 million to take on TikTok"
+    excerpt: "Per TechCrunch, Google acquired Alter, a startup that built an artificial intelligence (AI) avatar tool to help creators and brands express their virtual identities. A source familiar with the matter told TechCrunch that Google bought Alter for about $100 ..."
+    publishedDateTime: 2022-11-02T09:43:00Z
+    webUrl: "https://mobilesyrup.com/2022/10/31/google-acquired-alter-ai-avatar-startup/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 35
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2022/10/alter-header-scaled.jpg"
+        width: 2560
+        height: 1439
         isCached: true
   - title: "Google Acquires AI Avatar Startup To Compete With TikTok"
     excerpt: "According to TechCrunch, Google has completed the acquisition of AI avatar startup Alter for $100 million. The platform allows users to create and share"

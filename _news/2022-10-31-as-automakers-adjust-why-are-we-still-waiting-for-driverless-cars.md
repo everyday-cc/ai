@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
-    excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
-    publishedDateTime: 2022-11-01T19:19:00Z
-    webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    excerpt: "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped."
+    publishedDateTime: 2022-10-31T19:26:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 13
+    quality: 11
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
     excerpt: "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped."
-    publishedDateTime: 2022-10-31T19:26:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    publishedDateTime: 2022-11-02T03:12:00Z
+    webUrl: "https://www.bizjournals.com/seattle/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
     type: article
     provider:
       name: The Business Journals

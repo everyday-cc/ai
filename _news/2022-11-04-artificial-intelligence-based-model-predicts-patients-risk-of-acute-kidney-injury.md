@@ -50,7 +50,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 13
+    quality: 15
   - title: "Artificial intelligence–based algorithm predicts major adverse kidney events after hospitalization"
     excerpt: "Researchers have developed and validated an artificial intelligence–based algorithm to predict hospitalized patients’ risk of major adverse kidney events after discharge. • Results from the study will be presented at ASN Kidney Week 2022 November 3–November 6."
     publishedDateTime: 2022-11-02T23:59:00Z

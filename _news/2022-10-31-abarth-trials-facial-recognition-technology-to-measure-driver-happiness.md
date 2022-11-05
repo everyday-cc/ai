@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
+    excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience."
+    publishedDateTime: 2022-11-05T03:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/05/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1805175.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Cops in 5 nations see a way to use facial recognition safely and effectively"
     excerpt: "Privacy advocates willing to consider giving police facial recognition tools have said they would support it only if certain policies were in place."
     publishedDateTime: 2022-11-04T20:27:00Z
@@ -69,15 +83,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Abarth conducts facial recognition tests to monitor in-car emotions"
-    excerpt: "This recent test follows on from another study by Abarth and Loughborough University which found that driving on a circuit had a more positive impact on a person’s mood than a v"
-    publishedDateTime: 2022-10-31T11:00:00Z
-    webUrl: "https://www.expressandstar.com/news/motors/2022/10/31/abarth-conducts-facial-recognition-tests-to-monitor-in-car-emotions/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 19
 
 secured: "l81az6ImP1tSDpC7SiLFbo/kS0vJoiCD2JRe+VW1mphfweiVx3CX4l1G72BbNnEmTFo8ZJzicWTJU020YmSB+V0UpH2HwOwe+sr6r3o08xxgzE9rMJFFwiM5MwWWHUaX9JDJ1l1VwtmBxdZci/raTthZSgBUJLEYYTCMO+QPII4aM3tmgQY2d2DmPzaZuDS5K9uOH4iFEfgz1EJe3RXauNq71Ut88j2pYRV79RC+kq8BM4+X0gxdAHGts0dlmWM6aTB/DkFkd7uxodDAchACsTmsloMr0GgHTe6k8vtuaDDuWnRq2Lq+EamZtVt/F44gJWDvMpuUPVIFeeHmT6oJoDyMbK0JXAZXQUAHr8yHBPXbBa7djmiXTrK4J1suzJ2JX/ue7DLW5d3SKh3tdoUX5vm8hpOqR67tOVURTPLtBMclE6hdfK6LlslLfD1z8En5s4T7Dt0+ev7pHwp16skC+pLyn4boNkye4QKrg6DmZrr2ifCusVYLLWWrFmWhUZHfPsOJlAwqXXdEh9AuUD0Tlw==;ozYaOqY8fIDs+HnnHZpwrg=="
 ---

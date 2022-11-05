@@ -43,6 +43,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "AI In Insurance Market : Increase In Investment By Insurance Companies In AI And Machine Learning"
+    excerpt: "AI in Insurance AI in Insurance Market to Reach $45.74 Billion, Globally, by 2031 at 32.5% CAGR: Allied Market Research PORTLAND"
+    publishedDateTime: 2022-11-05T03:34:00Z
+    webUrl: "https://menafn.com/1105133240/AI-In-Insurance-Market-Increase-In-Investment-By-Insurance-Companies-In-AI-And-Machine-Learning"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/04/EP_2c34bimage_story.png"
+        width: 986
+        height: 516
+        isCached: true
 
 secured: "4dXyzSLABmJo04ZLDUknhHjQpemlEOVtX2sS0HYlUyWT8SE4jDn7DE9VpXcfe4rUgqcfoufAseDFlICBFNXqZ9ejOepQWQbl9vrB9LlEUabx7gweite3Kkv2s1bgXaMcyir6wkDHIt88OTTiCjTrWjBxkQeZLZq//PYiV7ea8Ym/rWSDo05PxwfVDbqP+9JJZA1gbQSNmwiRFk851iYG5BwStP4NRE1e777J2ymdMhm4bTSQsmOFwRAaNvk46lBdUICtWkbJL6VO02ntr+286sGfTdBMnuAhglSd+QTZPJepwA0e1cs8QDD31iCmc5mRzCgcwgAcVx/aGy+Y2usQS3V7zgFn9smdhvdvE3FXpJaOi+2T6S83XSs7UQxwsm+QcJlLWIxEBCziW8OojygPmJS7ixBEBO0SdMyTmwdn/tVO1O+san+uJccTQWvpe4ISmrD3LbmKPMwjJaeMiRwc8GaQuRQuXCD1M2xzSjGnBG+imsyBSwDPTb+bGfBNbrwYCcXU+c/p/BN2Yl7wSMha1A==;M+Qla1w1Ym9ueKNrY/GXPA=="
 ---

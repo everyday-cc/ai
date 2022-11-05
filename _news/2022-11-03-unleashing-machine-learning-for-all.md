@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/unleashing-machine-learning-fo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/unleashing-machine-learning-for-all/amp"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
-  - title: "Alpa: Automating Model Sharding for Distributed Deep Learning"
-    excerpt: "This led to an increased effort within the deep learning community to develop larger models. To keep up with the growing network size, the scaling of training compute has also accelerated ..."
-    publishedDateTime: 2022-10-31T09:26:00Z
-    webUrl: "https://www.infoq.com/news/2022/10/alpa-model-parallel/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2022/10/alpa-model-parallel/en/headerimage/generatedHeaderImage-1667066581811.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MYhM+5D9QQIOiyhfaySQeYj294PgfXQ+pLPEAyx/RyMhgXUM9mYfKDJmREJsEoJeA+KzJ668181gWHNDl8lxwkv+GmoqoaI0WjQy+QzjvXh8QM8JkS04mtGnJeFLaOYQ/tXthjpzsPUsee67RauaOQp2I/lBVGbFGAkVC46wCH0nVmV0P7ojWQHDvg4ESSByi9EDa0MvuDrxGFLlhLc2RUc8MjEfxQpM1t1dFpLPGYaNfgQzqJCq9m//a3Tx3i/KYYXD4IbdBOuAKuNvWD9BOolvx2/ke1zesBcu2jf2hLQVr7ndIJIpDIUweOCKMcFamlYyJ6IokGgfpSfeHCea98qYt4Q1CqTvG7j3jfmNyK7EYKNSO7tzNT5edtKzxGmP3E6i5bTVYaM+cP9IISX1MJPVa/PHY9laW4AqYkLQ2OwLO5BcR8vVPi/0kibYsxNevEJOJRcu4+Q26MBOqwDC/2G8siHkmh6sjaciuesJhm/mK4pybbB1sT8GC54yzatajKFf5evAhge656luHa937A==;HHX0H37Tkk4tQXv0+nRV6Q=="
 ---

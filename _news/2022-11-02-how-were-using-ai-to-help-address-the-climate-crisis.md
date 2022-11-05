@@ -7,8 +7,8 @@ originalUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adap
 webUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adaptation-efforts/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Google
@@ -23,15 +23,22 @@ topics:
   - Google AI
 
 related:
-  - title: "Use artificial intelligence to combat climate change"
-    excerpt: "AI can improve weather predictions, improve carbon capture solutions, make transportation more efficient and less detrimental to the environment"
-    publishedDateTime: 2022-10-31T13:01:00Z
-    webUrl: "https://mg.co.za/opinion/2022-10-31-use-artificial-intelligence-to-combat-climate-change/"
+  - title: "How AI can help the public health sector face future crises"
+    excerpt: "AI and ML identify disease and conditions in near real time. They could soon enable population-wide disease reduction and healthcare equity."
+    publishedDateTime: 2022-11-05T03:07:00Z
+    webUrl: "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/"
+    ampWebUrl: "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 17
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
+        width: 1200
+        height: 588
+        isCached: true
 
 secured: "32aAk7GWWBnRca0GR5LHTTR5QfmbuZLtCJN8huCqddiv4UGvkbB+wp9Y8BRMtIkrFbbAaFRiRpM2ZNn6b6eJC4mV4bun4rR7NjPcys6XIgKtDmCx2ybi/TdLuNSq2S98eSISKkw3G8X0vWBQH4Bsq3VvTTZV3T0pyXqcCOWJlU76rF6jzZqHTPY/8lsdGtHAlmxBsAgy4qL08x1iVT60IrheQ0c53izzhXo16iEdhLYr3zSuSi+Bn69m4QQQz5qRnSQDMGfo7syUrlDBHxYfa0arpY/kuA0yLmRfRJGMUknELBUEHXiRECzctdTlZsGYK9R7A2ZGM2YLX1uIsbM8/u7ejkIofLmPo/Fi7W/rfzE=;tmuVwhpzWHVJDeMUO3IxqQ=="
 ---

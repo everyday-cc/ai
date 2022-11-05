@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -32,6 +32,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "AI In Insurance Market : Increase In Investment By Insurance Companies In AI And Machine Learning"
+    excerpt: "AI in Insurance AI in Insurance Market to Reach $45.74 Billion, Globally, by 2031 at 32.5% CAGR: Allied Market Research PORTLAND"
+    publishedDateTime: 2022-11-05T03:34:00Z
+    webUrl: "https://menafn.com/1105133240/AI-In-Insurance-Market-Increase-In-Investment-By-Insurance-Companies-In-AI-And-Machine-Learning"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/04/EP_2c34bimage_story.png"
+        width: 986
+        height: 516
+        isCached: true
   - title: "Formula 1 renews cloud partnership with AWS"
     excerpt: "Formula 1 has been using AWS’ public cloud to support its artificial intelligence initiatives since 2018. In particular, the auto racing league relies on AWS services to power an AI-based data processing platform called F1 Insights."
     publishedDateTime: 2022-11-03T19:30:00Z
