@@ -3,14 +3,9 @@ category: news
 title: "Machine-learning systems are problematic. That’s why tech bosses call them ‘AI’"
 excerpt: "Pretending that opaque, error-prone ML is part of the grand, romantic quest to find artificial intelligence is an attempt to distract us from the truth"
 publishedDateTime: 2022-11-05T15:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai?via=indexdotco"
-webUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai?via=indexdotco"
-ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai?amp;amp;amp"
+webUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai?amp;amp;amp"
 type: article
-quality: 55
-heat: 55
-published: false
 
 provider:
   name: The Guardian
@@ -22,14 +17,7 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
-images:
-  - url: "https://i.guim.co.uk/img/media/efdf0b639d5832c78a761b46d999c6a5b1fe05d7/0_326_3397_2039/master/3397.jpg?width=620&quality=85&auto=format&fit=max&s=b32ee3c450c21c03e8be33d496aa7ff1"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "nZX2qGXQwBDDV7j1SY2vUYtuSCPwgDyJcAhLq0INu2Vt7X63VNsZ+qwlT5Z2kumz7Lp4rHaVu1kM/zFsXGIg0gYxa3UCBfwpmIwAfZtesshQqchj++SPxP4X5XFamX5B4GBGGqk18g3S/t9ygSdjiRr83ZF6UzJIH9yI3YwL2tFV7YIgUkvwW4PeE+NAsEChn/FhyjaMfDF3sY1BYQVsbKi5hTQ/OOPYkgM3QiAoHSNGJFPdiUilxtaCtgc1GqdKyApd9n/8HQXaDOoMPCWqaRyVwRou39TBR1njehErXs5qzwIiPRd7qPiGRng8KthsqZUBhJwsDb/JHxM1j/YICGISM8FW72crM2VdniFvaxg=;BUrD5frt1tijukElXjzD8g=="
+secured: "83wFCQYKGTP/5W4boy0dpgOIQcFqb2k/25d8fjEkOk5kw8eeYZG+1ruHpdlXF5xGwpzrfigvOFyyV3TcljQGTohDHQibJDEp/z2/j44QfricWMn79goqqxf6VlaHSS/yTvKm/Exp0UjYpDgwJkS1b0JhSk0Bqj1PObDkfQneTu9UL6drl34J897m2Em8cOuc/V884Da9GyQMGyBIIGGDIbV6zVO9VzjOTfS7wM1hwd3EmVHfdHUzd9jrHwIVOjBnCb+jxUeFmDExbfOpkFtmQvZQjo6tHq7fL3wUUEUPwKjSaLxG7EejQyG6TMU0NdxtXoGOj7rQ1xqs5AGDAoahIpSLrOm+oFpfCdHd+9Id/t7WychAuyhb/10MHDeeT8Tq1Xo0307Jq02j9g6mhWPZW3sgMTfNk37EBOyCKyOOwEUtbd9j38/n1g9kq9+Ua35b9FlrECWvBEjDe4JRhdP1So+UO5gpU5OFXFzaXAmwrOD2u3Pqxh/uBbnSq3iRbnHhPO4/yqO+EGd6p4RBiuxTFg==;Wjk2EHJmrdLDWlAkIMdiuA=="
 ---
 
