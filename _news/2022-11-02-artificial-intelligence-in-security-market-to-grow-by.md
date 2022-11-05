@@ -70,15 +70,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Will Play a Significant Role in the Future of Security and Surveillance"
-    excerpt: "As per the report published by Fior Markets, the global facial recognition market is expected to grow from USD 4.2 billion in 2020 and reach USD 12.84 billion by 2028, growing at a CAGR of 15% during the forecast period 2021-2028."
-    publishedDateTime: 2022-10-31T12:50:00Z
-    webUrl: "https://techbullion.com/facial-recognition-market-will-play-a-significant-role-in-the-future-of-security-and-surveillance/"
+  - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
+    publishedDateTime: 2022-11-04T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 25
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "wNoJvdCGLtNJrX8x9cjEhJAzZXT/far/cwrCEP0G46nkQZYZIV7z1mQabQdWKWG4wlUOoxrji2jRrkO+wTB8eFH49SA5918m2PAmF6mbUG6mHWmvRfrY0Z+qKNbfK2goKIzMe/N5UQKHT6KnYkwVY/AvY9hMmWYtk2HHma4SFvYJUjNY3OwRcCKKkbCEa03u8olfTLLuE20NUXLlW8nSS2NfD5gsV4qiIh/n4cCs2hoY6SZK1YYn+woWFBcWoh5gArg7BWu+nmJnawbkH93qJr8tECMP+ev4HDOm+id/To4Li6RSmJrvZ2D4iDaG+WMjmlVjHxyg3MTRtNmB2HX3RiFa902P+E44c1KjMY4gwZgMMHi+gXVBeZuT98ODggMsskAgQmivAEt4hlU8IXqF6IJPEdtiTEkfAWnduroxr+4/ZznRPWoSE7gfIS4jBtXKO69iq/jEvgv2zgMdGFFQlKGcLI3xvvEvUxKOlVrrJV9xPlqEM1kRMsWGZWAayYHWRCZXSlNTR3+LfQPxNpUMNQ==;r7QjRXZ35nQQx7uQHClklA=="
 ---

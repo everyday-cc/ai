@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/google-buys-ai-startup-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-buys-ai-startup-alter-for-100-million-9428551.html/amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 2560
         height: 1439
         isCached: true
-  - title: "Google Acquires AI Avatar Startup To Compete With TikTok"
-    excerpt: "According to TechCrunch, Google has completed the acquisition of AI avatar startup Alter for $100 million. The platform allows users to create and share"
-    publishedDateTime: 2022-10-31T12:55:00Z
-    webUrl: "https://www.androidheadlines.com/2022/10/google-acquires-ai-avatar-startup-to-compete-with-tiktok.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 17
 
 secured: "qtMadiO5XgWDcG7aGrrO+axhZcOmxoIZlgw7YmtzHEEn5ALZH/6MpxEpdvm8qKhi1H885XR+B7m2ACZ35FqSq88hKMnp3m744c56CfKSdhdQan2xLGSbJ2jXHaI4OrSqMkf8ZA5EuWT999ugKHnSDiQL28kdHv/A99CBWdeHcpKIQfGYi49tkhi8iRr24K0K9C3/2Qy9HIcoGLmXOo1dXUrDF9NoYJfGQRRNHsBMq6L8Jh2nUxVR9jQyxLZob8RwV74sLMbPlKOzgsbmIlecYavRehS9qORsJAadr37FI4u1vebdY1H/v4Qqzp0umFUnUk2vVOi6DF3Z4Tzep8Pi0Xl7LHiVF1HhyNHHRWmjTL/fjeMOWZKM33tJRX11nDCCWFPCv4R9mli5VRyC/LZW5Vh0TLjHPM61BQcOh+0tF12W/Q3LWyWvMkcXo5EI0sL3eT8Euu40kvB1CdFc8yvralgRQA3gB94USj7+P8swYzxnGZcb2ZMfeoWAGJwrvmM/zxoMfUmLmvEg5BvfzK0bmQ==;uvyVPeaeotYag1eRCooqUA=="
 ---

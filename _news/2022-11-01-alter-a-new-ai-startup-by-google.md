@@ -68,15 +68,6 @@ related:
         width: 2560
         height: 1439
         isCached: true
-  - title: "Google Acquires AI Avatar Startup To Compete With TikTok"
-    excerpt: "According to TechCrunch, Google has completed the acquisition of AI avatar startup Alter for $100 million. The platform allows users to create and share"
-    publishedDateTime: 2022-10-31T12:55:00Z
-    webUrl: "https://www.androidheadlines.com/2022/10/google-acquires-ai-avatar-startup-to-compete-with-tiktok.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 17
 
 secured: "kFcWxIjpPl7zW9x9CJlv8qGv7J+EJBrQeOj1YSVqgeLZ061fNGxdfjASyjX6d/cZNjngHM61FlRleITYqf9T/4EbCtHXnJKRRZkyDvNsTurP0pR0elU/z3D9oBPdVI9WSgHnciOunSwXKuH58oAn/lD6X8mMUcFOh9EalhlYU3Ya5FT7ESX8h5mtMe71SqTQ7L9Jm3tzd+efrJKtjEZmBewHBhoCgTVJlKgEHXopDXtS+xvyKBYFqwKIuffBgc0Lmq+cDiAU2Zp+52gkq+/bPqScuI+bmIzyrYlxbASbX1Yp9Rb8LTWeMp4GyT3u3J0DDErfZLTg3M4VOZwsdn/stxMwVs40jg1NCSdAhjb89GY=;ANb42zehj0d/qkmJHrSVcA=="
 ---

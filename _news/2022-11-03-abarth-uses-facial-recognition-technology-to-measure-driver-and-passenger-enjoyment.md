@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Abarth trials facial recognition technology to measure driver happiness"
-    excerpt: "Performance car brand, Abarth, has become the first manufacturer to trial facial recognition technology to understand driver happiness"
-    publishedDateTime: 2022-10-31T12:59:00Z
-    webUrl: "https://www.techdigest.tv/2022/10/abarth-trials-facial-recognition-technology-to-measure-driver-happiness.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2022/10/AbarthTrack-FacialRecognitionTechnology-1024x788.png"
-        width: 1024
-        height: 788
-        isCached: true
   - title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
     excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience."
     publishedDateTime: 2022-11-05T03:00:00Z

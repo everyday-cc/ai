@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "As AI-Generated Art Grows, a Wave of Litigation Is on the Horizon"
-    excerpt: "With artists pushing back against AI systems that are trained on their original works, IP attorneys expect the complex legal issues of this practice to spur a long road of litigation."
-    publishedDateTime: 2022-10-31T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/10/31/as-ai-generated-art-grows-a-wave-litigation-is-on-the-horizon/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
   - title: "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting"
     excerpt: "Co-led by Insight Partners and CMFG Ventures, this investment from new and existing investors will support Zest AI's next phase of growth in the"
     publishedDateTime: 2022-11-02T13:08:00Z

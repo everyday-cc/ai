@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Platform Market will Perform Impressively In Forecast Period to 2029 | New Report with 122 No Pages"
-    excerpt: "Pages No.] Artificial Intelligence Platform Market report are massive business with critical facilities designed"
-    publishedDateTime: 2022-10-31T12:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-will-perform-impressively-in-forecast-period-to-2029-new-report-with-122-no-pages-2022-10-31"
+  - title: "Medical Artificial Intelligence Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028 | 117 Pages Report"
+    excerpt: "Global “ Medical Artificial Intelligence Market \" Report is a detailed and comprehensive analysis for global Door and Medical Artificial Intelligence market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-11-03T09:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-117-pages-report-2022-11-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

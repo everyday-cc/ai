@@ -28,14 +28,16 @@ images:
 
 related:
   - title: "Colovore Announces New 9MW, Liquid-Cooled AI Data Center in Santa Clara"
-    excerpt: "Colovore, provider of the most efficient and scalable colocation solutions in the Bay Area, today announced its second data center location in Santa Clara. Located at 3060 Raymond St. and immediately adjacent to its existing data center at 1101 Space Park Drive,"
-    publishedDateTime: 2022-11-03T20:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/03/9706232.htm"
+    excerpt: "The modern servers underlying these applications require 10-20x the amount of power and cooling to operate reliably versus just ten years ago, driven principally by advances at the CPU and GPU processing level. Today, AI and HPC servers routinely draw 1kW ..."
+    publishedDateTime: 2022-11-03T18:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29554211/colovore-announces-new-9mw-liquid-cooled-ai-data-center-in-santa-clara"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29554211"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29554211"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "14pb5g1cD90NjNbl2XV7/4tEjz8srk3dvPYVxGJYEL6qiIW649fJIBPwgI+baYgyOgd/8JAwI/tWTptAgS4ftPg5s/JPh+GWRlPghOqeTTccGHtpCt/SatfL5kEVvqVlSV+445h0ZNWMoFbkz07FDtoMV+w5UHJzzg3ZMwpDPQNq0Jipb7XMI/MlyKlsQKRltP75eZ8aui5iPyK23g5yWQkW18vKpRehb43IIuCKKJta5hUKDjeRmTdsA1YeT7Z8lhT0zzYpyWNsb+pO+gTTnzwgPOKDdIlHneWvLD31SeAux/VKox9NALYP8T7o2+vKodajSI0byVy22m1HKtkycio6JXbHHzDOOclwcSG7KbxcNrnjVR1s1khq70UV8KD3xJ+qH7rztQ7zWdMrCXVzuuVBi7fOnjCv1/kiEnr7QA/ttlYdwDFrModk0A6R1+q2Vv805Ea4SsXRXZqWx8qSOkZ9AAVlm8uJ6zAiM6NDWhWdfj/vYgvV0JkeW3H9fL+2F8xlKfQxa4epzJqWjMmxzA==;bWBpSEUQKNXGZ2D5+XX7kg=="
 ---

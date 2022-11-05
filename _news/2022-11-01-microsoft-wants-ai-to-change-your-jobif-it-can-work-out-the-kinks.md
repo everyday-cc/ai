@@ -52,20 +52,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Microsoft Previews Computer Vision Image Analysis API 4.0"
-    excerpt: "The upgrade of Computer Vision API is also part of Microsoft’s Responsible AI process and its principles of fairness, inclusiveness, reliability, safety, transparency, privacy and security, and ..."
-    publishedDateTime: 2022-10-31T12:55:00Z
-    webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2022/10/azure-computer-vision-api/en/headerimage/generatedHeaderImage-1666799178769.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft wants AI to change your job – if it can work out the kinks"
     excerpt: "The most hyped words in tech today may be “generative AI”. The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user."
     publishedDateTime: 2022-11-02T07:00:00Z

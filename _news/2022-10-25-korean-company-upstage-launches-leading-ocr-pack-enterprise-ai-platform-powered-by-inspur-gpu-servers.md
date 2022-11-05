@@ -2,21 +2,29 @@
 category: news
 title: "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers"
 excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ..."
-publishedDateTime: 2022-10-25T13:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
-ampWebUrl: "https://www.benzinga.com/amp/content/29397500"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500"
+publishedDateTime: 2022-10-25T09:09:00Z
+originalUrl: "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25"
+webUrl: "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "tXsbbembgkDZPXMhH01kZbd8qp6bkoVtL3XpFrdTiEEhT517SDnSiese1iB5wFGPo7Xu1WyuEh0C8fIIgrZAH6xA3RYRMyzzsyCIfkeLXpCfCxF1//YdJHA00NjtctBGUKp+5VM2+zRI4trjNUP1ntYFABib+/cJin4hfo2L1g5zvj9gNCyP4pX4y/SpH0rcozTaKerEwVPHnD+wyRtm9oiLSsMhjWTt/+fVvNNc5RD412r7Gdj3W4cbkOC2L0zhkyyyq88APWZPKdozk2wQAH1DauuC4oQPJCBn5vE7XcZz0fqap1yAyyn+4qLFZOC5DCV5HA3oAeHwMw9M/OjX4co6/GgwsOba2yhAEP/d2MQ=;GNKN9opiykq6+VPn5QLQyA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "8I/vyf66gl+vSnlAcchcqpJkdyb6tDH+Hjk/jfth7VQITXKv5/l5AEgcRhd837Zi8ROJzgg0Kxy2JR0E4r1ShuLC/OKeAqNSzseTE1ZHQBKratayc4lqZzSolJm62q4fI7vE1bLCHwcuXmgDZPlwHzTAV6+6+3AW7jchvygAlye6EMzHdcMRjphTQRpROXlS6uetymT6Ayh3Ib2mcUpq5jTcNa1SR6IfivfZQLAqklXgjzTFGep0wDEMGZLZJ5xByVTu2ajtFpcnYuqWITi+eJPUp52r+92AXo+51jQ3eBpbX77f5pcf2KHBFRlY6g1ZroDSwW9f1MwyjPJ2ZJIaiZK/s69TTZGwt2p4wDDIwzo=;zMYyyXFLwOCFGaFXmDD/1A=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "As AI-Generated Art Grows, a Wave of Litigation Is on the Horizon"
-    excerpt: "With artists pushing back against AI systems that are trained on their original works, IP attorneys expect the complex legal issues of this practice to spur a long road of litigation."
-    publishedDateTime: 2022-10-31T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/10/31/as-ai-generated-art-grows-a-wave-litigation-is-on-the-horizon/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
 
 secured: "nIleXp8yhaOb1RhoHs0QsQ0MBTZtN2TGsCO5zylvHIwwlB9i1qKg99zKFqAeF61XXzFgLZMRgvXoxlUG/+WtIDx+YTfNZ5QQ9I783slHIEGmL/NsSAhg2P6q1w6MhU259xDQp2Yli7lahw+DwkHXntD4kQgiS7UNK+bnwX/6BgbIXIu3W2C8eZTl4bankgM4hUH9GzndrFgXCHkNoLTqB3n2qPyk8a716tGaJt1KC9iStqB59cq8+OoFhZoJm5YU9S2ee+mUMbU9JrYt6ZyiIVPjQoWY/k8iSWCFWIjA9u3spYIM+78QuaS/3PefzOt/T7Vul8VcPpdLBMRiaNoZlSOSvL9dMR6dGD7Z2Jbjbegat3Z5buDhzJQ4w9ewD+PyiQzjMR9dygmDGkLG/7gBWOvdtYlh/Ac7RRBw6SvBGwd1FJFLyGSFTF09n0PELqzNblYfbLXiil61aK2usBRkWD9LnzwZ8tOaDY2/9JX+8wBpTmwo4M/AzhLZzTNz1X4QUh69hCMimUm0Uv1mJ5L61w==;Lim5qLTKmlar+tMq4Tnugg=="
 ---

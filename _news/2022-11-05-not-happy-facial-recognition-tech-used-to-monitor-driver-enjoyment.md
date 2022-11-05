@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Abarth trials facial recognition technology to measure driver happiness"
-    excerpt: "Performance car brand, Abarth, has become the first manufacturer to trial facial recognition technology to understand driver happiness"
-    publishedDateTime: 2022-10-31T12:59:00Z
-    webUrl: "https://www.techdigest.tv/2022/10/abarth-trials-facial-recognition-technology-to-measure-driver-happiness.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2022/10/AbarthTrack-FacialRecognitionTechnology-1024x788.png"
-        width: 1024
-        height: 788
-        isCached: true
   - title: "Cops in 5 nations see a way to use facial recognition safely and effectively"
     excerpt: "Privacy advocates willing to consider giving police facial recognition tools have said they would support it only if certain policies were in place."
     publishedDateTime: 2022-11-04T20:27:00Z
@@ -84,6 +70,6 @@ related:
         height: 683
         isCached: true
 
-secured: "FgRc2hDg5ilA2Bewt8QQuuhJKzYXVnQIxQ+OKErZjNXMgvzNF3ovlKMIXJcps0D/Cr0as64MWZOJbmNh2+OiQeyVxGUPDuwU8/F2Ow9CMmYevXA39UDN5hCYmQLxE79xyieLLtm+DZxLBVRa/zs6lpYqBNxpo3iLvm3+UiY5sdQ+QeC8FpTKwBdAo9UglHrMwE/vQ+nAmKaMh5t4jxPLZ4cnZHhC8Bz++KJa4SUJRxpCO/xXMUuH4er+wyEl9cvpud7jizK2a9n+NP7TtEnJY5XJTV0nPHcd9lRFKf1EbWg4SOFtZJwts0+XryvbuMHMXUG0KXKfPNH1N4d8wu4TxqL/FVWAC3mEoP79+y7fIcw=;vBOCtrn822VTSD2rbHnTHg=="
+secured: "n7dhCzqtqKUD5NrAlzDEg966oQ07YBeZVgreIlEzqsKodL0y5gJa9GjS2WiM+JAou0QK2DKRtdzoGPUm25MRm3jl/Ny7bwlFau96EgQJa9FN9I63ccLA9crmYMlddahGvlHJlvBHU1SsWdp8oogm5Do25DzmuklDl79im/27siRjo7jLqGJr30cOpSglXY9FI75EIIF251bFySpcg0TgNC0nPY+oRT4PnLVP2AbnHXrIgwt62RTk3+AXpgry5wki03L+0QWTJs61JT3nM7YJ3niUgEv1BTqo2ytyR9YdvFxXXi4zD11aocebEsOq2+BN3N+rjNZJbVwSYyYLrbY6BrHhIO7y4vPKtkbssqI1FjStbmWRDuxyz/PKmseeEGnpyBB2rgwoqC+TGMiWzKygsextnVTBDeBK3XZHoDBl/DVwg7dRd+eoA8cHOorbgKaPLMZRUTFg+7eQLJY1jTMaMq9cWPC3Q6RZMjEU+fr6pMZxoc2BEcTHiUSuZ/XkCcJteHa0iVAGVyChb0vjO7iyzw==;QAoSABV51embr9TN8ON+Bw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg"
         width: 1920
         height: 1440
-        isCached: true
-  - title: "Microsoft Previews Computer Vision Image Analysis API 4.0"
-    excerpt: "The upgrade of Computer Vision API is also part of Microsoft’s Responsible AI process and its principles of fairness, inclusiveness, reliability, safety, transparency, privacy and security, and ..."
-    publishedDateTime: 2022-10-31T12:55:00Z
-    webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2022/10/azure-computer-vision-api/en/headerimage/generatedHeaderImage-1666799178769.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft wants AI to change your job – if it can work out the kinks"
     excerpt: "The most hyped words in tech today may be “generative AI”. The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user."

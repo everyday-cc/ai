@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Video Games May Bring Cognitive Benefits to Kids: Study"
-excerpt: "Researchers found that compared with children who never played video games, those who regularly spent hours gaming had higher scores on two standard cognitive tests: one measuring short-term ..."
-publishedDateTime: 2022-10-24T17:41:00Z
-originalUrl: "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study"
-webUrl: "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study"
+title: "Video games may bring cognitive benefits to kids: study"
+excerpt: "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ..."
+publishedDateTime: 2022-10-25T14:50:00Z
+originalUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
+webUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
+ampWebUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "rQ0Lz6XVXQ4b2Odii0k1PbUOmJM9f4LeD8POgOH8qS+eKvZoFKaqNQzBq9Z/wZThxHhqVbmNAMfrCywN9D3xfXbDnU4qkBDt7T6eubeiM99A4Y8ugfLxNoEBLfQeezXKgOdK94X6MizIkLxV0p1nJfczX8mpGLYjClSgbCklF/J5//PaAgEjKjVQZrKum/BWWK1KIr3GTqBEg7yT7B7ZC+6hy1MutSnRSfHEL/F8m86Ifj5zkJ3eZ9hH8Ltwz1qA7bZLtnLR83rzqBy/I7yDNdF/fS1/HOeKXs9g1r8CtssB5LdNFTqo5mYuh7EvHgQnNmEToAkkF0pMwhA3AgfYKDRHUEXUHoIDVzxFPqglm+o=;PJ7QAzvV4+oZUxbFGGV0kw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
+secured: "MBAVTdSPaGzSq6cAret1OKwGwd3nQtW0Id37Zm62tso6DBmWgqwblM/tb0Bj66kKPA+5yr3eONQsZg17ti1KktS8JA2PRRhkPy+JN1EPUzOj+S7sGqINDMlm/j53HM84d9QT80wUq9WzzsNiDEfq7cK1dv4d7CvXy9dBKKSGhvjPbDa5r4bIpeLBjdcAYhDW5piEbtA+fjwIjFjuiNsMyIFGoybDpW2DATsD87GDAd1o4o4nFB195YfaeFItCaWT1wOm9qJHQ1hw9Y/PTcYLKdgnoappQ8GZMsG0feeQVWxSQJvBQtzFOqVlyZPRNnKbTPS4QoeyhVvuyNmigT8Q3EjV+ARTYVies63bYgpLCwo=;Dt8TBYKc6HHThwm8UiD61Q=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Content curation, AI ethics, other teams fired by Twitter under new owner Elon Musk"
+    excerpt: "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest."
+    publishedDateTime: 2022-11-05T05:20:00Z
+    webUrl: "https://www.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806"
+    ampWebUrl: "https://amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 68
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/777770/musk-begins-laying-off-twitter-employees-shuts-offices-temporarily.jpg?w=570&h=320"
+        width: 570
+        height: 320
+        isCached: true
 
 secured: "G6xbhJbb3Z6hEcSlEuYWwsKLTUNg0jSNSFSlLQEpkpSFDLfxKWdkDLtswU0S3FoNQ0ysrZLCQoGBbize8AsmRBGe1mH1MfjTpgnWAQjcdY8MeQBl1wyIHuUYF4DNWJRP3J3XxCcYQ5xKwhIQAw1XYX8ut4sTuwv8qXAuybW36TlCi5BWKkJ8iTUG9XdNmDugyCoW3jR4XSy/SJSbmEx2M9+/ZHv8J0bLJEoChsN0oZ4RU6RkmIQZ4zAZLsge+VcEhAqaHWE2vi+L2fMlz8pp4qka4JiDkUrKWS+Urpgqr1LVlpI51MNd6rzvMkJ8sKmmOitrVy2dZ9hBUZALExNYfMTzPV4GfYg1fD1/wGi+74vX3grcK3hmMj7EbOs3EQHHHqejzfqtcSf8WMHoJaSMG4tMBWsvPEp+aLTxQobPZsC3IcsTWgaimZrzYF18+qJoIwm+Sa8neG3Eqm1C7lusrL9TklNX/pWWn2L4U0LOV7rbpzduCev9hd3M2jkogMpl6KZOrVHtls4uhULagiaSkA==;pnRp7qt6rPud72t52gbpig=="
 ---
