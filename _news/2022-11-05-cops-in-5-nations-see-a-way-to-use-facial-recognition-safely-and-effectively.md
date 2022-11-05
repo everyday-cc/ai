@@ -42,18 +42,18 @@ related:
         height: 1280
         isCached: true
   - title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
-    excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience."
-    publishedDateTime: 2022-11-05T03:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/05/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
+    excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience. Abarth is the tuning division of Italian manufacturer Fiat and it has turned to facial recognition technology to quantify the emotions felt by people when driving and being a passenger."
+    publishedDateTime: 2022-11-05T16:00:00Z
+    webUrl: "https://www.carsifu.my/news/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: CarSifu
+      domain: carsifu.my
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1805175.jpeg"
-        width: 1240
-        height: 826
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/11/abarthtrackfacialrecognitiontechnology-635befd412fda-1024x686.png"
+        width: 1024
+        height: 686
         isCached: true
   - title: "Abarth uses facial recognition technology to measure driver and passenger enjoyment"
     excerpt: "Abarth has become the first manufacturer to use facial recognition technology to understand the emotions experienced when in its cars. Working with the world renowned Loughborough"

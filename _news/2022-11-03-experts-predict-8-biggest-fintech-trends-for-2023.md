@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Finanteq fintech solutions – check out the possibilities"
+    excerpt: "The development of the fintech industry is of increasing importance – its impact on the financial sector is growing, and the fintech sector has recently become particularly important for banks. Although the term “fintech” has become incredibly popular in recent years,"
+    publishedDateTime: 2022-11-05T16:23:00Z
+    webUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/"
+    ampWebUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/1.jpg"
+        width: 1055
+        height: 593
+        isCached: true
 
 secured: "6vAsVh+17Bg85FFNyaprFakWuQZcxqn2+x+FpVAT40X9FEA0+yMN4I4BzKcinWxjyL68m7pM7SIFfI/qR2y85HS5ns5O+svsLxkXEstZhABjso84uDhWvIqXfu19rR1uEi8xDW7hZl36vkpWNxmE7mb3rv1qonPhoWgBzbJJRL/8FxJVomqblBvDBMfKklt/XlN3xo3A49ugUHdv6omjQy76qcL4oX5bjskiLWpfgM/QTyRh2WQUMfrZ3HCenqGqmMM8HIR1wx7ByY5g8FSxRkwUq4WNZl/XNy7IsyuQIjaJmAcTTGUjc1PUquNeNUxtrAAn0lgx89Grt72BPpL06jT/5PsO+NIWIBw+hoto6LxyppWqHlsTwXppHEkgxM5SqqLgvhOs17CC2Tm56Du0tdSFQehp1nmylJGOWYsT+i5rmkIAH3jZVrjXmrUWIljCZ/5//xMIAFIEHB/VhuqZpgQIowy5GKv67kl49vwh3lexBjIep6NNd1BXpPf/DDsoaQEO/kVw3ADROtZmronUiw==;51szwc2zJix0fJYPtvYTtA=="
 ---

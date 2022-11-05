@@ -87,22 +87,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
-    excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
-    publishedDateTime: 2022-11-01T00:19:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 33
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/77d2a0b/2147483647/strip/true/crop/3133x2095+309+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Ff4%2F9a2a7c5e41c6a91aa7fba55fe49a%2Fdexcom-breana-raquel-cgm.jpg"
-        width: 320
-        height: 214
-        isCached: true
 
 secured: "SFJZtmLCbgwrkEtyrgt2viXJFOZVchIiBw0dBAdEDG0LHwuB4rRlqJyZqPHWbQ5v07EGJHnXggP0VteHVgPmKfXgioTNGB9u8cc733SniGPhbTisieWcVVa1fLI+e8aMNV3AaQP+eL1ZuNzvha47mLnOQF3/av7tZklav46Fe/5fn5XqULXOQI7MWlLJWMlvSrP+zgz2o0l9kbvUaVgcp6EddXd0Birn5wmyQHQvAeHJ9EdHHFgZG5gUb3Getr34iMA87TE9aBFP/H5RAalcnTI0R+4CDA6ZoR/NqHM8OgpSwOiyNwRJbeGiKtTn+LGZRDHvoAyvMEXwqIoB2gwCbIDF7ZCuiOJpBR7O3ctyhbbITdWpiXX20HX2PGQyZowu0n9ekevIRITW6Cxrq0Hz7J/PFWNEd4yWFEw802xzqXVrDX3acXLlix+cGc7DMBtABdDiXbLBovDEiq3snTlLiZqD2IVVvWZB+LvGvjQjHzcLGWvzn78yez1dSUoncHQYzn6x9rK5PVZ0cfglbTMvBQ==;uibTUh54W8Z3MAdQ0t9Tew=="
 ---

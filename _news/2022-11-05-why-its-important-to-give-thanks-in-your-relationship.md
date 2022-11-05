@@ -3,10 +3,10 @@ category: news
 title: "Why It’s Important to Give Thanks in Your Relationship"
 excerpt: "In long-term relationships, it’s very easy to downplay the importance of gratitude. The constant interaction of give and take means that the need to say thanks really doesn’t seem all that important."
 publishedDateTime: 2022-11-05T13:15:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
-webUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
+webUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "0EPv+duxRu/FcTRVuET8yiXqY+7ghx+aw3jmzUHxoGwl6GE7+RXPLZt3eNYb7KKgeh99/0O5Inkl+JH4M+89eg2vISZ59LklcLginyWxu6TtsI8b2OUAwj4TF9cZ2LBNycIKG9hprnvedcrZ5xjNZXmj68GPNXRBthDdLLQvAT4ztQJ6EnhS3oTA+1izpy/4snSYLq/VMUj4dhHZ5qxuD0L83Ew0PGdcrXIjuYMhqh+ESHTwq3HPxpzNSWJ8mofgn6m342j46nlkveQZ5BgD8+98KC6u1aUKewMQ7SqgQN/zDsWPqNQ0ZO4+0vmjFFtcjR8/3YLvmRoUHaqwM9Z1+aMU7oG1tftYT7gJ8PzoZ8I=;N03Nas3gpjR7eUeXwk83+A=="
+secured: "0gHHqU/qtHZKJR0F6zXjwiAUfNYj9vjinEkFxU+Y9vLl7If7BGSlySHPt9pQDwRFywMSYOnocShFJmcxNpcl/WoLthZYM3r0tZhShGo2wbecXpfEC60YmpvphtM0q3G1rfZoV/998sd0bE3SEsY4HXSIeQScF43l4EuluOkOM3wYg+G8o7J4BLXGo9eUJRt7WbkcIELYuhwYc/pStcaGJ3ypPkuxdY+60KDV/wzvXcXMcBdhxUqtTCNNDRx57qHTrZiEvYynsRC8ZKDxNo3bL0D1pPoIDRAK6QSyWY7oPu0J5U3gTb/y/H2nFe1K7oHr4IVkkFYraPvSlFA0mjRKKqx8yFSKPdO25Cn92R8W9mQ=;wLfXe7xWKLO1MeTyXWZUHg=="
 ---
 
