@@ -41,6 +41,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Floppy or not: AI predicts properties of complex metamaterials"
+    excerpt: "Given a 3D piece of origami, can you flatten it without damaging it? Just by looking at the design, the answer is hard to predict, because each and every fold in the design has to be compatible with flattening."
+    publishedDateTime: 2022-11-04T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/970267"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9b84d8ab-57be-4f51-a305-0a13680bac29/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "/QOcupnQg6F5DA7PtZXmocnObJ0VIWT3Indu71ZHV+1ok0l24lbKB+uzC/O2iBZdjvMhOLhEjiovMG0+6JdY+cFaN0FQYrQoGJvkLbaSbp2iKzphkqmDEvbpuTGNrVV+QistPqcGQXpdtIaaJt8joTNLRx0BOhrRyoImZHyXe4zFGb5LWcXXb4ytwwvdcSUtQEM7Q3q64STuAXEtYOF2EDN7DGYJn4zOeu3bR0iM6PRryU45xsB2e2ZztZ/1qLrMfV3DLRultWVnNrksVNywsZwL3VIRH4sZy+DuOPyqT/kGOhY0HGwLynFg+tjUoNRLAgkmCN1ew2WzZabEtYxDBnIvSrPsWW+PtuxLrgDwMPA=;iMBNXkDqYXEb99nXjMNdhg=="
 ---

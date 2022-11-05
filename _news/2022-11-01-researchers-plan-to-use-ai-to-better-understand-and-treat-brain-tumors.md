@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence might be able to treat various brain disorders"
-    excerpt: "Researchers at the University of Toronto are combining artificial intelligence and microelectronics to create ... the effects on epilepsy and Parkinson’s disease, he hopes new therapy treatments can be created for patients with dementia, chronic pain ..."
-    publishedDateTime: 2022-10-31T17:34:00Z
-    webUrl: "https://interestingengineering.com/innovation/artificial-intelligence-might-treat-brain-disorders"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/10/31/image/jpeg/96o2cKLoeRPX9q90JEgcu65UCCgzmeZt1Zpylgee.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Researchers encourage retailers to embrace AI to better service customers"
     excerpt: "Researchers have identified new ways for retailers to use Artificial Intelligence in concert with in-store cameras to better service consumer behavior and tailor store layouts to maximize sales."
     publishedDateTime: 2022-11-03T20:16:00Z

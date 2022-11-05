@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-met
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Floppy or not: AI predicts properties of complex metamaterials"
+    excerpt: "Given a 3D piece of origami, can you flatten it without damaging it? Just by looking at the design, the answer is hard to predict, because each and every fold in the design has to be compatible with flattening."
+    publishedDateTime: 2022-11-04T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/970267"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9b84d8ab-57be-4f51-a305-0a13680bac29/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
   - title: "AI predicts structural properties of metamaterials in a new study"
     excerpt: "Researchers want to use AI to eventually design new complex metamaterials based on machine learning predictability."
     publishedDateTime: 2022-11-04T22:17:00Z

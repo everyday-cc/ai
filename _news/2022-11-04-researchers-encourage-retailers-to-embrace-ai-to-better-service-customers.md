@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Artificial intelligence might be able to treat various brain disorders"
-    excerpt: "Researchers at the University of Toronto are combining artificial intelligence and microelectronics to create ... the effects on epilepsy and Parkinson’s disease, he hopes new therapy treatments can be created for patients with dementia, chronic pain ..."
-    publishedDateTime: 2022-10-31T17:34:00Z
-    webUrl: "https://interestingengineering.com/innovation/artificial-intelligence-might-treat-brain-disorders"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/10/31/image/jpeg/96o2cKLoeRPX9q90JEgcu65UCCgzmeZt1Zpylgee.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "AcU1tn8E8ffvqFX7vLCHNyiNe3tI+2udyqwloXCdWFaPtvftTh0Tt9OO7dGlavdu41FmyAQSEhCjg5psNrRidnEPrlAkloKezEEt+sgNgfBvgBvo5atvZCB0vnbBE0Iq/xIpQ7P5WuYp4yT2CPjpQMVwRDZjze0HyYWylEB4gp0T1eDpbUN6DvzuxpWmrYYl1Vb2YYyLcGfhOGWNs3pDSQ7AQOdGVgZUJYQrkXKM8hXLdKilkOhNPn3N8U20s+ZPMKpJPt4NbqhDaslZ8Sd9ArM/8r0MjpUZigMpgSdw7S8n46xVgIsp0rXDQ+t5msDpxF28w03Un1+6Ng64o1g/jM2XCr8AC1hir+C5qQHL2aU=;B43QdDULBgeM0AoS6mg0FQ=="
 ---

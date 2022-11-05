@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Temple Health using AI to reduce cost of care"
-excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
-publishedDateTime: 2022-11-01T16:26:00Z
-originalUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
-webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
+title: "The individuals who need artificial intelligence the most are the ones who are creating it"
+excerpt: "Ironically, IT teams need AI the most because they are responsible for creating AI-driven apps and systems. This isn’t completely unexpected, as the introduction of AI tends to increase complexity and call for more automation."
+publishedDateTime: 2022-11-05T11:25:00Z
+originalUrl: "https://bestgamingpro.com/the-individuals-who-need-artificial-intelligence-the-most-are-the-ones-who-are-creating-it/"
+webUrl: "https://bestgamingpro.com/the-individuals-who-need-artificial-intelligence-the-most-are-the-ones-who-are-creating-it/"
 type: article
-quality: 19
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Becker's Hospital Review
-  domain: beckershospitalreview.com
+  name: Bestgamingpro
+  domain: bestgamingpro.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://bestgamingpro.com/wp-content/uploads/2022/11/The-people-building-artificial-intelligence-are-the-ones-who-need-AI-the-most.png"
+    width: 600
+    height: 365
+    isCached: true
 
 related:
   - title: "The people building artificial intelligence are the ones who need AI the most"
@@ -51,21 +57,16 @@ related:
         width: 1280
         height: 1104
         isCached: true
-  - title: "The individuals who need artificial intelligence the most are the ones who are creating it"
-    excerpt: "Ironically, IT teams need AI the most because they are responsible for creating AI-driven apps and systems. This isn’t completely unexpected, as the introduction of AI tends to increase complexity and call for more automation."
-    publishedDateTime: 2022-11-05T11:25:00Z
-    webUrl: "https://bestgamingpro.com/the-individuals-who-need-artificial-intelligence-the-most-are-the-ones-who-are-creating-it/"
+  - title: "Temple Health using AI to reduce cost of care"
+    excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
+    publishedDateTime: 2022-11-01T16:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 29
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/11/The-people-building-artificial-intelligence-are-the-ones-who-need-AI-the-most.png"
-        width: 600
-        height: 365
-        isCached: true
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
-secured: "G9bbV0HgXkGz11BSkjxEc01/TblQvtgUGryhmX4NP451NXlldUn3SHMnqi0QSoJmc6I7zWi9TpZu9YGglzCNIg+RrNIrsXSxe9+qcgDoHzJthU5u/ONBD2EoyBUlTh19lxtwxEJGdRND3R0SBa6d9OLbTpCWzbySpgfiEs8OSOkHOCuGkx2muw9zYn0xhj6iNWqTuXhgFSjCIfGW/lx1UWygxY/19Dm/WPRKwcvjfPTlmsWbphdPvrl298J/OT5UI7ljuyFPwEb8uZmP1kmzJPZGQnggW8bnmm+ozGhFrBadg/aV7OEl5CVMQbonP3dI7Qp/hGF+MbKmTiMccR2qQ1CpL9hldRTEoOt3UFK5XYI=;MrTMGVfQrM2Ppy+fgjiaCg=="
+secured: "CPtZ+QKdhIpWIz+qP1hw2PNDVVG8PNFcaj1uYoVKhyKikDd76kTqkvnArBPs7GNEjxo2GdECQQSYhVtQ/rtRc/lDeFWgz2oX746fIM95FPfCsMSyH+Di8lF23M13B7Fk0PlnoS9JTVXlvq0brnHcKP3J6cYa56/+MJrDGqNtXqAT97a5Um8IPt+Naag3lv3khQEx7b3WSIcXvGj2n4UBeNB/snpwl0vfkDCqRf4HK/ENb/9vZ52Jg3SM+KHI8mX3TLDZThBm/ZXhXWROxvyKcIuqHqkRpWJummxBzXcjptrmJyXd0yTxWuZMQqXNRP/GXYN2FyUhj4BvOWPG03CHsXrqbVZRdxr3h+G/8puCELg=;4MpWULYMULo6BQic5DSekA=="
 ---
 

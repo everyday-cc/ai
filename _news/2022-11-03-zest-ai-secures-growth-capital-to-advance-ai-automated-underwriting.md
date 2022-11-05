@@ -43,6 +43,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "The individuals who need artificial intelligence the most are the ones who are creating it"
+    excerpt: "Ironically, IT teams need AI the most because they are responsible for creating AI-driven apps and systems. This isn’t completely unexpected, as the introduction of AI tends to increase complexity and call for more automation."
+    publishedDateTime: 2022-11-05T11:25:00Z
+    webUrl: "https://bestgamingpro.com/the-individuals-who-need-artificial-intelligence-the-most-are-the-ones-who-are-creating-it/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 29
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/11/The-people-building-artificial-intelligence-are-the-ones-who-need-AI-the-most.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Temple Health using AI to reduce cost of care"
     excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
     publishedDateTime: 2022-11-01T16:26:00Z

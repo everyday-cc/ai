@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "George Hotz, iPhone hacker and Elon Musk antagonist, is leaving Comma AI"
-    excerpt: "(Comma AI has an estimated 20 full-time employees ... all within grasp yet all not…I’m probably delusional but you wouldn’t start a company otherwise, right? Hotz says he’s mulling a new company called The Tiny Corporation."
-    publishedDateTime: 2022-10-31T18:17:00Z
-    webUrl: "https://www.theverge.com/2022/10/31/23433110/george-hotz-comma-ai-step-down-driver-assist"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 46
 
 secured: "Nt4B1n5tZERkUdP7bxR0HH0YpX79aKptpH/Z/icPdY62Lwdu3VhhHZZNKMs4+h60SELoauiaG27oPgLMaNyNhBCM9UR8P0pH+zY1Odus+/n4i2ZfxGcVf3s6fyUfkRz/4pXcBq1b/E43y/ZC+LuwYdNRTqUZjPxL75wdGyrlo6XSCLKcBfe6LtuCdVfeunHhmk8eBiTQe5wc6liPyq5t+d1Myahg7XhDi4sWWQmIOx0yYgXMdOrhdG8zJj4NQ1jORyfzfNUkzFBlTMLeREqgfeP4utr5oGhmceGyIAHMAS8kjA0A8oOsmKdd1aFjcDVabj/pNolUZhBBaEJQFNZttcVrpH98+QCHyxXv69uYZsshmE/Li38rK9cv9rTzHUdoL0o/g7iDYYCpWavGDGFG7wxFUwF0U8V2y9+SGfhu4aCWe5k0rqXC4e3iVJWLwKKQPIkxKCIpeaoJjwnVD4LP7CPDKGRS+tqhmBjfZy9hDZfDSyxECYsXMREv6lQIk6a6dekE0+bks/vNOjC9dngh2w==;xe5cWUAY/DMrdTgx9/59IQ=="
 ---

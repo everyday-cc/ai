@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29554211"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29554211"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Farm robotics technology company buys big Santa Clara office building"
-    excerpt: "A farm robotics company whose technologies could revolutionize farming and food production has bought a big Santa Clara office building that it had previously subleased."
-    publishedDateTime: 2022-10-31T17:24:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 74
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/10/SJM-L-SCLABUY-x-01-1.jpg?w=1024&h=523"
-        width: 1024
-        height: 522
-        isCached: true
 
 secured: "KmBb0zJ60BOUHuUM3iXCRBaFALCvsygI2ep9agU2XsdQK6ftAVuqu/y9h6JjOiu8Mt63tNUeR0El6m+LNyWmgrcYx5cOwiBvcK1eiMnhAjVz2rRXysAs/olOS5BvaBxnPZ/fAGVecQd8MepX/6ezQTW1f7JIlQUjUPvIkyCg2dBnmD4QCjKfFEjak6ng/yVT4S3NkcsCd9wr1Zx55O4c+urKwFPFRsQro7ZrhbqwoJMM0WC0XTMuy/Ubi57L2JtCHXlmyJL3uPYOfxAOW9nirZu2++i3T03ocOA3MW7f73kJP/4Wkt1FOH8XBrPn8uSBmkHIgGMOvRevF2bRN2KK+fKft+nrgZrzqlUJI3ufJvEOKx3SK7x/IQhX2xFo1ePB1KMODRwleEPgyWIOH2ymteEPYfHWw5ctUYmD8WnerPMSiYV3KSfoSrtijgPB+33we3lZ+kND9qd0wnMyWXqEWV05gjyayALY5P8gkuY3wAcfrDv/n+MSbVCJVoZSWLa4BmHDXNV+O+xjkB+kLjQsbA==;OxUs466tHIITsKPA8RPDdg=="
 ---
