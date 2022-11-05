@@ -92,20 +92,6 @@ related:
       name: AZFamily
       domain: azfamily.com
     quality: 26
-  - title: "Study Finds Drivers Treat Partially Automated Vehicles as Self-Driving"
-    excerpt: "According to IIHS, regular users of Super Cruise, ProPILOT Assist, and Autopilot said they were more likely to perform non-driving-related activities like eating or texting while using their semi-autonomous systems than when driving unassisted."
-    publishedDateTime: 2022-10-31T16:10:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21253740/electronic-design-study-finds-drivers-treat-partially-automated-vehicles-as-selfdriving"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/10/IIHS_promo_web.635ff0c857681.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fZ5bkEJSN6w8dZl6ZQFgX0bS/xneJn9XSJGWADDsIGZuKL4GPrRBbm48/xUVJqBOEW1AyqgRVSKkiYil4uRJNk8IgBQpBaEZZgllp/IOfZlRlZev0WL95pZ0TtKsExVYPpf8OhURnPtVCXG0LNRfmtdmSP512AqB7FpfbjFDtT7CuObGauvc1DmMz4zCGSNOx5C0dHbeUSZWMrBddJaWdft4JE0S3pY6tYUzeynpLzbdy/rMm3AuqizEN15xgrA4MvgOhYyuYJgLeyhab4390bZyQA+PBILHbXLlsMs6xyIxYW/TwUrPikVhXzeeQmJP+yGDQwrv2wL8o4R8My3EXsrpXVwmNyaK159qQhg5cjkYv2uUVPKJwqJcAyHCbNWCDRaZcokynOa9N6sMRBVcvTB0ozBbxRJjNV47lHoIhDERa6YP2n5pdTuO+L9msyYkLgmUZ1z41lmL4T7GtRgrkrBWqfYe8ZxP5uiuVTJqbiQlgB0F+C+0vmZfjP7wzJNUs0L3ggelbZAD5gLzh3w9Jg==;5CN/x37JaT+0tD/Kkpw1AQ=="
 ---

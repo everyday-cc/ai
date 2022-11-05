@@ -87,6 +87,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "World’s first listed driverless technology company TuSimple fires co-founder"
+    excerpt: "Hou Xiaodi, co-founder of self-driving truck firm TuSimple, has been fired from his roles as chief executive and president at the company, according to a securities filing published on Monday. The news comes after the Wall Street Journal reported Sunday ..."
+    publishedDateTime: 2022-11-01T17:35:00Z
+    webUrl: "https://technode.com/2022/11/01/worlds-first-listed-driverless-technology-company-tusimple-fires-co-founder/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "Southern Californa self-driving truck firm TuSimple fires CEO over dealings with China startup"
     excerpt: "The San Diego company terminated co-founder Xiaodi Hou for sharing confidential information. Hou denies any wrongdoing."
     publishedDateTime: 2022-11-01T22:08:00Z
@@ -102,20 +116,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/24c6bde/2147483647/strip/true/crop/3993x2670+4+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174"
         width: 320
         height: 214
-        isCached: true
-  - title: "Self-Driving Truck Firm Sacks CEO"
-    excerpt: "TuSimple (NASDAQ:TSP) has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder, the company said Monday."
-    publishedDateTime: 2022-10-31T15:09:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/3392/Self-Driving-Truck-Firm-Sacks-CEO"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 24
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/TuSimple_Logo.jpg"
-        width: 1785
-        height: 935
         isCached: true
 
 secured: "lcHEJAG2+QztIID7DiamQuelSJLXnk7pEkWjN94XuQE2J6tKO3ZCPUoJabTlGAyPScWzaWq/kysBK89yHRDB7dtp/z3ek3DlI98sBM9kbs6rOI+2ItUTE8dJpVzQfN6IIpCA4CbtZUDYK3DwkJV1lkWvRQ0VoYgiwm4snI48Q0UVdi2CD9vcHnzxEiOW9nbHrgUJghIsL/b4rs/DdkT1OpcXPmsrUw0vE9kW7U5c1U/spQ+B91z1UJQyPyWcp3EnjsFq8/M1Hiz3DfCcBlNWtGGgf+y+BkA9sy1+1SwcFg1GsnTUp3RhYiOse3pw3oyljYlDOVnMdErWvEAzujLjaHjWqNU5YgOIfWIKgsudM494QVPrAgwrmyoCAHeJgOHTlFM4WrOGBPOwRZhPc6L6o65f4l/DWToqLAlzrOLAPW+eg7TR97lqgHic8SmLQMVuxaVE7gOZu9URvPdM8zZV2bwwQ8AbeKTK6ULbrLb0jiuaAPeqOGD/qP4dsVLsaESHsc3lj34Sw3bSegzussWZaQ==;HBBU8bqlA48ZvMWko2uM5A=="

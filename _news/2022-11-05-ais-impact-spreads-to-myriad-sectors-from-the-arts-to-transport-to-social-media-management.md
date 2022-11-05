@@ -8,8 +8,8 @@ webUrl: "https://techbullion.com/ais-impact-spreads-to-myriad-sectors-from-the-a
 ampWebUrl: "https://techbullion.com/ais-impact-spreads-to-myriad-sectors-from-the-arts-to-transport-to-social-media-management/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ais-impact-spreads-to-myriad-sectors-from-the-arts-to-transport-to-social-media-management/amp/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/11/Screenshot-2022-11-04-234548.png"
@@ -26,6 +27,6 @@ images:
     height: 293
     isCached: true
 
-secured: "zTQ/t+3cfOYpnf1aKrL5xmma2p1kFtOAFQQKDgNuP1lSStwdPMPODFV/waKH9fSXt2aq+JxrYicE14H1/bo+ANFUOGe/yDtgZs2F7kt1assjjIllZrSRyN2cSUPcHKGZtSdE5nEj3zCM95t17gDc15HSWYmOvbOBfNR3wfD1JENuHUaPsDWEGP0P6Yuur3Mk1uSUPO7/h9QK9LoSWGnoQo1W+d7hOws4DxmQK7z2Jh8KPonKCvSIq8cuA38Zuf8LTgG8r5dBmD1r9zC0nu9Vjbs9oK85J4pKoQR2I/D+k8p9krJ/6/tjwJEy5dUkd2FJRUOzqKHQeRXT1cFB54ySPqC6Wtkv2IXv0htBRsnq0qA=;MVZ9WSrd1RgUqp6gMzBT+A=="
+secured: "0t3Eap7gh5kYL0G1/P3EzWOmPeEAe0xUiUO+SbguuBuLfrfgVodqdpzxu46wt73fiRFiHt3zUjHgYCs55rwrmcQc4dWl+vhgKP6hjmX+RzTlzY+0ouilXXoIGJKbRPzrRZgF9KkkAqS0qb+lSDzRSQjzdyyR49vHG/JJkLNC3B2zmkf9oqGj+3cBCyDLy0memn2vu369eJxmpaoKeYzoVyzNu+4srG159xrEIDgXQn6mqBBeobFh7v0ThiSYADaoU9XnmSWFRO39FflbYDz/cv3+PgL2cZ2zOxd7o0PpYpdACxeiQNLp2t2etKuSmMV3PsWs0p3UN/8MiPTm9UHdZaP4RRGkRdAbIaNo5G+wKrJOK2pVPknDlk63WwJhA55LlGVCQWo8lrDfZePvbcGnV5Lz13Mpq59brtjGdWvpKNWjcIPvU3YRVnJOemh9t4XlXU8AexyuM1HstyGNlznLZgY7+VYv2F7vtO1I7CwlSnYAWQ6C3yDCHtRCxLARe0JTpDUxlL6NqAKQ9/JB7vnSyQ==;CzLTJd/wNVKdtHuarRr0eA=="
 ---
 

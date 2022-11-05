@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Study Finds Drivers Treat Partially Automated Vehicles as Self-Driving"
-    excerpt: "According to IIHS, regular users of Super Cruise, ProPILOT Assist, and Autopilot said they were more likely to perform non-driving-related activities like eating or texting while using their semi-autonomous systems than when driving unassisted."
-    publishedDateTime: 2022-10-31T16:10:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21253740/electronic-design-study-finds-drivers-treat-partially-automated-vehicles-as-selfdriving"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/10/IIHS_promo_web.635ff0c857681.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IIHS: There Are No Self-Driving Cars"
     excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving 12 percent of ProPILOT Assist users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
     publishedDateTime: 2022-11-02T21:05:00Z
