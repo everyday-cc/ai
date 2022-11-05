@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Video gaming may be associated with better cognitive performance in children"
-excerpt: "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ..."
-publishedDateTime: 2022-10-24T00:00:00Z
-originalUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
-webUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
-ampWebUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
+excerpt: "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ..."
+publishedDateTime: 2022-10-24T15:08:00Z
+originalUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
+webUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
 type: article
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280"
-    width: 1280
-    height: 782
-    isCached: true
-
-secured: "ETCyNtiTi4TTro91tLa0DGwaEulnQnU1CAphuAZrqGzupmXeAddyOrRsnPoKeVPnXgpfmcnzYRPna+X7bLcyMu+nMAYR0HHXXlf/FRhF1a6mHfx0JJq2/OZIgon+e8GTc/u3T0yRNrsGE/aSb+zGwZ1Oi3bKvie6FEANNaE/qgqJ4UMP+ErIeSv5OSZHZTb2YiSRgn87KCLBv2bJjh30I+5iprZy40S8EMnrLg+pPKIgIX4Bscbph2pMYQa94ihTALB9in1rgC/SjPq6X8eL4Bu73JQWRs1tflI+5PtKh71ddLBvi0pNyAf4izA472jJ4VIYJxBCrq7GnRyLgH6b5ligu8ETm0H0Ltju4/skOkw=;cEqI1sSJO5uEv8iuB7SyYA=="
+secured: "VK9zqYZqHv4YjysR/PQijx7d6tjsWrhEvDpLoteunJZ6l03P+yj+fTnre1oo31U+DC2SGCRYMGddGxJIl3IGMhdYBH+g8iAZ5TAzO68n+PZswhyTeI1+Qyyu8lZV32+9wCrNRISm03G7kNYyHxKWWLoXgxded29WOyRmS2qP+PKQmCIQGTXduqB9bknoaCtKkSixY1p0nWk672ZGajfkWRhPUHZ/atvkBSReQAUfhdnJR57NvO15Dwp+SdbcOKCRk7Vi6/UFsvg5VNfoNTYoaGI0/FqsN0233Kq2tUZB8IkSE5aJKkvXyzRBRV2GClj2io1UfFu3R42vEuWcDiZA+jWBuBX5mfOvIxRsEuhOhD8=;FjcUZHoZXcqOQ8Bh1YMZ9A=="
 ---
 

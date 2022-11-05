@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Video games may bring cognitive benefits to kids: study"
-excerpt: "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ..."
-publishedDateTime: 2022-10-25T14:50:00Z
-originalUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
-webUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
-ampWebUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
+title: "Video Games May Bring Cognitive Benefits to Kids: Study"
+excerpt: "Researchers found that compared with children who never played video games, those who regularly spent hours gaming had higher scores on two standard cognitive tests: one measuring short-term ..."
+publishedDateTime: 2022-10-24T17:41:00Z
+originalUrl: "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study"
+webUrl: "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg"
-    width: 800
-    height: 600
-    isCached: true
-
-secured: "/eT5FTFjNR4QtcbaE6X/J+i/AFvsDYEnSF+93GeaGm1P6ZOql3KQZwgrEzwEqGcGPBwhTVjYGkjmk+NAn99+/b6VP3pI25DMescFgbYmrZX1N+utARV/vWIjBTAs5Z5huREQ757NcJJ7+rTi4Lp5zeyAxkTVJj1tZCpx8LlgL8zfuhfObHwJYX01/jHJFhU50PAMmeekGEpxvANM4yG7bODn2y8qxPo9kB0NyjB+ba1s2JM2IHV67S96oFTBCbWsz/4+KKOz9IgLXt+4+ABASbKFSkyDUfXPMHIVmyUjiicAzFEo3gzf2plxPhsKYGm5Hs2mUKpQaof+dgGLqlq+PLMQVuzfQDzZUB0EIVUhLFs=;hw0BJpsuDQ/FZXi0kOPKnQ=="
+secured: "EuCUpy0eThKyY1ITBB/bggCWJV5z46Yv3DnIafKYlr7IEMyuVJovXQPkES+y/BSsB2oTVn+lljr/MT3IeVQl+vJgvwlX3Yu+8oVbCjlNemCnjMle18Sk8gRtqzx4tRTLSQ3GBGXflIScpA22A+/Uky1DWAxdsyKs+OvP0JaMy10kdEjyCJzJiUZ1/jw40TQAyT4QMJrw2bysEuOXW/aPT5zL3UEKr962H3daL47c9BiPyJj2URGbs+JvHeTd+/5A6KC1aEm7L0x74SIVz+SWDiciR4JUPfIzKctYRrwRrwr2pSNPz5SzAXZsFgcexu373LO7Z5it9z6pkil/GF6mMS8O9qV8IMj8bD/IyCQXJNA=;9mVobGrf4XiW3aaXATRolg=="
 ---
 
