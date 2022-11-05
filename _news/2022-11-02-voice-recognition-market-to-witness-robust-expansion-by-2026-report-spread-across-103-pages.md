@@ -24,6 +24,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during th"
+    publishedDateTime: 2022-11-04T16:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/04/9706782.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+
 secured: "mxe4dRPqWoCtNCC0pqAkwH71FqJXWri+d0x4hZTpyYamQu+xMz24llzwFsx3gQP8ZFkC9lwzOvg4Z84CatGMDA0fOskc4HNK0N1nHBWqlF5TmowlRfHaecgtcfpK0h/BFXDHOxnI2wT9MRTsyrNQzCvxbWXq1+/5y1B9427xo8HCPTW3KdQjeBs+oLblatJ8EAXDJPbZ11o8nbZFOMDYXvbFTerh+98k7wu8z15vEJlQ317gXouRP/RkVL89J5y5GwNk0jRzdJztbjp7TBz3bqXloCtoT0AL+doLc9qqZvO/PRFJOQkh0hYsnFE//lYD8GNimlOsV4ZXyIQVxSEdnLLI4gZE/uBF7Yq3gja2nJI=;23BhA0Dyw41Ge9NLG0wFfg=="
 ---
 

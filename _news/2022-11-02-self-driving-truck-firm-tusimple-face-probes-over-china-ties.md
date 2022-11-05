@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/video/series/tech-news-briefing/self-driving-t
 webUrl: "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck company TuSimple fires CEO amid federal probes"
-    excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
-    publishedDateTime: 2022-10-31T20:43:00Z
-    webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://images.mktw.net/im-655659/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "American Self-Driving Truck Startup Fires CEO Over Chinese Ties"
     excerpt: "The startup, which in 2021 became the first company to operate a self-driving truck on public roads in America with no humans aboard, said that an investigation launched by its board showed that some of its employees had spent paid hours working for Hydron Inc."
     publishedDateTime: 2022-11-02T11:20:00Z

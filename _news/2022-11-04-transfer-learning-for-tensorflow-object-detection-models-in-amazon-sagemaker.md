@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/"
 type: article
 quality: 120
-heat: 200
+heat: 170
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 1550
         height: 774
         isCached: true
-  - title: "Cost efficient ML inference with multi-framework models on Amazon SageMaker "
-    excerpt: "Machine learning (ML) has proven to be one of the most successful and widespread applications of technology, affecting a wide range of industries and impacting billions of users every day. With this rapid adoption of ML into every industry, companies are facing challenges in supporting low-latency predictions"
-    publishedDateTime: 2022-10-31T20:33:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/cost-efficient-ml-inference.jpg"
-        width: 1341
-        height: 672
-        isCached: true
   - title: "Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed"
     excerpt: "The last few years have seen rapid development in the field of deep learning. Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large deep learning models"
     publishedDateTime: 2022-11-04T16:45:57Z
@@ -72,34 +58,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/deploy-bloom-deepspeed.jpg"
         width: 1549
         height: 771
-        isCached: true
-  - title: "Solve business problems end-to-end through machine learning in Amazon SageMaker JumpStart solutions"
-    excerpt: "Amazon SageMaker JumpStart provides pre-trained, open-source models for a wide range of problem types to help you get started with machine learning (ML). JumpStart also provides solution templates that set up infrastructure for common use cases, and executable example notebooks for ML with Amazon SageMaker."
-    publishedDateTime: 2022-10-31T20:27:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/solve-business-problems-end-to-end-through-machine-learning-in-amazon-sagemaker-jumpstart-solutions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/solve-business-problems-sagemaker-jumpstart.jpg"
-        width: 1342
-        height: 673
-        isCached: true
-  - title: "Train gigantic models with near-linear scaling using sharded data parallelism on Amazon SageMaker"
-    excerpt: "In the pursuit of superior accuracy, deep learning models in areas such as natural language processing and computer vision have significantly grown in size in the past few years, frequently counted in tens to hundreds of billions of parameters. Training these gigantic models is challenging and requires"
-    publishedDateTime: 2022-10-31T20:23:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-gigantic-models-with-near-linear-scaling-using-sharded-data-parallelism-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/train-gigantic-shard-sagemaker.jpg"
-        width: 1344
-        height: 673
         isCached: true
   - title: "Use Github Samples with Amazon SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler is a UI-based data preparation tool that helps perform data analysis, preprocessing, and visualization with features to clean, transform, and prepare data faster. Data Wrangler pre-built flow templates help make data preparation quicker for data scientists and machine learning"

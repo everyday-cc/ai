@@ -25,22 +25,31 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Researchers plan to use AI to better understand and treat brain tumors"
-    excerpt: "Medical doctors are collaborating with computer scientists to improve care for patients with cavernous malformations, some of the most difficult-to-treat tumors in the head and spine."
-    publishedDateTime: 2022-10-31T20:59:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-ai-brain-tumors.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-brain-tumors.amp"
+  - title: "Researchers' revamped AI tool makes water dramatically safer in refugee camps"
+    excerpt: "Researchers from York University's Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings."
+    publishedDateTime: 2022-11-03T20:34:00Z
+    webUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.html"
+    ampWebUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: Phys.org
+      domain: phys.org
+    quality: 56
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/lsu-researchers-use-ai.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/york-u-researchers-rev.jpg"
+        width: 2500
+        height: 1403
         isCached: true
+  - title: "York U researchers’ revamped AI tool makes water dramatically safer in refugee camps"
+    excerpt: "A team of researchers from York University’s Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings."
+    publishedDateTime: 2022-11-03T19:42:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/970211"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 12
 
 secured: "AcU1tn8E8ffvqFX7vLCHNyiNe3tI+2udyqwloXCdWFaPtvftTh0Tt9OO7dGlavdu41FmyAQSEhCjg5psNrRidnEPrlAkloKezEEt+sgNgfBvgBvo5atvZCB0vnbBE0Iq/xIpQ7P5WuYp4yT2CPjpQMVwRDZjze0HyYWylEB4gp0T1eDpbUN6DvzuxpWmrYYl1Vb2YYyLcGfhOGWNs3pDSQ7AQOdGVgZUJYQrkXKM8hXLdKilkOhNPn3N8U20s+ZPMKpJPt4NbqhDaslZ8Sd9ArM/8r0MjpUZigMpgSdw7S8n46xVgIsp0rXDQ+t5msDpxF28w03Un1+6Ng64o1g/jM2XCr8AC1hir+C5qQHL2aU=;B43QdDULBgeM0AoS6mg0FQ=="
 ---

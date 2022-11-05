@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/article/3198521/australia-bets-facia
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://newsinfo.inquirer.net/files/2022/11/AUSTRALIA-GAMBLING-620x413.jpg"
         width: 620
         height: 413
-        isCached: true
-  - title: "Australia lobby group ClubsNSW seeks more facial recognition in clubs; debates rages"
-    excerpt: "The law has stirred debate after the country’s umbrella body for clubs insinuated the technology could be expanded to other purposes."
-    publishedDateTime: 2022-10-31T22:34:00Z
-    webUrl: "https://www.biometricupdate.com/202210/australia-lobby-group-clubsnsw-seeks-more-facial-recognition-in-clubs-debates-rages"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
         isCached: true
 
 secured: "pLuS/BMPp2iiuISmhrzp7bQoc9F/EZLnbJ17BNhuMtmp3adaSjS5VjQMCUNWE7MWB7DdU2Onbji0t02rLFsFgqMWo2rodA6vwSUuvhsnmZdh+dri4tkUyAk9Y3PnDf2jGyQoM1hRhewh3b1osMv9l7EKFQUchLwv+ZbrUwgZFGH2ab2rkL4/+g7EQkmSGjT5UUbROl3HEeVoaSubEy/Z1pTqlTtvatHxQhse7pgBGEVz8dlnEs1VfsOEWFUbtLpJ61YYvVQM5P8nGMX1Vdk5n9TQoet/TcPE4X8wsjFW/ZiYUJVyFknhQ6uEeu5Y95lIwLViYDpuEyTpNjcVRcVw0+4dlVXDKDvUC/+HA0BfbH7xU71N63cgD/uKF7l1hE+BHr//K53GmX4/iIJD99b3mbeAZR2OTKMgm1PySdY0srx+W7hS6OQ52Pq2IMtqCqLzoCdJCuE5mc/is990cJz9VDvUJ5dO7N+klQY+vLkDxqmkeZY123CuxTpT27guLjDIm6BJTqRdBgyhQlyKgEYsog==;89ntmZA5BO/BbwSZksebgw=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T12:31:00Z
 originalUrl: "https://www.techerati.com/news-hub/india-data-centre-market-investment-2025/"
 webUrl: "https://www.techerati.com/news-hub/india-data-centre-market-investment-2025/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techerati

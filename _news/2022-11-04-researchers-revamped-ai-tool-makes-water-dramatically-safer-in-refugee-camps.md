@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers encourage retailers to embrace AI to better service customers"
+    excerpt: "Researchers have identified new ways for retailers to use Artificial Intelligence in concert with in-store cameras to better service consumer behavior and tailor store layouts to maximize sales."
+    publishedDateTime: 2022-11-03T20:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221103104954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 52
   - title: "York U researchers’ revamped AI tool makes water dramatically safer in refugee camps"
     excerpt: "A team of researchers from York University’s Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings."
     publishedDateTime: 2022-11-03T19:42:00Z

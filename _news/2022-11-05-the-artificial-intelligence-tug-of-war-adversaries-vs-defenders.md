@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-05T08:38:00Z
 originalUrl: "https://www.cyberdefensemagazine.com/the-artificial-intelligence/"
 webUrl: "https://www.cyberdefensemagazine.com/the-artificial-intelligence/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Cyber Defense Magazine

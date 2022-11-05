@@ -199,7 +199,7 @@
       "originalUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -653,7 +653,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -696,6 +696,40 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-the-rise-of-robotics-companies-to-watch-amid-rising-shifts-to-automation.md",
+      "title": "The Rise of Robotics: Companies to Watch Amid Rising Shifts to Automation",
+      "excerpt": "I’m talking about the rise of robotics, and contrary to the doomsayers, it has the potential to raise the standard of living faster than any other technology mankind has ever experienced. We are at the beginning of what will likely be exponential growth in robotics technology thanks to ongoing advances in Artificial Intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation",
+      "originalUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp",
+      "publishedDateTime": "2022-11-04T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -893,6 +927,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-researchers-revamped-ai-tool-makes-water-dramatically-safer-in-refugee-camps.md",
+      "title": "Researchers' revamped AI tool makes water dramatically safer in refugee camps",
+      "excerpt": "Researchers from York University's Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.html",
+      "originalUrl": "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/york-u-researchers-rev.jpg",
+          "width": 2500,
+          "height": 1403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp",
+      "publishedDateTime": "2022-11-03T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1125,101 +1202,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
-      "title": "Dear Artists: Do Not Fear AI Image Generators",
-      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
-      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
-          "width": 1396,
-          "height": 1524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
-      "publishedDateTime": "2022-11-03T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-todays-cache-are-taiwanese-chip-firms-decoupling-from-china.md",
-      "title": "Today’s Cache | Are Taiwanese chip firms decoupling from China?",
-      "excerpt": "Taiwanese chip makers have been investing in mainland China since the 1980s, and thousands of firms operate there today. Decoupling from China won’t be an easy affair, but the process seems to have st",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/h89wyb/article65983848.ece/alternates/FREE_1200/2022-10-05T043447Z_921512572_RC2XQS933LTO_RTRMADP_3_TAIWAN-ECONOMY-CHIPS.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece/amp/",
-      "publishedDateTime": "2022-11-03T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-05T12:29:00Z
 originalUrl: "https://www.itnewsafrica.com/2022/11/aja-la-studios-ltd-announces-voice-recognition-support-for-additional-african-languages/"
 webUrl: "https://www.itnewsafrica.com/2022/11/aja-la-studios-ltd-announces-voice-recognition-support-for-additional-african-languages/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: IT News Africa

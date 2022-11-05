@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/11/01/ford-vw-seeking-buyer-for-argo-a
 webUrl: "https://techcrunch.com/2022/11/01/ford-vw-seeking-buyer-for-argo-ais-lidar-unit/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Argo.ai Shuts Down - What Will Happen To Its LiDAR Unit?"
-    excerpt: "Argo announced that it would shut down operations on October 25, 2022, impacting ~2100 employees in the United States and Germany. Coincidentally, they acquired New Jersey based Princeton Lightwave for their LIDAR capabilities exactly 5 years ago."
-    publishedDateTime: 2022-10-31T22:51:00Z
-    webUrl: "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/"
-    ampWebUrl: "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/"
+  - title: "Ford, Digesting Massive Tech Investments, Abandons Argo AI Autonomous Driving Unit"
+    excerpt: "Ford’s $2.7 billion accounting charge to close Argo triggered an $827 million third quarter net loss. Read what F stock plans to do after the Argo shutdown."
+    publishedDateTime: 2022-11-02T16:29:00Z
+    webUrl: "https://seekingalpha.com/article/4552004-ford-abandons-argo-ai-autonomous-driving-unit"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 33
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/635f0460106f8f455f046fef/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 809
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314277490/image_1314277490.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Argo AI shutdown surprises tech community"
     excerpt: "Argo AI LLC’s shuttering last month brought Pittsburgh’s innovation scene to a yet-to-be-seen reality amid the backdrop of a national tech downturn. The autonomous vehicle startup’s closure led to the termination of nearly 700 jobs throughout the ..."

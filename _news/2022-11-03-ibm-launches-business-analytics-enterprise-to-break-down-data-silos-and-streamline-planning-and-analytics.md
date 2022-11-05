@@ -68,29 +68,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Business Intelligence Market Size in the Healthcare Sector"
-    excerpt: "The global business intelligence market in the healthcare sector has been categorized as a part of the global systems software market. The global systems software market covers organizations that are engaged in developing application development and management software,"
-    publishedDateTime: 2022-10-31T19:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-business-intelligence-market-size-the-healthcare-sector-grow-/2022/10/31/9702671.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Applying human intelligence to AI-driven data analytics is the fuel that drives the growth for our clients’ brands"
-    excerpt: "How 81qd is helping biopharmaceutical companies improve patient outcomes by leveraging RWD (Real-World Data), AI (Artificial Intelligence), and (HI) Human Intelligence."
-    publishedDateTime: 2022-10-31T19:54:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/sponsored/applying-human-intelligence-to-ai-driven-data-analytics-is-the-fuel-that-drives-the-growth-for-our-clients-brands/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 17
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/10/MMM-Podcast_Oct2022_81qd-003-1280-x-900.png"
-        width: 1280
-        height: 900
-        isCached: true
   - title: "Lexalytics, an InMoment Company, Announces Jeff Catlin and Paul Barba Will Present at the Text Analytics Forum"
     excerpt: "Lexalytics®, an InMoment® Company and pioneer in AI-based NLP technology, announced today that its Head, Jeff Catlin, and its Chief Scientist, Paul Barba, will present at the Text Analytics Forum in Washington,"
     publishedDateTime: 2022-11-04T17:00:00Z

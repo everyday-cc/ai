@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Video gaming may be associated with better cognitive performance in children"
-excerpt: "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ..."
-publishedDateTime: 2022-10-24T15:08:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
-webUrl: "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html"
+excerpt: "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ..."
+publishedDateTime: 2022-10-24T00:00:00Z
+originalUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
+webUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
+ampWebUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "VK9zqYZqHv4YjysR/PQijx7d6tjsWrhEvDpLoteunJZ6l03P+yj+fTnre1oo31U+DC2SGCRYMGddGxJIl3IGMhdYBH+g8iAZ5TAzO68n+PZswhyTeI1+Qyyu8lZV32+9wCrNRISm03G7kNYyHxKWWLoXgxded29WOyRmS2qP+PKQmCIQGTXduqB9bknoaCtKkSixY1p0nWk672ZGajfkWRhPUHZ/atvkBSReQAUfhdnJR57NvO15Dwp+SdbcOKCRk7Vi6/UFsvg5VNfoNTYoaGI0/FqsN0233Kq2tUZB8IkSE5aJKkvXyzRBRV2GClj2io1UfFu3R42vEuWcDiZA+jWBuBX5mfOvIxRsEuhOhD8=;FjcUZHoZXcqOQ8Bh1YMZ9A=="
+images:
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280"
+    width: 1280
+    height: 782
+    isCached: true
+
+secured: "RvgIFVWgX4UBbQnt+pqm8R6rlqU7M9jR93pYBJX4Db/ZF7+p+1LkBTN3n54Q+D07c1naUmssTwwvHO8hFkXPZuEHeAJc8dcrgFVRk1qTnENWVK504mwgED56dRBFAlLIgWCkOZp+O/G1czNM9VGDrXjNNKodF/m7CQbggxjAgdyQzgpeiI8kaRX7fIeIwDVZYiU2gJCAT4kvvAeOe5f5WZi+1e+UctlmS8BGcbh8CxlgB9gkXReE3v38/XiD2QK5otrnq4VZ2lo3cHRg5+t88jlVgRocmEDfDNWMrD2ISFA9UqllDYb11S+oeEi7XanjwaXzpk2wijH0/wSaSqKKCkTLkcdaZaQaJvdrxLXECmk=;4xfpkReOMgax5mc5zr3g5Q=="
 ---
 

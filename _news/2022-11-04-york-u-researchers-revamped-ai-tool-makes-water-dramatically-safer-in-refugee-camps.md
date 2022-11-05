@@ -35,6 +35,15 @@ related:
         width: 2500
         height: 1403
         isCached: true
+  - title: "Researchers encourage retailers to embrace AI to better service customers"
+    excerpt: "Researchers have identified new ways for retailers to use Artificial Intelligence in concert with in-store cameras to better service consumer behavior and tailor store layouts to maximize sales."
+    publishedDateTime: 2022-11-03T20:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221103104954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 52
 
 secured: "rY7mwe5E+numt65HRwBoeiWm1Vf81s81pDG2MACLQSlvMZlh8Ssgld61q620L/ebQx2PhDrYD30UtS6k6nV6V2wqY2FmCTj64OSJnatvHb0+yzTi8Qh6pHr0YRuIiBR7ADBtUjsv4ktbIzLwK7ppiV+ORpd6bhLnUDDFFZZvALfFn0qz4oBmCMCMjXWu8Nm5wLhzFLpHqDet/xinddeOV/wXwG9qrG9A36farSEm+vFKD6M8LfiSglKvoM6RKMYs+NQJTWcOcpiGQxnUchsCxdmIcRrsQBTGAP8SYJZjwFukTwlAa1yIndSqjN6xrG9FUiRDbpWsR/QzViGmoIGqdq2HmlIe4jkXZpQq2qpva3Q=;mStYVQ851w+/py0Ga9r7ig=="
 ---

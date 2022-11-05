@@ -75,20 +75,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Australia lobby group ClubsNSW seeks more facial recognition in clubs; debates rages"
-    excerpt: "The law has stirred debate after the country’s umbrella body for clubs insinuated the technology could be expanded to other purposes."
-    publishedDateTime: 2022-10-31T22:34:00Z
-    webUrl: "https://www.biometricupdate.com/202210/australia-lobby-group-clubsnsw-seeks-more-facial-recognition-in-clubs-debates-rages"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
 
 secured: "pO7hFwoBdSC0WdlKvwS+Avh5xbOLTAE7MDajRXWb9o2ly3dMUqbpJxtryQDPzLBorf0bSMbEf2vL9ai6jnX4fhCkSPIZrNlqaiMhqB3AG9gcpWLa8A8b9UNdRm3CJ/VvWEOWcRDATeP8/U9WGDNG4ZBNwLjKsXgEvBLc2Yaz+AYOl7++bZm+Px7HfJDME9pOe08Jls/KDULM8rq6jqDuFYjoUxnfM8Ojmsp19V53ApRhQYh9QBQYqLUm81uqx7M3sybgyqszegC1o1pKK7SdVIjfpgd2QoIaVm6w1YjUUDAfo2FKMkLNLoX/EEC3RgAl6dm2p8agln7KqLAoWGEl5TaqqI3loQGd0rUZYQyez9E=;igL9ukUPLtHlIzyMQSoEjQ=="
 ---

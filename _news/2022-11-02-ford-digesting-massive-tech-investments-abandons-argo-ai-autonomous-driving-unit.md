@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4552004-ford-abandons-argo-ai-aut
 webUrl: "https://seekingalpha.com/article/4552004-ford-abandons-argo-ai-autonomous-driving-unit"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,26 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "Ford, VW seeking buyer for Argo AI’s lidar unit"
+    excerpt: "Ford and Volkswagen are trying to squeeze any remaining value out of Argo AI and shopping around Argo Lidar, an 80-person team."
+    publishedDateTime: 2022-11-01T19:22:00Z
+    webUrl: "https://techcrunch.com/2022/11/01/ford-vw-seeking-buyer-for-argo-ais-lidar-unit/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Argo AI shutdown surprises tech community"
+    excerpt: "Argo AI LLC’s shuttering last month brought Pittsburgh’s innovation scene to a yet-to-be-seen reality amid the backdrop of a national tech downturn. The autonomous vehicle startup’s closure led to the termination of nearly 700 jobs throughout the ..."
+    publishedDateTime: 2022-11-02T19:49:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/02/argo-ai-shutdown-wake-up-pittsburgh-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "Db/d9IhT9KUCEGM8WxFS/mWxOo+o1AVPdrw9l2SXR+fNvgtehihQcLBiG9C6M1uOZh010JQIJNAruGAnNgfIXaK42asn27wcz2QI2/Khaxb4B+Fl0Hfsabm7avqy9dIU5J9VsLqoNRM0SIZq4eAAchRehZMMDn4M0pMkOAeVnpBAa7pEu/ey88WcY0xM5/v85ZBmNPSybYiV/6et96vLnxlaqcaXjAI6UaVQVomoGe8Bzkb164BSo49DXwrv9aAxroJzZm5pfE4AvKWqE4rRYnRnf5t/HP7BQx4O0bl1+IM7tHzKCAiyHYW+6OAYNljhCV7Fj9EcFI+R5OCV0jomldhqeVtUSluPKoURErejMlg=;lb5Ng9mDXQQmlRR+U40G6g=="
 ---

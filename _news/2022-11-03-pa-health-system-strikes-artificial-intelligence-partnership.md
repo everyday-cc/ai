@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/pa-health-system-strikes-artifi
 webUrl: "https://healthitanalytics.com/news/pa-health-system-strikes-artificial-intelligence-partnership"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "9 Big Tech healthcare partnerships"
-    excerpt: "Big Tech companies such as Amazon, Microsoft and Google have been making headway into the healthcare industry in part through partnerships with health systems and other healthcare companies. Here are nine of those collaborations Becker's has reported on since Sept."
-    publishedDateTime: 2022-10-31T21:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/9-big-tech-healthcare-partnerships.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
   - title: "Truveta releases live dashboard with healthcare data from 25 health system partners"
     excerpt: "Health data startup Truveta has released a real-time searchable dashboard featuring deidentified medical records from more than 70 million patients from its 25 health system partners. Truveta Studio has data covering 16 percent of the healthcare system that researchers can use to study patient care and outcomes by condition,"
     publishedDateTime: 2022-11-03T18:01:00Z

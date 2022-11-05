@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "9 Big Tech healthcare partnerships"
-    excerpt: "Big Tech companies such as Amazon, Microsoft and Google have been making headway into the healthcare industry in part through partnerships with health systems and other healthcare companies. Here are nine of those collaborations Becker's has reported on since Sept."
-    publishedDateTime: 2022-10-31T21:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/9-big-tech-healthcare-partnerships.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
   - title: "PA Health System Strikes Artificial Intelligence Partnership"
     excerpt: "Temple University Health System has partnered with Aidoc to leverage artificial intelligence to optimize clinical operations and reduce the cost of care."
     publishedDateTime: 2022-11-02T17:00:00Z

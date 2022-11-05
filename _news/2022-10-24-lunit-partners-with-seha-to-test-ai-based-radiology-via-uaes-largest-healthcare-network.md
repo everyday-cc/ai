@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Lunit partners with SEHA to test AI-based radiology via UAE's largest healthcare network"
-excerpt: "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this yearSEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ --"
-publishedDateTime: 2022-10-24T05:54:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm"
+excerpt: "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this year; SEOUL, South Korea, Oct. 24, 2022 /P"
+publishedDateTime: 2022-10-24T06:23:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/24/9697778.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/24/9697778.htm"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -22,6 +22,6 @@ images:
     height: 280
     isCached: true
 
-secured: "AZ7N66qc3DdPIDaEWBKP9amPC/R1BDdvd2VdZz0Wl94usr1+JLYuup3i1bKC2nQnli+cm5Er3NpGcXBSfU2Sx1qT5jB6Pt6qj9WgB6BtTCgY6E7b9hlOtR6Aa5RcC9hDstK28JBsCkJOd18DX1UjNnsNN0IqYPpjfhSxoDfxyclzF0kVqefyIjkD1DDAe77K4sfc/kTjAF4wte8iK9tj634Bj10JDrWWQbJOaW/AJkOU357TfadzLnUspUjaMfSS6hr9vmsGudAuJiZZHRNwESG0LfNBofTav3DYVWSOaZki2xMsJro0I0kOrh2C67E5UnwVODaLnBrCo+vaXDWuhVTP8dFVrlpKkIbfEXcUfI4H64lPZ7tDU8L/hwE3iBfDCoCGNUcq+5AuwWFNX3XWTGRAUq/+L+kEE5PABzqYsCg5/jNvqM+OeLzr7cuXIU/auuMBlMhcneQDliDTFaPFP6gMpH54XKQMWMe58cRpiaGDDtiZCKeNrdyObWl+cEJo7dfFTsnfqCXaM2O3EUNqEA==;XZqELkno0j701DZY4EMGpA=="
+secured: "ZOa7wBUHP8mlZZhHPtBLK9UYhbnRAVcvRtPSqGYA7j3eG1kyKno+6FWzWeyIAARN8hPFUhEs/eQP1GEHWesFI9kUjOypqDuQBT9Q9mLIPJZkQl8m5CZkAbAiFWALOEqcngC5AfCH+v42uasA7xuaA00eGIgEfLPZQPC1ufdraxmGRHMdG4Kg9GrWz5jIHnmaLDsZZrH65YaeyRdxMsn2Hwlvs7AReOrSkAareEdbJRC8CW2WTlrjcVPe5lEwmqj5/k28j3TViaYeBJFrCluop+fSIex4oZlUnCZrCxhixQDfbqrflbLodggEtrAUW955r7WtIeQgpkHoKBJ8DNvx/oPkbo5qoLsSEF99WnQbM4s=;F5e0WH9t0kXX04OakFjJ/Q=="
 ---
 
