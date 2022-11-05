@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-03-fintech-in-latin-america-and-africa-is-breaking-the-mold.md",
+      "title": "Fintech in Latin America and Africa Is Breaking the Mold",
+      "excerpt": "The US and Europe can learn a lot from startups that are nimbler, more digitized, and potentially better at serving underserved people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/",
+      "originalUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6363137dd05a7e57f9be5703/master/pass/Fintech-Latin-America-Africa-Breaking-Mold-Business-95186910.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fintech-latin-america-banking-opportunities/amp",
+      "publishedDateTime": "2022-11-03T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
+      "title": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive",
+      "excerpt": "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and Mercedes Benz,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-data-quality-is-also-an-ai-problem.md",
+      "title": "Data Quality Is Also An AI Problem",
+      "excerpt": "Any AI processes that use traditional data sources will be just as dependent on those sources being of high quality as any other analytic processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63122d3b4220a3347b2931c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
+      "publishedDateTime": "2022-11-03T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses.md",
       "title": "How Artificial Intelligence Is Transforming Out-Of-Home Advertising For Small Businesses",
       "excerpt": "Like almost every part of our lives, artificial intelligence is transforming out-of-home advertising. Now, it could be a more efficient alternative for small businesses, especially brick-and-mortar companies.",
@@ -735,7 +881,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1072,154 +1218,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-metas-ai-powered-audio-codec-promises-10x-compression-over-mp3.md",
-      "title": "Meta’s AI-powered audio codec promises 10x compression over MP3",
-      "excerpt": "Meta announced an AI-powered audio compression method called \"EnCodec\" that can reportedly compress audio 10 times smaller than the MP3 format at 64kbps with no loss in quality. Meta says this technique could dramatically improve the sound quality of speech on low-bandwidth connections,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/encodec_hero_2-800x451.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/amp/",
-      "publishedDateTime": "2022-11-01T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m.md",
-      "title": "Galileo looks to improve unstructured data for machine learning (ML), raises $18M",
-      "excerpt": "Register here. Machine Learning (ML) requires data on which to train and iterate. Making use of data for ML also requires a basic understanding of what is in the training data, which isn’t always an easy problem to solve. Notably, there is a real ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
-      "originalUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-954077270.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
-      "publishedDateTime": "2022-11-01T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
-      "title": "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks",
-      "excerpt": "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "publishedDateTime": "2022-11-01T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

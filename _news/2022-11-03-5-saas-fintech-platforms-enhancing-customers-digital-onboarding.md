@@ -24,22 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "How FinTech is Changing the Financial Services Landscape and Creating an Amazing New Normal"
-    excerpt: "The “marriage” between traditional financial services and technology has deeper implications in many areas. Let’s take a look. The term “FinTech” refers to the integration of technology into the financial landscape."
-    publishedDateTime: 2022-11-02T06:54:00Z
-    webUrl: "https://techstory.in/how-fintech-is-changing-the-financial-services-landscape-and-creating-an-amazing-new-normal/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 14
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/what-is-fintech.jpg"
-        width: 1000
-        height: 562
-        isCached: true
-
 secured: "yKUfO2zGmT9IIVus2HwLMX92KEw9ryRaFU1vYIDMVxfsgFoGxXAy6KStQaJma1SUTpn+Q365t3RBT3GQ4WpBCkRl32y1JBq+5Wv3BvNx3kkKPM7AKJW3QfXAdwYiR9AEK8AfgSr43BKMv0aJdQCiK43sAEEdA/zQTGDjyEB865kSbQb6vWpw1kSPJtt4rBkv+80MNWaKkNo8irW0aFP4tH0H1QWAJ9qouUnWdz+c++QWop4lmsZA/U4hCBno66fHtefWjFN8TpnxOgu4Rv0uC+yPwxtggO7WnKttBaBgNHOWqQM+QQrOsOI2mNoXWJGVFI/hzFQRjM6n5p4cHMfvr1WYi7TEqpavsn+01dZJkBvE1RWkUZHxIRwSbyRD6LwtEZgiMMBLwfSsPd+vRA5X5R5hxkuUyjNXny+19gVzje0j0IBreXYEGauM0XZfpVhikm2kEvtC5SNJnG8IuMqoAT/O0u8Uz1JOeEbebqQDWx7HO3E3zzBY9olJbjcMGSYY8TJkEwWa936MNzEqT9fobg==;HTytezfLgahDYrOeubNs+w=="
 ---
 

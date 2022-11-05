@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/tech-news/google-bo
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here"
 type: article
 quality: 70
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Pays A Staggering $100 Million For An Artificial Intelligence Startup Alter; Is It Worth It Though?"
-    excerpt: "Google just acquired Alter, a business that creates AI avatars. According to TechCrunch, the internet behemoth paid roughly $100 million to purchase the business (approximately Rs 8,22,87,70,000). For those who are unfamiliar,"
-    publishedDateTime: 2022-10-31T08:45:00Z
-    webUrl: "https://in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho"
-    ampWebUrl: "https://in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho?amp=1"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/72a81d54-1477-45f7-ac0a-f8174139aab3_qqyb.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Google buys AI startup Alter for $100 million"
     excerpt: "Search giant Google has acquired AI avatar start-up Alter for $100 million in a bid to compete with short-form video platform TikTok. Google confirmed the purchase to publication TechCrunch but did not disclose the financial terms of the deal."
     publishedDateTime: 2022-11-01T11:58:00Z

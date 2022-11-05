@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-deep-method-cognitive-functio
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Novel Deep Learning Method May Help Predict Cognitive Function"
+    excerpt: "A novel deep learning method that uses graph convolutional neural networks (gCNNs) can predict cognitive function based on the brain's size and structure. The algorithm may provide insights into the relationship between brain morphology and different cognitive functions,"
+    publishedDateTime: 2022-11-04T18:30:00Z
+    webUrl: "https://neurosciencenews.com/deep-learning-cognitive-function-21787/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2022/11/machine-learning-cognitive-function-neurosinces-public.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "Artificial intelligence-based method may help predict early-stage melanoma recurrence"
     excerpt: "Most deaths from melanoma-;the most lethal form of skin cancer-;occur in patients who were initially diagnosed with early-stage melanoma and then later experienced a recurrence that is typically not detected until it has spread or metastasized."
     publishedDateTime: 2022-10-31T17:57:00Z

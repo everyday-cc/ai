@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-04-novel-deep-learning-method-may-help-predict-cognitive-function.md",
+      "title": "Novel deep learning method may help predict cognitive function",
+      "excerpt": "Northwestern investigators have developed a deep learning-based method that can predict cognitive function capacity based on brain shape and structure, detailed in a study published in Scientific Reports. The method, which uses graph convolutional neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-deep-learning-me.jpg",
+          "width": 1497,
+          "height": 1410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
+      "publishedDateTime": "2022-11-04T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-unleashing-machine-learning-for-all.md",
       "title": "Unleashing Machine Learning For All",
       "excerpt": "This learning happens when the model tunes its own parameters and increases its prediction accuracy with every data point. The larger the number of parameters, the longer it takes to tune the model, thereby increasing model training times,",
@@ -1384,58 +1427,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ai-is-changing-scientists-understanding-of-language-learning.md",
-      "title": "AI is changing scientists’ understanding of language learning",
-      "excerpt": "For this reason, many language scientists—including Noam Chomsky, a founder of modern linguistics—believe that language learners require a kind of glue to rein in the unruly nature of everyday language.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/parent-child-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

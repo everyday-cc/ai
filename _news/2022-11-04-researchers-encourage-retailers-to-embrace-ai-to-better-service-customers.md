@@ -55,22 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Researcher combines AI and microelectronics to create neural implants that fight brain disorders"
-    excerpt: "Neural implants can help treat brain disorders such as Parkinson's disease and epilepsy by directly modulating abnormal activities—and the University of Toronto's Xilin Liu is working with microelectronics and artificial intelligence to make this emerging technology both safer and smarter."
-    publishedDateTime: 2022-10-31T07:33:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-combines-ai-microelectronics-neural-implants.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-combines-ai-microelectronics-neural-implants.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-combines-ai-microelectronics-neural-implants.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/fighting-brain-disorde.jpg"
-        width: 1140
-        height: 760
-        isCached: true
 
 secured: "AcU1tn8E8ffvqFX7vLCHNyiNe3tI+2udyqwloXCdWFaPtvftTh0Tt9OO7dGlavdu41FmyAQSEhCjg5psNrRidnEPrlAkloKezEEt+sgNgfBvgBvo5atvZCB0vnbBE0Iq/xIpQ7P5WuYp4yT2CPjpQMVwRDZjze0HyYWylEB4gp0T1eDpbUN6DvzuxpWmrYYl1Vb2YYyLcGfhOGWNs3pDSQ7AQOdGVgZUJYQrkXKM8hXLdKilkOhNPn3N8U20s+ZPMKpJPt4NbqhDaslZ8Sd9ArM/8r0MjpUZigMpgSdw7S8n46xVgIsp0rXDQ+t5msDpxF28w03Un1+6Ng64o1g/jM2XCr8AC1hir+C5qQHL2aU=;B43QdDULBgeM0AoS6mg0FQ=="
 ---

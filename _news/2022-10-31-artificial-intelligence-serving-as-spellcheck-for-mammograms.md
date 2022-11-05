@@ -8,8 +8,8 @@ webUrl: "https://www.wusa9.com/article/news/health/artificial-intelligence-spell
 ampWebUrl: "https://www.wusa9.com/amp/article/news/health/artificial-intelligence-spellcheck-mammograms-breast-cancer-screening-dc/65-5d3751a4-99da-41bb-bd08-28535634a37d"
 cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/health/artificial-intelligence-spellcheck-mammograms-breast-cancer-screening-dc/65-5d3751a4-99da-41bb-bd08-28535634a37d"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://media.wusa9.com/assets/WUSA/images/cfda15dc-7dc4-4d07-9c8e-0b70077e850f/cfda15dc-7dc4-4d07-9c8e-0b70077e850f_1140x641.jpg"

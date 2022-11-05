@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/10/intro-1.jpg?resize=1200,675"

@@ -323,6 +323,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-29-why-generative-ai-is-suddenly-on-everyones-lips-its-an-open-field.md",
+      "title": "Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”",
+      "excerpt": "There's a lot of confusion about generative AI, including how new exactly it is, and whether it's becoming massively overhyped.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
+      "originalUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/intro-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/28/generative-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/28/generative-ai/amp/",
+      "publishedDateTime": "2022-10-28T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-father-of-azure-cognitive-services-joins-ai-startup-vaital.md",
       "title": "Father of Azure Cognitive Services joins AI startup Vaital",
       "excerpt": "Founder of Microsoft Azure Cognitive Services, Yu-Ting Kuo, joins board of directors of Vaital, a Bellevue-based AI and software startup. Kou founded and led Microsoft's Computer Vision Group, establi",
@@ -442,6 +494,49 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-video-games-are-good-for-a-developing-brain-study-shows.md",
+      "title": "Video games are good for a developing brain, study shows",
+      "excerpt": "Huge news for the kids who grew up gaming: There are some cognitive benefits associated with children who play video games. Children who played video games showed \"enhanced cognitive performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/video-games-children-study",
+      "originalUrl": "https://mashable.com/article/video-games-children-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/079RyeM8TLJYWd7KogR8t1J/hero-image.fill.size_1200x675.v1666805636.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -772,6 +867,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-25-video-games-may-bring-cognitive-benefits-to-kids-study.md",
+      "title": "Video games may bring cognitive benefits to kids: study",
+      "excerpt": "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
+      "originalUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
+      "publishedDateTime": "2022-10-25T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-playing-video-games-may-be-linked-with-improved-cognitive-abilities-in-children.md",
       "title": "Playing video games may be linked with improved cognitive abilities in children",
       "excerpt": "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ...",
@@ -802,6 +940,58 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-video-games-linked-to-better-cognitive-skills-in-brain-study.md",
+      "title": "Video Games Linked to Better Cognitive Skills in Brain Study",
+      "excerpt": "Kids who played three hours or more of video games a day performed better on tests of memory and impulse control than ones who didn’t play games, according to a study released Monday. Frequent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-10-24/video-games-linked-to-better-cognitive-skills-in-brain-study",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-10-24/video-games-linked-to-better-cognitive-skills-in-brain-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iINFxmyHpGxY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -932,49 +1122,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-video-games-may-bring-cognitive-benefits-to-kids-study.md",
-      "title": "Video Games May Bring Cognitive Benefits to Kids: Study",
-      "excerpt": "Researchers found that compared with children who never played video games, those who regularly spent hours gaming had higher scores on two standard cognitive tests: one measuring short-term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study",
-      "originalUrl": "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1230,145 +1377,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-these-15-people-are-shaping-the-office-of-the-future-designing-meeting-pods-hologram-calls-and-buildings-that-actually-make-workers-healthier.md",
-      "title": "These 15 people are shaping the office of the future, designing meeting pods, hologram calls, and buildings that actually make workers healthier",
-      "excerpt": "Power players from tech-startup CEOs to architects make workplaces safer and happier. See how offices can be more interactive, collaborative, and flexible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/people-shaping-future-of-office-workplace-commercial-real-estate-2022-10",
-      "originalUrl": "https://www.businessinsider.com/people-shaping-future-of-office-workplace-commercial-real-estate-2022-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network.md",
-      "title": "Lunit partners with SEHA to test AI-based radiology via UAE's largest healthcare network",
-      "excerpt": "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this yearSEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ --",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-10/57375435-lunit-partners-with-seha-to-test-ai-based-radiology-via-uae-s-largest-healthcare-network-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1927497/Lunit_SEHA_officials_attend_a_collaboration_agreement_signing_ceremony_Lunit_s.jpg",
-          "width": 400,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-children-may-get-a-cognitive-boost-from-playing-video-games.md",
-      "title": "Children may get a cognitive boost from playing video games",
-      "excerpt": "A compelling new study published in JAMA Network Open suggests there may be some cognitive benefits associated with playing video games. The research looked at around 2,000 children and found ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
-      "originalUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c0c5e38/2147483647/strip/true/crop/3796x1993+0+338/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F7e%2Fbe%2F4156a12a4c70bafd8aedd83e93d7%2Fdepositphotos-12112893-xl.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

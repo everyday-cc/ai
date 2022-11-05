@@ -2,6 +2,256 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-25-image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview.md",
+      "title": "Image Analysis 4.0 with new API endpoint and OCR model in preview",
+      "excerpt": "We are thrilled to announce the preview release of Computer Vision Image Analysis 4.0 which combines existing and new visual features such as read optical character recognition (OCR), captioning, image classification and tagging, object detection, people detection, and smart cropping into one API.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/40891cd5-f29f-4347-b667-e888bdd67b0e.png",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T08:10:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials.md",
+      "title": "Vitamin-powered batteries: how ‘self-driving’ labs are using AI to develop remarkable new materials",
+      "excerpt": "It can take many years for a new substance to get from a successful lab experiment to a solution ready to roll out across the world. But AI can be used to sidestep this bottleneck",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/26b842453095a3ed54f895bad5493df2a6fec192/0_240_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=aac2bdbdbf137bae219f1e48acf93394",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "publishedDateTime": "2022-10-25T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
+      "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
+      "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200",
+          "width": 892,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
+      "publishedDateTime": "2022-10-25T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-video-games-may-bring-cognitive-benefits-to-kids-study.md",
+      "title": "Video games may bring cognitive benefits to kids: study",
+      "excerpt": "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
+      "originalUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
+      "publishedDateTime": "2022-10-25T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-generative-ai-will-impact-every-tool-out-there-says-jasper-ceo.md",
+      "title": "Generative AI will ‘impact every tool out there,’ says Jasper CEO",
+      "excerpt": "Dave Rogenmoser, CEO of Jasper AI, says that generative AI is no flash in the pan — and enterprise companies should consider their strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Jasper.ai-Free-Trial-3.png?w=1200&strip=all",
+          "width": 654,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
+      "publishedDateTime": "2022-10-25T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-european-ai-startup-axelera-ai-closes-27-million-series-a.md",
       "title": "European AI Startup Axelera AI Closes $27 Million Series A",
       "excerpt": "EINDHOVEN, Netherlands--(BUSINESS WIRE)--European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding will support Axelera AI’s launch and ...",
@@ -631,6 +881,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-25-video-games-linked-to-better-cognitive-skills-in-brain-study.md",
+      "title": "Video Games Linked to Better Cognitive Skills in Brain Study",
+      "excerpt": "Kids who played three hours or more of video games a day performed better on tests of memory and impulse control than ones who didn’t play games, according to a study released Monday. Frequent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-10-24/video-games-linked-to-better-cognitive-skills-in-brain-study",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-10-24/video-games-linked-to-better-cognitive-skills-in-brain-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iINFxmyHpGxY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-dementia-strikes-one-in-ten-americans-over-65.md",
       "title": "Dementia Strikes One in Ten Americans Over 65",
       "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia,\" Manly ...",
@@ -844,284 +1146,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-model-using-daily-step-counts-predicts-unplanned-hospitalizations-during-cancer-therapy.md",
-      "title": "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy",
-      "excerpt": "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/pedometer.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "publishedDateTime": "2022-10-24T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops.md",
-      "title": "Microsoft’s Windows Dev Kit 2023 lets developers tap AI processors on laptops",
-      "excerpt": "Microsoft has released the Windows Dev Kit 2023, initially announced at Build, which features a dedicated AI processor and software for AI app development on laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/",
-      "originalUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/",
-      "publishedDateTime": "2022-10-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-novel-derivative-of-love-hormone-oxytocin-may-reduce-cognitive-impairment-in-alzheimers.md",
-      "title": "Novel derivative of 'love hormone' oxytocin may reduce cognitive impairment in Alzheimer's",
-      "excerpt": "The cognitive decline and memory loss observed in Alzheimer's disease (AD) is attributed to the accumulation of β-amyloid protein (Aβ), which impairs neural function in the brain ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-derivative-of-lo.jpg",
-          "width": 2800,
-          "height": 1575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
-      "publishedDateTime": "2022-10-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china.md",
-      "title": "Shoplazza Shared Innovative Practices in the Age of AI at AWS Summit China",
-      "excerpt": "The summit hosted by Amazon Web Services (AWS) is its largest annual technology event in China and a benchmark in the global cloud computing field. As a globally leading shopping cart SaaS company, Shoplazza was invited to the summit to share its excellent practices with advanced product features and technology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china-1031829467",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china-1031829467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1927772/image_5020059_33882458.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-video-games-may-bring-cognitive-benefits-to-kids-study.md",
-      "title": "Video Games May Bring Cognitive Benefits to Kids: Study",
-      "excerpt": "Researchers found that compared with children who never played video games, those who regularly spent hours gaming had higher scores on two standard cognitive tests: one measuring short-term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study",
-      "originalUrl": "https://www.usnews.com/news/health-news/articles/2022-10-24/video-games-may-bring-cognitive-benefits-to-kids-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-holiday-2022-robot-vacuum-buying-guide-the-best-robot-vacuums-to-gift-this-year-according-to-reviewers.md",
-      "title": "Holiday 2022 robot vacuum buying guide: The best robot vacuums to gift this year, according to reviewers",
-      "excerpt": "Not sure where to begin when buying a robot vacuum? Find the best robot vacuums for the 2022 holiday season with this gift guide. Samsung Jet Bot+ robot vacuum with clean station, $732 (reduced from $800) iRobot Roomba j7+ self-emptying robot vacuum with Braava Jet M6 robot mop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "originalUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/29/d0146d7a-e3ca-4549-a180-82b71f490e80/thumbnail/1200x630/17e034c21993177d93992b72a8924677/roomba-holiday-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "publishedDateTime": "2022-10-24T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

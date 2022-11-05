@@ -35,6 +35,20 @@ related:
         width: 1497
         height: 1410
         isCached: true
+  - title: "Novel Deep Learning Method May Help Predict Cognitive Function"
+    excerpt: "A novel deep learning method that uses graph convolutional neural networks (gCNNs) can predict cognitive function based on the brain's size and structure. The algorithm may provide insights into the relationship between brain morphology and different cognitive functions,"
+    publishedDateTime: 2022-11-04T18:30:00Z
+    webUrl: "https://neurosciencenews.com/deep-learning-cognitive-function-21787/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2022/11/machine-learning-cognitive-function-neurosinces-public.jpg"
+        width: 770
+        height: 513
+        isCached: true
 
 secured: "l4XZqGXzwX0T+S70EEu/s33zEu6O7guNnuIxr3fS3ns+68QgT+C6ubBbgmGHCfuT4A2GJgVEa90UuqWlt4te95haN47g/Z9eCiNPmFtUkk/OX9KgDqZKIymwghPFx51NBw3AyoppXudNuLdO9oB8qB9mmauDdSqDyd2+lYq5WFMO6jYdwt8ZtWvF4Nbwk9kOMVZoaQRHBVLJISnFikmmSLIW50pVxmQrGR1p+J9jPNh13osSoZSpuSubsB5auduk9aVbzxTQdC8q6lCA360ltUiUrKrNCVAPBNtbPx5VROxXOCm1fXxYq7AyRNA5B9ixT/6YyFTi+MHHzeayZ1ON9/anCG8JKGJHAjyYhDSskYw=;zoHkSvP7VbOBK5opZCmiMw=="
 ---
