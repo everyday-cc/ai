@@ -23,29 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving Ships Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The global Self-driving Ships market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report)."
-    publishedDateTime: 2022-11-01T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01"
+  - title: "Artificial Intelligence in Healthcare Market Evolution Segmentation and Insight of Trends 2022 to 2028 with Top Countries Data"
+    excerpt: "Nov 04, 2022 (The Expresswire) -- \"Artificial Intelligence in Healthcare Market\" research provides significant and in-depth information on the global"
+    publishedDateTime: 2022-11-04T13:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size 2022 | Industry Share, Growth, Analysis and Forecast to 2027"
-    excerpt: "What is Natural Language Processing? How Big is Natural Language Processing Market? Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
-    publishedDateTime: 2022-11-02T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2022-industry-share-growth-analysis-and-forecast-to-2027-2022-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -65,29 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Machine Vision Market Insight | Pre and Post COVID-19 Impact Covered | During Forecast Period 2022-2027"
-    excerpt: "Nov 01, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning in"
-    publishedDateTime: 2022-11-01T10:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-insight-pre-and-post-covid-19-impact-covered-during-forecast-period-2022-2027-2022-11-01"
+  - title: "Industrial Robotics in Heavy Industries Market 2022 Top Key Players, Growth Factors, Global Trends, Product Scope, Dynamics and Forecast to 2028"
+    excerpt: "Global “Industrial Robotics in Heavy Industries Market” research report 2022 includes in-depth information on global"
+    publishedDateTime: 2022-11-03T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-robotics-in-heavy-industries-market-2022-top-key-players-growth-factors-global-trends-product-scope-dynamics-and-forecast-to-2028-2022-11-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market: Industry Analysis, Size, Share, Growth, Trend And Forecast By VMR"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 02, 2022 (Heraldkeepers) -- New Jersey, United States-Artificial Intelligence in Manufacturing Market research report is an asset for analyzing competitive development ..."
-    publishedDateTime: 2022-11-02T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-industry-analysis-size-share-growth-trend-and-forecast-by-vmr-2022-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
   - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
     excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
     publishedDateTime: 2022-11-04T04:39:00Z

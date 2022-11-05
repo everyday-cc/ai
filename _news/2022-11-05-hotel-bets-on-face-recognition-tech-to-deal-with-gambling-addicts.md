@@ -71,6 +71,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Could facial recognition and cashless cards help problem gamblers? This is why some fear it could be thwarted"
+    excerpt: "Tackling the issue of problem gambling with real reform has proven difficult historically for Australia, so will a range of these new proposals work?"
+    publishedDateTime: 2022-11-05T19:27:00Z
+    webUrl: "https://www.sbs.com.au/news/article/a-range-of-gambling-reforms-have-been-proposed-around-the-country-but-will-they-be-implemented/sdlzgmnnq"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 0
 
 secured: "nbRGc1VMWHeVct56IZgTvfTczkUMqbjGscoflV+JMZJCCI/6Kv68DwCc6P7wnFuCrDYi3k2dP1iXtjXz/Y3Vl5kY1M6GK4xSp0Tde6jRPuF6/JxmSBnQvxW2SKIPclHKPDZ5Cn77mgKtCAtzeeSvjDvry/cvittsQQKbtBggFmmnS9absMMuRuYovG5JIL8SLNEAgPJve3CeeUwPfHDP04KZCVmRHw8WtXRjeeqZuLrY1nMn/s7cGahZqYEI6ApEKB+YS2/8pMn4CKot2LXGjrPzTev7vxa8p2unuhAkdDnCLQuUvybQTHFQWUYQVf4C7IQM+v49dLACQRqxctsZCmTaTV/ds/tggMUFD0Km+J5UYADPr9IptfSuXcdMql5zwdQLBe3q1d/nIWHaM1r3kOpC+h1b+XCdFps+7/qP+lopbEknmc4vlXED23qe7NllcqhL56aeA8zBrJWSYVdMbOwZYULhy769CWEE3Sd65QHwpXu7DbL73IvFu00X1EkJPKT5w1t/X+LynRtLI9xP0A==;GauGVdC4kt3uhXLZca22lA=="
 ---

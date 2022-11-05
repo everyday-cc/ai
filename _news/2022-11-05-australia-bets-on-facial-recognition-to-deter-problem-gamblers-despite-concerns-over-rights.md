@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/article/3198521/australia-bets-facia
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Could facial recognition and cashless cards help problem gamblers? This is why some fear it could be thwarted"
+    excerpt: "Tackling the issue of problem gambling with real reform has proven difficult historically for Australia, so will a range of these new proposals work?"
+    publishedDateTime: 2022-11-05T19:27:00Z
+    webUrl: "https://www.sbs.com.au/news/article/a-range-of-gambling-reforms-have-been-proposed-around-the-country-but-will-they-be-implemented/sdlzgmnnq"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 0
 
 secured: "pLuS/BMPp2iiuISmhrzp7bQoc9F/EZLnbJ17BNhuMtmp3adaSjS5VjQMCUNWE7MWB7DdU2Onbji0t02rLFsFgqMWo2rodA6vwSUuvhsnmZdh+dri4tkUyAk9Y3PnDf2jGyQoM1hRhewh3b1osMv9l7EKFQUchLwv+ZbrUwgZFGH2ab2rkL4/+g7EQkmSGjT5UUbROl3HEeVoaSubEy/Z1pTqlTtvatHxQhse7pgBGEVz8dlnEs1VfsOEWFUbtLpJ61YYvVQM5P8nGMX1Vdk5n9TQoet/TcPE4X8wsjFW/ZiYUJVyFknhQ6uEeu5Y95lIwLViYDpuEyTpNjcVRcVw0+4dlVXDKDvUC/+HA0BfbH7xU71N63cgD/uKF7l1hE+BHr//K53GmX4/iIJD99b3mbeAZR2OTKMgm1PySdY0srx+W7hS6OQ52Pq2IMtqCqLzoCdJCuE5mc/is990cJz9VDvUJ5dO7N+klQY+vLkDxqmkeZY123CuxTpT27guLjDIm6BJTqRdBgyhQlyKgEYsog==;89ntmZA5BO/BbwSZksebgw=="
 ---

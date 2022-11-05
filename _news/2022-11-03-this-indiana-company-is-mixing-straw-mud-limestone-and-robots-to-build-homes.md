@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T09:09:00Z
 originalUrl: "https://www.heraldtimesonline.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/"
 webUrl: "https://www.heraldtimesonline.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: The Herald-Times

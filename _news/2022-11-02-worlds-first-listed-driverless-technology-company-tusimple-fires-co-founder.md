@@ -55,22 +55,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Self-driving truck startup TuSimple ousts CEO over ties to Chinese rival"
-    excerpt: "Self-driving truck biz TuSimple fired co-founder and CEO Xiaodi Hou on Monday amid what's reported to be US federal investigations into whether he inappropriately assisted and shared blueprints with Chinese startup Hydron."
-    publishedDateTime: 2022-11-01T02:57:00Z
-    webUrl: "https://www.theregister.com/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 43
-    images:
-      - url: "https://regmedia.co.uk/2020/10/26/fired.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Southern Californa self-driving truck firm TuSimple fires CEO over dealings with China startup"
     excerpt: "The San Diego company terminated co-founder Xiaodi Hou for sharing confidential information. Hou denies any wrongdoing."
     publishedDateTime: 2022-11-01T22:08:00Z

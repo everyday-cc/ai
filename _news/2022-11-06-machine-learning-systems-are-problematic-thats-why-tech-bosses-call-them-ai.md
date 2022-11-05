@@ -2,14 +2,14 @@
 category: news
 title: "Machine-learning systems are problematic. That’s why tech bosses call them ‘AI’"
 excerpt: "Pretending that opaque, error-prone ML is part of the grand, romantic quest to find artificial intelligence is an attempt to distract us from the truth"
-publishedDateTime: 2022-11-05T15:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai?amp;amp;amp"
-webUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai?amp;amp;amp"
+publishedDateTime: 2022-11-05T20:39:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
+webUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
 type: article
-quality: 55
-heat: 65
+quality: 53
+heat: -1
 published: false
 
 provider:
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
 images:
   - url: "https://i.guim.co.uk/img/media/efdf0b639d5832c78a761b46d999c6a5b1fe05d7/0_326_3397_2039/master/3397.jpg?width=620&quality=85&auto=format&fit=max&s=b32ee3c450c21c03e8be33d496aa7ff1"
@@ -33,21 +32,21 @@ images:
 related:
   - title: "Machine-learning systems are problematic. That’s why tech bosses call them ‘AI’"
     excerpt: "Pretending that opaque, error-prone ML is part of the grand, romantic quest to find artificial intelligence is an attempt to distract us from the truth"
-    publishedDateTime: 2022-11-05T20:39:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
+    publishedDateTime: 2022-11-05T15:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://i.guim.co.uk/img/media/efdf0b639d5832c78a761b46d999c6a5b1fe05d7/0_326_3397_2039/master/3397.jpg?width=620&quality=85&auto=format&fit=max&s=b32ee3c450c21c03e8be33d496aa7ff1"
         width: 620
         height: 372
         isCached: true
 
-secured: "nkKo2dwyfIDZ30Mzzn6+vv2IfCBdR/eYRDj7YGfj51WhF7ryrq2OxQ9ndCGXSzHn2X8Rfs0FU8SI1WpcRhk+IaW/u0RO0NsuqNRUE0o9J7Uvk7y7NxAmWwnat5bjgFS3pl14bi7rsKm2XnFHcb9+laqe2hIGr7/wS+x2st7bNnCfzsG3d0U+BWgBPIpw9x6R+O+/8z0jsut1egsq2+IKYRypGSWYFP4SRR30M0uiAGfcx8G9Uo2d1X0pjvYDBO4rE48ylWjtypsavQzdlhKFz/Ru0XroXdvB75UbISjSxtFvv+UzYeIq2+9ETLjEbbRXBn3nkdHnwBUJcpn3zSj8buwAlv77DTdqnHazKjex4Dk=;bPXvVuYkW0Z31XtaVLrbqA=="
+secured: "gRJ9G3kPR6K3vug7TYPvvmf1iKRn1nMoq6RWxJNYH2J1HoXWAmJqV1nqloqer4gHI8koPMt99LczNJPeS5Tm519O3Y3z6fjqYIa7HMXZYUDfmi1Z+oxqGRh7euuNa3GDdGjpWNq/wnwffHirF0J0x2TAbKTMKnOzcOqZyJhfTkE5gJw757wcQPnysCxISvNy/JfIOH8NPjOKsGDUKengfGwIr09+L+UepDX+KHhks0nKraOcyrTjLDhd5OWEftU5w0GJrBFWmUmhzwMlQo2Hr+udgBcu1JgtmauQLx2D6zXeqLDBSgByBwmWWNYZ9PI23H3sdfclsrI73SolOK2KkHV4mtCw7KDR9NRYQ+PjztM=;7RvxbefPOJzZKNpXlSRrgA=="
 ---
 

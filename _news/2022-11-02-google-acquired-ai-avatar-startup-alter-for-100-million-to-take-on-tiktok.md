@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Alter’ a new AI startup by Google"
-    excerpt: "Google purchases the startup for about $100 million with an end goal to work on its substance game and rival TikTok."
-    publishedDateTime: 2022-11-01T04:26:00Z
-    webUrl: "https://techstory.in/alter-a-new-ai-startup-by-google/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/Larsen-Toubro-LT-1280x720-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Google snaps up AI avatar start-up Alter to compete with TikTok"
     excerpt: "The silent acquisition of New York-based Alter, previously Facemoji, is seen as Google’s bid for the metaverse."
     publishedDateTime: 2022-11-01T10:21:00Z

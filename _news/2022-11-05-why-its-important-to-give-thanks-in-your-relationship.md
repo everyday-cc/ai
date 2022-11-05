@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-05T13:15:00Z
 originalUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
 webUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Psychology Today

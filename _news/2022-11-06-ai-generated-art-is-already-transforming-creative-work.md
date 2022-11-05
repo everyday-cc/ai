@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-05T19:20:00Z
 originalUrl: "https://www.khaleejtimes.com/long-reads/ai-generated-art-is-already-transforming-creative-work"
 webUrl: "https://www.khaleejtimes.com/long-reads/ai-generated-art-is-already-transforming-creative-work"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Khaleej Times

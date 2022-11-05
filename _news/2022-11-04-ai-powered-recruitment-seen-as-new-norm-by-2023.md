@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-04T11:15:00Z
 originalUrl: "https://manilastandard.net/business/314275493/ai-powered-recruitment-seen-as-new-norm-by-2023.html"
 webUrl: "https://manilastandard.net/business/314275493/ai-powered-recruitment-seen-as-new-norm-by-2023.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: manilastandard

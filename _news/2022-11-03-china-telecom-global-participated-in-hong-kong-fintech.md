@@ -24,6 +24,17 @@ images:
     height: 251
     isCached: true
 
+related:
+  - title: "HKU-SCF FinTech Academy, Cyberport and Hong Kong…"
+    excerpt: "The University of Hong Kong - Standard Chartered Hong Kong 150th Anniversary Community Foundation FinTech Academy (HKU-SCF FinTech Academy), Cyberport and Hong Kong Productivity Council (HKPC) today a"
+    publishedDateTime: 2022-11-05T12:49:00Z
+    webUrl: "https://indiaeducationdiary.in/hku-scf-fintech-academy-cyberport-and-hong-kong-productivity-council-jointly-announce-fintech-talent-study-report-revealing-the-latest-demands-and-challenges-of-fintech-talents-in-hong-kong/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 4
+
 secured: "younWO8P/SdCCJxsp1KBwVqC7DNLmIzpB58CU4XPaSCHqSChoApq1SL5ZexJ8FReuDG8l05vTfXebkhke1tEjWs4OC7nob9Mo4SbuNl0hcwDspLHZfZqLFSuBTjTKufRIWoH0U+MUtpc+Hv2t35fQLmxwgY5ouwaF2yQ1HZpVihdTMfwmszswUbHZ6zeb9LVY6NWb1nXHtzu+yrkjDTNRYEueJQHvPFztfD4LjDDPui36ICkfXxYrtPvhaWTs5K+LdeXZ8izXXSw2N1fofNra5OFwXK22y6s3QkpFhD/GdIA2vcxMoamvxfpr+WMJovRmIBS6/h24+qCjVCdugWIb7LkvePmE//koqjZnwvUWVq75h8SNKkZoX+BLPtMWC0pRBDIR9T2xCqLm9iwWRcokEKbEY8FuPZnVZz/6BDmnWSEAJZ6vc4sCALoib484+pxYjOOO7cQyeLobQfPn4SIBRVsCzeQM1RoKGjx6DBmwxooCJgo1Zq0AyIrz8kbcLuQgWn+eiL0LCzpHExjtQ1/1Q==;9tpBaCpOY85YSSSmUngfGg=="
 ---
 

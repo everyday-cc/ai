@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Alter’ a new AI startup by Google"
-    excerpt: "Google purchases the startup for about $100 million with an end goal to work on its substance game and rival TikTok."
-    publishedDateTime: 2022-11-01T04:26:00Z
-    webUrl: "https://techstory.in/alter-a-new-ai-startup-by-google/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/Larsen-Toubro-LT-1280x720-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Google acquired AI avatar startup Alter for $100 million to take on TikTok"
     excerpt: "Per TechCrunch, Google acquired Alter, a startup that built an artificial intelligence (AI) avatar tool to help creators and brands express their virtual identities. A source familiar with the matter told TechCrunch that Google bought Alter for about $100 ..."
     publishedDateTime: 2022-11-02T09:43:00Z

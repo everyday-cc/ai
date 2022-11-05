@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-05T10:59:00Z
 originalUrl: "https://www.popsci.com/technology/google-ai-robot-code-as-policies/"
 webUrl: "https://www.popsci.com/technology/google-ai-robot-code-as-policies/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Popular Science
