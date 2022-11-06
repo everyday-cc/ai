@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/ka/business-news/destiny-robotics-meg
 webUrl: "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

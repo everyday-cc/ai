@@ -2,11 +2,11 @@
 category: news
 title: "Self-Driving Technology Provider Luminar Just Hit a Big Milestone"
 excerpt: "Luminar lidar is now being used in production cars, and the company reported third-quarter results that beat Wall Street expectations."
-publishedDateTime: 2022-11-03T16:42:00Z
-originalUrl: "https://www.barrons.com/articles/luminar-results-51667424013?siteid=yhoof2"
-webUrl: "https://www.barrons.com/articles/luminar-results-51667424013?siteid=yhoof2"
-ampWebUrl: "https://www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
+publishedDateTime: 2022-11-03T01:21:00Z
+originalUrl: "https://www.barrons.com/articles/luminar-results-51667424013"
+webUrl: "https://www.barrons.com/articles/luminar-results-51667424013"
+ampWebUrl: "https://www.barrons.com/amp/articles/luminar-results-51667424013"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-results-51667424013"
 type: article
 quality: 44
 heat: 44
@@ -39,6 +39,6 @@ related:
       domain: bizjournals.com
     quality: 39
 
-secured: "2/viCiYUB5afAcpMTfNL07FGwro7kIJQFWNkYL6m1tlxq9ZUXoDAOdKbzHv8ByodhtvJ5aiueWUgrPIcFz4Syw/yKwYauaJQH0Gq46B4b2Eqlx3ZiVTRo0oopGBTK2ZSD/1uEKJyai6Iovafd6HPlfiokhA59m76MzJbJlL2pKWKdkYjizuvNdrY7Zt3AZxZSCPlK6AOuYbwRsYrPFjbc7HJVrhKtrMcC5ySFHpLWAVDDsp2a4inMnvOZ8ND1Ey62j9CBLt/uIy+64I9mOg/O1wz6iiZSMDK+B1tjTlfELKgrq8PVfYNmorfFYwNqztYnypNcbj4ZvN+O9p0T4vDYCbE+8UIVrUBKn8j/nnE2HfRc5jw15rFKUJbbxTWdptCLDaGcrHFs8nT0O9yyk/myplssSSAuZPK5r1zjBSnYxXpKidbvp/6gXfMDWxl/Q+mtyb5RQMLmQe8AaacddNxnN81U6puGE6tbWUfwsvldZdQxyDWsgR1wGiLeMul4K6E2GNU82E3LJb7fzmNjt8HBA==;dIwq5J0N+sx48omlqKJzpQ=="
+secured: "cBsinNhZF9gJ3gsBPd4FZubD6cr506JaPfzciYxfxm7kO5iECjst3lWtFAkJD/eE2TlVeiaUnPZrmYlAHmSj/sIfLHO0R2hQpkkJ3WRZey7Ktf0tHghmqlZMzGhIcQqy5b60jJVS1bZA/lSS57oo3PSc1+V/Zao0YJGxnOvW/6TBtNDsI6wjwBTvWccAUMUWm6FaherXWXOQ/t+YkH7ovFe2Wq6bes6Ic6griLJo4cAYnTyzjH7Cy6fJq/iYituV8f2XLOTCpeidh5SH+vaibo+ifwEHEPqcktQgVIGqqp21Vwx8ElUSxvGiq5qZLzecBdglxB/YqJ7R2nGKc15yB/qbsJtfJvE0U0VQ207MzIw=;ZQEyeTaOGeUZSE8SP1/uBg=="
 ---
 

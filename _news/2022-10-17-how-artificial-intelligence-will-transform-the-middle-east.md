@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://image.khaleejtimes.com?uuid=7f65b56a-4ead-5afc-bb18-ae41fca2deda&function=cropresize&type=preview&source=false&q=75&crop_w=0.785&crop_h=0.99999&width=1200&height=675&x=0.1075&y=1.0E-5"

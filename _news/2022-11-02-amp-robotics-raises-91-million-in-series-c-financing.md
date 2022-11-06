@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AMP Robotics Raises $91 Million in Series C Financing"
-excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $"
-publishedDateTime: 2022-11-02T12:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing"
-webUrl: "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing"
+excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $91 million in corporate equity in a Series C financing,"
+publishedDateTime: 2022-11-02T12:03:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/amp-robotics-raises-91-million-in-series-c-financing/article_6bf8ef39-adf1-5464-bc4e-f394689b810f.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/amp-robotics-raises-91-million-in-series-c-financing/article_6bf8ef39-adf1-5464-bc4e-f394689b810f.html"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/2/5e/25ee0c42-29c9-5b47-90c7-d75373b8a3ec/63626015dbfe0.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Louisville’s AMP Robotics raises $91M in Series C funding round"
@@ -54,6 +60,6 @@ related:
       domain: afp.com
     quality: 49
 
-secured: "7LeRw5LEzZcq8miyl8F4UUWx1roD5dKOZLNIFXG1BpcDEOuHschg544E3cFIhIAii5z+Rp2de0+NSU2r1ETOMvXAaFjvcCcVAnv8X3ITLpZB2QqwaWGuualhG8qW1dtTmqSy4ZSuiR12XGM6YPa1J48bvS/T1fwDE301xBjxA4qNG/L4i1bJmHXzizL02v2peomTgIT6/+2/MgTYKdCdrJ5+ZQVXKZfsxEh9fTlizihPdrAxSlx0rojl7RYyxP5XTRLhRoiowF0JbdjNSBR021qUB/443HsGtl7dZCgSzapDDjjh3QgmFa84PYHlIZY52kyHq7NOUCEAFMiwQyU9wrT/3EVzExHV32YizhNdkZ8=;Nlym/bMLEGbGukHW4m9UUA=="
+secured: "qMyoQx6EeSlJ2Ld5O1UyEgnznD7rt5/mEP9Whyign/IbLhTGSh1H3YdzCdQ/ONIU8wAPEJH6KrqekjTfYF/fpKvaOxmZpVYFVk41VNnVjclQYUo5w+5uzjRkTSY2FPQjN3bs3oSDwNfnyQ/sueZqjbYs95i6LXT1afnKF6jvTeL5MPuMs1EplxW1yoA/BtNo6FC+CmNAiXTcMYbiCTr8RetZ2nTiBxijXCiWkzSWNaHzqaQ03TLAslIKDxVfhPzVGahj91kEchqXWUJoeOCTbS3d8XmfMSzKX25OnmEAD0/Cifk1qGdl1krnD+P3GZ+kH0brp4Z+0reDsL4roP/X4Xavh88x6PcNHAiwpJ2+3v0=;AjAEAdVpMShLz3X4Ifw+wA=="
 ---
 

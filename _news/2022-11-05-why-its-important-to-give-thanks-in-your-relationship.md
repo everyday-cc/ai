@@ -3,11 +3,13 @@ category: news
 title: "Why It’s Important to Give Thanks in Your Relationship"
 excerpt: "In long-term relationships, it’s very easy to downplay the importance of gratitude. The constant interaction of give and take means that the need to say thanks really doesn’t seem all that important."
 publishedDateTime: 2022-11-05T13:15:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
-webUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
+originalUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
+webUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "iY2uB9MqLjcCAOABmGa6FPuw//m58ishsXrlO7N0BnCyYmnSTcTPDJOPPCLWzhnPERwb7Pq7hMVYN8cGAbNJhP8AqlG+UqXAMlTnzD66bLtgkpmR8ODvzxFe5F6SkFVQnglVa2g32K28OZBsg4Cz7Sht+xTEBeYjy+84kLNkIxLJ2HLIERRwaGfm63kYxYLdV5gUyyILffARW5mXf83RTi6rxzXaM4KVvyqCipfVcbPtjn89/YBvPPkZL8dzycPHV1qDy6jgZZZRU+zF+w7pM0Kl67LrQvV30J6Dv72OWOgTzhM1EqbVVttFho6Eag1JJJsI8N57YI4GVKgRzDVLPMupUiWMPM2jWQi4CKzVlomtIuclu4i2fByzmasjvHZR1pIzOKKhduNkoOY/vYeNyGiCiEKpRRDx9WiKhMd+FmYfhqDjZbOcS8yITs+ZhFhu2IoBQZ5ZNK1cwSmA3ODFwmQN7oJVUeuOVIKkm0d45fTCFGG7JeB2FkIAAiMVM6Xq1k0/1FpueXmJKFo/s6vWMg==;pGVi8SEv7b/ZGZHgLpaYGw=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/gratitude_wagner.jpg?itok=-zRAFoC5"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "PU1A8mC9FMNa2uKfRuAbr464Mxp4wLzJu9KS38MgiFaBMTCz4UjqQaaBfddalxsLeevxvPz3z590+idVITe56a/el2SGYZAN/UCMZBAabQapOfJdG5AGXaoU16jUnD/PdcLtrDq5rxwY2Aya1/90A33D6wQo7+rTwg9tbWUese1sbMzDxVamWtMHHYVqdpMfq9yu96G+ZDTbxjLwkwn0RRHpy5CQdwGkf2rsmRYdsZnlMbH9RgRvYzJOjuc/W1MIBxDAvh2ZwQ+nDlaoLEIxX3xTZxoUE5Kw711nE5+CLYBYDL1IpWvtMTrJGT97SQuJ9NBJvLw5XrljrSosGTCBR4eIgYDnDmv/TTSmKgWSgrQ=;jf723K+z/BScb+6Sl1/zww=="
 ---
 

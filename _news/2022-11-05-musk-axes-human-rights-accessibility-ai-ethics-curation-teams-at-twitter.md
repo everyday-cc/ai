@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Musk axes human rights, accessibility, AI ethics, curation teams at Twitter"
-excerpt: "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest."
-publishedDateTime: 2022-11-05T04:59:00Z
-originalUrl: "https://telanganatoday.com/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter"
-webUrl: "https://telanganatoday.com/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter"
+excerpt: "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics, and curation and communications teams were hit the hardest."
+publishedDateTime: 2022-11-05T01:58:00Z
+originalUrl: "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html"
+webUrl: "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html"
+ampWebUrl: "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp"
 type: article
-quality: 52
-heat: 52
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/11/Elon-Musk-to-cut-half-of-Twitters-workforce-Report.jpg"
-    width: 1280
-    height: 750
+  - url: "https://www.thestatesman.com/wp-content/uploads/2022/10/5b7ff37ea082293c9b57c8f1b95dc3d7.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "MKmhj0GxAUrWufhSkbLm1BRx/O+szhB90SdSZK+zNBrhidMg1UgUB5SDCMdIN4FLfkhwSwNSOmmPDlrQaoZMXa1WfiKCu64CtHdbIW8iEbEjdgF9BwVOKOBGsZ7hupvbmNpXgvoTCUvb/sO34+opc7Bf3Xe1IFk6vWcT7FC2cv4leV74Yc0ELsUFIBs97G6dAR6F8sAPI88/ZCESNrWnPHlFOWyohNAExfbLKTkTYuez3gY6cbpVeIs6Y3YjearPZhUpr8Z3LsXoWnvPl7918ozIekt6Xyy9MzZS8egY05Q+381+UmormW/UMjNrwgHyrKTq0a8TVb2dEH640rwJNMnMv8J4O+sUzV6Bb1dp3vPGjYf6MEiZzbmWke0p5T6GPkvwnJlYqrlGMvFKT7VGIzqyV0ctl5TEBphJ7KNq8dieBzm20Z06sGqlVVz/uhO6NNpsH2TETa7Cc/J7FBoQ1THsfpTpuFCstd2mW4hx7HRlZUooNC45dpTIajOFoPpMStltKVPQuq312WtIcHUzCA==;PKwGkVORr9XABAt/JOBe5A=="
+secured: "hg/pOzBOwf2cOGEYbork42bAIrBESrzne6HxEKq+cQBvogQMYQF4jx0AcSFen6rKvuYgtL+H7vPEnK9cuy6BjGia/YJXqcok2/sq84fozgGqLYhuBotOBZ+hl7Vvut0a8H4IDUBfIhkhGM4uhuNgb9ri7WgIkUtG5gDqmQCibsxHzIjyV/SJUp2Z4iKfmn6JM950xrAHyJ0q9vL/EO5sHPSsKoScqnPi/g+bFivqdhVGeaexF1egNuV1p+QsfNqlMCeDq5qHrIqFX/4JbPpYldoKqdLDnA4u4jei8uIiT7QS6wN9oIRJr5Y2CHAywZkPVeCK5a3leoe9LXlOC/2GL3FeQOYYCjU2YqEb+rWX10c=;FXiwzkJ2TyLtX+1unOrcbQ=="
 ---
 
