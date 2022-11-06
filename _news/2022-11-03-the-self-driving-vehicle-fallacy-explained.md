@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2022/11/the-self-driving
 webUrl: "https://eandt.theiet.org/content/articles/2022/11/the-self-driving-vehicle-fallacy-explained/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 450
     isCached: true
-
-related:
-  - title: "Waymo's Self-Driving Cars Are Now Taking Riders To The Phoenix Airport"
-    excerpt: "Waymo, the company that specializes in self-driving car tech and that first existed as an ambitious Google project, has announced yet another major milestone in the world of autonomous driving: paid airport trips. As of November 1, 2022, some people have ..."
-    publishedDateTime: 2022-11-02T01:39:00Z
-    webUrl: "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
-    images:
-      - url: "https://www.slashgear.com/img/gallery/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/l-intro-1667350825.jpg"
-        width: 1600
-        height: 898
-        isCached: true
-  - title: "IIHS: There Are No Self-Driving Cars"
-    excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving 12 percent of ProPILOT Assist users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
-    publishedDateTime: 2022-11-02T21:05:00Z
-    webUrl: "https://www.chron.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/30/13/52/23116424/3/rawImage.jpg"
-        width: 1404
-        height: 1112
-        isCached: true
 
 secured: "OLbbQuEhLfsm8o7D94YMrFCs30Qvnf8hFUgws1PQle7o7aEHiWGw0MAR/SEzRxjp3W9EqJWhLyeDXV5ZWe2XNt97HMARAIDtWqHgKFSzsoz8N/JeqVpVSGlIHvjB30EPAoeW0uT3GDA/SFbqaCIk+QpumscLT1PprOs3GYDHZUD17gMILedrmRYe5nVwWch/NRbmFO0jeQRjFAPMR6IS3GIrEqJkCWjh7te24IuEwBvch/6I/ynRERBBbNAGQ0/SGE68GO8GQJSxRFjPZRoD2elwg9I+CpPmF/cwzAr1aXGe4r4hH7Lmhgo4IvMl3OvUwQbq5uV4TkaEZXZwN3kC/tjAjGsGUqBovEG925uwwxI=;CNTvAm8dxIk8G26hpCa15Q=="
 ---

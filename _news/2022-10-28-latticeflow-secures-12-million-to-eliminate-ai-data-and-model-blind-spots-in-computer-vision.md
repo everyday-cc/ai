@@ -1,22 +1,26 @@
 ---
 category: news
 title: "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision"
-excerpt: "\"LatticeFlow is an enabling technology that empowers engineers and companies to deliver quality data and performant computer vision models that work in the real world,\" said Petar Tsankov, Co ..."
-publishedDateTime: 2022-10-28T08:08:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
-ampWebUrl: "https://www.benzinga.com/amp/content/29453267"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29453267"
+excerpt: "In the past few years, computer vision AI models have surpassed human-level performance across image classification, detection, and other tasks in the lab. However, models often fail to work as ..."
+publishedDateTime: 2022-10-28T08:25:00Z
+originalUrl: "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html"
+webUrl: "https://www.eagletribune.com/region/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/article_46f4317f-23b0-5fa2-aeb3-06683314c2ce.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "grpAY2wJvBP7u+MyuZO1St2gzG+Cv8RpPJR34yCS0ErPqmzo2Qc6KBa6MIgqjnvndwHcf/zJq0d1q0bzztD+T2BSZum42mJRRbTUKCOITfY4ja139T1SUJFEfDPhbqMaepP5fFiSDHT1nW7s96dDKVrxWGAG01qyQ1yNr4Xn0Q8Bd8lB2DZSyGzZJ22aQTueb9J5a0rnvRUluR6Vgn+lRJjuWDBA6szfyJRgTMROxaU5A2nijsQRmf8aC+TwqX/oaS8LHzoeOE96rjjJLAXxgXJwsYoAfFeT181SIET9YzI+dYWPdm1rG4D8jjr2P+UGG9Sar4fRciKH6KfBzENba3tYFN02KaFKttlttHu4eF0=;HVvZaQw/nu2BcOubp90QGg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/bd/7bd4c58c-f9a8-5e72-b4e2-08b7e1ee9324/635b9083a776d.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize"
+    width: 960
+    height: 504
+    isCached: true
+
+secured: "Py9irQWOrwYv83BSGL4mNFQfDrsy8kfZUlA/Q+1kohMv0SDY9OjMNAL1zTmta/uhAgFL+GxsVPyIQZXci+SbiZgISoNBI6hb3wtsyA3XUDXsHky0PYOe4szq49qIjaV74CVAF8RPwUzwr0NZ/++pm0gOGqo2MICDQcPtWQ2mNQRqh3rneOh0mju4ogo+5kW9uEbVuQR2vAi004pbFAjHTKJdiVCi2XGV1faIlcXyeqdkSc0DRDhcWYSL7Tz8nh/JyOmN+fWTiKjw74djvgqmtp2YXR4tx3v6cZcYRoNVtIEz8Jia9Oddv/37+0IHKIAO3FEiWDB5oCViA5f2Lg7jn9o9Xv6wQFvIUhXvxsp70zI=;5KvTYBIVu9DvzIqt/AWZuw=="
 ---
 

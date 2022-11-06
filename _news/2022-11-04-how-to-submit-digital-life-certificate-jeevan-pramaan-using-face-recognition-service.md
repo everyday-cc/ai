@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/wealth/save/how-to-submit-digital-life-c
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/amp_articleshow/95292368.cms"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Jeevan Pramaan Patra: Here’s How Pensioners Can Submit Digital Life Certificate Through Face Recognition Service"
+    excerpt: "The government has now developed a Face-Recognition technology system based on the Aadhar database, which enables anyone with an Android-based smartphone to provide a DLC."
+    publishedDateTime: 2022-11-06T16:14:00Z
+    webUrl: "https://www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/"
+    ampWebUrl: "https://www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 38
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2021/12/Good-news-for-pensioners.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "CTtzX40xpt6VIYDtNNwWpXJOPx+oionAIRupZOGqpoWfhnrueCXFaijZAWfjqreEcwc33jCN5Yck/V3VpMcuMQO+T+0okRY/Bv2cESrGJYwr9+JMo85DRBX+jT1S5iXKtD+p5Yh5pGHT+zuAeFGJWfwc77g0LA5RQQADyd5gZZ19lJnm1LgJgR5dWnApdLhyQzUhZXWMjZQqZuyDezJHHxTG6ZcMOJaZBElsntui07JdDOxmlWv0d6XRzoKHnv67auncJuN8PiQAfSSuiMqWey+luL0WwMEBiBoPXtAf4sk72gBIhndrx9N+p3P6yORDwDR1T2OuVNt5BZUGp+BpiopYxlZYMGXEmlWZjKTm+QXy/7e3lQt/2xMOKQo9MPRsTeEbbYzVAVMh6TGbD59nJc+Er57SqnPdy5yHc73QZnQ6AnKsWyVIKWvRJWWaMy6yEg7ADGEcGt7A/ArYLk4VG813S/2FiVa9gCmffS8T0XHsbAFQAt7DNK8JkHUfhZyLd0UtOsEkqyuys2AlkyrMVg==;wV988ApSYwkmrX4w7Mzekw=="
 ---

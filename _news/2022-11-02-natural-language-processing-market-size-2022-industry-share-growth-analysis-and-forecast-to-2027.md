@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2022-industry-share-growth-analysis-and-forecast-to-2027-2022-11-02"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MarketWatch
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market: Industry Analysis, Size, Share, Growth, Trend And Forecast By VMR"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 02, 2022 (Heraldkeepers) -- New Jersey, United States-Artificial Intelligence in Manufacturing Market research report is an asset for analyzing competitive development ..."
-    publishedDateTime: 2022-11-02T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-industry-analysis-size-share-growth-trend-and-forecast-by-vmr-2022-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
 
 secured: "Rz3s9HysyimYvEIJijQU7dyBmDZaQUkxcH4Qutbt1V6BFHR/2urO5BFii7zwijKM9snMynBDb1myidQUwELg2CViGcUD/F3gPrF1GDFgSDJTB5AEzdQwtHOs0h+j0jYANgzA/0EuE80ImexW1p7AZanh1uXxUcUA79xRbXpPtCYNfrF8OYMGHdQQIB35o2zvElbGc3b91KjaIOHOSabOXBjA0q52G+VXKaEQCi/mIJTVfoq3EZsTgnSJuJdruIhSLv350E9+tvKGY70nhOKXqMzufrV5wQ7cyMMFjUwfyQzVfUvhKemHDcXPC4Q3hRpWXpdLopltafMaY9sJYBhMdbZr8jBoHIyBzivQd87bkCw=;Rg6wfIrD9j9qimG7mBwfEQ=="
 ---

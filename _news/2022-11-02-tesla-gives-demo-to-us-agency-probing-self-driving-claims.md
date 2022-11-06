@@ -71,17 +71,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Tesla’s Full Self-Driving 10.69.3 Update Is Full Of Big Changes"
-    excerpt: "Tesla customers who have Full Self-Driving technology can be on the lookout for a new update with a lot of big improvements. As of late October 31, FSD Beta version 10.69.3 is rolling out to a small subset of customers."
-    publishedDateTime: 2022-11-02T00:36:00Z
-    webUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-10-69-3-update-is-full-of-big-changes/"
-    ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-10-69-3-update-is-full-of-big-changes/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-10-69-3-update-is-full-of-big-changes/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 39
   - title: "Tesla gives Full-Self Driving demo to state agency, tries to keep critics away"
     excerpt: "The demo of the system Tesla markets as Full Self-Driving was held last week at the Sacramento headquarters of the Department of Motor Vehicles, according to emails Bloomberg viewed via a public records request. Also at the Oct. 26 event were a ..."
     publishedDateTime: 2022-11-02T19:17:00Z

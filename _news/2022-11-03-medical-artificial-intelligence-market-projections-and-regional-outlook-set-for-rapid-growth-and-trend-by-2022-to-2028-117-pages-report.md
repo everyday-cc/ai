@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market: Industry Analysis, Size, Share, Growth, Trend And Forecast By VMR"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 02, 2022 (Heraldkeepers) -- New Jersey, United States-Artificial Intelligence in Manufacturing Market research report is an asset for analyzing competitive development ..."
-    publishedDateTime: 2022-11-02T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-industry-analysis-size-share-growth-trend-and-forecast-by-vmr-2022-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
 
 secured: "eVWX9iTRfFSjZtcwuNIO0SlCQ1u5FVmVxF85PlKIx8NuE1gC8YHURS/UAV4Tgw8ZNU554fCDaNRBnFJrlr7A1K9AKT004n7UJn1xItYUU7xXQ/AojYyoOAWlpTsWUMVHVQYll9yeanvymmPCZ5oKgN5P+HPbjZRmaFikuTjVIwiIJozC7Lu2gCFHDdSSjyUDg5HbdVl089BrFgTKq+NOFG7sE7xPaIWMXOhYwlXEqdSMDoXIXcyy7oXa+/K9NXa5VuF5VhTnRtR4HGn8VmQ5KvA3cGIZyhCJg7AzhMwNi00njncT6to6NFw9r3lUXYtaN/tiqPh5W2xV7NdL8uKBBRq0lWCJg1g8AvCr6+xZvlY=;Cz3ay49e/YyP9DBDnRabwQ=="
 ---

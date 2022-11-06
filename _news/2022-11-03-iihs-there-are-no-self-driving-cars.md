@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo's Self-Driving Cars Are Now Taking Riders To The Phoenix Airport"
-    excerpt: "Waymo, the company that specializes in self-driving car tech and that first existed as an ambitious Google project, has announced yet another major milestone in the world of autonomous driving: paid airport trips. As of November 1, 2022, some people have ..."
-    publishedDateTime: 2022-11-02T01:39:00Z
-    webUrl: "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/"
+  - title: "Self-driving cars are ‘nothing but fantasy’ – Britons roundly reject idea as 'madness'"
+    excerpt: "You can unsubscribe at any time. More info Ministers said the research within the inquiry would include the performance of self-driving vehicles in poor weather conditions as well as their ..."
+    publishedDateTime: 2022-11-02T16:40:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1691138/self-driving-cars-autonomous-vehicles-poll-result-spt"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1691138/self-driving-cars-autonomous-vehicles-poll-result-spt/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1691138/self-driving-cars-autonomous-vehicles-poll-result-spt/amp"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
+      name: Daily Express
+      domain: express.co.uk
+    quality: 36
     images:
-      - url: "https://www.slashgear.com/img/gallery/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/l-intro-1667350825.jpg"
-        width: 1600
-        height: 898
-        isCached: true
-  - title: "The self-driving vehicle fallacy explained"
-    excerpt: "How will self-driving robotaxis improve the world?” The short answer is, they won’t. And yet robotaxis have long been the primary focus of many companies developing autonomous vehicle (AV) technology."
-    publishedDateTime: 2022-11-02T17:34:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/11/the-self-driving-vehicle-fallacy-explained/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/19732/applied-ev-blanc-robot.jpg?crop=0,0.43750000000000006,0,0.070312499999999931&cropmode=percentage&width=1200&height=450&rnd=133118786880000000"
-        width: 1200
-        height: 450
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/self-driving-car-1691138.jpg?r=1667464504426"
+        width: 590
+        height: 350
         isCached: true
 
 secured: "fZ5bkEJSN6w8dZl6ZQFgX0bS/xneJn9XSJGWADDsIGZuKL4GPrRBbm48/xUVJqBOEW1AyqgRVSKkiYil4uRJNk8IgBQpBaEZZgllp/IOfZlRlZev0WL95pZ0TtKsExVYPpf8OhURnPtVCXG0LNRfmtdmSP512AqB7FpfbjFDtT7CuObGauvc1DmMz4zCGSNOx5C0dHbeUSZWMrBddJaWdft4JE0S3pY6tYUzeynpLzbdy/rMm3AuqizEN15xgrA4MvgOhYyuYJgLeyhab4390bZyQA+PBILHbXLlsMs6xyIxYW/TwUrPikVhXzeeQmJP+yGDQwrv2wL8o4R8My3EXsrpXVwmNyaK159qQhg5cjkYv2uUVPKJwqJcAyHCbNWCDRaZcokynOa9N6sMRBVcvTB0ozBbxRJjNV47lHoIhDERa6YP2n5pdTuO+L9msyYkLgmUZ1z41lmL4T7GtRgrkrBWqfYe8ZxP5uiuVTJqbiQlgB0F+C+0vmZfjP7wzJNUs0L3ggelbZAD5gLzh3w9Jg==;5CN/x37JaT+0tD/Kkpw1AQ=="
