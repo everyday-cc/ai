@@ -5,9 +5,11 @@ excerpt: "A study has analysed the difference between mainstream and conspiracy 
 publishedDateTime: 2022-11-04T07:05:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-warwick-the-conspiracy-theorist-worldview-and-the-language-of-their-argument/"
 webUrl: "https://indiaeducationdiary.in/university-of-warwick-the-conspiracy-theorist-worldview-and-the-language-of-their-argument/"
+ampWebUrl: "https://indiaeducationdiary.in/university-of-warwick-the-conspiracy-theorist-worldview-and-the-language-of-their-argument/amp/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-warwick-the-conspiracy-theorist-worldview-and-the-language-of-their-argument/amp/"
 type: article
-quality: 0
-heat: 0
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "8QRtcb5RZejMGx6xwnnmjiZw1UUGrolOBxLqSTH+VsoMt15tISEzBEoVJJY3GCat8PTek7YnGVk73avbZWq2X6N5/RTUbVy3zcJOoyRpqD3ssxmhcLHiJYBcfTqbgSnmW+WsafQqa+f1BfJ+9r3nJAexVb1HTGP+qL0NKfZW9pfv4wPFqwnifOZcISvR+moDs5/RhndTO2THWPPpkgTANPc6oQw8TdHKw8neKMcO0DGcl25QBes83ZN7V9xv4MlIS24iaha1d9nZ9hi35tlG2LOY4nNzioxTO70OWlpmA8Wy5McnixAK3cEezDUWyD7wDR82GdzMV7ttb4iJ2yuhOrPNI546eOPjJhCYwP/cn/0=;rzDQLZ6GVkp7tKlWye5qBw=="
+images:
+  - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/University-of-Warwick-new-007-1.jpg?fit=600%2C360&ssl=1"
+    width: 600
+    height: 360
+    isCached: true
+
+secured: "Ex4oE+ZgVtqEuU3SP369ehsRZWdeqMPhvNtLRcjRFvpex0GaeqWm8v106Ihh2jShUWu/i4hak9mhnHMKX6jv1oNQTVO2+UUlx1FFBRc+TCSftQAu81WhngrDkb7EZYyIpxfD616L13r4AbKZAbXSxx4k6Xj7KXyGZ94UfKyF5FjUQ3NkzQm+Tg9lXOjd1/Kom5Fdje3+q7ytMHROh8k4/xmUVE1dIyejptubdEnc0R+rR+S8Wl+Ws8rkRY00DkeG9rHmCebB3eLjVJGtf3G6HeJlFD7LHBfZiPlHD7RnDi4/9umMsG+0m7fMIDD+Ml9I7rn2zgq2OSeg3FE/hirGTFdvcWQVk1aGAYAf+spbjnE=;3B3UX3JH3tggdemZMCZV5w=="
 ---
 

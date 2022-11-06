@@ -39,6 +39,6 @@ related:
       domain: benzinga.com
     quality: 23
 
-secured: "+TR41C4mbdPbEezXZs1e4EqEMGcKGwh5yHIkC5VEv/I2dDnrpWqIancyy6+eVscnEveywaMmy/pm5r/JC848JnlkYZ2/+1rtKt8YFXTtKHu501jG43LsnzbKtJaU32d/v+7VVCj59BQuarssSWltVLF8jONM0JkrMF8E4AiF8nuWe1FvUZtdfft+LzalKh7fpVxovb5Wb7RJ8V3XodD3TQfYLgqnmrYLpxzBpqtqj7L1Yqkev3I8Eou1zeUyQdIvoTfUzo5sFaGmDz96LvLXLnQmTlwOCa1B/B2b9vGSgASMliLh7beWjc25D/EtswNZTILmA50H+Ou3xkUVi4DKuQCpp6+Q3xN9Whc6R8ZxJiU=;NIQn+jYLhe/pOdmTL7FpCA=="
+secured: "k1pGCQNcLvyFY41ZbswaXLJotxWjJ0oYlBcxlZP7lRQMNjctb7AzK8PDlWFIVyL1Wnd9mYWQUcIxBQekaSUTf5lpjXPP8nLobFAVLf+hVGWvZqwf9QEPHfylPxXSM5Hnm3nrzlsWvJ60r4RjBwCjnbNbGszCSzbqSgszm1Nc6QpNsyqE4TaD9DIF+A1O/5btkTsUnlDw/Z6ixVqdL3WTVkWdydy9HE/JwORjvtuxptEU7Anz5bxav8yHqB0kSCHQKSw0w7zHjLrHa7P/Q1NdvpA5ML6UOZ+LQtQE4AjkN08xWK+FtHCLGJIoQ+lbSYS0J4EhdpvhWSGBCoAbGEprCFf2AwYE8+SAFP4zaBqE+N4=;xwH1gSK5rH16/mrcgP89zw=="
 ---
 

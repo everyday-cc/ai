@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google snaps up AI avatar start-up Alter to compete with TikTok"
-    excerpt: "The silent acquisition of New York-based Alter, previously Facemoji, is seen as Google’s bid for the metaverse."
-    publishedDateTime: 2022-11-01T10:21:00Z
-    webUrl: "https://www.siliconrepublic.com/business/google-alter-acquisition-ai-avatar-metaverse-tiktok"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/a-1.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "8B38/qiuJVersg9Zps1mLLCRnUeanGsqq981icYFfnJg/uzUuwDgbWXbxEiiLtmfnS1OH5yjvzG65JejAaQYkUnDdooJEvFZVfFJR9w6Jb72PBsG1YCmzDg+2ql/JXh5QQacbLu9XLwp9wy1SgY1jDthnT/JOhmi09OnyHPXJvG/s7CJIMymi0g7xllEI85no+9aYZ1wIHhlPPJodsrEQfTE8on1A+uTs35jIXA+8ofTiH0G/dDOk5UzK2VpYarBJ96DT5V2biBVyiSR/BqW3sJun7yhIcMbEb0Wtpbz8FLyb3ksCKrUFF/Gwpq/trcIdNbvXKKNMpI85ad20HQM3mqT35jcdNrYno47rHEw+ew=;qmWEIM3QftAwC3Tv8s5WHQ=="
 ---

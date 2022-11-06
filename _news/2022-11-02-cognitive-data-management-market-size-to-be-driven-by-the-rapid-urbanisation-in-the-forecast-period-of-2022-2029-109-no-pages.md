@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-data-managemen
 webUrl: "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-to-be-driven-by-the-rapid-urbanisation-in-the-forecast-period-of-2022-2029-109-no-pages-2022-11-02"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Deep Learning in Machine Vision Market Insight | Pre and Post COVID-19 Impact Covered | During Forecast Period 2022-2027"
-    excerpt: "Nov 01, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning in"
-    publishedDateTime: 2022-11-01T10:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-insight-pre-and-post-covid-19-impact-covered-during-forecast-period-2022-2027-2022-11-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LDrd1Nf6F3/PhRL9KiJGprx39r+UKGpGp/GoCYFz7Q4swlEHtPKCEQeF19U+sVKDGfbyY4Is+ZSfxqf78LoAgrm0KGAKRadZ9+pQE9bmXtgQ/AuQd+qEAIMMzTLIuprTagp3bY0Nw226BFQet4IF0uO6CSaT8G9wEBXAQ9jeqQOYGQsb+x6ObnLk52dy0BHceDMJhNhAnW6Mb716lY8CLhvGzujygCOKa1RJ4nfrxwLTJzJ5W4pbR+C6O3SQfIGUnddvdsA/BJXSE1BSH2YNl86zuaIEQKN8R7Y9qSKGx/Cq9MyucWNcXTDUjzDA6GBpnnWFcvthenI/PaAytF5rUC/SRiLL36AzW4gHTpWAf2c=;RHU5kuddphxwb+jm20Hgfg=="
 ---

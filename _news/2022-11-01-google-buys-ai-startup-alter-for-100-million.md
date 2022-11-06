@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/google-buys-ai-startup-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-buys-ai-startup-alter-for-100-million-9428551.html/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: moneycontrol.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google snaps up AI avatar start-up Alter to compete with TikTok"
-    excerpt: "The silent acquisition of New York-based Alter, previously Facemoji, is seen as Google’s bid for the metaverse."
-    publishedDateTime: 2022-11-01T10:21:00Z
-    webUrl: "https://www.siliconrepublic.com/business/google-alter-acquisition-ai-avatar-metaverse-tiktok"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/a-1.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Google acquired AI avatar startup Alter for $100 million to take on TikTok"
     excerpt: "Per TechCrunch, Google acquired Alter, a startup that built an artificial intelligence (AI) avatar tool to help creators and brands express their virtual identities. A source familiar with the matter told TechCrunch that Google bought Alter for about $100 ..."
     publishedDateTime: 2022-11-02T09:43:00Z

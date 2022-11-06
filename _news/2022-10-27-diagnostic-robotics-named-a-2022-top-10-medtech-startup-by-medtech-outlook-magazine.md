@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine"
-excerpt: "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ..."
-publishedDateTime: 2022-10-27T13:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067"
-webUrl: "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067"
+excerpt: "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions."
+publishedDateTime: 2022-10-27T12:31:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/27/9700934.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/27/9700934.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "auSFPjj4NA51B65LZmkKPJ/zD53POk+48/r8H9b1WbGnIAs/aMWGc42KEEry8qxIaYctVV+jfjQOv4u4pJJXljIYZTQaPR+LyAp6JpBnSH7oemhbx94nSJPddskAQMtxryWdSYXACtfQSrCetjV6GhvOCZv/L2IcMhVjEerEqwICR8VVFakg3KH+cgQLqrYDJ6YspkopINWWA73OYAaFQpCltFqawBJ1khfdmn6MCzVd9hbke9xH1c62rimOUG457AJvpXxmXCMtxdZ+EBHhwvVbCoQXRjM6Y11JVgjx7POY10nCOjq7X5yydgbsM+wtgxqiUDwAbdX75utt2ePXrn1zuAcy5qylUitoOX0DEpk=;EqWjXyZKkADf+dPN41Cg/w=="
+secured: "4NjwK0JCEsp+yVaUmee3Dv7NE2klrtctd6xQXvkvrqCv01xDpAolDQa/ulnAC245mr91+36kWEFKkiZ/dZ5UtTXHmo6lScOL4546ph8ZOOsoTQNpWUBQgg/W/xGOkGgFj3xC7PkDuHFCtEjwCkmksUEqA95/sGncqtLiFUf7cuwQi+SBQ5etZtDLUADtOQF+NaHvW1ykHpYOrlNjwNi+lG/dY2mjv+G7XCTosaQZN2aqKwHA/zXENIiuUI7ibLujL9fWhTMrHwOiaTBpLcIoOlbVSvQxUsbJilGabMQm+RJJCmoGlRqrh8ko6Cn0WIhzteHIdZfMgHNRp2dzN+gtnls/85+mggmeBSrzLvrIZH4=;zi83nmM41G6j4eLO8Kji5A=="
 ---
 
