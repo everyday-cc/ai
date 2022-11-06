@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: techxplore
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks"
-    excerpt: "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards"
-    publishedDateTime: 2022-11-01T19:10:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 76
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft wants AI to change your job – if it can work out the kinks"
     excerpt: "The most hyped words in tech today may be “generative AI”. The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user."
     publishedDateTime: 2022-11-02T07:00:00Z

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Google Wants AI In One Thousand Languages"
-excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
-publishedDateTime: 2022-11-02T23:23:00Z
+excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
+publishedDateTime: 2022-11-02T19:35:00Z
 originalUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
 webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
 ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
@@ -119,6 +119,6 @@ related:
       domain: thesouthafrican.com
     quality: 19
 
-secured: "b+8EhN1L1ieSoxAcdyo0l8tvXtIlPI77GK57DQ03eCed5EBEsXdwEMwHNSwZPzq8ZNp11bGQt98or7YW9oIGwZ8jmM+vl2yFfIFcWyyJ3K4k317EZAwclbfB9Gy4X6h6gVrZD+i+TIG+2/k0C/B4jE9KkoD0QJf7pqV1I5xj6dC9vBby2+LPcTGVDua2QlRur/i0+iG0wjdRlq52wi6A5ChtU0skfe7JLlCpKypU3mQ4hdQrwXRFIsGoz3WgHrR9YoO+w3jtUyhFtHoAsCZGbRpP+ir/KcBUCd3MWVQ99FTVSnlWK4hFrGZvQfGOCmkX7im1jUO35x0+bjnYvKxaKvqZz+TobJzO1uWjZK77dDk=;O/mAmon+yrOZDiJRF2Zv4A=="
+secured: "CrX6Uox02Ul9i/A3K18MgaXQWZFZrW1A6niDIu+tzzCYruiIkKVcUZRMtdbpgvYaUFnUMy365pBH179b08AilrHDMTpyTSOosnC2rpKG5vEm/dkilL7kZdXkn5JctV6+W4rY7JTDa+8tV1WV5G7Gzt8ws6KX+C5RqIXpWzH8OiXA4N8kHQePaJv8zuDyLh5Jrn70cWYRBRKF1pqoSyg7oNUWuikVbDZBz9aeCwBD3/UDMZBbPltiVKk0BsChm9XSO6tgyMDmVpydLh/9Eb6ajqmfY7EevFINIsnXkw/xpju20kcGEUTUMiOZUoUh7oSt3/1/+en182yMqVPhKR0RL+Xght9e0WSh21Ur7ehAYkI=;NgA0Bmbj3SVidMtI/+o3lA=="
 ---
 

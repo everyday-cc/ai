@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Self-driving cars were supposed to change the world. We're still waiting"
-    excerpt: "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the"
-    publishedDateTime: 2022-11-01T19:52:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-cars-were-supposed-to-change-the-world-were-still-waiting/article_1cb93dd2-f24e-53ab-aae6-d78500a2d2b1.html"
-    type: article
-    provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/b/31/b311f569-2b4c-56cf-bc89-68acf79d0666/63617d11257f8.image.jpg?crop=1710%2C898%2C0%2C157&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IIHS: There Are No Self-Driving Cars"
     excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving 12 percent of ProPILOT Assist users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
     publishedDateTime: 2022-11-02T21:05:00Z

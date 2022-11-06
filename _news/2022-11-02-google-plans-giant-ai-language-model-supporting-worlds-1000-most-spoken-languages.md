@@ -90,8 +90,8 @@ related:
         height: 1500
         isCached: true
   - title: "Google Wants AI In One Thousand Languages"
-    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
-    publishedDateTime: 2022-11-02T23:23:00Z
+    excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
+    publishedDateTime: 2022-11-02T19:35:00Z
     webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
     ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"

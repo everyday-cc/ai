@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now
 webUrl: "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://eandt.theiet.org/media/19732/applied-ev-blanc-robot.jpg?crop=0,0.43750000000000006,0,0.070312499999999931&cropmode=percentage&width=1200&height=450&rnd=133118786880000000"
         width: 1200
         height: 450
-        isCached: true
-  - title: "Self-driving cars were supposed to change the world. We're still waiting"
-    excerpt: "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the"
-    publishedDateTime: 2022-11-01T19:52:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-cars-were-supposed-to-change-the-world-were-still-waiting/article_1cb93dd2-f24e-53ab-aae6-d78500a2d2b1.html"
-    type: article
-    provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/b/31/b311f569-2b4c-56cf-bc89-68acf79d0666/63617d11257f8.image.jpg?crop=1710%2C898%2C0%2C157&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Sky Harbor set to become first airport worldwide to offer Waymo’s self-driving service"
     excerpt: "PHOENIX (3TV/CBS 5) --Sky Harbor International Airport is becoming the first airport in the world to offer Waymo’s autonomous (self-driving) ride-hailing service. “Phoenix leads the nation in demonstrating autonomous vehicle technology, science, ..."
