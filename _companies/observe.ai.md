@@ -2,7 +2,7 @@
 name: "Observe.AI"
 overview: "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo"
 type: "profile"
-heat: 58
+heat: 57
 
 website: https://observe.ai/
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sQwbipcFPYg"
 
-secured: "/1XUUGWMyWOZUnnmiUGpl9/agQ87T0UsZZ22Ga22Mn4FL3HdzbnZiuHJ4VB3s+zEiMWZlF8VQSKWT52aI9n7px5undRNZjailc5hQCqHvRcPikYFjfTthfwJ8uqZJnB7z9GfE2Z5QDunO7VH+UKw47VG4HpGIn6lAWsAniohE1sprmY2c0DHphVjotVpH+iwkMF6QzHwG89xTlCVvSaLdI+Pt9HfmW7ll9kPCIZKx2lw/qQqshXxJVHRAFkuhR765zgEfaDYcerlUPKBsUOr/encNmSy0tF77o8zOnYK/A2nBIHkbqeeQadiHbxrtQeBnClvuM+cDUyInLIhi90UxsWDHL7JGOOHPWcUIlZ3gfXCsRIEbssDoClwwIRYuFAYS32c2cIdxnluY2i9jDJgvw==;rIVz+bPpq3lVbGNr8T+phg=="
+secured: "Nh/2L4RT/ATx8eKcZHN6Osjneuj7W46wzxRqxfuLrb5pQmBSKqvTg9WYsYfskzDOd/QG9OXYOAyQE7rZlI2MZjJrAAT+8PPbU+xiunRJnmzIn1g8GWgm2VhDhB8tR0SeifL8FNRM0X5w0inR5tSafJ+a0vuNYYFlDGi2v5nO/w5yuBxb2YM4lH/pAmBFB038LEucbrPmaUyoMQYzOxfNy5Ifl25cSQKXcuqkINV2H4fa6QIiYAoukCYD3mJo0MAW8yj719zZxPF4gx3955aKCdJaZkb1dNuJrLnB0b2vWTw0UbYEoPD7X/G2aXV3Wjdwm5Y+/pFF62z6V9Bba3a/cUOXk73fJY3ZGhKZX7NwtHM9danCZit9y/urZQcDAfTaBzotNsDzUr1OjML7RbWBnA==;ktzD71xUBhGbiwQzBJdtNg=="
 ---
 

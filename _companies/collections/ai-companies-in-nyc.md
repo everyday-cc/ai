@@ -2,7 +2,7 @@
 name: "AI Companies in New York City"
 overview: "List of AI companies in New York City."
 type: "collection"
-heat: 69
+heat: 60
 
 
 query: item.locations contains 'New York, NY'

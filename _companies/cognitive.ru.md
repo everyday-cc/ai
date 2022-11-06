@@ -2,7 +2,7 @@
 name: "Cognitive Technologies"
 overview: "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://www.cognitive.ru/
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
 
-secured: "pOVF88/5usJnpn2c6m1EdBeiRp6lbcXjZqYFp7P7xfts+/6+OCfR32Mxcl1FBcSZAsVLJH07KCBW8L+t6xjoVq06Rr8QFRGK10EcN62yYPLTgk0dVmx8+NNfGgLvBqISmkbfIrsR65aDVCrQo+Z7fufv+OHJEFionpXajamMs9TadDuX+RciRuuJbMQa5GMzEhBpVPgnfmKG2tZbew2KcSKssgE6wv4TDhu5Ps4Jde6ld/dBiMm9pBww0AE29W5wGBQYig6TKvAC0S69YuNPrHoVQtikshY4UQzgbra/iQOgITPjG4bby6kgUhioqR0r2NX/6W6n4+fWiw1CxK5N8KstR74aQXTQaSiaqTKiAcnXfsVTCB44IDur1AeYJ2bIFxShMN8wY+Qq812sRY+gtZmW18mCkwvc2OPYca7wwCA=;LD5qZepHpYfvUVu9UlJdgA=="
+secured: "FIt6lZ8J1DfeIhBYX/5sbLgCwyU1qUNVYxAWr92z/t1cPcPywD0W9mf32zbYWjz1qa7lMTaUss2+w6h/m4Qret3LtikWVwr9QrGxMzYu5GIoYEX9OoS7PWxxh7qHjvLS+oAL7FmEHfJc7rFtl+tRbRABt6IE3ElL0Qt4TEVe7Yvs8PM1v36YjoUC6YoRaZBReTG6rf1jEeP/dbPItyV/UYTOGf8gFnp9bxsGIktF4zZzJMMjnp9WHSYCMds1IiAaal+W78bEm2T06ENRD+06eyf2NtSN5h8GY84Aeycw0rtgNkUf5aWbNyPPhlOZU+84wtDSIXiIbqgenRz7unjv2Gzg9Wry89Ak9rtdAIZvQyy7gI0TUYSbOS6TYxAXgUVbtblv+qanobqdVBJsWXfrxBT+4copX3l1qMtJyTeEN4M=;jSnC7a76kN5lPxqXtZ6PNw=="
 ---
 
