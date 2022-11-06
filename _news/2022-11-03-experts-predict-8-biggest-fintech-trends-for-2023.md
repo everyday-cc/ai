@@ -25,37 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Fintechs utilizing Artificial Intelligence for seamless payment solutions"
-    excerpt: "Today, it comes as no surprise that we can get instant loans, make payments smoothly all because the accounts are linked and enable ease of access through digitization."
-    publishedDateTime: 2022-11-01T17:47:00Z
-    webUrl: "https://www.indiatvnews.com/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588"
-    ampWebUrl: "https://www.indiatvnews.com/amp/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588"
+  - title: "Chime Slashes 12% of Staff, Marking Latest Casualty in Fintech Meltdown"
+    excerpt: "Online banking startup Chime, which before this year’s market meltdown had been widely seen as a candidate for a blockbuster initial public offering, is slashing 12% of its 1,300 person workforce, or around 150people,"
+    publishedDateTime: 2022-11-02T17:11:00Z
+    webUrl: "https://www.theinformation.com/articles/chime-slashes-12-of-staff-marking-latest-casualty-in-fintech-meltdown"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 56
+      name: The Information
+      domain: theinformation.com
+    quality: 24
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/11/ai-1667324537.jpg"
+      - url: "https://tii.imgix.net/production/articles/9029/40e07f7b-f724-4991-9717-841d13611201.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
         isCached: true
-  - title: "Finanteq fintech solutions – check out the possibilities"
-    excerpt: "The development of the fintech industry is of increasing importance – its impact on the financial sector is growing, and the fintech sector has recently become particularly important for banks. Although the term “fintech” has become incredibly popular in recent years,"
-    publishedDateTime: 2022-11-05T16:23:00Z
-    webUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/"
-    ampWebUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+  - title: "Dutch fintech Yabx enters Nigerian market"
+    excerpt: "Yabx, a FinTech venture headquartered at Netherlands, today announced its foray into Nigerian markets with a mission to democratize credit across the country with its digital lending offerings."
+    publishedDateTime: 2022-11-04T11:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94778/dutch-fintech-yabx-enters-nigerian-market"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/1.jpg"
-        width: 1055
-        height: 593
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "6vAsVh+17Bg85FFNyaprFakWuQZcxqn2+x+FpVAT40X9FEA0+yMN4I4BzKcinWxjyL68m7pM7SIFfI/qR2y85HS5ns5O+svsLxkXEstZhABjso84uDhWvIqXfu19rR1uEi8xDW7hZl36vkpWNxmE7mb3rv1qonPhoWgBzbJJRL/8FxJVomqblBvDBMfKklt/XlN3xo3A49ugUHdv6omjQy76qcL4oX5bjskiLWpfgM/QTyRh2WQUMfrZ3HCenqGqmMM8HIR1wx7ByY5g8FSxRkwUq4WNZl/XNy7IsyuQIjaJmAcTTGUjc1PUquNeNUxtrAAn0lgx89Grt72BPpL06jT/5PsO+NIWIBw+hoto6LxyppWqHlsTwXppHEkgxM5SqqLgvhOs17CC2Tm56Du0tdSFQehp1nmylJGOWYsT+i5rmkIAH3jZVrjXmrUWIljCZ/5//xMIAFIEHB/VhuqZpgQIowy5GKv67kl49vwh3lexBjIep6NNd1BXpPf/DDsoaQEO/kVw3ADROtZmronUiw==;51szwc2zJix0fJYPtvYTtA=="

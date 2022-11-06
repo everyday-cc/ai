@@ -27,36 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Fintechs utilizing Artificial Intelligence for seamless payment solutions"
-    excerpt: "Today, it comes as no surprise that we can get instant loans, make payments smoothly all because the accounts are linked and enable ease of access through digitization."
-    publishedDateTime: 2022-11-01T17:47:00Z
-    webUrl: "https://www.indiatvnews.com/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588"
-    ampWebUrl: "https://www.indiatvnews.com/amp/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588"
+  - title: "PolyU: PolyU’s School of Accounting and Finance launches its first Fintech Adoption Index Survey"
+    excerpt: "School of Accounting and Finance, in collaboration with AI investment trading start-up Asklora, has released the inaugural PolyU-Asklora Fintech Adoption Index (FAI), which is the first locally develo"
+    publishedDateTime: 2022-11-05T01:18:00Z
+    webUrl: "https://indiaeducationdiary.in/polyu-polyus-school-of-accounting-and-finance-launches-its-first-fintech-adoption-index-survey/"
+    ampWebUrl: "https://indiaeducationdiary.in/polyu-polyus-school-of-accounting-and-finance-launches-its-first-fintech-adoption-index-survey/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-polyus-school-of-accounting-and-finance-launches-its-first-fintech-adoption-index-survey/"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 56
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 46
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/11/ai-1667324537.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/download-5-1.jpg?fit=600%2C315&ssl=1"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Experts Predict 8 Biggest FinTech Trends For 2023"
-    excerpt: "AI will also continue to drive infrastructure decisions in the FinTech sector. Chatbots specifically will become more sophisticated and could soon be the future of fintech customer service. In fact, studies from Juniper Research suggest that successful ..."
-    publishedDateTime: 2022-11-03T15:26:00Z
-    webUrl: "https://www.techdigest.tv/2022/11/experts-predict-8-biggest-fintech-trends-for-2023.html"
+  - title: "Transaction Monitoring and the Future of Fintech AML Compliance"
+    excerpt: "The fintech sector is renowned for being innovative and has created some of the biggest shifts in financial services in recent years. Regulation that squashes this would not be useful for any of us. One key example is when it comes to customer processes - some smaller Fintechs may struggle to collect all the necessary data on customers,"
+    publishedDateTime: 2022-11-02T15:33:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-11-2-transaction-monitoring-and-the-future-of-fintech-aml-compliance"
     type: article
     provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 24
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2022/08/klarna-1024x576-1.jpeg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 4
 
 secured: "9juCTzfTRPHveQl7aVEGkkAJqvNA6kTsOxpQj4CceJVK/XMWQPMjb8zCVJcp2lq37dX88Hv3wQzeEqj7Ax6UciUUFWRVlcwoJyjuk35VH2mABC8PcCBp1fkZH+XZludNEJrcNOgRFSGeD9sS+TWXASYqte6D/GWd/ThRbIWHgpHqb26+qVS8+xplcojkQX4s7c9TabhMxwPZ8niLyfyAfumtKB/Hfe8nfFoQiW2HRBvyGVGuXsP4KKQvFQtkgrFN3Wd8T8jsdaoiy+DPtSX07qby3wXPVQhr/d25Jm3c0T7CB4G0uLltBYsTmP0vn7UW0dh4PsoUtz5a5Ctc9Kc7qErayRk/6p+K3V29D+EZ/wvw0/BHfWdCBPJae1nlDxM29pvrQGe+xmeQrGT21VSjipKgJxxg1kLs4t6zGZuSilbMJyFor5qoGo7ihFpVWiXYJ9k2ku3mzsuollbaMXp31V2YrqoyWh09gJgckCMijXq0XSd/cOovE/3A/Hm7sBkOyWniV0/iQljG4uPmmXD6qA==;ECaXpgHrqeb3lYv6YSq7nw=="
 ---

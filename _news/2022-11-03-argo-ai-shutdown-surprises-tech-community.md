@@ -19,15 +19,22 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Ford, VW seeking buyer for Argo AI’s lidar unit"
-    excerpt: "Ford and Volkswagen are trying to squeeze any remaining value out of Argo AI and shopping around Argo Lidar, an 80-person team."
-    publishedDateTime: 2022-11-01T19:22:00Z
-    webUrl: "https://techcrunch.com/2022/11/01/ford-vw-seeking-buyer-for-argo-ais-lidar-unit/"
+  - title: "Argo AI, a self-driving tech company with offices in Austin, is shutting down operations"
+    excerpt: "Argo AI, a company that had been testing autonomous vehicles in Austin, is shutting down. According to a report by KVUE's news partners at the Austin American-Stateman, the company is being absorbed by two of its biggest supporters,"
+    publishedDateTime: 2022-11-01T23:59:00Z
+    webUrl: "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
+      name: KVUE
+      domain: kvue.com
+    quality: 50
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/b0f511de-1e3e-488c-8d76-b76f56eecd46/b0f511de-1e3e-488c-8d76-b76f56eecd46_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Ford, Digesting Massive Tech Investments, Abandons Argo AI Autonomous Driving Unit"
     excerpt: "Ford’s $2.7 billion accounting charge to close Argo triggered an $827 million third quarter net loss. Read what F stock plans to do after the Argo shutdown."
     publishedDateTime: 2022-11-02T16:29:00Z
@@ -42,6 +49,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting"
+    excerpt: "Co-led by Insight Partners and CMFG Ventures, this investment from new and existing investors will support Zest AI's next phase of growth in the"
+    publishedDateTime: 2022-11-02T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting-1031864078"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
 
 secured: "EASed+MD2+Af1iMmMce+jDm2kILkaFrFr/kMI6IDbGEMbe2FavQxPLrWym/IhJZIDh77bBSX0jTl2Ycl3oU4jki03/CjCUpUe0J4PnCB50r3bj8nPIdOtxlwwFU+yiymCciKSlxDN/rrexCtl2HR+9VJ/vZPi0rRNaxCM41Nj72Ftfk7FgMBLMxXMaPb23+WfDafNAO535oRsWfJ8DlVi+SMQg7ek+DNN0PdlEv8spgsGSYBd0q8fSN5zBo/pr4Ux3L3UYp/QVviqEENzse7fCCRYLeZqhYeEFUnXGs1GVtEo9OgZCIA9qnd5RHYAQQyEG6dQWF2xcaxTONdJCJltS2P4FdR75xmng8QY18zi2SMw4FZkKfqM4zvhFByOLyVgpkwn+JaYjRu/1znRN1kR14OTDPcF4cpZ1qsztJlr2cxF9a22Vqq+244AasITwl7WvJYVHVLNLDQfPgMTfgJWZlyRNQc1rpLXcCtme17LZjNWgu1I26XlZTw/okGbOMfi2yXIEjm+iHyWenQ3tqLuQ==;EI/fFjI7BgYiFIB4+WC/yQ=="
 ---

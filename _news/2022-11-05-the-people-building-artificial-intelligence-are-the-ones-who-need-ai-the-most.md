@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-people-building-artific
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "Temple Health using AI to reduce cost of care"
-    excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
-    publishedDateTime: 2022-11-01T16:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "USwkzjruzXARytTCk5Shr/uXr8WpQrrDG/134ZwmELKHzX27ZEUp+NrQ4S/+3QMDJBdh/Cq2VFPD35xoW37VmT3SNXArbtIgc6Uf4zyEVkMqIgYXwegs8jd6ecniVJ++ADg5AjXg0V4K3cYbO+G7qCj7l8+WEfopt1EWDUj+O8z/LbUF9UugrQeMFE7tuSN4E7Xh4JLJt1pZEdrRdxmRlfFyI1eElGtVpabLMGUlNw4A2a8x1+N+VQlwsS+pJ7V9tr5G7N6e1u+awJc49MQQMQpP2OVJ+qDT+es5w6SBmBnS+QPlrljIi74pu1ABLiz4IN/X88HyVZ89UADQZDXTJM/bjZw4ikdY6ZmF+9Ay+aFsAKPX19JDbgXuC6urKyRIOYzfuUM5sQoCInZgW98wfNWsm1NsCz7bLSUKPmAcpXsfco5tjuJholSybCkGvvA8kcjzg1BI2AATodNcnUF7tQefO5auFEBHezOTTy6JcimyI5hKZ4Untd60iGO3FdSNIo/Ut3lW4+lVomOzvyu48g==;godWC09YJMjqrRgPpuQQpA=="
 ---

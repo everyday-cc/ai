@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/65901/singapore-fintech-festival-2022/uob-a
 webUrl: "https://fintechnews.sg/65901/singapore-fintech-festival-2022/uob-and-personetics-launch-ai-driven-automated-savings-feature/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 567
     isCached: true
-
-related:
-  - title: "Supernatural Launches AI-Driven Consulting Practice"
-    excerpt: "Supernatural Consulting Will Harness Business Intelligence To Drive GrowthNEW YORK, Nov. 1, 2022 /PRNewswire/ -- Supernatural is launching a new"
-    publishedDateTime: 2022-11-01T17:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/supernatural-launches-ai-driven-consulting-practice-1031859667"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "r5U/9/RZBfv1OhzIozvooE3bfUfJzUbHYPrR6S+EhEGzs0m5gxhxAo04J5q9QuieXt4RVX1tLUj3hJvjwm2m0ZkVH4307Ce1Fo8wSTnvlu4qWp/tUhU0WkadZ7XXj5+tvor7o4FJI9psc9ozHiuCav+Q2wYIhXB/zxBQJ5LIIIyXdSGUfQGXXQ+iTlSv6ktwKOJHp5sUATPvgYe3YJIY7GdjjUorFQ4R9B4me8VTXpBGG94aPpY/cGf0Q9/1+jEU/6/FQ4IF+AMEHytiBtv7R75zIOWNTQ2i4Ny8TfhI5X7iXJVrJ51M7a5F0My8CcWlJtcv1eTTbx6z/ttFOHrCDc5ufHAtPJsn02B8o1E29ofn9HngoNhr3nw5lW46kPz54cFKLHChN2bn+fcIn8hEeaSsDjrXwCIMbrtGneLfkHQtien3d7NEaWpUwr2MlrhVUGDrF67wzTjKhqXe0DYDHYg0LJPgmylgj5cIuDEC/paNF+N7w3ORzDSiRgtYKmvrlUnChW/2TVQ0SLmxVGQuYw==;lwRqgCcJvMvGwRSLKb1M1Q=="
 ---

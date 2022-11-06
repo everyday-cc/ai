@@ -71,20 +71,6 @@ related:
         width: 1549
         height: 771
         isCached: true
-  - title: "Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines"
-    excerpt: "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best custom machine learning (ML) models based on your data. It’s an automated machine learning (AutoML) solution that eliminates the heavy lifting of handwritten ML models that requires ML expertise. Data scientists need to only"
-    publishedDateTime: 2022-11-01T16:51:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/move-sagemaker-models-pipelines.jpg"
-        width: 1341
-        height: 672
-        isCached: true
   - title: "Improving stability and flexibility of ML pipelines at Amazon Packaging Innovation with Amazon SageMaker Pipelines"
     excerpt: "To delight customers and minimize packaging waste, Amazon must select the optimal packaging type for billions of packages shipped every year. If too little protection is used for a fragile item such as a coffee mug, the item will arrive damaged and Amazon risks their customer’s trust. Using too much"
     publishedDateTime: 2022-11-03T16:11:32Z

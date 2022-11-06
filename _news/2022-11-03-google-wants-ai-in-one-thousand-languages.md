@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Google wants AI in one thousand languages"
+title: "Google Wants AI In One Thousand Languages"
 excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
-publishedDateTime: 2022-11-02T20:08:00Z
-originalUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
-webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
-ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+publishedDateTime: 2022-11-02T23:23:00Z
+originalUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
+webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
+ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
 
 related:
   - title: "Google makes massive commitment to support more languages using AI"
@@ -125,6 +119,6 @@ related:
       domain: thesouthafrican.com
     quality: 19
 
-secured: "A6F9DeryNFVCL4NU6LHAO0ulqomlQK0Jaq7ziK5Z4dcWfIwyVBYFuJb2E9xbR2ntXvzsm4BTwa8DhijnTumHPKONvD4vfCP1zjiZftgdYb3ftpuTSwdMmVsQ0lsItx3Sah38nqV+tcWizZhIN/j02UeA8jlZGLGD0+TcP1LXItvkQD3tmW7iqrUdpC2Z8K8wueY7o4ZLMBABy25zO8L3frHPoWvqkLnIK/TIY+nkEgwYg+dHZ2AAjH6N9ADm6R8NBAMWi16H9vmbsPL6CG4I+C4SvxeMd499aYtnumxSGlY9q0xAe2M6G8KZQx8sXfF/qYwYbn0/FA3YtocroueLShbc0gR+b5Mujti6ddBTUYCdWAgdxXkLSX0mPV1RUk8bB4q62xLdR25iprMQifR4I6sI29Umji6uaa5lGHe7FBGUSvUtFUCsoNsBq49aqxwwwWBoU3E+0WZmOs8ooHz2UCi6u3NDcknphnmsKNWyVRXIZtAtja5V3+jI/aw4uOSFnw4lIwg1z/JqHG1vjtGVXQ==;22wpggiiUiAHi7Y1qdN3BA=="
+secured: "b+8EhN1L1ieSoxAcdyo0l8tvXtIlPI77GK57DQ03eCed5EBEsXdwEMwHNSwZPzq8ZNp11bGQt98or7YW9oIGwZ8jmM+vl2yFfIFcWyyJ3K4k317EZAwclbfB9Gy4X6h6gVrZD+i+TIG+2/k0C/B4jE9KkoD0QJf7pqV1I5xj6dC9vBby2+LPcTGVDua2QlRur/i0+iG0wjdRlq52wi6A5ChtU0skfe7JLlCpKypU3mQ4hdQrwXRFIsGoz3WgHrR9YoO+w3jtUyhFtHoAsCZGbRpP+ir/KcBUCd3MWVQ99FTVSnlWK4hFrGZvQfGOCmkX7im1jUO35x0+bjnYvKxaKvqZz+TobJzO1uWjZK77dDk=;O/mAmon+yrOZDiJRF2Zv4A=="
 ---
 

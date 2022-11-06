@@ -39,22 +39,6 @@ related:
         width: 1600
         height: 898
         isCached: true
-  - title: "Self-driving cars were supposed to take over the road. What happened?"
-    excerpt: "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the fully self-driving car. Such vehicles would usher in an era of consumer safety and convenience,"
-    publishedDateTime: 2022-11-01T17:04:00Z
-    webUrl: "https://www.cnn.com/2022/11/01/business/self-driving-industry-ctrp/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ctrp/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ctrp/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221101094715-argo-ai-vehicle-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Self-driving cars were supposed to change the world. We're still waiting"
     excerpt: "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the"
     publishedDateTime: 2022-11-01T19:52:00Z

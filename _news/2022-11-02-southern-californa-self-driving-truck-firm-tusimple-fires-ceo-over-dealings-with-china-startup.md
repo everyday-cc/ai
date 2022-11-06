@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "World’s first listed driverless technology company TuSimple fires co-founder"
-    excerpt: "Hou Xiaodi, co-founder of self-driving truck firm TuSimple, has been fired from his roles as chief executive and president at the company, according to a securities filing published on Monday. The news comes after the Wall Street Journal reported Sunday ..."
-    publishedDateTime: 2022-11-01T17:35:00Z
-    webUrl: "https://technode.com/2022/11/01/worlds-first-listed-driverless-technology-company-tusimple-fires-co-founder/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 36
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
 
 secured: "SFJZtmLCbgwrkEtyrgt2viXJFOZVchIiBw0dBAdEDG0LHwuB4rRlqJyZqPHWbQ5v07EGJHnXggP0VteHVgPmKfXgioTNGB9u8cc733SniGPhbTisieWcVVa1fLI+e8aMNV3AaQP+eL1ZuNzvha47mLnOQF3/av7tZklav46Fe/5fn5XqULXOQI7MWlLJWMlvSrP+zgz2o0l9kbvUaVgcp6EddXd0Birn5wmyQHQvAeHJ9EdHHFgZG5gUb3Getr34iMA87TE9aBFP/H5RAalcnTI0R+4CDA6ZoR/NqHM8OgpSwOiyNwRJbeGiKtTn+LGZRDHvoAyvMEXwqIoB2gwCbIDF7ZCuiOJpBR7O3ctyhbbITdWpiXX20HX2PGQyZowu0n9ekevIRITW6Cxrq0Hz7J/PFWNEd4yWFEw802xzqXVrDX3acXLlix+cGc7DMBtABdDiXbLBovDEiq3snTlLiZqD2IVVvWZB+LvGvjQjHzcLGWvzn78yez1dSUoncHQYzn6x9rK5PVZ0cfglbTMvBQ==;uibTUh54W8Z3MAdQ0t9Tew=="
 ---

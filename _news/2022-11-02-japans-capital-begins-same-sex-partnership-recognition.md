@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2022/nov/1/japans-capital-begin
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/nov/1/japans-capital-begins-same-sex-partnership-recogni/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "Tokyo begins same-sex partnership recognition"
-    excerpt: "They often face discrimination at school, work and at home, causing many to hide their sexual identities. Still, many sexual minority couples say the partnership recognition will improve their daily lives, allowing them to rent apartments and sign ..."
-    publishedDateTime: 2022-11-01T15:47:00Z
-    webUrl: "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna55041"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna55041"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 74
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221101-tokyo-same-sex-partnership-recognition-al-1035-0799ad.jpg"
-        width: 2500
-        height: 1485
-        isCached: true
-  - title: "Japan's capital begins same-sex partnership recognition"
-    excerpt: "Japan's capital, Tokyo, began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed."
-    publishedDateTime: 2022-11-01T16:29:00Z
-    webUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
-    ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
 
 secured: "zTo22sPBm7S11tD89nkE3o5z2IzpWQCFFPAPnaXCrgszJOa+Eyscd7Vaui0RrudUdPQvizBzlHIjK5nJGLUXBzDl6WqI0BymUvp9hM7bMmLqCX6ktwSfZsoDa6tSv+VCLxKZYKYszH2itzB/reEgq9AG1BqG+aFR+VW+stqNJnM1OPEJaPyjAIOjUavilihLVzUQsPSRvUHrxwTorFznldDijR/BP6jukvlU7e8yyI5yqehyDYg0uneQZOLdtIGM2NVunZncD5zIt01sVYiTl/O3iXeHSFDwYky1HhDCAZDucM/iEDFjYlUelmc9H590ukJW6PlvTKEfKq90dN0ABMjA52+DSdSR0FLZbw3HgNlcocAw0XQCcr2A3uIPxGAZfBgY8sxVwH0iIDZGhu4IZsfzUj+5VF96sw5zdXQTykaExokjlfrmj9+2QydyxBSeBDMJKDh3K0msELAyKbJCMci8DbRarMyb3qLyu08qJxI0QAq1qKC8qKMHdZm4UDCk6oUd0AsuhQE0f7B0Azn4yQ==;R1CBFyxRze1jOQkoIoY4hQ=="
 ---

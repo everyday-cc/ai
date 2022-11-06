@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Colovore Announces New 9MW, Liquid-Cooled AI Data Center in Santa Clara"
-excerpt: "The modern servers underlying these applications require 10-20x the amount of power and cooling to operate reliably versus just ten years ago, driven principally by advances at the CPU and GPU processing level. Today, AI and HPC servers routinely draw 1kW ..."
-publishedDateTime: 2022-11-03T18:58:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29554211/colovore-announces-new-9mw-liquid-cooled-ai-data-center-in-santa-clara"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29554211/colovore-announces-new-9mw-liquid-cooled-ai-data-center-in-santa-clara"
-ampWebUrl: "https://www.benzinga.com/amp/content/29554211"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29554211"
+excerpt: "Colovore, provider of the most efficient and scalable colocation solutions in the Bay Area, today announced its second data center location in Santa Clara. Located at 3060 Raymond St. and immediately adjacent to its existing data center at 1101 Space Park Drive,"
+publishedDateTime: 2022-11-03T20:30:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/03/9706232.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/03/9706232.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "retng0CtIlB5ijYbsBtiNjjJ48uUIbUwN8ciO+EUq2cgcNHcX4MxkeZ7tVWmkaX56LYxu19aBhRTX7r1JulEMhQhen+ougdEDeH8AtVNDlIYP3OswipViYHAxRl7WGDja5cOV18Og0VnQ9vf53CltkwT3kB0rNeN/AjZrGXZ+hM8oEhT/S9jBYGWD7OCMsuRse3B/Z+rgB4XtzohH5700wVOg4BOqXSccIBbic7pG7t5JzJs1kkL1agqgPg+eGEkLO/LqoIFQLVUv2NXH7stUOAEuy/zCKQgDe9Uj++8nDUmlIe7Ipw5B/JsijeYNAq1z5JKQSqLdKCjdPFK9CKhvXbnUaHu3WlWfR5jDvy0pXZu4p+31aKhtSR89iWyk76Bj/+mW7WiuZb0SIkPAzdHWNRAaPo163lp2a9TPbddzzjh+lVDDT9xnilMe/62I52JqeUtW1Aav54BKeZOo2D6b8ZHKx3nWSwOrwwbI8wxA3rl0aI+iCqfkg79ZPO9dTxcuhQVLt55lm8/58IvishY0A==;+UI6oAd0H4gVIPNKnjxHzw=="
+secured: "QAekNKgb3SO8B8YF4Qvi105kNv51PXYfI3+NwlLlijSxa6meQZi5C3BkgjtBo3cOissuXLqGYBaFpjwU1vyMZW9hagMSs8OP3d6RrRO/sJ1GpDU/+IW6/mGPzpBJxMld7HJZRf6MUayip6u3it0hYqE9htIgApPZ5B0t7xqjoLhGIz4DparhzkGmBUkIK7N6aoJftkZfxA/PiR01qVJ9FqF55PVCGmkPcbnYzyhxJSHwzfjudG5iOVXpNE6wdbe5Q1ihwBi8fBggPnM/5uOpq2bLgw1tj58Jlj2+dse5kZVkDpGOYZ6KGLSuOIz6YJ8xkwasPbsFya6D6mdrUCY1dPu+PGWjQ0ZsXqKRTGE4XXcA5ODmMt1L5xDWlDZPoofY6KbIEPm8mr6ZXVSON3ELqMqJLlu8ly2Y8Z2nJvPJeIepohvYAM3EZzQZnlFYqhh8Ue2MlzBZQ4c7PpqGwmIV0yVGILrHKzJRMRFxAqqew/5ilqzhNGzxDxRCFAHZ26BzGrHC3JZY0/P//ni0aptqnA==;kszczYD8l34QwZyz0x09eA=="
 ---
 

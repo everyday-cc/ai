@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Finanteq fintech solutions – check out the possibilities"
+    excerpt: "The development of the fintech industry is of increasing importance – its impact on the financial sector is growing, and the fintech sector has recently become particularly important for banks. Although the term “fintech” has become incredibly popular in recent years,"
+    publishedDateTime: 2022-11-05T16:23:00Z
+    webUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/"
+    ampWebUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/1.jpg"
+        width: 1055
+        height: 593
+        isCached: true
   - title: "Transaction Monitoring and the Future of Fintech AML Compliance"
     excerpt: "The fintech sector is renowned for being innovative and has created some of the biggest shifts in financial services in recent years. Regulation that squashes this would not be useful for any of us. One key example is when it comes to customer processes - some smaller Fintechs may struggle to collect all the necessary data on customers,"
     publishedDateTime: 2022-11-02T15:33:00Z
