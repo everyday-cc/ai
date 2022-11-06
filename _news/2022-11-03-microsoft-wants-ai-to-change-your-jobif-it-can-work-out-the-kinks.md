@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1800869.jpeg"
         width: 1240
         height: 929
+        isCached: true
+  - title: "Microsoft wants AI to change your job"
+    excerpt: "Microsoft executives told Bloomberg the company has plans to develop the Copilot technology for use in similar programs for other job categories, like office work, video-game design, architecture and computer security."
+    publishedDateTime: 2022-11-05T22:11:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 56
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2022/11/392940529-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "kh9fPq5r5bbJg9sPao+HUAPQ1vWS3hSPbBtvcbD8nj+kt6hbDIFEB2MpNCsF7GN7FqzQkR9p0VST5YY7KpBuBfDpkO62BFpR9VpondJI5X1n0hpJYyEe9HVUlhmtfDsmNLmyB6viJ9sGvx9wWcCH+rkHujQGVbPOivIg/648RD7Ea+HA65KmkeTQwAIPr33C/GPkNefMmhX1jo/tb6hD4vNLbI6FFSJNTfGi1lpFP4sJUzWMmH5vdk2akuUcQiL6qTVdfXcDO9uNfhJczf/ZA5SS3teByFT1lAdGAtWaLXFRqDupwbG5SvQTLAYOf+V4pVK/lIblGOY80QHH22DobnNxDE806bcHZ3TtrmDwbLIwaZmxNv+F+KXm8slWx87q3UuipOs9LF3cCkU0BPWlJnJnZ3keE7tCEpueMtbj2Cvh3SjVatHtZJvqIuUXCzWzNppkc0IGAtM1kGX6HrJAarRy8O9gibzehkJGbFo7gqNtrZkVOeX8rRlqZemLkaFw5QAOR2Sen8bf5Jm9O4SrrA==;ewpOhQAmTnY4g5/zj2UNcw=="

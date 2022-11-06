@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amp Robotics raises $91M in funding"
-    excerpt: "The company says the investment will support the modernization and scaling of waste infrastructure to improve the economics and efficiency of recycling."
-    publishedDateTime: 2022-11-02T00:00:00Z
-    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-raises-91-million-funding/"
-    type: article
-    provider:
-      name: Recycling Today
-      domain: recyclingtoday.com
-    quality: 49
 
 secured: "3g1fetdxbWWNEh1ybd27T+EzXHxAkRujpv0AxJMfpFIXsUihuu4G8oG68s0nqPWRe04RUud5BGrLLbBBXrdHI+XpTW4/5AHZglBvG3ZbfoA488d9GVhxR/prnYalwNZQWi7Fn2MPuM5eAFoAXVpekr3gwJDC6IFXEURnGODPFIFiCmfiAP5vHY6/RzX1Xsve0kPM27yPzsGqg8DcgGDBvT0iyedwirwLEPNnbam6EjGikqdK39bW2iGOMPewhnpVvSX3ZifHWMGNf/dqssLYwV4xVTOMmh8J8DtAjACsR4AKaaftLEAifcRu210xx/2nHAZXeQLWxoS9bkmXiZM2QoqaZv4uIehyR1Gac+yxVeXFDHMqcIWpqMe4TjlnDYl4ZThxpVrPLcTPMxZeaaOTnkyQ4BYExQvnHgaY15+tzMi3u8Z4xf95iK8LZIhz7GR3SNgS7uWJHRspjYdRHqRXi6WhwrINbYhycZTm6+qEbKTcryDFE/ZT4urhXYW+Sa/f0xAByJgZpfwupV2UgODntA==;gtn+7MvMkuWzVNcw46/c5w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-deep-method-cognitive-functio
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Machine Learning Help Predict Knee Injuries"
+    excerpt: "The University of Jyväskylä's Digital Health Intelligence Laboratory in collaboration with researchers from Norwegian school of sports sciences tried to predict the risk of ACL injury in individual athletes using machine learning. ‘The use of machine ..."
+    publishedDateTime: 2022-11-06T15:35:00Z
+    webUrl: "https://www.medindia.net/news/can-machine-learning-help-predict-knee-injuries-209116-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/can-machine-learning-help-predict-knee-injuries-209116-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-predict-knee-injuries-209116-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/men-pelvic-exercise.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Novel Deep Learning Method May Help Predict Cognitive Function"
     excerpt: "A novel deep learning method that uses graph convolutional neural networks (gCNNs) can predict cognitive function based on the brain's size and structure. The algorithm may provide insights into the relationship between brain morphology and different cognitive functions,"
     publishedDateTime: 2022-11-04T18:30:00Z

@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor"
-    excerpt: "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge."
-    publishedDateTime: 2022-11-01T21:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm"
+  - title: "Microsoft wants AI to change your job—if it can work out the kinks"
+    excerpt: "The most hyped words in tech today may be \"generative AI.\" The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user. The concept was made famous this year by Dall-E,"
+    publishedDateTime: 2022-11-02T17:20:00Z
+    webUrl: "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 77
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://mma.prnewswire.com/media/1935465/Tomahawk_Robotics_KxM.jpg"
-        width: 400
-        height: 267
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "Microsoft wants AI to change your job – if it can work out the kinks"
+    excerpt: "The most hyped words in tech today may be “generative AI”. The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user."
+    publishedDateTime: 2022-11-02T07:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/microsoft-wants-ai-to-change-your-job---if-it-can-work-out-the-kinks"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1800869.jpeg"
+        width: 1240
+        height: 929
         isCached: true
 
 secured: "5M46NcHpsupoZrsnckGwGA1NzgiadA3je+OOGiAaPjY9nbCXmCJv2wc6wpAhV3Kk7WNlevQDP9GmU9SP0s/ZmbhNBIoBx+8uqPCYgEttJ1HNP8cEXNXTR41DxnPG4T43Qy2lwQrL7ZDweMv/UNe5LA33ngsDYDqWN0UtqU1TzHNclgNOJv1lScYcPXIZ40ByeJX1CKv9usGcH3lEaFkOUsWbKOrzwbApcC2Njdty7DdjDDYs8TG0UimlyhEbdRJVqmy17x3HegXxrlevvuEwMXkdxPldKlpjMlvY8OtAV79k2648PHz9Pv80/yYd9HljuGiQaHy0vLvEGJ4/N4Ztgg2OFMVI1bnvAPMvdGm6mj+aNM+Luq5WzAWpjieozOOVxbC5AcIteQ6D8bRVn2NHODFU10EhQ377c7GTPlfbm22Bq8LOHj7/PIsZvwQdP9EBAJ4G9ylMHauGtBmEDuQYKq62SzNuRR2IkbEiQDd752R2/ab4XO/UZPh2fCY+f4chZnyFzFDZ1PnqrBTMPqmllA==;QTQ+KKc+Az5aNIaRkTsm1Q=="

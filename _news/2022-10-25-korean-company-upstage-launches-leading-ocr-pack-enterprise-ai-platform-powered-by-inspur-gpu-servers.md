@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers"
-excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced its Korean subsidiary built an advanced AI server architecture platform for Upstage, a leading AI company based in Korea."
-publishedDateTime: 2022-10-25T15:25:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699240.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/25/9699240.htm"
+excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ..."
+publishedDateTime: 2022-10-25T13:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "rjMOHql6ORCnFpQLCof2LHXZR0eP8kacw0RqlHgiz4JEyp6IbagLXxs35sx8+k16GfByZ2fruz5Rg1X6D43PE4mGNkcPN2ScktyTLWU9II15ODPVr0eGB0pc1kd9QGN0XDITvRGUw/5llkwP6rpjUDYtDyz/F6NxJCzjV79sRorS2f7GLjpWd5gfxNEnupKQcPwatIjNlc6ykGhdEUNxqQjhNLXaWtb8C+ybUMuLaXBt5esFBeRkagB13/9/wJIuc6nskSGfO+imFYVXnZ+8NLJ6sYHPYEbRnCcUxM3r+vxeJhbn+dUrDKz/8O8eBwIqrj1p6N0EWIKDX+1Q+fPjbgXllIPHAaubbULYHaWLrdU=;o2QX+5iZDqt3F/HDp97jGw=="
+secured: "t8WI8rvlLapqZtVe1i3+92ZqE8E47xccDq/GlE+2yXZ/nJ/xXtNvhh4BGcIGVKxtSwRydaCqF5CLCYcw1azg41ON+GiU910bSkIuz/I3jHuf61QDMIcGFcPJmT1TPdkC8le8dfxO8zjxDbFEIIa/jJX9i5KcGn92Ul8ELiAUGIcOI+T30u8Hl3UyxS7ODUVz3B9VoXBGiLl548iF30gjyFPbENa6Gb4dwlJ3pnWWIPuBNsvCCzUs/uZI9ZPCisPsuOktIlPU7HZGLYgSISeKRugo1kSIyrjRC4+z/KHDV0htfy0YvlwqRFfTG1+f7WVArobIN2Cg9OAv2i5PdJ0O+/BPoFMaI0fRljmjPpkr7eU=;w4AjAXptJ5TMofVdaPDMSw=="
 ---
 

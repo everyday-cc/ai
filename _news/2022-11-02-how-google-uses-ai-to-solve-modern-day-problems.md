@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+    publishedDateTime: 2022-11-02T20:08:00Z
+    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Using Artificial Intelligence To Help Prevent Suicide"
     excerpt: "Future suicide prevention efforts could be improved by artificial intelligence. The loss of any life is devastating, but the loss of life due to suicide is exceptionally saddening. Suicide is the primary cause of mortality for Australians aged 15 to 44,"
     publishedDateTime: 2022-11-02T14:17:00Z
@@ -85,17 +101,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Google Wants AI In One Thousand Languages"
-    excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
-    publishedDateTime: 2022-11-02T19:35:00Z
-    webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
   - title: "Google wants AI in one thousand languages"
     excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
     publishedDateTime: 2022-11-03T17:45:00Z

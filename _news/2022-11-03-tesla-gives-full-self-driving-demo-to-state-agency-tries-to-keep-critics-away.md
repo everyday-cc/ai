@@ -65,20 +65,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Tesla Gives Demo to California DMV Probing Self-Driving Claims"
-    excerpt: "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
-    publishedDateTime: 2022-11-01T21:00:00Z
-    webUrl: "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 54
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-lot-1200.jpg?itok=GC9i4pxI"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Tesla gives demo to US agency probing self-driving claims"
     excerpt: "Tesla Inc demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
     publishedDateTime: 2022-11-02T04:21:00Z

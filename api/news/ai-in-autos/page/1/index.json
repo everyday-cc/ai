@@ -91,49 +91,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-04-use-of-ai-enabled-screening-tool-led-to-more-diagnoses-of-heart-condition.md",
-      "title": "Use of AI-Enabled Screening Tool Led to More Diagnoses of Heart Condition",
-      "excerpt": "New research from Mayo Clinic found that using an artificial intelligence-enabled screening tool led to more diagnoses of low left ventricular ejection fraction.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/use-of-ai-enabled-screening-tool-led-to-more-diagnoses-of-heart-condition",
-      "originalUrl": "https://healthitanalytics.com/news/use-of-ai-enabled-screening-tool-led-to-more-diagnoses-of-heart-condition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2021-03-05-GettyImages-474772731-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/use-of-ai-enabled-screening-tool-led-to-more-diagnoses-of-heart-condition",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/use-of-ai-enabled-screening-tool-led-to-more-diagnoses-of-heart-condition",
-      "publishedDateTime": "2022-11-03T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-03-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
       "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
       "excerpt": "Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses, such as artificial human tissue for wounds and catalysts for new ...",
@@ -187,7 +144,7 @@
       "originalUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -239,7 +196,7 @@
       "originalUrl": "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1395,6 +1352,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-tesla-is-under-criminal-investigation-over-self-driving-car-claims.md",
+      "title": "Tesla Is Under Criminal Investigation Over Self-Driving Car Claims",
+      "excerpt": "An investigation recently launched examining Tesla's claims about its vehicles self driving capabilities, probing whether or not the company has misled its consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010",
+      "originalUrl": "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1666880890-GettyImages-490597708.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

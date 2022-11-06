@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Sky Harbor set to become first airport worldwide to offer Waymo’s self-driving service"
-    excerpt: "PHOENIX (3TV/CBS 5) --Sky Harbor International Airport is becoming the first airport in the world to offer Waymo’s autonomous (self-driving) ride-hailing service. “Phoenix leads the nation in demonstrating autonomous vehicle technology, science, ..."
-    publishedDateTime: 2022-11-01T23:02:00Z
-    webUrl: "https://www.azfamily.com/2022/11/01/sky-harbor-set-become-first-airport-worldwide-offer-waymos-self-driving-service/"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 26
 
 secured: "fZ5bkEJSN6w8dZl6ZQFgX0bS/xneJn9XSJGWADDsIGZuKL4GPrRBbm48/xUVJqBOEW1AyqgRVSKkiYil4uRJNk8IgBQpBaEZZgllp/IOfZlRlZev0WL95pZ0TtKsExVYPpf8OhURnPtVCXG0LNRfmtdmSP512AqB7FpfbjFDtT7CuObGauvc1DmMz4zCGSNOx5C0dHbeUSZWMrBddJaWdft4JE0S3pY6tYUzeynpLzbdy/rMm3AuqizEN15xgrA4MvgOhYyuYJgLeyhab4390bZyQA+PBILHbXLlsMs6xyIxYW/TwUrPikVhXzeeQmJP+yGDQwrv2wL8o4R8My3EXsrpXVwmNyaK159qQhg5cjkYv2uUVPKJwqJcAyHCbNWCDRaZcokynOa9N6sMRBVcvTB0ozBbxRJjNV47lHoIhDERa6YP2n5pdTuO+L9msyYkLgmUZ1z41lmL4T7GtRgrkrBWqfYe8ZxP5uiuVTJqbiQlgB0F+C+0vmZfjP7wzJNUs0L3ggelbZAD5gLzh3w9Jg==;5CN/x37JaT+0tD/Kkpw1AQ=="
 ---

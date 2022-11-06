@@ -26,6 +26,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting"
+    excerpt: "Co-led by Insight Partners and CMFG Ventures, this investment from new and existing investors will support Zest AI's next phase of growth in the"
+    publishedDateTime: 2022-11-02T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting-1031864078"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
+
 secured: "XAsNUH22FHYgaUKSN/P9wG0dXEq0hjfr/cHJNklv1tH1xtF2RV2rjSnjLnIFVvLDh/kq2+VX6jbFxpLidCp3Fmu1czbr/nbL2dq8z/twN4TJWksylSBesg65CBF+cgrB+2gvcIDhQrwdN7pI1GzmOr7OIuz9JBJDREf69NL8FjyzPiCNT4uB14U5gdy5eOEf+T9T+2KW/XZOHUvwbXrj4jjCGX0+BF3AlUrCQoXSb5pnmr/eR7/oZyc/q1iEEh6IW0vl9WbXljkL9YGgEiainThu781TRqVk/Ro7U0lzAnu7hByAdhlKXpUfmeVaqBX7fCckVJ+OX4jVXVCH1s3d8DRs5U++cyKXubBrbcx01+zSXtCCuB79MtrVf4hy0E3yD2Jk5CnWslkkKwHX9CklZYQ+bHBm2+vrY8mEyEaneabcXyxUlxCwBf0hyB1kd8bRd4WOoOggMggf4KzLN99SmVly4VLj/RYEDpzdYBDfDnUiUdbiq3cLIR1ml6efjZTnQe0QxNLMILFSNMd+jk6LXQ==;fd1yQGDsxTTE5+hedJLWUQ=="
 ---
 

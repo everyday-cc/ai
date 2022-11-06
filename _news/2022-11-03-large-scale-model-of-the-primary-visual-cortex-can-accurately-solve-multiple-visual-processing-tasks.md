@@ -41,15 +41,6 @@ related:
         width: 2880
         height: 2410
         isCached: true
-  - title: "New large-scale virtual model of cortex highly successful in solving visual tasks"
-    excerpt: "HBP researchers have trained a large-scale model of the primary visual cortex of the mouse to solve visual tasks in a highly robust way. The model provides the basis for a new generation of neural network models."
-    publishedDateTime: 2022-11-02T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970066"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "u/yYeBNytpjQk/LsTRpiXP9GYtdh6ySUkWk1AYOeWHZ23H19yBOCE6XNfktev1hfs5iQxsEsHxwmvM3LMnPolAeDj8mD0duz3I14pIIW2DRtYqgKpkHE87gwRb7UdT7nfjNxcwdqgtAr+15RvxEFjq3ygM+97RoX1t79SYVR8bcWI/lvikWj6DNr/I+zCWoXKcr3nd0Rvr5oF3xeMUHfvjP8FcXsIGWfbqBGpUz3BG/8ACjOBpE9p9u9O7xN04vcU7Xg4LRSziWgCKc1zcEn2UisPzT5lkgs7EB3wRpw4WyiL97+xEXjNrpx/qIFI+x7dQVNoIucgbEVudSRij+7DnzRSbYZtaQZZXUoy++74Ll4fPCFCcorzyI+Z52NkLPnvHp0WMKXCeSBLm4JfgIVnkmKwDhONWVGk6SK/rJTbEm39F5JsPqy7+nl0TwtFmzMh/Yn0qCP7bgtL1k3UjY5PgF2u0YeYCo7NtlJssLuW2QUIweUuLe4YAtrNMknJpvPc1+ptu9vLRWmEauQ4AtayQ==;jYAIN/ypnhJKsdYueCHQzQ=="
 ---

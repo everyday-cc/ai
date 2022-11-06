@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now
 webUrl: "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Sky Harbor set to become first airport worldwide to offer Waymo’s self-driving service"
-    excerpt: "PHOENIX (3TV/CBS 5) --Sky Harbor International Airport is becoming the first airport in the world to offer Waymo’s autonomous (self-driving) ride-hailing service. “Phoenix leads the nation in demonstrating autonomous vehicle technology, science, ..."
-    publishedDateTime: 2022-11-01T23:02:00Z
-    webUrl: "https://www.azfamily.com/2022/11/01/sky-harbor-set-become-first-airport-worldwide-offer-waymos-self-driving-service/"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 26
   - title: "IIHS: There Are No Self-Driving Cars"
     excerpt: "Super Cruise users felt comfortable treating vehicle as self-driving 42 percent of Autopilot users felt comfortable treating vehicle as self-driving 12 percent of ProPILOT Assist users felt comfortable treating vehicle as self-driving \"The big-picture message here is that the early adopters of these systems still have a poor understanding of the technology's limits,"
     publishedDateTime: 2022-11-02T21:05:00Z

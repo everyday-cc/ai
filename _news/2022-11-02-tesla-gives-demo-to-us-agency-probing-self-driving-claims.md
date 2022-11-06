@@ -71,20 +71,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Tesla Gives Demo to California DMV Probing Self-Driving Claims"
-    excerpt: "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
-    publishedDateTime: 2022-11-01T21:00:00Z
-    webUrl: "https://www.ttnews.com/articles/tesla-gives-demo-california-dmv-probing-self-driving-claims"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 54
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-lot-1200.jpg?itok=GC9i4pxI"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Tesla’s Full Self-Driving 10.69.3 Update Is Full Of Big Changes"
     excerpt: "Tesla customers who have Full Self-Driving technology can be on the lookout for a new update with a lot of big improvements. As of late October 31, FSD Beta version 10.69.3 is rolling out to a small subset of customers."
     publishedDateTime: 2022-11-02T00:36:00Z

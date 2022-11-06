@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/use-of-ai-enabled-screening-t
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/use-of-ai-enabled-screening-tool-led-to-more-diagnoses-of-heart-condition"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Analytics
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "High adopters of AI-enabled screening tool are more likely to diagnose left ventricular dysfunction than low adopters"
-    excerpt: "Artificial intelligence can improve diagnosis and treatment for patients, but first the AI-enabled clinical tools have to be easily available and used."
-    publishedDateTime: 2022-11-01T20:34:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-high-ai-enabled-screening-tool-left.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-high-ai-enabled-screening-tool-left.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-high-ai-enabled-screening-tool-left.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ecg.jpg"
-        width: 1834
-        height: 1920
-        isCached: true
   - title: "Mayo Clinic Expands Artificial Intelligence-Enabled Diagnostics Partnership"
     excerpt: "Mayo Clinic and Numares Health have expanded their collaboration to develop artificial intelligence-based diagnostic testing for patients with chronic diseases."
     publishedDateTime: 2022-11-04T13:30:00Z

@@ -35,22 +35,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "High adopters of AI-enabled screening tool are more likely to diagnose left ventricular dysfunction than low adopters"
-    excerpt: "Artificial intelligence can improve diagnosis and treatment for patients, but first the AI-enabled clinical tools have to be easily available and used."
-    publishedDateTime: 2022-11-01T20:34:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-high-ai-enabled-screening-tool-left.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-high-ai-enabled-screening-tool-left.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-high-ai-enabled-screening-tool-left.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ecg.jpg"
-        width: 1834
-        height: 1920
-        isCached: true
 
 secured: "c6C7zXNazOtKfdji6VzHvxSDQbsbnDinzccGGLRayuT03qW4ORpawSubCEleDe13fXKiBEdmL+hUGexpU/Aqw+BvKi1R7Ux1ZoK7GlHPtl8n7x8OiR5WoI9TBWITJ1aFNsh/AX1/rS7HERDclbgwwVqj4ftrf14mH/4UZwlt/jtWhxvYqZL+E1rQYU2hAopTZcEJls1wp6qEg8K1RayfHYyfNbPC2Agiqfvwb5kTIefKRLQDwmvkM4c4KCXh2684cb9EFbbPQj2ZSAZr+olDTRHgE0PIdTTquSIL+vDD1ilwD2z26RQ+ZsQ2pstlCOPAIwgdrCKEeJ0HTQgRwV1GPFLHV0kabE+aJDkl1r0dfAKmArQR+ghx8o1dXOQW0UnasmGKgozAIUC3vquv23RbSykkfNjGsHV0HT3v+L0+cWfxGSgR6YxyhLe/+/7Mj2hrPlDMWFBRKJ34WDGJ+KX3d/ukZkbRwpQbESOVbComuyIPAC1cXwGFe+wLwzHdsTO4g2/OS96udVUg6fPFkspMVQ==;fdCatw+8qgnFnAz7KFypRA=="
 ---

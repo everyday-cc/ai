@@ -41,22 +41,6 @@ related:
         width: 936
         height: 787
         isCached: true
-  - title: "Principals warn it will take years to make up for COVID-19 pandemic's disruption to learning"
-    excerpt: "Nearly three years of pandemic-related disruption has damaged learning in some schools and left others almost unscathed. In some areas principals warned it could take years for children to catch up on what they have missed,"
-    publishedDateTime: 2022-11-01T21:03:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 33
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning/_jcr_content/par/image.dynimg.768.q75.jpg/v1667335469246/RNZ_jason_1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
 
 secured: "jiNnqBln26faWTOmbQKyfESouwKXvD3LbCmfnQS1/GuUhWkSVQC4xNORjSQ5ykjKePpB76D7rDFKGkBw99pDsLrkNeeuJHsaPbJjJ2eIp8oETrjiFe5UyU3ni1VH0XJn5MVS4x9gurftsTZR9PDCU44AvDtjRWPrUbtFv/7+6Y6V3bcxyd0aqig6lr1dgJDh0vNXn6I/AOBvIy4dRbSD5zQByssxxcYPpHbM85cZ0QaORG+6WriLZfQL5dTY7RUzylPxcfeRW2qLk200mrLmQ5nacERE+j7H525LMarLGMEPNO/tbEv8duirJdL8O57znsqbrqfA6iTX56GqxaycM7+Gfg0FqC/H6//kTWWujxI=;8cgbYSbFUg8nit7Rp9xjCA=="
 ---

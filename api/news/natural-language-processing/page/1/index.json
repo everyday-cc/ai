@@ -467,24 +467,33 @@
     {
       "path": "_news/2022-10-31-onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei.md",
       "title": "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)",
-      "excerpt": "OneMeta AI ONEI stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ...",
+      "excerpt": "OneMeta AI (Ticker: ONEI) stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf",
+      "webUrl": "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei",
+      "originalUrl": "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1666894655.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T02:51:00-07:00",
+      "publishedDateTime": "2022-10-31T02:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

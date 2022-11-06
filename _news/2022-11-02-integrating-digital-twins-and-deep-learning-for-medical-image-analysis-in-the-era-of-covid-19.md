@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Principals warn it will take years to make up for COVID-19 pandemic's disruption to learning"
-    excerpt: "Nearly three years of pandemic-related disruption has damaged learning in some schools and left others almost unscathed. In some areas principals warned it could take years for children to catch up on what they have missed,"
-    publishedDateTime: 2022-11-01T21:03:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 33
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2022/11/principals-warn-it-will-take-years-to-make-up-for-covid-19-pandemic-s-disruption-to-learning/_jcr_content/par/image.dynimg.768.q75.jpg/v1667335469246/RNZ_jason_1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Contrastive learning model can detect lung damage in long-COVID patients"
     excerpt: "For patients dealing with lingering respiratory symptoms from the novel coronavirus, a chest X-ray can reveal only so much."
     publishedDateTime: 2022-11-02T23:37:00Z

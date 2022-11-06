@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-06T14:01:00Z
 originalUrl: "https://insidebigdata.com/2022/11/06/the-move-toward-green-machine-learning/"
 webUrl: "https://insidebigdata.com/2022/11/06/the-move-toward-green-machine-learning/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insidebigdata.com
