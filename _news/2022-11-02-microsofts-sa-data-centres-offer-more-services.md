@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/G98Yd7LGG2zvX2PD"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98Yd7LGG2zvX2PD"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ITWeb
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft partners with healthcare software company to accelerate data analysis"
+    excerpt: "Microsoft is partnering with healthcare software company Sophia Genetics to accelerate research and data analysis. Through the partnership, Sophia's artificial intelligence and machine learning platform Sophia DDT will be powered by Microsoft Azure."
+    publishedDateTime: 2022-11-01T20:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/white-papers/microsoft-partners-with-healthcare-software-company-to-accelerate-data-analysis.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 32
   - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
     excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
     publishedDateTime: 2022-11-05T18:25:00Z

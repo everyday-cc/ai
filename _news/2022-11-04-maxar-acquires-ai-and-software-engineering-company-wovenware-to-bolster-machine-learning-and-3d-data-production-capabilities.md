@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Westminster-based Maxar acquires artificial intelligence company in tech expansion"
-    excerpt: "The move is the latest by the Denver-based Earth imaging business to acquire expanded data capabilities, giving it a workforce in Puerto Rico."
-    publishedDateTime: 2022-11-04T21:02:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2022/11/04/maxar-ai-acquisition-puerto-rico-satellite-data.html"
+  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
+    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
+    publishedDateTime: 2022-11-04T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "+UcDrpIMw/oxVXFMCz0OFA/s/vqZrdyYnbcvWy5eMSFTI8gEVjQWTHNXSBM/XJH6ls1HmsXPEHDFVxc4x5QHXec7uU6LXxOzB61tPlFy3G8ZWC0/WV8rzS9jBnncFc9jY6YlkeojzRzDLtN003bDwtNOUE2UixYTOMCOh3CBN52HpjjIHb6J6nPBM8V1IgGbapGcC0bnGQxS7HgDD9wHKCdZ9xwaXrVaLEK646o7uVNTL47f1eV3lkNm0z1hb0U/xGohbw79P9NSNF9hN2sW8UGY/b2uYjEbEIYrNvc8c+2MIU15PH4EVezQtsC1Ar/QTLrypzXQIb9kOJakarOVJaCJTmQNt/VnmhPkQnYa6as=;RHgA583bGXM0tOqFYWV/mA=="
 ---

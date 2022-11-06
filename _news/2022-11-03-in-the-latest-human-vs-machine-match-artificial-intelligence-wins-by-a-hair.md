@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intell
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Phys.org
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI And Machine Learning Quietly Went Mainstream"
-    excerpt: "Now that the novelty, and frankly, some of the fear factor, around AI has begun to fade, we’re entering a generation in which technology will just be better."
-    publishedDateTime: 2022-11-01T13:36:00Z
-    webUrl: "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/"
-    ampWebUrl: "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6361209b71c915fecc08fd14/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
     excerpt: "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology."
     publishedDateTime: 2022-11-03T17:34:00Z
@@ -54,15 +38,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 65
-  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
-    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
-    publishedDateTime: 2022-11-04T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
 
 secured: "U33Q4ired5JbEYj+PqleFy9+FJwzqFB6E3KQCTmmAYvwChTCKQoHqvLJuzjTvSWu0NHst6YyEXOIesnZ79VryhM45DkHbAifSNwn4Hz/aTLOoxAuwQSjK0Gqt7i4R3D39HI1hcRczK0T9HJyPKZuLAmzC6MGcypPMocDRo7wcAf7id7LDj8M9iJDU+qirYorAwXzIO6KGW5GL67m7/nA4hnC5/cXb4FlV26XmHgDRvmhlMXjC2UmpR1L0IGdKxpco4pquPZWnMEGGGYnR01qU7ejjNm3GT+g0m5zDD8WWUwfJsv7DsFdsh00OA8b9qJR+wKroORpC4lS/XVYrxePqsEwUCJQdCJKnq9eMj/ELyAH8+KTo5QMBPJ+laSbP5a9dqn5ENKj+LuN+QCaJTyarvJqEHqF83DunmDdsg5RHH2ZNL0pcIhPTORWowrOKTAu7SiwhYjzoTVjC6du+Es9sOq6vOoHoFPHrpA7RlW/w4Gsjovx3OX8tqNbDSQBgRQyXxMziyGHkWEicUp4LH75eA==;TMo8AtJPkllcU6e+iKn/Jw=="
 ---

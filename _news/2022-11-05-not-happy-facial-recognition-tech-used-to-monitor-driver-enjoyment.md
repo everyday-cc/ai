@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Abarth trial facial recognition technology to monitor drivers - plans to 'explore' further"
-    excerpt: "You can unsubscribe at any time. More info Performance car brand, Abarth, has become the first manufacturer to trial facial recognition technology to better understand the emotions experienced ..."
-    publishedDateTime: 2022-11-01T14:47:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 49
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/abarth-facial-recognition-track-drivers-genesis-unlock-1690562.jpg?r=1667316653349"
-        width: 590
-        height: 350
-        isCached: true
   - title: "Cops in 5 nations see a way to use facial recognition safely and effectively"
     excerpt: "Privacy advocates willing to consider giving police facial recognition tools have said they would support it only if certain policies were in place."
     publishedDateTime: 2022-11-04T20:27:00Z

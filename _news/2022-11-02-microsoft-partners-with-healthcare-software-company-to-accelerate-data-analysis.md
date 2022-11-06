@@ -20,29 +20,31 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis"
-    excerpt: "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft"
-    publishedDateTime: 2022-11-01T14:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654"
+  - title: "Microsoft's SA data centres offer more services"
+    excerpt: "After the expansion of its Cape Town data centre, the company adds new services at its local Azure data centres."
+    publishedDateTime: 2022-11-02T09:46:00Z
+    webUrl: "https://www.itweb.co.za/content/G98Yd7LGG2zvX2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98Yd7LGG2zvX2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98Yd7LGG2zvX2PD"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg"
-        width: 400
-        height: 209
+      - url: "https://www.itweb.co.za/static/pictures/2022/11/Karin-Jones-2022.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Top Stories: Microsoft teams with Sophia Genetics on healthcare tools; Teladoc posts $611M in revenue in Q3"
-    excerpt: "Sophia Genetics' data display module leverages Microsoft Azure services to provide AI and machine learning capabilities."
-    publishedDateTime: 2022-11-04T18:03:00Z
-    webUrl: "https://www.healthcarefinancenews.com/news/top-stories-microsoft-teams-sophia-genetics-healthcare-tools-teladoc-posts-611m-revenue-q3"
+  - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
+    excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
+    publishedDateTime: 2022-11-05T18:25:00Z
+    webUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
     type: article
     provider:
-      name: Healthcare Finance News
-      domain: healthcarefinancenews.com
-    quality: 18
+      name: InfoQ
+      domain: infoq.com
+    quality: 27
 
 secured: "hG0mD9UKZZkx2onJugdAQrXsNSPJjcxbNAMmQPdvOsg2+KrkiZvbYuOKjm+Kkg67Ke8MtLZx3CAiLLlAptcRWMKOeAXqsgEpz1fQ3OrtkAKApn6mik5VM/ALDX08yp0+/0kcGwgQjBTl9YS4yAu++5VBJcNjhr3Z7evhKYjDL38+IATIJvG8lBjfGoA/xOKzBRQj3ruWK657cDfPeZtVyiihtdSaVJNPAr2eDIJ1oeVKdyJ19TXSVnfec9BwblUla4sdHdZ9WHYXQne9y6Z8ONRY551uDc5FSjNiQuaJMREBI9EcucMwAqerZpdgTH7TGWAC9QZQHjA+gEPiebIkmJCPGZUHGrWLO8fkZVk+3Mk=;dC2ZmAFRVHiwr4x4/qObJg=="
 ---

@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Inspur Information AI Team Sets the Best Performance in Object Detection in nuScenes Autonomous Driving Dataset"
-    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, participated in the latest evaluation of the globally recognized autonomous driving dataset from nuScenes. The Inspur Information AI team won first place in the vision track of the 3D detection task (nuScenes Detection task),"
-    publishedDateTime: 2022-11-01T13:10:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/inspur-information-ai-team-sets-the-best-performance-in-object-detection-in-nuscenes-autonomous-driving/article_28bc18eb-6522-55ca-af85-b4ff45d2045f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/9f/19f67443-42f3-51e6-83f0-ea6fde0da8f5/63611cfb4ceb5.image.jpg?crop=918%2C482%2C118%2C0&resize=918%2C482&order=crop%2Cresize"
-        width: 918
-        height: 482
-        isCached: true
 
 secured: "kHmEnv2LRzXCmeRSKT234dx/2x96KegOWkFlLXCEYFbPLeQdiWGOBVdTm5CZ/czmm5UDU534Asu3QX/W3wtLlEmwn0KjBKCClIooA2SDuIEymQvlLuieH/O+0SBJcyFGZ2Qyxjy2Ak0po6Hy+rIyXgGHL+IVDmK447jDlZCngDRhLOjgMPVkIAEReAz2FdK9d/dbT5t+Mz7HmymRv8MyfLo5vAKCXdnrANKKnacULF1pj+HH83+q32bHXLLREyZdPAt4AeloSXoj3r0u+Rb3MQOsxedou2LyGKtNZWJEk91PEzQlAAg3gPZEmKcMud1nLOWYNJLvU6lQBFg/r1ygxTwt/CbIe8ih58TMDmtrDWmy2rN+OIvCgmZ7ted8q1hSvmuQz9iYwWyDxPCtOfOsyXIH1JSKjx41EbWVB5zoDCkH5utGIJNu+BzthSGlRghIoKcYcgzk64Yh92KPmeyBfJ6Z0XU0xWQbD3DseOdw/W8DivqNhdKz8oayTijvZAJZ/4pvq06jIx66fZxduPyYJg==;uN7EDd7PA9dz9VLt0VImwQ=="
 ---
