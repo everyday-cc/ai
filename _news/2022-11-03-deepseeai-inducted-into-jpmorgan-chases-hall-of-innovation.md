@@ -1,29 +1,20 @@
 ---
 category: news
-title: "DeepSee.ai Inducted into JPMorgan Chase’s Hall of Innovation"
-excerpt: "DeepSee.ai, the creator and leading provider of Knowledge Process Automation (KPA), announced today that it has been inducted into the JPMorgan Chase Hall of Innovation. The bank’s Hall of Innovation award recognizes select emerging tech companies for their innovation,"
-publishedDateTime: 2022-11-03T13:36:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/deepsee-ai-inducted-into-jpmorgan-chase-s-hall-of-innovation/article_7ce73327-4fe1-54cd-a790-b04769f2a92f.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/deepsee-ai-inducted-into-jpmorgan-chase-s-hall-of-innovation/article_7ce73327-4fe1-54cd-a790-b04769f2a92f.html"
+title: "DeepSee.ai Inducted into JPMorgan Chase's Hall of Innovation"
+excerpt: "Fintech Startup Recognized for Delivering Efficiencies in Bank's Global Markets Operations DeepSee.ai, the creator and leading provider of Knowledge Process Automation (KPA), announced today that it h"
+publishedDateTime: 2022-11-03T13:35:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29546909/deepsee-ai-inducted-into-jpmorgan-chases-hall-of-innovation"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29546909/deepsee-ai-inducted-into-jpmorgan-chases-hall-of-innovation"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "wZJAqJF51xGsIqboj2000dI3yk3fLce/homM0k3GbCsKqJHIYnipi3pZZH+SLzKe42frYs0JTZHgdyz2Bo0CC9wmiU5K1/GNPtU+z/gcgxvTpCHBjt6FSofGlycF9FfU4n3hdNqBKJEC0XYJtSYYW/WHDIZ0I44J3p7uigenyQer+yO2dFMsXW7tAXzowefCR13XHTzmXEekfkQOxSn7wlx6HMWn3SU0qtJUIPHSfs2eA1eUj0BCFPz+hYEe9dPMAh5HEIT2m7kil6GogQMtfkoJLFpHdxodMHaZw+Cn9iYiUrNedIx5hPngwJ2xVVJP0aBnscpCRb7Fs7x2zaYA7rjr/8hao25BtIPnJTJhGA0=;UBKnNAhzkpeQvbyXuMgNhQ=="
+secured: "czxz0VjNRIevH/3LIKR4syZEWoqrNSeFFul597dK42xASL48t2COsT17XJp/4Imhv9dSWCCNnEe6vnlYtrX0fC05QUHcShF5b5O8t5saRWREFlJpaIGLZsGKtBF+j6yAUjSp3NX0KIYf+G27Ziy5IHXXNCr/HhtyWc9/ju++gtWP/xRriviaBSSMqLVtIO2InzYiC6ammj2lW8VI7OXb7OIj5VTYhFWlSNX+aNRz+o5olEW/dl3Yne1DBTqM1MB7ytiHSlSMoewVV22JDpDgRUb5OlyDkrCxXG/dOg/DDiSk6qNMb2qtdYqaDJNzWuYrnImd69EhSTfKeL9NmgFFiT+mFNl/w3O9li/Fo/6YhWo=;Aw44cDgGDNwwXIY0QQ8AEA=="
 ---
 
