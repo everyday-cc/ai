@@ -2,40 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-10-25-google-cloud-in-2022-whats-in-it-for-the-enterprise.md",
-      "title": "Google Cloud in 2022: What’s in it for the enterprise?",
-      "excerpt": "Google Cloud has seen its market share and revenue soar in recent quarters as enterprises flock to its platform, but profitability continues to elude the firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise",
-      "originalUrl": "https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-25-deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
       "title": "Deep Learning Computing Stick Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
       "excerpt": "An in-depth analysis of market segmentation based on product types, applications, growth factors, trends, research, innovations, and new product launches is given in this \" Deep Learning Computing Stick Market .",
@@ -1130,6 +1096,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
+      "title": "BICS launches Communications Platform as a Service",
+      "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "originalUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

@@ -25,17 +25,6 @@ images:
     height: 431
     isCached: true
 
-related:
-  - title: "LIBF MENA releases whitepaper on how satellites, artificial intelligence and machine learning can help firms measure their ESG exposures"
-    excerpt: "The London Institute of Banking & Finance MENA (LIBF MENA) – an internationally recognised organisation delivering outstanding financial education to ba"
-    publishedDateTime: 2022-11-01T07:51:00Z
-    webUrl: "https://www.albawaba.com/business/pr/libf-mena-releases-whitepaper-how-satellites-artificial-intelligence-and-machine"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 3
-
 secured: "sU99YprLxnsdDE+LWs9yPPHqQb/dhHxwGWTmNHerROsLmqXvChjFSIo3SGEToSDoDX6caMPROD2OrEkXu/rk830eXq+VdFqMAUfwBWigZMSy7by0QgiHb9yxbVFU/7F0vJfBQf5jZF3ZpwfLhrVrX4KjYb2Zfu8WhjoToFymf+o1/BfUI2LBaI7siJe2AemLceZzf6ZfoAm1jSKhD49b0Ca5talALZxPDK+vfaKsqwXIJurGpgj6bKk6Gx+gr3QBh2WhtO7p5UQkGvzYmnPVo8IGciAA8SsQjNGl2IH7KB0E1pJi5aQm1iZ1CRRbKwmIZFp8iPh7whknTlfhg8oz5zckWQQTj/s+irGKZeO5aSlkKyLuxjsiNIb80UUzTX/svVHX0JMQBnezvD+iZQYKS8mfAkki3Jfzk9dad1NPyWoT4BLCMZpdcX6LYbZdzIfYSZiJlVDQIZOZb/yoIS6Tue/tecYGGa9garZ4WD9DypsteQIhonPyj1Qjw79sMErysfjol9y3OF5PuTJ4eOiBHQ==;NMXBvixqG3wt7V50QLurDA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-wa
 ampWebUrl: "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 secured: "mz5EHDAO/YcvKCPSmOPCyhFtBGxez/2WhYm98nCw8KgNu8U7DjLgjDWPXrs0rvUYGubISvylIs6jl4Lt7y1NaqG0sNVDcnrlhVb/Fs22YnBAVDtP5DS/bIX0VKy9YbK7wpDPKjBbv5NEC3H+fAHAlmLrZ6f1LrKoXUEOdTyj7iNRArHnZqNnbFAFsZdIm+NfnAlFWpNRDGeDe0I5mTZfcEO86g3heb0j+OoGkB6E+nQcZ5oSYdlRLL06h3hrm0u6JHlGYugIa5Y/j1OQxvdKWwPAkL5dL3vTjGA/lQVxABAFEcFQaxrG2oDd0ZAd6q1EWrtHRSkXwM4VmPFqq8PR3l4oUsUxUE/lsNAgI2nUN+U=;x9mggXDsUWtjMmAGDbIdFA=="
 ---

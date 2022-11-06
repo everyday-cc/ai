@@ -42,20 +42,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market to Grow"
-    excerpt: "The artificial intelligence (AI) in construction market is expected to grow by USD 2.32 billion during 2021-2026. In addition, the growth momentum of the market will accelerate at a CAGR of 29.81% during the forecast period,"
-    publishedDateTime: 2022-11-01T07:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-construction-market-grow-usd-232-/2022/11/01/9702840.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1932378/market_research_report.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "How and Where the Artificial Intelligence Courses for C-suite Executives Market is Set to Grow in forecast period 2029"
     excerpt: "As per Market Growth Report, Hydraulic Gear Pumps market size is USD million in 2022 from USD million in 2021, with"
     publishedDateTime: 2022-11-04T04:25:00Z

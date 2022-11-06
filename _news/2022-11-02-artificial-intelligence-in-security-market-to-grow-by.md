@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-m
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Construction Market to Grow"
-    excerpt: "The artificial intelligence (AI) in construction market is expected to grow by USD 2.32 billion during 2021-2026. In addition, the growth momentum of the market will accelerate at a CAGR of 29.81% during the forecast period,"
-    publishedDateTime: 2022-11-01T07:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-construction-market-grow-usd-232-/2022/11/01/9702840.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1932378/market_research_report.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028"
     excerpt: "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028."
     publishedDateTime: 2022-11-04T07:38:00Z

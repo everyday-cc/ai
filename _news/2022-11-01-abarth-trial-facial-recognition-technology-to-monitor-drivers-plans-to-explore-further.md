@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
-excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience. Abarth is the tuning division of Italian manufacturer Fiat and it has turned to facial recognition technology to quantify the emotions felt by people when driving and being a passenger."
-publishedDateTime: 2022-11-05T16:00:00Z
-originalUrl: "https://www.carsifu.my/news/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
-webUrl: "https://www.carsifu.my/news/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
+title: "Abarth trial facial recognition technology to monitor drivers - plans to 'explore' further"
+excerpt: "You can unsubscribe at any time. More info Performance car brand, Abarth, has become the first manufacturer to trial facial recognition technology to better understand the emotions experienced ..."
+publishedDateTime: 2022-11-01T14:47:00Z
+originalUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock"
+webUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock"
+ampWebUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
+cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: CarSifu
-  domain: carsifu.my
+  name: Daily Express
+  domain: express.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/11/abarthtrackfacialrecognitiontechnology-635befd412fda-1024x686.png"
-    width: 1024
-    height: 686
+  - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/abarth-facial-recognition-track-drivers-genesis-unlock-1690562.jpg?r=1667316653349"
+    width: 590
+    height: 350
     isCached: true
 
 related:
@@ -41,21 +43,19 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Abarth trial facial recognition technology to monitor drivers - plans to 'explore' further"
-    excerpt: "You can unsubscribe at any time. More info Performance car brand, Abarth, has become the first manufacturer to trial facial recognition technology to better understand the emotions experienced ..."
-    publishedDateTime: 2022-11-01T14:47:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
+  - title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
+    excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience. Abarth is the tuning division of Italian manufacturer Fiat and it has turned to facial recognition technology to quantify the emotions felt by people when driving and being a passenger."
+    publishedDateTime: 2022-11-05T16:00:00Z
+    webUrl: "https://www.carsifu.my/news/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 49
+      name: CarSifu
+      domain: carsifu.my
+    quality: 39
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/abarth-facial-recognition-track-drivers-genesis-unlock-1690562.jpg?r=1667316653349"
-        width: 590
-        height: 350
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/11/abarthtrackfacialrecognitiontechnology-635befd412fda-1024x686.png"
+        width: 1024
+        height: 686
         isCached: true
   - title: "Cops in 5 nations see a way to use facial recognition safely and effectively"
     excerpt: "Privacy advocates willing to consider giving police facial recognition tools have said they would support it only if certain policies were in place."
@@ -86,6 +86,6 @@ related:
         height: 683
         isCached: true
 
-secured: "8JY8tM+gu7wU4Xc1QUSc6y2LZnGp46eQLW+16uZYGw6Y26of299KyoqX4QXj7wSTNDcag4cBsCfzUCLIVSoDVeocHs1vmiOmDRf1FfxHHD1i6hC9WX35COw4vfj8NTlpEFH0veGNOdEBNPjPBj/Wj3VD2bHFiqbi4SWQYqIWR2kbhjb0e0hbGVQxjU6ukE2eIgzwEiQyMqpcsPVWa8lf26+GbErfqopa9vDk4rLDetW53+X1kccnY0t55cbnlI20vgPH1dPJEBK9Sr7lD0hfGKqBNInXIIacWKN2vb1SX3JBzD+DhnK0dmW9ezRkZJrjEjL1ZHkz0ddIzQvD8uT/qFjjyM7oEQwbgtKaVyLbWQLkTJ+PfH2N2fXvmG8KPdcmpYD++2pXFhaDy9zhM1g19PTQdtSI1gthWHBVcKIBR8lBYEYJcwq3OvCc36wr6a7cSPFBiciHuGZfFbPlBMaMrauexTNCBymltrldssemBdaXgv36GOuKR5woeHmtet4XTWDSKgfaFYjeiQ774Xdz8w==;VaqrIaEOIhwjRHQIvT+15A=="
+secured: "qsZ853Zo3uY7+VZFwxH/EtPP6Qrq9mv8xLpMS7H8XgkctOmswkF1ugxle/trcP1AqxF/7ELj4LiFeiTJLJaCRg9wH79okA6qdOEniQ1o+xvswYILQKJu211evvlzCMIy4hoIIsM81r3mwElgahlVZ4rireQtuNz2h6gOlOEWNFsSge9zJpLlmYI8SYjythbKS/oRGged+yMEO+NBQRLo5TzSAMDu+vSoeNblAuKGCsBAWSh0v1RQw85UBCSB+H/RdmNKytpFp0A1N0NaONF4LJGdcMaOMVEpZXIxc1eM7eQScLbtZd0wV2KHYamNS36d0P9r3gTOsqIMzK2sox5Ig3TJf0rmB8GMgoc+3IJxJGY=;1S5ENZqbkYphZ4k/QVUzDg=="
 ---
 

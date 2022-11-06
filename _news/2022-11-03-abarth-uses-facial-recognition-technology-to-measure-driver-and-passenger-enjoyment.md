@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Abarth trial facial recognition technology to monitor drivers - plans to 'explore' further"
+    excerpt: "You can unsubscribe at any time. More info Performance car brand, Abarth, has become the first manufacturer to trial facial recognition technology to better understand the emotions experienced ..."
+    publishedDateTime: 2022-11-01T14:47:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1690562/abarth-facial-recognition-track-drivers-genesis-unlock/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 49
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/abarth-facial-recognition-track-drivers-genesis-unlock-1690562.jpg?r=1667316653349"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
     excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience. Abarth is the tuning division of Italian manufacturer Fiat and it has turned to facial recognition technology to quantify the emotions felt by people when driving and being a passenger."
     publishedDateTime: 2022-11-05T16:00:00Z
