@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/commentisfree/2022/nov/05/machine-learning-
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/nov/05/machine-learning-systems-are-problematic-thats-why-tech-bosses-call-them-ai"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.guim.co.uk/img/media/efdf0b639d5832c78a761b46d999c6a5b1fe05d7/0_326_3397_2039/master/3397.jpg?width=620&quality=85&auto=format&fit=max&s=b32ee3c450c21c03e8be33d496aa7ff1"

@@ -58,15 +58,6 @@ related:
         width: 1240
         height: 929
         isCached: true
-  - title: "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks"
-    excerpt: "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards"
-    publishedDateTime: 2022-11-01T12:01:00Z
-    webUrl: "https://www.bnnbloomberg.ca/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-1.1840027"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 36
 
 secured: "kh9fPq5r5bbJg9sPao+HUAPQ1vWS3hSPbBtvcbD8nj+kt6hbDIFEB2MpNCsF7GN7FqzQkR9p0VST5YY7KpBuBfDpkO62BFpR9VpondJI5X1n0hpJYyEe9HVUlhmtfDsmNLmyB6viJ9sGvx9wWcCH+rkHujQGVbPOivIg/648RD7Ea+HA65KmkeTQwAIPr33C/GPkNefMmhX1jo/tb6hD4vNLbI6FFSJNTfGi1lpFP4sJUzWMmH5vdk2akuUcQiL6qTVdfXcDO9uNfhJczf/ZA5SS3teByFT1lAdGAtWaLXFRqDupwbG5SvQTLAYOf+V4pVK/lIblGOY80QHH22DobnNxDE806bcHZ3TtrmDwbLIwaZmxNv+F+KXm8slWx87q3UuipOs9LF3cCkU0BPWlJnJnZ3keE7tCEpueMtbj2Cvh3SjVatHtZJvqIuUXCzWzNppkc0IGAtM1kGX6HrJAarRy8O9gibzehkJGbFo7gqNtrZkVOeX8rRlqZemLkaFw5QAOR2Sen8bf5Jm9O4SrrA==;ewpOhQAmTnY4g5/zj2UNcw=="
 ---

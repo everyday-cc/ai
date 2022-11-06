@@ -1,44 +1,33 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027"
-excerpt: "[252 Pages Report] The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% The industry participants ..."
-publishedDateTime: 2022-11-02T00:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027"
-ampWebUrl: "https://www.benzinga.com/amp/content/29514257"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257"
+excerpt: "Attractive Opportunity: Supercharge your Visualization The industry participants extensively focused on leveraging"
+publishedDateTime: 2022-11-02T00:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01"
 type: article
-quality: 66
+quality: 76
 heat: 76
 published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg"
-    width: 606
-    height: 513
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
-    publishedDateTime: 2022-11-04T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-
-secured: "k1pGCQNcLvyFY41ZbswaXLJotxWjJ0oYlBcxlZP7lRQMNjctb7AzK8PDlWFIVyL1Wnd9mYWQUcIxBQekaSUTf5lpjXPP8nLobFAVLf+hVGWvZqwf9QEPHfylPxXSM5Hnm3nrzlsWvJ60r4RjBwCjnbNbGszCSzbqSgszm1Nc6QpNsyqE4TaD9DIF+A1O/5btkTsUnlDw/Z6ixVqdL3WTVkWdydy9HE/JwORjvtuxptEU7Anz5bxav8yHqB0kSCHQKSw0w7zHjLrHa7P/Q1NdvpA5ML6UOZ+LQtQE4AjkN08xWK+FtHCLGJIoQ+lbSYS0J4EhdpvhWSGBCoAbGEprCFf2AwYE8+SAFP4zaBqE+N4=;xwH1gSK5rH16/mrcgP89zw=="
+secured: "t21kAuV8li9Kcz1CEJhBpBix5xWg8F2x2R/RPh9FCD0hkp4NyW6AGwgU6lQYHOcorsje/Z2lOj/Fbaij01sUK2EuIBDEDvWOFnLaoQQN0rwE2ph1iFsPWdEiVww2j4j7mZYLRFyZm+Z6vsXpVG8ISrTVvoCVbaS/NPh+qbLMQSPxl+8Zx4NcH9c0d6TzhJHNgPwaiOUKwc7s3SkE8oKEPdaFsv3V4xLF2CCBNxhWOroeeJhrii7xZyhf7UF3OSK+xNItovOX51PraPANxq/P2rnOe3+7hYGo5+0S++qAouykrd/CWSd6kFwPLKgnloz3V5QD2KW6crxWdxIGH8HMBQSyaaT1AEgQN5G8jWbgydI=;75tRhiQyYYe+wpnB+d4i+A=="
 ---
 

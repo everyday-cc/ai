@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Asia-Pacific Self-driving Car Market To Show Incredible Growth By 2030"
+    excerpt: "Large tech companies like Alibaba, Baidu, Didi Chuxing and Softbank are investing on the self-driving cars in the hope to capitalize shortly. Threats and key players Factor that may restrain the ..."
+    publishedDateTime: 2022-11-02T11:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/asia-pacific-self-driving-car-market-to-show-incredible-growth-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/cybersecurity-hackers-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "A&T shows off its rural-style test track for self-driving vehicles, nears downtown test"
     excerpt: "A research team at N.C. A&T State University working on self-driving transit vehicles took a major step Tuesday toward eventual commercialization: the unveiling of the university’s rural-style test track for autonomous vehicles."
     publishedDateTime: 2022-11-02T10:59:00Z

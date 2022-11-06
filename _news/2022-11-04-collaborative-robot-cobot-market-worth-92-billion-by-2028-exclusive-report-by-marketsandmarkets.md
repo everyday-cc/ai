@@ -1,43 +1,39 @@
 ---
 category: news
 title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
-publishedDateTime: 2022-11-04T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
+excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during th"
+publishedDateTime: 2022-11-04T16:48:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/04/9706782.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/04/9706782.htm"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027"
-    excerpt: "[252 Pages Report] The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% The industry participants ..."
-    publishedDateTime: 2022-11-02T00:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29514257"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257"
+  - title: "Voice Recognition Market to Witness Robust Expansion by 2026- Report Spread across 103 Pages"
+    excerpt: "[Report Pages No 103] In 2022, What is “Voice Recognition Market” Insights? In 2022, the growth of Voice Recognition Market is projected to reach Multi-million USD by 2026, In comparison to ..."
+    publishedDateTime: 2022-11-02T09:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-recognition-market-to-witness-robust-expansion-by-2026-report-spread-across-103-pages"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
     images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg"
-        width: 606
-        height: 513
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/cybersecurity-hackers-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
-secured: "/7nJcehg1jNdUlq3p1nXyowwCWbf30QDTjdRQcd4i5B3UFBxqRq5V+769zO8wXTuj2/zPkwJNt9NJ69CiRtCoWp5kVQdXPQ+XoHo9DVltQausUAKbFNwAg4N1AmWHeEISQBuJJJGeAMbpRQap7CB6LoZyvGCJMU4o9QbYjiPgWhSQ76zHhbWyUJtEtk8cGVGTvWgN5GWDnphkEYAXUbQ3YQ1QK5AlNZioheaXwVPpWh42SL2tcdDRzrhbvuVVS/7tJknshUMVktuZLaycUzdb/A1WpeapsY9ZtakI8ntbM5dICT1stjwzaThShDsIbsObv9YwcnwGL1gavOpQc4TZxY9Q8n+tzjSD5kRjmzJspY=;Wlgtzrol6v8dwG1cmVbTrA=="
+secured: "k0ZPtslMukrRTGww+qaMcUyRsmAlaiICKJNjx3V6QYOl9V1EtNNtL+fE5bE8HSPn/LWMXc1Q0y8qGisqpZLhTtypNfFjcoRGei8aPwZ4qsXShcJ0C6AeU14FDRGyWsZLlwAXdUPdiAsZOd2e4u/i67sWVIBewuiOI5zD25m6px1TsqRt3Zs6az+M/jwpRC6hR97WgVBS04a7BXmeZ+VjEkpL2bOaJw3vpjfpH+tWO4cdz//8BfGfvXfCBLznPuTDJB5bL8duzUpi8NqPmERNQat2FwGLxsGBwoycoS36xY3sgQB9BatnUNZG4L+hqNGAjMu2jlz75XQZvpBKMnY8BTXW/sYLLm+HXF6nA7xs2mTK0HKk32gFnTRWjSWKCd7n7GUZ/s9zFe0HZDj1vmtvTmKCSpemUP0LWsIy1o0OY6aPPcN2QI86hyAGbHlkOGNTrlGNObPooCdillwAihvbqx6A5XU2VvBq3mB8EOOZxtvMn1etZNomUQweRDa0T8aSZAzPxu2etlKcanQ5PDxULA==;0cpfOZkVqXZtWZeRn+nv5A=="
 ---
 

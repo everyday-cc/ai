@@ -33,20 +33,6 @@ related:
         width: 6866
         height: 3606
         isCached: true
-  - title: "Azure Cosmos DB vulnerability gave access without authentication"
-    excerpt: "Jupyter Notebooks are built into Azure Cosmo DB and are used by developers to perform tasks such as data cleaning, exploration, transformation and machine learning. The problem is that there was no authentication check on Cosmos DB Jupyter Notebook."
-    publishedDateTime: 2022-11-01T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/11/01/azure-cosmos-db-vulnerability-gave-access-without-need-authentication/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/orca.png"
-        width: 1111
-        height: 730
-        isCached: true
 
 secured: "gw8N3BT1Vieg+nZV5dFPI4Xftq43qsXyTlFhZVhKE6ANd0EBocJvZYtzXRXUUwaCsRXR0eW5rrmAf6jYUJ798l0KcF2WurfKsHODgUTvgaf8s7QPT0qh7WvY0yezKbfgOA7xWzPQeiXEl5Rz7nAEepomgx4VvTWtxB94+JSYD1Y1eWWnFVLhxMCxZPvOd9Uc/7N0A+kCX1ACZ1SB6YJnddowsjvIanik222zAubssVE1IpDIKAPQtL5D6YKREn5QuqQN0fxhNzUxsxs+OqCAndG+k00NlJAxR/LMO54RAKOk582ThTPBDDB3FYmVvxIkY7cGs5u6xghkHgHcS0dI4QOrDVoW9Kgwvg/5oeUt5Ps=;PnFWTQrvMFds342Et58MwQ=="
 ---

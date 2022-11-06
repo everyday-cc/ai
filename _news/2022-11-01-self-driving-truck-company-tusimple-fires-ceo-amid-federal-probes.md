@@ -3,12 +3,9 @@ category: news
 title: "Self-driving truck company TuSimple fires CEO amid federal probes"
 excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
 publishedDateTime: 2022-10-31T20:43:00Z
-originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets"
-webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets"
+originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?dist=bigcharts"
+webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?dist=bigcharts"
 type: article
-quality: 54
-heat: 114
-published: true
 
 provider:
   name: MarketWatch
@@ -28,100 +25,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Self-Driving Truck Firm TuSimple Face Probes Over China Ties"
-    excerpt: "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ..."
-    publishedDateTime: 2022-11-01T20:13:00Z
-    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "http://images.wsj.net/im-656515?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "American Self-Driving Truck Startup Fires CEO Over Chinese Ties"
-    excerpt: "The startup, which in 2021 became the first company to operate a self-driving truck on public roads in America with no humans aboard, said that an investigation launched by its board showed that some of its employees had spent paid hours working for Hydron Inc."
-    publishedDateTime: 2022-11-02T11:20:00Z
-    webUrl: "https://www.carscoops.com/2022/11/american-self-driving-truck-startup-fires-ceo-over-chinese-ties/"
-    ampWebUrl: "https://www.carscoops.com/2022/11/american-self-driving-truck-startup-fires-ceo-over-chinese-ties/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/american-self-driving-truck-startup-fires-ceo-over-chinese-ties/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/11/TuSimple-2-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Self-driving truck startup TuSimple ousts CEO over ties to Chinese rival"
-    excerpt: "Self-driving truck biz TuSimple fired co-founder and CEO Xiaodi Hou on Monday amid what's reported to be US federal investigations into whether he inappropriately assisted and shared blueprints with Chinese startup Hydron."
-    publishedDateTime: 2022-11-01T02:57:00Z
-    webUrl: "https://www.theregister.com/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 43
-    images:
-      - url: "https://regmedia.co.uk/2020/10/26/fired.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "World’s first listed driverless technology company TuSimple fires co-founder"
-    excerpt: "Hou Xiaodi, co-founder of self-driving truck firm TuSimple, has been fired from his roles as chief executive and president at the company, according to a securities filing published on Monday. The news comes after the Wall Street Journal reported Sunday ..."
-    publishedDateTime: 2022-11-01T17:35:00Z
-    webUrl: "https://technode.com/2022/11/01/worlds-first-listed-driverless-technology-company-tusimple-fires-co-founder/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 36
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
-    excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
-    publishedDateTime: 2022-11-01T00:19:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 33
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/77d2a0b/2147483647/strip/true/crop/3133x2095+309+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Ff4%2F9a2a7c5e41c6a91aa7fba55fe49a%2Fdexcom-breana-raquel-cgm.jpg"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Southern Californa self-driving truck firm TuSimple fires CEO over dealings with China startup"
-    excerpt: "The San Diego company terminated co-founder Xiaodi Hou for sharing confidential information. Hou denies any wrongdoing."
-    publishedDateTime: 2022-11-01T22:08:00Z
-    webUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup"
-    ampWebUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 32
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/24c6bde/2147483647/strip/true/crop/3993x2670+4+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174"
-        width: 320
-        height: 214
-        isCached: true
-
-secured: "KMfueeoS+gZeemEqSRjZXPv3eedA3dcCE8DG0VpsyZj2B+sVh1H4oUA//+MMXhA0R6DM1S198Y6jQJ2W6qYSAj07kKprYCiHYq6Yjtq8VAiTtXo2v1tbzqj/lQzrKRUaeDy1MldXFKP4ahAwMB/FN5FN951k+txvh5XR+WyKXObzZ+5eBxItrwz+EhDgXfNoa9JFQwqbccQSww34ojzKCTR85NyoD0TtNSi9YbXL0YVOfsOcWKDnte10KlM/KzAtf/aEtk0rdixiJUofrV9syb7hYhxgfvZZV3WY4+750FgQTRl48OY/XMGQft35vEiKcli6zphd70B0XrnNoPeSU5/Bu0UbycNMjq1EfW491TglLPYuMfFuWZytxr19fIx/XNQyj0PW3yLCKbNPL3OeRGjKb2kBWHouUE3xhNSeB03KY4CuE0dV3V7EifsuAIrV1/PLCmAe4x3tmSWYA1uElH+5B1A6D8iDOLBOQd4P2O9VTaJVCCW77LH7n9BEZP/5d4UvSY7xki1etiwPFxRhZQ==;x+pTKAJmgEUA6jqFPTXRFw=="
+secured: "nL1F3462Q2k95MlINgbGjKKWTOiS1k/Fy3KFrazp+3wjXNgyuYiBW4uS7rS3U0tg6vnQNMQa0Muv92NACL7JRtaDNmWjt1DZpGuRqgBdJf45VuZYK6zBlEXPTAIB2Jf3NhFQg8gqFifSdBJnrOV+WkXOORgyatNgx+Iutrpc9BYkp1jA3BIcm1l7d1uhCs04NgSz6XTx8xKJQGVUOiFIVJdLqSri5VgAsuDerknZ/BPsJb1LlSnHrbQlLkHJnt2JNctpTG88ArKcQXheHWSD6d3KelcBltEJIda8y3/puuoMYfVqyulpmlMgt7qGCn9y4clPKWbpJRUxyu+1nomqMDgvOjSHhHevPshBlUF2320=;dJb8Md4/OXkKd2ymun6KGg=="
 ---
 

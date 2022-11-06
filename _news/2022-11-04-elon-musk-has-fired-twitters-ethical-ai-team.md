@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/twitter-ethical-ai-team/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/twitter-ethical-ai-team/amp"
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:

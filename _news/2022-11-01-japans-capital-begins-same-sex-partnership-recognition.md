@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Tokyo’s capital begins same-sex partnership recognition"
-    excerpt: "Tokyo's capital began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed. Seven years after Tokyo's Shibuya district first introduced same-sex partnership recognition in 2015,"
-    publishedDateTime: 2022-11-01T12:07:00Z
-    webUrl: "https://apnews.com/34eb349e024945015497afccbf315346"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/a0d053bbdb524cd3b755673c23e2df9a/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "plRW9hLpc1JHFLRfR1itFAPgDF/7aVI5MW8GKDrGiYk5GBD9jUpNNt+fRB1dsE6DIeWwsqhkvsK3Cl1h5mr9q6CBar9tAdnMLcFshsmcLZ0jZ8y7fiJk/CjKhmLhxgl5DWH7+cN90f6brGPuNg5G/wG6n9MaTE85bv8yYd344tMSr1OQaqeANbRnu7U/DrYnPfB/K3gzmLX3xErMn9u98s99ebXGbhZ0hpIPZ8haUWuKp0Cj5gc5gMzOx2MLjUaXZrkP+zGbaQUJBJBQBEERJRWNVRAis0AUvHzpQpFOKlDfkM6V0n58geJJmirsWVGW5tVXqqSYF3ew9joiN4z2fusqUKnGYyEgGPYiI0TLC2uW7ow5ZQUmdK9+ja9tDPDL8xw5cLgd8Y3SOIkKHNhJwE2EjXnuzT3ucaDSLgIXgHmt2DixeNVY3SoI0+nqWZAPfzh5wWPOTRbWCo0oFUKN49XBsqEdu7Lbt1TAav2O/Ft7iEjYVq83KgSYGjzvvIoAcXllg5HqU8hFJic5222FRA==;Wedtvltl0xGIXLGf3w+lCg=="
 ---
