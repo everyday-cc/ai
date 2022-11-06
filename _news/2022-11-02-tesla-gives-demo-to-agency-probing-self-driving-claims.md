@@ -57,20 +57,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Tesla gives demo to US agency probing self-driving claims"
-    excerpt: "Tesla Inc demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
-    publishedDateTime: 2022-11-02T04:21:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/tesla-gives-demo-to-us-agency-probing-self-driving-claims"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1801075.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Tesla gives Full-Self Driving demo to state agency, tries to keep critics away"
     excerpt: "The demo of the system Tesla markets as Full Self-Driving was held last week at the Sacramento headquarters of the Department of Motor Vehicles, according to emails Bloomberg viewed via a public records request. Also at the Oct. 26 event were a ..."
     publishedDateTime: 2022-11-02T19:17:00Z
@@ -80,6 +66,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 30
+  - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
+    excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
+    publishedDateTime: 2022-11-06T19:01:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "kiO1mqk/P45v1mwowdLIlfQ1r/KYL+pFOTwXmsGhXIDQcipCjL3Wb29epRiPXlsmU/vkh+e/fW2jVmTdk+RyBsNGS3K2aL5R5mC1Qoj9sbuZzBFwVPv+EXPf3anZuDdAnLktt0wBLy0CDENETa/JsfFVjcHEqdJHoFHRksFfjo+T7FVpg9Lo3ouEbu42yeQlUbNn1Ru5jxBJh9u/illa8n89zlBS3DD5pU/NRhZtKAlaGLvj5adX4dDze0R6jZEzX3eE2I4QZV3yDoz4BzCFTp0bqakQCdhkUe0pwYG/yDHunz0RibXdgOCdgOZR2O2OAL205rSdwBbKkDjJKaMWtdudC1KRQNmDn5z8B+CAG8Q=;HHkmoJt6non3/YWZ8Q1Wfg=="
 ---

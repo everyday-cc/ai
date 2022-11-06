@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Amazon to boost Thailand cloud infrastructure with $5 bln investment"
-excerpt: "AWS' cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup a ..."
-publishedDateTime: 2022-10-18T08:48:00Z
-originalUrl: "https://www.reuters.com/technology/amazon-boost-thailand-cloud-infrastructure-with-5-bln-investment-2022-10-18/"
-webUrl: "https://www.reuters.com/technology/amazon-boost-thailand-cloud-infrastructure-with-5-bln-investment-2022-10-18/"
+excerpt: "Amazon Web Services (AWS),the cloud computing division of Amazon.com Inc, said on Monday it plans to invest $5 billion in Thailand over the next 15 years to strengthen its infrastructure in the ..."
+publishedDateTime: 2022-10-18T05:39:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment"
+webUrl: "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "E/1pXcQzLV6yuDVnaSOSKZ0+GEXQ0Tj6X1xe9TZAJuFQ/s/4VBJ+Q42Kgu816og47Dh+PNxerdLwKNwV4sK34viA4gPV5iD2/Sitw2FqrklYb28JyUNb6lBl/J3Gg0sTTACysgxyBTN0wKwIj400siKLrZ00WdL2I7E10JH+xaSJW7+3QPrfAFpwNWL2sJRJhIDjOdH4Fj9bOTaYCQIIBraitvHJEwvpiHZJGqhS6X0RMW/0VT9vSgc1iqnpJg9xk4chHsCfmayTxLDvjfPuUEl3Idt4KvK4ZrIhYbDdFm9oEXTHxej5lmJKJ5fnt9o/G8YRz0MgAmoz6O71lhE90w06Qc15VzoeiwjtbeFIcWU=;PlNXdn93vhQgMq+OzMxWxg=="
+secured: "HV/OOm3fkTSxFgTzBpY8JpItyYkFHN2krEMeW+LcWN3CJEy+yqf4R8kxekmB7mdUbeXwj1/Labv9GqlqGI2LsRsgKgegX70vNk0LlojKyOa05ziba+8Yv+lPGoEPSU0nfH2mJLetygLmip7ESQ/xKWe2FDRMcrhMuT0gpdKhw/+FSZQWJTUwAOqI8asStUkR9BO13SdOF9lRMNyQdYRpGg50B61Zo+2kytOE8PvekkLYQT5V8d+XSTR6IL21qIt1LL0aqLp/7kTV2wIWROAb6tmut4mw1xMgUN6n1hsbWD5dERmK2rvsDvTP0zazJYcPnt/MFVLNFkGv+CFz14UJPB2pEPwhmIKgPrkE3XwtQCs=;Jk7kueQviwbGXqVfVO4oqw=="
 ---
 

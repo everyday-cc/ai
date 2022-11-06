@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla gives demo to US agency probing self-driving claims"
-    excerpt: "Tesla Inc demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
-    publishedDateTime: 2022-11-02T04:21:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/tesla-gives-demo-to-us-agency-probing-self-driving-claims"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1801075.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Tesla gives Full-Self Driving demo to state agency, tries to keep critics away"
     excerpt: "The demo of the system Tesla markets as Full Self-Driving was held last week at the Sacramento headquarters of the Department of Motor Vehicles, according to emails Bloomberg viewed via a public records request. Also at the Oct. 26 event were a ..."
     publishedDateTime: 2022-11-02T19:17:00Z
@@ -80,6 +66,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 30
+  - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
+    excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
+    publishedDateTime: 2022-11-06T19:01:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "k/en6XCfDA3/IKPdj0KY6g3cyUkwDyqnIOrfkdEP+SKOG04K/42sr0DMtjziyWxxfLkk0hpkWrQk9jwsKqMRmrLsKXzmKLxIcKA5QNai9OEIO3A3tDLfbYtFHGOq721//ujcy7xxcdqQFyaiG5XYpH2P7ChNEVpsw/SBqqAiyEbEsDGpiLK7ULK6SyYmPzX4Bm+tM8IjXFu+2sivdYvTR4p+HUoSJ3wa5O+04euY8kTd85jKfZrcrCUcxextyuDaKY2JKIU6Hmc9zD2Lg/oIM/G9YjCeuGk0PhWfsA0uCySEozCT/EgiNhLq/kxfVRhYVh113fDL4AGqj4VuXZhWwNe87gZIgYXr23yVt/urGWGot6uRz2dqHIOqfL0YhgxdjVE5QupARtNO1SW4Ejhc+dnn8TcU3PSPOyu7tN6Gfvr2NhZP9a7viM321fRHUv3ULksl9X+oNGlOKSsISjkZtagdc6Gd8ZkISxvj9DKv0M/6sa4Q0LTqjykbl8n+CXgoQ5EO3MULMNA8niw8fl5i/Q==;hoqF0haDXx/OeSjfrybVLQ=="
 ---

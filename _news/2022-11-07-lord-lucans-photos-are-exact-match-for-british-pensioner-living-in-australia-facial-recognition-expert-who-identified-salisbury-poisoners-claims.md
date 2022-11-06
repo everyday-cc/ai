@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Australia bets on facial recognition for problem gamblers"
-excerpt: "Clubs and pubs in the country’s largest state are rolling out AI tech to spot gambling addicts, but critics flag privacy concerns."
-publishedDateTime: 2022-11-04T07:27:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
+title: "Lord Lucan's photos are exact match for British pensioner living in Australia, facial recognition expert who identified Salisbury poisoners claims"
+excerpt: "A world-renowned facial recognition expert says photos of Lord Lucan are an exact match for a British pensioner living in Australia."
+publishedDateTime: 2022-11-06T22:14:00Z
+originalUrl: "https://www.kentonline.co.uk/canterbury/news/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+webUrl: "https://www.kentonline.co.uk/canterbury/news/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+ampWebUrl: "https://www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
 type: article
-quality: 39
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Kent Online
+  domain: kentonline.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1804543.jpg"
-    width: 1240
-    height: 826
+  - url: "https://www.kentonline.co.uk/_media/img/XSGMIU8LXDBEAXTRMCFF.jpg"
+    width: 1069
+    height: 734
     isCached: true
 
 related:
@@ -57,6 +59,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australia bets on facial recognition for problem gamblers"
+    excerpt: "Clubs and pubs in the country’s largest state are rolling out AI tech to spot gambling addicts, but critics flag privacy concerns."
+    publishedDateTime: 2022-11-04T07:27:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1804543.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Hotel bets on face recognition tech to deal with gambling addicts"
     excerpt: "MELBOURNE—As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The"
     publishedDateTime: 2022-11-04T23:19:00Z
@@ -71,22 +87,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Lord Lucan's photos are exact match for British pensioner living in Australia, facial recognition expert who identified Salisbury poisoners claims"
-    excerpt: "A world-renowned facial recognition expert says photos of Lord Lucan are an exact match for a British pensioner living in Australia."
-    publishedDateTime: 2022-11-06T22:14:00Z
-    webUrl: "https://www.kentonline.co.uk/canterbury/news/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
-    ampWebUrl: "https://www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
-    type: article
-    provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 36
-    images:
-      - url: "https://www.kentonline.co.uk/_media/img/XSGMIU8LXDBEAXTRMCFF.jpg"
-        width: 1069
-        height: 734
-        isCached: true
   - title: "Could facial recognition and cashless cards help problem gamblers? This is why some fear it could be thwarted"
     excerpt: "Tackling the issue of problem gambling with real reform has proven difficult historically for Australia, so will a range of these new proposals work?"
     publishedDateTime: 2022-11-05T19:27:00Z
@@ -97,6 +97,6 @@ related:
       domain: sbs.com.au
     quality: 0
 
-secured: "+TSqBXeO+YTGh1vWGosQtkci25iYPA6xagh/eRSG0kj5o1UkwbylmVnfpro5OUipPsCpvz0YLm0t99RYZOumZ0bgrMV7VUX36aH583Bjz7hQj5XtXW02XFNEfU7JuzLQLBI6uTQxmQWuoKQDiUH3PlmXUmdWyxt+yqJrdRbYG65fKXQ080gKBAJbdphQbg9KXCarCUan8nwVxLmOU73OygrszOWHsZLMZAm+AsVnXifPYnhvjV3FBxgbQIBkhlmU5B5daV713gGYx6oGsRvPcqp7kmWSUBRa9Nxy41lg9ftcMJTUbc+Yw7vTGVoJjqrF2PlXvqAgUASeX4U2p2GJptqpEx0Fd1ga47Mp2hnwEsZTdjm75JmlGWcyKgF/qWTgtY7cFw72pueGn/U2mh/ulaqkDwgeCR+r4vtTsb6ffE15bCFRtX8HyGlmd5S5YEjbe2ykWt2p2flEBTdkO2x9AN/xWUhDjwi1sqkBg/DNCMGyes5+gcleqCsFLoWWv3qHcw9GOfHrrG/XNo8cePASeg==;m4et0/PZbpCCooS8btkUnw=="
+secured: "bdwvCD7BqfRr4qFmMVabbs8iBGEvYfSUm5ZvlPcRmYJuzmNAjAlTA34rPZCqgIzbp0ithpRUUEg6F/BizTb21Kez6t3gigkX3rQuYQzQf1FOb4/pTPdmSKVoLqeCkYpWga9k11o+5fogkw8UR+DBfzKHZ2wg9/P16AvAMOqr5mEybnqv1If5AA9LnlWugZBdXwN3XKmKGtCr4PoIwC69UeqHbeBQNSfmFGL/1sZvC2ZsC/nd3QczFQrfBzCAE+Bvyko9AbWXx0G9k5dtGYtK5Vp8A53E24uvv0lXDcO+rUmH4LAIpSGjY5xa22roF+VNXzwyQ0vJY5ouvGa5Qnj7L9+WXC+ZPNrBKQ7ZW/ATYvw=;74u53gp1+sQtU2OnjDlJQA=="
 ---
 

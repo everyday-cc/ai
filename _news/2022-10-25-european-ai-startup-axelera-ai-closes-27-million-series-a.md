@@ -1,19 +1,19 @@
 ---
 category: news
 title: "European AI Startup Axelera AI Closes $27 Million Series A"
-excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here: https://www.businesswire ..."
-publishedDateTime: 2022-10-25T13:58:00Z
-originalUrl: "https://www.eagletribune.com/region/european-ai-startup-axelera-ai-closes-27-million-series-a/article_19560599-56e9-5229-9fb5-79f09fb1f076.html"
-webUrl: "https://www.eagletribune.com/region/european-ai-startup-axelera-ai-closes-27-million-series-a/article_19560599-56e9-5229-9fb5-79f09fb1f076.html"
+excerpt: "EINDHOVEN, Netherlands--(BUSINESS WIRE)--European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding will support Axelera AI’s launch and ..."
+publishedDateTime: 2022-10-25T13:27:00Z
+originalUrl: "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ=="
+webUrl: "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ=="
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI
 
-secured: "pLacDThTan/vFL+gVhwa/k9TwEeNUAiOO3QSPTm0UN3XJ13yysQwDnQTHXC2vUDFU9raLkyeezAIGBAoMhD/7n0T9dkAQACgdUOw5PoC5lkSc/4JOvDCfUM8oz+Rbi/Gxs5YpWZEAcgTRIVfsER96zSIsme3i/68k87roR3FXxLRnrpVI59E01Za0gtGa0kO61GKS5laRTl+jHPpbpwl5yV6d0z0+qb4AfLIx47bm+Uhd5oGyTJnOw2zG51Ar/tvVtQwgOIaKrL8D8iv7duYJ7GbPWVCk5u8wG3XuXxqwdAVCioPJFhDUKZsGDvPmTAw/v6cAgqHzxmDeYMxw/pJVU/yAdvQWawf/zkw1zfYfQ4=;nZ4fmIv4k9nFCICJVvDBRQ=="
+secured: "sG+PRKc7fysd/LaAoNW+58AiOVJsRagKCdiZqWIGtiqEb+gi6mz1KBKLrm0kjHAW5SCKPLVrapGsNrdInmLNT3k8vZCC3gNSepNiBmdZIGGx571k0jMtzqaK0ys9DMZOIs4jjBYoeZ4PXOwYLN5YHT7WjFYQ2vlG+qVF/FXYMgglUDk489yFK3755aS+hsTg5Wy7uYFuKAl2K4R82N7MM8aqGakmBSvQVZLCjFnpeeYV7PmC9M7NWiClC6rF4x4rdEPkOzkUMyxL8mHDKIG9iDQadUiPnctEpMnfmAITfP6OW9ov2QxWhl/5hg5vh5MyaiXSzZi3u9MlUVjNVe8PpX9J/OatMa56g/c36wcZ6UE=;80WU6meWpbAdQLBhu0qrfA=="
 ---
 

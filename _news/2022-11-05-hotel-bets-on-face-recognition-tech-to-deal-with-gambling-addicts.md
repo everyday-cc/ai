@@ -71,6 +71,22 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Lord Lucan's photos are exact match for British pensioner living in Australia, facial recognition expert who identified Salisbury poisoners claims"
+    excerpt: "A world-renowned facial recognition expert says photos of Lord Lucan are an exact match for a British pensioner living in Australia."
+    publishedDateTime: 2022-11-06T22:14:00Z
+    webUrl: "https://www.kentonline.co.uk/canterbury/news/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+    ampWebUrl: "https://www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+    type: article
+    provider:
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 36
+    images:
+      - url: "https://www.kentonline.co.uk/_media/img/XSGMIU8LXDBEAXTRMCFF.jpg"
+        width: 1069
+        height: 734
+        isCached: true
   - title: "Could facial recognition and cashless cards help problem gamblers? This is why some fear it could be thwarted"
     excerpt: "Tackling the issue of problem gambling with real reform has proven difficult historically for Australia, so will a range of these new proposals work?"
     publishedDateTime: 2022-11-05T19:27:00Z

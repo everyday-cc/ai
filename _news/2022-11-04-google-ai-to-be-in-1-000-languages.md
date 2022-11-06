@@ -93,17 +93,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Google Wants AI In One Thousand Languages"
-    excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
-    publishedDateTime: 2022-11-02T19:35:00Z
-    webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
   - title: "Google wants AI in one thousand languages"
     excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
     publishedDateTime: 2022-11-03T17:45:00Z
@@ -118,6 +107,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+    publishedDateTime: 2022-11-02T20:08:00Z
+    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "0Jf1UdpW9Xpw6d/uNjZkSJrtpOeJDjMYM4r8JaAoExofFSRLdJ5ajNFgpadLGd5Qk+ijQqYqipq4475RvqcgPf24AM/tvDJ002YyGxy9jFr+pdY3pxOru18FluMqMMH+BTE2vyoBOgIfxvWu6LzKQxdymqnFKA4aRAEHaICf8EYhq3zbhqu37DCUk26wbkyrQ3xJKrkPq1VS1ZjcZEYyobkbSbp2UwRq/TlCufChRDsDRs9wVuxQxWF2k8kwGjzbEEGtDLglU29EoycS6o9sBEE3EMzE3qOKjgcx9GRpiV2qN4AqHAfZoh/C3eAvE6pP7kZjV7FJzjnJyZwJrDE5XZNqXi5WGTzq0N7Wi3ChQVjvGepMVA1TNrA51AE5yBixYkfajiJOYkklK9nMWuVGhL4czm5QbKDisxXuAuEzh68YzuIPsMLo5jc423C1wPd00ilEtUUXAjlSMKRUx3xbsEHO9hx52Svxw0/A4utFwbd6cWfVxLUI4ahsMf0IY5/IIxTgjNDr/f6QBOrvZWCbzQ==;cA7NFCgxI3JEoqS/00IsKA=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Why It’s Important to Give Thanks in Your Relationship"
 excerpt: "In long-term relationships, it’s very easy to downplay the importance of gratitude. The constant interaction of give and take means that the need to say thanks really doesn’t seem all that important."
 publishedDateTime: 2022-11-05T13:15:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
-webUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
+webUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/fulfillment-any-age/202211/why-it-s-important-give-thanks-in-your-relationship?amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "OGuCuh50+qNu+qAarvmpw5qT2ZUizNEvv3H904UOhYiNbQWAALItXAwAfCa0l0fXWAjQkC+sSQ1Lb/dyXNYj07/UkqNDA5dKChsBUT4Bsey8btn5K6GubYWnz7MzoBOF5pTVuEsQoaPon1jje4YupZWxMWmTh43DtPVEmWtbvldnHJGf0Z6xcRzRFjVZ5qgvwEj1BLOAi+2Ehg0NSYoID03/0nOOyR8KCDWWBP9cGpw5Q1djoFsXvGDeD+IzRflLFYKaRpzXFn41ARrAlPjqGK/aU42uj7qRggUD7073MbTKNq3QOlbz6NZX4GRE39XEAOWjT6/LEoZdym4GegFMeqUkZB69jK2hkzo/nuJpjrfzDFGi+bHUFHRRBIbTELEpSsgyqkxjGMDFF6nIGXZTx7pybwSpCYoAj85pRju+cnmsPQr9r266th2NT496ee/bZtdJPBeDF81gMHjYiMbVADCh2NSjVkZMAMqMPq8afS2ClFnDDavYRA9PS88GKbaebkBx13ZCVckaaYRIaK287g==;CRLubRS39Ez3T8YTABxVeQ=="
+secured: "PZmRttMYUyTeer8aS//lnhUJcZvZiTLnbKkERaP0/63/wbRwHQJGVPxbSXIcUEE3lMmzTovlg/Z2VX/jaRpV0ULw0vTR8Q4uTO3EBaVu2EZcHjY+xVs5cxTKJqpqPbDdrId19lN7+qGQRmC8/3wKmZbv1sHzqSsoR68wzGKnI3wIqmxNze9uIvqoLQgZYPS23KdGDTfky0OJprzg+cKwMiOGfcqDMxjgZpSnEz5Od8IOJmCOaxUrw0l6gQUCnrq5Z+8H+sWOaj9djpGNFHDyUmkl/x0ECX1TE+aV32chQOrCr23UuxrtSK24EOrCf4rFWXP+n9gX7cnTUQoVGWVHi10DhknbzctqHWNQlelnwnw=;MxZU1hdwVsRoff2VSYzH8Q=="
 ---
 

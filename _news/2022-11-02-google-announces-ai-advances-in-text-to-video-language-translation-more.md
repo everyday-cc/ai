@@ -89,17 +89,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Google Wants AI In One Thousand Languages"
-    excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
-    publishedDateTime: 2022-11-02T19:35:00Z
-    webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
   - title: "Google wants AI in one thousand languages"
     excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
     publishedDateTime: 2022-11-03T17:45:00Z
@@ -114,6 +103,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+    publishedDateTime: 2022-11-02T20:08:00Z
+    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
   - title: "Google: AI to be in 1 000 languages"
     excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world’s one thousand most spoken languages as tech giants compete to dominate the internet’s next battleground. Data is crucial to advances in AI,"
     publishedDateTime: 2022-11-04T11:11:00Z

@@ -79,6 +79,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Lord Lucan's photos are exact match for British pensioner living in Australia, facial recognition expert who identified Salisbury poisoners claims"
+    excerpt: "A world-renowned facial recognition expert says photos of Lord Lucan are an exact match for a British pensioner living in Australia."
+    publishedDateTime: 2022-11-06T22:14:00Z
+    webUrl: "https://www.kentonline.co.uk/canterbury/news/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+    ampWebUrl: "https://www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
+    type: article
+    provider:
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 36
+    images:
+      - url: "https://www.kentonline.co.uk/_media/img/XSGMIU8LXDBEAXTRMCFF.jpg"
+        width: 1069
+        height: 734
+        isCached: true
 
 secured: "Y5SyUJLmUXppVhO2y2HjQfbsjqKxfe93nMmuVn4j8iTlcCn8EMym7SRgyap75RJaQezQCqEEny3y5iVPiwfNAeFa0OVhl+90Zg/lDaes0xGM8y9I22tw8GnI9o1lYw8w7KHDYdvt39lgzkfkjHZzVbLbmDCqIxYuPj5f37qjVeBYoc8UB//QhKYFfhhLjshzgySGwcob7ILDGRZUajeg9FyjRmE78i4DAbSxwpuekg1rCUp4hTNFhntGEL/yeuSMhVbyWGptm576hCHApKvb5zYaDmeC1P1AkrZRjCn41T2kFIyFV6rMoy9NGuGrhsLvhcJA5SOeKcSm/d1cjdz1uXyZv08jB0b976ArOLTv+Ga0Cu8UuIAs73hxhI3tVG2UNRcJY6Nl6LXmx+K4DaCEBuP/Fczgmp9SbQW4ESBwJkPNfsCpV+9T+ZPUIOVOLbr+/xKIwp00QQveZv3T8gqRQzL6GCdROGAayx38Tzh2eGf5q50R1Pa4f4ELBcdygcRLiNHyBAzM4Q2klCVc1ydkwg==;K7PgaN6IDdoQqInvsDFTtw=="
 ---

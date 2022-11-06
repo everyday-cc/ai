@@ -65,20 +65,15 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Tesla gives demo to US agency probing self-driving claims"
-    excerpt: "Tesla Inc demonstrated a beta version of its driver-assistance system for California transportation officials, including outside consultants the automaker previously sought to bar from the event."
-    publishedDateTime: 2022-11-02T04:21:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/tesla-gives-demo-to-us-agency-probing-self-driving-claims"
+  - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
+    excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
+    publishedDateTime: 2022-11-06T19:01:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1801075.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "bW/dXkatqo/DpiJkK3u/zsf9o2nTn4BLSQmcyxHd4aD9i1snjZIMGaptr7b8wDbIEhydw9RyEqAPE7RumEfYJw1MY9IZ0eFkFcaE7efA6NuYX6E32I0PgCOEopzY3aegsz4ftHVAGKBMW9E2aRR/CUA3RUqFh5OOaayzPMfh6Us4z4PQCi0VIHx0XdIS7Wma2PSERuao50WbgsdxocD9PadNpap6t2M5RZBx/9ip/D0HeB00IG/Bp7C/VvEZnhLRx4s8JoQpEhv6U7F06R7owzcqvOexZRj0aT2vwqD3E+QHHb1DSu/Zxk9TWniTZSb7+yI1XiTmTye/LWXsxO3GBYkZOA2RkmAlksKHRNUraN1wsQyXBJr4+4SOdfrS5K4oSQSU7GpquLzIXROm4HetyLXWmkm3eg6l7VnEBEXt/J1t6jCG0zrPjbWFfDcKYLS3/yNeX2hxjbVpj3JsFoRsqV8hLfiQE0MLjRvj4KBvTl/YSYDmDYwwWrAoSrGPmDr+4YrVWNEW+JGTocpxFnSHow==;IBML1Bgg7Y05MctVUZCPXA=="
 ---
