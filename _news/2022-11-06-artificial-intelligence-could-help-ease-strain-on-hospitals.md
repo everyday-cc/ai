@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence could help ease strain on hospitals"
+    excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ..."
+    publishedDateTime: 2022-11-07T09:10:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "AI technology could help ease winter pressures on NHS, say researchers"
     excerpt: "New technology has been developed by researchers from the University of the West of Scotland. Artificial intelligence which automatically diagnoses lung disease could help to ease winter pressure on hospitals,"
     publishedDateTime: 2022-11-07T06:35:00Z
@@ -40,33 +56,20 @@ related:
         width: 1280
         height: 672
         isCached: true
-  - title: "Researchers' revamped AI tool makes water dramatically safer in refugee camps"
-    excerpt: "Researchers from York University's Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings."
-    publishedDateTime: 2022-11-03T20:34:00Z
-    webUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.html"
-    ampWebUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
+  - title: "Study finds artificial intelligence may help ease strain on hospitals"
+    excerpt: "Researchers believe that developing cutting-edge artificial intelligence AI that can quickly and accurately identify lung diseases like pneumonia and tubercul"
+    publishedDateTime: 2022-11-07T10:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273050642/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/york-u-researchers-rev.jpg"
-        width: 2500
-        height: 1403
+      - url: "https://cdn.bignewsnetwork.com/ani1667815297.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "All NHS staff should have basic AI training, says report"
-    excerpt: "A report by the NHS AI Lab and Health Education England calls for all health and care staff to receive training in artificial intelligence as the technology will be increasingly adopted in healthcare practice."
-    publishedDateTime: 2022-11-03T07:53:00Z
-    webUrl: "https://www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report"
-    ampWebUrl: "https://www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
 
 secured: "bjdmphnf4d/y+g6lMiipj8aulEz39HOR3WmfAJcR7bn/uoyVUP7v8tdS9WHsgb+kOn8kBdlVmE3YMmTlwPyU0an933NbBeiVXUeeb3f+f0DfXumm0cNh8MYGaoJA0cA3SfxSLa27Ms4iYi4iXmZLM+/wmDroztHGvgFNV7ZeYiOFUZcmJp4QzSecASvr3TO1+CTx2pSvQ+tEjvRBFNLADkPZFpSsBu+vu5gO3axFU1tyM+NLJsIWfi4JDn8z87hQ8ZENeC3hJvyXA7n4lEhT59fxuIS1J4yoPNpo3ZNYSVPIEJfo2uplyxQ6Drp3LvG07RIebHJNC1gLs9/iyeoIxvMaF8WhwZo8G8f29YUikWM=;cMiFtRyRAc4eeg4Sj4qfJA=="
 ---

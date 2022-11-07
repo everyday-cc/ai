@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/aryaag-in
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/aryaag-invests-in-computer-vision-start-up-assert-ai/article66106607.ece/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,7 +43,18 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Arya.ag invests in computer vision-focused SaaS start-up"
+    excerpt: "Assert AI has already established itself as a formidable name in computer vision with offerings that include face recognition, object detection, weapon detection in high-risk areas, docks utilization, packet counting in warehouses, and safety gear ..."
+    publishedDateTime: 2022-11-07T10:20:00Z
+    webUrl: "https://www.ciol.com/arya-ag-invests-computer-vision-focused-saas-start/"
+    ampWebUrl: "https://www.ciol.com/arya-ag-invests-computer-vision-focused-saas-start/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/arya-ag-invests-computer-vision-focused-saas-start/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
 
-secured: "ODAZiQJnvRhkGscEw3q5vTK8HYRp4RUBWRBjwLHebe0t5l0T8nE8f82zW+wrFpQJiLEiZRfqwH2FsRdY/qAHKriXwza6/R5dXYpa+B3ugPJHE8iKQfDTd+79Ix+Wdw0VSs7GulR/3BNAgPP80fgyTls+Sr2kLMwT97rTP3HFTDU2Q1tD3UHrsObYKKU771ptANr638A6fCQa2KDGeqJ6mQ4G0ABEljgLKu48jixEItfJm9+1jg+GFaoFQc++bUR1IXcvAugnL92k3ZWwEJwfp/LFzu7BNXsiToCPqAEe7bze25P5kFBmyHg/RNDUCydZKP1dy8f20YxYl9RoA/Z1fVc1lIpFn+WAuoH8WIZqNzA=;lm7d7/goK3S7wAsZ0jYS8g=="
+secured: "qxLYoKROYIjg5AN5wJDpN4eGn+mI6v0aY1GTpWLd8XBzJs8ex0PHOTZtyldyQjP5unRSIGfDwI/ir7dInLLPo0Ilj4c29smnDep5sVRvb8xj2/jKcllspGRBp7bQZLng1E7dg+LGa34nvhvXOFCTNv88zkk56LLzAUGm+icZMLO2AQaWbZl9jXIaT2SocQnhBR5Mi4NR0xpXEksY1nUonf8ScEYDOplaf0k2xLl6GdjrYzzloDarVt4mntnokJKg/UKgEX1J8QTyYnaVZK+zq4ag1rDP9nojDwfCJQYQj9j2jEFPBn0cdtzEnZICNjJHkW8+LXMw1ckrT8ulG5DIvRf6gXANrW+bDQRMAwnhySpFyoUgNmgmScp9CDDjmBcDxSkHJlZLeZEWV20AW6Eb5TcsLRbb2tKPXnbGMGj8hRNTw0mKSaHIZY42ZdxsDDe+mLu1mepVHD5AzdWVk9nWqtgsfFTGQ/7uLljquUdB+pYq1Hnz4DhZohBoC9vx3fhLFNZs1QzNceFvh4OjRrtNHQ==;9a60PHOASz20qf2JUAwsKA=="
 ---
 

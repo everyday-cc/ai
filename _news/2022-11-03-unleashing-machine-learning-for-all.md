@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/unleashing-machine-learning-fo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/unleashing-machine-learning-for-all/amp"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How network pruning can skew deep learning models"
-    excerpt: "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,"
-    publishedDateTime: 2022-11-02T17:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221102115535.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "AI Ethics And AI Law Just Might Be Prodded And Goaded Into Mandating Safety Warnings On All Existing And Future AI"
     excerpt: "There is buzz afoot about having AI provide warning or safety indications, aiming to protect humankind when using or relying upon AI. We take a close look at this idea to see whether it is practical and sensible."
     publishedDateTime: 2022-11-03T12:02:00Z

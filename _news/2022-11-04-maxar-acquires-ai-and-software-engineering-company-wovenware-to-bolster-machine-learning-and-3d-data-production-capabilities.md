@@ -1,40 +1,41 @@
 ---
 category: news
 title: "Maxar Acquires AI and Software Engineering Company Wovenware to Bolster Machine Learning and 3D Data Production Capabilities"
-excerpt: "Maxar Technologies (NYSE:MAXR) (TSX:MAXR), provider of comprehensive space solutions and secure, precise, geospatial intelligence, today announced that it has completed the acquisition of AI and software development company Wovenware."
-publishedDateTime: 2022-11-03T20:02:00Z
-originalUrl: "https://apnews.com/article/technology-business-puerto-rico-artificial-intelligence-539546894d504f66bbebae9b48d00a8e"
-webUrl: "https://apnews.com/article/technology-business-puerto-rico-artificial-intelligence-539546894d504f66bbebae9b48d00a8e"
+excerpt: "service design, artificial intelligence and geospatial production. The company will become one of Maxar’s software development and AI/machine learning (ML) centers of excellence, with its software delivery experts partnering closely with other Maxar ..."
+publishedDateTime: 2022-11-03T20:20:00Z
+originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/maxar-acquires-ai-and-software-engineering-company-wovenware-to-bolster-machine-learning-and-3d-data-production-capabilities"
+webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/maxar-acquires-ai-and-software-engineering-company-wovenware-to-bolster-machine-learning-and-3d-data-production-capabilities"
 type: article
-quality: 27
-heat: -1
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png"
+    width: 400
+    height: 300
     isCached: true
 
 related:
-  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
-    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
-    publishedDateTime: 2022-11-04T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
+  - title: "Westminster-based Maxar acquires artificial intelligence company in tech expansion"
+    excerpt: "The move is the latest by the Denver-based Earth imaging business to acquire expanded data capabilities, giving it a workforce in Puerto Rico."
+    publishedDateTime: 2022-11-04T21:02:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/11/04/maxar-ai-acquisition-puerto-rico-satellite-data.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
 
-secured: "CiikEyi8ZxwaAA9FQtAbfPoYq9cIcXNIW+3bb7RwRsxR/4KHxVZxRVoUmilU2Q3qbZIfdP+LtHyfoosig3pJb8KGvIZKmHjdmIXfV/qr/lJ9VmD+864BUs68qJAxa40SF4cK9Bj+hkyyHyWnccmYRcqe22q2lfACs6Ycuv0J2V60ifQ94XxVc/KUTLa796WiLIrXJI2ps63ilakVrZyUUMYvZzOb/3eWAWgOzbPlzyhDpI8QZA+zzCVqlZhs24se65z8/H2o39ffJ9JSZP2lvSgncyBtdohUVFgCklaLGlqwKkL/ymPtxMNF+vTviWVMphxodrgAo/HJLWaEpLrayg8P2C5X2uVaNhZmhXapExU=;UENm0U0045G8yyf3w/j+jg=="
+secured: "l+snBleHtubc3C7BJF3QKlEyzVwRaeSN4R/acmqg8+2lSfL0OAWVotpZC65oAWaviT0r2oeHXajSjIXT8v/G+TZ7A7+6JrpdYoiTlnFbwHR6MJgoS93fHXzPtxf6v3MfZAhQHU/VzKidbaF3fjVOj8bWId8Rsy9JcvuHG0Q96g2eQ2BN1aPOU98AOjAqEK0k4BZ5axSa5HYM6LjudZ40+IQMM4ByqRFh9FX7m2de6BlogYVc+5T3dphljUYF7ZmSCUSm1FaFxM0CdDrMnDkw8OlTIatfs4s2Zo6FmE7bwGLuRl+ISvOZVXsY7BN/aHs6k3JRuJr4OT00X7WZwP5BaUgtOs2qE2KqBqfYW9ubBhY=;FguZnMdNFcsH2ozfWcUkhA=="
 ---
 

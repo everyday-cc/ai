@@ -9,8 +9,8 @@ ampWebUrl: "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pr
 cdnAmpWebUrl: "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: news.stv
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers' revamped AI tool makes water dramatically safer in refugee camps"
-    excerpt: "Researchers from York University's Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings."
-    publishedDateTime: 2022-11-03T20:34:00Z
-    webUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.html"
-    ampWebUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
+  - title: "Artificial intelligence could help ease strain on hospitals"
+    excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ..."
+    publishedDateTime: 2022-11-07T09:10:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/york-u-researchers-rev.jpg"
-        width: 2500
-        height: 1403
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg"
+        width: 2121
+        height: 1414
         isCached: true
   - title: "Artificial intelligence could help ease strain on hospitals"
     excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
@@ -57,17 +57,20 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "All NHS staff should have basic AI training, says report"
-    excerpt: "A report by the NHS AI Lab and Health Education England calls for all health and care staff to receive training in artificial intelligence as the technology will be increasingly adopted in healthcare practice."
-    publishedDateTime: 2022-11-03T07:53:00Z
-    webUrl: "https://www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report"
-    ampWebUrl: "https://www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252526876/All-NHS-staff-should-have-basic-AI-training-says-report?amp=1"
+  - title: "Study finds artificial intelligence may help ease strain on hospitals"
+    excerpt: "Researchers believe that developing cutting-edge artificial intelligence AI that can quickly and accurately identify lung diseases like pneumonia and tubercul"
+    publishedDateTime: 2022-11-07T10:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273050642/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1667815297.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "LAD57Z3V2jhaVCYokPxw2+YDCdii1GWc4QLsB+EtSA06etXfFtNPMew/QOnyXAA1aUCZfv/ARAkqDmNFUCWXtGgIwKfu/pwu5z48NvUVVGlCxHqFL+eODd6sgGJ6htz0dI935K/xMc12cJL0uwC5Hi7vZsLvIORFgm8EZnSL/SwHkXrJp2IqVXVvRDen6omHMIVE+KMY8YIrBzNg1EhBj5ufIZhVkA6PDzl9k583N1QpnL1ICNEIXBLVftFsMtkDVt87DuCNcUHSsFNNXhSa9wjNSyS7dNRWNJ8/R3bmtaoMjLlAcTSLFp8P5vMFVvsIMOT3PmWEc3C0lRcw1jqfvu9pfG5apRma5XGUbEUp9bY=;tIcCTnRemgS7a8RmNDwXFQ=="
 ---

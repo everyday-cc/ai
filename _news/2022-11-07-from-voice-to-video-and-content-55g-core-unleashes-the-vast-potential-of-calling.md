@@ -2,9 +2,9 @@
 category: news
 title: "From Voice to Video and Content, 5.5G Core Unleashes the Vast Potential of Calling"
 excerpt: "At the 5G Core Summit 2022 held by Informa Tech and co-hosted by Huawei in Bangkok, Thailand, George Gao, President of Huawei CS&IMS Domain, delivered a speech titled From Voice to Video and Content,"
-publishedDateTime: 2022-11-07T08:50:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/07/9707050.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/07/9707050.htm"
+publishedDateTime: 2022-11-07T10:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-from-voice-video-content-55g-core-unleashes-vast-/2022/11/07/9707050.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-from-voice-video-content-55g-core-unleashes-vast-/2022/11/07/9707050.htm"
 type: article
 quality: 18
 heat: 18
@@ -24,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "B0nHCSpN/24fhXLVvoM1DxJDIPVSD5NIxmtLBxWkby67pmS+qGydfTgPd6c1haoBRHd5WfzEMzb9ZCQdcV7DAnCL6h+nXnNGNaOFJvq2BSKXRTL1rsqiVv3hoE0fBbS+RXfxjMhyI88t9Zn+Lp0kvdNo0BYn/A83OTzN+AvCREr9xLm5myJ6nLiU1vUOBpeF+1p9zupfYTZxypJE3my6B9fAGQzYDnGeeOMSfRmm7pNRFuRb+MKKU018Yz4AV3MZDaNzVA/LiLRG50UHEqIwnpO/xbUnhTafvmz/XZhk0J/o+QEqMj2EflWz1XTcnyYCnzuriMmLARetRm3Bg13yZtQ3eRNzfdW1AH6SOsHXI2U=;dOXbf8VC35WPUUta1uqALw=="
+secured: "+LUs7uvvZpNE/St4eFz6pJ1TLzi2tCJPmWyQ6sKXs2cESr2x2S7aRZ6vKu4Wn80XXIl8OW+aM0IRHz3JgvrJiaR0e9TupESLIlIEsRYhSRfecSWMLxwb3Nt2+NwBVfmyfhsOwFip+MsruKgT/DTj2B2TnS6WT/jINVOHQ03QHEhYFDxhH4uShvyW0H6p95/25+PUL/7h/JyYJQNsM5wdN5R11Yjt0lCg3ZNrRLaadqZDXYWb6ykxDeIce7QBUe2i3lt3yDuS4htUnKZ4DBah5lTaBMopAtanVO9INnVcad9UacbSLLrx1szX4jtlVwpjM3tSZVHURV9YQ75MGD0Z3JcoRnfrji8DyfEN/hK8xXU=;GGIyQVA0eeWKzbUUwllLNg=="
 ---
 

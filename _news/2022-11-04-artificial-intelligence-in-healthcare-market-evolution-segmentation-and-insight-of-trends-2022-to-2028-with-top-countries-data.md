@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04"
 type: article
 quality: 56
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chips Market Structure with Region Wise Analysis, Top Industry Players and Complete Forecast Till 2028"
+    excerpt: "Nov 07, 2022 (The Expresswire) -- \"Artificial Intelligence Chips Market\" research provides significant and in-depth information on the global market."
+    publishedDateTime: 2022-11-07T06:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-structure-with-region-wise-analysis-top-industry-players-and-complete-forecast-till-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

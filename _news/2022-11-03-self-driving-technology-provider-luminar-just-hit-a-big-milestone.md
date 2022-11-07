@@ -2,11 +2,11 @@
 category: news
 title: "Self-Driving Technology Provider Luminar Just Hit a Big Milestone"
 excerpt: "Luminar lidar is now being used in production cars, and the company reported third-quarter results that beat Wall Street expectations."
-publishedDateTime: 2022-11-03T01:21:00Z
-originalUrl: "https://www.barrons.com/articles/luminar-results-51667424013"
-webUrl: "https://www.barrons.com/articles/luminar-results-51667424013"
-ampWebUrl: "https://www.barrons.com/amp/articles/luminar-results-51667424013"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-results-51667424013"
+publishedDateTime: 2022-11-03T16:42:00Z
+originalUrl: "https://www.barrons.com/articles/luminar-results-51667424013?siteid=yhoof2"
+webUrl: "https://www.barrons.com/articles/luminar-results-51667424013?siteid=yhoof2"
+ampWebUrl: "https://www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
 type: article
 quality: 44
 heat: 44
@@ -39,6 +39,6 @@ related:
       domain: bizjournals.com
     quality: 39
 
-secured: "rTSS7cR+l2ucxWvxJiIGA875AXGFq/QGRqJjjr5O7YxC5rW635mBJoq0RFedSe7iHd33z7QywjJw5ER0zVI03qfuajozvxg2l3MERlKl2au5EsvGrqn1jaBeKXQuvRu46a6eZpKinxeQUIvalOm/Ar5mvM3ydQVbIBsZdTU6E3JpC4mb8K58c1fQRxKj6TohFl4yVDIs6ZmS/x29silD42sqnE/9ftWx7wUsVy0z3IsILv2fVk08Lpa5WYAI0odZzW+OLaAauDfEVTvUjpPHkaaroMkydObnldjisD3leyzsXrUcBr+4wnHuui1v0tNMBLyc4m4IouDv++s1SAU5Sz+LvhU8D5jJdZDpCH79r4A=;3QR18HV6HCVXItjPH+Awmw=="
+secured: "cUjmZ840BY/X76s5Dm1J/C9XXoyA4G4mpnPkmr2xb11bZ8SBKMubOOhuWokY5h1hkZMPJrMDP+3lCVs7aZsJXERpiscnlgEtDfHgB692G+gVigB2/dtGRfc/s1KSJivJwuoWiF7vDjcMJN6rUGQKuIBvIaFECvEUDxcCMPtJfYNAgUF99Sr2cMTq1YJ7YXtBelNFlHc6ONljTs/1DM9zTb+gClpgx/hZ8zwVBeIgC3YfvJaRVK54wrzRoHvyZ538LRqJUZNnta6iYh4vIDtmBrtzka3PuYLaFE8mLGyr6Xk6PlmPZU82w5Jjgm7MPhEL9KsCAjBACQPklLqg6PbRtQej8NiXCIF0aAJ1vrJAefU=;SH96Yxrtn13DIcx8RQmkig=="
 ---
 

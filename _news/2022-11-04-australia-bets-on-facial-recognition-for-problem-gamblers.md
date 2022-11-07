@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Australia bets on facial recognition for problem gamblers"
-excerpt: "Clubs and pubs in the country’s largest state are rolling out AI tech to spot gambling addicts, but critics flag privacy concerns."
-publishedDateTime: 2022-11-04T07:27:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
+excerpt: "As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The tech ..."
+publishedDateTime: 2022-11-04T06:01:00Z
+originalUrl: "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+webUrl: "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Al Jazeera English
+  domain: aljazeera.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1804543.jpg"
-    width: 1240
-    height: 826
+  - url: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-09-29T015936Z_1168054420_RC29KW9J7XZP_RTRMADP_3_AUSTRALIA-GAMBLING.jpg?resize=1920%2C1440"
+    width: 1920
+    height: 1440
     isCached: true
 
 related:
@@ -97,6 +99,6 @@ related:
       domain: sbs.com.au
     quality: 0
 
-secured: "+TSqBXeO+YTGh1vWGosQtkci25iYPA6xagh/eRSG0kj5o1UkwbylmVnfpro5OUipPsCpvz0YLm0t99RYZOumZ0bgrMV7VUX36aH583Bjz7hQj5XtXW02XFNEfU7JuzLQLBI6uTQxmQWuoKQDiUH3PlmXUmdWyxt+yqJrdRbYG65fKXQ080gKBAJbdphQbg9KXCarCUan8nwVxLmOU73OygrszOWHsZLMZAm+AsVnXifPYnhvjV3FBxgbQIBkhlmU5B5daV713gGYx6oGsRvPcqp7kmWSUBRa9Nxy41lg9ftcMJTUbc+Yw7vTGVoJjqrF2PlXvqAgUASeX4U2p2GJptqpEx0Fd1ga47Mp2hnwEsZTdjm75JmlGWcyKgF/qWTgtY7cFw72pueGn/U2mh/ulaqkDwgeCR+r4vtTsb6ffE15bCFRtX8HyGlmd5S5YEjbe2ykWt2p2flEBTdkO2x9AN/xWUhDjwi1sqkBg/DNCMGyes5+gcleqCsFLoWWv3qHcw9GOfHrrG/XNo8cePASeg==;m4et0/PZbpCCooS8btkUnw=="
+secured: "8w5eIkVl2skEdNICrH8KhkyZ7WoJs0+8D62UWGyWOMOdXMhuu+6+CRig7vs9E3V8A2yyLqj9ZTFUQAoNM0KvSb6WjX7wn45xW/fUgWH0P8wT4vkfeLB4jiSZ4k1bjuboKds1FCxKcdQsShR6oYNStxw7QGpSKKwA8vzy00F53DjynzZw0TBAU2DQWg2PbmClZCDtT2bq71kJeRt7jn6Qm4WrQ7xjmfnncZ6GQSuCj75JbiijqEhybgpgG8OCSypHBVC+Y8UvSpIk+cY47Ym93jjfmwwFXKB+TrBQl6ceqEQe06ez3vFGSw+WscZCMi2QvdYLZN3/C071qfJdCLVI021gZ59+SdveizJPrKZhZWU=;nq6kOET8F2hF0efj0L1K1w=="
 ---
 

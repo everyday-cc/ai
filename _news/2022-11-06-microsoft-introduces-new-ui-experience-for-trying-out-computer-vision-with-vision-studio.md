@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
 webUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,31 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+
+related:
+  - title: "Microsoft wants AI to change your job"
+    excerpt: "Microsoft executives told Bloomberg the company has plans to develop the Copilot technology for use in similar programs for other job categories, like office work, video-game design, architecture and computer security."
+    publishedDateTime: 2022-11-05T22:11:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 56
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2022/11/392940529-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Vee24 Virtual Boutique Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Vee24, the leader in person-to-person digital customer experience solutions, today announced the availability of their Virtual Boutique in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2022-11-03T13:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vee24-virtual-boutique-now-available-the-microsoft-azure-/2022/11/03/9705655.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
 
 secured: "rFSLoHdvUqbSi6GL6A8RykGOTgT1hKORP1n/SmCQhXL3adVj6JUfsQnbSyvHGS5LDGO80KBO4fpgrJv3EfSPkGrkk1W4PcjgdPrHZsOPhgtg4Nap4byuG4OAt6N6wcBvZ4Wzwz90GKwat/eTx7pGbF048nYPxL1HWYWthtP4m4v7So9mWDgh5Lt550ANa7t4FUiXyFs61KvMv1PtL3Ql8znoHHfC2nYr2mJ+Lhp25aakr0LZrd9YvDJmZ4lnfDdGTEphpsSDw481GSblFaRSRBX69Ix7VpZZm+/Xb+qtOsw56Y2EiGf9+3jK3LvWp9ySE0zoQWGrGKeCOUkzJBU/TDTRYt2MJm28AYOYoJMHgSenwvvk+DsOg0dxp5xvl+woNdzKjgMAKSdX+/eLsW5jcQOoEZzGdxpnDY+CNuE593zZEYofIQztzj/+ZalLLEdrQD2NskNQ4BIeo5GQYit2TB2pnDqWs6WKTGpUXx9LKG+NZpp5ONj9BCvAZAOAHmxYKDl1BDq+oOU+ITG6A/CWeg==;Y1DhQJ63pX9vhTByOrv4GA=="
 ---

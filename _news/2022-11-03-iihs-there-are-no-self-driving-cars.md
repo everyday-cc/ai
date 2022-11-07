@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/news/article/IIHS-There-Are-No-Self-Driving-
 webUrl: "https://www.chron.com/news/article/IIHS-There-Are-No-Self-Driving-Cars-17552810.php"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1404
     height: 1112
     isCached: true
-
-related:
-  - title: "Self-driving cars are ‘nothing but fantasy’ – Britons roundly reject idea as 'madness'"
-    excerpt: "You can unsubscribe at any time. More info Ministers said the research within the inquiry would include the performance of self-driving vehicles in poor weather conditions as well as their ..."
-    publishedDateTime: 2022-11-02T16:40:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1691138/self-driving-cars-autonomous-vehicles-poll-result-spt"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1691138/self-driving-cars-autonomous-vehicles-poll-result-spt/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1691138/self-driving-cars-autonomous-vehicles-poll-result-spt/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 36
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/self-driving-car-1691138.jpg?r=1667464504426"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "fZ5bkEJSN6w8dZl6ZQFgX0bS/xneJn9XSJGWADDsIGZuKL4GPrRBbm48/xUVJqBOEW1AyqgRVSKkiYil4uRJNk8IgBQpBaEZZgllp/IOfZlRlZev0WL95pZ0TtKsExVYPpf8OhURnPtVCXG0LNRfmtdmSP512AqB7FpfbjFDtT7CuObGauvc1DmMz4zCGSNOx5C0dHbeUSZWMrBddJaWdft4JE0S3pY6tYUzeynpLzbdy/rMm3AuqizEN15xgrA4MvgOhYyuYJgLeyhab4390bZyQA+PBILHbXLlsMs6xyIxYW/TwUrPikVhXzeeQmJP+yGDQwrv2wL8o4R8My3EXsrpXVwmNyaK159qQhg5cjkYv2uUVPKJwqJcAyHCbNWCDRaZcokynOa9N6sMRBVcvTB0ozBbxRJjNV47lHoIhDERa6YP2n5pdTuO+L9msyYkLgmUZ1z41lmL4T7GtRgrkrBWqfYe8ZxP5uiuVTJqbiQlgB0F+C+0vmZfjP7wzJNUs0L3ggelbZAD5gLzh3w9Jg==;5CN/x37JaT+0tD/Kkpw1AQ=="
 ---

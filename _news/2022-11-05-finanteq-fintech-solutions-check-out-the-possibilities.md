@@ -43,6 +43,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Biggest fintech trends to watch in 2023"
+    excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
+    publishedDateTime: 2022-11-07T09:29:00Z
+    webUrl: "https://it-online.co.za/2022/11/07/biggest-fintech-trends-to-watch-in-2023/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "9juCTzfTRPHveQl7aVEGkkAJqvNA6kTsOxpQj4CceJVK/XMWQPMjb8zCVJcp2lq37dX88Hv3wQzeEqj7Ax6UciUUFWRVlcwoJyjuk35VH2mABC8PcCBp1fkZH+XZludNEJrcNOgRFSGeD9sS+TWXASYqte6D/GWd/ThRbIWHgpHqb26+qVS8+xplcojkQX4s7c9TabhMxwPZ8niLyfyAfumtKB/Hfe8nfFoQiW2HRBvyGVGuXsP4KKQvFQtkgrFN3Wd8T8jsdaoiy+DPtSX07qby3wXPVQhr/d25Jm3c0T7CB4G0uLltBYsTmP0vn7UW0dh4PsoUtz5a5Ctc9Kc7qErayRk/6p+K3V29D+EZ/wvw0/BHfWdCBPJae1nlDxM29pvrQGe+xmeQrGT21VSjipKgJxxg1kLs4t6zGZuSilbMJyFor5qoGo7ihFpVWiXYJ9k2ku3mzsuollbaMXp31V2YrqoyWh09gJgckCMijXq0XSd/cOovE/3A/Hm7sBkOyWniV0/iQljG4uPmmXD6qA==;ECaXpgHrqeb3lYv6YSq7nw=="
 ---

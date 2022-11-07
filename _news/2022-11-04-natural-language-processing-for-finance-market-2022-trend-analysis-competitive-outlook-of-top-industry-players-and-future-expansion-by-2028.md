@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chips Market Structure with Region Wise Analysis, Top Industry Players and Complete Forecast Till 2028"
+    excerpt: "Nov 07, 2022 (The Expresswire) -- \"Artificial Intelligence Chips Market\" research provides significant and in-depth information on the global market."
+    publishedDateTime: 2022-11-07T06:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-structure-with-region-wise-analysis-top-industry-players-and-complete-forecast-till-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rehabilitation Robotics Market 2022 Latest Developments, Recent Trends, In-depth Analysis, Size share, Business Strategy, Forecast to 2027"
     excerpt: "Nov 03, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Rehabilitation"
     publishedDateTime: 2022-11-03T07:47:00Z

@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 1152
         isCached: true
+  - title: "Arya.ag invests in computer vision-focused SaaS start-up"
+    excerpt: "Assert AI has already established itself as a formidable name in computer vision with offerings that include face recognition, object detection, weapon detection in high-risk areas, docks utilization, packet counting in warehouses, and safety gear ..."
+    publishedDateTime: 2022-11-07T10:20:00Z
+    webUrl: "https://www.ciol.com/arya-ag-invests-computer-vision-focused-saas-start/"
+    ampWebUrl: "https://www.ciol.com/arya-ag-invests-computer-vision-focused-saas-start/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/arya-ag-invests-computer-vision-focused-saas-start/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
 
 secured: "WTPJx0xpgXNXaftUT/nkmI+1MMf9vKi4wKrjnh72vkGo8K7XzBy1nzWEADvYMPmz6C3jtu02a1/DEwryavbI6q58HGlTf4qDsE+FJP27BQ5Db0LpX34Kw7OjJg88p5jm6IUMX9qB4qBfsy+Vxil2dyCylswUuG4GRTB/9LCLgv+G2H5Usp7nIOrs0IwMlnmVBv63GO6KQiryT81BarvyZTK2a7U8DbriZDLwpaS3Ldr7dDuyNfc0tz7ArLoUuQfdbMC5Ao0chik8725r7zA0kXBB2lsUwemeySrP+RehRmU75/AQJyCggccqELIx+cptco/XSuw63YSwX7Hvjp1sMc/D3E64PDz02cIII/97Ve0=;B8i9rHbrAHB4c56BwVJk3A=="
 ---

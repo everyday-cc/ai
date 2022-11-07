@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chips Market Structure with Region Wise Analysis, Top Industry Players and Complete Forecast Till 2028"
+    excerpt: "Nov 07, 2022 (The Expresswire) -- \"Artificial Intelligence Chips Market\" research provides significant and in-depth information on the global market."
+    publishedDateTime: 2022-11-07T06:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-structure-with-region-wise-analysis-top-industry-players-and-complete-forecast-till-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
     excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
     publishedDateTime: 2022-11-04T04:39:00Z

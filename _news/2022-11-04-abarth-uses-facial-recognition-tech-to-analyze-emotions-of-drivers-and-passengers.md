@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-tec
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
         width: 1292
         height: 715
-        isCached: true
-  - title: "Abarth uses facial recognition technology to measure driver and passenger enjoyment"
-    excerpt: "Abarth has become the first manufacturer to use facial recognition technology to understand the emotions experienced when in its cars. Working with the world renowned Loughborough"
-    publishedDateTime: 2022-11-02T17:22:00Z
-    webUrl: "https://www.sgcarmart.com/news/article.php?AID=27555"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 33
-    images:
-      - url: "https://i.i-sgcm.com/news/article_news/2022/27555_1_l.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "aHD1S3iMj18gB5OesY/szYmrqGQd2Hkl78zZPQMiu4A+GZWyfRC5juiKfEvmQ/1RuVtKVvlSqsyJLWN17V7ubonneXDIG5SgEzjjj8Z7ucgzWArkEQ1X5mft22CMyVuGVxXBDvAWmORU4BSksRoyyqLurNPJul/fYtNL/neMot29CqR/LH3+/FwLyvQqBzDINXJ+DAj6/3rIoUIQLlZUXhyV6dchhFfVL+hFm0wymbRdXB9T1pGHxwnOTp7BgFktD5EdTiOisilidJYiw6g6n5ZfTJwVSsoTQTuYHMjQCEiWCpwW58nX5sYg+6xG0ZRLhDFZLKm/mUVvr27cy47qSb8DDXXGE/Fh2ezxBRhMi3oFj57gXXl9VMUGcScHaYtulBG4oo+nBayc94BgIC3jtQI1vDdbyhZWNSF4RHISfcIiyYkqMwSEsvoIdvxG9g0GgGlMluVVS6y6gNFlSpPQ1fK4Ajm+sZJLRcw6WZrnAzC0AQghx0lAVdsAo7PkxDZw3vwee02mFFcDN39V8kOhWg==;oK6tdP5yPAS4v1USXV3AOw=="

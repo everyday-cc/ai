@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Google Wants AI In One Thousand Languages"
-excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
-publishedDateTime: 2022-11-02T19:35:00Z
-originalUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
-webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
-ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
+title: "Google wants AI in one thousand languages"
+excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+publishedDateTime: 2022-11-02T20:08:00Z
+originalUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
 
 related:
   - title: "Google makes massive commitment to support more languages using AI"
@@ -36,22 +42,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768"
         width: 768
         height: 432
-        isCached: true
-  - title: "Google announces AI advances in text-to-video, language translation, more"
-    excerpt: "At a Google AI event in New York City, the company announced a variety of AI advances, including in generative AI and language translation."
-    publishedDateTime: 2022-11-02T16:49:00Z
-    webUrl: "https://venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/"
-    ampWebUrl: "https://venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/20221102_090648-e1667396070796.jpg?w=1200&strip=all"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Google wants AI in one thousand languages"
     excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
@@ -95,6 +85,6 @@ related:
       domain: beckershospitalreview.com
     quality: 19
 
-secured: "u1dDK9Hg2QWED3k1tbUzNt8ycgHYOFVoQA1fHKsQ17xgX5EnuOXXje6kU1DJBuWEQCPPNwsCBSBhZheqUvbfuiFXec0nE5mwwz/pwcZm+L0gMA0l8bKQc4L8Sep3675JxtTCpBGCs8GaIUHxY05Qy2Ble2r6OjZ4yivKT6a7lI56JP7bESKWAQdKG3Wti0q4chqsCVjQBmSuv8w6wz4SmWkXNBbi4H9pEEE8MCMdqw8Xd5xveseHVW01S5AlheZ+1mxwXSJ+ED7hZ35OXD7Poik86kkH0eR3ZTNQGmyF5b8umFMxPgMCYrG1hHa2UkjaqUnxrvgnq5cQuo3lK7UJ0QrH7/jVBLU77HyXKRubY9Q=;EXdCK6ozikGRwq1Rc2ULVg=="
+secured: "LjqOBApeArRmXJR4GE5DbiNOqNHfrKA9+DxWB7xroC4HHq9HVI/P9+8XnI1ALsB2qUdMTu7QVl/c/YmDjZED6fxFjBGKtbQRbW/aD0N4kEmXX6Jy8kQkrTzb1Q0HEJMZq9tKA0DPvQLTnJDmozV0jApbLK8zogruDhSpY76fUqTe2qA0K+U/6z86DvHOJOtt61fH9NKkkvi/ZaEGtW3Hb4ByqpJCyDXvG7VVpgZ17+JsFnsZeN+vqK6MHa/pBNhIoAj8M9lBmOm0wDb2eFUkmpUEhgFMxpue7KOh5NgpvKA8iBiVOgSrK+l4pXr2+XaKbBuAcJNXc2BHbkor79Gv06/CHHwpRFUpkOquCyRtV20=;nZCpV+v3RQyPrMfKI9PdPQ=="
 ---
 

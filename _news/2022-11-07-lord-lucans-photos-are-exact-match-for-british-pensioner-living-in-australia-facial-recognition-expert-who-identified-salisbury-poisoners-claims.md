@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australia bets on facial recognition for problem gamblers"
+    excerpt: "As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The tech ..."
+    publishedDateTime: 2022-11-04T06:01:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-09-29T015936Z_1168054420_RC29KW9J7XZP_RTRMADP_3_AUSTRALIA-GAMBLING.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "US group campaigning against Australia’s reversal of recognition of West Jerusalem as Israeli capital"
     excerpt: "StandWithUs places ad in the Weekend Australian and asks readers to email Anthony Albanese and Penny Wong about issue"
     publishedDateTime: 2022-11-02T23:33:00Z
@@ -58,20 +74,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/e498b1e2163bffaa7fed3f6a9815e26b1aad2fbe/0_161_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=23c0da344eb5ad5a9780bd46f94cde69"
         width: 620
         height: 372
-        isCached: true
-  - title: "Australia bets on facial recognition for problem gamblers"
-    excerpt: "Clubs and pubs in the country’s largest state are rolling out AI tech to spot gambling addicts, but critics flag privacy concerns."
-    publishedDateTime: 2022-11-04T07:27:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1804543.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Hotel bets on face recognition tech to deal with gambling addicts"
     excerpt: "MELBOURNE—As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The"

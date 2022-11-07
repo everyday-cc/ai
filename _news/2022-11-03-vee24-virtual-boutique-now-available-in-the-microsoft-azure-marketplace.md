@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-vee24-virtual-boutique-now-availab
 webUrl: "https://www.tmcnet.com/usubmit/-vee24-virtual-boutique-now-available-the-microsoft-azure-/2022/11/03/9705655.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Microsoft wants AI to change your job"
+    excerpt: "Microsoft executives told Bloomberg the company has plans to develop the Copilot technology for use in similar programs for other job categories, like office work, video-game design, architecture and computer security."
+    publishedDateTime: 2022-11-05T22:11:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 56
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2022/11/392940529-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
+    excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
+    publishedDateTime: 2022-11-05T18:25:00Z
+    webUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 27
 
 secured: "gw8N3BT1Vieg+nZV5dFPI4Xftq43qsXyTlFhZVhKE6ANd0EBocJvZYtzXRXUUwaCsRXR0eW5rrmAf6jYUJ798l0KcF2WurfKsHODgUTvgaf8s7QPT0qh7WvY0yezKbfgOA7xWzPQeiXEl5Rz7nAEepomgx4VvTWtxB94+JSYD1Y1eWWnFVLhxMCxZPvOd9Uc/7N0A+kCX1ACZ1SB6YJnddowsjvIanik222zAubssVE1IpDIKAPQtL5D6YKREn5QuqQN0fxhNzUxsxs+OqCAndG+k00NlJAxR/LMO54RAKOk582ThTPBDDB3FYmVvxIkY7cGs5u6xghkHgHcS0dI4QOrDVoW9Kgwvg/5oeUt5Ps=;PnFWTQrvMFds342Et58MwQ=="
 ---
