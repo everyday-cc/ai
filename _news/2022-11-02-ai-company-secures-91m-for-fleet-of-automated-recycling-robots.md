@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 802
     isCached: true
-
-related:
-  - title: "Denver company raises $91M to build fleet of recycling robots"
-    excerpt: "said the capital would grow the startup's manufacturing capacity to support a fleet of 275 robots around the world. The company has three production facilities located in Denver, Atlanta and Cleveland, Ohio. AMP's artificial-intelligence-powered robotic ..."
-    publishedDateTime: 2022-11-02T13:08:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2022/11/02/denver-amp-robotics-fundraise-recycling-robots.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "p9U1fVWQh2ryEJQqqtFL92bBhiLMVU58ANHFaJraAUTaOXzZtaMhZyXvho5CtWrIHUclvnMQ8rWRw3zr/iJA3Zn2n/OHb2hQSuMgTbwiw9QD1u5jFr4met/7PnWcJPkiO67Xoo0Em0SlPftR169fGkN8JiARtK7DDloyATl2ynCm50H/Cfw1s2jkCsH7Kz/IUUoGy9w/GrXMf9cKyyAwyTPdHvVjKD+V9P2pXOeon9TNqX6HF2/UbyikyxoUaK5Szn9QA+wHNRtiturO+iMzrv4scWTizGu4FVh83nRisUjsqa2J4AGFpxZosjpRFM5jvR3anjxzhGPslaopBI1v7TkTSc9fHlgWpJHazQwBs2rljlAQXKMp6GxmV1oC5v2m+Y2OUoxHI2NF4Ei+Til0HPzqB2DJ8ik4DocWYxMAOINft/vdxgMkwOZ91Aw/l5VFNDGweiFkDJSiFmvMfFe1GKJysKkdoo7Ot9Kx8P1WSWW5OpbKf4+xSDPWxODwhmdYXLsPHNK8ahvYNEKdRrtPIQ==;bmayR3BrfQ6MaIdeJpORpA=="
 ---

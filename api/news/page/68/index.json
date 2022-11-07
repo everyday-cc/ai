@@ -2,21 +2,21 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2022-08-12-food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast.md",
-      "title": "Food Robotics Market 2022-2027: Report, Size, Industry Share, Growth, Trends and Forecast",
-      "excerpt": "According to IMARC Group latest report titled \" Food Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,",
+      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
+      "title": "Iran might use facial recognition to identify women who violate hijab law",
+      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
+      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
+      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,116 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T22:24:00-07:00",
+      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "publishedDateTime": "2022-09-06T17:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety.md",
-      "title": "Why Airbus is betting on AI to fix pilot shortage, flight safety",
-      "excerpt": "As airline passengers slog through a summer of rampant flight delays and cancellations, airlines are grappling with a massive post-pandemic increase in air travel demand and a long-term pilot shortage – while also prioritizing safety.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/",
-      "originalUrl": "https://venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Wayfinder_1-e1660241258956.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/amp/",
-      "publishedDateTime": "2022-08-11T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-ai-algorithm-that-detects-brain-abnormalities-could-help-cure-epilepsy.md",
-      "title": "AI algorithm that detects brain abnormalities could help cure epilepsy",
-      "excerpt": "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
-      "publishedDateTime": "2022-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -143,25 +40,26 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-08-12-artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Artificial Intelligence-based Security Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "This study examines the \"Artificial Intelligence-based Security Market\" from a variety of perspectives, including market size, market status, market trends, and forecasts 2022 - 2028. With an examination of each area, the research provides significant ...",
+      "path": "_news/2022-09-07-nektarai-exits-stealth-mode-to-plug-crm-data-leakages.md",
+      "title": "Nektar.ai exits stealth mode to plug CRM data leakages",
+      "excerpt": "A lot of important data gets lost along the sales pipeline because sales teams use multiple tools, including email, Zoom and WhatsApp, to talk with buyers. Nektar.ai wants to solve the problem of data leakage with its sales productivity platform,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-12",
+      "webUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
+      "originalUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1059088668.jpg",
+          "width": 2119,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -169,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T17:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "publishedDateTime": "2022-09-06T17:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -195,26 +93,25 @@
       ],
       "topics": [
         "AI",
-        "AI in Security",
-        "AI in Autos"
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2022-08-12-driverless-cars-shouldnt-be-a-race.md",
-      "title": "Driverless Cars Shouldn’t Be a Race",
-      "excerpt": "the Chinese company Baidu, and Waymo, a sibling company of Google, are regularly described as being in a horse race to make self-driving vehicles ready for widespread use. Some U.S. policy ...",
+      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
+      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
+      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/08/11/technology/driverless-cars.html",
-      "originalUrl": "https://www.nytimes.com/2022/08/11/technology/driverless-cars.html",
+      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/08/11/business/11OnTech-SelfDriving-promo/11OnTech-SelfDriving-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
+          "width": 700,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,23 +119,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/08/11/technology/driverless-cars.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/11/technology/driverless-cars.amp.html",
-      "publishedDateTime": "2022-08-11T16:29:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
+      "publishedDateTime": "2022-09-06T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -252,216 +140,12 @@
       ]
     },
     {
-      "path": "_news/2022-08-12-facebook-robot-brands-mark-zuckerberg-as-creepy-and-manipulative.md",
-      "title": "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’",
-      "excerpt": "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch",
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
-      "originalUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
-      "publishedDateTime": "2022-08-11T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
-      "title": "Degrees of the Future 2022: Artificial Intelligence",
-      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
-          "width": 800,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "publishedDateTime": "2022-08-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
-      "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
-      "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "originalUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c090dc1c928cf8099bdf98d8ffc98fcea278e518/2022/08/08/e1d0e5a7-27e5-4c6d-b669-9a0ed1789a98/officebackendconnectivity.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "publishedDateTime": "2022-08-11T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-introduction-to-the-tensorflow-models-nlp-library.md",
-      "title": "Introduction to the TensorFlow Models NLP library",
-      "excerpt": "In this Colab notebook, you will learn how to build transformer-based models for common NLP tasks including pretraining, span labelling and classification using the building blocks from NLP modeling library. # Uninstall colab's opencv-python, it conflicts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tfmodels/nlp",
-      "originalUrl": "https://www.tensorflow.org/tfmodels/nlp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy-footprint.md",
-      "title": "Johnson Controls AI-enhanced OpenBlue Platform Cuts Microsoft's Beijing Campus Energy Footprint",
-      "excerpt": "OpenBlue suite of connected solutions plays a key role in achieving lean campus management with higher energy efficiency and better user experience Professional service brings more than 98% uptime of key equipment and increase the level of operational automation SHANGHAI,",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -471,12 +155,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T13:50:00-07:00",
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -490,360 +183,22 @@
       ]
     },
     {
-      "path": "_news/2022-08-11-build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics.md",
-      "title": "Build an air quality anomaly detector using Amazon Lookout for Metrics",
-      "excerpt": "Today, air pollution is a familiar environmental issue that creates severe respiratory and heart conditions, which pose serious health threats. Acid rain, depletion of the ozone layer, and global warming are also adverse consequences of air pollution. There is a need for intelligent monitoring and automation",
+      "path": "_news/2022-09-07-it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft.md",
+      "title": "IT services provider Long View is recognized as an industry leader in sustainability by Cisco and Microsoft",
+      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/27/ML-7925-image001-1225x630.png",
-          "width": 1225,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T13:46:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-why-diversity-should-have-a-critical-impact-on-data-privacy.md",
-      "title": "Why diversity should have a critical impact on data privacy",
-      "excerpt": "Exploring why diversity must play a critical role in data privacy and how companies can create more inclusive and ethical technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/",
-      "originalUrl": "https://venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/business-meeting.GettyImages-607477465.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/amp/",
-      "publishedDateTime": "2022-08-11T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
-      "title": "How artificial intelligence could lower nuclear energy costs",
-      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg",
-          "width": 1920,
-          "height": 1278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "publishedDateTime": "2022-08-11T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone.md",
-      "title": "Xiaomi unveiled its first full-size humanoid robot, CyberOne",
-      "excerpt": "Xiaomi announced a bunch of new products at today’s event and to be honest they were all pretty cool. However, what impressed us the most is Xiaomi’s first full-size humanoid robot called CyberOne.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/Xiaomi-Cyberone-robot-1.jpg",
-          "width": 1500,
-          "height": 1194,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1",
-      "publishedDateTime": "2022-08-11T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics.md",
-      "title": "New AI Facial Recognition and Emotion Detection Solution Powered by Intetics",
-      "excerpt": "As a natural progression of facial recognition technology, emotion recognition is a field of computer vision that is gaining more and more attention in mass media. It involves facial emotion detection",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28459827",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459827",
-      "publishedDateTime": "2022-08-11T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so.md",
-      "title": "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so",
-      "excerpt": "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/",
-      "originalUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg",
-          "width": 1267,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1",
-      "publishedDateTime": "2022-08-11T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
-      "title": "How artificial intelligence could lower nuclear energy costs",
-      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-technologies-like-virtual-reality-and-robotics-could-reduce-the-energy-industrys-carbon-footprint-and-advance-workers-skill-sets.md",
-      "title": "Technologies like virtual reality and robotics could reduce the energy industry's carbon footprint and advance workers' skill sets",
-      "excerpt": "Oil-and-gas leaders are testing VR and AR to accurately pinpoint potential hazards and operate sites entirely with tablets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
-      "originalUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62f30280cc15bf00182fb126?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
-      "publishedDateTime": "2022-08-11T08:56:00-07:00",
+      "publishedDateTime": "2022-09-06T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -866,310 +221,17 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-08-11-memryx-is-a-new-ai-company-we-actually-need.md",
-      "title": "MemryX Is A New AI Company We Actually Need",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead takes a closer look into MemryX, a new startup with a focus on AI processing for edge devices, is creating new technologies to address this emerging market and its direction on how it might be different from the pack.",
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f52016b7bb71d6ba750efd/MemryX-AI-Accelerator-s--can-be-directly-plugged-into-an-existing-USB-or-PCIe-port-/960x0.jpg?height=487&width=711&fit=bounds",
-          "width": 711,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
-      "publishedDateTime": "2022-08-11T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-degrees-of-the-future-2022-autonomy-robotics.md",
-      "title": "Degrees of the Future 2022: Autonomy & Robotics",
-      "excerpt": "such as robotics, machine learning, communication, and control.” The Degrees of the Future 2022 top Autonomy & Robotics programs are: How did Gizmodo determine this year’s honorees?",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/autonomy-robotics-college-university-program-degree-1849354977",
-      "originalUrl": "https://gizmodo.com/autonomy-robotics-college-university-program-degree-1849354977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/12b7b65131a65d4025a980f88fb3bdfb.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/autonomy-robotics-college-university-program-degree-1849354977/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/autonomy-robotics-college-university-program-degree-1849354977/amp",
-      "publishedDateTime": "2022-08-11T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-the-daily-grind-of-the-rumor-mill-machine-learning-deciphers-fake-news.md",
-      "title": "The daily grind of the rumor mill: Machine learning deciphers fake news",
-      "excerpt": "Research published in the International Journal of Cloud Computing looks at how machine learning might allow us to analyze the nature and characteristics of social media updates and detect which of those updates are adding grist to the rumor mill rather than being factual.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fakenews.jpg",
-          "width": 1920,
-          "height": 1046,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
-      "publishedDateTime": "2022-08-11T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results.md",
-      "title": "Google Is Using AI to Cut Down on False Info in 'Featured Snippets' Results",
-      "excerpt": "AI models are also helping Google understand when featured snippets are not useful, particularly in cases that have no real answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results",
-      "originalUrl": "https://www.pcmag.com/news/google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00KTUfG9CZCvCOcV1v21Itf-1.fit_lim.size_1200x630.v1660223149.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground.md",
-      "title": "Stratum AI Revolutionizes Miners’ Deep Learning Of What’s Below Ground",
-      "excerpt": "Mining operators need more accurate estimations of where target minerals are located beneath the ground so they can drill and extract once instead of multiple times. Stratum AI provides a deep learning algorithm to better model the exact location of where wanted minerals are located underground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f444e3a8d44458ee750efd/0x0.jpg?format=jpg&crop=2048,1152,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
-      "publishedDateTime": "2022-08-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama.md",
-      "title": "Artificial intelligence improves outcomes of cognitive behavioral therapy in chronic pain: JAMA",
-      "excerpt": "USA: Use of artificial intelligence for adjusting treatment in cognitive behavioral therapy intervention for chronic pain (AI-CBT-CP) can achieve noninferior and possibly better outcomes relative to standard cognitive behavioral therapy while increasing access and reducing therapist costs,",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "originalUrl": "https://medicaldialogues.in/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2022/08/09/182903-untitled-design-2022-08-09t135154100.jpg",
-          "width": 1500,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "publishedDateTime": "2022-08-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-xiaomi-ceo-says-it-has-140-vehicles-across-china-testing-autonomous-driving.md",
-      "title": "Xiaomi CEO says it has 140 vehicles across China testing autonomous driving",
-      "excerpt": "Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday. The news marks the latest benchmark for the smartphone maker, which announced last year it would enter the competitive EV sector and challenge established brands and younger tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/stock-market-news/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2870418",
-      "originalUrl": "https://www.investing.com/news/stock-market-news/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2870418",
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1179,11 +241,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T07:26:00-07:00",
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1193,10 +255,62 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
+      "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
+      "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1892506/SpringML_Renews_Machine_Learning_Specialization.jpg",
+          "width": 400,
+          "height": 227,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
   ],
-  "nextPage": 69
+  "nextPage": null
 }

@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-05-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
+      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
+      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
+          "width": 278,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
+      "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
+      "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "originalUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/screen-shot-2017-04-18-at-10-04-14-am.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "publishedDateTime": "2022-10-04T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in October",
       "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
@@ -1359,92 +1454,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-and-booz-allen-hamilton-expand-partnership-to-bring-ai-enabled-cybersecurity-to-public-and-private-sectors.md",
-      "title": "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors",
-      "excerpt": "NVIDIA and Booz Allen Hamilton (NYSE: BAH) today announced an expanded collaboration to bring an AI-enabled, GPU-accelerated cybersecurity platform to customers in the public and private sectors. The platform enables next-generation incident response systems that help customers pinpoint cybersecurity threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners.md",
-      "title": "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners",
-      "excerpt": "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
-      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
-      "publishedDateTime": "2022-09-20T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

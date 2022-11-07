@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/how-ai-can-help-the-public-health-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How we're using AI to help address the climate crisis"
-    excerpt: "Communities around the world are facing the effects of climate change — from devastating floods and wildfires to challenges around food security. As global leaders meet in Egypt for COP27, a key area of focus will be on how we can work together to adapt to climate change and implement sustainable solutions."
-    publishedDateTime: 2022-11-02T13:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adaptation-efforts/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "The future of AI for business is human"
     excerpt: "Did he cheat, or was he simply demonstrating the power that AI has to take over human tasks, even those involving substantial human creativity?  AI is increasingly transforming organisations across all sectors of the economy."
     publishedDateTime: 2022-11-03T12:13:00Z

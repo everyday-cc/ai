@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-07-ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers.md",
+      "title": "AI technology could help ease winter pressures on NHS, say researchers",
+      "excerpt": "New technology has been developed by researchers from the University of the West of Scotland. Artificial intelligence which automatically diagnoses lung disease could help to ease winter pressure on hospitals,",
+      "sourceUrl": null,
+      "webUrl": "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers",
+      "originalUrl": "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.stv.tv/wp-content/uploads/2022/11/f6f4875bd915b78e0ac9b1715e73ce31-1667764539-social-default.jpg",
+          "width": 1280,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp",
+      "cdnAmpWebUrl": "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp",
+      "publishedDateTime": "2022-11-06T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.stv",
+        "domain": "news.stv.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-the-biggest-opportunity-in-generative-ai-is-language-not-images.md",
       "title": "The Biggest Opportunity In Generative AI Is Language, Not Images",
       "excerpt": "AI-powered copywriting has seen stunning revenue growth over ... and will prefer to work with a neutral startup that deploys its solution on-premise. This will be particularly true in highly regulated industries like financial services and healthcare.",
@@ -219,7 +262,7 @@
       "originalUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -263,7 +306,7 @@
       "originalUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -302,6 +345,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter.md",
+      "title": "Musk axes human rights, accessibility, AI ethics, curation teams at Twitter",
+      "excerpt": "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics, and curation and communications teams were hit the hardest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html",
+      "originalUrl": "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2022/10/5b7ff37ea082293c9b57c8f1b95dc3d7.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp",
+      "publishedDateTime": "2022-11-04T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1038,6 +1124,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-04-former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life.md",
+      "title": "Former iPhone Leader Joins Arm to Bring More Chips Into Your Life",
+      "excerpt": "Arm licenses chip designs to companies like Qualcomm and technology to others like Apple who design their own processors. Graphics and AI chip giant Nvidia tried to acquire Arm for $40 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/aafecc487b5fb4d281afcfab3be1714fad9f5b3f/hub/2022/11/02/8858bad7-8337-4e4b-aa39-ae46f7a17449/20141105-tony-fadell-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "publishedDateTime": "2022-11-04T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-82018-million-by-2028.md",
       "title": "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028",
       "excerpt": "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028.",
@@ -1046,7 +1184,7 @@
       "originalUrl": "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1079,151 +1217,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-our-future-artificial-intelligence-overlords-need-a-resistance-movement.md",
-      "title": "Our Future Artificial Intelligence Overlords Need a Resistance Movement",
-      "excerpt": "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies and stunning fake photographs. They’re even writing code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-twitter-layoffs-to-start-friday-company-tells-staff-in-an-email.md",
-      "title": "Twitter layoffs to start Friday, company tells staff in an email",
-      "excerpt": "Twitter will tell employees by email on Friday about whether they have been laid off, temporarily closing its offices and preventing staff access, following a week of uncertainty about the company's future under new owner Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/",
-      "originalUrl": "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9TVoa6Sfyub4DTtIraYPIN-C6Pg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PS6JHGIU7JN4ZK7BUYMRYW7TGA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
-      "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
-      "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
-      "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
-      "publishedDateTime": "2022-11-03T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

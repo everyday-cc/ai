@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-07-ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers.md",
+      "title": "AI technology could help ease winter pressures on NHS, say researchers",
+      "excerpt": "New technology has been developed by researchers from the University of the West of Scotland. Artificial intelligence which automatically diagnoses lung disease could help to ease winter pressure on hospitals,",
+      "sourceUrl": null,
+      "webUrl": "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers",
+      "originalUrl": "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.stv.tv/wp-content/uploads/2022/11/f6f4875bd915b78e0ac9b1715e73ce31-1667764539-social-default.jpg",
+          "width": 1280,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp",
+      "cdnAmpWebUrl": "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp",
+      "publishedDateTime": "2022-11-06T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.stv",
+        "domain": "news.stv.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
       "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
       "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
@@ -1388,60 +1431,6 @@
         "AWS AI",
         "Machine Learning",
         "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
-      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
-      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
         "Facebook AI"
       ]
     }

@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-03-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
+      "title": "Microsoft wants AI to change your job—if it can work out the kinks",
+      "excerpt": "The most hyped words in tech today may be \"generative AI.\" The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user. The concept was made famous this year by Dall-E,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp",
+      "publishedDateTime": "2022-11-02T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
+          "width": 717,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "publishedDateTime": "2022-11-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-improve-data-extraction-and-document-processing-with-amazon-textract.md",
       "title": "Improve data extraction and document processing with Amazon Textract",
       "excerpt": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured",
@@ -106,7 +193,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -244,35 +331,60 @@
       ]
     },
     {
-      "path": "_news/2022-11-02-amp-robotics-raises-91-million-in-series-c-financing.md",
-      "title": "AMP Robotics Raises $91 Million in Series C Financing",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $91 million in corporate equity in a Series C financing,",
+      "path": "_news/2022-11-02-zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting.md",
+      "title": "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting",
+      "excerpt": "Zest AI plans to use the new funding to rapidly expand ... To learn more about its Discovery Fund, supporting diversity in fintech, visit here.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/amp-robotics-raises-91-million-in-series-c-financing/article_6bf8ef39-adf1-5464-bc4e-f394689b810f.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/amp-robotics-raises-91-million-in-series-c-financing/article_6bf8ef39-adf1-5464-bc4e-f394689b810f.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/2/5e/25ee0c42-29c9-5b47-90c7-d75373b8a3ec/63626015dbfe0.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29521634",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29521634",
+      "publishedDateTime": "2022-11-02T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
       ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-amp-robotics-raises-91-million-in-series-c-financing.md",
+      "title": "AMP Robotics Raises $91 Million in Series C Financing",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing",
+      "originalUrl": "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T05:03:00-07:00",
+      "publishedDateTime": "2022-11-02T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -283,6 +395,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
+      "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
+      "excerpt": "The size of the largest AI startup financing rounds doesn't necessarily correlate with revenue, given the enormous expenses (personnel, compute, etc.) involved in developing state-of-the-art AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/openai-roughly-10-ai-startups-190028423.html",
+      "originalUrl": "https://www.aol.com/news/openai-roughly-10-ai-startups-190028423.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/OhC34B4QrsWD6UYua2z6eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTI-/https://media.zenfs.com/en/techcrunch_350/440d0f7dd8576d8a2c5c9c8c28c74e52",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -477,6 +631,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-02-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry.md",
+      "title": "U.S. Export Control - Impact And Opportunity For China's Semiconductor Industry",
+      "excerpt": "According to its SEC filing, Nvidia (NVDA), the California-based graphics and AI chip leader, will be unable to sell its A100 and H100 AI chips to the fast-growing data center businesses of China.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
+      "originalUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1422453682/image_1422453682.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-beyond-dashboards-the-future-of-analytics-and-business-intelligence.md",
       "title": "Beyond Dashboards: The Future Of Analytics And Business Intelligence?",
       "excerpt": "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need.",
@@ -583,19 +780,62 @@
     {
       "path": "_news/2022-11-02-artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027.md",
       "title": "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027",
-      "excerpt": "Attractive Opportunity: Supercharge your Visualization The industry participants extensively focused on leveraging",
+      "excerpt": "[252 Pages Report] The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% The industry participants ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg",
+          "width": 606,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29514257",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257",
+      "publishedDateTime": "2022-11-01T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-machine-learning-or-automation-whats-the-difference.md",
+      "title": "Machine Learning or Automation: What’s the Difference?",
+      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
+          "width": 1000,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -608,18 +848,9 @@
       "publishedDateTime": "2022-11-01T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -628,7 +859,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -917,311 +1148,6 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge.md",
-      "title": "Problem scaling AI? MIT proposes sub-photon optical deep learning at the edge",
-      "excerpt": "Using wavelength division multiplexing, researchers were able to perform image recognition using optical computing, thereby dramatically lowering the energy required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "originalUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cf73b493c596ba517977d05a81839bc703f72b25/2022/10/31/2478f28e-dfe4-4c71-92c7-fde978a3deb9/photonic-equation-landscape.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "publishedDateTime": "2022-11-01T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-fintechs-utilizing-artificial-intelligence-for-seamless-payment-solutions.md",
-      "title": "Fintechs utilizing Artificial Intelligence for seamless payment solutions",
-      "excerpt": "Today, it comes as no surprise that we can get instant loans, make payments smoothly all because the accounts are linked and enable ease of access through digitization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588",
-      "originalUrl": "https://www.indiatvnews.com/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/11/ai-1667324537.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/brand-content/fintechs-utilizing-artificial-intelligence-ai-for-seamless-payment-solutions-2022-11-01-820588",
-      "publishedDateTime": "2022-11-01T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip.md",
-      "title": "AI is running out of computing power. IBM says the answer is this new chip",
-      "excerpt": "The hype suggests that artificial intelligence (AI) is already everywhere, but in reality the technology that drives it is still developing. Many AI applications are powered with chips that weren't designed for AI – instead, they rely on general-purpose ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "originalUrl": "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/df1c7593bb82d966aaa309915488b64e46238ce9/2022/10/28/85cb2f88-0b6a-4419-accd-78eca77bf320/ibmaiu.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "publishedDateTime": "2022-11-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-elon-musks-rival-austin-russell-said-teslas-will-not-become-self-driving-anytime-soon.md",
-      "title": "Elon Musk's rival Austin Russell said Teslas will not become self-driving anytime soon",
-      "excerpt": "While Elon Musk has been promising autonomous cars are on the horizon, Austin Russell has made billions betting against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63611d136e8b9800192dd7fe?width=1200&format=jpeg",
-          "width": 1182,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp",
-      "publishedDateTime": "2022-11-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-computer-vision-brings-intelligence-to-retail-tech.md",
-      "title": "Computer vision brings intelligence to retail tech",
-      "excerpt": "Cashierless checkout and inventory management tools powered by AI and computer vision are on the rise, despite economic downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
-      "originalUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1155281842.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
-      "publishedDateTime": "2022-11-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop.md",
-      "title": "Automated exploratory data analysis and model operationalization framework with a human in the loop",
-      "excerpt": "Identifying, collecting, and transforming data is the foundation for machine learning (ML). According to a Forbes survey, there is widespread consensus among ML practitioners that data preparation accounts for approximately 80% of the time spent in developing a viable ML model. In addition, many of our",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/automated-exploratory-data-analysis.jpg",
-          "width": 1342,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T10:00:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

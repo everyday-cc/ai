@@ -126,6 +126,15 @@ related:
       name: richest
       domain: thesouthafrican.com
     quality: 19
+  - title: "Mayo, Temple + more using AI to improve patient care"
+    excerpt: "Researchers at Iowa City-based University of Iowa Healthcare are developing an artificial intelligence-based tool to treat interventional radiology patients — with or without a physician ..."
+    publishedDateTime: 2022-11-03T19:13:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/mayo-temple-more-using-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "JWXzs6gGJc/sX5nX9fpzrxf2DVX0RD7oXwKpqwNlQB65/6b1M2Ep/qEHAg8re7qWNm+3yr1xs2jhzJ//wOeRiungjVke4+o05FGGWejRak9CouosjuMB0DPRmVddXmrw1ApYUhRIC8rtW4rmSKF0hr/m9j2JKmtGNwa+c4h/Ylz7J03o1t/V9/6eLClqL4Wjfvh4j28irxFzjwNxBCqZWo2dxa+0s6XHC1egdV2ehPAF+zGqLJyTXq+krATAGVjLGII/V86XiTQdgZRiQpbxw7hlxT0u4p466R8evxb37NF6yvod67sj4ccA9ahkIn4eEwe90DyxZukxa/+60KeLclGL58iiEKK7XG8v+f2XlUuww3eALaN6jZj8MQ+w+7vome8SlGo+nG+kcS6Pu9pmIClzZ/vRo/RIfz7DkdHi7sbUI8fpqFlQYnBw9Cwh9BYumVF6SWKqh/WiCp1ZfSWZlTfVNuXnxdYOZR8AzwAL8+3tU1FMiXXayyNBinK9ZsWUi9s3I0KaKdwGBXdUPby59g==;h+/uxGxPgd9kyMZkCBCOUg=="
 ---

@@ -58,6 +58,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Using Artificial Intelligence to Upgrade Manufacturing in the Optics Industry"
+    excerpt: "A key feature of current and future technologies, from smartphones, self-driving cars, medical testing equipment, to security monitoring, is the optical camera. It is vital"
+    publishedDateTime: 2022-11-07T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/using-artificial-intelligence-upgrade-manufacturing-optics-industry"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 36
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/pr-newswire_500_4_425.jpg?h=7de12b8a&itok=NRsZ6ujK"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "BnNWQKYnOWvlW+co+JgRUw8TX2NGGp3Lrieu+31HbbnUmWSgJFDf0RldeuJfX0e+nON6OGUh5f7Ew7j7ugisV7A34WB/59nLwQvGyLzzuQixpTx6LpNVGFDE/4GqPEQnHVu7QOC90n4s6T0m8iZJ4tKohucRA9hj1K0bLo13iOARCxk/kn3J+Ff4fSD/nC2juewwetFodT2Hgd7E1srwYwUNTpsZfPksBT+D4zqfmtQuMLdcz87WRGGxwto53keCo20pZcT+dC3sR8Opp6DGc3ItxkWyPeyaloEBL3DtzTUxUfgHiq8nS+hCB3j5SDPeJWWAFrwz0VRoVdJN76m75H4gYT0q3g+Btv9ZEX1xxOb/zoWcRuCowpV0XetL8kbuh30ec8zc9OYz1fbOxELPfzIN4zwmepEc7FJ6ZQ2Nt21TGqBNsai9UjrLGtzKcmU/awXogojmX1xvtUBHvj7tGkvY9rAY5A3ui8wJGvJW46eY9i6Vk0V/zXulTFN72ndXbYXJ3mxq46B2UGtCLx4QcQ==;Z46EMRVplv/ob9zpcF4T7w=="
 ---

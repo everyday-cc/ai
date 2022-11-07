@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Fintech Cloud Market to Reach $196.2 Bn, Globally, by 2031 at 16.4% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Fintech Cloud Market by Component (Solution, Service), by Service Type (Infrastructure as"
-    publishedDateTime: 2022-11-02T12:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/fintech-cloud-market-to-reach-196-2-bn-globally-by-2031-at-16-4-cagr-allied-market-research-301666068.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 0
-
 secured: "W9jzBf5eTeg5jhthiwZbElRbcNxU5dpAwRr1YdBiQtqX+Sl0+51buqdPmC/JoqktKi9dMd7T/+jr5sUQnFPzI15143REau5oZJFkgROxbnLdZed5+O9fIteroLXULrnYwIYtBNxBENoVwnyvrmQj18mhXDa9yheCWaAyy/uvCx3/1Py7jqFR/qd47H0seudkmLnGFdAl5mqzHR1QMFNCR0d+6fxmm0x8QWa6fsDa7WMsUTgGgAXY/zKQeM7N5QhXhRfWpd9OYigVmWNkkLVK4+O3V1VfsDwt+DA/5YEqy3GyfBktAnuVq0A+G2G3YzK4ArIoTnzehxloOr/d+laBC89yIGeHjLS+TJPY7KQ1Ua8HRKABdoFjWbUo2dFY271oc97tDBkxqRxxptFqDXo4nYAhjT6RSIgITxqhXaZ7Or1s+A5vbu4oHu36sd38vDKdR/8goyZ2MnJvxZ3yNIiugI4wvhmgKJoUp+gqWBTcUZUwRlueWjH1Be/0fGkXKG+klABXek2s3IGbhFDFDJZ2sA==;g3WMGaFntjN9UHwkQqNNBw=="
 ---
 

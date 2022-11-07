@@ -45,14 +45,25 @@ related:
         height: 900
         isCached: true
   - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2022-11-04T15:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
+    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
+    publishedDateTime: 2022-11-04T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+  - title: "GPU as a Service Market 2022 | Current and Future Demand, Analysis, Growth and Forecast By 2032"
+    excerpt: "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),"
+    publishedDateTime: 2022-11-07T04:58:00Z
+    webUrl: "https://www.fmiblog.com/2022/11/07/gpu-as-a-service-market-2022-current-and-future-demand-analysis-growth-and-forecast-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 7
 
 secured: "Zh3G6J02h7IZyXcEUk3TllSbxpuxUZWwDRs4s3pTgJKgeBbLoCeblEpOh7Yy6kTotSC1pdYuMVImYXqqyH2rWLXS3CwA0pAEXaSc6ZtDZamXb/hAEgxWZojXWjG+7HGRbaNgUGX+O8LleShZjm7EAiMMcnZoUxzl6mYlEqSmyuON6d9aUJSoIkihkm6lyryUdCX/MCt3KQ3tjXWzyVKGUtCO1GamsUdL4Ko4wcNoY2Xl2JhqO8+vIE/Qrv5Kvx2ZEZzxg4RDMj/FaVeNh5lNk427JkpSJMnw/ZoAixXDfeUMZgy1QhapEvpT1wx/W+dQg4+C7v2NdLH4jqAEtKnm7XrJnsWzMzM55vVIiMIBw+4=;dJ1UeDu6Z4TKS+0WnIPszQ=="
 ---

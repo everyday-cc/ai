@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-makes-massive-commit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -130,6 +130,15 @@ related:
     provider:
       name: richest
       domain: thesouthafrican.com
+    quality: 19
+  - title: "Mayo, Temple + more using AI to improve patient care"
+    excerpt: "Researchers at Iowa City-based University of Iowa Healthcare are developing an artificial intelligence-based tool to treat interventional radiology patients — with or without a physician ..."
+    publishedDateTime: 2022-11-03T19:13:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/mayo-temple-more-using-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 19
 
 secured: "xlz3hMll7/pXLb9QkYlfxhk6I/9LJqRyFs9Ccjwf+n5/3JT7caPhrx6EoDdjb4XGgB8Ssyb5wJz7JnDgdx5nBXoqYt976s/XVRiq+YVi85X2Rvbhq1ZHoGe/bO1PsPeJP+pb/unBTrqLFpryg7698aDc5S21kDhwfRBn5hrJoCVfKZCWoJ1z4XvIENvYVufgo71XVdpjyo6RY2J7qGvDVJmOUZkIy2M+CPTtfrWvFZHtJjEW1ykzxxTvZr+eWFIQSC7AEVALOAtiiECDSIYbERBxWT2OX2hYy5PxRX7HNziyVGIXSB4CRw+ehjlrRoxk5E0q3VzFPg994vvFhJeJb0HxH4k0yNOUIB93CYhvd/9AcG/JvoW7XFv35E6MMKLwOpRXAhpLDI+b0noTCrJWlg+ruYPpBGrK2opzzrbF6uk+WfGNlNqgFXmxHF4SwCsJmObcky3lnwuZIsTdpxNkxVO9S+ICbbfhY742SYxvPpcrcoT2QihwIDIJrOQdJNskp5V0LeZ0CHBw7yECvoJu/g==;NFa9K49Uw8InMqXwNFHApA=="

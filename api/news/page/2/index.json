@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-04-our-future-artificial-intelligence-overlords-need-a-resistance-movement.md",
+      "title": "Our Future Artificial Intelligence Overlords Need a Resistance Movement",
+      "excerpt": "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies and stunning fake photographs. They’re even writing code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-twitter-layoffs-to-start-friday-company-tells-staff-in-an-email.md",
+      "title": "Twitter layoffs to start Friday, company tells staff in an email",
+      "excerpt": "Twitter will tell employees by email on Friday about whether they have been laid off, temporarily closing its offices and preventing staff access, following a week of uncertainty about the company's future under new owner Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/",
+      "originalUrl": "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9TVoa6Sfyub4DTtIraYPIN-C6Pg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PS6JHGIU7JN4ZK7BUYMRYW7TGA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
+      "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
+      "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "publishedDateTime": "2022-11-03T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
       "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
       "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
@@ -105,49 +250,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-04-researchers-revamped-ai-tool-makes-water-dramatically-safer-in-refugee-camps.md",
-      "title": "Researchers' revamped AI tool makes water dramatically safer in refugee camps",
-      "excerpt": "Researchers from York University's Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.html",
-      "originalUrl": "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/york-u-researchers-rev.jpg",
-          "width": 2500,
-          "height": 1403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp",
-      "publishedDateTime": "2022-11-03T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-11-04-artificial-intelligence-based-model-predicts-patients-risk-of-acute-kidney-injury.md",
       "title": "Artificial intelligence-based model predicts patients' risk of acute kidney injury",
       "excerpt": "Acute kidney injury (AKI) is common in patients in intensive care units, and predicting which patients are at risk can help clinicians take appropriate preventive measures. Investigators have recently developed an artificial intelligence-based model to help make such predictions.",
@@ -198,7 +300,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -933,7 +1035,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1120,93 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
-      "title": "Microsoft wants AI to change your job—if it can work out the kinks",
-      "excerpt": "The most hyped words in tech today may be \"generative AI.\" The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user. The concept was made famous this year by Dall-E,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp",
-      "publishedDateTime": "2022-11-02T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
-      "title": "Study urges caution when comparing neural networks to the brain",
-      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
-          "width": 717,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
-      "publishedDateTime": "2022-11-02T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

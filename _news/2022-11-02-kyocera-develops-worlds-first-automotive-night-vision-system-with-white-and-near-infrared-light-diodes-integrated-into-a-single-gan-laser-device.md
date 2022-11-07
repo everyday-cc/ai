@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/kyocera-devel
 webUrl: "https://www.joplinglobe.com/region/national_business/kyocera-develops-world-s-first-automotive-night-vision-system-with-white-and-near-infrared-light/article_9a043c37-7e66-53f0-9821-97dce86c7d51.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1089
     height: 572
     isCached: true
-
-related:
-  - title: "Kyocera develops GaN laser-based night vision system"
-    excerpt: "The technology uses white and NIR diodes Integrated into a single GaN laser device, developed by Kyocera SLD Laser Inc. The integrated system has automatic beam shaping functionality for the RGB and NIR light that prevents glare for oncoming drivers by automatically shifting visible light into a low-beam pattern when necessary,"
-    publishedDateTime: 2022-11-02T13:11:00Z
-    webUrl: "https://compoundsemiconductor.net/article/115638/Kyocera_develops_GaN_laser-based_night_vision_system"
-    type: article
-    provider:
-      name: Compoundsemiconductor.net
-      domain: compoundsemiconductor.net
-    quality: 4
 
 secured: "84bWOhPKO++4KeILEb8V2Y3+bn9gF0S7BF68+ikvzUAddU2DPKq+66G+6eM/k8QncUJ5D59o/uztJaZ06JGwNbAnR6uyKEHOieKwmXPEm6ZgpBDd7QX4UlwZGOj4pDlup4eJ/Z8dQd2SMSZKWP/OQsXln/zVjDti1LGcJzRY4iSYoxv0Wtx4LfX4/Og+wMFEG0n4bS+/MkfPgSWlru+s6N2MiV+86vtlyLtQTGG2aDyC2Kuyrw83iMjDz/qrviWuzTCDfGMc2Uh54olKMEjI2Kt+NbPGIJXYJ4uZdvtK5bYQ5gMvBvnXK0jD0Ezv/3IP23nrn1sjh1FGPySSf7FeyF8Uucz/FnsBOimpQyTU48gvK/xbTrmlgvCvMLGLeT0If3b0lCIDlEcg88FDKOs46Bqw4rLUbH66LrDultc5uAaYyTFxPkF51wzHtzeMrlRHBF/XeTm8YO3LBUnn183TqtDucZUT9fubpMZ57/AZHsLutjYYRKAtm0TqATCZsjp4hKaFTRGtVaVY7Bby6roBeg==;PIg/DpuqaFM8O0K2irZslA=="
 ---

@@ -110,6 +110,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-04-former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life.md",
+      "title": "Former iPhone Leader Joins Arm to Bring More Chips Into Your Life",
+      "excerpt": "Arm licenses chip designs to companies like Qualcomm and technology to others like Apple who design their own processors. Graphics and AI chip giant Nvidia tried to acquire Arm for $40 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/aafecc487b5fb4d281afcfab3be1714fad9f5b3f/hub/2022/11/02/8858bad7-8337-4e4b-aa39-ae46f7a17449/20141105-tony-fadell-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "publishedDateTime": "2022-11-04T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-todays-cache-are-taiwanese-chip-firms-decoupling-from-china.md",
       "title": "Today’s Cache | Are Taiwanese chip firms decoupling from China?",
       "excerpt": "Taiwanese chip makers have been investing in mainland China since the 1980s, and thousands of firms operate there today. Decoupling from China won’t be an easy affair, but the process seems to have st",
@@ -244,6 +296,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry.md",
+      "title": "U.S. Export Control - Impact And Opportunity For China's Semiconductor Industry",
+      "excerpt": "According to its SEC filing, Nvidia (NVDA), the California-based graphics and AI chip leader, will be unable to sell its A100 and H100 AI chips to the fast-growing data center businesses of China.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
+      "originalUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1422453682/image_1422453682.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -862,43 +957,25 @@
     {
       "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
       "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
-      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
+      "excerpt": "Inspur Information, a leading IT infrastructure solutions provider, announced its Korean subsidiary built an advanced AI server architecture platform for Upstage, a leading AI company based in Korea.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
+      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699240.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699240.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T02:09:00-07:00",
+      "publishedDateTime": "2022-10-25T08:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1062,10 +1139,10 @@
     {
       "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarkets.md",
       "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™.",
+      "excerpt": "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/24/9698227.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/24/9698227.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29379119/edge-ai-hardware-market-worth-2-716-million-units-by-2027-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29379119/edge-ai-hardware-market-worth-2-716-million-units-by-2027-exclusive-report-by-marketsandmarkets",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1073,13 +1150,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T06:34:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29379119",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29379119",
+      "publishedDateTime": "2022-10-24T06:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1295,92 +1372,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-nvidia-supercharges-oracles-cloud-infrastructure-to-help-industries-adopt-ai-into-their-business.md",
-      "title": "NVIDIA supercharges Oracle’s cloud infrastructure to help industries adopt AI into their business",
-      "excerpt": "NVIDIA and Oracle has jointly released a statement detailing a new multi-year partnership regarding the latter's cloud-computing division getting buffed with some serious hardware and software support from the former.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
-      "originalUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/10/NVIDIA-x-Oracle-Enterprise-AI-Partnership.jpg",
-          "width": 1271,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
-      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
-      "publishedDateTime": "2022-10-19T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech-critter.com",
-        "domain": "tech-critter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-nvidia-geforce-rtx-3090-vs-3080-vs-3070-vs-3060-which-gpu-should-you-buy.md",
-      "title": "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?",
-      "excerpt": "they all make use of Nvidia DLSS (sort of an AI upscaler for games). Nvidia FreeStyle, ShadowPlay, Highlights, G-Sync and GPU boost work on all of the 30-series cards. They’re all VR-ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "originalUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AnqrCABaVYriMJBAtyYQrU-1200-80.jpg",
-          "width": 951,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
         "images": null,
         "publishers": null,
         "authors": null
