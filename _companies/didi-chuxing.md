@@ -21,7 +21,7 @@ crunchbase:
 twitter:
   username: "DidiGlobal"
   url: "https://twitter.com/DidiGlobal"
-  followers: 4359
+  followers: 4358
 
 size: 5,001-10,000 employees
 yearFounded: 2012
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Didi Chuxing"
 
-secured: "wG8MZEmnG3LQRB7xCBSLydzjyj7i9HbttpHuhnYUYhCVUuaFNc/+RmUIC1PTBRsh1GReEoll3btVn+c5YCsUx7trZiN8inLzYzC3CG74AbKaid0LVoQMb0TZnFZE5D6ToVwWvousuTJ5TnWS1yG6bnFxbDI2Y2p4/ceJNUxiQHdprQvdVJ0U70a8WU1DqDpKUtfzhSlDrsQfiU7PQ3qQ4kpyKNEgWOz9QxM64e5/isqVGsy0p7zO1xEGPdZwfm1Fq2IwE12zsjGajAftuPpN1SUBohFViJmHXrT34dlYxX91ljmDnU4sC+TcqUBX5dkKotV8IRyT+fMCZy/Hs0BIw6xiO1qsXbd9qH90aq8elS6NR4hnPw60I1I5GVJuIdlDyDMIB42yOtOqSqd2c2/k0bFh3crH6zDNuEJr3MPtgOU=;QNNibiubaD2mpKKFYO5Nig=="
+secured: "fl/36Ms1INWLkLZDiOagMyjvHplPhOW1xT31u8RkNOQbOTY+AtezQO426996/+6/u2DTmBfk2obQFL9O+PgBJIrdVW5CQhVAtjnLkuPReqDVY9HztrTNLLFkBFrzs66bdyUnILwJ5jPPKafBPXukxINgBfugAiJEdK1CemUXCAxaJCInEwk9pPBMHmZ68huBcGjE7DuxjtC0hKs68WOBFLCeymI2OntmY9GNSlqbvL9pkPOsWHxHlYxQ0Trh4eirpfB+ws4ZEvmlJOk51NdRa+hNLfNYY2OoR4izoyPP4vJIUA/sdTnSMKAXX5SxOFJ9B36++kVjfqxDcqUOMUo1BB3WCwWpTrD6Njl4OT9fQX25F2H+IJ34olECng/mtlJmym3neOETpgUVbwb6jGNJ3xtIK1D9tJ1XOWRzkwQ+eU8=;2WTDLzoMTvxmo6gaSIf7tg=="
 ---
 

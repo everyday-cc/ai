@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "_FiveAI"
   url: "https://twitter.com/_FiveAI"
-  followers: 3861
+  followers: 3860
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Kza6RQ3vWT0"
 
-secured: "w/CUH0gw9+SgzyA+XCHWjB677bZWE9dvLbjtFi7kSVrEo0Jnwr10WSkUsChF3BNlSbiHxt8m344lWxNLJggoz+gm1poM2slOezVcx/XQaNp3SrDC9F4Vgff8Ek5m1rt3EP6/pCmkJTrbronlcAuu/Qs09YoBj697NsdyBZQZbiqBOJzT4pKVMotRlJ5vP/ZJ5vkQdh9o7N2VCOS8AJNZhII6oznghZJczdNRqvfHyqGXK87xQ2Gr3n5RpqCvPBH4NrF5qGZnzhNCBhSjmE/xFfsuTloyHMht7vJXJOrvNtCLYgUtpFk8HUfF4ai+P9AobjVjD4d6nScBIQdJumwbUOwhbBP6+h+QKjZW+7ljfFAyG3tloEO7P5PEL/6djiO9Ouj/dXs0UZbUPvZbjpHtq7CLU21qUxOygJ3bixIfFuY=;RHdYXLQrsYkXJ6JF6WgU3A=="
+secured: "xn0/h8cQqKmgkgRnfHFK2KC1P5bC7vPItjIuETATZ2UEVPcGkFgQy2JdnrnMfSUef1xKd3NSq2kTCVz8vtsbfr7U/UaAdDgySZP1HUP1Xya+2sr+4BSijYzHuSRd7WylHzcS1f25/mYeAOybsOnKeqNvoHoemPfAa2zfQJgjGjztfw2mrHhwHGK8oilDM/u4USB7C0k+Ma2wS3SkOiF3tJ29qu+owLUu+tjsLNADzeParwaFkHlmWtLCDWORfNdOI2BvlWJetIPudby+EMhtCjXi8MH8NPLeotNiJvxXP6xYAn0PvNf+c/dJ5UinicVZuHYZDnIRExayDt2JsHnhn0JJ18FVeu48mE3S20damgJDBfJd1rj9daQmOfwAmZOwglygnosga11pgM23b5WdZptcEnRQCwJqtD8QruAifr4=;habwESJwLCBX6TRNyVu9zA=="
 ---
 
