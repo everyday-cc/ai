@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™."
-publishedDateTime: 2022-10-24T13:34:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/24/9698227.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/24/9698227.htm"
+excerpt: "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast"
+publishedDateTime: 2022-10-24T13:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29379119/edge-ai-hardware-market-worth-2-716-million-units-by-2027-exclusive-report-by-marketsandmarkets"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29379119/edge-ai-hardware-market-worth-2-716-million-units-by-2027-exclusive-report-by-marketsandmarkets"
+ampWebUrl: "https://www.benzinga.com/amp/content/29379119"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29379119"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "9KGHO2JsJZ0Jh5qsNF9D9sXMhjNNojczcd7BZFJvqmv8nj0abeMO898T4K8Jif3GADReUKEUBqZ5IMVKoswgXh+k0Eeb+FJKSiXXg1Sfc3AronJYvcMuquUlM0P8ByA2CDV7dUU53KbyqQVgfo3MB6TZ3yaZ27kYPbnvZR/Jjo8QV4GZQEKpAPklTdbcgydMCXAejWl8kC93eJV+Idw3l91TVK1IrFd7x/ALSpJ+BL0inxYF+LjeB7RnuSUs9A+KyJ1BVzx87i4Ly8/F1tC1g8vHyjL6jZbASzvlwI7WBFQyjsNoxTHYev3NnSYGTdX0ntNG7+BTlM7DU0rD2WcvDaD4ZhXHdEWATyNv8zBoVb2DbSbcLSRCWe/pAhBHsT9KPfTEnzvlUJFsLoVcpgbJhYgycaHpDuZTjjTpUvr7BMEhhRqHriNLuvv/i23P23M2i02H2K5uXiDnMSTZ46EO60F4SC8pT63KVD8TI+YE9WbCoMLOF7CtO/v8PgPkf7a+LCmRduAWF27w4vpVU6pFlw==;mBlqPCu5yLFIQE5lbfXFGw=="
+secured: "7DeycnLzTqiy3StPtz0F0LOd1X4wAJlVR3tUW6da4IHQiMl1rtI9dD//ukgqOkeS1wtsEOQzNYW6BicyGPCUQd5ZAbFQF27p+c0S9LE3/ucP0yeBmvWSkV360Pi/qzLa4D5yBdsV48KloDpyMuSe434oCTt4atIkXJ8Y20ZhUIjfy8b6r6/fTrjBZPEhuznsdEZMsZb/JKh4tl9nIqzP979+H8Zt2LGhP2+t5KDd7bEQHuyKSA0XP+doBtK395bN4XlVyciCHNAwqGMSdpH3b4EMpUcOO7f45nMvbZbb43Pj64fkCTIHJpeBOtjgUwySmGBhTux4/2M1oWUw7zRPzkBApu2JOhiQ+Qjfrl54Q7E=;HqI6d819k5S3RVXKEbQtEQ=="
 ---
 

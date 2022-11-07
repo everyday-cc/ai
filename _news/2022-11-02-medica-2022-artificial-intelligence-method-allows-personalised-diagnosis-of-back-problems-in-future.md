@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Medica 2022: Artificial intelligence method allows personalised diagnosis of back problems in future"
-excerpt: "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from"
-publishedDateTime: 2022-11-02T07:18:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766"
+excerpt: "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from TU Kaiserslautern (TUK), the University Medical Centre in Mainz and several companies is working on a method that will enable more efficient monitoring of malpositions and strains on the back."
+publishedDateTime: 2022-11-02T07:34:00Z
+originalUrl: "https://idw-online.de/de/news803879"
+webUrl: "https://idw-online.de/de/news803879"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "Io+SqVTbUcUc/kYZe1MzitWnkS1kOEtqP3FqJx3x8YQV/uRuS8L2QqMYIyftBNufpyQfVgJ9lCzwhT+B21daO4wluL0fqMPK0AeOWkcdXbqF7NH2BYb+e5+IPNtE7JU7s3hAZUVCRE2Zk0EKbBnMOfyq7/dWQrWbkPiX4nSXhtbhFrEQEM/GBrAGdun+FAhpGwtohQTlGTPpQG+78AFIyrrrSQdfPDnyPTn9RtMuunOfcghrv79fFEB0L2E1Jixn3SnEh8Ta4LDTN13CFusi+yKH+iyv2w3+qkOCNUpmhcjZrBTvTBkZ7IXLtdd5f8NBfgSDPAx9vX+bDDB2a+4fD26W/NuzDjrqLPbrqt+HRq8=;vDSOuQ+wJ0VpHyzviIc7XA=="
+images:
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
+    isCached: true
+
+secured: "Fd4SofuP4xCdWrX1ijJcGkX+4rmWeMfRVN0zHE0S8rEeFFcjkl9xa6gzY7aOcT3sgZANANS5gn1Nc3rOmr7yROTJdPgnCBLlGwWFxcEbRBccHT1VAy6aSRswYhoHVhkxvOYjx0Td3ttsoZmUT74wAAGEA07YvYH7bbv9Noq02K/acOhP3WuKyLUXxxjcTmyDLCMYlGzRfZZolSzNU6nwqZk1gPBDsxSkkT2kPm4fZ0j3JdMW1THkNFVu2uUY+WbXS6YXmMTiLOwYtGJnxCWq6hBSC0McQ+drFqRaOGq+xtLToKl6r500VhvJAVVVntc9YgCK76xCbwdMN/jv0SVEUUAIIG6jVXA+LUH2viFPW70=;+mLCl272QfB3Hi11zQLpFw=="
 ---
 

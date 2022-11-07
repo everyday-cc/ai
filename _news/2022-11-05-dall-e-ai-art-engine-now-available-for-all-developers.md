@@ -32,15 +32,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Picsart Adds AI-Powered Image Generation And Copywriting Tools"
-    excerpt: "Picsart, the Miami-based creative platform, has integrated AI technology to its app, adding generative tools for images and copy"
-    publishedDateTime: 2022-11-02T18:55:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/02/picsart-adds-ai-powered-image-generation-and-copywriting-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "YOzJNHb+KjodLPkdG/XxnnViDopX4qg1fJXChU0ePDV8AIP8/8uTClwj2gHyI6XJ4WTQl1RZT81OTrqwN1i/RKs9EVj091ZJ3kpUwbb6QmHnc6jjOWeArIG26WK+LGB+POPXAl4/tjdBEsawNXZ1CkQkFUzOSmXBifr4/NIvOESVRySxnRtafnqwrX3pS8PIamqWL4mVhJhM7ih+8Agfmz3m7UqhC+1cKOjQY5u6fc4zRUJuRDLPNdzkMTRD9CwgLuJW8m6UwYK7tdR01dLM3DVka3Mnr4KhtAKINKh+TsrR5l1YyQFNQki4xovILzLkqZ2yWfB8ZlqdRVxa9iuDeNzYFcHNL4a/p1ZK+XTDOAdXCvnssJ8mfsYO+IlwoVYpxUbbVf/xXGx3SL0j9lGaqaijf1gshBYOgVqYEatkwIEP8L9USNKHrpsOjIn/FT7zo5+NICR43z59qVANG0KsKi6j3Q7hMUAiw1iVaaDFw88bdtBmGFSaJNtoiEUwrygNQnkj/LfkRmumxTi88SoLEw==;P5y0wbxHNu79egWBrxmPkA=="
 ---

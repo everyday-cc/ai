@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study finds artificial intelligence may help ease strain on hospitals"
+    excerpt: "The state-of-the-art technique utilises X-ray technology, comparing scans to a database of thousands of images from patients with pneumonia, tuberculosis and covid. It then uses a process known as dee"
+    publishedDateTime: 2022-11-07T11:00:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95357282,imgsize-23822,width-1200,height-628,overlay-ethealthworld/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI technology could help ease winter pressures on NHS, say researchers"
     excerpt: "New technology has been developed by researchers from the University of the West of Scotland. Artificial intelligence which automatically diagnoses lung disease could help to ease winter pressure on hospitals,"
     publishedDateTime: 2022-11-07T06:35:00Z
@@ -57,21 +73,7 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Study finds artificial intelligence may help ease strain on hospitals"
-    excerpt: "Researchers believe that developing cutting-edge artificial intelligence AI that can quickly and accurately identify lung diseases like pneumonia and tubercul"
-    publishedDateTime: 2022-11-07T10:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273050642/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1667815297.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
-secured: "S9oxmgOaaTCWUKn1NfCgOMHEYOeBFC/Yu7CXsymCjVOeLOmCbzPcAKUnz+rtInJ+GXOPtCn7DHsclLPg/5fWRwIwZzFLkK1dBLIcQSyi57q9Gu/rhFAJbkbR3JuHur73EcfaQqxIcP3m4n8ISXr+eZ2VC+XgxZrCH1VtQYKauRkQ0FmL29sfSGoRz0UdwjJFSVgnaDjiB32nP+2+niokVuuzaxSz4h7jX0LNBOtLUDP0RlzhPexp9kwumo60kluKh45VDoxUbXDSJdFhZZqnSkDpcvfIDw5dfuquuPckSakWmOaR9xlL0ROY0uMg5E+eL3oSJ0n+zxMvZWRiFZ9g2+tXfrq4d4oBuDkO0sxBmCE=;wx0ZX6/Y/XRHQH8I2SPadA=="
+secured: "iiBQncvPAJA84T07GypwSUz3ip/ug9lylmlZcxPdjJkv70MWwOQBCu4yQyQYM2j5BJSMSK2RIoWImdbgOZ6W6HtmKX05aM/7KCxsSUTt+stsZImd5+gNwVawNLXP+zeP8GJZX8sLq/Y5LQYaPWzk8iTA8YFe9OXuqYOHD19uC4U/WeXO6Hh86WCilNnyqUyvzVBFYqI3YzEUYJpmQcbKbpHBDvaK/snSITPq9Jfj5DJS8robgG4VRlsrH3C0t8bXQBAf2//0ppr2J7zv7Ul9DVGi9Sss83u6qyd1/Eq44yUF61OoBpFeMabzCfxjiZn8umJPp0Hwnaq4WStYkZL9l6ooAHGsuxepHcasWKnK/fsKFsfOe95tgtQYGudcgfdXMkVaoD7RVeE8i3fdi8MG/94wxXH8hXrvLnhaZtMCCezVV6y7zAWutpGyNl8f2PHycEamh04SCcyPrkP+j7VCdNZFkymXXGb/VdLSS3gAM+57QjSmwcJHRv6ueiYgJbBB3JJ8zy66hBM5dIhTdIk3OQ==;KPpqR3AFlrpqPMX0+TJ5Kg=="
 ---
 

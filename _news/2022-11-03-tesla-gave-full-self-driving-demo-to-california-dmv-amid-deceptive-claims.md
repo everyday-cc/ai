@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/tesla-gave-full-self-driving-demo-to-californ
 webUrl: "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla gives Full-Self Driving demo to state agency, tries to keep critics away"
-    excerpt: "The demo of the system Tesla markets as Full Self-Driving was held last week at the Sacramento headquarters of the Department of Motor Vehicles, according to emails Bloomberg viewed via a public records request. Also at the Oct. 26 event were a ..."
-    publishedDateTime: 2022-11-02T19:17:00Z
-    webUrl: "https://www.autoblog.com/2022/11/02/tesla-full-self-driving-demonstration-california-dmv-critics/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 30
   - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
     excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
     publishedDateTime: 2022-11-06T19:01:00Z

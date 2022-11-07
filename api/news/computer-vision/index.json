@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-07-clearview-stole-my-face-and-the-eu-cant-do-anything-about-it.md",
+      "title": "Clearview Stole My Face and the EU Can’t Do Anything About It",
+      "excerpt": "By uploading a single photo, Clearview’s clients, which include law enforcement agencies, can use the company’s facial recognition technology to unearth other online photos featuring the same face. Marx wanted to know if the company had any photos of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
+      "originalUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6365c2f63505151fbc0b014e/master/pass/Clearview-Stole-My-Face-Business-148340936.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-face-search-engine-gdpr/amp",
+      "publishedDateTime": "2022-11-07T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-aryaag-invests-in-computer-vision-start-up-assert-ai.md",
       "title": "Arya.ag invests in computer vision start-up Assert AI",
       "excerpt": "Assert AI to utilise the funds for expanding its presence in the US market and develop exclusive products for the agriculture industry",
@@ -1363,50 +1415,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-google-photos.md",
-      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Google Photos",
-      "excerpt": "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,”",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "publishedDateTime": "2022-10-20T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "Computer Vision"
       ]
     }

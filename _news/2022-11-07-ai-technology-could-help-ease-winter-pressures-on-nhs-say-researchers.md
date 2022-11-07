@@ -43,6 +43,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Study finds artificial intelligence may help ease strain on hospitals"
+    excerpt: "The state-of-the-art technique utilises X-ray technology, comparing scans to a database of thousands of images from patients with pneumonia, tuberculosis and covid. It then uses a process known as dee"
+    publishedDateTime: 2022-11-07T11:00:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95357282,imgsize-23822,width-1200,height-628,overlay-ethealthworld/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial intelligence could help ease strain on hospitals"
     excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
     publishedDateTime: 2022-11-06T00:00:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5e12c637-08d8-4635-9e47-3f49ab9b79bd/Rendition/low-res/Content/Public"
         width: 700
         height: 467
-        isCached: true
-  - title: "Study finds artificial intelligence may help ease strain on hospitals"
-    excerpt: "Researchers believe that developing cutting-edge artificial intelligence AI that can quickly and accurately identify lung diseases like pneumonia and tubercul"
-    publishedDateTime: 2022-11-07T10:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273050642/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1667815297.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "LAD57Z3V2jhaVCYokPxw2+YDCdii1GWc4QLsB+EtSA06etXfFtNPMew/QOnyXAA1aUCZfv/ARAkqDmNFUCWXtGgIwKfu/pwu5z48NvUVVGlCxHqFL+eODd6sgGJ6htz0dI935K/xMc12cJL0uwC5Hi7vZsLvIORFgm8EZnSL/SwHkXrJp2IqVXVvRDen6omHMIVE+KMY8YIrBzNg1EhBj5ufIZhVkA6PDzl9k583N1QpnL1ICNEIXBLVftFsMtkDVt87DuCNcUHSsFNNXhSa9wjNSyS7dNRWNJ8/R3bmtaoMjLlAcTSLFp8P5vMFVvsIMOT3PmWEc3C0lRcw1jqfvu9pfG5apRma5XGUbEUp9bY=;tIcCTnRemgS7a8RmNDwXFQ=="

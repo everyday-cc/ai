@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Medical Artificial Intelligence Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028 | 117 Pages Report"
-    excerpt: "Global “ Medical Artificial Intelligence Market \" Report is a detailed and comprehensive analysis for global Door and Medical Artificial Intelligence market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-11-03T09:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-117-pages-report-2022-11-03"
+  - title: "Face Recognition Software Market: Size |Incredible Possibilities and Growth Analysis and Forecast to 2029 | Newst 106 Pages Report"
+    excerpt: "In 2022, Current Face Recognition Software Market Size with Newest [106] Pages Report The latest Face Recognition"
+    publishedDateTime: 2022-11-07T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-incredible-possibilities-and-growth-analysis-and-forecast-to-2029-newst-106-pages-report-2022-11-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

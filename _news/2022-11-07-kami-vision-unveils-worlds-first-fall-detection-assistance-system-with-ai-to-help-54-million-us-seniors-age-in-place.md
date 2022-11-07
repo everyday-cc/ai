@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/b29587218/kami-vision-unve
 ampWebUrl: "https://www.benzinga.com/amp/content/29587218"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29587218"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Computer Vision
 
 secured: "PaPPjfRFA+P+JRoavpzpGgGpX9HaWa5uSns7bQ/V5B5HXrk2/3vRq8TMCZIaJ3iL85R46yUvZGHh3Rbi+fNol0IdqoNBmamSRCWG3nu0f6oeRNAKuhXeJWJLaO3HLyzI6Q3JKhs6FbBaylslo2H/aT9pri9FbRLyrNLKDl+YmC7qKuO7dnH5tCdDcBaNwPpb2iQmTkgQh6bXCJ/uch4L8UHELCmcAZ2enLv7ZaoHSfLIiw9x1pOlynwt6XGK9vJ6eMa5aacoiJv5YnLQFIF1Yi6QqocfwOQy4dv41UUH8lEehnzev+cp0ib37VglPKJB9nj9xa6xgvEe8WPYGP/bvULSHdbaQ1/Ag3+izkHaCbvFjfKVraTLWQliIA0s2u3jH6bYkfhE4lcDaOGmQSjZP6jbE0fMgW7Wg51DUcNmblklYmGW15qszZdKGugmWnO6n44wPJBGg4WczMg5F3p3ukWwxQmIT56NK4FuOFqWJkkmRPGf93bd/MiETrfu5ACbMnztv02aotHZjnaYAutTSA==;awQJY8EAtVkZpLG5G+uEJg=="
 ---

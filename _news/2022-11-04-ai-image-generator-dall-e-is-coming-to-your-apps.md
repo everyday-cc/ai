@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/ai-image-generator-dall-e-3231305
 webUrl: "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Picsart Adds AI-Powered Image Generation And Copywriting Tools"
-    excerpt: "Picsart, the Miami-based creative platform, has integrated AI technology to its app, adding generative tools for images and copy"
-    publishedDateTime: 2022-11-02T18:55:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/02/picsart-adds-ai-powered-image-generation-and-copywriting-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "DALL-E AI Art Engine Now Available For All Developers"
     excerpt: "OpenAI has announced the release of an API for DALL-E which will let developers use the AI tool for their apps."
     publishedDateTime: 2022-11-04T18:21:00Z

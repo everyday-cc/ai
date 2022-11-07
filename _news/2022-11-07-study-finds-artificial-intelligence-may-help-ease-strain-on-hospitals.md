@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Study finds artificial intelligence may help ease strain on hospitals"
-excerpt: "Researchers believe that developing cutting-edge artificial intelligence AI that can quickly and accurately identify lung diseases like pneumonia and tubercul"
-publishedDateTime: 2022-11-07T10:08:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273050642/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals"
-webUrl: "https://www.bignewsnetwork.com/news/273050642/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals"
+excerpt: "The state-of-the-art technique utilises X-ray technology, comparing scans to a database of thousands of images from patients with pneumonia, tuberculosis and covid. It then uses a process known as dee"
+publishedDateTime: 2022-11-07T11:00:00Z
+originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
+cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
 type: article
-quality: 52
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: health.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1667815297.jpg"
-    width: 630
-    height: 420
+  - url: "https://etimg.etb2bimg.com/thumb/msid-95357282,imgsize-23822,width-1200,height-628,overlay-ethealthworld/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -71,6 +73,6 @@ related:
         height: 467
         isCached: true
 
-secured: "SahvJ2XFWgnn6rZbGQqfR/DOj9ASXXBURrDLkL+upMq4T7sSLBBotoqrR204BvMwOgB5AJhzFqkDVbNVTZFcJxRVg/5Avn3bSwG5ewIeiIENF7fDM91OzQRBuNVR9lpXHtBBmf6Z/BsUnZB2PxYvvtZZ2j7KTYsU6U7pe+UyVCthp9JNrNNbRh+HdZj282qG24jWfd0y44j6tgxD7hFI0pb51sTNSH7nhN2Zks7MKwL/R6hyFqBS4r9+IHmVee3AcvpEvEEOp5ZY3gfKSptPViLpPs/X06mIyLYkjOlZOXqmfTDardDOM/8Sqzb0tnaAyHKPb34XaiVWKmE6rBnRxS/lS6opvLF7Qcn5SDvKsqw=;+hbt0q3nernHp6oVQnSmUw=="
+secured: "ZcLcCggaRaaZKmVHNWn1bHmc/7N4/vKPd4B6qtkwwgh424UGHk4aWC6duJlpuYVKMAijoWuB9om8j6HVg1Aj9Hh1T8SwMr9wnOrQ7ak/N7tPsNhKivRbH1NXCXghCYcNuqZZaSUEXpRRJdK3gNsWZsO5OB7CW+QHwTcL/cuCGiDuedl+pIbpHo5GMIs8dlALX8NRnVvwO8fYZtWQFgE3wM/pnHFUNugXP/OUkLj4KWWQ4cQJtQo3a0qT4Yz14SCCjXCfXIXRRsN9wf0x3dIHB2fEh2RHKWgENvdS+TgV7e0zkSGzi0Fi1isrqryH3leu3XhMVkT32AUsrJYw5IouszdDd2v5zI3097RkkXGojYw=;Lwgek/JkkP/yQFRrbuU2BQ=="
 ---
 

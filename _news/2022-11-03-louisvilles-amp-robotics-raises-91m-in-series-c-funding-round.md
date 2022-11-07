@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-rais
 cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "AMP Robotics Raises $91 Million in Series C Financing"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $91 million in corporate equity in a Series C financing,"
-    publishedDateTime: 2022-11-02T19:13:00Z
-    webUrl: "https://www.afp.com/en/news/1314/amp-robotics-raises-91-million-series-c-financing-202211020052091"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 49
 
 secured: "rU41JXgdHi/1NYwHnbqPznewWwS2iQbczglaqLTjM25HClkB1VJjnmFovKYO+za4+eleYfQeA/wZAe/KHcGNhstTAJIcwGdlvCl4ntsUBIaF9xfsWOJT9f6KI5lepGMUlJDxq5P8A+Jj62c5jHxTPPi2mjujYyu6r1w0wAzrLwh4YTmSJUJrjtO31K+vITOh6BVPpgJbAHLgmjBIwTyMDUIZNNUMIr8vS2/0202DCtj43ZF1ZQABF9yubPi9/3Cfis04M4QNsLdrLUuV3oz5/o0WojbdxhtOwe7BZzexsFxO7qmpvj2Lb23oiI8hhFDQfwk5lKMCFq8LCYeQaKY+b5LpKIzLnUJlvc0IfqnkXBY=;TuWOJJGpLmxkBzJWMEV1fA=="
 ---
