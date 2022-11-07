@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Medica 2022: Artificial intelligence method allows personalised diagnosis of back problems in future"
-excerpt: "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from TU Kaiserslautern (TUK), the University Medical Centre in Mainz and several companies is working on a method that will enable more efficient monitoring of malpositions and strains on the back."
-publishedDateTime: 2022-11-02T07:34:00Z
-originalUrl: "https://idw-online.de/de/news803879"
-webUrl: "https://idw-online.de/de/news803879"
+excerpt: "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from"
+publishedDateTime: 2022-11-02T07:18:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766"
 type: article
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://files.idw-online.de/corona_idw.png"
-    width: 615
-    height: 284
-    isCached: true
-
-secured: "Fd4SofuP4xCdWrX1ijJcGkX+4rmWeMfRVN0zHE0S8rEeFFcjkl9xa6gzY7aOcT3sgZANANS5gn1Nc3rOmr7yROTJdPgnCBLlGwWFxcEbRBccHT1VAy6aSRswYhoHVhkxvOYjx0Td3ttsoZmUT74wAAGEA07YvYH7bbv9Noq02K/acOhP3WuKyLUXxxjcTmyDLCMYlGzRfZZolSzNU6nwqZk1gPBDsxSkkT2kPm4fZ0j3JdMW1THkNFVu2uUY+WbXS6YXmMTiLOwYtGJnxCWq6hBSC0McQ+drFqRaOGq+xtLToKl6r500VhvJAVVVntc9YgCK76xCbwdMN/jv0SVEUUAIIG6jVXA+LUH2viFPW70=;+mLCl272QfB3Hi11zQLpFw=="
+secured: "Aa9CWs1IO2ctixxuZorVVdxhHL8cFT4kRFdIj1B+ddMlIzDwGv4dqvAzSSWk0A8/fNoiE3ly7zYcNtOGCr2LP29FkoLYmtCDGlaDCnISuSRSfzDE3JbmEE/OI42F4xldCODTD+sk9DnKq9vPJ3qC0Nru4a4nymNbeq3gJjXux2NyzR1kmktZXYl4M0kqsx2j/dTYzUwaFp4EJfgn6wIirtyi/pC6ZkOJZJb8ouJ3rVr9QKQNrcNew71bmmJeZeyW+7Du2xqGFkc0d5BCFLq4rlChDHxK71ZBxdBQHGngCRcT9/8mpxd9NDB8wfjpNGw7U54Q+wskHP13a0SHkRXMsrkJRJgsfAKgJPC+Uw5nXiY=;GjpLlIzs6mxj2puukFGn5A=="
 ---
 

@@ -20,6 +20,7 @@ topics:
   - AI Ethics
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg"
@@ -27,6 +28,6 @@ images:
     height: 426
     isCached: true
 
-secured: "hPsVHZGnJMt8tq5K1+0OKX0oZTPn4JsGxL/C6d2S15Ze9bnofH6IbDJxkd8srHOFc7GRwfaRz1vqK2h7xU/xkPmfUi6j4gFRxoLkQQb1taj9g8OL2pAfqxE+f3jt5DxIhPDxF6Z9mx7pV8jukG/iYX3ugv8qVHI5f0e+I5kztsMOgGhLjWd1i1Lkvqwu4vpQLODzXoDIrn0Qg7os6AMVPERkREa1nHChPZ1Zpws1aJG2M6dEc2g8F7LQKxLQ56wRD2DXJKmMMQLZnwLl5zaXLM/p+xj+oLBcEJ4chQhNyzcSl3yW49++Smw2BhU9fDsG/k/+/5zYRm50wu67vCrVxrAzh9/v/bU6wFSTsxO7ofQ=;TA0b+qi26RfOdiKwtTojEA=="
+secured: "Xhg+sQeRqBfQRUxS9Yw4127T4q/hdeRfgLQIA73Et5V7zS/5nqfnilw04C0wsUp/4mEQQhEcb/2zVvCneStW0grP1XsPXeDDqYFs1seS91yITwvVg9CHLn4rXD0tDdTtQm9vPyI4GHdLpslz+g5VzFX/8DEpbxzdZpWSM5xROCPGuL34Kkpf/otINvlNTAPvHeXJP053XkWdSMslQbppgDFpKQUfmurxtE3Ft9Uhg/BXYFBbkfYoTI7G49bcJHex1AV9aJKn+P1EBdCAK5nBNT6EKNMrmmLfIl0geIG4coKilw0hKAoDcl1jIz7SrslHnIKsIVHU1dQj8IDeHHewMJByJuZ4hwyBl7kTtTuc1AAeO9KMKe2JyFxQtRQ7k94H/cbMUlxiuYpcdaXaFBmNzSvJZc05VamE53pIzQMGxl2ry+1W1IIcCJJjnRIIbwgblDiCe/QpzUQ3iVj6FSWhj+y5r8pk8YGPbaz+7nTPCsfQ2IoVGSvPfW5FOPMmY/+84yUvIW1nalDJixSepC/3Mw==;k42nHgU+L9E7sbGxkJbwJg=="
 ---
 

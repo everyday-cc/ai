@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to 2028 according to a new report by MarketsandMarkets™."
-publishedDateTime: 2022-11-04T15:08:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
+excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
+publishedDateTime: 2022-11-04T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
 type: article
-quality: 3
-heat: 3
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "GQPucrJThycfwG6f9ijInXczKyiydzEgR7GesruC3UcaJ9Nnf1K0BTrKHpYSURchzQ3uAx5FpybxnksrdjXSR/aWhPbi2Uzgr0kwK3sDfiNzjVlEtZGIV8bJoec4ldpjzLgR9ccVLshDGguOdxYFGeaTjo9PMoJrKwrAttWp+E7HbocufahrmMrR5OdbSWW/CtPJDj6K4kEk2SmNctMLflgBYLfv/18Yfgd6JL8+ub4y7nyP+d4B1N5vEoIN53r3dDDnlnIVRIoGxfR9XROs1Yc6tDHUVX0T1GSS3GYxfB5tCRdKTXDhEvQslbT9hYRuhUV/ldaX1r6KsRmPR5KibBOTVuJ/wV+6wzlyKib2v1SEvNIjK0LAWJmzOt/wZDeTQGrHtNVDEyK2lR5nGtP9aYzmxxLDuzeXbD58bmnDvey0o+aZI8pg1RoKBmvr3z+lbkYOwLHm8KdiRKaJnP9E1yy9CigC9P++8mX1Pie05EK/QwiiZ77jGXxbEYOU6SGpA4EUerJzzZIgyM8vnMYrxA==;ZVvGJeYhhv74N3QNf09IJA=="
+secured: "EYKhL2Bzsn0bOWghuC3dzgtO+w2FQyppZIvtOMG4F8YE0eNEizTa3TioFWm5pZ/slHkofABTCKnibRObneCmlJCkauOFJW93YLDJ5P5xDUE2Hw6EgEqPHkwb2Ucth+Z9V1RzKQ/tBlDyF21Q7tnatTDUo3yTxxZOWNROmx+c/unDlKs1X5w8cedSGymRdtXjJ3GR41cuDEzGEFmfx1mCY/joZr2O5aiFV7gt5JV7TGZduHG2bCjmn3iSM7DvetR5Y3NKIl7i5ACz58WW+54gEgk3HF0Xvh/ezq+tPQC5GsGK8le9BsBICqyNwgLDoFYLZeS+uqDqOh6jHhY3k+swbFaU1z9ns4ukdBsKQF3bVio=;f792unopov3MLMAnmFyvoQ=="
 ---
 
