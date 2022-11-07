@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T13:00:00Z
 originalUrl: "https://thedailyrecord.com/2022/11/07/morgan-st-awarded-9m-to-advance-ai-cybersecurity-and-machine-learning-research/"
 webUrl: "https://thedailyrecord.com/2022/11/07/morgan-st-awarded-9m-to-advance-ai-cybersecurity-and-machine-learning-research/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: The Daily Record (Maryland)

@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/intel-takes-responsibility-ai"
 ampWebUrl: "https://diginomica.com/intel-takes-responsibility-ai?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:

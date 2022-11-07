@@ -42,24 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial intelligence–based model predicts patients’ risk of acute kidney injury"
-    excerpt: "Investigators recently developed and validated an artificial intelligence–based model that can help clinicians predict which patients in the intensive care unit are most likely to develop acute kidney injury."
-    publishedDateTime: 2022-11-02T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/969668"
+  - title: "Mayo, Temple + more using AI to improve patient care"
+    excerpt: "Researchers at Iowa City-based University of Iowa Healthcare are developing an artificial intelligence-based tool to treat interventional radiology patients — with or without a physician ..."
+    publishedDateTime: 2022-11-03T19:13:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/mayo-temple-more-using-ai-to-improve-patient-care.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-  - title: "Artificial intelligence–based algorithm predicts major adverse kidney events after hospitalization"
-    excerpt: "Researchers have developed and validated an artificial intelligence–based algorithm to predict hospitalized patients’ risk of major adverse kidney events after discharge. • Results from the study will be presented at ASN Kidney Week 2022 November 3–November 6."
-    publishedDateTime: 2022-11-02T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/969673"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 7
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "PT8iGYPKitCGuXfU47+rfhtCSsZ0la0R5ouuNbJIpnxVP0LV7XhYUu9uoIkHGNsqiQkkFPajHi9XCeoNAApWrm9OSkCh8aS4EuBN33wptq4n3clz2LOfhn9sApJQd3uS+J0qk43pDPBz2PROTv8FhiXfgwmlO2eb5hYNEhu+oyL3nAw/qzCC0dODyGjO8hHtpsIYDp1uvlW0ZFidqYSyjKi4g6rBMFeFgiaRnfV/TJ9OQANXa3NcZIvb4BIEtAw8IBk+ilUyD5oe1ovsbP85yED/UdbbOaP72mo5YqnM/bLIviiuzef4FK16YJZbVWZaZ5V7qylNRcAkKVUzEgHMBHCqU4kDoG5yJLHkqOrghrKAxy3g5Wj+UBoiy4YYiR9jv5cKHOvQEnHuk9hKAH9G0AuO2DZ+hmpduyEnW6DXeOeXEo3qn0Jc/u0uMz8hLzoT7kB9z+rzKY4qYMELenYsS0aUBS3BmlLPrmnUJTot475nS1XbKZKPIkoAyRiIvK524qrfmF49/yClaOhedYm6Bw==;ZWTLIb7vQnyhgX3tyFbOFw=="
 ---

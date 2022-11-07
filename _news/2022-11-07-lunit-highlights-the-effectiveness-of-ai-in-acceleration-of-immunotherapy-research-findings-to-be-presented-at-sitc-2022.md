@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T13:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/lunit-highlights-the-effectiveness-of-ai-in-acceleration-of-immunotherapy-research-findings-to-be-presented-at-sitc-2022-1031881116"
 webUrl: "https://markets.businessinsider.com/news/stocks/lunit-highlights-the-effectiveness-of-ai-in-acceleration-of-immunotherapy-research-findings-to-be-presented-at-sitc-2022-1031881116"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Business Insider

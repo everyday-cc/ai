@@ -43,6 +43,15 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "North America Machine Learning Market is Set To Fly High in Years to Come"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others. There is a notable trend of using machine learning models in the media and entertainment industry."
+    publishedDateTime: 2022-11-03T12:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-machine-learning-market-is-set-to-fly-high-in-years-to-come"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
 
 secured: "q6mjPIPKh4sufyWfzKNvZTO9chYhqefTi1mifqhgSDrH+3mlLyhhFYPdYkBHcbvnjQZpLOiGjZguJgr625Md0yaXxdWhXXaF+XHCBMB7Al8D2pcuGXp8oQbjrFIivmORRKqNKH4Mxz9krYBJyjsF9c7VHfMES5vEXm4wAzEcghlZG5Ymo/gPPaRoG1GkP4HHqhfZTMZ/RAPOFQTf/M7/8DfAJMeP2DY+6VqTqs1mQx1KKnYAcZyYtWCOk+/l+s/tjADKtNALD1jT+IM/GKTtxfOLXqpY7I47jQwEAIk4acofdYpFDZ/e4IB4JeaQQOMFKmmPLH0zi7GeQ/FdT6vmJizEUvLsE3LW5f+fAm9/eJD/G/VlxbOEgVohRXf+Mo5qhQZebBvYbbt5b6QjFQsiREnOEYmyRNfnkJ5j8vweSPhvNW9KWKmRscs04h/Vk1MieLfjrRPE75r4HEzQlUVBthj1hAwp3c5vNRZgDxqjP33p7q8xEBQJ59JvBeqwuaXqrZOKD9Vyscyl0iP61l+V+g==;LKlaorD+BPNvfGqSrKjveQ=="
 ---

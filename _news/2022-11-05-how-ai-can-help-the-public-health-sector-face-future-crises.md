@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/how-ai-can-help-the-public-health-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Better over-the-phone health care using artificial intelligence"
+    excerpt: "In health care, triage involves categorizing patients by urgency levels so that the most urgent patients are prioritized to receive care. When patients are assigned a less urgent category than they really need,"
+    publishedDateTime: 2022-11-07T15:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-over-the-phone-health-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-over-the-phone-health-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-over-the-phone-health-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/better-over-the-phone.jpg"
+        width: 1076
+        height: 674
+        isCached: true
   - title: "The future of AI for business is human"
     excerpt: "Did he cheat, or was he simply demonstrating the power that AI has to take over human tasks, even those involving substantial human creativity?  AI is increasingly transforming organisations across all sectors of the economy."
     publishedDateTime: 2022-11-03T12:13:00Z

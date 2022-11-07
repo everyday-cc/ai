@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/clearview-face-search-engine-gdpr/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-face-search-engine-gdpr/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers"
-excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ..."
-publishedDateTime: 2022-10-25T13:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
+excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced its Korean subsidiary built an advanced AI server architecture platform for Upstage, a leading AI company based in Korea."
+publishedDateTime: 2022-10-25T15:25:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699240.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/25/9699240.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "kCWQqqSOAay/GdUUZw01e9/5LznXaAVlogKMAjPfVZ+N1kxAEJhWnyCVrisgWEhTD/3x0tMxZ7WK8Q+jC7HqCwCS2DSeyAQLJG6usDaoknEqDyzVWAwHJewpEn9T5Q3ZwwG7MVcpcIPFVvHBjQlrX6Ajp5TZFtFoxM9yPekp8vZit2Va/tzyW8TVXDAnfczSDzoXVq/RLgcwwtxTrd+x8Jy1CCMzfwbvdxYlQkD9lwNfYfEHMTnqfBx+8rZdO4mE2pHDUpO39q8tLxq7d3CYifarIemq47hR82iEVAw2ncM2Hr8Pz/IYh4m28ZLvBHD+gkIEX8O+MaOSAkqLucIPx0ioOkZlhi+ooyH4AKcZ/4o=;8MoO8mOLSp/ZQA01Ne7Grw=="
+secured: "ghkqzyZR1sY1Ek+U1fXixrhAqUqGLJvdmicg48U9DQc1OMVTN+QmC1X0K2BZYrpnpIxWl+6jguYX6kdsP32GWAmUrtcZ2JicL6LqI9XlsYEzjvv88yRQ880Sk+scND3yXvP4BLyYReOWcvPAuf5hjb9W/kSdgnmqj0eGzQ+PVrCTr6DvCW3BRjCfIQRH/hih9PjT40Z774R7hW/ssvGZEW0+51z6LpPEYJ5i8jIJyKTCUzhEryL7h8x2+2Vf9kUbylQqMLTHiL7bWowH+X1SzL8V/xUuGDzTCzaGJV2wc+A9/Qj8KRrZRfUafuto7VI4BYAGTPJpyplcKS+z/+A89cVNcjyjTH5LTPITRmRmjdo=;AjtdTmSUNEk/emxSO5N5tA=="
 ---
 

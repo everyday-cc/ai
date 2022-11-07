@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-based-patients-acute-kidney.amp"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,24 +42,15 @@ related:
         width: 1920
         height: 1361
         isCached: true
-  - title: "Artificial intelligence–based model predicts patients’ risk of acute kidney injury"
-    excerpt: "Investigators recently developed and validated an artificial intelligence–based model that can help clinicians predict which patients in the intensive care unit are most likely to develop acute kidney injury."
-    publishedDateTime: 2022-11-02T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/969668"
+  - title: "Mayo, Temple + more using AI to improve patient care"
+    excerpt: "Researchers at Iowa City-based University of Iowa Healthcare are developing an artificial intelligence-based tool to treat interventional radiology patients — with or without a physician ..."
+    publishedDateTime: 2022-11-03T19:13:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/mayo-temple-more-using-ai-to-improve-patient-care.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-  - title: "Artificial intelligence–based algorithm predicts major adverse kidney events after hospitalization"
-    excerpt: "Researchers have developed and validated an artificial intelligence–based algorithm to predict hospitalized patients’ risk of major adverse kidney events after discharge. • Results from the study will be presented at ASN Kidney Week 2022 November 3–November 6."
-    publishedDateTime: 2022-11-02T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/969673"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 7
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "IwQd9IXSo7GO2JutRxwyP9LowHe4pcsZni2kAe6AUQ3C8VyFzg2lDxzFvtEkW5KEMg+rbFdGyhM+0AG1TkxLVPHppO0MEuS9sV109FL5O5u2XQmiGym6GsVhEO+rmycCvD1tbQq8iTeXAAQDT3kS1ZLAUrQmKMJQfZRvu7EVT56HJ802mGYOOGSLnz+h0DpwjK7UvJHZtWXX7xJwLgKGYo0DgUTBFgMsQmxYY2X6Wwn9MPPknqClbhaCp1IcTrcvvhr3OVbSM5Z0Zr5n9MnH3JR4D5pj0+In9iOboz+e7bUW+VKLFkH4kxXzkpcZTtlyualRsQEEIanq3ABFWasyydwVti6uCdsaSkXBXD8gxi0Lz7jdCVX3612vsq1n1fNTbWjxOjol4MpkT49+EIeZvrjlsxaDHNzOAz5UUosGgJZmJ2RM7uMSWlcdb85Mi3RYTpf+qzoON7e1hRcshTrTlxHxShu8NG3oo/RkKomnO+Fkv0CqcysJAcFzTkJ2fExg/4NETdUCPYW1bizOLEhtCg==;8moo4aZ1i0FrZ076oI7/mg=="
 ---

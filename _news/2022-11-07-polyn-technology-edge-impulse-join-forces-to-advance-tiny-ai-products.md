@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T13:41:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/polyn-technology-edge-impulse-join-forces-to-advance-tiny-ai-products-1031881291"
 webUrl: "https://markets.businessinsider.com/news/stocks/polyn-technology-edge-impulse-join-forces-to-advance-tiny-ai-products-1031881291"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

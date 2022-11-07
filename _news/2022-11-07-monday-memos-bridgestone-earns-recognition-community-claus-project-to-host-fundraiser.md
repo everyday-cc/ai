@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T14:05:00Z
 originalUrl: "https://pantagraph.com/news/local/monday-memos-bridgestone-earns-recognition-community-claus-project-to-host-fundraiser/article_9ab95ae0-5a27-11ed-88c9-0f9e40bdef89.html"
 webUrl: "https://pantagraph.com/news/local/monday-memos-bridgestone-earns-recognition-community-claus-project-to-host-fundraiser/article_9ab95ae0-5a27-11ed-88c9-0f9e40bdef89.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: The Pantagraph

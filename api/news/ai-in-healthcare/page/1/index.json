@@ -10,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -107,7 +107,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -401,33 +401,24 @@
     {
       "path": "_news/2022-11-02-medica-2022-artificial-intelligence-method-allows-personalised-diagnosis-of-back-problems-in-future.md",
       "title": "Medica 2022: Artificial intelligence method allows personalised diagnosis of back problems in future",
-      "excerpt": "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from TU Kaiserslautern (TUK), the University Medical Centre in Mainz and several companies is working on a method that will enable more efficient monitoring of malpositions and strains on the back.",
+      "excerpt": "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from",
       "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news803879",
-      "originalUrl": "https://idw-online.de/de/news803879",
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T00:34:00-07:00",
+      "publishedDateTime": "2022-11-02T00:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
         "images": null,
         "publishers": null,
         "authors": null

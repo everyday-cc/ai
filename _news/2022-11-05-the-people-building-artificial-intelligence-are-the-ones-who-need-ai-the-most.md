@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-people-building-artific
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
 type: article
 quality: 105
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI and the future of gaming"
+    excerpt: "Artificial Intelligence is an exciting topic for some and horrifying to others. Reality seems to fall somewhere in-between the extremes."
+    publishedDateTime: 2022-11-07T15:39:00Z
+    webUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/"
+    ampWebUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/ai-future.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Zest AI Secures Growth Capital to Advance AI-Automated Underwriting"
     excerpt: "Zest AI, which claims to be the leader in automating underwriting, announced that the company has \"raised over $50 million in a new growth round.\""
     publishedDateTime: 2022-11-03T13:32:00Z

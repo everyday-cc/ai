@@ -73,6 +73,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Pioneering artificial intelligence could ease winter pressures on hospitals"
+    excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
+    publishedDateTime: 2022-11-07T16:03:00Z
+    webUrl: "https://www.news-medical.net/news/20221107/Pioneering-artificial-intelligence-could-ease-winter-pressures-on-hospitals.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "LAD57Z3V2jhaVCYokPxw2+YDCdii1GWc4QLsB+EtSA06etXfFtNPMew/QOnyXAA1aUCZfv/ARAkqDmNFUCWXtGgIwKfu/pwu5z48NvUVVGlCxHqFL+eODd6sgGJ6htz0dI935K/xMc12cJL0uwC5Hi7vZsLvIORFgm8EZnSL/SwHkXrJp2IqVXVvRDen6omHMIVE+KMY8YIrBzNg1EhBj5ufIZhVkA6PDzl9k583N1QpnL1ICNEIXBLVftFsMtkDVt87DuCNcUHSsFNNXhSa9wjNSyS7dNRWNJ8/R3bmtaoMjLlAcTSLFp8P5vMFVvsIMOT3PmWEc3C0lRcw1jqfvu9pfG5apRma5XGUbEUp9bY=;tIcCTnRemgS7a8RmNDwXFQ=="
 ---

@@ -26,17 +26,6 @@ images:
     height: 837
     isCached: true
 
-related:
-  - title: "Researchers studied whether machine learning can predict knee injuries - the largest data set ever collected in the field"
-    excerpt: "A study conducted at the University of Jyväskylä Faculty of Information Technology's Digital Health Intelligence Laboratory used machine learning to predict anterior cruciate ligament injuries. The largest data set collected for this purpose was used,"
-    publishedDateTime: 2022-11-02T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970148"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
-
 secured: "iSmw36dWQneT1fp1xLqU4Urk1+GTfXRmalQZz2YJAP4rZtGN4/wLQc6dJqxaLQOhghl0PkdA/iJgS/V8SUJiWDTQIVYbAPnme/AswTI8j85VSIs8EKbK/cJ2ZiksgxD7az1RkC7Ubjv4uinviOPOlMt1Y86yoXh2A6XrcZ81DAne1Fvf3MSP63lk/Pe9eoGLiCaNgder2k7xq31eteeRDrsJAHFmj9xDt5uNyFeITQ5v3hC40h/wwgoa269HzYSsnmyDWt03mBxRjSzWn31mhBBAsnJ96GfMxGtUmGi1s2c9H3i/TSbpVW9Vor6z9gL90Cc+mU09ex1Vq1dDAzw9YjRXvYCb4YAEdeqs89kIZx777ml7d0fM//zpTsR+KxqpLmz9NT8uyBGAYZOaZzaf7FhVTHPYtVJq7vFfF7cJxb7ke/lmSrBczCLbzOU+WMk16WTnWac6tRYRQzuuZSE4l2DxYa3YuuzgzpXlcWSqj5PhPWcvyU8e8pO1z5tqeqU6kzlrVPOge8xfQkHuMHMWvA==;YTBVpLDpl4RkT96naax7vA=="
 ---
 

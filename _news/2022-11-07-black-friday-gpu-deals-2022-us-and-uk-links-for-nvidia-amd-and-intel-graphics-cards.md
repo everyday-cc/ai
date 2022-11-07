@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T14:17:00Z
 originalUrl: "https://www.eurogamer.net/black-friday-gpu-deals-2022-us-and-uk-links-for-nvidia-amd-and-intel-graphics-cards"
 webUrl: "https://www.eurogamer.net/black-friday-gpu-deals-2022-us-and-uk-links-for-nvidia-amd-and-intel-graphics-cards"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Eurogamer

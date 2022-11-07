@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
+    publishedDateTime: 2022-11-03T17:45:00Z
+    webUrl: "https://www.enca.com/life/google-wants-ai-one-thousand-languages"
+    type: article
+    provider:
+      name: eNCA
+      domain: enca.com
+    quality: 39
+    images:
+      - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-02/doc-9YK3FU-%40photo0.jpg?h=b34c8690&itok=WQAyrw8s"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gqHEi/uw9HsV+XJbKl7CRGlButtgGfVSaRDo6VZj7AzcwQWfOi4pkPoFPNgv7soCgwuNE3ml0R3Dw7bvuiMFRbgbObhR3EvJQ6zl9/JaY4ksjk5IJRRIXDvUpte9O2K1OSNfUh/XyvFPWtC/KRmAczH7yOg/+VFHBozwGwgPJEjZ8LgL4zKKhr2njQ1O+75BZDU4q8DZmPqjWEYSk9lFKREbY3nPp/sbBfkePgJJg9JwoHuh9/nFpNZm2+HRe0cAicBgtg53lVyro0eBv/4cUvA+Lvopo9X3sEELUjdh3QV4XBhFr062bZJ8k9MSHM5tuz3MKXk2iPdS/DWw4PvunerF7K8CpCxKBM3CX+pO2vftyaDQaQ0/S3zbj/DOVieBeDSClKdO/XAZI4NF5n8EMwhGVOOoyayG/jGL8qMzJdbPOHh2zq+rkTz8SkrStEx1IVVhRtn1GXitXbNz8emO1Y6BOzoRR5K4pddInM1+XwX/zUj4r8TGc21aieuNw2O5keapp09a66nwZbdmfbCkZA==;esXNCujPYiGcByMIIweDKQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T08:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2027-2022-11-07"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2027-2022-11-07"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: MarketWatch

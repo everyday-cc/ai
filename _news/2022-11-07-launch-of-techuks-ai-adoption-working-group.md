@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T14:54:00Z
 originalUrl: "https://www.techuk.org/resource/launch-of-techuk-s-ai-adoption-working-group.html"
 webUrl: "https://www.techuk.org/resource/launch-of-techuk-s-ai-adoption-working-group.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: techUK
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "ZBn+r7sf0nhkJNFG8m1+ytuQzTz8+NTvJDgbnsk3vGgee5Ycb0ex8GwUyjfnA7eNWKVfGlf1CLoPUAr08qiRtlA/ylGi2gRU3wQA7He+7R2cZGA3DTQ4s3K7359GgyFzpGNMouPRVSz3R++EMyLn+TO7w12IldhrfUatA/wfuByL7SKsZEZQ6fB5TC8vQcPWS+vP8j3QETSSC59cHp8sTTDzitYdufPm6cw0R0ivTSXDntLV1kYSaeQgu9sqk3finImMrOfzm+Ba/WvwR40haI92B6zx2FFf/b1unlrN71hEQyux8kpxeE/UNcWC41k7iLsprCLOvarknX7BY3Nski0/P4JQrKDzxdh5bxp68rZ35VsItGVDcoHAyLYmYOJPtCLiJdVZVluuQWS7Ks5pOyQUQMpr8FT98hRU16tH1bZ0+R+nsO8otLjuZtw8ZuxefAc2l7ccoM25k2dfLzQTF38sgvGdjrsBhhiEOR0a7UlMqgdvIRXlo/4jz/9jnYblVYZ8YRpWA630lGQoLLfhHg==;aIX1lVLuFLBXBIR2hpecTQ=="
+images:
+  - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/e9be07ac-0564-4208-971a40bb03b3a531/81a886c8-96fd-47e7-94ec2f98bced39b0/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/DatabackgroundabstractiStock-1254825732carousel.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "RAMfhgqCoihlmuPAdf2eewmSwueC6tUa2mwIzV1U47Vo6M0vdFYpMHzTWWzeH9LObRHU2jX7CwJ6Lx//GTFDrTdwwQnltelmkUBXE++NVdoWLbyQH8hCyHxjnU3zMC/i0QzRGtvL1979TS+VDuwuC+O8mUSgtXgYtNIAHs3lmjEvtQUqygub2gZdcVu9auFAUPy6CFqSqGXH5iP6zEN1sF8c/uwWLG+rgq7P/0nT9tz0OYjMx5z3CUnke6yfg3oONf3YjKiZ/H7gZ4pFNS57srv48yFGIqHUBOc4CsGAIfHfzOmMP9zwPmVBLEX9G9nWmVQjKx8MF435QRgL6U2srNUiTDAbMpH28qCnOCAV2Pg=;48x2rwGOkM+DYKdDgjgzGw=="
 ---
 

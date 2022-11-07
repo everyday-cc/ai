@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T13:40:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/07/ai-ethics-and-ai-law-deeply-disturbed-by-ai-used-to-fraudulently-influence-or-corrupt-elections/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/07/ai-ethics-and-ai-law-deeply-disturbed-by-ai-used-to-fraudulently-influence-or-corrupt-elections/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Forbes

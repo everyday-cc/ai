@@ -19,70 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Google makes massive commitment to support more languages using AI"
-    excerpt: "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages."
-    publishedDateTime: 2022-11-02T21:05:00Z
-    webUrl: "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
+  - title: "Artificial intelligence-based model predicts patients' risk of acute kidney injury"
+    excerpt: "Acute kidney injury (AKI) is common in patients in intensive care units, and predicting which patients are at risk can help clinicians take appropriate preventive measures. Investigators have recently developed an artificial intelligence-based model to help make such predictions."
+    publishedDateTime: 2022-11-03T20:30:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based-patients-acute-kidney.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based-patients-acute-kidney.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-based-patients-acute-kidney.amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 51
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768"
-        width: 768
-        height: 432
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/kidney-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Google wants AI in one thousand languages"
-    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
-    publishedDateTime: 2022-11-02T20:08:00Z
-    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
-    ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+  - title: "Artificial intelligence-based algorithm predicts major adverse kidney events after hospitalization"
+    excerpt: "Serious kidney-related complications—or major adverse kidney events—are common after hospitalization for various medical problems. Investigators have now developed and validated an artificial intelligence-based algorithm to predict a patient's risk of major adverse kidney events within 90 days of hospital discharge."
+    publishedDateTime: 2022-11-03T20:30:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based-algorithm-major-adverse.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based-algorithm-major-adverse.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-based-algorithm-major-adverse.amp"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 43
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/kidney.jpg"
+        width: 1920
+        height: 1361
         isCached: true
-  - title: "Google wants AI in one thousand languages"
-    excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
-    publishedDateTime: 2022-11-03T17:45:00Z
-    webUrl: "https://www.enca.com/life/google-wants-ai-one-thousand-languages"
-    type: article
-    provider:
-      name: eNCA
-      domain: enca.com
-    quality: 39
-    images:
-      - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-02/doc-9YK3FU-%40photo0.jpg?h=b34c8690&itok=WQAyrw8s"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meta harnesses AI to translate rare languages in real-time"
-    excerpt: "Meta recently announced the first speech-to-speech translation system powered by AI for Hokkien, a primarily oral language in the Chinese diaspora."
-    publishedDateTime: 2022-11-07T04:30:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/meta-harnesses-ai-to-translate-rare-languages-in-real-time-bc7146b8-0434-43b1-8563-350ac8d975ab"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 36
-  - title: "Google: AI to be in 1 000 languages"
-    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world’s one thousand most spoken languages as tech giants compete to dominate the internet’s next battleground. Data is crucial to advances in AI,"
-    publishedDateTime: 2022-11-04T11:11:00Z
-    webUrl: "https://www.thesouthafrican.com/technology/ai-language-in-1000-ways-google-says-breaking-4-november-2022/"
-    type: article
-    provider:
-      name: richest
-      domain: thesouthafrican.com
-    quality: 19
 
 secured: "cP56W3NE8vGvMoJq7OZ7QEogP4IsEjZCiF6SQL9Gdq7aBAPJ9h9nmmlPHlmm4VbDgVOOQiA/4xDNxgNZwmLVGKN2bau38kQIKb8ADY8MU9jEQ5Z8nk265u8h/w/d3G93qDZn5RQU8zoA0BeF0EM8fp4z/7swZgvcMw1jBTrkGVb0Ik69KJrAdR8HKdT8Y8BOIgvM38pyVc/HSh2Hq48uxyxK0Oxv30uQTW0sTT1YZwEE0ynquK3msjuPa4UMmzA3ScXS4hpsrZFHGm45HTBdlxocSQ1PF1896Q1lddkIWIZzTN1OdfVfVCqB/igF+b9O8mxKcAo1xQbN0t0+xwlZARufnUpoVCNnD6bZ3R8RrOk=;/JgMGym9zmFfWQSbIRgHAA=="
 ---

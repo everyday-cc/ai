@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5e12c637-08d8-4635-9e47-3f49ab9b79bd/Rendition/low-res/Content/Public"
         width: 700
         height: 467
+        isCached: true
+  - title: "Pioneering artificial intelligence could ease winter pressures on hospitals"
+    excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
+    publishedDateTime: 2022-11-07T16:03:00Z
+    webUrl: "https://www.news-medical.net/news/20221107/Pioneering-artificial-intelligence-could-ease-winter-pressures-on-hospitals.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "iiBQncvPAJA84T07GypwSUz3ip/ug9lylmlZcxPdjJkv70MWwOQBCu4yQyQYM2j5BJSMSK2RIoWImdbgOZ6W6HtmKX05aM/7KCxsSUTt+stsZImd5+gNwVawNLXP+zeP8GJZX8sLq/Y5LQYaPWzk8iTA8YFe9OXuqYOHD19uC4U/WeXO6Hh86WCilNnyqUyvzVBFYqI3YzEUYJpmQcbKbpHBDvaK/snSITPq9Jfj5DJS8robgG4VRlsrH3C0t8bXQBAf2//0ppr2J7zv7Ul9DVGi9Sss83u6qyd1/Eq44yUF61OoBpFeMabzCfxjiZn8umJPp0Hwnaq4WStYkZL9l6ooAHGsuxepHcasWKnK/fsKFsfOe95tgtQYGudcgfdXMkVaoD7RVeE8i3fdi8MG/94wxXH8hXrvLnhaZtMCCezVV6y7zAWutpGyNl8f2PHycEamh04SCcyPrkP+j7VCdNZFkymXXGb/VdLSS3gAM+57QjSmwcJHRv6ueiYgJbBB3JJ8zy66hBM5dIhTdIk3OQ==;KPpqR3AFlrpqPMX0+TJ5Kg=="

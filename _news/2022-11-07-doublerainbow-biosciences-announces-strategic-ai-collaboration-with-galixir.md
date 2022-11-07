@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T13:29:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29590731/doublerainbow-biosciences-announces-strategic-ai-collaboration-with-galixir"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/g29590731/doublerainbow-biosciences-announces-strategic-ai-collaboration-with-galixir"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

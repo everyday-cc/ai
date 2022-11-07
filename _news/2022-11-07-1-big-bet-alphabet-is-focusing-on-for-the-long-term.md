@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T13:37:00Z
 originalUrl: "https://www.nasdaq.com/articles/1-big-bet-alphabet-is-focusing-on-for-the-long-term"
 webUrl: "https://www.nasdaq.com/articles/1-big-bet-alphabet-is-focusing-on-for-the-long-term"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq
