@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "alitheon"
   url: "https://twitter.com/alitheon"
-  followers: 9009
+  followers: 9008
 
 size: 11-50 employees
 yearFounded: 2015
