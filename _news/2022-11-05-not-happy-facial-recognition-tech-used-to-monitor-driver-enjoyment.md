@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
-excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience."
-publishedDateTime: 2022-11-05T03:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/05/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/05/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
+excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience. Abarth is the tuning division of Italian manufacturer Fiat and it has turned to facial recognition technology to quantify the emotions felt by people when driving and being a passenger."
+publishedDateTime: 2022-11-05T16:00:00Z
+originalUrl: "https://www.carsifu.my/news/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
+webUrl: "https://www.carsifu.my/news/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: CarSifu
+  domain: carsifu.my
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/11/abarthtrackfacialrecognitiontechnology-635befd412fda-1024x686.png"
+    width: 1024
+    height: 686
+    isCached: true
 
 related:
   - title: "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers"
@@ -64,6 +70,6 @@ related:
         height: 683
         isCached: true
 
-secured: "6q6QF5IEs3LjTNTCJXq6mtAI0aE8djl2iMIukSQoeegrYkj78AwMRdkRGyN/sQ7YftA1EWC/1m6U6WVTbg782DFCkV/fPKSmJJEq/lYjXLHV1FOjCG05VioKNRJXBxaufXGvlgcltXY+l5zxkflt0VTYUYv9Jnxd/2GdsR/UgDidG7TcpJryZKPjvG2lcXN1Jnl0AVZOZc8+FMC0HSo3OHp5sdZICHlrKTozUJmg7PLdx7rZ7cAJBhJfpDk0b6MIWj5/tbOPevkr8vv8La4Xp0I6N5cnyKNhYABQO9lEUfnZyIOFb3UeUbiELPUx1WtmiF/zztKd7SNLGU9O243bp6CI1qV5qYd2EPkkaampPK2sXYBSO2XBYfwpngyWUDSDAf/BksERChqs/EiuBfpItRCrGnW3n+p94stMTMdI68nSeSOnOM79lgVw/FJSA+73Fm+ZIcFBIO6fKdQ5JISzNe8A1z4HB+pSaH5oavKzpvFf/wEd2cRUjPiU7G2kwlFtFnYcV3QD5+1ac/NRlC6HWA==;fspWHxlmwhwxnocWXvtD8w=="
+secured: "A0RKBzxs0qoTjWO6KoYaG1JWxKzR30lKkvXkapDppCwQ6sZTm5be5sgkR95vZd4DkOIIJxdCsNQw0P5ncW/85xaomIMtqazyN/IxlBUvEqDrnSY7dh239j8XN3BXQ89glPbNDFbj9F5rP89uY21U8SW2zcpdlmMFxt1MbxJ8xbguXckRYahHA09XV+6lxYlYrvXT6HUA5mztQOavT0myI641A4V12OondjbFTQYx/8v9tlivmXs89gzs8a6uzbKojx78rY+waa0P4CXoFAOtoBB40WsMfq9RvjsNFkGIWUXRnCcRHx5tKRanTEjXveO0RdiX6KfrROl939dNMN5wxr/M0d3rOufBw1CzY+sbtkc=;BnjY8z8e3WJgBlzRi6M9Fg=="
 ---
 

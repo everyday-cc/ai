@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
-publishedDateTime: 2022-11-04T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
+excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to 2028 according to a new report by MarketsandMarkets™."
+publishedDateTime: 2022-11-04T15:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -66,6 +64,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qpRvExl/JPqoOnhYOkVG3xAdLRU9FIsvdw3DbYXj0dN5bv62rRKF+NpC/w+2TViXgYmZROmXsk8mOjG0axHcv9AVzeFlMdlYHMKocYKFq2fEuIs7MzL6FJhDtruMTpjC5uD9UVMKIrpfM+fxqC7kZ/lFxuIHxDMmXiJQ3L18oNZ13JxPS+Li3j8XatOiYropDyJNdqq/H8/0G/XXwfIs244oLq5RHyQlVV8AxpIfmreHD/1+LqAfQsqQiAYkB42/Mz3MUQwV883oadGJG+6PFrpElYWOCzHJSdxYMkGyYCOtQiOQSiWMtYfyvYCS7w07rOC+aXkGaJh1UYl+XKmi1NH5HPVBDFE0fgPNe9bP/y0=;tso7rsUvRyBuu1Z7Obudaw=="
+secured: "JDZp2/p6EYdCuJYx9qAL3FfP7Cyr1rx1Y02J/O33sF7H3FKqidEiuOL8T+V1cw0gER6pM2mSF7pW899A4IKu6xi0cUXa33Ocbtgy5vxzBqVYBK5kT/tfvY1obif1lVEpuGtxqIE+ZqmpXKxish20K846IkTX0ZVhYy+AD84oXUN8VDt7/f3kI2PSWvqOsjl8qAknM4AH1Pv0ljmSNu70nJfEadkQi0+7hIEqGNZDSOS64H4v7kbnMWzyB4nuE3B6FlxXitWrsgffevpmaWG9c5dF+xSlOKH+Rl0xdboYxV18wkWO22RaNdVLnEKTclcLx07w3ESPNFBISaPv5Np/TEOZ+pBLU3RohwRGDtOALbFRNiXee5Xg1KffZu9JSVAF9jwzKClmIeB90eJDc6OK4pRla9pU61vwiUwqZWCbONp8q9u/joFOefw586Iyy8cXyTbHNZ6Hr/TMEeqLxuU6XT4bxTQ4BNIjVE1f5ePudPBnM4I4ed4Xw0A19uV5hlau0IVnXqS3SCQChrxCp0MjVg==;6CEPBfah/hN0pn+98/CP+A=="
 ---
 

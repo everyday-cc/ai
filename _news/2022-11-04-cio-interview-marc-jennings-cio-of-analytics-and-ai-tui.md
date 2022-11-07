@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252526590/CIO-interview-Marc-Jen
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252526590/CIO-interview-Marc-Jennings-CIO-of-analytics-and-AI-TUI?amp=1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Beyond Dashboards: The Future Of Analytics And Business Intelligence?"
-    excerpt: "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need."
-    publishedDateTime: 2022-11-02T07:51:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6362212a73ae471fe027c5a2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "“IBM Introduces New Software to Break Down Data Silos and Streamline Planning and Analytics"
     excerpt: "IBM (NYSE: IBM) has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
     publishedDateTime: 2022-11-04T10:00:00Z

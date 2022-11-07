@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft wants AI to change your job – if it can work out the kinks"
-    excerpt: "The most hyped words in tech today may be “generative AI”. The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user."
-    publishedDateTime: 2022-11-02T07:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/02/microsoft-wants-ai-to-change-your-job---if-it-can-work-out-the-kinks"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 56
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/02/1800869.jpeg"
-        width: 1240
-        height: 929
-        isCached: true
   - title: "Microsoft wants AI to change your job"
     excerpt: "Microsoft executives told Bloomberg the company has plans to develop the Copilot technology for use in similar programs for other job categories, like office work, video-game design, architecture and computer security."
     publishedDateTime: 2022-11-05T22:11:00Z

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-27-ford-posts-loss-as-it-takes-27-billion-charge-on-argo-driverless-venture.md",
+      "title": "Ford Posts Loss as It Takes $2.7 Billion Charge on Argo Driverless Venture",
+      "excerpt": "Ford Motor Co. swung to a third-quarter loss because of a hefty charge associated with the shutdown of the auto maker’s autonomous-driving venture Argo AI, the latest setback in the pursuit of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-to-take-2-7-billion-charge-on-argo-driverless-startup-stake-11666816138",
+      "originalUrl": "https://www.wsj.com/articles/ford-to-take-2-7-billion-charge-on-argo-driverless-startup-stake-11666816138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-652612/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-how-ai-powers-sams-clubs-holiday-product-assortment.md",
       "title": "How AI powers Sam’s Club’s holiday product assortment",
       "excerpt": "“We have patented models around object detection which have roughly about 90% accuracy ... Club associates, he insists, love the inventory intelligence and item recognition technology. “Instead of having to manually find out all of these details ...",
@@ -1182,57 +1234,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-shutterstock-will-soon-offer-licensed-dall-e-2-images-showing-what-the-future-of-generative-ai-might-look-like.md",
-      "title": "Shutterstock Will Soon Offer Licensed DALL-E 2 Images, Showing What The Future Of Generative AI Might Look Like",
-      "excerpt": "Shutterstock announced it unveiled its action plan to launch its AI-generated content capabilities in a manner that is responsible and transparent for its customers and contributors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6358cacc53a52234563671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/",
-      "publishedDateTime": "2022-10-25T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
