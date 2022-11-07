@@ -1,47 +1,26 @@
 ---
 category: news
 title: "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge"
-excerpt: "Aetina has launched new embedded MXM GPU modules powered by the NVIDIA® RTX™ family, including RTX A1000, RTX A2000, and RTX A4500. These NVIDIA Ampere"
-publishedDateTime: 2022-10-24T01:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge"
-ampWebUrl: "https://www.benzinga.com/amp/content/29371511"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371511"
+excerpt: "The new MXM GPU modules, with their compact designs, can be easily integrated into a variety of AI systems to boost the computing performance and run complex AI inference tasks. For these GPU ..."
+publishedDateTime: 2022-10-24T03:15:00Z
+originalUrl: "https://www.asiaone.com/business/aetina-launches-new-mxm-gpu-modules-ai-performance-boost-edge"
+webUrl: "https://www.asiaone.com/business/aetina-launches-new-mxm-gpu-modules-ai-performance-boost-edge"
 type: article
-quality: 73
-heat: 83
-published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg"
-    width: 400
-    height: 209
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg?h=5b470aab&itok=CwbJkcju"
+    width: 600
+    height: 316
     isCached: true
 
-related:
-  - title: "Aetina Corporation: Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge"
-    excerpt: "The new MXM GPU modules, with their compact designs, can be easily integrated into a variety of AI systems to boost the computing performance and run complex AI inference tasks. For these GPU ..."
-    publishedDateTime: 2022-10-24T02:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57374567-aetina-corporation-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg"
-        width: 400
-        height: 209
-        isCached: true
-
-secured: "TsklmQzbmVO4ueM8ynUYyl6+87/ciX1zR57FF0kjGW+QrrmQRDj53DwauZ8kt8tu5OdPwQ7BBFShHYrdKCNlhkMT4dbcw3XSkfMzFn0xHHx71gsryxJ9L2fVu5deugOtw3fszX0N6d0B7fWuGVUTMJKrnLALu+V5XMCpFlzfHomupVOTlJ4yrmVDgRF3Q5lFgjTgNukpOec5yORAginhzkXGDlCS4dLcMjNML7jYEvMrpEhdmH7gjfqC86imqBpTRtr6qS6p0pleabw6g1QVu8rumIKARjf0p/12dP7S5FHNV/NWYcOE3vfL5oU+PW4rHUO450s9WxO/VbWdangO49qhaF9AhD3/XR7dPjEab5E=;OcKmKx+9s7p5Sitr0jiNWA=="
+secured: "hQUJgphrVp7ldCyM/yQFrmiu+/cFwafMIZcuAsmKgrT8EcpJJaEchGtVGKOzS4FaZu+m0fKeY+R6qifjpn0xjOm+FO20GcUvmwxs2iZN+aOdnLsAn7TUgyDGaJwyzA9lbP2I51yjxdo+iiG71qRID4gegxgulrH4t+Hhy9tY1YRn+oYeUZxMZzM2WiS1aGViES+rkQX7/lVzH8uLz0zgcY3S3y1llzK56CuzeZrvcYIPP17CaLg5MtbfIqKKRdZhVbPBamgJm83ue3WWdzhyK4H3o3Ojcfn1cfA2wBZJBTncCO/n+jpZck8yily7ngXeDjaFBnwNWkIMa2mtgjcMceTeM1OadmYizmRjjWWEXgk=;Ag2e911SB54CB550Ob4uug=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-05T13:00:00Z
 originalUrl: "https://www.livescience.com/meta-predicts-600-million-protein-shapes"
 webUrl: "https://www.livescience.com/meta-predicts-600-million-protein-shapes"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "w9EDNvGJEcniQuuJCi1oxZKZATAdequUDAiMiADG3FsJNRTiaUe6JpZ4n1xd9+OwpNRrzICWHOs52rzy0edS80puzguBzTjzqlCfPJiUpvRKgErwr3U32PckLMHj8ufxLj8ZseKvowUh/q2srXOxjz0JrppWYblaRpPWbQTsJ5RvRHo1XlQuGIuI+qtXqXFC6Zg92/Ntkl+G1D+E2xTwfRUhfubKyPag9o2h4MCJf/vSstocU1o3cKTFiOT15h0V/THlMYXg5qszl2L4AOB96rkkzt0zREIz+qKHfH8wboUh3Vxv8EKkGRYa4X7YneD21eQu+o+0GAkt8LzlfsEs8U1F5PUG2acCWzD8SVNOMa0=;MM0CgHmi9/Y5Waq5eUNYSw=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/NRkdGJKZnK64cjJ9xaLht-1200-80.jpg"
+    width: 1200
+    height: 871
+    isCached: true
+
+secured: "MXgQkHelCUXbXe/ug8DyYAdFfqyOKKXVx82kEbVv5Raq3fVfu9FbRiIpYphQ3iJ7Fyu73aIpqdNtt+K/sXo03+oHX0wSfabxqqPhevAHU49lcULHxH8Faf2lNNJZZOlnoAJ7P89i/fjB9/23VmiQha7zjysWddzNkGnvZCl7KclNKFmF+WlHi7RigUQRW53JZ29MLNWQQNRTho5DAgEeW0gQFQclzdroS5pKgTXHjyqTrVQc3Is3Ctg4xksOOFDusaXtVdFQTZx/WR/SSOZFOGpHPH8nifO0MJUmhpZiwMnLsFXRWjTHqPFc+LVxCHd0yjpBX4ofr2El44FPUkDGcoF8ZmERm3n3DKOLn/PFIcA=;MuLi5WouYReU21gGQgZ1KQ=="
 ---
 

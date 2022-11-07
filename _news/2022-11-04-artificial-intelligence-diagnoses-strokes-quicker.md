@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-03T21:05:00Z
 originalUrl: "https://www.winknews.com/2022/11/03/artificial-intelligence-diagnoses-strokes-quicker/"
 webUrl: "https://www.winknews.com/2022/11/03/artificial-intelligence-diagnoses-strokes-quicker/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.winknews.com/wp-content/uploads/2022/11/vlcsnap-2022-11-03-16h45m53s641.png"

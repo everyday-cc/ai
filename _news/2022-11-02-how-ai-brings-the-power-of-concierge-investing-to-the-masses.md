@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-ai-brings-the-power-concierge-investi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-brings-the-power-concierge-investing-to-the-masses/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-95265465,imgsize-113708,width-1200,height-628,overlay-etbrandequity/the-power-of-vision-in-marketing-and-branding.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Using Artificial Intelligence to Upgrade Manufacturing in the Optics Industry"
+    excerpt: "A key feature of current and future technologies, from smartphones, self-driving cars, medical testing equipment, to security monitoring, is the optical camera. It is vital"
+    publishedDateTime: 2022-11-07T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/using-artificial-intelligence-upgrade-manufacturing-optics-industry"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 36
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/pr-newswire_500_4_425.jpg?h=7de12b8a&itok=NRsZ6ujK"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "i7mdZR44DfsGn0A0RpVWEp9Wg9VNlVKtBh7YwNky+2WYgFTe2aRHqgmxod6Ai1qOg6xuaY/a6Ex4BV5h0CZfCivUWd8kaQhHc6vz+bth6sFTaTWNh552sBZeZP82iuWVIfxnQF2crlbW1ox2HJoJy5sQK6/NYgqeqY0hjcH8IO8B/w625w48JMdS/aLHVNhq+XnI6N8cCBLseFPBv/waVCMrUOmaORaisPX/Ust7qSj9X0tj++E/lGQWG1/jOKqdUo9TPJOSp4iNC2kBvhR8yrGUIvMJyv/h92RH+a4Rrso65fnApADLRJE62MYAjRgWK675F+mnqZE1DoNfVEvszer+8b+ekyF3RAuDEGlpr8XCbPJQLG/xmTQnnt+eOwJVWKQHfG6DICW0g8SuPujRKbgAgiaDFmt+/1nPPn4Qw6+z60cTuVaBNx5ugd75fWO1gCViuev4SgYdV5WYiohRaDCvrfwS7tcFqyyW+vxg6KAn12DqxkzeQPukMk3F49u5XJZ6kB9QHwHl9ECSjsuHfA==;oDtsNwUdtY5OT1mcbItLGg=="

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Experts Predict 8 Biggest FinTech Trends For 2023"
-    excerpt: "AI will also continue to drive infrastructure decisions in the FinTech sector. Chatbots specifically will become more sophisticated and could soon be the future of fintech customer service. In fact, studies from Juniper Research suggest that successful ..."
-    publishedDateTime: 2022-11-03T15:26:00Z
-    webUrl: "https://www.techdigest.tv/2022/11/experts-predict-8-biggest-fintech-trends-for-2023.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 24
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2022/08/klarna-1024x576-1.jpeg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Dutch fintech Yabx enters Nigerian market"
     excerpt: "Yabx, a FinTech venture headquartered at Netherlands, today announced its foray into Nigerian markets with a mission to democratize credit across the country with its digital lending offerings."
     publishedDateTime: 2022-11-04T11:30:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-02T20:00:00Z
 originalUrl: "https://commercialobserver.com/2022/11/why-artificial-intelligence-has-become-invaluable-for-developers/"
 webUrl: "https://commercialobserver.com/2022/11/why-artificial-intelligence-has-become-invaluable-for-developers/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://commercialobserver.com/wp-content/uploads/sites/3/2022/11/Northspyre-Feature-Image-3.jpg?quality=80&w=640"

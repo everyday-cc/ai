@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022"
-excerpt: "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to cybersecurity."
-publishedDateTime: 2022-11-03T04:08:00Z
-originalUrl: "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html"
-webUrl: "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html"
+excerpt: "the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to cybersecurity."
+publishedDateTime: 2022-11-03T04:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20221102005549/en/AI-Spera-to-Showcase-CTI-Search-Engine-at-Singapore-Fintech-Festival-2022/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU"
+webUrl: "https://www.businesswire.com/news/home/20221102005549/en/AI-Spera-to-Showcase-CTI-Search-Engine-at-Singapore-Fintech-Festival-2022/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/c9/3c94ed0a-6c17-5fec-8ce9-4cd34d6bd131/63633fddb13d3.image.jpg?resize=400%2C286"
-    width: 400
-    height: 286
-    isCached: true
 
 related:
   - title: "Singapore Fintech Festival 2022: Deputy PM Wong sets the fintech agenda"
@@ -39,6 +33,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Experts Predict 8 Biggest FinTech Trends For 2023"
+    excerpt: "AI will also continue to drive infrastructure decisions in the FinTech sector. Chatbots specifically will become more sophisticated and could soon be the future of fintech customer service. In fact, studies from Juniper Research suggest that successful ..."
+    publishedDateTime: 2022-11-03T15:26:00Z
+    webUrl: "https://www.techdigest.tv/2022/11/experts-predict-8-biggest-fintech-trends-for-2023.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2022/08/klarna-1024x576-1.jpeg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Singapore Fintech Festival 2022: Saxo launches digital wealth advisory solution"
     excerpt: "During the week of Singapore Fintech Festival 2022, Finextra caught up with Saxo's ... for businesses wishing to take advantage of the nascent possibilities that AI and machine-learning present to the wealth sector. Scalable personalisation, algorithmic ..."
     publishedDateTime: 2022-11-03T11:06:00Z
@@ -54,6 +62,6 @@ related:
         height: 270
         isCached: true
 
-secured: "/EcVxRihW4cdl0itQXavUQDw/ycl7ackafOb2fH/+4Ak8T7LAxZWKkBirlXINy/ZiDEu0sy4rtaXfishBcCU4ZUJVaYFr+jD2NCeQBFcBVkPCQ+Ji0SbfehpkWnN1dIswx5ZssRTCs6RSzqlrEQEUNjXqWxzDZB5xXmy+hwiYxG8btaODbDJjrMPQJBdpwbSMPVwZrOPLvWSgQnJPBAHIjsjTtVARKqY2tuTkeM4loQlq7FNd19t5WHPKJ11kLZ6M7F60IghMynDaulz2EADejUcxnQPiS/+IMtogMYCCSesoqEpO3taMsblQqRwSM24Zjqs4FKMh8w6mIMT2pbQfVRgHB+1Nd/CJRg8/dH/K0d2i9JRiuAFLpNTt1Nyp8KgxU2B33nBxQN/H4d50CplgPPab5RfuJM3/PtaOpv6pDON2PIT1JMI0uB0ewmp0KRIqZcTw9ybs1VVLao8Xrvx2F2Sk3q20NykSiVL/EzbdcMYMkPLEo/AkrsCv7qEIXgmtL58to3jbY1G0ex5OS3I5A==;BxJdekhBFaRfdO+XPQgZWg=="
+secured: "nXZelDmBCwNC/CVqPT4R77MKCLZV9Yeb/sztPiB9uZwHsEsKg+BG3t6+DzIHKet2VyNTG1q9auhdCuvy0U9XWY5UR+sr/F2y/dzgi2PNRumVj5NJGqzxWe4LVFCmJeTOF8PQmqiSReDl/faWCaZp+DXPJAgPjRn+tWDxTthsPHzkgf+YM5+R4ND2UAtzNp+REMkRxj9SIIfOUCdezFcfxhU0xpOZiLATy1zcKfdDpjiUfdc8CYyahHW4m+4e46z1+LNj5Knqbqn8V18BY0gosF0Km3URjmMwUGHL7SOcNvgn0GL2drmvFUQPOpPecaPAamwY/m+bP9LtKw7P4LBFKp3rwdFu19KifcPecYw47YM=;XYGX2aAvKjyyAESixhOmgg=="
 ---
 

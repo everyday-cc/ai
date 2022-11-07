@@ -26,22 +26,6 @@ images:
     height: 537
     isCached: true
 
-related:
-  - title: "Why was the Balfour Declaration Issued?"
-    excerpt: "The British issued the Balfour Declaration for a few different reasons. They needed to justify their presence in the Middle East (specifically on the other side of the Suez Canal). After the war the British were to be the custodians of a future Jewish State."
-    publishedDateTime: 2022-11-02T09:46:00Z
-    webUrl: "https://blogs.timesofisrael.com/why-was-the-balfour-declaration-issued/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 24
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/Tuvia-Book1-1530951857-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "5QPokHd0i1UphdDWSfpAlUW1v2YU9Esq1RVw1jri/DxzJ2DZNb7rW3MwvHHELVLZGqx1LONZVGvKrioWmpWgx/16G9lSA/tQoGrcjwzcKsciiO7Qee/Zb3Ddf4JCEpAi7eseQ/oHoIJ5C0+ZzJhytErBy+SBgCV5HbQeo+YqDYkZW1xSNq9baYsqARQ0b4+SoA1CIabpVtx+Fzium/7UKPxFH+sgbfBg0yD5GOmOUM0wuoHuhxopB5ZoL7mzxBzQRpOOJVoTCaIc5FB7jx2Lo8WgAyV1FD1uTV+GWigSte27ZgQbSvmspc39ULvMKJ9dkVoheA2SjoE/FSYQNQBZil5pNFJOH31ZX7U55/bFZ2M=;DAehmLE5KeZtd37+6UOXMA=="
 ---
 

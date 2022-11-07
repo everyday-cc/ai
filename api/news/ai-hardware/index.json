@@ -355,6 +355,135 @@
       ]
     },
     {
+      "path": "_news/2022-11-01-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors.md",
+      "title": "AMD RDNA3 GPU Revealed With Two Eight-Pin Connectors",
+      "excerpt": "That seems kind of quaint in the current environment. It also flies in the face of rumors that AMD would be unleashing a monster GPU in the same vein that Nvidia has with the 4090. The other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
+      "originalUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2022/10/Screenshot-2022-10-31-at-10.19.02-AM-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-mediateks-dimensity-9200-crushes-the-competition-in-gpu-performance.md",
+      "title": "MediaTek's Dimensity 9200 Crushes The Competition In GPU Performance",
+      "excerpt": "Ahead of its debut, some key details about the processor have leaked online, hinting at big improvements in GPU performance. According to noted tipster Ice Universe, the Dimensity 9200 will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/09/MediaTek-Dimensity-5G-SoC.jpg",
+          "width": 1816,
+          "height": 1116,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html?amp",
+      "publishedDateTime": "2022-10-31T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-genesis-of-gpu-oversupply-hits-the-streets.md",
+      "title": "Genesis of GPU oversupply hits the streets",
+      "excerpt": "It is not clear how serious the pictures are supposed to be. Graphics card oversupply in the post-Ethereum GPU mining era has been widely reported and consumer graphics card prices have fallen as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/graphics/55739-genesis-of-gpu-oversupply-hits-the-streets",
+      "originalUrl": "https://www.fudzilla.com/news/graphics/55739-genesis-of-gpu-oversupply-hits-the-streets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/d696d04b365abf2acd2b6cb2cbbceb50_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-meta-is-betting-billions-that-ai-will-fix-its-advertising-business.md",
       "title": "Meta Is Betting Billions That AI Will Fix Its Advertising Business",
       "excerpt": "Meta expects operating expenses tied to Reality Labs to surge further in 2023. This outlook is a big reason why shares of Meta had tanked more than 20% by Thursday afternoon. The company's aggressive plans to invest in its data centers got a bit less attention.",
@@ -724,10 +853,10 @@
     {
       "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
       "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
-      "excerpt": "Inspur Information, a leading IT infrastructure solutions provider, announced its Korean subsidiary built an advanced AI server architecture platform for Upstage, a leading AI company based in Korea.",
+      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699240.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699240.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -737,11 +866,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:25:00-07:00",
+      "publishedDateTime": "2022-10-25T06:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -806,6 +935,58 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-tsmc-suspends-advanced-gpu-production-for-chinese-startup.md",
+      "title": "TSMC Suspends Advanced GPU Production for Chinese Startup",
+      "excerpt": "Advanced chip manufacturer TSMC decided to suspend production of GPUs for China's Biren Technology while it decides whether they are performant enough to fall under US sanctions. As far as Biren ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/components/143410/tsmc-suspends-advanced-gpu-production-for-chinese-startup",
+      "originalUrl": "https://uk.pcmag.com/components/143410/tsmc-suspends-advanced-gpu-production-for-chinese-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tsmc-suspe/tsmc-suspends-advanced-gpu-production-for-chinese-startup_p52g.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -888,19 +1069,19 @@
     {
       "path": "_news/2022-10-24-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
       "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
-      "excerpt": "Aetina has launched new embedded MXM GPU modules powered by the NVIDIA® RTX™ family, including RTX A1000, RTX A2000, and RTX A4500. These NVIDIA Ampere",
+      "excerpt": "The new MXM GPU modules, with their compact designs, can be easily integrated into a variety of AI systems to boost the computing performance and run complex AI inference tasks. For these GPU ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge",
+      "webUrl": "https://www.asiaone.com/business/aetina-launches-new-mxm-gpu-modules-ai-performance-boost-edge",
+      "originalUrl": "https://www.asiaone.com/business/aetina-launches-new-mxm-gpu-modules-ai-performance-boost-edge",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg?h=5b470aab&itok=CwbJkcju",
+          "width": 600,
+          "height": 316,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -908,13 +1089,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29371511",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371511",
-      "publishedDateTime": "2022-10-23T18:44:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T20:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1167,196 +1348,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-supermicro-extends-server-solutions-to-include-ocp-technologies.md",
-      "title": "Supermicro Extends Server Solutions to Include OCP Technologies",
-      "excerpt": "“Supermicro continues its commitment to deliver best-of-breed solutions like our 8U 8-GPU AI training system while integrating key open technologies that unlock innovation and flexibility for our customers,” stated Charles Liang, president, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2022/10/supermicro-extends-server-solutions-to-include-ocp-technologies/",
-      "originalUrl": "https://insidehpc.com/2022/10/supermicro-extends-server-solutions-to-include-ocp-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2018/07/network-2402637_640.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.md",
-      "title": "Ceremorphic tapes out AI supercomputing chip on TSMC 5nm node",
-      "excerpt": "HYDERABAD: Ceramorphic Inc announced here on Tuesday, that it has successfully taped out its first 5nm chip with its partner TSMC. As the only AI supercomputing chip to solve the high-performance computing needs in reliability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "originalUrl": "https://www.deccanchronicle.com/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ldihcdctlqe67bp5pk7198tm63-20221018221343.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "publishedDateTime": "2022-10-18T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-nvidia-and-oracle-announce-expanded-cloud-ai-partnership.md",
-      "title": "Nvidia and Oracle announce expanded cloud AI partnership",
-      "excerpt": "Nvidia and Oracle announced an expanded, multiyear partnership today at Oracle CloudWorld to help customers speed AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/NVIDA-H100-SXM-image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
-      "publishedDateTime": "2022-10-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-oracle-cloud-adding-tens-of-thousands-of-nvidia-chips-for-ai.md",
-      "title": "Oracle Cloud adding tens of thousands of Nvidia chips for AI",
-      "excerpt": "Chips that help accelerate computing speed include GPUs and are heavily used in AI work where Nvidia has the lion's share. While there are many AI chip startups challenging Nvidia, Clay Magouyrk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
-      "originalUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
 webUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -18,24 +18,6 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
-
-related:
-  - title: "Microsoft's SA data centres offer more services"
-    excerpt: "After the expansion of its Cape Town data centre, the company adds new services at its local Azure data centres."
-    publishedDateTime: 2022-11-02T09:46:00Z
-    webUrl: "https://www.itweb.co.za/content/G98Yd7LGG2zvX2PD"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/G98Yd7LGG2zvX2PD"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98Yd7LGG2zvX2PD"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2022/11/Karin-Jones-2022.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "rFSLoHdvUqbSi6GL6A8RykGOTgT1hKORP1n/SmCQhXL3adVj6JUfsQnbSyvHGS5LDGO80KBO4fpgrJv3EfSPkGrkk1W4PcjgdPrHZsOPhgtg4Nap4byuG4OAt6N6wcBvZ4Wzwz90GKwat/eTx7pGbF048nYPxL1HWYWthtP4m4v7So9mWDgh5Lt550ANa7t4FUiXyFs61KvMv1PtL3Ql8znoHHfC2nYr2mJ+Lhp25aakr0LZrd9YvDJmZ4lnfDdGTEphpsSDw481GSblFaRSRBX69Ix7VpZZm+/Xb+qtOsw56Y2EiGf9+3jK3LvWp9ySE0zoQWGrGKeCOUkzJBU/TDTRYt2MJm28AYOYoJMHgSenwvvk+DsOg0dxp5xvl+woNdzKjgMAKSdX+/eLsW5jcQOoEZzGdxpnDY+CNuE593zZEYofIQztzj/+ZalLLEdrQD2NskNQ4BIeo5GQYit2TB2pnDqWs6WKTGpUXx9LKG+NZpp5ONj9BCvAZAOAHmxYKDl1BDq+oOU+ITG6A/CWeg==;Y1DhQJ63pX9vhTByOrv4GA=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.html"
 ampWebUrl: "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-intelligence-enzyme-easy.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-80.jpg"
