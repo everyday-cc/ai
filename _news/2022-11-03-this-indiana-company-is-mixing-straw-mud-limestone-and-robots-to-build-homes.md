@@ -1,23 +1,20 @@
 ---
 category: news
 title: "This Indiana company is mixing straw, mud, limestone and robots to build homes"
-excerpt: "Can thick walls built with a mixture of clay-rich mud, shredded straw and limestone slurry help solve the nation's affordable housing crisis? The five men who created Terran Robotics believe their adobe construction process offers a viable and cost-effective solution to the soaring cost of owning a home."
-publishedDateTime: 2022-11-03T09:09:00Z
-originalUrl: "https://www.heraldtimesonline.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/"
-webUrl: "https://www.heraldtimesonline.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/"
+excerpt: "The AI-controlled robot has pincher-type arms that can scoop ... such as Loren Wood Builders and Bailey Weiler Design. Costs will start to come down once the AI automation technology is refined ..."
+publishedDateTime: 2022-11-03T09:10:00Z
+originalUrl: "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/"
+webUrl: "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: The Herald-Times
-  domain: heraldtimesonline.com
+  name: The Indianapolis Star
+  domain: indystar.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "HSMEiw1+MdBoUHJhRjHnTeqNKNcdYqP8uaqJhaWO9riE17D7iw1XfVDN3B46MFnNDcHgUjxe0ticBT6pvGHKHGIYtn5ISnDVgUyKdxljylJmjs84Ve4h5lQXIFDo4BTSIGmZiBG+oZz6CupZ0dXvNzBRnFJaOYhcexzXrUrSRIpC/5ddfZkJr8Q5I1hhZ/FfMQzxmVXLlBeVpsSmwNSo6O0P4lHTtQYTwFQx+A5OSc4epPndpRAjD+SfPhKYW5qwUWU/bBmYsM54zV9goVLmY8Iy1GJjr7q/+eSNu4MdvtXjj62nzwFWMKxZSMlAwUbVhe0zc1dNW6eN4W6aTyVqpdbKlSYOojntUN0sLnT/NzE=;Ii51xBlJXDSuvCRmi7b1Yg=="
+secured: "5IP7FHSFHvMsD3hjbkor/t72IGrmaKf7USdhVkGmNz0dRI6R24dc3gr0refuLIn4MpSl+Qdj9m1vZOGbYC5YpLOJ0X3byqSdz7voHaqFs/Qm+ywS6RIqNClhDqh19Q4wa2kS/ZuPmoG8b4k/vkpyNiJWxITSxgFPMSx/2tlK0GlKXY2SxZ45uepAgPXSWmpxJds12KBxg9szG9wAA+BBsPFKIkxhptwddR8IHVjnAZSZLSbNPWi1hNEtoY7Zf9SyeUzeZUUS2C3vahPOK/c/N7QHOvkZO20Bq1pphg6K2bG0KIeIO+4k/VligwY+vCEsdEQvQ1emFUCbpA6dp4gSUTihy4FHwj9yk9pha41RR08=;XsballHZKFpzZwE+FZ5gUg=="
 ---
 

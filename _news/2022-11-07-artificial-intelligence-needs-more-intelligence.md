@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/83ff4cc/2147483647/strip/true/crop/1200x630+0+23/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F3f%2F4a%2F9d9ddc7f4d0dbf2b672d4174ac6d%2Ffrontier-2-logo.png"

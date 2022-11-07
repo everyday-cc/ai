@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techaeris.com/wp-content/uploads/2022/11/VR-Robots-min.jpg"
