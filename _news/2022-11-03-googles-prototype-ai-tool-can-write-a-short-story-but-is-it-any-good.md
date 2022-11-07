@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-w
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s new prototype AI tool does the writing for you"
-    excerpt: "Remember that time Google showed off its artificial intelligence prowess by demoing conversations with Pluto and a paper airplane? That was powered by LaMDA, one of Google’s latest-generation conversational AI models. Now, Google’s using LaMDA to build ..."
-    publishedDateTime: 2022-11-02T14:55:00Z
-    webUrl: "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/mlBNdR6hlHI6xIGwMu8ZCVQG53U=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/24162041/IMG_0296.JPG"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google’s AI has a long way to go before writing the next great novel"
     excerpt: "As language models evolve, engineers are trying to find creative applications for it. One of these could be fiction writing assistance."
     publishedDateTime: 2022-11-03T23:00:00Z

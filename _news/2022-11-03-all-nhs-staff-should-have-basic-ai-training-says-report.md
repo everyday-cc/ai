@@ -54,6 +54,20 @@ related:
         width: 2500
         height: 1403
         isCached: true
+  - title: "Artificial intelligence could help ease strain on hospitals"
+    excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
+    publishedDateTime: 2022-11-06T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/970352"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 52
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5e12c637-08d8-4635-9e47-3f49ab9b79bd/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "iVHteSul37K5m0LXcQe6enMu3PLJhjjjsDGz4iTplWavgtFocg/EBOSZlav34QKZILJX+Cqfntb+xTSqDC4rjYUOesYLcloTaC/ym8yvv6fcZCa1qV8t+uZrK3xqd2nXsMdRybWTx5Oqzuy3pQJjxekSlnk2Mlcr/VEgdw1/jrjGE7woWyPIKbD5GDrlDdJypx6MT3lMnrdv13qEvDoMRZhcPeU6DZvZBWNFETyFnl4xo8Ui6WJpSyLyovUJe2CbBDHKYD/wzc3HZ1IKPVNmNOY98JCZFw5wGJ+AKh9PGRqdyE69u97gBfM/ZNijF71XebCOaNrwP4zqjxl80+NdHAOQVWrv2xxR0SVWdZ7UXdSru+lyASBUHT2s16VrzkSVfRJrkCyK4Po+KPNoNH7o4frMWnA1EngCI9rF1LSpsXvpeGMxChGm8JOw1QcmFIfq+Bh1m1ipgmek91QnO5YCDJukZ167xhqrJ1CoGJTTK/HqZL0YFixzljdBLCZyu9VDo9mt5jRLN2ZWEx1ekYJ+Pw==;kQ4I8fOcQfP9Aa+lbZDcCg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pr
 cdnAmpWebUrl: "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/york-u-researchers-rev.jpg"
         width: 2500
         height: 1403
+        isCached: true
+  - title: "Artificial intelligence could help ease strain on hospitals"
+    excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
+    publishedDateTime: 2022-11-06T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/970352"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 52
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5e12c637-08d8-4635-9e47-3f49ab9b79bd/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
         isCached: true
   - title: "All NHS staff should have basic AI training, says report"
     excerpt: "A report by the NHS AI Lab and Health Education England calls for all health and care staff to receive training in artificial intelligence as the technology will be increasingly adopted in healthcare practice."

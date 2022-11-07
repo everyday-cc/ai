@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/grain-commerce-platform-ary
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/grain-commerce-platform-arya-ag-back-saas-startup-assert-ai/amp_articleshow/95300589.cms"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Arya.ag invests in computer vision start-up Assert AI"
+    excerpt: "Assert AI to utilise the funds for expanding its presence in the US market and develop exclusive products for the agriculture industry"
+    publishedDateTime: 2022-11-07T07:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/economy/agri-business/aryaag-invests-in-computer-vision-start-up-assert-ai/article66106607.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/aryaag-invests-in-computer-vision-start-up-assert-ai/article66106607.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/aryaag-invests-in-computer-vision-start-up-assert-ai/article66106607.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 74
+    images:
+      - url: "https://bl-i.thgim.com/public/economy/agri-business/2f0pu7/article65217071.ece/alternates/FREE_1200/Prasanna%20Rao.jpeg"
+        width: 1200
+        height: 1152
+        isCached: true
 
 secured: "WTPJx0xpgXNXaftUT/nkmI+1MMf9vKi4wKrjnh72vkGo8K7XzBy1nzWEADvYMPmz6C3jtu02a1/DEwryavbI6q58HGlTf4qDsE+FJP27BQ5Db0LpX34Kw7OjJg88p5jm6IUMX9qB4qBfsy+Vxil2dyCylswUuG4GRTB/9LCLgv+G2H5Usp7nIOrs0IwMlnmVBv63GO6KQiryT81BarvyZTK2a7U8DbriZDLwpaS3Ldr7dDuyNfc0tz7ArLoUuQfdbMC5Ao0chik8725r7zA0kXBB2lsUwemeySrP+RehRmU75/AQJyCggccqELIx+cptco/XSuw63YSwX7Hvjp1sMc/D3E64PDz02cIII/97Ve0=;B8i9rHbrAHB4c56BwVJk3A=="
 ---

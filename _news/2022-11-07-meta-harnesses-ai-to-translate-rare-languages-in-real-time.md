@@ -52,48 +52,17 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Google plans giant AI language model supporting world’s 1,000 most spoken languages"
-    excerpt: "Language and AI have arguably always been at the heart of Google’s products, but recent advances in machine learning — particularly the development of powerful, multi-functional “large language models” or LLMs — have placed new emphasis on these ..."
-    publishedDateTime: 2022-11-02T14:55:00Z
-    webUrl: "https://www.theverge.com/2022/11/2/23434360/google-1000-languages-initiative-ai-llm-research-project"
+  - title: "Google Wants AI In One Thousand Languages"
+    excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
+    publishedDateTime: 2022-11-02T19:35:00Z
+    webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106"
+    ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 65
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/cNoomRuh33Zv6z7NntjAlAX-DBM=/0x263:1964x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11526929/acastro_180612_2664_0001.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How Google uses AI to solve modern day problems"
-    excerpt: "Using this, Google plans to improve its products, such as YouTube, GBoard, and Translate, and make it easier for people to find relevant information in their native language. In addition to supporting 1,000 languages, Google says it will use its AI to ..."
-    publishedDateTime: 2022-11-02T14:57:00Z
-    webUrl: "https://pocketnow.com/how-google-uses-ai-solve-modern-day-problems/"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
+      name: Barron's
+      domain: barrons.com
     quality: 39
-    images:
-      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2022/11/Google-Wildfire-Flood-Speech-Creator.jpeg"
-        width: 1921
-        height: 1080
-        isCached: true
-  - title: "Using Artificial Intelligence To Help Prevent Suicide"
-    excerpt: "Future suicide prevention efforts could be improved by artificial intelligence. The loss of any life is devastating, but the loss of life due to suicide is exceptionally saddening. Suicide is the primary cause of mortality for Australians aged 15 to 44,"
-    publishedDateTime: 2022-11-02T14:17:00Z
-    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-help-prevent-suicide/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Artists-Concept.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "Google wants AI in one thousand languages"
     excerpt: "Data is crucial to advances in AI, and Google and its big tech rivals want ... Facebook parent Meta earlier this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world languages."
     publishedDateTime: 2022-11-03T17:45:00Z
@@ -108,15 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google wants AI in one thousand languages"
-    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
-    publishedDateTime: 2022-11-02T20:08:00Z
-    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
   - title: "Google: AI to be in 1 000 languages"
     excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world’s one thousand most spoken languages as tech giants compete to dominate the internet’s next battleground. Data is crucial to advances in AI,"
     publishedDateTime: 2022-11-04T11:11:00Z

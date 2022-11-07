@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Energy Market is Booming Worldwide to Show Significant Growth over the Forecast 2022 to 2028"
+    excerpt: "Artificial Intelligence (AI) in Energy Market New competitors are exploring? Global “Artificial Intelligence (AI) in"
+    publishedDateTime: 2022-11-04T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-energy-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2022-to-2028-2022-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028"
     excerpt: "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028."
     publishedDateTime: 2022-11-04T07:38:00Z
@@ -44,26 +58,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
-    publishedDateTime: 2022-11-04T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "GPU as a Service Market 2022 | Current and Future Demand, Analysis, Growth and Forecast By 2032"
-    excerpt: "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),"
-    publishedDateTime: 2022-11-07T04:58:00Z
-    webUrl: "https://www.fmiblog.com/2022/11/07/gpu-as-a-service-market-2022-current-and-future-demand-analysis-growth-and-forecast-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 7
 
 secured: "Zh3G6J02h7IZyXcEUk3TllSbxpuxUZWwDRs4s3pTgJKgeBbLoCeblEpOh7Yy6kTotSC1pdYuMVImYXqqyH2rWLXS3CwA0pAEXaSc6ZtDZamXb/hAEgxWZojXWjG+7HGRbaNgUGX+O8LleShZjm7EAiMMcnZoUxzl6mYlEqSmyuON6d9aUJSoIkihkm6lyryUdCX/MCt3KQ3tjXWzyVKGUtCO1GamsUdL4Ko4wcNoY2Xl2JhqO8+vIE/Qrv5Kvx2ZEZzxg4RDMj/FaVeNh5lNk427JkpSJMnw/ZoAixXDfeUMZgy1QhapEvpT1wx/W+dQg4+C7v2NdLH4jqAEtKnm7XrJnsWzMzM55vVIiMIBw+4=;dJ1UeDu6Z4TKS+0WnIPszQ=="
 ---

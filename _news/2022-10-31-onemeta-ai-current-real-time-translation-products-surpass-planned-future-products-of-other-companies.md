@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies"
-excerpt: "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ..."
+excerpt: "OneMeta AI announced that notwithstanding what ... OneMeta's existing translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated ..."
 publishedDateTime: 2022-10-31T12:08:00Z
-originalUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
-webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies"
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/ac29477476/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-compan"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/ac29477476/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-compan"
+ampWebUrl: "https://www.benzinga.com/amp/content/29477476"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29477476"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/fffd4e29798b933a9233cdc66dfb1610e12b396a-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "xAAZF/utC8lZdaQlOXyz09dQ9NTAmaJLFrjLn5WKbJ/qqtCUx6pd4dzU4T1wTgB4JD+qAjua8T2E6D7ufF/b2PGdm9bo5w76JAL3Z+yZwFe5yDYsw3ju0rB066iTKWEYqLWVwXG+kWw8VgR4vATPXuHL/+/PCBAW7zGt+4BQlPhBcH4+uqueZ46YcP5j5ekLZF6+6blpMKRDlyghdLzOEv/YxSM9nCsbxQHbGwnHxR8JScDq4+cCIIj6cvuDzS7h+RuaPVIjlv9aPIztj4u3BUVh/sNJEbWhCNimPnvSvKWe2cNElp5u0bcqmKR1F75Wk1VOL4FcA170skuKa746KajeEwo+vcG4F9mlbQ0Zy/I=;1yZES2YCRC+j2LXtKHKG3w=="
+secured: "qGazI2dxbPNzcHHSWdX+hOJuP2OcNb684BgtxLZuJ3UMxSC12ZQhvQR/NIjjpp/hVvqmf4EB1mdw5BkaYAYQYDTSJWWfbQqEeYPq6TRkr1qNYl2Yb++rmGBuFgJgKMVPX3lI2CQYNPW5EDrAOTHaw+MbqT4kEyF8q8dmapcmzenELCIrCGSoFhs5xE46yFhHsAeJ5fZXVZI0eomoL9P+fv70XXCbsnUOMNWKRJC7Ey3tZraLcWEfGgHlipJgeiuRgqaAFpc2AojB94JqAugTPZHU/6G6xptGApotl+9Pg8As0FuOP4sT1U01h2lQKxiIM6e5XarWiGRgIcqdtglVpMEqV561JmtinQUZpX9N56c=;MxS7IzkoXOr4OFoAuk1GTw=="
 ---
 

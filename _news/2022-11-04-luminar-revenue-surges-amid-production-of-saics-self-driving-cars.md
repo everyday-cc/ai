@@ -23,10 +23,10 @@ topics:
 related:
   - title: "Self-Driving Technology Provider Luminar Just Hit a Big Milestone"
     excerpt: "Luminar lidar is now being used in production cars, and the company reported third-quarter results that beat Wall Street expectations."
-    publishedDateTime: 2022-11-03T16:42:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-results-51667424013?siteid=yhoof2"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-technologies-lidar-earnings-stock-price-51667424013"
+    publishedDateTime: 2022-11-03T01:21:00Z
+    webUrl: "https://www.barrons.com/articles/luminar-results-51667424013"
+    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-results-51667424013"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-results-51667424013"
     type: article
     provider:
       name: Barron's
