@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1037,29 +1038,82 @@
       ]
     },
     {
-      "path": "_news/2022-11-04-samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company.md",
-      "title": "Samba TV Acquires An Artificial Intelligence And Machine Learning Company",
-      "excerpt": "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ...",
+      "path": "_news/2022-11-04-ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-82018-million-by-2028.md",
+      "title": "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028",
+      "excerpt": "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
-      "originalUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
+      "webUrl": "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/",
+      "originalUrl": "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 70,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/11/AI-Governance-Market.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/",
+      "publishedDateTime": "2022-11-04T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-our-future-artificial-intelligence-overlords-need-a-resistance-movement.md",
+      "title": "Our Future Artificial Intelligence Overlords Need a Resistance Movement",
+      "excerpt": "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies and stunning fake photographs. They’re even writing code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T06:07:00-07:00",
+      "publishedDateTime": "2022-11-03T23:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1075,7 +1129,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1170,58 +1223,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
-      "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
-      "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
-      "originalUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1667513097-image-safe-zone-check.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -1,15 +1,17 @@
 ---
 category: news
 title: "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)"
-excerpt: "OneMeta AI (Ticker: ONEI) stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ..."
-publishedDateTime: 2022-10-31T09:53:00Z
-originalUrl: "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei"
-webUrl: "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei"
+excerpt: "OneMeta AI ONEI stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ..."
+publishedDateTime: 2022-10-31T09:51:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf"
+ampWebUrl: "https://www.benzinga.com/amp/content/29475051"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29475051"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -21,6 +23,6 @@ images:
     height: 1091
     isCached: true
 
-secured: "6ThpmTM1kPi+cPEzcxkHNIbe4OxTpqtLYz2Ly53s8NtMQ78KZiOWD7S/j3LhMNMu5Jx/j8rg+y/IGaaTwkoLjVLZT/0PVB3f7UOnSjlS7Q7f/ee3cD6UNyKwn6Vdk0FYmULxs0E7YcVSxXEES8Yn/BC/+Q97jPBrsHKBSpJLycaqqPaxp4ZS88sbU7fvvrCcyDO7uCbzz2oTjHexPx1GqpEv3qQGXQRhJtXkIuGpr33Y7mPeEsVUwlr1QMCNdJXfXqG1VNbIYUAXnhVE5VJTnLJlnj5Ewpsztl/FW7ZYQdpXJeQLPstTtIXsljb/tI3F9YnEmRN85g5Him/8qjBeHu3Lwn8Ww7rUagFJpwkfgH4=;MwijylMnwmJO7XdGaozTpg=="
+secured: "tvIJ/Ev3bOh0j7xlcNoRcY6zMHDj8P7c/YMVvyqJJymvp8FG7drl5ZKcHhFI9BmCt97vGC96rBPOuKqgyS0aqsk/LCN39WKFgc0+/jStGuCljh98t9NVTAyAESRtqjQhJxZunl4vXPpQTWJmcm4I8Cf7DQ1Qs+oEAAtyDSARB348/sM9gxDa0YfJ1NSRKu2wcZdwAUTY7b7do9pzh4RagZ33HBpMD/YKj8l74ysKSjimZO0nGfSr1D2SlHuzOisRCPljtq+/WN8AdS42zE3sYWgeINXxEUJGi1J0LTgNm85suJwsibq31kJqD7XjNtZiGFgwmiDK0M2SsaMiztVuazpTpY2rDt3KgD/sXHYrKoI=;y5Rq9MYFYdRMtuKWcQqXAQ=="
 ---
 

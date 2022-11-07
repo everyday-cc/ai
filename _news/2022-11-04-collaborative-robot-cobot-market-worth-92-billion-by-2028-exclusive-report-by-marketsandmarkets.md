@@ -1,40 +1,24 @@
 ---
 category: news
 title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to"
-publishedDateTime: 2022-11-04T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-ampWebUrl: "https://www.benzinga.com/amp/content/29572091"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091"
+excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to 2028 according to a new report by MarketsandMarkets™."
+publishedDateTime: 2022-11-04T15:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
 related:
-  - title: "Artificial Intelligence in Security Market to grow by"
-    excerpt: "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe."
-    publishedDateTime: 2022-11-02T10:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028"
     excerpt: "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028."
     publishedDateTime: 2022-11-04T07:38:00Z
@@ -66,6 +50,6 @@ related:
         height: 630
         isCached: true
 
-secured: "U4Yqppi+e4P0BwNXLRYFR50HZjLln0Tgkl09Y6kxJeTTTse10AjztSkFHnbCjGAzQmaeDq52K8pUIiqLBOAGycGQsgWg8xmYT33KIpV8oxdOsdqD5klfj9VxanBq40OvjmaBL4+5+gbr5tFIHkH1YDWmV7ewJymUaAFJGPbF5WuxXfKoz4VuTMMpWbVNZD/v+rWHYj65aDJE7GAmIElHZalcEZn5FCZmw/HZyx4mq9Vmcd8J+q/ldtptaNfVV7JcsMwA6mN/wJyk6ZyMK0aDPXGy0ziqLJ6YVecnyC+remslLndO1zjldcYhjCWGPw94I51rTKNdNqC/X1PDwUp6yQ9CQTmuc7UR1f9Imp17PqE=;MxaSM6tMmp3E9V61O0sKIQ=="
+secured: "sBiA/Ze3LhaiFKenTr0yUv5gzQOmWkg3om3QvBiwBRRd0H9E50Sb4N4jhef8dGVA4OjTHNRnR2/MEn1utASHw+SU53pGZEXDvX5ucuah44Opih+ntgU9Z6ph4GnTYsT5uliIZzE+GF0bTf97MdJ7r0PbXTzWjTuAhVJJiHEpAa7cclt0Yn8uRIdV8/Okq7wU3rpo0e9HWa/EbUV1ZteWdSLM+prGDDyX7qutdeCFaDMAIhOeP4CwB9LgEMYZtzCuZQjgduPvkSwceR68zTS6Igkg+TM1zQnMB2Tfm9E6SPhinBl+ArpZU4A9btKdh+j/1B+Wt3Bky//dwh3OHXlIJpJQsPUGAc0ToRG3wvy9jveP956jyMaPUvmHtPxoQL9xi6KJN8kV6+zo2RSEEu7t9qXTFyDZc4huNys4D4UMWBH/mF3hbOqa5xkyyh8D6vq0eTn95Du5CAVzJZRwIR0JgMOaevOu9ZovnX6hJ7rAd8p+vdbSI3DQx+VqxDJL5IGERa72vrUaKbf0O3kZfD6USw==;bFnmXCdT8m7Y2X76as4lKA=="
 ---
 

@@ -19,9 +19,23 @@ topics:
   - AI
 
 related:
+  - title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
+    excerpt: "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ..."
+    publishedDateTime: 2022-11-03T13:09:00Z
+    webUrl: "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 77
+    images:
+      - url: "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
-    excerpt: "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and Mercedes Benz,"
-    publishedDateTime: 2022-11-03T13:08:00Z
+    excerpt: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ..."
+    publishedDateTime: 2022-11-03T17:54:00Z
     webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
     type: article
     provider:

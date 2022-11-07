@@ -26,31 +26,6 @@ images:
     height: 641
     isCached: true
 
-related:
-  - title: "Asia-Pacific Self-driving Car Market To Show Incredible Growth By 2030"
-    excerpt: "Large tech companies like Alibaba, Baidu, Didi Chuxing and Softbank are investing on the self-driving cars in the hope to capitalize shortly. Threats and key players Factor that may restrain the ..."
-    publishedDateTime: 2022-11-02T11:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asia-pacific-self-driving-car-market-to-show-incredible-growth-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/cybersecurity-hackers-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "A&T shows off its rural-style test track for self-driving vehicles, nears downtown test"
-    excerpt: "A research team at N.C. A&T State University working on self-driving transit vehicles took a major step Tuesday toward eventual commercialization: the unveiling of the university’s rural-style test track for autonomous vehicles."
-    publishedDateTime: 2022-11-02T10:59:00Z
-    webUrl: "https://www.bizjournals.com/triad/inno/stories/news/2022/11/02/a-t-self-driving-cars-test-track.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
-
 secured: "+kk0d7ImyppRc7NQTsn5d9lJt+R9gsihClodRCwg6RFN45MQW7nuzeiSrLta/ln+VKBX1i9k4JXcVp16ycvDTgA4Sm11Yz62qt0djf5FaAVAPPs0PcC2vIN0tOGwnCUekekidHKmqfdFiqrVIMlEjgKCLgveJbsG4dc4Y0icaHbbPm7KcUhRbEYWeuLmO+KEE2PVof7qpNtzS7ULfT+282CEOsp/M9qr7TIZNL713tfhAPgXu43F1mUjrvgeSp/djTLeqehIUu2GMK7/SHTR/9LkXb/QIo1Zeh4Bs5muTNh7OgXvyYbV1j52d+BFsUkuDWyX0GHVWMq/XZKpRo4hWEueLU6sYQAj665oLGzU3TGs3LGYnkdzUKT1RAUWbsnMPFQpkQrgr/LqJMvJtMI3OIx2kq7tBJTWRJ181bUSAJlfIQIDk1tdUSVSRMinaEQ9F/OIoTuOcdIocVFjvR7GTZ7IFjl+DGIs/twmdX6ccBugyG83pp3LM/nCn4lpioO6QsxJJLs35teP1fpcRHCsig==;n0N4RMQCYkeTWP3i/1t1lg=="
 ---
 

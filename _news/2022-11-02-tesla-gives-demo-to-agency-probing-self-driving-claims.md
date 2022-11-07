@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tesla-gives-demo-to-ag
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-gives-demo-to-agency-probing-self-driving-claims-71667386200858.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Hindustan Times Tech
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics"
-    excerpt: "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present."
-    publishedDateTime: 2022-11-02T10:19:00Z
-    webUrl: "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/"
-    ampWebUrl: "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/fsd-pole.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla gave full self driving demo to California DMV amid deceptive claims"
     excerpt: "Tesla gave a full self-driving demo to the California DMV and other FSD critics. In recent times the California DMV has been pressuring."
     publishedDateTime: 2022-11-03T02:44:00Z

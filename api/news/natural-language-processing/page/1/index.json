@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-07-the-biggest-opportunity-in-generative-ai-is-language-not-images.md",
+      "title": "The Biggest Opportunity In Generative AI Is Language, Not Images",
+      "excerpt": "AI-powered copywriting has seen stunning revenue growth over ... and will prefer to work with a neutral startup that deploys its solution on-premise. This will be particularly true in highly regulated industries like financial services and healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63672833959962e11fa38215/0x0.jpg?format=jpg&crop=1024,576,x0,y199,safe&width=1200",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
+      "publishedDateTime": "2022-11-06T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-06-driving-the-2023-bmw-7-series-exceptional-luxury-and-creeping-featuritis.md",
       "title": "Driving The 2023 BMW 7 Series - Exceptional Luxury And Creeping Featuritis",
       "excerpt": "BMW 7 series is now available with a choice of 6 or 8 cylinder mild hybrid drivetrains or as an all electric i7 with up to 318 miles of range. It drives better than its 3-ton mass would suggest, but p",
@@ -167,7 +219,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -415,10 +467,10 @@
     {
       "path": "_news/2022-10-31-onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei.md",
       "title": "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)",
-      "excerpt": "OneMeta AI (Ticker: ONEI) stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ...",
+      "excerpt": "OneMeta AI ONEI stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei",
-      "originalUrl": "https://www.digitaljournal.com/pr/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -435,13 +487,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T02:53:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29475051",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29475051",
+      "publishedDateTime": "2022-10-31T02:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1433,49 +1485,6 @@
       "provider": {
         "name": "augustman",
         "domain": "augustman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language.md",
-      "title": "Meta touts AI tool, developed partly in Israel, that translates spoken-only language",
-      "excerpt": "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/",
-      "originalUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/",
-      "publishedDateTime": "2022-10-20T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
         "images": null,
         "publishers": null,
         "authors": null

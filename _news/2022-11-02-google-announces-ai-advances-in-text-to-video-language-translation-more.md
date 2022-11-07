@@ -55,7 +55,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/cNoomRuh33Zv6z7NntjAlAX-DBM=/0x263:1964x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11526929/acastro_180612_2664_0001.jpg"
         width: 1200
@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta harnesses AI to translate rare languages in real-time"
+    excerpt: "Meta recently announced the first speech-to-speech translation system powered by AI for Hokkien, a primarily oral language in the Chinese diaspora."
+    publishedDateTime: 2022-11-07T04:30:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/meta-harnesses-ai-to-translate-rare-languages-in-real-time-bc7146b8-0434-43b1-8563-350ac8d975ab"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 36
   - title: "Google wants AI in one thousand languages"
     excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
     publishedDateTime: 2022-11-02T20:08:00Z

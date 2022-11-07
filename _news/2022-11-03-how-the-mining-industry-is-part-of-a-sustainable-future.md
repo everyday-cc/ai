@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/business/adv/article-how-the-min
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/adv/article-how-the-mining-industry-is-part-of-a-sustainable-future/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "POV: The future of industry isn’t digital"
-    excerpt: "The authors of ‘Augmented Lean’ argue that an augmented workforce isn’t cookie-cutter, but more innovative, and it yields lasting results."
-    publishedDateTime: 2022-11-02T10:14:00Z
-    webUrl: "https://www.fastcompany.com/90804268/pov-the-future-of-industry-isnt-digital"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 4
 
 secured: "Lwnxzqs12S6Ha9SKMHFRYhZ1SiZsOKrz8ee7uju6IBzXcDFdAq7mc9ZB1zpQOa31i8Z7l+1PsrktCVzBhEpBNWwNAEhFWqBPYu30xC4NIf4zHThXrS5XNDEjaa/LcpO2dQjSImyRhXud+BF7FECNZENQKaQZaO7J/k4LAUZaR21GHEFf0BC39JfW0YpTHsaCPsS0Rwimc2RuZg259RcTKoj9URkO28Mjqs3YQP05A8zlcCD4Wq+fHLXicKSaaCn28MRg1LjjEn/ejq3P8jmM7jA4ZvmTA/pP/gge2EIayL+zhLv8Q+QczBLUftX5BIuNjp9qdzGZ0HLy+LTBrvyp2/e5p19iSwOIn9Wt0w0HyA1ibT9t9Se+MHXBjdYpob9+nG0jgLzD1AVZENBKFLNIKh1VBKzuc3cISS718beom1HORGPplAm1byXtUvbPtfaTcW5WL3py2SmyZWtgLF3sAeLZtnNVhS44zIZmZ9tB8eJ7dCM+ugCsnuDsrls6qwIjkl94iX+HXfHs7ZbxxrKcAA==;HJKA6ghzmQXn2XCIvK6A5g=="
 ---

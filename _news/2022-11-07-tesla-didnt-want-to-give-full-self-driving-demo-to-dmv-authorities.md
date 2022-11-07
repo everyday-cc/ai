@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics"
-    excerpt: "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present."
-    publishedDateTime: 2022-11-02T10:19:00Z
-    webUrl: "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/"
-    ampWebUrl: "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/fsd-pole.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Gives Demo to Agency Probing Self-Driving Claims"
     excerpt: "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials."
     publishedDateTime: 2022-11-02T16:02:00Z

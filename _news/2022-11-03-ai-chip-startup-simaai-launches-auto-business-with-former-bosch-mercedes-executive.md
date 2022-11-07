@@ -1,20 +1,20 @@
 ---
 category: news
-title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
-excerpt: "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and Mercedes Benz,"
-publishedDateTime: 2022-11-03T13:08:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
+title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
+excerpt: "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ..."
+publishedDateTime: 2022-11-03T13:09:00Z
+originalUrl: "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/"
+webUrl: "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/"
 type: article
-quality: 57
-heat: 87
+quality: 77
+heat: 117
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,7 +22,22 @@ topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
 related:
+  - title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
+    excerpt: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ..."
+    publishedDateTime: 2022-11-03T17:54:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "SiMa.ai Welcomes Industry Leader Harald Kroeger to Scale its Business in the Automotive Market"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced the appointment of esteemed automotive industry executive Harald (Harry) Kroeger as its President of Automotive Business and to the SiMa."
     publishedDateTime: 2022-11-04T05:20:00Z
@@ -56,6 +71,6 @@ related:
       domain: design-reuse.com
     quality: 7
 
-secured: "qRlsmnAuvLRH2WXNEKx2LpIr63WiI9BBsgrOkljrjYL3PcwVI6KePlUXXqu4ywkeDWdQ8gX6D+AS/jXDF71KMtp8vAPOPJM4VuNFcJTjORj3vdgbgkBSlo35qjgIpOlbbshtnp1mcMAXraQZazA1qF7dofgOGWvZEj6HoHAYylvXv4O7ADC2Jn6Bt8hO4l5Qn+aY1JYbtuE/xJPdYmi4NqwATyPoHBaWuH2DsgbchzzXrbR3NejCKpG5WZm+kUKoWvJo/Jpb4tWYBw4eBKEDTTNqm3LME0pZ/txJn5w356GmQ0Do1uXjij0lfdyzTFkS0siwHl/+GRdX+Aotxw9Ca+CTlVSHuFGjvLeuii18Ql1WqKVu79Gbv/klvKJER8ltvs9PZ4itRQJ+hn8hylqdJttwJW1s20Bg32hedqxxUdWHn+K445AOOgK0pzte3ZFstfNjmAtk7iCMVJh2pB0vzGuEXe3InURZUK63Ks9ixXrrRQ3YlBdvA+J7yPiIGO0NVb7A/lQKxWCediQjIADexw==;y/Yevek9BtIi5ra0nupVPw=="
+secured: "Zxv9dLMC4Wmy9qIUCI3wK4SLwxoa3Gz1PfUDgg+EaT+coGqdb4K4/hZMjpax/z/dCjHhqWBYCeszxuc14zw+9VC5xKlW8etz7n+hz+S0r6MzSTYLBlt/G2T9eGFae+0YidBIxK50U49aLqdk9MEyTvYjB+L0LU4ERR8GZB8A7UNafIZLKxf1b6EEzMWc+oMuxv9ScD56pb+XMwXVbhZloRNIvLgfs2x0uRbKZp8gs3FMg3FnL7BNJGfUlBiHQm6UZMBZoWtmKWHrLyXPCxQzyyE5Xeo+c5IWziSy8Mnb9ShKnObSP6RLoi3yzJDsnoICzcgwmzo5DkbcbhqQHDHhC3l4CaTj8Ni1QHqVuqyS9/4=;82LF8DKWYnt6Ui3uLzQGxg=="
 ---
 

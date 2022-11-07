@@ -1,19 +1,25 @@
 ---
 category: news
 title: "European AI Startup Axelera AI Closes $27 Million Series A"
-excerpt: "EINDHOVEN, Netherlands--(BUSINESS WIRE)--European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding will support Axelera AI’s launch and ..."
-publishedDateTime: 2022-10-25T13:27:00Z
-originalUrl: "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ=="
-webUrl: "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ=="
+excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here: https://www.businesswire ..."
+publishedDateTime: 2022-10-25T13:58:00Z
+originalUrl: "https://www.eagletribune.com/region/european-ai-startup-axelera-ai-closes-27-million-series-a/article_19560599-56e9-5229-9fb5-79f09fb1f076.html"
+webUrl: "https://www.eagletribune.com/region/european-ai-startup-axelera-ai-closes-27-million-series-a/article_19560599-56e9-5229-9fb5-79f09fb1f076.html"
 type: article
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI
 
-secured: "ZxOgPRlC3MuZW3YP7evaTqvVtUd70yRE7LFrQMbBVYhmiKJGu4RxTJNLuzmiRql3GTHoTVL2oesQPUW36UXNX7Yvs2IAU2q+B3ErsdhknizGdXXNR9ewWevpdHdMYESoE5ZoMaqXTexCVE97UTDgC7qMxqxCIqWfB6BUdFyoXfZpFXpa/sflelJgamTmKZE4ZWEnnC3DdW7e2cBa/MlffvfTshINt//YWe9hQul/uqsEeADNjqM7kL6fuQC5InCDfob7pFrh9HRnYMfgpDxFDbE5eBy0dN+GgRdm+YaZb6hmz9hx7yyI7Sa0F/qo6C8J91RSViIUlNbZ/1BtbH+yZ3RdzRVis5mVEEh8vd/KiA8=;oM7wiX8/1RVmL16xxGTcNQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/e5/7e5f2182-0aa1-5386-94b5-91e12dd58e96/6357e992ad8c6.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "gz73SuqEgcNquDgaR6QtSKd7JfOTUJSDeE1abYur/faR+hJHxeuV6DBxrwbjL5NQJgdDebrjPHrLno25VbIPrAxstRJJFfunMXCFC6uPQwiFF++t/Ra1+jOIJHQzaE3Sj0iYr5Qeed5+D3N3PHLR+gGbHNPWKRpsm4MMqK+Tll9DLeUqqCkCfm7ErCffyig1Z5EEegxgm2KH/MT+i+Ea8RqQI0kO5BD/RZxYFqU8NcHJLbQIbtl3Lz6VlY5glHiK2vLXGvf4KPj8MNP6JunB5JujmhiGc7if4k9PlvMQ0H7x7k/+CuNheNCb/IPY1ExoPdEw0pKQ6f1o2oNiLJpcXWG1iMs8CCfXuVAgOHA8XpU=;POOVmBv1YDc/tHDE6BkB9A=="
 ---
 
