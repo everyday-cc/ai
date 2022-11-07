@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/fintech-latin-america-banking-opportunit
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fintech-latin-america-banking-opportunities/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 20
+  - title: "impak Ratings Acquires Exerica, a London-based Fintech Data Extraction Firm"
+    excerpt: "Ratings, an impact analysis and ratings fintech, acquires 100% of London-based Exerica’s assets to expand its AI capabilities."
+    publishedDateTime: 2022-11-07T19:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198255-impak-ratings-acquires-exerica-a-london-based-fintech-data-extraction-firm/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 2
 
 secured: "ZGOobtR3cbC85IO8lBh70ba2lcOlIz2qY4HEFH+TrjdGMu7eouFVvtHiXTdjd/x7S0z+lZBhzEl0f07cF6allvOPcA9dQshZ/0JMphHp3N1YMkPtLBD+ZDFV4YObOZUzzBYleoy7RF+6RzjXweSS5xvvMytjQqQOOEz9NBr2T56FGVpWGQKJ0UaRcgQ+l9UZh1Ydtty8qeG6w7QwIwupPMzy0806mZIvZ8wf1LkB4Hd4zXI/OaNYPo+Y8+x1xReE9h0xYbP7EpMA5sYwma3ejY+5mpjGlScPfxTq+Fo13xpowGzJV+ybah6noU0qxdlNGEUeVdbAkgJa3WaLskKJeedG/60wFOOjMzf8SZTAJ7lI2OCbQ0i2neSLVzh1IVagKk3Dz6TvKZv9XGJ8P/mRCuJuXCZp8wXTejUQr01hK7wdSMkWU6oH0GH9THx3VqUvsK1xjRxzgOThhXGViIrh0tce3/rf/v8AnGxgduxHDSdHe0Xo5qlRMCS+Vo+heIS+zigzlXHLqahIOEOunOZ6yw==;cZG8lSvvdNreeVMt4/vFGA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Study finds artificial intelligence may help ease strain on hospitals"
+    excerpt: "Researchers believe that developing cutting-edge artificial intelligence (AI) that can quickly and accurately identify lung diseases like pneumonia and tuberculosis could relieve the strain that winter months place on hospitals."
+    publishedDateTime: 2022-11-07T22:00:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20221107/4000950.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
 
 secured: "iiBQncvPAJA84T07GypwSUz3ip/ug9lylmlZcxPdjJkv70MWwOQBCu4yQyQYM2j5BJSMSK2RIoWImdbgOZ6W6HtmKX05aM/7KCxsSUTt+stsZImd5+gNwVawNLXP+zeP8GJZX8sLq/Y5LQYaPWzk8iTA8YFe9OXuqYOHD19uC4U/WeXO6Hh86WCilNnyqUyvzVBFYqI3YzEUYJpmQcbKbpHBDvaK/snSITPq9Jfj5DJS8robgG4VRlsrH3C0t8bXQBAf2//0ppr2J7zv7Ul9DVGi9Sss83u6qyd1/Eq44yUF61OoBpFeMabzCfxjiZn8umJPp0Hwnaq4WStYkZL9l6ooAHGsuxepHcasWKnK/fsKFsfOe95tgtQYGudcgfdXMkVaoD7RVeE8i3fdi8MG/94wxXH8hXrvLnhaZtMCCezVV6y7zAWutpGyNl8f2PHycEamh04SCcyPrkP+j7VCdNZFkymXXGb/VdLSS3gAM+57QjSmwcJHRv6ueiYgJbBB3JJ8zy66hBM5dIhTdIk3OQ==;KPpqR3AFlrpqPMX0+TJ5Kg=="
 ---

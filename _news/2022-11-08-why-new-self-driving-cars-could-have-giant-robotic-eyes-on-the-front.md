@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T20:11:00Z
 originalUrl: "https://www.slashgear.com/1089765/why-new-self-driving-cars-could-have-giant-robotic-eyes-on-the-front/"
 webUrl: "https://www.slashgear.com/1089765/why-new-self-driving-cars-could-have-giant-robotic-eyes-on-the-front/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SlashGear

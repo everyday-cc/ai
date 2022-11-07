@@ -87,6 +87,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Study finds artificial intelligence may help ease strain on hospitals"
+    excerpt: "Researchers believe that developing cutting-edge artificial intelligence (AI) that can quickly and accurately identify lung diseases like pneumonia and tuberculosis could relieve the strain that winter months place on hospitals."
+    publishedDateTime: 2022-11-07T22:00:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20221107/4000950.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
 
 secured: "BVTCjIozGK4YhuGddizAU+YuduKppoSY7XrChEjfu1m2bD6FHx/F6Dq+hyCeWzAG9s1Cm3kVlZaj4+lvaGLlC4e3JSMDIPgHKx/HiLRzvcOjtL/zfsp3bIy4qqRBLxsfHXTPjJbKbuoH7KHg5JbwNEUEkYKpnzCa38g3tju+qyYxGRI3fVcs9ZmeivGdT/Z/ecb1P3O02joOfOAJiHGagquRiMG+sWNTYADFOu1xKPiQg9hMcZPJeAb74BlGMTPCRit3Eh6ev09QOR7RzeO65Li72FJMXeNZ7M1ZgidbHnKm1EcXyaFXmmlu6p9SEG5KeHJjJ8HH1/0dX0cxs5b8kgjJUkxEvOE3ax+Zpw3sEo8=;nf3lNM+pzMv2anTM4kSSQA=="
 ---

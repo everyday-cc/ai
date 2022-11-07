@@ -48,20 +48,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "IBM Launches Business Analytics Enterprise to Break Down Data Silos and Streamline Planning and Analytics"
-    excerpt: "IBM's Business Analytics Enterprise includes Analytics Content Hub to bring together business intelligence solutions from multiple vendors."
-    publishedDateTime: 2022-11-03T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Launches-Business-Analytics-Enterprise-to-Break-Down-Data-Silos-and-Streamline-Planning-and-Analytics-155745.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 7
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
 
 secured: "f4PONRA8hSYvPyOgTKU8LJVud7eWg6kt0W4XJB6Arj5811sjmk9db3BUNrvWoG7sEVresZHMfxC2XeXEbfQPzD7hE0tIXSmaUwHitx9aJgqIr9smlyCXhSEs7DZ1hhWGA9Ulr7SLVB4NHcuiNEDoXQBtb3M4xGsowRzH4wxJnJBS7XN6S06VytJN7ed8ioshtoLZZg7BUuRbdBbmQu/wkkpt+MiLYQcqDrALomCdlRF77MPzJ8s9n/IA2KjIWismp1ulaov8hW0KueFwKBk8Xy3GowzTd8pG+iRo3u28ee/gxhZ8eTbyvGrq60Zrcqu+8CLQEt/pqLZsOvxZU+keZQpCXRqwaFz/U518Ht2q6n4=;7DuY/VyhMaubHX8+2TUmNA=="
 ---

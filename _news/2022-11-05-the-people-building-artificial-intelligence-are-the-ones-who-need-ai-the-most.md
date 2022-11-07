@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-people-building-artific
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
 type: article
 quality: 105
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Maximizing the Potential of Data and AI through Automation"
+    excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
+    publishedDateTime: 2022-11-07T18:54:00Z
+    webUrl: "https://insidebigdata.com/2022/11/07/maximizing-the-potential-of-data-and-ai-through-automation/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "USwkzjruzXARytTCk5Shr/uXr8WpQrrDG/134ZwmELKHzX27ZEUp+NrQ4S/+3QMDJBdh/Cq2VFPD35xoW37VmT3SNXArbtIgc6Uf4zyEVkMqIgYXwegs8jd6ecniVJ++ADg5AjXg0V4K3cYbO+G7qCj7l8+WEfopt1EWDUj+O8z/LbUF9UugrQeMFE7tuSN4E7Xh4JLJt1pZEdrRdxmRlfFyI1eElGtVpabLMGUlNw4A2a8x1+N+VQlwsS+pJ7V9tr5G7N6e1u+awJc49MQQMQpP2OVJ+qDT+es5w6SBmBnS+QPlrljIi74pu1ABLiz4IN/X88HyVZ89UADQZDXTJM/bjZw4ikdY6ZmF+9Ay+aFsAKPX19JDbgXuC6urKyRIOYzfuUM5sQoCInZgW98wfNWsm1NsCz7bLSUKPmAcpXsfco5tjuJholSybCkGvvA8kcjzg1BI2AATodNcnUF7tQefO5auFEBHezOTTy6JcimyI5hKZ4Untd60iGO3FdSNIo/Ut3lW4+lVomOzvyu48g==;godWC09YJMjqrRgPpuQQpA=="
 ---

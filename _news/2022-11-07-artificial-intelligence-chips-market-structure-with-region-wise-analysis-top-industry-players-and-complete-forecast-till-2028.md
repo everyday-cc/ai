@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industrial Robotics in Heavy Industries Market 2022 Top Key Players, Growth Factors, Global Trends, Product Scope, Dynamics and Forecast to 2028"
-    excerpt: "Global “Industrial Robotics in Heavy Industries Market” research report 2022 includes in-depth information on global"
-    publishedDateTime: 2022-11-03T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industrial-robotics-in-heavy-industries-market-2022-top-key-players-growth-factors-global-trends-product-scope-dynamics-and-forecast-to-2028-2022-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Rehabilitation Robotics Market 2022 Latest Developments, Recent Trends, In-depth Analysis, Size share, Business Strategy, Forecast to 2027"
     excerpt: "Nov 03, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Rehabilitation"
     publishedDateTime: 2022-11-03T07:47:00Z

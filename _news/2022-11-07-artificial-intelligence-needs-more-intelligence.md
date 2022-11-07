@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-07T15:19:00Z
 originalUrl: "https://www.accountingtoday.com/news/artificial-intelligence-needs-more-intelligence-to-unlock-potential"
 webUrl: "https://www.accountingtoday.com/news/artificial-intelligence-needs-more-intelligence-to-unlock-potential"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

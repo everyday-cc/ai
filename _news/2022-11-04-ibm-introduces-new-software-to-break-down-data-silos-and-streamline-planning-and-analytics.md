@@ -38,20 +38,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "IBM Launches Business Analytics Enterprise to Break Down Data Silos and Streamline Planning and Analytics"
-    excerpt: "IBM's Business Analytics Enterprise includes Analytics Content Hub to bring together business intelligence solutions from multiple vendors."
-    publishedDateTime: 2022-11-03T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Launches-Business-Analytics-Enterprise-to-Break-Down-Data-Silos-and-Streamline-Planning-and-Analytics-155745.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 7
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "Lexalytics, an InMoment Company, Announces Jeff Catlin and Paul Barba Will Present at the Text Analytics Forum"
     excerpt: "Lexalytics®, an InMoment® Company and pioneer in AI-based NLP technology, announced today that its Head, Jeff Catlin, and its Chief Scientist, Paul Barba, will present at the Text Analytics Forum in Washington,"
     publishedDateTime: 2022-11-04T17:00:00Z

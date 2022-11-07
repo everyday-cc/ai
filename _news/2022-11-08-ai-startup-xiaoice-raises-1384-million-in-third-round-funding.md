@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T20:22:00Z
 originalUrl: "https://www.caixinglobal.com/2022-11-08/ai-startup-xiaoice-raises-1384-million-in-third-round-funding-101961864.html"
 webUrl: "https://www.caixinglobal.com/2022-11-08/ai-startup-xiaoice-raises-1384-million-in-third-round-funding-101961864.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Caixin Global

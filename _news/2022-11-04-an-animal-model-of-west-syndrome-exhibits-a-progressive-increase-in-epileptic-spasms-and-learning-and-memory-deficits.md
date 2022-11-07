@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-03T20:24:00Z
 originalUrl: "https://medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.html"
 webUrl: "https://medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medical Xpress

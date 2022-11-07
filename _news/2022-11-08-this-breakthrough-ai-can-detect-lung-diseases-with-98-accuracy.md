@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T19:06:00Z
 originalUrl: "https://interestingengineering.com/health/this-breakthrough-ai-can-detect-lung-diseases-with-98-accuracy"
 webUrl: "https://interestingengineering.com/health/this-breakthrough-ai-can-detect-lung-diseases-with-98-accuracy"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Interesting Engineering

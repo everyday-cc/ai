@@ -52,6 +52,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 20
+  - title: "impak Ratings Acquires Exerica, a London-based Fintech Data Extraction Firm"
+    excerpt: "Ratings, an impact analysis and ratings fintech, acquires 100% of London-based Exerica’s assets to expand its AI capabilities."
+    publishedDateTime: 2022-11-07T19:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198255-impak-ratings-acquires-exerica-a-london-based-fintech-data-extraction-firm/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 2
 
 secured: "q6mjPIPKh4sufyWfzKNvZTO9chYhqefTi1mifqhgSDrH+3mlLyhhFYPdYkBHcbvnjQZpLOiGjZguJgr625Md0yaXxdWhXXaF+XHCBMB7Al8D2pcuGXp8oQbjrFIivmORRKqNKH4Mxz9krYBJyjsF9c7VHfMES5vEXm4wAzEcghlZG5Ymo/gPPaRoG1GkP4HHqhfZTMZ/RAPOFQTf/M7/8DfAJMeP2DY+6VqTqs1mQx1KKnYAcZyYtWCOk+/l+s/tjADKtNALD1jT+IM/GKTtxfOLXqpY7I47jQwEAIk4acofdYpFDZ/e4IB4JeaQQOMFKmmPLH0zi7GeQ/FdT6vmJizEUvLsE3LW5f+fAm9/eJD/G/VlxbOEgVohRXf+Mo5qhQZebBvYbbt5b6QjFQsiREnOEYmyRNfnkJ5j8vweSPhvNW9KWKmRscs04h/Vk1MieLfjrRPE75r4HEzQlUVBthj1hAwp3c5vNRZgDxqjP33p7q8xEBQJ59JvBeqwuaXqrZOKD9Vyscyl0iP61l+V+g==;LKlaorD+BPNvfGqSrKjveQ=="
 ---

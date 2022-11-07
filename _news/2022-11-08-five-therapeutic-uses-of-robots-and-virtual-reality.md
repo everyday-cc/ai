@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-07T16:03:00Z
 originalUrl: "https://techaeris.com/2022/11/07/five-therapeutic-uses-of-robots-and-virtual-reality/"
 webUrl: "https://techaeris.com/2022/11/07/five-therapeutic-uses-of-robots-and-virtual-reality/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

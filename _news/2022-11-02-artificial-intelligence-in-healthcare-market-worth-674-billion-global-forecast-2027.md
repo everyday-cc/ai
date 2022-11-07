@@ -5,6 +5,8 @@ excerpt: "[252 Pages Report] The artificial intelligence in healthcare market is
 publishedDateTime: 2022-11-02T00:14:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027"
+ampWebUrl: "https://www.benzinga.com/amp/content/29514257"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "No2iUgh7gHX/0OHiMZWpgtFNyf3cYPiQcmYVUJ/HKu7urIWQuLeKJKcTRXLB62N5ZMB92HG/s/3AV5ASAAa6Gjqz4rzLZKZ66eunLZnyAZBiKnTKRtoCuUOtMl+Y3boTiu0FmTEfhl8CSlokdh3F7sBNVmINuW0c6i2iaeXlYoDCN7y7G4lYSjyZHYqk1CSAvmMpbVbepLxQET5Nn81wTO7YOLLSeqXmPnbc2Z8KXeTg7RA0oHnRkFtDXpBLUUEf4G7HQYBR/Rgec5AxrSWJGZfdFLLm76AcCRLQ6b37uowtHhLjsIqJTQNs0AVHTMDZmNSrLvdmFxb+2ATo2FWeQ6oZZbBTF/J2Tp8PkdzhPEc=;lmBqSJdau9PtQJF1kBsCIA=="
+images:
+  - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg"
+    width: 606
+    height: 513
+    isCached: true
+
+secured: "iPZjbA+wpELAHfVsvOGOAVPTyCbwzLcpU2KF/yJPaucbh9q8VgxEQmWsJnvc/U9r/cXS2ORzWVIMP6isfcp2ibq770pBNO3CjcvxoZyEyZ8i+7m9iH5RyojLaPgUXxx5UIf41M6flXcTkvySQosNQRlnB9IjtrRrnveIyvdsgKArYEIEFzf2xZ+4ExkUs5lrrcGctLQSViFntGfK3JWcxD+w1vOQY4+n8hMScn1oizUWSwiW0HyDD8fX9wWzlqTng46oDSuMYhGBcWd5HenSZnUdkB6wwvIdpX/QD7PViHLJE3FTZqCJ8ig5lr9dcAwswTYGHRkWDFxZEGAz5rNo8LjH1CiYUlys9vH2OmOS9Ug=;Yh3A3ziXlhVkPcPeFBo/xw=="
 ---
 

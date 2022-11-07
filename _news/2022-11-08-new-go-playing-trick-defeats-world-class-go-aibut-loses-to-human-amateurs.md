@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T19:43:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/"
 webUrl: "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Ars Technica

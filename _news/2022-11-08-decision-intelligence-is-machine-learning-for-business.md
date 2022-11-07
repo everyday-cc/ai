@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T20:15:00Z
 originalUrl: "https://techwireasia.com/podcast-series/artificial-intelligence-business-decisions-practical-peak-ai-podcast/"
 webUrl: "https://techwireasia.com/podcast-series/artificial-intelligence-business-decisions-practical-peak-ai-podcast/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techwireasia.com

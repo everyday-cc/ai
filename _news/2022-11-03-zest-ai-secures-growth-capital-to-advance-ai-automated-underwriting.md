@@ -73,6 +73,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Maximizing the Potential of Data and AI through Automation"
+    excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
+    publishedDateTime: 2022-11-07T18:54:00Z
+    webUrl: "https://insidebigdata.com/2022/11/07/maximizing-the-potential-of-data-and-ai-through-automation/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "CuH/wMrYOK6tCy/qOhCtS2yiW4xPP5C5rmdq3A/qLtLpuDrxNJjtzFBFJ3UId+il9nuuYbQAEV10VFH3g1by+t5j4rEekF9E5i+Awbfm4O1YqhDmA0jxL6Ny9AzJfNdb/savzmyKrAIb2729UYeGg/9Q74QPT0GPERlvvwbgjQvQy8j0dNzb201cWSLeRD/1svwsRm2OPFobuXXzM/T1MOBungMLKR3Q+MJhkcRb3u7UFiJdXE9cWYVPLxLYiKtpBj5qLr1+q0mQQ7I00IuaVt2wC6c1p9S3LbGrrzpcZKnHfp5heWcEdnjYpEZ5COL3emGnwo/SZOVqHYFJ5wWlha6MB/jArW9phnhdvDN5N1Y=;pV1SIdPRCy4fDtn99bHPzw=="
 ---

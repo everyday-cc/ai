@@ -21,6 +21,17 @@ topics:
   - AI
   - Computer Vision
 
+related:
+  - title: "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place"
+    excerpt: "Kami Vision has announced Fall Detect by KamiCare, the world’s first AI fall detection and assistance system available at home."
+    publishedDateTime: 2022-11-07T21:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20221103006302/en/Kami-Vision-Unveils-Worlds-First-Fall-Detection-Assistance-System-with-AI-to-Help-54-Million-U.S.-Seniors-Age-In-Place"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
+
 secured: "GuyWZpq6W1ApNs4c+IrsnjVYVq4d4Fs7o7sJ7KAWeP+R0JeDm/QFB6FU5vlV4HZuwg1sGfTeWdzaBy/jt5gQ5FnH75MxGdgFexqHnIaWSwDOaDdOmaNHGhPX6fW0XLpBgHB0INksFb2lBGAWj1DyO5t5BejxZ0KTSYPEeCXxIg5AyaAf8Xsz9QhL1Jul3cCiY1m3D2Tsz/Vd80Gp8QS+j0MURXj2/6n5+YEZgeqldYv3995YWCmSNYwEQNLb5TdOFZId4nSSyLznTH/T8fcYuiJ7agfnJRhU4b70PfywKg0aFL9Rlwsc8oCKyeDeZ69QjVlxrHHlkr+1VDaBs40X9ZdcxfzlViQSRBXIq7q3SzGPWd2v3DKzGs9ZehmSQ4mrQh/kwMhhcw2begCRdSK8mlLxuWpqespGcVhPUPcNzCAon2tX/uQnNCEcJBlacIJGy69HdWzxZCyZlrluwuBUhVpcZC6267InDq269ZboBaNXOlx15Lt4+2JQNvFP7A7jfe7/vTTo9XBOcfwgTv6waQ==;h9n8zpv6psoOFuJOUkpBQw=="
 ---
 

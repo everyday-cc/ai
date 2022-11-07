@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:

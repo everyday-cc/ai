@@ -24,17 +24,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022"
-    excerpt: "the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to cybersecurity."
-    publishedDateTime: 2022-11-03T04:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20221102005549/en/AI-Spera-to-Showcase-CTI-Search-Engine-at-Singapore-Fintech-Festival-2022/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 18
-
 secured: "TchpyMw/rf3MiykVf6QjL71SSPF+ELTHns8xHSx8vTK+DkpJxOwQqbY9D8kFK3WimFKCToP5pFCdd55Vpcp4dDv7bz/44kZTb4MIXQgPRZ5JbY0rnrPfOov4xg7DuO7Bt14j6Uv9U6Vfnt+wq1ufT3rwDD0CQ1LF3XaEWSfRFFAs3pyzOzgGEnfXTbkZ9CUD+JKQkGBcVMsfvxu6VBRXi+aBMSxwp6ljCyDKwWu4aYsQ7P581n8S6gtGqPvXGEhA6H9WS+0XrmHhExR5YY4++Z5ErP9jhHA5IFNBYp1ndYH0fRpT99QR7XasKB7fWdVpeQh47hdj5n35P9IxfqHMxNBULFQ9whia+r+TWcu5uKE=;zaDqsQirv1RWgk2eqsgiig=="
 ---
 
