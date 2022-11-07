@@ -73,6 +73,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
+    excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
+    publishedDateTime: 2022-11-07T17:11:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/news/crime/lord-lucan-yorkshire-facial-recognition-expert-says-mystery-man-living-in-australia-is-missing-peer-3909156"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 24
+    images:
+      - url: "https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NWU4Y2E5LTE5NzAtNGFmMC1iMjE3LWUzNTAxZTViNjM0ZDo0MmI1Mjg1ZS04MWViLTQzNDAtYTg5NC1hZTVhYmMwNmE3OGM=.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Could facial recognition and cashless cards help problem gamblers? This is why some fear it could be thwarted"
     excerpt: "Tackling the issue of problem gambling with real reform has proven difficult historically for Australia, so will a range of these new proposals work?"
     publishedDateTime: 2022-11-05T19:27:00Z

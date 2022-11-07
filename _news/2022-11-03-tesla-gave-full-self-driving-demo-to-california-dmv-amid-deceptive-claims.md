@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/tesla-gave-full-self-driving-demo-to-californ
 webUrl: "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Accurately predicting wildfire risks could be a game-changer. This California startup says it can do it"
+    excerpt: "The startup isn't alone: Multiple other AI-centric companies, like Zesty.AI and Cape Analytics, have built wildfire prediction models in recent years, with all claiming a relatively comparable amount of accuracy. But Kettle's focus on reinsurance ..."
+    publishedDateTime: 2022-11-07T17:02:00Z
+    webUrl: "https://www.cnbc.com/2022/11/07/predicting-california-wildfire-risks-reinsurance-startup-kettle.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/11/07/predicting-california-wildfire-risks-reinsurance-startup-kettle.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/07/predicting-california-wildfire-risks-reinsurance-startup-kettle.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 56
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107118308-1663156354351-gettyimages-1243214676-AFP_32JC79U.jpeg?v=1667839383"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
     excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
     publishedDateTime: 2022-11-06T19:01:00Z

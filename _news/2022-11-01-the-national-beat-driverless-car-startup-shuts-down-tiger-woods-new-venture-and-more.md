@@ -2,9 +2,9 @@
 category: news
 title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
 excerpt: "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped."
-publishedDateTime: 2022-10-31T20:10:00Z
-originalUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
-webUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+publishedDateTime: 2022-10-31T19:26:00Z
+originalUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "8TrDYKn15XVRGz6Px7C01/qgCJxlFK97iDwbqduSBb0DRAFT642LQZhcMQAUMdSYAxSKALvgappDyHS5s/cf/EguMyReW7m7o9YDO6/Q0rxKYAyhGGixFKAzSM1OlP/t8IJ8jvedSaKmCzVAVrPPdXfXFdJwiQ6fXHL6s2MXGQImCsj+tqq+LnIOR5pMCS+AyZrGmzKw3ZbHJ2eLvd1YMJfZWD3IfPYBSmZ9kPP1OYTS/pch+nISwPLY3eADaQYLMTcVuxVtmm4YAvOdmnHvPqP4lDLzGimFWk4fyBgnhc6XZ6f5akLof5ZFNQTwpgVlPDZdp3iPPt+hPy3+Sid+e9HLvgws2NMWOkY4Yx7kErQ=;u7UJgEAeu1cq40C9qVE2Rg=="
+secured: "xwueEUrvlA62PNWZMpL+utxgq5fb5IQRfOoiDerfz2mMliM58YIzwzxP4LGQY2AwzA+L8fM+a83UpOhHmrKGADSyGxSft5AmgYLqRRCi+HNEveJHMb8cXnZeVo7S39QadCnRlt4vfjaIxUtCnzWlutAG/S2NefPkHZL61DFqI/uiktZcT+PTGfw2bAh8zhVaHYPngtPAwWq8aSoed51sSy3f5dLQ4ecHwBLIHU54u5ofbCw/eC8DeRSB/oyAFTOjaO/6YVtN67um/7AVWKE8PSsVZKomVECZ7lH8q6yyrcQmlnIi+a4HxCLUabYtMvJxeh867RiW6vsjJ+Y/Hqbi8yqNKFtLv4Q+C0o5DosocMM=;hPvux4vinoKImaTtNnJJpg=="
 ---
 

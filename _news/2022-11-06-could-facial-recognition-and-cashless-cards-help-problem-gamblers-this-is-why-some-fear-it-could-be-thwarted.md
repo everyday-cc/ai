@@ -81,6 +81,20 @@ related:
         width: 1069
         height: 734
         isCached: true
+  - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
+    excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
+    publishedDateTime: 2022-11-07T17:11:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/news/crime/lord-lucan-yorkshire-facial-recognition-expert-says-mystery-man-living-in-australia-is-missing-peer-3909156"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 24
+    images:
+      - url: "https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NWU4Y2E5LTE5NzAtNGFmMC1iMjE3LWUzNTAxZTViNjM0ZDo0MmI1Mjg1ZS04MWViLTQzNDAtYTg5NC1hZTVhYmMwNmE3OGM=.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Y5SyUJLmUXppVhO2y2HjQfbsjqKxfe93nMmuVn4j8iTlcCn8EMym7SRgyap75RJaQezQCqEEny3y5iVPiwfNAeFa0OVhl+90Zg/lDaes0xGM8y9I22tw8GnI9o1lYw8w7KHDYdvt39lgzkfkjHZzVbLbmDCqIxYuPj5f37qjVeBYoc8UB//QhKYFfhhLjshzgySGwcob7ILDGRZUajeg9FyjRmE78i4DAbSxwpuekg1rCUp4hTNFhntGEL/yeuSMhVbyWGptm576hCHApKvb5zYaDmeC1P1AkrZRjCn41T2kFIyFV6rMoy9NGuGrhsLvhcJA5SOeKcSm/d1cjdz1uXyZv08jB0b976ArOLTv+Ga0Cu8UuIAs73hxhI3tVG2UNRcJY6Nl6LXmx+K4DaCEBuP/Fczgmp9SbQW4ESBwJkPNfsCpV+9T+ZPUIOVOLbr+/xKIwp00QQveZv3T8gqRQzL6GCdROGAayx38Tzh2eGf5q50R1Pa4f4ELBcdygcRLiNHyBAzM4Q2klCVc1ydkwg==;K7PgaN6IDdoQqInvsDFTtw=="
 ---

@@ -58,6 +58,20 @@ related:
         width: 1550
         height: 774
         isCached: true
+  - title: "Cost-effective data preparation for machine learning using SageMaker Data Wrangler"
+    excerpt: "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks"
+    publishedDateTime: 2022-11-07T18:16:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg"
+        width: 1553
+        height: 776
+        isCached: true
   - title: "Use Github Samples with Amazon SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler is a UI-based data preparation tool that helps perform data analysis, preprocessing, and visualization with features to clean, transform, and prepare data faster. Data Wrangler pre-built flow templates help make data preparation quicker for data scientists and machine learning"
     publishedDateTime: 2022-11-04T15:41:02Z
@@ -72,6 +86,20 @@ related:
         width: 1549
         height: 775
         isCached: true
+  - title: "Run text generation with GPT and Bloom models on Amazon SageMaker JumpStart"
+    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
+    publishedDateTime: 2022-11-07T18:07:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-text-generation-with-gpt-and-bloom-models-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/run-text-generation-gpt-bloom.jpg"
+        width: 1549
+        height: 772
+        isCached: true
   - title: "Improving stability and flexibility of ML pipelines at Amazon Packaging Innovation with Amazon SageMaker Pipelines"
     excerpt: "To delight customers and minimize packaging waste, Amazon must select the optimal packaging type for billions of packages shipped every year. If too little protection is used for a fragile item such as a coffee mug, the item will arrive damaged and Amazon risks their customer’s trust. Using too much"
     publishedDateTime: 2022-11-03T16:11:32Z
@@ -85,6 +113,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/training-1.jpg"
         width: 714
         height: 429
+        isCached: true
+  - title: "Generate images from text with the stable diffusion model on Amazon SageMaker JumpStart"
+    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
+    publishedDateTime: 2022-11-07T18:11:09Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-images-from-text-with-the-stable-diffusion-model-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/generate-images-from-text-with-stable-diffusion.jpg"
+        width: 1550
+        height: 774
         isCached: true
 
 secured: "DraXqnx0htf0s3SeMvFU5zFC2YsPDSYItpgOGsp2Zi7GWsEVgGdKC4kxWM4c6XE7B23elRbLfIJRhF0mDUtP5ijMq05/1iI5jwrS5CqshCDeCBis3BNYFMV1Cohw54WsGt3pv5IgsGvbDr0tpzUjkrdSBYTQjbT6wTFolGzC3CsjcykTf++ajztMuyfApQ2cYF/Lsz/KCgH8scQlC4Lo8U4VDCaKuzMR6SCbOcCt+/e2CU7yMxHtG8agn+Kadp65hz4+3Lb/jSdgBUt2tEHlukzGsYYKMzJNz5SrUU9+1p2ztcAf5WB53Ie9xWm+rlplo8csOh9r/BU+AiUCYpiZVBsOR2my162MS23KTiM1wGE=;3ji6P4ehueZkwV7H5gPI+w=="
