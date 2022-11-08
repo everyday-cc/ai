@@ -200,26 +200,78 @@
       ]
     },
     {
-      "path": "_news/2022-11-03-ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022.md",
-      "title": "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022",
-      "excerpt": "the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to cybersecurity.",
+      "path": "_news/2022-11-03-this-indiana-company-is-mixing-straw-mud-limestone-and-robots-to-build-homes.md",
+      "title": "This Indiana company is mixing straw, mud, limestone and robots to build homes",
+      "excerpt": "The AI-controlled robot has pincher-type arms that can scoop ... such as Loren Wood Builders and Bailey Weiler Design. Costs will start to come down once the AI automation technology is refined ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221102005549/en/AI-Spera-to-Showcase-CTI-Search-Engine-at-Singapore-Fintech-Festival-2022/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "originalUrl": "https://www.businesswire.com/news/home/20221102005549/en/AI-Spera-to-Showcase-CTI-Search-Engine-at-Singapore-Fintech-Festival-2022/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "webUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
+      "originalUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/11/01/NHEN/2acf12fe-d13d-45c4-809f-7f83c857706c-TR-Habitat_renders-3.jpg?auto=webp&crop=3823,2151,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T21:30:00-07:00",
+      "publishedDateTime": "2022-11-03T02:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022.md",
+      "title": "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022",
+      "excerpt": "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
+      "originalUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/c9/3c94ed0a-6c17-5fec-8ce9-4cd34d6bd131/63633fddb13d3.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1129,40 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting.md",
-      "title": "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting",
-      "excerpt": "Zest AI plans to use the new funding to rapidly expand ... To learn more about its Discovery Fund, supporting diversity in fintech, visit here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29521634",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29521634",
-      "publishedDateTime": "2022-11-02T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

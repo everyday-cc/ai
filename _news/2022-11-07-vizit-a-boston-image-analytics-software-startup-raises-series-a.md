@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2022/11/0
 webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2022/11/07/vizit-series-a-image-analytics.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Insight sows seed of cloud analytics for GrainCorp"
+    excerpt: "Insight Enterprises has built a cloud infrastructure to grow GrainCorp's analytics capability. Together, Insight helped design the infrastructure with a Microsoft Azure Data Lake and Databricks as the core computation drive."
+    publishedDateTime: 2022-11-08T01:49:00Z
+    webUrl: "https://www.arnnet.com.au/article/703107/insight-sows-seed-analytics-graincorp/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/agriculture_wheat_2.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "IBM Launches New Software to Break Down Data Silos and Streamline Planning and Analytics"
     excerpt: "IBM has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
     publishedDateTime: 2022-11-03T15:31:00Z

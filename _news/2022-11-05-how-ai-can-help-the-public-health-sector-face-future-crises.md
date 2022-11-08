@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/how-ai-can-help-the-public-health-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "How AI can help curb the next pandemic"
+    excerpt: "AI can analyze massive amounts of data, such as positive test results and emerging clusters of disease, and use predictive analytics to establish trends that can be useful for public health officials."
+    publishedDateTime: 2022-11-08T00:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-help-curb-the-next-pandemic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "ZvzVt8mkOtz9SRiIs08UOiwANr1Or91VEjdc9nCSvQkmvGBTLNIoUyHwVgjl/gaJiAb3kyZrnQDHd++I33hPSJYSKx8duxz2jujCr6FL8yQpQlEJY/csESPBdvvAGgqm3thDaki+p+/7e6SpjdgOgsJlbLPXO4kKE0xqLF1CSZrfjD1koaglpla1sAczAIBB3iJdgtbhR3Drd9re0b1SxhuaVZRrUAe7Ssw/nBildw5GsrnW7A8KEiTEmglb3Ptu+mBkzHRWqS8G/UDW09J9bgf1YBG3xdHb/M4BeOhrS+s0E8Oi5clJ9eTCF3slII7LCVqMoxvLfiM+HSaTtMIMdoDde6NtAhV0mQjAa/3xIMulJA665GnnPKGc5xjHYat2PNAc3G26nacAzsg8I3yfcM/b3GqFpquP/hgNw99DWVWflJJQfhR+hecKV6Ky/2pg8Je1YSALU/+VaeoAtiPltVnAiBmLyr3av0+0QIH1TYVk/8YBNyC9p+ga8gOYexgzH0rtTteYMkwHpjZJMXHFFg==;Tp5Da15S1Cys8wb1U9hOOg=="
 ---

@@ -409,6 +409,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-03-this-indiana-company-is-mixing-straw-mud-limestone-and-robots-to-build-homes.md",
+      "title": "This Indiana company is mixing straw, mud, limestone and robots to build homes",
+      "excerpt": "The AI-controlled robot has pincher-type arms that can scoop ... such as Loren Wood Builders and Bailey Weiler Design. Costs will start to come down once the AI automation technology is refined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
+      "originalUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/11/01/NHEN/2acf12fe-d13d-45c4-809f-7f83c857706c-TR-Habitat_renders-3.jpg?auto=webp&crop=3823,2151,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-google-wants-robots-to-write-their-own-python-code.md",
       "title": "Google wants robots to write their own Python code",
       "excerpt": "\"Given natural language instructions, current language models are highly proficient at writing not only generic code but, as we've discovered, code that can control robot actions as well.\"",
@@ -1332,49 +1375,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-your-guide-to-robotic-prostatectomy-procedure-recovery-and-alternatives.md",
-      "title": "Your Guide to Robotic Prostatectomy: Procedure, Recovery, and Alternatives",
-      "excerpt": "During this procedure, a surgeon removes your prostate by guiding a robotic arm from behind a control panel. The robotic arm allows for greater precision than if they perform the surgery by hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "originalUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/09/Doctor-Robotic-surgery-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

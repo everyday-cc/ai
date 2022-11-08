@@ -52,6 +52,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "How AI can help curb the next pandemic"
+    excerpt: "AI can analyze massive amounts of data, such as positive test results and emerging clusters of disease, and use predictive analytics to establish trends that can be useful for public health officials."
+    publishedDateTime: 2022-11-08T00:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-help-curb-the-next-pandemic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "EmnBWXc3BWWX9LxS0BTXVMguT0gb2787xEhRs77ajV1Gr2JkuZX0NKGF0rzdpcb98MIGfrWlSNgIgRxF6YjqvYd9AJOxfciQ8qtW08iceUlvR0tveI2eyFmKeQgniSerPj8BXZI6Cj9ntrw0AHSLjAKMQsso8lBMAqOv8SpkQxtAJhUCk5ZOR3KCIseVZLvhKLilqidblFAe8fl/OgNIvPhB3hibxhLVeBeSVBhBeM5e8CKTZIwNjmLRNkmwCpwzkJnaUlbAXmiAmuTRqev589BeXxtWZfQrWj5x4HTchpCZG1qY+lNw1YdCpltbOlq0eVC6WEhVWVbbCVewT4mJp7O+WpXOSYyWTjJXlGqhaXcxsL43yPIk0lu6gyYNsVmGG4MPJUPwez6cuZjJUlzDD/vwRd5Sxsw9lldTXxyBqlgkQ4F8ZQtvpVFGZu52Zm3XCV0vwx7ryD9yWlD26deh+8SaXDE345MVuxRRb33N/YyGUS93k2s9s2TH9sjlbQ/ZMoLUATssGFs9edGVvYq46w==;sIcoyYwaUya92CHhV/6mPQ=="
 ---

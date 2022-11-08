@@ -1,22 +1,18 @@
 ---
 category: news
-title: "The future of AI for business is human"
-excerpt: "Did he cheat, or was he simply demonstrating the power that AI has to take over human tasks, even those involving substantial human creativity?  AI is increasingly transforming organisations across all sectors of the economy."
-publishedDateTime: 2022-11-03T12:13:00Z
-originalUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/the-future-of-ai-for-business-is-human"
-webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/the-future-of-ai-for-business-is-human"
+title: "How AI can help curb the next pandemic"
+excerpt: "AI can analyze massive amounts of data, such as positive test results and emerging clusters of disease, and use predictive analytics to establish trends that can be useful for public health officials."
+publishedDateTime: 2022-11-08T00:20:00Z
+originalUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-help-curb-the-next-pandemic.html"
+webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-help-curb-the-next-pandemic.html"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
 
 topics:
   - AI
@@ -54,16 +50,16 @@ related:
         width: 1076
         height: 674
         isCached: true
-  - title: "How AI can help curb the next pandemic"
-    excerpt: "AI can analyze massive amounts of data, such as positive test results and emerging clusters of disease, and use predictive analytics to establish trends that can be useful for public health officials."
-    publishedDateTime: 2022-11-08T00:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-help-curb-the-next-pandemic.html"
+  - title: "The future of AI for business is human"
+    excerpt: "Did he cheat, or was he simply demonstrating the power that AI has to take over human tasks, even those involving substantial human creativity?  AI is increasingly transforming organisations across all sectors of the economy."
+    publishedDateTime: 2022-11-03T12:13:00Z
+    webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/the-future-of-ai-for-business-is-human"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 17
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
-secured: "USNjBd2wexcuBepJgH9wX99IZLB2qOC5XSAfRPCkNaVNxs+GHTQPqUCnHZb0zHXIBnFKvhny73kVjcSFQjMpxjMMBGbvNu36ldImEaIJaKFSzwEaKr0shFaWDEZV4Sup/ehhMHMzbgY3yIaj9JyeOYth0rv0z3Mhq7ozALOq5id55Sh1LizxRvFm7STCQ2weEY5/ZiAVrdpaHkkWAP4rj5lD5ZA0mPSc02AyrSah5cUyLUxHwQRbWutgyPkpRD2P52bxI79/31OWB5XEXjIjF+Pi/oN2uvLZ9xufUP4ClKLewmggyWXH0LDK8zqD17ELfPOHmflWdjGrKCawmMIu4Gbx8VKGzRLb+UMbAtdfHIl7jStZuQWagVPfH/45O14vx7Jlm0GFHlJPdHm44UyeWh0m1qUUfqQZmLTxyThGmAu2MHywLwi5U3W1YnWFvHGMEh9+KccQkuF5gLoK2WK4jyD/t4WoYoN93MgxxRjZS2IV8/V8B769rTrrggr36SXotu8kiIL/XvSH/d2vz1U8aw==;GlMelPL8owzedNajoFymZA=="
+secured: "iQTjv1UErOuCSE1yFlAQ1fSOt3fMGAcA4oq6YkRmaukKSscCdaC+H4p+4UeVT76Ja6jU+Hd9zx6gMCgwir54jGIWqYMaEXEIgx8oDsAqsQ2fvyzMu9hqjXETKTO9g/DFSTMhJz37ycW2ouPXmW3Vzv1XzyuIDepnEh8b0cuw9iw0ER5yZYIEB2deK6QXUP+T0Z8yN5Je20iOSNaShkGNsD+Zyc1FGViiAE9+Nv04Y+h7BXpwNkNTL2ziQ6/zbDXCwGhitrHb++XLhSWnSE0TVzPefKlx+1wsLFsK0HZ2L2FtAG7yVVxoinNGcDqCgo/fZjGorvD+kYw76xOFRVEdD8jHEco9uv4G92SvB9oncdQ=;IkRyMoEdt702UsERCxiF9Q=="
 ---
 
