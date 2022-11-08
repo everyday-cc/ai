@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04"
 type: article
 quality: 56
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -57,29 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market 2022 Research Strategies, Consumer Needs, Application and Specification by 2028"
-    excerpt: "The study analyzes strategic approaches such as product launches & approvals, expansions & investments, and agreements in the worldwide Artificial Intelligence in Aviation market. The value chain analysis helps the client gather information about the intermediaries of the market and various raw materials in providing value chain features and market price analysis."
-    publishedDateTime: 2022-11-07T20:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2022-research-strategies-consumer-needs-application-and-specification-by-2028-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
-    excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
-    publishedDateTime: 2022-11-04T15:56:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-4-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "/m5whiERfprBPIlZrhvXeIcus6BWC18zenAw7Km3SG/iddAPkgFxefupq1Aq+PK9eszMAQPlLwAz7joz9MGp3gSXwVGYjdH7PGKodbGSJyVz8mR28jp8GvqKBcsQV2+sbo4J+vloBFrhYn3hS4jHy8d843tD/pC/xPTYhsw1aijtRp1EI9y/Ts5gBYIDRhueRZnuLz+yLn3HH5Oob2HuEnmH56VV7iTHVlFSoaCnfwR8u/23k+Riz6wetpU80VldjgXNE51dsl1C6DzUuTKNs85PNwSrZtk6QzFZbmqD2CFoTYMs9j6JmkGPvZHo0IE8607YLjz0UeaapsAmXSp2RdZn9KzyijOhO2oDJvmewlE=;L83u1tfwqtw0JxQ8ubAjbw=="
 ---

@@ -19,6 +19,17 @@ topics:
   - AI
   - Natural Language Processing
 
+related:
+  - title: "OneMeta AI’s Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
+    excerpt: "OneMeta AI (Ticker: ONEI) created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself as a language translation app after comparisons of Facebook turned Meta's (NASDAQ: META) product began to circulate."
+    publishedDateTime: 2022-11-08T10:12:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 21
+
 secured: "yypHfRQy0iFZdaCHWfLNkdU9QFCaQatUnA9TDTNnguree6kKfAvYyQeqQnNn3wTh9UJvdnXDKjcJ0ght5Hs7k1r7uP0DKyO+tW8BPRop0qYW7LHYf1YJT/PglMt3VZCetuUd4kOwEpwRGGmAziXKp1d42kXbsrzFYCQxpG9SPxRuozW+fE5yi9hy6EHaxQIe8Wk/jIJc/MBiV/WwySo/VonBZLJLw5tM9H/Ynm9Q7NGd08swlGN8gRjXISuFVd1VLY6/oeSfTwvoGikchMW81KOrtmQFMdPjS1qVjzbQvqTmBoljmIAsU6a1bUqFh2JFifXptRCKGc0lELkdU+p0D8LnHg0KW1XDWYdEA3/JVDnmfGzBYrofZoby83FtZxiXdM6AJ7l3kmAijttLeLeyDJf1BHqXOL4LRCMrd0UmZg7eY9ueaZZGthEsBildMd4ZnCh+x0BArtVzPGUGNx4abYXOd/9hlHVrsoayHZTDdwZJ48Oh7vAYx/c+V/Tn7Cnse8vmr1uwSXPpOnzWUKL6ug==;rhFu1N8DK7wVsiuh4CXx4w=="
 ---
 

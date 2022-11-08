@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mayo, Temple + more using AI to improve patient care"
-    excerpt: "Researchers at Iowa City-based University of Iowa Healthcare are developing an artificial intelligence-based tool to treat interventional radiology patients — with or without a physician ..."
-    publishedDateTime: 2022-11-03T19:13:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/mayo-temple-more-using-ai-to-improve-patient-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "PT8iGYPKitCGuXfU47+rfhtCSsZ0la0R5ouuNbJIpnxVP0LV7XhYUu9uoIkHGNsqiQkkFPajHi9XCeoNAApWrm9OSkCh8aS4EuBN33wptq4n3clz2LOfhn9sApJQd3uS+J0qk43pDPBz2PROTv8FhiXfgwmlO2eb5hYNEhu+oyL3nAw/qzCC0dODyGjO8hHtpsIYDp1uvlW0ZFidqYSyjKi4g6rBMFeFgiaRnfV/TJ9OQANXa3NcZIvb4BIEtAw8IBk+ilUyD5oe1ovsbP85yED/UdbbOaP72mo5YqnM/bLIviiuzef4FK16YJZbVWZaZ5V7qylNRcAkKVUzEgHMBHCqU4kDoG5yJLHkqOrghrKAxy3g5Wj+UBoiy4YYiR9jv5cKHOvQEnHuk9hKAH9G0AuO2DZ+hmpduyEnW6DXeOeXEo3qn0Jc/u0uMz8hLzoT7kB9z+rzKY4qYMELenYsS0aUBS3BmlLPrmnUJTot475nS1XbKZKPIkoAyRiIvK524qrfmF49/yClaOhedYm6Bw==;ZWTLIb7vQnyhgX3tyFbOFw=="
 ---

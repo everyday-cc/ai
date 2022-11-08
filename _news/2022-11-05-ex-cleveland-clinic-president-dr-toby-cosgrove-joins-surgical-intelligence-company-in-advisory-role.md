@@ -26,17 +26,6 @@ images:
     height: 2053
     isCached: true
 
-related:
-  - title: "Retired Cleveland Clinic CEO Toby Cosgrove is advising surgical intelligence company"
-    excerpt: "Dr. Toby Cosgrove, the former president and CEO of Cleveland Clinic, has agreed to support surgical intelligence company Theator."
-    publishedDateTime: 2022-11-03T18:32:00Z
-    webUrl: "https://www.bizjournals.com/cleveland/news/2022/11/03/toby-cosgrove-is-advising-surgical-tech-company.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
-
 secured: "8vBETrooas2/vQKMNrdKoulMotig/CJPbeyGZq3G4OjDZCMuX3hpJ7qfGOBW7NbO4rFd+1CQ2LRU6PIqCx7J67VLNFfBUsYwV/2YOolMSYvaOvjX5bvmwOSyyefRsVQ0fIhl8q1SiYB6+ut5aMfCf72jDwvfGTxZEWX5lciGCCXJVkbfCzououpKbF1vptXKes92qt8X4OGl+w5NTtnWogucjq/Y5wz3PS0zm+lb1+KzxfikrBzbI+wljLLYrToQwqf5o/6NaJijFa/OaL/3ZwH0zqPwZ1LSbH+WKytM6y6BEySHIdkVNWn0kM+0iRCbhSLdF+jWWqVCdulDsdf3wnA9WkJiT47LMCaKGFI+RIZImhwJd0jOTI4o8Uix2u/rhJwqqUBFfZnVY6OqSVGzFWvhLP2gsiTNKDZfZ4Hvmc7J39eGjZpyhJxg+A6JoaFbP5hHan6mcgctSK33OMXE7UHP2YkGQd8SXNIbnaEIAnpr0p0/01OeBcasZZPXvcczHMCTSnL3CuJHbe3JcOTWvA==;u1Ke9gI8ikniXh/87YORnA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026-2022-11-08"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Energy Market is Booming Worldwide to Show Significant Growth over the Forecast 2022 to 2028"
-    excerpt: "Artificial Intelligence (AI) in Energy Market New competitors are exploring? Global “Artificial Intelligence (AI) in"
-    publishedDateTime: 2022-11-04T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-energy-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2022-to-2028-2022-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

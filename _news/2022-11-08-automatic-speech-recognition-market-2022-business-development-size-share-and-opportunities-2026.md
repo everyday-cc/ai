@@ -57,29 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market 2022 Research Strategies, Consumer Needs, Application and Specification by 2028"
-    excerpt: "The study analyzes strategic approaches such as product launches & approvals, expansions & investments, and agreements in the worldwide Artificial Intelligence in Aviation market. The value chain analysis helps the client gather information about the intermediaries of the market and various raw materials in providing value chain features and market price analysis."
-    publishedDateTime: 2022-11-07T20:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2022-research-strategies-consumer-needs-application-and-specification-by-2028-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
-    excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
-    publishedDateTime: 2022-11-04T15:56:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-4-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "EmmGAJ6bUOttTm5JoL00bNGcM4K/qiz33mqPt/FNlbJ7D56Qov0SRe769qGPfg8i0G93nxXaz/8hfOXv8h+gj9bzKF3N0zpU5vaKEsKe1KXgXxyw7N2r4zOGGB93bAvZ5jc4OQzTya1IBrf72F3/0IdGEMBfw8S0mhRDpu3/q7UBXmcrPflSmV8n4bv9M5hgYWcqvqcGQ49SDXKmzLM4q4J+4kmkSngiFM/wQM9E5IhEqB91INxhoYxTyQIE/AhVl6hXXb/oqofWtlu4sg6Lz0NUWLzh16bcTiYePjj/Oe3eCDdU5nH64KlTFwmhk6ZYxXrmyaXEq4ManeHRkmK7loZPoF2/QkWKaJhGhzl5Km8=;4vL40a4/oc3o8em+KaHQNQ=="
 ---

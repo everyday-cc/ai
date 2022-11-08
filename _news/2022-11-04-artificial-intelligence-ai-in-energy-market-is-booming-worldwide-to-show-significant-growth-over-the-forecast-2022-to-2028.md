@@ -28,10 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Agriculture Market 2022 Projected to Gain Significant Value by 2026"
-    excerpt: "\" Artificial Intelligence in Agriculture Market \" Insights 2022 | By Types ( Computer Vision, Predictive Analytics, Machine Learning ), Applications ( Agriculture Robots, Livestock Monitoring, Drone Analytics,"
-    publishedDateTime: 2022-11-08T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026-2022-11-08"
+  - title: "Artificial Intelligence (AI) Robots Market 2022: Growth Analysis, Key Stakeholders, Regional Outlook, End-User Applicants by 2028"
+    excerpt: "The top-down approach helps recognize the Artificial Intelligence (AI) Robots market scenario along with the internal & external factors influencing the market. The bottom-up approach concentrates its analysis on micro attributes & specific features of the domain Artificial Intelligence (AI) Robots market."
+    publishedDateTime: 2022-11-07T20:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-11-07"
     type: article
     provider:
       name: MarketWatch
@@ -42,20 +42,52 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Insurance Market 2022 Is Expected To Display High Growth In Forthcoming Period by 2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI in Insurance Market\" Insights 2022 | By"
-    publishedDateTime: 2022-11-08T04:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-2022-is-expected-to-display-high-growth-in-forthcoming-period-by-2026-2022-11-08"
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market Analysis By Size, Share Trends, Emerging Trends, Qualitative Outlook - Forecast To 2026"
+    excerpt: "Nov 08, 2022 (The Expresswire) -- Pre and Post Covid is Covered and Report Customization is Available. “Artificial Intelligence (AI) in Oil and Gas market revenue was Million USD in 2016, grew to Million USD in 2020, and will reach Million USD in 2026 ..."
+    publishedDateTime: 2022-11-08T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-analysis-by-size-share-trends-emerging-trends-qualitative-outlook---forecast-to-2026-2022-11-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market 2022 Research Strategies, Consumer Needs, Application and Specification by 2028"
+    excerpt: "The study analyzes strategic approaches such as product launches & approvals, expansions & investments, and agreements in the worldwide Artificial Intelligence in Aviation market. The value chain analysis helps the client gather information about the intermediaries of the market and various raw materials in providing value chain features and market price analysis."
+    publishedDateTime: 2022-11-07T20:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2022-research-strategies-consumer-needs-application-and-specification-by-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
+    excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
+    publishedDateTime: 2022-11-04T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-size-2022-segmented-by-material-type-end-user-swot-analysis-trends-and-forecasts-2029-with-top-growth-companies-2022-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
+  - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
+    excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
+    publishedDateTime: 2022-11-04T15:56:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-4-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "6JVCZyrYAvUn1qCJysqW/Ke1diRRhs3DmsI4CWMjuvZ1mdAkNXB6clNACZEneGPAa7F26VRVOJvftj8Ht+GS7tWLoasW1mV60QplfaQxnLf3O+mSYygOwQZkJi2WKGTmY7naQ6Ct/gd/J4FCbscMWIyTKJAwmizv87ywzyauxtO32RbopwboPAfTwdm6W4JbWokzaNMmgTRBbkWhRE88ceFwPGrc72WAHnohYQdeNNeiWK2GdSmV433byFsxVN34/1ahTqqrBI+0IIV0l/gtgQkGezJOd4rIKtD4ms0PxJxp0uPRfFRcVKT7Wlh+/J5fdeb1yLDOOq7tI8WBB0qpiGhjXAs/GiQ1pXuk41PCokU=;xVIcMBRJ7e24Np6AJa6/6A=="
 ---

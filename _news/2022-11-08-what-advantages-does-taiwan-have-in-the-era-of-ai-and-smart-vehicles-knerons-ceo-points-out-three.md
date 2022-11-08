@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-08T10:38:00Z
 originalUrl: "https://it.tmcnet.com/news/2022/11/08/9708034.htm"
 webUrl: "https://it.tmcnet.com/news/2022/11/08/9708034.htm"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1937823/image_5018046_24751601.jpg"
@@ -23,6 +24,6 @@ images:
     height: 267
     isCached: true
 
-secured: "7z1dFpsDZC3Nj0ETutq1d+yaPjcbut+edet+4+hi9E6iwWErRkMFX+ZHOxQSJTsR/2YSwse9UT2+Xo+6GKFPOYp+52/FKRhW5GhmfvQaPVDtMKvLSmc4ipl9iFqQB/QLG9Q9kf+vbZWkgJ26P3Rop4mEomvjNiuUfcLIOfR+yFkDYitLbDfpebNGLewl/KE7hfP9JGFToqWW4asjW1EJFdsytLCqUKHRqLmS1+yDsIZt/cIV7QHz1vKXzkTNqI049DSAxZi556UEQjtPlN2x3ngHQyVrMcoXwW3XtmSnp1sHSxEkSbQC31VE+4X2vgJ8RBLMfmzpPrbL5AejcZguzhrzrlLYz1xD0/nT0of502Y=;QIwiH8Ty1JLABm+1sw528A=="
+secured: "8ChUuIuO8pFbfMbuL/8mh/RL86s87l6m8kenNb8nkqB/bFYSya/fFXzWhz2e6T/dm6BATZbv0lejkw6wbtethGFzapIC+0/CXWMb3fvDoNtjuT5YRdGh4Cc1TIQFj+ZOkcJioL+skgr2LIFxjEKVHR/DnGRr/FaKf1X4ubbyyk4VyCl7f8h2gveS60MNZ8bGJhhMqOqbE1e9FjhGRtArkGmuZJwPj3+bDaicZYWQigMTuYIIPAti+psJGOdkDAyGinuEMn33MakXVeqzQs/32Wh9Srsj3nCSmB8RXqhgsAyQXeiWkodEwcpGkQD2mLMint9UeXYL/BQQt/GjV3HFMdX8c6HN9JAvikY2atOEYJ960WVvyihpt53kM2mD+jkEvUDBbO9yrQbwigzVzZvKBWYwuAVNdMqkltucNPaNbXIScL6tS81JY2U/H2UPwlwkKA27D/roHgREIt5JoG001l8zC3EkB/CJ5gH3IQKEYR0xD5W41666kCN17+HoI9+FybQY8ROShG+n0uHWREX/qw==;2vnAoyctwf0FfLjYMarUMw=="
 ---
 

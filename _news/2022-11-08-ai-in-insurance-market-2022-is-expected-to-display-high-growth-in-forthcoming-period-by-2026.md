@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Energy Market is Booming Worldwide to Show Significant Growth over the Forecast 2022 to 2028"
-    excerpt: "Artificial Intelligence (AI) in Energy Market New competitors are exploring? Global “Artificial Intelligence (AI) in"
-    publishedDateTime: 2022-11-04T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-energy-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2022-to-2028-2022-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BTebpqa6YNaQCYN+N8nMie3BgUXnlJZGpBWjUkz4lDiscIdtAhdtsWRhLQQWl99uTnaGTdphAlcN10hwMBITwY7o/00aGsS7q3CqXRQW+w+PgZPWk7Wtuf0i+r7k8tPUojsRAH3av0zNn7Ap9+hDq3djv45RCMnFTB/4wf0ZM31D7t3M8Mu3wQBpeY5+Mns+/Wns+B8HKsBsEc3n9OnFl39QzKDYqGyWEOYgD36YbashU2DNEMHANaRE2OfMGpvBvUifK4p/P5SsP5d1+IFS1Xbe74Vo+AROsIRBMWjNSkLh71hR1YNQFYUOUOzinKCdd+Hq03GkSGpoF7inenKWE8Xosj+zaFIJJuYXCjpRda0=;M9DKE904CDXBFxdNu0R1aA=="
 ---

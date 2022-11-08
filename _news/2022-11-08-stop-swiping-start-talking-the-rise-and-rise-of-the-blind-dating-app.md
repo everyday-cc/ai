@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Stop swiping, start talking: the rise and rise of the blind dating app"
-excerpt: "For added reassurance, S’More claims to be “the first dating app in the world to verify that 100% of the users are real and not ‘catfishers’” using Amazon’s Rekognition software to confirm user identity. “It asks you to take a 3D video of ..."
-publishedDateTime: 2022-11-08T10:10:00Z
-originalUrl: "https://www.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app"
-webUrl: "https://www.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app"
+excerpt: "Call them crazy, but more and more online daters are choosing to start conversations without vetting each other’s profile pictures. It’s almost as if looks aren’t the only thing that matters!"
+publishedDateTime: 2022-11-08T09:00:00Z
+originalUrl: "https://www.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app?ref=upstract.com"
+webUrl: "https://www.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 371
     isCached: true
 
-secured: "2T5LPsfoLtTK+/2CP7YS3tWvC9YHmSjImpAO/g788NZYgRkV3fQp44+bE/d8lOFmYwvlhjOcts1mRBtBizQxxLMoCnk2arprHxs7vc/iL0uNBc9zRQYpKjm/MqLBgO8niQJbD/YD9Io3Iz797OrBUaNr81kXEIi2558sbIiQMHqRa4YRtHIlqb+CDSAmtVbcntyWaDfvvIgPmoRd5csbGculmzN2z/iZOA0y0IbdS0dLZfCwMTLSIi04pxfXxGO4ga4FPydsGF7a15NIbp1byVJNTcIzLTcK1jCbTArep4PHzdBA2c2fFwEymhzrI3PB6T8eeMsN+FVV1gmP/Xc0ASsmdcR/0TBFhDS2XiQrfDw=;BYiT/wigZ+8vyiQrqiO0kQ=="
+secured: "yB6KMUcPOSCWImmmxwsAw71NDdltTnNXTuTFyrJNy/svc/CVw0zSNLn8bjwlZzxRoptmrlnAsq/xCU6lbhSxwJnltABQtPPIa5W7h2QPZLqvoW8C946hSmM1XXkDouExLLpdK2ynePSQ9J86+keHD1CbUEIaHl8eBYHzOKkOu8oqql9CpBZckUqMzH9V2Jsqt4a3EsMBdqi1cr/wRSrK7I+KmhqHQdTmG0YENw3nb31d2wRuCh2ym37zFgx8cWx02IYILNfsUZHsihLOzle5ghLWhKcZ8sfN7T3eC7N26eU6o0+pjSuaBk0Xqx9BVgS3vUFcPC0j9o71Ek7ecL2ltzbOHraRNQRqYOPoOge3Uw0=;uL6zaDkVNmi70ZN3U7Pekg=="
 ---
 

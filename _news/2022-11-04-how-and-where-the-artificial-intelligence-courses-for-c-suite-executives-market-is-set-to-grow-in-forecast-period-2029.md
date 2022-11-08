@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market Analysis By Size, Share Trends, Emerging Trends, Qualitative Outlook - Forecast To 2026"
-    excerpt: "Nov 08, 2022 (The Expresswire) -- Pre and Post Covid is Covered and Report Customization is Available. “Artificial Intelligence (AI) in Oil and Gas market revenue was Million USD in 2016, grew to Million USD in 2020, and will reach Million USD in 2026 ..."
-    publishedDateTime: 2022-11-08T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-analysis-by-size-share-trends-emerging-trends-qualitative-outlook---forecast-to-2026-2022-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chips Market Structure with Region Wise Analysis, Top Industry Players and Complete Forecast Till 2028"
     excerpt: "Nov 07, 2022 (The Expresswire) -- \"Artificial Intelligence Chips Market\" research provides significant and in-depth information on the global market."
     publishedDateTime: 2022-11-07T06:02:00Z
@@ -113,15 +99,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 7
-  - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
-    excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
-    publishedDateTime: 2022-11-04T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-size-2022-segmented-by-material-type-end-user-swot-analysis-trends-and-forecasts-2029-with-top-growth-companies-2022-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "Zh3G6J02h7IZyXcEUk3TllSbxpuxUZWwDRs4s3pTgJKgeBbLoCeblEpOh7Yy6kTotSC1pdYuMVImYXqqyH2rWLXS3CwA0pAEXaSc6ZtDZamXb/hAEgxWZojXWjG+7HGRbaNgUGX+O8LleShZjm7EAiMMcnZoUxzl6mYlEqSmyuON6d9aUJSoIkihkm6lyryUdCX/MCt3KQ3tjXWzyVKGUtCO1GamsUdL4Ko4wcNoY2Xl2JhqO8+vIE/Qrv5Kvx2ZEZzxg4RDMj/FaVeNh5lNk427JkpSJMnw/ZoAixXDfeUMZgy1QhapEvpT1wx/W+dQg4+C7v2NdLH4jqAEtKnm7XrJnsWzMzM55vVIiMIBw+4=;dJ1UeDu6Z4TKS+0WnIPszQ=="
 ---

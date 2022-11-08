@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Otobrite Bullish On Future Of Commercial And Special-Purpose Vehicle Markets Given Wide-Ranging Uses Of Vision AI'"
-excerpt: "technology online media, TechOrange, and published with permission: In recent years, the application of Vision AI has been witnessing rapid growth. In tandem with the automotive sector, the new technology has experienced a notable increase in demand for ..."
-publishedDateTime: 2022-11-08T10:35:00Z
-originalUrl: "https://menafn.com/1105146964/Otobrite-Bullish-On-Future-Of-Commercial-And-Special-Purpose-Vehicle-Markets-Given-Wide-Ranging-Uses-Of-Vision-AI"
-webUrl: "https://menafn.com/1105146964/Otobrite-Bullish-On-Future-Of-Commercial-And-Special-Purpose-Vehicle-Markets-Given-Wide-Ranging-Uses-Of-Vision-AI"
+title: "oToBrite Bullish on Future of Commercial and Special-purpose Vehicle Markets Given Wide-ranging Uses of Vision AI"
+excerpt: "The company also participated in the AI on Chip Industrial Cooperation Strategic Alliance initiated by the Smart Electronics Industry Promotion Office (SIPO) of the Industrial Development Bureau, Ministry of Economic Affairs, in a move to facilitate cross ..."
+publishedDateTime: 2022-11-08T09:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-uses-of-vision-ai-1031885516"
+webUrl: "https://markets.businessinsider.com/news/stocks/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-uses-of-vision-ai-1031885516"
 type: article
-quality: 19
-heat: 19
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
-  - AI in Robotics
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-11/08/PN_9de7fbe7-3_Image_In_Body.jpg"
+  - url: "https://mma.prnewswire.com/media/1936322/5.jpg"
     width: 400
     height: 267
     isCached: true
 
-secured: "U7jujKVORX40LzC+U2GICinZaHzagnvZKYSObbjqTLP0MiknT+1iTUfTcB1wtBJ8tbONuKy6pUGNvQuvgowYO/rc5bFkPUpdOaquW9tt2E484f0IM/RdII5KZbzkp74QBakerQa9Tix2/qPLDmYBnptASNiLhgMxT4v+Qwjmj22Enek8ozWbDiyNccviEeq44VWrwiVE0SuAKi/V+a2Wau7YOzGnzLsJ+N5tMW5jo/XIs57VA//bNqIczvq+B1eEjvgXz8w32RGSWUDZa0yzLl8sQovgV5vvzBR52hYRxohG33M/AnqA/7JG47mUG0jGQUoe9CS3BKtvPopnJZ9cA7BF//scA7abOl5wyYGYc0g=;MLHCNy+lAkbQRHXiB/zZnw=="
+secured: "LFYVsq5Ho1wj1rpCYyerjQFexgkscpGa/gwjQPJ8eMXSkXs2b38IjptFfqGRzZqZq+lDcDowm/6AVe9pdBpyvF4GyPZUo67px7R2V73yoDhaNj1NEDGARHSwJsCsWgyIwBTDEK/TxDHsUpwqg/nzlM/ff0v+JyWebHfuDf4tbI+IOnKdkS9pZ62hQ42ZbMHoUjXKQpYA9S9FWjNJpcMhBNmYQxeOnnCBuew9NyVdvNACr71W0euh+MU/sxFIYNzhjPuuegBNd8eu5vyE3KYhRBN7DjH7xQbAFWTF5z72c/S73j2Ag/sYUzp7GoxuEOp23T2A2IliiN+QAptC+ZbRfWWePxK2pwfjWluB9rRmafM=;F+dqgohsRvpUf3oq+CUeSQ=="
 ---
 

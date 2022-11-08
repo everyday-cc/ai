@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-revamped-ai-tool-safer-refugee.amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Phys.org
@@ -36,15 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 52
-  - title: "York U researchers’ revamped AI tool makes water dramatically safer in refugee camps"
-    excerpt: "A team of researchers from York University’s Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings."
-    publishedDateTime: 2022-11-03T19:42:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970211"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "jqtusvBg3gdqw6faqN4kvLwSdwmx0oLX8iSHHKWngXAo+JcrQcsagDQYhWjDd0vZBF8+na6deFQCx7I2bKRy7hDqEX3qgITwEEmZjyL8yKehHSm1wBXhzUGGAJgUa16GmbEk3d7wHRa3S5qzDj8CnV1zKCe3jTBIJ30D48SsYzoqPvnGh2sN/wNy8DyW1feJ/pAN0rFuf1U0vcJ+IUHiEUl/pMTkmXjO6lQbN9SgTAcv8zNVZd54uCFbpusGznXVGBpDo0L5fMhBpiCFKKjZ5W+kYm1uziKbNBRsLWWW0pBcgYXx3Hx5t8pYy+E1fHPWRtjsN0uk+jK0n5lEHoRBAY4mILRDp3b9Cg2yiwjP8ymgYlS44vthXkxXTzZof7AFl551tw5RuxoEwlRTx4feeVQKUTJtElLjG6irNeqDhG3E/m8pZpC7eHpeFUvAdM20GZ7t8wLVNNKowx4owrjiPit7q2qmBC2l9n62mKD04XotdZOwP9ri2wlx3ZNtODLv3ldBgngJ0BEfK+FImcuIFg==;cV5cYRNB9mwM3NKy8T9cfA=="
 ---

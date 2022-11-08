@@ -24,6 +24,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "AI device debuts show CIIE's attraction to global tech businesses"
+    excerpt: "Most of these devices made their China or worldwide debut at the CIIE, showing the expo's attraction to global tech businesses. A Robotaxi co-developed by Japanese and Chinese firms on display at the 5th CIIE."
+    publishedDateTime: 2022-11-08T12:37:00Z
+    webUrl: "https://www.shine.cn/biz/economy/2211082541/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 37
+    images:
+      - url: "https://obj.shine.cn/files/2022/11/08/0f9a129a-79f2-4837-b3c8-ce92c378c5d1_0.jpeg"
+        width: 480
+        height: 270
+        isCached: true
+
 secured: "k/FeyNdqbT+c3yYj2zOf08JF66I6Al2L4l9o/OtZgHwblUqf5AgYkOqTjDbIVQiEYskZDEOMge5uhnsN46lNaUoKPgJVJuwT/YnoVfru5gjolfd6+OvthHH4I9s4tPmFuSsSVuFgVMbEKVs1sYgGSa1pzD3vkcgn+QtIkrm8E/Lo8RmmArLpom6c0YlSv4CYJ5V7BXgN8+NU0GOGHORggRoWlhwoZjJWbW0AoO0OY61YgLZJwqB/LSzFv6eV3HxILYS2UxU8NFE6/2FWhNjTIW/JvbioMi9TOTSH4N1gF2/01NaSr1hyx9rOx7Nd0caueTjrpET/ya4zHMRcbrjs3j6qG/m/F6QwxxVVuEF7QVjZdkIKm0ZciyDKFDvyTkOX29d1i6BVzU1L3n9SKrFekkbvxToLtY2BKnOr10iiaBGoHbG42dbAzakkT34jrPQpdQtW/oSWHIXuZY+DOu5vUX6/5AA7HtYlJZsy1/ahT6CeAi4L3fLx1AUejtu/ovuPt70uWiWcPRs5Dz0LuRLJcA==;hYeQERKD0zsyx3l94sXa8w=="
 ---
 

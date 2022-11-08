@@ -41,15 +41,6 @@ related:
         width: 2500
         height: 1403
         isCached: true
-  - title: "York U researchers’ revamped AI tool makes water dramatically safer in refugee camps"
-    excerpt: "A team of researchers from York University’s Dahdaleh Institute for Global Health Research and Lassonde School of Engineering have revamped their Safe Water Optimization Tool (SWOT) with multiple innovations that will help aid workers unlock potentially life-saving information from water-quality data regularly collected in humanitarian settings."
-    publishedDateTime: 2022-11-03T19:42:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970211"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "AcU1tn8E8ffvqFX7vLCHNyiNe3tI+2udyqwloXCdWFaPtvftTh0Tt9OO7dGlavdu41FmyAQSEhCjg5psNrRidnEPrlAkloKezEEt+sgNgfBvgBvo5atvZCB0vnbBE0Iq/xIpQ7P5WuYp4yT2CPjpQMVwRDZjze0HyYWylEB4gp0T1eDpbUN6DvzuxpWmrYYl1Vb2YYyLcGfhOGWNs3pDSQ7AQOdGVgZUJYQrkXKM8hXLdKilkOhNPn3N8U20s+ZPMKpJPt4NbqhDaslZ8Sd9ArM/8r0MjpUZigMpgSdw7S8n46xVgIsp0rXDQ+t5msDpxF28w03Un1+6Ng64o1g/jM2XCr8AC1hir+C5qQHL2aU=;B43QdDULBgeM0AoS6mg0FQ=="
 ---

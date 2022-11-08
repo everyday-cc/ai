@@ -105,6 +105,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia’s new A800 GPU chips start selling in China"
+    excerpt: "The GPU is one of the most important types of computing components ... Prior to the ban, Nvidia accounted for about 95 percent of China's AI and supercomputing chip market share, data showed. Nvidia said in a previous statement that the Biden ..."
+    publishedDateTime: 2022-11-08T11:51:00Z
+    webUrl: "https://www.globaltimes.cn/page/202211/1279004.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-17/506f8935-b6d2-4b55-9312-af89e28ad0e0.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Nvidia shipping replacement GPU to China after US ban"
     excerpt: "Nvidia is shipping a slowed-down version of its A100 GPU to China . Called the A800, Nvidia started producing it in Q3 after the US government put a limit"
     publishedDateTime: 2022-11-08T06:30:00Z
@@ -134,6 +148,6 @@ related:
         height: 573
         isCached: true
 
-secured: "EGyta/ZzZHP4cyF/LKB8QS4vZeP2pgOT9+8tpjejaj/bPSBaVLaU0URc3l7HT/StGzKSLZob38so0pxZe8yDiIwNkt5q5+LM/eDL+4GQ4PEdjp/46WW4EvJ3TIMpWgLdm7Oo58cPFUc4q+5yReTYsoqun6Of4WiJK00B+SamgQp1ELp143+YQpjG8rJoEBs1qJKmUiVY9Fo3ouM1qVVKm/xXAAYufNJM9Rl6K95zmSLTC9lGY7t8IYJTHd/KATjH6EGE2D43D3/NbksHZwPXIEzFv+7uF3EVObFULlHEk6JqNzv8kloV536jPfspFJkINQQkiMY9J6vvDRWM9GkqTyzNxQPwFeIrsWMuftLN0V8=;InTz51L5ZUSS4l+NZnnS8w=="
+secured: "WdZN56ntxMhTyV1Wp2y9AJpHlYg9B6lkjK7sU73BwSRxlOtN4cQdp5k4it+Vr/XqLD/1KhtiPdQyLU2UpH0niWxZzjBuGmtsi/qSFCu96/t8d6pAtwnmMW8gXJntWuCoiMlQoTaGOtK6vN2t4VNkCGvq2fI7nKKTLSjFBq1Su5hyFrlvLLk9lqyoGpRSq+KH6YPMHxtkvhXQq0Hw4BcTeWxAQHQX9JhEsRDROiFedgu09TpWc/xErXVRFoCVhRidQy/HKlLBsg/ULX+8ZqJTuHJ8HVoC8qk54RNeJA9s/CcCx3B9+L/U+i7ANXFDE+LRzartnBr/3o+BdDR0TK1224wkQ2DvBPplcnG63Rac5831A1YqOSvCH3uD61RlWM1sZFf8SYptNgs4hoKXXoSZCoXVJVOSt6ywMUBy9KEXPCC7PX2v0tQAWGBa/q2VyrvQKtFBZGgvZi3cl+q6FcR2iUcG436q/+K6tr+Ek8aVV9KS0uzPAnsLBFelB+e8jEIAt6T2joE39+9neL2CeE3+dA==;ExJ7NAyatfbAxr4Oo8dIbQ=="
 ---
 
