@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during th"
-publishedDateTime: 2022-11-04T16:48:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/04/9706782.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/04/9706782.htm"
+excerpt: "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to 2028 according to a new report by MarketsandMarkets™."
+publishedDateTime: 2022-11-04T15:08:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/04/9706782.htm"
 type: article
 quality: 3
 heat: -1
@@ -45,6 +45,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "Mvx7AJaBKY3FvpLLNVuGt72rijC4Wm2f//sogh8MpokGbsWpn4PJmKM8IDL0WadqYLlPOGXH2g1zBkut2qy5yktrHtlh/dWpYIpKq8nfAvyp8LjCunxU/Ch8OTVzPL9gOmhM48aoFIylKGRt6pLj5YC34jMAyczMm+L/SkzCAB4gmrYYWYE75Gdj0LDOvE8nA7d5qzdMMBtCxNbTHq/qWCeEkCikRbIHRKD6KNi0nwh/sw+8Sb7+Ht/bhFQUxjt4jWHhqPAcwAVC7tYPUjk32WiSdEjkS4Xl9txG0DBqioq96p0QvCKUi0XJ3aaefmnG32BtmjsFq0BRAQySrcw+cWjJxJdjPrEnNlrfjse05INHTPUm3mhydyfGYee018ARdXrZR5M7Pg3is3YRaWvQElmAtcwcwTFIWWiiIzwaFEBGksRYtpwwVxOIzUwQp26Qn2COZ7JU8hbUfnEHCtLWwZpBkTYVRzkD8M+xFLcWOjmSul0la81/rIPMpOjdbKPKkLnLI0OOInnOJlBrHG9dnQ==;e5NSHXxqLbzdS5A70skfzQ=="
+secured: "54rNcJ3eSHHRtLWABnS/VgG2pqnKhDXQujRpAJkTJTwuGhG5v3nUwdpZ4608vPEmghPcRzIGULJXXhhTq4NDP+U+iBQu/SFmY/xz2nDfgjuexJv6L1YiD3szQMXYppOvfiY/UZ+GjxYjBDlSsLaERe+nbQIL2Kx/CwWBnVg3K1l73bRvQpZ1+nvLB4dM4ZCYaAnT1uabY52/PP6aNz4WC3MvxG+lGYtBF4gpzmRoRhE2flhmGZB+cUPna2LdYaf00UYceG19C0Ss5j7NEdseVPyktQawgyuUrJM2mNF3x9A+i5JPmnll0Y/dzE1NC13r4c682g0LlzHQFTp2sZ6LbVDxi9BROr0GaxA5wm92Yp0LCxW+fUvO1IgAVvG54e7yUfcEzsNKxGL9jbZbQ0vt4grIimIACeXy6TMBy/ZQQEDN5JBIzRzJeNzSvx1amNxX/ygocN8qcLyERMV8UAmGxHYD85Tj8cjQWJZbQJffKK4cbS342iokBr7MU1ZtwAogmjE6oDZjHx4knD4AyG39+w==;tMIDHT11NeZQhP1TXquWaQ=="
 ---
 

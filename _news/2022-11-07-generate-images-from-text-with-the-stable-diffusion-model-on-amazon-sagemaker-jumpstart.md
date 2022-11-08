@@ -99,6 +99,20 @@ related:
         width: 1549
         height: 775
         isCached: true
+  - title: "Getting started with deploying real-time models on Amazon SageMaker"
+    excerpt: "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous"
+    publishedDateTime: 2022-11-08T18:51:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/getting-started-real-time-sagemaker.jpg"
+        width: 1548
+        height: 774
+        isCached: true
   - title: "Run text generation with GPT and Bloom models on Amazon SageMaker JumpStart"
     excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
     publishedDateTime: 2022-11-07T18:07:13Z
@@ -111,6 +125,20 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/run-text-generation-gpt-bloom.jpg"
         width: 1549
+        height: 772
+        isCached: true
+  - title: "Predict lung cancer survival status using multimodal data on Amazon SageMaker JumpStart"
+    excerpt: "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and is composed of tumors with significant molecular heterogeneity resulting from differences in intrinsic oncogenic signaling pathways [1]. Enabling precision medicine, anticipating patient preferences, detecting disease, and"
+    publishedDateTime: 2022-11-08T18:32:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-lung-cancer-survival-status-using-multimodal-data-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/predict-lung-cancer-status-sagemaker-jumpstart.jpg"
+        width: 1550
         height: 772
         isCached: true
 

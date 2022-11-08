@@ -43,15 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing for Finance Market 2022 : Trend Analysis, Competitive Outlook of Top Industry Players and Future Expansion by 2028"
-    excerpt: "Nov 03, 2022 (The Expresswire) -- \"Natural Language Processing for Finance Market\" Research Report gives detailed facts with consideration to market"
-    publishedDateTime: 2022-11-04T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-2022-trend-analysis-competitive-outlook-of-top-industry-players-and-future-expansion-by-2028-2022-11-03"
+  - title: "Artificial Intelligence in Precision Medicine Market Top Key Player, Competition Strengths & Weakness from 2022 to 2028"
+    excerpt: "Artificial Intelligence in Precision Medicine Market In 2022 : The Medical Care Industry is dominated and accounted for"
+    publishedDateTime: 2022-11-08T16:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-top-key-player-competition-strengths-weakness-from-2022-to-2028-2022-11-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

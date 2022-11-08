@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Musk Axes Human Rights, Accessibility, AI Ethics, Curation Teams At Twitter"
-excerpt: "New Delhi, Nov 5 (IANS) Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and ..."
-publishedDateTime: 2022-11-05T05:29:00Z
-originalUrl: "https://menafn.com/1105135209/Musk-Axes-Human-Rights-Accessibility-AI-Ethics-Curation-Teams-At-Twitter"
-webUrl: "https://menafn.com/1105135209/Musk-Axes-Human-Rights-Accessibility-AI-Ethics-Curation-Teams-At-Twitter"
+title: "Musk axes human rights, accessibility, AI ethics, curation teams at Twitter"
+excerpt: "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest."
+publishedDateTime: 2022-11-05T04:59:00Z
+originalUrl: "https://telanganatoday.com/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter"
+webUrl: "https://telanganatoday.com/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter"
 type: article
 quality: 52
 heat: 52
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-11/05/I_d425aimage_story.jpg"
-    width: 400
-    height: 225
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/11/Elon-Musk-to-cut-half-of-Twitters-workforce-Report.jpg"
+    width: 1280
+    height: 750
     isCached: true
 
-secured: "EI+z5qAtekO+9wh7Ul5ijQPr9j4DvRYpwDt9VDNHwUXaWD1hCsXS0HC3Anq10o7czac8CdD4M9dZfa6KB3RnCxTjBeb2JDAuKvacvlUxDgbL2L2ZUiiYMO9YZbHA/OjDGdjTnBkshldAJYzOOxO0nXZoNOjdRr9bt9plrNwdBcsMu2lLUQK1xsFWqbl/YIMnq3+uB+dVrT7vn8w6UkxFPzHR02bImUcHWyIERRzxDuA4GGMFpc/82Ju/1p35iqwVaZWu/7Blzj49GZL6v+Pu8ggTYNGBxHGIRvnJQyO9g2x62oXKJbDrkTEDAvceA48bbbqw8RgaA7w89iEkBWreW915Q1Km5TMwfGEz5n6Yg1k=;UFt/Q0gr40sIbS7S4QLbQg=="
+secured: "/a5T8URb9TNUfbCbK0uLkiKNnnfHLglQ2DE3seSB/9Son4Dgeq1/J3CFLzyjXiNTyT5WqVq/1KmqpUQoZ5rN600MGlFljDQAGpbykfisa9qnTMi+Yw5YE4LCZTuDJIpYjxYK2noamnDXHIfWHhpIVfc1Vozw+6EAw0gUHHks+3iBIzSkx3Mr7RV84xgQD2pewp89xUXLebFObXyz31V62CZWS9RImTg75G4qQ++3NMMVoeD92NFodsv7kII0fcBf3oXKalxwSqJARFweDxEI4nefcL21Xiblvj24rVRo9OFUOdtI3ffyIo25f969vFFFUuj7wIucexBYooM4khta++OSw84N/h9TUGJFo0RvSk0=;vllfd63ogGzSGEX6XDXE5Q=="
 ---
 

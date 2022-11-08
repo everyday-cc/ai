@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-08T16:15:00Z
 originalUrl: "https://www.medscape.com/viewarticle/983713"
 webUrl: "https://www.medscape.com/viewarticle/983713"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://img.medscape.com/thumbnail_library/Medscape_News.jpg"

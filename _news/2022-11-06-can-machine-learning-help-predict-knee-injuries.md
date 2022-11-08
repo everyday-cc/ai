@@ -43,6 +43,22 @@ related:
         width: 1497
         height: 1410
         isCached: true
+  - title: "Research shows daylight has big impact on cognitive functions"
+    excerpt: "Recent work from graduate student Allison Costello has also found that winter-like dim light conditions lead to increased inflammatory status in the hippocampus and other brain regions involved in regulating mood and cognitive function. The grass rats in ..."
+    publishedDateTime: 2022-11-08T14:43:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-daylight-big-impact-cognitive-functions.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-daylight-big-impact-cognitive-functions.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-daylight-big-impact-cognitive-functions.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/research-shows-dayligh.jpg"
+        width: 2880
+        height: 1838
+        isCached: true
   - title: "Novel Deep Learning Method May Help Predict Cognitive Function"
     excerpt: "A novel deep learning method that uses graph convolutional neural networks (gCNNs) can predict cognitive function based on the brain's size and structure. The algorithm may provide insights into the relationship between brain morphology and different cognitive functions,"
     publishedDateTime: 2022-11-04T18:30:00Z

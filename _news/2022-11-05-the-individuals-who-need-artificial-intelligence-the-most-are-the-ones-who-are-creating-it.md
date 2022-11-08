@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-05T11:25:00Z
 originalUrl: "https://bestgamingpro.com/the-individuals-who-need-artificial-intelligence-the-most-are-the-ones-who-are-creating-it/"
 webUrl: "https://bestgamingpro.com/the-individuals-who-need-artificial-intelligence-the-most-are-the-ones-who-are-creating-it/"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - IBM AI
 
 images:
   - url: "https://bestgamingpro.com/wp-content/uploads/2022/11/The-people-building-artificial-intelligence-are-the-ones-who-need-AI-the-most.png"

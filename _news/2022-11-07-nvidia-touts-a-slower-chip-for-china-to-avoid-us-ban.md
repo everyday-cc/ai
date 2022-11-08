@@ -83,6 +83,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia May Have Found a Way Around New U.S. Chip Export Restrictions"
+    excerpt: "a high tech data center chip that is dumbed down just enough to meet the export restrictions that were put in place by the U.S. government last month. The government, of course, is concerned about sending that AI and high technology to China for fear that ..."
+    publishedDateTime: 2022-11-08T18:01:00Z
+    webUrl: "https://www.thestreet.com/video/nvidia-offers-new-chip-to-china-that-meets-u-s-restrictions"
+    ampWebUrl: "https://www.thestreet.com/.amp/video/nvidia-offers-new-chip-to-china-that-meets-u-s-restrictions"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/nvidia-offers-new-chip-to-china-that-meets-u-s-restrictions"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY3NTM5MzU3NDc5NjA5NzM1/nvidia-and-amd-have-momentum-in-high-end-chips-analyst.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "China slows down its processors, Nvidia unveils less-powerful chip to comply with US sanctions"
     excerpt: "As per the Financial Times, some Chinese fabless chipmakers, including Alibaba and Biren, have poured millions of dollars into creating blueprints for advanced processors destined for"
     publishedDateTime: 2022-11-08T10:14:00Z

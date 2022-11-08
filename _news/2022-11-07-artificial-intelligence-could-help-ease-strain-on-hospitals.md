@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 672
         isCached: true
+  - title: "AI diagnosis could ease winter hospital pressures"
+    excerpt: "Researchers believe artificial intelligence could help ease hospital pressures by cutting diagnosis times for lung diseases. The technology - developed by the University of the West of Scotland - was originally created to quickly detect Covid-19 from X-ray images."
+    publishedDateTime: 2022-11-07T12:21:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/514E/production/_127541802_gettyimages-1221189889.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Artificial intelligence could help ease strain on hospitals"
     excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
     publishedDateTime: 2022-11-06T00:00:00Z
@@ -96,15 +112,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 32
-  - title: "AI diagnosis could ease winter hospital pressures"
-    excerpt: "Researchers believe artificial intelligence could help ease hospital pressures by cutting diagnosis times for lung diseases. The technology - developed by the University of the West of Scotland - was originally created to quickly detect Covid-19 from X-ray images."
-    publishedDateTime: 2022-11-07T12:21:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom3=%40BBCScotlandNews&at_custom4=20CF9FA4-5E97-11ED-AFC2-330616F31EAE"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "iiBQncvPAJA84T07GypwSUz3ip/ug9lylmlZcxPdjJkv70MWwOQBCu4yQyQYM2j5BJSMSK2RIoWImdbgOZ6W6HtmKX05aM/7KCxsSUTt+stsZImd5+gNwVawNLXP+zeP8GJZX8sLq/Y5LQYaPWzk8iTA8YFe9OXuqYOHD19uC4U/WeXO6Hh86WCilNnyqUyvzVBFYqI3YzEUYJpmQcbKbpHBDvaK/snSITPq9Jfj5DJS8robgG4VRlsrH3C0t8bXQBAf2//0ppr2J7zv7Ul9DVGi9Sss83u6qyd1/Eq44yUF61OoBpFeMabzCfxjiZn8umJPp0Hwnaq4WStYkZL9l6ooAHGsuxepHcasWKnK/fsKFsfOe95tgtQYGudcgfdXMkVaoD7RVeE8i3fdi8MG/94wxXH8hXrvLnhaZtMCCezVV6y7zAWutpGyNl8f2PHycEamh04SCcyPrkP+j7VCdNZFkymXXGb/VdLSS3gAM+57QjSmwcJHRv6ueiYgJbBB3JJ8zy66hBM5dIhTdIk3OQ==;KPpqR3AFlrpqPMX0+TJ5Kg=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "Leslie Phillips, voice of Sorting Hat, 'Carry On' star, dies"
 excerpt: "The veteran actor made his first film appearances in the 1930s and is also remembered for his exaggerated comic portrayal of the English upper-class."
-publishedDateTime: 2022-11-08T16:29:00Z
-originalUrl: "https://www.9news.com/article/news/entertainment-news/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-webUrl: "https://www.9news.com/article/news/entertainment-news/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-ampWebUrl: "https://www.9news.com/amp/article/news/entertainment-news/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/entertainment-news/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+publishedDateTime: 2022-11-08T16:54:00Z
+originalUrl: "https://www.wusa9.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+webUrl: "https://www.wusa9.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: 9NEWS
-  domain: 9news.com
+  name: WUSA
+  domain: wusa9.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.9news.com/assets/WOI/images/d2ccc787-da35-49e9-b347-e02218984ae3/d2ccc787-da35-49e9-b347-e02218984ae3_1140x641.jpg"
+  - url: "https://media.wusa9.com/assets/WUSA/images/d0190495-e08b-46ab-8177-1f7290de682d/d0190495-e08b-46ab-8177-1f7290de682d_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -43,6 +43,38 @@ related:
         width: 2736
         height: 1824
         isCached: true
+  - title: "Leslie Phillips, voice of the Sorting Hat in ‘Harry Potter,’ has died"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98. His agent, Jonathan Lloyd,"
+    publishedDateTime: 2022-11-08T18:36:00Z
+    webUrl: "https://www.today.com/popculture/movies/leslie-phillips-voice-sorting-hat-harry-potter-dies-rcna56225"
+    ampWebUrl: "https://www.today.com/today/amp/rcna56225"
+    cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna56225"
+    type: article
+    provider:
+      name: Today
+      domain: today.com
+    quality: 44
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-11/leslie-phillips-dies-zz-221108-01-afa32a.jpg"
+        width: 560
+        height: 341
+        isCached: true
+  - title: "Leslie Phillips, ‘Carry On’ star, voice of Sorting Hat in ‘Harry Potter,’ dies at 98"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98."
+    publishedDateTime: 2022-11-08T16:18:00Z
+    webUrl: "https://www.kron4.com/news/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/"
+    ampWebUrl: "https://www.kron4.com/news/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 37
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/11/Leslie-Phillips.jpg?w=1280"
+        width: 1280
+        height: 871
+        isCached: true
   - title: "British actor Leslie Phillips, voice of Hogwart’s Sorting Hat and star of ‘Carry On,’ dies"
     excerpt: "Phillips acted opposite Peter O’Toole in the 2005 film “Venus,\" earning a BAFTA nomination for best supporting actor."
     publishedDateTime: 2022-11-08T15:09:00Z
@@ -58,6 +90,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T44UESL6S5BF7EXKOP5AKVXMYA.jpeg"
         width: 2736
         height: 1824
+        isCached: true
+  - title: "Leslie Phillips, 'Carry On' star, voice of Sorting Hat, dies"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98. His agent, Jonathan Lloyd,"
+    publishedDateTime: 2022-11-08T18:47:00Z
+    webUrl: "https://www.mysanantonio.com/entertainment/article/Leslie-Phillips-Carry-On-star-voice-of-17567354.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/21/13/23139023/3/1200x0.jpg"
+        width: 1200
+        height: 1300
         isCached: true
   - title: "Leslie Phillips, 'Carry On' star and voice of Sorting Hat in 'Harry Potter' films, dies at 98"
     excerpt: "\"Carry On\" star Leslie Phillips became well-known for his suggestive catchphrases, including \"Ding dong,\" \"Well, hello,\" and \"I say!\""
@@ -83,6 +129,6 @@ related:
       domain: bostonglobe.com
     quality: 4
 
-secured: "bR9WrFhHfu/2Wid1aty++yfZuNFLt7WYEQ1WUPAwUMyDQ/xzJ5396xwo9Ep1jYv5VUwRcGgTIWJOE/TL4HqNTpt3EKy49pjicovqbhMWLTwO/VH2w4RUsek8uQkN1wAA3s1bJ+oZZbMiv68Up8eZFn0loE5dTXUAO8n2PH3nXz9asy7nHHui116nHUVZoxJh/7Zl75wrfhXDaS+fofukvVAUONCqklpFkM98/7z7aGXP63sWU5xFQMfRSlpokx8wP8z7nsqY1IKY1fDwQpNrkq+NS20BKaNPoXT0dN1JvZZ49WJtb6Uh9YTN6XU80ZDF4JBa21zPF8Re5G62sltSw3BZac5UqS5er7CtavAOGSM=;+H26oefy4EbEF2jJ0YwphQ=="
+secured: "hdzUKoG6lWR6hQjG27cGL30vHirtqiayxu5JCPd71iEqmiQgoMNRs3q7VhEvfP8vmFX2A4D2qcTxX8SCws9uHG1m2KX4uI79DJDi00xzKvoto4zQJnoK+C8nCIVYMo4XfQy5CdM/vwUv4FPdVt7AV3fJf0FitcHC8i32W1PjRxSlGEnQLYPZQCp7hkKa8M2o7bLkOog8su54Dt9jUoBadzgDNXlCfO62C2nclTHDfBcACYn07HSEpOGVSjvV4kf8k8sAZKVgkMc4GpcI5BwPY7RBZ0d4cBHJctK5/huSuIcx8lRI2a/WCQ4IpS+G0DsKPndshXJYoXAQd1dSohZ7ZO4tXabL60e1Y3m2GAOr+XI=;Swr7ItEo508G2rv+Al/nqQ=="
 ---
 

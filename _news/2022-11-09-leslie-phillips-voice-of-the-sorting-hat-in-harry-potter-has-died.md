@@ -1,0 +1,134 @@
+---
+category: news
+title: "Leslie Phillips, voice of the Sorting Hat in ‘Harry Potter,’ has died"
+excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98. His agent, Jonathan Lloyd,"
+publishedDateTime: 2022-11-08T18:36:00Z
+originalUrl: "https://www.today.com/popculture/movies/leslie-phillips-voice-sorting-hat-harry-potter-dies-rcna56225"
+webUrl: "https://www.today.com/popculture/movies/leslie-phillips-voice-sorting-hat-harry-potter-dies-rcna56225"
+ampWebUrl: "https://www.today.com/today/amp/rcna56225"
+cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna56225"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: Today
+  domain: today.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-11/leslie-phillips-dies-zz-221108-01-afa32a.jpg"
+    width: 560
+    height: 341
+    isCached: true
+
+related:
+  - title: "Leslie Phillips, voice of Sorting Hat, 'Carry On' star, dies"
+    excerpt: "The veteran actor made his first film appearances in the 1930s and is also remembered for his exaggerated comic portrayal of the English upper-class."
+    publishedDateTime: 2022-11-08T16:54:00Z
+    webUrl: "https://www.wusa9.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+    type: article
+    provider:
+      name: WUSA
+      domain: wusa9.com
+    quality: 44
+    images:
+      - url: "https://media.wusa9.com/assets/WUSA/images/d0190495-e08b-46ab-8177-1f7290de682d/d0190495-e08b-46ab-8177-1f7290de682d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Leslie Phillips, voice of Sorting Hat in ‘Harry Potter’ movies, dies"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died."
+    publishedDateTime: 2022-11-08T16:24:00Z
+    webUrl: "https://www.masslive.com/entertainment/2022/11/leslie-phillips-voice-of-sorting-hat-in-harry-potter-movies-dies.html"
+    ampWebUrl: "https://www.masslive.com/entertainment/2022/11/leslie-phillips-voice-of-sorting-hat-in-harry-potter-movies-dies.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/entertainment/2022/11/leslie-phillips-voice-of-sorting-hat-in-harry-potter-movies-dies.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T44UESL6S5BF7EXKOP5AKVXMYA.jpeg"
+        width: 2736
+        height: 1824
+        isCached: true
+  - title: "Leslie Phillips, ‘Carry On’ star, voice of Sorting Hat in ‘Harry Potter,’ dies at 98"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98."
+    publishedDateTime: 2022-11-08T16:18:00Z
+    webUrl: "https://www.kron4.com/news/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/"
+    ampWebUrl: "https://www.kron4.com/news/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 37
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/11/Leslie-Phillips.jpg?w=1280"
+        width: 1280
+        height: 871
+        isCached: true
+  - title: "British actor Leslie Phillips, voice of Hogwart’s Sorting Hat and star of ‘Carry On,’ dies"
+    excerpt: "Phillips acted opposite Peter O’Toole in the 2005 film “Venus,\" earning a BAFTA nomination for best supporting actor."
+    publishedDateTime: 2022-11-08T15:09:00Z
+    webUrl: "https://www.pennlive.com/entertainment/2022/11/british-actor-leslie-phillips-voice-of-hogwarts-sorting-hat-and-star-of-carry-on-dies.html"
+    ampWebUrl: "https://www.pennlive.com/entertainment/2022/11/british-actor-leslie-phillips-voice-of-hogwarts-sorting-hat-and-star-of-carry-on-dies.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/entertainment/2022/11/british-actor-leslie-phillips-voice-of-hogwarts-sorting-hat-and-star-of-carry-on-dies.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 34
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T44UESL6S5BF7EXKOP5AKVXMYA.jpeg"
+        width: 2736
+        height: 1824
+        isCached: true
+  - title: "Leslie Phillips, 'Carry On' star, voice of Sorting Hat, dies"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98. His agent, Jonathan Lloyd,"
+    publishedDateTime: 2022-11-08T18:47:00Z
+    webUrl: "https://www.mysanantonio.com/entertainment/article/Leslie-Phillips-Carry-On-star-voice-of-17567354.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/21/13/23139023/3/1200x0.jpg"
+        width: 1200
+        height: 1300
+        isCached: true
+  - title: "Leslie Phillips, 'Carry On' star and voice of Sorting Hat in 'Harry Potter' films, dies at 98"
+    excerpt: "\"Carry On\" star Leslie Phillips became well-known for his suggestive catchphrases, including \"Ding dong,\" \"Well, hello,\" and \"I say!\""
+    publishedDateTime: 2022-11-08T14:58:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/celebrities/2022/11/08/leslie-phillips-harry-potter-sorting-hat-carry-on-death/8300808001/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 13
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/11/08/USAT/5657a0c7-3e20-4e33-9a75-ea48e44aee23-GTY_106906168.jpg?auto=webp&crop=2999,1687,x0,y192&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Leslie Phillips, ‘Carry On’ star, voice of Sorting Hat, dies"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98."
+    publishedDateTime: 2022-11-08T14:47:00Z
+    webUrl: "https://www.bostonglobe.com/2022/11/08/arts/leslie-phillips-carry-star-voice-sorting-hat-dies/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 4
+
+secured: "Bj2+I1vcnni+haNjIpRZbdP/CeVR4Q8dxe247FAClGyye7k1Nqzu25WPnqICvc8nFHdSe2qA1ZbK4qjYgzF8mEpbhfU5AlUMiFxJWkrBsiiZy8GaIy02+pE0y1Ns4d3oXB8VSleR2+vXkxzq7nOIXNjuq+FG+72onHrM1wdJMzcvwaquNbeZk7T007fMBNpWz2VmG7IqSeK9Xs49bL0CMQIK4FYmT7X/xbjKHzI+DQU52mcTA+N4dV1z7CzXKWV0NfYdUpXdlE/v3XjOQTnRD/or+NK1mEjGdp7ggkcD/MSSS6u2OhmashuEkCYknW8rN3eL69Tm5N7PM/7/43jjk2+s5HIzbuu/DuQlYqgqkso=;PcNi8wB1JM7ZgMqJnKwCwg=="
+---
+

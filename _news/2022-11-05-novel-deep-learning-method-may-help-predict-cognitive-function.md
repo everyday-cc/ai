@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Research shows daylight has big impact on cognitive functions"
+    excerpt: "Recent work from graduate student Allison Costello has also found that winter-like dim light conditions lead to increased inflammatory status in the hippocampus and other brain regions involved in regulating mood and cognitive function. The grass rats in ..."
+    publishedDateTime: 2022-11-08T14:43:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-daylight-big-impact-cognitive-functions.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-daylight-big-impact-cognitive-functions.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-daylight-big-impact-cognitive-functions.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/research-shows-dayligh.jpg"
+        width: 2880
+        height: 1838
+        isCached: true
 
 secured: "hMpFozLsu0u0nn+x7/2bpb+a7xgwpr3H0JwrWGmbs7VvFBRh98/IPIvXco7iVNPlBwK18Sm3K9NELdO6DIn1OR2PK4zd2DM1KcbLKu+ZCE9DKnuMuwvGZwhNcxOmmnLKLiFs8vRDN9uFqZdou2VQ04r505huKiA3meLxEBh4xBofXO5jYQNS+uS5RlKHxdlfSijHRu+9xAXqQF29ULl5NU/fScUKN3a6XQoQEBgF56aPWH27rbucV2xlE0MSMuBZrzWwSomrEnmv92XgglvVNQnB7xsNXXBCOwykS5i9Ecc5dDd9Ls6cRt9I4ir7JehpGAIn5sidPhJdpaKPTNQSIvK5YkjIWEc3r/lBL9Fyzk6I83g5X1BZQGnfsrWAiSue7/QgDZdR100HfaxHIFRmfUvKkAhlufJJmyCPYSYju1b3j95neP93Ln/g/axl5GO/nRU3ahfJhzld3ZwPQoD65B9jZKFcX045RorvwgCphKbWKse5gLZIB6tOzm4LKnb271rlQZYjnbrOcSl0c0QBlg==;wG5YWTKlmF27fC0ulQJE2g=="
 ---

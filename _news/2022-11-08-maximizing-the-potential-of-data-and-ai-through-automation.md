@@ -58,7 +58,7 @@ related:
     provider:
       name: Bestgamingpro
       domain: bestgamingpro.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/11/The-people-building-artificial-intelligence-are-the-ones-who-need-AI-the-most.png"
         width: 600
