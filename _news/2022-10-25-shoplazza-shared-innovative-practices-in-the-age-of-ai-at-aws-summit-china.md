@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_5020059_33882458.jpg?h=252f27fa&itok=lHZ54Tpo"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "/axdj1e/JPizEBTfUVpKkVo+S033zpSkWw3C1lJBQt4lZd2dlb2rActVV2wYXS1cF0lZhBJ2kDHZSv3bY4umrSWBRziwBdXscMOmLCF/lenCtknPIie3jClEFDQWiB7WLyRqpywZeLuG+F0tlTNdvpfL45wwQgnuV9l1G1wSP4vmMnYrpYDyjOT1gnlY+wdJ0XQcD5eQq4UYoL5RPlTdvHQSOtMtkUm+PrLRibWjI0xmi96DUd2ogeGm5VJ4BcJy16lS/eE8iJV9x4f0gjC7r2dRnEx0BxeV4uHM9syPKaFQzMScqcfiXe/qzGcar3DjITWNNXpttodZwb1xozYNPbFJXiJE8Ki75wQGpzr8CO4=;BffWW72hEkg5PWtWN+yFEQ=="
+secured: "LKKoEcP6cE/VECKga4xReWJgwnfyROyPS9sso1a2vWTdjO79Q7YNkbvg3CZSIwq1pS5TFwZSTz/QbWYiXpEXEeU/UE/ndFTHPVe4Esv5PXyCeOjLjoQ+TYezDiZOr1ZN7WzDjkZZFEgQBo/oJow8XGj3FcmIwmtXFowl81tA0ZpMDw3+Ek7MIhogEkDGgreXDWcE/IcfVwIxRCt+NyRMMy88pEgMc6Ip1z51HBM/N0wngyfNchonNy3Nrk6Vi4nS5PFNuG7rq5byQ1OvaZNiPPB2MMmzWKvohAFTxM2HF6OH20UkfQ1hfg7lQuJn7iPzbzYLts2Ctd58o+Pn7TLRdtYwaX17/bI3xPi8IET914U=;AimRbWbAk5Ryr5K1gL6eKQ=="
 ---
 

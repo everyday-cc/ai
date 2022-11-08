@@ -1,14 +1,11 @@
 ---
 category: news
 title: "MobiDev Explains ARKit Potential for Providing Immersive Experience on iOS"
-excerpt: "Among all augmented reality platforms, ARKit stands above the rest in popularity and performance. Apple's tight-knit ecosystem, standardized hardware, and high performance of ARKit for augmented reality applications make it highly desirable for AR developers."
-publishedDateTime: 2022-11-08T14:09:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/08/9708426.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/08/9708426.htm"
+excerpt: "The most important aspect of ARKit is that it is the only framework that unlocks the full potential of iPhone and iPad hardware for augmented reality experiences. Some of the greatest features that ARKit has to offer are object and scene recognition,"
+publishedDateTime: 2022-11-08T15:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mobidev-explains-arkit-potential-providing-immersive-experience-ios-/2022/11/08/9708426.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mobidev-explains-arkit-potential-providing-immersive-experience-ios-/2022/11/08/9708426.htm"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "lDNdKYFNYj/2W9tsQYiw1wIu7T1bmRmWjbgsCtQWNMEEvN7tecUdqIaD55PGgT/LoyahETaTdZUIE2EKshFfBjsm31RqqsWvqCHimdMdaqnZZzcYHlANDLforo3Sjie8yRPKTSAFXuNxBy4PxS4eEC3neT4kkYwHAW05uP1CldA8RrVr3iIUhjsVhMOZX/iv4Wo5PMIKa+akfXvdklTczyw6JXSWH9oRLJB1+1VysGuDBUOQqOV9p51j2ckc4zRkINCWsMC2lf1DOuoslQ3vHFeOvnJd2MAPx1M7RWmzpxIxwfMZbI+sdy49FJjDj7iWpqfxjIKyt2MnnGJGw6vJdpZFVrNfSpDlTjTpU7khqFg=;e5KVsqQDRtURYR3gX2khQg=="
+secured: "IJleIZXCAd/CFzS8wY5CLZE2Hf6RgNNMfoLhmRG+9R/tGhnxmszVaVWjpq7JG0xrmzBBkZLajZRmPIf3OL/QOtrBZrmNNZGD6D/OYyqUbLBrOu241oeybRC13II18FuY9TdS3qCekJ/599lpJn35PXpB+ZUMeeV15+/Y+nuv9OqBNL/RdmWtY+xjOXx2663RX+LcWWrX3LJN9sZFNBim3Ue3qj0AVT6YdZ0BedHi9RZj5q1xHNvbaJY7jDCaM4OiI8UKLKGA7206CO7NFXdQsrWNYVSnHCBXak8U4dQv+8L9O/XJ1frw7ng9SdnxKh672rau4lVRvW8vnRQmdalrwlegq9jSS5zIPeCD3Ut0iZ4=;8RiO0pTcfMVBG3HZctJFJQ=="
 ---
 

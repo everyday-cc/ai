@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.c4isrnet.com/resizer/Tn_RavCR9K_YhC9QQjjHCuTbqTU=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg"
@@ -24,6 +25,6 @@ images:
     height: 670
     isCached: true
 
-secured: "aDEfHIzM2XxuC9igWE9pwUiA2m39Lzg/7lGiOz7NrW8HmTk3+/JxcXE0P8zh1Jyoz4LADsO6c+KgP2eBTMKjwPo0P/RgZeIhHaoxmUrXUsSCmQ9HPoE9CTZceFRFt13ssQ1wrz7fXZIZcsnK7q/2SE0bP04/gPehint4KtfkSTlw3vmQ9KbnSL7HpsTRbi71YMp7n6UgvViuFNc5zX54Q6dJfnU12IF57wySQUC8XH7NNBJ3epCLcTQ1W0ziHLAuupgo5osA36hNWS1YxHZj+GLD2b5aPnAY5bOBTqCu2PMHyChiE6Ymup/meajkB+bL6tMhQtHDOeiSe8N6wIq6Q7JyzUln34RwRg4MmUyoI/A=;7y9bv4DhGOnFfE6PdNbpRg=="
+secured: "cHLxsSkxFHWbSygCKJacoTu0i08oucGq+6tTWsczKKhNxeKAGIEJuyQho7e2TpESxZXTH7aJ16U4Yatq0mp0QTTPYfRdL6oDala8TctKXAbeu/Vl0dZyMCjBW85vIq9B9j2DO+YD1ADslesLqx+3EAgtW6GnDcFrUinlZNfLawsRbk+pY702M1+AJ04leuftN9OVIYeqXiEjzDRUT39A/NSQWuiQ6bMWVnbmUlDlmGR4dGtraTsKhHQCFJqAdnwGj3LXicoGPMIhO9/usouQu7/8TaB6YMCUVS8d/sqkZWBvZ9ycrs44WVMn6V6HbVZ2OvpJyaZetc5+DWCVUpBJDl40ugvr+IWDtx/9fFhQpJHpvhxmsSEdAP6oQMuyIm+wEsDrGW4z0eCt3McvxKvnVybTZoUai9c3ZhiIq5cpNM9EqvdPiU0im36IpTdeVxJMYwomKRnV8rO9EP9NRUxM5tT/k4a13LNZWwqMEvW+0nrxD6LxM6A/mEHRi+c5PzesUHlUcqY0tcldDwG9yHOztQ==;qwWY97fi9cnihBdCeZYiPQ=="
 ---
 

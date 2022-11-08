@@ -1,29 +1,20 @@
 ---
 category: news
 title: "What advantages does Taiwan have in the era of AI and smart vehicles? Kneron's CEO points out three"
-excerpt: "What advantages does Taiwan have in the era of AI and smart vehicles? Albert Liu, Founder & CEO of Kneron, points out three (PRNewsfoto/Fusionmedium) When Google and Apple start making their own chips,"
-publishedDateTime: 2022-11-08T10:38:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/08/9708034.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/08/9708034.htm"
+excerpt: "PRNewswire/-- This article is based on an interview undertaken by FusionMedium's technology online media, TechOrange, and published with permission:"
+publishedDateTime: 2022-11-08T07:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29608073/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29608073/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1937823/image_5018046_24751601.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "8ChUuIuO8pFbfMbuL/8mh/RL86s87l6m8kenNb8nkqB/bFYSya/fFXzWhz2e6T/dm6BATZbv0lejkw6wbtethGFzapIC+0/CXWMb3fvDoNtjuT5YRdGh4Cc1TIQFj+ZOkcJioL+skgr2LIFxjEKVHR/DnGRr/FaKf1X4ubbyyk4VyCl7f8h2gveS60MNZ8bGJhhMqOqbE1e9FjhGRtArkGmuZJwPj3+bDaicZYWQigMTuYIIPAti+psJGOdkDAyGinuEMn33MakXVeqzQs/32Wh9Srsj3nCSmB8RXqhgsAyQXeiWkodEwcpGkQD2mLMint9UeXYL/BQQt/GjV3HFMdX8c6HN9JAvikY2atOEYJ960WVvyihpt53kM2mD+jkEvUDBbO9yrQbwigzVzZvKBWYwuAVNdMqkltucNPaNbXIScL6tS81JY2U/H2UPwlwkKA27D/roHgREIt5JoG001l8zC3EkB/CJ5gH3IQKEYR0xD5W41666kCN17+HoI9+FybQY8ROShG+n0uHWREX/qw==;2vnAoyctwf0FfLjYMarUMw=="
+secured: "Z9ImjQTF09GOwcSOQM9BFyZlLn7j1KCXRHW5mE4MSp+6O3IJ3C+T6WNaj7BDqBTNuCvEjt79/T/2MYquR4BEXPIV7zZ0wFwBeA+pqyYN9dEVsT4n0IgMKfcgCLNidR0Gme0bE02fyXDTKxi4UuMWbPfRthoJb0kSuNlwaESrljXIXFHWLLYgxgMxyKVM7NgG/YVxdBF48L6WjaH25qlTxUKI0bznVQ6GiHbHvgRcuFM5UZp4PcEDNyrQA7G/Z+VqKIm7y5RkXl89+XM1D3eemexAUNhUCwzOX2WcL+aAtKlW7BPfS4547QHO8Bt7XtnOcOreOLGnDjX2iXiNHVhXkAwMDDE5WBePMv017zm6O4g=;Z2QNFiiswSxikX5Unk2t+w=="
 ---
 
