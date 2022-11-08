@@ -44,20 +44,20 @@ related:
         height: 675
         isCached: true
   - title: "Indian-American professor receives Amazon Research Award to study evolving machine learning systems"
-    excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences."
-    publishedDateTime: 2022-11-08T05:28:00Z
-    webUrl: "https://www.tribuneindia.com/news/diaspora/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems-448854"
+    excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences. Pavithra Prabhakar, who is the Peggy and Gary Edwards chair in engineering,"
+    publishedDateTime: 2022-11-08T08:03:00Z
+    webUrl: "https://www.dailypioneer.com/2022/india-abroad/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems.html"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 25
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/11/2022_11$largeimg_592572294.jpg"
-        width: 660
-        height: 440
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems-2022-11-08.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
-secured: "scjzP7niOsTH01ywui2pHFgAacu6tJxpdihrwE2bnd9zA+mIkO6dX+Od9gvpMZQg3S73VD890sR3CapuZIzkZ4wAsVz8gP81E7cgAP1IElPJF0xGPPx0cM9CvX4Vtfp/GrwuEIOtY/ws/9ECsqAzmhcxUibR7XCBTnmUue9nREQmfSg9BHz8Rn5EFZCEIsrOZnlu3h8gf5QsYyHxIei1dRoFtjUf6imBxB4mTcLe7cse0BO5EIPyUiVgIeoUmSM8moloXfNbh6uvRGuaqjphwl5MlKEUXDp8p08ulEF4/B6AOg9BbTuOYULGcNvYgKxafbXIqmyASdnYGkHdcCezalBRomMpgAhmck2XeSMejYk=;iIcu6LMpSWEMhzzd4vu5kA=="
+secured: "1AqU5oxKwur4k6NH+pfBak9RC5SOOX5/G4SNbJxDDX1y9FzXSk8BpUbz2pjfavzH1d3YP3Pht9wr5DAOBIF893oOy/KvYL8Ag2AGbVpk5Jqw8yKWd6sYqLQv6UZA2Rh+RVL0Q64g/LAelNjxEcc6BL5bbTXqdRQexaURp5CrdFeBq+n6plcmYhXI8e9N2aO597gcrJpRi66mmjCq0cGnEYhJG2RJE8ZgIhZ83qS7PP8G733WMBuJmga2Hc21y7Cj7xGR0psIIxFE2Uy8KBvpJNE9qynhbuuglMhX2dWB1WcE50exxFnD0tc1X+Po5x4lZR+s1KlrOL+mMXUnRJWAyYrsZGtNiV4nZJBhI8htuMVHsQFm53dEDjivlnjjwhVVVhc3sHU0lM/byJY5RuxkFTIjFpIn0AIE41ITdJuN02mBjnRaYBgPRuQaNQE58KgeGE8rKKRtp5Dg8h2CYXUNm1LVTUJawk0AbygJEoZcTsfwPULH2XS0LCnJdYA6bAq8N24iDKCFrQyx9quJHpaJtw==;SEDsHe+sM3LY3cjUIzgHaQ=="
 ---
 

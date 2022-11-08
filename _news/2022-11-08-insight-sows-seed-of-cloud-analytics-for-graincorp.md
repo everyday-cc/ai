@@ -34,15 +34,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "IBM Launches New Software to Break Down Data Silos and Streamline Planning and Analytics"
-    excerpt: "IBM has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
-    publishedDateTime: 2022-11-03T15:31:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-launches-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
 
 secured: "G9pee8Uu3KLjrpaWnEZEjVSeWSe1KcAvwmyo6uYXfKTFJk+LSBFFF+8QEIhpG5gzM8bYqNZS3ugR0r1y4LuTAJKLcSxkzhbtsABStlLReoALYPo694az/7NiiNcWOugg9sPl+tRF/DPnXpK9iMtBYouODhax0M4F+mUExrhxq8w2VO9Ue8UQZ0fr7IjdebYByRXtiKrVbg/TNaEVdAFh0VPByArz+7f+HZ/o550yEQKOxtdqeKopvI0yZodWN3v/pnD9LKE3ixomUSsS/TdqpXKqjIfB03WzOleSfTKKdZ2/vqVnp58tR4SQPuXj9wwukyZwpuqnSo4rdIcWvgM1vuxttHPskugQ7lMiXFlIFMbIiUug3NQqiS5LVj1HXB8lV6KQdCqZbrT6PXAUv7KdjpHUrgX7C8+xAmFsyq5wYbFvUec3h3ShGNPfS+AO1XcoHchoChK5Z4HT2d2lEyN53K3sNfmPL+7JbMUtpU1ycXQfIDFezhP7nG8I1G3nBGN/EPAj5JJn0487x/8fqYbM2g==;AIriekIy4xqfDXCH9KEkxQ=="
 ---

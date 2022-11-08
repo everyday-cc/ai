@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/twitter-ethical-ai-team/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/twitter-ethical-ai-team/amp"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
         width: 1200
         height: 645
         isCached: true
+  - title: "Welp, There Goes Twitter's Ethical AI Team, Among Others as Employees Post Final Messages"
+    excerpt: "Twitter’s Ethical AI team, according to former staff, is no more. Multiple members of Twitter’s Machine Learning, Ethics, Transparency and Accountability (META) team, including its former ..."
+    publishedDateTime: 2022-11-04T23:08:00Z
+    webUrl: "https://gizmodo.com/twitter-layoffs-elon-musk-ai-ethics-1849743051"
+    ampWebUrl: "https://gizmodo.com/twitter-layoffs-elon-musk-ai-ethics-1849743051/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/twitter-layoffs-elon-musk-ai-ethics-1849743051/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 75
   - title: "Content curation, AI ethics, other teams fired by Twitter under new owner Elon Musk"
     excerpt: "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest."
     publishedDateTime: 2022-11-05T05:20:00Z

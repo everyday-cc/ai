@@ -26,6 +26,22 @@ images:
     height: 574
     isCached: true
 
+related:
+  - title: "Samsung AI Forum 2022 show latest AI tech"
+    excerpt: "Samsung is holding its Samsung AI Forum 2022 from the 8th to the 9th of November and the company is showing off its latest AI technology. This is the"
+    publishedDateTime: 2022-11-08T07:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-ai-forum-2022-show-latest-ai-tech-2022-08-11-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/Samsung-AI-Forum-2022-.jpg"
+        width: 700
+        height: 394
+        isCached: true
+
 secured: "iAwoDpzm5LJJF+F5WcAQYvmoS2GPyIswFmavGvS0tJUDOH+x/zJlJC/RnnR5mv0v58HRVQkgANW+Z1YQioiuyD29RTOPLzNcueA46q3gi4XnvmbGUo4aasSkgmi/CZTF9aOml0xuQDP1fi69+2A7wf5Ep1RDI9dwJXQaw7KPSGFZGWHujgG5jFWPj7g8gfwawak0dmLULuDdHPoUNNe3UIiZeyR+TjpRQqRsI/88ShBxddK+x39sK+jXDt7mV+9rTorCrqDEG3oxeE8biMABHyLbfwGtSzt10IFTHZ+pNiClpaHSChlhFSuWNCBCk7p+WVloiV3n+j/3DYdXSITBGJ7EZvAHLkXQfERq4PPevSk=;1tK4QQzV4eoKb/XGZ6siEA=="
 ---
 

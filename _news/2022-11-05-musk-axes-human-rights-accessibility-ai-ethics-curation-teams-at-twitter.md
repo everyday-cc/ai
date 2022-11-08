@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Musk axes human rights, accessibility, AI ethics, curation teams at Twitter"
-excerpt: "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics, and curation and communications teams were hit the hardest."
-publishedDateTime: 2022-11-05T01:58:00Z
-originalUrl: "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html"
-webUrl: "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html"
-ampWebUrl: "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp"
+title: "Musk Axes Human Rights, Accessibility, AI Ethics, Curation Teams At Twitter"
+excerpt: "New Delhi, Nov 5 (IANS) Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and ..."
+publishedDateTime: 2022-11-05T05:29:00Z
+originalUrl: "https://menafn.com/1105135209/Musk-Axes-Human-Rights-Accessibility-AI-Ethics-Curation-Teams-At-Twitter"
+webUrl: "https://menafn.com/1105135209/Musk-Axes-Human-Rights-Accessibility-AI-Ethics-Curation-Teams-At-Twitter"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 52
+heat: 52
+published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2022/10/5b7ff37ea082293c9b57c8f1b95dc3d7.jpg"
-    width: 1200
-    height: 800
+  - url: "https://menafn.com/updates/pr/2022-11/05/I_d425aimage_story.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "fZsq+58OhSrBF8miUZMdCyMNQTr+szDWizcrAL55Bm2Wjh1p8Cmle2nGHCDPiHzPFddiSmYPrmrmtfzPxxP7QjOq2zzAAg2FgYYri9Vn9OeNHlUzq1oJ8bL9MO3sa7tCmhFPFalvm20zCdUGbDV1a6GfPNtDVw3tkXJWDQCEyLPVApSrIbsBbCPMANGQ1eWZb1tsDzVdDS7F59vLFRczKlLgiaA27qblBW8qmM8jf0BpXiNfGS9ETGQUKKhHk/1LoW3GY4dXSRKArK6VYU79KHcL6gh3N6+g0u3o/VNM2uzVVCfAuQDvS0gxSP4Iwo38JHyV5QJ1a3f+SXELPi8fMpUlCWAp9flHcX3pUqv5soE=;me0sixceA8vEwEd4GcasxA=="
+secured: "PTMEvoqAdUjDaAQ+shWK7i2SdiXiqYGfEMN6FtornJf3tJwVQO8HJMTHbsVZD9T8mIDLP/j4tb3QCOl0thaNyf/EJXbVDW8v3JxeN8RQMc66zNuSe+C7lm317DbCYG64J3iiLC/7nQRAPwxyuWvgBgj/EUl33/rbNyKyaMvmm/kS3XsT3HuwBLHnDPOCZK9yqQiluBi7i3ENP/vi70QOderAKY13WK0+aJtKlDKgBgH9TgcMBo13a4H2JH9in2Gq4Rc73fp9KSV72hb/RC3e9vSZqeTuTrmeOTveRKSLGhIoLEC9z2pD5ALDFCsEhjQoQyHjlrUzMfEJB9RY5Q3Kp+g6NV3gsx0s4Sk+9Afmu0I=;iw3QOMGvBn4+eqKhWKS9ww=="
 ---
 

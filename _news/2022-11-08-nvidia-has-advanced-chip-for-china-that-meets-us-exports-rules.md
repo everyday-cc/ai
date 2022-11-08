@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -47,6 +47,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Offers Alternative Chip for China to Clear U.S. Export Hurdles"
+    excerpt: "The new graphics-processing chip, branded the A800, replaces the A100, a chip widely used in servers and AI applications by Alibaba, Tencent and Baidu."
+    publishedDateTime: 2022-11-08T06:15:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-offers-alternative-chip-for-china-to-clear-u-s-export-hurdles-11667891718"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-660770/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia shipping replacement GPU to China after US ban"
+    excerpt: "Nvidia is shipping a slowed-down version of its A100 GPU to China . Called the A800, Nvidia started producing it in Q3 after the US government put a limit"
+    publishedDateTime: 2022-11-08T06:30:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/nvidia-shipping-replacement-gpu-to-china-after-us-ban-2022-11/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/11/08045320/400F91A1-3EBC-4083-975A-35F9A57E3283.jpeg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Nvidia to sell new chip in China that meets US export control"
     excerpt: "Nvidia, the most valuable chipmaker in the US, has begun producing a processor for China that conforms to new rules aimed at limiting Beijing’s access to artificial intelligence (AI) computing. Read more at straitstimes."
     publishedDateTime: 2022-11-08T06:03:00Z
@@ -62,6 +90,6 @@ related:
         height: 573
         isCached: true
 
-secured: "wlgbzOdiwnY08iq4/339fcXgtf92N5hFr7k0OYCITMoOayZ24UjHjiVJhSORcRBwQ3TN63Xy3cfTEDJgRu0XME65f5xFOTgYYhqvbehlzh0SCjz1EQEwQdC/YnVbcaowL9hcktm39/VXx3GSHMfsPv3lFps96nUJPiDmAMqZ2kKtWO1aglpei70lsxIjVXi6ZOfX8WRAjnVkLVxUccHYgkWJO9vks3US1cNqI2coNWlRme1m5p4FdHAYVXitJtopVCVdxoGyd8CkBTNo8K6HOvohxh1Bkj1FZPStsW8mG17ANuOcvwLpUmmE4I8Fl4BuXqXzU/YdnuDjERS5nCba6N2eByzR50cGIZIIe4of1zI=;PILWp23g5vJZrOj2DwJjRg=="
+secured: "QP5u3YSHIjlx7q+u+HbllAaa7gx4GX2Rm3CsrGZSjA/ojedpOzonJZyL6kCNpmLeIwQZnfF1T4bHfuRUx1WgJSwRgujJjLQjnPHRnKRTSVMoGp4HvQtM35JmxYPMFe24/mWY7k4djeLlFEa55/C/6C//Ov4VnYUzIvFL04glehvycpSgaW2NWhoElyfYuiBOUKu/57+UWkF9INLk9VpyNvKszNU+nzBNBHMYF5iT2RcABjmLedvTTJqtKszNCoIlrhoaxSwZoqYTNQ0m986npsVY+XN7h4ostijUm3wWSXuym23DyUOuUtlNUkq7Ncf51ohBx8+Yszek8zGCcYj0RmacaQQtPuH0c47sTDQVPQ4hf3YnCjhrtSTYZadNmzCY0klclgSUuIW2cpJCCsQX/1naBAJw0nQMgOpDSIcwYwZ1kVoEW+dLuN24ZfI6mtwW32lwfY7aZ7jJiq8/cv1O258rYpTKCV81cz3YAc2uNj82wOnzAJjpAGdikJtfTzbyDUwcOGAw164R8l9aRyMNhA==;UfRiz4PyxaDDwAjzTS6/+Q=="
 ---
 

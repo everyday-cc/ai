@@ -257,6 +257,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-01-aws-opens-lagos-office-increases-commitment-to-africa.md",
+      "title": "AWS opens Lagos office, increases commitment to Africa",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, today announced the opening of its first office in Lagos, Nigeria. The new Lagos office is part of AWS’s support for the growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "originalUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/uQQktkqTURBXy84NWEyODYxYWNhZTUxMDJiY2IyMWQwNmM0NDI0MzAyZS5qcGVnkpUDAMzAzQKrzQGAkwXNBLDNAnY",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "publishedDateTime": "2022-11-01T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-30-aws-amplify-for-swift-reaches-20-brings-asyncawait-and-macos-support.md",
       "title": "AWS Amplify for Swift Reaches 2.0, Brings Async/Await and macOS Support",
       "excerpt": "Previously known as AWS Amplify iOS, AWS Amplify for Swift now offers a rewritten API to support Swift async/await and make concurrency code more idiomatic. Additionally, the new release ...",
@@ -1368,58 +1411,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions.md",
-      "title": "Implement RStudio on your AWS environment and access your data lake using AWS Lake Formation permissions",
-      "excerpt": "R is a popular analytic programming language used by data scientists and analysts to perform data processing, conduct statistical analyses, create data visualizations, and build machine learning (ML) models. RStudio, the integrated development environment for R, provides open-source tools and enterprise-ready",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/implement-rstudio-data-lake.jpg",
-          "width": 1339,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T09:32:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

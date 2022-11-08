@@ -44,18 +44,18 @@ related:
         height: 720
         isCached: true
   - title: "Indian-American professor receives Amazon Research Award to study evolving machine learning systems"
-    excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences."
-    publishedDateTime: 2022-11-08T05:28:00Z
-    webUrl: "https://www.tribuneindia.com/news/diaspora/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems-448854"
+    excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences. Pavithra Prabhakar, who is the Peggy and Gary Edwards chair in engineering,"
+    publishedDateTime: 2022-11-08T08:03:00Z
+    webUrl: "https://www.dailypioneer.com/2022/india-abroad/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems.html"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 25
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/11/2022_11$largeimg_592572294.jpg"
-        width: 660
-        height: 440
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems-2022-11-08.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "q6mjPIPKh4sufyWfzKNvZTO9chYhqefTi1mifqhgSDrH+3mlLyhhFYPdYkBHcbvnjQZpLOiGjZguJgr625Md0yaXxdWhXXaF+XHCBMB7Al8D2pcuGXp8oQbjrFIivmORRKqNKH4Mxz9krYBJyjsF9c7VHfMES5vEXm4wAzEcghlZG5Ymo/gPPaRoG1GkP4HHqhfZTMZ/RAPOFQTf/M7/8DfAJMeP2DY+6VqTqs1mQx1KKnYAcZyYtWCOk+/l+s/tjADKtNALD1jT+IM/GKTtxfOLXqpY7I47jQwEAIk4acofdYpFDZ/e4IB4JeaQQOMFKmmPLH0zi7GeQ/FdT6vmJizEUvLsE3LW5f+fAm9/eJD/G/VlxbOEgVohRXf+Mo5qhQZebBvYbbt5b6QjFQsiREnOEYmyRNfnkJ5j8vweSPhvNW9KWKmRscs04h/Vk1MieLfjrRPE75r4HEzQlUVBthj1hAwp3c5vNRZgDxqjP33p7q8xEBQJ59JvBeqwuaXqrZOKD9Vyscyl0iP61l+V+g==;LKlaorD+BPNvfGqSrKjveQ=="

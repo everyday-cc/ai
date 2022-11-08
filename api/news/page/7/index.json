@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-30-aws-amplify-for-swift-reaches-20-brings-asyncawait-and-macos-support.md",
+      "title": "AWS Amplify for Swift Reaches 2.0, Brings Async/Await and macOS Support",
+      "excerpt": "Previously known as AWS Amplify iOS, AWS Amplify for Swift now offers a rewritten API to support Swift async/await and make concurrency code more idiomatic. Additionally, the new release ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/aws-amplify-2-ios/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/aws-amplify-2-ios/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/10/aws-amplify-2-ios/en/headerimage/aws-amplify-2-1667162170262.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-30-history-of-ai-in-33-breakthroughs-the-first-expert-system.md",
       "title": "History Of AI In 33 Breakthroughs: The First Expert System",
       "excerpt": "Expert systems represented a new stage in the evolution of AI, shifting from its initial emphasis on general problem-solving and reasoning to a new focus was on knowledge,",
@@ -1135,49 +1178,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
-      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
-      "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

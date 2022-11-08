@@ -47,6 +47,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Offers Alternative Chip for China to Clear U.S. Export Hurdles"
+    excerpt: "The new graphics-processing chip, branded the A800, replaces the A100, a chip widely used in servers and AI applications by Alibaba, Tencent and Baidu."
+    publishedDateTime: 2022-11-08T06:15:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-offers-alternative-chip-for-china-to-clear-u-s-export-hurdles-11667891718"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-660770/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia shipping replacement GPU to China after US ban"
+    excerpt: "Nvidia is shipping a slowed-down version of its A100 GPU to China . Called the A800, Nvidia started producing it in Q3 after the US government put a limit"
+    publishedDateTime: 2022-11-08T06:30:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/nvidia-shipping-replacement-gpu-to-china-after-us-ban-2022-11/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/11/08045320/400F91A1-3EBC-4083-975A-35F9A57E3283.jpeg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Nvidia to sell new chip in China that meets US export control"
     excerpt: "Nvidia, the most valuable chipmaker in the US, has begun producing a processor for China that conforms to new rules aimed at limiting Beijing’s access to artificial intelligence (AI) computing. Read more at straitstimes."
     publishedDateTime: 2022-11-08T06:03:00Z
@@ -62,6 +90,6 @@ related:
         height: 573
         isCached: true
 
-secured: "RRJk95zn6S2FGnXOJ2/v9pEmfB6Ap/ClIRhPwDliN5ka7ncSDIG333o87zswPCBmyeTQVE/u6Z4tK6iwNxJ4H1Jwlo8IeKT+89fISAo9lFFq/zC//SEI2YibSXnHa5xwiWrpMRXN/G3j/0ZOR1igX+y7VFAwR1RLMTS49RQdSUnDY8+94R1NcdIYlkyeIARsbSVUUfOWCua3ZnJN5mz56uJkZpb1usgWisnqaV3kHVxT3YOE97Eaa5j63cvZEQosDodkGx/SdXXetBGIcY/hQZjzI4Xcfi7EoMOZFXW1srbHzJR17GZczNb5cRP2ZXbSWOAfuB/qaltFiDjkEH9+Ak5DM3zbfzF8giFXJ50Fp4c=;p0R5ehVkFxO5PPLOU5tLgw=="
+secured: "/dDV/agUx2Q/7IvhC6wXZiRtbt3csXxQR4taDuhjuztqtVNh2aMBKwuIBKM9S/dh+TCbBQ+Ja1Q36sHk+Opx197RyLVY5OFQfRBx6dGBTMq9dkn6V8LF/zb2DcoT44ME3i2WEgMWrhp81QpcANR5EA2AE3TeKpkq400W8t9V0liAoVc00WiJXu1AFBVFaWmlCbOfFx2uo0ZcCP+WNu17XBjOAq1dQrCPdjyrnyQ2y/IRwtGujbfMBVQV3Eb5eFzAK8XvTKbgqhIlLpxRtko4iL/xbqY58x/hPc8SgcqxkyLLTA9CVybDp+6lM4JDoTbopKuEd8c6fupm9IKeSRa/78SbdVkqDydl8Qwb1PwmnTBiFS2NgJzGlYQ3aBU9BcENu+MiHRgtpWT3yEtYuaUfepdV7nJ/+8EGXb499jmQVLGlRAryQKYplxe6VE7wp5BBc8XINxeIlAcaXmvqk1TzC72WjPSlCqgeEthJpmMCekKH8fuM24WBv2Hg1gSQsihujQ87TBz1EiQa5ozfiAwrQg==;qIqT2Cut6HkD+HtY1dDPSA=="
 ---
 

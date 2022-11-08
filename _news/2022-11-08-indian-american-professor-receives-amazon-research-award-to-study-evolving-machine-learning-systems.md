@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Indian-American professor receives Amazon Research Award to study evolving machine learning systems"
-excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences."
-publishedDateTime: 2022-11-08T05:28:00Z
-originalUrl: "https://www.tribuneindia.com/news/diaspora/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems-448854"
-webUrl: "https://www.tribuneindia.com/news/diaspora/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems-448854"
+excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences. Pavithra Prabhakar, who is the Peggy and Gary Edwards chair in engineering,"
+publishedDateTime: 2022-11-08T08:03:00Z
+originalUrl: "https://www.dailypioneer.com/2022/india-abroad/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems.html"
+webUrl: "https://www.dailypioneer.com/2022/india-abroad/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/11/2022_11$largeimg_592572294.jpg"
-    width: 660
-    height: 440
+  - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems-2022-11-08.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 720
         isCached: true
 
-secured: "s+8GsOVe0YVrw+Oz0d1+9hqjGhlQPPqqSb75VE9WP09rOUu0ktFQEO3Yr7NUDAAC1yUnRaWKe7n90ujt54mxHY5P1LSlBuu4Mw7uWUA2gTmfyA32ltn4s4v98vX84s3UClRdNH1r9pk21yKHPz7MEA8DUyLfR2FXtwZJzKRIpfSNpNDYkhFXIC/kdrycSF81iltaQALNSaLmu/++mA3Vwj+lcmEPpGSGqTvtrHclHOJYYveWTuJTeaNlCaAQ5GCh00WonLflctIueEHo1bevFG/llAn3IXLWPxR5O7J2LH2Qv9S8N6mEoSqyVjJMBsX1a1XcqV//DUYyB5S3vt3Dm4+aHwSKM2UrGpOEfQxRKNc=;LfCK+dPuNg3mT4b0T/c/Mg=="
+secured: "h+g7Ifi+JjDeoTHnrWgDeRnimqht0isGGIqXXdcL4KJYFKrLrxC45UGl3CPfiLgtjX05Ag8yO5iGVlH9X+ffUKMU3Q6ELnFn4ZbvrJVeVlO8+KIYaYwNKO7Nh44JKJVb7jYPDoz91BNpWFx16rNMnSas/lozCUHz/lPwV3RX+Czc40mPUih6HL+iF3k9W2Er8e8U3wM5c08A1oN5qGnBNLD/HDbtalFqmds2f8zb8/ceX9X4IA/IdKlG4HHD0Iktdpc2FYht7Cd0mjDXpRRDxtRccW5mK+x5vuw3h5Jp+UlFGo2AiNtuo1LH6qTUiZECZJKOitsUdLQBMjdihDnFW2q6ZxPURyoJqylzeubPA+U=;mP0+LOfWVQ/v3Cdlpl5JLg=="
 ---
 

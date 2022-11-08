@@ -32,15 +32,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "IBM Launches New Software to Break Down Data Silos and Streamline Planning and Analytics"
-    excerpt: "IBM has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
-    publishedDateTime: 2022-11-03T15:31:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-launches-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
 
 secured: "tXxqFryzsUErxxWE6hvvqoK0CgBdCb9SJH9c7w7RlXD3oA9ArpJv41oootsqBhPqqPIrP7Wk82pbcGn7JCW4sQgiBTU3sZZeaiZet/YHRqS6KsIzgzXEAuQgKO5cO4FsiLUXvb3kyO0bX2yEvfbZTjQbfHehxXSI+ELnkZjIDLxZUofR60zSEymtgKlQAgIHw0wkv/hEDY0nHft3Hp7hWqHG+UQElBC6vaL7UqhJqxfYhgBis3AOgFVaxwLBwH5UOMW2nhVXrsk/fsaHrb5Ba/vbOXP0fz2TrAexr2jcH7LyaWWnGMi4E2n90AL7MIiLLOss1UXImrnqcpJPBq7E22gW4odbE98PoFI/lbqDg8ctm5Vj98zOEZr10TDhWI68nQCc6WovXizplkqG6aO9RQynZIe5AzCMa6FlmQ2AVPTVBYRn5p6rD7hbVwcvXPNYEqkukjZ1elzSF6aeEAOSpXcR883dOgRlyujBbaUWRrPVtBRM/A/Y/Y6fzjw10RNbr/Po50DYoGpcDUBypaP+TA==;imi9YaN4rfZxwxq2AJFN6w=="
 ---

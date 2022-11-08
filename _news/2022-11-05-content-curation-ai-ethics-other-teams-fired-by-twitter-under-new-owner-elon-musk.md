@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 645
         isCached: true
+  - title: "Welp, There Goes Twitter's Ethical AI Team, Among Others as Employees Post Final Messages"
+    excerpt: "Twitter’s Ethical AI team, according to former staff, is no more. Multiple members of Twitter’s Machine Learning, Ethics, Transparency and Accountability (META) team, including its former ..."
+    publishedDateTime: 2022-11-04T23:08:00Z
+    webUrl: "https://gizmodo.com/twitter-layoffs-elon-musk-ai-ethics-1849743051"
+    ampWebUrl: "https://gizmodo.com/twitter-layoffs-elon-musk-ai-ethics-1849743051/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/twitter-layoffs-elon-musk-ai-ethics-1849743051/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 75
 
 secured: "Mf2DF/L6ykFUUj+LLN1IYj+UoiFsVZtoUd+7MT80AELVInVszRZ4DCzdsrv2ezqiOGFWvO76iUfqnxxsxAa/gQRZ1PyriaaiG3LOTSHpZk8EaOT40+LxIRtpyRpK3yughrecCMEpxIZyMNHAMElE4DHnJa24x6uFXiv47BbGLb6/mEFhln57VQ+ylyXwfUBAjCSNFFHvhvsFZH4qxvxGLKCL9Tv91UE1hSkQdjXU3YFgtXqH4VE4zFIYnoMI0XIucAvlHlcNJrJzd29OIYpFfOJI6XMuA4j4CLnCRLbHBtM2FKx8cnvZ98o95mNDF5lSOgC72xhU9e90LJeH1nJVhnY9Xvr4gRbhlRu7wmBM7S/8OwObllc5kKvDCJnHS8UXXBR0DT1BmWmpX1We8qF5g4nP/vEVl7MrLDA7SMQuLM/jujbpoZKLZAvOx4g8zYRziGBfW1kVvOiD/ZVmgWq+Xv9eV7U/Q1mPYIjyG+dDkSTzp38a4bFMKNgTMYw7lqeCtIk00uGdkGBSAEDEQgDvXw==;dYkJ91b9Sh51yWc6rNtWvQ=="
 ---

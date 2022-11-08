@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market 2022 Research Strategies, Consumer Needs, Application and Specification by 2028"
+    excerpt: "The study analyzes strategic approaches such as product launches & approvals, expansions & investments, and agreements in the worldwide Artificial Intelligence in Aviation market. The value chain analysis helps the client gather information about the intermediaries of the market and various raw materials in providing value chain features and market price analysis."
+    publishedDateTime: 2022-11-07T20:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2022-research-strategies-consumer-needs-application-and-specification-by-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

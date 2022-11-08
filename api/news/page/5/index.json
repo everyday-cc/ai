@@ -508,6 +508,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-01-aws-opens-lagos-office-increases-commitment-to-africa.md",
+      "title": "AWS opens Lagos office, increases commitment to Africa",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, today announced the opening of its first office in Lagos, Nigeria. The new Lagos office is part of AWS’s support for the growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "originalUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/uQQktkqTURBXy84NWEyODYxYWNhZTUxMDJiY2IyMWQwNmM0NDI0MzAyZS5qcGVnkpUDAMzAzQKrzQGAkwXNBLDNAnY",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "publishedDateTime": "2022-11-01T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-ethics-in-operation-the-business-case-for-responsible-ai.md",
       "title": "Ethics In Operation: The Business Case For Responsible AI",
       "excerpt": "What makes AI so powerful is that it can emulate human thought and behavior to achieve objectives faster and more efficiently than any human could. Of course, with this kind of power, we have to consider responsibility.",
@@ -1184,40 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-the-national-beat-driverless-car-startup-shuts-down-tiger-woods-new-venture-and-more.md",
-      "title": "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more",
-      "excerpt": "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/memphis/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html",
-      "originalUrl": "https://www.bizjournals.com/memphis/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

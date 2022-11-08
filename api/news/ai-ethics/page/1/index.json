@@ -143,49 +143,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-05-musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter.md",
-      "title": "Musk axes human rights, accessibility, AI ethics, curation teams at Twitter",
-      "excerpt": "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics, and curation and communications teams were hit the hardest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html",
-      "originalUrl": "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2022/10/5b7ff37ea082293c9b57c8f1b95dc3d7.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter-1503128474.html/amp",
-      "publishedDateTime": "2022-11-04T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
       "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
       "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
@@ -194,7 +151,7 @@
       "originalUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1432,6 +1389,59 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights.md",
+      "title": "The White House moves to hold artificial intelligence accountable with AI Bill of Rights",
+      "excerpt": "To address this ever-growing issue, the White House today released a Blueprint for an AI Bill of Rights. This outlines five principles that should guide the design, use and deployment of automated systems to protect Americans in this age of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
+      "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all",
+          "width": 409,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
+      "publishedDateTime": "2022-10-04T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

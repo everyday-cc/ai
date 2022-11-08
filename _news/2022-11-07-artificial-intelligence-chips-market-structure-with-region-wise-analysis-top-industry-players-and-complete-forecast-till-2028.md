@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market 2022 Research Strategies, Consumer Needs, Application and Specification by 2028"
+    excerpt: "The study analyzes strategic approaches such as product launches & approvals, expansions & investments, and agreements in the worldwide Artificial Intelligence in Aviation market. The value chain analysis helps the client gather information about the intermediaries of the market and various raw materials in providing value chain features and market price analysis."
+    publishedDateTime: 2022-11-07T20:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2022-research-strategies-consumer-needs-application-and-specification-by-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
     excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
     publishedDateTime: 2022-11-04T04:39:00Z

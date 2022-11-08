@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Offers Alternative Chip for China to Clear U.S. Export Hurdles"
+    excerpt: "The new graphics-processing chip, branded the A800, replaces the A100, a chip widely used in servers and AI applications by Alibaba, Tencent and Baidu."
+    publishedDateTime: 2022-11-08T06:15:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-offers-alternative-chip-for-china-to-clear-u-s-export-hurdles-11667891718"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-660770/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia shipping replacement GPU to China after US ban"
+    excerpt: "Nvidia is shipping a slowed-down version of its A100 GPU to China . Called the A800, Nvidia started producing it in Q3 after the US government put a limit"
+    publishedDateTime: 2022-11-08T06:30:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/nvidia-shipping-replacement-gpu-to-china-after-us-ban-2022-11/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/11/08045320/400F91A1-3EBC-4083-975A-35F9A57E3283.jpeg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "welm2HFtS1vHBN/kzEz/H13MgSvRVGirspJf1mqHUiSNPgJjSjg6NFMA+ClwrvKFMbUap+YdkO+8ILXOo/lzYOU39tjg1WnXGxmLb8fRIYKNnVjUJz5UtUN4uKmAq5mH3gpVuUqXySe7hP58WODqalBJ8ZpIIjRpoKto2xhL/s3WupsnJaiKxZEto/MvKqSknXIeWHlIluBZNvPz5Oh/Zh4AueDmgwbZelS+wGv2gUp4kKullBdRyJx+KE2Cv3qCTkRw531Yy0dxVoRSsl5Idf+hu2e5UJrkL0Bpyet4Qezd2qa8JsOEyyx/EL2NXtCF6IZVOdSydlf5jcW+yGo3TT5QcD4/Jaiyip2WKbwwjv0=;wKsDfMPZotGGZhETUSgMSA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
+    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
+    publishedDateTime: 2022-11-08T08:32:00Z
+    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
+        width: 640
+        height: 335
+        isCached: true
 
 secured: "r2vBV3ag5q1URdXC8UVwdKYIj7XnSrvmwFgKILT/vDJgcqsob85AragvMS10UY57kh7QA3Pyp6r7FCIYHchv5ooYVgZWMLAHseFSk1YrJionVwr2pFgiHK0oj8ZT05qi/FviUaLHqUADDPSMH7i6xoCVKGzPNmYYb+38S3ieX9/NpL8gwqB9kXdA/65gYg5zJx2M5PoWl+yzvpO34tfTqvGADD5IxC6JlmKiepiU8KN6J3zRh1rf1jYSs3rCTc7ZR7pTZZVk8USoIIA+eRidqlg1HSkuvL2d0l2oavvUm0dOjbvAinseZuTgI64tkfaY+XrR2/Sq2+ABKiYP/+3k4bPD/QcBa/8Z9F5CB2cAX+I=;zwIbhDV6NetohZDPBcCIrg=="
 ---
