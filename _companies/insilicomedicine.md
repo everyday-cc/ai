@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "InsilicoMeds"
   url: "https://twitter.com/InsilicoMeds"
-  followers: 5027
+  followers: 5028
 
 size: 11-50 employees
 yearFounded: 2014
