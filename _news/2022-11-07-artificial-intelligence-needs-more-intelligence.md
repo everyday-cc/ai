@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-07T15:19:00Z
 originalUrl: "https://www.accountingtoday.com/news/artificial-intelligence-needs-more-intelligence-to-unlock-potential"
 webUrl: "https://www.accountingtoday.com/news/artificial-intelligence-needs-more-intelligence-to-unlock-potential"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/83ff4cc/2147483647/strip/true/crop/1200x630+0+23/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F3f%2F4a%2F9d9ddc7f4d0dbf2b672d4174ac6d%2Ffrontier-2-logo.png"
@@ -43,6 +44,6 @@ related:
         height: 426
         isCached: true
 
-secured: "GlTlrCgKZdlLE1ASSpXCs7HHDow8zKMuW6pISRDSG8g89gbOGw/L7GdrtrAYxFOdB3iuvfoJeFqou6nI4hkyo1PHEG7O3mzjd8amdSPZvIUeoCgfxpnpRcKMRjwKC14N0cKAsvR0T01V50biHh6l5PiUlkT1bw0sg6yNZuWG57lJKTHe/PlVvhx+N1pNSK/+kqmUimEEQQxuPiXR/mYWaCeJnZgV0Nj78Hd5mDGTQ3snmiAKlTwChe8+csowV/9RZVCDw+VmanCAonRf5idmw4TnBapoODFjhVZ9vBx/IPcvVDCri2liisQ2GVz53IQZsENI/VJwUccigDACyiG9qe4iHtqi2Vndr7rqf5JGcNw=;rz/OE+tM1JnTLez+sMw4zQ=="
+secured: "386LjP0uy7GJEiPOKIScP4JaT7JRZmkponivo0GEKlA7qm92Q1dI1BugmHF+MHIB68Aqp6FXJGaCPBeFL/0TdR7V+1x9AfCYmeZtUVAelcvb7aKPv3BJABXzGU78oBTqJPzPSQysPr4ZHJiYoEctK0SX3FaXpUH8G3/y2l6X37qnZaoNSkO1B0vF03c3iVhW53gde0aro92ZK1c9TN065/0i/Vfln6FTU90q5/sFJo4uRwDM/q/Z+vv3xtgG1lU9nfgl2zfx0it85B/CqBUEaJLoIplHtFbgCexeMqjzsYG3m8HaMZ8fo2CNx2WcEYv1fGpdihq//7IC3VIsSx9K4wUqheYg8RHoGpwZ7rD04DIQgYpHv1LLFd92VI8+HR7z9A8JUS9qoNPiFBQ7PStW5LLS/IPDv9ckOfHdmxOWm3uW/3s/SdLTi6uoM8R31sz5g3SIK9fwjkJUCssbUhPDdwCEuGrUq7swZpEDtN5rAEPDFjyGy6xQpoYXq3FGI1ydhOj+8tGSP6vS7SATufg9ZQ==;x9z10fUAONOkwLOKOIslEQ=="
 ---
 

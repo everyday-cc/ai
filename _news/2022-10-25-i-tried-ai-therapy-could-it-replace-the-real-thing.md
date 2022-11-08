@@ -1,14 +1,11 @@
 ---
 category: news
 title: "I tried AI therapy — could it replace the real thing?"
-excerpt: "I fear I’ll be alone for ever,” I confide in Clare. “How old are you, Jade?” she asks. “I’m 27.” “That sounds like a fun age.” “Erm, yes. I suppose.” “Can you"
-publishedDateTime: 2022-10-24T23:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg?amp"
-webUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg?amp"
+excerpt: "I’m sprawled across my bed in pyjamas, conversing with an artificial intelligence via my phone ... text or voice call with a voice bot trained in cognitive behavioural therapy (CBT). Still"
+publishedDateTime: 2022-10-25T10:18:00Z
+originalUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg"
+webUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: The Times
@@ -24,6 +21,6 @@ images:
     height: 674
     isCached: true
 
-secured: "bSkQ9/g9blCKHyF+1c8RUiju60brCss8peBQgRpAeaLTHGDZE015er9lkZOjg6Tk2vmYbLKRCHKWn7t+PtPva31k0YiPFI8HSYYBisFVdqEY129ZKIRCAPpijQUpneHWG64QX7EVvUnGvY2OfiIJ9UBd0RH1IbzO919mX9VGhohCWzIo2DGjwRd+pVDbTadlFSwzmllIStGZU3W8SAIL1519LYvJ+u890Gm3fbgQt9yBjG8MGZ7f+tFkGMRaa1tUBIdqPROZlu09eiIGDXsPeJVncoaNPa/QHJnlCla/p6FA2Qxb39QTpIfLReXSy9O0kPcWUt0ZTmqrWGG5cW5MjqCu/QAyTcIaMOTtxFC3AJrHMSMPCQ5xjQMCq/N2fU2M6qybwetm4P8JK55SyoCob7mnwzQkSz8ApT6ewgcAF+lJB6McTFFNrd9+kAP29Pt7J17YDW1JJxGON6X49xTZuTC1x4Hhy0bwpBBGvtEFHZguxRSwl250n8Gsma9+VDzFyxOD7eUPmLHPQSoxCMecdQ==;rHavwTGeHBuNQ6hIbbO5Ig=="
+secured: "Xu13CdvBHCv9ZGGezM+Zd1d0yhmUYqNpQA7KosAePefVRz2THKI9asaZq1VAnAYFc66dyAFuk5rS6ii+HoZFistZ3ujrcmpG/B9jtaetj6PIfnEvLGN1cWGcvFQ/v/8il/NzKyPM328r/GyvgCXVwY0V6L3xGs5JIBv/9PkZKPiRpU/Dpo89Mr4NGetZAEBcYZYfbDCiNW/vOAq3v964VlKG8LUrgP28yzr5kXrDolmWvaltl9qbs3AIfa9VgOKfVVcOETie3y/tNToZO6RNbUHcCdzrKHq9x6kkptU7Q0S82HhBYWMq+jMpn8EVfxCVxzXSdRW/KLd3CEShQWBYfwr2N5oE2gUflDpGcHHwOPg=;PAr1eWzSxxv3lLeU7ThkUg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rehabilitation Robotics Market 2022 Latest Developments, Recent Trends, In-depth Analysis, Size share, Business Strategy, Forecast to 2027"
-    excerpt: "Nov 03, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Rehabilitation"
-    publishedDateTime: 2022-11-03T07:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rehabilitation-robotics-market-2022-latest-developments-recent-trends-in-depth-analysis-size-share-business-strategy-forecast-to-2027-2022-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
   - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
     excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
     publishedDateTime: 2022-11-04T04:39:00Z
