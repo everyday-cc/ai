@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20221104/UTA-researcher-aims-t
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UTA professor’s aim: robots to assist with everyday tasks"
-    excerpt: "A University of Texas at Arlington computer science researcher is developing a robotic system that helps people with spinal cord injuries perform everyday tasks, and she’s involving members of the UTA Movin’ Mavs wheelchair basketball team in the effort."
-    publishedDateTime: 2022-11-04T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970345"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ac77a83c-976c-445e-87f6-9508adbf2a12/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
   - title: "UTA professor’s aim: robots to assist with everyday tasks"
     excerpt: "A University of Texas at Arlington computer science researcher is developing a robotic system that helps people with spinal cord injuries perform everyday tasks, and she’s involving members of the UTA Movin’ Mavs wheelchair basketball team in the effort."
     publishedDateTime: 2022-11-04T19:13:00Z

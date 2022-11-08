@@ -22,22 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Data Labeling Outsourcing Guide for AI Companies"
-    excerpt: "Conquering AI horizons is now even harder than it was in the very beginning, when artificial intelligence was considered a science fiction. Sophisticated, AI-driven solutions are permeating nearly every aspect of our lives like Data Labeling."
-    publishedDateTime: 2022-11-07T12:18:00Z
-    webUrl: "https://techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/"
-    ampWebUrl: "https://techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/amp/"
+  - title: "Why You Should Consider Using AI In Your Network Security Strategy"
+    excerpt: "Artificial intelligence (AI) makes for a splashy headline, but how often does it get implemented effectively? The results of one study note that only one in 10 companies report significant ROI from using AI in their processes. The report goes on to expand ..."
+    publishedDateTime: 2022-11-08T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/why-you-should-consider-using-ai-in-your-network-security-strategy/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/pexels-pavel-danilyuk-8438983.jpg"
-        width: 700
-        height: 400
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "A+o0Eh/O7zD256QulvF1wjHxPX17qAwQBqLbU7JiI1qu3nNkG4XWP26H3manPbqOxcwCMuj29nZKNZ7aI4IJ9ePyiqzcPRXIgVhkcRLORsz29h4aIMj0FafLEEW/C+yONepj9ymTkf2kZ6zpIw2A77TklLlQNdr7gCVZ23sliWVSCsjHM5Dqn7uHLNsKRTpmEkmV/nlacl+QvkGa85Ufc+qCYMpEitjL45jERs4sp6bt7GljmTjTRZYH829RLFTJk8+CwUg7cgwl3Z6c4YN4v/Hruo5Rjv4O1jmuKtCaBFSR1jxApuDtoqj36hq43y6yNgsrXlcwj8HGMGua/y8zQ3oH6H1VVVofODQw9jSyv3rUfMArtb3ywN7Ez4VZ+P7KaSWXnW4hQweiY2B1F78r3N0ZXb/hOXXiSCEbpiKjF7orq8XZbDhOjykERBYzAbu3ZRjW6Cj5j+W7e1wkwuxdJizSP1k6dqZ9aB0oVbjs8ErnxDN4GPwd8fQqSMJBKbD7TQqJhz5XKA1H0XedRAZsQg==;c3ScRjOBGF6uezvC0wZmHA=="
 ---

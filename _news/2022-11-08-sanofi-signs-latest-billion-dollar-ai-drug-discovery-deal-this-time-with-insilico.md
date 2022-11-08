@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T14:00:00Z
 originalUrl: "https://venturebeat.com/ai/sanofi-signs-latest-billion-dollar-ai-drug-discovery-deal-this-time-with-insilico/"
 webUrl: "https://venturebeat.com/ai/sanofi-signs-latest-billion-dollar-ai-drug-discovery-deal-this-time-with-insilico/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: VentureBeat

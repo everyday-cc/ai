@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 795
     isCached: true
+
+related:
+  - title: "2023 BMW 7-Series gets hands-free driving mode for highways"
+    excerpt: "Comment Now! BMW's 7-Series has been redesigned for 2023, and the latest generation brings with it a hands-free driving system for highways"
+    publishedDateTime: 2022-11-08T15:02:00Z
+    webUrl: "https://www.motorauthority.com/news/1137773_2023-bmw-7-series-gets-hands-free-driving-mode-for-highways"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/bmw-7-series_100863728_h.jpg"
+        width: 1920
+        height: 1199
+        isCached: true
 
 secured: "UlNFEsPHh/xb9uiBMsC5MegmAQIy2st/bZPp0J7y1brkPVyvJ51yNkyUZhP4TGholfSxI2h41jlFL0n0qGr2Wi9GiBvRubWPXlLE7TjrJu9FvH7lrhuxENNz/IN7qlp6LXaKVySFl+GCM5PfzuKv4I4fVI6wYyDt2zlCccRKAwbb7EibFKIPdhSAMf+/rPhTIjEEnGVchJPnWzS7Z9EIjhPPs5/2m+3vyTvHZtz7RmhR0C3og/P4OYzKZuJe7pYtr4B+mlBbpVy0qj7nrqHnVH/ZVW9/k/FD/rv25UX+z0wqV6r2re/6hMp+x5SdLju3svkgmz1jl8MGYQG5f0tj9bWQ5J5UJjie1iZe8YRojSnrG4kcnBo9I/2YQeSV1oYFeDIQCgX3TQOB81P17jcHHGKbipHmcD9jBX7O+6sn8MQhZEqGYe/M9NY7N1k/RSFE2pK5hMNTlp7ESC+M461rKSfLByygSjBeM8IlyJRBCpTGMAytQ2f24TSE4V+kswGojp+T0eKJoj0mhvuiWV/o7Q==;yA1qe7ifAwKc8RzIf0+w+A=="
 ---

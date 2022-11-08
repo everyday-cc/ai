@@ -48,6 +48,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
+    excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"
+    publishedDateTime: 2022-11-08T12:34:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-to-pump-more-funds-into-openai-what-will-be-the-implications/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+  - title: "Insight Achieves All Microsoft Solutions Partner Designations"
+    excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."
+    publishedDateTime: 2022-11-08T16:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/08/9708649.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "rFSLoHdvUqbSi6GL6A8RykGOTgT1hKORP1n/SmCQhXL3adVj6JUfsQnbSyvHGS5LDGO80KBO4fpgrJv3EfSPkGrkk1W4PcjgdPrHZsOPhgtg4Nap4byuG4OAt6N6wcBvZ4Wzwz90GKwat/eTx7pGbF048nYPxL1HWYWthtP4m4v7So9mWDgh5Lt550ANa7t4FUiXyFs61KvMv1PtL3Ql8znoHHfC2nYr2mJ+Lhp25aakr0LZrd9YvDJmZ4lnfDdGTEphpsSDw481GSblFaRSRBX69Ix7VpZZm+/Xb+qtOsw56Y2EiGf9+3jK3LvWp9ySE0zoQWGrGKeCOUkzJBU/TDTRYt2MJm28AYOYoJMHgSenwvvk+DsOg0dxp5xvl+woNdzKjgMAKSdX+/eLsW5jcQOoEZzGdxpnDY+CNuE593zZEYofIQztzj/+ZalLLEdrQD2NskNQ4BIeo5GQYit2TB2pnDqWs6WKTGpUXx9LKG+NZpp5ONj9BCvAZAOAHmxYKDl1BDq+oOU+ITG6A/CWeg==;Y1DhQJ63pX9vhTByOrv4GA=="
 ---

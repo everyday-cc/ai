@@ -23,6 +23,17 @@ images:
     height: 635
     isCached: true
 
+related:
+  - title: "Robot Piece Picking Advances with Artificial Intelligence"
+    excerpt: "Artificial intelligence applications have been growing rapidly in a variety of industrial technologies, ranging from data analytics and quality inspections to autonomous mobile robots. Now the technology is being applied to robotic grasping applications to ..."
+    publishedDateTime: 2022-11-08T13:00:00Z
+    webUrl: "https://www.automationworld.com/PACKEXPO/article/22538844/robot-piece-picking-advances-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 34
+
 secured: "e5bn4z44P9sUw7e/bA14hG6ukKFdwhcomqe31DWnjgPsBDqiyA1KthEfF/ndpEnt+t9a9ETfdwfhqFj2rwdFe5Vulgr2qGyGEMvjolim4r0WLCvTA3z6n4USgUudRrM3dHzAqHJ80Q6hm4tMnJWLo1Msb6tf00beQVU7/F1U+1cr17r9TidNWJ7tGwr5XskcIDS8mK/l7EhI6ePeqaIp3i4QBB8iq6lrEidWRDzcpA5CCA80lm49jIGW7qefG3PXxhPKrVA3WvA7mWfji6RMfSfupp9vSrBgufvfJ4mUqq3If73sz9YtOYimq3TlTtXmBV0UNWbV3usfagVzuKAi6ouh5JJrkfeEvgJ1orE4JnHAzQ73DPX31IcSMUlPqWLza8b1wlQFnvi8akwd2dEXPuz6ZtJxwET2OtoQPfBpFNw5eK5NG1Zquirf26ohAnEn5J/jqYUFGokjNcB7Z6fDidPLn01009GwlM/zthdVYimtnw+632xrl2EBkjBjEmKwf5O6qMlbpwKjG8rIapkh9Q==;ssP1fsp7EeulNgI9DnEDAg=="
 ---
 

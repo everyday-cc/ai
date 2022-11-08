@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps"
-    excerpt: "OpenAI announced the introduction of an API for its DALL-E image synthesis model that will allow developers to easily integrate its AI image generation technology into their apps. DALL-E, currently available as a standalone commercial service,"
-    publishedDateTime: 2022-11-03T21:02:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dalle_openai_corgis_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI image generator DALL-E is coming to your apps"
     excerpt: "OpenAI has announced that its AI image generator can now be integrated into apps and products through its new DALL-E API."
     publishedDateTime: 2022-11-04T15:41:00Z

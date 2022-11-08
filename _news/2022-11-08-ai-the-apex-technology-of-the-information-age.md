@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T14:32:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/08/ai-the-apex-technology-of-the-information-age/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/08/ai-the-apex-technology-of-the-information-age/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-11-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
+      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. HINGHAM, Mass., (BUSINESS WIRE) -- XACT Robotics®, developer of the world’s first and only comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
       "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
       "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
@@ -1376,49 +1428,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel.md",
-      "title": "Artificial Intelligence Robotics Market Is Expected to Boom- Hanson Robotics, Softbank, Intel",
-      "excerpt": "New Jersey, United States, Oct. 03, 2022 /DigitalJournal/ The Artificial Intelligence Robotics Market research report provides all the information related to the industry. It gives the markets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/10/Artificial-Intelligence-Robotics.jpg",
-          "width": 599,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

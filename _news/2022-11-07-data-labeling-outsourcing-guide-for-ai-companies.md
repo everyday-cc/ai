@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Three Questions Business Leaders Should Ask When Considering AI"
-    excerpt: "Dr. Steven Gustafson is Noonum's CTO and an AI scientist, passionate about solving hard problems while having fun and building great teams. With AI, it’s important for business leaders to maintain focus on core issues and not get distracted by hype and ..."
-    publishedDateTime: 2022-11-07T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/"
+  - title: "Artificial Intelligence Has Come for Candles"
+    excerpt: "So maybe artificial intelligence isn't quite as smart as was promised. But we'll be damned if we can't at least use AI to score some great smelling candles for the holidays. Scent Lab is a new digital platform that's using an algorithm to pair people with personalized scents,"
+    publishedDateTime: 2022-11-08T15:13:00Z
+    webUrl: "https://www.urbandaddy.com/articles/43837/artificial-intelligence-has-come-for-candles"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: UrbanDaddy
+      domain: urbandaddy.com
+    quality: 39
+    images:
+      - url: "https://static.urbandaddy.com/uploads/assets/image/articles/standard/9cca4f14186a2ed6795a6706a3355878.jpg"
+        width: 690
+        height: 460
+        isCached: true
 
 secured: "jmH4NLSegOljWX5xrkriJYBqo/9nNTkc8px6CWgNFIY8XYfhekbVF8FtrBy8VLHxwXK7unKa8cKtXamdzvoSuI+8h3fztFwmHnLZn2HS5v5wfbrXFTvv97ufXgasQkyvtRRhG8QfG95Fh0r+5w9ZFEbzql4eMCjy72kGV5bEGH1UHfrmrVPzw3eXlimocecSqT9ZF3ndus1XnWNd/MvhIEofmQ51dJY3uzC00MH8btn7NCKjWzmvPOybYH3qvCHl4fQ1W4AiNb49mhS4I8btFguBF55d0gc2Qwn2OvaM72CfzOcQu/yQJjIkSsjd1R1c0fkIf7wpMzMzN9urfewTpALmIE04W+ItINnowLDiVG1ruUDBOnorWZzWGZLATrcbP28Fpi+ediaGgIQUaCclvG+Ac5rRuuJejKfgYllENfTbHz3aID5kSq3eIx49S2NcKeBO3i8KLhUKOqL0ZBuqC4N7IX/Pr7qeDPKKAv7U78SZFm8WJnP5xJknEVncVz0RDu6Uy1wMhdhsFHl24vsPlQ==;mde11EAf3Zo2QobWJXW5vQ=="
 ---

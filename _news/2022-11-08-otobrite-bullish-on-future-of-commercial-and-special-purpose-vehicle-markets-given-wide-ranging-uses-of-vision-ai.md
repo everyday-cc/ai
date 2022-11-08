@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T07:56:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29608167/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-us"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/n29608167/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-us"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

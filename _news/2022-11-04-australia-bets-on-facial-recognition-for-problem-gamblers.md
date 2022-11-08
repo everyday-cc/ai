@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Australia bets on facial recognition for problem gamblers"
-excerpt: "As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The tech ..."
-publishedDateTime: 2022-11-04T06:01:00Z
-originalUrl: "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
-webUrl: "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
-ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
-cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+excerpt: "MELBOURNE: As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling."
+publishedDateTime: 2022-11-04T07:32:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Al Jazeera English
-  domain: aljazeera.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-09-29T015936Z_1168054420_RC29KW9J7XZP_RTRMADP_3_AUSTRALIA-GAMBLING.jpg?resize=1920%2C1440"
-    width: 1920
-    height: 1440
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1804543.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -97,6 +95,6 @@ related:
       domain: sbs.com.au
     quality: 0
 
-secured: "8w5eIkVl2skEdNICrH8KhkyZ7WoJs0+8D62UWGyWOMOdXMhuu+6+CRig7vs9E3V8A2yyLqj9ZTFUQAoNM0KvSb6WjX7wn45xW/fUgWH0P8wT4vkfeLB4jiSZ4k1bjuboKds1FCxKcdQsShR6oYNStxw7QGpSKKwA8vzy00F53DjynzZw0TBAU2DQWg2PbmClZCDtT2bq71kJeRt7jn6Qm4WrQ7xjmfnncZ6GQSuCj75JbiijqEhybgpgG8OCSypHBVC+Y8UvSpIk+cY47Ym93jjfmwwFXKB+TrBQl6ceqEQe06ez3vFGSw+WscZCMi2QvdYLZN3/C071qfJdCLVI021gZ59+SdveizJPrKZhZWU=;nq6kOET8F2hF0efj0L1K1w=="
+secured: "Yj9ipAmhrH2dwVnP0TIgJzAQ6UjmZRzX+kUpUvv6fl8YSLdaZfZk9oh4MoCzuWw7AXVUIwkAYxWhGESJ4+CNX9qlLSUJ0Eu/0Gr9ySy68M7IvRxBVCUDf4TMIgaKBzAXnI1VVlJUMnrhuLOx/BlYGVKhmxi1MNMoLOGAubrFl1ygnUE3agYapXlbbUGFbmsipn+ivsDskMhyG4l2W2jYUOafbyG0czhPI89JKHjMMkqFQqKvdWGx39mwg0mXKv4mTvwKCF+dvSFx9qmKafdU0jd0gS8MvX4ceWBQTRPAqEyylNMDDJ8o65sWXuqRNyHq2SbQwx1v5ri32Cw75BwqKgzbNmyyi/53JkZhz8UE4lg=;p4QABGgQOq/m4c2CGyTenA=="
 ---
 

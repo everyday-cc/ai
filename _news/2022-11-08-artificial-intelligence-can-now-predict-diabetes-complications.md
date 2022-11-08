@@ -5,7 +5,12 @@ excerpt: "Newly developed artificial intelligence (AI) tool can be used effectiv
 publishedDateTime: 2022-11-08T13:15:00Z
 originalUrl: "https://www.medindia.net/news/artificial-intelligence-can-now-predict-diabetes-complications-209148-1.htm"
 webUrl: "https://www.medindia.net/news/artificial-intelligence-can-now-predict-diabetes-complications-209148-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-can-now-predict-diabetes-complications-209148-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-can-now-predict-diabetes-complications-209148-1.htm"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Medindia
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "BDO62hCyG3CypFIvhK4dpOJHsgWBKOlNUCOsvbZwrAAkqG9CyGV3OHXNrgXTMw1afUn62sQv5rXqZTVtcqWD4U4SE6DPQZbD2X9dfq1WctpaS4AxLrY586kV9r9llJu+VKT3fGikDBQYAgVXuBgSeKsad1YzrxGBas2JrmqgDTFUzx5TNkVDDGwxAFhZFWGQVXcYyvvBeWRNLLvIy5dtqsh42tI1X2j4SUO4GjtPqDrm00gdGGmz7D+5O5zQS7CRkaM6v6npo6JaUUEoJhtfoW6dX+Bcj/9PWIg3kxhZ/0PS6Q+XuuNOo3Z5EiNq1pCKZRvG2KfQxxYw4kjWogqq6qbc3yrZSv2dsP8giH9hK8h9ONKEwca/pD48Akv67fIKfWbp08f45oz51lF0OzoMckifvowyIznpzssld3dq7qFOdas9GDIKvFD9fR480rAfvQ7Q2DqqgFi3OfgBCBr9qJx3MsmNTBbAzK1euW4q91NWoSs/xhJVHzJN0MGTI0/wnXxOsIMz6+kaVveJMVbJbg==;klHovVacXB9/ppRZy3yeyw=="
+images:
+  - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "0oKEjMkTNRalgiSzte4s4rHmznCsfnFz5M70lhPjAZQC5hbjWCAfHd1VRiR9UBrOVnV/jGa8EOZ/eGsdzUNDrZ94S2Oqfs6r6xiOKlMvm7dXtCBpeUXnjL01BOFdN49qwEZ1k3gsYNOiKWUKnLoROYnhQsD4TAbpBMNsKANTbdcIgR5mo0bzqV1yvrV/Fs8DFGoOfHcVvC5tq16DJcUPYuvcrfH28cTd7bfqBhasUhHF1Vn+ywX0B8OLHxwHMR0LHevsac0QwvNBc7ZHYTa4Ti4nGbb0I4g5BwyhuMsMaVEgUMWNOEAXAPhZYjoTlzsD7DWRrJxObfaKlpfqmVgWBh/KC2dCCu3FITvYNy8YOPY=;AMk4SDCV9vdISqoGtmmFPA=="
 ---
 

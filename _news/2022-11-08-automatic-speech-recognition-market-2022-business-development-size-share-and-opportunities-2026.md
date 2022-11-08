@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Vehicles Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
+    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Self-driving Vehicles Market is expected"
+    publishedDateTime: 2022-11-07T22:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "EmmGAJ6bUOttTm5JoL00bNGcM4K/qiz33mqPt/FNlbJ7D56Qov0SRe769qGPfg8i0G93nxXaz/8hfOXv8h+gj9bzKF3N0zpU5vaKEsKe1KXgXxyw7N2r4zOGGB93bAvZ5jc4OQzTya1IBrf72F3/0IdGEMBfw8S0mhRDpu3/q7UBXmcrPflSmV8n4bv9M5hgYWcqvqcGQ49SDXKmzLM4q4J+4kmkSngiFM/wQM9E5IhEqB91INxhoYxTyQIE/AhVl6hXXb/oqofWtlu4sg6Lz0NUWLzh16bcTiYePjj/Oe3eCDdU5nH64KlTFwmhk6ZYxXrmyaXEq4ManeHRkmK7loZPoF2/QkWKaJhGhzl5Km8=;4vL40a4/oc3o8em+KaHQNQ=="
 ---

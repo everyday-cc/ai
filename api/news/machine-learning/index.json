@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-software-market-share-2023-swot-analysis-size-sales-growth-demand-supply-and-forecast-to-2029-2022-11-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -212,49 +212,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-05-floppy-or-not-ai-predicts-properties-of-complex-metamaterials.md",
-      "title": "Floppy or not: AI predicts properties of complex metamaterials",
-      "excerpt": "Given a 3D piece of origami, can you flatten it without damaging it? Just by looking at the design, the answer is hard to predict, because each and every fold in the design has to be compatible with flattening.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/floppy-or-not-ai-predi.jpg",
-          "width": 930,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp",
-      "publishedDateTime": "2022-11-04T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-04-novel-deep-learning-method-may-help-predict-cognitive-function.md",
       "title": "Novel deep learning method may help predict cognitive function",
       "excerpt": "Northwestern investigators have developed a deep learning-based method that can predict cognitive function capacity based on brain shape and structure, detailed in a study published in Scientific Reports. The method, which uses graph convolutional neural ...",
@@ -285,6 +242,49 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company.md",
+      "title": "Samba TV Acquires An Artificial Intelligence And Machine Learning Company",
+      "excerpt": "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
+      "originalUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

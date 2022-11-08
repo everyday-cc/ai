@@ -129,6 +129,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Nvidia touts a slower chip for China to avoid US ban"
+    excerpt: "Alibaba’s cloud computing business has been one of its customers. A100, along with Nvidia’s enterprise AI chip H100, were placed under a U.S. export control list to “address the risk that the covered products may be used in, or diverted to ..."
+    publishedDateTime: 2022-11-07T00:00:00Z
+    webUrl: "https://techcrunch.com/2022/11/07/nvidia-us-china-ban-alternative/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Nvidia to sell new chip in China that meets US export control"
     excerpt: "Nvidia, the most valuable chipmaker in the US, has begun producing a processor for China that conforms to new rules aimed at limiting Beijing’s access to artificial intelligence (AI) computing. Read more at straitstimes."
     publishedDateTime: 2022-11-08T06:03:00Z

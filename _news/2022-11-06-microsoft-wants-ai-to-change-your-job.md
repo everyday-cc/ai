@@ -7,7 +7,7 @@ originalUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-
 webUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/"
 type: article
 quality: 56
-heat: 76
+heat: 96
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
+    excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"
+    publishedDateTime: 2022-11-08T12:34:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-to-pump-more-funds-into-openai-what-will-be-the-implications/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
   - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
     excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
     publishedDateTime: 2022-11-05T18:25:00Z
@@ -49,6 +58,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 27
+  - title: "Insight Achieves All Microsoft Solutions Partner Designations"
+    excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."
+    publishedDateTime: 2022-11-08T16:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/08/9708649.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "5M46NcHpsupoZrsnckGwGA1NzgiadA3je+OOGiAaPjY9nbCXmCJv2wc6wpAhV3Kk7WNlevQDP9GmU9SP0s/ZmbhNBIoBx+8uqPCYgEttJ1HNP8cEXNXTR41DxnPG4T43Qy2lwQrL7ZDweMv/UNe5LA33ngsDYDqWN0UtqU1TzHNclgNOJv1lScYcPXIZ40ByeJX1CKv9usGcH3lEaFkOUsWbKOrzwbApcC2Njdty7DdjDDYs8TG0UimlyhEbdRJVqmy17x3HegXxrlevvuEwMXkdxPldKlpjMlvY8OtAV79k2648PHz9Pv80/yYd9HljuGiQaHy0vLvEGJ4/N4Ztgg2OFMVI1bnvAPMvdGm6mj+aNM+Luq5WzAWpjieozOOVxbC5AcIteQ6D8bRVn2NHODFU10EhQ377c7GTPlfbm22Bq8LOHj7/PIsZvwQdP9EBAJ4G9ylMHauGtBmEDuQYKq62SzNuRR2IkbEiQDd752R2/ab4XO/UZPh2fCY+f4chZnyFzFDZ1PnqrBTMPqmllA==;QTQ+KKc+Az5aNIaRkTsm1Q=="
 ---

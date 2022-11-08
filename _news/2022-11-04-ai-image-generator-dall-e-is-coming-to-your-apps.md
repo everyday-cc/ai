@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/ai-image-generator-dall-e-3231305
 webUrl: "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Android Authority
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps"
-    excerpt: "OpenAI announced the introduction of an API for its DALL-E image synthesis model that will allow developers to easily integrate its AI image generation technology into their apps. DALL-E, currently available as a standalone commercial service,"
-    publishedDateTime: 2022-11-03T21:02:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dalle_openai_corgis_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "DALL-E AI Art Engine Now Available For All Developers"
     excerpt: "OpenAI has announced the release of an API for DALL-E which will let developers use the AI tool for their apps."
     publishedDateTime: 2022-11-04T18:21:00Z

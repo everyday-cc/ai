@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://www.virginiabusiness.com/wp-content/uploads/2022/10/21-297489-SES_0667_large.jpg"

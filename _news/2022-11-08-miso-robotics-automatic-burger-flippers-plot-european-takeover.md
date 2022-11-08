@@ -7,7 +7,7 @@ originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-ro
 webUrl: "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Another promising European startup is devoured by Meta"
+    excerpt: "Facebook and Instagram owner Meta has bought Audio Analytic, a Cambridge-based startup building AI-driven sound recognition software. Founded in 2010 by Chris Mitchell, Audio Analytic aims to augment consumer technology with high-end sound recognition ..."
+    publishedDateTime: 2022-11-08T13:37:00Z
+    webUrl: "https://thenextweb.com/news/promising-european-startup-audio-analytic-devoured-by-meta"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 32
 
 secured: "/3dsYYfu2QOTz0YbLiSP9Owd9WU0Bx0gqnmDN2Cp7v7w4t2wUWS0XkgYBRGrJA1/6Go5QzFyT0qoM4scKpE7WSZehxFvVFWT2ZBZe19msMoeFyZwDPG3SwgWiPZtn1QzBD5rEhyMoR+2UrL7bGoRUP6lTgtArI6SKa1TtmAfIRXo7wLOU8rt2I8gP+IP8RkCyqZWYJsLD/gTJDdKT2L/0jLI0rznk0nlphkNeiEmvoFJ01kof30KS+Q3KE/se2Ml9vG6uP5GptGb31SayLrnnCrDoDJ4nay8Z4/08dDxJgYdhzOmJyxO2IvjzK+aMViN9zfJRnTwoiliqQfCiPJqWkHeMkrfRHW0WsEVszyHU1I=;clnkKhTr9LE4JtwpvjqIWQ=="
 ---

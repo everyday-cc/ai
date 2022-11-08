@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-05-how-ai-can-help-the-public-health-sector-face-future-crises.md",
+      "title": "How AI can help the public health sector face future crises",
+      "excerpt": "AI and ML identify disease and conditions in near real time. They could soon enable population-wide disease reduction and healthcare equity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
+      "originalUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/",
+      "publishedDateTime": "2022-11-04T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-uta-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.md",
+      "title": "UTA researcher aims to develop assistive robots to help people with spinal cord injuries",
+      "excerpt": "A University of Texas at Arlington computer science researcher is developing a robotic system that helps people with spinal cord injuries perform everyday tasks, and she's involving members of the UTA Movin' Mavs wheelchair basketball team in the effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Disability-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
+      "publishedDateTime": "2022-11-04T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-herzog-and-zizek-become-uncanny-ai-bots-trapped-in-endless-conversation.md",
       "title": "Herzog and Žižek become uncanny AI bots trapped in endless conversation",
       "excerpt": "Between them, a transcript of AI-generated text is highlighted in yellow as AI-generated voices simulating those of Herzog or Žižek read through it. The conversation goes back and forth between them,",
@@ -101,49 +195,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-floppy-or-not-ai-predicts-properties-of-complex-metamaterials.md",
-      "title": "Floppy or not: AI predicts properties of complex metamaterials",
-      "excerpt": "Given a 3D piece of origami, can you flatten it without damaging it? Just by looking at the design, the answer is hard to predict, because each and every fold in the design has to be compatible with flattening.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/floppy-or-not-ai-predi.jpg",
-          "width": 930,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp",
-      "publishedDateTime": "2022-11-04T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -456,6 +507,57 @@
       ]
     },
     {
+      "path": "_news/2022-11-04-ai-image-generator-dall-e-is-coming-to-your-apps.md",
+      "title": "AI image generator DALL-E is coming to your apps",
+      "excerpt": "OpenAI has announced that its AI image generator can now be integrated into apps and products through its new DALL-E API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
+      "originalUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/twitter-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker.md",
       "title": "Transfer learning for TensorFlow object detection models in Amazon SageMaker",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -596,7 +698,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -636,6 +738,92 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company.md",
+      "title": "Samba TV Acquires An Artificial Intelligence And Machine Learning Company",
+      "excerpt": "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
+      "originalUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects.md",
+      "title": "Dataloop Automates Data Management and Annotation to Accelerate AI Projects",
+      "excerpt": "Dataloop, an Israeli startup, has made the announcement that it will offer businesses a complete platform covering every stage",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/Dataloop-Automates-Data-Management-and-Annotation-to-Accelerate-AI-Projects.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
+      "publishedDateTime": "2022-11-04T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1025,195 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps.md",
-      "title": "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps",
-      "excerpt": "OpenAI announced the introduction of an API for its DALL-E image synthesis model that will allow developers to easily integrate its AI image generation technology into their apps. DALL-E, currently available as a standalone commercial service,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dalle_openai_corgis_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/",
-      "publishedDateTime": "2022-11-03T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry-part-1.md",
-      "title": "Intelligent document processing with AWS AI services in the insurance industry: Part 1",
-      "excerpt": "The goal of intelligent document processing (IDP) is to help your organization make faster and more accurate decisions by applying AI to process your paperwork. This two-part series highlights the AWS AI technologies that insurance companies can use to speed up their business processes. These AI technologies",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T12:04:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-a-keyboard-with-its-own-cpu-and-gpu-yes-its-real-and-its-coming-soon.md",
-      "title": "A keyboard with its own CPU and GPU? Yes, it’s real — and it’s coming soon",
-      "excerpt": "Have you ever wanted to own a keyboard that has its own CPU and GPU? No? Well, it’s almost here regardless, and it’s a lot cooler than it sounds. A video of an upcoming keyboard has emerged ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/",
-      "originalUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/finalmouse-keyboard.jpg?p=1",
-          "width": 1108,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/?amp",
-      "publishedDateTime": "2022-11-03T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
-      "title": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive",
-      "excerpt": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

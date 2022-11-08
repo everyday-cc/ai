@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T13:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-startup-veriti-emerges-from-stealth-announces-over-18-million-in-funding-1031886392"
 webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-startup-veriti-emerges-from-stealth-announces-over-18-million-in-funding-1031886392"
 type: article
+quality: 23
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Security automation startup Veriti launches out of stealth with $18.5M"
+    excerpt: "The platform taps AI to identify which events might be impacting business uptime and present the root cause, as well as which security policy improvements need to be taken to remediate the impacts. “Enterprise security posture is usually sub-optimal."
+    publishedDateTime: 2022-11-08T13:33:00Z
+    webUrl: "https://techcrunch.com/2022/11/08/security-automation-startup-veriti-launches-out-of-stealth-with-18-5m/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "81OqJz4S37pLL1Ba47BxIqcGmboKUBo8Jf+V0wL4QrSPoM38zeZ3iIPB/F28PwBkQFPf84+QtRolcCFkirRUWn37+f85LzRItBmWw2hTtlwkGYAQQlmyIuBAi4dUk9yDNzDkJqzzYescYuFckalBbPGwSK3s2n4smMQ6J1JDMm0MVwJFytNv0482SGC6W0KZ4JrYNuI5wYSMjAedcxxXnqETqMYfph2trpB1lwN0XrEoQFyG7ZtmTmFmUdPs6Nc26X+8uXe9Yas0t8Zvwna6qHJ3C6atHBBrsOzTxDODtLbsoC6WQ59YPHOmEjqBtYj9UFFiJeV/NdyOjbUkDzzBg7MA7d4KnL+t7GBMomkycjyRF3WTzBBHk5AWEOdFql+RC26n9ofYQkPJ9GN0f4LmCoOdSq/Zc0G2DfceD9BvpmsF/XhJ50xVKRRDcgR3LOApQJwqQ3PTz6Azo2d9tnghLmbXiGLou3FyHA/dot9eR4khGo6Sjs60rY2sHYb3hlZshes/iYfFJRjYIvBpYomI3g==;/sU1KyoIpYzakuuey+z5VQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-04-artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel.md",
+      "title": "Artificial Intelligence Robotics Market Is Expected to Boom- Hanson Robotics, Softbank, Intel",
+      "excerpt": "New Jersey, United States, Oct. 03, 2022 /DigitalJournal/ The Artificial Intelligence Robotics Market research report provides all the information related to the industry. It gives the markets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2022/10/Artificial-Intelligence-Robotics.jpg",
+          "width": 599,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal.md",
       "title": "Don't Laugh Off the Tesla Bot. Elon Musk's Optimus Is the Real Deal",
       "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
@@ -1344,59 +1387,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs.md",
-      "title": "Amazon's household robot Astro can now recognize your cats and dogs",
-      "excerpt": "Now Amazon's friendly house robot Astro will bring checking in on your pets to a whole new level. Amazon announced today that the Astro will soon be able to detect cats and dogs in the home. The pet recognition will allow the robot to,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/374d54dc3923c98af0cea39805fd86bf0edad6bf/2022/09/28/31ede2b8-bbf6-46b3-ba51-9f6a9032a60c/screen-shot-2022-09-28-at-12-39-13-pm.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "publishedDateTime": "2022-09-28T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

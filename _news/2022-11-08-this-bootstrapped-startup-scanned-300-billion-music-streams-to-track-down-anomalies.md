@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T14:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/this-bootstrapped-startup-scanned-300-billion-music-streams-to-track-down-anomalies-1031886815"
 webUrl: "https://markets.businessinsider.com/news/stocks/this-bootstrapped-startup-scanned-300-billion-music-streams-to-track-down-anomalies-1031886815"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Business Insider

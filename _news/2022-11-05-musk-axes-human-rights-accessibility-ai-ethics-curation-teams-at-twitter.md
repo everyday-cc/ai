@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-05T05:29:00Z
 originalUrl: "https://menafn.com/1105135209/Musk-Axes-Human-Rights-Accessibility-AI-Ethics-Curation-Teams-At-Twitter"
 webUrl: "https://menafn.com/1105135209/Musk-Axes-Human-Rights-Accessibility-AI-Ethics-Curation-Teams-At-Twitter"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Mena FN
@@ -15,6 +18,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "J6EQA1dWP7SUQH4quNwBsbKS6IkGBWLEXsjICnlkaQsOySt5z7brQ8UUw8chJZvJBYDNfESgpooxsV2mCi3OSgDpzpOgoWdKX6T9KEG9HPLgRufQHYSTASLHHLRyJhpdVR9XZgPwnGvW3k0+D05ySe5pnt4hINtjf9dnoNXegsFnLFuM+lvMU/8IZdV6mWS8mMUtwZeCcuHlJp6ARXeZc8oMvYL4422y9dsUNn9qFcYgx2XS6+s6jSli3BSTwtaYqiG2Ktg7wam1TZ5Dx6iH6ibCJNjwcV12U5WrVc4jxQ4cyyGGQnKfSgKHMYp50nOFUFzwQTGDROolt0KOX4wnLV9fG88TAm+12cJmiSqnEJA=;My3bkss00Vn9dGeBHkUG/Q=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-11/05/I_d425aimage_story.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "EI+z5qAtekO+9wh7Ul5ijQPr9j4DvRYpwDt9VDNHwUXaWD1hCsXS0HC3Anq10o7czac8CdD4M9dZfa6KB3RnCxTjBeb2JDAuKvacvlUxDgbL2L2ZUiiYMO9YZbHA/OjDGdjTnBkshldAJYzOOxO0nXZoNOjdRr9bt9plrNwdBcsMu2lLUQK1xsFWqbl/YIMnq3+uB+dVrT7vn8w6UkxFPzHR02bImUcHWyIERRzxDuA4GGMFpc/82Ju/1p35iqwVaZWu/7Blzj49GZL6v+Pu8ggTYNGBxHGIRvnJQyO9g2x62oXKJbDrkTEDAvceA48bbbqw8RgaA7w89iEkBWreW915Q1Km5TMwfGEz5n6Yg1k=;UFt/Q0gr40sIbS7S4QLbQg=="
 ---
 

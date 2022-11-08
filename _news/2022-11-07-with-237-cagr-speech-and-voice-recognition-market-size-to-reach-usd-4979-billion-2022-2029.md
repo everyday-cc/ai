@@ -86,6 +86,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "Face Recognition Technology Market Share 2022: Top Companies, Industry Current Trends, Application, Growth, Development, and Forecast to 2028"
+    excerpt: "Face Recognition Technology Market”research report provides an in-depth analysis that is segmented on the basis"
+    publishedDateTime: 2022-11-07T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-2022-top-companies-industry-current-trends-application-growth-development-and-forecast-to-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
   - title: "GPU as a Service Market 2022 | Current and Future Demand, Analysis, Growth and Forecast By 2032"
     excerpt: "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),"
     publishedDateTime: 2022-11-07T04:58:00Z

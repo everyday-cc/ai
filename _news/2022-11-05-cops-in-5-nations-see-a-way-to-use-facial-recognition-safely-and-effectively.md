@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202211/cops-in-5-nations-see-a-way
 webUrl: "https://www.biometricupdate.com/202211/cops-in-5-nations-see-a-way-to-use-facial-recognition-safely-and-effectively"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1292
     height: 715
     isCached: true
-
-related:
-  - title: "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers"
-    excerpt: "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ..."
-    publishedDateTime: 2022-11-03T23:46:00Z
-    webUrl: "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/"
-    ampWebUrl: "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 54
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Not happy? Facial recognition tech used to monitor driver enjoyment"
-    excerpt: "LONDON: A wide grin on a driver's face may seem proof enough someone is happy at the wheel, but it is not enough for one performance carmaker now using a suite of sensors to measure the experience."
-    publishedDateTime: 2022-11-05T03:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/05/not-happy-facial-recognition-tech-used-to-monitor-driver-enjoyment"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1805175.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "QfkGfuplwor2UPhYRUxQ3lq37L/G/Of8DIxqvH7AqDKX148eKIBkUl17DahecM/kaY/l2XYMvQ4/Oa8AFxczJmLA4HkZNmf9KIm6+WfKvCo3jBBOogrdB+S/BdZmuz4+wf6bhi9TGyk9pfK77lN18GQb5oq2pNJYirJ06OQ9lha/P+GraJ8W9pAU8uQSqh8A5KWrHFT6yNtqozBMWXzk8lUBhiBD4a/kk5dN7jbcPg1pVJ6EjxugLjss4LKL/lwdHx1ZIMWEEupq30+MzzRw3IURA2J927e3fOBuIeZm5/TDHUlwDQlnlfxjrRreKuR6INIo4973JQy0g2DbMr1wIF26OaXWq74qli/ik4fS8o4icz/zDd19Aj0xeWmyz60Iz1o3uBxqKcMDW9nyx7Tj/SUnQ4D1FO1ixDpuIfXo8G/RJpXMgJ3vAE4stz8P6coKoiEBaxoo8C4v7aWzThFSJ9MS3QClykvpOb4d62MfPTH/2WEMCR2g4zZpQR6Fv8coTRyauF7o4WEbaoNv6Y+5Fw==;MHy5mCIy7Ql4f+sMZ88VTw=="
 ---

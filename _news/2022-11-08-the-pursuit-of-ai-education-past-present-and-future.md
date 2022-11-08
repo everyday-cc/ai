@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future"
 webUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future"
 type: article
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: DeepMind

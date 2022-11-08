@@ -42,20 +42,18 @@ related:
         height: 630
         isCached: true
   - title: "Australia bets on facial recognition for problem gamblers"
-    excerpt: "As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The tech ..."
-    publishedDateTime: 2022-11-04T06:01:00Z
-    webUrl: "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers"
+    excerpt: "MELBOURNE: As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling."
+    publishedDateTime: 2022-11-04T07:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-09-29T015936Z_1168054420_RC29KW9J7XZP_RTRMADP_3_AUSTRALIA-GAMBLING.jpg?resize=1920%2C1440"
-        width: 1920
-        height: 1440
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1804543.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Lord Lucan's photos are exact match for British pensioner living in Australia, facial recognition expert who identified Salisbury poisoners claims"
     excerpt: "A world-renowned facial recognition expert says photos of Lord Lucan are an exact match for a British pensioner living in Australia."

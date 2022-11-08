@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-08-where-will-ai-go-next.md",
-      "title": "Where will AI go next?",
-      "excerpt": "AI startup Hugging Face’s LLM BLOOM was trained on 46 languages, and Meta has been working on AI models that can translate hundreds of languages in real time. With more languages contributing training data to its model, Google will be able to offer ...",
+      "path": "_news/2022-11-08-insta360-dual-sensor-camera-uses-ai-to-make-video-editing-easy.md",
+      "title": "Insta360 dual-sensor camera uses AI to make video editing easy",
+      "excerpt": "In the continuing development of the One RS modular platform, Insta360 launched a variation with two big Leica lenses designed to provide enhanced 360 images.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/",
+      "webUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
+      "originalUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/2022-11-07-12_23_25-Greenshot.png?w=1920",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://www.zdnet.com/a/img/resize/ce6ff9233ffc2fbed9d9d5d3af544024a96ce99b/2022/11/07/da7d89aa-1136-474b-a672-1cc531874ee9/one-rs-1-inch-360-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/amp/",
-      "publishedDateTime": "2022-11-08T00:01:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
+      "publishedDateTime": "2022-11-08T06:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,50 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-why-you-should-consider-using-ai-in-your-network-security-strategy.md",
+      "title": "Why You Should Consider Using AI In Your Network Security Strategy",
+      "excerpt": "Artificial intelligence (AI) makes for a splashy headline, but how often does it get implemented effectively? The results of one study note that only one in 10 companies report significant ROI from using AI in their processes. The report goes on to expand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/why-you-should-consider-using-ai-in-your-network-security-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/why-you-should-consider-using-ai-in-your-network-security-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
-        "AI Ethics"
+        "AI in Security"
       ]
     },
     {
@@ -105,7 +155,7 @@
       "originalUrl": "https://www.cnet.com/tech/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -146,6 +196,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-the-pursuit-of-ai-education-past-present-and-future.md",
+      "title": "The pursuit of AI education - past, present, and future",
+      "excerpt": "Meet Sylvia Christie, our education partnerships manager who’s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
+      "originalUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Education"
       ]
     },
     {
@@ -408,7 +502,7 @@
       "originalUrl": "https://www.cnbc.com/2022/11/07/anchain-ai-cnbc-top-startups-for-the-enterprise.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -788,7 +882,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-software-market-share-2023-swot-analysis-size-sales-growth-demand-supply-and-forecast-to-2029-2022-11-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -945,7 +1039,7 @@
       "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -997,7 +1091,7 @@
       "originalUrl": "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1127,100 +1221,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-how-ai-can-help-the-public-health-sector-face-future-crises.md",
-      "title": "How AI can help the public health sector face future crises",
-      "excerpt": "AI and ML identify disease and conditions in near real time. They could soon enable population-wide disease reduction and healthcare equity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
-      "originalUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/",
-      "publishedDateTime": "2022-11-04T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-uta-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.md",
-      "title": "UTA researcher aims to develop assistive robots to help people with spinal cord injuries",
-      "excerpt": "A University of Texas at Arlington computer science researcher is developing a robotic system that helps people with spinal cord injuries perform everyday tasks, and she's involving members of the UTA Movin' Mavs wheelchair basketball team in the effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Disability-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221104/UTA-researcher-aims-to-develop-assistive-robots-to-help-people-with-spinal-cord-injuries.aspx",
-      "publishedDateTime": "2022-11-04T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-29-amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs.md",
+      "title": "Amazon's household robot Astro can now recognize your cats and dogs",
+      "excerpt": "Now Amazon's friendly house robot Astro will bring checking in on your pets to a whole new level. Amazon announced today that the Astro will soon be able to detect cats and dogs in the home. The pet recognition will allow the robot to,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/374d54dc3923c98af0cea39805fd86bf0edad6bf/2022/09/28/31ede2b8-bbf6-46b3-ba51-9f6a9032a60c/screen-shot-2022-09-28-at-12-39-13-pm.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "publishedDateTime": "2022-09-28T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-amazon-wants-to-cocoon-you-with-ambient-intelligence.md",
       "title": "Amazon Wants to Cocoon You With ‘Ambient Intelligence’",
       "excerpt": "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life.",
@@ -1353,58 +1406,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-trimble-sets-new-standard-for-robotic-total-station-scalability.md",
-      "title": "Trimble Sets New Standard for Robotic Total Station Scalability",
-      "excerpt": "20, 2022 /PRNewswire/ -- Trimble (NASDAQ: TRMB) introduced today the latest addition to its portfolio of innovative robotic total stations ... users can control and automate their workflow ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/trimble-sets-new-standard-for-robotic-total-station-scalability-1031752906",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/trimble-sets-new-standard-for-robotic-total-station-scalability-1031752906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1902812/Trimble_Ri_Total_Station.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

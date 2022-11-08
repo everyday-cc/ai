@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
+    excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"
+    publishedDateTime: 2022-11-08T12:34:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-to-pump-more-funds-into-openai-what-will-be-the-implications/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
   - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
     excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
     publishedDateTime: 2022-11-05T18:25:00Z
@@ -48,6 +57,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 27
+  - title: "Insight Achieves All Microsoft Solutions Partner Designations"
+    excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."
+    publishedDateTime: 2022-11-08T16:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/08/9708649.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "cRO4SZqyZvQSFXDSWBrHpOD92gFymg2gfxzUB1XhQsUoWC5dvRl6FPixhtNYBNsRS7PpDpAO5YEFchz8LzO2xvOPXIpxV0l3U17dm1N4abq6z2Ql6tSXFfDsKf8kQXxSC31bF8k83WBiR2hPSAOtTAzKMK2MYL6a81LwZohFSFpxoIsh9xesttnLH3o0To35k6bAuxGZltwOZI1E3HuZvKitiSsxbZsvISHY/OW/65f+x2M+ARjm+a+dGJhgmEh1X3qz9k0+XYweIkX/MHVUS1u4ghZx885tLTmwqoHCu8ieQUx8mOi0fR9EiANi3gXNkaL7L12aqPM6SEprhkE4uknaWld/sCXkpmO2wMAXXILx9veeRS9vaYwQlqg0Jw2AwlpuFAsqyqpyE+rEa9FuqEhisipiArdyZUDzBoYHjGtZs7DWOsOnjIcltGcbzhaoec/6s6LPaYXdAnPfdEpfFO80LQLiKK4vvE4+8UJ/NF9DeHJr4tuwKCi60MFNlqV/hxXXlROazBwcC8DtIWKZ/w==;ibrEJglr8EZ5xiBJKe5XXw=="
 ---

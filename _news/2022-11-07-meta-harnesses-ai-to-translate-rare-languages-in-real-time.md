@@ -28,7 +28,16 @@ related:
     provider:
       name: The Buffalo News
       domain: buffalonews.com
-    quality: 21
+    quality: 23
+  - title: "Study assesses the quality of AI literary translations by comparing them with human translations"
+    excerpt: "Recent advancements in the field of machine learning (ML) have greatly improved the quality of automatic translation tools. At present, these tools are primarily used to translate basic sentences, as well as short texts or unofficial documents."
+    publishedDateTime: 2022-11-08T14:31:00Z
+    webUrl: "https://techxplore.com/news/2022-11-quality-ai-literary-human.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 6
 
 secured: "yypHfRQy0iFZdaCHWfLNkdU9QFCaQatUnA9TDTNnguree6kKfAvYyQeqQnNn3wTh9UJvdnXDKjcJ0ght5Hs7k1r7uP0DKyO+tW8BPRop0qYW7LHYf1YJT/PglMt3VZCetuUd4kOwEpwRGGmAziXKp1d42kXbsrzFYCQxpG9SPxRuozW+fE5yi9hy6EHaxQIe8Wk/jIJc/MBiV/WwySo/VonBZLJLw5tM9H/Ynm9Q7NGd08swlGN8gRjXISuFVd1VLY6/oeSfTwvoGikchMW81KOrtmQFMdPjS1qVjzbQvqTmBoljmIAsU6a1bUqFh2JFifXptRCKGc0lELkdU+p0D8LnHg0KW1XDWYdEA3/JVDnmfGzBYrofZoby83FtZxiXdM6AJ7l3kmAijttLeLeyDJf1BHqXOL4LRCMrd0UmZg7eY9ueaZZGthEsBildMd4ZnCh+x0BArtVzPGUGNx4abYXOd/9hlHVrsoayHZTDdwZJ48Oh7vAYx/c+V/Tn7Cnse8vmr1uwSXPpOnzWUKL6ug==;rhFu1N8DK7wVsiuh4CXx4w=="
 ---

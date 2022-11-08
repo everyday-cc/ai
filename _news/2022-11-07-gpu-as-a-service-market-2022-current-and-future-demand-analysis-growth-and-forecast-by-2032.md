@@ -84,6 +84,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "Face Recognition Technology Market Share 2022: Top Companies, Industry Current Trends, Application, Growth, Development, and Forecast to 2028"
+    excerpt: "Face Recognition Technology Market”research report provides an in-depth analysis that is segmented on the basis"
+    publishedDateTime: 2022-11-07T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-2022-top-companies-industry-current-trends-application-growth-development-and-forecast-to-2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
   - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
     excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
     publishedDateTime: 2022-11-07T07:05:00Z
