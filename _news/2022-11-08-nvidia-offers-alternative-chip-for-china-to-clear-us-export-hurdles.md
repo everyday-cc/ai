@@ -61,6 +61,50 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech war: Nvidia offers new GPU chip tailored for Chinese market as it vows to comply with US export regulations"
+    excerpt: "Nvidia’s new A800 graphic processing unit (GPU) is an alternative to its A100 chip that the US government has barred from sale to Chinese clients without approval."
+    publishedDateTime: 2022-11-08T04:25:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3198820/tech-war-nvidia-offers-new-gpu-chip-tailored-chinese-market-it-vows-comply-us-export-regulations?module=live&pgtype=homepage"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/08/be719a11-6816-4e86-8626-1dca4bdfe824_dfe5d3b0.jpg?itok=lSXweOfR&v=1667879239"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China slows down its processors, Nvidia unveils less-powerful chip to comply with US sanctions"
+    excerpt: "As per the Financial Times, some Chinese fabless chipmakers, including Alibaba and Biren, have poured millions of dollars into creating blueprints for advanced processors destined for"
+    publishedDateTime: 2022-11-08T10:14:00Z
+    webUrl: "https://www.techspot.com/news/96587-china-slows-down-processors-nvidia-unveils-less-powerful.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 57
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-19-image-8.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Nvidia Plans New Graphics-Processing Chip for China to Meet U.S. Export Rules"
+    excerpt: "Nvidia says the A800 chip meets the U.S. government's rules, with limitations that would hamper its use in areas such as AI models or supercomputers."
+    publishedDateTime: 2022-11-08T09:41:00Z
+    webUrl: "https://www.barrons.com/articles/nvdia-chip-china-export-rules-51667900458"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvdia-chip-china-export-rules-51667900458"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvdia-chip-china-export-rules-51667900458"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 56
+    images:
+      - url: "https://images.barrons.com/im-536383/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia shipping replacement GPU to China after US ban"
     excerpt: "Nvidia is shipping a slowed-down version of its A100 GPU to China . Called the A800, Nvidia started producing it in Q3 after the US government put a limit"
     publishedDateTime: 2022-11-08T06:30:00Z
@@ -90,6 +134,6 @@ related:
         height: 573
         isCached: true
 
-secured: "pkNn7NaY+J96hi1cZBG7IlAtuQf1+VG57amBAUFCtfIOniPrU6afnPyTMLeWsOv/Igu1uuwZymVtpGSznUjJw/vxmqomHYixZAfOO6EcyjbbNtoFBxp2EmY3k5KFUkd0eed4fb1H9yKn3/uT3xg1GcQgd1PIlzjcgWTSa4YrxwlfU8kgGyIqT84JFkt9scmrpGq1DRl6RAwKttfU3AcUDrF4EVWPtpGfThyfsNd7+DvaCWtlKzFSf/XGeMZ4rO1V9ug7BAMLlrzWYAYof9Qh+xQZBzg/0JR6sNDVr8mmHQGdX5NUL0+1qemterjbLbWWDS10ikqm2UEojd50KANA8aUICYUsPIBlvOU9UpprNEI=;oKClAk5mWvLrT2fU7nvdnA=="
+secured: "d541YFpKXvWVT7sgL1exYFlquSQrWEzCKX725C7BT6hhGDS5LQFPyT1xS8tAc3wxwgy+KH5zu/ETKcOsagWL0JixqtFWLYaCpUEHEWLt/HbcHKDzBvpt8Sy5YzVk2URkfDBXR2EnrEhxkJnqOHDvUbau0rtL3c9MZlpWFCpG1fUA4XyAc9ofi8/7JvWuTCuwUIc2vpgU9RHwXfCEWDLTIh0b5ouusWoRlXNc243KSB96CAN1QIGBHsWTV1c8Tz6VWRAwY3rLpBsySuNHXerO3KNTZEv9FC1+5MV0ktczg4AyNisT2NiWP51SC9zBewcvj6PHLtQ3Yu2GA9WfqYEgZAnNq1EmSpSHmlWU6EwVwNVPrTslKT0w8gQ8duWEGtNB3gzZzsNHHRz2S+MP3+FUrbQg0xkYkONzGCaTJrI+SLkpie1b2FkmSznI8kwlcKf94OUf7eb0SswXQv+THCWORl28pfcPNHOhbcepZ6vMXXTPIlaYP97v1LixLyTc4QT6lJYaIq+fOV6gS0Mn1iDWZA==;gwhmpqwKiMZq9UOf5EKuoA=="
 ---
 

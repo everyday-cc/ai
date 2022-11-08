@@ -6,9 +6,9 @@ publishedDateTime: 2022-11-04T06:41:00Z
 originalUrl: "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement"
 webUrl: "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Our Future Artificial Intelligence Overlords Need a Resistance Movement"
@@ -37,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "eOZMNxAD0pZM8nkiVs9HLYe3N6R+QyCLwdM6NYM9Z2dFi8QU7qaUYRztoUUnOnVdUACRyMlgshAPJO8nB7T/iAZbVZs9ptZOjg5ex4fdTnZRYa3YU2GKc4Usi3MscTN+9dejxMAX6/TJJSqU+KWXJt2v5eWIKSxF5z9kxGUSLT8wE4RDFgyEsXEYZpfI5+HMF9bHzJOno5cipmbeX5V6AaenNmlGP8qxp5GkrM8lMSJT8IJMagfYd5wtwBPyGCKfNJ+NjMVIRMaHDvKSTkUgxVkTDJ3FIqqVMwzo01k0Le3nesgsW52km7WS3bEWJHmkk7XLjn4gXJGZIcdKUm/eCYkSmCVmO9afRY0bb1wSWo8tHStj0tqCRqsNmS/1nFoMakFsITmNfw2WGEzrIqbWCOiVZTVT+Tgv0RWJpci71ljsFhZvHyBF7jLehBDTjzgIxwcQBI4k8/yI5al9fyp9yFoPHDwoDOI3PUb3eT/EWKt3+LodjjuaXsofx00Qt9NeCpAV4Kvu8vcyIU/pFNXqPQ==;FaUiyNJ12JAhb+d/Qjun7g=="
+secured: "HTO6WenhrSmIpD7EionZd+2W3D1yqNIl9wSEtTVGhByG+NWsDeuGUuWBUFpV4HtKfA/hjJ/99xyOz/ggkfu0VB7i3Ac+rD25mlqjmOXyJZaOhpXwjQ7HCT1J2eEDLtrsupYUDGBY8nfm+5gF0U3UDhmcqbhVTt6eL0NXop922Hx0/meOz70LElrM3czYsl0STPNFDqp65h6xTS0nHwPE7GyYxglfYhqhwhvNHz56Skj0dHwBekB3yjp4lxPixYYkQrxfgQJEZfoWSBpudRKpbXMw++/REoN1bT0s63l+L2IugN+pzAmps4wxV9aquekWVf2dB/cT3Rzil7XqoSFu2DmokjMUlfm32Mt4DtF5Ouo=;Md48+L8iHsAj1+UMSic7zA=="
 ---
 

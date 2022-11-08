@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based-pa
 ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-based-patients-acute-kidney.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-based-patients-acute-kidney.amp"
 type: article
-quality: 51
-heat: 71
+quality: 53
+heat: 73
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/kidney-1.jpg"

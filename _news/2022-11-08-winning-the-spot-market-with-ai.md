@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/36054-winning-the-spot-m
 webUrl: "https://www.supplychainbrain.com/articles/36054-winning-the-spot-market-with-ai"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 849
     height: 635
     isCached: true
-
-related:
-  - title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
-    excerpt: "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology."
-    publishedDateTime: 2022-11-03T17:34:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221102164140.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 65
 
 secured: "e5bn4z44P9sUw7e/bA14hG6ukKFdwhcomqe31DWnjgPsBDqiyA1KthEfF/ndpEnt+t9a9ETfdwfhqFj2rwdFe5Vulgr2qGyGEMvjolim4r0WLCvTA3z6n4USgUudRrM3dHzAqHJ80Q6hm4tMnJWLo1Msb6tf00beQVU7/F1U+1cr17r9TidNWJ7tGwr5XskcIDS8mK/l7EhI6ePeqaIp3i4QBB8iq6lrEidWRDzcpA5CCA80lm49jIGW7qefG3PXxhPKrVA3WvA7mWfji6RMfSfupp9vSrBgufvfJ4mUqq3If73sz9YtOYimq3TlTtXmBV0UNWbV3usfagVzuKAi6ouh5JJrkfeEvgJ1orE4JnHAzQ73DPX31IcSMUlPqWLza8b1wlQFnvi8akwd2dEXPuz6ZtJxwET2OtoQPfBpFNw5eK5NG1Zquirf26ohAnEn5J/jqYUFGokjNcB7Z6fDidPLn01009GwlM/zthdVYimtnw+632xrl2EBkjBjEmKwf5O6qMlbpwKjG8rIapkh9Q==;ssP1fsp7EeulNgI9DnEDAg=="
 ---

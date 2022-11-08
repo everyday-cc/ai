@@ -39,7 +39,23 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Israel to test self-driving public bus systems in two-year national pilot"
+    excerpt: "Israel is set to pilot self-driving public buses for the next two years in a bid to ease the country’s notorious traffic congestion and improve services to encourage use of public transportation. The Israel Innovation Authority (IIA) said Sunday that ..."
+    publishedDateTime: 2022-11-08T09:00:00Z
+    webUrl: "https://www.timesofisrael.com/israel-to-test-self-driving-public-bus-systems-in-two-year-national-pilot/"
+    ampWebUrl: "https://www.timesofisrael.com/israel-to-test-self-driving-public-bus-systems-in-two-year-national-pilot/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israel-to-test-self-driving-public-bus-systems-in-two-year-national-pilot/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 43
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2022/11/adastecbus-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
 
-secured: "20LdJxTVN/4epa+i4YTTPbGiYu7D0XJXMEU9d1JVZqk3/t2JHdR9fpX2T68xaoPoxTZ/qqEKZxRCIZKYL1DNQsgIFPvtlnN+eA60OYlbIqP2TzG/rszjsVsxjYzWpUhMFZ+iNdFtcYhraWnehC8jXGkXWCPhl34lyBXw6JDdMz1+9nl6FoSawXxxwCK6cTNYWitoVNajkc7+sbwrHL2RoEotJ2eaeTUgqZERC00MFvWVrnFF8AuiteA3V5LAtu5vyzHyppLWWNHYQ8tHYv6hXtek3VKUdYdOK9Hg48aEN2w0peW2Gd5mi1xld8QCOQ2CQ8e9AJWlq62xzlmTi2Rav92+EuV9WYkD4e3yfKmQikU=;6iPY9mydJRhgIq8ohxpdmQ=="
+secured: "CehC2553TTL3/RvCedNLBW2MUxMhDZoMUzvIwsoJbI9eToaZ/s9ELvksTNiYYQUksrEd3yYtodm4VwQ/qqBlbb6MHRBYW9xvmOFkaOaNfqtCKeZTiEcKDqfMvhrDRIg1SpSfj+gQZqsMQT3l2VAKEGbdEeLy/xau95ttvha3doCVhkijakHDKoMaWkK+qftxlDYIu/KNuAyIrq59vEZVUg3eBgEMaLypQ2vayoTxF9SKjTI5BFMIbTJAwPNBQHtZutu8uv6R25XHDqVRpYmiUSNDRw13ZV3wl8F9J3FZoMopriC5XNRGAa4EAxIJwkYTWvx666AMnK0Y38onM3exHp3VoAaL07z99xRJMXtJvcRwZk5jKch6hbtVC+Za0lc9POdGb36Y3umh2ndWSam7duLh36mc18nJVaUZhpgVU8ed5nkhOrYt/JsZaZYAKobvGEFdXz73eD1boXZOGUoPpwDhUnDR/2j8MeUUSIuB0XcfoKSSIiuygWgqdjuDIvy/Hd28RSOxBxqy+WUN5tUZHA==;OYd7y/CqavFN+boeIxteyw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/"
 type: article
 quality: 89
-heat: 129
+heat: 159
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech war: Nvidia offers new GPU chip tailored for Chinese market as it vows to comply with US export regulations"
+    excerpt: "Nvidia’s new A800 graphic processing unit (GPU) is an alternative to its A100 chip that the US government has barred from sale to Chinese clients without approval."
+    publishedDateTime: 2022-11-08T04:25:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3198820/tech-war-nvidia-offers-new-gpu-chip-tailored-chinese-market-it-vows-comply-us-export-regulations?module=live&pgtype=homepage"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/08/be719a11-6816-4e86-8626-1dca4bdfe824_dfe5d3b0.jpg?itok=lSXweOfR&v=1667879239"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia Offers Alternative Chip for China to Clear U.S. Export Hurdles"
     excerpt: "The new graphics-processing chip, branded the A800, replaces the A100, a chip widely used in servers and AI applications by Alibaba, Tencent and Baidu."
     publishedDateTime: 2022-11-08T06:15:00Z
@@ -58,6 +72,36 @@ related:
     quality: 69
     images:
       - url: "https://images.wsj.net/im-660770/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "China slows down its processors, Nvidia unveils less-powerful chip to comply with US sanctions"
+    excerpt: "As per the Financial Times, some Chinese fabless chipmakers, including Alibaba and Biren, have poured millions of dollars into creating blueprints for advanced processors destined for"
+    publishedDateTime: 2022-11-08T10:14:00Z
+    webUrl: "https://www.techspot.com/news/96587-china-slows-down-processors-nvidia-unveils-less-powerful.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 57
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-19-image-8.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Nvidia Plans New Graphics-Processing Chip for China to Meet U.S. Export Rules"
+    excerpt: "Nvidia says the A800 chip meets the U.S. government's rules, with limitations that would hamper its use in areas such as AI models or supercomputers."
+    publishedDateTime: 2022-11-08T09:41:00Z
+    webUrl: "https://www.barrons.com/articles/nvdia-chip-china-export-rules-51667900458"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvdia-chip-china-export-rules-51667900458"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvdia-chip-china-export-rules-51667900458"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 56
+    images:
+      - url: "https://images.barrons.com/im-536383/social"
         width: 1280
         height: 640
         isCached: true

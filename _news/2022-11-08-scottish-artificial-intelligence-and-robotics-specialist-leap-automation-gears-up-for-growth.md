@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Scottish artificial intelligence and robotics specialist Leap Automation gears up for growth"
-excerpt: "A business which specialises in artificial-intelligence-enabled robotics is aiming to double its workforce following a fundraising."
-publishedDateTime: 2022-11-08T04:59:00Z
-originalUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/"
-webUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/"
+excerpt: "AN Aberdeen business which specialises in artificial-intelligence-enabled robotics for food companies is aiming to double its workforce following a fundraising. Leap Automation, founded in 2018 by Ben Bamford and Ben Stuart, said it had recently received a ..."
+publishedDateTime: 2022-11-08T07:53:00Z
+originalUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/?ref=rss"
+webUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/?ref=rss"
 type: article
 quality: 58
 heat: 58
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "1kO0imdigG1ZYXx6/TA/XmrikJ7qgs11e649QFaJYkh3+2DD/39ZzjGzSd0tfvRDOCtbcZhBygmBUuzM6ryd458lG+/OVFdhdkY7N/f56L1GY2nB6+6/9OQ3bICDcCypc8AxDJrhS1Tlx5fp00Q4ADgD+h7wsn6W878uXXzxsINi2mXMWaKcKzdUu7qJt63gkw2LEMoQARAKp/m910jYZtKuo0RyF2+IhZBSMU4bb1nVMd/qcBEdFVFET5NHltVYAFblPD+WDDHwFD5OvDlc/R/TzmHETfk45+BnhJIRxqLSfL3nRPZtFdLWbP2e7RB0EW99ocE6/iiXqPkazgLEdDMxtF++uOMUZSMp0RTh5fM=;IFVZBITir+Rz7xlVq7szsQ=="
+secured: "sai50lBPnmQ5eI83GMr4F8clPM55m4899sjoUk1GnTrJK8MGF0axM4J/pTwU4Umiu3OOYBTr+GzzOB1YUmsE+6CdfzfUFv7QEDFFmVD081oVV6n21WjjEBSoVXDDGnzR6ijphrshLuuzrUyn+1aeBoxSWfa9/b/SnAySN//L4KNp2oPhDJZQfFs/JQMaD85i1JMLayacDj00WI5fq7oAFPSSHIMJeBjI33b9eo004WxqIzMXtH2TA161nHprXzA5dN5jQDzn8WDLkjrnuurVOBk0EdlF9Muc1tYv9m/tn13t4/PhyFfafIIFlzH2bLDGP0B4d9Du/pKf4Os5TrLHe4Fs1YQb4jS/+SvnkkU4iog=;HVaFbTe4Up9GsocPWGTU6w=="
 ---
 

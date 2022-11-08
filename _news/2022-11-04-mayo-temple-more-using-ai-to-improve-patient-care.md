@@ -29,7 +29,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/kidney-1.jpg"
         width: 1920

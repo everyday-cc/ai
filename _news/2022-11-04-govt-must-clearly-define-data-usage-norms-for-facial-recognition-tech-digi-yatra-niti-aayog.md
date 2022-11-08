@@ -43,6 +43,20 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "What are the risks and challenges posed by facial recognition technology: NITI Aayog"
+    excerpt: "Biased training models, lack of algorithmic transparency, absence of a grievance redressal system, inadequate privacy protections, and challenges to the right to privacy as guaranteed by the Puttaswamy judgement are some of the risks and challenges posed by facial recognition technology (FRT),"
+    publishedDateTime: 2022-11-08T09:40:00Z
+    webUrl: "https://www.medianama.com/2022/11/223-risks-challenges-frt-niti-aayog/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 32
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2022/11/florian-olivo-p9f6sjMglRE-unsplash.jpg"
+        width: 1600
+        height: 1040
+        isCached: true
 
 secured: "Uk211MpmMypdXntS6fE27fyFvuvcCrSVwpNlNMOaNjPmGPcMoFbBBRqW6Od85+AelXySHehflLufDm1guboqVxH9D1jZh6h5Uq/lcs6l5tfhgvkgmoAbF67AKxRwG5T24JAVFaVr+OG9ayP7Fvihm2gSZxD9V1fL2K+LV9G5gwIzinI1k1uw9dZzKklRfqqXm2Xlb4kBY/5my0qo3mCzIT4qyB9vMiBb1wsTheVpPiBWiVDLbfp5jGNL45LCyaWPxrbQ3rcW7KqIjSDqLyJGMeYV4BW5hwkBfF03l5bOeueq+TORBAvPXdSt8CSIUs5npOSSCTDb1vwOetjAtwSjESEkCwUuEbu+X1bDJRV02XU2d76ecNPQNv27FnY7rCwGhUUbHaoR58vO+VgPOFNa7qem3WFGsYXgEHvKfhEPtfu1uwVncmVLsVdvWdGpGOySokTFPQBsK6HUX3PH/rp/93X7bjqmns6mquBLLOjEqLna6gGGG/qpz2XCuoVp6fbWPVUIfCRzvDKwTKIFIC3dWw==;oSyqO+toCDhEnrx0OS8yJQ=="
 ---

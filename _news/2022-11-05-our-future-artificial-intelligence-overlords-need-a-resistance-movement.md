@@ -32,7 +32,12 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 47
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "6cLs0KJIdPo7f62w07p4l//kcboztXKn2Zrd6XEtQQrqhwi+emhUdKtJH1L6vIjucPSL/3dINSsLu3SlJZrOBYtVlPQUP7vAaK0rlktMBErPlWaHMV5LrQlSaw3Udp6br3Nr23hXcfetk07QZ3D1hayZWALdsfCMdjgj9+l4eW+iu+pusgmNfWMevLVJAD0uqI+8E/BJvSkbFyzyIL7x7goNqYeX7VN9BGJEiJSCpNMaJ3erZpsO3OrbEkNJjQA3L2oCAyQQDitO8whev7RIMmdgfg282SnGoE59ysI0oEJARMX4+r0Wyeqdr2Pg5Vncd4+jRKgWWfbmAk0yFyqKFAT/MU7qYvBxygpUHUxCCDemsrLFptCdWXlMOw119Vk7rsKif0X04OPiwcbEQtkIEe+yNV6WKaU6kxS7McGdCKMKcsnSUNOU3pEJzwYEul3MqJzq/cENRj3I8VffOgWCRqTHA7idu5QjysmsVdiX7RVPY1dlbPDPmFd/wohWrIpPrhBpimGMSA+p1pIxnnJ0eA==;EsD7y4Xh+LKOkUsTjuKUOg=="
 ---

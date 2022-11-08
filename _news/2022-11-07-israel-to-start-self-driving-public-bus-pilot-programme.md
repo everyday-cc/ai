@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/world/middle-east/israel-start-self-drivin
 webUrl: "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reuters
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israel to test self-driving public bus systems in two-year national pilot"
+    excerpt: "Israel is set to pilot self-driving public buses for the next two years in a bid to ease the country’s notorious traffic congestion and improve services to encourage use of public transportation. The Israel Innovation Authority (IIA) said Sunday that ..."
+    publishedDateTime: 2022-11-08T09:00:00Z
+    webUrl: "https://www.timesofisrael.com/israel-to-test-self-driving-public-bus-systems-in-two-year-national-pilot/"
+    ampWebUrl: "https://www.timesofisrael.com/israel-to-test-self-driving-public-bus-systems-in-two-year-national-pilot/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israel-to-test-self-driving-public-bus-systems-in-two-year-national-pilot/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 43
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2022/11/adastecbus-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Israel to start self-driving public bus pilot program"
     excerpt: "Israel has launched a two-year pilot program in which four companies will operate self-driving public buses to ease road congestion, the country's Innovation Authority said. The authority, along with the Transportation Ministry and Ayalon Highways,"
     publishedDateTime: 2022-11-08T07:16:00Z

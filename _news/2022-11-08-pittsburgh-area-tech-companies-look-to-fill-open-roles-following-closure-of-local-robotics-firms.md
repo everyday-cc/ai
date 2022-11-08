@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-lo
 cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Men still dominate robotics, but new Pittsburgh group hopes to promote more gender diversity"
+    excerpt: "The Pittsburgh Robotics Network is seeking volunteers to form a local Women in Robotics chapter. It will be part of a global organization for women, non-binary people, and allies who work in industry and academia."
+    publishedDateTime: 2022-11-08T10:35:00Z
+    webUrl: "https://www.wesa.fm/identity-community/2022-11-08/men-still-dominate-robotics-but-new-pittsburgh-group-hopes-to-promote-more-gender-diversity"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 43
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/11b2fc8/2147483647/strip/true/crop/5184x2722+0+444/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fe5%2Faecc9c754606bb5e6521159a5246%2Fap594411673327.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms"
     excerpt: "The desire for high-skilled talent in robotics — and more broadly in tech — remains strong throughout the region despite the recent shuttering of two prominent robotics startups. Here's who's hiring for these roles right now."
     publishedDateTime: 2022-11-04T19:55:00Z
