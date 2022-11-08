@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Amazon to boost Thailand cloud infrastructure with $5 bln investment"
-excerpt: "AWS' cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup a ..."
-publishedDateTime: 2022-10-18T08:48:00Z
-originalUrl: "https://www.reuters.com/technology/amazon-boost-thailand-cloud-infrastructure-with-5-bln-investment-2022-10-18/"
-webUrl: "https://www.reuters.com/technology/amazon-boost-thailand-cloud-infrastructure-with-5-bln-investment-2022-10-18/"
+excerpt: "Amazon Web Services (AWS),the cloud computing division of Amazon.com Inc, said on Monday it plans to invest $5 billion in Thailand over the next 15 years to strengthen its infrastructure in the ..."
+publishedDateTime: 2022-10-18T05:39:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment"
+webUrl: "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/-9DM3UZKCPCYlpxnId5Er4ozcO8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HG4XHL775RNVDI7ICB3KV3IY3I.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "4Mqp951++jIVmDD0S1WPyY44h+O4yVgtbI7xPSP5lGh0+hpD0WaV+pD1ynSF2aYjwYui1Kl4wNSyrzbFbkfqT6/mkVklGy1lRXPO7QfZyy0CLHBRKpv4wiKiCAS1YEl/C1cWmAU9FFIkw4GyNRneFjC3YlvKyG1KPPh/Y5buxdQZhr25jPI1W06Pg2vLEScvNRAr5FgPn42o8lpzimV6Rwb4wb9LT/NmQsLUa8ZXHHKgzIBKReISa38WQHqpazpt4VsBiBdmqBybEsXKJ3kXxu2OsyPXrRQCQqNX5hxGMkA616q/PiBION8rQVsRG+WlxO0VCuPujwvBCa3jIBLRIYEISObpZSeKKukGCuEkUE8=;udNA2SktC8ga7KJW/2UR3Q=="
+secured: "Ju4C7f+guY+1png7K1gDI4x55Xa90lu5nYiSSZh9tsZ0Ua/MYDnrfkZC/ueG88klf94ewx0PDvQSsixaSvcgXPI3JflIITboovBbIDm7tYpwi8q+s4g+SI/NYbHtF3tQbjenCW1PL2VBkOkdqVQVPrUBbuhs6I5CHuzjvOyjHFmzDmC+IhDS6ma7fS4xelv+47UlYavjHelSsTyguKEuY1bDYudxbA/UFxjzQFItbafbeAm0PtlOlg4NGXcdzXh9kFWkqf6FNpQZL7P1eaFsc6ffnZlb/UQQo2U+P9f1uJVt+VqeB5kDalPjHq63GbrmYBV1IVc40cz8gEtzM7dm9LUVAUwfxC4YNDlO8Yx+CLU=;m1delkNIkNqXPUr2rdiQ4A=="
 ---
 

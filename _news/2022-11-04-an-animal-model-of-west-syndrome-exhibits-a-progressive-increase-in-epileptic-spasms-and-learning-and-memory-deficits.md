@@ -1,23 +1,27 @@
 ---
 category: news
 title: "An animal model of West syndrome exhibits a progressive increase in epileptic spasms and learning and memory deficits"
-excerpt: "West syndrome, the most prevalent type of syndromic epileptic encephalopathy affecting infants, is a devastating and often fatal condition. It is characterized by a triad of symptoms—seizures/spasms,"
-publishedDateTime: 2022-11-03T20:24:00Z
-originalUrl: "https://medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.html"
-webUrl: "https://medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.html"
+excerpt: "Researchers have provided the first demonstration of a progressive increase in epileptic spasms along with learning and memory deficits in an animal model of this disorder."
+publishedDateTime: 2022-11-03T21:46:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/11/221103140808.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/11/221103140808.htm"
 type: article
-quality: 0
-heat: 0
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ODWU+PnfEzn72yj/bhd1D8DlOYgOWg8w16ssVMyCeMcgRaDcypG+Pdn3KYhOjI4eC3VdQ+qZXxVtBx1xz1rlZLR4XgBcFPg7UX/S/vkrrcwkmAFe5JssDv1PYt6kXkwFqgUCkNM5AQyKzYaeRwuKP8ozw+hN2cDp2Tyyk416TEayv5amxtCVHqeWGRmOCCGrmmoa4O0hL666dmD4ObvBMfGEeFBwL6NLIvLW8PhTOU6W6DgOsWhGfeN3h19r0pVLes12EwI/cbphNuMGXLNhKX5+G1iAi2N/Bfk9WPchfXi9aXd0oiIRSQGzhUI04Dm5Ju+AwU07WBdc6fks2AyyZZj94YdcH+SSa5dwhb5tA3tUFVMt7P0u0DkXesCwyWWCWm/JAU4t1CVyYPJrVudZvS84VjiOk+i4aowEljYQPXrto940FoQYJUdzI7g7LZGfO9gQs1L0pNwxACJmWHxPJI79abBEIPYNHprH4HJxNkUq2LgohEaWTzXLUqIwZY6j61PtP95W+PYJWIsRZgSqLw==;1MqH+V9DpswfD0jOA1SlZQ=="
+secured: "rIwnzHf07Cc1M0TTgTPqzFki3huu6Fv+D5j/H+pfKcqgpd2VwTCbkhiBz5sUyd1YsydJNZCfKED7kGEt3zkjqRqT2ibPnoDHalo5xApP0v219521JLR1+EiTs3SG3QO1+khkXM5zBefDHY8UZrf5bazH6AMLj5qHYoIND2pG2bjUlNPL02c1DL5igtHa04UvLiskaLMSXQJvwtR3sGC4GpdWMa8MHh+Z5MiKgKfdZGlwlEzKXLHvnN5NLmn3bWvCeL1ZgWhloVLfNX3smxXOBAZG0IdIYNbFct9H52lsGPJ4XZEj7htOO7SnznSGXpB7zMMBPdRAF/kKN6DxWJhaibfrkt9tw9Zvabgl3ZwuZ7U=;06KtoU2XoZGpLYkbkjplOg=="
 ---
 

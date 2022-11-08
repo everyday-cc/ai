@@ -1,28 +1,23 @@
 ---
 category: news
 title: "New demonstration and transfer center at TU Dresden facilitates SMEs' entry into artificial intelligence"
-excerpt: "New demonstration and transfer center ... Artificial intelligence (AI) can be used to optimize processes and tap considerable potential in the production and manufacturing industry. However, how do small and medium-sized enterprises (SMEs) in particular get started with suitable AI applications?"
-publishedDateTime: 2022-11-07T14:21:00Z
-originalUrl: "https://idw-online.de/de/news804231"
-webUrl: "https://idw-online.de/de/news804231"
+excerpt: "Artificial intelligence (AI) can be used to optimize processes and tap considerable potential in the production and manufacturing industry. However, how do small and medium-sized enterprises (SMEs) in particular get started with suitable AI applications?"
+publishedDateTime: 2022-11-07T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/970402"
+webUrl: "https://www.eurekalert.org/news-releases/970402"
 type: article
-quality: 20
-heat: 20
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
+  - AI in Robotics
 
-images:
-  - url: "https://files.idw-online.de/corona_idw.png"
-    width: 615
-    height: 284
-    isCached: true
-
-secured: "kS8itdak6LyE8xioqBiQV8hcNGLCYhuzQyfPeIuh5cLT//m342UozKJsMNo5oFgYtCgK1PbqQ3uyYRUllkKMukmdIUzYZuXFqqCq2P2yX3L8I0WDOFjMcUq/MlE38ChAv/7nhyZffesAAHhDxlZzBRZxy9N/Q/i9tsQMAkwAte/+0kw59yWVEj3XLnQAwhscLdUtnralTVhiPPaBSn09GT9Q2rXG1pI7IocxEOtDeXqqk6FqK+8HXYn42FDgGnbhqPJ7vaLjU95nYrKtUWEAYwKly+4yXZnoRRUIlHax4y7ZTJAMiRo4RYQG2eSf57ut0RhQOtS0PpXeAb3MQSKuyFDvKE/M80bas4/Q3+kzm/E=;cPFmkJpv4JVWi2L/C8Lugw=="
+secured: "zFnHYy0JRnCLysn/IBwBzilFe+lRi6S37+M5x6logWkrss9Y15yxuGNwdcmvc9nHoW318LkyRXimMwrCrkqAblvdw3e0Ajx1s3N/uLWoKamtdkV0b0afKjv+xkg/bTtJsoUXst1wgV8/5uBZXv6fLT0QauBnjfGogsGTUSHMs/C/fSviLRGF1GS0Tg1mwF4wyDW160NWAnfSK8uAQYK0IeqKz8sNcEJvC+B7D5C3NrXX5/QE0prdnnAjesvPm9VfMkDxV5R9tj44JkXTXMd6OAeCfuMunw4yO11Pt5pPFHvMlqJdhPrHSasqrMk9TVmr4C/0sICYXn/tPosGA0J9Ipk1Md917kMQCbwmTKgxSos=;wAbk6PgqT00MebnvxmK/jQ=="
 ---
 

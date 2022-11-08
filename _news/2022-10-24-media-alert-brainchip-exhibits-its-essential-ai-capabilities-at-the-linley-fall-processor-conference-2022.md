@@ -1,48 +1,30 @@
 ---
 category: news
 title: "Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / October 23, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announce"
+excerpt: "As part of the presentation, Mankar will demonstrate how BrainChip uses hardware/software co-design, AutoML and the results of discussions with many AI application customers to achieve advances in system-level hardware performance,"
 publishedDateTime: 2022-10-23T21:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/ac29371115/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-confere"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/ac29371115/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-confere"
-ampWebUrl: "https://www.benzinga.com/amp/content/29371115"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371115"
+originalUrl: "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23"
+webUrl: "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23"
 type: article
-quality: 38
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
 
-related:
-  - title: "Media Alert: BrainChip Showcases Its Essential AI at IoT World"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that Rob Telson,"
-    publishedDateTime: 2022-10-26T21:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/ac29427210/media-alert-brainchip-showcases-its-essential-ai-at-iot-world"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29427210"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29427210"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-  - title: "Brainchip Holdings Limited/ADR: Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / October 23, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announce"
-    publishedDateTime: 2022-10-23T21:34:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57373803-brainchip-holdings-limited-adr-media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "fRQK1Kt0owsawUQSgpXtwQksfYlXloZ6meqOLtIkZXFtC45L6XitWydCoDjcK91EPKqFcv1xI27y+RlkkQlB3g7C2WTPYCC4TdLHNitW8w6x/l1a3csazmvofESpOJ5vQX92c1NxsTwMhhV+Ufg+9sKcz3Z6X1FPZevNKBIUvGYSx1gVavcdPFlPaOeaHIXZyR7lqLKA/qohWcpWxkEnYbEo4gZAaX7WhytAFQk/uVDF0T4/ap0TpJUTUIsBnPDvzhWCCa3oAfwJT9aoUG3Hl/hkTKXao2X5pRqyxeYt30THUETaUZNCmK3n+gDETR+OLqIaTEP/vPOUqs794ot/0Ar/B0eTpkoRTsrO68Q/Bd8=;p4Hpsh7AmjIq7u9StZamUA=="
+secured: "UjGpwuTiBJwO/ZaDwRYTF9bFigFkAZVK1nmUqpfuua9bRgBjiRlBEVtE05kSieTVJw7IRz2qBVtMVS62Q6v7OMpIxgcjUBnnnUOHuw4yszsRUlx6Knvunh3dbQVYk0bn3NUcPRCNRlNt5Sah8pr4bMbCij2vUlE+y7G2fq8kySxwcmD6gVBTxvfA/gv32szJCOJAqlQcePjsQDpATah6iaxEe6t8EXJz7agwVURFijCWl+1RoQUPPeDl1gdP03qtmzyPYmIhoFCxPzkg9Cv1uhxyctAS1VFf3A9FRHm9D4ZLAlXBE2EhBayCUb/N9tCOFq0g0Nq1ScKDRfiG4G92066YCbnu2BHFhBfUzcp0/yI=;G7I6oBZhsfXSU6ymQM5/Zw=="
 ---
 

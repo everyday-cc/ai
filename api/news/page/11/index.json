@@ -965,24 +965,33 @@
     {
       "path": "_news/2022-10-25-european-ai-startup-axelera-ai-closes-27-million-series-a.md",
       "title": "European AI Startup Axelera AI Closes $27 Million Series A",
-      "excerpt": "EINDHOVEN, Netherlands--(BUSINESS WIRE)--European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding will support Axelera AI’s launch and ...",
+      "excerpt": "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here: https://www.businesswire ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ==",
-      "originalUrl": "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ==",
+      "webUrl": "https://www.eagletribune.com/region/european-ai-startup-axelera-ai-closes-27-million-series-a/article_19560599-56e9-5229-9fb5-79f09fb1f076.html",
+      "originalUrl": "https://www.eagletribune.com/region/european-ai-startup-axelera-ai-closes-27-million-series-a/article_19560599-56e9-5229-9fb5-79f09fb1f076.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/e5/7e5f2182-0aa1-5386-94b5-91e12dd58e96/6357e992ad8c6.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T06:27:00-07:00",
+      "publishedDateTime": "2022-10-25T06:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/unleashing-machine-learning-fo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/unleashing-machine-learning-for-all/amp"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 8000
     height: 4800
     isCached: true
-
-related:
-  - title: "AI Ethics And AI Law Just Might Be Prodded And Goaded Into Mandating Safety Warnings On All Existing And Future AI"
-    excerpt: "There is buzz afoot about having AI provide warning or safety indications, aiming to protect humankind when using or relying upon AI. We take a close look at this idea to see whether it is practical and sensible."
-    publishedDateTime: 2022-11-03T12:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/03/ai-ethics-and-ai-law-just-might-be-prodded-and-goaded-into-mandating-safety-warnings-on-all-existing-and-future-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
 
 secured: "MYhM+5D9QQIOiyhfaySQeYj294PgfXQ+pLPEAyx/RyMhgXUM9mYfKDJmREJsEoJeA+KzJ668181gWHNDl8lxwkv+GmoqoaI0WjQy+QzjvXh8QM8JkS04mtGnJeFLaOYQ/tXthjpzsPUsee67RauaOQp2I/lBVGbFGAkVC46wCH0nVmV0P7ojWQHDvg4ESSByi9EDa0MvuDrxGFLlhLc2RUc8MjEfxQpM1t1dFpLPGYaNfgQzqJCq9m//a3Tx3i/KYYXD4IbdBOuAKuNvWD9BOolvx2/ke1zesBcu2jf2hLQVr7ndIJIpDIUweOCKMcFamlYyJ6IokGgfpSfeHCea98qYt4Q1CqTvG7j3jfmNyK7EYKNSO7tzNT5edtKzxGmP3E6i5bTVYaM+cP9IISX1MJPVa/PHY9laW4AqYkLQ2OwLO5BcR8vVPi/0kibYsxNevEJOJRcu4+Q26MBOqwDC/2G8siHkmh6sjaciuesJhm/mK4pybbB1sT8GC54yzatajKFf5evAhge656luHa937A==;HHX0H37Tkk4tQXv0+nRV6Q=="
 ---
