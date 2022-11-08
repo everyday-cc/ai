@@ -34,15 +34,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Text-to-Image Model, Language Translation and Other Highlights from Google’s AI Event"
-    excerpt: "Google hosted its first AI@ event to showcase its latest work in AI. The event focused on new developments as well as early researches from Google AI and research teams in areas of climate change, natural language understanding,"
-    publishedDateTime: 2022-11-03T12:33:00Z
-    webUrl: "https://analyticsindiamag.com/text-to-image-model-language-translation-and-other-highlights-from-googles-ai-event/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 12
 
 secured: "yRz23QGugVPw+TV4kO/StXK2nRPgqux4ZoFm6+Wyxawnc/XmUKkerG4ufl1YetTmAcWHvo1ujMWMLRfuVpEtk0O73g0AJbuX2TlwEC4qaKWPJhkSxNLUgwt64469R7O1d0fBCYch6oz4ixWWkiPnFXYj7B9ZFPDSSAmaF71ZNNBWedNEbbHj1GeZTSpAoE1JMpN85sFpDmiy9E5yaJ2dRIDa0EyBvQl+1pUfYEVo9qXg22HSLq+WW1tQneYA1ciHlaClMMP5XMiSD3SO8oLF8xEN0VrDaqGSrVHh6t9KeKxOYRNQS3+nFien8jJAq+eU+qZVk2ZHaVIPkqli5rZl+06Gw0R3VYveCkh01Lfczf8=;laKEOhQGhlpQ0aBSCYS9Hw=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Zest AI Secures Growth Capital to Advance AI-Automated Underwriting"
-    excerpt: "Zest AI, which claims to be the leader in automating underwriting, announced that the company has \"raised over $50 million in a new growth round.\""
-    publishedDateTime: 2022-11-03T13:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
-        width: 1280
-        height: 1104
-        isCached: true
   - title: "Maximizing the Potential of Data and AI through Automation"
     excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
     publishedDateTime: 2022-11-07T18:54:00Z

@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Vee24 Virtual Boutique Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Vee24, the leader in person-to-person digital customer experience solutions, today announced the availability of their Virtual Boutique in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2022-11-03T13:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vee24-virtual-boutique-now-available-the-microsoft-azure-/2022/11/03/9705655.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
     excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
     publishedDateTime: 2022-11-05T18:25:00Z

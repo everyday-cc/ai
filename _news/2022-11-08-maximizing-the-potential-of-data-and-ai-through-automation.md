@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Zest AI Secures Growth Capital to Advance AI-Automated Underwriting"
-    excerpt: "Zest AI, which claims to be the leader in automating underwriting, announced that the company has \"raised over $50 million in a new growth round.\""
-    publishedDateTime: 2022-11-03T13:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198174-zest-ai-secures-growth-capital-to-advance-ai-automated-underwriting/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
-        width: 1280
-        height: 1104
-        isCached: true
   - title: "The individuals who need artificial intelligence the most are the ones who are creating it"
     excerpt: "Ironically, IT teams need AI the most because they are responsible for creating AI-driven apps and systems. This isn’t completely unexpected, as the introduction of AI tends to increase complexity and call for more automation."
     publishedDateTime: 2022-11-05T11:25:00Z

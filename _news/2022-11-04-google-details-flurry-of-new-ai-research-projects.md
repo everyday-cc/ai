@@ -35,15 +35,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 36
-  - title: "Text-to-Image Model, Language Translation and Other Highlights from Google’s AI Event"
-    excerpt: "Google hosted its first AI@ event to showcase its latest work in AI. The event focused on new developments as well as early researches from Google AI and research teams in areas of climate change, natural language understanding,"
-    publishedDateTime: 2022-11-03T12:33:00Z
-    webUrl: "https://analyticsindiamag.com/text-to-image-model-language-translation-and-other-highlights-from-googles-ai-event/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 12
 
 secured: "uL6VGVMwWXOZjFD+y1Hvzo/zgFB056D4VK5fh/dcRoR8kuNjej59vq80wveoCxbrGveJ04WLU/hf1nh2SrA4Thto2XEt4w/xACQn4UHJEoK4Xtc8yDpcPIiaSoWEOF0SYuYH6p6sEKPJ44EquXUq9K2XRrongMYQwN5lwA05tu9GMGtpcvQ/OW7e76mMUmHyzyNt46lGohFWdN6TdsoBQkkBeCOqahvRClcAhKsuYE/FixDLx3LYrQvlDP6FrlMFwXRMHykQeZRv6nMgHIwL5+rLVnFdvUitbFR2Kplillb3Q0RpPMr3mn9VRwvxsmnznz2Tt1msbORaaoBqIhvOLsiC4k9Cyvbs0QOXjKd2Hds2sgBoYv5LIQfaAnn22NRJ7JM988MKk24RHPMBe7yug2EAOVa1Vsokvr4JH8/h73zLOrB7lj41amsfpZtAqNAmhK82NfuzCOz3uhxb9ICWnCiGat1D1OAXb3hn3jEsJj8ISOhXkSpRJza9Avacz2RyWTW0nyD30EnaRDEOF3o8Wg==;Oc1f4xHp8m4yQVGAUVWZMw=="
 ---

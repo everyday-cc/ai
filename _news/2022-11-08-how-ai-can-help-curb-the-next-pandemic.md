@@ -50,15 +50,6 @@ related:
         width: 1076
         height: 674
         isCached: true
-  - title: "The future of AI for business is human"
-    excerpt: "Did he cheat, or was he simply demonstrating the power that AI has to take over human tasks, even those involving substantial human creativity?  AI is increasingly transforming organisations across all sectors of the economy."
-    publishedDateTime: 2022-11-03T12:13:00Z
-    webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/the-future-of-ai-for-business-is-human"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "iQTjv1UErOuCSE1yFlAQ1fSOt3fMGAcA4oq6YkRmaukKSscCdaC+H4p+4UeVT76Ja6jU+Hd9zx6gMCgwir54jGIWqYMaEXEIgx8oDsAqsQ2fvyzMu9hqjXETKTO9g/DFSTMhJz37ycW2ouPXmW3Vzv1XzyuIDepnEh8b0cuw9iw0ER5yZYIEB2deK6QXUP+T0Z8yN5Je20iOSNaShkGNsD+Zyc1FGViiAE9+Nv04Y+h7BXpwNkNTL2ziQ6/zbDXCwGhitrHb++XLhSWnSE0TVzPefKlx+1wsLFsK0HZ2L2FtAG7yVVxoinNGcDqCgo/fZjGorvD+kYw76xOFRVEdD8jHEco9uv4G92SvB9oncdQ=;IkRyMoEdt702UsERCxiF9Q=="
 ---
