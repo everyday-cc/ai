@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/4f5ebfd0-5569-11ed-b7a7-463230a7765b"

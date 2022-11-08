@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 related:
   - title: "Meta harnesses AI to translate rare languages in real-time"

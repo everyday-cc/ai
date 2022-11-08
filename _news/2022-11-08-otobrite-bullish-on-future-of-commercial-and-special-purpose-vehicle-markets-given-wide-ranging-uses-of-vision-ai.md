@@ -1,33 +1,20 @@
 ---
 category: news
 title: "oToBrite Bullish on Future of Commercial and Special-purpose Vehicle Markets Given Wide-ranging Uses of Vision AI"
-excerpt: "The company also participated in the AI on Chip Industrial Cooperation Strategic Alliance initiated by the Smart Electronics Industry Promotion Office (SIPO) of the Industrial Development Bureau, Ministry of Economic Affairs, in a move to facilitate cross ..."
-publishedDateTime: 2022-11-08T09:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-uses-of-vision-ai-1031885516"
-webUrl: "https://markets.businessinsider.com/news/stocks/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-uses-of-vision-ai-1031885516"
+excerpt: "This article is based on an interview undertaken by FusionMedium's technology online media, TechOrange, and published with permission:"
+publishedDateTime: 2022-11-08T07:56:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29608167/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-us"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29608167/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-us"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1936322/5.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "LFYVsq5Ho1wj1rpCYyerjQFexgkscpGa/gwjQPJ8eMXSkXs2b38IjptFfqGRzZqZq+lDcDowm/6AVe9pdBpyvF4GyPZUo67px7R2V73yoDhaNj1NEDGARHSwJsCsWgyIwBTDEK/TxDHsUpwqg/nzlM/ff0v+JyWebHfuDf4tbI+IOnKdkS9pZ62hQ42ZbMHoUjXKQpYA9S9FWjNJpcMhBNmYQxeOnnCBuew9NyVdvNACr71W0euh+MU/sxFIYNzhjPuuegBNd8eu5vyE3KYhRBN7DjH7xQbAFWTF5z72c/S73j2Ag/sYUzp7GoxuEOp23T2A2IliiN+QAptC+ZbRfWWePxK2pwfjWluB9rRmafM=;F+dqgohsRvpUf3oq+CUeSQ=="
+secured: "NtcBcpnbhIvfPaMybyj/93W2bzhwhaikyvvH/8sDoLBkwR3Hr3V6MK66mLr4RZfv9gQyT8hHF3IKjpPr7YZlKVIKiB5Jau5AFKm0dh8ftnxfo1ozwV9f4IPXA8kD74ZepU6y5egl3V4yCx92QZuZWKMxxXEKqhkrWvzQZJwqbLpxW6txuIMoeNdmAN2X533zLWNyVLbAToA+mOqH+HBvLFUkPTp72S4sbSvHjcBCNbE4AVh+cMmG+LZ3dAd8Q7ERSD5n1a2nCmlUMWnT2hGZBqYRAt9C8g8OZ1lIKjK474x/4QKEupmRGG1EtwDZc0w2C5qFIDUMnIeJ3tdz0REeWzflHCiI+I9S3jFsJ5cr5Bo=;IHG3Im+O0KfC6XD/s0D24w=="
 ---
 

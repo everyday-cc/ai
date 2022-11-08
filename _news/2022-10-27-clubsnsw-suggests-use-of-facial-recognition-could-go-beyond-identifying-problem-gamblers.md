@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/3555603bb8a4227e3f98ba7d7de9865b744cb1af/0_132_2572_1543/master/2572.jpg?width=620&quality=85&auto=format&fit=max&s=dc90cfa9aec3a4072c7a6cc52094972b"

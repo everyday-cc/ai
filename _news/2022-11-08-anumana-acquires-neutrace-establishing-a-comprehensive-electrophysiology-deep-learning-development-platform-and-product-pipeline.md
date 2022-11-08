@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Anumana Acquires NeuTrace, Establishing a Comprehensive Electrophysiology Deep-Learning Development Platform and Product Pipeline"
-excerpt: "Anumana, an AI-driven health technology company and portfolio company of nference, announced today it has acquired"
-publishedDateTime: 2022-11-07T19:50:00Z
-originalUrl: "https://www.01net.it/anumana-acquires-neutrace-establishing-a-comprehensive-electrophysiology-deep-learning-development-platform-and-product-pipeline/"
-webUrl: "https://www.01net.it/anumana-acquires-neutrace-establishing-a-comprehensive-electrophysiology-deep-learning-development-platform-and-product-pipeline/"
+excerpt: "Anumana, an AI-driven health technology company and portfolio company of nference, announced today it has acquired NeuTrace, a medical technology company advancing novel in-procedure AI applications for electrophysiology (EP)."
+publishedDateTime: 2022-11-07T19:39:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/07/9707743.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/07/9707743.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "CoFIJU0airCmpYpTcWvgb56eeWt1GxaIDvVPtzAVzo3o5Fgqz3goVNAq/zam5YBPRXDwL556o+dvEnCRvSIEs//APgbRVzQBCM7AGN3yBXSsfvz3xxccpyycaenHPmDUAAqLEFkn9Bkd8p8VpHJG1/Xcfycj6OyvfljTO9hxWRK5ec+cnVI3pFqLet7NbVGci6FI+zJ6M574Hc9SyyXqmlfyAIkwFYmeDlPVBA/K5NkY2F47lv8KhNzKc1/MsqpdrPjjk9Rg2uq/9IrBiatCmJLfhbbyaxvk5S1C9YjAycQX+iO2bBIppL9AqYhcMLZTJ59ItJliGjfUi3KsoIxmAWslYdHHaBYmi4krOfBnAgPZ5ZxlOHpy/JWT36ktfAQNDCTi5F2jrFrA2Ev8Rbfy9IEm1DHGn1rXzI5xw3DCGvMn+4BBlZp5qRK2/FYuSB/fmIrmTFbY5iZXZolG2xciKKdgcJGlTsi6Cu/tTOPnZnVo+iuLjWXcEiLp0QxTgXb1fKyPl71TU/mK72Wq/IvPjA==;qDkqPJCY6wSmFpGceFxrkg=="
+secured: "d8m6fPJB0Ng8ubwONsevwS9JPOBv2cjJLJQoz5tS9ho/mFf8aqVNkPkIZzvixpSWg8t67UU5cJA2K3H2p2W7SQdwmok+ix+m0rdvG/g/vdKx6eyXOQ0FDxTxLhAgYn9VYiGiQqjueguq+GnLSixLfEtmbA7nLldrLRS/JRXIdFvqMp98OWNsZEpC4F9W6jSC2U7WsfzZnNY+Xo2fowCG//WNgreOlZLd20qNXRKhDmAkbJSlYTwHTYx3IggdxgX9oHEM35H+u2pfYT3Oaxtkw5QGg/S28BPPJCxwpXu4BKD4yXtA94bng0fNDwAenLJ0EVfm1j9tomoC9QkQRww0OCX44dIYYDt2i4Pc/yUrzPU=;zTLZ8x8N0jo1rLq6IYBWIA=="
 ---
 
