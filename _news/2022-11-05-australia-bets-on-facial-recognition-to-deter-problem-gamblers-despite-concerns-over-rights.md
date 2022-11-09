@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/article/3198521/australia-bets-facia
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
 type: article
 quality: 79
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia bets on facial recognition for problem gamblers"
-    excerpt: "MELBOURNE: As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling."
-    publishedDateTime: 2022-11-04T07:32:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/04/australia-bets-on-facial-recognition-for-problem-gamblers"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/04/1804543.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Hotel bets on face recognition tech to deal with gambling addicts"
     excerpt: "MELBOURNE—As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The"
     publishedDateTime: 2022-11-04T23:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1920
         height: 1199
         isCached: true
+  - title: "BMW Adding Hands-Free Driving Feature in the U.S. and Canada"
+    excerpt: "BMW is set to become the next automaker to offer motorists in the U.S. and Canada the ability to drive hands-free — though what’s technically known as a “Level 2+” system. Find out more at TheDetroitBureau."
+    publishedDateTime: 2022-11-08T19:37:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/11/bmw-adding-hands-free-driving-feature-in-the-u-s-and-canada/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 4
 
 secured: "UlNFEsPHh/xb9uiBMsC5MegmAQIy2st/bZPp0J7y1brkPVyvJ51yNkyUZhP4TGholfSxI2h41jlFL0n0qGr2Wi9GiBvRubWPXlLE7TjrJu9FvH7lrhuxENNz/IN7qlp6LXaKVySFl+GCM5PfzuKv4I4fVI6wYyDt2zlCccRKAwbb7EibFKIPdhSAMf+/rPhTIjEEnGVchJPnWzS7Z9EIjhPPs5/2m+3vyTvHZtz7RmhR0C3og/P4OYzKZuJe7pYtr4B+mlBbpVy0qj7nrqHnVH/ZVW9/k/FD/rv25UX+z0wqV6r2re/6hMp+x5SdLju3svkgmz1jl8MGYQG5f0tj9bWQ5J5UJjie1iZe8YRojSnrG4kcnBo9I/2YQeSV1oYFeDIQCgX3TQOB81P17jcHHGKbipHmcD9jBX7O+6sn8MQhZEqGYe/M9NY7N1k/RSFE2pK5hMNTlp7ESC+M461rKSfLByygSjBeM8IlyJRBCpTGMAytQ2f24TSE4V+kswGojp+T0eKJoj0mhvuiWV/o7Q==;yA1qe7ifAwKc8RzIf0+w+A=="
 ---

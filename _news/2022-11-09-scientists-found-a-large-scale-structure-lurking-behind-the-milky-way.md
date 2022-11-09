@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T20:06:00Z
 originalUrl: "https://www.popularmechanics.com/space/deep-space/a41891701/galaxy-cluster-discovered-in-zone-of-avoidance/"
 webUrl: "https://www.popularmechanics.com/space/deep-space/a41891701/galaxy-cluster-discovered-in-zone-of-avoidance/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Popular Mechanics

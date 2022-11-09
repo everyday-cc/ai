@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/"
 type: article
 quality: 89
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -144,6 +144,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "Nvidia Designs New Chip For China To Override U.S Ban"
+    excerpt: "The Nvidia A800 graphic processing unit is \"another alternative product to the Nvidia A100 GPU for customers in China,\" a spokesperson for Nvidia said in a statement. \"The A800 meets the U.S. government's clear test for reduced export control and cannot be programmed to exceed it,"
+    publishedDateTime: 2022-11-08T19:32:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-designs-new-chip-for-china-to-override-u.s-ban"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Nvidia shipping replacement GPU to China after US ban"
     excerpt: "Nvidia is shipping a slowed-down version of its A100 GPU to China . Called the A800, Nvidia started producing it in Q3 after the US government put a limit"
     publishedDateTime: 2022-11-08T06:30:00Z
@@ -172,6 +181,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "NVIDIA's A800 Data Center GPU Sidesteps US Ban On Chip Exports To China"
+    excerpt: "US regulations are slated to stem the flow of A100 chips into China from March onwards, but a with a few tweaks the nearly identical A800 may be fair game."
+    publishedDateTime: 2022-11-08T18:19:00Z
+    webUrl: "https://hothardware.com/news/nvidias-a800-data-center-gpu-sidesteps-us-ban-on-chip-exports-to-china"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 34
 
 secured: "QP5u3YSHIjlx7q+u+HbllAaa7gx4GX2Rm3CsrGZSjA/ojedpOzonJZyL6kCNpmLeIwQZnfF1T4bHfuRUx1WgJSwRgujJjLQjnPHRnKRTSVMoGp4HvQtM35JmxYPMFe24/mWY7k4djeLlFEa55/C/6C//Ov4VnYUzIvFL04glehvycpSgaW2NWhoElyfYuiBOUKu/57+UWkF9INLk9VpyNvKszNU+nzBNBHMYF5iT2RcABjmLedvTTJqtKszNCoIlrhoaxSwZoqYTNQ0m986npsVY+XN7h4ostijUm3wWSXuym23DyUOuUtlNUkq7Ncf51ohBx8+Yszek8zGCcYj0RmacaQQtPuH0c47sTDQVPQ4hf3YnCjhrtSTYZadNmzCY0klclgSUuIW2cpJCCsQX/1naBAJw0nQMgOpDSIcwYwZ1kVoEW+dLuN24ZfI6mtwW32lwfY7aZ7jJiq8/cv1O258rYpTKCV81cz3YAc2uNj82wOnzAJjpAGdikJtfTzbyDUwcOGAw164R8l9aRyMNhA==;UfRiz4PyxaDDwAjzTS6/+Q=="
 ---

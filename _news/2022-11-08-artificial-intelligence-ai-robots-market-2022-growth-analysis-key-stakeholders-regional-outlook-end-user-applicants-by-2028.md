@@ -71,15 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
-    excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
-    publishedDateTime: 2022-11-04T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-size-2022-segmented-by-material-type-end-user-swot-analysis-trends-and-forecasts-2029-with-top-growth-companies-2022-11-04"
+  - title: "Artificial Intelligence (AI) Chips Market Share 2023 Dynamics, Manufacturers, Drivers, Consumer Behavior Analysis and Forecast to 2029"
+    excerpt: "Artificial Intelligence (AI) Chips market report covers the global sales and revenue forecast, regional forecast, market share and the growth rate by type Global “Artificial Intelligence (AI) ..."
+    publishedDateTime: 2022-11-04T09:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-share-2023-dynamics-manufacturers-drivers-consumer-behavior-analysis-and-forecast-to-2029"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/Twitter-Jack-Dorsey-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
     excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
     publishedDateTime: 2022-11-04T15:56:00Z

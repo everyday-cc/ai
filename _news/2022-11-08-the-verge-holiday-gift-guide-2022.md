@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-07T19:31:00Z
 originalUrl: "https://www.theverge.com/23435489/holiday-gift-guide-best-ideas-cool-tech"
 webUrl: "https://www.theverge.com/23435489/holiday-gift-guide-best-ideas-cool-tech"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Verge

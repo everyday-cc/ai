@@ -7,7 +7,7 @@ originalUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-
 webUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://tii.imgix.net/production/articles/9099/102f3dce-bef7-4c51-833a-1b29ae79456f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Flight Simulator FS Traffic AI Add-On & Newark Liberty Airport Get New Screenshots"
+    excerpt: "Today third-party developers shared new screenshots of upcoming add-ons for Microsoft Flight Simulator, including FS Traffic."
+    publishedDateTime: 2022-11-08T22:12:00Z
+    webUrl: "https://twinfinite.net/2022/11/microsoft-flight-simulator-fs-traffic-newark/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 43
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2022/11/Microsoft-Flight-Simulator-FS-Traffic-10.jpg?resize=600,338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
     excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022"
-excerpt: "the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to cybersecurity."
-publishedDateTime: 2022-11-03T04:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20221102005549/en/AI-Spera-to-Showcase-CTI-Search-Engine-at-Singapore-Fintech-Festival-2022/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU"
-webUrl: "https://www.businesswire.com/news/home/20221102005549/en/AI-Spera-to-Showcase-CTI-Search-Engine-at-Singapore-Fintech-Festival-2022/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU"
+excerpt: "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to ..."
+publishedDateTime: 2022-11-03T04:19:00Z
+originalUrl: "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html"
+webUrl: "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html"
 type: article
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Nj0CTmuib6/5igbU7FNfdcUVIICWt/QXUlcCr0gaVPmibqJJUNLN0H9GSz4cMDXUGlwAMcrRe+wK3HlrUS7UtAsHLjzaYbek7SSz+8PmdCJkftQJRRBTJQF/j/xWtzlCE9wvlqZ3fICBGvSdVulGA55BWfAc+lOA93eCk1OtfnpJI9rnPFsXPuLtNdkE4dSytR22wfM3IWOR0SGhHcKP8nypgIJp1u5Q5dyRd9T6njxpnKe35GUbJjHb0esvS0ZKiRRRM2fjYmFK/bLGemZIAMuk+erCYgNnbT5UdbIOoxJsBgPNL+V+N2dYxNHoysrqX1V9dO3TbJY1jhRIZes9B97DPTtf1Ay+5Jkq7TKcijg=;VWYvYTGDv56r39aI6MlDSw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/c9/3c94ed0a-6c17-5fec-8ce9-4cd34d6bd131/63633fddb13d3.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "CyPHuoA9KWfjEIT70jwpSgOCPqX3NSKLzo4kmCgLCAdhH++k1/3dZ1HZSLBDhFUe6mcbd9/+9qvVUDDGQnhHit/zIoPuVXntLLGODcwdeMfwG3zUSrTweUTYuvgyxMPX88YXza1ClA3nyFUL6DzLwNgQTprT5fuy6RNxOSqUDbtMXo6FIkqqej5G62K7BxkQeNhLsjbAsj1LzVdRhvg8oaKE504usybygugMAfCYxdH8N8mmeC7v4w+qa7E2TKNbcbqh/ZszF3xj+IHLgpgabxL4pWIRN/BHGjW2Qb26rxBADIGYJ0ASMLiyMcdcZ9IJKGsLbLo8f/5Y6lCcWZ4BUzbMW/P7YWWOTVLeQHDsxFo=;c9e+SjBJ+diNDIqkKTINhQ=="
 ---
 

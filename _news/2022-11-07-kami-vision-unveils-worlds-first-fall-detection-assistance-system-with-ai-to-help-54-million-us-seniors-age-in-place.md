@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place"
-excerpt: "Detect by KamiCare enables seniors to safely stay at home longer with greater peace of mind for caregivers On the heels of its successful General Availability launch of KamiCare, an artificial intelli"
-publishedDateTime: 2022-11-07T09:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29587218/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million-u-s-s"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29587218/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million-u-s-s"
-ampWebUrl: "https://www.benzinga.com/amp/content/29587218"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29587218"
+excerpt: "On the heels of its successful General Availability launch of KamiCare, an artificial intelligence (AI) fall management solution for senior living communities, Kami Vision has announced Fall Detect by KamiCare,"
+publishedDateTime: 2022-11-07T09:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_37a69568-21e3-5c9e-9f61-93e13eae0014.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_37a69568-21e3-5c9e-9f61-93e13eae0014.html"
 type: article
-quality: 16
-heat: 16
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Healthcare
   - AI
-  - Computer Vision
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/7a/97afe0a4-d15f-5de2-98c7-f9534f928868/6368d927e2b3d.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize"
+    width: 1060
+    height: 557
+    isCached: true
 
 related:
   - title: "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place"
@@ -32,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "GuyWZpq6W1ApNs4c+IrsnjVYVq4d4Fs7o7sJ7KAWeP+R0JeDm/QFB6FU5vlV4HZuwg1sGfTeWdzaBy/jt5gQ5FnH75MxGdgFexqHnIaWSwDOaDdOmaNHGhPX6fW0XLpBgHB0INksFb2lBGAWj1DyO5t5BejxZ0KTSYPEeCXxIg5AyaAf8Xsz9QhL1Jul3cCiY1m3D2Tsz/Vd80Gp8QS+j0MURXj2/6n5+YEZgeqldYv3995YWCmSNYwEQNLb5TdOFZId4nSSyLznTH/T8fcYuiJ7agfnJRhU4b70PfywKg0aFL9Rlwsc8oCKyeDeZ69QjVlxrHHlkr+1VDaBs40X9ZdcxfzlViQSRBXIq7q3SzGPWd2v3DKzGs9ZehmSQ4mrQh/kwMhhcw2begCRdSK8mlLxuWpqespGcVhPUPcNzCAon2tX/uQnNCEcJBlacIJGy69HdWzxZCyZlrluwuBUhVpcZC6267InDq269ZboBaNXOlx15Lt4+2JQNvFP7A7jfe7/vTTo9XBOcfwgTv6waQ==;h9n8zpv6psoOFuJOUkpBQw=="
+secured: "VmXU94OENBPgqu8IAJ0jgSFN19xVZ6VirriVWkCQEkmHgNCGkvKUr/sE74FMbJX8VUhHiejJ2OSY/LC/Kk5oW5V1gx3lEVT3VnH6NN0jdX1+NXt9YGEBxBJjQff/djMefH3TGUUkhwlbhzjrDDtmiZ/CP/MEipeaTvDxkoYkKhamzpFHYOp8rajYHFvYTw2FZcBKvt7mBobJy/nYYh72HtN7/UxKCMZOPw9UZw9wak7rbkZIx5SNhOKKztJYxezP/3QtSwfmKEZbO7uz7kr166l6HQEW8wl2IZQREzq//lcBIyzzm7tsRSn//EKlVkyrZGOOHkVOVh/oHnpaeY07WZAYQkQHcQLkkabF0CQzf20=;9UAbtQmCGGdZ6w31wINWcQ=="
 ---
 

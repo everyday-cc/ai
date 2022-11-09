@@ -72,22 +72,6 @@ related:
         width: 1280
         height: 672
         isCached: true
-  - title: "AI diagnosis could ease winter hospital pressures"
-    excerpt: "Researchers believe artificial intelligence could help ease hospital pressures by cutting diagnosis times for lung diseases. The technology - developed by the University of the West of Scotland - was originally created to quickly detect Covid-19 from X-ray images."
-    publishedDateTime: 2022-11-07T12:21:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/514E/production/_127541802_gettyimages-1221189889.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Pioneering artificial intelligence could ease winter pressures on hospitals"
     excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
     publishedDateTime: 2022-11-07T16:03:00Z
@@ -111,6 +95,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 32
+  - title: "AI diagnosis could ease winter hospital pressures"
+    excerpt: "Researchers believe artificial intelligence could help ease hospital pressures by cutting diagnosis times for lung diseases. The technology - developed by the University of the West of Scotland - was originally created to quickly detect Covid-19 from X-ray images."
+    publishedDateTime: 2022-11-07T12:21:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-63541927.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "m9jBA4keADxGIn2jd+dskpotpYG61ws50FXqA6MFv+VPExL3rc6CRIUUOfbLjE3CJHUmXz6zyCRqeLs7AtJcIRLloVnXaeSj/aRHHRpwNaNP6V5j650EehUUWEzGl1iNKkhSs4pe9z2mVdCYoz9WL+KUsvoDXiQ5DrAMHJ4nbJeZV9S5k9v6zkZJtWq/u9oEZX9T41a4ukYI2CFlyZMhdy44r3A7ESFJWWcNDSFAqrcnMsBhE0sFca6AwkHjfte3ohm+SBvLs+AxKVTodSYN6LHt3v/qFRXllx2GCy9ny8Jcqz5UQtHM8SKIx1qiH/d2gwPqR90JT9naAVzzmYnX6G3EiQq54UlMl/ai5714l2x1nZrpgIbStkcViIV6BNnvAeh39QbNF9Mke4vcgQ/tJ1JHJNwfZ4j13/GY18GHd4uqgIltmRfybw3nZibbshiVMjhsUJxmIupz2rVxA2xkRjU0AAnZfwfJj8Bz78riCNwDdbFmvcl0Kcaixi2AAgABYLL5/tQ6Y7zv03fJchtf3Q==;WjGUJ0LRRDSA79SoHBTF0A=="
 ---

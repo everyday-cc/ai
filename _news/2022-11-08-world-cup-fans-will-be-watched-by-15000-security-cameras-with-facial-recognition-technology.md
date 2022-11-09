@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T13:46:00Z
 originalUrl: "https://www.stltoday.com/news/world/video_a19b0c5b-4122-5156-958f-457a0b29ea66.html"
 webUrl: "https://www.stltoday.com/news/world/video_a19b0c5b-4122-5156-958f-457a0b29ea66.html"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: St. Louis Post-Dispatch

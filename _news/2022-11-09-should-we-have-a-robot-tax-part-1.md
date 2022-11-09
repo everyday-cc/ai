@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T20:56:00Z
 originalUrl: "https://www.forbes.com/sites/taxnotes/2022/11/08/should-we-have-a-robot-tax-part-1/"
 webUrl: "https://www.forbes.com/sites/taxnotes/2022/11/08/should-we-have-a-robot-tax-part-1/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

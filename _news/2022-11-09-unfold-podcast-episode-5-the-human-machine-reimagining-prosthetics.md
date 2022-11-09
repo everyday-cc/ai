@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T19:35:00Z
 originalUrl: "https://www.ucdavis.edu/news/unfold-podcast-ep5-human-machinereimagining-prosthetics"
 webUrl: "https://www.ucdavis.edu/news/unfold-podcast-ep5-human-machinereimagining-prosthetics"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: ucdavis.edu

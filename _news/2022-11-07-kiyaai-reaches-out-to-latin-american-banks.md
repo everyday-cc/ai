@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-l
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "How American Eagle Reinvented Its Fulfillment Strategy"
+    excerpt: "Faced with pandemic-related disruptions and increasing competition from Amazon, American Eagle decided it needed to take control of its e-commerce delivery. That led to two acquisitions and a new strategic question: Should the delivery companies it acquired still serve other customers,"
+    publishedDateTime: 2022-11-07T13:15:00Z
+    webUrl: "https://hbr.org/2022/11/how-american-eagle-reinvented-its-fulfillment-strategy"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 4
 
 secured: "q6mjPIPKh4sufyWfzKNvZTO9chYhqefTi1mifqhgSDrH+3mlLyhhFYPdYkBHcbvnjQZpLOiGjZguJgr625Md0yaXxdWhXXaF+XHCBMB7Al8D2pcuGXp8oQbjrFIivmORRKqNKH4Mxz9krYBJyjsF9c7VHfMES5vEXm4wAzEcghlZG5Ymo/gPPaRoG1GkP4HHqhfZTMZ/RAPOFQTf/M7/8DfAJMeP2DY+6VqTqs1mQx1KKnYAcZyYtWCOk+/l+s/tjADKtNALD1jT+IM/GKTtxfOLXqpY7I47jQwEAIk4acofdYpFDZ/e4IB4JeaQQOMFKmmPLH0zi7GeQ/FdT6vmJizEUvLsE3LW5f+fAm9/eJD/G/VlxbOEgVohRXf+Mo5qhQZebBvYbbt5b6QjFQsiREnOEYmyRNfnkJ5j8vweSPhvNW9KWKmRscs04h/Vk1MieLfjrRPE75r4HEzQlUVBthj1hAwp3c5vNRZgDxqjP33p7q8xEBQJ59JvBeqwuaXqrZOKD9Vyscyl0iP61l+V+g==;LKlaorD+BPNvfGqSrKjveQ=="
 ---

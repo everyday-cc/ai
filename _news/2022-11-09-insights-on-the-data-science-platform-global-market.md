@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T20:24:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-insights-the-data-science-platform-global-market-2030-/2022/11/08/9708811.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-insights-the-data-science-platform-global-market-2030-/2022/11/08/9708811.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

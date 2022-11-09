@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T19:48:00Z
 originalUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-potential-accurate-nailfold.html"
 webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-potential-accurate-nailfold.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Medical Xpress

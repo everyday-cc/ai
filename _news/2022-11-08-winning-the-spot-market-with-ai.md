@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/36054-winning-the-spot-m
 webUrl: "https://www.supplychainbrain.com/articles/36054-winning-the-spot-market-with-ai"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Piece Picking Advances with Artificial Intelligence"
-    excerpt: "Artificial intelligence applications have been growing rapidly in a variety of industrial technologies, ranging from data analytics and quality inspections to autonomous mobile robots. Now the technology is being applied to robotic grasping applications to ..."
-    publishedDateTime: 2022-11-08T13:00:00Z
-    webUrl: "https://www.automationworld.com/PACKEXPO/article/22538844/robot-piece-picking-advances-with-artificial-intelligence"
+  - title: "Movio wants to make your marketing videos with generative AI"
+    excerpt: "Movio is a 2-year-old startup leveraging generative AI along with other machine learning frameworks like GAN to make videos featuring talking human avatars."
+    publishedDateTime: 2022-11-08T20:19:00Z
+    webUrl: "https://techcrunch.com/2022/11/08/movio-marketing-videos-generative-ai/"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 34
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
 
 secured: "e5bn4z44P9sUw7e/bA14hG6ukKFdwhcomqe31DWnjgPsBDqiyA1KthEfF/ndpEnt+t9a9ETfdwfhqFj2rwdFe5Vulgr2qGyGEMvjolim4r0WLCvTA3z6n4USgUudRrM3dHzAqHJ80Q6hm4tMnJWLo1Msb6tf00beQVU7/F1U+1cr17r9TidNWJ7tGwr5XskcIDS8mK/l7EhI6ePeqaIp3i4QBB8iq6lrEidWRDzcpA5CCA80lm49jIGW7qefG3PXxhPKrVA3WvA7mWfji6RMfSfupp9vSrBgufvfJ4mUqq3If73sz9YtOYimq3TlTtXmBV0UNWbV3usfagVzuKAi6ouh5JJrkfeEvgJ1orE4JnHAzQ73DPX31IcSMUlPqWLza8b1wlQFnvi8akwd2dEXPuz6ZtJxwET2OtoQPfBpFNw5eK5NG1Zquirf26ohAnEn5J/jqYUFGokjNcB7Z6fDidPLn01009GwlM/zthdVYimtnw+632xrl2EBkjBjEmKwf5O6qMlbpwKjG8rIapkh9Q==;ssP1fsp7EeulNgI9DnEDAg=="
 ---

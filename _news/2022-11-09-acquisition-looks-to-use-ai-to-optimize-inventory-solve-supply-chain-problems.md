@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T20:25:00Z
 originalUrl: "https://venturebeat.com/ai/mad-street-den-acquires-inturn-help-retailers-use-ai-optimize-inventory-supply-chain/"
 webUrl: "https://venturebeat.com/ai/mad-street-den-acquires-inturn-help-retailers-use-ai-optimize-inventory-supply-chain/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: VentureBeat

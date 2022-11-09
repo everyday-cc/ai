@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-05T19:00:00Z
 originalUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-news-for-google-nvidia-att-and-siemens/"
 webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-news-for-google-nvidia-att-and-siemens/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

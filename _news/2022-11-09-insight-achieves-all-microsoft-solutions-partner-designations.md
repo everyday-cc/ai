@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Flight Simulator FS Traffic AI Add-On & Newark Liberty Airport Get New Screenshots"
+    excerpt: "Today third-party developers shared new screenshots of upcoming add-ons for Microsoft Flight Simulator, including FS Traffic."
+    publishedDateTime: 2022-11-08T22:12:00Z
+    webUrl: "https://twinfinite.net/2022/11/microsoft-flight-simulator-fs-traffic-newark/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 43
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2022/11/Microsoft-Flight-Simulator-FS-Traffic-10.jpg?resize=600,338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
     excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"
     publishedDateTime: 2022-11-08T12:34:00Z

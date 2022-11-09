@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.h
 ampWebUrl: "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 91
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-deep-learning-me.jpg"

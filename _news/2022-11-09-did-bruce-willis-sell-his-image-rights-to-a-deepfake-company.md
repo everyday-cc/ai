@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T20:44:00Z
 originalUrl: "https://knowtechie.com/did-bruce-willis-sell-his-image-rights-to-a-deepfake-company/"
 webUrl: "https://knowtechie.com/did-bruce-willis-sell-his-image-rights-to-a-deepfake-company/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KnowTechie

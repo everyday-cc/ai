@@ -16,9 +16,9 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
-secured: "5ez5b8JqfvMZJxNPhZqRoPYDk4gyuMSdo+pjpYy9Ltv+o4SqynLReszEZ/yIlpXdkQbgkLf652Mrd3UOzOROuK2+qdXKaolCc2zhFnkFgQiHYfbc3Sds3FEnhYtlU6g1qd0e3gxfd4EaUwREmwlaz5mvc/t9SCZ0UW21PfbUk5aRC+ThV4qmcLZnPVxO1+RVAdqo5+39S4U4soYolwpkRLzbIdEV5yUs3GZyLMqUuRt4plAmdeCqQHURoSp9hAZ+izi3ZQtL3hGz854HcvKxhIDa049PbnTF9RFKR1YnYvXkC2+egmnRSs/SpI1Muzy2GsWm2M0XQBhu5qcjeeKWkU7Qx9nhJ5YNVOmzX0WjOFc=;yGbCP1aFcWjIjrzKqm1PGg=="
+secured: "teiH6mEU30Z3aBg4XE8d1YcfYRjDeWb8qYPApYs+iMAxC7kvCcrZi3WA42EXlk3jB0nJX7QcLPRqDoI5c/fuibtTPDlu4xGb2pXjle3LmpKAbrS5lBShvvoC0xjoCLhk4QUkzwqnBn0J7w/aSOMUUqU0UtKsLKfHlp1pl0UDmC7sBqUNtRYgxQkJEISDjfBUteRSgrFOR8OYzOOCl2HNcn+Z1FZu5yZIaWz/2m2m2OuJdre4xshHZYJQBx/+sRo+ioDFRnP+/YZOLpYD9kRX4laheoPSFYSbCJzcaDMOSF4/v9CXmKZxuosJWK7GcrepDAKaKbgMEuVBkXEFF2nTKrVdfO/MKhXNwGeN9/+saUI=;WGsbjaSFI6Ic6fhZQeXsyg=="
 ---
 

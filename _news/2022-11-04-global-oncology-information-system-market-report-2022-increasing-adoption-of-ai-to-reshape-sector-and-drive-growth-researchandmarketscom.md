@@ -75,15 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Collaboration Market Size 2022 Segmented by Material, Type, End-User, SWOT Analysis, Trends and Forecasts 2029 with Top Growth Companies"
-    excerpt: "Cognitive Collaboration Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Cognitive Collaboration market from a Global and Regional perspective."
-    publishedDateTime: 2022-11-04T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-size-2022-segmented-by-material-type-end-user-swot-analysis-trends-and-forecasts-2029-with-top-growth-companies-2022-11-04"
+  - title: "Artificial Intelligence (AI) Chips Market Share 2023 Dynamics, Manufacturers, Drivers, Consumer Behavior Analysis and Forecast to 2029"
+    excerpt: "Artificial Intelligence (AI) Chips market report covers the global sales and revenue forecast, regional forecast, market share and the growth rate by type Global “Artificial Intelligence (AI) ..."
+    publishedDateTime: 2022-11-04T09:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-share-2023-dynamics-manufacturers-drivers-consumer-behavior-analysis-and-forecast-to-2029"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/Twitter-Jack-Dorsey-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "AxsE3ROFl5VWvlmWkrenDc3q3JzcCXJR0GZBvTuxW5j0zvAUZ1Lw2dlsbn9rkBPP3QHVG4XrhEfSoh6dgmME5SNm/Mp+SfMgCR2M1sMg7mLnrTdHAVRpPG0zlmJB6KHUeyka4GonG5qAV8rcPz9Be51hPREPHlZgf7qrmee3AP7pYqpc0Kvlx03+VQlRK1AH+CuqlLU9WnDQ4Iny2fjTUeOY4Tmn5swquMfr0RTWk+WivYx5XYD/zZ3NoAAAtY+GOt3mkV5qAgJJns8POt23ip6JIvr8JdgLJ3sXJQxmNh4X+z5Ft+faLs0BYAFjl2+BkOp6Xb4Qx/5G66RtLQQPlUSm5Urs+8btI0vWARuIzLE=;QLipCreS3wPPenguGh4R0w=="
 ---

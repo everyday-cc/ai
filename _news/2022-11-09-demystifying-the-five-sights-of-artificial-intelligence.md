@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-08T17:48:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/11/08/demystifying-the-five-sights-of-artificial-intelligence/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/11/08/demystifying-the-five-sights-of-artificial-intelligence/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

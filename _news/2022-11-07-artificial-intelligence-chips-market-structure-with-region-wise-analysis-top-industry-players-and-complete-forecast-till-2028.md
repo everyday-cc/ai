@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How and Where the Artificial Intelligence Courses for C-suite Executives Market is Set to Grow in forecast period 2029"
-    excerpt: "As per Market Growth Report, Hydraulic Gear Pumps market size is USD million in 2022 from USD million in 2021, with"
-    publishedDateTime: 2022-11-04T04:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-courses-for-c-suite-executives-market-is-set-to-grow-in-forecast-period-2029-2022-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Machines Market SWOT Analysis & New Business Strategies with Industry Growth Status till 2022 To 2029"
     excerpt: "Nov 08, 2022 (The Expresswire) -- \"Artificial Intelligence Machines Market\"Research Reportin [ 2022 2029 ] is Ruling the Machinery and Equipment"
     publishedDateTime: 2022-11-08T16:25:00Z

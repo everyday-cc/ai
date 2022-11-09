@@ -143,6 +143,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Nvidia Designs New Chip For China To Override U.S Ban"
+    excerpt: "The Nvidia A800 graphic processing unit is \"another alternative product to the Nvidia A100 GPU for customers in China,\" a spokesperson for Nvidia said in a statement. \"The A800 meets the U.S. government's clear test for reduced export control and cannot be programmed to exceed it,"
+    publishedDateTime: 2022-11-08T19:32:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-designs-new-chip-for-china-to-override-u.s-ban"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Nvidia shipping replacement GPU to China after US ban"
     excerpt: "Nvidia is shipping a slowed-down version of its A100 GPU to China . Called the A800, Nvidia started producing it in Q3 after the US government put a limit"
     publishedDateTime: 2022-11-08T06:30:00Z
@@ -171,6 +180,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "NVIDIA's A800 Data Center GPU Sidesteps US Ban On Chip Exports To China"
+    excerpt: "US regulations are slated to stem the flow of A100 chips into China from March onwards, but a with a few tweaks the nearly identical A800 may be fair game."
+    publishedDateTime: 2022-11-08T18:19:00Z
+    webUrl: "https://hothardware.com/news/nvidias-a800-data-center-gpu-sidesteps-us-ban-on-chip-exports-to-china"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 34
 
 secured: "DjA3SWZ3fKM/TO+2jcfTfomDh86y4z59ovJCPQpgG61d9mFI9aG7kdD9zK2vcHKda6H1YrUqDVJ6vreDKKduXdMUOuq0If4WWBPInTH8/4oAyOf007GB1v0S+wlNUkfHDodi4VmxHqchL+wAXzA/pKJPd0esfB3dgqTan0uQdHG+dnvY1EKBceb8+mHRRuVCvg7+WXRmM1gVnXKFFZylin0Eg2nReZ7fJyFEZD6x32MNT61JocbQRRw0q/SmO2e+SUCKqjCCe0BxbllmQrZUIWwJoOBiD7RKMa+pg745O+wuRDDRQZu0esWi3JlWh955vmRECsKlYS9/mxkrHvuB8NjfvuLVD3giPZoI78cFAsOe8QfKXcowBP0SLemmRR/utxw+SPb4naFwKSaL2/+W3qXnXyZRrABhnnukAT1+8OiO4LXfpu2g//ltdGWVXvuFbmuVk3cm6iMPGFsNzO7K7is8i56oxk9afnCeqAbNdsUf+l9bTXSZqiDhegEtaujMRO/Po9VhH2l4KIiJNVnPNg==;mmc+xcPFa5U+kxSm6Kmd3w=="
 ---

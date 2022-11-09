@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.eu/article/harmful-ai-rules-european-union-corp
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Politico Europe
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The lawsuit that could rewrite the rules of AI copyright"
+    excerpt: "AI sys­tems are not exempt from the law ... “We’ve been committed to innovating responsibly with Copilot from the start, and will continue to evolve the product to best serve developers across the globe.” OpenAI and Microsoft had not replied ..."
+    publishedDateTime: 2022-11-08T16:41:00Z
+    webUrl: "https://www.theverge.com/2022/11/8/23446821/microsoft-openai-github-copilot-class-action-lawsuit-ai-copyright-violation-training-data"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
   - title: "Regulating the future: A look at the EU’s plan to reboot product liability rules for AI"
     excerpt: "The update to product liability rules will arm EU consumers with new powers to obtain redress for harms caused by software and AI -- putting tech firms on compliance watch."
     publishedDateTime: 2022-11-04T16:34:00Z
