@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T15:46:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/airgram-raises-10-million-for-ai-meeting-assistant-in-2022-1031892942"
 webUrl: "https://markets.businessinsider.com/news/stocks/airgram-raises-10-million-for-ai-meeting-assistant-in-2022-1031892942"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

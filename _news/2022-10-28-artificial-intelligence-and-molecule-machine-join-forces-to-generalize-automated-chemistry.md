@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence and molecule machine join forces to generalize automated chemistry"

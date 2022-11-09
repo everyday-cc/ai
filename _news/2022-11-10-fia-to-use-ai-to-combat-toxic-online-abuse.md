@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T19:38:00Z
 originalUrl: "https://racer.com/2022/11/09/fia-to-use-ai-to-combat-toxic-online-abuse/"
 webUrl: "https://racer.com/2022/11/09/fia-to-use-ai-to-combat-toxic-online-abuse/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Racer

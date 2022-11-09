@@ -41,7 +41,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://www.zdnet.com/a/img/resize/1b869a72857237edc5b0dee2d3aad395ded997c9/2022/11/09/44d567aa-ea48-4388-b991-db0bc6d2e85d/mlperf-hpc-training-1280x680.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200

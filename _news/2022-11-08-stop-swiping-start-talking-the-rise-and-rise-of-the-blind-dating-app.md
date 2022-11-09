@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T09:00:00Z
 originalUrl: "https://www.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app?amp"
 webUrl: "https://www.theguardian.com/lifeandstyle/2022/nov/08/stop-swiping-start-talking-the-rise-and-rise-of-the-blind-dating-app?amp"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Guardian

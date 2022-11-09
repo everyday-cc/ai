@@ -23,22 +23,6 @@ images:
     height: 521
     isCached: true
 
-related:
-  - title: "Trading Coin Terminal Launches As The Next Generation Multi Mining And AI Trading System"
-    excerpt: "Losing miners were compelled to sell several mining devices after realizing they could not locate an alternate BTC or ETH mining solution. However, Korean 'mining farms' have developed a viable alternative,"
-    publishedDateTime: 2022-11-08T06:18:00Z
-    webUrl: "https://menafn.com/1105144038/Trading-Coin-Terminal-Launches-As-The-Next-Generation-Multi-Mining-And-AI-Trading-System"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/07/ND_c3531image_story.jpg"
-        width: 501
-        height: 375
-        isCached: true
-
 secured: "bvtPbcxRmfWaANu4O6OBrp5HyZcXjQQImUAshjXmBGJiMi0i5n/1vDZB9pyf7QXoV1FTWXIaFQpi+1yB9oDzU5toiEylWfgCOYQV1qVZ3U8toEjTy4rWdNJbXPMiWnfhBQr7uzjkkWSObk/3rmT0nVH6FWM7nJFk3nuom/gZ3C76nU/BU7IecKUbUipwrTbklrZjVNyQn9cF8l+fffNYxvcZA/mCMOjjY+i8nkU5/ZaCvp+ATRXtiqRubKFuqLdaPXAW3Xm+M9ELQkmK9Nifv5G7j8rqrgwn2M1MW7JhkXlcoWmJY/qt+ylNOjKkRz8l2vg5HWHbxmkXEB5y/DV4COcqwLnm8iEhsDGHR7NBLQ64Eqbx6tzU2fCIA6WZ5ONj4O5LRDKtLvpggZ60YEBb+N7TmEAcmuwhDErIdtJE5FZ6/MEb4S3J4YCrniyIloyIhy/+STO/7gxYDG+zwsjgdiAJ3/PEC1wMmCW5dHjsanMN0mryO8gwVL2L2U9i/+Jx8wBTvFMIgdqCQ54vxzWfnA==;ZfUDRbBnJnJfReNcsm1O7Q=="
 ---
 

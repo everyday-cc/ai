@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/in-latest-benchmark-test-of-ai-its-mostly
 ampWebUrl: "https://www.zdnet.com/google-amp/article/in-latest-benchmark-test-of-ai-its-mostly-nvidia-competing-against-nvidia/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-latest-benchmark-test-of-ai-its-mostly-nvidia-competing-against-nvidia/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 

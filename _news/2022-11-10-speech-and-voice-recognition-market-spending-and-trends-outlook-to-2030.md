@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T20:11:00Z
 originalUrl: "https://techbullion.com/speech-and-voice-recognition-market-spending-and-trends-outlook-to-2030/"
 webUrl: "https://techbullion.com/speech-and-voice-recognition-market-spending-and-trends-outlook-to-2030/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Impacts

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T17:35:00Z
 originalUrl: "https://www.corporatecomplianceinsights.com/ai-avoiding-bias/"
 webUrl: "https://www.corporatecomplianceinsights.com/ai-avoiding-bias/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: corporatecomplianceinsights.com

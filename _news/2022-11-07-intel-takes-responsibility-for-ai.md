@@ -70,6 +70,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Intel Unveils Xeon CPU Max And Data Center GPU Max For An AI And HPC 1-2 Punch"
+    excerpt: "Intel's bringing a left-right combo to Supercomputing '22, with new high-bandwidth CPUs and high-throughput GPUs."
+    publishedDateTime: 2022-11-09T19:24:00Z
+    webUrl: "https://hothardware.com/news/intel-announce-xeon-cpu-max-data-center-gpu-max"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 30
 
 secured: "Xhg+sQeRqBfQRUxS9Yw4127T4q/hdeRfgLQIA73Et5V7zS/5nqfnilw04C0wsUp/4mEQQhEcb/2zVvCneStW0grP1XsPXeDDqYFs1seS91yITwvVg9CHLn4rXD0tDdTtQm9vPyI4GHdLpslz+g5VzFX/8DEpbxzdZpWSM5xROCPGuL34Kkpf/otINvlNTAPvHeXJP053XkWdSMslQbppgDFpKQUfmurxtE3Ft9Uhg/BXYFBbkfYoTI7G49bcJHex1AV9aJKn+P1EBdCAK5nBNT6EKNMrmmLfIl0geIG4coKilw0hKAoDcl1jIz7SrslHnIKsIVHU1dQj8IDeHHewMJByJuZ4hwyBl7kTtTuc1AAeO9KMKe2JyFxQtRQ7k94H/cbMUlxiuYpcdaXaFBmNzSvJZc05VamE53pIzQMGxl2ry+1W1IIcCJJjnRIIbwgblDiCe/QpzUQ3iVj6FSWhj+y5r8pk8YGPbaz+7nTPCsfQ2IoVGSvPfW5FOPMmY/+84yUvIW1nalDJixSepC/3Mw==;k42nHgU+L9E7sbGxkJbwJg=="
 ---

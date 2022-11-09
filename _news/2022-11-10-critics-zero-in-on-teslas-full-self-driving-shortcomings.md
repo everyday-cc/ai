@@ -1,38 +1,30 @@
 ---
 category: news
-title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
-excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
-publishedDateTime: 2022-11-06T19:01:00Z
-originalUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
-webUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
+title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
+excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
+publishedDateTime: 2022-11-09T20:39:00Z
+originalUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas-full-self-driving-shortcomings/"
+webUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas-full-self-driving-shortcomings/"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: TheDetroitBureau
+  domain: thedetroitbureau.com
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/Tesla-FSD-simulation.jpg"
+    width: 1600
+    height: 899
+    isCached: true
+
 related:
-  - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
-    excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
-    publishedDateTime: 2022-11-09T20:39:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas-full-self-driving-shortcomings/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/Tesla-FSD-simulation.jpg"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "The Dawn Project Launches Full-Page Ad in The New York Times Highlighting The Dangers Tesla Full Self-Driving Poses to Children"
     excerpt: "SANTA BARBARA, Calif., Nov. 9, 2022 /PRNewswire/ -- The Dawn Project has yesterday launched a full page advertisement in The New York Times highlighting the dangers of Tesla Full Self-Driving after safety tests reveal that it will repeatedly run down child ..."
     publishedDateTime: 2022-11-09T17:25:00Z
@@ -42,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 21
+  - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
+    excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
+    publishedDateTime: 2022-11-06T19:01:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
   - title: "Another headache for Elon: Full-page ad in New York Times claims Tesla poses 'life-threatening danger to children' after testing shows the self-driving system does not stop for ..."
     excerpt: "As if Elon Musk did not have enough on his plate with Twitter, Tesla is now under fire in a full-page advertisement in the New York Times that warns its 'Full Self-Driving presents a life-threatening danger to child pedestrians.' The ad, which cost about $ ..."
     publishedDateTime: 2022-11-07T20:40:00Z
@@ -59,6 +60,6 @@ related:
         height: 382
         isCached: true
 
-secured: "oOpe27SoAHYsuRGdPoVIZ1+W6y9snhXKRchuuigOsWrCgCILrmUxY/KEcjm/pJmAGtNpV7Iln6IiMlUOwdMWgLfeNdIZrHm6hFrg1cAJqsZojb03UQeKzzVOv0eZ2Zog0tRPI5Vx2PLmKCmNhcxggRpYbv3pHE1TjNhv3ky9alds9tkglj4AHXalEG9W1IgGwzDjfPG0Ut9Mkz9Yz3DJVscB03q44hxZrO+OU4XNEBgfehxsx+1ZDWbXNRUEFXknZYLZwY7HtVj8hQx18EBau1MTXnwnn8fVLN21NdAJqAfGatVToiWgTFaWAczaTNWEfjyPHZe0QEuDMFraVyfI0aCjlFACMIP5Z+uB+q6bCqGLhhgYyhxK4wiU2n73vLDTXd8f67iGqjy3TeUgVFqfTy5wrLj1vDsabA3FplR8pu1DoF5AaDK9TKoaB/oe8h5M3blxBEx4KIQgJZed5AB+5Z9r0gyFAMqWCFqnKeXEq9zPmPSvjWp+hRzHB3XazFa6paQCvJX1UdyJUYVqlTJCvw==;0vU36r01HqKUm1J8I0OQmw=="
+secured: "FxYbUOlKoRyTvgwwk6L1eWb0x/Q1+ERsuJh00CtTK0RvMT6m+FTgrBza4/IqPmharp17Ml23tlsDUFfm7pDeBGDmF5sHXhBpTMl3NwAEqd3mjmmAw2iEHRw+iaIVsG9pPWg7wS1n3lhRctb8TkH3U7euYn46s8usLZKQunnpxNQL4kmGRutaIZd5D7KU/4cNSCGri6uU/yDU4Z4MMcCAd7NXorj9GfYqfxNizLY4Vr7hD61U/Cb6xjgETI0LjK6vngr0/AREfIUM2Pu8jt51Txq/q9v1elx+vmK7NpedlqVZ9JKKTXAxvqhh2MTVwm/qhkfhFeM1lAOEg+L4gHo3bPycnMDTnd0JVFglvihvL3Y=;Yn+tg7dxXFJCrnVzksyVoQ=="
 ---
 

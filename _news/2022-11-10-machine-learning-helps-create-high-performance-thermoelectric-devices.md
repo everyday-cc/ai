@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T18:00:00Z
 originalUrl: "https://oilprice.com/Energy/Energy-General/Machine-Learning-Helps-Create-High-Performance-Thermoelectric-Devices.html"
 webUrl: "https://oilprice.com/Energy/Energy-General/Machine-Learning-Helps-Create-High-Performance-Thermoelectric-Devices.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Crude Oil Prices

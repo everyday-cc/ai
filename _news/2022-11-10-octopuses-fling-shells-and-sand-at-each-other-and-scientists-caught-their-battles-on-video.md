@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T19:01:00Z
 originalUrl: "https://www.livescience.com/octopuses-throw-sand-and-shells"
 webUrl: "https://www.livescience.com/octopuses-throw-sand-and-shells"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Live Science

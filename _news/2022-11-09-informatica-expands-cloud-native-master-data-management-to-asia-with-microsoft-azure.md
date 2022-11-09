@@ -65,6 +65,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "Free Rent: OpenAI Deal Shows One Way Microsoft Seeds Its Cloud"
+    excerpt: "When Microsoft in 2019 said it had invested $1 billion in OpenAI, the high-profile artificial intelligence startup agreed to develop its products exclusively using Microsoft’s Azure cloud servers. It appeared to be a big customer win for Microsoft Azure in its battle against rivals such as"
+    publishedDateTime: 2022-11-07T23:25:00Z
+    webUrl: "https://www.theinformation.com/articles/why-openai-spent-barely-a-dime-on-microsofts-cloud-after-1-billion-deal"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 34
   - title: "Insight Achieves All Microsoft Solutions Partner Designations"
     excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."
     publishedDateTime: 2022-11-08T16:27:00Z

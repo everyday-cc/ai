@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T20:47:00Z
 originalUrl: "https://www.abc.net.au/news/rural/2022-11-10/industry-driving-self-insurance-scheme-to-protect-truckies/101632196"
 webUrl: "https://www.abc.net.au/news/rural/2022-11-10/industry-driving-self-insurance-scheme-to-protect-truckies/101632196"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Australian Broadcasting Corporation

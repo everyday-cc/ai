@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T05:10:00Z
 originalUrl: "https://www.chinadaily.com.cn/a/202211/09/WS636b3651a3105ca1f2274f3c.html"
 webUrl: "https://www.chinadaily.com.cn/a/202211/09/WS636b3651a3105ca1f2274f3c.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: 中国日报网

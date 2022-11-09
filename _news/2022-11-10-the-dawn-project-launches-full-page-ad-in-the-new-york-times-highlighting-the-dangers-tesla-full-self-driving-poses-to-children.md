@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-dawn-project-l
 webUrl: "https://markets.businessinsider.com/news/stocks/the-dawn-project-launches-full-page-ad-in-the-new-york-times-highlighting-the-dangers-tesla-full-self-driving-poses-to-children-1031893169"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
+    excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
+    publishedDateTime: 2022-11-09T20:39:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas-full-self-driving-shortcomings/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/Tesla-FSD-simulation.jpg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
     excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
     publishedDateTime: 2022-11-06T19:01:00Z

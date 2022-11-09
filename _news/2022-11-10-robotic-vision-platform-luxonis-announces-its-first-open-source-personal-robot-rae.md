@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T16:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Benzinga.com

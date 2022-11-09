@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T18:26:00Z
 originalUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2022/11/09/disruptel-samba-tv-acquisition.html"
 webUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2022/11/09/disruptel-samba-tv-acquisition.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

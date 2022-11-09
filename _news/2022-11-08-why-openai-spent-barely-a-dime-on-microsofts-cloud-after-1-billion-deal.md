@@ -57,6 +57,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "Free Rent: OpenAI Deal Shows One Way Microsoft Seeds Its Cloud"
+    excerpt: "When Microsoft in 2019 said it had invested $1 billion in OpenAI, the high-profile artificial intelligence startup agreed to develop its products exclusively using Microsoft’s Azure cloud servers. It appeared to be a big customer win for Microsoft Azure in its battle against rivals such as"
+    publishedDateTime: 2022-11-07T23:25:00Z
+    webUrl: "https://www.theinformation.com/articles/why-openai-spent-barely-a-dime-on-microsofts-cloud-after-1-billion-deal"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 34
   - title: "Informatica Expands Cloud-Native Master Data Management to Asia with Microsoft Azure"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, today announced that the company is expanding its Software-as-a-Service (SaaS) v"
     publishedDateTime: 2022-11-09T00:59:00Z

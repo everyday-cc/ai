@@ -7,7 +7,7 @@ originalUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should
 webUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 960
     height: 640
     isCached: true
+
+related:
+  - title: "Book-Industry Activists Should Be Careful What They Wish For"
+    excerpt: "Even if a book arguing for the genocide of an ethnic minority could make back its advance, most people would object strenuously if Penguin Random House published it. So why isn’t the Universal Declaration of Human Rights a reasonable moral floor ..."
+    publishedDateTime: 2022-11-09T17:10:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2022/11/amy-coney-barrett-book-penguin-random-house-letter/672043/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 34
 
 secured: "ImgKJ9MQNjzHAt1FO4dcNg2/SeYXtUBuw6s+ZEyZeCJYSCoMBJtfBfVIJXhz8sl2JY7ph/5xZO+Ui5OUBnlKN98Hyk9n8/chkq4jqGrzuim+L2A4mHigf5rkC4fLRvvkAqr+DuO/SD4a1Zfl7IjFrkulKTxOu7vCNrhhIPN3vY2alIShkD6qHN+ZhulrhpTO/BB/fn6ua6UxYZcq+RazuWt3Km9VBpHhlIppsOIkKHJaN1QjIPrWboWQ6uD/QsARktH99IHN1YdLtwTyWSK74EBmSsQgAcEtGQbT+gOQ3ZdpKAePkUz/aoTXtXG9g/g84ZsmUQQqEfYNsoDbTUkZH9cMuiOIFUwZ+DecxVCBJyuWmrrZPqJpL5Vt6sxunvt3c8aOCxa7Bf+fJcjEuQ4CDOk5reE/aA16QjohCSlXYbWrA8b26mNG48fuk6a3LhkguOXxuOeIqux+Cb8BEuJUMDnfSxKmkrVKpnd2J5Suz+ZKN1VbKQK2EXbh/f/VZJeaiRVNbnD+EUYoOiSmGpV5zA==;yCEHd2dbSgPJ+/dAgESK7g=="
 ---
