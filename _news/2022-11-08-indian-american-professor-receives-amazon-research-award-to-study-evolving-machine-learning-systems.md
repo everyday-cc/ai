@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Indian-American professor receives Amazon Research Award to study evolving machine learning systems"
+    excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences. Pavithra Prabhakar, who is the Peggy and Gary Edwards chair in engineering,"
+    publishedDateTime: 2022-11-09T05:16:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems/cid/1897097"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems/cid/1897097"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems/cid/1897097"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 45
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Nov/1667970367_edugraph-14.jpg"
+        width: 550
+        height: 378
+        isCached: true
   - title: "How American Eagle Reinvented Its Fulfillment Strategy"
     excerpt: "Faced with pandemic-related disruptions and increasing competition from Amazon, American Eagle decided it needed to take control of its e-commerce delivery. That led to two acquisitions and a new strategic question: Should the delivery companies it acquired still serve other customers,"
     publishedDateTime: 2022-11-07T13:15:00Z

@@ -2,26 +2,26 @@
 category: news
 title: "Leslie Phillips, voice of Sorting Hat, 'Carry On' star, dies"
 excerpt: "The veteran actor made his first film appearances in the 1930s and is also remembered for his exaggerated comic portrayal of the English upper-class."
-publishedDateTime: 2022-11-08T17:08:00Z
-originalUrl: "https://www.ktvb.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-webUrl: "https://www.ktvb.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+publishedDateTime: 2022-11-08T19:40:00Z
+originalUrl: "https://www.whas11.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+webUrl: "https://www.whas11.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: KTVB
-  domain: ktvb.com
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.ktvb.com/assets/WOI/images/d2ccc787-da35-49e9-b347-e02218984ae3/d2ccc787-da35-49e9-b347-e02218984ae3_1140x641.jpg"
+  - url: "https://media.whas11.com/assets/WOI/images/d2ccc787-da35-49e9-b347-e02218984ae3/d2ccc787-da35-49e9-b347-e02218984ae3_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -148,6 +148,6 @@ related:
         height: 675
         isCached: true
 
-secured: "h8y+Tfd2mCp17/pJnsQYK5Z0CB4iuk0MAkLpDl9ZQa1hbmsZnnlhmvI1IGCI/ZYrZpQMx+tbmDZMizfVpQV5yG3tdNkb2AS4kWOUUvgDikI4UyQnyrh2n+ilnY2/+KL8IXuBxW8TgQa2p6cfjvaEob2QNhJIkme/X2wODs893FDl5+oEkZqFITxLwJi6moCdoOwPrL9MPdFAl5YoX7r9LAHorn9zgKphworhC3bbRAGDtRNdxSrX4f2Wrbc3Qo/J8988GV7JGk5CXiufEt4sBe//3aHeIseaZ9V3ccL8ekWFeFy3xz+HPS6ZexLpC/O69qaEoGD3E16INm5xrThxs/ti2VCU3In8OcnGQhsaACE=;lEFcJV4K5W7K9iAdEaO1pA=="
+secured: "S9Blkc1B0RJODYelstYRa082ppGDRW31PuCt8k6uIBG6nmpFOo5xkxTJN2q2P97mkbjTWvXmI4e+FKZaHv3DOpvRhki8ETgzN4YwIeVQ9mx+o+HfmHdr8oKbOfls2RQPbvpwxDiz8tbEahtuHRek66K0E6vEo1MSEeApm+IV61TV217IX44kKZhVZPkfAyD1aF/SG8YYoks7CRslwJDU2sPGSUw2ewYCvDp0i3SSP/wYRAwOzSWf+O+852/BzMZwShHcTKvsKRQ9RpyfAywSUH2gNn6N7gqtwOP/WjR8jN3ngXxez1rYZDof4Wf9ERRvLfh1gIDzFjf5Uk/SDzDkRwPFnY9wAdaLR/qoOw0fMx0=;+8bR6/h8XbJE0sAwenvoWA=="
 ---
 

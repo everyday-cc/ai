@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/intel-takes-responsibility-ai?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp"
 type: article
 quality: 63
-heat: 74
+heat: 75
 published: true
 
 provider:

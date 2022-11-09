@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-l
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2022/11/08/1319612-pavithra-prabhakar.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Indian-American professor receives Amazon Research Award to study evolving machine learning systems"
+    excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences. Pavithra Prabhakar, who is the Peggy and Gary Edwards chair in engineering,"
+    publishedDateTime: 2022-11-09T05:16:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems/cid/1897097"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems/cid/1897097"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems/cid/1897097"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 45
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Nov/1667970367_edugraph-14.jpg"
+        width: 550
+        height: 378
         isCached: true
   - title: "Indian-American professor receives Amazon Research Award to study evolving machine learning systems"
     excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences. Pavithra Prabhakar, who is the Peggy and Gary Edwards chair in engineering,"

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Dataloop Automates Data Management and Annotation to Accelerate AI Projects"
-    excerpt: "Dataloop, an Israeli startup, has made the announcement that it will offer businesses a complete platform covering every stage"
-    publishedDateTime: 2022-11-04T13:06:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/Dataloop-Automates-Data-Management-and-Annotation-to-Accelerate-AI-Projects.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Assert AI Secures $2 Million to Accelerate AI Product Development through Computer Vision"
     excerpt: "India's pioneering tech Start-up Assert AI has raised $2 Million via Equity funding to expand business in the US and build specific capabilities in the agribusiness domain. The funding will fast-track AI product development to automate detection,"
     publishedDateTime: 2022-11-08T12:41:00Z

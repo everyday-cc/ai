@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-business-development-size-share-and-opportunities-2026-2022-11-08"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: MarketWatch
@@ -29,43 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Evolution Segmentation and Insight of Trends 2022 to 2028 with Top Countries Data"
-    excerpt: "Nov 04, 2022 (The Expresswire) -- \"Artificial Intelligence in Healthcare Market\" research provides significant and in-depth information on the global"
-    publishedDateTime: 2022-11-04T13:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04"
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2027"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence (AI) in Food and"
+    publishedDateTime: 2022-11-07T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2027-2022-11-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 26
+  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
+    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
+    publishedDateTime: 2022-11-08T08:32:00Z
+    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
+        width: 640
+        height: 335
         isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Top Key Player, Competition Strengths & Weakness from 2022 to 2028"
-    excerpt: "Artificial Intelligence in Precision Medicine Market In 2022 : The Medical Care Industry is dominated and accounted for"
-    publishedDateTime: 2022-11-08T16:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-top-key-player-competition-strengths-weakness-from-2022-to-2028-2022-11-08"
+  - title: "Self-Driving Bus Market 2022 Business Development, Size, Share And COVID-19 Impact Analysis 2028 | Tesla, Navya, Proterra X Herald"
+    excerpt: "The Research report on“ Self-driving Bus Market Report 2022 – Future Opportunities, Latest Trends, In-depth Analysis, and Forecast to"
+    publishedDateTime: 2022-11-08T10:27:00Z
+    webUrl: "https://menafn.com/1105146901/Self-Driving-Bus-Market-2022-Business-Development-Size-Share-And-COVID-19-Impact-Analysis-2028-Tesla-Navya-Proterra-X-Herald"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: Mena FN
+      domain: menafn.com
+    quality: 9
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?361279"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Self-driving Vehicles Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
-    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Self-driving Vehicles Market is expected"
-    publishedDateTime: 2022-11-07T22:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-11-07"
+  - title: "Global Healthcare CMO Market Report 2022: Escalating Role of Artificial Intelligence Technology Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "Trends: The market is projected to grow at a fast pace during the forecast period, due to escalating role of artificial intelligence technology and evolution of advanced respiratory equipment. Healthcare artificial intelligence (AI) has transformed by ..."
+    publishedDateTime: 2022-11-08T13:37:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-11-08/global-healthcare-cmo-market-report-2022-escalating-role-of-artificial-intelligence-technology-pres"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 0
 
 secured: "EmmGAJ6bUOttTm5JoL00bNGcM4K/qiz33mqPt/FNlbJ7D56Qov0SRe769qGPfg8i0G93nxXaz/8hfOXv8h+gj9bzKF3N0zpU5vaKEsKe1KXgXxyw7N2r4zOGGB93bAvZ5jc4OQzTya1IBrf72F3/0IdGEMBfw8S0mhRDpu3/q7UBXmcrPflSmV8n4bv9M5hgYWcqvqcGQ49SDXKmzLM4q4J+4kmkSngiFM/wQM9E5IhEqB91INxhoYxTyQIE/AhVl6hXXb/oqofWtlu4sg6Lz0NUWLzh16bcTiYePjj/Oe3eCDdU5nH64KlTFwmhk6ZYxXrmyaXEq4ManeHRkmK7loZPoF2/QkWKaJhGhzl5Km8=;4vL40a4/oc3o8em+KaHQNQ=="
 ---

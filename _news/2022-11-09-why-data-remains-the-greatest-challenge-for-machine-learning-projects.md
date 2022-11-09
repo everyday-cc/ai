@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 106
 published: true
 
 provider:

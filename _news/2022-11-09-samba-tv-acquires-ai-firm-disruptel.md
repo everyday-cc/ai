@@ -7,7 +7,7 @@ originalUrl: "https://www.tvtechnology.com/news/samba-tv-acquires-ai-firm-disrup
 webUrl: "https://www.tvtechnology.com/news/samba-tv-acquires-ai-firm-disruptel"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
-    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
-    publishedDateTime: 2022-11-04T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
   - title: "Samba TV Acquires AI Startup Disruptel To Boost Its ACR-Based Measurement"
     excerpt: "On Tuesday, Samba announced its merge with the St. Louis-based AI startup Disruptel to bolster its machine learning chops, namely in automatic content recognition (ACR). Terms of the deal were not disclosed. Disruptel launched in 2017 with the goal to ..."
     publishedDateTime: 2022-11-08T14:08:00Z

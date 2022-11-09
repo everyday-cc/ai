@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Samba TV Acquires An Artificial Intelligence And Machine Learning Company"
-    excerpt: "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ..."
-    publishedDateTime: 2022-11-04T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
   - title: "Samba TV Acquires AI Firm Disruptel"
     excerpt: "The acquisition will strengthens Samba AITM, a suite of advanced AI and ML technologies for the Connected TV market, the company said. “Artificial intelligence and machine learning are transforming nearly every aspect of our lives today,"
     publishedDateTime: 2022-11-08T17:29:00Z
