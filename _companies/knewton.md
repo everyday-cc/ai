@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Knewton"
   url: "https://twitter.com/Knewton"
-  followers: 14061
+  followers: 14062
 
 locations:
   - Hoboken, NJ
