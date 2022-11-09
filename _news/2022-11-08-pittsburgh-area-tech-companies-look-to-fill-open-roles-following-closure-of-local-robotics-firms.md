@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-lo
 cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms"
-    excerpt: "The desire for high-skilled talent in robotics — and more broadly in tech — remains strong throughout the region despite the recent shuttering of two prominent robotics startups. Here's who's hiring for these roles right now."
-    publishedDateTime: 2022-11-04T19:55:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/04/robotics-firms-look-to-hire-local-talent.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
 
 secured: "vgdWAS2AYVx+Z6CrWa/LcBXf45WnByX+2UNHpvz92EhyboztLnB6kp9roIbv1t/MSp4KfN6zWspt8Z9RstH6Sf3Y6Nn9pdTHgz6VB0ceiJA7V1LjnFz39xbxKNO2aQRSYlxMmTFCvkB5m0l+tmYxoKHTTDKjAx6FK5R0tV/hHjD7z0zynLSZVXZVrVenMJk/r7D+3PFFC3FXr1spKaMRGcyAedbvmg60KA1p0WLcLRkHWkqwregw5Eriu9MzYgQClJULVp6Y47f9n3EJuy+g5EhdBpUPdhb3fubboyemZ5EEcyoVbIH0/KFzlYbrUViopGS38KNf1foR6XnOYntBIFdKecAX0mPuACKPc+MukZ7fMw8iuOFyA+ZMNUVVGXYU3Qt1rRfDCs3y7loQdq4LLfy1kybqjHXix0R5feCalSgPNMtGVXhzw67S6sN0EpssscgF1ovtKow9FjGZXPEm5qTydpEWSgBFxm//7Y11P4ZhgL7+XQ/55RdI7OKC215jvFFD/lDmBozKlY4Cn1LzlQ==;JhfEnnPNdH+428t3tK9pKQ=="
 ---

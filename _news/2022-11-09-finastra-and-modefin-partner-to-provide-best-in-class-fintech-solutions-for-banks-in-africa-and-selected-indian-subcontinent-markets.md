@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Finastra and Modefin partner to provide best-in-class fintech solutions for banks in Africa and selected Indian subcontinent markets"
-excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping"
-publishedDateTime: 2022-11-09T09:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-for-banks-in-africa-and-selected-indian-subcontinent-markets-301672584.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-for-banks-in-africa-and-selected-indian-subcontinent-markets-301672584.html"
+title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
+excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
+publishedDateTime: 2022-11-09T11:31:00Z
+originalUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
+webUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1916021/FINASTRA_Logo.jpg?p=facebook"
-    width: 939
-    height: 492
+  - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated6_12.png"
+    width: 900
+    height: 480
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 600
         isCached: true
 
-secured: "n5Pb6UX1uFO5+hVryNfSzUY7surj3tsxB5egm3Kbx6gwBdYJ2CoCkuCWt1FdQCN8YR1q+onsnicXEJ160pUFH3u88xLh23uhlLh93GaFktO/Y8nMskh+r0qTn1ju9XveC48SvSItw1/gSpDgMFv/3uxJNTH8rHLDs9I1M9QMqJChXnKhLchf4Yj5K34I0F8DtArKifW+EWydIci7CaZo0UVBlLYpLcj2qaQLL5gwGtdj8HWkVbYDlIt6vnjlY631AEfZ86uR8cgDim1+EeDuqOSlo5Jc2GGLDJaJj43SLbWXGbo3tC0IYlCMcZx3LMAcpulG3n3afaRJEA+8+Wwp/wKsJS1cXuDkQdIzWCU0Ahs=;K9pzsn/BFie+kEtmFRoLhg=="
+secured: "PofGT7R34y3wjcWWXNtc1rSNbtr43ctz4l4Lv1UV+3PVYF5wRnzUS62+dgk4rK/GYTzhNz/ljBcDE68cHAEVT5W9sSrbWPcUUoISGXh3NTIeXkaM668tNlSl5HXQJbJY3zmed+2boPQRRYB9BjvMKcQbfAxVy7mVZJl8D6LRrQSXU1yVE+3fWq9EA8ouCCbOkO7HWTTxebFE/xYxrALC4IS61Yn/q30jNh5/MHcAee0Ld39ckZ8IjEZqzBwRDROCshdKY5vpGdwjp6mTAi28Bfez9S+FWh9xk8bAvwcJ0XaP+lE+3gOUhGpGmPqAxF+60x3WiJxgV+KX1g0IeleZeFl6a5HQDUrhl3K3lvc70SY=;GxEeEyfJiUnfRZ0uBX2sRg=="
 ---
 

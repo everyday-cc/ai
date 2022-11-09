@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Life Certificate Submission Using Face-recognition System: Details Here"
+    excerpt: "A digital service with biometric support, known as the Digital Life Certificate (Jeevan Pramaan), is available to pensioners. They have the opportunity to generate DLC using the Aadhaar-enabled biometric authentication method."
+    publishedDateTime: 2022-11-09T12:06:00Z
+    webUrl: "https://www.thequint.com/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 55
+    images:
+      - url: "https://images.thequint.com/thequint%2F2022-11%2F91f151d0-c733-424e-ab2e-9e04f4d0847c%2FiStock_900862538__2_.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Jeevan Pramaan Patra: Steps to submit digital life certificate via face recognition feature"
     excerpt: "All pensioners are required to submit a ‘life certificate' or Jeevan Praman Patra in November every year to pension disbursing authorities (PDAs) such as banks and post offices to receive their monthly share."
     publishedDateTime: 2022-11-09T10:36:00Z

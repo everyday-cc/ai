@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/middle-east/israel-start-self-drivin
 webUrl: "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

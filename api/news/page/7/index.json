@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-01-aws-opens-lagos-office-increases-commitment-to-africa.md",
+      "title": "AWS opens Lagos office, increases commitment to Africa",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, today announced the opening of its first office in Lagos, Nigeria. The new Lagos office is part of AWS’s support for the growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "originalUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/uQQktkqTURBXy84NWEyODYxYWNhZTUxMDJiY2IyMWQwNmM0NDI0MzAyZS5qcGVnkpUDAMzAzQKrzQGAkwXNBLDNAnY",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "publishedDateTime": "2022-11-01T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-ethics-in-operation-the-business-case-for-responsible-ai.md",
+      "title": "Ethics In Operation: The Business Case For Responsible AI",
+      "excerpt": "What makes AI so powerful is that it can emulate human thought and behavior to achieve objectives faster and more efficiently than any human could. Of course, with this kind of power, we have to consider responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&crop=2778,1563,x0,y185,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/amp/",
+      "publishedDateTime": "2022-11-01T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors.md",
+      "title": "AMD RDNA3 GPU Revealed With Two Eight-Pin Connectors",
+      "excerpt": "That seems kind of quaint in the current environment. It also flies in the face of rumors that AMD would be unleashing a monster GPU in the same vein that Nvidia has with the 4090. The other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
+      "originalUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2022/10/Screenshot-2022-10-31-at-10.19.02-AM-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-trubrain-review-yummy-cognitive-goodness-does-it-really-work.md",
       "title": "TruBrain Review: Yummy Cognitive Goodness-Does It Really Work",
       "excerpt": "One is Oxiracetam, and the other is Piracetam. Both support the neural pathway and boost the neurons for better cognitive functions. In multiple studies conducted by neuroscientists, they found ...",
@@ -1036,144 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m.md",
-      "title": "How AI and NLP accelerate contract lifecycle management (CLM), Icertis raises $150M",
-      "excerpt": "Icertis, specializing in contract lifecycle management (CLM) and manager of over 10 million contracts, has raised $150M in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
-      "publishedDateTime": "2022-10-31T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-mediateks-dimensity-9200-crushes-the-competition-in-gpu-performance.md",
-      "title": "MediaTek's Dimensity 9200 Crushes The Competition In GPU Performance",
-      "excerpt": "Ahead of its debut, some key details about the processor have leaked online, hinting at big improvements in GPU performance. According to noted tipster Ice Universe, the Dimensity 9200 will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/09/MediaTek-Dimensity-5G-SoC.jpg",
-          "width": 1816,
-          "height": 1116,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html?amp",
-      "publishedDateTime": "2022-10-31T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-a-system-that-allows-users-to-communicate-with-others-remotely-while-embodying-a-humanoid-robot.md",
-      "title": "A system that allows users to communicate with others remotely while embodying a humanoid robot",
-      "excerpt": "Recent technological advancements are opening new and exciting opportunities for communicating with others and visiting places remotely. These advancements include telepresence robots, moving robotic systems that allow users to virtually navigate remote environments and interact with people in these environments.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-system-that-allows-u.jpg",
-          "width": 1012,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
-      "publishedDateTime": "2022-10-31T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

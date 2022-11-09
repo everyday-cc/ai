@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
+    excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
+    publishedDateTime: 2022-11-09T11:32:00Z
+    webUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_k2sb.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "China slows down its processors, Nvidia unveils less-powerful chip to comply with US sanctions"
     excerpt: "As per the Financial Times, some Chinese fabless chipmakers, including Alibaba and Biren, have poured millions of dollars into creating blueprints for advanced processors destined for"
     publishedDateTime: 2022-11-08T10:14:00Z

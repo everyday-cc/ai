@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/abarth-facial-recognition-track-drivers-genesis-unlock-1690562.jpg?r=1667316653349"

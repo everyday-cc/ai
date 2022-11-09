@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Context Analytics partners with Autochartist"
+    excerpt: "Context Analytics (CA), a global leader in Unstructured Financial Data processing has partnered with Autochartist"
+    publishedDateTime: 2022-11-09T12:16:00Z
+    webUrl: "https://financefeeds.com/context-analytics-partners-with-autochartist/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 4
 
 secured: "MsHT1CiYfYpgWX0FHfUSfugems98TtyVgRQlmnGhDcs3YMBWx3Nakbb0Fm16Ktt5433gAbYNLzGSD3S/bKeNPkr0D6joF+FP9BpTL3K31/4/h2/xJEDVAB4H44e0k68s3WszDKGorFTvK9QWzYZzKIBm1paNuTExJ8fw6InNcYfmZH4hPCCxc+rNreNAlB3osmfAO3vRQiD1qbZD/l1kHGEGjJIX/PbOHJ5GF9yAbO9822iSt3OyOpdzUrSPVIgKPgyB9Gh8grdT/3ySho1y0Eoc4uFldx1ilFj7URbk1pr5NLM6tSNyBLbFD2LLfapXspYJZ42zJgVcxQ3WrD4Erf2JFg+JTpKkGo8CKUaD7UE=;uRQt+TtHyXk59YAjrrWSSw=="
 ---

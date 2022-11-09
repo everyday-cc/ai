@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps-to-submit-digital-life-certificate-via-face-recognition-pesnion-15124611.htm/amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Life Certificate Submission Using Face-recognition System: Details Here"
+    excerpt: "A digital service with biometric support, known as the Digital Life Certificate (Jeevan Pramaan), is available to pensioners. They have the opportunity to generate DLC using the Aadhaar-enabled biometric authentication method."
+    publishedDateTime: 2022-11-09T12:06:00Z
+    webUrl: "https://www.thequint.com/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 55
+    images:
+      - url: "https://images.thequint.com/thequint%2F2022-11%2F91f151d0-c733-424e-ab2e-9e04f4d0847c%2FiStock_900862538__2_.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Jeevan Pramaan Patra: Here’s How Pensioners Can Submit Digital Life Certificate Through Face Recognition Service"
     excerpt: "The government has now developed a Face-Recognition technology system based on the Aadhar database, which enables anyone with an Android-based smartphone to provide a DLC."
     publishedDateTime: 2022-11-06T16:14:00Z

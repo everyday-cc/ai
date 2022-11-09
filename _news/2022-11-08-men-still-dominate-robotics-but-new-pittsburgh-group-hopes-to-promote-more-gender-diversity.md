@@ -41,15 +41,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms"
-    excerpt: "The desire for high-skilled talent in robotics — and more broadly in tech — remains strong throughout the region despite the recent shuttering of two prominent robotics startups. Here's who's hiring for these roles right now."
-    publishedDateTime: 2022-11-04T19:55:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/04/robotics-firms-look-to-hire-local-talent.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
 
 secured: "+CUFCb34me+yDEKaqeyKFWoLiiHOqTCrYBpDygZssBvyTPYLGksia/62Fofee9lgAGH9JFpt8IYhMiesCdHjvF6J4M8HgODPK4ihArqW4tu8eBF0kIxPtLlUU5c02UU0JJ3eRTwcqn9bA/pUTa2IMTlE3ezcnjGvdWVjAJ9FLPzAtzFz8aRGqOH4hbSWADxi/Hq4aiyVuKGmXN+lyHtnWDlC0ZF0sLJhVhWQmpaUpSULhSkbPB/aBrfX46RWoGsjfwMO2yOFj7awsMaxe5gYhiAQRYmtXc17t3xjGBv4+cFAdx16EVhx3e+neAzLA/rg06vo1Uaai83KdQRXm+v3HlAjE9Dgs8dbLrC10rcfHilqQSFeZ9xmT0ELSq+GMPtywZ7IdiT60JofufghjTvcO6Uwb7iD47Z93opq7UaLIaQVzuFMEXDlHj98rOmFwNWdhLlFw6pwmrg2OL1jE5sbRD9o8SV14PccIfnoaBWbPFD9LwAMatQZ4clW3BDE5DXR7IBVOMOINSL65SEVbBGuTA==;AvaHnQ+OVD+al2IrYfr9ww=="
 ---

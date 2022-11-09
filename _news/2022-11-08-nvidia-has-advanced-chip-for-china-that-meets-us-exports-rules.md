@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://images.wsj.net/im-660770/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
+    excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
+    publishedDateTime: 2022-11-09T11:32:00Z
+    webUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_k2sb.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia May Have Found a Way Around New U.S. Chip Export Restrictions"
     excerpt: "a high tech data center chip that is dumbed down just enough to meet the export restrictions that were put in place by the U.S. government last month. The government, of course, is concerned about sending that AI and high technology to China for fear that ..."

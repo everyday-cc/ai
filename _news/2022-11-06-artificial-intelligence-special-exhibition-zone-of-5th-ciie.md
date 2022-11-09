@@ -39,6 +39,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Focus on health care and disease prevention at CIIE"
+    excerpt: "High-end medical appliances, health education and chronic disease prevention were among the highlights at the 5th China International Import Expo. Pathological examination is the first step toward accurate diagnosis and therapy."
+    publishedDateTime: 2022-11-09T12:12:00Z
+    webUrl: "https://www.shine.cn/news/metro/2211092602/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 24
+    images:
+      - url: "https://obj.shine.cn/files/2022/11/09/ba38fc70-2917-46a8-8806-fc26c2a9011f_0.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "k/FeyNdqbT+c3yYj2zOf08JF66I6Al2L4l9o/OtZgHwblUqf5AgYkOqTjDbIVQiEYskZDEOMge5uhnsN46lNaUoKPgJVJuwT/YnoVfru5gjolfd6+OvthHH4I9s4tPmFuSsSVuFgVMbEKVs1sYgGSa1pzD3vkcgn+QtIkrm8E/Lo8RmmArLpom6c0YlSv4CYJ5V7BXgN8+NU0GOGHORggRoWlhwoZjJWbW0AoO0OY61YgLZJwqB/LSzFv6eV3HxILYS2UxU8NFE6/2FWhNjTIW/JvbioMi9TOTSH4N1gF2/01NaSr1hyx9rOx7Nd0caueTjrpET/ya4zHMRcbrjs3j6qG/m/F6QwxxVVuEF7QVjZdkIKm0ZciyDKFDvyTkOX29d1i6BVzU1L3n9SKrFekkbvxToLtY2BKnOr10iiaBGoHbG42dbAzakkT34jrPQpdQtW/oSWHIXuZY+DOu5vUX6/5AA7HtYlJZsy1/ahT6CeAi4L3fLx1AUejtu/ovuPt70uWiWcPRs5Dz0LuRLJcA==;hYeQERKD0zsyx3l94sXa8w=="
 ---

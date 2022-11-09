@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027"
-excerpt: "[252 Pages Report] The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% The industry participants ..."
-publishedDateTime: 2022-11-02T00:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027"
-ampWebUrl: "https://www.benzinga.com/amp/content/29514257"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257"
+excerpt: "Attractive Opportunity: Supercharge your Visualization The industry participants extensively focused on leveraging"
+publishedDateTime: 2022-11-02T00:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg"
-    width: 606
-    height: 513
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "B+8+hiNm1fRQl+UGy+i7PkLTQrnnzcR/axLQ3fBBUaDNuQSIlfC/3xzF9ax+n/PZAjCpoO5fEIaUs85owDemUXgPCYOD0rJpFj0UWRQ7wlQSZP/27f+XF/0SsI30I2Mmm5RLOTq04qEudrWwq0WNGCZCI1rnxF2TQznQc+2idPUoIQx9354jj8X7k1l93B4f4ZNOqHWfvGKgF77V28LVNGA7Z/pNKJRJMTZuiaUZ63Itqz3evwofjCQIxQxTcZRSZtgSGHuXurzbUb3s/lQktfMK2zKqSgBHMQ9/tBbevRqTjzz+A531s7JaEPtMWUN7ixb3CSU7xpB9aj7ikrOJwmWNQBqK3PdWXsQr+0UkYZQ=;x9pTUpu5pdGA/Th35cGo/A=="
+secured: "seBg/HNx8hV6NZ8CqO8RIAYtbPEaRDWDkGBuss0RZtzhbwIbL1ZDl4VCmWJRJFHHwzOV2p+RwiR3l/MCckeVE18TrQHWV4DYpwIrCo3dRbvL70ioDKvHg/627XA5HhCQ9OOcDVeYR/iZR8tkbqZ3k2ek0baZq7cpFgzGADTWMlq9ntA0e/FMNVwANxujcNaxnb27Rd1L1vLOFUZ3Wuck8tTRuzMslPA5LX0iz2L2sCJ+gcX+rjd84uVpEwHQLLj19lxIh2tKoQWvtOzfowwUN5ERLgE6L2Mj1cuFT+Ds+H7AnPfgLxS7Jt/KDp1vU2QoFU/oxF3e+jrtqhLl6Ka4xm+gNKCvsh2pk5OsDm2oLRM=;59P3n1/nFfzlfBIhqaLWbw=="
 ---
 

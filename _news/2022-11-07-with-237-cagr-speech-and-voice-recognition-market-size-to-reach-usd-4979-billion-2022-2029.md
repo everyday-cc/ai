@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Camera Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+    excerpt: "Number of Tables and Figures :128 | The global \"Deep Learning Camera Market\"size is projected to reach Multimillion USD"
+    publishedDateTime: 2022-11-09T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Machines Market SWOT Analysis & New Business Strategies with Industry Growth Status till 2022 To 2029"
     excerpt: "Nov 08, 2022 (The Expresswire) -- \"Artificial Intelligence Machines Market\"Research Reportin [ 2022 2029 ] is Ruling the Machinery and Equipment"
     publishedDateTime: 2022-11-08T16:25:00Z
@@ -76,6 +90,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Federated Learning Solutions Market – High Growth Prediction Due To Increasing Demand and Future Trends"
+    excerpt: "As per the report published by Fior Markets, the Federated Learning Solutions market is expected to grow from USD 91.5 Million in 2020 to USD 210.86 Million by 2028, at a CAGR of 11% during the forecast period 2021-2028."
+    publishedDateTime: 2022-11-09T10:28:00Z
+    webUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/"
+    ampWebUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 28
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/Federated-Learning-Solutions-Market.png"
+        width: 850
+        height: 557
         isCached: true
   - title: "How and Where the Artificial Intelligence Courses for C-suite Executives Market is Set to Grow in forecast period 2029"
     excerpt: "As per Market Growth Report, The Artificial Intelligence Courses for C-suite Executives market has witnessed growth"

@@ -89,6 +89,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Context Analytics partners with Autochartist"
+    excerpt: "Context Analytics (CA), a global leader in Unstructured Financial Data processing has partnered with Autochartist"
+    publishedDateTime: 2022-11-09T12:16:00Z
+    webUrl: "https://financefeeds.com/context-analytics-partners-with-autochartist/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 4
 
 secured: "2P+nj/aOJQBuKETvpjjMwIjbnfcdNXkj3sZQyAaGCpZV4GZuU6Rk0zbc4f3ou5/EQWo4Uncn81+TJeMnmtnPzxD9pvl2r2zpbDsPlIcLg+nCSl4zpWZIC5F5xmiDo9Bg6wqYPaQTnNeGlfHW7Z2/QfcPLSuUmE8ZInU5ZkoSFctp9n9WGpy/VDRvOKvvdHsgri1WIvn9uZE4SIchWarzdTGA990JoPwouubhErVF8MMnWuBB4Uee4E8zKuzs8t01IEoH1gRQ4t++nKhcr7cnvRw9r1zvBuWK9E7br1bJehqldZ0+grDPoCE2D7sfBZSSGpU/2Lmtl6vKcjA14g9/34MSwd5Vv1bdbFLJuyT/vVA3n689dds0Qi32D+zqd/WSkVhgkSXKHLPsxcg+eD37C4XseOL9lDLCv58zYyqnuuBwkPZRelV8islODfILOOuDgs69wiszH6fj5kkXVLnloxf3gmadjThi6E122CPLeWrqgpPmRHSCjudUSgpLRKKTcDEnroTG+G4/2Bc7rOOV2w==;73sPsTvPVCb8xo5HzNbB3A=="
 ---

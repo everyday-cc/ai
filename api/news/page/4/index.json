@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-04-a-keyboard-with-its-own-cpu-and-gpu-yes-its-real-and-its-coming-soon.md",
+      "title": "A keyboard with its own CPU and GPU? Yes, it’s real — and it’s coming soon",
+      "excerpt": "Have you ever wanted to own a keyboard that has its own CPU and GPU? No? Well, it’s almost here regardless, and it’s a lot cooler than it sounds. A video of an upcoming keyboard has emerged ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/",
+      "originalUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/finalmouse-keyboard.jpg?p=1",
+          "width": 1108,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/?amp",
+      "publishedDateTime": "2022-11-03T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
+      "title": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive",
+      "excerpt": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
+      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
+      "excerpt": "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-us-army-digs-deeper-to-develop-robotic-breachers.md",
       "title": "US Army digs deeper to develop robotic breachers",
       "excerpt": "As part of the Joint Warfighting Assessment exercise, two of the vehicles controlled by a Marine Corps unit tackled obstacles atop a desert plateau. Both robotic vehicles were controlled from a ...",
@@ -1029,153 +1169,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good.md",
-      "title": "Google's Prototype AI Tool Can Write a Short Story. But Is It Any Good?",
-      "excerpt": "A conversational AI created by Google is writing fiction using input from published authors, the tech giant said this week. Thirteen writers used Google's LaMDA, or Language Model for Dialogue Applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "originalUrl": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/d7328e5e13b1f655ee3e54bafe5577912bfdf48c/hub/2022/11/02/a0806138-a770-4236-a21b-979a314d6ef8/gettyimages-1065679054.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "publishedDateTime": "2022-11-02T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-listen-to-an-ai-sing-an-uncannily-human-rendition-of-jolene.md",
-      "title": "Listen to an AI sing an uncannily human rendition of 'Jolene'",
-      "excerpt": "Holly+, the digital \"twin\" of experimental musician Holly Herdon, does Dolly Parton's classic 'Jolene' surprising justice..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "originalUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/d9b47f20-5aec-11ed-97f3-720746f80e8d",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "publishedDateTime": "2022-11-02T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
-      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
-      "excerpt": "Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses, such as artificial human tissue for wounds and catalysts for new ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg",
-          "width": 685,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
-      "publishedDateTime": "2022-11-02T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

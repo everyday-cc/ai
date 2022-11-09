@@ -39,19 +39,19 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Finastra and Modefin partner to provide best-in-class fintech solutions for banks in Africa and selected Indian subcontinent markets"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping"
-    publishedDateTime: 2022-11-09T09:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-for-banks-in-africa-and-selected-indian-subcontinent-markets-301672584.html"
+  - title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
+    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
+    publishedDateTime: 2022-11-09T11:31:00Z
+    webUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: Financial IT
+      domain: financialit.net
     quality: 8
     images:
-      - url: "https://mma.prnewswire.com/media/1916021/FINASTRA_Logo.jpg?p=facebook"
-        width: 939
-        height: 492
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated6_12.png"
+        width: 900
+        height: 480
         isCached: true
 
 secured: "c7ObpMqncTPhug72yi5CmoG/dXtWibddc+e+haBPPPGdL5khCoaWPzsLFSqYoFx88MrC1ggLyVqiPnKRgoeul6yN4u2G9gghgeNTxnqAB4r8k5304M/rCzqC3IjbrU05QlMoqQAB56kMdRSy72D1v22JwgBkhvCdgpha78G+N2ZJRqVWCVJ9Jgkj6JhS+VZspNygTynDe00m3m5TIYdUw+xllISx892HJyeF0Bg3z3LtbcUBkhldPfunfiEEKbnEslUM9pXN74dG9FBtljkLIr24fDbwkPtT1u1Xt12U9ttI8h3lON4x8vuldvjeerD4FN++TS6LnYoufwBIEOFhXjLXghgqLqhRMz+gHnq87Is=;AnXvcsyaL1xlxF0NMH5XqQ=="

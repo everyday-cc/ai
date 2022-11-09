@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
+      "title": "Robotics Engineering Week to address critical development issues",
+      "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "originalUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/featured-web-robotics-engineering-week.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures.md",
+      "title": "How code-generating AI (code LLMs) is creating new challenges as it matures",
+      "excerpt": "As code LLMs mature, we’re beginning to discover the challenges they must overcome, including licensing, transparency, security and control.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "originalUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1147087236-e1667580334849.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "publishedDateTime": "2022-11-04T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
+      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
+      "excerpt": "\"But where we can really see robotic sorters making a difference is in environments which are less well suited for humans, such as the sorting of contaminated waste or working in",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "originalUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "publishedDateTime": "2022-11-04T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
       "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
       "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
@@ -1028,146 +1175,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-a-keyboard-with-its-own-cpu-and-gpu-yes-its-real-and-its-coming-soon.md",
-      "title": "A keyboard with its own CPU and GPU? Yes, it’s real — and it’s coming soon",
-      "excerpt": "Have you ever wanted to own a keyboard that has its own CPU and GPU? No? Well, it’s almost here regardless, and it’s a lot cooler than it sounds. A video of an upcoming keyboard has emerged ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/",
-      "originalUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/finalmouse-keyboard.jpg?p=1",
-          "width": 1108,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/finalmouse-prototype-keyboard-has-cpu-and-gpu/?amp",
-      "publishedDateTime": "2022-11-03T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
-      "title": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive",
-      "excerpt": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
-      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
-      "excerpt": "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

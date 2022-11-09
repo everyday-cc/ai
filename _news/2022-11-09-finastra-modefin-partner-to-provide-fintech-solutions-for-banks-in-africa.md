@@ -39,21 +39,21 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Finastra and Modefin partner to provide best-in-class fintech solutions for banks in Africa and selected Indian subcontinent markets"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping"
-    publishedDateTime: 2022-11-09T09:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-for-banks-in-africa-and-selected-indian-subcontinent-markets-301672584.html"
+  - title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
+    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
+    publishedDateTime: 2022-11-09T11:31:00Z
+    webUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: Financial IT
+      domain: financialit.net
     quality: 8
     images:
-      - url: "https://mma.prnewswire.com/media/1916021/FINASTRA_Logo.jpg?p=facebook"
-        width: 939
-        height: 492
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated6_12.png"
+        width: 900
+        height: 480
         isCached: true
 
-secured: "SQ/4Wwyn8xeOkCC6YAzlgoXALQ20Fykn85GOn0qiam5TFANGv4scOseRcF0e5dVrFKEKwc0A2AGk5l9upwuTcGSYKfQJFsTmZ3OryWqymYTZFFALpyES7+iEAOBmbHkkxYXuhss4cZJXNW+DRrD1us7JJSybf0oxD30w9BLRpbXRu08tPtGZwgKwPOlK/V3K2NCQU9b+rJh44Xc9RFhmfyg3qJVrX8wcs1zjCw3+rUOrrElV25D2x+Q33pb47QTxFiAp4YEjkkk2ayxThUyUdNsTN9VgAw02dytPPDE8301/FUh+IwJZzTMkoar666CgNC1WhEymulv4dqCzS+Erj/lb0LedAm2i2wlVddvy+gA=;nCBf3dcSWDK6TtWCxlY2rA=="
+secured: "p6FlDYbxwrU5VrPbCDa4tRFw9lqjCDjvB8oG9wFm+l35qCyk1fLNajhNcqHxn3LVt/rJMTIfW1KCZFvkjcHmCCMO2DvNusoYCkmG6LacttJg3friAWYsoS9/sKeTAwxbT7cy14gt1ba+SHQrHZlkevQ7BJCuSyVGG7r4bxDo/sCZVSkrhqUmopDgBpWzVPWSdQ4Z7vkDHZG+v4O+muKT8O+5T/iSS+5fOfo/rlHCnB+IgIeMgwbonOizudRUX1EzPcyESLFKAXNfgsA9+q+J92mckH1UH49/1y8qa9PWPut+P2Iwg4A8rzkj2i/trcuDxGBh3uKXMth35DqsCnMucxwrY68VDM0LzmbzkAOnBenyMz69yQ3LUWMRQINP7d18r2XYwvWQ3w0Uahe/lSJeJRJS2tGf3SsI38KRD7QR95qBlEQ6oqbWJYcWMMXqpZ4/T189sYp01UUvy9EkejvH6kx9SzCtWabYvgEoAJi8VRR2906UGy0bZGU2O17/CeC8dPhrTJobBVxltfG5jwmlZQ==;ceqmvENwjRhlbXgpXgHvDw=="
 ---
 

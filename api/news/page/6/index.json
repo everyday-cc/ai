@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-02-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry.md",
+      "title": "U.S. Export Control - Impact And Opportunity For China's Semiconductor Industry",
+      "excerpt": "According to its SEC filing, Nvidia (NVDA), the California-based graphics and AI chip leader, will be unable to sell its A100 and H100 AI chips to the fast-growing data center businesses of China.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
+      "originalUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1422453682/image_1422453682.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-beyond-dashboards-the-future-of-analytics-and-business-intelligence.md",
+      "title": "Beyond Dashboards: The Future Of Analytics And Business Intelligence?",
+      "excerpt": "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6362212a73ae471fe027c5a2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "publishedDateTime": "2022-11-02T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-medica-2022-artificial-intelligence-method-allows-personalised-diagnosis-of-back-problems-in-future.md",
+      "title": "Medica 2022: Artificial intelligence method allows personalised diagnosis of back problems in future",
+      "excerpt": "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/83d9a07d-a900-4791-afaf-62a2de80f6cf-1509545409.jpg",
+          "width": 300,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport.md",
       "title": "Waymo's Self-Driving Cars Are Now Taking Riders To The Phoenix Airport",
       "excerpt": "Waymo, the company that specializes in self-driving car tech and that first existed as an ambitious Google project, has announced yet another major milestone in the world of autonomous driving: paid airport trips. As of November 1, 2022, some people have ...",
@@ -56,19 +194,19 @@
     {
       "path": "_news/2022-11-02-artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027.md",
       "title": "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027",
-      "excerpt": "[252 Pages Report] The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% The industry participants ...",
+      "excerpt": "Attractive Opportunity: Supercharge your Visualization The industry participants extensively focused on leveraging",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg",
-          "width": 606,
-          "height": 513,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +214,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29514257",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257",
-      "publishedDateTime": "2022-11-01T17:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1068,144 +1215,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-aws-opens-lagos-office-increases-commitment-to-africa.md",
-      "title": "AWS opens Lagos office, increases commitment to Africa",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, today announced the opening of its first office in Lagos, Nigeria. The new Lagos office is part of AWS’s support for the growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
-      "originalUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocdn.eu/pulscms-transforms/1/uQQktkqTURBXy84NWEyODYxYWNhZTUxMDJiY2IyMWQwNmM0NDI0MzAyZS5qcGVnkpUDAMzAzQKrzQGAkwXNBLDNAnY",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
-      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
-      "publishedDateTime": "2022-11-01T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naija Gist - Latest",
-        "domain": "pulse.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-ethics-in-operation-the-business-case-for-responsible-ai.md",
-      "title": "Ethics In Operation: The Business Case For Responsible AI",
-      "excerpt": "What makes AI so powerful is that it can emulate human thought and behavior to achieve objectives faster and more efficiently than any human could. Of course, with this kind of power, we have to consider responsibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&crop=2778,1563,x0,y185,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/amp/",
-      "publishedDateTime": "2022-11-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors.md",
-      "title": "AMD RDNA3 GPU Revealed With Two Eight-Pin Connectors",
-      "excerpt": "That seems kind of quaint in the current environment. It also flies in the face of rumors that AMD would be unleashing a monster GPU in the same vein that Nvidia has with the 4090. The other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
-      "originalUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2022/10/Screenshot-2022-10-31-at-10.19.02-AM-640x360.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
