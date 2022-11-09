@@ -24,6 +24,17 @@ images:
     height: 473
     isCached: true
 
+related:
+  - title: "Eoxys introduces Production-Ready Machine Learning Module with embedded Syntiant technology"
+    excerpt: "Eoxys Systems, an IoT solutions provider, today announced the availability of its XENO+ WiFi+BLE Nano ML Module, an Alexa-enabled machine learning circuit board with embedded Syntiant technology for easy deployment of consumer and industrial applications,"
+    publishedDateTime: 2022-11-09T18:30:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221109/4001670.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 9
+
 secured: "NbdA1uIDBEYRDhzL+wx5ZL9gXhq2xz5F9JUUppvuecXVRiGvtQsKmBMxx0kewz/A/oqrx486Je1YxP7pcIBoyv75vUgsAEl8gtIsdSrX/EPyKJ2SFBxUw2esrgX4AhV8v9mOmFGvppcaf3ARggo15HEMzdKB1D+c/ZdP+L61+XrY174nbobR6PcwQh0UTyFoSeAGyFjWakeZsSrM7EcL4mem2V4JJKmpNuyfWfIs89OWJ75QfxjN+cX8Uqz3UDhWqlq0opAMOj6i/3Pb/Ws/f8OXmULXc22HEBj1SXiXK/61d0VFrbPmdgQWGM237f+y3IWwNlME9Wa5+8/kt0ag95o0xA3fc0kSzFQdC6VahxUyoHllM54Y/2625hNqoRejGXEfNWhUT5j1Yc6Yx9INeuAYYGzYOB8rXVhpmmumWkS/wxKQDyYBcKt67jePTlvYaNrd04hZSlpGjww09jy5PUJAfz6kwIW8X0UdBNN0EEF6E6YVJePSTJL9X5p9Z+bN+cv0oAc9SnoNdiWZXHOG7g==;40/k4RKZ6PWr2nt95piCyQ=="
 ---
 

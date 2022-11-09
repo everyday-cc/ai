@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/finastra-modefin-partner-to-
 webUrl: "https://ibsintelligence.com/ibsi-news/finastra-modefin-partner-to-provide-fintech-solutions-for-banks-in-africa/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Finanteq fintech solutions – check out the possibilities"
+    excerpt: "The development of the fintech industry is of increasing importance – its impact on the financial sector is growing, and the fintech sector has recently become particularly important for banks. Although the term “fintech” has become incredibly popular in recent years,"
+    publishedDateTime: 2022-11-05T16:23:00Z
+    webUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/"
+    ampWebUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/1.jpg"
+        width: 1055
+        height: 593
+        isCached: true
   - title: "Finastra and Modefin partner to provide best-in-class fintech solutions"
     excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
     publishedDateTime: 2022-11-09T09:46:00Z
@@ -53,6 +69,24 @@ related:
         width: 900
         height: 480
         isCached: true
+  - title: "Biggest fintech trends to watch in 2023"
+    excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
+    publishedDateTime: 2022-11-07T09:29:00Z
+    webUrl: "https://it-online.co.za/2022/11/07/biggest-fintech-trends-to-watch-in-2023/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
+  - title: "Get to know the BostInno Fire Awards fintech honorees"
+    excerpt: "Today, we'll meet the honorees in the fintech category. Boston is on its way to becoming ... This Cambridge company operates an AI-powered insurance comparison platform, allowing customers to compare and purchase a variety of policies online."
+    publishedDateTime: 2022-11-08T14:28:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2022/11/08/fire-awards-2022-fintech-honorees.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "p6FlDYbxwrU5VrPbCDa4tRFw9lqjCDjvB8oG9wFm+l35qCyk1fLNajhNcqHxn3LVt/rJMTIfW1KCZFvkjcHmCCMO2DvNusoYCkmG6LacttJg3friAWYsoS9/sKeTAwxbT7cy14gt1ba+SHQrHZlkevQ7BJCuSyVGG7r4bxDo/sCZVSkrhqUmopDgBpWzVPWSdQ4Z7vkDHZG+v4O+muKT8O+5T/iSS+5fOfo/rlHCnB+IgIeMgwbonOizudRUX1EzPcyESLFKAXNfgsA9+q+J92mckH1UH49/1y8qa9PWPut+P2Iwg4A8rzkj2i/trcuDxGBh3uKXMth35DqsCnMucxwrY68VDM0LzmbzkAOnBenyMz69yQ3LUWMRQINP7d18r2XYwvWQ3w0Uahe/lSJeJRJS2tGf3SsI38KRD7QR95qBlEQ6oqbWJYcWMMXqpZ4/T189sYp01UUvy9EkejvH6kx9SzCtWabYvgEoAJi8VRR2906UGy0bZGU2O17/CeC8dPhrTJobBVxltfG5jwmlZQ==;ceqmvENwjRhlbXgpXgHvDw=="
 ---

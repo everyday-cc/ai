@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia’s selling a nerfed GPU in China to get around export restrictions"
+    excerpt: "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Nvidia’s note about not being able to be programmed to exceed the limits is important. Back when GPUs were in short supply, the company announced that its ..."
+    publishedDateTime: 2022-11-08T23:58:00Z
+    webUrl: "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 68
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/0ApsR4WiWJXetEg7ocJyHe01OOc=/0x0:1980x1320/1200x628/filters:focal(990x660:991x661)/cdn.vox-cdn.com/uploads/chorus_asset/file/19970190/2555435ebae590030837.15346566_NVIDIA_A100_GPU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "China slows down its processors, Nvidia unveils less-powerful chip to comply with US sanctions"
     excerpt: "As per the Financial Times, some Chinese fabless chipmakers, including Alibaba and Biren, have poured millions of dollars into creating blueprints for advanced processors destined for"
     publishedDateTime: 2022-11-08T10:14:00Z

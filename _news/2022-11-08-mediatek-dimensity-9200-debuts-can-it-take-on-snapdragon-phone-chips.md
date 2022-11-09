@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek Dimensity 9200 Rocks Wi-Fi 7 And A Huge GPU Upgrade For Flagship Phones"
+    excerpt: "The Dimensity 9200 has a few tricks up its sleeve, in addition to offering more performance at a much lower power draw."
+    publishedDateTime: 2022-11-09T15:20:00Z
+    webUrl: "https://hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
+    ampWebUrl: "https://amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/60067/content/MediaTek_Dimensity_9200_Hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "MediaTek Dimensity 9200 with Cortex-X3 CPU, Immortalis-G715 GPU, UFS 4.0, Wi-Fi 7 support announced"
     excerpt: "MediaTek just announced Dimensity 9200, the company’s latest flagship SoC, as it had promised. It is the first to use second-generation TSMC’s 4nm process tech that has a better heat dissipation package design and the CPU peak performance power consumption reduced by 25%,"
     publishedDateTime: 2022-11-08T03:12:00Z

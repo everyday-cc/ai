@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_k2sb.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nvidia’s selling a nerfed GPU in China to get around export restrictions"
+    excerpt: "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Nvidia’s note about not being able to be programmed to exceed the limits is important. Back when GPUs were in short supply, the company announced that its ..."
+    publishedDateTime: 2022-11-08T23:58:00Z
+    webUrl: "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 68
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/0ApsR4WiWJXetEg7ocJyHe01OOc=/0x0:1980x1320/1200x628/filters:focal(990x660:991x661)/cdn.vox-cdn.com/uploads/chorus_asset/file/19970190/2555435ebae590030837.15346566_NVIDIA_A100_GPU.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia May Have Found a Way Around New U.S. Chip Export Restrictions"
     excerpt: "a high tech data center chip that is dumbed down just enough to meet the export restrictions that were put in place by the U.S. government last month. The government, of course, is concerned about sending that AI and high technology to China for fear that ..."

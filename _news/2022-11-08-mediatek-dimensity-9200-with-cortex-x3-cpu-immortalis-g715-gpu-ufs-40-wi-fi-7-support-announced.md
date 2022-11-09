@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fonearena.com/blog/378137/mediatek-dimensity-9200-specs-
 cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378137/mediatek-dimensity-9200-specs-features.html/amp"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek Dimensity 9200 Rocks Wi-Fi 7 And A Huge GPU Upgrade For Flagship Phones"
+    excerpt: "The Dimensity 9200 has a few tricks up its sleeve, in addition to offering more performance at a much lower power draw."
+    publishedDateTime: 2022-11-09T15:20:00Z
+    webUrl: "https://hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
+    ampWebUrl: "https://amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/60067/content/MediaTek_Dimensity_9200_Hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "MediaTek Dimensity 9200 debuts — can it take on Snapdragon phone chips?"
     excerpt: "MediaTek unveiled its latest flagship system-on-chip today (November 8), promising better performance and improved power efficiency for Android phones that adopt the new silicon. Now the only question is whether MediaTek's new Dimensity 9200 can make a splash outside of the markets where the chip maker currently thrives."
     publishedDateTime: 2022-11-08T08:01:00Z

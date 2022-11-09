@@ -43,6 +43,20 @@ related:
         width: 1553
         height: 776
         isCached: true
+  - title: "Serve multiple models with Amazon SageMaker and Triton Inference Server"
+    excerpt: "Amazon SageMaker is a fully managed service for data science and machine learning (ML) workflows. It helps data scientists and developers prepare, build, train, and deploy high-quality ML models quickly by bringing together a broad set of capabilities purpose-built for ML. In 2021, AWS announced the"
+    publishedDateTime: 2022-11-09T17:07:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/serve-multiple-models-sagemaker-triton-f.jpg"
+        width: 1549
+        height: 775
+        isCached: true
   - title: "Run text generation with GPT and Bloom models on Amazon SageMaker JumpStart"
     excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
     publishedDateTime: 2022-11-07T18:07:13Z
