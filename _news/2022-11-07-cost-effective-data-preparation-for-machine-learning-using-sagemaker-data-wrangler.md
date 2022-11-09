@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/"
 type: article
 quality: 100
-heat: -1
-published: false
+heat: 160
+published: true
 
 provider:
   name: AWS
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transfer learning for TensorFlow object detection models in Amazon SageMaker"
-    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
-    publishedDateTime: 2022-11-04T15:28:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 120
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg"
-        width: 1550
-        height: 774
-        isCached: true
-  - title: "Transfer learning for TensorFlow text classification models in Amazon SageMaker"
-    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
-    publishedDateTime: 2022-11-04T15:24:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-text-classification-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 119
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-text-models-sagemaker.jpg"
-        width: 1550
-        height: 774
-        isCached: true
   - title: "Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed"
     excerpt: "The last few years have seen rapid development in the field of deep learning. Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large deep learning models"
     publishedDateTime: 2022-11-04T16:45:57Z
@@ -71,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/deploy-bloom-deepspeed.jpg"
         width: 1549
         height: 771
-        isCached: true
-  - title: "Use Github Samples with Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler is a UI-based data preparation tool that helps perform data analysis, preprocessing, and visualization with features to clean, transform, and prepare data faster. Data Wrangler pre-built flow templates help make data preparation quicker for data scientists and machine learning"
-    publishedDateTime: 2022-11-04T15:41:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-github-samples-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/github-samples-sagemaker.jpg"
-        width: 1549
-        height: 775
         isCached: true
   - title: "Getting started with deploying real-time models on Amazon SageMaker"
     excerpt: "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous"
@@ -141,6 +99,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/predict-lung-cancer-status-sagemaker-jumpstart.jpg"
         width: 1550
         height: 772
+        isCached: true
+  - title: "Amazon SageMaker benefits tens of thousands of customers"
+    excerpt: "Amazon SageMaker has opened the dawn of a new era in machine learning since its launch in 2017, helping tens of thousands of customers."
+    publishedDateTime: 2022-11-09T07:23:00Z
+    webUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
+        width: 600
+        height: 313
         isCached: true
 
 secured: "/p1i+lbIFJj7sfTUq1AVl2jdHlImjPuT0bCrok8Mph0VLaoUpOUM7KdcCQdaJZBcP2FHfuiSy9ljYOAzkShPk1SvlgnrB5FjWZcMFlW0vYveDJBCNMrn4Fz8RLtcf6s1WdCpoe3EpywupOGSSDjSJlv1tKawIV5LA834LHtHZMdKbYIAG67GS23IQwd23fQ8G9K9Ev0HRBftGU236JFjQNVAjknnVfdeu2y+YopYwFUFCTi7R8kQopshKMjgzWrpN5Iyo0QwuDhLnUGrOR9L+yQ0W65YilmrhtS3HnMY5g6U9YKF+viwMNfyY3QKn/Ia5ECBm98CX3XqsUpNaW3K3tNgTDzAB5cdhSxRcmul9x0=;+j02pFXt4lH8/dXuxeMJAA=="

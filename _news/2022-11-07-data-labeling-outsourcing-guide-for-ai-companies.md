@@ -51,6 +51,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "4 AI Questions That Meta AI Is Helping Answer"
+    excerpt: "Here are the innovations by Meta AI that helped it remain at the white-hot epicentre of AI in 2022! A picture is worth a thousand words. But is it? With text-to-image generation, a few words may be enough to create a thousand pictures."
+    publishedDateTime: 2022-11-09T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/4-ai-questions-that-meta-ai-is-helping-answer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/meta.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Every Allocator Should Ask These Questions Before Hiring an AI Manager"
     excerpt: "Although some are genuine in their adoption, many are guilty of what I call AI-washing — professing to use AI when in fact they are merely employing traditional quantitative techniques, such as simple linear regressions,"
     publishedDateTime: 2022-11-08T18:48:00Z

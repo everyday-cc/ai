@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Generate images from text with the stable diffusion model on Amazon SageMaker JumpStart"
-excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
-publishedDateTime: 2022-11-07T18:11:09Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/generate-images-from-text-with-the-stable-diffusion-model-on-amazon-sagemaker-jumpstart/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-images-from-text-with-the-stable-diffusion-model-on-amazon-sagemaker-jumpstart/"
+title: "Amazon SageMaker benefits tens of thousands of customers"
+excerpt: "Amazon SageMaker has opened the dawn of a new era in machine learning since its launch in 2017, helping tens of thousands of customers."
+publishedDateTime: 2022-11-09T07:23:00Z
+originalUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
+webUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
 type: article
-quality: 81
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AWS
-  domain: aws.amazon.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Vietnam Investment Reviev
+  domain: vir.com.vn
 
 topics:
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/generate-images-from-text-with-stable-diffusion.jpg"
-    width: 1550
-    height: 774
+  - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
+    width: 600
+    height: 313
     isCached: true
 
 related:
@@ -85,6 +81,20 @@ related:
         width: 1549
         height: 772
         isCached: true
+  - title: "Generate images from text with the stable diffusion model on Amazon SageMaker JumpStart"
+    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
+    publishedDateTime: 2022-11-07T18:11:09Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-images-from-text-with-the-stable-diffusion-model-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/generate-images-from-text-with-stable-diffusion.jpg"
+        width: 1550
+        height: 774
+        isCached: true
   - title: "Predict lung cancer survival status using multimodal data on Amazon SageMaker JumpStart"
     excerpt: "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and is composed of tumors with significant molecular heterogeneity resulting from differences in intrinsic oncogenic signaling pathways [1]. Enabling precision medicine, anticipating patient preferences, detecting disease, and"
     publishedDateTime: 2022-11-08T18:32:51Z
@@ -99,21 +109,7 @@ related:
         width: 1550
         height: 772
         isCached: true
-  - title: "Amazon SageMaker benefits tens of thousands of customers"
-    excerpt: "Amazon SageMaker has opened the dawn of a new era in machine learning since its launch in 2017, helping tens of thousands of customers."
-    publishedDateTime: 2022-11-09T07:23:00Z
-    webUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 39
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
-        width: 600
-        height: 313
-        isCached: true
 
-secured: "Tjv9yyDBanom4VRktJHGpopZ0nk1lLmItzWR0OUA8gVrluSRN59QEav8Q72zWo5TPkjNv08mTpRvdsdQtwGRvyyLAMkAO4EWzEjCwsdJCWE/QmICdm+30M6Oebd6Z4alL03lPBT9GppAgu8C/t4lHd51lDipCFD3H244YbROECxX2rAkj1RzLhGhzf2dcrd7Dsl8rWMOE3i0rYDa647ujHH1wL+JL8PwHNoB4X7uLzRgI1AaAAXTQXnn3pVUMryuPidQ0AvEpP+0ViMwa2FVLO3TSLV3aTrXD6J+d+FTGH1YMs1x3GJ7c5ZMT1Xpb9n0XIByphPlEokUTuzHaxPP5pMHSdsNv+AYPt+8Jm6+dd8=;JWNww8N12hQ6RwosGV1LUw=="
+secured: "6ZOs/6fLDn9s0+Tku1GaNRwgC3Z+Lyiee8Xo/9zK0wwIGVTDx3TrY0X3oZuo/Hswh/Id9pPVKQXQEZGHS7B6t4HyxvTTG9sRkN9HObCAgpxjqfgJAC/t81swbCOt4dKKWVrCM4mNRvutILoODCg4MR2qCGB7aW3Y58yD60KlJRZgEqD3F5gil9h83cS8rGUx2Sqx86ZRsApMuuJsfGFatWc8SsPRihjF9zd32My2cw+qrbxSGCT22C4mzqcKH0f4uVU7nw3WvKH7gD0bYCPyiLn+2yxmhpn00N+ssVQNOvIddCo7yOCmGOag7b4Ybr7gVBPPn83IuvvxFpZO4oRdDPLvYkP039oze9PIChZV5VE=;Qc4t9VXkWM8aKobOUWKxYw=="
 ---
 

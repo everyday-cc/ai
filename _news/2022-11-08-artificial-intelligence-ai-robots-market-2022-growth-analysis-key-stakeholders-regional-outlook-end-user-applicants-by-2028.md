@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-11-07"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com"
-    excerpt: "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,"
-    publishedDateTime: 2022-11-04T15:56:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-4-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "w0C/RfBZsd+Ib+0y0gykQCjHETREEVtnRswMGD03K3gqXklQpDUAyQRThKDJpJFNfihypPIWMNpiP8YhIAN25JRHisK92EViMij/B7PiSkxZpChSmgr+4fp361BN56lbPAb3pV+ZwWp5AHCWQL81cNooVrerssxQXVdDlGqGNQ1YHQn62ZrZ4grHjU7IHkMFynPgcbsV7ZqhxMLuqpW2JU4W/LvpLr49q75SH7hanM+MZV1ODvAjv9yZ5o0dnG7eqrf8lAGAlEui6RuVTvgouPLXVFNVzQyaRY31dss99kSLBVHxkMGJm9PyFMjM6HIr93rv1szVKzTSv2BxB0TRK5eD7MpvMsO8d96qwJN+y8A=;ddDASBlLaKdYUr78l8GPMQ=="
 ---

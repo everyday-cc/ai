@@ -66,6 +66,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "4 AI Questions That Meta AI Is Helping Answer"
+    excerpt: "Here are the innovations by Meta AI that helped it remain at the white-hot epicentre of AI in 2022! A picture is worth a thousand words. But is it? With text-to-image generation, a few words may be enough to create a thousand pictures."
+    publishedDateTime: 2022-11-09T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/4-ai-questions-that-meta-ai-is-helping-answer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/meta.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "elWKO2MovOSXdxkFpKM9gh3TUzqCpjPyFFYio2o+5rx2Hh0bpKXwIyZklGgTGnwMlL2OIVDOe6weVy72p2OhkvIOelDwLXnUTaPxzQ84Pt32jgfa3TXg9PAvfeUTyFt864a5eec3HB9yGhHUdqlhHpcAtGj0knkvstxr4AdhX+tAChmHGpQKFGx7O7WJcGzClZy3qkbpCbFAfTPwEDwKeG3HzlquozUgzT4pZH+YJG9BUFFi0ab9BqKBKELApcGj3bE95rykI8n84sPmVhHWznrAf/3UXwGlW1D+4ap7O/ouyk+ZtEKtDVcZ6Oo6UvjMW8InkK4on8i2I6vy6eIm5eTZPxKyKRF9Wf2jYnF/7Wtlnq9MqS42JyI8MSU6aIkeK0UNk3ppogm6SpgBvx9D7VE9u4/uf3n63lAUXj302g2TRAWl9IbpSPMPP2PCSXk3zYX6yZGckg8auWur1ER6zFlOxOf1AmM54R8Qv4zIy/7UFvKpancskoViUTPQY8ZJoM0l+efJnDvu1crCfxnVMg==;clOJUhesbwsQPn4x28Q/Qw=="
 ---

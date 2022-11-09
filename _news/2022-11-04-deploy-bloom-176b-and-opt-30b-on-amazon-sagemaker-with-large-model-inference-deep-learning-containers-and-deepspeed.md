@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transfer learning for TensorFlow object detection models in Amazon SageMaker"
-    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
-    publishedDateTime: 2022-11-04T15:28:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 120
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg"
-        width: 1550
-        height: 774
-        isCached: true
-  - title: "Transfer learning for TensorFlow text classification models in Amazon SageMaker"
-    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
-    publishedDateTime: 2022-11-04T15:24:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-text-classification-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 119
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-text-models-sagemaker.jpg"
-        width: 1550
-        height: 774
-        isCached: true
   - title: "Cost-effective data preparation for machine learning using SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks"
     publishedDateTime: 2022-11-07T18:16:40Z
@@ -71,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg"
         width: 1553
         height: 776
-        isCached: true
-  - title: "Use Github Samples with Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler is a UI-based data preparation tool that helps perform data analysis, preprocessing, and visualization with features to clean, transform, and prepare data faster. Data Wrangler pre-built flow templates help make data preparation quicker for data scientists and machine learning"
-    publishedDateTime: 2022-11-04T15:41:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-github-samples-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/github-samples-sagemaker.jpg"
-        width: 1549
-        height: 775
         isCached: true
   - title: "Getting started with deploying real-time models on Amazon SageMaker"
     excerpt: "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous"
@@ -141,6 +99,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/predict-lung-cancer-status-sagemaker-jumpstart.jpg"
         width: 1550
         height: 772
+        isCached: true
+  - title: "Amazon SageMaker benefits tens of thousands of customers"
+    excerpt: "Amazon SageMaker has opened the dawn of a new era in machine learning since its launch in 2017, helping tens of thousands of customers."
+    publishedDateTime: 2022-11-09T07:23:00Z
+    webUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
+        width: 600
+        height: 313
         isCached: true
 
 secured: "DraXqnx0htf0s3SeMvFU5zFC2YsPDSYItpgOGsp2Zi7GWsEVgGdKC4kxWM4c6XE7B23elRbLfIJRhF0mDUtP5ijMq05/1iI5jwrS5CqshCDeCBis3BNYFMV1Cohw54WsGt3pv5IgsGvbDr0tpzUjkrdSBYTQjbT6wTFolGzC3CsjcykTf++ajztMuyfApQ2cYF/Lsz/KCgH8scQlC4Lo8U4VDCaKuzMR6SCbOcCt+/e2CU7yMxHtG8agn+Kadp65hz4+3Lb/jSdgBUt2tEHlukzGsYYKMzJNz5SrUU9+1p2ztcAf5WB53Ie9xWm+rlplo8csOh9r/BU+AiUCYpiZVBsOR2my162MS23KTiM1wGE=;3ji6P4ehueZkwV7H5gPI+w=="
