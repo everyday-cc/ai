@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Lantern Pharma Reports Third Quarter 2022 Financial Results and Operational Highlights"
-excerpt: "Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (“A.I.”) and machine learning (“M.L.”) platform to transform the cost,"
-publishedDateTime: 2022-11-07T21:02:00Z
-originalUrl: "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89"
-webUrl: "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89"
+excerpt: "Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (\"A.I.\") and machine learning (\"M.L.\") platform to transform the cost,"
+publishedDateTime: 2022-11-07T21:18:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/07/9707792.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/07/9707792.htm"
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "oXkCsEI1ndJ5DHs5tJVJnbcre2oGigmGKhdoc8aXNEepC5Iy1U9V00aVklewBVoQv7XvEqPG39Uu78D6BwqViGKNbrXrWphRxMfpx4XmV+imWrE37l/aZcbQ3f5/pRCjpxSN41mSCvP8J6+NIkSPrDujGPkiV4w2amn/P2BoEh4kErMQOMjgZ/xz7a8J+vZMJDXXo33HWVbZn+FdAwa+mn+YUWfvfKJavwXU7DomFhFd6tOwRI12HT/ZSeXc1mC4ewQ/+mn7EkCaZ/62/aOwMNjjlRZnl0hjMzACVBO6sfZE6jRM9wkJLr83C4ulmEXZfCySK9Cii+adpIVYJb7IL9hkHdqWFrWdS46PtMhuG0w=;1EkznUtDHeKkNNAEUDwcmg=="
+secured: "a1LHTgctjmRao9KdPvUFZ3LyOpRR9VVw94gSPMCXr1Cfe5SppIvyOmhJr6PbegSNskIb38fLzTGzUOftXEr5VCcDeZcdeAKJFqWHxDjlWPKhmQpL80w/dXxgeGuyKEKJACvfpRF3+VK2ywDSqvxp+BmkESQ6o5M4XohcMGufVWnPBlljr00jm6bb+WNdG/UAVYvnz84/eLpLsJfCf/aSEghmzUoHDKM/68HIlJWem0RjGer4PBdjEJibSPVIqKvtY3UgCJsmG0PB50AihSrCzcyJA1SdoCCJ7A9Xal8d+ot/0Eac5xVPFq7GYvltMvGW3UAkVuFX3/b9D0oSMi/edXaG9KeiwDZYJaIzHLD2wQA=;l6da3aRgtZ2h4fuLm7WeSw=="
 ---
 

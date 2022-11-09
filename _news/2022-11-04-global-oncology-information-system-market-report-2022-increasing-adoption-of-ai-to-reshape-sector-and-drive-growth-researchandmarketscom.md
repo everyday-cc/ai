@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-expanding Metal Stents Market Size | Share | Trends | Growth | Scope | Outlook | Opportunities | Forecast 2022 Analysis to 2028 By MRI"
+    excerpt: "Quantitative market information and forecasts for the global Self-expanding Metal Stents industry, segmented by type, end-use, and geographic region. – Expert analysis of the key technological, demographic, economic, and regulatory factors driving growth ..."
+    publishedDateTime: 2022-11-09T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-expanding-metal-stents-market-size-share-trends-growth-scope-outlook-opportunities-forecast-2022-analysis-to-2028-by-mri-2022-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AxsE3ROFl5VWvlmWkrenDc3q3JzcCXJR0GZBvTuxW5j0zvAUZ1Lw2dlsbn9rkBPP3QHVG4XrhEfSoh6dgmME5SNm/Mp+SfMgCR2M1sMg7mLnrTdHAVRpPG0zlmJB6KHUeyka4GonG5qAV8rcPz9Be51hPREPHlZgf7qrmee3AP7pYqpc0Kvlx03+VQlRK1AH+CuqlLU9WnDQ4Iny2fjTUeOY4Tmn5swquMfr0RTWk+WivYx5XYD/zZ3NoAAAtY+GOt3mkV5qAgJJns8POt23ip6JIvr8JdgLJ3sXJQxmNh4X+z5Ft+faLs0BYAFjl2+BkOp6Xb4Qx/5G66RtLQQPlUSm5Urs+8btI0vWARuIzLE=;QLipCreS3wPPenguGh4R0w=="
 ---

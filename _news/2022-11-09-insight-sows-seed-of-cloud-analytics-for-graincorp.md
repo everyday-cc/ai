@@ -57,7 +57,18 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Lexalytics, an InMoment Company, Announces Jeff Catlin and Paul Barba Will Present at the Text Analytics Forum"
+    excerpt: "Lexalytics®, an InMoment® Company and pioneer in AI-based NLP technology, announced today that its Head, Jeff Catlin, and its Chief Scientist, Paul Barba, will present at the Text Analytics Forum in Washington,"
+    publishedDateTime: 2022-11-04T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29574282/lexalytics-an-inmoment-company-announces-jeff-catlin-and-paul-barba-will-present-at-the-text-analy"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29574282"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29574282"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
-secured: "4zTqPGHWDKSOjNdN+Xjq5Ym8DcvbGki7958t7FK8Qix26YepNkitFd5U+o+dVLhiGvbayVowT8e5wRbdsNS4xZqOuUkjEmNejfqsOftM7Z7zw0pMPkznGuOUEYD14bdGKg1viSeoRYM3ij0qx6CNxZrJodfoOzhnnKbN8qo9h9ZxCKOIds8ITbNBV6AwF7Y0mJ0yyR540jWfekfmu8dkJuNahZ0IkZa4Rntq9Mx4iT2W7D0jx/o86Ypo1bzCi7omqGczD8zB4O7eXNpbkaCR3A3S6UGM+cVqxxsnFlMQ/sZce/RCVAtyJ2XaqXuCUVhNqo5Ecfp91zApkESnm+tZsD2wIbIAoRxuBVVbZrJOXgM=;OyREhl3lUgAZHAHwJsBdOw=="
+secured: "2P+nj/aOJQBuKETvpjjMwIjbnfcdNXkj3sZQyAaGCpZV4GZuU6Rk0zbc4f3ou5/EQWo4Uncn81+TJeMnmtnPzxD9pvl2r2zpbDsPlIcLg+nCSl4zpWZIC5F5xmiDo9Bg6wqYPaQTnNeGlfHW7Z2/QfcPLSuUmE8ZInU5ZkoSFctp9n9WGpy/VDRvOKvvdHsgri1WIvn9uZE4SIchWarzdTGA990JoPwouubhErVF8MMnWuBB4Uee4E8zKuzs8t01IEoH1gRQ4t++nKhcr7cnvRw9r1zvBuWK9E7br1bJehqldZ0+grDPoCE2D7sfBZSSGpU/2Lmtl6vKcjA14g9/34MSwd5Vv1bdbFLJuyT/vVA3n689dds0Qi32D+zqd/WSkVhgkSXKHLPsxcg+eD37C4XseOL9lDLCv58zYyqnuuBwkPZRelV8islODfILOOuDgs69wiszH6fj5kkXVLnloxf3gmadjThi6E122CPLeWrqgpPmRHSCjudUSgpLRKKTcDEnroTG+G4/2Bc7rOOV2w==;73sPsTvPVCb8xo5HzNbB3A=="
 ---
 

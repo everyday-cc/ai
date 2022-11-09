@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Flight Simulator FS Traffic AI Add-On & Newark Liberty Airport Get New Screenshots"
-excerpt: "Today third-party developers shared new screenshots of upcoming add-ons for Microsoft Flight Simulator, including FS Traffic."
-publishedDateTime: 2022-11-08T22:12:00Z
-originalUrl: "https://twinfinite.net/2022/11/microsoft-flight-simulator-fs-traffic-newark/"
-webUrl: "https://twinfinite.net/2022/11/microsoft-flight-simulator-fs-traffic-newark/"
+title: "Shennona Pixsee AI Smart Baby Monitor combines with Microsoft Azure for recording precious memories with an AI platform"
+excerpt: "Two years ago, a unique baby monitor that used artificial intelligence (AI) to accurately determine the cause of a baby's crying V whether the infant may be hungry, sleepy, or needs a diaper change V was launched in the childcare market."
+publishedDateTime: 2022-11-09T03:21:00Z
+originalUrl: "https://www.digitimes.com/news/a20221107PR200.html?chid=9"
+webUrl: "https://www.digitimes.com/news/a20221107PR200.html?chid=9"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Twinfinite
-  domain: twinfinite.net
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://twinfinite.net/wp-content/uploads/2022/11/Microsoft-Flight-Simulator-FS-Traffic-10.jpg?resize=600,338"
-    width: 600
-    height: 338
+  - url: "https://img.digitimes.com/newsshow/20221107pr200_files/7_r.jpg"
+    width: 336
+    height: 224
     isCached: true
 
 related:
@@ -53,19 +53,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Shennona Pixsee AI Smart Baby Monitor combines with Microsoft Azure for recording precious memories with an AI platform"
-    excerpt: "Two years ago, a unique baby monitor that used artificial intelligence (AI) to accurately determine the cause of a baby's crying V whether the infant may be hungry, sleepy, or needs a diaper change V was launched in the childcare market."
-    publishedDateTime: 2022-11-09T03:21:00Z
-    webUrl: "https://www.digitimes.com/news/a20221107PR200.html?chid=9"
+  - title: "Microsoft Flight Simulator FS Traffic AI Add-On & Newark Liberty Airport Get New Screenshots"
+    excerpt: "Today third-party developers shared new screenshots of upcoming add-ons for Microsoft Flight Simulator, including FS Traffic."
+    publishedDateTime: 2022-11-08T22:12:00Z
+    webUrl: "https://twinfinite.net/2022/11/microsoft-flight-simulator-fs-traffic-newark/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 45
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 43
     images:
-      - url: "https://img.digitimes.com/newsshow/20221107pr200_files/7_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://twinfinite.net/wp-content/uploads/2022/11/Microsoft-Flight-Simulator-FS-Traffic-10.jpg?resize=600,338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
     excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"
@@ -95,6 +95,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "O08U9pL8XX7/LvDt1pMRpEQ188v5WP7q7fgEsd+B2dZhv6onZf9EiglA7PezYU8QjmFzGITPQ7lbsJcjL+OH7fXrlfByyHoga0Yg5F0sdExxRRuzV73gt0gZi6y03Os2MBYn0e7Zl1X7PuPIDWcIH4vFSJgm1QXs9GCptkkf5Yv15bnnsyLtpx/ld2VcwjFBBcOZmDC24UhGt3H+1WNfxrCrVfsdHrMuQxZreANge3xYHMOv84/JizBpXnvmorbTBZnxlvyv1Aywder5xaZugN6j+SEFOTGoWLExZa/CAm0M1iIArtqXSoA8pItxQo44ScJHomFbCTR2oXAoqhv/UacfRrH3XE1unOuqlgHcBdVr9XwpZZMo/Ao7jW9uItqZ8BKtdrxS1oP1hQDyqsS//XKx0oi3vMWZvZnx0Sg+t2gdYFi2l+B1yTVzCfx/xxW4r3+5xwHwpm1HAOnVmIAaf5DiEGvulnlwsqL4J78ZuZy3EbQaFJP954RblwKEr055ar/NMTdnepvQbVdSNymlyw==;xvHuLdOjM+g9q298y803UA=="
+secured: "fXQl3wNB4qqJfwJPNwb6uxC09HNiVWQnBllKz4przdNeJiGqX1Gq1XeAi97tavL1bzST/4QVZzB/8SbJ4ULtw/kshMdPoxlm6a25kICc8NQkzr6ph7mRgrZ5JMyXdjewO7qPsxA7F/EJajQl4Q0Dw4oNFBaNLA2ZYGQ+lbklRvupmE4LH6D4/kEqxYKsZXdtYaB3ZotIX7mVq+GiO5vvNzgBT5g78hfwibfjj7D5ut4/ufL/NWO1gefGfG1xsC/qZqZXuDgzNjL2BkHGRmizBfaIMW4/TprPv1pcUzFGtILFMwuyOYzuqZB7WuTV4LikSTFWas4ZhWwbH7BXqwirk2E+rmRD0tNR9cckfT6b3NE=;Ql81uZJnp1rook/h8+Mslw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-29-bioinspired-robots-walk-swim-slither-and-fly.md",
+      "title": "Bioinspired robots walk, swim, slither and fly",
+      "excerpt": "Part of Nature Outlook: Robotics and artificial intelligence Her mind returned to those curious ... Now Kim is developing control software that he hopes will allow the robot to move smoothly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-03014-x",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-03014-x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03014-x/d41586-022-03014-x_23521520.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-robot-fast-food-cook-costs-less-than-half-a-human-worker.md",
       "title": "Robot Fast Food Cook Costs Less Than Half A Human Worker",
       "excerpt": "Nala Robotics has launched a fast food robot that it says can fry chicken wings, French fries, and other foods, season them, and plate them all autonomously.",
@@ -1342,59 +1385,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-nvidia-expands-edge-ai-tech-for-healthcare-and-robotics.md",
-      "title": "Nvidia expands edge AI tech for healthcare and robotics",
-      "excerpt": "Nvidia announced its new IGX platform for industrial and medical edge AI use cases, as well as a new version of the Jetson Nano for robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 366,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/image1-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/amp/",
-      "publishedDateTime": "2022-09-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

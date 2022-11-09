@@ -751,19 +751,19 @@
     {
       "path": "_news/2022-11-02-artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027.md",
       "title": "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027",
-      "excerpt": "[252 Pages Report] The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% The industry participants ...",
+      "excerpt": "Attractive Opportunity: Supercharge your Visualization The industry participants extensively focused on leveraging",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027-2022-11-01",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg",
-          "width": 606,
-          "height": 513,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -771,14 +771,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29514257",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257",
-      "publishedDateTime": "2022-11-01T17:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

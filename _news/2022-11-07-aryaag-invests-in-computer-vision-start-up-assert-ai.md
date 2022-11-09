@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/aryaag-in
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/aryaag-invests-in-computer-vision-start-up-assert-ai/article66106607.ece/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Grain commerce platform Arya ag backs SaaS startup Assert AI"
-    excerpt: "The development is part of Assert AI's latest fund-raise amounting to $2 million and involves participation from Prashant Purker, Ex- MD & CEO of ICICI Venture."
-    publishedDateTime: 2022-11-04T10:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/grain-commerce-platform-arya-ag-back-saas-startup-assert-ai/articleshow/95300589.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/grain-commerce-platform-arya-ag-back-saas-startup-assert-ai/amp_articleshow/95300589.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/grain-commerce-platform-arya-ag-back-saas-startup-assert-ai/amp_articleshow/95300589.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-11026,msid-95300584/best-mutual-funds-1.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Arya.ag invests in computer vision-focused SaaS start-up"
     excerpt: "Assert AI has already established itself as a formidable name in computer vision with offerings that include face recognition, object detection, weapon detection in high-risk areas, docks utilization, packet counting in warehouses, and safety gear ..."
     publishedDateTime: 2022-11-07T10:20:00Z

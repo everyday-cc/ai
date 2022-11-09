@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-ne
 ampWebUrl: "https://www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/2022-11-07-12_23_25-Greenshot.png?w=1920"

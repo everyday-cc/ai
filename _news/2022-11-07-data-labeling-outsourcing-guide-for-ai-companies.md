@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/data-labeling-outsourcing-guide-for-ai-compa
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,44 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Has Come for Candles"
-    excerpt: "So maybe artificial intelligence isn't quite as smart as was promised. But we'll be damned if we can't at least use AI to score some great smelling candles for the holidays. Scent Lab is a new digital platform that's using an algorithm to pair people with personalized scents,"
-    publishedDateTime: 2022-11-08T15:13:00Z
-    webUrl: "https://www.urbandaddy.com/articles/43837/artificial-intelligence-has-come-for-candles"
+  - title: "Three Questions Business Leaders Should Ask When Considering AI"
+    excerpt: "Dr. Steven Gustafson is Noonum's CTO and an AI scientist, passionate about solving hard problems while having fun and building great teams. With AI, it’s important for business leaders to maintain focus on core issues and not get distracted by hype and ..."
+    publishedDateTime: 2022-11-07T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/"
     type: article
     provider:
-      name: UrbanDaddy
-      domain: urbandaddy.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&crop=5700,3207,x0,y593,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why You Should Consider Using AI In Your Network Security Strategy"
+    excerpt: "Artificial intelligence (AI) makes for a splashy headline, but how often does it get implemented effectively? The results of one study note that only one in 10 companies report significant ROI from using AI in their processes. The report goes on to expand ..."
+    publishedDateTime: 2022-11-08T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/why-you-should-consider-using-ai-in-your-network-security-strategy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Every Allocator Should Ask These Questions Before Hiring an AI Manager"
+    excerpt: "Although some are genuine in their adoption, many are guilty of what I call AI-washing — professing to use AI when in fact they are merely employing traditional quantitative techniques, such as simple linear regressions,"
+    publishedDateTime: 2022-11-08T18:48:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b20kvxqg07x789/Every-Allocator-Should-Ask-These-Questions-Before-Hiring-an-AI-Manager"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
     quality: 39
     images:
-      - url: "https://static.urbandaddy.com/uploads/assets/image/articles/standard/9cca4f14186a2ed6795a6706a3355878.jpg"
-        width: 690
-        height: 460
+      - url: "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_angelo_1103.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "jmH4NLSegOljWX5xrkriJYBqo/9nNTkc8px6CWgNFIY8XYfhekbVF8FtrBy8VLHxwXK7unKa8cKtXamdzvoSuI+8h3fztFwmHnLZn2HS5v5wfbrXFTvv97ufXgasQkyvtRRhG8QfG95Fh0r+5w9ZFEbzql4eMCjy72kGV5bEGH1UHfrmrVPzw3eXlimocecSqT9ZF3ndus1XnWNd/MvhIEofmQ51dJY3uzC00MH8btn7NCKjWzmvPOybYH3qvCHl4fQ1W4AiNb49mhS4I8btFguBF55d0gc2Qwn2OvaM72CfzOcQu/yQJjIkSsjd1R1c0fkIf7wpMzMzN9urfewTpALmIE04W+ItINnowLDiVG1ruUDBOnorWZzWGZLATrcbP28Fpi+ediaGgIQUaCclvG+Ac5rRuuJejKfgYllENfTbHz3aID5kSq3eIx49S2NcKeBO3i8KLhUKOqL0ZBuqC4N7IX/Pr7qeDPKKAv7U78SZFm8WJnP5xJknEVncVz0RDu6Uy1wMhdhsFHl24vsPlQ==;mde11EAf3Zo2QobWJXW5vQ=="

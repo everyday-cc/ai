@@ -1,28 +1,24 @@
 ---
 category: news
-title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
-excerpt: "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and ..."
-publishedDateTime: 2022-11-04T05:25:00Z
-originalUrl: "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/"
-webUrl: "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/"
-ampWebUrl: "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/lite/"
+title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
+excerpt: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ..."
+publishedDateTime: 2022-11-03T17:54:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
 type: article
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
-images:
-  - url: "https://www.financialexpress.com/wp-content/uploads/2022/11/ai-chip-e1667539029282.jpg"
-    width: 1015
-    height: 675
-    isCached: true
-
-secured: "+EjtcQ+6UJE3GjL2+NyxcrY/XPc7T5Z0mL562foosKKTfV3yOmVZnktwKxlWHMDOBMXcEXPf0kwyhx5KdkUdjlsW1uDN1x3fYeSMdqdylvJgSBD8PASrso1qbTWY+GJf9iAGgBAV8UumZyVsf4OezN/B6OaPwodlrEsmNBTdvQdeHAWSbnn67DLUJ/LF372QaRJSJtq83JUzyDvQ399G0Pb2GuKiNMaF2UagPuWV1sBrCit4yZpbPo3s+qigFxajKc9LGix1nUo4cmho5TIzTCYxliXsiP2kWwB5OCV1FzS/isCio8nmYl4DiXzbnGOIieMZKEnQWNaTLCbnTD6KAKHxkhLz/H0fn9/GtAjsDr0=;hkPqVr0HnMTkYGhMQ5vbiw=="
+secured: "oZ0jY0JTQq+Ny9jVlPfl/cxjJ6m7RIntnKa4GghO9Mtyojt216BStMcIwlblluNWMDAXGl9GmGSfmNHWy/po+/8C8LfJY6P2es+XTsLyyId/tf6Q+vX/YhGwDbugSTbLULB4ZdSRdOjhuPR7lxvummskIqg8/v8YvZ2BToyPGanqMRpSC/zNZdHLjtDIcAKjqGONQlmjRnXGhKKL5ysKF53BFiWKrN0xBESiG6znQ5AxeGeC4mQsClcHe1wj+PQ2hPdkjlku6z7WTSAt8Lo4v+mrwSC4An2w/RKNfuPWsHav8ewHlTW+qiENNzzk6Wu2sUke+LrwP9eqopJ6aPD+noz8btknetTl671h1SW1fsg=;MeLmQEyHAq7SWQFDEbCCGg=="
 ---
 

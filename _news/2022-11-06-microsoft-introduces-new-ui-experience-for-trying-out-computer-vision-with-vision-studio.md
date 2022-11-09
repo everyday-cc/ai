@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Shennona Pixsee AI Smart Baby Monitor combines with Microsoft Azure for recording precious memories with an AI platform"
+    excerpt: "Two years ago, a unique baby monitor that used artificial intelligence (AI) to accurately determine the cause of a baby's crying V whether the infant may be hungry, sleepy, or needs a diaper change V was launched in the childcare market."
+    publishedDateTime: 2022-11-09T03:21:00Z
+    webUrl: "https://www.digitimes.com/news/a20221107PR200.html?chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 45
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221107pr200_files/7_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
   - title: "Microsoft Flight Simulator FS Traffic AI Add-On & Newark Liberty Airport Get New Screenshots"
     excerpt: "Today third-party developers shared new screenshots of upcoming add-ons for Microsoft Flight Simulator, including FS Traffic."
     publishedDateTime: 2022-11-08T22:12:00Z

@@ -259,49 +259,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-04-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
-      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
-      "excerpt": "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/",
-      "originalUrl": "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/ai-chip-e1667539029282.jpg",
-          "width": 1015,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/lite/",
-      "publishedDateTime": "2022-11-03T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-04-amd-unveils-new-radeon-rx-7900-xtx-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000.md",
       "title": "AMD unveils new Radeon RX 7900 XTX GPU with RDNA 3 to take on Nvidia RTX 4000",
       "excerpt": "In addition to powering AMD's PC graphics cards, the company's GPU cores are also found on consoles ... that shares resources between rendering AI and ray tracing to make most effective use ...",
@@ -397,6 +354,83 @@
       ]
     },
     {
+      "path": "_news/2022-11-04-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
+      "title": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive",
+      "excerpt": "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
+      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
+      "excerpt": "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-chip-startup-sima.ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-chip-startup-sima.ai-launches-auto-business-with-former-bosch-mercedes-executive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-todays-cache-are-taiwanese-chip-firms-decoupling-from-china.md",
       "title": "Today’s Cache | Are Taiwanese chip firms decoupling from China?",
       "excerpt": "Taiwanese chip makers have been investing in mainland China since the 1980s, and thousands of firms operate there today. Decoupling from China won’t be an easy affair, but the process seems to have st",
@@ -427,58 +461,6 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
-      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
-      "excerpt": "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
-      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

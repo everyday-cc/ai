@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
-      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
-      "excerpt": "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ...",
+      "path": "_news/2022-11-03-fintech-in-latin-america-and-africa-is-breaking-the-mold.md",
+      "title": "Fintech in Latin America and Africa Is Breaking the Mold",
+      "excerpt": "The US and Europe can learn a lot from startups that are nimbler, more digitized, and potentially better at serving underserved people.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
-      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
+      "webUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/",
+      "originalUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://media.wired.com/photos/6363137dd05a7e57f9be5703/master/pass/Fintech-Latin-America-Africa-Breaking-Mold-Business-95186910.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T06:09:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fintech-latin-america-banking-opportunities/amp",
+      "publishedDateTime": "2022-11-03T06:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Finance",
         "AI"
       ]
     },
@@ -379,15 +379,15 @@
       "title": "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022",
       "excerpt": "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
-      "originalUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_dfa4ada7-9433-5e05-b7e2-c750b8072e89.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_dfa4ada7-9433-5e05-b7e2-c750b8072e89.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/c9/3c94ed0a-6c17-5fec-8ce9-4cd34d6bd131/63633fddb13d3.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/80/680d2929-60b5-5d2b-9099-2274ce0e9e31/63633fcbdbb71.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -402,8 +402,8 @@
       "publishedDateTime": "2022-11-02T21:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/economy/agri-business/aryaag-invests-in-computer-vision-start-up-assert-ai/article66106607.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -325,34 +325,34 @@
     {
       "path": "_news/2022-11-04-an-animal-model-of-west-syndrome-exhibits-a-progressive-increase-in-epileptic-spasms-and-learning-and-memory-deficits.md",
       "title": "An animal model of West syndrome exhibits a progressive increase in epileptic spasms and learning and memory deficits",
-      "excerpt": "West syndrome, the most prevalent type of syndromic epileptic encephalopathy affecting infants, is a devastating and often fatal condition. It is characterized by a triad of symptoms—seizures/spasms,",
+      "excerpt": "Researchers have provided the first demonstration of a progressive increase in epileptic spasms along with learning and memory deficits in an animal model of this disorder.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.html",
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-12.jpg",
-          "width": 2880,
-          "height": 2188,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-animal-west-syndrome-epileptic-spasms.amp",
-      "publishedDateTime": "2022-11-03T13:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T14:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

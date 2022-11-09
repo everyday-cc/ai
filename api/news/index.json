@@ -397,49 +397,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-08-why-you-should-consider-using-ai-in-your-network-security-strategy.md",
-      "title": "Why You Should Consider Using AI In Your Network Security Strategy",
-      "excerpt": "Artificial intelligence (AI) makes for a splashy headline, but how often does it get implemented effectively? The results of one study note that only one in 10 companies report significant ROI from using AI in their processes. The report goes on to expand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/why-you-should-consider-using-ai-in-your-network-security-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/why-you-should-consider-using-ai-in-your-network-security-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-11-08-artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026.md",
       "title": "Artificial Intelligence in Agriculture Market 2022 Projected to Gain Significant Value by 2026",
       "excerpt": "\" Artificial Intelligence in Agriculture Market \" Insights 2022 | By Types ( Computer Vision, Predictive Analytics, Machine Learning ), Applications ( Agriculture Robots, Livestock Monitoring, Drone Analytics,",
@@ -647,7 +604,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-11-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -887,6 +844,58 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-three-questions-business-leaders-should-ask-when-considering-ai.md",
+      "title": "Three Questions Business Leaders Should Ask When Considering AI",
+      "excerpt": "Dr. Steven Gustafson is Noonum's CTO and an AI scientist, passionate about solving hard problems while having fun and building great teams. With AI, it’s important for business leaders to maintain focus on core issues and not get distracted by hype and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&crop=5700,3207,x0,y593,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/",
+      "publishedDateTime": "2022-11-07T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1183,7 +1192,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/economy/agri-business/aryaag-invests-in-computer-vision-start-up-assert-ai/article66106607.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Leslie Phillips, voice of Sorting Hat, 'Carry On' star, dies"
+    excerpt: "The veteran actor made his first film appearances in the 1930s and is also remembered for his exaggerated comic portrayal of the English upper-class."
+    publishedDateTime: 2022-11-08T17:08:00Z
+    webUrl: "https://www.ktvb.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+    ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
+    type: article
+    provider:
+      name: KTVB
+      domain: ktvb.com
+    quality: 44
+    images:
+      - url: "https://media.ktvb.com/assets/WOI/images/d2ccc787-da35-49e9-b347-e02218984ae3/d2ccc787-da35-49e9-b347-e02218984ae3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Leslie Phillips, voice of Sorting Hat in ‘Harry Potter’ movies, dies"
     excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died."
     publishedDateTime: 2022-11-08T16:24:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T44UESL6S5BF7EXKOP5AKVXMYA.jpeg"
         width: 2736
         height: 1824
+        isCached: true
+  - title: "Leslie Phillips, ‘Carry On’ star, voice of Sorting Hat in ‘Harry Potter,’ dies at 98"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98."
+    publishedDateTime: 2022-11-08T16:17:00Z
+    webUrl: "https://fox5sandiego.com/entertainment/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/"
+    ampWebUrl: "https://fox5sandiego.com/entertainment/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/amp/"
+    cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/entertainment/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/amp/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 37
+    images:
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2022/11/Leslie-Phillips.jpg?w=1280"
+        width: 1280
+        height: 871
         isCached: true
   - title: "British actor Leslie Phillips, voice of Hogwart’s Sorting Hat and star of ‘Carry On,’ dies"
     excerpt: "Phillips acted opposite Peter O’Toole in the 2005 film “Venus,\" earning a BAFTA nomination for best supporting actor."
@@ -115,24 +147,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Leslie Phillips, voice of Sorting Hat, 'Carry On' star, dies"
-    excerpt: "The veteran actor made his first film appearances in the 1930s and is also remembered for his exaggerated comic portrayal of the English upper-class."
-    publishedDateTime: 2022-11-08T19:40:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 4
-  - title: "Leslie Phillips, ‘Carry On’ star, voice of Sorting Hat in ‘Harry Potter,’ dies at 98"
-    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98."
-    publishedDateTime: 2022-11-08T16:17:00Z
-    webUrl: "https://fox2now.com/news/national/leslie-phillips-carry-on-star-voice-of-sorting-hat-in-harry-potter-dies-at-98/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 0
 
 secured: "9dtaIHFrLyCIVuEp1ASiezjt8qMmikKZAxUF8PcjerCcqpuCxVdTAhu8V3b27DyZuqt/1SZ5bNrB93e6OsThdY73zIX3wvNI1g9JoF5c5PLzXnSvF8X1jrjPuKjOTPkPBK+ugNvlm7WVQNMrWAT3Wx5MKKCS0EhI8TqumZXX8TdAhYCVhL2GLXl+K3TbUpmAsRvkm4NHX32tZowVZVp/6hyBgItFKliLWcDh58kNsQY/39h3BmEnF2g/RixDIK4KyeJhuZkgHZ5KL7dltLZKWwcgBEIW3kTCwpAlxFUCdnOoC511E2xiy7BpTFBGaWzRHLCfEQLFpTYv+RGanL+mogdNX8c0sXCVLr8dnx52NFAVyhx3v7ALJjhlvHoEN2h2e2TS0qt0t3G9eghfOz6GxlA3YsHLbNDMnZ1A9EyeqBN1w0EQPBtAPbHbRscgP8nvTI+giwSykBalhJEAKIXfTgRXgaLqGb6HFizZy7Ql3ceuVseUvxmT3OHyg8N3PtsXc36OuT7zYdLWrPKdeGiINg==;mvRZI2s7q8is9CpnOhohpQ=="
 ---
