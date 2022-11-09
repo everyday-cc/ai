@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T12:51:00Z
 originalUrl: "https://menafn.com/1105155506/Jaber-Hospital-Performs-First-Endoscopy-Using-Artificial-Intelligence"
 webUrl: "https://menafn.com/1105155506/Jaber-Hospital-Performs-First-Endoscopy-Using-Artificial-Intelligence"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Mena FN

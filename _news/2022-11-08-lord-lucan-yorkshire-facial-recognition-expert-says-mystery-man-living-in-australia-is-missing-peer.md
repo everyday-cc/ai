@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia bets on facial recognition to deter problem gamblers despite concerns over rights"
-    excerpt: "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population."
-    publishedDateTime: 2022-11-04T21:06:00Z
-    webUrl: "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
-    ampWebUrl: "https://amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 79
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/04/ea3a5d70-cb1c-4d31-9a49-62c4a096cdde_a7fb0940.jpg?itok=qMGIsekb&v=1667570814"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hotel bets on face recognition tech to deal with gambling addicts"
-    excerpt: "MELBOURNE—As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The"
-    publishedDateTime: 2022-11-04T23:19:00Z
-    webUrl: "https://newsinfo.inquirer.net/1689578/hotel-bets-on-face-recognition-tech-to-deal-with-gambling-addicts"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2022/11/AUSTRALIA-GAMBLING-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Lord Lucan's photos are exact match for British pensioner living in Australia, facial recognition expert who identified Salisbury poisoners claims"
     excerpt: "A world-renowned facial recognition expert says photos of Lord Lucan are an exact match for a British pensioner living in Australia."
     publishedDateTime: 2022-11-06T22:14:00Z
@@ -71,15 +41,40 @@ related:
         width: 1069
         height: 734
         isCached: true
-  - title: "Could facial recognition and cashless cards help problem gamblers? This is why some fear it could be thwarted"
-    excerpt: "Tackling the issue of problem gambling with real reform has proven difficult historically for Australia, so will a range of these new proposals work?"
-    publishedDateTime: 2022-11-05T19:27:00Z
-    webUrl: "https://www.sbs.com.au/news/article/a-range-of-gambling-reforms-have-been-proposed-around-the-country-but-will-they-be-implemented/sdlzgmnnq"
+  - title: "AI-based facial recognition claims Brisbane Man is missing Lord Lucan"
+    excerpt: "Professor Hassan Ugails world renowned facial recognition system also helped identify three suspects involved in the murder of Jamal Khashoggi."
+    publishedDateTime: 2022-11-07T19:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/uk/ai-based-facial-recognition-claims-brisbane-man-is-missing-lord-lucan/articleshow/95361094.cms"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 0
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
+    excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
+    publishedDateTime: 2022-11-07T13:54:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/11/07/lord-lucan-australia-pensioner-exact-match/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 26
+  - title: "Is Lord Lucan still ALIVE... and hiding in AUSTRALIA? Bombshell report claims aristocrat who vanished after 'nanny was bludgeoned to death in London' 48 years ago has 'EXACT ..."
+    excerpt: "An 87-year-old Buddhist who lived in Nepal before moving Down Under is said to be a 'definite match' for British aristocrat Lord Lucan, according to leading expert Professor Hassan Ugail."
+    publishedDateTime: 2022-11-07T02:00:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11397071/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11397071/amp/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11397071/amp/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 8
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/11/07/00/64258043-0-image-a-113_1667780673368.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "xkemrhwekcBpcjXnVUBvzAxks+Jq567At2k/hNIO8gOqAvmS3EnIN/7+cD3d4NpUWbU4xR/dL02ywk4+/qjRkRasAfssF6roeyGpM9bwWMM+UHGHkG0U7/2oPax/pURQ5S2t1HSHbII/IkLH4ET5/mUGAOwMvL16vnRgQ5FMv+M9XH0pOm7ziX3D3oKzLJxb7Eh9TLP3ZXhlvDSpZhcrmKP6tbQW/NyMRFvgYAAJ2+8TlIwOWh23LyfwYzrBYgxgoiaXY2QmE7/ToAMD2DsZZpdFfuFbAlKfC10B42oJdtvLY8U1hi7aJZP6W8GFXHhol1037tzfNw/w4tB3f2DhFyQ2vM0+Y4x75D+Emv21/yE=;qihXuRht+xPJSx500mYNMg=="
 ---

@@ -96,6 +96,20 @@ related:
         width: 1550
         height: 772
         isCached: true
+  - title: "Model Hosting Patterns in SageMaker: Best practices in testing and updating models on SageMaker"
+    excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. With SageMaker, you can deploy your ML models on hosted endpoints and get inference results in real time. You can easily view the performance"
+    publishedDateTime: 2022-11-09T16:53:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/model-hosting-patterns-in-sagemaker-best-practices-in-testing-and-updating-models-on-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/best-practices-in-testing-sagemaker.jpg"
+        width: 1547
+        height: 773
+        isCached: true
 
 secured: "DxnCzV5SKgR3Q2/h6ZF5/Soy7czMH7GQmxqfzFDfuH/t2XtcGLTFrYkrQwJiFIOhTBB+zQzxx+d6Lb9jjaiEk95R1xW41/MYd0X94GzkyRMn7sQ0lVNh57JxCzA3sihyNJm3PfWuvZ8535UbHpW55Q61oAAYn4BiOIPp+T87numAgBsalIW7MIn1ItHlh2Il9n7t6QXFwvltsIVFa2niEutpU2I945Hzk1tGmYvboXv/Alonseu+prkHxUyqrum8KVD15nO7UKwzpTXcN6e+XxIUnswGM7KDuvn6xhch3Eu1P5QuvmQXe0LW84Nkk7//7E7flmzZ+TrBv4ImFiHsW1MnNqhzg0Pm+Akkykn0dR+ICM55tIymqdiUthnAYmUKfqBD0pZnYviwj10O0MLuGubue6YctPdQHqDokAr3Jy2VHYU8eH4cIhlTzJpzCiH7ZHFl03dhRFcmUy4iwmdVyQVoPkVYugO4zxZl56cxJCniBp3NMny4SGtvIICxWpD7346zd+FMf4Bx+yse/emWOg==;BUd1fDvdo8MwlctiVgcjFQ=="
 ---

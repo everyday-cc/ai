@@ -1,20 +1,23 @@
 ---
 category: news
 title: "AWS Launches Infrastructure Region in Switzerland"
-excerpt: "Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more than 2,500 full-time jobs annually through a planned investment of more than $5."
-publishedDateTime: 2022-11-08T19:40:00Z
-originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-launches-infrastructure-region-in-switzerland-122110900480_1.html"
-webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-launches-infrastructure-region-in-switzerland-122110900480_1.html"
+excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
+publishedDateTime: 2022-11-09T08:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "mrwmsbY8sG+Ocq/2oUjBJno+Rn0ZAyIl/DATtVFXVtn0iHbBUYaefoqNYoJuzYjJmE6coY1ZiMtn1Rs3gzSu/SiOu6VV5kxEy2BJh6cPjqXVxr6WmO7lg20YosmpPd2G4pM8kdj5za6fhhmoGN7khT8ZfqonEK7mx7T+M64abK+2h5Onx93mXKgyrDgBFusjNbOQUbZZtCa3bd2fMVCV20DF1bCeRW/r3iig4bEiKbSxjsCNSLHae4pQzrhszpdrXrmw5275jFrhay3mxQpKEma4QqMg+hXmPIK9oHljH8t1dfO+jF0VjwcFfMQIoi7fR9wSPgd19dMLHblNOLgLi8WGkQFmcfOA2ZqN6op/L+w=;BTq3tdceWVp6mtbu9XiiUQ=="
+secured: "lSaZwkH3V3KAyCKkPswevfnpb0wXf+j1Ed2TipTEOOf0qsDrpNTiWU8l2ummoIX9+6ML/I/nK9qxFl216P0VtiYne0TOyRJ04Kj+qnSwiKrXIXHfkheRcMbyskrc3lMhONMbbBBYT3rhTViWFZiUwuObnl4eLiodEBssl+Yz3ON5Wst8o43CNQFXfOgX2xgl3HGWMLK/phYtmT6r5TOwewsfEUk0nKMTaxlZg5vulPQrUnEanmJj8TQHEgWLiz1Qv2xnCl311qdXaH+mfWATWOw3f4AbXPbhxC9qd3dj2GZJLOE8rzCcB9oaDm1AESYXsFudO6odgGdVXyr6K/SJTgRU7wKoOJHOX+xmzjSe7ko=;JkwPndhqvGPGV9/DMk2BaQ=="
 ---
 

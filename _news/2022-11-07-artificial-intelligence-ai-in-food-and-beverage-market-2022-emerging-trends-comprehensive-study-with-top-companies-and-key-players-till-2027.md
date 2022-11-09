@@ -73,6 +73,15 @@ related:
       name: PharmiWeb
       domain: pharmiweb.com
     quality: 0
+  - title: "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com"
+    excerpt: "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,"
+    publishedDateTime: 2022-11-09T15:51:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "KoIi9Pi3Z88ht+P2XPYGQ95DAT7gIEaLg61uVcmFHkEfDVjkzx2jibfv4ecW0GIaCET+2gaoPtzaq9VbQev4aXOTB+1gGXoGPdioArPXXpi45vs7yorfCgTR0A+mk2sQUINJ0OG43u2JWl55DZutqS4yMdSIeytxyyLKzU3UiuYHhgaep1ZXwaq/ThW0p8crpJA68uxFpgPYwHpUWInkmtwnIFxoLZ1cSEoNISOsAoWjoBBU6YdwA9rLMb9iT2WEqqm9XJNxxB1nD984AP3i9rCLcsCdM/uuX8EcSJ4xFFw59kKK9kb4LNNY14UMGM3fi2GtEpK+//PYove+xK0wEt53+pKQGudShpusS4qi6i0=;D/P4TeudZlib+Q+a9nXTBw=="
 ---

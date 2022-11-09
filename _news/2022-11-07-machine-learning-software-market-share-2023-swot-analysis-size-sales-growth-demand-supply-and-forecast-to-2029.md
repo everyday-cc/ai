@@ -96,7 +96,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://techbullion.com/wp-content/uploads/2022/11/Federated-Learning-Solutions-Market.png"
         width: 850

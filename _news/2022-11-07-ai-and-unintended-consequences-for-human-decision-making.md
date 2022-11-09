@@ -7,7 +7,7 @@ originalUrl: "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/20221
 webUrl: "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202211/ai-and-unintended-consequences-human-decision-making"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,51 @@ images:
     width: 1528
     height: 800
     isCached: true
+
+related:
+  - title: "Intel unveils Max Series GPUs for high-performance computing and AI"
+    excerpt: "Intel has unveiled its Intel Max Series graphics processing units (GPUs) for high-performance computing and AI applications."
+    publishedDateTime: 2022-11-09T13:59:00Z
+    webUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-performance-computing-and-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "Intel takes responsibility for AI"
+    excerpt: "With its research and development history, Intel has been one of the first big tech firms to define the foundations of ethical AI. Launched last month, the Intel Responsible AI charter sets out the chip giant’s perspective on responsible AI and the four pillars the firm says the technology industry can use to ensure AI succeeds not only for technologists but also for wider society."
+    publishedDateTime: 2022-11-07T11:50:00Z
+    webUrl: "https://diginomica.com/intel-takes-responsibility-ai"
+    ampWebUrl: "https://diginomica.com/intel-takes-responsibility-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 63
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Intel unveils new chips that will power the upcoming Aurora supercomputer"
+    excerpt: "While the new Intel Max Series product family is powering the Argonne National Lab's latest supercomputer, the chips are really designed for mainstream high-performance computing, Intel says."
+    publishedDateTime: 2022-11-09T13:59:00Z
+    webUrl: "https://www.zdnet.com/article/intel-unveils-new-chips-that-will-power-the-upcoming-aurora-supercomputer/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 48
+  - title: "Intel unveils Max Series chip family designed for high performance computing"
+    excerpt: "The new family is made up of the Intel Xeon CPU Max series and Intel Data Center GPU Max series, which it says have been designed for high performance computing (HPC) and artificial intelligence (AI) workloads."
+    publishedDateTime: 2022-11-09T13:59:00Z
+    webUrl: "https://www.itpro.co.uk/hardware/components/369479/intel-unveils-max-series-chip-family-designed-for-high-performance"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 46
 
 secured: "tGHX2jxt79bpo8469MBqw0ovNzTPLCbJ25meErxHuvgRfq452auYGHuch+llAs35PwN6dJFHsSCgl+dRjs/Iwo+CHHkg+oMRXcDO4xTa70MtL75pYP+ZbtuzpaeJGZ6qLyDROUtRTEgkC7QrfK0hF4gnPvLbPfrto4O1tYupo2FiLmSnAO45qZbpbZi2oFLetzwDTW/lGnMgz17E61Cp/UVqYUgA3hXdfBmrovlBY+w2hf3Pa9jMV3zb85L3Tve2FXzpu58uzjR8hSpvus9pGO6oiaRsczuxtYsUG6XsYqMbbuGuLg4yCn/DiiyKVkDoMLpUY4uxkhKyxF8qXZBCD/zSMVpIRAQ0L/iHCDzz28r97v8AXFaWyh2ayrqNBgQ30RqYSMkoLKxqxyIpRVCwR6iP+OmMd1mLruz903ZoEmjeFSBRlEPfnNLCr7Qs9LC2ZxHoXb5GWbQ+BDIgB8Ru/MEvqoCuI3glO3dQJU60zkNyffApVhuoOfThYLwCJBZPGmkwyTrz9TIjqQy/k1GqiA==;dXRwWBnJSGfCO/vxo4+qyw=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud giants file major EU antitrust suit against Microsoft"
+    excerpt: "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\","
+    publishedDateTime: 2022-11-09T14:29:00Z
+    webUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 66
   - title: "Microsoft wants AI to change your job"
     excerpt: "Microsoft executives told Bloomberg the company has plans to develop the Copilot technology for use in similar programs for other job categories, like office work, video-game design, architecture and computer security."
     publishedDateTime: 2022-11-05T22:11:00Z
@@ -39,51 +48,23 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Shennona Pixsee AI Smart Baby Monitor combines with Microsoft Azure for recording precious memories with an AI platform"
-    excerpt: "Two years ago, a unique baby monitor that used artificial intelligence (AI) to accurately determine the cause of a baby's crying V whether the infant may be hungry, sleepy, or needs a diaper change V was launched in the childcare market."
-    publishedDateTime: 2022-11-09T03:21:00Z
-    webUrl: "https://www.digitimes.com/news/a20221107PR200.html?chid=9"
+  - title: "Salt Security Achieves Microsoft Azure IP Co-sell Ready Status"
+    excerpt: "Salt Security, the leading API security company, today announced that it has achieved Microsoft Azure IP Co-sell Ready status, allowing the Salt Security API Protection Platform to be sold and marketed by Microsoft sellers globally."
+    publishedDateTime: 2022-11-09T14:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-salt-security-achieves-microsoft-azure-ip-co-sell-/2022/11/09/9709310.htm"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 45
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221107pr200_files/7_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "Microsoft Flight Simulator FS Traffic AI Add-On & Newark Liberty Airport Get New Screenshots"
-    excerpt: "Today third-party developers shared new screenshots of upcoming add-ons for Microsoft Flight Simulator, including FS Traffic."
-    publishedDateTime: 2022-11-08T22:12:00Z
-    webUrl: "https://twinfinite.net/2022/11/microsoft-flight-simulator-fs-traffic-newark/"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
+  - title: "Informatica Expands Cloud-Native Master Data Management to Asia with Microsoft Azure"
+    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, today announced that the company is expanding its Software-as-a-Service (SaaS) v"
+    publishedDateTime: 2022-11-09T00:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20221108005033/en/Informatica-Expands-Cloud-Native-Master-Data-Management-to-Asia-with-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-d0q77hRjGWvCunvqSsMC5PkKuEqWGdtYcKRejd3o8qMqnKfqP6Z7nZVMLG-WqUNUuIFBOuQU34x9_qUrqnb9IFt3G9xeKEyIFKgj2nxZILuWb2_mZzaa2HVGkrPJ34F1Q=="
     type: article
     provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 43
-    images:
-      - url: "https://twinfinite.net/wp-content/uploads/2022/11/Microsoft-Flight-Simulator-FS-Traffic-10.jpg?resize=600,338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
-    excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"
-    publishedDateTime: 2022-11-08T12:34:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-to-pump-more-funds-into-openai-what-will-be-the-implications/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
-  - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
-    excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
-    publishedDateTime: 2022-11-05T18:25:00Z
-    webUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
+      name: newsroom.businesswire.com
+      domain: businesswire.com
     quality: 27
   - title: "Insight Achieves All Microsoft Solutions Partner Designations"
     excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."

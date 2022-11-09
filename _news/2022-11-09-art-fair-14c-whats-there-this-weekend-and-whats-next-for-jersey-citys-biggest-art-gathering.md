@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T13:59:00Z
 originalUrl: "https://www.nj.com/hudson/2022/11/art-fair-14c-whats-there-this-weekend-and-whats-next-for-jersey-citys-biggest-art-gathering.html"
 webUrl: "https://www.nj.com/hudson/2022/11/art-fair-14c-whats-there-this-weekend-and-whats-next-for-jersey-citys-biggest-art-gathering.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: NJ.com

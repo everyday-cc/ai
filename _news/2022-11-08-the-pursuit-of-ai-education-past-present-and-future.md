@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-pre
 webUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI in Education
 
 related:
+  - title: "The Promising Reality of AI"
+    excerpt: "Artificial Intelligence (AI) can sometimes be an ambiguous word in education circles, evoking images of machines replacing human teachers in the future. The truth, while less fantastic, is that AI"
+    publishedDateTime: 2022-11-09T16:32:00Z
+    webUrl: "https://www.eschoolnews.com/webinars/the-promising-reality-of-ai/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 37
+    images:
+      - url: "https://www.eschoolnews.com/files/2022/11/AI-Imagination.jpg"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Maximizing the Potential of Data and AI through Automation"
     excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
     publishedDateTime: 2022-11-07T18:54:00Z

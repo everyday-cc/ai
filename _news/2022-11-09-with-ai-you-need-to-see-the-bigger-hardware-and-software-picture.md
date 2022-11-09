@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T12:24:00Z
 originalUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
 webUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: theregister

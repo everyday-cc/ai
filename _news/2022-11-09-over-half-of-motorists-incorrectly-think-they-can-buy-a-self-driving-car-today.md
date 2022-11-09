@@ -26,22 +26,6 @@ images:
     height: 382
     isCached: true
 
-related:
-  - title: "Majority of motorists think they can buy self-driving cars today"
-    excerpt: "Despite there being no such thing as a commercially available self-driving car, 52% of motorists think they are available in showrooms The majority of motorists think they can buy a fully self-driving car today,"
-    publishedDateTime: 2022-11-08T09:51:00Z
-    webUrl: "https://www.carwow.co.uk/news/6480/majority-think-self-driving-cars-exist"
-    type: article
-    provider:
-      name: carwow
-      domain: carwow.co.uk
-    quality: 24
-    images:
-      - url: "https://carwow-uk-wp-2.imgix.net/Autonomousvehiclerelease-e1667856643680.jpg?auto=format&cs=tinysrgb&fit=crop&h=800&ixlib=rb-1.1.0&q=60&w=1600"
-        width: 1600
-        height: 800
-        isCached: true
-
 secured: "ooKCvrDRzN6aaISARrpbl5CAlUU2RyZHY9tPy6677YDnJ9v4322K5T+hoBUvzWo6o3pXSagyEbE4AhZqIO/mSArk8VQVrNOQTF36lcW8ih9MhnhgpE4t35osNmTTPMpO1sG4u2zP9Z1wr/o6N/JvNCF2YS7wuYnrDWIn71wjDsVXYskDm5XNoP9tdIfHQMpfMgr10lXvOWjXWonROaXFQ8xvnWI7mxkhFoAO6f2Gsx+3Yam+ioCAqOB/H7U+oENmf9zf4USv/8rc+Rc85HnloVAG1TUDvtcU3j2SEXFSwViaWWqIGOWhWOUzipdNfVWzTN2RPOSk3sIeOfbeg69ft1HywKgiW2OhLIu0PPXL7U35AOf891eya3orEVBLZODjyownCeCLTkwywO73wD7G8EUMFku6IT/mDRxBLZXNKBHB3RZKiDvz3SaSmTKhvEMzo4NjCTc5EgB8bvbHpupZ1QXd5kLuC1Pb4PCEq+nq4IVegOXQBLYte1gcbu4IiTCsa5S+pdhbDgOffjZMrxjmJw==;zqMzVz4z+2Q49yBvpa8Yrw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T14:10:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57537377-streamshark-introduces-new-machine-learning-captions-feature-to-help-enterprises-improve-vod-experiences-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57537377-streamshark-introduces-new-machine-learning-captions-feature-to-help-enterprises-improve-vod-experiences-200.htm"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Finanznachrichten

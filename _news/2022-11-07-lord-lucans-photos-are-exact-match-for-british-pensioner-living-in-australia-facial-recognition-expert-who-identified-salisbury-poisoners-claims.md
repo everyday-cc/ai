@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-e
 cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -27,36 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Australia bets on facial recognition to deter problem gamblers despite concerns over rights"
-    excerpt: "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population."
-    publishedDateTime: 2022-11-04T21:06:00Z
-    webUrl: "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
-    ampWebUrl: "https://amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights"
+  - title: "AI-based facial recognition claims Brisbane Man is missing Lord Lucan"
+    excerpt: "Professor Hassan Ugails world renowned facial recognition system also helped identify three suspects involved in the murder of Jamal Khashoggi."
+    publishedDateTime: 2022-11-07T19:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/uk/ai-based-facial-recognition-claims-brisbane-man-is-missing-lord-lucan/articleshow/95361094.cms"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 79
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/04/ea3a5d70-cb1c-4d31-9a49-62c4a096cdde_a7fb0940.jpg?itok=qMGIsekb&v=1667570814"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hotel bets on face recognition tech to deal with gambling addicts"
-    excerpt: "MELBOURNE—As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The"
-    publishedDateTime: 2022-11-04T23:19:00Z
-    webUrl: "https://newsinfo.inquirer.net/1689578/hotel-bets-on-face-recognition-tech-to-deal-with-gambling-addicts"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
+    excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
+    publishedDateTime: 2022-11-07T13:54:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/11/07/lord-lucan-australia-pensioner-exact-match/"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2022/11/AUSTRALIA-GAMBLING-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 26
   - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
     excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
     publishedDateTime: 2022-11-07T17:11:00Z
@@ -71,15 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Could facial recognition and cashless cards help problem gamblers? This is why some fear it could be thwarted"
-    excerpt: "Tackling the issue of problem gambling with real reform has proven difficult historically for Australia, so will a range of these new proposals work?"
-    publishedDateTime: 2022-11-05T19:27:00Z
-    webUrl: "https://www.sbs.com.au/news/article/a-range-of-gambling-reforms-have-been-proposed-around-the-country-but-will-they-be-implemented/sdlzgmnnq"
+  - title: "Is Lord Lucan still ALIVE... and hiding in AUSTRALIA? Bombshell report claims aristocrat who vanished after 'nanny was bludgeoned to death in London' 48 years ago has 'EXACT ..."
+    excerpt: "An 87-year-old Buddhist who lived in Nepal before moving Down Under is said to be a 'definite match' for British aristocrat Lord Lucan, according to leading expert Professor Hassan Ugail."
+    publishedDateTime: 2022-11-07T02:00:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11397071/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11397071/amp/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11397071/amp/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 0
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 8
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/11/07/00/64258043-0-image-a-113_1667780673368.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "bdwvCD7BqfRr4qFmMVabbs8iBGEvYfSUm5ZvlPcRmYJuzmNAjAlTA34rPZCqgIzbp0ithpRUUEg6F/BizTb21Kez6t3gigkX3rQuYQzQf1FOb4/pTPdmSKVoLqeCkYpWga9k11o+5fogkw8UR+DBfzKHZ2wg9/P16AvAMOqr5mEybnqv1If5AA9LnlWugZBdXwN3XKmKGtCr4PoIwC69UeqHbeBQNSfmFGL/1sZvC2ZsC/nd3QczFQrfBzCAE+Bvyko9AbWXx0G9k5dtGYtK5Vp8A53E24uvv0lXDcO+rUmH4LAIpSGjY5xa22roF+VNXzwyQ0vJY5ouvGa5Qnj7L9+WXC+ZPNrBKQ7ZW/ATYvw=;74u53gp1+sQtU2OnjDlJQA=="
 ---

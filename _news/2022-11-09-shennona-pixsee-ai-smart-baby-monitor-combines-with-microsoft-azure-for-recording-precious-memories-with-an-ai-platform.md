@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20221107PR200.html?chid=9"
 webUrl: "https://www.digitimes.com/news/a20221107PR200.html?chid=9"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,57 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft wants AI to change your job"
-    excerpt: "Microsoft executives told Bloomberg the company has plans to develop the Copilot technology for use in similar programs for other job categories, like office work, video-game design, architecture and computer security."
-    publishedDateTime: 2022-11-05T22:11:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 56
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2022/11/392940529-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Why OpenAI Spent Barely a Dime on Microsoft’s Cloud After $1 Billion Deal"
-    excerpt: "When Microsoft in 2019 said it had invested $1 billion in OpenAI, the high-profile artificial intelligence startup agreed to develop its products exclusively using Microsoft’s Azure cloud servers. It appeared to be a big win for Microsoft Azure in its battle against rivals such as Google Cloud"
-    publishedDateTime: 2022-11-07T23:25:00Z
-    webUrl: "https://www.theinformation.com/articles/why-openai-spent-barely-a-dime-on-microsofts-cloud-after-1-billion-deal"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 53
-    images:
-      - url: "https://tii.imgix.net/production/articles/9099/102f3dce-bef7-4c51-833a-1b29ae79456f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Flight Simulator FS Traffic AI Add-On & Newark Liberty Airport Get New Screenshots"
-    excerpt: "Today third-party developers shared new screenshots of upcoming add-ons for Microsoft Flight Simulator, including FS Traffic."
-    publishedDateTime: 2022-11-08T22:12:00Z
-    webUrl: "https://twinfinite.net/2022/11/microsoft-flight-simulator-fs-traffic-newark/"
-    type: article
-    provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 43
-    images:
-      - url: "https://twinfinite.net/wp-content/uploads/2022/11/Microsoft-Flight-Simulator-FS-Traffic-10.jpg?resize=600,338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Microsoft to Pump More Funds into OpenAI – What will be the Implications?"
-    excerpt: "OpenAI has had a close association with Microsoft in the past few years, one of the most significant ones being the latter’s investment of USD 1 billion in OpenAI"
-    publishedDateTime: 2022-11-08T12:34:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-to-pump-more-funds-into-openai-what-will-be-the-implications/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
   - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
     excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
     publishedDateTime: 2022-11-05T18:25:00Z
@@ -85,15 +34,6 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 27
-  - title: "Insight Achieves All Microsoft Solutions Partner Designations"
-    excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."
-    publishedDateTime: 2022-11-08T16:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/08/9708649.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "Jpjwb/QWzxQ0S8CCAM2Ik7SZWi3u8wjircwaMGkDVCNywN+FK5tv573+D/1VLNZ5IRv+v97QO4CjN6DrK0Jjzs1yuba0Ujma1+Jvk1U5rmVNyyBWU3BC+/iDQytXjfrAnS7T/IYzy+h5wFcaS5zHbaRXJ5dWOk663JdekmonvO7ShxrXGyS6N0A/X0yNoGioCRlKZiDbQLcZIMiAL6DWN7uxbnLYmSvvPsjOu+RLBuqwJmOjyeZKZ542UE3ovQ1eIBvXOQkDaTfRPewfU6E6se5z0YA0lRzY5eoJMCgIbKv3N8VZ4q55gORfo5M/03Cuxn7VhbvaT7d1J7/ONesTFd5tlq/4UWd3Loi2HC1wgRr3xEz23zsdVhvAzcAElDea54zt1F9n5rM9k7Bkj4IFzsFPISZyF1MEwFfb/TZKSkqFvZgs77tvIHfaw9Ku8Uoy1IZ6IL4/uzrjr2weIZ8U4c17nBGVwKwAL4TKWjKmnWNU5X5SVAXZKEyhANVfpw13yG3/LomB4rx2kvr7kKmCSA==;A2Y5X2Ls88YGUVcAWEGcMw=="
 ---

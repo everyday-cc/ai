@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T12:36:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29636253/study-finds-ai-and-machine-learning-will-be-key-for-dtc-subscription-service-success"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/n29636253/study-finds-ai-and-machine-learning-will-be-key-for-dtc-subscription-service-success"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Benzinga.com

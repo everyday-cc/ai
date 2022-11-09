@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T14:52:00Z
 originalUrl: "https://bdaily.co.uk/articles/2022/11/09/breakthrough-ai-platform-to-help-companies-achieve-net-zero-via-5m-funding"
 webUrl: "https://bdaily.co.uk/articles/2022/11/09/breakthrough-ai-platform-to-help-companies-achieve-net-zero-via-5m-funding"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Bdaily Business Network

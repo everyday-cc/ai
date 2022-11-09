@@ -8,7 +8,7 @@ webUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth
 ampWebUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 

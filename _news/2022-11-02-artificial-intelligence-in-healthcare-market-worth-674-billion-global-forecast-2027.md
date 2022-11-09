@@ -19,6 +19,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "uNQrsv3mi9ahVYn7CX32l8k9dKkONNvZXPJn+IPp7ig7gcoOLhgHoAzEaAnz3sbitzeFT7sYDnU3kz59TQAPJrWFGA5PxpvkDsWlCRxDXGSMiLsJ7+ikZ4xqzqU09bcq9Ej1D7RBOcbEcBeLuABo97nh25VdJ+4hR3dnhRLxyJh4kNV61/mThYzg8rQ6VBQLtYlMLzfngehvP4iHt2vbQPN3bldD9pZ8U4/wV1dC7UpK7HGWazD1OWEP2MM1gHnVV4Ei46rnit+u8XuG/NWqoCwzFMZv+n38A2bIkyMc0/W/DytBrOIE1tTiOVbUPY0FFC3SlDqa9ZrJrtUP1cUVuKopPlzPEpdmp4tMaGmlnMQ=;F6aGMV5DBY5RZrNuiihqGw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "m3cX4os7/vLSJlxUrvdFnh3wf9emg7AECuX5UoGVHOmp25jSJzIUATqt5EL0HyxJ8T/VLrZJWFWEZEQ8JZVX8TOYY612GdXABNppDWsvqiFe5d1/FQIOBPdKFUHr0K0jSeCuABL2Jomb1dldedj3eQXsgC1HgSaHdUHV8U9JCMBOWIwh79jV5AAPua7C+SPe95p3lt8jezxzUZXoF/etk7kYYQ1oQCQHgocw6mBDtzc97/cbBQDvgROxt7gYiS7LA7YAOeNeD8HaZfnszKMSkObK1ZKk/EEEPxEMaI2RdrB4DiUrpEcu81x+AX7+cwYT2XJsA9z3zd+7fh2/ggDbUtmw9EviQ0LCF4qcDE7zpgc=;garhqSvgEgFzDve8L7qxag=="
 ---
 

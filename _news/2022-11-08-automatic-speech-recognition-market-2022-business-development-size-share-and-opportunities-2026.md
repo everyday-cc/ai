@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-business-development-size-share-and-opportunities-2026-2022-11-08"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
     provider:
       name: PharmiWeb
       domain: pharmiweb.com
+    quality: 0
+  - title: "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com"
+    excerpt: "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,"
+    publishedDateTime: 2022-11-09T15:51:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 0
 
 secured: "EmmGAJ6bUOttTm5JoL00bNGcM4K/qiz33mqPt/FNlbJ7D56Qov0SRe769qGPfg8i0G93nxXaz/8hfOXv8h+gj9bzKF3N0zpU5vaKEsKe1KXgXxyw7N2r4zOGGB93bAvZ5jc4OQzTya1IBrf72F3/0IdGEMBfw8S0mhRDpu3/q7UBXmcrPflSmV8n4bv9M5hgYWcqvqcGQ49SDXKmzLM4q4J+4kmkSngiFM/wQM9E5IhEqB91INxhoYxTyQIE/AhVl6hXXb/oqofWtlu4sg6Lz0NUWLzh16bcTiYePjj/Oe3eCDdU5nH64KlTFwmhk6ZYxXrmyaXEq4ManeHRkmK7loZPoF2/QkWKaJhGhzl5Km8=;4vL40a4/oc3o8em+KaHQNQ=="
