@@ -1,20 +1,22 @@
 ---
 category: news
 title: "oToBrite Bullish on Future of Commercial and Special-purpose Vehicle Markets Given Wide-ranging Uses of Vision AI"
-excerpt: "This article is based on an interview undertaken by FusionMedium's technology online media, TechOrange, and published with permission:"
-publishedDateTime: 2022-11-08T07:56:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29608167/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-us"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29608167/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-us"
-ampWebUrl: "https://www.benzinga.com/amp/content/29608167"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29608167"
+excerpt: "The company also participated in the AI on Chip Industrial Cooperation Strategic Alliance initiated by the Smart Electronics Industry Promotion Office (SIPO) of the Industrial Development Bureau, Ministry of Economic Affairs, in a move to facilitate cross ..."
+publishedDateTime: 2022-11-08T09:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-uses-of-vision-ai-1031885516"
+webUrl: "https://markets.businessinsider.com/news/stocks/otobrite-bullish-on-future-of-commercial-and-special-purpose-vehicle-markets-given-wide-ranging-uses-of-vision-ai-1031885516"
 type: article
-quality: 38
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -26,24 +28,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "What advantages does Taiwan have in the era of AI and smart vehicles? Kneron's CEO points out three"
-    excerpt: "PRNewswire/-- This article is based on an interview undertaken by FusionMedium's technology online media, TechOrange, and published with permission:"
-    publishedDateTime: 2022-11-08T07:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29608073/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29608073"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29608073"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1937823/image_5018046_24751601.jpg"
-        width: 400
-        height: 267
-        isCached: true
-
-secured: "QYfqmgkbLnGyOdJxxXQ877ahWbcPlD0e3vHBw1l5M7fx01Ie2hEdukY9NzmXP+csnUXifQYEeSQaTzw8Jot5xvM40iwUJerS0zuLC8eo2WHH9rD0cfEKo11l6ZbA70JRY4XpsVwLvYsUtF7dAMOuFHAwdXP8v8ludZbHGdFaixR0ZKyYiPvrlp1GUL/ysbJqgIK5GIzsguKsm5kPdfORT18r8IQWUNNmdaYlfEBU01CP2+Y5X5CQejFSCsueJ8gUEUY2iuNuOsB2Ya8CerKffwtvYu8xdAwm1GDLdMpkVjfYjsCcQf8L0qfYAzcj17X0sVmTJi3+uFhDENaWe2IWP8PmimRk6uorqaK5Pmu+2Gs=;Ixtee29Y7KKDPtkFKY960A=="
+secured: "qHDD+Kar3J9EeWaNARpNgoBoccqgo/OSNjdxPnvss1e1FotoI6HM9bLHwRx5aKM+8YtvZ2VgXt31YKukvKNCMVHJOS6tor/AHkEh1QcE4+gUwNPs9xYt8OJNuynWKjt800WqqK4MfAZEj4L0vvNYWAJAdtMyh2qdr6gU460PFgzYrx86CSpDPI+axhJ6vTSUTZqh+2p8hpPKJBEa3is/yfVFx5wDWX4sMEXXjWS10aKF3PC524QzWVo77xVWvEM6UehQcpV6jg1DazpeVlZk5Eow53QEFmaNCcubo5jNg6PPSQSckhLJLMF+1yXL7BCujdk+cUreRR0S779/iLIbnj2U91iXQlGqxMIsC7QzCoU=;EmGV6MGlCr26tpMzUnvCBw=="
 ---
 

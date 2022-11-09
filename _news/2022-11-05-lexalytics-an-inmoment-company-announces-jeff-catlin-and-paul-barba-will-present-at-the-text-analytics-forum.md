@@ -32,22 +32,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "“IBM Introduces New Software to Break Down Data Silos and Streamline Planning and Analytics"
-    excerpt: "IBM (NYSE: IBM) has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
-    publishedDateTime: 2022-11-04T10:00:00Z
-    webUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/"
-    ampWebUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 34
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/IBM-Introduces-New-Software-to-Break-Down-Data-Silos-and-Streamline-Planning-and.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "f4PONRA8hSYvPyOgTKU8LJVud7eWg6kt0W4XJB6Arj5811sjmk9db3BUNrvWoG7sEVresZHMfxC2XeXEbfQPzD7hE0tIXSmaUwHitx9aJgqIr9smlyCXhSEs7DZ1hhWGA9Ulr7SLVB4NHcuiNEDoXQBtb3M4xGsowRzH4wxJnJBS7XN6S06VytJN7ed8ioshtoLZZg7BUuRbdBbmQu/wkkpt+MiLYQcqDrALomCdlRF77MPzJ8s9n/IA2KjIWismp1ulaov8hW0KueFwKBk8Xy3GowzTd8pG+iRo3u28ee/gxhZ8eTbyvGrq60Zrcqu+8CLQEt/pqLZsOvxZU+keZQpCXRqwaFz/U518Ht2q6n4=;7DuY/VyhMaubHX8+2TUmNA=="
 ---

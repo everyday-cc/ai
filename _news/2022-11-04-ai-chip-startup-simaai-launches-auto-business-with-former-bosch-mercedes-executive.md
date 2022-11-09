@@ -1,24 +1,28 @@
 ---
 category: news
-title: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive"
-excerpt: "AI Chip Startup SiMa.ai Launches Auto Business With Former Bosch, Mercedes Executive By Jane Lanhee Lee OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it ..."
-publishedDateTime: 2022-11-03T17:54:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-11-03/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive"
+title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
+excerpt: "Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier auto supplier Bosch and ..."
+publishedDateTime: 2022-11-04T05:25:00Z
+originalUrl: "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/"
+webUrl: "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/"
+ampWebUrl: "https://www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive/2773990/lite/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "teiH6mEU30Z3aBg4XE8d1YcfYRjDeWb8qYPApYs+iMAxC7kvCcrZi3WA42EXlk3jB0nJX7QcLPRqDoI5c/fuibtTPDlu4xGb2pXjle3LmpKAbrS5lBShvvoC0xjoCLhk4QUkzwqnBn0J7w/aSOMUUqU0UtKsLKfHlp1pl0UDmC7sBqUNtRYgxQkJEISDjfBUteRSgrFOR8OYzOOCl2HNcn+Z1FZu5yZIaWz/2m2m2OuJdre4xshHZYJQBx/+sRo+ioDFRnP+/YZOLpYD9kRX4laheoPSFYSbCJzcaDMOSF4/v9CXmKZxuosJWK7GcrepDAKaKbgMEuVBkXEFF2nTKrVdfO/MKhXNwGeN9/+saUI=;WGsbjaSFI6Ic6fhZQeXsyg=="
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2022/11/ai-chip-e1667539029282.jpg"
+    width: 1015
+    height: 675
+    isCached: true
+
+secured: "+EjtcQ+6UJE3GjL2+NyxcrY/XPc7T5Z0mL562foosKKTfV3yOmVZnktwKxlWHMDOBMXcEXPf0kwyhx5KdkUdjlsW1uDN1x3fYeSMdqdylvJgSBD8PASrso1qbTWY+GJf9iAGgBAV8UumZyVsf4OezN/B6OaPwodlrEsmNBTdvQdeHAWSbnn67DLUJ/LF372QaRJSJtq83JUzyDvQ399G0Pb2GuKiNMaF2UagPuWV1sBrCit4yZpbPo3s+qigFxajKc9LGix1nUo4cmho5TIzTCYxliXsiP2kWwB5OCV1FzS/isCio8nmYl4DiXzbnGOIieMZKEnQWNaTLCbnTD6KAKHxkhLz/H0fn9/GtAjsDr0=;hkPqVr0HnMTkYGhMQ5vbiw=="
 ---
 

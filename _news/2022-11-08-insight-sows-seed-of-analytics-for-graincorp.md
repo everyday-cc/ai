@@ -33,6 +33,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Insight sows seed of cloud analytics for GrainCorp"
+    excerpt: "Insight Enterprises has built a cloud infrastructure to grow GrainCorp's analytics capability. Together, Insight helped design the infrastructure with a Microsoft Azure Data Lake and Databricks as the core computation drive."
+    publishedDateTime: 2022-11-09T01:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/703107/insight-sows-seed-of-cloud-analytics-for-graincorp/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/agriculture_wheat_2.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Vizit, a Boston image analytics software startup, raises Series A"
     excerpt: "The company analyzes the online interactions consumers have with commercial imagery. It uses those interactions and AI to build artificial consumer audiences to test visuals for companies. Jehan Hamedi, a 2022 Boston Business Journal 40 Under 40 honoree ..."
     publishedDateTime: 2022-11-07T15:35:00Z

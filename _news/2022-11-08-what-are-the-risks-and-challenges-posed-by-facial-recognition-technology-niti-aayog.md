@@ -41,22 +41,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Govt must clearly define data usage norms for facial recognition tech Digi Yatra: NITI Aayog"
-    excerpt: "NITI Aayog, the government's think tank for public policy, has urged the government to clarify how information gathered by Digi Yatra, a facial recognition-enabled flight boarding system, will be handled. It has also urged the government to adopt a facial ..."
-    publishedDateTime: 2022-11-04T08:23:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/govt-must-clearly-define-data-usage-norms-for-facial-recognition-tech-digi-yatra-niti-aayog-9448571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/govt-must-clearly-define-data-usage-norms-for-facial-recognition-tech-digi-yatra-niti-aayog-9448571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/govt-must-clearly-define-data-usage-norms-for-facial-recognition-tech-digi-yatra-niti-aayog-9448571.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 48
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/02/RTX6GAJA.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "emIbOOO/wsuoYcrdPttjncLBYm6ChB+sI7Q1xwy5RyPuIZQNBuRiES8J8+aV6yJkUJV2hwpFZau9a3F5xOxZr4CMjc6NRgVw6tmV116tQk7ghukEQOZu+Ze6Vkqb+Oj0xfGrrEwy2Ei3+TYIZyomzOd9TKwD+TCYgWRpO0fGJpNIhTZkVKmS+qLxio7CoTx7dXL6hOn6vCO8/kGHWmFwJ7lhWVqsF/d6SZnuOcfJkMkxTEkrzEBM22AcLfJk261KVArOD2ClcPBSFI5khdoUd2Sy5oJAaJDfBKCldDKAZJHXFQvuNc2X6YF2/XIVbAWhArOteiBangFu4NUfTRQyv/vPvQzyUK/XKpqNe4udRvx8fdKF2aKxdiPvCi0S8DGF/48d5JtgGS5uGla4OXi7mmZxPfMIm6F9N5G1byf08f/StDnyiFx9FPLD8JtRL4l3fe2pwTI7aJHkAisnyt67uIGcX+NQ9m9Ursx7g1Uq3xqRteY/5o5TgFIo7IuH+bv3w2OVfJzzH4GIA1WVjC4AjQ==;AldklRgLIAxGnpkQh4gBTA=="
 ---

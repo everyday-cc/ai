@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Govt must clearly define data usage norms for facial recognition tech Digi Yatra: NITI Aayog"
-    excerpt: "NITI Aayog, the government's think tank for public policy, has urged the government to clarify how information gathered by Digi Yatra, a facial recognition-enabled flight boarding system, will be handled. It has also urged the government to adopt a facial ..."
-    publishedDateTime: 2022-11-04T08:23:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/govt-must-clearly-define-data-usage-norms-for-facial-recognition-tech-digi-yatra-niti-aayog-9448571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/govt-must-clearly-define-data-usage-norms-for-facial-recognition-tech-digi-yatra-niti-aayog-9448571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/govt-must-clearly-define-data-usage-norms-for-facial-recognition-tech-digi-yatra-niti-aayog-9448571.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 48
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/02/RTX6GAJA.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "What are the risks and challenges posed by facial recognition technology: NITI Aayog"
     excerpt: "Biased training models, lack of algorithmic transparency, absence of a grievance redressal system, inadequate privacy protections, and challenges to the right to privacy as guaranteed by the Puttaswamy judgement are some of the risks and challenges posed by facial recognition technology (FRT),"
     publishedDateTime: 2022-11-08T09:40:00Z

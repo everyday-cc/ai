@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Energy Market is Booming Worldwide to Show Significant Growth over the Forecast 2022 to 2028"
-    excerpt: "Artificial Intelligence (AI) in Energy Market New competitors are exploring? Global “Artificial Intelligence (AI) in"
-    publishedDateTime: 2022-11-04T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-energy-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2022-to-2028-2022-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market Analysis By Size, Share Trends, Emerging Trends, Qualitative Outlook - Forecast To 2026"
     excerpt: "Nov 08, 2022 (The Expresswire) -- Pre and Post Covid is Covered and Report Customization is Available. “Artificial Intelligence (AI) in Oil and Gas market revenue was Million USD in 2016, grew to Million USD in 2020, and will reach Million USD in 2026 ..."
     publishedDateTime: 2022-11-08T04:42:00Z
@@ -74,20 +60,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market Share 2023 Dynamics, Manufacturers, Drivers, Consumer Behavior Analysis and Forecast to 2029"
-    excerpt: "Artificial Intelligence (AI) Chips market report covers the global sales and revenue forecast, regional forecast, market share and the growth rate by type Global “Artificial Intelligence (AI) ..."
-    publishedDateTime: 2022-11-04T09:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-share-2023-dynamics-manufacturers-drivers-consumer-behavior-analysis-and-forecast-to-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/Twitter-Jack-Dorsey-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "AxsE3ROFl5VWvlmWkrenDc3q3JzcCXJR0GZBvTuxW5j0zvAUZ1Lw2dlsbn9rkBPP3QHVG4XrhEfSoh6dgmME5SNm/Mp+SfMgCR2M1sMg7mLnrTdHAVRpPG0zlmJB6KHUeyka4GonG5qAV8rcPz9Be51hPREPHlZgf7qrmee3AP7pYqpc0Kvlx03+VQlRK1AH+CuqlLU9WnDQ4Iny2fjTUeOY4Tmn5swquMfr0RTWk+WivYx5XYD/zZ3NoAAAtY+GOt3mkV5qAgJJns8POt23ip6JIvr8JdgLJ3sXJQxmNh4X+z5Ft+faLs0BYAFjl2+BkOp6Xb4Qx/5G66RtLQQPlUSm5Urs+8btI0vWARuIzLE=;QLipCreS3wPPenguGh4R0w=="

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "“IBM Introduces New Software to Break Down Data Silos and Streamline Planning and Analytics"
-    excerpt: "IBM (NYSE: IBM) has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven"
-    publishedDateTime: 2022-11-04T10:00:00Z
-    webUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/"
-    ampWebUrl: "https://enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ibm-introduces-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 34
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/IBM-Introduces-New-Software-to-Break-Down-Data-Silos-and-Streamline-Planning-and.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Lexalytics, an InMoment Company, Announces Jeff Catlin and Paul Barba Will Present at the Text Analytics Forum"
     excerpt: "Lexalytics®, an InMoment® Company and pioneer in AI-based NLP technology, announced today that its Head, Jeff Catlin, and its Chief Scientist, Paul Barba, will present at the Text Analytics Forum in Washington,"
     publishedDateTime: 2022-11-04T17:00:00Z

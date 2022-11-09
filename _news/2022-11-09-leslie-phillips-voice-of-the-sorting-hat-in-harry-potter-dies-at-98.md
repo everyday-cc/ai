@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Leslie Phillips, ‘Carry On’ star, voice of Sorting Hat, dies"
-excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98. His agent, Jonathan Lloyd,"
-publishedDateTime: 2022-11-08T15:01:00Z
-originalUrl: "https://apnews.com/article/entertainment-europe-obituaries-leslie-phillips-40b7c0aa6da0c802621a08d5686b8b13"
-webUrl: "https://apnews.com/article/entertainment-europe-obituaries-leslie-phillips-40b7c0aa6da0c802621a08d5686b8b13"
+title: "Leslie Phillips, voice of the Sorting Hat in 'Harry Potter,' dies at 98"
+excerpt: "Britain's Prince Charles chats with actor Leslie Philips in London, on May 17, 2006. Leslie Phillips, the British actor best known as the voice of the Sorting Hat in the “Harry Potter” movies, has died."
+publishedDateTime: 2022-11-08T23:16:00Z
+originalUrl: "https://www.ksl.com/article/50512409/leslie-phillips-voice-of-the-sorting-hat-in-harry-potter-dies-at-98"
+webUrl: "https://www.ksl.com/article/50512409/leslie-phillips-voice-of-the-sorting-hat-in-harry-potter-dies-at-98"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KSL
+  domain: ksl.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/460c06b4e2064044878e0d4d7c2e5b4c/2736.jpeg"
-    width: 2736
-    height: 1824
+  - url: "https://img.ksl.com/slc/2901/290126/29012604.jpg?filter=kslv2/responsive_story_lg"
+    width: 1228
+    height: 690
     isCached: true
 
 related:
@@ -73,6 +73,20 @@ related:
         width: 2736
         height: 1824
         isCached: true
+  - title: "Leslie Phillips, ‘Carry On’ star, voice of Sorting Hat, dies"
+    excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98. His agent, Jonathan Lloyd,"
+    publishedDateTime: 2022-11-08T15:01:00Z
+    webUrl: "https://apnews.com/article/entertainment-europe-obituaries-leslie-phillips-40b7c0aa6da0c802621a08d5686b8b13"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/460c06b4e2064044878e0d4d7c2e5b4c/2736.jpeg"
+        width: 2736
+        height: 1824
+        isCached: true
   - title: "Leslie Phillips, 'Carry On' star, voice of Sorting Hat, dies"
     excerpt: "Leslie Phillips, the British actor best known for his roles in the bawdy “Carry On” comedies and as the voice of the Sorting Hat in the “Harry Potter” movies, has died. He was 98. His agent, Jonathan Lloyd,"
     publishedDateTime: 2022-11-08T18:47:00Z
@@ -86,20 +100,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/30/21/13/23139023/3/1200x0.jpg"
         width: 1200
         height: 1300
-        isCached: true
-  - title: "Leslie Phillips, voice of the Sorting Hat in 'Harry Potter,' dies at 98"
-    excerpt: "Britain's Prince Charles chats with actor Leslie Philips in London, on May 17, 2006. Leslie Phillips, the British actor best known as the voice of the Sorting Hat in the “Harry Potter” movies, has died."
-    publishedDateTime: 2022-11-08T23:16:00Z
-    webUrl: "https://www.ksl.com/article/50512409/leslie-phillips-voice-of-the-sorting-hat-in-harry-potter-dies-at-98"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 24
-    images:
-      - url: "https://img.ksl.com/slc/2901/290126/29012604.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
         isCached: true
   - title: "Leslie Phillips, 'Carry On' star and voice of Sorting Hat in 'Harry Potter' films, dies at 98"
     excerpt: "\"Carry On\" star Leslie Phillips became well-known for his suggestive catchphrases, including \"Ding dong,\" \"Well, hello,\" and \"I say!\""
@@ -134,6 +134,6 @@ related:
       domain: fox2now.com
     quality: 0
 
-secured: "Zpscv1L+aNmZM7ol2SxgFbyPN19gjGEPyPDsIPppMPPd+1IhD+fgMfECOVyPtFXMG82D8HgA60KUGB+oQqQhQVfgHuWVwjbPEkgf/GHBln+IoLThQaeNJ/lelTTG6bh8UaHiYtHdPrpGcn2KIkJnbSh6pcsKIabJ4LWPt2HZRI6gfLGmbXHzZiBsBxClCpphDEdkIF8f13/5Fr3ubDvbssGKnyeYX8qczHxBWV5oBrB2bLYAIiyaCeBOYOeUQZeu7YreFHnk/6uaMyWz814L9R5zS9LBhMI/TryAw1U3YgIulSrCimW3/tmUmjGnMec4B7yBjwMExJ1WqTy3aSvXe5TeDqDXQPZWGfCqhThWdHGmmWR0BDJQion2kplZDv7nRAEZzvdG67JqbvvDjUkceFZhU0JkjLq453HiKkgCnyGqixhYMZ6Yx9cWgxlWtcoE09SyzDVSNDphMZlt+CxtN5dY+D/AeR0dn3WlJFL1WQBrLF8JXE8x22ZyvbHX72SGB1tDH2SID2PCCfEX2V/ZjA==;/xDooca167KvHI6klQUKFQ=="
+secured: "47QM4Vonbtw9gvurnYzX0BuxT2IQz9ZXMpe9Me3rTmwokJeHp6HMhGQPNA9MC9yFQvajy35BaJtWELJI5oriuC19cbayWlxcSuZnhovpjR4OiIcuxnERRasZ5zZaPbss7qBjQE95JKq7uuQPkcd68AtUnOWB2tOxcMYMAcevIXYMo51lQ8d0Ch04ZxDS8eczea5HloRyWG5FOAqO7lOpb1Nh3aH3ErP97d3a4ZvmLjTbw6mt+EC3deQkGXw0Zapf0yf5MVnI5dH03OUhF9QcCcG3qeYhqNMXH95lj2LaixJVsmM6wfKI6bTfXEwMVLdcDx4KxY0UShppd1SdIaNBOUbG3LUX/gSERc105ijUoe4=;tLNiGbPtYopVGMXCL3idbA=="
 ---
 

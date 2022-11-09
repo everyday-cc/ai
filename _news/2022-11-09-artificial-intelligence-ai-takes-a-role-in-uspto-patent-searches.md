@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-ai-take
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
