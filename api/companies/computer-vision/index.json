@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 865261
+        "followers": 865308
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 102679
+        "followers": 102682
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -135,7 +135,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 20377
+        "followers": 20400
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -151,7 +151,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 195,
+      "heat": 196,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
