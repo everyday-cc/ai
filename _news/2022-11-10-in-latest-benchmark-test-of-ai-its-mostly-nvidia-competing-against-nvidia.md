@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/1b869a72857237edc5b0dee2d3aad395ded997c9/2022/11/09/44d567aa-ea48-4388-b991-db0bc6d2e85d/mlperf-hpc-training-1280x680.png?auto=webp&fit=crop&height=675&width=1200"
@@ -48,6 +49,6 @@ related:
         height: 576
         isCached: true
 
-secured: "qlFG5SYlcQLVzPbCUgq1DL1kwMKZuh8naZDVluAciCd8MU2jNZgfoGoiMzZ4I5ghDHje2Kp8t12RMoQ2u0E1KWSKYWRDuNj07moAsuzXTjVymLqV/rJU7DAe/LeDuc5PVLrsvbL7yPaN8/+q8kpgnOCet+A8nnIfHhjr4uxCAyeSX3AnH5HDJ8AM9ekqVjTZpfRIWCIlUm8JdN4KfXzhydUmxYjCYSyvMQ76/xVZqEYVuInRCxjP3xwY4cxfQjwCzwkXpKq0HFIIhQM/OIwszrs/j+aLztxPTHLrqFjIa+N+4qOh0hAMLhs3Yax3kUU7ClXEnMQLkkuuXyFkWLWSpdvcWTVPn3WRNc6sx5woiSo=;genCNjBJmrHx37bFVV0csA=="
+secured: "Lfl5pgKrjEbMX4XTTZRL8LPTcfIbFkGnRGiLPW2f3XzkB8w6mf45gH0qtYwP1ZrUx4cBO31pP69xeDgn0dpOtTH66wi1h5elNk74xuTAnwRBkNjSKDR48v5q4mTqq7d2SrgRm04kvaNFhlALATxqV4BJXSpgUglY3Ig9hO0cpuN2n8IT1JupL2XHpA+gF8S5DQ66B1I4SEGu/OoxVPw+bBDqw8FGkwWgzt4f65GqSVE4DtJ37p9FHL96kl8J6DKrhzwRCsWltSael21b52wvBwFnHvIgf6B012K0DucaaszMG0Y2OgAkmu4lzXqOYqnbF+LWlKbRfQPgAvMlBfaBKQSpI1y0DrAZbGPvDr8i2rePdioOalJ5nl20hOjPCWnbP6bGgFmIKHuIZfFsJP3Jj4i0MfAHK0OTlO5AEkfLPkaRYbKEE5EH5rt+0Dip9T/JQBP2TTY6wN0DbDLC6Rx6v/hp91F7u7L6okZCi48GtqSjcCkDBTlkXHK3vP6YrWzIVF9FW2GinO78imuPGyiaZA==;oRgQOM8JVRHQcySZ+RinOg=="
 ---
 

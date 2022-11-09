@@ -2,13 +2,10 @@
 category: news
 title: "Autonomous driving taxis taking market by storm"
 excerpt: "Thanks to continuous technological innovations and policy support, China has made steady strides in the autonomous driving sector. Baidu, which has morphed into a tech pioneer with a focus on artificial intelligence,"
-publishedDateTime: 2022-11-09T06:35:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202211/09/WS636b3651a3105ca1f2274f3c.html"
-webUrl: "https://global.chinadaily.com.cn/a/202211/09/WS636b3651a3105ca1f2274f3c.html"
+publishedDateTime: 2022-11-09T05:10:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202211/09/WS636b3651a3105ca1f2274f3c.html"
+webUrl: "https://www.chinadaily.com.cn/a/202211/09/WS636b3651a3105ca1f2274f3c.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: 中国日报网
@@ -18,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img2.chinadaily.com.cn/images/202211/09/636b3651a3105ca157c0f8be.jpeg"
-    width: 719
-    height: 479
-    isCached: true
-
-secured: "Aq3yIwMo5hhSe2mJdNakLM7meJE3/v5kRmQwRaLDINh/UpBO8yfucdKVPBKqrN1uTvhWs4dS9pgRoNg4WTRIcHhOksLmKaMy2WmIszkoc//XlaWLRN1qFpEOHxO5XunG/qeB9ngnqbMBkviL5Wb7JIpZyPcrREi6OMQ8Di4JRS+pSQI46osOaPpOvJ0pUAXIOZD/7nUSr5mmowjK+BJGLe4CIu3o14sOiZCJjv8+lZUV6GN/ZveErp2sckzut2s9C72q6V3fMe4GjOViWlf827rWrrhxnvgcA+txUY7lkFY74ipO4N7zgIrh8N3+BPF9xHDQX/J1fwG/RlVEK8H/u90wEHHJw9Fyl5jQWqX5QwshCV8RwYeJCqlLEK2DR8sGTIEVMFV0lIJoUx3HKc0gkJzO/Qwevf+qZGiMvd44UrYRAc3o7mSKJvBbHDvrCSJ5UJ/XSenQYY/ncOg4oNAK9+btqu6QvIpugIqLEpHaialaxi+RrzZv4AQJxaXv6bew3ZJHOWi0cI4kfTWMSxU1kw==;vyNS1qT3yyP9CkgNjSyjow=="
+secured: "VGQiPvobt3rgAIl90mb7OEIqXLYp+/VljxkgjIXGda+5pFHNRZFx5jysKsR7ia/QmdJ0A0ft5rw7F8l7hujjCcUr0s0YYtHTpIzhhNW3j8pVmmVqweyuDUmPH5O7mYlx0EdN72g1GR5O63mZLmzc6PzdT6DZWXEY4LirImyrSs8fcip7OCXE1Q5+gCUAdg8WA79jNH8wBxxiRu5Q2TuMtBzy4tFK66p3wTKOkdWtfoJeuys7qK1/+5SkCO5qQDq366u1KxKMEz2I6YAOXUr7YhFsnKvSOVEZeb0kOUbksXvM0KjMaaYIBVOYCQqTUeexP20LpeiHLLtPGFJyFyWz1id7748gR5xE3oG0kSTxmCzjnsCO9SEbrx+GuDMYB49OIM3Uboac56x4qC4/J+Lhn5gkrZVVPeFqEsq8z7g6ehBva5Tt3x5EbxxTp7+IZKOtq5aIah3CGPpU9VBuOwtBBmOUf4un7TIUxiBkxbHasafsO9qP0UlUbKZ5h6g+TjfSrlIQTtiFmNbXmKJ9BwJi/w==;u1GTJYnbZKBGezsChBf45Q=="
 ---
 

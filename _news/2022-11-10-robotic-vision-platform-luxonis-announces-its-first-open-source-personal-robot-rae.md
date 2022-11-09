@@ -5,12 +5,7 @@ excerpt: "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open S
 publishedDateTime: 2022-11-09T16:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae"
-ampWebUrl: "https://www.benzinga.com/amp/content/29641695"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
   name: Benzinga.com
@@ -21,6 +16,6 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "uhcsCLcMtHtJHUBmUD344FpN07p05Z9NwRHfNLskanhvSKI/q03wTc3PKxygCX2FusVYqxBkVwN+hTpDmzdsZWZ+WplbYpbGIB9gy8BQSr2G+nVnzBUOgIXyX1dNBx+T+XvaPSu2iWdXZ/VqyN1PoPMfGt+u3Nu1wCl+8bZKafLiDwAP6iJ7yoIJug6WQXKQmkwuVc1UPhL9zsENLdfib2fdq6UONJOxNNHJ1tTcHLVldseZNd1mTN8EilyMn4VJC29DwgNg6r+SV4iTA7EtDLziPLIhMFmmoGWqIMZ58rG/lNe4/XfnpBvikULeJCqFpQy/jAix7+hnFqZ6F9uV99t4xepvVqn5D96ood+Q+mk=;lfJucahPcUwtws1+0hbAew=="
+secured: "s4O5nURd6Pt6Cxwr4bBc8w+c8FyqCdOR3o6FDaJEWb6zTD8cs88lUbbL6F0U8iDGdOr1fqvYskkhN9nm5POu2QHOChR4zi6nrjmZxwbkEkb0owifMnityYKHFv32/07vAkgjprFU/Sn7RIqc2UL24wrmznvWVVPvHL66FjaIrAGWOsXdIQvWBOXkZyzzrMx8ZfKwMCkwzy3OEPKcdOLegegrhfi2EJzgNHt6OZ3F3WcBH3Mjt29hXrdd9m2HUBUp20CDxTx/rzP2Lz2AKEx1W+pP831E83ViD16sj3uwGUyRcODBAKLWiOeCXc13vxNMgAOvIByLUMpVC2vQe8/oeboZspXgXQhRDSjtnOfEINY=;idRpa5+bCQDd3skQ0S2Z2Q=="
 ---
 
