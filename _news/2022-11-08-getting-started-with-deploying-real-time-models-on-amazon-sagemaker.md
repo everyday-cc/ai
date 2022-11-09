@@ -43,20 +43,6 @@ related:
         width: 1553
         height: 776
         isCached: true
-  - title: "Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed"
-    excerpt: "The last few years have seen rapid development in the field of deep learning. Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large deep learning models"
-    publishedDateTime: 2022-11-04T16:45:57Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/deploy-bloom-deepspeed.jpg"
-        width: 1549
-        height: 771
-        isCached: true
   - title: "Run text generation with GPT and Bloom models on Amazon SageMaker JumpStart"
     excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
     publishedDateTime: 2022-11-07T18:07:13Z
@@ -107,7 +93,7 @@ related:
     provider:
       name: Vietnam Investment Reviev
       domain: vir.com.vn
-    quality: 39
+    quality: 41
     images:
       - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
         width: 600

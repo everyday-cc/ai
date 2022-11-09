@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team"
-    excerpt: "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair."
-    publishedDateTime: 2022-11-04T16:20:00Z
-    webUrl: "https://www.wired.com/story/twitter-ethical-ai-team/"
-    ampWebUrl: "https://www.wired.com/story/twitter-ethical-ai-team/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/twitter-ethical-ai-team/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 106
-    images:
-      - url: "https://media.wired.com/photos/6365367400aff92bacb21cde/master/pass/Musk_EthicalAI_twitter_biz_GettyImages-1395053069.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Elon Musk just axed key Twitter teams like human rights, accessibility, AI ethics and curation"
     excerpt: "Elon Musk is wasting no time making extremely deep cuts at Twitter, calving off many teams doing essential work at the company in the process. News of layoffs swept the platform on Friday, showing that Twitter’s billionaire owner is painting in broad strokes when it comes to trimming down the team by half."
     publishedDateTime: 2022-11-04T20:43:00Z
@@ -70,6 +54,34 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 75
+  - title: "Musk axes human rights, accessibility, AI ethics, curation teams at Twitter"
+    excerpt: "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest."
+    publishedDateTime: 2022-11-05T04:59:00Z
+    webUrl: "https://telanganatoday.com/musk-axes-human-rights-accessibility-ai-ethics-curation-teams-at-twitter"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 52
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/11/Elon-Musk-to-cut-half-of-Twitters-workforce-Report.jpg"
+        width: 1280
+        height: 750
+        isCached: true
+  - title: "Data preparation is key to expanding military benefits of AI"
+    excerpt: "Using data correctly can provide new AI capabilities to commanders without taking away any of their legacy decision-making tools."
+    publishedDateTime: 2022-11-07T14:28:00Z
+    webUrl: "https://www.c4isrnet.com/thought-leadership/2022/11/07/data-preparation-is-key-to-expanding-military-benefits-of-ai/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 37
+    images:
+      - url: "https://www.c4isrnet.com/resizer/gdMAYBz8IG7owZ4S1vg6CMCJpag=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
+        width: 1024
+        height: 767
+        isCached: true
 
 secured: "Mf2DF/L6ykFUUj+LLN1IYj+UoiFsVZtoUd+7MT80AELVInVszRZ4DCzdsrv2ezqiOGFWvO76iUfqnxxsxAa/gQRZ1PyriaaiG3LOTSHpZk8EaOT40+LxIRtpyRpK3yughrecCMEpxIZyMNHAMElE4DHnJa24x6uFXiv47BbGLb6/mEFhln57VQ+ylyXwfUBAjCSNFFHvhvsFZH4qxvxGLKCL9Tv91UE1hSkQdjXU3YFgtXqH4VE4zFIYnoMI0XIucAvlHlcNJrJzd29OIYpFfOJI6XMuA4j4CLnCRLbHBtM2FKx8cnvZ98o95mNDF5lSOgC72xhU9e90LJeH1nJVhnY9Xvr4gRbhlRu7wmBM7S/8OwObllc5kKvDCJnHS8UXXBR0DT1BmWmpX1We8qF5g4nP/vEVl7MrLDA7SMQuLM/jujbpoZKLZAvOx4g8zYRziGBfW1kVvOiD/ZVmgWq+Xv9eV7U/Q1mPYIjyG+dDkSTzp38a4bFMKNgTMYw7lqeCtIk00uGdkGBSAEDEQgDvXw==;dYkJ91b9Sh51yWc6rNtWvQ=="
 ---

@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-09-how-machine-learning-powered-campaigns-are-propelling-business-strategies.md",
+      "title": "How machine learning powered campaigns are propelling business strategies?",
+      "excerpt": "In the modern era, driven by technology, the adoption of machine learning is proliferating among businesses. While it enables firms to solve complex problems on the back of meaningful information derived from the careful",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png",
+          "width": 434,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "publishedDateTime": "2022-11-09T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-how-insilico-medicine-uses-ai-to-accelerate-drug-development.md",
+      "title": "How Insilico Medicine Uses AI To Accelerate Drug Development",
+      "excerpt": "Insilico and other companies using AI to develop drugs have cut the time and money involved in the process by as much as 90%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636b6ae0a6628a2dceaf29b9/0x0.jpg?format=jpg&width=1200",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
+      "publishedDateTime": "2022-11-09T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Massachusetts Institute of Technology: Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such speech recognition, computer vision,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg?fit=600%2C400&ssl=1",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
+      "publishedDateTime": "2022-11-08T20:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-how-ai-is-breaking-out-of-silos-to-drive-gains-in-healthcare-autonomous-vehicles-and-beyond.md",
       "title": "How AI is breaking out of silos to drive gains in healthcare, autonomous vehicles - and beyond",
       "excerpt": "Xiao has a vision for how AI will become truly transformative: “Today we live in the age of artificial narrow intelligence. Many of the AI applications are very specifically focused on a particular domain.",
@@ -397,6 +534,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-08-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
+      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
+      "excerpt": "The Zen Robotics machine learns to remember plastic in a similar way to which humans learn to recognise items. The company hopes the Grundon can capture. The 'Fast Picker' arm is supplied by Helsinki-based supplier of robotic waste separation technology - Zen Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "publishedDateTime": "2022-11-08T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026.md",
       "title": "Artificial Intelligence in Agriculture Market 2022 Projected to Gain Significant Value by 2026",
       "excerpt": "\" Artificial Intelligence in Agriculture Market \" Insights 2022 | By Types ( Computer Vision, Predictive Analytics, Machine Learning ), Applications ( Agriculture Robots, Livestock Monitoring, Drone Analytics,",
@@ -560,7 +740,7 @@
       "originalUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -708,7 +888,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1044,197 +1224,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-clearview-stole-my-face-and-the-eu-cant-do-anything-about-it.md",
-      "title": "Clearview Stole My Face and the EU Can’t Do Anything About It",
-      "excerpt": "By uploading a single photo, Clearview’s clients, which include law enforcement agencies, can use the company’s facial recognition technology to unearth other online photos featuring the same face. Marx wanted to know if the company had any photos of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
-      "originalUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6365c2f63505151fbc0b014e/master/pass/Clearview-Stole-My-Face-Business-148340936.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-face-search-engine-gdpr/amp",
-      "publishedDateTime": "2022-11-07T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-how-ai-solutions-can-defend-against-cyberattacks.md",
-      "title": "How AI Solutions Can Defend Against Cyberattacks",
-      "excerpt": "In order to combat these cyberthreats, AI solutions can utilize machine learning and recurrent neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/amp/",
-      "publishedDateTime": "2022-11-07T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-intel-takes-responsibility-for-ai.md",
-      "title": "Intel takes responsibility for AI",
-      "excerpt": "With its research and development history, Intel has been one of the first big tech firms to define the foundations of ethical AI. Launched last month, the Intel Responsible AI charter sets out the chip giant’s perspective on responsible AI and the four pillars the firm says the technology industry can use to ensure AI succeeds not only for technologists but also for wider society.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/intel-takes-responsibility-ai",
-      "originalUrl": "https://diginomica.com/intel-takes-responsibility-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/intel-takes-responsibility-ai?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp",
-      "publishedDateTime": "2022-11-07T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-kiyaai-reaches-out-to-latin-american-banks.md",
-      "title": "Kiya.ai reaches out to Latin American banks",
-      "excerpt": "Kiya.ai managing director Rajesh Mirjankar said on the sidelines of Singapore Fintech Festival held Nov 2-4, 2022. Last year, it handled 14 billion transactions, he added. “We are working in 57 countries, covering all geographies, and we are starting in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/",
-      "originalUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/Metaverse-2.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/",
-      "publishedDateTime": "2022-11-07T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

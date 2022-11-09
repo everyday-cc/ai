@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-09T07:23:00Z
 originalUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
 webUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
@@ -38,20 +39,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg"
         width: 1553
         height: 776
-        isCached: true
-  - title: "Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed"
-    excerpt: "The last few years have seen rapid development in the field of deep learning. Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large deep learning models"
-    publishedDateTime: 2022-11-04T16:45:57Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/deploy-bloom-deepspeed.jpg"
-        width: 1549
-        height: 771
         isCached: true
   - title: "Getting started with deploying real-time models on Amazon SageMaker"
     excerpt: "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous"
@@ -110,6 +97,6 @@ related:
         height: 772
         isCached: true
 
-secured: "6ZOs/6fLDn9s0+Tku1GaNRwgC3Z+Lyiee8Xo/9zK0wwIGVTDx3TrY0X3oZuo/Hswh/Id9pPVKQXQEZGHS7B6t4HyxvTTG9sRkN9HObCAgpxjqfgJAC/t81swbCOt4dKKWVrCM4mNRvutILoODCg4MR2qCGB7aW3Y58yD60KlJRZgEqD3F5gil9h83cS8rGUx2Sqx86ZRsApMuuJsfGFatWc8SsPRihjF9zd32My2cw+qrbxSGCT22C4mzqcKH0f4uVU7nw3WvKH7gD0bYCPyiLn+2yxmhpn00N+ssVQNOvIddCo7yOCmGOag7b4Ybr7gVBPPn83IuvvxFpZO4oRdDPLvYkP039oze9PIChZV5VE=;Qc4t9VXkWM8aKobOUWKxYw=="
+secured: "DxnCzV5SKgR3Q2/h6ZF5/Soy7czMH7GQmxqfzFDfuH/t2XtcGLTFrYkrQwJiFIOhTBB+zQzxx+d6Lb9jjaiEk95R1xW41/MYd0X94GzkyRMn7sQ0lVNh57JxCzA3sihyNJm3PfWuvZ8535UbHpW55Q61oAAYn4BiOIPp+T87numAgBsalIW7MIn1ItHlh2Il9n7t6QXFwvltsIVFa2niEutpU2I945Hzk1tGmYvboXv/Alonseu+prkHxUyqrum8KVD15nO7UKwzpTXcN6e+XxIUnswGM7KDuvn6xhch3Eu1P5QuvmQXe0LW84Nkk7//7E7flmzZ+TrBv4ImFiHsW1MnNqhzg0Pm+Akkykn0dR+ICM55tIymqdiUthnAYmUKfqBD0pZnYviwj10O0MLuGubue6YctPdQHqDokAr3Jy2VHYU8eH4cIhlTzJpzCiH7ZHFl03dhRFcmUy4iwmdVyQVoPkVYugO4zxZl56cxJCniBp3NMny4SGtvIICxWpD7346zd+FMf4Bx+yse/emWOg==;BUd1fDvdo8MwlctiVgcjFQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-pre
 webUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - AI
   - Google AI
   - AI in Education
+
+related:
+  - title: "Maximizing the Potential of Data and AI through Automation"
+    excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
+    publishedDateTime: 2022-11-07T18:54:00Z
+    webUrl: "https://insidebigdata.com/2022/11/07/maximizing-the-potential-of-data-and-ai-through-automation/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "hzHc6SOm0tMK63nsS/PelxOdzaYOe23blisq2q4JyH+3EUxH+ubt4NP74XO9OI2E0v/UrTbQyz3fHeSU/g+X53C3n5dFgAhtE6KmzNGJsC9aw6mP2P2B9S4kwoJDmG+uo0si8wH+snq4A/yasc3wHPMQrPiDng25zi0nQFPhfmKKTODv5M7nMuEi8Tkiwd2L12ZzCBRFy3IytWdT0CKXE+KdBd/un/Eba4zpdVQy/wuCp154nxytMDJp0klubEDPnzAm+erW/N+NsuEcHzA7ryD3++5ticRjNzZqUxSENWoBHx5lwTNVQK7uhmLqTK8FusSyZe3J0LUWA1KhjHdYA1uYCEgXCqsRfI0Q5aInO9Q=;Td3YM8Qy1ACBWZuc7EEizA=="
 ---

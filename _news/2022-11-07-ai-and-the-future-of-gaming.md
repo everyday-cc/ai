@@ -30,44 +30,46 @@ images:
     isCached: true
 
 related:
-  - title: "The people building artificial intelligence are the ones who need AI the most"
-    excerpt: "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,"
-    publishedDateTime: 2022-11-04T17:00:00Z
-    webUrl: "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/"
+  - title: "How AI can help the public health sector face future crises"
+    excerpt: "AI and ML identify disease and conditions in near real time. They could soon enable population-wide disease reduction and healthcare equity."
+    publishedDateTime: 2022-11-05T03:07:00Z
+    webUrl: "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/"
+    ampWebUrl: "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 105
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768"
-        width: 768
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
+        width: 1200
+        height: 588
         isCached: true
-  - title: "The individuals who need artificial intelligence the most are the ones who are creating it"
-    excerpt: "Ironically, IT teams need AI the most because they are responsible for creating AI-driven apps and systems. This isn’t completely unexpected, as the introduction of AI tends to increase complexity and call for more automation."
-    publishedDateTime: 2022-11-05T11:25:00Z
-    webUrl: "https://bestgamingpro.com/the-individuals-who-need-artificial-intelligence-the-most-are-the-ones-who-are-creating-it/"
+  - title: "Better over-the-phone health care using artificial intelligence"
+    excerpt: "In health care, triage involves categorizing patients by urgency levels so that the most urgent patients are prioritized to receive care. When patients are assigned a less urgent category than they really need,"
+    publishedDateTime: 2022-11-07T15:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-over-the-phone-health-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-over-the-phone-health-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-over-the-phone-health-artificial-intelligence.amp"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 31
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/11/The-people-building-artificial-intelligence-are-the-ones-who-need-AI-the-most.png"
-        width: 600
-        height: 365
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/better-over-the-phone.jpg"
+        width: 1076
+        height: 674
         isCached: true
-  - title: "Maximizing the Potential of Data and AI through Automation"
-    excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
-    publishedDateTime: 2022-11-07T18:54:00Z
-    webUrl: "https://insidebigdata.com/2022/11/07/maximizing-the-potential-of-data-and-ai-through-automation/"
+  - title: "How AI can help curb the next pandemic"
+    excerpt: "AI can analyze massive amounts of data, such as positive test results and emerging clusters of disease, and use predictive analytics to establish trends that can be useful for public health officials."
+    publishedDateTime: 2022-11-08T00:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-help-curb-the-next-pandemic.html"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 17
 
 secured: "/xTCkgSMSWc2crv/Dr/0Y0T8DJF2d7ISLr88UYI/DdtJfy/HRf59PgsbrMnvdaJdeTcvj8YSk+3IDmRCRCZmdF5Ank+4kTRLaoGla1P8Ds8Za271Lrs//+LlDGIBhiMh1KFTv3KRyf2odfo/AbcbBjvcXBXNc6ctvqP1QKLBR7sxO4BzzAHEPXDsuJxGEjNQhK7fSj1nvagROetnnezxKzZYss8wKO5g/F0vZouApSJQgHERRqtaZ4A+ALcsl7d8sR4agphCR2JjwkrggQwAdKTD7ni7kTHgxfew+HFhjMdkXNlCLRsrBZUsf/j9vVM5jbNsq2H+Hq/kdEMx7S72EC3Ypk3fxEkT4poMnVN8+7qW9EqPrTJYI5YZswJmesh+e9Rr/g6Ce4rKoGdFcp7/dRTC/4TJYikXGCIouFOk3t47TFJ5tRTA3MBMhW1OEMEVfcPzYle/Vy6G23Pzi7AI5VCh9zTrPU2PpwoKWy5we7XtbLEpMDvnPL9wo3S9tC3mtHiUrHHCEYOM2Nkhe3wYww==;TPpw0Z9VTxq8lJ33a70uXw=="

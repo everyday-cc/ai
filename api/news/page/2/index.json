@@ -2,6 +2,197 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-07-clearview-stole-my-face-and-the-eu-cant-do-anything-about-it.md",
+      "title": "Clearview Stole My Face and the EU Can’t Do Anything About It",
+      "excerpt": "By uploading a single photo, Clearview’s clients, which include law enforcement agencies, can use the company’s facial recognition technology to unearth other online photos featuring the same face. Marx wanted to know if the company had any photos of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
+      "originalUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6365c2f63505151fbc0b014e/master/pass/Clearview-Stole-My-Face-Business-148340936.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-face-search-engine-gdpr/amp",
+      "publishedDateTime": "2022-11-07T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-how-ai-solutions-can-defend-against-cyberattacks.md",
+      "title": "How AI Solutions Can Defend Against Cyberattacks",
+      "excerpt": "In order to combat these cyberthreats, AI solutions can utilize machine learning and recurrent neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/how-ai-solutions-can-defend-against-cyberattacks/amp/",
+      "publishedDateTime": "2022-11-07T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-intel-takes-responsibility-for-ai.md",
+      "title": "Intel takes responsibility for AI",
+      "excerpt": "With its research and development history, Intel has been one of the first big tech firms to define the foundations of ethical AI. Launched last month, the Intel Responsible AI charter sets out the chip giant’s perspective on responsible AI and the four pillars the firm says the technology industry can use to ensure AI succeeds not only for technologists but also for wider society.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/intel-takes-responsibility-ai",
+      "originalUrl": "https://diginomica.com/intel-takes-responsibility-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/intel-takes-responsibility-ai?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp",
+      "publishedDateTime": "2022-11-07T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-kiyaai-reaches-out-to-latin-american-banks.md",
+      "title": "Kiya.ai reaches out to Latin American banks",
+      "excerpt": "Kiya.ai managing director Rajesh Mirjankar said on the sidelines of Singapore Fintech Festival held Nov 2-4, 2022. Last year, it handled 14 billion transactions, he added. “We are working in 57 countries, covering all geographies, and we are starting in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/",
+      "originalUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/Metaverse-2.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/",
+      "publishedDateTime": "2022-11-07T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-powering-personalized-shopping-the-ai-way.md",
       "title": "Powering Personalized Shopping: The AI Way",
       "excerpt": "As digital life becomes more personal and customized so does their preference for shopping. This is where AI steps in. AI-powered tools are helping digital-first brands, understand their consumer and offer tailored services. With advanced analytics powered ...",
@@ -453,7 +644,7 @@
       "originalUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -549,7 +740,7 @@
       "originalUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -734,6 +925,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-elon-musk-just-axed-key-twitter-teams-like-human-rights-accessibility-ai-ethics-and-curation.md",
+      "title": "Elon Musk just axed key Twitter teams like human rights, accessibility, AI ethics and curation",
+      "excerpt": "Elon Musk is wasting no time making extremely deep cuts at Twitter, calving off many teams doing essential work at the company in the process. News of layoffs swept the platform on Friday, showing that Twitter’s billionaire owner is painting in broad strokes when it comes to trimming down the team by half.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/",
+      "originalUrl": "https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-exit-2.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/amp/",
+      "publishedDateTime": "2022-11-04T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -990,243 +1233,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
-      "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
-      "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
-      "originalUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6365367400aff92bacb21cde/master/pass/Musk_EthicalAI_twitter_biz_GettyImages-1395053069.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/twitter-ethical-ai-team/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/twitter-ethical-ai-team/amp",
-      "publishedDateTime": "2022-11-04T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-ai-image-generator-dall-e-is-coming-to-your-apps.md",
-      "title": "AI image generator DALL-E is coming to your apps",
-      "excerpt": "OpenAI has announced that its AI image generator can now be integrated into apps and products through its new DALL-E API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
-      "originalUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/twitter-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker.md",
-      "title": "Transfer learning for TensorFlow object detection models in Amazon SageMaker",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg",
-          "width": 1550,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T08:28:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-novel-deep-learning-method-may-help-predict-cognitive-function.md",
-      "title": "Novel deep learning method may help predict cognitive function",
-      "excerpt": "Northwestern investigators have developed a deep learning-based method that can predict cognitive function capacity based on brain shape and structure, detailed in a study published in Scientific Reports. The method, which uses graph convolutional neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-deep-learning-me.jpg",
-          "width": 1497,
-          "height": 1410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
-      "publishedDateTime": "2022-11-04T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-the-rise-of-robotics-companies-to-watch-amid-rising-shifts-to-automation.md",
-      "title": "The Rise of Robotics: Companies to Watch Amid Rising Shifts to Automation",
-      "excerpt": "I’m talking about the rise of robotics, and contrary to the doomsayers, it has the potential to raise the standard of living faster than any other technology mankind has ever experienced. We are at the beginning of what will likely be exponential growth in robotics technology thanks to ongoing advances in Artificial Intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation",
-      "originalUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp",
-      "publishedDateTime": "2022-11-04T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

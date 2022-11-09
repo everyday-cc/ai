@@ -143,6 +143,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-05-elon-musk-just-axed-key-twitter-teams-like-human-rights-accessibility-ai-ethics-and-curation.md",
+      "title": "Elon Musk just axed key Twitter teams like human rights, accessibility, AI ethics and curation",
+      "excerpt": "Elon Musk is wasting no time making extremely deep cuts at Twitter, calving off many teams doing essential work at the company in the process. News of layoffs swept the platform on Friday, showing that Twitter’s billionaire owner is painting in broad strokes when it comes to trimming down the team by half.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/",
+      "originalUrl": "https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-exit-2.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/amp/",
+      "publishedDateTime": "2022-11-04T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
       "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
       "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
@@ -1370,59 +1422,6 @@
       "topics": [
         "AI",
         "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt.md",
-      "title": "3 things the AI Bill of Rights does (and 3 things it doesn’t)",
-      "excerpt": "Expectations were high for the White House's Blueprint for an AI Bill of Rights released this week. Here's what what it does and doesn't do.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
-      "originalUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-167852886.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
-      "publishedDateTime": "2022-10-07T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
         "Facebook AI"
       ]
     }

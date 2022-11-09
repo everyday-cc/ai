@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -93,17 +93,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Lexalytics, an InMoment Company, Announces Jeff Catlin and Paul Barba Will Present at the Text Analytics Forum"
-    excerpt: "Lexalytics®, an InMoment® Company and pioneer in AI-based NLP technology, announced today that its Head, Jeff Catlin, and its Chief Scientist, Paul Barba, will present at the Text Analytics Forum in Washington,"
-    publishedDateTime: 2022-11-04T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29574282/lexalytics-an-inmoment-company-announces-jeff-catlin-and-paul-barba-will-present-at-the-text-analy"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29574282"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29574282"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "MsHT1CiYfYpgWX0FHfUSfugems98TtyVgRQlmnGhDcs3YMBWx3Nakbb0Fm16Ktt5433gAbYNLzGSD3S/bKeNPkr0D6joF+FP9BpTL3K31/4/h2/xJEDVAB4H44e0k68s3WszDKGorFTvK9QWzYZzKIBm1paNuTExJ8fw6InNcYfmZH4hPCCxc+rNreNAlB3osmfAO3vRQiD1qbZD/l1kHGEGjJIX/PbOHJ5GF9yAbO9822iSt3OyOpdzUrSPVIgKPgyB9Gh8grdT/3ySho1y0Eoc4uFldx1ilFj7URbk1pr5NLM6tSNyBLbFD2LLfapXspYJZ42zJgVcxQ3WrD4Erf2JFg+JTpKkGo8CKUaD7UE=;uRQt+TtHyXk59YAjrrWSSw=="
 ---

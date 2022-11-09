@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 588
         isCached: true
+  - title: "AI and the future of gaming"
+    excerpt: "Artificial Intelligence is an exciting topic for some and horrifying to others. Reality seems to fall somewhere in-between the extremes."
+    publishedDateTime: 2022-11-07T15:39:00Z
+    webUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/"
+    ampWebUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/ai-future.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI can help curb the next pandemic"
     excerpt: "AI can analyze massive amounts of data, such as positive test results and emerging clusters of disease, and use predictive analytics to establish trends that can be useful for public health officials."
     publishedDateTime: 2022-11-08T00:20:00Z

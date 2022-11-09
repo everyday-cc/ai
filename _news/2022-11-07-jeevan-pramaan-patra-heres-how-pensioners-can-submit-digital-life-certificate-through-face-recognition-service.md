@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/business/digital-life-certificate-step-by-step
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/amp/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jeevan Pramaan Patra: Steps to submit digital life certificate via face recognition feature"
+    excerpt: "All pensioners are required to submit a ‘life certificate' or Jeevan Praman Patra in November every year to pension disbursing authorities (PDAs) such as banks and post offices to receive their monthly share."
+    publishedDateTime: 2022-11-09T10:36:00Z
+    webUrl: "https://www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps-to-submit-digital-life-certificate-via-face-recognition-pesnion-15124611.htm"
+    ampWebUrl: "https://www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps-to-submit-digital-life-certificate-via-face-recognition-pesnion-15124611.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps-to-submit-digital-life-certificate-via-face-recognition-pesnion-15124611.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 49
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/11/pension-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Jeevan Pramaan Patra: Check Do's And Don't For Submitting Digital Life Certificate Through Face Recognition Service"
     excerpt: "Do's And Don't For Submitting Digital Life Certificate - Explore latest photo galleries of at India.com PhotoGallery."
     publishedDateTime: 2022-11-08T10:22:00Z

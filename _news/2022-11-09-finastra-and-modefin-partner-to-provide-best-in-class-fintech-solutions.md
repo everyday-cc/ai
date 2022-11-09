@@ -1,0 +1,59 @@
+---
+category: news
+title: "Finastra and Modefin partner to provide best-in-class fintech solutions"
+excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
+publishedDateTime: 2022-11-09T09:46:00Z
+originalUrl: "https://www.zawya.com/en/press-release/companies-news/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-ekvdblx5"
+webUrl: "https://www.zawya.com/en/press-release/companies-news/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-ekvdblx5"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Zawya
+  domain: zawya.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://static.zawya.com/version/c:Mzk4NjgyMzYtMTc5Yy00:ZDkxYmM0/galadinner14june-jpg.jpg?f=1%3A1&q=1&w=3840"
+    width: 600
+    height: 600
+    isCached: true
+
+related:
+  - title: "Finastra, Modefin partner to provide FinTech solutions for banks in Africa"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-11-09T10:08:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/finastra-modefin-partner-to-provide-fintech-solutions-for-banks-in-africa/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Finastra and Modefin partner to provide best-in-class fintech solutions for banks in Africa and selected Indian subcontinent markets"
+    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping"
+    publishedDateTime: 2022-11-09T09:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-for-banks-in-africa-and-selected-indian-subcontinent-markets-301672584.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1916021/FINASTRA_Logo.jpg?p=facebook"
+        width: 939
+        height: 492
+        isCached: true
+
+secured: "c7ObpMqncTPhug72yi5CmoG/dXtWibddc+e+haBPPPGdL5khCoaWPzsLFSqYoFx88MrC1ggLyVqiPnKRgoeul6yN4u2G9gghgeNTxnqAB4r8k5304M/rCzqC3IjbrU05QlMoqQAB56kMdRSy72D1v22JwgBkhvCdgpha78G+N2ZJRqVWCVJ9Jgkj6JhS+VZspNygTynDe00m3m5TIYdUw+xllISx892HJyeF0Bg3z3LtbcUBkhldPfunfiEEKbnEslUM9pXN74dG9FBtljkLIr24fDbwkPtT1u1Xt12U9ttI8h3lON4x8vuldvjeerD4FN++TS6LnYoufwBIEOFhXjLXghgqLqhRMz+gHnq87Is=;AnXvcsyaL1xlxF0NMH5XqQ=="
+---
+

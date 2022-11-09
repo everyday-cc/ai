@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/ai-predicts-structur
 webUrl: "https://interestingengineering.com/innovation/ai-predicts-structural-properties-of-metamaterials-in-a-new-study"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 1281
     isCached: true
-
-related:
-  - title: "Floppy or not: AI predicts properties of complex metamaterials"
-    excerpt: "Given a 3D piece of origami, can you flatten it without damaging it? Just by looking at the design, the answer is hard to predict, because each and every fold in the design has to be compatible with flattening."
-    publishedDateTime: 2022-11-04T17:36:00Z
-    webUrl: "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.html"
-    ampWebUrl: "https://techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-floppy-ai-properties-complex-metamaterials.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/floppy-or-not-ai-predi.jpg"
-        width: 930
-        height: 620
-        isCached: true
 
 secured: "/QOcupnQg6F5DA7PtZXmocnObJ0VIWT3Indu71ZHV+1ok0l24lbKB+uzC/O2iBZdjvMhOLhEjiovMG0+6JdY+cFaN0FQYrQoGJvkLbaSbp2iKzphkqmDEvbpuTGNrVV+QistPqcGQXpdtIaaJt8joTNLRx0BOhrRyoImZHyXe4zFGb5LWcXXb4ytwwvdcSUtQEM7Q3q64STuAXEtYOF2EDN7DGYJn4zOeu3bR0iM6PRryU45xsB2e2ZztZ/1qLrMfV3DLRultWVnNrksVNywsZwL3VIRH4sZy+DuOPyqT/kGOhY0HGwLynFg+tjUoNRLAgkmCN1ew2WzZabEtYxDBnIvSrPsWW+PtuxLrgDwMPA=;iMBNXkDqYXEb99nXjMNdhg=="
 ---
