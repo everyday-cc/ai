@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/11/Federated-Learning-Solutions-Market.png"
@@ -136,6 +137,6 @@ related:
       domain: fmiblog.com
     quality: 7
 
-secured: "Tk5+qeKTjBHC2qEub1Yu16QGvCOhnSY4WvFqha9pKm5BbvY5zqVTCr2C9LYIELxEkgNOmZ/RftWgdW2vPoCzX17jnAjAnw3c8DWRMETZ6aDVKzk6UvZvDOjODgbpbQqyX86VwT29Q0J6KT628Qp4DXDbLsq2EXqy9WuvXAcp5BH3ovl+Cz4KRJk0nWUw3QwPo39t3ZUomeSos2Gk+5I3IYgrhKvDZCxGgO053cqwB79IyHKjAzJkhbzjp9Kw7q3NxmSJihwP7aUkK9XomZWHM0osxfAKosEn5qkkcvpNLASPfoB4k0IrG+PkhhFM1L8puxG/IUUmCJZt5imedzLDavDwmXx9EbO35Lcvme/MESQ=;dz6kjy+llQDmf783fPvg2Q=="
+secured: "enWuMwqVGHb9Sp80ttIaSBPOLJt9xlq0q8rdgt87R7nQL+r+wPlmJhBlD0Pz32v1gIx56rxrCq0KtgV8qCfpSrz7YqB/CLDe8vWu7KBtJ1+VJLYuaAzxDO3VDJ/lVy8VQycuWEP0vaSWvu8w8Rj4xqAx9okXRdb4KAx0HZdX9+wBTLZsH26/tAuS7AGRna6zz64Iug1k9YvqwKmrxA/Gibs+EWsJI9+EveMVYPXw4gN0ionAJfV71A27O9IeTDSwyd3p9E4bx4FwddCoPzwpSFoT5CwqnVh4pWMYc8wCnSmdS8GopbOFWYJy6mRXYorDE3wuITfczoHGoeJY0wpKLZOcgZ8JDh24w3VnPKqAe6tYjsIIMSkiZveACR+zsagIdcyJOXk7J05wgyY61jrtc+/P8OkVhk2magEOKAF6N01Ysfoqw8jbsd1m+j4bBqn1bpuqBlVvGHr7k2f/Irw0/a4l6rKFghOyNLZgCwpMmR2S5JV9d9okEAfatxkg7/A7Zu0o2raKFpjE/unAd0NohA==;Vd6deWuaXdrVey1IxDGxCw=="
 ---
 
