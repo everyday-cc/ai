@@ -3,12 +3,12 @@ name: "Elon Musk"
 bio: "Elon Musk is the co-founder and CEO at Tesla, overseeing all product design, engineering and manufacturing of the company's electric vehicles, battery products, and Solar Roofs."
 location: Austin, TX
 type: "profile"
-heat: 830
+heat: 799
 
 twitter:
   username: elonmusk
   url: https://twitter.com/elonmusk
-  followers: 115115459
+  followers: 115140266
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Elon_Musk
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Elon Musk"
 
-secured: "1OkqthDAixvHlXUXfUgPLJX5ck22jctLKYNrYCgW099VRX5C2Bz1bSIPWVbdJADiXuNNk6TOgQOgBfT2EqMu66nbgtvxO/KcUNA2eGymJqsvdX4l2S+acaIu1q2AJWjpz/Wv9MI2Y7vc6H/s4NfDdqfNUKi9sNAN003pye6960syorkpDZKDnFt/rtHLW9v9GrdzhMow8AaM29V19fZsEZQW4DKXncOsslxrAs6276O30UAlf3xGBdEpHB6CcBI+5dvKciY92Gyh5BOHLhZ3RjeE7IUqgbM4y1GOTVIdF3vTMDQ443oRgrZnC323PF454Z20S0vHIjX4J57yC0oLlM/Oy9jS0zanQDxVViNZ8oppG+pK1BhueCZR5Dsj0Q5wPk4x/8VLRuVEcqNDIC3kfU3bjY3pJUlfKhzytTKvTh0=;mN9TWkmdoRukj9gqyu7HAg=="
+secured: "Vw4zHD3vDBrPjLdz+AzeBGGCy4ER0cxJ/Obzqix3JuvSTCnLBTaKqv/HS2Oxt4pEV0d8a6qEFg0xhk1eEOyxGDW4BStmnX/rGO8WKAradyDHl94aTFcPZser03YMUcc1dEJamk6Xad0+38oswK3XM0/a7CivFDGDoCMfUCN09U/nFXh5dS4Y0PV8Zfl+AFrIJL9g3Idzyd8NH0hT8ueKkERaVDylXjBHTo1oltyRTW82ZKH6mCWnMV9ImY1BHSacMAju2tQfHE18S+mxeRwV3vbfz+Gb2KbxC+t4f6cq3ftDXud2t1pVnF+BDq9xkwbqc0jjtzu5uoblI9pzWdbXWZnzrlnO2/SgEqqY8CxEcGv7D8maAInXsmthDCr+8xPIbsPTPMs3fUUrZNIXkk0eKj4B08TIEQciDXl8bVfhf/Q=;VL08pjHE7vOv9B20KijeAw=="
 ---
 
