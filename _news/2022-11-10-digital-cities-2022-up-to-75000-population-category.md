@@ -58,6 +58,20 @@ related:
         width: 640
         height: 335
         isCached: true
+  - title: "Artificial Intelligence Market Business Opportunity, Market Size, Upcoming Trends, Recent Development And Forecast: 2022-2031"
+    excerpt: "The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impac"
+    publishedDateTime: 2022-11-10T06:26:00Z
+    webUrl: "https://menafn.com/1105160242/Artificial-Intelligence-Market-Business-Opportunity-Market-Size-Upcoming-Trends-Recent-Development-And-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667055"
+        width: 426
+        height: 250
+        isCached: true
   - title: "Self-Driving Bus Market 2022 Business Development, Size, Share And COVID-19 Impact Analysis 2028 | Tesla, Navya, Proterra X Herald"
     excerpt: "The Research report on“ Self-driving Bus Market Report 2022 – Future Opportunities, Latest Trends, In-depth Analysis, and Forecast to"
     publishedDateTime: 2022-11-08T10:27:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-08T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/970847"
 webUrl: "https://www.eurekalert.org/news-releases/970847"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/008c792e-22ae-40aa-848b-2c6183e05f70/Rendition/low-res/Content/Public"
@@ -41,6 +42,6 @@ related:
         height: 1773
         isCached: true
 
-secured: "D5lUhVHpJjS0XDQEsK9IsOWLiffo+0+CbjzIYktyg950+pf8OY0aMhcZ59qMlFgBBQLKAbV+Hjrb+1rb4Kg3zHlSuhGriXSAlWzBxRwQxS+lcjTQMxb4suiH7rjzOEzHOQdugnf1rdYOMgIWtsp7KUOBvLw4hqXGUMy1meW2+ANXLfIrKoSlZU6VBdFfE88Z7u1PAzl9pJU/T54hnEzy99rwDxdZ8Qhyij2bNxoP1o4dQ3b8TTClKhbhAC2TccSXEaDyH5zEfvCnt39LsADLyIU2L2teEvJASOSYzqsqzGs5Eo/umRe/VVgL+V4DwOvoxp3eDUWiDS/2T3zSyxeKUy7T9YmRsLexIg9Xx/SXrOs=;MWdpfE07DseqVtLfwwfUXQ=="
+secured: "OOgnqYjgIuBe2D8XnNm3KjNWM8MYILCqgb1WISEqELL9b7iA7f/HcgW6yMswe1tQg6I2GC/68t4ks84zgafLu5IU6emuPMxvqbGOt9wd+ainRq4WjxJwa0b20aH643uPX6VDVpvnmZe+xiUWKKEPZGFla6jF1k0acjPsLpnjpz59KPdmuD5CGUtAhoivr1/g0wmgcQScLGjSmFGrP5j7IJmPtU4wjUcXpsy7g1mlApHuxlXB4Dct/d12yw6g4p+gwVIJgHjoRwu54igTyQQTvRzyecQwn7HFXzEtwYhWoKbf1HN7110Vc7NumGvh9Wv1ay2fE1Jm/gS1kQF8NVrjaUxh5TuvIId7sQwj6gonTnn4oBRO3hpxFrUUjPMEkF8hDT4E4T0BtYewEeRaFAjyOOlYpbc1QCkq76nX5tc/xYrJ1OIzdRgk9gyNhfmFOJdb18IefgbWFbjOAPWKgLsbBz3v4zOD4RNAz/V22VTdRDWMtHAJ8ceVuQ+20X20/2orXHLXxCTMSHuu+TB9Jn2zxQ==;ICsDEKLBUUw6+AfXrCrrLQ=="
 ---
 

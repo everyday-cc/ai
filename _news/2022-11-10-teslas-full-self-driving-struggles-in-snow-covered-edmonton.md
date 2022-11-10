@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
 type: article
 quality: 59
-heat: 91
+heat: 92
 published: true
 
 provider:

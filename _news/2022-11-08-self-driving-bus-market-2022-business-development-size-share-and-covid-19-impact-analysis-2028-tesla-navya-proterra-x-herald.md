@@ -73,6 +73,20 @@ related:
         width: 640
         height: 335
         isCached: true
+  - title: "Artificial Intelligence Market Business Opportunity, Market Size, Upcoming Trends, Recent Development And Forecast: 2022-2031"
+    excerpt: "The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impac"
+    publishedDateTime: 2022-11-10T06:26:00Z
+    webUrl: "https://menafn.com/1105160242/Artificial-Intelligence-Market-Business-Opportunity-Market-Size-Upcoming-Trends-Recent-Development-And-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667055"
+        width: 426
+        height: 250
+        isCached: true
   - title: "Global Healthcare CMO Market Report 2022: Escalating Role of Artificial Intelligence Technology Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "Trends: The market is projected to grow at a fast pace during the forecast period, due to escalating role of artificial intelligence technology and evolution of advanced respiratory equipment. Healthcare artificial intelligence (AI) has transformed by ..."
     publishedDateTime: 2022-11-08T13:37:00Z

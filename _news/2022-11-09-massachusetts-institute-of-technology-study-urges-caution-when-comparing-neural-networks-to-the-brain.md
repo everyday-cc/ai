@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Study urges caution when comparing neural networks to the brain"
-    excerpt: "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such speech recognition, computer vision,"
-    publishedDateTime: 2022-11-05T12:40:00Z
-    webUrl: "https://indiaeducationdiary.in/study-urges-caution-when-comparing-neural-networks-to-the-brain/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 34
 
 secured: "cZoNOykUxVx2TB4hF1mzC59mPZ3mJ5b8M8BraKjC8bxUBCet8Tz2eiNnt86+8xfVlWxu37CRpdDz7Rru1AnVKzrSVvC1T4dh48lI4WRb+lSSSainfv3cu7qnawAFOjtPKzyuVrNFCcDcSL5lUF/YJ3qKEfviBpGGvEdCIYQ8FbFMY7XlUhSI2UTNQtLBrxAwXNcqmQjLSX6ivT5hMJvhZfWjq+BR7bwgICBhyRwfZ9SAC1lUlUN6jeA55Djc3Yvgjn9hU8JTdvjG0L+jQ+INDg13DM/eYDIL8De3xREgYhzHrNbRvSQpWCfSTKzmS+IDkrAspBO3O7AU3AXSRu9R4u8IbF+1KFo7ncXEAS4Gz2HCsnGPZdqNSY0hR2f8ce0YfvpTtHtqaHxgQiyqJhZ3WvFS/xx7/HTw0B/W0WxcpJKc9kDYp6ez2EFu6zJPFm5O8zMfL17QN+B1hF+45u7twVbG3p6hFH7Fqapa94GjlaIn0rfyK44wWP4p/AcXSAgFPSV2gubTJkhwPSdxy76VdQ==;RZ/NwEjM7rXxqX3YGKbjEw=="
 ---

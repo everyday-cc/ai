@@ -60,15 +60,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Study urges caution when comparing neural networks to the brain"
-    excerpt: "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such speech recognition, computer vision,"
-    publishedDateTime: 2022-11-05T12:40:00Z
-    webUrl: "https://indiaeducationdiary.in/study-urges-caution-when-comparing-neural-networks-to-the-brain/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 34
 
 secured: "y7Z1wytSL0pWWjE2wuESMIVhptDauOYcZWwetULKdHtjzyrTcZNbZiAge3bxeZsSlP3x6AMh5u6uXPlu+v/wNZxHU7kp/0NdUyO8PNXKEbxn3/IZ7y75S2Gsy54Zul4llWfGui/yFXwuYnqa8Ru/xa0Xem5iAGpL0duKO5gRVPoOEKMK9LtPxzthM/Yvx9QKJxrPR0N6nPD31hsByYcW1UBdZD0TmPH3Wl4dK1Rn0q4fUvMESnM0jTadnuPdA9fP4KsxmtMD1ZgbnIF/aU9w+mGc+Sux734Uwjs+f/E2uwFucQ9FMIo+yAWpJ11WPFHCn73pWJwNk4aIV9ngAGCGXpCkuwKZPSDEyNzov38ECnHo+GYiCHLQTCTu19CQ9RlBXl0orqdRI2fnKkWzqnZh7hW2tfuFV4X9X83NvF7l6LJ9Lo0Ai3SxgLpu/krh67pE+GXtdaNWDWWe8VBesm0iIhDchHCQmE/SwAF6uN9/1942fdi8GfFeSbWPoIO28nzzIpBm8m+Gx/VtaTtlZ3EMtw==;4R5A971ArUBg0sU76CPa/g=="
 ---
