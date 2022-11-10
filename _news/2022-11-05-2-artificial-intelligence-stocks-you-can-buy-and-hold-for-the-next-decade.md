@@ -18,6 +18,7 @@ topics:
   - AI
   - IBM AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "How AI can help curb the next pandemic"

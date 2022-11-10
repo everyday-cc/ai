@@ -1,14 +1,11 @@
 ---
 category: news
 title: "StormForge Extends Kubernetes Efficiency at Scale to More Enterprises Than Ever Before with New Channel Partner Program"
-excerpt: "StormForge program equips growing partner ecosystem with its advanced machine learning platform, tools and training to help more customers realize the promise of Kubernetes CAMBRIDGE, Mass., Nov. 10,"
-publishedDateTime: 2022-11-10T12:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-stormforge-extends-kubernetes-efficiency-scale-more-enterprises-than-/2022/11/10/9710341.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-stormforge-extends-kubernetes-efficiency-scale-more-enterprises-than-/2022/11/10/9710341.htm"
+excerpt: "StormForge program equips growing partner ecosystem with its advanced machine learning platform, tools and training to help more customers realize the promise of Kubernetes. CAMBR"
+publishedDateTime: 2022-11-10T13:01:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/10/9710341.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/10/9710341.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "aRrwniLFUCQpeR0XjFUcCOw9iPCUvAnflLDbaT+RHTOnoLvQOIE5J/ao6n75MhlYRmL1/+nPvx84WQkwoJ6+Z1I8LoaoJzlczbY0Pgi2Qg6mIX4wnPEHgDM0Re5VGUL7rmTmBnTh9tENEKW9kkFoqPcS9cd8RQJCcwLX7PzKP6Ue50SEClRqEqbafKlN/sD+1P6w+kngDk25FoBL35M8mM3T57ObrPavs1ZuYe5MfkcQc3hNl8e0yMfMN2XSHWLoF4ySe1XfPgRFw1rjflhPfuu5fUiY2mCALSRgZQ8n1sBP5E8R7sJGdJ5FIFzwypjReaK6KSoPNAh8dXpAnSYBlOQoautV5VDklJ1Cbtu/wio=;cPPsrZnbo6zU6zf+qxd5Jg=="
+secured: "FyWVTEQrP33G8/wfUqhrLqkl7FaE6yJj0AmLQHucuQP1xF3O04E+VBrTfTn/HReDwb4t2ZQDjcP41NLNbdlUFoOAx0pUhuOZp9j6TpgIFM3/b0+Y+H3VXrVQiuFgQptgTqTnt6Jih0HPSSejMAKa99itNhoa2i+lSogE+/abIWWp/cPTuOEwxElG8PeHhiDJ2dgTG4Uub9fML+ud0BRJyiv202zUqAePrBTCALNmMaDp+AryJDMfT3zN1rhrJDQCuVlj4TFKPrwX7w8GNYE9hR7ddqmnS9WjmXPgFHXqo4Zdsr9tQIbW9BHtV76uFAdlJXjdDB5hb1Lsos/zApuVrQ5yF3OQMrba7gw2tEPMOs0=;0tRHb9eOC2q2SQFR9hyTNQ=="
 ---
 
