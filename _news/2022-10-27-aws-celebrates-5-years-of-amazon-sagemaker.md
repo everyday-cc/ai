@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 related:
   - title: "Improve price performance of your model training using Amazon SageMaker heterogeneous clusters"

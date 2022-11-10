@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/11/08170834/SEI_132742877.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "GitHub Copilot will enable developers to code using their voice"
+    excerpt: "A new GitHub Copilot feature will enable developers to code using their voice. Copilot was introduced last year and uses AI to help speed up mundane coding tasks by suggesting how to complete lines. Behind the Copilot feature is an AI model developed by OpenAI called Codex."
+    publishedDateTime: 2022-11-10T16:52:00Z
+    webUrl: "https://www.developer-tech.com/news/2022/nov/10/github-copilot-enable-developers-code-usinvoice/"
+    type: article
+    provider:
+      name: Developer Tech
+      domain: developer-tech.com
+    quality: 24
+    images:
+      - url: "https://www.developer-tech.com/wp-content/uploads/sites/3/2022/11/github-copilot-openai-codex-microsoft-voice-recognition-natural-language-development-coding.jpg"
+        width: 2200
+        height: 1360
         isCached: true
 
 secured: "4aOu7OF+Gzc4Z/JyI1QJsPU7urdJEJzfHnofFA8/uj10JpIU4KBKle76O5rTvB8OqLREIkHha6Bb1TZSg3E9648kg1+bWK3dPntDfAL49YKdlPtLqL/Ku9enFPGMir9fHMcD+1xhWl66yQ7zA+FxfR2uhnAKABsoYeKDYhYwQjY4adIU1rY8cnzJcGdXauEw/13RV5ETDGFG7AeeFa4315I7vdA6K1Eu/1F2HW8It4HRcnYvU8JE1Rx5p+OD3wlA9bovQ/op5M3hGo4euawSPWhn0T0LWEDF4L/tkVwHzM/XeEmrRcwHikwhFxam6K9UkwrGICRa2tNu0qoeliNR7ivXNcX2nIiZXWKb7TqtHpkseekoQ3SoDmKyBCV+9E2SjCI79ZNaUlxg6JfiHCByd1N6PF8NBudm4gyQR0wFLedOst1/hY4Gms7+/KvJ7mxs/SArGvDaoVyd3K24sOxqWL0BRlmbSnCllgZ40c/BRUWABlyLxriLLHMLo2imuafyD0/ARoNeTq7GKyg3KZJbhw==;JpoK43usAzC+aK+cwKcLLw=="

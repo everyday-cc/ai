@@ -24,6 +24,17 @@ images:
     height: 635
     isCached: true
 
+related:
+  - title: "Driverless car startup Argo AI to lay off 79 Miami employees"
+    excerpt: "Autonomous vehicle startup Argo AI will lay off 79 Miami employees after announcing the company will shut down and be absorbed by investors Ford Motor Co. and Volkswagen. The job cuts at the company's local office,"
+    publishedDateTime: 2022-11-10T16:50:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2022/11/10/argo-ai-driverless-car-lays-off-miami-employees.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+
 secured: "ereM/6YooNjNHbQI+7uwhDxDWtNJUHaHNP53L3KtHchEIDFWZfAXcB+Xh6acVL6j+tK+gDBfQo4LqM4gjzTedEw/yYL0aPUYYK4aXTUYDfWdqynDDEKeYJbUXGZHebzkN78uTmBX/3kFucqevas89iCfGpnzD6/ZN9yVUt4GdDOnwBkyNjFNpAeZyK5zyw9BLRjYGh+G+woG7Kiq1Zh8E8m+20mEARJy57KUQiaXkVI2JqX/02++Bvlzzj+GIR+Ls3qlHT1t0C1HlOJCBZbSq1Zyd9t8uJjKXIRJYTV717nNJE+fdKXbNXCcg5sRKx1wUxygzM2lLpmQhUEm7MdmLDCKRoI5AmGJiKs5h1ZV0wo=;KzAXH/rnN3WglLoe+PmI3g=="
 ---
 

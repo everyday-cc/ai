@@ -55,6 +55,20 @@ related:
         width: 2146
         height: 1613
         isCached: true
+  - title: "GitHub Copilot will enable developers to code using their voice"
+    excerpt: "A new GitHub Copilot feature will enable developers to code using their voice. Copilot was introduced last year and uses AI to help speed up mundane coding tasks by suggesting how to complete lines. Behind the Copilot feature is an AI model developed by OpenAI called Codex."
+    publishedDateTime: 2022-11-10T16:52:00Z
+    webUrl: "https://www.developer-tech.com/news/2022/nov/10/github-copilot-enable-developers-code-usinvoice/"
+    type: article
+    provider:
+      name: Developer Tech
+      domain: developer-tech.com
+    quality: 24
+    images:
+      - url: "https://www.developer-tech.com/wp-content/uploads/sites/3/2022/11/github-copilot-openai-codex-microsoft-voice-recognition-natural-language-development-coding.jpg"
+        width: 2200
+        height: 1360
+        isCached: true
 
 secured: "cxf/5UcZM2fnoafzg5PsYsFHkZR/guKTLymKzWUWApHo9DHivQ8DwsaUn0wNjoJpm+9oHGhHRQ4eIppc8SC+Vms1OUokyey+7gr4/gn31FZVpfr/Ohbn7NeA9KclZpVuzCzQ9mSfgfWosSAA2rnuNOeZZ78qBX9hx7pAYBry/SNmCq1f3j4lgWKN23GFZOoA5d7uOUNPtpgJBc2nW8NhPTFEs/3VHCVDg42TxGUdawR4eidtTkpYK8S4Ym6jDEFGixGJaBaeqj/5yPzse1SahQl1zJkMyzZ12LiV2C5LGE6tOuuH4AKktTfWC78IgkxVz4uV6tWxgotIz10JP0nUb2pgYbhUPdY1M60YB+kCO+GWmMr9DOt0ILMgmf6qz6X++MCPHOHAmmpfnARPr1h7S6CsqJftqhm87T9frSO/f+mWAQG6B57x7FTB6jbFiNnrqyqqONDlYfvrHADy9R6E327ONnesZuXy69JPaxL0A0lzwRrG9yPQgtC9Nqyg8OS0adcifzlbUClhar+9AQYTEA==;74Y+dp97cNmuuLpLMuEoZw=="
 ---
