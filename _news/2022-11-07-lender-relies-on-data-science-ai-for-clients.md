@@ -7,7 +7,7 @@ originalUrl: "https://businessmirror.com.ph/2022/11/07/lender-relies-on-data-sci
 webUrl: "https://businessmirror.com.ph/2022/11/07/lender-relies-on-data-science-ai-for-clients/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 720
     height: 378
     isCached: true
+
+related:
+  - title: "Scientists articulate new data standards for AI models"
+    excerpt: "Aspiring bakers are frequently called upon to adapt award-winning recipes based on differing kitchen setups. Someone might use an eggbeater instead of a stand mixer to make prize-winning chocolate chip cookies,"
+    publishedDateTime: 2022-11-10T22:45:00Z
+    webUrl: "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/argonne-scientists-pro.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "New AI model can help prevent damaging and costly data breaches"
+    excerpt: "Imperial privacy experts have created an AI algorithm that automatically tests privacy-preserving systems for potential data leaks."
+    publishedDateTime: 2022-11-08T20:02:00Z
+    webUrl: "https://techxplore.com/news/2022-11-ai-costly-breaches.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "SGQ/oLp7qTb5EMKHdvrQuOOVWWuNVx865vg3hOQwll6exyzGMv/5kC/VXdLAU/aYHG7AC6AUBNqagmnyROoABMF2oarpjO3gBrK8yIwoyhfPyroqgAE/KL0nIJWHVXPTi+jXBGID3Yk+XoFauTBXAWJoHsNvG20/RiXdyNuIijwITgtvWCQAiJxSoTWVgJQULMRk5zXb+81I7k9uLdReMfdki1rGrKzcpg20uKbIKaVzAe/RBNeaEZNr9+VPTjEvdx3ZiuGr9y+ON+FyKBcANTAX5OofVUx/HoxRZM8vI4ZmypwclwMwQIi6EHQd23M1nqIG2iLPgCTwhVf1U3dTMAmBhSKrDxf4Y1ggDa12bzk0wtm5YJehejxTImuTWgXC2vnvvAJqbrmyrvu6CyHnD4+pofdI1hrr3uN0Gtw0Y3HP+2is+sim9fU5jU9yij3REXcmd0WdaN4EZRmd1KxSJ81nta+cEmaM87Ys7NHzf5Djv2vPspcbI8c2rA6TfkzXDlFohLE6QxM5R1M+R09b8w==;ZnfMOhNwHIJuSzOKTk7LAQ=="
 ---

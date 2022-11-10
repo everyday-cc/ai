@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T20:27:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-merging-artificial-human-intelligence-pursue-payment-integrity-multiplans-/2022/11/10/9711018.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-merging-artificial-human-intelligence-pursue-payment-integrity-multiplans-/2022/11/10/9711018.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

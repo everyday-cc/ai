@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-11-scientists-articulate-new-data-standards-for-ai-models.md",
+      "title": "Scientists articulate new data standards for AI models",
+      "excerpt": "Aspiring bakers are frequently called upon to adapt award-winning recipes based on differing kitchen setups. Someone might use an eggbeater instead of a stand mixer to make prize-winning chocolate chip cookies,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/argonne-scientists-pro.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp",
+      "publishedDateTime": "2022-11-10T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-vivo-unveils-v2-chip-to-use-it-with-dimensity-9200-for-ai-enhancements.md",
       "title": "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements",
       "excerpt": "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1356,49 +1399,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-deal-alert-the-zotac-geforce-rtx-3090-gpu-is-down-to-86999.md",
-      "title": "Deal Alert: The Zotac GeForce RTX 3090 GPU Is Down to $869.99",
-      "excerpt": "Zotac video cards come with a 2 year warranty. However, if you register your GPU within 30 days from the date of purchase, you'll get an additional 1 year extended warranty for a total of 3 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/deal-alert-geforce-rtx-3090-gpu",
-      "originalUrl": "https://www.ign.com/articles/deal-alert-geforce-rtx-3090-gpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2022/10/24/zotacrtx3090-1666638008356.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
         "images": null,
         "publishers": null,
         "authors": null

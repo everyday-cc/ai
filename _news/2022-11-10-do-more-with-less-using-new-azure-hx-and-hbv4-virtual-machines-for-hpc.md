@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T11:00:01Z
 originalUrl: "https://azure.microsoft.com/blog/do-more-with-less-using-new-azure-hx-and-hbv4-virtual-machines-for-hpc/"
 webUrl: "https://azure.microsoft.com/blog/do-more-with-less-using-new-azure-hx-and-hbv4-virtual-machines-for-hpc/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft

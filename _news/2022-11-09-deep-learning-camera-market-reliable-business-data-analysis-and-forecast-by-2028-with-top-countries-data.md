@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 81
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,29 @@ images:
     isCached: true
 
 related:
+  - title: "Using Data and Machine Learning to Help Companies Recover"
+    excerpt: "Data and machine learning sciences are evolving at a rapid rate, and as companies recover from the pandemic downturn, it's more important than ever that businesses take full advantage of all the tools available to them. We'll talk with Mastercard Data and ..."
+    publishedDateTime: 2022-11-10T19:59:00Z
+    webUrl: "https://www.cnbc.com/video/2022/11/10/using-data-and-machine-learning-to-help-companies-recover.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 51
+  - title: "Artificial Intelligence in Modern Warfare Market 2022 to 2030 Research Methodology with Top Countries Data by Leading Key players"
+    excerpt: "Global Artificial Intelligence in Modern Warfare Market research report covers complete data of the various segments in the Artificial Intelligence in Modern Warfare market study. The assessment contains the descriptions of the market dynamics,"
+    publishedDateTime: 2022-11-10T19:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-modern-warfare-market-2022-to-2030-research-methodology-with-top-countries-data-by-leading-key-players-2022-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Insurance Market : Global Opportunity Analysis And Industry Forecast, 2021-2031"
     excerpt: "AI in Insurance Market . AI in Insurance Market : Global Opportunity Analysis and Industry Forecast, 2021-2031. PORTLAND , OR, USA, UNITED STATES, November"
     publishedDateTime: 2022-11-09T18:07:00Z

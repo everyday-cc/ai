@@ -89,20 +89,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
-    excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
-    publishedDateTime: 2022-11-09T11:32:00Z
-    webUrl: "https://uk.pcmag.com/graphics-cards/143729/nvidia-cripples-a100-gpu-performance-for-chinese-market"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_ny67.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia May Have Found a Way Around New U.S. Chip Export Restrictions"
     excerpt: "a high tech data center chip that is dumbed down just enough to meet the export restrictions that were put in place by the U.S. government last month. The government, of course, is concerned about sending that AI and high technology to China for fear that ..."
     publishedDateTime: 2022-11-08T18:01:00Z
@@ -171,6 +157,15 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
+    quality: 49
+  - title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
+    excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
+    publishedDateTime: 2022-11-09T11:32:00Z
+    webUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
     quality: 49
   - title: "Nvidia Designs New Chip For China To Override U.S Ban"
     excerpt: "The Nvidia A800 graphic processing unit is \"another alternative product to the Nvidia A100 GPU for customers in China,\" a spokesperson for Nvidia said in a statement. \"The A800 meets the U.S. government's clear test for reduced export control and cannot be programmed to exceed it,"

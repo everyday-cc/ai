@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T12:01:00Z
 originalUrl: "https://www.nottinghampost.com/news/uk-world-news/schools-need-start-teaching-ai-7805691"
 webUrl: "https://www.nottinghampost.com/news/uk-world-news/schools-need-start-teaching-ai-7805691"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Nottingham Post

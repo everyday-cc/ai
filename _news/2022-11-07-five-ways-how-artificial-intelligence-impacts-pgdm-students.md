@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-06T17:39:00Z
 originalUrl: "https://www.financialexpress.com/education-2/five-ways-how-artificial-intelligence-impacts-pgdm-students/2776581/"
 webUrl: "https://www.financialexpress.com/education-2/five-ways-how-artificial-intelligence-impacts-pgdm-students/2776581/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Financial Express

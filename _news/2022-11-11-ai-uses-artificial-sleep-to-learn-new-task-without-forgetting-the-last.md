@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T19:51:00Z
 originalUrl: "https://www.newscientist.com/article/2346597-ai-uses-artificial-sleep-to-learn-new-task-without-forgetting-the-last/"
 webUrl: "https://www.newscientist.com/article/2346597-ai-uses-artificial-sleep-to-learn-new-task-without-forgetting-the-last/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: New Scientist
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "nLCRBMfBFro09B2pQpwWcynoKpKSxIGHcljvI8Ay212/hB5zngiX8rAFh78rOHziDRlZbd+TdoJDp/w6eCHpf2FyD2s714Nww2ormpSPhU6BQlOZJMGJo74v6S1HlIpg9n/fUm7P3YxqQlo/1fwE+UAV/R+2gZQkrxP0wbJ6Utfy3AEoAt65DZLY3pYA7nX7CJxIaTjxaq7vBoaU8VOvy7C7ZtMlKpxVNKAOIKIBFjP6uKqBrqS6w47sXFoK5DfcIrqG2H6fUePbHommBGn8YLSA7oES0cwjLWPApuQF9zX/ExoSn4YS4Exom5jY7EIXMNGMHtkZNycx3qPONT29WeetAYNYfgrxdvlQomiZUSjNAlqOKADDxxHMkVtyUy2k1SLcqT1alDmkz0p8jNA5oRpMt/IqXkeae3W7XSxYJRLThP3mSaRhRq0uktmSDsm3+bGqGu+7y8ObA26Olz88KC8QsQ/yULCVawzXBVVRVDy+bD74DVzZM8H3FmRanUwfV1GvgNmFZuYMAf6YFXuZrQ==;KE3AwAlQWwwTSBN3G2oPbA=="
+images:
+  - url: "https://images.newscientist.com/wp-content/uploads/2022/11/10175805/SEI_133081267.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "cLqK4HckficefXQWppRUhdmhMVSwJ97oProA2xdvLtGLLA1hRqKo6dYVtYKylQoD/vDWIFbVfRm/88YFHeqddsdh+xDx0kJy9Cqi5PaeBIjmTDU4aNVTtM67hx6JcMz2Qfixr7K+SPbVWVn8rMSwZ23BcXw2OTl9ZVHbLLkrxe7kqBaBAFhMtrZ9y0/9w7PctlE5QtiPC8SH3AXmL18J+teTE5NrnhxBH5DXPSf8sFtkbXKbOgVb08LMrnwIMnV5GwhptJfT0/56BrnUCdjn7ewa5kux9bX+XE1dq6dW2ao6Yrj9dbXTLJKx5GeLmDhzieZ+y4ygi/E+ECSfB2v8T2Wnot/w6tq6eAzLYvNWWDE=;02eVaPKYT+yMUrNGTJtVNA=="
 ---
 

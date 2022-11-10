@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T20:02:00Z
 originalUrl: "https://www.domain.com.au/news/mosman-home-of-collapsed-ai-start-up-founder-set-to-test-high-end-market-1181885/"
 webUrl: "https://www.domain.com.au/news/mosman-home-of-collapsed-ai-start-up-founder-set-to-test-high-end-market-1181885/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Domain

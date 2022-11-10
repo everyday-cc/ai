@@ -39,6 +39,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Using Data and Machine Learning to Help Companies Recover"
+    excerpt: "Data and machine learning sciences are evolving at a rapid rate, and as companies recover from the pandemic downturn, it's more important than ever that businesses take full advantage of all the tools available to them. We'll talk with Mastercard Data and ..."
+    publishedDateTime: 2022-11-10T19:59:00Z
+    webUrl: "https://www.cnbc.com/video/2022/11/10/using-data-and-machine-learning-to-help-companies-recover.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 51
+  - title: "Artificial Intelligence in Modern Warfare Market 2022 to 2030 Research Methodology with Top Countries Data by Leading Key players"
+    excerpt: "Global Artificial Intelligence in Modern Warfare Market research report covers complete data of the various segments in the Artificial Intelligence in Modern Warfare market study. The assessment contains the descriptions of the market dynamics,"
+    publishedDateTime: 2022-11-10T19:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-modern-warfare-market-2022-to-2030-research-methodology-with-top-countries-data-by-leading-key-players-2022-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uM6MHN130ZpMJ/cKUhQGi7t8et7DskDTPJMMk/k2JmpinGFuQp7D5o9t2VDIAbw/FZRLBqHOQZljKIV8Y0wmixAbc7d2gsaBytVkOBVSFSeBsjey7tDqzGo4TrdeW5LgNcKJltuRPIcoroUK3Y0JmFtlrcywcTQ+saGeQhldp2PbUQIGIwkavnfijtp2usRqnPhxVEk/VzN4CL18YJ3nhV/kmrvLyhghdeHbpKVpwlYCaVUYGYam4ieiLP+oZhtUYGUBholNpuF0TBKDr+csUlhCZtqtvMGk/mJJNZ9Pqk9AiT7IfPPYdT/lfzGBPS7dU5EtsG4dOwNmBk9iWf51aaiNaIzJl+CvEk+ZcdowR9g=;hKTHzXmB0vKjSV7cx/nnKg=="
 ---

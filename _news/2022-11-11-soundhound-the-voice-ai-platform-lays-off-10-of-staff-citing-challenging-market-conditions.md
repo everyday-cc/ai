@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T17:37:00Z
 originalUrl: "https://techcrunch.com/2022/11/10/soundhound-layoffs/"
 webUrl: "https://techcrunch.com/2022/11/10/soundhound-layoffs/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: TechCrunch

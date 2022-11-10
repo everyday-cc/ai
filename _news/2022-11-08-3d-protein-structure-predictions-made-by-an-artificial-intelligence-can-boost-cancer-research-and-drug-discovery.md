@@ -41,6 +41,20 @@ related:
         width: 1819
         height: 1773
         isCached: true
+  - title: "Artificial intelligence can predict 3D protein structures that may lead to cancer research"
+    excerpt: "Usually, trying to discover the 3D shape of protein structures is very expensive and time consuming. However, the technique that uses AI helps to understand the 3D shape of the protein folds efficiently and quickly."
+    publishedDateTime: 2022-11-10T21:23:00Z
+    webUrl: "https://interestingengineering.com/innovation/artificial-intelligence-can-predict-3d-protein-structures-that-may-lead-to-cancer-research"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 27
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/10/image/jpeg/ShzLNdE1XaZJjBunlWV2n0iWNPY59mDU4gnRGPvY.jpg"
+        width: 1920
+        height: 949
+        isCached: true
 
 secured: "OOgnqYjgIuBe2D8XnNm3KjNWM8MYILCqgb1WISEqELL9b7iA7f/HcgW6yMswe1tQg6I2GC/68t4ks84zgafLu5IU6emuPMxvqbGOt9wd+ainRq4WjxJwa0b20aH643uPX6VDVpvnmZe+xiUWKKEPZGFla6jF1k0acjPsLpnjpz59KPdmuD5CGUtAhoivr1/g0wmgcQScLGjSmFGrP5j7IJmPtU4wjUcXpsy7g1mlApHuxlXB4Dct/d12yw6g4p+gwVIJgHjoRwu54igTyQQTvRzyecQwn7HFXzEtwYhWoKbf1HN7110Vc7NumGvh9Wv1ay2fE1Jm/gS1kQF8NVrjaUxh5TuvIId7sQwj6gonTnn4oBRO3hpxFrUUjPMEkF8hDT4E4T0BtYewEeRaFAjyOOlYpbc1QCkq76nX5tc/xYrJ1OIzdRgk9gyNhfmFOJdb18IefgbWFbjOAPWKgLsbBz3v4zOD4RNAz/V22VTdRDWMtHAJ8ceVuQ+20X20/2orXHLXxCTMSHuu+TB9Jn2zxQ==;ICsDEKLBUUw6+AfXrCrrLQ=="
 ---

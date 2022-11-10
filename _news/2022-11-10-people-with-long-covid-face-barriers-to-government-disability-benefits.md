@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "People with long COVID face barriers to government disability benefits"
+    excerpt: "Unable to work — and without access to Social Security Disability Insurance or other government help — Taveras and her family face a looming pile of bills ... Expanding on the recognition, the department and the White House published a report ..."
+    publishedDateTime: 2022-11-10T20:28:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation/people-with-long-covid-face-barriers-to-government-disability-benefits/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 4
+
 secured: "wTw3gwnplN5+3qWDIbI+Jm0D6vP5KnhtWFhPhxkl08kK3eP/urDn6z5qVlRIdCutYS5MJwvzlVdSPYLIX1eVYWg+AKYHKN20Xy5G5LXnfowVKlXLW4zp1uSlYLmOs+8iiySKL2PqrKvKhQl+u4TsVO5wIPrnfabJmStfb92pE6ymOj0dLerM3GpwFlRHIC/RHQAP0UQZiZGaOTeykDv7wU5L4g5/dQCH3NFuCLg91IfZcNNlPt1djczjIuQgCpRkknxjNgcho/PkCDrDdzCL9TQV0/wk7+qU6w7fU1RVtKSOpp9rPjPa+vTPyXeMf+qEjblcv3JlnTVTJxaqFoHPozbrmyUU5rbE7dcz4GgUTg/bLDj726kkgwVktVTB+7MNJH/QtnMjeVGZ+RMxH44vIOG9eCWVN8c4oAL5CSawuZd8IRiyJFwj2bRV1f7O0+G+nteZpS7HZkyShCo++w+pIxrWsKe0NrRQ16+kygZmtJ9upgr+hvgBGCBdt7XENin8HI01Lw+qga7TSgrHSXJOhA==;bMpktBoIsbffJrz7KkJQAg=="
 ---
 

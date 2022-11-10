@@ -5,6 +5,8 @@ excerpt: "Zest AI plans to use the new funding to rapidly expand ... To learn mo
 publishedDateTime: 2022-11-02T13:06:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-"
+ampWebUrl: "https://www.benzinga.com/amp/content/29521634"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29521634"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "IhZ1+TCEvl/tgGn4b4ucnlUjT/b3mzR/IhgHjUh/JWTNoygHdD4PilJCAF7N5QWxajsG24t1QL/VU3GkKPFKF1ldyLl3aLSOPazWSzFYrXbgzZiMx+aXm8Ynj8sBUUudd5UH8uBfdosTnukZFQ5WIr1+o1FEAEcRT4bfD6ZBdH3jEh81dTBZqpCBYm1BDFMXeFvzeTqHEcPb6lStZMH6LLWnElVNcLCXTgiKZbfj7Fo1bju13GjGM2/egWhzSAO7nhPZukJ4ThsMD53bAASf7EfdU9z8ocScQUjSE4bQK9FenDUo5IW3jeB8wPoMlCHxRPsl8GY4vjkmijIT31qfUltEdoGUmcs5uBvYgKELhlE=;rD/0MH3crf/xo4E+aGzcLg=="
+secured: "SD4qlsxgbWFT5h8rdclPCfvZb6Wxz+xIDnkJp1AnZT8N0QmtUtCDjSC9hPSFZQE0j7dWITuH59gzsYNQOpTiQobwSrPwRG87e2FvOVsj236BCNwKyeMkqcFcExhQ+Mnsd1XdWv6zFAwMY/szojXztMMGmha5uVlUPOHoYryRYJaUJDUlo3RESqFcZ1UrwKA5UInJAEAUa1Gb2OQrM78EHVtnYv1T9g4fkR1uxXQ3HcyxmN03NMBpsvDiIYwSA7b46oCjAsh699fKLcaglpCrfDQU6+DU7kpUTxt8t18RBjOvlsyWw82U/oQI/NiZoG+Rmt89dR9mb02T8Etlgh0sV00zCCYSx9UAqIJVaDoykPU=;3jqhLrpJQT1bEstWMTnVZw=="
 ---
 

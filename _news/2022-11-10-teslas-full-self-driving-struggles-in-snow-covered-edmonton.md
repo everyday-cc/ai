@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
 type: article
 quality: 59
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kodiak Robotics Demonstrates Tire Blowout on Self-Driving Truck"
+    excerpt: "The video shows a Kodiak self-driving truck rolling over a test rig that punctures the front driver-side tire of a Kodiak Class 8 tractor while the autonomous technology is engaged. Even after the tire is destroyed, the Kodiak Driver stays in control and ..."
+    publishedDateTime: 2022-11-10T22:20:00Z
+    webUrl: "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 56
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2022-11/kodiak-blowout-screenshot-web-__-1200x630-s.jpg"
+        width: 852
+        height: 447
+        isCached: true
   - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
     excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
     publishedDateTime: 2022-11-09T20:39:00Z

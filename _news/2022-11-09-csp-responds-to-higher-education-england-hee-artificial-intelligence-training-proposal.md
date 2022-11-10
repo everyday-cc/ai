@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T15:24:00Z
 originalUrl: "https://www.csp.org.uk/news/2022-11-09-csp-responds-higher-education-england-hee-artificial-intelligence-training-proposal"
 webUrl: "https://www.csp.org.uk/news/2022-11-09-csp-responds-higher-education-england-hee-artificial-intelligence-training-proposal"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Chartered Society of Physiotherapy

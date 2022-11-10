@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T13:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/10/five-strategic-enablers-of-ai-driven-retention-transformation/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/10/five-strategic-enablers-of-ai-driven-retention-transformation/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -41,6 +41,15 @@ related:
         width: 839
         height: 471
         isCached: true
+  - title: "Vivo unveils the V2 chip to pair with MediaTek’s Dimensity 9200 chip for AI enhancement"
+    excerpt: "Vivo has unveiled a new chip that will be paired with the Dimensity 9200 processor for artificial intelligence enhancement. The announcement was made during this year’s Dual-Core X Imaging Technology Communication Conference in China."
+    publishedDateTime: 2022-11-10T20:15:00Z
+    webUrl: "https://www.gizmochina.com/2022/11/10/vivo-unveils-the-v2-chip-to-pair-with-mediateks-dimensity-9200-chip-for-ai-enhancement/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 56
   - title: "MediaTek Dimensity 9200 Rocks Wi-Fi 7 And A Huge GPU Upgrade For Flagship Phones"
     excerpt: "The Dimensity 9200 has a few tricks up its sleeve, in addition to offering more performance at a much lower power draw."
     publishedDateTime: 2022-11-09T15:20:00Z

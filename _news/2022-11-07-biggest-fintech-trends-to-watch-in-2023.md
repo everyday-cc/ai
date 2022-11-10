@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Philippine FinTech Festival: ASEAN advances as a global powerhouse for innovators"
-    excerpt: "The week-long inaugural Philippine Fintech Festival (PFF)-World FinTech Festival-(WFF) Philippines highlighted ASEAN as a global powerhouse for innovators with the participation of 200 international government and industry leaders."
-    publishedDateTime: 2022-11-06T05:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/06/9706957.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1939000/PFF_Day_1_4_Highlights_Collage.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Get to know the BostInno Fire Awards fintech honorees"
     excerpt: "Today, we'll meet the honorees in the fintech category. Boston is on its way to becoming ... This Cambridge company operates an AI-powered insurance comparison platform, allowing customers to compare and purchase a variety of policies online."
     publishedDateTime: 2022-11-08T14:28:00Z

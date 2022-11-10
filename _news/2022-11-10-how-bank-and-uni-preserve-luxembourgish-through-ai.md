@@ -7,7 +7,7 @@ originalUrl: "https://delano.lu/article/how-bank-and-uni-preserve-enda"
 webUrl: "https://delano.lu/article/how-bank-and-uni-preserve-enda"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Finance
+
+related:
+  - title: "1st Luxembourgish Language Machine Learning Model LuxemBERT Created"
+    excerpt: "The first Luxembourgish language model using the BERT (Bidirectional Encoder Representations from Transformers)... }}"
+    publishedDateTime: 2022-11-09T15:33:00Z
+    webUrl: "https://chronicle.lu/category/innovation/43236-1st-luxembourgish-language-machine-learning-model-luxembert-created"
+    type: article
+    provider:
+      name: chronicle.lu
+      domain: chronicle.lu
+    quality: 41
+    images:
+      - url: "http://www.chronicle.lu/images/2022/Nov/20221109_LuxemBERT-BGL-BNP-Paribas-Uni-lu-600-400.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "NJScaB9MuiYet04/rBrpjJ4FgpWFHphEN5KlQjNYenVBYsAsew6dcSnHwX2e5XUXyEXpLjCi52yYLkWlWscJr5t/b44+AcK1MkVyEKLmqP9IwRPjXJJyPAVh2ImzLke2gmtLvCmc+NyBCZgMz5/Mc/QyN2lsH/HJDBMELzWGph/U0CgIGuJXqcpR32uF0rVEk83mmFVCbqwjA0VcecV5VhN2QTxWMLhqdKYwgv2qIxgkyhkKwXwDfVjtJFXBDLHRdz8RWj4mca0FLQOVds04zycgfQRRgd85MW8ldIQr44RJPESGW66vm6uWEwCAiwUTeq4wrTx5l5XJiLDlVC0bg2kpL/oUheKPp17O6W2ehNrRAfjfxQ+fx8bzS5johg0SkzgSx6odB3ykS/tCR0XlNlq7YF0feOBGylou5x5qJPpD45NxkCCEHHWs/JF/Jcs+1VxckbmQfLpLbeqSUnMuwAXLlvsv/mDI66zQ3V0fHgOIcmw4HiToknljKnYCa7Vshgl0nwLb4y8TmtmXEY46WA==;1oIFvzvAQtTon8y6uL+o8g=="
 ---
