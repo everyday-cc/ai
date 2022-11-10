@@ -44,6 +44,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Robots Market Outlook 2022 and Forecast to 2030 | By -ABB, Alphabet, Amazon"
+    excerpt: "Robots Market Research Report (2022 -2030) here: The study report offers a comprehensive analysis of the global Artificial Intelligence (AI) Robots Market size across the globe as regional and country-level market size analysis,"
+    publishedDateTime: 2022-11-10T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Market\""
+    publishedDateTime: 2022-11-10T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market Analysis By Size, Share Trends, Emerging Trends, Qualitative Outlook - Forecast To 2026"
     excerpt: "Nov 08, 2022 (The Expresswire) -- Pre and Post Covid is Covered and Report Customization is Available. “Artificial Intelligence (AI) in Oil and Gas market revenue was Million USD in 2016, grew to Million USD in 2020, and will reach Million USD in 2026 ..."
     publishedDateTime: 2022-11-08T04:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrus
 webUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft"
 type: article
 quality: 66
-heat: 126
+heat: 128
 published: true
 
 provider:

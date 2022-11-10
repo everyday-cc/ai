@@ -1,22 +1,28 @@
 ---
 category: news
-title: "With AI, you need to see the bigger hardware and software picture"
-excerpt: "IDC has reported that when it comes to infrastructure, GPU accelerated compute and HPC like scale-up are amongst the top considerations for tech leaders and architects looking to build out their AI infrastructure."
-publishedDateTime: 2022-11-09T12:24:00Z
-originalUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
-webUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
+title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
+excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
+publishedDateTime: 2022-11-10T08:55:00Z
+originalUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
+webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
 type: article
-quality: 19
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: theregister
-  domain: theregister.com
+  name: Bangkok Post
+  domain: bangkokpost.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "AI and the future of gaming"
@@ -44,20 +50,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
-  - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
-    excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
-    publishedDateTime: 2022-11-10T08:55:00Z
-    webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 40
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Winning the Spot Market with AI"
     excerpt: "That’s why it is so important for companies to utilize technology to better their businesses. For example, artificial intelligence (AI) is an under-utilized tool in the supply chain, and it is something that can help better analyze market conditions and ..."
     publishedDateTime: 2022-11-07T22:50:00Z
@@ -114,6 +106,15 @@ related:
         width: 501
         height: 375
         isCached: true
+  - title: "With AI, you need to see the bigger hardware and software picture"
+    excerpt: "IDC has reported that when it comes to infrastructure, GPU accelerated compute and HPC like scale-up are amongst the top considerations for tech leaders and architects looking to build out their AI infrastructure."
+    publishedDateTime: 2022-11-09T12:24:00Z
+    webUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 19
   - title: "This AI can harness sound to reveal the structure of unseen spaces"
     excerpt: "Their model, called a neural acoustic field (NAF), is a neural network that can account for the position ... The other big use he sees is in artificial intelligence. “We have a lot of models for vision. But perception isn’t just limited to vision ..."
     publishedDateTime: 2022-11-09T20:02:00Z
@@ -142,6 +143,6 @@ related:
       domain: nextplatform.com
     quality: 17
 
-secured: "ChSVpqvXawehrknlaM7YS677G7ZLOaInG8n2aTUMk/x4F0UEgjYB//rVN5kyF3Rc/7/6Anhw07a8LCzDtF6B2Ap8Rj5O7CvZzR14zkUFA8Y4PoveA/maTmSxMJVFJrMzVrAPnD5KUjR11BLJ/FAHKeJ406Q51mmNhkK3KO/7ruiPVVuHQoeQ4djU2rT8fOeDes7HdtrOuXqflP6azk6TZeB1vR2/0VgM+q+h/h2fPEU88/DfUNuLbk3ZuzsB44YDlQtntob1SdXNEmpPUU2DuTMxE+amMqcKJ3draWWYCIMJ2KpDzgPARSh3iAWDcf2GdEaPI7m/BQctJvb0VtHJNVsJpYVENcoO5bQBPIb36KYXAkXAtRN8cj7D3LzxvTvvFjUj265wETO3K48jJF/FD+1p0MlKiMOcVMrI6Nw0zN38uHl2mx0vI6SuNb+4Hpo58az34s4zHzi+1tWET0Fz4dodTAzzqMNAIBJbbcJQxff2w4tdvu3SQXs/0FL3Tj7r4o9LOcf0wAkz6wa0AD1aOw==;X3HGLXqDXRYouBNovF+rxQ=="
+secured: "UpCxkTSF7zwiu+7ZqOygElvHbZhp4F8dhE16cymFB3c+RFKSVdtavanDkd35kGoHk3tnbYOF7kPz1P+FuNxPIqDa9iRhxTf5RV1SUBJ7rNezfSo9jIZlBiXB5Of188hEV30tprYmugiIF/Fts4xoVBDptZ6CgZo1HX+k9pXdPvqZVl4malQmmssxrmompULDzUkvvN+WGVCZzNp/Va0eniygOTM1sdFd7AAgvUijXZRIAEpU2yOoW4YgTnhgcJqw873nBAXl0n2o96TgOqVRZy6lQdwJlNKzqbSKuYjfN7IC8zWTsMTKvwx+U6DO/7ytjIyjn1bvqhweLeaQnnsC12k8OIc1sAncTzoQ7eMr3os=;6BrlnBfq7U+i/5SiVCj37A=="
 ---
 

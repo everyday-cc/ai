@@ -25,17 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Size Worth USD 8.9 Billion by 2030 at 24.9% CAGR – Report by Market Research Future (MRFR)"
-    excerpt: "Artificial Intelligence in Drug Discovery Market Overview: According to a Comprehensive Research Report by Market Research Future (MRFR), \"Artificial Intelligence in"
-    publishedDateTime: 2022-11-09T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29639695/artificial-intelligence-in-drug-discovery-market-size-worth-usd-8-9-billion-by-2030-at-24-9-cagr-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29639695"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29639695"
+  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
+    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
+    publishedDateTime: 2022-11-08T08:32:00Z
+    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
+        width: 640
+        height: 335
+        isCached: true
+  - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
+    excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
+    publishedDateTime: 2022-11-07T07:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 9
+    quality: 11
 
 secured: "tiABH7k7t/PyuEPbE/LpnivWPOjUh511Zr5pklfxSxojL+mdAkXrx6el4UrqktxsK35QdrzYaBvOi+iHW4uiVjXQhd0D0HUTNuvzvLjwa3FOIyk28P2kmmG72i1JhQyU1JOXWQRjT1/0DwPBLoKvEOL7nbgkWnnuXTa7YOKH0OjZCAXXz+jzFry6xa1McBbalbT9qUOxZYwb4mu5ezKCk59L+fdrRhtW1+JOXh+4O5h484BwajDRSHYHlTlw8MXvOsN/Tz/4we7F5Z7E9nDnDgWx4zzoXpnJzU0EnX7D66sTTRQ50/MzwpEzHJpeHped6z4pVjXzG1BW3ZHcm/x/xc/N+MjshwtxdeiLPfo1ZrSsMKn3QSFhCdwB4/mYz0VfDyPwlLzKNDPduwzgCIZwW4lJx6lW2Ou+k8zwhOOZK+5gwPCps9L9OKJBvP/SOSIFuSWAaxYOJHWgG/3iCFf5focIMho0t1o16BLYDHXNWoF0qE4pkzWpvLmXJsVVHfm97aoYxzREVIxW/devV/WWXg==;3ZeMxoAPPyASl8vTT7RhEQ=="
 ---

@@ -49,6 +49,20 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
+  - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
+    excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
+    publishedDateTime: 2022-11-10T08:55:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 40
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "The Promising Reality of AI"
     excerpt: "Artificial Intelligence (AI) can sometimes be an ambiguous word in education circles, evoking images of machines replacing human teachers in the future. The truth, while less fantastic, is that AI"
     publishedDateTime: 2022-11-09T16:32:00Z

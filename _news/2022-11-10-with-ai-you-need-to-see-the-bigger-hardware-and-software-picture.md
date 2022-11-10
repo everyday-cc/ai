@@ -43,6 +43,20 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
+  - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
+    excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
+    publishedDateTime: 2022-11-10T08:55:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 40
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Winning the Spot Market with AI"
     excerpt: "That’s why it is so important for companies to utilize technology to better their businesses. For example, artificial intelligence (AI) is an under-utilized tool in the supply chain, and it is something that can help better analyze market conditions and ..."
     publishedDateTime: 2022-11-07T22:50:00Z

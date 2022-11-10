@@ -19,63 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Finanteq fintech solutions – check out the possibilities"
-    excerpt: "The development of the fintech industry is of increasing importance – its impact on the financial sector is growing, and the fintech sector has recently become particularly important for banks. Although the term “fintech” has become incredibly popular in recent years,"
-    publishedDateTime: 2022-11-05T16:23:00Z
-    webUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/"
-    ampWebUrl: "https://techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/finanteq-fintech-solutions-check-out-the-possibilities/amp/"
+  - title: "Singapore fintech festival: Behold the Supply Chain of Gratitude"
+    excerpt: "But if you really want to hear words being bent to new construction, get yourself to a Singapore just had a mighty one. Euromoney will admit to a need to stay focused at events such as these, so initially we sharpened the mind by trying to count the number of times we heard the new and regrettably ubiquitous expression “trust anchor” (lost count at 11)."
+    publishedDateTime: 2022-11-10T09:39:00Z
+    webUrl: "https://www.euromoney.com/article/2av8yzo8vw7z5jua53ytc/opinion/singapore-fintech-festival-behold-the-supply-chain-of-gratitude"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
+      name: Euromoney
+      domain: euromoney.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/1.jpg"
-        width: 1055
-        height: 593
+      - url: "https://assets.euromoneydigital.com/dims4/default/9867cbf/2147483647/strip/true/crop/960x504+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2Fe6%2F2e%2F581593cf41bc8a250df71a4cafaf%2Ftrust-anchor-fingers-tattoos-pixabay-960x535.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Finastra, Modefin partner to provide FinTech solutions for banks in Africa"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-11-09T10:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/finastra-modefin-partner-to-provide-fintech-solutions-for-banks-in-africa/"
+  - title: "Philippine FinTech Festival: ASEAN advances as a global powerhouse for innovators"
+    excerpt: "The week-long inaugural Philippine Fintech Festival (PFF)-World FinTech Festival-(WFF) Philippines highlighted ASEAN as a global powerhouse for innovators with the participation of 200 international government and industry leaders."
+    publishedDateTime: 2022-11-06T05:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/06/9706957.htm"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Finastra and Modefin partner to provide best-in-class fintech solutions"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T09:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-ekvdblx5"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:Mzk4NjgyMzYtMTc5Yy00:ZDkxYmM0/galadinner14june-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T11:31:00Z
-    webUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated6_12.png"
-        width: 900
-        height: 480
+      - url: "https://mma.prnewswire.com/media/1939000/PFF_Day_1_4_Highlights_Collage.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Biggest fintech trends to watch in 2023"
     excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
@@ -86,6 +56,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
+  - title: "Taiwan's eKYC Solution provider Authme showcases its latest Deepfake preventing innovation at Singapore FinTech Festival"
+    excerpt: "Taiwan -based Authme, one of the leading providers of AI-based eKYC solution attended Singapore FinTech Festival 2022 along with Taiwan's Asia Silicon Valley Development Agency and FinTech Space, showcasing their most advanced KYC solution that provides seamless onboarding experience and innovative fraud prevention technology to combat Deepfake frauds."
+    publishedDateTime: 2022-11-08T06:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/08/9707959.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "OOZYQli6a16Oexdi2TshQFVaQywriBN+7z7tCeH0LVtVwtOGbGvf2vtSUuOjENTW+yAnrJqeWhHBBBvKG6BTA+8Go9MjkySNkh/6Z1mMnIxItOpOnJ60lI/a1Ti0bgBHfpHmqzQZl16GC5qRL5996DjjfHFwo+ZqCxdRh5XJ90EQK2ByiJnEnLUJs+vbCB+vZ75EEoteuSHr62Ai/t6iQ0Mp4Iot2tWk9e79atORf3XCHVZx223Lsor8Y0qybBSTB13EODelzfUOfGMhIXUehAAP4SdzQIkPSSxJ5fIulp6rmzkpByW/uJKXDn8zQB8dj1eczczwmcyxZ3fuDTMM5LW/3jCqqYq9JsVUZL5xJo5nmFSrbOT6sD/F+6kbzIdDBeAMC4l3dxas6wchLQAbZpHyWJFnY8/POIRzvVM9g8CwA8WFueAXPXf1v7Y6PptE488jeoa7M0P4Nivm+8PT23rKy44Z/xO9+j3pFvnhQj/F+NgGGUU2eYenyaOqhTe+n7pJcrojTJczPtfWby0vuw==;iBbl9/fM3eM0F2E2DFnbZQ=="
 ---

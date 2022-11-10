@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105146901/Self-Driving-Bus-Market-2022-Busines
 webUrl: "https://menafn.com/1105146901/Self-Driving-Bus-Market-2022-Business-Development-Size-Share-And-COVID-19-Impact-Analysis-2028-Tesla-Navya-Proterra-X-Herald"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -23,99 +23,6 @@ images:
     width: 375
     height: 250
     isCached: true
-
-related:
-  - title: "Automatic Speech Recognition Market 2022: Business Development, Size, Share and Opportunities 2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Automatic Speech Recognition Market\" Insights 2022"
-    publishedDateTime: 2022-11-08T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-business-development-size-share-and-opportunities-2026-2022-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2027"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence (AI) in Food and"
-    publishedDateTime: 2022-11-07T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2027-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Digital Cities 2022: Up to 75,000 Population Category"
-    excerpt: "Honorees in this year’s Digital Cities Survey from the Center for Digital Government elevated their municipalities’ resilience, while bolstering services and prioritizing engagement with their residents."
-    publishedDateTime: 2022-11-10T00:42:00Z
-    webUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category"
-    ampWebUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 24
-  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
-    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
-    publishedDateTime: 2022-11-08T08:32:00Z
-    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
-        width: 640
-        height: 335
-        isCached: true
-  - title: "Artificial Intelligence Market Business Opportunity, Market Size, Upcoming Trends, Recent Development And Forecast: 2022-2031"
-    excerpt: "The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impac"
-    publishedDateTime: 2022-11-10T06:26:00Z
-    webUrl: "https://menafn.com/1105160242/Artificial-Intelligence-Market-Business-Opportunity-Market-Size-Upcoming-Trends-Recent-Development-And-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667055"
-        width: 426
-        height: 250
-        isCached: true
-  - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
-    excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
-    publishedDateTime: 2022-11-07T07:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
-  - title: "Global Healthcare CMO Market Report 2022: Escalating Role of Artificial Intelligence Technology Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "Trends: The market is projected to grow at a fast pace during the forecast period, due to escalating role of artificial intelligence technology and evolution of advanced respiratory equipment. Healthcare artificial intelligence (AI) has transformed by ..."
-    publishedDateTime: 2022-11-08T13:37:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-11-08/global-healthcare-cmo-market-report-2022-escalating-role-of-artificial-intelligence-technology-pres"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 0
-  - title: "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com"
-    excerpt: "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,"
-    publishedDateTime: 2022-11-09T15:51:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "CF+Tm+l//43OyKP1Qj2CU5d+EtJF+gaOimix3EafNTQ7XRsjX3VZBYtKjmOTNYlHuEHCbGrmp+qoCNJ79SAllz1QcbUH+YVFAyQv7qmCl/DBgu9G33ES3WgzZzMBertQzJtO+pd7s2eoHosx7Ufu/4LDXUqxSpwJooXVmIn/VyW/G/D3Z4mosEaihU7JneSh5aJjY0gOCxxtZ4swhYAbVcXa+luIKB2AYBtH0ZjdvDntn/wmyCZAuUHBdyQu2ycVn89gXmwJ+yIKEnetCekNh6Uc4R028fO+Tyz0yC2tz1Czsp9M44u/8/IA1h1I5pnKqAMtSvhFnk5bBJBsPZwrBO8tyIkYw++R8lvefLx9rsuIPowspPpomUG8QmhYGNRjLT4zWkI6VSX5AYXEfvOH9Z6NLILzjSTZn1C8npJmWKTXN65DJw+Ih8rUNDBqf8N6nVLWItSUr8Yn6CrpE4P+kmljFDSnwWjjU626/N+0Ow2BQIJQ3seXxHKhV0YTKV2xnhSYqkOof5bv5+lJ0VHRNQ==;bQeTIe0km0mulr+k84UBNw=="
 ---

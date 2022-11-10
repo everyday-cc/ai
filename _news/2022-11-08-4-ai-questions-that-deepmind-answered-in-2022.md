@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/4-ai-questions-that-deepmind-answere
 webUrl: "https://analyticsindiamag.com/4-ai-questions-that-deepmind-answered-in-2022/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2240
     height: 1260
     isCached: true
+
+related:
+  - title: "Google’s DeepMind Sets A New Benchmark in Object Detection"
+    excerpt: "The model is composed of both real-world videos with human annotations of point tracks, along with perfect ground-truth point tracks of synthetic videos."
+    publishedDateTime: 2022-11-10T09:26:00Z
+    webUrl: "https://analyticsindiamag.com/googles-deepmind-sets-a-new-benchmark-in-object-detection/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/bb.jpeg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "F4hELmCHBti/oK+FBvd41BrLV2HBag1gjBBELE6wQ16jnXG1yITC9XN6vqQQdhziISYyhawyJXpdmiO/JnPJr3j2ZBAwotChPArdmdJ8UUE4/iHwKEwc0RCzBa3B3ZnpBD/VZ+Odp9m5isyWxb+vj3xojt8EnK0ZqpiAnWQtuzFr7e90WCF/HHdkYjnhmos4GeVTQh6lwwqRiYh+O2/4strY0Uhe8oPS+tRY3J8kF0zpZt8ns6l+xWVn0MBpjaiScvqrymYOVJ6EFs9yVCQvW2lfUaYiq681Q3O2ycRL5Z+w1wES9e0zIo7O7T7Yi02eDnRg+EkzYoKuMerQPwx64AogxmH9nrvQj+K/fOs1318=;qhIelqC/wiyIUqIh198QNA=="
 ---
