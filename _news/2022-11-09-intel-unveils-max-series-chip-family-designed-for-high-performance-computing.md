@@ -57,6 +57,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 48
+  - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
+    excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
+    publishedDateTime: 2022-11-10T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/11/09/intel-debuts-powerful-max-series-cpus-gpus-high-performance-computing-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/newsroom-intel-max-series-badges.jpg.rendition.intel_.web_.1920.1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI and Unintended Consequences for Human Decision Making"
     excerpt: "AI can often rely on a large volume of data to make recommendations for human decision-makers. However, there’s often no transparency regarding how the scores are derived nor what data are used to determine them."
     publishedDateTime: 2022-11-07T14:52:00Z

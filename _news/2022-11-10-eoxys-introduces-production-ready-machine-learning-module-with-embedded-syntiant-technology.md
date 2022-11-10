@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Eoxys introduces Production-Ready Machine Learning Module with embedded Syntiant technology"
-    excerpt: "Irvine California [US] Bangalore Karnataka [India] November 9 ANIBusinessWire India Eoxys Systems an IoT solutions provider today announced the availability of its XENO+ WiFi+BLE Nano ML Module an Ale"
-    publishedDateTime: 2022-11-09T06:34:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273061721/eoxys-introduces-production-ready-machine-learning-module-with-embedded-syntiant-technology"
+  - title: "Eoxys Introduces Production-Ready Machine Learning Module with Embedded Syntiant Technology"
+    excerpt: "Eoxys Systems, an IoT solutions provider, today announced the availability of its XENO+™ WiFi+BLE Nano ML Module, an Alexa-enabled machine learning circuit board with embedded Syntiant technology for easy deployment of consumer and industrial applications,"
+    publishedDateTime: 2022-11-09T04:31:00Z
+    webUrl: "https://www.businesswireindia.com/eoxys-introduces-production-ready-machine-learning-module-with-embedded-syntiant-technology-81630.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 29
     images:
-      - url: "https://cdn.bignewsnetwork.com/ODg0Y2QxMjgtYmN.jpg"
-        width: 630
-        height: 473
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Multimedialog_81630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3YRIPUCGHRYucj0O1SDSgf+WH8g267LsN8jLD1tJbSue9ki440ydjC1hseNcdybbBhAqd9rKfL+0vMyL5DhtWtzgGkr7QBlDjL2Ndd11wbNeOCY8QW8yRJNOf2X1+d0NUCQ7LwQmWHLYzv49uHOYg28RomeB9o/nCWcZja1teyZLaCmOVG5+wxh6RxHaj5hGgqnzMvZWf5Ab+kqmPmKtSV7SmzYg8t4A6TFV/45WsmemOvA48IVXLRpcW+WZ0mNSHUes6kRJC447sRlVpeMVganWWJC6QDP+paZFozfV/CvSmHhjDu2qclPUyTkMrePjumhRloYh6aqm6q76LAu1iNEyYMa5wsFrkHOuNCJZs0I=;WxUXcKoy5kES0wt8fqNj1w=="

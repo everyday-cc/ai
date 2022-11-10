@@ -3,8 +3,8 @@ category: news
 title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
 excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
 publishedDateTime: 2022-11-09T11:32:00Z
-originalUrl: "https://uk.pcmag.com/graphics-cards/143729/nvidia-cripples-a100-gpu-performance-for-chinese-market"
-webUrl: "https://uk.pcmag.com/graphics-cards/143729/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+originalUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+webUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
 type: article
 quality: 69
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_ny67.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_k2sb.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -219,6 +219,6 @@ related:
       domain: hothardware.com
     quality: 34
 
-secured: "4k1gSsmuLrDm8KwyYM5UtAwrhU3JBvRi/BW5OKC6CC6Njtw7ikTZw7lw+j7pe6OMxCjLSyq2z8s5aiYdOr6kaK45+QA5mPoAgxEozyhY7zXtwUu6jfD67XFwLDeqtYD00dx/rfBZbVdvX/wJrFQFJ1iWHa0m+8UKJ7eT4hArVa+svbfAN1ZaZgsuVsbN5VyfIfrrPyewpRjIQOcEduhlKrC9pmVcWzvCX5TCpazQJqwQIpTeu9xbYngoWGwNAC9KiukfOvAoU/ICO7aZRhDvDNiB8ZeElyWXUi22apvjNgalEREl7hW5NZhVIzPWjaBmTuNizg2E8ya9bHmpKak8BmnmS957RveNZyZoltls6M4=;8NAMmtS0oxoFI6+PADHOaQ=="
+secured: "5wUwKal4BgzqanrklXxFsC6AK9ndILModgqr5M1jHVGR5Te+SQNvlbC7j2zaUegWC04EG+O/cu/FH8OUYmZ3/qAaMHR+o3BCCEN1BwDJCFirD+K4W9yVCklJawZf+c+jBHV+ICGx70OSDE7f81H3eL2+++maEded/DjxWo7/nT/F4Uke8ntdiBtojwFcttUQKWh3Oa358zYoEnCYXEeK/aZ2iSGNdSylteROlWav1pZc/BsDAtd6C4rTAfRnR5N9M/BW4TxJebF3nAzqoakWIYfpU9LEUcjz9j2tMr0Enqg33U2K7N94eE7b5+4QxWYMKlCCMABtUgOdEFIFcX7QNxgWFK1SvCVI88EvWbZma3k=;iX1iK5YSaTDF8fJC3v/O0g=="
 ---
 

@@ -53,6 +53,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 48
+  - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
+    excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
+    publishedDateTime: 2022-11-10T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/11/09/intel-debuts-powerful-max-series-cpus-gpus-high-performance-computing-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/newsroom-intel-max-series-badges.jpg.rendition.intel_.web_.1920.1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Intel unveils Max Series chip family designed for high performance computing"
     excerpt: "The new family is made up of the Intel Xeon CPU Max series and Intel Data Center GPU Max series, which it says have been designed for high performance computing (HPC) and artificial intelligence (AI) workloads."
     publishedDateTime: 2022-11-09T13:59:00Z

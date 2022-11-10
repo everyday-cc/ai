@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Intel takes responsibility for AI"
-excerpt: "With its research and development history, Intel has been one of the first big tech firms to define the foundations of ethical AI. Launched last month, the Intel Responsible AI charter sets out the chip giant’s perspective on responsible AI and the four pillars the firm says the technology industry can use to ensure AI succeeds not only for technologists but also for wider society."
-publishedDateTime: 2022-11-07T11:50:00Z
-originalUrl: "https://diginomica.com/intel-takes-responsibility-ai"
-webUrl: "https://diginomica.com/intel-takes-responsibility-ai"
-ampWebUrl: "https://diginomica.com/intel-takes-responsibility-ai?amp"
-cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp"
+title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
+excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
+publishedDateTime: 2022-11-10T00:44:00Z
+originalUrl: "https://siliconangle.com/2022/11/09/intel-debuts-powerful-max-series-cpus-gpus-high-performance-computing-ai/"
+webUrl: "https://siliconangle.com/2022/11/09/intel-debuts-powerful-max-series-cpus-gpus-high-performance-computing-ai/"
 type: article
-quality: 63
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Diginomica
-  domain: diginomica.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - AI Ethics
-  - AI
-  - Facebook AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg"
-    width: 640
-    height: 426
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/newsroom-intel-max-series-badges.jpg.rendition.intel_.web_.1920.1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -38,6 +34,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Intel takes responsibility for AI"
+    excerpt: "With its research and development history, Intel has been one of the first big tech firms to define the foundations of ethical AI. Launched last month, the Intel Responsible AI charter sets out the chip giant’s perspective on responsible AI and the four pillars the firm says the technology industry can use to ensure AI succeeds not only for technologists but also for wider society."
+    publishedDateTime: 2022-11-07T11:50:00Z
+    webUrl: "https://diginomica.com/intel-takes-responsibility-ai"
+    ampWebUrl: "https://diginomica.com/intel-takes-responsibility-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 63
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Intel unveils new chips that will power the upcoming Aurora supercomputer"
     excerpt: "While the new Intel Max Series product family is powering the Argonne National Lab's latest supercomputer, the chips are really designed for mainstream high-performance computing, Intel says."
     publishedDateTime: 2022-11-09T13:59:00Z
@@ -47,20 +59,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 48
-  - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
-    excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
-    publishedDateTime: 2022-11-10T00:44:00Z
-    webUrl: "https://siliconangle.com/2022/11/09/intel-debuts-powerful-max-series-cpus-gpus-high-performance-computing-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/newsroom-intel-max-series-badges.jpg.rendition.intel_.web_.1920.1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Intel unveils Max Series chip family designed for high performance computing"
     excerpt: "The new family is made up of the Intel Xeon CPU Max series and Intel Data Center GPU Max series, which it says have been designed for high performance computing (HPC) and artificial intelligence (AI) workloads."
     publishedDateTime: 2022-11-09T13:59:00Z
@@ -94,6 +92,6 @@ related:
       domain: hothardware.com
     quality: 30
 
-secured: "Xhg+sQeRqBfQRUxS9Yw4127T4q/hdeRfgLQIA73Et5V7zS/5nqfnilw04C0wsUp/4mEQQhEcb/2zVvCneStW0grP1XsPXeDDqYFs1seS91yITwvVg9CHLn4rXD0tDdTtQm9vPyI4GHdLpslz+g5VzFX/8DEpbxzdZpWSM5xROCPGuL34Kkpf/otINvlNTAPvHeXJP053XkWdSMslQbppgDFpKQUfmurxtE3Ft9Uhg/BXYFBbkfYoTI7G49bcJHex1AV9aJKn+P1EBdCAK5nBNT6EKNMrmmLfIl0geIG4coKilw0hKAoDcl1jIz7SrslHnIKsIVHU1dQj8IDeHHewMJByJuZ4hwyBl7kTtTuc1AAeO9KMKe2JyFxQtRQ7k94H/cbMUlxiuYpcdaXaFBmNzSvJZc05VamE53pIzQMGxl2ry+1W1IIcCJJjnRIIbwgblDiCe/QpzUQ3iVj6FSWhj+y5r8pk8YGPbaz+7nTPCsfQ2IoVGSvPfW5FOPMmY/+84yUvIW1nalDJixSepC/3Mw==;k42nHgU+L9E7sbGxkJbwJg=="
+secured: "5EKvH2+3+Ol43KJ98RfyHRbgHr6BR1HnvZhLFsaWYySHVs+/UMg3mvy+fac25TpBuAU99m0YqycM5SGJyE9ec9PDXtYnhJ84Z9hx8rZJ+yhSKzMzAHr6Y87GMajqo2oe8XyM+Fw8bh4Emg1zbCM0yZ1dltrormoWT9bSL1jtnYNqJFSDpSPk/+AbkfHFMT0svTHL9YLAKVJ+aoSk/A/dq2vrWXgqa3JECXVIiHgFtmINbFBayRGISzwn2epNWZzDwQ5MBJt4OURdVQo/Fvq9bgWyblVOomc0jYR5EAeDF7QULmTylXZecNBw9dj4LVtKo3PnH6CnZD/AOybkQMgirUzx7Z5Eu8hgdqev2LYs0PU=;2ugmDKg1pXd/AXmsLaUT4w=="
 ---
 
