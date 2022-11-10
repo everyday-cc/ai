@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GitHub faces lawsuit over Copilot AI coding assistant"
+    excerpt: "Class-action complaint contends that training the AI system on public GitHub repos violates the legal rights of creators who posted the code under open-source licenses."
+    publishedDateTime: 2022-11-10T11:04:00Z
+    webUrl: "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html"
+    ampWebUrl: "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/11/netgear-asus-lawsuit-100573125-orig-100780974-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "GitHub Copilot slammed with the first class-action against \"unfair\" AI"
     excerpt: "Litigators have filed a class-action lawsuit against the AI system behind GitHub Copilot, a feature designed by Microsoft and OpenAI to help programmers write better code"
     publishedDateTime: 2022-11-08T18:12:00Z

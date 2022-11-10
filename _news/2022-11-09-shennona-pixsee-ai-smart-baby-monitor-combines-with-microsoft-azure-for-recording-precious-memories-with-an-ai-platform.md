@@ -24,17 +24,6 @@ images:
     height: 224
     isCached: true
 
-related:
-  - title: "Microsoft Introduces New UI Experience for Trying Out Computer Vision with Vision Studio"
-    excerpt: "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API."
-    publishedDateTime: 2022-11-05T18:25:00Z
-    webUrl: "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 27
-
 secured: "Jpjwb/QWzxQ0S8CCAM2Ik7SZWi3u8wjircwaMGkDVCNywN+FK5tv573+D/1VLNZ5IRv+v97QO4CjN6DrK0Jjzs1yuba0Ujma1+Jvk1U5rmVNyyBWU3BC+/iDQytXjfrAnS7T/IYzy+h5wFcaS5zHbaRXJ5dWOk663JdekmonvO7ShxrXGyS6N0A/X0yNoGioCRlKZiDbQLcZIMiAL6DWN7uxbnLYmSvvPsjOu+RLBuqwJmOjyeZKZ542UE3ovQ1eIBvXOQkDaTfRPewfU6E6se5z0YA0lRzY5eoJMCgIbKv3N8VZ4q55gORfo5M/03Cuxn7VhbvaT7d1J7/ONesTFd5tlq/4UWd3Loi2HC1wgRr3xEz23zsdVhvAzcAElDea54zt1F9n5rM9k7Bkj4IFzsFPISZyF1MEwFfb/TZKSkqFvZgs77tvIHfaw9Ku8Uoy1IZ6IL4/uzrjr2weIZ8U4c17nBGVwKwAL4TKWjKmnWNU5X5SVAXZKEyhANVfpw13yG3/LomB4rx2kvr7kKmCSA==;A2Y5X2Ls88YGUVcAWEGcMw=="
 ---
 

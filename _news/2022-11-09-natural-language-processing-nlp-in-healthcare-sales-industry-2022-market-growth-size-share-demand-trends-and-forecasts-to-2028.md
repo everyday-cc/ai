@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market 2022 : Size, Share, Industry Analysis, Growth And Forecast 2028"
+    excerpt: "Nov 10, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Healthcare Market\" research provides significant and in-depth information on the"
+    publishedDateTime: 2022-11-10T07:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Software Market Share 2023 SWOT Analysis, Size, Sales, Growth, Demand, Supply and Forecast to 2029"
     excerpt: "Get a Sample PDF of report at-  The Machine Learning Software market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
     publishedDateTime: 2022-11-07T06:15:00Z
@@ -68,20 +82,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market Analysis By Size, Share Trends, Emerging Trends, Qualitative Outlook - Forecast To 2026"
-    excerpt: "Nov 08, 2022 (The Expresswire) -- Pre and Post Covid is Covered and Report Customization is Available. “Artificial Intelligence (AI) in Oil and Gas market revenue was Million USD in 2016, grew to Million USD in 2020, and will reach Million USD in 2026 ..."
-    publishedDateTime: 2022-11-08T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-analysis-by-size-share-trends-emerging-trends-qualitative-outlook---forecast-to-2026-2022-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -177,6 +177,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
+  - title: "AI In Iot Market Size Projected To Discern Stable Expansion On Outlook, Size, Share, Future Growth And Forecast 2022-2031"
+    excerpt: "The global Artificial Intelligence (AI) in the IoT market is expected to grow at a CAGR of 27.3% during the forecast period<br />However, during"
+    publishedDateTime: 2022-11-10T11:36:00Z
+    webUrl: "https://menafn.com/1105161741/AI-In-Iot-Market-Size-Projected-To-Discern-Stable-Expansion-On-Outlook-Size-Share-Future-Growth-And-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"
+        width: 394
+        height: 250
+        isCached: true
   - title: "GPU as a Service Market 2022 | Current and Future Demand, Analysis, Growth and Forecast By 2032"
     excerpt: "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),"
     publishedDateTime: 2022-11-07T04:58:00Z

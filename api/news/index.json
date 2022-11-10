@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-10-github-faces-lawsuit-over-copilot-ai-coding-assistant.md",
+      "title": "GitHub faces lawsuit over Copilot AI coding assistant",
+      "excerpt": "Class-action complaint contends that training the AI system on public GitHub repos violates the legal rights of creators who posted the code under open-source licenses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
+      "originalUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/netgear-asus-lawsuit-100573125-orig-100780974-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
+      "publishedDateTime": "2022-11-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-reading-drivers-set-to-face-yellow-box-junction-fines.md",
       "title": "Reading drivers set to face yellow box junction fines",
       "excerpt": "For the first six months drivers blocking the yellow box junctions will only be sent a warning notice by the council, as opposed to penalty charge notices, the Local Democracy Rep",
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -101,7 +152,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -734,7 +786,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1069,57 +1121,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-github-copilot-slammed-with-the-first-class-action-against-unfair-ai.md",
-      "title": "GitHub Copilot slammed with the first class-action against \"unfair\" AI",
-      "excerpt": "Litigators have filed a class-action lawsuit against the AI system behind GitHub Copilot, a feature designed by Microsoft and OpenAI to help programmers write better code",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96593-github-copilot-slammed-first-class-action-against-unfair.html",
-      "originalUrl": "https://www.techspot.com/news/96593-github-copilot-slammed-first-class-action-against-unfair.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/11/2022-11-08-image-11.jpg",
-          "width": 2146,
-          "height": 1613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

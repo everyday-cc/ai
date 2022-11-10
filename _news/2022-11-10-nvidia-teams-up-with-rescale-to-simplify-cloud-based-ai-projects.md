@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
+  - title: "Investing In Nvidia's Cloud AI Prospects Makes Sense"
+    excerpt: "NVIDIA's new H100 can deliver six times the performance of the previous generation A100. Read why I am Neutral on NVDA stock for the short-to-medium term."
+    publishedDateTime: 2022-11-09T02:10:00Z
+    webUrl: "https://seekingalpha.com/article/4555106-nvidia-investing-in-nvda-cloud-ai-prospects-makes-sense"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238927/image_1399238927.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "oCma1DorEnOVo38Ic2hb9lsxmg02ePDGRKiE33C8lVcotXYnHM9zNsiRgIr8JCWOCUo9jZiBBDKRSHBYvBts9QS15o9/on+e4Onpns7C7PIKUcPPAhXmYfx5lMTLFALfRyMRQUyYpKWeeZNfDJWlQMJG6oHuLHd8VB62ggurCOvD7ByeZ0ZPCdQOmABVY8ZxZd0ZmDFQgHmoCkzZujxHau1DnJIqrzVN+BVxAOB38HcuICH7o3jSJWuHvUfpDjBs3RL1bKj/o9E3bGiZPT1LVOEPsYqhWbJ0HCZZF4iFZ2phGOSi34nUsDv57YT0BcoUI4M1GsMucQbjuFz8zyZOpsuOtqU0ip40YDx0S2q/Wto0RV7uh40dKCQkPLElqxJ+86JPlbFLAD93ederHhfyRLUIg5bnu7bTabydzPtCqMX4XZ5jKamSwYeSpyhWHLkJwDYz6TD4mSYxyfsQGzghHTfSD/2emuaUTImYL6vL6U94Cm+Fzk39UPe7+mOQKM/hcwDSneVCQ/cTAKNJA78Qug==;Nzf/BiodPAFCqtZzILnf0g=="
 ---

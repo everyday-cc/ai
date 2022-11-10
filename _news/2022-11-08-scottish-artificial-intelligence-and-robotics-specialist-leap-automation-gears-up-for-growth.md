@@ -2,9 +2,9 @@
 category: news
 title: "Scottish artificial intelligence and robotics specialist Leap Automation gears up for growth"
 excerpt: "AN Aberdeen business which specialises in artificial-intelligence-enabled robotics for food companies is aiming to double its workforce following a fundraising. Leap Automation, founded in 2018 by Ben Bamford and Ben Stuart, said it had recently received a ..."
-publishedDateTime: 2022-11-08T05:06:00Z
-originalUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/"
-webUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/"
+publishedDateTime: 2022-11-08T07:53:00Z
+originalUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/?ref=rss"
+webUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/?ref=rss"
 type: article
 quality: 58
 heat: 58
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "IvKdX16gTx5PildAB5f1wFWM/zmhqWq0QvseCNQ92jzmXFTKNorR3B2yedpdJMcXvKRVxzvaYQD1oWYCpT98mlahxtNvLk1Dt+cQGf4gbbyy0OpqWw+tGJ8UQV5H53yRGrHXp2e5syApQIJ6HxLs8JbheQBa4LIblZHsAdNzV0SCwbnveqhqucSGUCUiaIYJgdO3GZTl2s2KOwQxbDfi/n5yHnq1bH4hlgglNPMkHAsOh7DMks+el4f/bakK6s03kcF43vjRJg/9Utlc/QkmA0UBmUb9Y5OFvIAyZNsyB0BsN4dZfSAkGk1r5UeRitHVid2pK8iKtWTZMlVPm4V76s0p5SFXdE83HxB5NoWnFxc=;2vz9AJ+VsKhrDp/B289OuQ=="
+secured: "Yvu81L0bAhTmVhhNoqY9KtAm6kYZTUUoRVmUWdvQbvUGy0EaKFPxV2n8YgcJOICynPCkTAGZplLhiqdxCQFtu3ZFn1zi/AwvUOB9A726wfcFoP1U6MuiLKpbMBmLYkgEZ/pm1gCmLUNBE2NKFrqN2ee3T+4DcEefFvzgBnI49wjKjVHJazgDJS2T+yUxlIrO4f+8rareR3lZUoCQ6DEYjm68JZlWGE3sAcvNc3EhPT70XQPBC2hPZvk7zAfIj8Q4EXWQCDXFN4aWc5gnTRtSoY6Ql3casTzlOjO77TLkUDFW3sO7GtXvBiECx2O1mxwTAYrzoJ73+M1MdlbWJ12HoCbmKWzjbD1cneh39/l1DvE=;CxLp6CcGNC7eZnIwfXo/Aw=="
 ---
 

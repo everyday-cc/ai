@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae"
-excerpt: "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 /PRNewswire/ -- Luxonis, a Colorado -based robotic vision platform, is thrilled to introduce rae,"
-publishedDateTime: 2022-11-09T19:00:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/09/9709747.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/09/9709747.htm"
+excerpt: "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled"
+publishedDateTime: 2022-11-09T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae"
+ampWebUrl: "https://www.benzinga.com/amp/content/29641695"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Robotics
 
-secured: "aHdyXVw0ONqDCUjokwB0s4Y/390qcwxmbVt1lkt3N7qPUrAF4B8lLVluLegXgACKFzCFjjLvUIWeV5hbthSPDYqlI6jLF2N4B5D6zWR/yicG2xC9XOTVuEN8poNesLhr/8nqnSYF3q374qx5PXb6nQdJPhPADJy8TfcAPRy933qOSHJqaEZs472GWb26a8U11CVC+Z96yFeQh5FH078DM0OqMiHNZgAvYe1tk0Bwmtzsw+m6te78RPrJi9uUhP3c3FVnEiO9kHZWek3gXFy2X+vx2Poh3IuD2hZ5eg3IQ3kXrwQ1fYCxatkRtTNTBuKNVqDqR5qnvZ1f8TNrApTpeikOImcrUvsYWZWVxbnXQgw7GXCEOXbjrKm4z6dwHeOTxMdXUzHsEAvFEs9FB/tPF8XAQHkwrtwX8wStIOtUmR1XWIYMeru3KoriELBdmJH09GCn7vmsvB8eAncPt1HHx7AzzncNXPRA9wqdXkShKEsZTRkkRcrMqIv6lSylrOz1kzV2gwUwn++W0DTK/sQDUQ==;48EpQaATCUIzTOSDpKmkRg=="
+secured: "baPUvBi85Oigsl2TTS4PS8lryLQeDpd3Z6DMaIHzKrqupiia46qGTUdkoAGWqektm1MfzEzgkrqWoJ9JezukZIEALOB73oR1SGCL9tPPEGka823vU3eKI5WBNLaJF6LGWCdA7agJCDofXjDa0fTSFRc2scqb+MiBuGn3Zw8s+MB+xsdD00uQBB2TlPs1d0DAH3LZUG7Yp2Evc9GV2tLoerjgyv13R88ot1FTNjsp0odLAtnIhGPfSnsMn0xIdwqYd9LFFfFVSVQmtOFiv72wL8xBasi3up+AwIegs5eOBvrmu9UW7IMviu6zcFYcal1pxIpfSK3kZmKFfTdGYBOBbQkfI4eB1D4tl3+oN7DitH8=;63Y5C0/pEQYmhjg4D6onFg=="
 ---
 
