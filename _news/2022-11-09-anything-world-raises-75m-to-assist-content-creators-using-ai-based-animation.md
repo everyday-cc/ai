@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/"
 type: article
 quality: 83
-heat: 85
+heat: 86
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/411428/cloud-and-conversational-ai-the-t
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/411428/cloud-and-conversational-ai-the-twin-pillars-of-success-for-todays-contact-centers.html/amp/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 529
     isCached: true
+
+related:
+  - title: "How conversational AI can remove sensitive information from contact center calls"
+    excerpt: "Conversational AI technology is commonly associated with human interactions with bots, but that's not the approach that Interactions has largely taken."
+    publishedDateTime: 2022-11-10T14:38:00Z
+    webUrl: "https://venturebeat.com/business/how-conversational-ai-can-remove-sensitive-information-from-contact-center-calls/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
 
 secured: "kyxYIK72HHDxN/6l78TGOFvudcgnM4FJrr1TS67KfVI1s04Q3B6bnVBT4OVi4i42V8k9WCGq/mkVigIScOh5MBA5XpCIAF1XJbQuQTknQHfYiXCOTsUIqoCL6NZR9tBPMq47pMOqFrDzSzGusC8WX93HajHTVx/pygkNDnLlc2EQLkqpxcl2btsBNGTcPSFv2GYKqIIyXVB6P6mWFeR66ELNz2zQLXKxAj6LAAcLJdXc9wViyryuYiznSPWFlm9uRZVySTRcwHdpnoCGaz/go1ZENFC9NL0YEeohPcjzPfO/ASZUwOdP5Ynvy7a6AfuOFIoZLE6TzHgS3FsIQY3UjvSiw8unG1EBRCwiFRIOCZU=;dpHvEKPX+VaDnJCBPa5vuQ=="
 ---

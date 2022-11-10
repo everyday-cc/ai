@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T12:56:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-stormforge-extends-kubernetes-efficiency-scale-more-enterprises-than-/2022/11/10/9710341.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-stormforge-extends-kubernetes-efficiency-scale-more-enterprises-than-/2022/11/10/9710341.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

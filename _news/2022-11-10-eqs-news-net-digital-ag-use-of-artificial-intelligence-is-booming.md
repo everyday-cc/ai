@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "EQS-News: The Market Votes: Amesite Releases Study of E-Learning Success For Global Company"
+    excerpt: "The company uses machine learning to offer a mass customized experience to learners. Its customers include businesses, universities and colleges, K-12 schools, and non-profit organizations. The company was incorporated in 2017 and is headquartered in ..."
+    publishedDateTime: 2022-11-10T15:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-the-market-votes-amesite-releases-study-of-e-learning-success-for-global-company-1031899347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
+
 secured: "ZqdnDHcWXNOxjwSkKe280P0BwTKWfneWUxcJ5dKOhtcu+tvKHGVe22cXpWyKQnljQ516fYVkzipUmHOS06hOc/iSHzdoctewRgkNZj2e1Wmp2B/mwzWBZLHK65+9UCObw0ZYtxWztq9kcw9EshBLV3CCs1VrZXCa3h+DFVeWqHLLUIaujgaOlp86Vre1zaNoMYfGhE+zyoHv4/FubeF6RB/Kh3hFMWZTYAVJTLX1JB0Arox7rbkTGo6hpZF4J9nAo9qfRV7Goqrc6B7EzIHfhpu+amQijrITd8zgdxqHQqixUrXZLikwOHLVuM0CGe71CVq5iBet4EOFPHDKw2fIooszKQh2peVuOxUkULMP6FQ=;L0Nu4HYyswuDHS9Fbrpivg=="
 ---
 

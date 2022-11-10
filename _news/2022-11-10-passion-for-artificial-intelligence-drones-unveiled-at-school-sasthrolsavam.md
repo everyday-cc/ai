@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:13:00Z
 originalUrl: "https://www.thehindu.com/news/cities/Kochi/passion-for-artificial-intelligence-drones-unveiled-at-school-sasthrolsavam/article66120337.ece"
 webUrl: "https://www.thehindu.com/news/cities/Kochi/passion-for-artificial-intelligence-drones-unveiled-at-school-sasthrolsavam/article66120337.ece"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Hindu

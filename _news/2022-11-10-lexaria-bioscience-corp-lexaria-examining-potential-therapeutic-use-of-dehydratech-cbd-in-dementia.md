@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:33:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57551547-lexaria-bioscience-corp-lexaria-examining-potential-therapeutic-use-of-dehydratech-cbd-in-dementia-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57551547-lexaria-bioscience-corp-lexaria-examining-potential-therapeutic-use-of-dehydratech-cbd-in-dementia-200.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten

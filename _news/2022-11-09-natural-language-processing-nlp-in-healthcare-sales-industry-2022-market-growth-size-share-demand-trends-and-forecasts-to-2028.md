@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09"
 type: article
 quality: 87
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Software Market Trends, Size, Share, Growth, Industry Analysis, Advance Technology and Forecast 2027"
+    excerpt: "Video & image recognition segment to register largest market size during the forecast period Edge AI software is segmented based on data source into video and image recognition, speech recognition, iris & facial data,"
+    publishedDateTime: 2022-11-09T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-software-market-trends-size-share-growth-industry-analysis-advance-technology-and-forecast-2027-2022-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Federated Learning Solutions Market – High Growth Prediction Due To Increasing Demand and Future Trends"
     excerpt: "As per the report published by Fior Markets, the Federated Learning Solutions market is expected to grow from USD 91.5 Million in 2020 to USD 210.86 Million by 2028, at a CAGR of 11% during the forecast period 2021-2028."
     publishedDateTime: 2022-11-09T10:28:00Z
@@ -168,6 +177,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Iot Market Size Projected To Discern Stable Expansion On Outlook, Size, Share, Future Growth And Forecast 2022-2031"
+    excerpt: "The global Artificial Intelligence (AI) in the IoT market is expected to grow at a CAGR of 27.3% during the forecast period<br />However, during"
+    publishedDateTime: 2022-11-10T11:36:00Z
+    webUrl: "https://menafn.com/1105161741/AI-In-Iot-Market-Size-Projected-To-Discern-Stable-Expansion-On-Outlook-Size-Share-Future-Growth-And-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"
+        width: 394
+        height: 250
+        isCached: true
   - title: "Face Recognition Technology Market Share 2022: Top Companies, Industry Current Trends, Application, Growth, Development, and Forecast to 2028"
     excerpt: "Face Recognition Technology Market”research report provides an in-depth analysis that is segmented on the basis"
     publishedDateTime: 2022-11-07T08:29:00Z
@@ -177,20 +200,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
-  - title: "AI In Iot Market Size Projected To Discern Stable Expansion On Outlook, Size, Share, Future Growth And Forecast 2022-2031"
-    excerpt: "The global Artificial Intelligence (AI) in the IoT market is expected to grow at a CAGR of 27.3% during the forecast period<br />However, during"
-    publishedDateTime: 2022-11-10T11:36:00Z
-    webUrl: "https://menafn.com/1105161741/AI-In-Iot-Market-Size-Projected-To-Discern-Stable-Expansion-On-Outlook-Size-Share-Future-Growth-And-Forecast-2022-2031"
+  - title: "Global Face Recognition Speed Gate Market Size and Overview Report 2022 by Recent Developments, Industrial Trends, Top Vendors and Forecast to 2028"
+    excerpt: "Nov 10, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Speed"
+    publishedDateTime: 2022-11-10T05:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-speed-gate-market-size-and-overview-report-2022-by-recent-developments-industrial-trends-top-vendors-and-forecast-to-2028-2022-11-10"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"
-        width: 394
-        height: 250
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
   - title: "GPU as a Service Market 2022 | Current and Future Demand, Analysis, Growth and Forecast By 2032"
     excerpt: "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),"
     publishedDateTime: 2022-11-07T04:58:00Z

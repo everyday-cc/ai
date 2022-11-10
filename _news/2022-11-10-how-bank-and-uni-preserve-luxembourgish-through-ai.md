@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T13:02:00Z
 originalUrl: "https://delano.lu/article/how-bank-and-uni-preserve-enda"
 webUrl: "https://delano.lu/article/how-bank-and-uni-preserve-enda"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Delano

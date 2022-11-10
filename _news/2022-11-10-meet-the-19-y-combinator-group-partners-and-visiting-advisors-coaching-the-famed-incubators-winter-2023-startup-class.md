@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:00:00Z
 originalUrl: "https://www.businessinsider.com/ycombinator-19-group-partners-visiting-group-partners-accelerator-startups-2022-11"
 webUrl: "https://www.businessinsider.com/ycombinator-19-group-partners-visiting-group-partners-accelerator-startups-2022-11"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Business Insider

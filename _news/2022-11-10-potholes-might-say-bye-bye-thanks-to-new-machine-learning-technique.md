@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:00:00Z
 originalUrl: "https://www.labroots.com/trending/technology/23951/potholes-bye-bye-thanks-machine-learning-technique-2"
 webUrl: "https://www.labroots.com/trending/technology/23951/potholes-bye-bye-thanks-machine-learning-technique-2"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Labroots

@@ -29,8 +29,8 @@ images:
 related:
   - title: "Here's why the founder of lidar pioneer Velodyne's agrees with Elon Musk that the technology is a bad bet"
     excerpt: "David Hall is the definition of a lidar expert. Here's why he thinks the company he founded and the bigger industry are doomed."
-    publishedDateTime: 2022-11-09T06:30:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html"
+    publishedDateTime: 2022-11-09T13:30:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html"
     type: article
     provider:
       name: The Business Journals

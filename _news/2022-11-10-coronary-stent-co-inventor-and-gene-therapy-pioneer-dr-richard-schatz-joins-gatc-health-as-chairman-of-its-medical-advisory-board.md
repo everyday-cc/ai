@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:12:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/coronary-stent-co-inventor-and-gene-therapy-pioneer-dr-richard-schatz-joins-gatc-health-as-chairman-of-its-medical-advisory-board-1031898560"
 webUrl: "https://markets.businessinsider.com/news/stocks/coronary-stent-co-inventor-and-gene-therapy-pioneer-dr-richard-schatz-joins-gatc-health-as-chairman-of-its-medical-advisory-board-1031898560"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Business Insider

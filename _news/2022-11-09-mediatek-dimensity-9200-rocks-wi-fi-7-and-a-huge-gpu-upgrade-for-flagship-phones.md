@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: HotHardware
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Dimensity 9200 with Cortex-X3 CPU, Immortalis-G715 GPU, UFS 4.0, Wi-Fi 7 support announced"
-    excerpt: "MediaTek just announced Dimensity 9200, the company’s latest flagship SoC, as it had promised. It is the first to use second-generation TSMC’s 4nm process tech that has a better heat dissipation package design and the CPU peak performance power consumption reduced by 25%,"
-    publishedDateTime: 2022-11-08T03:12:00Z
-    webUrl: "https://www.fonearena.com/blog/378137/mediatek-dimensity-9200-specs-features.html"
-    ampWebUrl: "https://www.fonearena.com/blog/378137/mediatek-dimensity-9200-specs-features.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378137/mediatek-dimensity-9200-specs-features.html/amp"
+  - title: "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements"
+    excerpt: "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+."
+    publishedDateTime: 2022-11-10T05:48:00Z
+    webUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html"
+    ampWebUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
     type: article
     provider:
       name: FoneArena
       domain: fonearena.com
-    quality: 45
+    quality: 74
     images:
-      - url: "https://images.fonearena.com/blog/wp-content/uploads/2022/11/MediaTek-Dimensity-9200.jpg"
-        width: 693
-        height: 500
+      - url: "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg"
+        width: 839
+        height: 471
         isCached: true
   - title: "MediaTek Dimensity 9200 debuts — can it take on Snapdragon phone chips?"
     excerpt: "MediaTek unveiled its latest flagship system-on-chip today (November 8), promising better performance and improved power efficiency for Android phones that adopt the new silicon. Now the only question is whether MediaTek's new Dimensity 9200 can make a splash outside of the markets where the chip maker currently thrives."

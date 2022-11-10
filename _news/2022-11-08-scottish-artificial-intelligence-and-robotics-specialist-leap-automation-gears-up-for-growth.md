@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T05:06:00Z
 originalUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/"
 webUrl: "https://www.heraldscotland.com/business_hq/23108200.scottish-artificial-intelligence-robotics-specialist-leap-automation-gears-growth/"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: heraldscotland

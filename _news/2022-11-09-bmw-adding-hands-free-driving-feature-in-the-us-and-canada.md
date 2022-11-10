@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Driving The 2023 BMW 7 Series - Exceptional Luxury And Creeping Featuritis"
-    excerpt: "BMW 7 series is now available with a choice of 6 or 8 cylinder mild hybrid drivetrains or as an all electric i7 with up to 318 miles of range. It drives better than its 3-ton mass would suggest, but p"
-    publishedDateTime: 2022-11-05T23:00:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/"
+  - title: "BMW Partners With HERE To Enable Hands-Free Driving In The U.S. And Canada"
+    excerpt: "HERE’s HD Live Map will be integrated into additional BMW models as the German automaker increases the capabilities of its self-driving systems across its range. “We’re delighted to see our HERE HD Live Map enable automated driving at Level 2+ for ..."
+    publishedDateTime: 2022-11-06T23:29:00Z
+    webUrl: "https://www.carscoops.com/2022/11/bmw-partners-with-here-to-enable-hands-free-driving-in-the-u-s-and-canada/"
+    ampWebUrl: "https://www.carscoops.com/2022/11/bmw-partners-with-here-to-enable-hands-free-driving-in-the-u-s-and-canada/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/bmw-partners-with-here-to-enable-hands-free-driving-in-the-u-s-and-canada/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: Carscoops
+      domain: carscoops.com
+    quality: 42
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6366c597c7ce31316a13b51b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 795
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Autonomous-Vechile-3.jpg"
+        width: 1920
+        height: 1278
         isCached: true
   - title: "2023 BMW 7-Series gets hands-free driving mode for highways"
     excerpt: "Comment Now! BMW's 7-Series has been redesigned for 2023, and the latest generation brings with it a hands-free driving system for highways"

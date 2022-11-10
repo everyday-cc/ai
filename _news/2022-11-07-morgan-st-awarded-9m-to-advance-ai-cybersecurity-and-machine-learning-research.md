@@ -49,6 +49,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Fighting Fire With Fire: AI on Both Sides of the Cybersecurity Battlefield"
+    excerpt: "Defending organizations utilize AI-powered email security measures to enhance network protection, detect advanced malware and ransomware, optimize critical data center processes, improve threat response times,"
+    publishedDateTime: 2022-11-10T14:00:00Z
+    webUrl: "https://www.cpomagazine.com/cyber-security/fighting-fire-with-fire-ai-on-both-sides-of-the-cybersecurity-battlefield/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 15
 
 secured: "T2DHg6rYGDOJ7FYrIX7M6jx5Jw4JLivrYoCqjDJVC9Vxr5Odcvy+Ayr8epd9VVZMn787aXm8fdxsP5wH96Nd5s8F7vc0dhua5FrlRRAzj/OKZME0PsBcnA4CwdrLlP9NgVAsOCmXI2B3luK5Kd0YgMeSdcRlJiqmsbx3rhfoCSbljLHvAisuxf5qWjnQ/QHFOspGJIbVr0vWo4d46nn14dyp8nyM0yXlh2r5IXsJEgc83bK/uS6xmpYTjmNEtsM2ox/BHWqTMqhEtTMoAeix4bCCKlzEGOzZL+Q4w1hjB8hMAGP7WKLAM55jW2BveKaf+hMo7tiVP/cRbsj3+2fulFzbM3xgLrcSisKPSIcBuxY=;OfaIkQsor9tKf2LAsb8pCw=="
 ---

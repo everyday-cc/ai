@@ -29,20 +29,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 66
-  - title: "Microsoft wants AI to change your job"
-    excerpt: "Microsoft executives told Bloomberg the company has plans to develop the Copilot technology for use in similar programs for other job categories, like office work, video-game design, architecture and computer security."
-    publishedDateTime: 2022-11-05T22:11:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 56
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2022/11/392940529-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Why OpenAI Spent Barely a Dime on Microsoft’s Cloud After $1 Billion Deal"
     excerpt: "When Microsoft in 2019 said it had invested $1 billion in OpenAI, the high-profile artificial intelligence startup agreed to develop its products exclusively using Microsoft’s Azure cloud servers. It appeared to be a big win for Microsoft Azure in its battle against rivals such as Google Cloud"
     publishedDateTime: 2022-11-07T23:25:00Z
@@ -65,6 +51,15 @@ related:
     provider:
       name: The Information
       domain: theinformation.com
+    quality: 34
+  - title: "Tomahawk Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor"
+    excerpt: "Tomahawk Robotics, a provider of common control solutions, has successfully hosted Microsoft Azure SDK on its KxM edge device."
+    publishedDateTime: 2022-11-10T15:42:00Z
+    webUrl: "https://www.iotevolutionworld.com/fog/articles/454021-tomahawk-hosts-microsoft-azure-sdk-kxm-body-worn.htm"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
     quality: 34
   - title: "Informatica Expands Cloud-Native Master Data Management to Asia with Microsoft Azure"
     excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, today announced that the company is expanding its Software-as-a-Service (SaaS) v"

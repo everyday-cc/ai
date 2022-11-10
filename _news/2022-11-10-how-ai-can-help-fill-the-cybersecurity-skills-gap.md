@@ -50,6 +50,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 29
+  - title: "Fighting Fire With Fire: AI on Both Sides of the Cybersecurity Battlefield"
+    excerpt: "Defending organizations utilize AI-powered email security measures to enhance network protection, detect advanced malware and ransomware, optimize critical data center processes, improve threat response times,"
+    publishedDateTime: 2022-11-10T14:00:00Z
+    webUrl: "https://www.cpomagazine.com/cyber-security/fighting-fire-with-fire-ai-on-both-sides-of-the-cybersecurity-battlefield/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 15
 
 secured: "tMUpPjO+ePM+j+8ylqbIk5rjvcg7vDFpjH8FLaB26op6VZaCFqKDMXJG4t23GeMwSHFQ8/8WQZJCsyjLGtg6sqAG3bT2eCrR9NIhLiesVnj85cIe9pKR4uW8YVOfGciQwLQIP9LPwU72jz2JSqCuuSFVKsGst05FEOXgwo5epJpFvkZavE9xB0uVVVOeh318sHl0dqOoolqDKkWzo+vtdOFgD01Xr0+rPMUL0LZpjYofF7RffHhzJmb4lrlAOlWhr2P7Uw4xbS06WReUlSw/ZVgDscNq04P5IOQGybrI3j9nBnLWPxjhmNS/fdLt6e/luFMjATU47mZJat1WNMJayt0FmJcuLG6NGhO6BQkVxWBD9QhdwSzFz5sfr0p4CXxONf9zlDmBBrGxEGRS5HpgqP5q1ZWuDSZqNrR6oayJ1Y+dvNgGWCnNjaxNnbyPurYQPw9JFkpgN8GGBE0OWVmXEE+zAM+Seo1hZoVsa76B0e4pDoIfoHn5R0DFlQ3ltPkHxFyqelXRYsOY0gfsqngaPQ==;GQpOB38nWur6rIw+/S7WpQ=="
 ---

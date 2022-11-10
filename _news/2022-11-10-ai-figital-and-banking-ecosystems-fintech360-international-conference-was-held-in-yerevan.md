@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T13:48:00Z
 originalUrl: "https://arka.am/en/news/business/ai_figital_and_banking_ecosystems_fintech360_international_conference_was_held_in_yerevan/"
 webUrl: "https://arka.am/en/news/business/ai_figital_and_banking_ecosystems_fintech360_international_conference_was_held_in_yerevan/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Arka

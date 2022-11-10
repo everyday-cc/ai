@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T12:23:00Z
 originalUrl: "https://www.sourcesecurity.com/news/lenels2-expands-artificial-intelligence-portfolio-hakimo-co-951-ga-co-1042-ga-co-1508-ga-co-1586165677-ga-co-1637761998-ga.1668081671.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/lenels2-expands-artificial-intelligence-portfolio-hakimo-co-951-ga-co-1042-ga-co-1508-ga-co-1586165677-ga-co-1637761998-ga.1668081671.html?ref=nav"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: SourceSecurity

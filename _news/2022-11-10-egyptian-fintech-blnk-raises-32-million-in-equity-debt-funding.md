@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:13:00Z
 originalUrl: "https://www.wamda.com/2022/11/egyptian-fintech-blnk-raises-32-million-equity-debt-funding"
 webUrl: "https://www.wamda.com/2022/11/egyptian-fintech-blnk-raises-32-million-equity-debt-funding"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: wamda

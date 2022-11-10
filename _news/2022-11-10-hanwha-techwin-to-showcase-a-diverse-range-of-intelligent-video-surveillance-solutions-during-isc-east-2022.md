@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:34:00Z
 originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/hanwha-techwin-showcase-diverse-range-intelligent-co-9381-ga.1668082829.html"
 webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/hanwha-techwin-showcase-diverse-range-intelligent-co-9381-ga.1668082829.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity
