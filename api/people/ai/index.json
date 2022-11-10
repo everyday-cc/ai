@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 115213336
+        "followers": 115229689
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -51,11 +51,11 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 2034346
+        "followers": 2035072
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
-        "citations": 3450
+        "citations": 3454
       },
       "affiliation": {
         "path": "",
@@ -101,7 +101,7 @@
       "twitter": {
         "username": "ID_AA_Carmack",
         "url": "https://twitter.com/ID_AA_Carmack",
-        "followers": 994830
+        "followers": 994967
       },
       "affiliation": {
         "path": "",
@@ -138,7 +138,7 @@
       "twitter": {
         "username": "karpathy",
         "url": "https://twitter.com/karpathy",
-        "followers": 555486
+        "followers": 555524
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716/"
@@ -175,7 +175,7 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 77453
+        "followers": 77451
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
@@ -233,7 +233,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 31969
+        "followers": 31996
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -273,7 +273,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 131939
+        "followers": 131952
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -319,7 +319,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=bEcLezcAAAAJ",
-        "citations": 14145
+        "citations": 14164
       },
       "affiliation": {
         "path": "",
@@ -355,7 +355,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 363293
+        "followers": 363305
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -401,11 +401,11 @@
       "twitter": {
         "username": "chelseabfinn",
         "url": "https://twitter.com/chelseabfinn",
-        "followers": 49586
+        "followers": 49589
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1xw2vTsAAAAJ",
-        "citations": 26654
+        "citations": 26706
       },
       "affiliation": {
         "path": "",
@@ -439,7 +439,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 153661
+        "followers": 153663
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -621,7 +621,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 273993
+        "followers": 273995
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -691,7 +691,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 10335
+        "followers": 10337
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -1015,14 +1015,14 @@
       "twitter": {
         "username": "clmt",
         "url": "https://twitter.com/clmt",
-        "followers": 11119
+        "followers": 11122
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/clementfarabet"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 10399
+        "citations": 10405
       },
       "affiliation": {
         "path": "",
@@ -1059,7 +1059,7 @@
       "twitter": {
         "username": "rosalindpicard",
         "url": "https://twitter.com/rosalindpicard",
-        "followers": 12505
+        "followers": 12506
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
@@ -1168,7 +1168,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 243876
+        "citations": 243945
       },
       "affiliation": {
         "path": "",
@@ -1203,7 +1203,7 @@
       "bio": "Professor of Computer Science, National Chiao Tung University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_0PCbyUAAAAJ",
-        "citations": 53858
+        "citations": 53874
       },
       "affiliation": {
         "path": "",

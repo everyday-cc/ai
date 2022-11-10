@@ -14,11 +14,11 @@ website: https://t.co/R71YZ0CUzE
 twitter:
   username: chelseabfinn
   url: https://twitter.com/chelseabfinn
-  followers: 49586
+  followers: 49589
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1xw2vTsAAAAJ
-  citations: 26654
+  citations: 26706
 
 topics:
   - AI
