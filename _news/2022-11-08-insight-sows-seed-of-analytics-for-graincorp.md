@@ -79,6 +79,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "AI and data analytics may not be as complicated as it seems"
+    excerpt: "Artificial Intelligence (AI) is built on data. Yet, many organizations are still finding it hard to implement AI properly to make the most out of their"
+    publishedDateTime: 2022-11-10T00:42:00Z
+    webUrl: "https://techwireasia.com/2022/11/ai-and-data-analytics-may-not-be-as-complicated-as-it-seems/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/pexels-jeshootscom-530024-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Vizit, a Boston image analytics software startup, raises Series A"
     excerpt: "The company analyzes the online interactions consumers have with commercial imagery. It uses those interactions and AI to build artificial consumer audiences to test visuals for companies. Jehan Hamedi, a 2022 Boston Business Journal 40 Under 40 honoree ..."
     publishedDateTime: 2022-11-07T15:35:00Z

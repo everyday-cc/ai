@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Clarifai Named a \"Leader\" in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment"
-excerpt: "Clarifai was named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment (doc #US49776422, November 2022) report. Clarifai offers a leading artificial intelligence platform that combines computer vision,"
-publishedDateTime: 2022-11-09T22:52:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/09/9709855.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/09/9709855.htm"
+excerpt: "Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment (doc #US49776422, November 2022) report."
+publishedDateTime: 2022-11-09T19:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29645072/clarifai-named-a-leader-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-p"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29645072/clarifai-named-a-leader-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-p"
+ampWebUrl: "https://www.benzinga.com/amp/content/29645072"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29645072"
 type: article
-quality: 3
-heat: 3
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
-secured: "BlJRLxuP+/klBtGeNVs1g/pav91LbWIWTl5YVDVNx71eAdqgocDoPxVPxKo7YY3qdOqP1JK71r/Wj3Rr5Uj4yoa+vciUI9dqxYxbe9CB8aJF913rOnJhkwX7fSPkk42NAdIeSMkNrnls8OmTcQJ6N1TYRarQcMaQfVzbytP5U+DoVq6+yaEGvscm2w4ffGKI4w5UeVZ4pEUcBfa5w9KB8MBqJqUjb318MZlxqc/eQIpnica54Efg7jjzr8u2eKcEGvmct50IKDuAypscCJU9vu5J1cELGyDSkZi1YaohQK6Jq9Egd9qj8zqbjMXoneYlQL9v1KelEv77bM+Ive0hN/xnWiozs/gbcxPvK7uQQ0E=;ADFswLASVljLHgy60FmyDA=="
+secured: "y4HAmaB7+yMcihfd7PqvPftLmyAEhy0KWvWU+XNeKu2h8CHT0mWPJ/HCuPC7Iu2aF2rSOv5mEJxnFJEdI9souMx/glyJlLsqrq90SbdPE87ZUAXxs8Xi/XGT0rj+g0RPLXMc++KCAGlAu6RFkxNhHEjqlpLN8/0sD4GWkANUYO8AtFVsXCHeBljKqv7+ljXzEm1+uDBLRM6W3f2yvHA72igxLYQCl95hxlpHR46LWIWUR+ybw1/uK/8Pqb4zCf1MxR6FdjexBROHAF9hUXu7h7rn9G89Z/un35zm2/dAciBP/TVaICMLh9aDNNa2HnzltItB15s5HpqnZ78utpMbGvvi0A4hUs4KQ0VHqnQWFiQ=;FO4g3tpRiLMGdWINZu6GIQ=="
 ---
 

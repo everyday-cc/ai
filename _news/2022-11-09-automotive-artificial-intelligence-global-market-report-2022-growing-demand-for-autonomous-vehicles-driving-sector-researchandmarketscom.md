@@ -42,6 +42,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Digital Cities 2022: Up to 75,000 Population Category"
+    excerpt: "Honorees in this year’s Digital Cities Survey from the Center for Digital Government elevated their municipalities’ resilience, while bolstering services and prioritizing engagement with their residents."
+    publishedDateTime: 2022-11-10T00:42:00Z
+    webUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category"
+    ampWebUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
   - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
     excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
     publishedDateTime: 2022-11-08T08:32:00Z

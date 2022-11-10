@@ -3,8 +3,8 @@ category: news
 title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
 excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
 publishedDateTime: 2022-11-09T11:32:00Z
-originalUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
-webUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+originalUrl: "https://uk.pcmag.com/graphics-cards/143729/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+webUrl: "https://uk.pcmag.com/graphics-cards/143729/nvidia-cripples-a100-gpu-performance-for-chinese-market"
 type: article
 quality: 69
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_k2sb.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_ny67.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -219,6 +219,6 @@ related:
       domain: hothardware.com
     quality: 34
 
-secured: "jG84a+/DjvE6ZxVywEFerArc6h7xnu4pYGCBRf/cujb/IuMYt+jOLDR9AdNufO01U8TDSI9mVIeZubAb3PugYx4g0Pxi639xXCPX06s5fbBk8Uun9EfxIt/tJurMVemALyvjdV88yQl67pKhdx643TO9NrrZof4DBxin4UVKKF8K7x/qevmxPAVdmdffHhlfc5c93fRrTSSvIIayK7Ut9KNDMU0MZgM0cJ4PsFXnu0tartvsWbzB6/U4hX1LkjjiiL5A2JHitq5XYwNaiT+ZxFMFi+PKnZhV1De5CsKliY7Hih+pzfK1mhdqStQN/PBOCVq+yV6Nkizd5UmvKLvHd1kfOBxq2pG8QHktD8sBf94=;pxnvjJ4NTvnujhXli8j/ug=="
+secured: "4k1gSsmuLrDm8KwyYM5UtAwrhU3JBvRi/BW5OKC6CC6Njtw7ikTZw7lw+j7pe6OMxCjLSyq2z8s5aiYdOr6kaK45+QA5mPoAgxEozyhY7zXtwUu6jfD67XFwLDeqtYD00dx/rfBZbVdvX/wJrFQFJ1iWHa0m+8UKJ7eT4hArVa+svbfAN1ZaZgsuVsbN5VyfIfrrPyewpRjIQOcEduhlKrC9pmVcWzvCX5TCpazQJqwQIpTeu9xbYngoWGwNAC9KiukfOvAoU/ICO7aZRhDvDNiB8ZeElyWXUi22apvjNgalEREl7hW5NZhVIzPWjaBmTuNizg2E8ya9bHmpKak8BmnmS957RveNZyZoltls6M4=;8NAMmtS0oxoFI6+PADHOaQ=="
 ---
 

@@ -50,15 +50,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
-  - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
-    excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
-    publishedDateTime: 2022-11-07T13:54:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2022/11/07/lord-lucan-australia-pensioner-exact-match/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 26
   - title: "Is Lord Lucan still ALIVE... and hiding in AUSTRALIA? Bombshell report claims aristocrat who vanished after 'nanny was bludgeoned to death in London' 48 years ago has 'EXACT ..."
     excerpt: "An 87-year-old Buddhist who lived in Nepal before moving Down Under is said to be a 'definite match' for British aristocrat Lord Lucan, according to leading expert Professor Hassan Ugail."
     publishedDateTime: 2022-11-07T02:00:00Z

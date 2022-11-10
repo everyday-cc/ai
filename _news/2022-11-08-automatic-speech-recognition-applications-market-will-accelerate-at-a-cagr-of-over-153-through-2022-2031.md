@@ -48,6 +48,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Digital Cities 2022: Up to 75,000 Population Category"
+    excerpt: "Honorees in this year’s Digital Cities Survey from the Center for Digital Government elevated their municipalities’ resilience, while bolstering services and prioritizing engagement with their residents."
+    publishedDateTime: 2022-11-10T00:42:00Z
+    webUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category"
+    ampWebUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
   - title: "Self-Driving Bus Market 2022 Business Development, Size, Share And COVID-19 Impact Analysis 2028 | Tesla, Navya, Proterra X Herald"
     excerpt: "The Research report on“ Self-driving Bus Market Report 2022 – Future Opportunities, Latest Trends, In-depth Analysis, and Forecast to"
     publishedDateTime: 2022-11-08T10:27:00Z

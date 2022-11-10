@@ -79,6 +79,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "AI and data analytics may not be as complicated as it seems"
+    excerpt: "Artificial Intelligence (AI) is built on data. Yet, many organizations are still finding it hard to implement AI properly to make the most out of their"
+    publishedDateTime: 2022-11-10T00:42:00Z
+    webUrl: "https://techwireasia.com/2022/11/ai-and-data-analytics-may-not-be-as-complicated-as-it-seems/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/pexels-jeshootscom-530024-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Insight sows seed of analytics for GrainCorp"
     excerpt: "Insight Enterprises has built a cloud infrastructure to grow GrainCorp's analytics capability. Together, Insight helped design the infrastructure with a Microsoft Azure Data Lake and Databricks as the core computation drive."
     publishedDateTime: 2022-11-08T01:25:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas
 webUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas-full-self-driving-shortcomings/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla’s Full Self-Driving Struggles In Snow-Covered Edmonton"
+    excerpt: "Tesla’s Full Self-Driving technology splits opinion in many ways. People argue over the hardware it leverages, its cost, and even its name but what matters most is how it actually performs. In one test on snow-covered roads in Edmonton,"
+    publishedDateTime: 2022-11-09T21:38:00Z
+    webUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/"
+    ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/J1HROrNmlfg/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "The Dawn Project Launches Full-Page Ad in The New York Times Highlighting The Dangers Tesla Full Self-Driving Poses to Children"
     excerpt: "SANTA BARBARA, Calif., Nov. 9, 2022 /PRNewswire/ -- The Dawn Project has yesterday launched a full page advertisement in The New York Times highlighting the dangers of Tesla Full Self-Driving after safety tests reveal that it will repeatedly run down child ..."
     publishedDateTime: 2022-11-09T17:25:00Z
@@ -43,23 +59,7 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 19
-  - title: "Another headache for Elon: Full-page ad in New York Times claims Tesla poses 'life-threatening danger to children' after testing shows the self-driving system does not stop for ..."
-    excerpt: "As if Elon Musk did not have enough on his plate with Twitter, Tesla is now under fire in a full-page advertisement in the New York Times that warns its 'Full Self-Driving presents a life-threatening danger to child pedestrians.' The ad, which cost about $ ..."
-    publishedDateTime: 2022-11-07T20:40:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11400089/Full-page-ad-New-York-Times-claims-Tesla-poses-life-threatening-danger-children.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11400089/amp/Full-page-ad-New-York-Times-claims-Tesla-poses-life-threatening-danger-children.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11400089/amp/Full-page-ad-New-York-Times-claims-Tesla-poses-life-threatening-danger-children.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 19
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/11/07/20/64285167-0-image-a-11_1667853139615.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
-secured: "FxYbUOlKoRyTvgwwk6L1eWb0x/Q1+ERsuJh00CtTK0RvMT6m+FTgrBza4/IqPmharp17Ml23tlsDUFfm7pDeBGDmF5sHXhBpTMl3NwAEqd3mjmmAw2iEHRw+iaIVsG9pPWg7wS1n3lhRctb8TkH3U7euYn46s8usLZKQunnpxNQL4kmGRutaIZd5D7KU/4cNSCGri6uU/yDU4Z4MMcCAd7NXorj9GfYqfxNizLY4Vr7hD61U/Cb6xjgETI0LjK6vngr0/AREfIUM2Pu8jt51Txq/q9v1elx+vmK7NpedlqVZ9JKKTXAxvqhh2MTVwm/qhkfhFeM1lAOEg+L4gHo3bPycnMDTnd0JVFglvihvL3Y=;Yn+tg7dxXFJCrnVzksyVoQ=="
+secured: "ek9MFXMTg5+ohWZvDXAJV1s4UIX2kJDjzJLcAI26d4rmvIwoDpuk/JLpCz37PLa9u/LLvSADlwb+LGtuA3jWm01M8RK1xSGiVHO4wGMgcuz4oPgym3g1rLcVASbtoC6ziBaGg3Fx+1GssCxeUu3jSFnzaAklf2c+7ZgHdJigFFPSzqCJmL5BfhVhbvW/aG/zQkum85q1q4i6AAEnNeoQnThwbZQsIGmyq+2Uc4x47LwpyKWnN9x46qeEpW7A3eX+hQMiHTm8YR0DIjTjK0bv0ZxBC5/jdKN2qrSmsC8EoT8t7Zsv+MjYy8RbTUsOjgr9WLtTK3JjBk29dyFRw+jP/QCtyrOt37TH/Vhov64UzeX/9vtrFeaE0rMqegWAXONkjwwAFag8czHiKfMasydUVEGv8ScH/BDyU28D3M407TJk9SDgj+Ey1D7FJjQjnVSN1eB5gyZwDSkTCiC1jt7qbJ3vMp0HAkbKX7B6sIWfsAZRgCSkgTJDPTVn5Ak6iAd3b127ER6uDngplEQsQSHGQw==;MrbfTzlnM2PiqQ3ONOhlLQ=="
 ---
 

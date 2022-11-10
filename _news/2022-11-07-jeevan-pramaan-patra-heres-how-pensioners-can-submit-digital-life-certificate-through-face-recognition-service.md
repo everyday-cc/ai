@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How pensioners can submit life certificate through face recognition facility"
+    excerpt: "Union Minister Jitendra Singh launched the nationwide campaign for November and urged all pensioners to avail the facility of face authentication technology"
+    publishedDateTime: 2022-11-07T06:29:00Z
+    webUrl: "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility-11667799845560.html"
+    ampWebUrl: "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2022/11/07/600x338/Pensioners_1667802523496_1667802523707_1667802523707.PNG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Digital Life Certificate Submission Using Face-recognition System: Details Here"
     excerpt: "A digital service with biometric support, known as the Digital Life Certificate (Jeevan Pramaan), is available to pensioners. They have the opportunity to generate DLC using the Aadhaar-enabled biometric authentication method."
     publishedDateTime: 2022-11-09T12:06:00Z
@@ -75,6 +91,24 @@ related:
         width: 640
         height: 853
         isCached: true
+  - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
+    excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
+    publishedDateTime: 2022-11-07T13:54:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/11/07/lord-lucan-australia-pensioner-exact-match/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 26
+  - title: "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance"
+    excerpt: "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,"
+    publishedDateTime: 2022-11-09T13:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gbts-facial-body-recognition-patent-application-received-notice-/2022/11/09/9709242.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kr5vGmO9p7ch6rOfUAdqO2ARX2mpOoHkicU0485rHFX4myd8Zc9lktkhmVGbsfRu+b96RDwUuw9f2TCr7TTFVuNc2pF2BkBVA9oY/wa+xz/NgT1ktS2y9BKNCHFQCqN+ccoSLOZaIugatJ8cPHiYARCWdDGDSDidg6ys+Qt9xqOnudOyUBQL53QdvWQfvCbHr5k7ylSmX1c0x0vaKMWz++FgditFE8rwHHKun5XIzZV2KR/j1ky8ibG7VzjjmE+K2lQ/+YG/17URcT/86Ryqb4RaN5z/S2VKF3i0E9ZetmdRQIKPs3yeE1j9j2H0zGsolwJv1THjagRsGO6WBfMRT8MJbo6tXyZ5FifvDIE8ck0i7++UhrfbRAEp1092lMPFYpxFlqR2UEBEFXOGpKhnrnDiLs+7csPFURnJZSXttBw30IE//y9GuAEvU65kJhEi3l/z+sFH+twZxJkJKhcEVtK0mq7b4F+JQZmHPDvN3tJhQUqudHOMwHmGdfgvpu0RfQae4k8TVG4UlXjKC4d5Fg==;IvsVTElnnVcQvFp2jHW2GQ=="
 ---

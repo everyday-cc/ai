@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Tesla’s Full Self-Driving Struggles In Snow-Covered Edmonton"
+    excerpt: "Tesla’s Full Self-Driving technology splits opinion in many ways. People argue over the hardware it leverages, its cost, and even its name but what matters most is how it actually performs. In one test on snow-covered roads in Edmonton,"
+    publishedDateTime: 2022-11-09T21:38:00Z
+    webUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/"
+    ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/J1HROrNmlfg/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
     excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
     publishedDateTime: 2022-11-09T20:39:00Z
@@ -46,22 +62,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 19
-  - title: "Another headache for Elon: Full-page ad in New York Times claims Tesla poses 'life-threatening danger to children' after testing shows the self-driving system does not stop for ..."
-    excerpt: "As if Elon Musk did not have enough on his plate with Twitter, Tesla is now under fire in a full-page advertisement in the New York Times that warns its 'Full Self-Driving presents a life-threatening danger to child pedestrians.' The ad, which cost about $ ..."
-    publishedDateTime: 2022-11-07T20:40:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11400089/Full-page-ad-New-York-Times-claims-Tesla-poses-life-threatening-danger-children.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11400089/amp/Full-page-ad-New-York-Times-claims-Tesla-poses-life-threatening-danger-children.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11400089/amp/Full-page-ad-New-York-Times-claims-Tesla-poses-life-threatening-danger-children.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 19
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/11/07/20/64285167-0-image-a-11_1667853139615.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "2TAhAPIEe7IgLcsOrvWi57FQtY/obWfjXkBiqwL098GayTr92yNBySnKM8qEFjkHikY3vqNMxOm9YgEcF3/Q2not2TQnKE3mNKfzvjiUfXXI3EWGyZ/YnH9hj35u/l2Navs0abJb789mjFKigSvXGf2NI6z0WjOQWUh0HErCLf5jM/6NkAZPfGw5Ibtg8la7r4pX4M38F0EWSE/E4M1SqFxADAJJ/wNGzYpFmDvJQ6d7Y/oMsvVhTtVvZKGeVYPzZEv71LB1UCEtrXEdYL6Po3mcqO0NuewqfMEuIjpYZdyoeNvJMxbhTrBk8iojDjym8Wsv8VPhnZSBrNE9HQVd6tel2u04XHBPjmRf1gDynXY=;JAP1pOKu0WBkWCq8B2I7Ug=="
 ---
