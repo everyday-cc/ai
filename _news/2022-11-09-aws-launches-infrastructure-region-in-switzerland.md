@@ -1,23 +1,20 @@
 ---
 category: news
 title: "AWS Launches Infrastructure Region in Switzerland"
-excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
-publishedDateTime: 2022-11-09T08:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
+excerpt: "Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more than 2,500 full-time jobs annually through a planned investment of more than $5."
+publishedDateTime: 2022-11-08T19:40:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-launches-infrastructure-region-in-switzerland-122110900480_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-launches-infrastructure-region-in-switzerland-122110900480_1.html"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "XoZdfHI9ycoIzzW7/+74kLZhbV2G0FRwzEr+aJQXGswapNpQTUk7hVBmKP6O1GbNAHFD1zY0o47rC7Muqmgrzi8+Ww2vfrkXHyXInnhM8xCjoQIYbSIxHrF/s5fYFEdsxb54/mhHSTYUFpZEJwF/G3w+LPH32mjGRE3xAtYdEHcQQ1DS6HeXH6lT1p0LRFoqc3AVSAO/mtojv0VUW7ghq6XCLKdJ2OaU5iNnVkEloG4l6qCQaD5PIt3N8PvFFl/2u5/mqUgiSZ86tB7mx1ctigRExE+Sj6TMKzmK2ZVaOEI7SNIFwZtIhMZzbbq5/xiGHnD/pwJLsQKOtQt7i3TQGN4phiwY3bVANgH9Q3foE6M=;VfBErY3huzZnnR8oMam6Mg=="
+secured: "JXMBLHqK/753XsCXp064dANPIsF6BbikbaiCDMGXcQYISlNXQmLta5iWJL0qQL1+k5I++2GNkt6iqQUUrcfQPx3eBIuhWN6dppZyquo5KCiMBKSMpF1PnuczwOPv3pY6nFvwRBiOX+hj24WwRrc2trCi+wvoSKLNbgMuINjVvwIe9+tJ1gAPtV74TmQ6SsfxWymNfCPoAht1/fL3rAw19PpAvZmbkyB523Z0/0M2u2a9wYGx/t16IXWSM6GQ883JMzCMPWDJXK5kL6WLBWqXYRmXjF2yRn650B5xdmj11iPtCdLlKPVQjnTtCszEV1yAkCAn6BjBcjEsGeH7slxEBFXN9JE9gjKmOtUx06PHplI=;UdJ3hnEhRm2AbHpQP8RDIw=="
 ---
 

@@ -17,6 +17,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
+  - AI in Robotics
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"

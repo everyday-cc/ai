@@ -1,23 +1,20 @@
 ---
 category: news
-title: "People With Long COVID Face Barriers to Government Disability Benefits"
-excerpt: "Some people with long covid have fallen through the cracks of the government's disability system, which was time-consuming and difficult to navigate even before the pandemic."
-publishedDateTime: 2022-11-09T20:12:00Z
-originalUrl: "https://www.medscape.com/viewarticle/983796"
-webUrl: "https://www.medscape.com/viewarticle/983796"
+title: "People with long COVID face barriers to government disability benefits"
+excerpt: "When Josephine Cabrera Taveras was infected with COVID-19 in spring 2020, she didn’t anticipate that the virus would knock her out of work for two years and put her family at risk for eviction."
+publishedDateTime: 2022-11-10T13:46:00Z
+originalUrl: "https://www.chicagotribune.com/coronavirus/ct-long-covid-20221110-2z6zm4q2tbfu3jjgmvt5endkfu-story.html"
+webUrl: "https://www.chicagotribune.com/coronavirus/ct-long-covid-20221110-2z6zm4q2tbfu3jjgmvt5endkfu-story.html"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Medscape
-  domain: medscape.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ZtwYPNKDws7WD1J/DDHAlkjoBymov29HynqccSYKMhHOI6C198ivtUkx+OSDpr1ksVkWYotUhZpYhOR3D5Cc6YvzAUoJKKA4NPBNNWvViXwNETwVRpK+ZFcMHTw60mUAjSG11aEurzTOHGRCOh7C1ZpgUPqToJk5zm02L4m8KTUbpmBwz1lB00NgYkDARcmfFUrxgGtqaf6tetbN6A5hOT4iswItf8XJkrhsCXFRLHVz4z2Pndt++G4vwamViKPnNctxdHQhka3YDbLY1LKI0PZVybmxbIWJDCaEo4/QuBRHvY+veWmhpSzLcseThGDP3LvY6lNc8CXAfFXvkqWg6t6zU3Gk3RoVxkQzpvH7VOew4c2Y2ZReuuAXO+aQe4rEp80jY6XgXp4VfaqwXDBdt+ebSubVjL0gO1cOPKir3TXbOm8GNd/qsUOBIkkXht1XKcdpX8iJWqgODqAoat95Ck3hwdDROmRxYIkguc7fWfwKxy/9dZmSWQwVSqK7eiGeOS5QePyXJ5sENUqrW74H6A==;63xJeOb3BIJylsM8T9MOOw=="
+secured: "aXxfJ1BqFqqj01mBdrZU61FAG821A9YAbGTqiDhj4c2voNm/pPtSEgO0k8SKwH+EEarxnmi/mCg1AccaQJm7PtrR77y+L6tWjAA9DTAediVeSwsOAF9rXB0wphYCSjhhhUlsi629UrXBtNayzjV9dbc5suMR5T1WPKz9H0q8g/RX8dLeHfOGjNoxRBlwygLL0uXRMpgxQjmfa8pyx9TDksjtioWW7CB46K013MrbQIe1geUTxRpvqomGt9dVFX3qC7kXtNsaCkDUmKp5MQ/glyP2hQYRKhrvIjmSLqg4a1YtXNI2rlJSXazA6Aqmg5XNz7Mre8o1+fWJHyEP/ucd3JFC2Urio/ivrlRz240weWqJBn0gsjqwl++xVGTHQEqDwaJL/e4Am85vktLwd/InsRqV56ju992wRbOPnR6gSnRf2feWPbNz7tOXMRXWd5L/98lCZF9W8XO/MDKbPIuFAfD53PtSccQuyylvxUMxsdAJ0pZ5KJypl/Ohm7f+3ug4QhbZiZuaPlU7wu8+zxjkGA==;+JXO7od9Yy8Hmc7eOY6NTA=="
 ---
 

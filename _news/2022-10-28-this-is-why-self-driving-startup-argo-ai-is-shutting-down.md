@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Argo.ai Shuts Down - What Will Happen To Its LiDAR Unit?"
