@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-05-indonesian-police-use-face-recognition-for-g20-summit-security.md",
+      "title": "Indonesian Police Use Face Recognition for G20 Summit Security",
+      "excerpt": "Wakapolri said that through the command center, Indonesian police can find out the situation of members and facilities G20 Summit. They also provide the face recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "originalUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/04/63651ae978d50-wakapolri-komjen-pol-gatot-eddy-pramono_665_374.jpg",
+          "width": 665,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "cdnAmpWebUrl": "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "publishedDateTime": "2022-11-04T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "viva",
+        "domain": "viva.co.id",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk.md",
       "title": "Content curation, AI ethics, other teams fired by Twitter under new owner Elon Musk",
       "excerpt": "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest.",
@@ -1146,58 +1190,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-our-future-artificial-intelligence-overlords-need-a-resistance-movement.md",
-      "title": "Our Future Artificial Intelligence Overlords Need a Resistance Movement",
-      "excerpt": "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies and stunning fake photographs. They’re even writing code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

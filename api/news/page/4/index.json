@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-04-our-future-artificial-intelligence-overlords-need-a-resistance-movement.md",
+      "title": "Our Future Artificial Intelligence Overlords Need a Resistance Movement",
+      "excerpt": "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies and stunning fake photographs. They’re even writing code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service.md",
       "title": "How to submit digital life certificate (Jeevan Pramaan) using Face Recognition Service",
       "excerpt": "With the introduction of a Face-Recognition system based on the Aadhar database, the government has now made it possible for anyone with an Android smartphone to submit a DLC.",
@@ -1122,57 +1174,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-data-quality-is-also-an-ai-problem.md",
-      "title": "Data Quality Is Also An AI Problem",
-      "excerpt": "Any AI processes that use traditional data sources will be just as dependent on those sources being of high quality as any other analytic processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63122d3b4220a3347b2931c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
-      "publishedDateTime": "2022-11-03T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

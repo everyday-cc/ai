@@ -3,8 +3,8 @@ category: news
 title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
 excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
 publishedDateTime: 2022-11-09T11:32:00Z
-originalUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
-webUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+originalUrl: "https://uk.pcmag.com/graphics-cards/143729/nvidia-cripples-a100-gpu-performance-for-chinese-market"
+webUrl: "https://uk.pcmag.com/graphics-cards/143729/nvidia-cripples-a100-gpu-performance-for-chinese-market"
 type: article
 quality: 69
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_k2sb.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-cri/nvidia-cripples-a100-gpu-performance-for-chinese-market_ny67.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -219,6 +219,6 @@ related:
       domain: hothardware.com
     quality: 34
 
-secured: "5wUwKal4BgzqanrklXxFsC6AK9ndILModgqr5M1jHVGR5Te+SQNvlbC7j2zaUegWC04EG+O/cu/FH8OUYmZ3/qAaMHR+o3BCCEN1BwDJCFirD+K4W9yVCklJawZf+c+jBHV+ICGx70OSDE7f81H3eL2+++maEded/DjxWo7/nT/F4Uke8ntdiBtojwFcttUQKWh3Oa358zYoEnCYXEeK/aZ2iSGNdSylteROlWav1pZc/BsDAtd6C4rTAfRnR5N9M/BW4TxJebF3nAzqoakWIYfpU9LEUcjz9j2tMr0Enqg33U2K7N94eE7b5+4QxWYMKlCCMABtUgOdEFIFcX7QNxgWFK1SvCVI88EvWbZma3k=;iX1iK5YSaTDF8fJC3v/O0g=="
+secured: "GyoCydZxcGaRnbQoM7EUCt+Qmu4bLpZ33YLD9mUD+WEMYi9TMROuNUXUwSuprJVSRCi88/8Y/u4VuGId4wj/tUyOhJy4H4HfCwDPi8lmLjnXOmvdZzDJ4tdQDKfJRseU5+WdwpgIvc7cNafzZC2dY2cZ1LM4hm8FdcoTGs800y6K6V3uzCIUhqkVXUGQgDi9z10jpLow+XdNoSebbwsHmhIPUnSP+r4cjCsmZkmf33DWWwF+cHBO/6WfI4AmFDqhmpInexwohtijf8JhHR4uECnVdzS8xQyI/ubZtdQXJnL/UPNoszH59VEB7F9YrPwT7yUnFepRoodqxz/ZRfMdAvCBqwUthGNtIuaSbUzKLps=;LDZh8/+coM8olkYxtc7+5g=="
 ---
 

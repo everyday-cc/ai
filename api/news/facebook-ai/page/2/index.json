@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-05-haystacksai-successfully-completes-sfr-portfolio-trade-pilot.md",
+      "title": "Haystacks.AI successfully completes SFR portfolio trade pilot",
+      "excerpt": "Haystacks.AI, a property intelligence platform for investors, announced piloting its 1031 exchange solution to executive a SFR trade.",
+      "sourceUrl": null,
+      "webUrl": "https://finledger.com/articles/haystacks-ai-successfully-completes-sfr-portfolio-trade-pilot/",
+      "originalUrl": "https://finledger.com/articles/haystacks-ai-successfully-completes-sfr-portfolio-trade-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finledger.com/wp-content/uploads/sites/5/2022/01/AdobeStock_354021440.jpeg?resize=1024,512",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FinLedger",
+        "domain": "finledger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-meta-launches-ai-software-tools-to-ease-switching-between-nvidia-amd-chips.md",
       "title": "Meta launches AI software tools to ease switching between Nvidia, AMD chips",
       "excerpt": "REUTERS/Benoit Tessier Oct 3 (Reuters) - Facebook parent Meta Platforms Inc (META.O) said on Monday it has launched a new set of free software tools for artificial intelligence applications that ...",
@@ -1429,58 +1472,6 @@
         "Computer Vision",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-the-meta-meltdown-this-chart-shows-facebooks-fall-from-grace-among-the-most-valuable-us-companies.md",
-      "title": "The Meta meltdown: This chart shows Facebook’s fall from grace among the most valuable U.S. companies",
-      "excerpt": "Dogged by competitive and macroeconomic threats, Meta Platforms Inc. is sinking down the ranks of the largest U.S. companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/the-meta-meltdown-this-chart-shows-facebooks-fall-from-grace-among-the-most-valuable-u-s-companies-11663111637",
-      "originalUrl": "https://www.marketwatch.com/story/the-meta-meltdown-this-chart-shows-facebooks-fall-from-grace-among-the-most-valuable-u-s-companies-11663111637",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-603927/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/the-meta-meltdown-this-chart-shows-facebooks-fall-from-grace-among-the-most-valuable-u-s-companies-11663111637",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/the-meta-meltdown-this-chart-shows-facebooks-fall-from-grace-among-the-most-valuable-u-s-companies-11663111637",
-      "publishedDateTime": "2022-09-14T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

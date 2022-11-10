@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gPvOAAQgMjL6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAAQgMjL6m"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM bolsters BI offerings with Business Analytics Enterprise suite"
-    excerpt: "IBM’s Cognos Analytics with Watson, which is an AI-based self-service program for creating dashboards and reports, has been updated with the ability to consider seasons and other, multiple ..."
-    publishedDateTime: 2022-11-05T11:42:00Z
-    webUrl: "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html"
-    ampWebUrl: "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/13/ibm-sign-100925012-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Insight sows seed of cloud analytics for GrainCorp"
     excerpt: "Insight Enterprises has built a cloud infrastructure to grow GrainCorp's analytics capability. Together, Insight helped design the infrastructure with a Microsoft Azure Data Lake and Databricks as the core computation drive."
     publishedDateTime: 2022-11-08T01:49:00Z
