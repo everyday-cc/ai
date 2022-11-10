@@ -87,6 +87,17 @@ related:
         width: 426
         height: 250
         isCached: true
+  - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
+    excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
+    publishedDateTime: 2022-11-07T07:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
   - title: "Global Healthcare CMO Market Report 2022: Escalating Role of Artificial Intelligence Technology Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "Trends: The market is projected to grow at a fast pace during the forecast period, due to escalating role of artificial intelligence technology and evolution of advanced respiratory equipment. Healthcare artificial intelligence (AI) has transformed by ..."
     publishedDateTime: 2022-11-08T13:37:00Z

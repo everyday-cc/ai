@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-business-development-size-share-and-opportunities-2026-2022-11-08"
 type: article
 quality: 55
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -77,6 +77,17 @@ related:
         width: 426
         height: 250
         isCached: true
+  - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
+    excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
+    publishedDateTime: 2022-11-07T07:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
   - title: "Self-Driving Bus Market 2022 Business Development, Size, Share And COVID-19 Impact Analysis 2028 | Tesla, Navya, Proterra X Herald"
     excerpt: "The Research report on“ Self-driving Bus Market Report 2022 – Future Opportunities, Latest Trends, In-depth Analysis, and Forecast to"
     publishedDateTime: 2022-11-08T10:27:00Z

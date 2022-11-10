@@ -25,6 +25,7 @@ topics:
   - AI
   - AI in Autos
   - Google AI
+  - Microsoft AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/d8452d84a72bddf317ccce52ec12fa799a3860aa/2022/10/27/a22915c0-394e-41e6-92d4-125c5b82fe4b/hi-im-ai-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200"

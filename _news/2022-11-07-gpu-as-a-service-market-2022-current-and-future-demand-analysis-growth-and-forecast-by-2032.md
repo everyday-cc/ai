@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Natural Language Processing (NLP) in Healthcare Sales Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 09, 2022 (The Expresswire) -- Global Natural Language Processing (NLP) in Healthcare Sales Market (2022-2028) Research Report is a professional and in-depth study on the ..."
+    publishedDateTime: 2022-11-09T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Software Market Share 2023 SWOT Analysis, Size, Sales, Growth, Demand, Supply and Forecast to 2029"
     excerpt: "Get a Sample PDF of report at-  The Machine Learning Software market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
     publishedDateTime: 2022-11-07T06:15:00Z
@@ -33,15 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Camera Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "Number of Tables and Figures :128 | The global \"Deep Learning Camera Market\"size is projected to reach Multimillion USD"
-    publishedDateTime: 2022-11-09T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08"
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market Analysis By Size, Share Trends, Emerging Trends, Qualitative Outlook - Forecast To 2026"
+    excerpt: "Nov 08, 2022 (The Expresswire) -- Pre and Post Covid is Covered and Report Customization is Available. “Artificial Intelligence (AI) in Oil and Gas market revenue was Million USD in 2016, grew to Million USD in 2020, and will reach Million USD in 2026 ..."
+    publishedDateTime: 2022-11-08T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-analysis-by-size-share-trends-emerging-trends-qualitative-outlook---forecast-to-2026-2022-11-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -75,20 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market: Size |Incredible Possibilities and Growth Analysis and Forecast to 2029 | Newst 106 Pages Report"
-    excerpt: "In 2022, Current Face Recognition Software Market Size with Newest [106] Pages Report The latest Face Recognition"
-    publishedDateTime: 2022-11-07T06:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-incredible-possibilities-and-growth-analysis-and-forecast-to-2029-newst-106-pages-report-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Federated Learning Solutions Market – High Growth Prediction Due To Increasing Demand and Future Trends"
     excerpt: "As per the report published by Fior Markets, the Federated Learning Solutions market is expected to grow from USD 91.5 Million in 2020 to USD 210.86 Million by 2028, at a CAGR of 11% during the forecast period 2021-2028."
     publishedDateTime: 2022-11-09T10:28:00Z
@@ -105,15 +105,43 @@ related:
         width: 850
         height: 557
         isCached: true
-  - title: "How and Where the Artificial Intelligence Courses for C-suite Executives Market is Set to Grow in forecast period 2029"
-    excerpt: "As per Market Growth Report, The Artificial Intelligence Courses for C-suite Executives market has witnessed growth"
-    publishedDateTime: 2022-11-07T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-courses-for-c-suite-executives-market-is-set-to-grow-in-forecast-period-2029-2022-11-07"
+  - title: "Artificial Intelligence in Law Market Share, Size, Revenue, Global 2023 Latest Trends, Boosting Strategies, Growth Opportunities and Forecast 2028"
+    excerpt: "Global \"Artificial Intelligence in Law Market” (2023-2028) research report gives an outline of the business with"
+    publishedDateTime: 2022-11-09T09:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 23
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Vehicles Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
+    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Self-driving Vehicles Market is expected"
+    publishedDateTime: 2022-11-07T22:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-11-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+  - title: "Self-expanding Metal Stents Market Size | Share | Trends | Growth | Scope | Outlook | Opportunities | Forecast 2022 Analysis to 2028 By MRI"
+    excerpt: "Quantitative market information and forecasts for the global Self-expanding Metal Stents industry, segmented by type, end-use, and geographic region. – Expert analysis of the key technological, demographic, economic, and regulatory factors driving growth ..."
+    publishedDateTime: 2022-11-09T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-expanding-metal-stents-market-size-share-trends-growth-scope-outlook-opportunities-forecast-2022-analysis-to-2028-by-mri-2022-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Technology Market Share 2022: Top Companies, Industry Current Trends, Application, Growth, Development, and Forecast to 2028"
     excerpt: "Face Recognition Technology Market”research report provides an in-depth analysis that is segmented on the basis"
     publishedDateTime: 2022-11-07T08:29:00Z
@@ -123,17 +151,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
-  - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
-    excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
-    publishedDateTime: 2022-11-07T07:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
+  - title: "Artificial Intelligence In Agriculture Market 2022 | Global Industry Growth Prospects And Opportunity Assessment By 2030"
+    excerpt: "Emergen Research Logo Increasing implementation of data generation through sensors is one of the key factors driving market revenue growt"
+    publishedDateTime: 2022-11-09T13:52:00Z
+    webUrl: "https://menafn.com/1105156649/Artificial-Intelligence-In-Agriculture-Market-2022-Global-Industry-Growth-Prospects-And-Opportunity-Assessment-By-2030"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "XsTri0+EBkEUtCe1qHl7IrajCDLasBmAimxY+UKjQao5jcx/eJEd4AQZ1Y8toE2dPVsZtiAJVz6Dv7SQRu29t6aEVuP/YRLdi3UqrrJ7l1ihHSdlJj8k4LUXOMmgsS1VShS0hNrDlhSJle4QbKQ6DG4DbEtPhtWmkoG0EY1xorb1OFHIfIrTw99CUJFzD3M8G5JCdaRx0FO+JgH82pDUNUFEexTIMsWbkmIh63ffr6gdaVFgjaR/neXwlndiFJBS7IEY5J9DfiVvYR8ShfV9NVzMWSY55ZfRi5XHhHZfkfBGhOWEB9YG8z9wm2qBdBa4OpfcCYbKnBT7InkB+iZo6icBaoDm3llnofayX4GDhgA=;q8Z/7HSBYX5Hq/bu/j7W9Q=="
 ---

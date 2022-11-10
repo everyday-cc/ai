@@ -21,119 +21,100 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Software Market Share 2023 SWOT Analysis, Size, Sales, Growth, Demand, Supply and Forecast to 2029"
-    excerpt: "Get a Sample PDF of report at-  The Machine Learning Software market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
-    publishedDateTime: 2022-11-07T06:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-software-market-share-2023-swot-analysis-size-sales-growth-demand-supply-and-forecast-to-2029-2022-11-07"
+  - title: "Automatic Speech Recognition Market 2022: Business Development, Size, Share and Opportunities 2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Automatic Speech Recognition Market\" Insights 2022"
+    publishedDateTime: 2022-11-08T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-business-development-size-share-and-opportunities-2026-2022-11-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Camera Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "Number of Tables and Figures :128 | The global \"Deep Learning Camera Market\"size is projected to reach Multimillion USD"
-    publishedDateTime: 2022-11-09T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08"
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2027"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence (AI) in Food and"
+    publishedDateTime: 2022-11-07T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2027-2022-11-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 26
+  - title: "Digital Cities 2022: Up to 75,000 Population Category"
+    excerpt: "Honorees in this year’s Digital Cities Survey from the Center for Digital Government elevated their municipalities’ resilience, while bolstering services and prioritizing engagement with their residents."
+    publishedDateTime: 2022-11-10T00:42:00Z
+    webUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category"
+    ampWebUrl: "https://www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/dc/digital-cities-2022-up-to-75-000-population-category?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
+  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
+    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
+    publishedDateTime: 2022-11-08T08:32:00Z
+    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
+        width: 640
+        height: 335
         isCached: true
-  - title: "Artificial Intelligence Machines Market SWOT Analysis & New Business Strategies with Industry Growth Status till 2022 To 2029"
-    excerpt: "Nov 08, 2022 (The Expresswire) -- \"Artificial Intelligence Machines Market\"Research Reportin [ 2022 2029 ] is Ruling the Machinery and Equipment"
-    publishedDateTime: 2022-11-08T16:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-swot-analysis-new-business-strategies-with-industry-growth-status-till-2022-to-2029-2022-11-08"
+  - title: "Artificial Intelligence Market Business Opportunity, Market Size, Upcoming Trends, Recent Development And Forecast: 2022-2031"
+    excerpt: "The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impac"
+    publishedDateTime: 2022-11-10T06:26:00Z
+    webUrl: "https://menafn.com/1105160242/Artificial-Intelligence-Market-Business-Opportunity-Market-Size-Upcoming-Trends-Recent-Development-And-Forecast-2022-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667055"
+        width: 426
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence Chips Market Structure with Region Wise Analysis, Top Industry Players and Complete Forecast Till 2028"
-    excerpt: "Nov 07, 2022 (The Expresswire) -- \"Artificial Intelligence Chips Market\" research provides significant and in-depth information on the global market."
-    publishedDateTime: 2022-11-07T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-structure-with-region-wise-analysis-top-industry-players-and-complete-forecast-till-2028-2022-11-07"
+  - title: "Self-Driving Bus Market 2022 Business Development, Size, Share And COVID-19 Impact Analysis 2028 | Tesla, Navya, Proterra X Herald"
+    excerpt: "The Research report on“ Self-driving Bus Market Report 2022 – Future Opportunities, Latest Trends, In-depth Analysis, and Forecast to"
+    publishedDateTime: 2022-11-08T10:27:00Z
+    webUrl: "https://menafn.com/1105146901/Self-Driving-Bus-Market-2022-Business-Development-Size-Share-And-COVID-19-Impact-Analysis-2028-Tesla-Navya-Proterra-X-Herald"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 9
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?361279"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Face Recognition Software Market: Size |Incredible Possibilities and Growth Analysis and Forecast to 2029 | Newst 106 Pages Report"
-    excerpt: "In 2022, Current Face Recognition Software Market Size with Newest [106] Pages Report The latest Face Recognition"
-    publishedDateTime: 2022-11-07T06:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-incredible-possibilities-and-growth-analysis-and-forecast-to-2029-newst-106-pages-report-2022-11-07"
+  - title: "Global Healthcare CMO Market Report 2022: Escalating Role of Artificial Intelligence Technology Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "Trends: The market is projected to grow at a fast pace during the forecast period, due to escalating role of artificial intelligence technology and evolution of advanced respiratory equipment. Healthcare artificial intelligence (AI) has transformed by ..."
+    publishedDateTime: 2022-11-08T13:37:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-11-08/global-healthcare-cmo-market-report-2022-escalating-role-of-artificial-intelligence-technology-pres"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Federated Learning Solutions Market – High Growth Prediction Due To Increasing Demand and Future Trends"
-    excerpt: "As per the report published by Fior Markets, the Federated Learning Solutions market is expected to grow from USD 91.5 Million in 2020 to USD 210.86 Million by 2028, at a CAGR of 11% during the forecast period 2021-2028."
-    publishedDateTime: 2022-11-09T10:28:00Z
-    webUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/"
-    ampWebUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 0
+  - title: "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com"
+    excerpt: "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,"
+    publishedDateTime: 2022-11-09T15:51:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/Federated-Learning-Solutions-Market.png"
-        width: 850
-        height: 557
-        isCached: true
-  - title: "How and Where the Artificial Intelligence Courses for C-suite Executives Market is Set to Grow in forecast period 2029"
-    excerpt: "As per Market Growth Report, The Artificial Intelligence Courses for C-suite Executives market has witnessed growth"
-    publishedDateTime: 2022-11-07T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-courses-for-c-suite-executives-market-is-set-to-grow-in-forecast-period-2029-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-  - title: "Face Recognition Technology Market Share 2022: Top Companies, Industry Current Trends, Application, Growth, Development, and Forecast to 2028"
-    excerpt: "Face Recognition Technology Market”research report provides an in-depth analysis that is segmented on the basis"
-    publishedDateTime: 2022-11-07T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-2022-top-companies-industry-current-trends-application-growth-development-and-forecast-to-2028-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
-  - title: "GPU as a Service Market 2022 | Current and Future Demand, Analysis, Growth and Forecast By 2032"
-    excerpt: "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),"
-    publishedDateTime: 2022-11-07T04:58:00Z
-    webUrl: "https://www.fmiblog.com/2022/11/07/gpu-as-a-service-market-2022-current-and-future-demand-analysis-growth-and-forecast-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 7
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "r2vBV3ag5q1URdXC8UVwdKYIj7XnSrvmwFgKILT/vDJgcqsob85AragvMS10UY57kh7QA3Pyp6r7FCIYHchv5ooYVgZWMLAHseFSk1YrJionVwr2pFgiHK0oj8ZT05qi/FviUaLHqUADDPSMH7i6xoCVKGzPNmYYb+38S3ieX9/NpL8gwqB9kXdA/65gYg5zJx2M5PoWl+yzvpO34tfTqvGADD5IxC6JlmKiepiU8KN6J3zRh1rf1jYSs3rCTc7ZR7pTZZVk8USoIIA+eRidqlg1HSkuvL2d0l2oavvUm0dOjbvAinseZuTgI64tkfaY+XrR2/Sq2+ABKiYP/+3k4bPD/QcBa/8Z9F5CB2cAX+I=;zwIbhDV6NetohZDPBcCIrg=="
 ---

@@ -90,6 +90,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
+    excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
+    publishedDateTime: 2022-11-10T07:39:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 21
+    images:
+      - url: "https://static.tnn.in/thumb/msid-95421643,imgsize-100,width-1280,height-720,resizemode-75/95421643.jpg"
+        width: 1278
+        height: 720
+        isCached: true
 
 secured: "XKtmMKMJM1UCOh2ZjhPOytNg+0Slic04UFlweIrnIZyRMXzBI6JyZPAQgiQ3QtzeB2cYUTu0DI8dBfVFZYDxuhaVwXiFLl6Dy5mAcMLHB1JBWo2Tvnrwqd4nMz+qgba+NNW0r1yATdCYrYPZbTM05FDhJ5nuQBSx2kR1G7xBFC1ErkUJbRlJ10hLTO2+TEw4if0HoYbkljv8UrIqX6TxbwbArz+zZMUnTE7QqFXZcEJXU4IL+E8+76nDK/cuVYMVvTE7m794pD7agJktNfDT94VbO+J3HqQ9Y68Njatlj3HV0a84/5B2b4gU1hUIQ4XDM7BIIfh0Em1v2KXvTm9UAnwvCuj9WLFzP4e80cBweAjfl5MZ6xVjhrJm+JksekLj+9+QMQtVOsqwMelIl4cidFhA64znuXGWyCIew/apWqE2KhlbjQKNwVwqg5111TRQuvrsde4pHIc6BFkEFw0dXBCIXBihl4c13Uu79FzUDJ1iBHQds43nhAGFQt/MNnwNFwOrBEzWVqZOt3OhM+k78w==;NKcYH8CRi6YS4E1XMoO/fg=="
 ---

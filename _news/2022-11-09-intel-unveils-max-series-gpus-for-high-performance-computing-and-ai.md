@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-
 webUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-performance-computing-and-ai/"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 30
+  - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
+    excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
+    publishedDateTime: 2022-11-10T07:39:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 21
+    images:
+      - url: "https://static.tnn.in/thumb/msid-95421643,imgsize-100,width-1280,height-720,resizemode-75/95421643.jpg"
+        width: 1278
+        height: 720
+        isCached: true
 
 secured: "uzDxA6BLiYvFE8f9kzN6KtTLcyfNKf58v7VTITe87wBgHLa7iInEmH6M0X0q0YbzXkW5eNXHD++DpyQoLY9pu1ARA8y5cswL641KShtPC/XnLMI1+GtLbAJlGEGMT075cXPAJIR/CXYVCX2sl8pJpigUku+DyvYg+cuXdBnj9iCONfsF7NNQbv4zxRFGVA/KvWKlO9MqnCLj3Ys8NjsZ6y4hA5/sPCTTldhUA2QqoslK35ofHjpZX1xX5BXQC+h566w91jLX8YPv0XO6b+AajoPpA47AMxI9qeGrpSxPTam7D56bv4f2O58ZWdY/18H7vAxk6FIpEJZQ8Ei+KNSRzEx3cV/Cv5lb6K3+RQn8nEfqn0VSMKYt8IqeRlVngL6fdDv3/5sECeP1h2qglmaH1nPr1lMBq+VdBoSxn0686o8IZPPJPv6qQu9256oSdUeOgxyAC/45jbC9mBA50WIn/bRSESD9LFAB1fJoVk6ZoGnmlAL3XkhwqdDactH8MN/hDlBJ4+QxtLCtoWfjRSbJtA==;6rYXt+nVgyuf0ymdgzz3jA=="
 ---

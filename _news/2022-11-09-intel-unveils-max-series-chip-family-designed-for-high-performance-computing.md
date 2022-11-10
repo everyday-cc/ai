@@ -94,6 +94,22 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 30
+  - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
+    excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
+    publishedDateTime: 2022-11-10T07:39:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 21
+    images:
+      - url: "https://static.tnn.in/thumb/msid-95421643,imgsize-100,width-1280,height-720,resizemode-75/95421643.jpg"
+        width: 1278
+        height: 720
+        isCached: true
 
 secured: "m+9zk2CSoW/1QEYmgPTb2xJeIBABJuYiiXTGYlRWiUU3XzWQqoQjukDXm/GhTmmf5WPGhnXiIv1EFl0Gr4VpCIgrTqH/1VVFR8oGH9jnKSgQZK4ucsn+fAVDfeC6GZxfhonec3Hmx/g1DVHKu1m8pkFRo6F0InVyty9hwtYZ1VAYKMYsVwSKxYZmcBv7aTNwJLLYz5+wjLnYytKSGspDZUkHMLVDcVZXTCjO667Z/u/1QKYc4Mbmfw7Oz2ijpz3jGhJxG7wSREEvKE22AHPmZXh4KfKWjwYNKJ1lfAR6PCCqsX3Ba3sO+4ueHN9mX/sYXzgfO6Kaxoamp11SdTEeodNa1iSNcM3K+Ar2DVXUCxBYV3BsAVAFaTuOV66XkOJLf+Smgx1M3gN4DZG173M0uD32XSZETo6RL8zq56E87mjhVJShkPO2UbRxEo7QmzYpvXZt74wWDTI0o+Wyj++5I9SxRW+hN1gigfSTmfRCcuNtnp1H+YPae9YIaUpzDmw6t0Jvlw+3X7rQxNOA/+0lHw==;e/0QvZvO0JAmjnfl7pHOrg=="
 ---

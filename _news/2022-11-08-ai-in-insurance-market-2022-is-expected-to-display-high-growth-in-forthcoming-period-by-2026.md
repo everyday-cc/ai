@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Agriculture Market 2022 | Global Industry Growth Prospects And Opportunity Assessment By 2030"
-    excerpt: "Emergen Research Logo Increasing implementation of data generation through sensors is one of the key factors driving market revenue growt"
-    publishedDateTime: 2022-11-09T13:52:00Z
-    webUrl: "https://menafn.com/1105156649/Artificial-Intelligence-In-Agriculture-Market-2022-Global-Industry-Growth-Prospects-And-Opportunity-Assessment-By-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "BTebpqa6YNaQCYN+N8nMie3BgUXnlJZGpBWjUkz4lDiscIdtAhdtsWRhLQQWl99uTnaGTdphAlcN10hwMBITwY7o/00aGsS7q3CqXRQW+w+PgZPWk7Wtuf0i+r7k8tPUojsRAH3av0zNn7Ap9+hDq3djv45RCMnFTB/4wf0ZM31D7t3M8Mu3wQBpeY5+Mns+/Wns+B8HKsBsEc3n9OnFl39QzKDYqGyWEOYgD36YbashU2DNEMHANaRE2OfMGpvBvUifK4p/P5SsP5d1+IFS1Xbe74Vo+AROsIRBMWjNSkLh71hR1YNQFYUOUOzinKCdd+Hq03GkSGpoF7inenKWE8Xosj+zaFIJJuYXCjpRda0=;M9DKE904CDXBFxdNu0R1aA=="
 ---

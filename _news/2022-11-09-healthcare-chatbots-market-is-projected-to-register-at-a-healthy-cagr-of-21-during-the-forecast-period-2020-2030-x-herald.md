@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105150330/Healthcare-Chatbots-Market-Is-Projec
 webUrl: "https://menafn.com/1105150330/Healthcare-Chatbots-Market-Is-Projected-To-Register-At-A-Healthy-CAGR-Of-21-During-The-Forecast-Period-2020-2030-X-Herald"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Is Estimated To Reach USD 86,001 Million By 2025, Registering A CAGR Of 21.8%"
-    excerpt: "Image Recognition Market The increased adoption of cloud-based technologies has been one of the main drivers behind the growth in the glo"
-    publishedDateTime: 2022-11-09T18:30:00Z
-    webUrl: "https://menafn.com/1105157802/Image-Recognition-Market-Is-Estimated-To-Reach-USD-86001-Million-By-2025-Registering-A-CAGR-Of-218"
+  - title: "Indoor Robots Market to Grow at a Surprising"
+    excerpt: "Global Indoor Robots Market was valued at USD 11.65 billion in 2021 and is expected to reach USD 100.37 billion by 2029, registering a CAGR of 25.50% during the forecast period of 2022-2029. The market report curated by the Data Bridge Market Research team includes in-depth expert analysis,"
+    publishedDateTime: 2022-11-10T07:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-indoor-robots-market-grow-a-surprising-growth-usd-/2022/11/10/9710074.htm"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/09/EP_d6641image_story.jpeg"
-        width: 790
-        height: 413
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "xgy+0tmoV2yOEqQW3zuZp+itcVvBcTKO4GsFTFpRW7L/rL1nAYQXtAXS1TrxTx4db+M9zx84oMBjHG8j0L8dREouqw1RD1r3fSJbGrRHql9Gh92sJUNBOADD+H6L5l93sIu1nN/0euBsAJOOGBGq6cVBa2cMZ5bk9+loHOtT3TNMvnw/mDphxjU44HUxu6Di9CNxtBLN+jSCiR93SNzw/m4wKaJJk1S26LRuJmIqjOcbBg0kDiXuFvpQqu/NueAi4ZvU4xd+vQvfxu17DGxvBngB3uLIs+i3Yu5QAPLv7HzRLwIqz7Uy/GI6K0pP+n4xwdQ7MVqzoDr/RUhDo1HMl8dBLoKLF4CUOT792UKUO+k=;fdGFLYZ8lIS0+8nsTaMBXA=="
 ---

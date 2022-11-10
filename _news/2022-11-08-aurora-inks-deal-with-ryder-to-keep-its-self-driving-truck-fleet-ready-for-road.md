@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/aurora-inks-deal-ryder"
 webUrl: "https://www.autonews.com/mobility-report/aurora-inks-deal-ryder"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Vehicle Company Promotes Former Waymo Lawyer to Legal Chief"
-    excerpt: "“Developing self-driving technology is one of the greatest challenges of our generation—building and protecting our technical leadership is critical to Aurora’s continued success,” Chris Urmson, Aurora’s CEO, said in a written statement."
-    publishedDateTime: 2022-11-07T19:23:00Z
-    webUrl: "https://www.law.com/corpcounsel/2022/11/07/self-driving-vehicle-company-promotes-former-waymo-lawyer-to-legal-chief/"
+  - title: "Aurora Innovation: Automating The Driving Industry For A Better World"
+    excerpt: "Aurora Innovation seeks to invent the most sophisticated self-driving vehicles. Click here to find out why I recommend a buy rating on AUR."
+    publishedDateTime: 2022-11-10T06:22:00Z
+    webUrl: "https://seekingalpha.com/article/4555793-aurora-innovation-stock-automation-driving-industry-buy"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 18
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1351045479/image_1351045479.jpg?io=getty-c-w750"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "1vC6vvdU8tIikN1Q+YzRnB7OONECQ5ALrwNaaC5x2aeOMC7AVW/BS5ES771M/T70KthOZChTJuSpGwCRTjclkmruGDAX0YDM5OV6CxD0VZH2ddGdffqEIZfLQRB9ZVTx0n6a4GyBX0vjbpGHxqJ855dYJEReh1ZK9ubJNKFKuiI5z/xcOLxmKCGDj/IsJ+RazW6KY/Wc31o8Dzo/+IwxPS15X+Pi9iKpCLh8MwQwQ1K7CnignsXadraOIkmtaRpNj4qNGdQAR/lcsNqZ9tqBNrEU9F/ujdKvEd5iBwzQLwO8KWFj/k70QKQZeKX8rYBDoKc4fatbp3+y00NceAHl/eB3x9tL3dBdUw94MO5xdp4RZcXGAMxjPZ4ThtHSkIwLkI3oR1FhFnpe1fpaYs5RGOgPPMVFb3h6rYcOeY1DTKZ+QarrSiK2kt58s1kMgHyleS/F15UPcEaocNXnPEadRFp40rPn3IMNDJydLGc3DdnyxG1O+QH59vbHv/Okh+IcisXPjJmNBRTRECIDYY4teQ==;I3RcXCaVfVjsrYujEDRF2Q=="
 ---

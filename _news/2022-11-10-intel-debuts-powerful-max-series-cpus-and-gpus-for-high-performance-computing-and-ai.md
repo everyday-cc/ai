@@ -91,6 +91,22 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 30
+  - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
+    excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
+    publishedDateTime: 2022-11-10T07:39:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 21
+    images:
+      - url: "https://static.tnn.in/thumb/msid-95421643,imgsize-100,width-1280,height-720,resizemode-75/95421643.jpg"
+        width: 1278
+        height: 720
+        isCached: true
 
 secured: "XeDmQMAStqlGUXsR+zvh/llrCMhXrseLGHmT6oF8RTN9eXX1U3sm1SEarB+UFJNLJnM7lFzUKgrgmPx23LFwt2tBw0rYZn5JdDEsHVEnNZmxfLKUuoMSL5VOQcBsP/ULx8WHX0hRhlsnQUeCRiis2sVC7mzqt0M4+8VJmVTMxEsFwTnybxuP0NvXIhkTcEl0IibmZAmn8Z5UtHL0cdAUzqCJuPLYiS9Tp7wpyZ7O0uLZwqQAbrQ11Y3PGPv/K4ziOQpPQoIccJAFH0FWaTDZIQPbkMzB9XSnHDIpStUvCStehw71qOPCg5MYZwDB2z4JXGa1svzxvcLTzsbQ64OpH7pLg0/bDql31/MY8VqwYT3Wd3ASgmj82HgUpZ3ptTmxF2En30zXtFKM6vNfHjYZfV7rJOTJOgpaORdYsgArFJWglSZ4X/XAt9OrYdgJNJZov+m4IzFS5FldnKorLS3z120Slo+UzXzWTUYVX1NetOvFRipV84q0D858mBPNffapCS504UT+OXfWfLc5ZC6U1w==;mRkl3yJNC7BiHQelzbyksg=="
 ---
