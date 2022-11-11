@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T19:01:00Z
 originalUrl: "https://menafn.com/1105169696/UK-Businesses-Failing-To-Address-Consumer-Concerns-About-Their-Commitment-To-Sustainability"
 webUrl: "https://menafn.com/1105169696/UK-Businesses-Failing-To-Address-Consumer-Concerns-About-Their-Commitment-To-Sustainability"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Mena FN

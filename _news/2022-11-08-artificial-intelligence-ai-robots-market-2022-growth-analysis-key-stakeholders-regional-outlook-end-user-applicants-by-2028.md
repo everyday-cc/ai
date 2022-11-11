@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-11-07"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market Report 2022: Evolving Industrial IoT and Automation Technologies Boost Sector"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, Neurology, CT, MRI, X - ray, IVD), End User (Hospital, Diagnostic Imaging Center,"
+    publishedDateTime: 2022-11-11T22:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-medical-diagnostics-market-report-/2022/11/11/9711641.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "w0C/RfBZsd+Ib+0y0gykQCjHETREEVtnRswMGD03K3gqXklQpDUAyQRThKDJpJFNfihypPIWMNpiP8YhIAN25JRHisK92EViMij/B7PiSkxZpChSmgr+4fp361BN56lbPAb3pV+ZwWp5AHCWQL81cNooVrerssxQXVdDlGqGNQ1YHQn62ZrZ4grHjU7IHkMFynPgcbsV7ZqhxMLuqpW2JU4W/LvpLr49q75SH7hanM+MZV1ODvAjv9yZ5o0dnG7eqrf8lAGAlEui6RuVTvgouPLXVFNVzQyaRY31dss99kSLBVHxkMGJm9PyFMjM6HIr93rv1szVKzTSv2BxB0TRK5eD7MpvMsO8d96qwJN+y8A=;ddDASBlLaKdYUr78l8GPMQ=="
 ---

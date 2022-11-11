@@ -63,6 +63,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Computational chemistry and AI create a quantum leap in drug discovery"
+    excerpt: "We can design compounds suitable for development better and faster than previous approaches.” Kuano’s approach to drug design takes advantage of the fundamental physics behind how enzymes accelerate reactions in the body,"
+    publishedDateTime: 2022-11-11T17:22:00Z
+    webUrl: "https://www.fastcompany.com/90810071/computational-chemistry-and-ai-create-a-quantum-leap-in-drug-discovery"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "k7dmr6pViZjMmb74ypojctdq4ajSNDa3beOq2sCIRdIxyqylSrSLJthBV+bpg/twZhjb6AOtMId+OWIS9kluA5weMm51LyS0SPwte512h7ow/5V77P3DmVCyZqty/Oc9pblppp0uCknuUpu86G8B8916ex1nND36iM3azaGrbEHjP3m3yEXe1cVAM9J9Gij0x7h39Qk8vdj4VwnQB7VfU9YUp3pOmaZRFgrB6OGv6b/PaDTeMEuu+r91+21mzVQ+IjNaOE9zw8xnDefrHKnZeINaVB6nbET1y4P220i7pbceTGqVdPiiqwST9AUO0j5Xefl6GVWI8XLf7uAY0hYRG47C+MtGSIu0nT7kQ7QKD50N6KtkpPPo2/6EpV1TGeU9Qi9dncYfTIqUAMwYs95Mna9RCXSPqFh7IkOVh3UhG3nMZILaAgxul30h5SyXz+fy4O50dFuL9+pjLis6X5D4PdA1WYJfkyBVKIz7+bwJnCJ08Nj39lSJdJRttDsYDvf0MLZbJMzGJngyIV5zpfKo2A==;sFASRV8V3sOnjUvW4nI2Vw=="
 ---

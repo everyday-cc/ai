@@ -40,6 +40,20 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Zest AI Appoints Investment Veteran to Board"
+    excerpt: "Aditi Maliwal, a partner at Upfront Ventures, has joined the board of directors of fintech company Zest AI. Maliwal will bring to the Burbank company years of experience in investment and technology,"
+    publishedDateTime: 2022-11-11T19:53:00Z
+    webUrl: "https://www.sfvbj.com/finance/zest-ai-appoints-investment-veteran-to-board/"
+    type: article
+    provider:
+      name: sfvbj
+      domain: sfvbj.com
+    quality: 39
+    images:
+      - url: "https://d2dmozeuai8pbs.cloudfront.net/wp-content/uploads/2022/11/1527562227213.jpeg"
+        width: 399
+        height: 399
+        isCached: true
 
 secured: "XqqkAnQc8SeWcGCleSuVf4GnQZmXaHOPokfkbqJky/LymwRX+bceJgVJJhGvSbiMnTHu5pKMY5bLKdspkDoMhFNvFlcLYRAw30XmibEzOtVhzF93Taea5rztUmUhLPn5mxBrutyBsH36W/QoM7Y99Vo1SjDh1iObUY0sAKFTYDeSEtQzRDiQA26WAQljYf9cGi1tWDB47fEZvEU6HeH3whX+CTidioINI1lfzIPsV50mbXhuMX6CDWvPXalxn/HSdj4m1pdOIYQP3pZhRlNQao0oLcSbSN5DW4XvTrFvbyrJwjcEXWIZ69nJ4d7xxDy72JInKZEiD1qIgEy/5fyqh5+CE+zjjr0fUaFwH9CbgWM=;Kueoyqe79TZ+eHy0CP694g=="
 ---

@@ -19,79 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "How pensioners can submit life certificate through face recognition facility"
-    excerpt: "Union Minister Jitendra Singh launched the nationwide campaign for November and urged all pensioners to avail the facility of face authentication technology"
-    publishedDateTime: 2022-11-07T06:29:00Z
-    webUrl: "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility-11667799845560.html"
-    ampWebUrl: "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html"
+  - title: "AI-based facial recognition claims Brisbane Man is missing Lord Lucan"
+    excerpt: "Professor Hassan Ugails world renowned facial recognition system also helped identify three suspects involved in the murder of Jamal Khashoggi."
+    publishedDateTime: 2022-11-07T19:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/uk/ai-based-facial-recognition-claims-brisbane-man-is-missing-lord-lucan/articleshow/95361094.cms"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Facial recognition expert claims Lord Lucan is alive"
+    excerpt: "Computer scientist Professor Hassan Ugail's AI photo analysis technology has positively identified an elderly man in Australia as Lord Lucan, a British aristocrat who vanished in 1974 the day after brutally attacking his wife and murdering the family nanny."
+    publishedDateTime: 2022-11-11T20:22:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018866602/facial-recognition-expert-claims-lord-lucan-is-alive"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 34
+  - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
+    excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
+    publishedDateTime: 2022-11-07T17:11:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/news/crime/lord-lucan-yorkshire-facial-recognition-expert-says-mystery-man-living-in-australia-is-missing-peer-3909156"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 24
     images:
-      - url: "https://images.livemint.com/img/2022/11/07/600x338/Pensioners_1667802523496_1667802523707_1667802523707.PNG"
-        width: 600
-        height: 338
+      - url: "https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NWU4Y2E5LTE5NzAtNGFmMC1iMjE3LWUzNTAxZTViNjM0ZDo0MmI1Mjg1ZS04MWViLTQzNDAtYTg5NC1hZTVhYmMwNmE3OGM=.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Digital Life Certificate Submission Using Face-recognition System: Details Here"
-    excerpt: "A digital service with biometric support, known as the Digital Life Certificate (Jeevan Pramaan), is available to pensioners. They have the opportunity to generate DLC using the Aadhaar-enabled biometric authentication method."
-    publishedDateTime: 2022-11-09T12:06:00Z
-    webUrl: "https://www.thequint.com/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
-    ampWebUrl: "https://www.thequint.com/amp/story/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
+  - title: "Facial recognition and an 87-year-old Buddhist in Brisbane - has science finally tracked down ‘Lucky’ Lord Lucan?"
+    excerpt: "Last weekend, leading computer scientist Hassan Ugail declared that a facial recognition algorithm had identified an 87-year-old Buddhist in Australia as the fugitive earl. Lucan hunters are used to false dawns,"
+    publishedDateTime: 2022-11-11T11:15:00Z
+    webUrl: "https://www.independent.ie/opinion/analysis/facial-recognition-and-an-87-year-old-buddhist-in-brisbane-has-science-finally-tracked-down-lucky-lord-lucan-42136518.html"
     type: article
     provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 55
+      name: Independent.ie
+      domain: independent.ie
+    quality: 18
     images:
-      - url: "https://images.thequint.com/thequint%2F2022-11%2F91f151d0-c733-424e-ab2e-9e04f4d0847c%2FiStock_900862538__2_.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://www.independent.ie/opinion/analysis/4e171/42136517.ece/AUTOCROP/w1240h700/Lucan%20filer"
+        width: 1240
+        height: 700
         isCached: true
-  - title: "Jeevan Pramaan Patra: Steps to submit digital life certificate via face recognition feature"
-    excerpt: "All pensioners are required to submit a ‘life certificate' or Jeevan Praman Patra in November every year to pension disbursing authorities (PDAs) such as banks and post offices to receive their monthly share."
-    publishedDateTime: 2022-11-09T10:36:00Z
-    webUrl: "https://www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps-to-submit-digital-life-certificate-via-face-recognition-pesnion-15124611.htm"
-    ampWebUrl: "https://www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps-to-submit-digital-life-certificate-via-face-recognition-pesnion-15124611.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/personal-finance/jeevan-pramaan-patra-steps-to-submit-digital-life-certificate-via-face-recognition-pesnion-15124611.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 49
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/11/pension-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Jeevan Pramaan Patra: Check Do's And Don't For Submitting Digital Life Certificate Through Face Recognition Service"
-    excerpt: "Do's And Don't For Submitting Digital Life Certificate - Explore latest photo galleries of at India.com PhotoGallery."
-    publishedDateTime: 2022-11-08T10:22:00Z
-    webUrl: "https://www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    ampWebUrl: "https://www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 37
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2022/11/Jeevan-Pramaan-Patra.jpg"
-        width: 640
-        height: 853
-        isCached: true
-  - title: "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance"
-    excerpt: "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,"
-    publishedDateTime: 2022-11-09T13:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gbts-facial-body-recognition-patent-application-received-notice-/2022/11/09/9709242.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "c5O6i/HOL+F6iucTl5Xjqv/bUNg6lqZId/bsaU9GQplZFX7N1oCc0VHXC8DmPfiTKBFry0nGFJg3ZY/X3V0TW+y9INdLdmAKzk1dPhioJxuCSYIS/lfjxraF6Ml4ft52Jvk3FgV99FjVOBXhx5dLlDGWWbkzi+oMnHfRVzce1Ur0D88v7d1skRGTKf1ZCC49kiKwC3SUmkFjojVWo4j/xWwgda70mIOUjOR16qi96zcgQ9HIygXGAnB1aSUb3TcIhP/NalBkARipauRex9TThYvZ7e0ZMQN/sH7eMxXFrjjvkteTKUFjd2EDoqN+oN/LBB2uo7zfqEjMNnhvrC7RePewQB6zqRVLA6YSRoa6uPgN2KdJ8ysNgVju/m1LXwHy3w9rz1CJqdBGtHuip0kOOesFeMnA2NA7eQHmiey1flzAufrky7grrEQCj7EgnfOPl2PDJ3uJKdY+JBjW2m7AV6fLN0er2E3fH9NwPl9irv/aAGL0nCjpGo+A9cKSgNDLrkWwMW6uHxyx1qmRZKQDWw==;Omko4zv4q9wU0fkXNzM/1A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T18:30:00Z
 originalUrl: "https://tulsaworld.com/news/local/education/tcc-receives-40k-grant-to-develop-artificial-intelligence-lab/article_7fe5adac-61db-11ed-8425-d3e7a5ecdf2c.html"
 webUrl: "https://tulsaworld.com/news/local/education/tcc-receives-40k-grant-to-develop-artificial-intelligence-lab/article_7fe5adac-61db-11ed-8425-d3e7a5ecdf2c.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Tulsa World

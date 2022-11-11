@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T19:54:00Z
 originalUrl: "https://www.thedailybeast.com/beloved-batman-voice-actor-kevin-conroy-dies-after-cancer-battle"
 webUrl: "https://www.thedailybeast.com/beloved-batman-voice-actor-kevin-conroy-dies-after-cancer-battle"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Daily Beast

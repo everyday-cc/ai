@@ -2,11 +2,11 @@
 category: news
 title: "Tech Industries That Should Boom in The Near Future"
 excerpt: "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect"
-publishedDateTime: 2022-11-09T17:05:00Z
-originalUrl: "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future"
-webUrl: "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future"
+publishedDateTime: 2022-11-09T17:26:00Z
+originalUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
+webUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.themobileindian.com/wp-content/uploads/2021/06/Cell-Person-Phone-Smartphone-Technology-Texting-918633.jpg"
+    width: 960
+    height: 640
+    isCached: true
 
 related:
   - title: "Book-Industry Activists Should Be Careful What They Wish For"
@@ -29,6 +35,6 @@ related:
       domain: theatlantic.com
     quality: 34
 
-secured: "c8HKAWKFr1fDuvpRg29RYCRv92n1qCx2AYApwE1HW3GvmX5gcZf5vV2OlyaiT4AbaL3fAJcXPkxPifVvafUzyaH1LtdzKwsnJqUXYBS8JvdsHuyzFzyCx6vIoK1c0xU3PY0Rs/12ivFVAsWakK2R4RqTG0LEMSck0U5pn6yNrM/kWauweH2qiomyqzryHphSkdut2u7xozHGaPBtiB2nXPYsgJBRaBoeHjxQ0R73SMC6nyrr9YznbqlE/9QW11GOdq63O1AyQXAwZorga4w2xkXSBbhPrb7d/oJGSiiTAnCaSSZvVqIFKrxzQ8f9ULIcOd59llQFVMTucLkqRmZeMZk7ebEO/7beQLUrxbWSe3Ji1TFzb/qJHcSbNnxz3ZgwPx8NDMwCno5GPmbzYVG9Csg4Us0R6u1ioIynbReJqix/4odUvjC85ZFM7PeLZAB5hhGN1d3nnwa6yX9mW8CVOS4JpD9aN/Ip2nhrC+Bad3nTU16udvkd+lfhbMdgHOEDD41vQFpMGSeOmcfBk8Xx1Q==;Sd+ClDVmtWEdyc6FSSMJ+w=="
+secured: "FYfvQUPSIOWTBSTO44rSpDzA0LJ6qlurKVMtMWo0F7DofJTtCxqLv1GMvYXhFc8jJu0dcQHQNZfrO1KAF3dQFRAORYTf9p1hgsLix5kcWDOZTpPxqqGe73w4H9wsD7Kzs4RbLbfgH+ReL+XwIwOHFSlwK8hxGrXDBlEvhw+ChEohFQuOB7jkS3ZfWw9sKF0t/c2Z8dCFuh+7d0HuNeS+wLgnKZucXcKfq16WFX5Ty1Tzl6Y9WiTwxfp7cxlJeO943mP4PKusUmr0VCi5/49PpZ6+FzQvCr5lcDqxY7is5pgYGiNnRucMslJqflIoA1mAwkVpAwnomSPf1OQSUDkbTwHS/ry1uu83hTTpgM3IKcA=;vmwlM4jDabaz/b56601XIw=="
 ---
 

@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Waymo One’s Shift to Full Autonomy Only Confirms Uncertain Future for Self-Driving Cars"
+    excerpt: "Automakers have spent more than $100 billion on autonomous technology. Yet for all that investment, the self-driving car seems farther away than it did half a decade ago. Find out more at TheDetroitBureau."
+    publishedDateTime: 2022-11-11T19:14:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/11/waymo-ones-shift-to-full-autonomy-only-confirms-uncertain-future-for-self-driving-cars/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 26
   - title: "Majority of motorists think they can buy self-driving cars today"
     excerpt: "Despite there being no such thing as a commercially available self-driving car, 52% of motorists think they are available in showrooms The majority of motorists think they can buy a fully self-driving car today,"
     publishedDateTime: 2022-11-08T09:51:00Z

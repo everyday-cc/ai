@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2022/11/precision-health-platform-twin-
 webUrl: "https://www.indianweb2.com/2022/11/precision-health-platform-twin-health.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 525
     height: 640
     isCached: true
-
-related:
-  - title: "Taking steps towards emissions reduction in healthcare"
-    excerpt: "Taking steps towards emissions reduction in healthcare; Taking steps towards emissions reduction in healthcare."
-    publishedDateTime: 2022-11-07T05:08:00Z
-    webUrl: "https://www.monash.edu/news/articles/taking-steps-towards-emissions-reduction-in-healthcare"
-    type: article
-    provider:
-      name: Monash University
-      domain: monash.edu
-    quality: 39
-    images:
-      - url: "https://www.monash.edu/__data/assets/image/0005/3088850/doctor-563428_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "4+9UpbfusqtkLHKEfBJJmTt/rC05Z/koD03z3FLlqIqnieedTCrIEiOpWNGVXyU4ZPoVSuWuq1eEWEAotSv0id6Lyf+/dDFyH89HEPRXqwDslc+E4UcCMmJVtZptLPUAwrUOnyNgw7CmvR2z26ZiM1wOWavsE0KwVnwTIxff0wr2fsXV/xDKnzSiZAmU7XA8W9lntQn42awOd0io1YHBfHOpfVpG4F0/2N47qr6crO+f0UCWssCAWmX//+vt2m5My4td4bYb4WRtL8NhIYToxN01rEqiZgeE18UvV4T9bPSroRsV3ABfFOVGQIiFjF/jncwpGs1/oSS6u6DgNkGjB1hvUjZ5nwVxiMUcNOudH9Y=;eeq3S5SPzXtIVIL1k1n1qg=="
 ---

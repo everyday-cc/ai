@@ -42,22 +42,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "AI technology could help ease winter pressures on NHS, say researchers"
-    excerpt: "New technology has been developed by researchers from the University of the West of Scotland. Artificial intelligence which automatically diagnoses lung disease could help to ease winter pressure on hospitals,"
-    publishedDateTime: 2022-11-07T06:35:00Z
-    webUrl: "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers"
-    ampWebUrl: "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp"
-    cdnAmpWebUrl: "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp"
-    type: article
-    provider:
-      name: news.stv
-      domain: news.stv.tv
-    quality: 59
-    images:
-      - url: "https://news.stv.tv/wp-content/uploads/2022/11/f6f4875bd915b78e0ac9b1715e73ce31-1667764539-social-default.jpg"
-        width: 1280
-        height: 672
-        isCached: true
   - title: "Pioneering artificial intelligence could ease winter pressures on hospitals"
     excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
     publishedDateTime: 2022-11-07T16:03:00Z

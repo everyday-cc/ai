@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/g29639695/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/29639695"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29639695"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - Natural Language Processing
   - Microsoft AI
+  - AI in Robotics
 
 related:
   - title: "Liquid Biopsy Market Size To Reach USD 9.50 Billion By 2030, Says The Brainy Insights"

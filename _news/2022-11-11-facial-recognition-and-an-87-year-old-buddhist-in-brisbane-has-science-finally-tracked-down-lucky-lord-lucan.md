@@ -34,6 +34,24 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
+  - title: "Facial recognition expert claims Lord Lucan is alive"
+    excerpt: "Computer scientist Professor Hassan Ugail's AI photo analysis technology has positively identified an elderly man in Australia as Lord Lucan, a British aristocrat who vanished in 1974 the day after brutally attacking his wife and murdering the family nanny."
+    publishedDateTime: 2022-11-11T20:22:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018866602/facial-recognition-expert-claims-lord-lucan-is-alive"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 34
+  - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
+    excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
+    publishedDateTime: 2022-11-07T13:54:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/11/07/lord-lucan-australia-pensioner-exact-match/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 26
   - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
     excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
     publishedDateTime: 2022-11-07T17:11:00Z

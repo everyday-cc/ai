@@ -128,6 +128,15 @@ related:
         width: 1547
         height: 773
         isCached: true
+  - title: "Amazon SageMaker Studio Lab continues to democratize ML with more scale and functionality"
+    excerpt: "To make machine learning (ML) more accessible, Amazon launched Amazon SageMaker Studio Lab at AWS re:Invent 2021. Today, tens of thousands of customers use it every day to learn and experiment with ML for free. We made it simple to get started with just an email address, without the need for installs,"
+    publishedDateTime: 2022-11-11T19:30:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-studio-lab-continues-to-democratize-ml-with-more-scale-and-functionality/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
   - title: "Amazon SageMaker benefits tens of thousands of customers"
     excerpt: "Amazon SageMaker has opened the dawn of a new era in machine learning since its launch in 2017, helping tens of thousands of customers."
     publishedDateTime: 2022-11-09T07:23:00Z

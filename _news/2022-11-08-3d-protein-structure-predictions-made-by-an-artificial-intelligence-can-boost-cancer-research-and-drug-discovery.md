@@ -65,6 +65,15 @@ related:
       name: labiotech
       domain: labiotech.eu
     quality: 19
+  - title: "Computational chemistry and AI create a quantum leap in drug discovery"
+    excerpt: "We can design compounds suitable for development better and faster than previous approaches.” Kuano’s approach to drug design takes advantage of the fundamental physics behind how enzymes accelerate reactions in the body,"
+    publishedDateTime: 2022-11-11T17:22:00Z
+    webUrl: "https://www.fastcompany.com/90810071/computational-chemistry-and-ai-create-a-quantum-leap-in-drug-discovery"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "OOgnqYjgIuBe2D8XnNm3KjNWM8MYILCqgb1WISEqELL9b7iA7f/HcgW6yMswe1tQg6I2GC/68t4ks84zgafLu5IU6emuPMxvqbGOt9wd+ainRq4WjxJwa0b20aH643uPX6VDVpvnmZe+xiUWKKEPZGFla6jF1k0acjPsLpnjpz59KPdmuD5CGUtAhoivr1/g0wmgcQScLGjSmFGrP5j7IJmPtU4wjUcXpsy7g1mlApHuxlXB4Dct/d12yw6g4p+gwVIJgHjoRwu54igTyQQTvRzyecQwn7HFXzEtwYhWoKbf1HN7110Vc7NumGvh9Wv1ay2fE1Jm/gS1kQF8NVrjaUxh5TuvIId7sQwj6gonTnn4oBRO3hpxFrUUjPMEkF8hDT4E4T0BtYewEeRaFAjyOOlYpbc1QCkq76nX5tc/xYrJ1OIzdRgk9gyNhfmFOJdb18IefgbWFbjOAPWKgLsbBz3v4zOD4RNAz/V22VTdRDWMtHAJ8ceVuQ+20X20/2orXHLXxCTMSHuu+TB9Jn2zxQ==;ICsDEKLBUUw6+AfXrCrrLQ=="
 ---

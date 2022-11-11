@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T19:49:00Z
 originalUrl: "https://financialit.net/news/blockchain/1111-weekly-fintech-recap"
 webUrl: "https://financialit.net/news/blockchain/1111-weekly-fintech-recap"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Financial IT

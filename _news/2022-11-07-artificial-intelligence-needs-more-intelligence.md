@@ -26,6 +26,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "The human touch: ‘Artificial General Intelligence’ is next phase of AI"
+    excerpt: "AGI is the ability of an intelligent agent to understand or learn any intellectual task in the same way that humans do."
+    publishedDateTime: 2022-11-11T21:51:00Z
+    webUrl: "https://www.c4isrnet.com/cyber/2022/11/11/the-human-touch-artificial-general-intelligence-is-next-phase-of-ai/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 41
+    images:
+      - url: "https://www.c4isrnet.com/resizer/awehFlIS2QrsUaNW2miDBlrWAYc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/GTEUDWH56JAEPE3NVL3MWEG3FQ.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+
 secured: "386LjP0uy7GJEiPOKIScP4JaT7JRZmkponivo0GEKlA7qm92Q1dI1BugmHF+MHIB68Aqp6FXJGaCPBeFL/0TdR7V+1x9AfCYmeZtUVAelcvb7aKPv3BJABXzGU78oBTqJPzPSQysPr4ZHJiYoEctK0SX3FaXpUH8G3/y2l6X37qnZaoNSkO1B0vF03c3iVhW53gde0aro92ZK1c9TN065/0i/Vfln6FTU90q5/sFJo4uRwDM/q/Z+vv3xtgG1lU9nfgl2zfx0it85B/CqBUEaJLoIplHtFbgCexeMqjzsYG3m8HaMZ8fo2CNx2WcEYv1fGpdihq//7IC3VIsSx9K4wUqheYg8RHoGpwZ7rD04DIQgYpHv1LLFd92VI8+HR7z9A8JUS9qoNPiFBQ7PStW5LLS/IPDv9ckOfHdmxOWm3uW/3s/SdLTi6uoM8R31sz5g3SIK9fwjkJUCssbUhPDdwCEuGrUq7swZpEDtN5rAEPDFjyGy6xQpoYXq3FGI1ydhOj+8tGSP6vS7SATufg9ZQ==;x9z10fUAONOkwLOKOIslEQ=="
 ---
 

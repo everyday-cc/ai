@@ -1,18 +1,22 @@
 ---
 category: news
 title: "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset"
-excerpt: "MediaTek today launched the Pentonic 1000, its latest flagship smart TV system-on-chip (SoC) designed for 4K 120Hz displays. Pentonic 1000 integrates Wi-Fi 6/6E support, MEMC for smoother video, a powerful AI processor,"
-publishedDateTime: 2022-11-10T23:07:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/10/9711222.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/10/9711222.htm"
+excerpt: "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched"
+publishedDateTime: 2022-11-10T22:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798"
+webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798"
 type: article
-quality: 19
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -54,6 +58,6 @@ related:
         height: 264
         isCached: true
 
-secured: "JxilgTwmu1dAqUJFhdYdztOYsXstk6cNWztR3YgBJoeS97K4Mo6Nx7rCqQtMwcYtp714BlQpnOHZHOSWppQvOWZGfwqXwoOu1L78eCKkVTG1blTGtzPasmW++JUrW3DckKDe+aTx4ptlThsHIX86YyADYj4+eFJ24BCwTCkxrupz7ZCr/YF8MpfrNd4nTxt/HGCZ946eskqOdm/ymjKiq05JPFpZRxVuN7qoNrvhQ4OUwmtxQZaQZes4o43VWK/nXkIaBSXRCtBWxD1rv+Q2E+z4b3gyLmpht2yJ5ZaiQ8cI4K/G0bgmrXf68MOZ8EkE6fIF1GvBy5FBjLKAcgzsDUzgyHwzCr2/hYxxIPqySXT8lBmGdGNkBIF8XcR5IVK0ArQ0M3ZkzwMVFKnVpg0DmIOtPy+Pk9kQRT2nb4lbccOv4x+Sry6EaMFUPpKW2JiG7hLcAI4+F/cgGmX/BWw4me9h9jtP/hOxqAyk4HWHaJ/nP5whKO+DOSCYBuIM3r88yDMK3Y6z0/08Esiy7g3F0Q==;b0tZJN156wbsV99Bhc5wgg=="
+secured: "yBcNas7L3z6fpCJB3i/e7IM1x36uiOrk5rryP91B54SYw0XEEG7sR3W2P0cVDbTDy9cbB3MgW8/EwXVPsOwAu3jJNmwhBtWBP7pOr/E39ThekoOIFuUk0FSwgPGXgxq3hANSSamQtI9yeEQDyZJ4vM2lmSPt1O3Q7WPMxuzhnNWIn04KZvk6xUhd2TTw0hmycpvea93kUkknr5Fa4NAqcC3JB2w2dN8xJv4lqGEm224Bh2v6WFWrtFhziNNV78kahrCemgwsiAS9XBxkkSr2hMI3WgKMCL5KA3+PepIEJJA2pFDLW1n+rPXRf2kVAZgssT5sBvaclzdRut6azpoQh5v9zFBVIzMNmhombeKWehM=;GaYfDux3VSZUVFxU68nBmg=="
 ---
 

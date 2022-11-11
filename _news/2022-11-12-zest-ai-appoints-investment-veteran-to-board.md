@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T19:53:00Z
 originalUrl: "https://www.sfvbj.com/finance/zest-ai-appoints-investment-veteran-to-board/"
 webUrl: "https://www.sfvbj.com/finance/zest-ai-appoints-investment-veteran-to-board/"
 type: article
+quality: 39
+heat: -1
+published: false
 
 provider:
   name: sfvbj
@@ -13,7 +16,46 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
-secured: "gNK9IJ/EwdKeXvSLg1LFyhSmYzJTX2iIqBDedy6l+Euo7m/FygiyYGk0YPoDEihe3Rmy75bDDs0uAxMpke5lEPtGD58DA1k69iPDut8vxfGIVlb0k88Ien8mjpX+hC5+uDibJ5oRfBPQYmwOAjL3TbI+5Qjme6DNpjAYj0KjRhVwot5yAD8g1+u5QikHd67yt6WJhO9oA7pVxZx1StryqtDEQioIhoOfoH2/U12JcjS7EoZ0Jr6zhIt8BJfP8P5alIvXBnO6RTDyWKTLJ+2doONexqisJxOLxvoPjHk86QegNQ/FD/8pWZx1thhJAZLVV21QRynmxSoZIfz+0m8j/+HBDubFvm+M7QHK5GHgv0pnUlGHRUM86jYpHzMRhkB6a+YNTI57v5vpr8sl+a1lJhh7z5xT/i6eARwNC/eB9lPpjb28QJz0YGFuovoV0odrpci+EI3jpRDhAV17iv0FU+OhGLO4u6WmQLbUay3P5Q1lHKknX7oYJweNgpEWdRNsYz1q1UuB0lK2nBK0I8jW7A==;GfOrzZR7EPC6RCB0wChs+A=="
+images:
+  - url: "https://d2dmozeuai8pbs.cloudfront.net/wp-content/uploads/2022/11/1527562227213.jpeg"
+    width: 399
+    height: 399
+    isCached: true
+
+related:
+  - title: "Jarvis Invest’s ‘AI in investing’ campaign aims to highlight the benefits of AI in stock advisory service"
+    excerpt: "The new brand campaign highlights how Jarvis Invest is using AI to provide tailored solutions to investors who believe in DIY| Ad Craft News"
+    publishedDateTime: 2022-11-08T07:47:00Z
+    webUrl: "https://bestmediainfo.com/2022/11/jarvis-invest-s-ai-in-investing-campaign-aims-to-highlight-the-benefits-of-ai-in-stock-advisory-service"
+    ampWebUrl: "https://bestmediainfo.com/amp/2022/11/jarvis-invest-s-ai-in-investing-campaign-aims-to-highlight-the-benefits-of-ai-in-stock-advisory-service"
+    cdnAmpWebUrl: "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2022/11/jarvis-invest-s-ai-in-investing-campaign-aims-to-highlight-the-benefits-of-ai-in-stock-advisory-service"
+    type: article
+    provider:
+      name: Best Media
+      domain: bestmediainfo.com
+    quality: 40
+    images:
+      - url: "https://bestmediainfo.com/uploads/2022/11/1667891140.Jarvis-Invest.jpg"
+        width: 620
+        height: 350
+        isCached: true
+  - title: "Benefits of artificial intelligence in logistics"
+    excerpt: "We’re going, to be honest with you: there won’t be any big surprises in this list of the b AI in logistics. Prognosticators have been touting the potential"
+    publishedDateTime: 2022-11-11T11:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/benefits-of-artificial-intelligence-in-logistics-46513/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+
+secured: "aeutbneDT/lt+v3yXqu19nCQUJS2WvM+pMlm5r0Bxbxv8k54rSNa0RXlqjh6eJhCNPNIke2UlgWU3yH9lsudZH76mgSaVAM76AzlHxuRzJgMWWh4cVvgPcYFxTxFRzyswjjVx4pRrQbEaDV22NQv9UqAIDlmBv27gbsLjMN2qytsvONh72pY0PnjwFAGhDk3tr3I0F4TkWFht75lqw2/pipphhiWUajX09TcQchVUU3wqCc+eenGH64c7D67owzA/c9PrbWeaEKzqsROYCJEKsntxPw1eS+3JcsuzahdGnxisHBnUm09297uY0P+cLj0peTKUezC5z2kleVbk1dw3CGHoFy5xQONsGx8obhfiaE=;fT7pwPceZIS1VD38ph7qeg=="
 ---
 

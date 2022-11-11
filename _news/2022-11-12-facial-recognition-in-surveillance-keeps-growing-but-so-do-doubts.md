@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T20:31:00Z
 originalUrl: "https://www.biometricupdate.com/202211/facial-recognition-in-surveillance-keeps-growing-but-so-do-doubts"
 webUrl: "https://www.biometricupdate.com/202211/facial-recognition-in-surveillance-keeps-growing-but-so-do-doubts"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Biometric Companies

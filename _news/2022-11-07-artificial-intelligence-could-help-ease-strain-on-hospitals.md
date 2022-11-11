@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-95357282,imgsize-23822,width-1200,height-628,overlay-ethealthworld/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI technology could help ease winter pressures on NHS, say researchers"
-    excerpt: "New technology has been developed by researchers from the University of the West of Scotland. Artificial intelligence which automatically diagnoses lung disease could help to ease winter pressure on hospitals,"
-    publishedDateTime: 2022-11-07T06:35:00Z
-    webUrl: "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers"
-    ampWebUrl: "https://news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp"
-    cdnAmpWebUrl: "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/scotland/ai-technology-could-help-ease-winter-pressures-on-nhs-say-researchers?amp"
-    type: article
-    provider:
-      name: news.stv
-      domain: news.stv.tv
-    quality: 59
-    images:
-      - url: "https://news.stv.tv/wp-content/uploads/2022/11/f6f4875bd915b78e0ac9b1715e73ce31-1667764539-social-default.jpg"
-        width: 1280
-        height: 672
         isCached: true
   - title: "Pioneering artificial intelligence could ease winter pressures on hospitals"
     excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."

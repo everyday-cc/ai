@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T20:02:00Z
 originalUrl: "https://www.perthnow.com.au/technology/ai-takes-retail-marketing-to-new-level-c-8834367"
 webUrl: "https://www.perthnow.com.au/technology/ai-takes-retail-marketing-to-new-level-c-8834367"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Perth Now

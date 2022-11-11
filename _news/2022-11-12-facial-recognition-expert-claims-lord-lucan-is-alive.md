@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T20:22:00Z
 originalUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018866602/facial-recognition-expert-claims-lord-lucan-is-alive"
 webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018866602/facial-recognition-expert-claims-lord-lucan-is-alive"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: rnz
@@ -14,6 +17,54 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "AI-based facial recognition claims Brisbane Man is missing Lord Lucan"
+    excerpt: "Professor Hassan Ugails world renowned facial recognition system also helped identify three suspects involved in the murder of Jamal Khashoggi."
+    publishedDateTime: 2022-11-07T19:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/uk/ai-based-facial-recognition-claims-brisbane-man-is-missing-lord-lucan/articleshow/95361094.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
+    excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
+    publishedDateTime: 2022-11-07T13:54:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/11/07/lord-lucan-australia-pensioner-exact-match/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 26
+  - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
+    excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
+    publishedDateTime: 2022-11-07T17:11:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/news/crime/lord-lucan-yorkshire-facial-recognition-expert-says-mystery-man-living-in-australia-is-missing-peer-3909156"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 24
+    images:
+      - url: "https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NWU4Y2E5LTE5NzAtNGFmMC1iMjE3LWUzNTAxZTViNjM0ZDo0MmI1Mjg1ZS04MWViLTQzNDAtYTg5NC1hZTVhYmMwNmE3OGM=.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial recognition and an 87-year-old Buddhist in Brisbane - has science finally tracked down ‘Lucky’ Lord Lucan?"
+    excerpt: "Last weekend, leading computer scientist Hassan Ugail declared that a facial recognition algorithm had identified an 87-year-old Buddhist in Australia as the fugitive earl. Lucan hunters are used to false dawns,"
+    publishedDateTime: 2022-11-11T11:15:00Z
+    webUrl: "https://www.independent.ie/opinion/analysis/facial-recognition-and-an-87-year-old-buddhist-in-brisbane-has-science-finally-tracked-down-lucky-lord-lucan-42136518.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 18
+    images:
+      - url: "https://www.independent.ie/opinion/analysis/4e171/42136517.ece/AUTOCROP/w1240h700/Lucan%20filer"
+        width: 1240
+        height: 700
+        isCached: true
 
 secured: "H0o8tguasJoINxc54aEUd9d4ptj6J0m0SUIp6K73fdoeEnKtrf97c8LbnG+kGF+cSMOkwHIEdoxl1tZd4ZUDl+vkzaXqD9ct21ckFkvrpBNBRjug2jX5hJciHY61goDf8Ufl2hb7A6OrLD/Abh1AoUHWZQbytlVUdOTPbqxBu9CCz+MTSavXOcaSUkF9rkrSN4hR7QlG5BaDQpvaokEC/0N0KQocKv7K/2QSkIWPpHrkc/JFXiye34WU47F+kVMq8jCgNiLHy5oJBznkpT0eTkjsWLiIT5R36WjG+Dm2O8ZPcA29R2n9ycEhCz7PoXHuIduREBBg61t8eg58HedbtXhqAlPjUQdii7P/MZ2SSG2nAtELrRzPTn6SQeLvuiCBPpdNCubXAkPZJmgj6BAacEWNHxuDPug/90pvDtQ5wcC4cYPoh0XUj1S4t3e2ZLyzaifkF3qDYcm+FPFv9+mj0HQYRvuI677qfcWHSr/IkrE0Bna8sbc5riI77dWrQowIFVp+NrFup5kdiUFzOQiDdw==;Qr2bN7qWAsAVITLrCeKF4w=="
 ---

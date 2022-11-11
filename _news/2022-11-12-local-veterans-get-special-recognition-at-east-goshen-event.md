@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T19:30:00Z
 originalUrl: "https://www.dailylocal.com/2022/11/11/local-veterans-get-special-recognition-at-east-goshen-event/"
 webUrl: "https://www.dailylocal.com/2022/11/11/local-veterans-get-special-recognition-at-east-goshen-event/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Daily Local News

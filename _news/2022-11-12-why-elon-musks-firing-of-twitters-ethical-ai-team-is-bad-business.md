@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T19:05:00Z
 originalUrl: "https://www.inc.com/ben-sherry/elon-musk-twitter-firings-ethical-ai-artificial-intelligence.html"
 webUrl: "https://www.inc.com/ben-sherry/elon-musk-twitter-firings-ethical-ai-artificial-intelligence.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Inc

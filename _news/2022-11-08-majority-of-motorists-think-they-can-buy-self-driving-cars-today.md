@@ -55,6 +55,15 @@ related:
         width: 1534
         height: 970
         isCached: true
+  - title: "Waymo One’s Shift to Full Autonomy Only Confirms Uncertain Future for Self-Driving Cars"
+    excerpt: "Automakers have spent more than $100 billion on autonomous technology. Yet for all that investment, the self-driving car seems farther away than it did half a decade ago. Find out more at TheDetroitBureau."
+    publishedDateTime: 2022-11-11T19:14:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/11/waymo-ones-shift-to-full-autonomy-only-confirms-uncertain-future-for-self-driving-cars/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 26
   - title: "Self-Driving Vehicle Company Promotes Former Waymo Lawyer to Legal Chief"
     excerpt: "“Developing self-driving technology is one of the greatest challenges of our generation—building and protecting our technical leadership is critical to Aurora’s continued success,” Chris Urmson, Aurora’s CEO, said in a written statement."
     publishedDateTime: 2022-11-07T19:23:00Z
