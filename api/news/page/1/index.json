@@ -2,6 +2,206 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-12-softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination.md",
+      "title": "SoftBank, NEC, Sony, Toyota + more team up for Rapidus, Japan’s bid for next-gen chip domination",
+      "excerpt": "Major Japanese tech firms including SoftBank and Sony plan to launch a new chip company called Rapidus that aims to mass produce 3nm by 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "originalUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1189756266.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "publishedDateTime": "2022-11-11T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-luxonis-puts-a-powerful-rolling-robotics-lab-in-your-pocket.md",
+      "title": "Luxonis puts a powerful rolling robotics lab in your pocket",
+      "excerpt": "A Colorado-based computer vision company has launched a hackable, open-source roving robot called rae that packs AI processing and machine learning ... where pledges currently start at US$399. If all goes to plan with the already funded campaign, shipping ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
+      "originalUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/9a1e525/2147483647/strip/true/crop/3840x2016+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F4e%2F0da8d8df4b559c90452be6db0526%2Frae-noglass-front.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-idex-biometrics-prove-gnaniai-appointments-target-sales-and-revenue-growth.md",
+      "title": "Idex Biometrics, Prove, Gnani.ai appointments target sales and revenue growth",
+      "excerpt": "The latest round of executive appointments among biometrics and digital ID providers includes Idex Biometrics, Gnani.ai, and two C-level additions at Prove, all on the product, sa",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani-ai-appointments-target-sales-and-revenue-growth",
+      "originalUrl": "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani-ai-appointments-target-sales-and-revenue-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg",
+          "width": 1080,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
+      "title": "How 2022 became the year of generative AI",
+      "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
+      "publishedDateTime": "2022-11-11T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market.md",
       "title": "IBM’s New 23 Billion Transistor AIU Could Establish A Trend In The AI Hardware Market",
       "excerpt": "IBM provided no release date for the AIU The IBM Research AI Hardware Center developed the new AIU chip over five years. The center focuses on developing next-gen chips and AI systems to improve AI hardware efficiency by 2.5x annually and be able to train ...",
@@ -148,6 +348,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-11-the-rise-of-the-robots-and-the-impact-on-dubais-economy.md",
+      "title": "The rise of the robots and the impact on Dubai's economy",
+      "excerpt": "Experts have noted that increased efficiency means a serious addition to the economy, while reports suggest AI could add up to 13 trillion Euros to the global economy by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/17/42/50/1000x563_cmsv2_693a1a49-5f55-5ad8-b104-0ea65f309f3c-7174250.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "publishedDateTime": "2022-11-11T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-industry-innovation-ai-smile-smart-tracking-case-debut-worldwide-developed-by-weiyun-ai-robotics-group.md",
       "title": "INDUSTRY INNOVATION: AI SMILE Smart Tracking Case debut worldwide developed by Weiyun AI & Robotics Group",
       "excerpt": "The world's first AI SMILE Smart Tracking Case was self researched and developed by Weiyun scientific team. As the first pioneer intelligent hardware customized for invisible orthodontic users in the whole market,",
@@ -188,6 +431,41 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan.md",
+      "title": "QuickLogic Inks eFPGA Sales Rep Agreement with CHIP-gogo in Japan",
+      "excerpt": "Extensive experience with semiconductor IP and custom LSI design services to strategic accounts in Japan SAN JOSE, Calif., Nov. 11, 2022 /PRNewswire/ -- QuickLogic Corporation (NASDAQ:QUIK), a develop",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29680095",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29680095",
+      "publishedDateTime": "2022-11-11T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -511,7 +789,7 @@
       "originalUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -737,6 +1015,41 @@
       ]
     },
     {
+      "path": "_news/2022-11-11-bank-of-england-sets-out-research-on-ai-and-ml-in-financial-services.md",
+      "title": "Bank of England sets out research on AI and ML in financial services",
+      "excerpt": "Few industries have been as impacted by the rise of AI as financial services. Read a summary of the Bank of England's recent research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techerati.com/news-hub/bank-of-england-research-ai-ml-financial-services/",
+      "originalUrl": "https://www.techerati.com/news-hub/bank-of-england-research-ai-ml-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techerati",
+        "domain": "techerati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-artificial-intelligence-improves-the-location-of-objects-inside-industrial-environments.md",
       "title": "Artificial intelligence improves the location of objects inside industrial environments",
       "excerpt": "Indoor positioning technologies are one of the driving forces behind the digital transformation of the industrial sector. The ability to track objects, assets and people accurately and cheaply could save resources,",
@@ -872,361 +1185,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker.md",
-      "title": "Artificial Intelligence Will Become An Indispensable, Trusted Enterprise Coworker",
-      "excerpt": "Artificial intelligence is transforming global markets and enterprises of all sizes. Over the next year, this transformation will become a quiet revolution. Rapid progress in areas of fundamental AI research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/amp/",
-      "publishedDateTime": "2022-11-10T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity.md",
-      "title": "Blnk, a fintech that provides instant consumer credit in Egypt, raises $32M in debt and equity",
-      "excerpt": "One of these options, consumer loans, is being explored by Blnk, a fintech launched last October ... within underserved communities across the country” and support its “AI-powered” lending infrastructure. Customers who use Blnk at the point ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/648DA3A2-B228-4346-96A6-10CD2E276BDB.jpeg",
-          "width": 1170,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/",
-      "publishedDateTime": "2022-11-10T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-github-faces-lawsuit-over-copilot-ai-coding-assistant.md",
-      "title": "GitHub faces lawsuit over Copilot AI coding assistant",
-      "excerpt": "Class-action complaint contends that training the AI system on public GitHub repos violates the legal rights of creators who posted the code under open-source licenses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
-      "originalUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/11/netgear-asus-lawsuit-100573125-orig-100780974-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
-      "publishedDateTime": "2022-11-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-reading-drivers-set-to-face-yellow-box-junction-fines.md",
-      "title": "Reading drivers set to face yellow box junction fines",
-      "excerpt": "For the first six months drivers blocking the yellow box junctions will only be sent a warning notice by the council, as opposed to penalty charge notices, the Local Democracy Rep",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
-      "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/63E9/production/_127577552_mediaitem127577550.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-63580590.amp",
-      "publishedDateTime": "2022-11-10T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-vivo-unveils-v2-chip-to-use-it-with-dimensity-9200-for-ai-enhancements.md",
-      "title": "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements",
-      "excerpt": "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
-      "originalUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg",
-          "width": 839,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
-      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
-      "publishedDateTime": "2022-11-09T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FoneArena",
-        "domain": "fonearena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026.md",
-      "title": "How COVID-19 Impacting Artificial intelligence (AI) Chips Market Globally 2022-2026?",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial intelligence (AI) Chips Market\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-meta-layoffs-hit-an-entire-ml-research-team-focused-on-infrastructure.md",
-      "title": "Meta layoffs hit an entire ML research team focused on infrastructure",
-      "excerpt": "After today's Meta layoffs, a researcher said entire team focused on applying ML across the infrastructure stack was cut.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
-      "originalUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/zuck.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
-      "publishedDateTime": "2022-11-09T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

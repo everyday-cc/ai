@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-12-softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination.md",
+      "title": "SoftBank, NEC, Sony, Toyota + more team up for Rapidus, Japan’s bid for next-gen chip domination",
+      "excerpt": "Major Japanese tech firms including SoftBank and Sony plan to launch a new chip company called Rapidus that aims to mass produce 3nm by 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "originalUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1189756266.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "publishedDateTime": "2022-11-11T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market.md",
       "title": "IBM’s New 23 Billion Transistor AIU Could Establish A Trend In The AI Hardware Market",
       "excerpt": "IBM provided no release date for the AIU The IBM Research AI Hardware Center developed the new AIU chip over five years. The center focuses on developing next-gen chips and AI systems to improve AI hardware efficiency by 2.5x annually and be able to train ...",
@@ -51,6 +103,41 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan.md",
+      "title": "QuickLogic Inks eFPGA Sales Rep Agreement with CHIP-gogo in Japan",
+      "excerpt": "Extensive experience with semiconductor IP and custom LSI design services to strategic accounts in Japan SAN JOSE, Calif., Nov. 11, 2022 /PRNewswire/ -- QuickLogic Corporation (NASDAQ:QUIK), a develop",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29680095",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29680095",
+      "publishedDateTime": "2022-11-11T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -166,7 +253,7 @@
       "originalUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1339,93 +1426,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware.md",
-      "title": "AI Chip Startup Axelera Receives USD 27M to Commercialize its Hardware",
-      "excerpt": "Axelera AI has announced that they secured capital from VCs including Imec’s venture arm, Imex.xpand to commercialize their chip technology",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/10/AI-Chip-Startup-Axelera-Receives-USD-27M-to-Commercialize-its-Hardware.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/",
-      "publishedDateTime": "2022-10-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-chip-startup-simaai-raises-37-million-in-b1-round.md",
-      "title": "AI chip startup SiMa.ai raises $37 million in B1 round",
-      "excerpt": "The latest round, an extension of $30-million Series B round SiMa.ai closed in May, takes the total capital raised by the California-headquartered firm to $187 million",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/10/26/600x338/2121f67c-3986-11ed-aa0a-736e94ef98be_1663748552861_1666784868499_1666784868499.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html",
-      "publishedDateTime": "2022-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

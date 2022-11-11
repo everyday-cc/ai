@@ -35,6 +35,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Scientists promote FAIR standards for managing artificial intelligence models"
+    excerpt: "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
+    publishedDateTime: 2022-11-11T17:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 59
   - title: "Argonne scientists promote FAIR standards for managing artificial intelligence models"
     excerpt: "Argonne computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
     publishedDateTime: 2022-11-10T00:00:00Z

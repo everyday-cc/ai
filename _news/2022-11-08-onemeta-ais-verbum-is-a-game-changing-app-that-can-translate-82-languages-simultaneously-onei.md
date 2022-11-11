@@ -29,6 +29,15 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 36
+  - title: "This AI can harness sound to reveal the structure of unseen spaces"
+    excerpt: "Their model, called a neural acoustic field (NAF), is a neural network that can account for the position ... The other big use he sees is in artificial intelligence. “We have a lot of models for vision. But perception isn’t just limited to vision ..."
+    publishedDateTime: 2022-11-09T20:02:00Z
+    webUrl: "https://www.popsci.com/technology/neural-acoustic-field-model/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
   - title: "Study assesses the quality of AI literary translations by comparing them with human translations"
     excerpt: "Recent advancements in the field of machine learning (ML) have greatly improved the quality of automatic translation tools. At present, these tools are primarily used to translate basic sentences, as well as short texts or unofficial documents."
     publishedDateTime: 2022-11-08T14:31:00Z

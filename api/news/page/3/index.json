@@ -2,6 +2,437 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-09-movio-wants-to-make-your-marketing-videos-with-generative-ai.md",
+      "title": "Movio wants to make your marketing videos with generative AI",
+      "excerpt": "Movio is a 2-year-old startup leveraging generative AI along with other machine learning frameworks like GAN to make videos featuring talking human avatars.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/08/movio-marketing-videos-generative-ai/",
+      "originalUrl": "https://techcrunch.com/2022/11/08/movio-marketing-videos-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-id-selfie-improving-digital-identity-verification-using-aws.md",
+      "title": "“ID + Selfie” – Improving digital identity verification using AWS",
+      "excerpt": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/id-selfie-rekognition.jpg",
+          "width": 1547,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T10:55:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-why-data-remains-the-greatest-challenge-for-machine-learning-projects.md",
+      "title": "Why data remains the greatest challenge for machine learning projects",
+      "excerpt": "Automated and semi-automated labeling tools use a deep learning model to process the training examples and predict the bounding boxes. The automated labels are not perfect, and a human labeler must review and adjust them, but they speed up the process ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/",
+      "originalUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/amp/",
+      "publishedDateTime": "2022-11-08T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-insta360-dual-sensor-camera-uses-ai-to-make-video-editing-easy.md",
+      "title": "Insta360 dual-sensor camera uses AI to make video editing easy",
+      "excerpt": "In the continuing development of the One RS modular platform, Insta360 launched a variation with two big Leica lenses designed to provide enhanced 360 images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
+      "originalUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ce6ff9233ffc2fbed9d9d5d3af544024a96ce99b/2022/11/07/da7d89aa-1136-474b-a672-1cc531874ee9/one-rs-1-inch-360-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
+      "publishedDateTime": "2022-11-08T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-miso-robotics-automatic-burger-flippers-plot-european-takeover.md",
+      "title": "Miso Robotics’ automatic burger flippers plot European takeover",
+      "excerpt": "tech startup’s products have been sent to work ... Flippy 2, the modular frying robot; Sippy, the automatic beverage dispenser; and CookRight, the AI-powered sensor system which I assume is the more taciturn of the bunch. To explain how they work would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzExXC9mbGlwcHkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
+      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
+      "excerpt": "The Zen Robotics machine learns to remember plastic in a similar way to which humans learn to recognise items. The company hopes the Grundon can capture. The 'Fast Picker' arm is supplied by Helsinki-based supplier of robotic waste separation technology - Zen Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "publishedDateTime": "2022-11-08T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026.md",
+      "title": "Artificial Intelligence in Agriculture Market 2022 Projected to Gain Significant Value by 2026",
+      "excerpt": "\" Artificial Intelligence in Agriculture Market \" Insights 2022 | By Types ( Computer Vision, Predictive Analytics, Machine Learning ), Applications ( Agriculture Robots, Livestock Monitoring, Drone Analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026-2022-11-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026-2022-11-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T20:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules.md",
+      "title": "Nvidia Has Advanced Chip for China That Meets US Exports Rules",
+      "excerpt": "The chip was developed after the US government told the chipmaker to restrict sales of a chip designed for AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
+      "originalUrl": "https://www.cnet.com/tech/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/917de34dae0234cfee3bdd2ff0f41e0c1d3d5a90/hub/2022/11/08/c9b1b3eb-353d-4084-9cdb-09a4ad261737/gettyimages-1231345600.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
+      "publishedDateTime": "2022-11-07T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-the-pursuit-of-ai-education-past-present-and-future.md",
+      "title": "The pursuit of AI education - past, present, and future",
+      "excerpt": "Meet Sylvia Christie, our education partnerships manager who’s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
+      "originalUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics.md",
       "title": "Perceptron: AI that sees with sound, learns to walk and predicts seismic physics",
       "excerpt": "This column, Perceptron, aims to collect some of the most relevant recent discoveries and papers — particularly in, but not limited to, artificial intelligence ... who warn that neural networks being used to simulate actual neural networks should ...",
@@ -250,57 +681,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-ai-and-the-future-of-gaming.md",
-      "title": "AI and the future of gaming",
-      "excerpt": "Artificial Intelligence is an exciting topic for some and horrifying to others. Reality seems to fall somewhere in-between the extremes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/ai-and-the-future-of-gaming/",
-      "originalUrl": "https://venturebeat.com/games/ai-and-the-future-of-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/ai-future.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/ai-and-the-future-of-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-and-the-future-of-gaming/amp/",
-      "publishedDateTime": "2022-11-07T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -826,407 +1206,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-the-biggest-opportunity-in-generative-ai-is-language-not-images.md",
-      "title": "The Biggest Opportunity In Generative AI Is Language, Not Images",
-      "excerpt": "AI-powered copywriting has seen stunning revenue growth over ... and will prefer to work with a neutral startup that deploys its solution on-premise. This will be particularly true in highly regulated industries like financial services and healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63672833959962e11fa38215/0x0.jpg?format=jpg&crop=1024,576,x0,y199,safe&width=1200",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
-      "publishedDateTime": "2022-11-06T17:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-is-it-just-hype-how-investors-can-vet-a-companys-ai-claims.md",
-      "title": "Is it just hype? How investors can vet a company’s AI claims",
-      "excerpt": "There are basic training processes and advanced techniques, including automated machine learning (AutoML), hyperparameter tuning, active learning and weak supervision. A company’s ability to use these advanced techniques leads to reduced costs and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/",
-      "originalUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614-e1649786490326.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/amp/",
-      "publishedDateTime": "2022-11-06T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-driving-the-2023-bmw-7-series-exceptional-luxury-and-creeping-featuritis.md",
-      "title": "Driving The 2023 BMW 7 Series - Exceptional Luxury And Creeping Featuritis",
-      "excerpt": "BMW 7 series is now available with a choice of 6 or 8 cylinder mild hybrid drivetrains or as an all electric i7 with up to 318 miles of range. It drives better than its 3-ton mass would suggest, but p",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6366c597c7ce31316a13b51b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/",
-      "publishedDateTime": "2022-11-05T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "Powered by Watson, IBM can deliver safe dividend returns for income investors. Palantir is not low-risk, but the prospect of \"next-generation\" AI could lead to considerable returns. You’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/11/05/artificial-intelligence-stocks-you-buy-and-hold/",
-      "originalUrl": "https://www.fool.com/investing/2022/11/05/artificial-intelligence-stocks-you-buy-and-hold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/707518/ai-artificial-intelligence-robots-working-office.jpg",
-          "width": 5500,
-          "height": 3667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-05T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-6-ways-machine-learning-can-boost-your-marketing-processes.md",
-      "title": "6 ways machine learning can boost your marketing processes",
-      "excerpt": "Businesses must use data and forge the right, long-lasting partnerships to ensure marketing ML deployments are tailored and always evolving.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/6-ways-machine-learning-can-boost-your-marketing-processes/",
-      "originalUrl": "https://venturebeat.com/ai/6-ways-machine-learning-can-boost-your-marketing-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1327569482-e1645483723963.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/6-ways-machine-learning-can-boost-your-marketing-processes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ways-machine-learning-can-boost-your-marketing-processes/amp/",
-      "publishedDateTime": "2022-11-05T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.md",
-      "title": "IBM bolsters BI offerings with Business Analytics Enterprise suite",
-      "excerpt": "IBM’s Cognos Analytics with Watson, which is an AI-based self-service program for creating dashboards and reports, has been updated with the ability to consider seasons and other, multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html",
-      "originalUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/13/ibm-sign-100925012-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html",
-      "publishedDateTime": "2022-11-05T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-indonesian-police-use-face-recognition-for-g20-summit-security.md",
-      "title": "Indonesian Police Use Face Recognition for G20 Summit Security",
-      "excerpt": "Wakapolri said that through the command center, Indonesian police can find out the situation of members and facilities G20 Summit. They also provide the face recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "originalUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/04/63651ae978d50-wakapolri-komjen-pol-gatot-eddy-pramono_665_374.jpg",
-          "width": 665,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "cdnAmpWebUrl": "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "publishedDateTime": "2022-11-04T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "viva",
-        "domain": "viva.co.id",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk.md",
-      "title": "Content curation, AI ethics, other teams fired by Twitter under new owner Elon Musk",
-      "excerpt": "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "originalUrl": "https://www.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/777770/musk-begins-laying-off-twitter-employees-shuts-offices-temporarily.jpg?w=570&h=320",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "publishedDateTime": "2022-11-04T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

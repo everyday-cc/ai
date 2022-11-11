@@ -1,15 +1,15 @@
 ---
 category: news
 title: "With AI, you need to see the bigger hardware and software picture"
-excerpt: "Sponsored Feature It's a decade and a half since researchers dazzled the tech world by demonstrating that graphical processing units could be used to dramatically accelerate key AI operations. That realization continues to grip the imagination of enterprises."
+excerpt: "IDC has reported that when it comes to infrastructure, GPU accelerated compute and HPC like scale-up are amongst the top considerations for tech leaders and architects looking to build out their AI infrastructure."
 publishedDateTime: 2022-11-09T12:24:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/11/09/with_ai_you_need_to/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/11/09/with_ai_you_need_to/"
+originalUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
+webUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,121 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the future of gaming"
-    excerpt: "Artificial Intelligence is an exciting topic for some and horrifying to others. Reality seems to fall somewhere in-between the extremes."
-    publishedDateTime: 2022-11-07T15:39:00Z
-    webUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/"
-    ampWebUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/ai-future.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The pursuit of AI education - past, present, and future"
-    excerpt: "Meet Sylvia Christie, our education partnerships manager who’s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary."
-    publishedDateTime: 2022-11-08T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 86
-  - title: "Here’s how to earn trust in AI in a dystopian future"
-    excerpt: "This brought to light the debate on the role that Artificial Intelligence (AI) will play in our dystopian future, the dangers of it and the ethics that organizations investing in AI will have to follow to ensure it does not go rogue. However, the debate is ..."
-    publishedDateTime: 2022-11-11T03:43:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95440307,imgsize-7006,width-1200,height-628,overlay-etcio/here-s-how-to-earn-trust-in-ai-in-a-dystopian-future.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
-    excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
-    publishedDateTime: 2022-11-10T08:55:00Z
-    webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 40
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Winning the Spot Market with AI"
-    excerpt: "That’s why it is so important for companies to utilize technology to better their businesses. For example, artificial intelligence (AI) is an under-utilized tool in the supply chain, and it is something that can help better analyze market conditions and ..."
-    publishedDateTime: 2022-11-07T22:50:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/36054-winning-the-spot-market-with-ai"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2022/11/07/EARNINGS-GRAPH-GOING-DOWN-iStock-Baris-Ozer-1062733970.jpg?height=635&t=1667860631&width=1200"
-        width: 849
-        height: 635
-        isCached: true
-  - title: "The Promising Reality of AI"
-    excerpt: "Artificial Intelligence (AI) can sometimes be an ambiguous word in education circles, evoking images of machines replacing human teachers in the future. The truth, while less fantastic, is that AI"
-    publishedDateTime: 2022-11-09T16:32:00Z
-    webUrl: "https://www.eschoolnews.com/webinars/the-promising-reality-of-ai/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 37
-    images:
-      - url: "https://www.eschoolnews.com/files/2022/11/AI-Imagination.jpg"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Trading Coin Terminal Launches As The Next Generation Multi Mining And AI Trading System"
-    excerpt: "Losing miners were compelled to sell several mining devices after realizing they could not locate an alternate BTC or ETH mining solution. However, Korean 'mining farms' have developed a viable alternative,"
-    publishedDateTime: 2022-11-08T06:18:00Z
-    webUrl: "https://menafn.com/1105144038/Trading-Coin-Terminal-Launches-As-The-Next-Generation-Multi-Mining-And-AI-Trading-System"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/07/ND_c3531image_story.jpg"
-        width: 501
-        height: 375
-        isCached: true
-  - title: "This AI can harness sound to reveal the structure of unseen spaces"
-    excerpt: "Their model, called a neural acoustic field (NAF), is a neural network that can account for the position ... The other big use he sees is in artificial intelligence. “We have a lot of models for vision. But perception isn’t just limited to vision ..."
-    publishedDateTime: 2022-11-09T20:02:00Z
-    webUrl: "https://www.popsci.com/technology/neural-acoustic-field-model/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
-  - title: "Maximizing the Potential of Data and AI through Automation"
-    excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
-    publishedDateTime: 2022-11-07T18:54:00Z
-    webUrl: "https://insidebigdata.com/2022/11/07/maximizing-the-potential-of-data-and-ai-through-automation/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
   - title: "With AI, You Need To See The Bigger Hardware And Software Picture"
     excerpt: "It’s a decade and a half since researchers dazzled the tech world by demonstrating that GPUs could be used to dramatically accelerate"
     publishedDateTime: 2022-11-09T20:42:00Z
@@ -152,6 +37,6 @@ related:
       domain: nextplatform.com
     quality: 17
 
-secured: "0bPrPtPxrKsZ1dAZhoj8wz8YLv2s7W7trIIQJ3sdqUsQvMVdE0dJIXvobhuIV2e2PAHxeg1aFDYAgVxhEorSnCGY7YqqCnjrIpEwJ3Cg+DCUf2slaELuI33ZTORDqv934CGBa8uPDPyR5EvjPNbue6/i96VW4zwd9vjVMVWCLk78yO4pCn5RBd9NM/0pkE2rs9mSj5q+rF8dE14vr/u0Zy0RE36h4UHgxGtbQt8xXDEl/yRDtvmIHvNUGvXc1QhZF4v5PkLIpOBRcVaM6FSIA9b97OP4/ktVLrJF4TqfkiiJaSYyiA2sqO02Q3zY9Ry35VGdRxgTC+4Bxdz+5O1vVL8hR7CFUYr2P7DdQTsdjbg=;otztde93YnPQJvHzNtXfDA=="
+secured: "Vufj1Ld7kuDenBM5bNsUmYpTsYpCkoUEtJBDaQ92A5jPFXGbdQt2mYZnpnp7IWuItfWe/VOSnPwMDgmM1YPB/9w62Jq/rm7+93fs4I900YEZ1P0bFmrwqrkmuKmQGIKSpDTuNsoYvrY7kjlG3jUjK0j7jjrdm+8DB01isU4oQZ5PuhOXY2OeHWLoUMBgczyX133hkkf3BrPsxNwbYr0SEclkjZKDEOOBLPYNJjh8QRshYq0xET1AN3SOtg5D1TLWn9TfD9t4SU9NkMbqiWT81lyvCn4nvsjXH9VhKFE8evHAWydoIGzf48LuO8hYrYY7kOWub1Nx/ZuabrylBX2h2Z83OTXqz3Xg2Ft9chBpgzc=;5LCy0wtf+BMvgiPc7cNAvg=="
 ---
 

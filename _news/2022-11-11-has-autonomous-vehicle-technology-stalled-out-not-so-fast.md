@@ -24,6 +24,22 @@ images:
     height: 527
     isCached: true
 
+related:
+  - title: "Has autonomous vehicle technology stalled out? Not so fast."
+    excerpt: "The driverless car future hasn't panned out as first envisioned, but those watching closely caught on early that the splashy announcements and grandiose projects were a fantasy, one expert said."
+    publishedDateTime: 2022-11-11T16:50:00Z
+    webUrl: "https://www.autonews.com/mobility-report/driverless-car-craze-stalls-av-startups-put-tech-new-uses"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Visteon%20at%20ACM-05_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "fD1cFozCxG2foqupfa+V07kluRFQ8DqhTpMIeFTBXcV/XRDykU8JRUnd400maD5CgS4o0Jj1ZdGW74XK4yXWcjzWif+91JE7TEb+S44ad30CVhXxRfzQZdLX5/4zE6a7Br5coNpYqJtO0vj/JOlDhoEF6IjaM+50t1cze9ovuNyfnZ96+KM0asYEBIMoV8lwpcrRHIpqOhrY1HofaLABpR8756exyFXfcZxRrWFgy8yTyh5INwjDt/50fS+rD/8jTZ6KOuyj78QN2Ylh3ECQOCjQ/2XbbYbC8emgwDv4ky9QSkjLVLhPdsjmlYW6CmQVeJQs8aYzdowszmRmhoB0wYV2KENCVY4UCRzzEQMj8sDVRD4mQ2ACeW6iKazXxWVikhl4zbxwCOjSMyMVhTsZ5E47/m0NiiTpd/OCQPYmy0Dos9hqdLhjUi4sdblxHjPcuxVp0TMHHjvoTOH5dvn4uanthr/FkeQK2gwng0HkMjddMGdZdddiNlBW5s8WeLjJNbX90I3e8cFtPM3XAYWZnQ==;JY3/hvbAFLg8Apw3kwSq5Q=="
 ---
 

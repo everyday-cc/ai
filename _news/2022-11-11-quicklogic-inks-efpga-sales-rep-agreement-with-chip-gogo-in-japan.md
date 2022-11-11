@@ -1,18 +1,20 @@
 ---
 category: news
 title: "QuickLogic Inks eFPGA Sales Rep Agreement with CHIP-gogo in Japan"
-excerpt: "By adding hardware-based flexibility, SoC designers can extend product lifecycles and dramatically increase profitability.\" \"The founders of CHIP-gogo have extensive exprience and contacts in the SoC space in Japan,"
-publishedDateTime: 2022-11-11T15:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/11/11/9711466.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/11/11/9711466.htm"
+excerpt: "Extensive experience with semiconductor IP and custom LSI design services to strategic accounts in Japan SAN JOSE, Calif., Nov. 11, 2022 /PRNewswire/ -- QuickLogic Corporation (NASDAQ:QUIK), a develop"
+publishedDateTime: 2022-11-11T12:36:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan"
+ampWebUrl: "https://www.benzinga.com/amp/content/29680095"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29680095"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -20,6 +22,20 @@ topics:
   - AI in Sales
 
 related:
+  - title: "Quicklogic Flat On Pact With CHIP-Gogo"
+    excerpt: "QuickLogic Flat on Pact with CHIP-gogo QuickLogic Corporation (NASDAQ: QUIK), a developer of ultra-low power multi-core voice-enabled SoCs, embed"
+    publishedDateTime: 2022-11-11T18:22:00Z
+    webUrl: "https://menafn.com/1105169585/Quicklogic-Flat-On-Pact-With-CHIP-Gogo"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?961771"
+        width: 431
+        height: 250
+        isCached: true
   - title: "QuickLogic Flat on Pact with CHIP-gogo"
     excerpt: "QuickLogic Corporation (NASDAQ: QUIK), a developer of ultra-low power multi-core voice-enabled SoCs, embedded FPGA IP, and Endpoint AI solutions, today announced that it has signed an embedded FPGA IP sales rep agreement with CHIP-gogo,"
     publishedDateTime: 2022-11-11T14:45:00Z
@@ -30,6 +46,6 @@ related:
       domain: baystreet.ca
     quality: 19
 
-secured: "31jK4fxAckmKJPYOBXiJmA89TLmMBD6bnnOVZ8s+idowtMJ58O4UjVRaDBPmWndB5EWqvUH0xNvGpFKu7HBayq64Y0lzB1N4Y3vbB9Wb9E7gDYv5ACBZ/23CKNJqKlvMKSLrhfkykJwa/UDIyK6uUm6PCdAnw7+T9xTfoeR1xgl8IwZztxPWrT4WnG42X2ozlBkc6V/wp/ox71irl9xRzYYU53v1civDEDhYHE+XvZA+ngZdAyMWrqSVBQFA6puXo1ePG292uYkAVMO21DhUdCPlc4s1k9ICMnmV4N7aMrnPzHielphV2066hlOlbmnMDqJu0H2qb+MpM6f80n6c0N+YF1dn7t07ZCKl2SZ0gX8=;nd1lEPdNIfvLpqgjU7zYHw=="
+secured: "2aG9BvaiGXlteF+cmEoRbYKiDICaELKkBh9jtdY7zaX1l7NNzr2f1jJ1gnFnYt3t6SenHXdk/xc1s5V7BFmTA75MNi9WAWtKFw1y1Y0fWwK65pi1So+d7ino4RSXUjwWKVSgf9CW3LaDQzwVUDBWxHgKTKFotZsSZYGXG6ENK9pnyY4+JxXCt27gCeHspL4UDxNckr81Ay/OfAuLDCy1K4FuQuzJJp0G+zbVVeVfE6e0HGVXPztXevG+TZ2iMf0WkSiQanIJJgLeMpIrsYBfomFjrw2vSux0ExTMJlJgpPKyeldCXv7Cu6o2MgCo3KUP/sQTRA+fYSaIRClZNUURCnDxDAvkm3YWVVlpzEnjyeo=;NTZD5sL629qc+whtZtCxug=="
 ---
 

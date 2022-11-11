@@ -29,6 +29,20 @@ related:
       name: techerati
       domain: techerati.com
     quality: 51
+  - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
+    excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
+    publishedDateTime: 2022-11-10T08:55:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 40
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "SgWruqqBv6hws1sAmrOL9ibknFmPUQ0IyWb+ymNeoRLNWboR9c5zo1NHU/ULI8YG5eAjleV/017y6JGq/sXovsRzrt+hI5/crOBPaQxquhqLW5Qpy4J6jBCo8ugkvhaAt54YGNOO8vEp+SX3y/jpERvDhLKb4OaKkWKMstMDZI7Pm711/BFnD+51Co9j413FQ9XiTJZyPcvAdNMJ4ofIsBQBcP8lWgnAP5Vgly5yGTEwEtLm9R5Elsdy0kR+XwySDz40bEIX5VEhJI1Bn1qyOnAmHlAr+b+08SD6TRvyeqYXOV4BlWgmfSRqiDZ+TwQCGa1TyFxxv8c1aW+7YUSXCS6XLf6DPDQg7EH7Q2YAIN12nKKzQ+XHmQ7ENk3dbmXhTHpR10mLrA913waGs1pz4/BhoxZwOl9Ty+WvYK9UhYXLgz1k7OlsoVFDBvr5XzxEeu2TjnleaKz3rFIUboVNiRRKZUR4GtqhhXCk0sZeoE9nN4mlPCZVfSCw9yAzt0TrWoyBY9pnfPdNKrkXyxCeqA==;yRQXnC9bISUvXJ3QVm8c0w=="
 ---

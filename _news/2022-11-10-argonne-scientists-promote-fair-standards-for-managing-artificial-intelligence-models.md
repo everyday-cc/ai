@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Scientists promote FAIR standards for managing artificial intelligence models"
+    excerpt: "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
+    publishedDateTime: 2022-11-11T17:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 59
   - title: "New AI model can help prevent damaging and costly data breaches"
     excerpt: "This is the first time AI has been used to automatically discover vulnerabilities in this type of system, examples of which are used by Google Maps and Facebook. The ..."
     publishedDateTime: 2022-11-08T15:43:00Z

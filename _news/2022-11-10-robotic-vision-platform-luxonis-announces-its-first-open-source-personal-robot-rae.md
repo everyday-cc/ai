@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29641695"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - Computer Vision
   - AI
   - AI in Robotics
+
+related:
+  - title: "Luxonis puts a powerful rolling robotics lab in your pocket"
+    excerpt: "A Colorado-based computer vision company has launched a hackable, open-source roving robot called rae that packs AI processing and machine learning ... where pledges currently start at US$399. If all goes to plan with the already funded campaign, shipping ..."
+    publishedDateTime: 2022-11-11T18:06:00Z
+    webUrl: "https://newatlas.com/robotics/luxonis-rae-robot/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 84
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/9a1e525/2147483647/strip/true/crop/3840x2016+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F4e%2F0da8d8df4b559c90452be6db0526%2Frae-noglass-front.png&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x03mDyWycgT9jGDqh8pZn3jYScshjhVg5VgVobBgcIb5kTa3zUgPMQU930wm4L5gw7PMfHjg1QjoxavsJeJ6F+/aPBjDbt2OGYH7xcvnc0I6xoCy+vr4WvaIAodVKghnkGh4wtvD0QxAZTRiX7PmcVUPU3f1oeD58C855B5rKnmXlV1H6v+WAlapFpwNK1ekYCeDMh8x6QRG0B5/AlCoHkNn3UnEBCkq547E7jd2EdPBvdl4Mf421K0EP2xFswdMV65DPkL+PJ/i2Cl8XE4p0X7mLvHMt6gFSx5FZ1BFh0mVGmos9Xi5PTEDLK4Pv79cEg+1ZgUM0ch+6AXST+GTgElQSK2GzLJl9lHuraWB1a8=;Fe0q5nJOYN0hOv95MNwXzQ=="
 ---

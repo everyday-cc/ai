@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
 type: article
 quality: 87
-heat: 187
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,129 +30,55 @@ images:
     isCached: true
 
 related:
-  - title: "The pursuit of AI education - past, present, and future"
-    excerpt: "Meet Sylvia Christie, our education partnerships manager who’s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary."
-    publishedDateTime: 2022-11-08T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future"
+  - title: "How 2022 became the year of generative AI"
+    excerpt: "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code."
+    publishedDateTime: 2022-11-11T17:18:00Z
+    webUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 86
-  - title: "With AI, you need to see the bigger hardware and software picture"
-    excerpt: "Sponsored Feature It's a decade and a half since researchers dazzled the tech world by demonstrating that graphical processing units could be used to dramatically accelerate key AI operations. That realization continues to grip the imagination of enterprises."
-    publishedDateTime: 2022-11-09T12:24:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/11/09/with_ai_you_need_to/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://regmedia.co.uk/2022/03/10/gpu_shutter.jpg"
-        width: 1200
-        height: 627
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Here’s how to earn trust in AI in a dystopian future"
-    excerpt: "This brought to light the debate on the role that Artificial Intelligence (AI) will play in our dystopian future, the dangers of it and the ethics that organizations investing in AI will have to follow to ensure it does not go rogue. However, the debate is ..."
-    publishedDateTime: 2022-11-11T03:43:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
+  - title: "Generative AI: The Future Is AI Writing Its Own Code"
+    excerpt: "In what was basically like six months, it went from kind of this novelty that you laugh at to something that’s actually generating really high quality content that humans can use ...\""
+    publishedDateTime: 2022-11-08T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2022/11/08/generative-ai-the-future-is-ai-writing-its-own-code/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2022/11/08/generative-ai-the-future-is-ai-writing-its-own-code/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/11/08/generative-ai-the-future-is-ai-writing-its-own-code/amp/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95440307,imgsize-7006,width-1200,height-628,overlay-etcio/here-s-how-to-earn-trust-in-ai-in-a-dystopian-future.jpg"
-        width: 1200
-        height: 628
+      - url: "https://imageio.forbes.com/specials-images/imageserve/636a8e0f755bd734f642ae4f/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 1024
         isCached: true
-  - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
-    excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
-    publishedDateTime: 2022-11-10T08:55:00Z
-    webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
+  - title: "The race is on to build generative AI for the enterprise | The AI Beat"
+    excerpt: "Register here. In the wake of last week’s release of the DALL-E API, a crowd of startups is sure to follow, racing to build generative AI for the enterprise. I thought of that as 50,000 runners converged on New York City for its annual marathon yesterday."
+    publishedDateTime: 2022-11-07T14:51:00Z
+    webUrl: "https://venturebeat.com/ai/the-race-is-on-to-build-generative-ai-for-the-enterprise-the-ai-beat/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 40
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Winning the Spot Market with AI"
-    excerpt: "That’s why it is so important for companies to utilize technology to better their businesses. For example, artificial intelligence (AI) is an under-utilized tool in the supply chain, and it is something that can help better analyze market conditions and ..."
-    publishedDateTime: 2022-11-07T22:50:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/36054-winning-the-spot-market-with-ai"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "The AI Image Generator: The Limits of the Algorithm and Human Biases"
+    excerpt: "AI generative art algorithms usually function by drawing on ... You'll now receive updates based on what you follow! Personalize your stream and start following your favorite authors, offices and users."
+    publishedDateTime: 2022-11-11T14:02:00Z
+    webUrl: "https://www.archdaily.com/992012/the-ai-image-generator-the-limits-of-the-algorithm-and-human-biases"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2022/11/07/EARNINGS-GRAPH-GOING-DOWN-iStock-Baris-Ozer-1062733970.jpg?height=635&t=1667860631&width=1200"
-        width: 849
-        height: 635
-        isCached: true
-  - title: "The Promising Reality of AI"
-    excerpt: "Artificial Intelligence (AI) can sometimes be an ambiguous word in education circles, evoking images of machines replacing human teachers in the future. The truth, while less fantastic, is that AI"
-    publishedDateTime: 2022-11-09T16:32:00Z
-    webUrl: "https://www.eschoolnews.com/webinars/the-promising-reality-of-ai/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 37
-    images:
-      - url: "https://www.eschoolnews.com/files/2022/11/AI-Imagination.jpg"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Trading Coin Terminal Launches As The Next Generation Multi Mining And AI Trading System"
-    excerpt: "Losing miners were compelled to sell several mining devices after realizing they could not locate an alternate BTC or ETH mining solution. However, Korean 'mining farms' have developed a viable alternative,"
-    publishedDateTime: 2022-11-08T06:18:00Z
-    webUrl: "https://menafn.com/1105144038/Trading-Coin-Terminal-Launches-As-The-Next-Generation-Multi-Mining-And-AI-Trading-System"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/07/ND_c3531image_story.jpg"
-        width: 501
-        height: 375
-        isCached: true
-  - title: "This AI can harness sound to reveal the structure of unseen spaces"
-    excerpt: "Their model, called a neural acoustic field (NAF), is a neural network that can account for the position ... The other big use he sees is in artificial intelligence. “We have a lot of models for vision. But perception isn’t just limited to vision ..."
-    publishedDateTime: 2022-11-09T20:02:00Z
-    webUrl: "https://www.popsci.com/technology/neural-acoustic-field-model/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
-  - title: "Maximizing the Potential of Data and AI through Automation"
-    excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
-    publishedDateTime: 2022-11-07T18:54:00Z
-    webUrl: "https://insidebigdata.com/2022/11/07/maximizing-the-potential-of-data-and-ai-through-automation/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
-  - title: "With AI, You Need To See The Bigger Hardware And Software Picture"
-    excerpt: "It’s a decade and a half since researchers dazzled the tech world by demonstrating that GPUs could be used to dramatically accelerate"
-    publishedDateTime: 2022-11-09T20:42:00Z
-    webUrl: "https://www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: ArchDaily
+      domain: archdaily.com
     quality: 17
 
 secured: "/xTCkgSMSWc2crv/Dr/0Y0T8DJF2d7ISLr88UYI/DdtJfy/HRf59PgsbrMnvdaJdeTcvj8YSk+3IDmRCRCZmdF5Ank+4kTRLaoGla1P8Ds8Za271Lrs//+LlDGIBhiMh1KFTv3KRyf2odfo/AbcbBjvcXBXNc6ctvqP1QKLBR7sxO4BzzAHEPXDsuJxGEjNQhK7fSj1nvagROetnnezxKzZYss8wKO5g/F0vZouApSJQgHERRqtaZ4A+ALcsl7d8sR4agphCR2JjwkrggQwAdKTD7ni7kTHgxfew+HFhjMdkXNlCLRsrBZUsf/j9vVM5jbNsq2H+Hq/kdEMx7S72EC3Ypk3fxEkT4poMnVN8+7qW9EqPrTJYI5YZswJmesh+e9Rr/g6Ce4rKoGdFcp7/dRTC/4TJYikXGCIouFOk3t47TFJ5tRTA3MBMhW1OEMEVfcPzYle/Vy6G23Pzi7AI5VCh9zTrPU2PpwoKWy5we7XtbLEpMDvnPL9wo3S9tC3mtHiUrHHCEYOM2Nkhe3wYww==;TPpw0Z9VTxq8lJ33a70uXw=="

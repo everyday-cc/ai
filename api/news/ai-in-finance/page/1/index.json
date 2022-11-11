@@ -2,6 +2,85 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-12-idex-biometrics-prove-gnaniai-appointments-target-sales-and-revenue-growth.md",
+      "title": "Idex Biometrics, Prove, Gnani.ai appointments target sales and revenue growth",
+      "excerpt": "The latest round of executive appointments among biometrics and digital ID providers includes Idex Biometrics, Gnani.ai, and two C-level additions at Prove, all on the product, sa",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani-ai-appointments-target-sales-and-revenue-growth",
+      "originalUrl": "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani-ai-appointments-target-sales-and-revenue-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg",
+          "width": 1080,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-bank-of-england-sets-out-research-on-ai-and-ml-in-financial-services.md",
+      "title": "Bank of England sets out research on AI and ML in financial services",
+      "excerpt": "Few industries have been as impacted by the rise of AI as financial services. Read a summary of the Bank of England's recent research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techerati.com/news-hub/bank-of-england-research-ai-ml-financial-services/",
+      "originalUrl": "https://www.techerati.com/news-hub/bank-of-england-research-ai-ml-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techerati",
+        "domain": "techerati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity.md",
       "title": "Blnk, a fintech that provides instant consumer credit in Egypt, raises $32M in debt and equity",
       "excerpt": "One of these options, consumer loans, is being explored by Blnk, a fintech launched last October ... within underserved communities across the country” and support its “AI-powered” lending infrastructure. Customers who use Blnk at the point ...",
@@ -1237,84 +1316,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-hsbc-and-silent-eight-expand-machine-learning-partnership.md",
-      "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
-      "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
-      "originalUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg",
-          "width": 400,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering.md",
-      "title": "Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering",
-      "excerpt": "About Resistant AI Founded in 2019, Resistant AI uses AI and machine learning to provide identity forensic solutions that protect automated financial services from fraud and manipulation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/p29210259/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-mon",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/p29210259/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-mon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29210259",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29210259",
-      "publishedDateTime": "2022-10-11T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-11-hsbc-and-silent-eight-expand-machine-learning-partnership.md",
+      "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
+      "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
+      "originalUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg",
+          "width": 400,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering.md",
+      "title": "Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering",
+      "excerpt": "About Resistant AI Founded in 2019, Resistant AI uses AI and machine learning to provide identity forensic solutions that protect automated financial services from fraud and manipulation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/p29210259/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-mon",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/p29210259/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-mon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29210259",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29210259",
+      "publishedDateTime": "2022-10-11T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments.md",
       "title": "Provenir Named a Gold Winner for AI Platforms in Juniper Research's Future of Digital Awards – Fintech & Payments",
       "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today announced that its AI-Powered Decisioning Platform has been named a gold winner in the \"AI Platform\" category in Juniper ...",
@@ -1322,83 +1400,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-spiros-margaris-and-carl-hedge-fund-platform-partner-to-bring-all-accredited-investors-a-better-hedge-fund-experience.md",
-      "title": "Spiros Margaris and CARL hedge fund platform partner to bring all accredited investors a better hedge fund experience",
-      "excerpt": "He is a senior advisor to – and investor in – several companies in the fintech, insurtech, cybersecurity, health care, and AI sectors. Two of the fintech start-ups he has advised have become ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/592487755/spiros-margaris-and-carl-hedge-fund-platform-partner-to-bring-all-accredited-investors-a-better-hedge-fund-experience/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/592487755/spiros-margaris-and-carl-hedge-fund-platform-partner-to-bring-all-accredited-investors-a-better-hedge-fund-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/10166998-carl-logo-300x280.png",
-          "width": 300,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion.md",
-      "title": "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion",
-      "excerpt": "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

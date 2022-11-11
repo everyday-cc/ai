@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "US patent office gives GBT the high sign on its face and body biometrics invention"
-    excerpt: "A United States patent has been granted to GBT Technologies for its face and body biometric identification for mobile devices."
-    publishedDateTime: 2022-11-10T19:07:00Z
-    webUrl: "https://www.biometricupdate.com/202211/us-patent-office-gives-gbt-the-high-sign-on-its-face-and-body-biometrics-invention"
+  - title: "UK deploys fingerprint, face biometrics to track deportees, non-Irish EU citizens"
+    excerpt: "People subject to deportation orders in the UK will soon have to carry a GPS-enabled fingerprint scanner to verify location and identity."
+    publishedDateTime: 2022-11-11T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202211/uk-deploys-fingerprint-face-biometrics-to-track-deportees-non-irish-eu-citizens"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 0
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/21105254/uk-border-scaled.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
 
 secured: "BEfvl0ocF2OVZkTM8VaC3Zv0g/xK0Ye+603YZZWV6mb0SsKzh8BP0xjEvCicNh1NPFpyeZ25iBK6YReoFCTQDbtVzj0Dk3K106u/EDqXLuRzfvF18au5WZhZ9KF4isS2jOS/TzL3OlGEdwJrSbmEljgBLIPoGsSgEBygHKUYxGSMJ5JgJX12M6A2mqnjv46tPZdZQVTUNMUvw+jl3meyYJ758UXddF4gAdwm8rgfjtXWZSRiKlwN3bLq9Co7A7WvSel2Z6CqHGO83Csnyh1M8BUzlBdOTkIDly2CQnLRWHhLw91O/vh4oGiw89BpD92ePWMsubSj+AcKG4qhNWS7xodE95uOWHXsqUP4gkq5F0pMoUjIbaT9hR1Rqeju981P3pjIg/CUp2IVhHmKh56lswqGESzWEGlp7mNJUQ4zBPQKvI/zLpUPm0Un7ORcW2sc4kez7c5gnNwOG/U3Yc7yMt4YP9UlruCztiaANEenu62kJCSyKBAT3akpWylwphKhVs1ArQShtPmMMn/4Ae2lCA==;RJKaudk+wx9HiJmi1JrWWA=="
 ---
