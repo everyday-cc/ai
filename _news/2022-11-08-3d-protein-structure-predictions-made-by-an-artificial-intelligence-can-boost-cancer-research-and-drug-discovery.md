@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/008c792e-22ae-40aa-848b-2c6183e05f70/Rendition/low-res/Content/Public"

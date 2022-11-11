@@ -1,49 +1,20 @@
 ---
 category: news
 title: "AWS Launches Infrastructure Region in Switzerland"
-excerpt: "Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more than 2,500 full-time jobs annually through a planned investment of more than $5."
-publishedDateTime: 2022-11-08T19:40:00Z
-originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-launches-infrastructure-region-in-switzerland-122110900480_1.html"
-webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/aws-launches-infrastructure-region-in-switzerland-122110900480_1.html"
+excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
+publishedDateTime: 2022-11-09T06:51:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/09/9709024.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/09/9709024.htm"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.indiainfoline.com/new_hp/include/_mod/site/img/marketClose.jpg"
-    width: 1083
-    height: 660
-    isCached: true
-
-related:
-  - title: "Amazon (AMZN) Boosts Reach in Europe With Switzerland Region"
-    excerpt: "Amazon AMZN continues to dominate the global cloud computing space on the back of an increasing number of availability zones and regions served by Amazon Web Services (AWS). This is evident from AMZN’s latest launch of an infrastructure region in Switzerland,"
-    publishedDateTime: 2022-11-10T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-reach-in-europe-with-switzerland-region"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "AWS Launches Infrastructure Region In Switzerland"
-    excerpt: "Using AWS allows us to innovate quickly and access machine learning technologies such as Amazon Rekognition for image and video analysis that would otherwise be unavailable to us or too costly. The new AWS Region opens up new opportunities for us to serve ..."
-    publishedDateTime: 2022-11-10T19:29:00Z
-    webUrl: "https://menafn.com/1105163400/AWS-Launches-Infrastructure-Region-In-Switzerland"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-
-secured: "FRbERAT5OCX34XwVBhk7mHQQXd343oLHHp8BuRspZE+1/L+EaS/y+tcV/lEiKO5PbJukgMTs3GL8GaFQzKilfPj49J+FHwQPtPpGzn6H/RI0qXgVAlmPuVywv2iWvvOm1AAjjA/AobPTodz1dvislTqW3nPGKjsH1s7ZaqTM5kKsDKe0hTkpLq5xZJU4JsGab0veTTmrvLyRqt83G5FoCAKqgUZ11uDpLACT2sWtSENadPG68bWH6n0k0emIuLbv36b3xjVGq2SWOYV9zyA1q/WlLrHkzE2qlCfCZfe15u+8rLw2AaoiK23QYWM0AtxP+ntjVcIS0K8lmu8lSRqCV8BtplMryM/ccXHUNPqZVWQ=;8+hw8F1mw9f6EvMsH64jww=="
+secured: "XuXO6i0TY15UekHqv1aGhXEIlJzBQ7df/Fv155CDrxAps+iFGNx/odEbNwAPw/XB9dg4iDvuGDkRuc8c6yX+AfTNpHPAXZdR4PI0IRqKBloQiZUA5o43MuINDWfXpB4SYWweGt/QvGjLe1OhVi5GeIwGWpOT1buSWyZsIPfCMK+2rrFyHrwoyi1WW/xYqZ0PS2mjQaY6q+stLx60/j7Uz+h4CX3xhx0YXNsNldbweuHrP3H4C1c6jFgnkBNtwaHDkawLhlW60YQ/m5Mk36oSt1/G6tAuxo+AuZA/gw8PylUzmVrCNxWCEMaN/vsVWbLbrR5akLx5jARCIU7UIb6hoEwQ2SUkIXe8qKUK4X+O6qw=;RR+fvtpcIMQHTA5afuzJzw=="
 ---
 

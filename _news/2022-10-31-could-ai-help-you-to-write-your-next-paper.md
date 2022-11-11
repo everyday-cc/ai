@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 related:
   - title: "Replit’s Ghostwriter AI can explain programs to you—or help write them"

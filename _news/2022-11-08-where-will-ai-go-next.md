@@ -21,6 +21,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/2022-11-07-12_23_25-Greenshot.png?w=1920"

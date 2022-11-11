@@ -19,6 +19,7 @@ topics:
   - AI
   - IBM AI
   - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"

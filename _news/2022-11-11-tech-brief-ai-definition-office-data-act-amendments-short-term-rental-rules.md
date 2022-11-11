@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AWS AI
 
 images:
   - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/Tech-Brief-1-800x450.png"
@@ -24,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "IsBqMDwya/Sa+qdLdUu3QMLydmXJ6umse0hEXkFLZrJAENRUoIMflAE9p6e6nAfpNyb27a4astZDaaQus0ZicPMETlOWB+nXrRfYNUQDeSyGVKUm/o+Qb4liFPhJ979UqGlr/kAO8O8wA9y+jtgep2V8TVkNBdLs8+WPjSb67oVVGnwV4y98/C6sr0j/dVnpz+jQ3uOqZ8XrJuM7OKbbAQMgC7ZthwaYvLquxFw0eQMLXUXSE+v/2BrppJJZRaq59mByDyUMsf2z6DpmmiXQEAYqDUDKUjgViTWyJ7vN+4D4+WKg6oGMIkE9dMmI3T4WyhF3/4DDGBPTijcPhi/zFr5/9+f6xJMjFqGwK4FIFno=;9jZziPgxVrpPUyqPZkRgLQ=="
+secured: "6zV1cNXJAo0y3DfopCz3/3DRS+7/emtJjDH5dQ2zI86U+bQHSHxPOHkJAJDLsQXFIrhr2ntlMuLyFjzPssaVm+MwlZv+BVIL3JFM/L9TPnxUYzub4dOsLL50hPcjgHBMY7nkyoA137q+h9dCaJOPJNV9Rfm9sBTCLPesQfaI8Zb3syqfiqxdcSE1PuFij9PjK0lCcY5oYEc3GR1jShWDqN5anc5Eqex+UG+Rk26YXBu7S8Pcd/BqH32Tqx6FGsXGdC0nt/ICJu8Xq1+i4b4+ZO4QYYfOewS3IrGPxuQcD+Q+Ggcg4jAV1a9OLA0vYUuNBev+bzB2MoQHd2Vgws5t9ztgXKalTLYAF99ITqx1W65CKqERGuvNG7/0SEqdymGV5mneldWXQw5znLnWcGl+v8DOHv8IUZfJoReskTjn1V4VyvsLEu5+ht7DgG552T6gVTk1tnLWhwhWeKXbTSu/BE6Fs1WngG/aGDhElHjfegeqRFU+KI2Q41Ayfrfe8nRul+MrktMPM6nzjkSze4FkJw==;Km1Y5j993G1c5+Lnrocslg=="
 ---
 

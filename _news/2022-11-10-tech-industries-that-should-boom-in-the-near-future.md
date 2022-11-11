@@ -2,13 +2,10 @@
 category: news
 title: "Tech Industries That Should Boom in The Near Future"
 excerpt: "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect"
-publishedDateTime: 2022-11-09T17:26:00Z
-originalUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
-webUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
+publishedDateTime: 2022-11-09T17:05:00Z
+originalUrl: "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future"
+webUrl: "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
   name: Mobile
@@ -18,23 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.themobileindian.com/wp-content/uploads/2021/06/Cell-Person-Phone-Smartphone-Technology-Texting-918633.jpg"
-    width: 960
-    height: 640
-    isCached: true
-
-related:
-  - title: "Book-Industry Activists Should Be Careful What They Wish For"
-    excerpt: "Even if a book arguing for the genocide of an ethnic minority could make back its advance, most people would object strenuously if Penguin Random House published it. So why isn’t the Universal Declaration of Human Rights a reasonable moral floor ..."
-    publishedDateTime: 2022-11-09T17:10:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2022/11/amy-coney-barrett-book-penguin-random-house-letter/672043/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 34
-
-secured: "FxNEP/oQp0UbyWf0UwhSHjSUdVJQOSH+Py9f0EbfrrgmjRqu3fy0HXq7QOTH9K9ImyRL/JrHHaL8UfSk+qgKK5yaf1KfbyVXoShtn/Hg2Hlguc8vf2JCPFW98+KPgqhFs4+SpR3HdN128skuWmc+1XeYmR3gyCcaHH7mBcyWWQjW56tkcYHiiRaDheygZzVfdahVLGxP22B/XRL6FXP/YRp7qswsx9bnaVwmB1iWDfV4mQ52r7acPaQ78EKYp40Aef+QKcKM7XpfOKdne1SnQLRg6Vhbtjgb0iTZNP3Vc7hbOBlPROdb0MQOevw3R7Yucj+dEkvckE/ZFy0NMQnmd7l9gVed1ug9bssG3WVLjX4=;O4GDoh6ynVYZhfeXiUgSog=="
+secured: "c8HKAWKFr1fDuvpRg29RYCRv92n1qCx2AYApwE1HW3GvmX5gcZf5vV2OlyaiT4AbaL3fAJcXPkxPifVvafUzyaH1LtdzKwsnJqUXYBS8JvdsHuyzFzyCx6vIoK1c0xU3PY0Rs/12ivFVAsWakK2R4RqTG0LEMSck0U5pn6yNrM/kWauweH2qiomyqzryHphSkdut2u7xozHGaPBtiB2nXPYsgJBRaBoeHjxQ0R73SMC6nyrr9YznbqlE/9QW11GOdq63O1AyQXAwZorga4w2xkXSBbhPrb7d/oJGSiiTAnCaSSZvVqIFKrxzQ8f9ULIcOd59llQFVMTucLkqRmZeMZk7ebEO/7beQLUrxbWSe3Ji1TFzb/qJHcSbNnxz3ZgwPx8NDMwCno5GPmbzYVG9Csg4Us0R6u1ioIynbReJqix/4odUvjC85ZFM7PeLZAB5hhGN1d3nnwa6yX9mW8CVOS4JpD9aN/Ip2nhrC+Bad3nTU16udvkd+lfhbMdgHOEDD41vQFpMGSeOmcfBk8Xx1Q==;Sd+ClDVmtWEdyc6FSSMJ+w=="
 ---
 
