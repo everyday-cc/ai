@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-10T21:23:00Z
 originalUrl: "https://interestingengineering.com/innovation/artificial-intelligence-can-predict-3d-protein-structures-that-may-lead-to-cancer-research"
 webUrl: "https://interestingengineering.com/innovation/artificial-intelligence-can-predict-3d-protein-structures-that-may-lead-to-cancer-research"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/10/image/jpeg/ShzLNdE1XaZJjBunlWV2n0iWNPY59mDU4gnRGPvY.jpg"
@@ -55,6 +56,6 @@ related:
         height: 467
         isCached: true
 
-secured: "LWG0ALNN0J1bFAQhVYjzYq5HNfdoC2BoH3aL7sL+VuFrJCWzmfGBYDsylvnXQD785gX14bDxz2NtybIouVbXGdzZOZJZLmp2PNzXPMJcPSFnMAQXvnaYJSDifotym8HL7/gmt3DozaWYlT2/e9NJVx1yZjU2FPMvc7iepdqkkmH6FRpq0VBg4dioENAySpCgdvyrlVhvXInUJ3aO1Z0Lhhd9c79kj+eQD7Cecewcq7M6eaZfgszl4n1LU7pvZro4RbgD6G5M8TQjr6XOIcXQH02wFdyU3dbulK1ETvXQUhArgyxA272p1m5iJL7FMrOmbatOJGM++IhgvRAnNrLJSwkLsNzE79fvb6kikTVt1+c=;W0xVp5MmIL/MlnryQ27spg=="
+secured: "Um/souC58HizqwrKjThrgYDPlO7EWnij50TQEuyJaQCmeDNrFHsiULzFqPpEdU2QcIZEhPeGc3xz3c7ZX3agr4+uqK4+u0lmOqJUZHUa/eUcrsv9Izwcu+jHpKN+I9L4Y8HNJbMoMWciVZpd9qIgWW++pjJlIwZ+ViTKORbPdbH5b/x6u205ba7gTFCcgECjsi/TiWPlTOPkzgXTg+Ec3mUzN6stXpcJzr1XGa1YQfFt13mvDj0fCLhZFOFQxPUR/JFVzkstzAjyXKM56DSqfj437T7KEU0p/e9AzaFwxx8+YA8MVGh3Pdsnw+uCyyQRIJgBSQoBmSL/B9U8cWEAEKGhx8SeBuJN8R9Hw5lfUvuOwsedKpPVcHU9EdXeHQGI2sHkwK0BfLYbApgHG5S/nTYmBhGUrCVEMWPQNgyO2b1wf5ZQGU7idkmPo6teDJ00VKgPmtAHrBY50wpE8tm04R8jqIRzxS2t/8Q4FdHXDbRXRXmZ3fJo24+dg+50ZIWvs/LUeeXRfNzl4uiGjBEXaw==;G2/Z9e9YuS6ry+PEJYRHQQ=="
 ---
 

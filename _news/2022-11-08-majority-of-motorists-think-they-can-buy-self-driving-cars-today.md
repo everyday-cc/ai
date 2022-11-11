@@ -39,6 +39,20 @@ related:
         width: 1534
         height: 970
         isCached: true
+  - title: "What the latest self-driving tech merger says about the future of cars"
+    excerpt: "The tie-up between former rivals Ouster and Velodyne, announced Monday, comes less than two weeks after Argo.ai, a leading self-driving car startup, said it was shutting down. The big picture: The race to develop self-driving cars led to a gold rush for lidar makers,"
+    publishedDateTime: 2022-11-08T10:45:00Z
+    webUrl: "https://www.axios.com/2022/11/08/lidar-ouster-velodyne-merger"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/03eNIGN0Im2U8I_srZGqSWP_sho=/0x0:1920x1080/1366x768/2022/11/07/1667850699943.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "fFyJsTxPrr3FS0mm4V57wO0HN4rGcXalYlY1+gRj2/XGqlVleUsqzO2nI9TPf3gZk0/hshyvIPuh+Rz3r1WSISzo7OJMuHZ+25ryyYuKMIf9idMoaETTsNfVR6E/CMCz6pQVyLHoq9d/jVeO2X3dvD1Mo1ax/KgWs1DQ7A/H9ymzgsAn9nHE/ZfGaajtHgg3c58xN8i//5p/91ltFGBrhx96P9ju85p5rZAnru8Bsivigt8zRFJihxdrbNDV2M/iT55RYU2tht1f6121ZmotAFU/Pz/ceqZ5lNqBZwiye8TLjEdXlXeLKJeCg6hip1CEPMdQMjgWsHFo3TRqHQylO2BkWPPbVQhWclVmiAI1cs+PJ+ExgX0kRmpLYI/W6EhihBIHSBzfJzMDaeOTN9baHh2RlGCMHpwVDHs4WulOjHPfG3AgaFOWaRR/QO2rAUNDy8KoIVNIyPUieW1dF6dceUbKznhfWuTIGm6fStmFFjItA8mR8kFDmby3CZogQnf6wPaOPUk5NlpGWirZwMrN1A==;5edztTVqW/KNZHKa8OBx6w=="
 ---

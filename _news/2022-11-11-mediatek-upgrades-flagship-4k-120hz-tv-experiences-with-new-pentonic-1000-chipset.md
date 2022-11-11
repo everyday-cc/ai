@@ -43,7 +43,21 @@ related:
         width: 1598
         height: 800
         isCached: true
+  - title: "MediaTek Inc.: MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset"
+    excerpt: "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched the Pentonic 1000, its latest flagship"
+    publishedDateTime: 2022-11-10T23:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57556413-mediatek-inc-mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1942241/MediaTek_Pentonic_1000_1022.jpg"
+        width: 400
+        height: 264
+        isCached: true
 
-secured: "7y1mTVhK7kTYf4JSz0LwWPJ2DEewsT9pvYHHZaR5XsZ4QMgh1w1qDKy0fS64uKcbXwJ5mKD8thc7vPv4e0qV3qdV3najfqdStilsT9WBkWXa1FxOiojeidI0Uy8ZaYZCIj+PAArXP+egb/VavPlNNAEtoB44pItNgwcj4a5dmxsZbQylN95pLsv8pdj6J8J70hJoWw37o6UmYrWetOxbmyZuK4aA9weFVMveNOtvZjCcrHe9ly0b1tuEgQfYdtwOSBiWn0cy6Fnz3QRo5YMcOT7NaWhb1PCWP7cIlTtLF8GH6jjCkjjd9Gqrp3Gu1o5USU7qETziVxPdOLvxBTzWgHsqwYO/Z+ePU8vhOSGXwas=;Vrxci4qi90CKuFvV7ri4RQ=="
+secured: "DTq/nBDZSp0zg3y8ssWg2NWsNXb1+ZcG6X47EOAO32kMwvaOecYDMmgq/DX2RGb0yO2YBKHP9CjrxKYc6qpA0tBrHJQbq7apLXGMX4REMwfPGc6rdHJv5sajF4+MZ3AXIDLqvlcNM0tF1+shFYnN/OTlAz5jQA7YfwCl7yhxWRANOCrAZ1KjgDKePuarWKY2zT/btvNpw1j4cpnTIvxIrLMRMZSjm15vlTGhfl4/bKC7NYlfajCgGP87xAuH0gN9nnk7jhD0IipZGgFGRpKNytKr4rNyR6ECbmfdiucHoT313YCGPJ/SdYwyVsSeaQlnlxomTOAanJKpLDZA5m80HduBumWmKA6kJIgHLZIIKX9mFjCMZiDAYDy+iOQ9WePHXtCwSQPpxfbj/X5r7Uci8MmiMZDscvmjP3dHwNexkUN6pUcmeGd2ykOFosENy5nYO6WSCvzKNvg06ZcWpIenL8uwYv2exYUbXHTxNhT339d2DkBNY3DFI2ZBZGhJgy8q0+LXEkb2bou0vl8wW9cLTA==;4qciHoVwWgOmddPJAGEMkQ=="
 ---
 

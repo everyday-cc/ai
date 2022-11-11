@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai
 cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
 type: article
 quality: 74
-heat: 104
+heat: 106
 published: true
 
 provider:

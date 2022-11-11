@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1932378/market_research_report.jpg"
