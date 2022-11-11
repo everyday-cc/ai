@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "The AI Image Generator: The Limits of the Algorithm and Human Biases"
+    excerpt: "AI generative art algorithms usually function by drawing on ... You'll now receive updates based on what you follow! Personalize your stream and start following your favorite authors, offices and users."
+    publishedDateTime: 2022-11-11T14:02:00Z
+    webUrl: "https://www.archdaily.com/992012/the-ai-image-generator-the-limits-of-the-algorithm-and-human-biases"
+    type: article
+    provider:
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 17
 
 secured: "gqHEi/uw9HsV+XJbKl7CRGlButtgGfVSaRDo6VZj7AzcwQWfOi4pkPoFPNgv7soCgwuNE3ml0R3Dw7bvuiMFRbgbObhR3EvJQ6zl9/JaY4ksjk5IJRRIXDvUpte9O2K1OSNfUh/XyvFPWtC/KRmAczH7yOg/+VFHBozwGwgPJEjZ8LgL4zKKhr2njQ1O+75BZDU4q8DZmPqjWEYSk9lFKREbY3nPp/sbBfkePgJJg9JwoHuh9/nFpNZm2+HRe0cAicBgtg53lVyro0eBv/4cUvA+Lvopo9X3sEELUjdh3QV4XBhFr062bZJ8k9MSHM5tuz3MKXk2iPdS/DWw4PvunerF7K8CpCxKBM3CX+pO2vftyaDQaQ0/S3zbj/DOVieBeDSClKdO/XAZI4NF5n8EMwhGVOOoyayG/jGL8qMzJdbPOHh2zq+rkTz8SkrStEx1IVVhRtn1GXitXbNz8emO1Y6BOzoRR5K4pddInM1+XwX/zUj4r8TGc21aieuNw2O5keapp09a66nwZbdmfbCkZA==;esXNCujPYiGcByMIIweDKQ=="
 ---

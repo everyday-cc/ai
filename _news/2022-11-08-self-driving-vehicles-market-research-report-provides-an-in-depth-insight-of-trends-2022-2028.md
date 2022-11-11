@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Law Market Share, Size, Revenue, Global 2023 Latest Trends, Boosting Strategies, Growth Opportunities and Forecast 2028"
+    excerpt: "Global \"Artificial Intelligence in Law Market” (2023-2028) research report gives an outline of the business with"
+    publishedDateTime: 2022-11-09T09:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Software Market Trends, Size, Share, Growth, Industry Analysis, Advance Technology and Forecast 2027"
     excerpt: "Video & image recognition segment to register largest market size during the forecast period Edge AI software is segmented based on data source into video and image recognition, speech recognition, iris & facial data,"
     publishedDateTime: 2022-11-09T12:07:00Z
@@ -160,20 +174,6 @@ related:
         width: 850
         height: 557
         isCached: true
-  - title: "Artificial Intelligence in Law Market Share, Size, Revenue, Global 2023 Latest Trends, Boosting Strategies, Growth Opportunities and Forecast 2028"
-    excerpt: "Global \"Artificial Intelligence in Law Market” (2023-2028) research report gives an outline of the business with"
-    publishedDateTime: 2022-11-09T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-expanding Metal Stents Market Size | Share | Trends | Growth | Scope | Outlook | Opportunities | Forecast 2022 Analysis to 2028 By MRI"
     excerpt: "Quantitative market information and forecasts for the global Self-expanding Metal Stents industry, segmented by type, end-use, and geographic region. – Expert analysis of the key technological, demographic, economic, and regulatory factors driving growth ..."
     publishedDateTime: 2022-11-09T04:46:00Z
@@ -196,7 +196,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"
         width: 394

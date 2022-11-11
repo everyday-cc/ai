@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Medica 2022: Artificial intelligence method allows personalised diagnosis of back problems in future"
-excerpt: "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from"
-publishedDateTime: 2022-11-02T07:18:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766"
+excerpt: "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from TU Kaiserslautern (TUK), the University Medical Centre in Mainz and several companies is working on a method that will enable more efficient monitoring of malpositions and strains on the back."
+publishedDateTime: 2022-11-02T07:34:00Z
+originalUrl: "https://idw-online.de/de/news803879"
+webUrl: "https://idw-online.de/de/news803879"
 type: article
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/83d9a07d-a900-4791-afaf-62a2de80f6cf-1509545409.jpg"
-    width: 300
-    height: 452
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
     isCached: true
 
-secured: "kPoEFPJol9GIm9Q0zmoNMu3umfQ0S+AgKujbQEZsm5YwQG4mBb3mSReC7PxbHyh1Pfuq0IUVPzCoZx/0PWioib+rA/5vOlRiCjhM0SCZSLkHnmFAh2psnG4mGlBip1bWMrev3rRGym0731aLWC+BLjHXwTurt477eNaqKNmGlYUOsUIc0SeA46gYOmcAsvdV1Vc/ptxsvMpyVUqtcE9MFVQciOQ9IaCvqz/mXxpCfnbkVEOb0BLKbOVngtgkAS2a7ISxiCoBZ+3x1f6+2QFNjh0M0r8R7OzUezT0/mBju/mmvvnm8pondLSvuCmV63PL6TId3iKIYoN25wOTibJssTINjcZu4b8Zqd3k3wDiG2Q=;FU0yURjH/aLSuetJ/2Je/A=="
+secured: "QyICt/QWtmAlkAkjZQMEnIieZ3B/OYONE72PlhwotZu/14mBQOlbIzz6hgDDk+DUJe1+stzRcJDtRCtA7ycyS3xYB90yRAKxQO+49EgQTOOy5xH17WlodrUKrMlpF9pK9faJ8TxrHKOfsTyypPZJlD4c6VrlG/fkb/fx6CCLYD2BfdY5ehXnjnu4NAmqLCm0XcYAm02rawtSYN/+5A3pXTDmsu8Tz8B36IWCjOq5eewIGeoCKvWLRClNRJMnDWftk1RIZqFQoqLJoOTSR2cnVqoNfj1/zarHljduKN6NXP4NYS1RXydUQhDygGGqWP23A1TP/5jCh4WNXmiH0WbXZO5vpndZ860sQPYmT4neFIA=;Ift8yGer48fQz9kUNKtdsw=="
 ---
 

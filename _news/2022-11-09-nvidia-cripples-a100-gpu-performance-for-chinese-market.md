@@ -157,15 +157,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Nvidia touts a slower chip for China to avoid US ban"
-    excerpt: "Alibaba’s cloud computing business has been one of its customers. A100, along with Nvidia’s enterprise AI chip H100, were placed under a U.S. export control list to “address the risk that the covered products may be used in, or diverted to ..."
-    publishedDateTime: 2022-11-07T00:00:00Z
-    webUrl: "https://techcrunch.com/2022/11/07/nvidia-us-china-ban-alternative/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "Nvidia Designs New Chip For China To Override U.S Ban"
     excerpt: "The Nvidia A800 graphic processing unit is \"another alternative product to the Nvidia A100 GPU for customers in China,\" a spokesperson for Nvidia said in a statement. \"The A800 meets the U.S. government's clear test for reduced export control and cannot be programmed to exceed it,"
     publishedDateTime: 2022-11-08T19:32:00Z

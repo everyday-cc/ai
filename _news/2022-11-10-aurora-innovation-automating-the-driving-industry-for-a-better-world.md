@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4555793-aurora-innovation-stock-a
 webUrl: "https://seekingalpha.com/article/4555793-aurora-innovation-stock-automation-driving-industry-buy"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora inks deal with Ryder to keep its self-driving truck fleet ready for road"
-    excerpt: "Self-driving truck company Aurora Innovation is laying the groundwork for expanded commercial operations from its south Dallas terminal, starting with a maintenance partnership with Ryder."
-    publishedDateTime: 2022-11-07T22:15:00Z
-    webUrl: "https://www.autonews.com/mobility-report/aurora-inks-deal-ryder"
+  - title: "INDUSTRY INNOVATION: AI SMILE Smart Tracking Case debut worldwide developed by Weiyun AI & Robotics Group"
+    excerpt: "The world's first AI SMILE Smart Tracking Case was self researched and developed by Weiyun scientific team. As the first pioneer intelligent hardware customized for invisible orthodontic users in the whole market,"
+    publishedDateTime: 2022-11-11T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/industry-innovation-ai-smile-smart-tracking-case-debut-worldwide-developed-by-weiyun-ai-robotics-group-1031904529"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/aurora-MAIN_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
 
 secured: "slVf24KdBYlXQdNUESJlaKgOoNuRUZvcBKufOresim01QxxGGynDuVoy1jLs6WUrafAbN3J7xH900HDzVLmvcQ+NmXMOaP761EWhdvDYz0VvMMEMsaZ3zc7PzMpoT4wPhytEMBSs69WIX87UevfQxEoFxNK0oXKO88XE2Ke/06CbBTNQTDOmcgKSsWdgGkqy4ExEpAzFopkkIx62BDgUy+5l5Xjhz2ni2DzVmVxreGYVA4F1784/vCYAEsks+Rtnmt/xAQPRjuq1C2ZQkBeWDvinlWFI8PhOfEwkehIFQRSxtqGbsiQxJHzS/Qf8IlNGR9l+QwQNc4I/Mfrd4vUdBzUvZYkgmldVP7HURfy3yvLfC38EjNEn4CQjhRtanRCZYmE7YRPvSXP87ET0ic0//o5sextyQAyoF3Pz75up5Jju6GYMJkLksDpX/VSGZPDJg5vZsj+swJisCZQUWEheoKYZzOJrxx8H6o8yrKISbYtMuepg7Y3uqG0adKfVocZyIW38o+w9KkBGlUyo6LxsMA==;zE36KW4HvFIaAJTQiOi0FA=="
 ---

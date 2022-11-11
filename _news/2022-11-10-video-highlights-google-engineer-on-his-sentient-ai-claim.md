@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T18:28:00Z
 originalUrl: "https://insidebigdata.com/2022/11/09/video-highlight-google-engineer-on-his-sentient-ai-claim/"
 webUrl: "https://insidebigdata.com/2022/11/09/video-highlight-google-engineer-on-his-sentient-ai-claim/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insidebigdata.com

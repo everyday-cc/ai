@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T12:30:00Z
 originalUrl: "https://www.theaustralian.com.au/inquirer/one-simple-change-will-keep-indigenous-voice-out-of-the-courts/news-story/aaae6bb33f6b69846bc6e922842ccada"
 webUrl: "https://www.theaustralian.com.au/inquirer/one-simple-change-will-keep-indigenous-voice-out-of-the-courts/news-story/aaae6bb33f6b69846bc6e922842ccada"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

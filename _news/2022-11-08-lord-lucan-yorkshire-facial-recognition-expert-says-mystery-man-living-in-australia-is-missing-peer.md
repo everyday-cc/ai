@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lord Lucan's photos are exact match for British pensioner living in Australia, facial recognition expert who identified Salisbury poisoners claims"
-    excerpt: "A world-renowned facial recognition expert says photos of Lord Lucan are an exact match for a British pensioner living in Australia."
-    publishedDateTime: 2022-11-06T22:14:00Z
-    webUrl: "https://www.kentonline.co.uk/canterbury/news/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
-    ampWebUrl: "https://www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/canterbury/news/amp/lord-lucan-photos-exact-match-for-british-oap-in-australia-276599/"
-    type: article
-    provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 36
-    images:
-      - url: "https://www.kentonline.co.uk/_media/img/XSGMIU8LXDBEAXTRMCFF.jpg"
-        width: 1069
-        height: 734
-        isCached: true
   - title: "AI-based facial recognition claims Brisbane Man is missing Lord Lucan"
     excerpt: "Professor Hassan Ugails world renowned facial recognition system also helped identify three suspects involved in the murder of Jamal Khashoggi."
     publishedDateTime: 2022-11-07T19:01:00Z
@@ -50,21 +34,19 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
-  - title: "Is Lord Lucan still ALIVE... and hiding in AUSTRALIA? Bombshell report claims aristocrat who vanished after 'nanny was bludgeoned to death in London' 48 years ago has 'EXACT ..."
-    excerpt: "An 87-year-old Buddhist who lived in Nepal before moving Down Under is said to be a 'definite match' for British aristocrat Lord Lucan, according to leading expert Professor Hassan Ugail."
-    publishedDateTime: 2022-11-07T02:00:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-11397071/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-11397071/amp/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11397071/amp/Report-claims-Lord-Lucan-exact-facial-recognition-match-87-year-old-Buddhist-Australia.html"
+  - title: "Facial recognition and an 87-year-old Buddhist in Brisbane - has science finally tracked down ‘Lucky’ Lord Lucan?"
+    excerpt: "Last weekend, leading computer scientist Hassan Ugail declared that a facial recognition algorithm had identified an 87-year-old Buddhist in Australia as the fugitive earl. Lucan hunters are used to false dawns,"
+    publishedDateTime: 2022-11-11T11:15:00Z
+    webUrl: "https://www.independent.ie/opinion/analysis/facial-recognition-and-an-87-year-old-buddhist-in-brisbane-has-science-finally-tracked-down-lucky-lord-lucan-42136518.html"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 8
+      name: Independent.ie
+      domain: independent.ie
+    quality: 18
     images:
-      - url: "https://i.dailymail.co.uk/1s/2022/11/07/00/64258043-0-image-a-113_1667780673368.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.independent.ie/opinion/analysis/4e171/42136517.ece/AUTOCROP/w1240h700/Lucan%20filer"
+        width: 1240
+        height: 700
         isCached: true
 
 secured: "xkemrhwekcBpcjXnVUBvzAxks+Jq567At2k/hNIO8gOqAvmS3EnIN/7+cD3d4NpUWbU4xR/dL02ywk4+/qjRkRasAfssF6roeyGpM9bwWMM+UHGHkG0U7/2oPax/pURQ5S2t1HSHbII/IkLH4ET5/mUGAOwMvL16vnRgQ5FMv+M9XH0pOm7ziX3D3oKzLJxb7Eh9TLP3ZXhlvDSpZhcrmKP6tbQW/NyMRFvgYAAJ2+8TlIwOWh23LyfwYzrBYgxgoiaXY2QmE7/ToAMD2DsZZpdFfuFbAlKfC10B42oJdtvLY8U1hi7aJZP6W8GFXHhol1037tzfNw/w4tB3f2DhFyQ2vM0+Y4x75D+Emv21/yE=;qihXuRht+xPJSx500mYNMg=="

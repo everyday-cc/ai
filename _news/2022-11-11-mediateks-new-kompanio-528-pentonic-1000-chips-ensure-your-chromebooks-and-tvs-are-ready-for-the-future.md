@@ -7,7 +7,7 @@ originalUrl: "https://pocketnow.com/embargo-mediatek-kompanio/"
 webUrl: "https://pocketnow.com/embargo-mediatek-kompanio/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset"
-    excerpt: "MediaTek's upgraded AI-Super Resolution (AI-SR) technology provides edge smoothing and detail reconstruction to make FHD look like 4K, while the company's AI-Picture Quality (AI-PQ) Scene Recognition and AI-PQ Object Recognition technologies improve ..."
-    publishedDateTime: 2022-11-10T22:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798"
+    excerpt: "MediaTek today launched the Pentonic 1000, its latest flagship smart TV system-on-chip (SoC) designed for 4K 120Hz displays. Pentonic 1000 integrates Wi-Fi 6/6E support, MEMC for smoother video, a powerful AI processor,"
+    publishedDateTime: 2022-11-10T23:07:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/10/9711222.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
     images:
       - url: "https://mma.prnewswire.com/media/1942241/MediaTek_Pentonic_1000_1022.jpg"
         width: 400

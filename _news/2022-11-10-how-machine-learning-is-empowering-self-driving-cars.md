@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowe
 webUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowering-self-driving-cars"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "A look inside Waymo's self-driving cars"
+    excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
+    publishedDateTime: 2022-11-11T15:15:00Z
+    webUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/"
+    ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 59
+    images:
+      - url: "https://do0bihdskp9dy.cloudfront.net/11-11-2022/t_b35467a2694a446fba346f3303a7bdb4_name_WAYMO_ANNOUNCEMENT_frame_59.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Majority of motorists think they can buy self-driving cars today"
     excerpt: "Despite there being no such thing as a commercially available self-driving car, 52% of motorists think they are available in showrooms The majority of motorists think they can buy a fully self-driving car today,"
     publishedDateTime: 2022-11-08T09:51:00Z
@@ -40,20 +56,15 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "What the latest self-driving tech merger says about the future of cars"
-    excerpt: "The tie-up between former rivals Ouster and Velodyne, announced Monday, comes less than two weeks after Argo.ai, a leading self-driving car startup, said it was shutting down. The big picture: The race to develop self-driving cars led to a gold rush for lidar makers,"
-    publishedDateTime: 2022-11-08T10:45:00Z
-    webUrl: "https://www.axios.com/2022/11/08/lidar-ouster-velodyne-merger"
+  - title: "Self-Driving Vehicle Company Promotes Former Waymo Lawyer to Legal Chief"
+    excerpt: "“Developing self-driving technology is one of the greatest challenges of our generation—building and protecting our technical leadership is critical to Aurora’s continued success,” Chris Urmson, Aurora’s CEO, said in a written statement."
+    publishedDateTime: 2022-11-07T19:23:00Z
+    webUrl: "https://www.law.com/corpcounsel/2022/11/07/self-driving-vehicle-company-promotes-former-waymo-lawyer-to-legal-chief/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/03eNIGN0Im2U8I_srZGqSWP_sho=/0x0:1920x1080/1366x768/2022/11/07/1667850699943.jpg"
-        width: 1366
-        height: 768
-        isCached: true
+      name: Law
+      domain: law.com
+    quality: 18
 
 secured: "1Sd4ulHM8q+CYgouVY1wAcZX8gNQ5YGkqF7tZgkmXGWIJRgjI5Ey4khjZMePjrcUZG+X1ZVRhqAYMhpzWQynfz0OGVr+7e+jLu2aZT2i2uA6s7a7GRy4aol1iGAYFWN11criOrBobirbnfdYL1qVCKQfdwVSUNwwFkdQnpIkl+wu9/RqziAdtju3TFXn+5slGt8xM0kbXitbKIVh89aSIvozdiOvCAUReuknLLnZHfaAFQ6DgLACwbeYaZEXBpV5Gq/Q7fOQiAhFr9PhsPlMRh2vyA9oRrhkqeti0apRpepBC9AB+Kf6F3mCfqB3kV5y2w7gZNlvFjE+6MOQyKMUipw9pxmR/59NmSWNmBSeN8ENF6liiboTTH/rKJz2RnvY/fS7me4+MtnESJqbpnQyqi6Zex21jm+szyYETQw7W+yl0EB8BMGQcSynfYiEDHmBxdKmCpaivHYQuohokvdVMWs31eGSCB88LdNtEEtwa7I0ooHSHmTNrJL3A7iIO29bLmzDG3UaT8rVkaoiFMSJLA==;1DHpuYpb3p9RwNNl9plmZA=="
 ---

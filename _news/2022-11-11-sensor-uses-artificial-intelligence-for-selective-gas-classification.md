@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T13:09:00Z
 originalUrl: "https://www.theengineer.co.uk/content/news/sensor-uses-artificial-intelligence-for-selective-gas-classification"
 webUrl: "https://www.theengineer.co.uk/content/news/sensor-uses-artificial-intelligence-for-selective-gas-classification"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Engineer

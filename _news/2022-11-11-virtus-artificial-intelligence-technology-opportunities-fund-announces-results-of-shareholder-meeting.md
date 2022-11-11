@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T13:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/virtus-artificial-intelligence-technology-opportunities-fund-announces-results-of-shareholder-meeting-1031904401"
 webUrl: "https://markets.businessinsider.com/news/stocks/virtus-artificial-intelligence-technology-opportunities-fund-announces-results-of-shareholder-meeting-1031904401"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Business Insider

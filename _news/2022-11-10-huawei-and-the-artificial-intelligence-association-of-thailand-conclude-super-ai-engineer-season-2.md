@@ -50,6 +50,22 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
+  - title: "With AI, you need to see the bigger hardware and software picture"
+    excerpt: "Sponsored Feature It's a decade and a half since researchers dazzled the tech world by demonstrating that graphical processing units could be used to dramatically accelerate key AI operations. That realization continues to grip the imagination of enterprises."
+    publishedDateTime: 2022-11-09T12:24:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/11/09/with_ai_you_need_to/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2022/03/10/gpu_shutter.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Here’s how to earn trust in AI in a dystopian future"
     excerpt: "This brought to light the debate on the role that Artificial Intelligence (AI) will play in our dystopian future, the dangers of it and the ethics that organizations investing in AI will have to follow to ensure it does not go rogue. However, the debate is ..."
     publishedDateTime: 2022-11-11T03:43:00Z
@@ -94,20 +110,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Using Artificial Intelligence to Upgrade Manufacturing in the Optics Industry"
-    excerpt: "A key feature of current and future technologies, from smartphones, self-driving cars, medical testing equipment, to security monitoring, is the optical camera. It is vital"
-    publishedDateTime: 2022-11-07T00:00:00Z
-    webUrl: "https://www.asiaone.com/business/using-artificial-intelligence-upgrade-manufacturing-optics-industry"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 36
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/pr-newswire_500_4_425.jpg?h=7de12b8a&itok=NRsZ6ujK"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Trading Coin Terminal Launches As The Next Generation Multi Mining And AI Trading System"
     excerpt: "Losing miners were compelled to sell several mining devices after realizing they could not locate an alternate BTC or ETH mining solution. However, Korean 'mining farms' have developed a viable alternative,"
     publishedDateTime: 2022-11-08T06:18:00Z
@@ -122,15 +124,6 @@ related:
         width: 501
         height: 375
         isCached: true
-  - title: "With AI, you need to see the bigger hardware and software picture"
-    excerpt: "IDC has reported that when it comes to infrastructure, GPU accelerated compute and HPC like scale-up are amongst the top considerations for tech leaders and architects looking to build out their AI infrastructure."
-    publishedDateTime: 2022-11-09T12:24:00Z
-    webUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 19
   - title: "This AI can harness sound to reveal the structure of unseen spaces"
     excerpt: "Their model, called a neural acoustic field (NAF), is a neural network that can account for the position ... The other big use he sees is in artificial intelligence. “We have a lot of models for vision. But perception isn’t just limited to vision ..."
     publishedDateTime: 2022-11-09T20:02:00Z

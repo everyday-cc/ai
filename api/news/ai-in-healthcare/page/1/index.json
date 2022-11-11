@@ -885,19 +885,19 @@
     {
       "path": "_news/2022-11-02-medica-2022-artificial-intelligence-method-allows-personalised-diagnosis-of-back-problems-in-future.md",
       "title": "Medica 2022: Artificial intelligence method allows personalised diagnosis of back problems in future",
-      "excerpt": "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from",
+      "excerpt": "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from TU Kaiserslautern (TUK), the University Medical Centre in Mainz and several companies is working on a method that will enable more efficient monitoring of malpositions and strains on the back.",
       "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
+      "webUrl": "https://idw-online.de/de/news803879",
+      "originalUrl": "https://idw-online.de/de/news803879",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/83d9a07d-a900-4791-afaf-62a2de80f6cf-1509545409.jpg",
-          "width": 300,
-          "height": 452,
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -907,11 +907,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T00:18:00-07:00",
+      "publishedDateTime": "2022-11-02T00:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
+        "name": "idw",
+        "domain": "idw-online.de",
         "images": null,
         "publishers": null,
         "authors": null

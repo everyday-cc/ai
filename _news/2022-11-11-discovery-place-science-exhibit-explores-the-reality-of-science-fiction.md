@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T14:15:00Z
 originalUrl: "https://www.thecharlotteweekly.com/entertainment/discovery-place-science-exhibit-explores-the-reality-of-science-fiction/article_4628acfa-614e-11ed-91ac-1b2f47a2ccc9.html"
 webUrl: "https://www.thecharlotteweekly.com/entertainment/discovery-place-science-exhibit-explores-the-reality-of-science-fiction/article_4628acfa-614e-11ed-91ac-1b2f47a2ccc9.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Charlotte Weekly

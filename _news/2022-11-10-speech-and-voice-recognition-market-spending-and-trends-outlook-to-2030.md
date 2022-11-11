@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/speech-and-voice-recognition-market-spendi
 webUrl: "https://techbullion.com/speech-and-voice-recognition-market-spending-and-trends-outlook-to-2030/"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,40 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "What’s Trending in the Global Voice-Recognition Market?"
+    excerpt: "From smart TVs to voice-recognition tech for children, the industry for real-time speech analytics and voice biometrics is rapidly expanding."
+    publishedDateTime: 2022-11-11T16:13:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21254585/global-market-insights-whats-trending-in-the-global-voicerecognition-market"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/11/Voice_recognition_dreamstime_39055871_promo.636e72ec831f7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Citizen Services AI Market worth $41.0 Billion by 2027 - Exclusive Study by MarketsandMarkets™"
+    excerpt: "The citizen services AI market has been segmented based on deployment mode into cloud and on-premises. Cloud-based citizen services AI solutions help in maintaining a competitive edge by eliminating the administrative roadblocks of the supporting infrastructure,"
+    publishedDateTime: 2022-11-07T16:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-citizen-services-ai-market-worth-410-billion-2027-/2022/11/07/9707535.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
+  - title: "Insights on the Data Science Platform Global Market"
+    excerpt: "According to this report the global data science platform market was valued at $4.7 billion in 2020, and is estimated to reach $79.7 billion by 2030, growing at a CAGR of 33.6% from 2021 to 2030. Data science platform is a packaged software application that provides the tools for the entire life cycle of a data science project."
+    publishedDateTime: 2022-11-08T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-data-science-platform-global-market-2030-/2022/11/08/9708811.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "q9izmPLtskcIMBMfTUE7IlbM0FisLiFwT/WWPHh2b2jwBNzYy8AHvrpK4yhyuOwCtcoLiMQAqFAiErUjFNcIyqbeNWtjkHu0ewdnG6lfXoCwsqvonnPkCGhIlk5M1+J5K62fEyBfvVHqTMTZdKwwtBUtGwhJgWuFpsiNv6DQcPQILAd0SrmZ5fWAcJIDadzB/rXSlTyUznuSu0VA3RN9ciUCs30hNcdlykHTml3lNQU17O+lwhY27FkWDznJ1fPiSSa+Xh5SmlDonIMNZAQPSbj6Ox8z0wSrxwwqdDeSnLJeXkRGNJ5Twz/R+k3cT0X0SZPArJ8yOzEb2ESW6LXhdhXNpuUpJHKhXs0SUxkZRG8GmwmZ35oAL9HUF6whxF1FHvCoaMGVan9lxXGA8yfrk1KKNu/JS6qO6urNnN5h0tj2nTsbUb4Nt0BVvopYUf58hAGMDMgb3A8HB/z6ymDDOxlgcANLPrlz24KTnrlex6/eW2fmqjwk2ceolwBgHhrM4JSqSe1EdC7ehveJ3BP1jw==;oU9CxYVFbLeUqNyxZbCoPQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1137773_2023-bmw-7-series-gets
 webUrl: "https://www.motorauthority.com/news/1137773_2023-bmw-7-series-gets-hands-free-driving-mode-for-highways"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BMW Partners With HERE To Enable Hands-Free Driving In The U.S. And Canada"
-    excerpt: "HERE’s HD Live Map will be integrated into additional BMW models as the German automaker increases the capabilities of its self-driving systems across its range. “We’re delighted to see our HERE HD Live Map enable automated driving at Level 2+ for ..."
-    publishedDateTime: 2022-11-06T23:29:00Z
-    webUrl: "https://www.carscoops.com/2022/11/bmw-partners-with-here-to-enable-hands-free-driving-in-the-u-s-and-canada/"
-    ampWebUrl: "https://www.carscoops.com/2022/11/bmw-partners-with-here-to-enable-hands-free-driving-in-the-u-s-and-canada/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/bmw-partners-with-here-to-enable-hands-free-driving-in-the-u-s-and-canada/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 42
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Autonomous-Vechile-3.jpg"
-        width: 1920
-        height: 1278
-        isCached: true
   - title: "BMW Adding Hands-Free Driving Feature in the U.S. and Canada"
     excerpt: "BMW is set to become the next automaker to offer motorists in the U.S. and Canada the ability to drive hands-free — though what’s technically known as a “Level 2+” system. Find out more at TheDetroitBureau."
     publishedDateTime: 2022-11-08T19:37:00Z

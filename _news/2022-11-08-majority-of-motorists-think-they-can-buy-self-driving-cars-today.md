@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A look inside Waymo's self-driving cars"
+    excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
+    publishedDateTime: 2022-11-11T15:15:00Z
+    webUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/"
+    ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 59
+    images:
+      - url: "https://do0bihdskp9dy.cloudfront.net/11-11-2022/t_b35467a2694a446fba346f3303a7bdb4_name_WAYMO_ANNOUNCEMENT_frame_59.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Machine Learning is Empowering Self-Driving Cars"
     excerpt: "Self-driving cars equipped with machine learning algorithms can make better decision-making, identify & classify objects and interpret situations."
     publishedDateTime: 2022-11-09T16:25:00Z
@@ -39,20 +55,15 @@ related:
         width: 1534
         height: 970
         isCached: true
-  - title: "What the latest self-driving tech merger says about the future of cars"
-    excerpt: "The tie-up between former rivals Ouster and Velodyne, announced Monday, comes less than two weeks after Argo.ai, a leading self-driving car startup, said it was shutting down. The big picture: The race to develop self-driving cars led to a gold rush for lidar makers,"
-    publishedDateTime: 2022-11-08T10:45:00Z
-    webUrl: "https://www.axios.com/2022/11/08/lidar-ouster-velodyne-merger"
+  - title: "Self-Driving Vehicle Company Promotes Former Waymo Lawyer to Legal Chief"
+    excerpt: "“Developing self-driving technology is one of the greatest challenges of our generation—building and protecting our technical leadership is critical to Aurora’s continued success,” Chris Urmson, Aurora’s CEO, said in a written statement."
+    publishedDateTime: 2022-11-07T19:23:00Z
+    webUrl: "https://www.law.com/corpcounsel/2022/11/07/self-driving-vehicle-company-promotes-former-waymo-lawyer-to-legal-chief/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/03eNIGN0Im2U8I_srZGqSWP_sho=/0x0:1920x1080/1366x768/2022/11/07/1667850699943.jpg"
-        width: 1366
-        height: 768
-        isCached: true
+      name: Law
+      domain: law.com
+    quality: 18
 
 secured: "fFyJsTxPrr3FS0mm4V57wO0HN4rGcXalYlY1+gRj2/XGqlVleUsqzO2nI9TPf3gZk0/hshyvIPuh+Rz3r1WSISzo7OJMuHZ+25ryyYuKMIf9idMoaETTsNfVR6E/CMCz6pQVyLHoq9d/jVeO2X3dvD1Mo1ax/KgWs1DQ7A/H9ymzgsAn9nHE/ZfGaajtHgg3c58xN8i//5p/91ltFGBrhx96P9ju85p5rZAnru8Bsivigt8zRFJihxdrbNDV2M/iT55RYU2tht1f6121ZmotAFU/Pz/ceqZ5lNqBZwiye8TLjEdXlXeLKJeCg6hip1CEPMdQMjgWsHFo3TRqHQylO2BkWPPbVQhWclVmiAI1cs+PJ+ExgX0kRmpLYI/W6EhihBIHSBzfJzMDaeOTN9baHh2RlGCMHpwVDHs4WulOjHPfG3AgaFOWaRR/QO2rAUNDy8KoIVNIyPUieW1dF6dceUbKznhfWuTIGm6fStmFFjItA8mR8kFDmby3CZogQnf6wPaOPUk5NlpGWirZwMrN1A==;5edztTVqW/KNZHKa8OBx6w=="
 ---

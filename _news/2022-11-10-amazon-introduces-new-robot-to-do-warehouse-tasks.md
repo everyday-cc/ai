@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon enters the age of robots. What does that mean for its workers?"
+    excerpt: "People have predicted robots will destroy the labour market, but Amazon believes investment in robotics could create jobs"
+    publishedDateTime: 2022-11-11T14:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/bfaabbd560610605d5fac2dc7d87ea0f890a9836/146_0_4311_2589/master/4311.jpg?width=620&quality=85&auto=format&fit=max&s=81478b424aee582e25e7e5513fdef3fd"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "RckiJXVvtg2DQ28yBLuHgnE8szvtz/MIFYdE8RzCHAa7PUw0LP8nPIv9G2z5LhOg4/ntc1KYtgEL10rx6mo49ElTqGZgOZ1aa0CxBlpbwtmLGHSkCJYm2P5lJ3DnmplkbP+yfzT6APMQlU5IRDgig6RK0gyiCMS791X3zXOISHaNvWdZOYbiThHqk/LHVufuTiXGNlf2eaRhcU0e+ZlvOs9NaNzhTYGxCY4oYmzVurbYDD19gSrc03uugnMOMSETW3JCOyPY5c9fo/wK/J3McklX7BkngYoAO3ai9sH01bkzTeSPSXR7zZPPCeZ27gCCdYdYSQpu5mB2ZZ/8/BY0HZcnoyMgCIVu/iUwuxInLxo=;kxPVgqs13huxeSjtS/ZQVg=="
 ---

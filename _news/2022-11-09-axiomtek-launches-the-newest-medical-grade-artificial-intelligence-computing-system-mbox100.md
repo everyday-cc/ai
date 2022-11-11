@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T10:43:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-axiomtek-launches-newest-medical-grade-artificial-intelligence-computing-/2022/11/09/9709092.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-axiomtek-launches-newest-medical-grade-artificial-intelligence-computing-/2022/11/09/9709092.htm"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: TMCnet

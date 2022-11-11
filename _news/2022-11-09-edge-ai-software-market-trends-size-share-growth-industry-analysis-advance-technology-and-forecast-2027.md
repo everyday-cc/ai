@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Law Market Share, Size, Revenue, Global 2023 Latest Trends, Boosting Strategies, Growth Opportunities and Forecast 2028"
+    excerpt: "Global \"Artificial Intelligence in Law Market” (2023-2028) research report gives an outline of the business with"
+    publishedDateTime: 2022-11-09T09:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Federated Learning Solutions Market – High Growth Prediction Due To Increasing Demand and Future Trends"
     excerpt: "As per the report published by Fior Markets, the Federated Learning Solutions market is expected to grow from USD 91.5 Million in 2020 to USD 210.86 Million by 2028, at a CAGR of 11% during the forecast period 2021-2028."
     publishedDateTime: 2022-11-09T10:28:00Z
@@ -150,20 +164,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/11/Federated-Learning-Solutions-Market.png"
         width: 850
         height: 557
-        isCached: true
-  - title: "Artificial Intelligence in Law Market Share, Size, Revenue, Global 2023 Latest Trends, Boosting Strategies, Growth Opportunities and Forecast 2028"
-    excerpt: "Global \"Artificial Intelligence in Law Market” (2023-2028) research report gives an outline of the business with"
-    publishedDateTime: 2022-11-09T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Self-driving Vehicles Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
     excerpt: "According to a recent study by MarketsandResearch.biz the report Global Self-driving Vehicles Market is expected"
@@ -196,7 +196,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"
         width: 394

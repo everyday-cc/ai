@@ -1,12 +1,14 @@
 ---
 category: news
 title: "With AI, you need to see the bigger hardware and software picture"
-excerpt: "IDC has reported that when it comes to infrastructure, GPU accelerated compute and HPC like scale-up are amongst the top considerations for tech leaders and architects looking to build out their AI infrastructure."
+excerpt: "Sponsored Feature It's a decade and a half since researchers dazzled the tech world by demonstrating that graphical processing units could be used to dramatically accelerate key AI operations. That realization continues to grip the imagination of enterprises."
 publishedDateTime: 2022-11-09T12:24:00Z
-originalUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
-webUrl: "https://www.theregister.com/2022/11/09/with_ai_you_need_to/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/11/09/with_ai_you_need_to/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/11/09/with_ai_you_need_to/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://regmedia.co.uk/2022/03/10/gpu_shutter.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "AI and the future of gaming"
@@ -102,20 +110,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Using Artificial Intelligence to Upgrade Manufacturing in the Optics Industry"
-    excerpt: "A key feature of current and future technologies, from smartphones, self-driving cars, medical testing equipment, to security monitoring, is the optical camera. It is vital"
-    publishedDateTime: 2022-11-07T00:00:00Z
-    webUrl: "https://www.asiaone.com/business/using-artificial-intelligence-upgrade-manufacturing-optics-industry"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 36
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/pr-newswire_500_4_425.jpg?h=7de12b8a&itok=NRsZ6ujK"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Trading Coin Terminal Launches As The Next Generation Multi Mining And AI Trading System"
     excerpt: "Losing miners were compelled to sell several mining devices after realizing they could not locate an alternate BTC or ETH mining solution. However, Korean 'mining farms' have developed a viable alternative,"
     publishedDateTime: 2022-11-08T06:18:00Z
@@ -158,6 +152,6 @@ related:
       domain: nextplatform.com
     quality: 17
 
-secured: "ChSVpqvXawehrknlaM7YS677G7ZLOaInG8n2aTUMk/x4F0UEgjYB//rVN5kyF3Rc/7/6Anhw07a8LCzDtF6B2Ap8Rj5O7CvZzR14zkUFA8Y4PoveA/maTmSxMJVFJrMzVrAPnD5KUjR11BLJ/FAHKeJ406Q51mmNhkK3KO/7ruiPVVuHQoeQ4djU2rT8fOeDes7HdtrOuXqflP6azk6TZeB1vR2/0VgM+q+h/h2fPEU88/DfUNuLbk3ZuzsB44YDlQtntob1SdXNEmpPUU2DuTMxE+amMqcKJ3draWWYCIMJ2KpDzgPARSh3iAWDcf2GdEaPI7m/BQctJvb0VtHJNVsJpYVENcoO5bQBPIb36KYXAkXAtRN8cj7D3LzxvTvvFjUj265wETO3K48jJF/FD+1p0MlKiMOcVMrI6Nw0zN38uHl2mx0vI6SuNb+4Hpo58az34s4zHzi+1tWET0Fz4dodTAzzqMNAIBJbbcJQxff2w4tdvu3SQXs/0FL3Tj7r4o9LOcf0wAkz6wa0AD1aOw==;X3HGLXqDXRYouBNovF+rxQ=="
+secured: "0bPrPtPxrKsZ1dAZhoj8wz8YLv2s7W7trIIQJ3sdqUsQvMVdE0dJIXvobhuIV2e2PAHxeg1aFDYAgVxhEorSnCGY7YqqCnjrIpEwJ3Cg+DCUf2slaELuI33ZTORDqv934CGBa8uPDPyR5EvjPNbue6/i96VW4zwd9vjVMVWCLk78yO4pCn5RBd9NM/0pkE2rs9mSj5q+rF8dE14vr/u0Zy0RE36h4UHgxGtbQt8xXDEl/yRDtvmIHvNUGvXc1QhZF4v5PkLIpOBRcVaM6FSIA9b97OP4/ktVLrJF4TqfkiiJaSYyiA2sqO02Q3zY9Ry35VGdRxgTC+4Bxdz+5O1vVL8hR7CFUYr2P7DdQTsdjbg=;otztde93YnPQJvHzNtXfDA=="
 ---
 

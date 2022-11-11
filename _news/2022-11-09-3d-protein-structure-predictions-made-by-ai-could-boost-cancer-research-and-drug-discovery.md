@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-11-3d-protein-ai-boost-cancer.html"
 ampWebUrl: "https://phys.org/news/2022-11-3d-protein-ai-boost-cancer.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-3d-protein-ai-boost-cancer.amp"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -49,12 +49,21 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 18
+    quality: 20
     images:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/008c792e-22ae-40aa-848b-2c6183e05f70/Rendition/low-res/Content/Public"
         width: 700
         height: 467
         isCached: true
+  - title: "Google and Meta AI could boost cancer research and drug discovery"
+    excerpt: "Alpha Fold 2 is a neural network developed by Deep Mind, a Google-owned AI company solving the 3D structure of proteins."
+    publishedDateTime: 2022-11-08T19:52:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/google-meta-ai-cancer-research-drug-discovery/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 19
 
 secured: "khKYWRWREdfgEhtRYZdFCJZoyh2MacNoJI1RVsCAuzsWO/wgXUGkLQGFj4n3+1fRCoFhGQwKLMOcYQ136v/oTBE4qX1Uz+2rR1Hxx2sugoXnz2VfIxmP1JktY5nVH/Q+92BSKxv3WtumhKFZYTAuy7V/x7KnBQwnvxN6dAW+32t9gk8U+XFmpdZzB1+E7YB+BQlkBNmP6LDRTkV771sPFR4iAAz60wY9FBnUYjccqiyXaXGkOBtIjC724rlW6+Geu0bECIzsVD6Brc176jXwNAiwwbnLRWv0CGUPmiHv7JJLmkAvhOwz1lOwVtgbfTS5073Wmk+5YXhGMNUDgsxoHrNReaOk/xq3Z87fvciR2Yh3i0QEqcT3Vj3H/RSgXfZr9HXO5JwMG6r/G36aCHMkAQSrHsUSLr3gQkQasmKnsyaYgd56WDC1AuyMufVFT6FCOj+rdFrLBaNOFWfdo9UNMnUmptzy/9DXKO3Z1KjH5C+JnRavKlpkLyH2Coga4fTzZaltcudhDa1kCJkX/vkKzA==;dh8F4hQ5WhErVaZX1Eq56w=="
 ---

@@ -96,6 +96,15 @@ related:
       name: financefeeds
       domain: financefeeds.com
     quality: 4
+  - title: "Analytics Leaders Need to Navigate the Technology Behind Decision Intelligence"
+    excerpt: "The next major innovation in analytics is Artificial Intelligence (AI). Applying AI across Data Prep, Business Analytics, and Data Science is what separates decision intelligence from traditional business intelligence tools such as Microsoft Power BI,"
+    publishedDateTime: 2022-11-11T13:09:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/11/9711436.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ve957S+kLqpKb8ERzVwfczD8VMLoZ309y9XoEGujeUjUvhoxGavYLOZfjYz8wqeccWcP+I4z+AxNwLaKQtldu0BKlOgaQqOrkh0fBlvUMe4vLpsNdP0MCgcXLJhTVcsejK7DMPH/53+K8e2hfRjVBQGEp+AUhWC60d0cxjSe43xSYceWNeytYbnVDBTWdrCW6U8jHfvsa4KwfwgeQ8pkfO8qDzV39voFKAPv7G4XPM77dmKkizfGFNgEIhwsx0MssanWsPyFKduthspyzfcnugsb5WitB5FMgmgBM0bs9BkJRr9Q8Jcysz/CqkmR0VOh2eu3AykDdMhEv1/tvmyBWiLyyFg7aRGpaX1EvRiiwCY=;dqDVRAIxU9iKaFnWg6Ikcg=="
 ---

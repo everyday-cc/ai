@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T11:55:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/nov/09/mark-zuckerberg-meta-to-sack-11000-workers-after-revenue-collapse-facebook-instagram"
 webUrl: "https://www.theguardian.com/technology/2022/nov/09/mark-zuckerberg-meta-to-sack-11000-workers-after-revenue-collapse-facebook-instagram"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Guardian

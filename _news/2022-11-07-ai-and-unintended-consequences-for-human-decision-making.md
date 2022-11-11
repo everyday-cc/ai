@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-07T14:52:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202211/ai-and-unintended-consequences-human-decision-making"
 webUrl: "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202211/ai-and-unintended-consequences-human-decision-making"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

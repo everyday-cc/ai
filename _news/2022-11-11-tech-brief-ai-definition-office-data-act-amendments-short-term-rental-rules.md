@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-11T12:47:00Z
 originalUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ai-definition-office-data-act-amendments-short-term-rental-rules/"
 webUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ai-definition-office-data-act-amendments-short-term-rental-rules/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:

@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-ne
 ampWebUrl: "https://www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/08/1062859/where-will-ai-go-next/amp/"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:

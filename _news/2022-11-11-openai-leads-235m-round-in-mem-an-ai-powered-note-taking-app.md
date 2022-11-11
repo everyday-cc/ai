@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-rai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,26 @@ images:
     height: 800
     isCached: true
 
-secured: "C4N5VsQAOhjeCBbMG72HPtG4YKwIPHxwPcnyLirwxg3mvdnvCKbeQzhjJiQx/G0OGrGj36LrQ4sxCK4QsTiVijOhtr3ReZkwWxml3LGQau9Sva1usc0oCzUcx6XvFeYY4gJOZLd3Tb+loMp2KUxe85LwFA+fbFWsfKt+yZhNHi7BdG/9BgC5msemdyO+TEx/uVnGbEYP7tai7K5dwuXOmWV7RELbgWpinuTW5bkL+mJUUTVO8gW0yxWBybSjrPALSxsJehzwazXnuC5N6lS/Ihd1ULHNMtHhxnw9dtS8m4ts0XV1Yjcsw1HWBf86WLpSQzdErYhoDeJUvdesUYLrtEzcTc0ZWb6MTBJXc2bPG74=;9t8+BF3UORlQzvrEWpuaig=="
+related:
+  - title: "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app"
+    excerpt: "Mem’s search experience uses AI to search across notes ... OpenAI Startup Fund participants receive early access to new OpenAI systems and Azure resources from Microsoft in addition to capital. “OpenAI is obviously leading the wave of technological ..."
+    publishedDateTime: 2022-11-09T21:15:00Z
+    webUrl: "https://techcrunch.com/2022/11/09/ai-powered-note-taking-app-mem-raises-23-5m-openai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
+  - title: "OpenAI Invests in AI Organizer App Mem To Bring Order To All"
+    excerpt: "OpenAI has announced an investment in AI organizer app startup Mem. The app uses AI tech to integrate personal data across various channels."
+    publishedDateTime: 2022-11-11T15:46:00Z
+    webUrl: "https://techreport.com/software/3484218/openai-invests-in-ai-organizer-app-mem-to-bring-order-to-all/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 17
+
+secured: "M5Rd3QBdQdE8uTFTWrfNaqMI3FmIXYYkJoE3ktk4jkDEqETLzqQdqDXq89Y+N4FE3tYrpO2lx45lE1voh2wGRrs2Jqti26kMo84VsM/CajbHAC0JAmBjU7h0lMvybAl588T1Uco6jULmzuXU51LdHwJe68ltr19Fo0OBxCzo1ItGgsRxUFW2plOLFQoarE/HtudiK2QmzNItjjK77p8a9+sm53/pllg82zOd8CxGm/I0ZKa5ndcu3TPmxErZS54nwL+NowF3ggCTCQ/kGiDSsBITckbaT5rKwF137/Cwhv9/t8rbq+OzvR+nTsyKjTWwx5ARX1jIeP2GRAXECHp5ZZO5xnS13Xed5OcfEvYLK6wlY7kH0zg9aSZbCJ+7SQq0ANEN0Fbx0AmMNRgFwRtr2NObMkXt9EsaywCzkLMyttLy7O2AKULMvn4x3cln0jz4spF+tQcnQrBVNsQx5Yi0SAdFSjH0LPoLAvrxLsVaxTQR+ZqAJs8Us+ifLfmvScFagyXAZIr5XNGvGTlAjwHevQ==;j/EDZLwSqrpLOVxOIFyf/g=="
 ---
 

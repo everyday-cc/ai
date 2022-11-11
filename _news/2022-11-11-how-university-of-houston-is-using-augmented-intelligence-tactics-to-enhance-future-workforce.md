@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T13:13:00Z
 originalUrl: "https://www.bizjournals.com/houston/news/2022/11/11/university-of-houston-artificial-intelligence.html"
 webUrl: "https://www.bizjournals.com/houston/news/2022/11/11/university-of-houston-artificial-intelligence.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

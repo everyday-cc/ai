@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Our Future Artificial Intelligence Overlords Need a Resistance Movement"
-excerpt: "Improving transparency about how algorithms reach their decisions is essential to keeping humans safe from harm."
-publishedDateTime: 2022-11-04T01:00:00Z
-originalUrl: "https://www.washingtonpost.com/business/our-future-artificial-intelligenceoverlords-need-aresistance-movement/2022/11/04/be00019e-5c06-11ed-bc40-b5a130f95ee7_story.html"
-webUrl: "https://www.washingtonpost.com/business/our-future-artificial-intelligenceoverlords-need-aresistance-movement/2022/11/04/be00019e-5c06-11ed-bc40-b5a130f95ee7_story.html"
+excerpt: "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies ..."
+publishedDateTime: 2022-11-04T06:41:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement"
+webUrl: "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement"
 type: article
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
-secured: "jCA/Igvupouy2KhDo6tXzLcOatmhqtfsVdJ8JO4oL4gX9kRDB1SH5j3fcmbGr95Sb8MxAcnGcNlkwrL2G51CDgKggkbqmkwvkNfri4RqZfBLSJP9ILNKew73qsu0VowU8C9yJJ9G7UCjUOeGNs79arcXdAH0imSn9VfSsIDcoNJScpJ+J4HGaQFlmwXDTeHtnYnCPJHW6SC5zzJ3hCE3GyeyaTqPs4VuWDrPpp0oMLo1IUJb1upTh0Sx+Y4lYLNSJJq9JeD4ijM7IBzZpcEJJ8TOJDgJixmu2cJyDdS+HbO5RtcThmYchcBeJuv28VagS2/90mD9so5Drj1r72DCbq7VnR3M1M2kAadqYWm0X6M=;LasEJuYLrh9SdIQqMZyBKg=="
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i83al0Y60bcI/v1/1200x800.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "HIR+yFwKB6tA28kW7YLZLVP0rHP9CvoWNZotNYEuttzfM8jky3+T4CBvwmNOBPIeirY/i1ugwETrJ2flkb9/YyDmpEacG1D+7RlDkFWdVW7UlUM+OsRscx86VT5D/eQKC0QIbX1kzB6nK1Egbrr5ZFF4/xy0O6PvP2UaQQaO/apcpSsaCfb6fmCNO0zv+swjgvcHUCtHAqBWuHoXYqH6xVys/kMRWMy8u8SSYGBvcziDwzM83qYCCHWwQt9vn1NjeA1ncTKcQT9nPXSP6Ob2r/ygpkVVOuMJDqJ3QgcDVkf9ZoZtzbyqpUL2n+BqP6ohLuKxDLR+hOzp5p94OnmNpsC9B2TfJoNRgZMXhWPkz/Y=;Q/4bnKVe3DY6ZkQ1D4Rlag=="
 ---
 

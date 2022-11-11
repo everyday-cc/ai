@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-09T09:30:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -197,7 +197,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466065"
         width: 394

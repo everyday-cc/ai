@@ -18,20 +18,38 @@ topics:
   - AI
 
 related:
-  - title: "Fleets can use AI to win the spot market"
-    excerpt: "Artificial Intelligence (AI) is no longer a flashy term thrown around without merit. Rather, industries across the board are broadening use of technology applications to improve industry standards and drive greater efficiency."
-    publishedDateTime: 2022-11-09T18:38:00Z
-    webUrl: "https://www.ccjdigital.com/economic-trends/spot-market/article/15302801/using-artificial-intelligence-to-win-the-spot-market"
+  - title: "What’s Trending in the Global Voice-Recognition Market?"
+    excerpt: "From smart TVs to voice-recognition tech for children, the industry for real-time speech analytics and voice biometrics is rapidly expanding."
+    publishedDateTime: 2022-11-11T16:13:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21254585/global-market-insights-whats-trending-in-the-global-voicerecognition-market"
     type: article
     provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 37
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
     images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2022/11/backing_into_dc.636569c7a0acd.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/11/Voice_recognition_dreamstime_39055871_promo.636e72ec831f7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 814
+        height: 630
         isCached: true
+  - title: "Insights on the Data Science Platform Global Market"
+    excerpt: "According to this report the global data science platform market was valued at $4.7 billion in 2020, and is estimated to reach $79.7 billion by 2030, growing at a CAGR of 33.6% from 2021 to 2030. Data science platform is a packaged software application that provides the tools for the entire life cycle of a data science project."
+    publishedDateTime: 2022-11-08T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-data-science-platform-global-market-2030-/2022/11/08/9708811.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+  - title: "Speech and Voice Recognition Market Spending and Trends: Outlook to 2030"
+    excerpt: "The report published by The Brainy Insights shows that the global speech and voice recognition market is expected to grow from USD 13.8 billion in 2021 to USD 48.1 billion by 2030, at a CAGR of 14.9% during the forecast period 2022-2030."
+    publishedDateTime: 2022-11-09T20:11:00Z
+    webUrl: "https://techbullion.com/speech-and-voice-recognition-market-spending-and-trends-outlook-to-2030/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 3
 
 secured: "00sYn81vNSDyVfRQDzoxAkXChO9oGIuxJu9FpZyDRz9VYPpNOYxzsQMb8QB32IcE9xRPMAA1R/C91Ojsh/jD2Y5EZ0c6Q7xwOqBZjlahCeqrdIPUN/MrkXzzJ3mciIzSpoq8ye1c4P/dOVdI5iDGsJoS2G/gB/E2hWtMjIT6YXXkGVy9LAUd6KbK2pnVs4CdMiG13NsbRSZ83GxG3PmwtG8Acv1d82cYFxcbsZS2witEcBR7upwqViJ/6uTJPYd/vCUzuAzgQaMRhRlaPa0QcM/JiVCkOGVeftk1UIUx+27dJ4IVoai/y3SPRO9+5W2kpVdgPwOL+a9BhOlnzHdPz2rdVwWyc0C+Bo0shBrPGPGIMAsbG2ARt+kcYvnRni2S8HtI1khQhm6Xdu6cXeahkRV2d8JQXqqwyH2wbwiOSun8RIBi6fhsxnjTgLuOnvUn+WSo0OOI9geCT/jBX2MEXLocrXcLHXW3HIdC4SHOSH7jjvs36Ue3ZKSd3JyFvGl+xtXuxuYJ8gxSIyaaAyAa1w==;Xf04hZr94sNVFECFR1NcTw=="
 ---
