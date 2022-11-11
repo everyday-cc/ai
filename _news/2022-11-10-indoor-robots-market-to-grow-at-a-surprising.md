@@ -18,22 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Healthcare Chatbots Market Is Projected To Register At A Healthy CAGR Of 21% During The Forecast Period 2020 2030 X Herald"
-    excerpt: "The global  was valued at US$  121  Mn in  2019  , and is estimated to grow at a high CAGR of approximately <st"
-    publishedDateTime: 2022-11-08T23:44:00Z
-    webUrl: "https://menafn.com/1105150330/Healthcare-Chatbots-Market-Is-Projected-To-Register-At-A-Healthy-CAGR-Of-21-During-The-Forecast-Period-2020-2030-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?851855"
-        width: 346
-        height: 250
-        isCached: true
-
 secured: "2Ckqv4ztCTDQYfnUDzL9sJBQBsu0GgK9gcKcHjsx3K802XSXKqDz9/h5rnMgK8MwMpbsKUtnWXiPsism6mw7d3Q4lNsC5c9rRm+T1VPc8PHSP3HEzfnmfvg90oK7ZBuLjuQBk1NIzsFGf2rYXmtg1XacIAUkMYb9oZJ8G4ETlOKB6Qu7UYna8XxKLaBmQLmRIUy3swfkDRWPQ6x95b5s1OjVxrIml8iFs+t8YL03Yf2PNUxqfnEtwVdmvfdyp+habOaZ/VTVY9QVovfF7g0fEvvVaJqSPPVSrFGmK34OsZpgicK5pBpsa1F5pBqTctQeS2EtLPibJMA4Jydrg7vx21KlglSfLGG0vZIfI0HnNjo=;HGVAawKzz7439aZu1GuBTQ=="
 ---
 

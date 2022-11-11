@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-08-pittsburgh-area-tech-companies-look-to-fill-open-roles-following-closure-of-local-robotics-firms.md",
+      "title": "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms",
+      "excerpt": "The recent closures of Strip District-based autonomous vehicle startup Argo AI LLC and South Side-based vertical farming startup Fifth Season Inc. have resulted in the termination of an estimated 800 jobs in the region,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/",
+      "originalUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/H51_Y_684lEtaFXUe48V1-tVinE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/IOE7T6U4MNGC3AAVT64SJKWN5U.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp",
+      "publishedDateTime": "2022-11-07T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPXI",
+        "domain": "wpxi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-ai-and-the-future-of-gaming.md",
       "title": "AI and the future of gaming",
       "excerpt": "Artificial Intelligence is an exciting topic for some and horrifying to others. Reality seems to fall somewhere in-between the extremes.",
@@ -1182,60 +1225,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
-      "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
-      "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1421615048.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
-      "publishedDateTime": "2022-11-04T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

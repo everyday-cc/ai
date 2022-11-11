@@ -25,15 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "Indoor Robots Market to Grow at a Surprising"
-    excerpt: "Global Indoor Robots Market was valued at USD 11.65 billion in 2021 and is expected to reach USD 100.37 billion by 2029, registering a CAGR of 25.50% during the forecast period of 2022-2029. The market report curated by the Data Bridge Market Research team includes in-depth expert analysis,"
-    publishedDateTime: 2022-11-10T07:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-indoor-robots-market-grow-a-surprising-growth-usd-/2022/11/10/9710074.htm"
+  - title: "Global Artificial Intelligence Chipsets Market 2022 to hit USD 24450 Million at a CAGR of 15.7% till 2028"
+    excerpt: "The global market for Artificial Intelligence Chipsets estimated at USD 10200 million in the year 2022, is projected to reach a revised size of USD 24450 million by 2028, growing"
+    publishedDateTime: 2022-11-11T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Biometrics Market: A business Analysis, Main players, Size, Growth at a CAGR of 20% to Outstrip USD 5203.7 Million till 2028"
+    excerpt: "Global Voice Biometrics Market Analysis and Outlook: Worldwide \"Voice Biometrics Market\" 2022-2028 is expected to"
+    publishedDateTime: 2022-11-11T07:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-biometrics-market-a-business-analysis-main-players-size-growth-at-a-cagr-of-20-to-outstrip-usd-52037-million-till-2028-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
+    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
+    publishedDateTime: 2022-11-08T08:32:00Z
+    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
+        width: 640
+        height: 335
+        isCached: true
+  - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
+    excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
+    publishedDateTime: 2022-11-07T07:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
+  - title: "Image Recognition Market Is Estimated To Reach USD 86,001 Million By 2025, Registering A CAGR Of 21.8%"
+    excerpt: "Image Recognition Market The increased adoption of cloud-based technologies has been one of the main drivers behind the growth in the glo"
+    publishedDateTime: 2022-11-09T18:30:00Z
+    webUrl: "https://menafn.com/1105157802/Image-Recognition-Market-Is-Estimated-To-Reach-USD-86001-Million-By-2025-Registering-A-CAGR-Of-218"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 8
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/09/EP_d6641image_story.jpeg"
+        width: 790
+        height: 413
+        isCached: true
 
 secured: "xgy+0tmoV2yOEqQW3zuZp+itcVvBcTKO4GsFTFpRW7L/rL1nAYQXtAXS1TrxTx4db+M9zx84oMBjHG8j0L8dREouqw1RD1r3fSJbGrRHql9Gh92sJUNBOADD+H6L5l93sIu1nN/0euBsAJOOGBGq6cVBa2cMZ5bk9+loHOtT3TNMvnw/mDphxjU44HUxu6Di9CNxtBLN+jSCiR93SNzw/m4wKaJJk1S26LRuJmIqjOcbBg0kDiXuFvpQqu/NueAi4ZvU4xd+vQvfxu17DGxvBngB3uLIs+i3Yu5QAPLv7HzRLwIqz7Uy/GI6K0pP+n4xwdQ7MVqzoDr/RUhDo1HMl8dBLoKLF4CUOT792UKUO+k=;fdGFLYZ8lIS0+8nsTaMBXA=="
 ---

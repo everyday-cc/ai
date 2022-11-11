@@ -25,18 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "Liquid Biopsy Market Size To Reach USD 9.50 Billion By 2030, Says The Brainy Insights"
-    excerpt: "Still, the industry is moving towards a multi-cancer strategy utilizing NGS with various machine learning/artificial intelligence (ML/AI ... frequency of cancer and strong demand for customized therapy. The blood sample segment market size will be 0. ..."
-    publishedDateTime: 2022-11-11T06:38:00Z
-    webUrl: "https://menafn.com/1105166032/Liquid-Biopsy-Market-Size-To-Reach-USD-950-Billion-By-2030-Says-The-Brainy-Insights"
+  - title: "Global Artificial Intelligence Chipsets Market 2022 to hit USD 24450 Million at a CAGR of 15.7% till 2028"
+    excerpt: "The global market for Artificial Intelligence Chipsets estimated at USD 10200 million in the year 2022, is projected to reach a revised size of USD 24450 million by 2028, growing"
+    publishedDateTime: 2022-11-11T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Biometrics Market: A business Analysis, Main players, Size, Growth at a CAGR of 20% to Outstrip USD 5203.7 Million till 2028"
+    excerpt: "Global Voice Biometrics Market Analysis and Outlook: Worldwide \"Voice Biometrics Market\" 2022-2028 is expected to"
+    publishedDateTime: 2022-11-11T07:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-biometrics-market-a-business-analysis-main-players-size-growth-at-a-cagr-of-20-to-outstrip-usd-52037-million-till-2028-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
+    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
+    publishedDateTime: 2022-11-08T08:32:00Z
+    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 32
+    quality: 21
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?132023"
-        width: 278
+      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
+        width: 640
+        height: 335
+        isCached: true
+  - title: "Healthcare Chatbots Market Is Projected To Register At A Healthy CAGR Of 21% During The Forecast Period 2020 2030 X Herald"
+    excerpt: "The global  was valued at US$  121  Mn in  2019  , and is estimated to grow at a high CAGR of approximately <st"
+    publishedDateTime: 2022-11-08T23:44:00Z
+    webUrl: "https://menafn.com/1105150330/Healthcare-Chatbots-Market-Is-Projected-To-Register-At-A-Healthy-CAGR-Of-21-During-The-Forecast-Period-2020-2030-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?851855"
+        width: 346
         height: 250
         isCached: true
   - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
@@ -45,17 +87,6 @@ related:
     webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
     ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
     cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
-  - title: "Artificial Intelligence in Drug Discovery Market Size Worth USD 8.9 Billion by 2030 at 24.9% CAGR – Report by Market Research Future (MRFR)"
-    excerpt: "Artificial Intelligence in Drug Discovery Market Overview: According to a Comprehensive Research Report by Market Research Future (MRFR), \"Artificial Intelligence in"
-    publishedDateTime: 2022-11-09T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29639695/artificial-intelligence-in-drug-discovery-market-size-worth-usd-8-9-billion-by-2030-at-24-9-cagr-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29639695"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29639695"
     type: article
     provider:
       name: Benzinga.com

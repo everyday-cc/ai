@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/japan-invest-up-500-mln-new-adv
 webUrl: "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Japan to invest up to $500 million to manufacture advanced chips"
+    excerpt: "Japan said on Friday it will invest up to 70 billion yen ($500 million) in a new semiconductor company led by tech firms including Sony Group Corp and NEC Corp as it rushes to re-establish itself as a lead maker of advanced chips."
+    publishedDateTime: 2022-11-11T12:47:00Z
+    webUrl: "https://www.channelnewsasia.com/business/japan-invest-500-million-manufacture-advanced-chips-3062976"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--6XsDI2Nr--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-11t004855z_2_lynxmpeiaa00r_rtroptp_3_elmos-m-a-china.jpg?itok=RZQCcHJH"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Japan to invest up to $500M to manufacture advanced chips"
     excerpt: "TOKYO -Japan said on Friday it will invest up to 70 billion yen ($500 million) in a new semiconductor company led by tech firms including Sony Group Corp and NEC Corp as it rushes to re-establish"
     publishedDateTime: 2022-11-11T02:48:00Z

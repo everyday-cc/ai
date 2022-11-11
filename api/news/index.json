@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-11-global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028.md",
+      "title": "Global Artificial Intelligence Chipsets Market 2022 to hit USD 24450 Million at a CAGR of 15.7% till 2028",
+      "excerpt": "The global market for Artificial Intelligence Chipsets estimated at USD 10200 million in the year 2022, is projected to reach a revised size of USD 24450 million by 2028, growing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
       "title": "Japan to invest up to $500 mln in new advanced chip development company",
       "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1183,58 +1234,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-21-results.md",
-      "title": "Nvidia and Intel show machine learning performance gains on latest MLPerf Training 2.1 results",
-      "excerpt": "Both Nvidia and Intel’s Habana Labs reported performance gains with the MLPerf 2.1 benchmark in training machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/machine-learning-challenges.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
-      "publishedDateTime": "2022-11-09T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
