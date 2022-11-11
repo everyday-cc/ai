@@ -23,7 +23,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 4936948
+        "followers": 4949755
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -76,7 +76,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 17851633
+        "followers": 17853217
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 11893254
+        "followers": 11893581
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1810862
+        "followers": 1810890
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -360,7 +360,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 866243
+        "followers": 866257
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -490,7 +490,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 118671
+        "followers": 118686
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -646,7 +646,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 20565
+        "followers": 20570
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -662,7 +662,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 264,
+      "heat": 263,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
@@ -863,7 +863,7 @@
       "twitter": {
         "username": "AlphaSenseInc",
         "url": "https://twitter.com/AlphaSenseInc",
-        "followers": 4604
+        "followers": 4605
       },
       "size": "51-200 employees",
       "yearFounded": 2011,
@@ -916,7 +916,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 18412
+        "followers": 18410
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -969,7 +969,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 38098
+        "followers": 38095
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1023,7 +1023,7 @@
       "twitter": {
         "username": "zscaler",
         "url": "https://twitter.com/zscaler",
-        "followers": 13356
+        "followers": 13358
       },
       "yearFounded": 0,
       "locations": [
@@ -1065,7 +1065,7 @@
       "twitter": {
         "username": "InsilicoMeds",
         "url": "https://twitter.com/InsilicoMeds",
-        "followers": 5050
+        "followers": 5051
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1085,7 +1085,7 @@
           "url": "https://www.youtube.com/watch?v=EUr-rkXsBUs"
         }
       ],
-      "heat": 134,
+      "heat": 133,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1013451500503339014/znBZzv85_400x400.jpg",
@@ -1120,7 +1120,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 13992
+        "followers": 13991
       },
       "yearFounded": 0,
       "locations": [
@@ -1173,7 +1173,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 14241
+        "followers": 14242
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1550,7 +1550,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 91144
+        "followers": 91139
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
