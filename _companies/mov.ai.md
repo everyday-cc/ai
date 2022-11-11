@@ -2,7 +2,7 @@
 name: "MOV.AI"
 overview: "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use."
 type: "profile"
-heat: 64
+heat: 57
 
 website: http://mov.ai/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KF0y_gPMnGI"
 
-secured: "NDxdwHCdZ/onVVwR5W42saxEuqs9U+jwP5+9DuPopZyNPyDL9n9gkzJVlgxjNRSiyJjOx5gqcWTYaWtR75+yvzbUJVUp7iUOsQtgVE0IzHwxLG5P1EJQlZhi22PesjXSVePvGPA5szkzE8YuiGQVNN2XcnSp9h14xaT4z5fxaBZjP5WJiIXel78GvqSXk5cM/P5+49PvDQDUEwpmqBAxuN7zRisoTBHxfrFQxGyaVHSUYSyJirdOCdr/2uXKCX6nvkqXDJOjp5OFsgJ4c75wCywJEkhg5KMSdIKdfaxwvc+7w/ol8sTT/waoKKs4DLuNaTeh3J8Tk/v9L0dN2nQso+EgLdFlAOqlzjwyI0hY+fxwXrXe8sIuAuu53P6hEMnfKrKEOgf3v7FEzY90pey0xg==;ngNxyEPKpztFPxLEB7ZoaA=="
+secured: "iWzXPs5GFBLT/jsKlwotMM6Tpv/7LlqbWcdgM4gG5VyBwGObCHcaZqkA3WIjTrDBMvb3ZLoi0KyswwwAEtzKTxddT8eibqiQQ0SrlVB/ERPpFndTi+wBp/ACQM/BwskX2d6sLGby4vokxKORVmt6/c4lLpO4WS0B25uEJPH+QrR6oWIm6u8Cvl2ovuaF4uAIBxmy9LluLul8JZZsQ7ufD9D/aMZSfG9BdZbzFhJDDyspR/GCVEk3Fp10pkyp/V/pZUWNeTMzYSZbPY4XAsXF6yt3LQK82HWVA87IUrMB4j6dAUlfA1V+DMzWsqrPHa9SXJmxvCZKy2xDctuvPhrdzl3JnBKNxEDcSnY/MrkOvtPO2qDrP10GDM5jP4C+kbIqev9L8h7GAjTv5QLul+64DQ==;LLjs4oMx9oLHqHxY9xo1qQ=="
 ---
 

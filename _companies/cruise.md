@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cruise"
   url: "https://twitter.com/cruise"
-  followers: 35203
+  followers: 35206
 
 size: 1,001-5,000 employees
 yearFounded: 2013
@@ -49,6 +49,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=4lYNckVMys4"
 
-secured: "bMwzDiau2rhQF9dRdx2yl3XQPsNY6Jku2KX+eLQHV7Q1XFLMSmEswAad0tWdB9TCUMf/HNZJfyyTFxA3adXJ0HL1K4mO8/dKn0p3LgdlLkOfBsSApKte80+zpVVbnxTYi5h+T5XHCpCjl7p9Lgb8FUSGK8L7akrtRpjw7IGcHou+du8v095geur3ehMxUSUI2CTU+p22cMs7/isSOO6TPqwz/uQAVXX0MI4L8qiukOzTXjbW59zJY5OP87+kzHBLSrb/6dZsD/O8juNyXSgN8dc6+T7DZyOoO/7fP4273otfv3TNrdmQfPAmyWpM3hJKB2fRyM8ZOr3m18uXifnHiCgIuttp72uoTn5gR8q4zgYW7/26YrY8BDe/Tp5a0RNkvrf7XLxsa/cWgUbMQR8Q1k8JxIgMS8wpKFTDH/kJgzc=;WRfXSwwuIxDUz+VfNpAn3A=="
+secured: "SZT1LrJvFfefhhpSRpwaHPfUNMju9DR1fhrKzmTCw9PydCwyq5smIA7iVIJw5XANcicGg7S5DYpHKg/aqwUL+bCWYEcTbvScKpt00OwVIIYSnmU7LofT6fiEweN2YueIyu1bqBUHUhVvXUGA8RJNZKDgJALd5itYex/kHVYkz1T/Ytz31RS3Yevd9I0Tl1OMXQudceM1Vr29/bWy9jMRJQjjhijeE7zp8Ws6L8eA0CjC9xG2rmwHeBOf9epF1ILjzaPe3dnI4wAYoucj9fJRQGNhClCdSDu+cF2GzhXg+8HZK2nSXE9imirsvE5mh/e+2SoIgf487W94ip3PgtgK8BIIU+0J0/UsjjR5Cxl/2QxQbj9I3vAM9yMqC2sQup19VtAUK2kp63oCJKlSy2RshWP904vgH0I4xOGI+vPmVhM=;SYY1OT2HtP3L0b0tkRdOWw=="
 ---
 

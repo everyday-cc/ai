@@ -6,7 +6,7 @@ otherNames:
   - "botmd"
 overview: "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. "
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.botmd.io
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=zQLP9b9WHjU"
 
-secured: "Imu8/PE3NTc117ZQL4ANGNQR2nyeQ2w4UbMs3x9BLTi5UWXS9se4JzdsitwJTCpDCTDonEa5UCTzjrzkYbE5qad4zfJgbfbK/xBRugida9si4GPXVED2aQZcSN2hjl4NCKQ+a511Mu0RuGS8ivEspjQXS73kvHd3gdPiUNNx61nwvGinZ8EhSbyAs09aSCPReQfW//R3FeG0s5dw3WLoOQGZddAzushikp5YCTlEjRsIkGjT8IcSStsvgZPCWYbVxrfEkmwbdig39gtIZJ+NfQk5SXJjgWroV70l14z+tOQ+8852uvXKmL0Ar1aCbFQwYtgrdBPIN6XBrddQxLAgDOpcrolVnXIYXJStvUFdadqgJlabxcVvZ9+7bBubK/56gAMPMHWiUPJaZLOQL6KDJA==;Srtsqrok7qhBfJkNE1epjw=="
+secured: "y/YGAd+JCA+C2pJHisnTXkwwNoTMZGi1PxgG0gbzDOuNnY3EEbTXq5MIetIQn3ORJgx/QiRNYFCnmKx1Kd1ao7LmBMBsh/wr5RMcB/IvKV5+r8O0wWiuAcAPMVo4ZQBMq2Dwk5jH2n1fVGoxCqBI5h3h9BhYm1I1uHvlts5+MU6MvUey3QFbk2+b1LnhhSkWoBxfEHdwmroor/IajaQC72tYSc7yr0+e3H4CDastzNrUL4PksLW9wxnig35B2eFJH9xQDVieOQKX0jjNi97QlttGa1+LWCsnyDavMuYqo2kCGJu1rjrmS0Nt6eEPpKJ0G0u5cAYXPm9A0TaDNjmR+I1Ed0Nh/tA6hqVDxbyzcanVSTvdQcqCzzEzueKX/fgZ94+gyiAvtoNOTZ4TwI8C3g==;YXyMlzm1K+dd4QmslNs+zg=="
 ---
 
