@@ -21,20 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
-    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
-    publishedDateTime: 2022-11-08T08:32:00Z
-    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
+  - title: "Liquid Biopsy Market Size To Reach USD 9.50 Billion By 2030, Says The Brainy Insights"
+    excerpt: "Still, the industry is moving towards a multi-cancer strategy utilizing NGS with various machine learning/artificial intelligence (ML/AI ... frequency of cancer and strong demand for customized therapy. The blood sample segment market size will be 0. ..."
+    publishedDateTime: 2022-11-11T06:38:00Z
+    webUrl: "https://menafn.com/1105166032/Liquid-Biopsy-Market-Size-To-Reach-USD-950-Billion-By-2030-Says-The-Brainy-Insights"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 21
+    quality: 32
     images:
-      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
-        width: 640
-        height: 335
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?132023"
+        width: 278
+        height: 250
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Size Worth USD 8.9 Billion by 2030 at 24.9% CAGR – Report by Market Research Future (MRFR)"
+    excerpt: "Artificial Intelligence in Drug Discovery Market Overview: According to a Comprehensive Research Report by Market Research Future (MRFR), \"Artificial Intelligence in"
+    publishedDateTime: 2022-11-09T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29639695/artificial-intelligence-in-drug-discovery-market-size-worth-usd-8-9-billion-by-2030-at-24-9-cagr-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29639695"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29639695"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
   - title: "Image Recognition Market Is Estimated To Reach USD 86,001 Million By 2025, Registering A CAGR Of 21.8%"
     excerpt: "Image Recognition Market The increased adoption of cloud-based technologies has been one of the main drivers behind the growth in the glo"
     publishedDateTime: 2022-11-09T18:30:00Z
