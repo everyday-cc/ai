@@ -19,12 +19,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "oMdAt9ZGJtLLc7SPMMumO+gkRkKVAMPqWEj64g36tSzyWyAsegtbWWVukSG0f/Ap+pzRaBWqCXiKwB2jLD6cl2ca35AjXr9RGCU9BnybILznHFBmKLim/rHlTL+L0bUf80GJg4zaLIVole52YVz7QaS9p32q58bbXZo9TNIA28pKgebC9oFcFlOT9pwwHShAJxB+Z75O94VX//ZOZlbyZkLADKkjWUmyRy3X/FhvU2NhvnGJLZz/YSG24WrT9yfBVIujQlTqp0cfNJ6d9td6wZzF7DvgJtuFlAcAMMsqfCvQbN81PAcN10yMS0ofur52cpyj9AmgljCZgRoMnt777n/hfubDeYuQf+2qGwNxZ3U=;2yqnA3bekZFgCiVOzo5Evg=="
+secured: "I1o/UCStRk5q1xP+xRDN/W1mexSJ+cF+mYhkouVUhliI58XiLN7GQ/OhURfNppVr5PaifojnIsyrIgxM1Yrn2Up178Gj0M40DIrLYjbmL+3Kk2d3G5x4/DgkQigc2eo+kpsrdS55bSnptPncj2aq4ALyHz14xIc0cOKq1rr8bVWCV+UiqQTgT9H6y28a/nXtOu/r45ZkIXbZ7Zv7wOcO0ghb0li9BIvZQcokE37SVYBMxs3rHvV2/bi2M/u+VpjXUMChJGhR8QQb1Rq5xRXV4Hz/Az7QaWiLyB6GQlQdKe2507wplR2GPYkPmc1WoZc8rNoiSOb+4XePCoURgpIUm3DcVeUYJ8t26fAG3LguawI=;Jzs4OQZr2ahxseevTo2Jeg=="
 ---
 
