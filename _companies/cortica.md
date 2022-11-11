@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Cortica"
   url: "https://twitter.com/Cortica"
-  followers: 446
+  followers: 447
 
 size: 51-200 employees
 yearFounded: 2007
