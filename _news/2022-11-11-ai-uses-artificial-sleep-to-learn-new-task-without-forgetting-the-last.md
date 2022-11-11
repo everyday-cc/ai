@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Inducing brain-like sleep in an artificial spiking neural network helps it to keep learning without “catastrophic forgetting”"
+    excerpt: "Inducing brain-like sleep in an artificial spiking neural network helps it to keep learning without “catastrophic forgetting”"
+    publishedDateTime: 2022-11-10T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/970214"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 27
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9b52c2d1-e3d8-401a-820b-585e2a8d275a/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 223
+        isCached: true
+
 secured: "gqg1INkBGA//455/OSQCcfeZHtE4AfLOjBCBxqDq3zvyd3gFe9XwOkofhyXQRT6v6iqhydytSyZK/8vDUXtFNJebflrVCEjwD9A30noMwghmaZRTxAWKqZPuxL7yeDbaqg44XUoBsj/alnERQljWGEeSmfUnvpY23AK2kSxmeFmwxAPekap7blDdnZuWpFT2VV1eFK2hIYB4UlJOCM+Tbasb4RErXQbTZB3xyTum56Hw2e45/uTtc+B7fb2De6mgDjhJrgTPJleHNCwxdGJjsL2MBUJH2K/ykTfsuc20qo0cqwb3QvueqwkSYovn5GN+ss5U6vnnIIh0npePjDr5bgyE5T8deJoJRfOgFU20FRk0Q6Is2YVdgssM+ezvZEaaAWMq141/xPBzQEvjKDRBhYzqdNIVYopRCV6LvUiDX8YBUD3oUN3hZv1neUrpCMmxwrIgCmjOjrMDJhPOL8QLPkugcQyB/douA7Mx9hq8414ifHz+BXDDgHMUxY7UdsdjUP1Bbb+LYTXp+r5YrC72ug==;s0kjQPe5h02jaqO0e7jNzg=="
 ---
 

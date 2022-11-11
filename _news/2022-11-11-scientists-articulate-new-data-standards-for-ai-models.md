@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-scientists-articulate-standards-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Argonne scientists promote FAIR standards for managing artificial intelligence models"
+    excerpt: "Argonne computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
+    publishedDateTime: 2022-11-10T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/971005"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 45
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b5d7a7db-c6b7-461a-859c-1fe00a590127/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Lender relies on data science, AI for clients"
     excerpt: "EXECUTIVES of UnionBank of the Philippines said they are putting premium on data science and artificial intelligence (AI) as they saw response rates to cross-selling financial products doubling through its implementation of “hyper personalization” initiatives for both consumers and corporate clients."
     publishedDateTime: 2022-11-06T16:06:00Z

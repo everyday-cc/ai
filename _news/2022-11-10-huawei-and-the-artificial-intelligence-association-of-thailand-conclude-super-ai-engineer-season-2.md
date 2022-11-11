@@ -50,6 +50,22 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
+  - title: "Here’s how to earn trust in AI in a dystopian future"
+    excerpt: "This brought to light the debate on the role that Artificial Intelligence (AI) will play in our dystopian future, the dangers of it and the ethics that organizations investing in AI will have to follow to ensure it does not go rogue. However, the debate is ..."
+    publishedDateTime: 2022-11-11T03:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95440307,imgsize-7006,width-1200,height-628,overlay-etcio/here-s-how-to-earn-trust-in-ai-in-a-dystopian-future.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Winning the Spot Market with AI"
     excerpt: "That’s why it is so important for companies to utilize technology to better their businesses. For example, artificial intelligence (AI) is an under-utilized tool in the supply chain, and it is something that can help better analyze market conditions and ..."
     publishedDateTime: 2022-11-07T22:50:00Z

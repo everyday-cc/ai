@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Here’s how to earn trust in AI in a dystopian future"
+    excerpt: "This brought to light the debate on the role that Artificial Intelligence (AI) will play in our dystopian future, the dangers of it and the ethics that organizations investing in AI will have to follow to ensure it does not go rogue. However, the debate is ..."
+    publishedDateTime: 2022-11-11T03:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/heres-how-to-earn-trust-in-ai-in-a-dystopian-future/95440307"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95440307,imgsize-7006,width-1200,height-628,overlay-etcio/here-s-how-to-earn-trust-in-ai-in-a-dystopian-future.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
     excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
     publishedDateTime: 2022-11-10T08:55:00Z
