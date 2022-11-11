@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.cbc.ca/1.6640606.1667572517!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marmolada-glacier-near-bolzano-italy.jpg"

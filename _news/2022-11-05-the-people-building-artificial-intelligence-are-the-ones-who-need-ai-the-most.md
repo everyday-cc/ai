@@ -25,6 +25,7 @@ topics:
   - AI in Healthcare
   - AI Hardware
   - IBM AI
+  - AI in Autos
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768"

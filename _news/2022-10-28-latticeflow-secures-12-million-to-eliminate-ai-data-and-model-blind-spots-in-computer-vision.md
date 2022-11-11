@@ -1,20 +1,20 @@
 ---
 category: news
 title: "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision"
-excerpt: "\"LatticeFlow is an enabling technology that empowers engineers and companies to deliver quality data and performant computer vision models that work in the real world,\" said Petar Tsankov, Co ..."
-publishedDateTime: 2022-10-28T08:08:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29453267/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision"
+excerpt: "The funding will accelerate development of the first scalable AI platform to automatically diagnose and fix data and model issues in computer vision, vital for enabling real-world model adoption ZURICH–(BUSINESS WIRE)–#DeepTech—LatticeFlow ..."
+publishedDateTime: 2022-10-28T11:31:00Z
+originalUrl: "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/"
+webUrl: "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Computer Vision
   - AI
 
-secured: "d+EEtN/9BbZhBZZ7lpGrMum3g141EquyGC7ES1yQc+YBb7Tp+awsPhvFUoQXM9Be8rqDoC3Qc8VJ1vyGClvnwMG2DTAjfurglV0Q9NOuCEtTqcJkWoyp61iyBUUFU6ZzUDDz5lOVahjoyFtSU84LiNZu58Y/P8iNDcJiF+EZui1MLZUiJwv6Uuwx6O+UDktV7tvbjtuS1sPbF319HZtj1D8Nd9bIZDztrx2aBsB4cB1z1Dd3nLZ4UeVOq9pUbosHJrec5/8p8YbgZzq0hVbGZe7e9i1pjGsK845ylhAEau7m513Gh8ekn4dgPRG6LVqzvOdR/zjdboRx8R+u0Kums7H1Qt2gOoSiqF50nhQ+02c=;EDnzXVK/biH5ucwR2RqHSA=="
+secured: "tRyS6+jzBFbmpBL0KA2h6rf1BFimK04aBA+fTo/DHE5twYX/RwsLs3vuuGnjgCLaW/ebUnu4zD41HghDYB9LuX6M2OfI2Arz71A2OYgP+vHmd0Eu+xRljyyKY/d5fP/xB/plwK9nwDbtJPtfvdARo2wQUwSRHHozQjozs8gM5WrVHT57feqzM930M1X/L+Wssl/4iGvlx7uZKHK6f/O7IJElcmhCcrJZ+yeb+owfAz+G4yjdVbYpkXzyT8/P2bfohwZw2JDdBO14EudPcBzyrmGnUSZqy67IbaV4S5CwL17JG3fxtVz4LrYAUJGGcdAGbkqzhZ1FukGnc3ugqUm7UhIO+SmiANgFrJpyG62rKD8=;xoMSvAm5dhcKJeDhiRogeQ=="
 ---
 

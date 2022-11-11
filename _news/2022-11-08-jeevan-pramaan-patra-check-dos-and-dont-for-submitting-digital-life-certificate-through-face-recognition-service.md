@@ -75,22 +75,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Jeevan Pramaan Patra: Here’s How Pensioners Can Submit Digital Life Certificate Through Face Recognition Service"
-    excerpt: "The government has now developed a Face-Recognition technology system based on the Aadhar database, which enables anyone with an Android-based smartphone to provide a DLC."
-    publishedDateTime: 2022-11-06T16:14:00Z
-    webUrl: "https://www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/"
-    ampWebUrl: "https://www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 38
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2021/12/Good-news-for-pensioners.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
     excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
     publishedDateTime: 2022-11-07T13:54:00Z
@@ -103,7 +87,7 @@ related:
   - title: "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance"
     excerpt: "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,"
     publishedDateTime: 2022-11-09T13:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-gbts-facial-body-recognition-patent-application-received-notice-/2022/11/09/9709242.htm"
     type: article
     provider:
       name: TMCnet

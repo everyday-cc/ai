@@ -3,8 +3,8 @@ category: news
 title: "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance"
 excerpt: "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,"
 publishedDateTime: 2022-11-09T13:55:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-gbts-facial-body-recognition-patent-application-received-notice-/2022/11/09/9709242.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gbts-facial-body-recognition-patent-application-received-notice-/2022/11/09/9709242.htm"
 type: article
 quality: 0
 heat: -1
@@ -67,22 +67,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Jeevan Pramaan Patra: Here’s How Pensioners Can Submit Digital Life Certificate Through Face Recognition Service"
-    excerpt: "The government has now developed a Face-Recognition technology system based on the Aadhar database, which enables anyone with an Android-based smartphone to provide a DLC."
-    publishedDateTime: 2022-11-06T16:14:00Z
-    webUrl: "https://www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/"
-    ampWebUrl: "https://www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/digital-life-certificate-step-by-step-guide-for-pensioners-to-submit-digital-life-certificate-jeevan-pramaan-through-face-recognition-service-5727770/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 38
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2021/12/Good-news-for-pensioners.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Jeevan Pramaan Patra: Check Do's And Don't For Submitting Digital Life Certificate Through Face Recognition Service"
     excerpt: "Do's And Don't For Submitting Digital Life Certificate - Explore latest photo galleries of at India.com PhotoGallery."
     publishedDateTime: 2022-11-08T10:22:00Z
@@ -109,6 +93,6 @@ related:
       domain: telegraph.co.uk
     quality: 26
 
-secured: "1JRjT1inegfFhXGaxh3ev6O5wKqMD1w0ma0QqJ3iXOl5MGs9l9UB7Ua0eiqsLOuXCJE1/N+xURF4L7/yVNoR4Zbwmyxqal+K84rz+b8JMlVvRbY3FOQY9snFQWhOZfRYViXo48hEj6NONNvKrTnWD5+Pcpgrg5mBVJkDz4jZhcNJr0KBqZb47eLlrq4+B63G279Dqy7PwD4wvExoBnT+x/f6ZZ7ytMudjqSQkI+mmbyFeGkf0hYa2uhQ2Uqt7zYRV/MYOc6TXxOzYe2apNzGxX71MHz36waQPdWUUGoGcYjqznSSZFH8q1/uiPpl9LxsDbHZQt0eOgYBEF80wgMSkxmYg8qTCMmDMmGmDzdgtVY=;z72VM/uV/Pagm8Rm9hNA9A=="
+secured: "LACXRm3wjo9RsKftgQAZ2vFINtqr1wA3acJRr2Rw6/pxvnp1/pVmdYaOUpaN4eEi5pmuqudIvofl+r72YbFmJ7pk6wl13GO9fs5cymWgKunyP/eu86mOJP1IMqSd3zjinOgQBKbyUMEQDmxPHhWF+3JrbsOQwH5/VdfETvTVPvtvxukF1XQhNxqIHKO5bbKhKU7oJ2hcCWXeLN69g0WoW3Hm1g8nA4XKGjkDZulXv46x52axj2KBWzMVgTYxwt7FrHqtw8Hj4Jppsp8knficYGbfHsE/I1DxsgUwD5CoEzxv2f+yAL+WEe0lU2sYZ+uIX5pYCfaafow5tf8YX6bwkdQRg2vxohHs1a1U8Wht7tY=;oiBnl9XAF6AI3hv68PtvSA=="
 ---
 

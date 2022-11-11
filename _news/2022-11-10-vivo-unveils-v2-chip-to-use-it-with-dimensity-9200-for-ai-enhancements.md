@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai
 cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
 type: article
 quality: 74
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vivo V2 chip gets new features, will debut on the X90 series"
+    excerpt: "The V2 chip brings improvements in compatibility and functionality and greatly upgrades the on-chip memory, AI computing and image processing units. The V2 chip utilises FIT dual-core connectivity technology to achieve high-speed communication."
+    publishedDateTime: 2022-11-11T08:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/vivo-v2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vivo unveils the V2 chip to pair with MediaTek’s Dimensity 9200 chip for AI enhancement"
     excerpt: "Vivo has unveiled a new chip that will be paired with the Dimensity 9200 processor for artificial intelligence enhancement. The announcement was made during this year’s Dual-Core X Imaging Technology Communication Conference in China."
     publishedDateTime: 2022-11-10T20:15:00Z

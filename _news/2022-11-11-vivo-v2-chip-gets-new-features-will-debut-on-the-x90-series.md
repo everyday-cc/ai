@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Vivo unveils the V2 chip to pair with MediaTek’s Dimensity 9200 chip for AI enhancement"
-excerpt: "Vivo has unveiled a new chip that will be paired with the Dimensity 9200 processor for artificial intelligence enhancement. The announcement was made during this year’s Dual-Core X Imaging Technology Communication Conference in China."
-publishedDateTime: 2022-11-10T20:15:00Z
-originalUrl: "https://www.gizmochina.com/2022/11/10/vivo-unveils-the-v2-chip-to-pair-with-mediateks-dimensity-9200-chip-for-ai-enhancement/"
-webUrl: "https://www.gizmochina.com/2022/11/10/vivo-unveils-the-v2-chip-to-pair-with-mediateks-dimensity-9200-chip-for-ai-enhancement/"
+title: "Vivo V2 chip gets new features, will debut on the X90 series"
+excerpt: "The V2 chip brings improvements in compatibility and functionality and greatly upgrades the on-chip memory, AI computing and image processing units. The V2 chip utilises FIT dual-core connectivity technology to achieve high-speed communication."
+publishedDateTime: 2022-11-11T08:21:00Z
+originalUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html"
+webUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html"
+ampWebUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
 type: article
-quality: 56
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Gizmochina
-  domain: gizmochina.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2022/11/vivo-v2.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements"
@@ -39,22 +43,15 @@ related:
         width: 839
         height: 471
         isCached: true
-  - title: "Vivo V2 chip gets new features, will debut on the X90 series"
-    excerpt: "The V2 chip brings improvements in compatibility and functionality and greatly upgrades the on-chip memory, AI computing and image processing units. The V2 chip utilises FIT dual-core connectivity technology to achieve high-speed communication."
-    publishedDateTime: 2022-11-11T08:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
+  - title: "Vivo unveils the V2 chip to pair with MediaTek’s Dimensity 9200 chip for AI enhancement"
+    excerpt: "Vivo has unveiled a new chip that will be paired with the Dimensity 9200 processor for artificial intelligence enhancement. The announcement was made during this year’s Dual-Core X Imaging Technology Communication Conference in China."
+    publishedDateTime: 2022-11-10T20:15:00Z
+    webUrl: "https://www.gizmochina.com/2022/11/10/vivo-unveils-the-v2-chip-to-pair-with-mediateks-dimensity-9200-chip-for-ai-enhancement/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/vivo-v2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 56
   - title: "MediaTek Dimensity 9200 Rocks Wi-Fi 7 And A Huge GPU Upgrade For Flagship Phones"
     excerpt: "The Dimensity 9200 has a few tricks up its sleeve, in addition to offering more performance at a much lower power draw."
     publishedDateTime: 2022-11-09T15:20:00Z
@@ -86,6 +83,6 @@ related:
         height: 675
         isCached: true
 
-secured: "lUkDh3qu2mTs3yd8v9nyVxAy/O+ZCdbaf2D+jY/Fq4uSylmyT6Q40PTiV0O8pxCKclSz9XgRYeah02wkAkT4y0lHT0L2dDPiZIdv20kRWO1WQ8pot/uucg80k/yZ/gfhQJGfXLrpvlyHD1uJ2YD/tJ7ujfqleRpR9GRNU0DJ3TUcNbDEoPdCzb3D9KtgXCEJCXk9FPylaOt/JII2DXtvLggfcNt9nM52+yrrKQlMtQswccOh+WiZjbe8lZZloNfdm0wSmR0xGSWai8QVbh9vX90/9tjtzuRIxbaCoDzgQ6L8XdpgrmJYBGxNdburNt1JNF/7x2yVj6OgqkgnAqGRhrJhNsWEpPRuYhRXJCC1xA1bSkiiXo36WYltwtcTzcvuchacA3gae12oMayZcXO8Zn/JWWnQebS9Ij+bh46F4XgT006yy8Tha3oJnKx3Apo+z00VHPemFlOd+DbMcYcwWiykfLURs02pgV8w9ficzdjVaP8XJsuiD6FIfz7cL9OJlVP7FmqWjy8vbujX5HiTkQ==;pgHLFEV+0Lf3EiOjvWKD1w=="
+secured: "Kh73ZAg79o4unBnzEa56ms6Cgp8e7of8ffSNFmfNqZGW/8Us6lkhenNeAlS/x1xXWqZe4BQb8pN+9Jieeq7bsOWuEqZImAPGerPNz5ZfQIYmSYCZnW49qNcdUJnzYL04kj/2nobEZj9CdypnE07IhXhcJoekh8aP3hj/JQJ0zRq45ynfuON1633yhoV1gwCE8J24ClSLX42x3/dbuWGAxAc+xcccTxZVaA4AMwSvzKw0LkZnJXzEg6Mtjw+1f/wk6ZeDMv0+crkUsrJKyGCWQkvIc/Zf4yfRb809/cWvtbp10dS02DNBF6nOtUTMbM85MWPKdyRhd+JWct1tqohRyY/7a/Clc2rG1xyH9jxR/jY=;ZTYo5WkyLyf1W+yXk9ZWwQ=="
 ---
 

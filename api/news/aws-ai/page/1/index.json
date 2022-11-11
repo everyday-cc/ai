@@ -1019,19 +1019,19 @@
     {
       "path": "_news/2022-10-25-shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china.md",
       "title": "Shoplazza Shared Innovative Practices in the Age of AI at AWS Summit China",
-      "excerpt": "To solve the pain points, Shoplazza uses the data flow and computing power of Amazon EMR and Amazon SageMaker and combines all the processes, including sampling, featuring training, and estimation ...",
+      "excerpt": "Shoplazza Shared Innovative Practices in the Age of AI at AWS Summit China Oct 24, 2022 (PRNewswire via COMTEX) -- PR Newswire SHANGHAI, Oct. 24,",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
-      "originalUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
+      "webUrl": "https://www.marketwatch.com/press-release/shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china-2022-10-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china-2022-10-24",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_5020059_33882458.jpg?h=252f27fa&itok=lHZ54Tpo",
-          "width": 600,
-          "height": 316,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1041,12 +1041,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T12:29:00-07:00",
+      "publishedDateTime": "2022-10-24T10:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

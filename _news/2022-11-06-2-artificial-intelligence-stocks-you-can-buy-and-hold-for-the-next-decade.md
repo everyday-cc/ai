@@ -18,6 +18,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/707518/ai-artificial-intelligence-robots-working-office.jpg"

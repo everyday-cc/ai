@@ -246,6 +246,59 @@
       ]
     },
     {
+      "path": "_news/2022-11-06-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "Powered by Watson, IBM can deliver safe dividend returns for income investors. Palantir is not low-risk, but the prospect of \"next-generation\" AI could lead to considerable returns. You’re ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/11/05/artificial-intelligence-stocks-you-buy-and-hold/",
+      "originalUrl": "https://www.fool.com/investing/2022/11/05/artificial-intelligence-stocks-you-buy-and-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/707518/ai-artificial-intelligence-robots-working-office.jpg",
+          "width": 5500,
+          "height": 3667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-05T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
       "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
       "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
@@ -350,7 +403,8 @@
         "AI",
         "AI in Healthcare",
         "AI Hardware",
-        "IBM AI"
+        "IBM AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1416,49 +1470,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy.md",
-      "title": "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy",
-      "excerpt": "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "originalUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "publishedDateTime": "2022-10-26T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

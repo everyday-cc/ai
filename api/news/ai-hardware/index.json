@@ -114,7 +114,7 @@
       "originalUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -495,7 +495,8 @@
         "AI",
         "AI in Healthcare",
         "AI Hardware",
-        "IBM AI"
+        "IBM AI",
+        "AI in Autos"
       ]
     },
     {

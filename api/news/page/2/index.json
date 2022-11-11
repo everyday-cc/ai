@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-10-bowe-group-leads-82-million-investment-round-in-robotics-software-company-movai.md",
+      "title": "BOWE Group leads $8.2 million investment round in robotics software company MOV.AI",
+      "excerpt": "MOV.AI's Robotics Engine Platform is said to enable smooth human-robot collaboration, and is something BOWE GROUP experienced firsthand as a customer",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/bowe_group_leads_8.2_million_investment_round_in_robotics_software_company",
+      "originalUrl": "https://www.logisticsmgmt.com/article/bowe_group_leads_8.2_million_investment_round_in_robotics_software_company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2211_F_GL_-Import-Baseball_800px_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-cloud-giants-file-major-eu-antitrust-suit-against-microsoft.md",
+      "title": "Cloud giants file major EU antitrust suit against Microsoft",
+      "excerpt": "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\",",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
+      "originalUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-intel-unveils-max-series-gpus-for-high-performance-computing-and-ai.md",
       "title": "Intel unveils Max Series GPUs for high-performance computing and AI",
       "excerpt": "Intel has unveiled its Intel Max Series graphics processing units (GPUs) for high-performance computing and AI applications.",
@@ -1128,101 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-the-role-of-embedded-vision-in-powering-autonomous-robotics.md",
-      "title": "The role of embedded vision in powering autonomous robotics",
-      "excerpt": "Today’s robotics developers have made enormous strides thanks to developments in artificial intelligence (AI), edge-computing, and camera technology, creating totally autonomous mobile robots (AMRs) that can replicate human activities.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Maharajan-Veerabahu.jpg",
-          "width": 390,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "publishedDateTime": "2022-11-07T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-israel-to-start-self-driving-public-bus-pilot-programme.md",
-      "title": "Israel to start self-driving public bus pilot programme",
-      "excerpt": "Israel has launched a two-year pilot programme in which four companies will operate self-driving public buses in a bid to ease road congestion, the country's Innovation Authority said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
-      "originalUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=119",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
