@@ -1,0 +1,45 @@
+---
+category: news
+title: "Japan to invest up to $500M to manufacture advanced chips"
+excerpt: "TOKYO -Japan said on Friday it will invest up to 70 billion yen ($500 million) in a new semiconductor company led by tech firms including Sony Group Corp and NEC Corp as it rushes to re-establish"
+publishedDateTime: 2022-11-11T02:48:00Z
+originalUrl: "https://business.inquirer.net/372366/japan-to-invest-up-to-500m-to-manufacture-advanced-chips"
+webUrl: "https://business.inquirer.net/372366/japan-to-invest-up-to-500m-to-manufacture-advanced-chips"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Philippine Daily Inquirer
+  domain: inquirer.net
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://business.inquirer.net/files/2022/11/2022-11-11T004855Z_2_LYNXMPEIAA00R_RTROPTP_4_ELMOS-M-A-CHINA-620x413.jpg"
+    width: 620
+    height: 413
+    isCached: true
+
+related:
+  - title: "Japan to invest up to $500 mln in new advanced chip development company"
+    excerpt: "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ..."
+    publishedDateTime: 2022-11-11T00:52:00Z
+    webUrl: "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/-HGRp8TetewRZxXkozlMWTm3HlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPRHXI73MBPX5J54LYWMQ7XQME.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "0gNRTSzgHYcUbx3fJGmWitGv99WyRAcfArvSdsL/ETaYrqiewH2A7ZT9WawAVDmG09q9EcaKEEBnZypNaJueqyUspLiYPWVRfbldEZOns98eBZK342S/1ExGon014HDE91g+dhtQGkDEkjsbGV4zE+EzBsKaLSvTRgh0QuNqfzHNWnGJiIPYpIykGRalx2Yzhv5c6MjzDaHISrAVVGkF4APZHbe/BkhI3j/7VAOOx3safQyQzAVOGJY4ZXHjVBY5wuX/2Kg5ZDGEiZmM1lqy+/Utkss5qAHOwAqM/OT/tq/2TsEb2iM79AP9JOgLDfCUlvnPUIA2MOWdjk+terfriXzmyGQtuntcr4QwKo5s94U=;M9SFYUekFaCnher4ig2w4A=="
+---
+

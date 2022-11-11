@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/japan-invest-up-500-mln-new-adv
 webUrl: "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Reuters
@@ -28,6 +28,22 @@ images:
     height: 628
     isCached: true
 
-secured: "8JkC595QUYOulRlYuhX9VNnCSM9Yh+0RmmGZtKIIwgHR2oI1Lwyzg5RDqiqE/NX+9DU1q+/4jXD1bRKUAYjUVa4u3beOWqrdu7MnwethRIGAXbPIIraCRobZLlwjCDYCJEraqeKZwo+fXGfq6QXbPPyggLLM69YKKHQcWj+B6wY5NS6Nh1jIiQLYQVZDTLuc8EnrlUscenCqLfkAeivaNzP7WDTf5qPHZectiy1xsewU/YuaJ8FkT6MiuRId2Ch9r6DQ+Ozktb+2TjnrYK/vjUGwVh9mFo8LKeM2HZErfddgLY1/+yhcr9swfF33ljHUepUUrWPpAWdhd91m8BpVHxqQ/dqVMXg0TQtvbMcKbFs=;4QM52K+8KpsqSxMmySx7Vw=="
+related:
+  - title: "Japan to invest up to $500M to manufacture advanced chips"
+    excerpt: "TOKYO -Japan said on Friday it will invest up to 70 billion yen ($500 million) in a new semiconductor company led by tech firms including Sony Group Corp and NEC Corp as it rushes to re-establish"
+    publishedDateTime: 2022-11-11T02:48:00Z
+    webUrl: "https://business.inquirer.net/372366/japan-to-invest-up-to-500m-to-manufacture-advanced-chips"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://business.inquirer.net/files/2022/11/2022-11-11T004855Z_2_LYNXMPEIAA00R_RTROPTP_4_ELMOS-M-A-CHINA-620x413.jpg"
+        width: 620
+        height: 413
+        isCached: true
+
+secured: "2F1x0ORZqEJrj2+Ypu0vmo8xxVR1wlZ/gGjUgjaLh9WywcoriRw2CPx4Yk8KOfuYNvaMf79XDQOuCyksFpM5jfO5ZiAFFyDSTVKsebUj6XS8oi29NoTgTulcCm1x7nmD1D1AgIRtt+MtIpAbOlO/LJ7A62GS7V3mt//uIFb9wzhDflPFWQhOwNED6oJhJQdlecddaYnuw/mtwIJI7vFECCxje1C6h/CK9hS/LDDZjYAwoiCmrf+cA+qW+JbqQnghX2ZBKdnjufO+zXhSrmnlTcD8mIGdBodi1CpK4HvABW/xFwN2/5zfHRtXTWOJUDvAX/nJyQPvI3/VxCWM78kTIK/5h6D2HPrTOH88/dB4z/GrXaKt9Rzzwqo8oIEvwyr0jmxqkafDdVlZrO5OSai3MhavdJy+aJAfjwdOLSFFU36vwbQ7sFExJ8O2192TkuZSQ67qYzkIWwIze1HFwlgS+HgJbfnan/jAIrzo1lTxiuHnbFoRnMoQugy5uvjt7tAM8OMhdEHmSDt9/7A8wHeH4Q==;ZZWX+/kDqQ6H8CWqNRaagQ=="
 ---
 

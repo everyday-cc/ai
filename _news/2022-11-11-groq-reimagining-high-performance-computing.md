@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/636d1f9240cdc45744555971/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 1801
     isCached: true
 
-secured: "HJuw6kjQ30we79jmZ3idBHWLrIKdH0FhBsnzoimq2mBJrGCBhbx0NWjc2AbEkhvvlkF8kX7HiC82pUZ0PBhwEGp/a2VnKgjd29mm9J5wrjktuC4cT4vlJBP7Ml5p90PdYxJtT6TIBsKdqsi/v/R6wkBh4Dgv+dIUDonDllAGNu8CTcbQ/VPVYus7KbOULeL8etObYvLuPTU/BEuQBkJXE4wODoWBiu+3o7qFTNsog/5039PFgfvLb6S/iKMI1i1D3Ty0vJ/WFCH/wF8nnvUH4B5NXZ824ySPbZgzbKbtoTLNpD9/U67LPa+z7y/gS7yQvUF8U0BK2rHl5OH+/nrtdasEH2olVE5fIZ+b66bkJ7A=;mdhUijzmQV5cXDu8PXR1Sg=="
+secured: "AiyIDT1qEOODSzrJCCwEUzPQ06jmz0rnZte8oFLzDyYmHarinBzMTUKBlfpQJBec9NhPQ+/Y7eJjb7iLf0vkjnt5CnGdef8Jw+XQc2aIQlXl02FipecvliXd+XBxNB/0MW6mFdeTP2YA6NNYNptXIkKe/a07Y4hK3DcLoiFTZOoW0ytK4Aq1eQwNrUHcUKctfL8JYNvgbj9JMrB33NHJCIYJi/2MVSD1YVSjMSrsmJe0uiVb5Vlo7t/0hYJDJilXRSmT91COsxRv7SBcBAk5PpqjW0WRyCEe3AY+z0HOB27qdK3GM7hVuTM45Lh+V1/Y3Sl79oFRjhyHtICRxLjZWhpvyOlrno8JR/EmetHfnPTvGVjPWs9eHsMD40J7OjGwINGmaNn/Xom4HX7nqILGZmjI6URh26z5wggUrVaGWSLrsCL6npNttFT0BCUMcflX8Vd4w/mJixV2ztxmrdOnKP65e4QgbKuGSPelecj1BcdSc8EbDGnYe392CrvNs6iqZWu+qdKT0RLUryXez+THRA==;7VHg2vkybBkbZnMZsymviQ=="
 ---
 
