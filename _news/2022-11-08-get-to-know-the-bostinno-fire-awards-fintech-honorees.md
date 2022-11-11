@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biggest fintech trends to watch in 2023"
-    excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
-    publishedDateTime: 2022-11-07T09:29:00Z
-    webUrl: "https://it-online.co.za/2022/11/07/biggest-fintech-trends-to-watch-in-2023/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
   - title: "Taiwan's eKYC Solution provider Authme showcases its latest Deepfake preventing innovation at Singapore FinTech Festival"
     excerpt: "Taiwan -based Authme, one of the leading providers of AI-based eKYC solution attended Singapore FinTech Festival 2022 along with Taiwan's Asia Silicon Valley Development Agency and FinTech Space, showcasing their most advanced KYC solution that provides seamless onboarding experience and innovative fraud prevention technology to combat Deepfake frauds."
     publishedDateTime: 2022-11-08T06:15:00Z

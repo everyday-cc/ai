@@ -20,6 +20,17 @@ topics:
   - Machine Learning
   - AI in Security
 
+related:
+  - title: "Asia Pacific Precision Diagnostics Market Report 2022: Surging Demand for Personalized Medicine Drives Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Precision Diagnostics Market Forecast to 2028 - COVID-19 Impact and Regional Analysis - by Type, Application, and End User\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-11-11T08:20:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-11-asia-pacific-precision-diagnostics-market-report-2022-surging-demand-for-personalized-medicine-drives-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
+
 secured: "TPQqWfHpBbkxIRBT5hnI9wmHAGowNgKHcuwavdgd7BxvfAZtfbWQOlQHtHJKT0WgVrAS1jDzHsUt+hJRkXR6gcT2LVOeVotkFWoSM2W4276ycPxmTvK1pFZ+9u9/izS2UdbMRGw7D1YLojQL7EalSARYmmJ8K+r2ZAKfWXYebTm3gKf8quEHBEWOxKgTQ5zy6t62DmCfL9Oj0F7RTic5Wmi5uhNxy+qTMB73m2W1M4i8Mg8Xne9M33q3irYeLso9xl1BU4kVZDE3e5P/MjSvvoXOb6YSOybh4qHBHfbl5vjlkA0I5HJLMUhNDZuB8KzOfZkoWDkcRWspgCHe5TwhX4010vGZLpaRmLgphJYdoXs=;TSAL/o7WVw75Za5e7N2LPg=="
 ---
 

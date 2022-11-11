@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Finastra and Modefin partner to provide best-in-class fintech solutions"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T09:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-ekvdblx5"
+  - title: "Isle of Man launches Fintech Innovation Challenge"
+    excerpt: "Digital Isle of Man (an executive branch of the Isle’s government) has announced the launch of its second annual Fintech Innovation Challenge, an opportunity to engage with international stakeholders and industries in their digital ecosystem."
+    publishedDateTime: 2022-11-11T10:41:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41301/isle-of-man-launches-fintech-innovation-challenge"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
+      name: Finextra
+      domain: finextra.com
     quality: 24
     images:
-      - url: "https://static.zawya.com/version/c:Mzk4NjgyMzYtMTc5Yy00:ZDkxYmM0/galadinner14june-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
-        height: 600
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-11-11-101905.png"
+        width: 480
+        height: 270
         isCached: true
   - title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
     excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."

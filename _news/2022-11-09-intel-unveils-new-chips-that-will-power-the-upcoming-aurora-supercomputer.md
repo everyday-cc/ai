@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Intel Launches powerful Max Series CPUs and GPUs for high-performance computing and AI"
+    excerpt: "With the introduction of its newest product family, the Intel Max, Intel Corp. hopes to compete against rivals Advanced Micro Devices Inc."
+    publishedDateTime: 2022-11-10T14:46:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 66
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/Intel-Launches-powerful-Max-Series-CPUs-and-GPUs-for-high-performance-computing-and-AI.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Intel unveils Max Series GPUs for high-performance computing and AI"
     excerpt: "Intel has unveiled its Intel Max Series graphics processing units (GPUs) for high-performance computing and AI applications."
     publishedDateTime: 2022-11-09T13:59:00Z
@@ -71,20 +87,6 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 46
-  - title: "AI and Unintended Consequences for Human Decision Making"
-    excerpt: "AI can often rely on a large volume of data to make recommendations for human decision-makers. However, there’s often no transparency regarding how the scores are derived nor what data are used to determine them."
-    publishedDateTime: 2022-11-07T14:52:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/hovercraft-full-eels/202211/ai-and-unintended-consequences-human-decision-making"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 37
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/andrea-de-santis-zwd435-ewb4-unsplash.jpg?itok=uvgmZ6MP"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Intel Unveils Xeon CPU Max And Data Center GPU Max For An AI And HPC 1-2 Punch"
     excerpt: "Intel's bringing a left-right combo to Supercomputing '22, with new high-bandwidth CPUs and high-throughput GPUs."
     publishedDateTime: 2022-11-09T19:24:00Z

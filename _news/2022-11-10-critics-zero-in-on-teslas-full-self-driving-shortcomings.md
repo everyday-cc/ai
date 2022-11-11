@@ -64,15 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 21
-  - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
-    excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
-    publishedDateTime: 2022-11-06T19:01:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
 
 secured: "ek9MFXMTg5+ohWZvDXAJV1s4UIX2kJDjzJLcAI26d4rmvIwoDpuk/JLpCz37PLa9u/LLvSADlwb+LGtuA3jWm01M8RK1xSGiVHO4wGMgcuz4oPgym3g1rLcVASbtoC6ziBaGg3Fx+1GssCxeUu3jSFnzaAklf2c+7ZgHdJigFFPSzqCJmL5BfhVhbvW/aG/zQkum85q1q4i6AAEnNeoQnThwbZQsIGmyq+2Uc4x47LwpyKWnN9x46qeEpW7A3eX+hQMiHTm8YR0DIjTjK0bv0ZxBC5/jdKN2qrSmsC8EoT8t7Zsv+MjYy8RbTUsOjgr9WLtTK3JjBk29dyFRw+jP/QCtyrOt37TH/Vhov64UzeX/9vtrFeaE0rMqegWAXONkjwwAFag8czHiKfMasydUVEGv8ScH/BDyU28D3M407TJk9SDgj+Ey1D7FJjQjnVSN1eB5gyZwDSkTCiC1jt7qbJ3vMp0HAkbKX7B6sIWfsAZRgCSkgTJDPTVn5Ak6iAd3b127ER6uDngplEQsQSHGQw==;MrbfTzlnM2PiqQ3ONOhlLQ=="
 ---

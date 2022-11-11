@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Know About Artificial Intelligence in Litigation Funding Market Positive Long-Term Growth Outlook 2022-2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence in Litigation Funding"
+    publishedDateTime: 2022-11-11T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-in-litigation-funding-market-positive-long-term-growth-outlook-2022-2026-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2027"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence (AI) in Food and"
     publishedDateTime: 2022-11-07T08:01:00Z
@@ -79,6 +93,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Data Science and Machine-Learning Platforms Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Data Science and Machine-Learning Platforms"
+    publishedDateTime: 2022-11-11T04:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com"
     excerpt: "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,"
     publishedDateTime: 2022-11-09T15:51:00Z

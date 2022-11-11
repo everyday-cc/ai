@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biggest fintech trends to watch in 2023"
-    excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
-    publishedDateTime: 2022-11-07T09:29:00Z
-    webUrl: "https://it-online.co.za/2022/11/07/biggest-fintech-trends-to-watch-in-2023/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
   - title: "Get to know the BostInno Fire Awards fintech honorees"
     excerpt: "Today, we'll meet the honorees in the fintech category. Boston is on its way to becoming ... This Cambridge company operates an AI-powered insurance comparison platform, allowing customers to compare and purchase a variety of policies online."
     publishedDateTime: 2022-11-08T14:28:00Z

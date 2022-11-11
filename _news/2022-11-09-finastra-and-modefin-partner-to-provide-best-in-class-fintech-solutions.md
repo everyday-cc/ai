@@ -25,34 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "Finastra, Modefin partner to provide FinTech solutions for banks in Africa"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-11-09T10:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/finastra-modefin-partner-to-provide-fintech-solutions-for-banks-in-africa/"
+  - title: "Blnk, a fintech that provides instant consumer credit in Egypt, raises $32M in debt and equity"
+    excerpt: "One of these options, consumer loans, is being explored by Blnk, a fintech launched last October ... within underserved communities across the country” and support its “AI-powered” lending infrastructure. Customers who use Blnk at the point ..."
+    publishedDateTime: 2022-11-10T12:05:00Z
+    webUrl: "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/"
+    ampWebUrl: "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
-        width: 300
-        height: 250
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/648DA3A2-B228-4346-96A6-10CD2E276BDB.jpeg"
+        width: 1170
+        height: 687
         isCached: true
-  - title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T11:31:00Z
-    webUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
+  - title: "Egyptian fintech Blnk raises $32 million in equity, debt funding"
+    excerpt: "Egypt-based fintech Blnk, has raised $23.7 million in equity and debt funding, and $8.3 million in securitised bond issuance."
+    publishedDateTime: 2022-11-10T14:13:00Z
+    webUrl: "https://www.wamda.com/2022/11/egyptian-fintech-blnk-raises-32-million-equity-debt-funding"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated6_12.png"
-        width: 900
-        height: 480
-        isCached: true
+      name: wamda
+      domain: wamda.com
+    quality: 19
+  - title: "Biggest fintech trends to watch in 2023"
+    excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
+    publishedDateTime: 2022-11-07T09:29:00Z
+    webUrl: "https://it-online.co.za/2022/11/07/biggest-fintech-trends-to-watch-in-2023/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "c7ObpMqncTPhug72yi5CmoG/dXtWibddc+e+haBPPPGdL5khCoaWPzsLFSqYoFx88MrC1ggLyVqiPnKRgoeul6yN4u2G9gghgeNTxnqAB4r8k5304M/rCzqC3IjbrU05QlMoqQAB56kMdRSy72D1v22JwgBkhvCdgpha78G+N2ZJRqVWCVJ9Jgkj6JhS+VZspNygTynDe00m3m5TIYdUw+xllISx892HJyeF0Bg3z3LtbcUBkhldPfunfiEEKbnEslUM9pXN74dG9FBtljkLIr24fDbwkPtT1u1Xt12U9ttI8h3lON4x8vuldvjeerD4FN++TS6LnYoufwBIEOFhXjLXghgqLqhRMz+gHnq87Is=;AnXvcsyaL1xlxF0NMH5XqQ=="
 ---

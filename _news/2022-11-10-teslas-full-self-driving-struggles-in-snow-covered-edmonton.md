@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
 type: article
 quality: 59
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 21
-  - title: "Tesla Didn't Want to Give Full Self-Driving Demo to DMV Authorities"
-    excerpt: "So last week, the state's DMV investigators wanted to get a look at the FSD beta for themselves and held a demo at their Sacramento headquarters. However, according to emails obtained by Bloomberg, Tesla initially didn't want to play ball."
-    publishedDateTime: 2022-11-06T19:01:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-dmv-full-self-driving-demo"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
 
 secured: "pwcbQ9cxibOkNZq/4Riq3Drzt+/AaIuhdEy9PXWxxYmpCR6Zxi8AUiA2U1VCmONkisvACxQ0YnZB19hgJc6A3XqkixH941r2+0RffpTo50e3ij4eompyDj64z1yZMfgc8uzxA2SqDShcSIh5V+95Lz77RbkwjVpKXvNwqc/nAwD4kUjjiNdDmVhlE47Lr1HqUn3a6nJyKUqh4U9Gr342kznlYLhg9PrLluXXwW5MWnQPN9JlHvYVOKZcxXt95hexR9zZj0y6mEu2/eOJjjkTlQ6SX32e9lvQEx44eBkdCJ1KpdSSx/1sg57JgrI7nVeGhvEtWBzIY+pB9CEFHxoYD6ny86nrgJOkZqT4b2OOGL5Tmvk38oAnV+sEbf74gqSFlAcjI3PLVrFsBK8L14sRDPTmLfBix+N2nHBu8qSRXCjDD5yPNF5KSqLkjg9/mrW/Fmry8TYApgVQDCSI9R0DFZoDktDtvofqRbb+3KYxgabpOZ1hUlGmPXqGSjLmaczRI4SZDsfuZL2zJY/2rOS93g==;fspMUpJeDa2nSniJOXr9Sg=="
 ---

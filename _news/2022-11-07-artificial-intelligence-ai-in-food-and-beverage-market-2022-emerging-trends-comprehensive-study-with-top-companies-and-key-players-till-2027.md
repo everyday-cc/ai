@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Know About Artificial Intelligence in Litigation Funding Market Positive Long-Term Growth Outlook 2022-2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence in Litigation Funding"
+    publishedDateTime: 2022-11-11T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-in-litigation-funding-market-positive-long-term-growth-outlook-2022-2026-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market Analysis By Size, Share Trends, Emerging Trends, Qualitative Outlook - Forecast To 2026"
     excerpt: "Nov 08, 2022 (The Expresswire) -- Pre and Post Covid is Covered and Report Customization is Available. “Artificial Intelligence (AI) in Oil and Gas market revenue was Million USD in 2016, grew to Million USD in 2020, and will reach Million USD in 2026 ..."
     publishedDateTime: 2022-11-08T04:42:00Z
@@ -73,6 +87,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Data Science and Machine-Learning Platforms"
+    publishedDateTime: 2022-11-11T04:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

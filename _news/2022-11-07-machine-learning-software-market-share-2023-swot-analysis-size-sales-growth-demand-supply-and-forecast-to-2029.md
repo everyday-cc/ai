@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028"
+    excerpt: "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost"
+    publishedDateTime: 2022-11-11T05:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Market\""
     publishedDateTime: 2022-11-10T04:44:00Z
