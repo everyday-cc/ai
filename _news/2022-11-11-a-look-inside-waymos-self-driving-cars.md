@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-dri
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Self-Driving Vehicle Company Promotes Former Waymo Lawyer to Legal Chief"
-    excerpt: "“Developing self-driving technology is one of the greatest challenges of our generation—building and protecting our technical leadership is critical to Aurora’s continued success,” Chris Urmson, Aurora’s CEO, said in a written statement."
-    publishedDateTime: 2022-11-07T19:23:00Z
-    webUrl: "https://www.law.com/corpcounsel/2022/11/07/self-driving-vehicle-company-promotes-former-waymo-lawyer-to-legal-chief/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 18
 
 secured: "YY+xt/Lhwdicl2VQj3Z1WYYpiiX3H/2nqpAdNfdk0BWalXHoB+yitvVhiM7AG1/AaCJxv+1LnZWb5yD/cBdnCvWz/8W7hDaDjpAFTilkYqzLTSkIOftzqbh/Dha4HPSK66V4a08Bfj34R/XjmMA0WuY43pB+TmYEkcbEpfCpBNjqL7e/OnI/JDDFHrh0YdNUVIljE2Vhw5RNehSVUJjXcTnp+hGLRdxbbrI+fgjnSoPBCo9okDgSPjI7UOldp/UnimrFIgdst/dbxFcHmaPhaC38JuLcBwJgEcE1XXbOoHrYnlK7WIgHKycWLunfVr5V2csNyj9A4SepDxoovTBdQGIYY1wQgLrussmHzQpEDmXd2mwSyjyp8BxDvNEtKtp1aq8Sqg/I3ocWFCoYzwWuwVmgzskp5Vjgl++BfjY7vT6Z2b6RhbnSZxfab1r03pn9rJ+s0gDE/0jC0mZA2NElVbVl3VebwV00ELIY+n38FLurAJ4IfFK0bF/STgGAjqBBqzkoui3kAc3k/XHxRRH7DA==;pULu0zq4Ad5OFrCGHJ8l7Q=="
 ---

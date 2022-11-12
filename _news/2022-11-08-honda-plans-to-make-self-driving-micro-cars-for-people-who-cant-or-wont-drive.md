@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Honda’s new AI-powered ‘golf cart’ look-alike will drive you around without a license"
-    excerpt: "Mobility” self-driving EVs are set to hit the streets, combining Artificial (AI) and Cooperative (CI) technologies. Although it may resemble the look of a golf cart, Honda’s “Micro Mobility” concept is capable of much more,"
-    publishedDateTime: 2022-11-07T19:57:00Z
-    webUrl: "https://electrek.co/2022/11/07/honda-reveals-new-self-driving-evs/"
+  - title: "Honda eyes senior citizens, Gen Z for self-driving car"
+    excerpt: "AT first glance you might think you’re looking at a photo booth on wheels or a golf cart. But this is the kind of machine Japan’s Honda Motor Co. is hoping will snag the company a brand-new automotive audience—people who don’t want to drive."
+    publishedDateTime: 2022-11-11T16:04:00Z
+    webUrl: "https://businessmirror.com.ph/2022/11/12/honda-eyes-senior-citizens-gen-z-for-self-driving-car/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 40
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg"
+        width: 1400
+        height: 799
+        isCached: true
 
 secured: "yv7Inz1RRWMpFJ7gtmVaEnuNs5PlpM3sEg9XQ5Rii3Qv4j6Fa9afVXgbcOaETvqZY0e2aW4H5gox7Mseu07TtYROlLfLiXOkaJOTDfE1ZgL3tf9zW1ePjcJ+QNFn21iMEQbZdU/VAgRcl68OIzofwoqe7By0jiYoPoN2e6R0hDiAlFY7ujLY3HitNNG9vvDwZXaGjyMZyjCol6Texcsv4fl7MvK0wrc9M+pbOliQawOmJcqDwB0AhSLkeYhQggXNhF0+4OkFOkNGWfmqpNQYIOcJ+qCgX90+I8LQkgzxoaGFD5o5+t+b+rymdPrQw+5Od3uTJf/mOcqzlyQw0D+mdChH8enDbP9QlCuSsybLXR5QuWp/nap+MTwE3KcaqOattJcZDlI8MWAUT9GPUCQ4+W0lI7vAYdNFDF4VHSN+Ezkc3PszPYoHmbBdks2PajpQGlCIKA388OkHgYNo22jBXuauKPjcIA4QtQ9gBREX68cLdfgHMbiwXIpbyyh8CYKfIar/+SoQatJj6bG1iC40tA==;P0zeK7InVQf1UOm2fI605Q=="
 ---

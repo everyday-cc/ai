@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-up
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/2148239/deviantart-faces-backlash.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "DeviantArt’s AI image generator aims to give more power to artists"
+    excerpt: "DeviantArt, an early internet-era hub for visual creators and communities, is launching its own AI art generator."
+    publishedDateTime: 2022-11-12T12:00:00Z
+    webUrl: "https://www.popsci.com/technology/deviantart-ai-generator-dreamup/"
+    ampWebUrl: "https://www.popsci.com/technology/deviantart-ai-generator-dreamup/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/deviantart-ai-generator-dreamup/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/11/10/DeviantArt_DreamUp3.jpg?auto=webp"
+        width: 1985
+        height: 1381
         isCached: true
 
 secured: "OVeRft3oNEOR5g3VQJsWKj8DYRikxZ9mIJEx3aajMiRYgSTOJ8qAy7uy8hEY4WRa72jk6BckfrOCDdcDxxy6ybrdHiRlUB89RHUfnvoaMdmouwOigU0bM2jfsP8cLyrGOtQNnshgsIaAZ15n/BXcS9jzqbvpX+wsWblnnkG2W/MbutqB4RkS6sLbF9wIBdpTBZPncGSC/qc5DZmvO9bHqZ9H92BGFYME+3ryIqNySfRMu0Z0AU2g81aEImJgdHNMeCoaDWW0XUX8VgVKo4xzhmFXGRoxdrFmXdww/D9sBB2hsKowvyBl3NvttAHmRKyMgj8qW4oqSgyLAlEP8T5g8F+HCHP2lZhAlyzezPjmDPrdV+uJmzzR3fLtJzW28bJzmYIz1MBrUUfMIKNkXkMI/v9mGQ3Xwej01Nlc/e34iWenUPF+pmzZh1LShkZNxK+/aXaV/KF3gV8MxDtm21JOQeXuIJy53u766Vi+se1NhZDwzQTjx1nFRE1h1UQAAUEoe2dBYZ4Cs+PUk9SPQbBQPg==;amp0KgAnt0D09IXurTe2jA=="

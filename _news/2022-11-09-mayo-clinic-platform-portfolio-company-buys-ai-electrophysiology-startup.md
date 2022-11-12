@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Anumana Acquires NeuTrace, Establishing a Comprehensive Electrophysiology Deep-Learning Development Platform and Product Pipeline"
-    excerpt: "Anumana, an AI-driven health technology company and portfolio company of nference, announced today it has acquired NeuTrace, a medical technology company advancing novel in-procedure AI applications for electrophysiology (EP)."
-    publishedDateTime: 2022-11-07T19:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/07/9707743.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "IN099g10BFrZLtUpUX0kQbJp098iut9eH5Oh0VDZnVet2wKjXN9/KIhi9F43oVMjRMhIZxPEisIyO4WDM+a3FTN1Dn2liejEIaeTtIF6I4hkpOKRrO+vfMfDo5PD0RCwRuLuGPunIC/QJS1CW99C0ni1PsNhW7Kw4epBqfbxpB0kf6itgt28f51yp2MhfbEfD205aMQbv7Pc83xqJ4Ecm7ZU50AhOZVoVpXOa1GnvcwA1MEpeA8t+qEogqZKBEMUlOLOrrxoWlDpWsU6dadi7HsDBM1YLOoFsGC+Q2sIHTpnTUw+DkUOKHyQRy0KxaJ/mZYV8fWvYg+CU7FcT9uM6R7UE5yGzSccesKSEYfAg6A=;86GkiSd9F9yH3qeRNa65aw=="
 ---
 

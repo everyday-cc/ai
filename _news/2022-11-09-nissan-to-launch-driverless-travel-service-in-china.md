@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-trav
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2022_11/KXDW45_urtni5.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "What’s it like to ride around S.F. in a Cruise driverless car?"
-    excerpt: "Once you take a ride in a truly driverless car, it’s impossible to remain a full-on skeptic. It also becomes impossible to ignore the profound impact this new technology could have on society."
-    publishedDateTime: 2022-11-07T20:23:00Z
-    webUrl: "https://www.sfexaminer.com/news/transit/inside-a-cruise-driverless-car-in-san-francisco/article_da1f1158-5c74-11ed-85a6-87040ee3c2a7.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/2/ff/2ff9031c-5c71-11ed-b8f3-57a1bf9c7f2a/63655e8ac6d7d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Driverless car startup Argo AI to lay off 79 Miami employees"
     excerpt: "Autonomous vehicle startup Argo AI will lay off 79 Miami employees after announcing the company will shut down and be absorbed by investors Ford Motor Co. and Volkswagen. The job cuts at the company's local office,"

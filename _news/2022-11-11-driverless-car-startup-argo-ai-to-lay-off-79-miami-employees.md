@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What’s it like to ride around S.F. in a Cruise driverless car?"
-    excerpt: "Once you take a ride in a truly driverless car, it’s impossible to remain a full-on skeptic. It also becomes impossible to ignore the profound impact this new technology could have on society."
-    publishedDateTime: 2022-11-07T20:23:00Z
-    webUrl: "https://www.sfexaminer.com/news/transit/inside-a-cruise-driverless-car-in-san-francisco/article_da1f1158-5c74-11ed-85a6-87040ee3c2a7.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/2/ff/2ff9031c-5c71-11ed-b8f3-57a1bf9c7f2a/63655e8ac6d7d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6pjIONRF0chr5AOSIFYHKakygZi4BwwlR18JTyaAFjxwa343nBHJVpnfNzxUlhhFsOVWyfS8/V5bbH3pw1qtLF4OZgIV6tUtM+i4ZaYjC7K5XG8jODR70lwWFFW64Ww5ApoQlmZPC8Y09K1UzoMcmRN98ReLh0J4O9068OeJGvG6Daqh4GLu9C25vdIsJ0XBarWuaCkkxlg8abBRc7M79ww0P7fE2TjyV7B9tV52ZnUsqnyweY6Hhi62hodm9DKAS245hRlpocSrJumB+245z3CNhQv4s9VAknRSuNIvp7YYQFsyC7jVpVusvE78AU2agsdTYGXnhUCZ4aPn+FzPs8bg/CeDvTJBqcQ9lWsIeRF82YAqFuMF8XWr3Ajtut8A6RTkbWNSg3xmesktB0JmZYYa6g/6y6DyK/n7QrG2jbRkI5gDNMklvJb5HXAaXBshaZgsZZIddyxFxVwIMpTWecrOoCzEs5sjz3otMmxahDY0QdDh60fVDWmasUeQ2IArPiRT3BYiLRpOjd9uRosIDw==;L9qwNMjqM5H1KeKjOsiIVw=="
 ---

@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeviantArt’s AI image generator aims to give more power to artists"
+    excerpt: "DeviantArt, an early internet-era hub for visual creators and communities, is launching its own AI art generator."
+    publishedDateTime: 2022-11-12T12:00:00Z
+    webUrl: "https://www.popsci.com/technology/deviantart-ai-generator-dreamup/"
+    ampWebUrl: "https://www.popsci.com/technology/deviantart-ai-generator-dreamup/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/deviantart-ai-generator-dreamup/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/11/10/DeviantArt_DreamUp3.jpg?auto=webp"
+        width: 1985
+        height: 1381
+        isCached: true
 
 secured: "LnbFZvKA8pffzw5GiM2vOUfJi6W/j0pKpyb3R8rV/2Up+9JfHE9nzgmaUWV46mfEkDUPIkKGGb/5TZRgBkgwgqwu417iCtXnUJAep+sMm9H6i8ipWHXDwzrn1pwROr7G7MN+0rPST7c3xnriSF17K+/A0PWars5XYFl/ld40/0ZytK2e6P8Eib7E2ejaGefk+E0Z9iT5CmrprH0C8/kaqZBI7hHqp3VjFgswI6VfE1Em5NUsoafNiwzmSMVmQzICrhdSmz91ppaOzZs4tOBmpc0PKVjNFaxYhiJAN09yCWZFHOknWv1W9aN7nruMZD3t+xo85u/tiFek5QuDf2bF5kvTNZDlgCmTKvSrPMts56J/rDh77GZGhtaSINXcgn/ocVWQgcD9t5ba6Q6c52wcehERTerTES2k+6RBAk0dGjhN++f7Uf7EZru5WkIsLbKgVmXFKZNyX8CLqsc7E7/Hw1QIy2Ods4od32kFdrmO6yVDIF5SLdG6yogvPIY/I3MFjSvF7G2kTJb+YZmgG/uy2Q==;0EsuR7LfxBI5hFwYc23Ydg=="
 ---

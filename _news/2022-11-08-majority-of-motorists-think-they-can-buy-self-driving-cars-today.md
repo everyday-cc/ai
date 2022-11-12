@@ -64,15 +64,6 @@ related:
       name: TheDetroitBureau
       domain: thedetroitbureau.com
     quality: 26
-  - title: "Self-Driving Vehicle Company Promotes Former Waymo Lawyer to Legal Chief"
-    excerpt: "“Developing self-driving technology is one of the greatest challenges of our generation—building and protecting our technical leadership is critical to Aurora’s continued success,” Chris Urmson, Aurora’s CEO, said in a written statement."
-    publishedDateTime: 2022-11-07T19:23:00Z
-    webUrl: "https://www.law.com/corpcounsel/2022/11/07/self-driving-vehicle-company-promotes-former-waymo-lawyer-to-legal-chief/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 18
 
 secured: "fFyJsTxPrr3FS0mm4V57wO0HN4rGcXalYlY1+gRj2/XGqlVleUsqzO2nI9TPf3gZk0/hshyvIPuh+Rz3r1WSISzo7OJMuHZ+25ryyYuKMIf9idMoaETTsNfVR6E/CMCz6pQVyLHoq9d/jVeO2X3dvD1Mo1ax/KgWs1DQ7A/H9ymzgsAn9nHE/ZfGaajtHgg3c58xN8i//5p/91ltFGBrhx96P9ju85p5rZAnru8Bsivigt8zRFJihxdrbNDV2M/iT55RYU2tht1f6121ZmotAFU/Pz/ceqZ5lNqBZwiye8TLjEdXlXeLKJeCg6hip1CEPMdQMjgWsHFo3TRqHQylO2BkWPPbVQhWclVmiAI1cs+PJ+ExgX0kRmpLYI/W6EhihBIHSBzfJzMDaeOTN9baHh2RlGCMHpwVDHs4WulOjHPfG3AgaFOWaRR/QO2rAUNDy8KoIVNIyPUieW1dF6dceUbKznhfWuTIGm6fStmFFjItA8mR8kFDmby3CZogQnf6wPaOPUk5NlpGWirZwMrN1A==;5edztTVqW/KNZHKa8OBx6w=="
 ---

@@ -30,6 +30,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 0
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market Report 2022: Evolving Industrial IoT and Automation Technologies Boost Sector"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, Neurology, CT, MRI, X - ray, IVD), End User (Hospital, Diagnostic Imaging Center,"
+    publishedDateTime: 2022-11-11T22:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-medical-diagnostics-market-report-/2022/11/11/9711641.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "TPQqWfHpBbkxIRBT5hnI9wmHAGowNgKHcuwavdgd7BxvfAZtfbWQOlQHtHJKT0WgVrAS1jDzHsUt+hJRkXR6gcT2LVOeVotkFWoSM2W4276ycPxmTvK1pFZ+9u9/izS2UdbMRGw7D1YLojQL7EalSARYmmJ8K+r2ZAKfWXYebTm3gKf8quEHBEWOxKgTQ5zy6t62DmCfL9Oj0F7RTic5Wmi5uhNxy+qTMB73m2W1M4i8Mg8Xne9M33q3irYeLso9xl1BU4kVZDE3e5P/MjSvvoXOb6YSOybh4qHBHfbl5vjlkA0I5HJLMUhNDZuB8KzOfZkoWDkcRWspgCHe5TwhX4010vGZLpaRmLgphJYdoXs=;TSAL/o7WVw75Za5e7N2LPg=="
 ---

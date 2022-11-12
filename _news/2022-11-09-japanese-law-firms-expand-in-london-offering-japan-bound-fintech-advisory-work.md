@@ -24,17 +24,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "impak Ratings Acquires Exerica, a London-based Fintech Data Extraction Firm"
-    excerpt: "Ratings, an impact analysis and ratings fintech, acquires 100% of London-based Exerica’s assets to expand its AI capabilities."
-    publishedDateTime: 2022-11-07T19:11:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/11/198255-impak-ratings-acquires-exerica-a-london-based-fintech-data-extraction-firm/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 2
-
 secured: "ofQq6v3npny5g6AH5tsG/en0Y4EYdE11hQla9bdOrQKHVKLVnWi2wCf6qdFBlWrKGNJbC4LjyAud9bH0WWajUdmG2Wv6dFGfk2ZAXgKKX5zYwfdZ4zADdGgP/jc/DV6eHkWAgBG2PzIMiuRanHOFmXxASsGP2cwyZ+4rrTTQ/VuSpMIn6f6nocPO1gVxkWIgEHR704ry+5EEgw5b9+EhG3LN2CMROI1GiaPFMrSP1InSj8FVygOfOtaaPjDbMcKdp40Pm72TSzBNKSMIyrllxAXZD95XKVgXz/RtQTRKM2ZFwuM4Zee5hiLLMDa4gB/cTFP7AOsLDI0PLEdN+0pr1rZc1GaL7f3u1HbZVy77F8A1+laaEjsmQP4VKgFBeU/8m6f6cMoEVgMoIixgQTLj+zlFSJUY5FCVUKy1oLTBJpbqv4xUclTc94CbTEBG1Mp4zs4bZDnm4QtMcw8ISAG7SyHEG1isqKfzmLQTyXcyH/T+X6pKAssbiIVPv2AIlMZ2fMuPmzJsVmXbtNTiQ4FLGQ==;Vn2UxJETI2s7smM5Y4gjFg=="
 ---
 
