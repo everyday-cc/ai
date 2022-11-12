@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/"
 type: article
 quality: 91
-heat: 93
+heat: 91
 published: true
 
 provider:

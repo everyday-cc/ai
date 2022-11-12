@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-11T17:22:00Z
 originalUrl: "https://www.fastcompany.com/90810071/computational-chemistry-and-ai-create-a-quantum-leap-in-drug-discovery"
 webUrl: "https://www.fastcompany.com/90810071/computational-chemistry-and-ai-create-a-quantum-leap-in-drug-discovery"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "3D protein structure predictions made by AI could boost cancer research and drug discovery"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-berkshire-63580590.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-63580590.amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

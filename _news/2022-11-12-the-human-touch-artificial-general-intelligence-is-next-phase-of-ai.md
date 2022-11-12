@@ -40,7 +40,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Intelligence/AIOps – Infusing AI into Cloud Computing Systems"
+    excerpt: "When legendary computer scientist Jim Gray accepted the Turing Award in 1999, he laid out a dozen long-range information technology research goals. One of those goals called for the creation of trouble-free server systems or,"
+    publishedDateTime: 2022-11-10T17:01:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/cloud-intelligence-aiops-infusing-ai-into-cloud-computing-systems/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2022/11/1200x627_AIOps_TW_FB_LI_with_logo.png"
+        width: 2917
+        height: 1643
+        isCached: true
 
-secured: "Kdbnl2X17nHofxnP3ePdRHSCvlLtsOnKregeiEwY9PtYpEKRAJRnNugkzDB4KzOfNHJx5SQghf6xRuQAhtTcoz93l4V1SQipOE5LV45MuTflH4iFS4Xae3W4jZoYcbvTHe+z9CtGA6fFJ70sqr6edxp+2P2c32CnLHMGv1TmUb8ppnzaEqZ/3tiNulxsNeDDR12EypuEZUvorRazWOmZGpIYPfMyBratNytuAu1J9nllHr/ysELdFXo7EY6Xual7AXLWBMVa9bVHhFMe3fXcReEv6mCLmRPv1rfuiznZXOoKQbcrB+f09dfGWZQAV6VMyDfEA3Ucell7gkPRgGGwo7cJ/L2PdmUzeaupEgT3HfA=;andXcuUaRUj1OOhj1GXSFQ=="
+secured: "xL8Q0KPWjb/Hj7uKYDBvQnRqClWcGFzqadPjTe3kEH8Qr2Ct21Y1IRyJJZIXH7ACNBX0ltQzinY4SpOvKmOliBDPfrzplzwZbJgl6G3Nhu/qXxqTusloketLLTg89uA7reA71yt3c1/IVOSGAMZtIBcGsslRjjvMSrwT+GLphRYlnXM6700zr0p9OiiCOrHaDxePGBB2pFZWzqUAHuLx71jbCyIu/BNk411sHmWUOdHR4i4ytGtvOHuCuZrPME4WXKLsLC97WpnqojyKrBTIVOn8+D7ZxbUR4RwUEIyVyRR5ILzLMkgp7NP/YImkA3CuGFavRwBaY1JWXn+m96h2keqQ41yd4UeVIyT2n3dn/6JcjEyIb4a1l7rRlAWs8WRsPyfSDxMp4DVL/bcpRJyP6F2OZ/p2Q5ZUVNjZ9Ug8NcTrEScV8aloyQe4+efRNR5/jVYd22oMXPjPSusRW7xgK6EJG5ioatptemhCXpduveszlYDky/HZrKJyEslX8JaNl387yylRuJKVkmvxr0TgfQ==;T1MXypAXIo+vvVPzfj4rKA=="
 ---
 

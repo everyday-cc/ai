@@ -81,17 +81,6 @@ related:
         width: 346
         height: 250
         isCached: true
-  - title: "With 23.7% CAGR, Speech and Voice Recognition Market Size to Reach USD 49.79 Billion [2022-2029]"
-    excerpt: "The global speech and voice recognition market size was valued at USD 9.56 billion in 2021. The market is projected to grow from USD 11.21 billion in 2022 to USD 49.79"
-    publishedDateTime: 2022-11-07T07:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29586656/with-23-7-cagr-speech-and-voice-recognition-market-size-to-reach-usd-49-79-billion-2022-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29586656"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29586656"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "tiABH7k7t/PyuEPbE/LpnivWPOjUh511Zr5pklfxSxojL+mdAkXrx6el4UrqktxsK35QdrzYaBvOi+iHW4uiVjXQhd0D0HUTNuvzvLjwa3FOIyk28P2kmmG72i1JhQyU1JOXWQRjT1/0DwPBLoKvEOL7nbgkWnnuXTa7YOKH0OjZCAXXz+jzFry6xa1McBbalbT9qUOxZYwb4mu5ezKCk59L+fdrRhtW1+JOXh+4O5h484BwajDRSHYHlTlw8MXvOsN/Tz/4we7F5Z7E9nDnDgWx4zzoXpnJzU0EnX7D66sTTRQ50/MzwpEzHJpeHped6z4pVjXzG1BW3ZHcm/x/xc/N+MjshwtxdeiLPfo1ZrSsMKn3QSFhCdwB4/mYz0VfDyPwlLzKNDPduwzgCIZwW4lJx6lW2Ou+k8zwhOOZK+5gwPCps9L9OKJBvP/SOSIFuSWAaxYOJHWgG/3iCFf5focIMho0t1o16BLYDHXNWoF0qE4pkzWpvLmXJsVVHfm97aoYxzREVIxW/devV/WWXg==;3ZeMxoAPPyASl8vTT7RhEQ=="
 ---

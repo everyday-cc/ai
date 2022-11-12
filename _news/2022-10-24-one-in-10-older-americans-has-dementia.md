@@ -1,20 +1,24 @@
 ---
 category: news
 title: "One in 10 older Americans has dementia"
-excerpt: "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia ..."
-publishedDateTime: 2022-10-24T15:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/968654"
-webUrl: "https://www.eurekalert.org/news-releases/968654"
+excerpt: "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia,\" Manly ..."
+publishedDateTime: 2022-10-24T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/10/221024131046.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/10/221024131046.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "vxLhnTzxGOReFpnHA4g0uSq5bD76rNbtXRziUdTuFiwLQbXOkjlA6x7X+Zwo13FyfpkoIYLhNHrS8Up0Ypm4sDJ4ivMSgF7BQZuVh7ChMbNw03Vy2alwy3WBnXmqPHkvnqMIT5DkGYfKLjIzHJoPDqXX+oQhF+50le7Aq+JiY3AtSh7Qr7ewjO0UdhGUcXbEBW1Ed+pzWBTZynr+azTIsEnqUSTL44ej5AmHLp6IpGLg4XbGMrAsUOcxYholWw7ic6Dx1FnRSU8N7FIBPLedI3aJhzP6kI93iDr0f0Vqw050gr7cOOTpii04T2ghrj/aUGNF9iu+tZ6/JXDpDISyBIrMZTVdMIGU6tUd/EiES/Q=;57s+CbuS7v7Sn67TtV/kQQ=="
+secured: "NowLQtreR5zcyA5qMCEY24j4ngJ5lLE9CosKcz6qGRaC8oXrTR0VtiiaJVGuXbPdO7wc53GX0GQvbwsC/LDNX20+7uMcBG+FDbK56FnYA2sc82zUVO11B1bP1Llhb0S3vhwVVxCmGy2GkxlRqADotaxlGZ+TVaues/gIkqfpkrYMmqhrub141+wGk8phG+48orPInq0WZqnIVassoSpmf/sV9DsCmgHFnNwzhbDuV3kBX5CP88pIPia0W/kX4hMRqSIfvaCfzQhKUDpovox2klv1susLGCqY2YTc03W9T4s8I/yD8Ovd1AmD236a6gKl+uatN5lgim18AKWkYOW4dfVFMjysgBVIlVVUwBguwBs=;yfC0/ckGJ5vPYMgH1TgUnQ=="
 ---
 

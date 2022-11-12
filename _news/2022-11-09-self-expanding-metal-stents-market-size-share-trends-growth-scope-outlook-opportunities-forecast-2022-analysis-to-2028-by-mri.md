@@ -175,15 +175,6 @@ related:
         width: 394
         height: 250
         isCached: true
-  - title: "Face Recognition Technology Market Share 2022: Top Companies, Industry Current Trends, Application, Growth, Development, and Forecast to 2028"
-    excerpt: "Face Recognition Technology Market”research report provides an in-depth analysis that is segmented on the basis"
-    publishedDateTime: 2022-11-07T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-2022-top-companies-industry-current-trends-application-growth-development-and-forecast-to-2028-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
   - title: "Global Face Recognition Speed Gate Market Size and Overview Report 2022 by Recent Developments, Industrial Trends, Top Vendors and Forecast to 2028"
     excerpt: "Nov 10, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Speed"
     publishedDateTime: 2022-11-10T05:26:00Z

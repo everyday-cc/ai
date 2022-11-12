@@ -72,7 +72,7 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 17
+    quality: 19
 
 secured: "Um/souC58HizqwrKjThrgYDPlO7EWnij50TQEuyJaQCmeDNrFHsiULzFqPpEdU2QcIZEhPeGc3xz3c7ZX3agr4+uqK4+u0lmOqJUZHUa/eUcrsv9Izwcu+jHpKN+I9L4Y8HNJbMoMWciVZpd9qIgWW++pjJlIwZ+ViTKORbPdbH5b/x6u205ba7gTFCcgECjsi/TiWPlTOPkzgXTg+Ec3mUzN6stXpcJzr1XGa1YQfFt13mvDj0fCLhZFOFQxPUR/JFVzkstzAjyXKM56DSqfj437T7KEU0p/e9AzaFwxx8+YA8MVGh3Pdsnw+uCyyQRIJgBSQoBmSL/B9U8cWEAEKGhx8SeBuJN8R9Hw5lfUvuOwsedKpPVcHU9EdXeHQGI2sHkwK0BfLYbApgHG5S/nTYmBhGUrCVEMWPQNgyO2b1wf5ZQGU7idkmPo6teDJ00VKgPmtAHrBY50wpE8tm04R8jqIRzxS2t/8Q4FdHXDbRXRXmZ3fJo24+dg+50ZIWvs/LUeeXRfNzl4uiGjBEXaw==;G2/Z9e9YuS6ry+PEJYRHQQ=="
 ---

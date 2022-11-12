@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2027"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence (AI) in Food and"
-    publishedDateTime: 2022-11-07T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2027-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Data Science and Machine-Learning Platforms Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Data Science and Machine-Learning Platforms"
     publishedDateTime: 2022-11-11T04:20:00Z

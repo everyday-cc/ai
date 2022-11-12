@@ -1139,40 +1139,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-24-one-in-10-older-americans-has-dementia.md",
-      "title": "One in 10 older Americans has dementia",
-      "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/968654",
-      "originalUrl": "https://www.eurekalert.org/news-releases/968654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
       "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
       "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
@@ -1311,6 +1277,58 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-azure-scales-530b-parameter-gpt-3-model-with-nvidia-nemo-megatron.md",
+      "title": "Azure Scales 530B Parameter GPT-3 Model with NVIDIA NeMo Megatron",
+      "excerpt": "Combining NVIDIA NeMo Megatron with our Azure AI infrastructure offers a powerful platform that anyone can spin up in minutes without having to incur the costs and burden of managing their own on-premises infrastructure. And of course, we have taken our benchmarking of the new framework to a new level,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/74a401ab-b737-4144-a596-059842980bda.png",
+          "width": 1024,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T02:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],
