@@ -18,6 +18,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://wp.cruxnow.com/wp-content/uploads/2022/10/20221027T1020-UNIVERSITIES-AI-ETHICS-1750934.jpg?w=1200"

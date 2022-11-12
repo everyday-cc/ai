@@ -48,22 +48,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "Intel takes responsibility for AI"
-    excerpt: "With its research and development history, Intel has been one of the first big tech firms to define the foundations of ethical AI. Launched last month, the Intel Responsible AI charter sets out the chip giant’s perspective on responsible AI and the four pillars the firm says the technology industry can use to ensure AI succeeds not only for technologists but also for wider society."
-    publishedDateTime: 2022-11-07T11:50:00Z
-    webUrl: "https://diginomica.com/intel-takes-responsibility-ai"
-    ampWebUrl: "https://diginomica.com/intel-takes-responsibility-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intel-takes-responsibility-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 63
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
     excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
     publishedDateTime: 2022-11-10T00:44:00Z

@@ -5,8 +5,10 @@ excerpt: "It’s a decade and a half since researchers dazzled the tech world by
 publishedDateTime: 2022-11-09T20:42:00Z
 originalUrl: "https://www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/"
 webUrl: "https://www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/"
+ampWebUrl: "https://www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/amp/"
 type: article
-quality: 17
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/intel-idm-ponte-vecchio-exploded-view.jpg"
+    width: 638
+    height: 540
+    isCached: true
 
 related:
   - title: "With AI, you need to see the bigger hardware and software picture"
@@ -35,6 +44,6 @@ related:
         height: 627
         isCached: true
 
-secured: "CW53ZIe6f3Chvd3MYxRgho1xgbAXvpsGoS2YzOp+wkdQ0RM64s39RecrYvF24B2V5jY8om+nGriYroh23GzF9bCqclvz3Uz91cKIAWOuRseh4yy/H4EQ4WzdmyZ4GoKZvUmjjUSuK65g7Ll4AlI97z2KsBadevfpArw+l7tMxbCs7CuL9E+dpqRYSrUHr7JdwWxE8fsw7Phk9GOLLCj2KsSu7tBh6jRNAWg5XjkFlNKz4E4iin52OjwbKn8ah/3tqGxf+MElSwAYuCT1+uws/LBTwy/nvOpHRo0CFY5cJ4pDWrznwDlabFSsDm4OVT28chDgEk7fTWAhbAgJ8cWiWAo15c7+rAork04xYFercM6WQSeMvVJJjA4aAeauPnIUbZhvzdkUFHIhpjWY8ndf7fvZTjgWATEb+hSsWx7V2uCPt/izxqzRcPdo9FLSalnznnvXHM1rE73kyTxVQB046WDB32qT/5EpmOtNwYsobO+erLjrkwSGxzzDNy3wk/BNEZdZjGI8uOV92rNj0XTEVw==;xpYr/6PY2/6W7UZFOxKeTQ=="
+secured: "/TUeXx9MjMzB3JjezO3KbSqQh9teMGhCHT5s3k4pR8NlWQcpGasfMr5jz/J00KxwESYFxJm0R6t0Wjs1qYqGVARNlLCEIcK9HH67RMYuKGhgcMz2aaMj86jTxvAT7f3rFg6BZ9JxzXVzPEh3PYBR4xQ0lTuVEE3U/IV8ArBL4r1VHOzDiY5kZ6azuHCZ7J9APzh+or6XZZmz9MEPOd1LGc1gJfoTaPhUV8YR4rho7q7Xli3PawkT5Z8ztzf59e6CgN51IYK+ykcHyMl6IaEDd2T8PQUyfaKWF+49+VP15seKQfOmNp+I9XIs5au0pAn2dV5QFXy5l2WpQ42kkwM1gEJN3ojkWGOXrCIx/XoDrow=;TOgb4cWwa/jCN/715MJZQQ=="
 ---
 

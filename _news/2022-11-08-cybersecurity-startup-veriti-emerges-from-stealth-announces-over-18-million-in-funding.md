@@ -68,15 +68,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Morgan St. awarded $9M to advance AI, cybersecurity and machine learning research"
-    excerpt: "The Office of Naval Research awarded Morgan State University a five-year, $9 million grant to address a critical Department of Defense (DoD) need for research in building diverse knowledge bases related to artificial intelligence and machine learning,"
-    publishedDateTime: 2022-11-07T13:00:00Z
-    webUrl: "https://thedailyrecord.com/2022/11/07/morgan-st-awarded-9m-to-advance-ai-cybersecurity-and-machine-learning-research/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 29
   - title: "Fighting Fire With Fire: AI on Both Sides of the Cybersecurity Battlefield"
     excerpt: "Defending organizations utilize AI-powered email security measures to enhance network protection, detect advanced malware and ransomware, optimize critical data center processes, improve threat response times,"
     publishedDateTime: 2022-11-10T14:00:00Z

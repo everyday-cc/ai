@@ -50,22 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Data Labeling Outsourcing Guide for AI Companies"
-    excerpt: "Conquering AI horizons is now even harder than it was in the very beginning, when artificial intelligence was considered a science fiction. Sophisticated, AI-driven solutions are permeating nearly every aspect of our lives like Data Labeling."
-    publishedDateTime: 2022-11-07T12:18:00Z
-    webUrl: "https://techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/"
-    ampWebUrl: "https://techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/pexels-pavel-danilyuk-8438983.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Every Allocator Should Ask These Questions Before Hiring an AI Manager"
     excerpt: "Although some are genuine in their adoption, many are guilty of what I call AI-washing — professing to use AI when in fact they are merely employing traditional quantitative techniques, such as simple linear regressions,"
     publishedDateTime: 2022-11-08T18:48:00Z

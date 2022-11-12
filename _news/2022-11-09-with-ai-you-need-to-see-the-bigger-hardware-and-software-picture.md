@@ -31,11 +31,18 @@ related:
     excerpt: "It’s a decade and a half since researchers dazzled the tech world by demonstrating that GPUs could be used to dramatically accelerate"
     publishedDateTime: 2022-11-09T20:42:00Z
     webUrl: "https://www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/"
+    ampWebUrl: "https://www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/11/09/with-ai-you-need-to-see-the-bigger-hardware-and-software-picture/amp/"
     type: article
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 17
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/intel-idm-ponte-vecchio-exploded-view.jpg"
+        width: 638
+        height: 540
+        isCached: true
 
 secured: "nFIXcxpu2JWQehIAja71erThnMLNUNmj9AuSDOXzxnzaSgKOFcKmPEEIkdXh1zEQ+/51ZLTXhTbPZc54mk+jM/kL463zO65e7OrzTOXvyTsJr3+elFHNyMWBMRJZT4Svqdjw2mqE3wBA2WSXg2gNewGAUW4PsK0aqZDA7DJ+xXeF6JLKnS+aGXgtG5sj6Mof5IGZQuImHM/hvu/WtzbdlJhishcHRW2Kj2+X4iXTUuhNZdbQrSUrfBsYeFlALC/j+4m6jQlIQOZqW2bhbVcdEr9GFAmh+QsXpRHB5XjOvL3widmCga5hVIlL89dibB9bKS3nLeY1YenNkhOqOiUGR3d8Em4Gkebzi6U43kB49/rnkvBCON7o6v26rSpoKlAtBHUs5/iMfrligvc52vjbtDTPEMsDcwjfxClP+avOoBe/OJ9aEkcrmE+WVeS0aWOmszpehtlzpmxkABQ8ZBa/l2hZCdylI2veGcugFVj4zclvcCJHORtUFah8lOdIrNtmKjd1II1Tf9W6ngtJrpSN9g==;itHtlfkpQvhW855mRTEbRw=="
 ---

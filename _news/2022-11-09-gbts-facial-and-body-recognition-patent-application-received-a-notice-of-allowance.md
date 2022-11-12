@@ -3,8 +3,8 @@ category: news
 title: "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance"
 excerpt: "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,"
 publishedDateTime: 2022-11-09T13:55:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gbts-facial-body-recognition-patent-application-received-notice-/2022/11/09/9709242.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gbts-facial-body-recognition-patent-application-received-notice-/2022/11/09/9709242.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm"
 type: article
 quality: 0
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 250
         isCached: true
 
-secured: "aOhWZXhpBfaSl9yKydmepBCErixhgB0VfHY7KCB83hQi3oCvQ2oL8eNeQyyFookKSDuv/sNPnLKVUOwsw5N2E9/U+U0yGnvpGZG2Xvyd//SDFsH5RVKg77sW4zno/F3ycc2Q77WeYIEo95Oq+UjuituIjCQQvXus2VF9FWFpHWGSoAyGFEZWmC9NfGdiWpnzQYECVcsG1ptRf4YOUJcp1w7P4UtufZ9jbQ1m5VIXQdE4aPM/8OaSttiEFys9by9WtdEbkXZaec+rra6e6pgZ2qEKbiLiA5JkFJbyh/DSDTi7ii5f4RLKGEKjW3MdgcR2RUcE0O5dHS4ooole6YeY+vUm9uigJAD1J2QocTOhGxc=;j3cwtmTDJXsbuaHv4R9vQQ=="
+secured: "Bd7nw4/s69BH6J5POaeo9SoDTBSdyj9sgZV2XeOJX8Cn0vxyRAzBBKrPn21DWgG9uEqqH7ULlPKe4fUdfS9aqY5Cjf8HKcX2nuC3JE0zP2305j7dmrjmBM1VNdzsAujGGU2jq5fJUwhbdHkOk2i9ZnlTuTICv3bvumqD0QsLQyCGPf0Q6eYi4GDBiWel3qqRImjPWL+zWqGmbsXSBN0EbO6N5+E1dIYevDMAGmeQqA3ZbWsTKyArnM8KKAwAfFVQQy+8YcB6ywf0XG885sPk55o56oMzqYOxcYZGufi/CwEdviJPTHQjpbhYq2Nvhw4ODZjl/7WQLl+FTHac0VW6ltweh97y3lNvRlsPZi2WNKM=;bwqCGRXNt4EQiU4LCrY3VA=="
 ---
 

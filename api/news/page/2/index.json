@@ -1039,6 +1039,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-09-nissan-to-launch-driverless-travel-service-in-china.md",
+      "title": "Nissan to launch driverless travel service in China",
+      "excerpt": "Nissan has become one of the global car makers to set up a driverless travel service company in China. In 2021 alone, Nissan’s data reveals that the company will sell over 1.38 million vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/",
+      "originalUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/11/Nissan-1-1200x750.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/",
+      "publishedDateTime": "2022-11-08T23:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
       "title": "Massachusetts Institute of Technology: Study urges caution when comparing neural networks to the brain",
       "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such speech recognition, computer vision,",
@@ -1183,48 +1226,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-artificial-intelligence-ai-takes-a-role-in-uspto-patent-searches.md",
-      "title": "Artificial Intelligence (AI) Takes a Role in USPTO Patent Searches",
-      "excerpt": "In 2021 the U.S. Patent and Trademark Office (USPTO) developed an Artificial Intelligence (AI) based prototype search system for use by examiners during examination of patent applications. A",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
-      "publishedDateTime": "2022-11-08T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

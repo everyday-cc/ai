@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-ques
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Data Labeling Outsourcing Guide for AI Companies"
-    excerpt: "Conquering AI horizons is now even harder than it was in the very beginning, when artificial intelligence was considered a science fiction. Sophisticated, AI-driven solutions are permeating nearly every aspect of our lives like Data Labeling."
-    publishedDateTime: 2022-11-07T12:18:00Z
-    webUrl: "https://techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/"
-    ampWebUrl: "https://techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/data-labeling-outsourcing-guide-for-ai-companies/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/pexels-pavel-danilyuk-8438983.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "4 AI Questions That Meta AI Is Helping Answer"
     excerpt: "Here are the innovations by Meta AI that helped it remain at the white-hot epicentre of AI in 2022! A picture is worth a thousand words. But is it? With text-to-image generation, a few words may be enough to create a thousand pictures."
     publishedDateTime: 2022-11-09T06:30:00Z
