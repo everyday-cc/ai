@@ -2,30 +2,19 @@
 category: news
 title: "Too much screen time can impact a child's vision, experts say — try this to give eyes a break"
 excerpt: "Researchers say the rate of nearsightedness has nearly doubled since 1971, most likely due to a combination of factors such as being indoors more and staring more frequently at near things like a cell phone."
-publishedDateTime: 2022-11-11T13:16:00Z
-originalUrl: "https://www.fox32chicago.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule"
-webUrl: "https://www.fox32chicago.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule"
-ampWebUrl: "https://www.fox32chicago.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule.amp"
-cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule.amp"
+publishedDateTime: 2022-11-11T13:26:00Z
+originalUrl: "https://www.fox5dc.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule"
+webUrl: "https://www.fox5dc.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: FOX 32
-  domain: fox32chicago.com
+  name: Fox 5
+  domain: fox5dc.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2022/11/932/470/GettyImages-478745952.jpg?ve=1&tl=1"
-    width: 932
-    height: 470
-    isCached: true
-
-secured: "IsKT/AcWHMrkNZXtmpMr5Lmetuboo2+45+blCgBgJ79dF3e6GRHuOtD/CbiEP2Tq20lmGSiKJ0sASQNS0TYTux6KmPrNo2kYdv4z75+WTXtR71PfSjqKewIOrV3RFXuJYKksXs3EpZHpvbzkBqPdYvPeyV51vnAWvF+47XGvT15ACu09H2uwIhNMHJqjLZh1ocIKnIF3ReAXtVLFACYE/8n+t0QEBkAerQJCKmdGbFLfCwxy7cCghqUK0eiUkTwjJ7IFMw43mSf9BbEeM9vAyes82wRRLDiz1wBJCe0zN3av34LRCnQziL59cR3fc8TMzs39dbMsoiZW0lyzaEbp325+3puEndi8PfddmZ7AdIk=;E3bMzK4JuFJe6SvU/8E7Mg=="
+secured: "o9dBaZEnSLrN2Z/FtTuWIx2FbvkOumrf5exUW2niN7zKUHNuSsXFNH3a5EE24I//RIg5ZXkRJ5+foUO+0tQ9oK5iYju897UlQLlTtJOpeCgS6sg97/mJ+z+M0EOz2F0uMNLypzdfW8YbkK49kRYMKXhJmFPuoI59b/qWXhvSdTGMyYnToj9x5TXTw+qA6e+RpHmF7RxFZvyzgcG+Z2RqKgf8+X4jo0M8jBd9WNrU9x0hTzV7U/cqcmFFXhe3atSqETSrl26Wbp01BEyMSSJ8IVLL2xkINmeSu1JyJegZnZt2RnG0WIf3gtrS9ywGIV5Mu+fAW0FFVS/TYV7W8+nsExIn61g76V5qY9CY7dxN+8cXP8qMVNVq2/pXdzn4eeoT8Kl9DFasarnxHKPK5HdnD4kvDuxCEt4K6ubqn+uWPL8LtJq2/hTQ/gX52jYiG7FLRcSn1fKUSlOfZG4armJVOA4gVmZGUOFEK2D3d9SXKH/oDYtPDAzn+c9tJ6KEonio0xQPAugW5CynM6B7PKHiKA==;xV7pUGY4RiSXv4XKReGWWw=="
 ---
 
