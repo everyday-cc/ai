@@ -34,15 +34,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Taiwan's eKYC Solution provider Authme showcases its latest Deepfake preventing innovation at Singapore FinTech Festival"
-    excerpt: "Taiwan -based Authme, one of the leading providers of AI-based eKYC solution attended Singapore FinTech Festival 2022 along with Taiwan's Asia Silicon Valley Development Agency and FinTech Space, showcasing their most advanced KYC solution that provides seamless onboarding experience and innovative fraud prevention technology to combat Deepfake frauds."
-    publishedDateTime: 2022-11-08T06:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/08/9707959.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "369uSRZskMFIxEQd6GVDFep2NqyfMKsGi3GRVHmTpH5lIIq5jjZN+Es2mgK+s6Vj1JKOSZJQn4Y33x09jsfbqOo/d93BolcMW0iNDpd/b2fOS/SMIwIyzYhDNGejpGz95pb0NEFR1Lgi0Elf7QPkVMtrSfxWitYFLhYX0gRtPYGXSNEuUAnUzxPvR84moVVTZELModtuiuqMvcKMIc6cRj4fINqS+vWLCBm8473ayAR1NdKk2P8ZkogfLrPO3puVity3Y6GfO6zcyuE9sNMentjJSHdbJ6psEp/h2hMRoET6x/6N1G47Jt8KyuRy2mNEHxoOQ4aLFQ1Jl0XUYg96ckELajAACfnqiBF2U/h1/hkXqVrOdYV5uXsjB+SXBCePT9jorg40wA0gWfcrxSLhn46l8EQqIDqVYK//Pd4PR6HfIckFVB1rToycMZA9EtMDCpi8xj1/tCFmII4MvxRu2rVcFhDGVBSMsaH1k/hRLd0dlPQIBFAgwB9EHPqCQD0uaTZHDn0g1sa6p66RpEkwGQ==;tsGqRwEkZyGi+ejIukqOPw=="
 ---

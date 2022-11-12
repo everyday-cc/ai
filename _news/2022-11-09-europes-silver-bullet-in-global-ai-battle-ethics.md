@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T04:43:00Z
 originalUrl: "https://www.politico.eu/article/europe-silver-bullet-global-ai-battle-ethics/?amp"
 webUrl: "https://www.politico.eu/article/europe-silver-bullet-global-ai-battle-ethics/?amp"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Politico Europe

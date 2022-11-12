@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T15:02:00Z
 originalUrl: "https://spacenews.com/cognitive-space-gets-1-2-million-u-s-air-force-contract-extension-for-satellite-tasking-software/"
 webUrl: "https://spacenews.com/cognitive-space-gets-1-2-million-u-s-air-force-contract-extension-for-satellite-tasking-software/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: SpaceNews

@@ -21,8 +21,8 @@ topics:
 related:
   - title: "AWS Launches Infrastructure Region in Switzerland"
     excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
-    publishedDateTime: 2022-11-09T06:51:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/09/9709024.htm"
+    publishedDateTime: 2022-11-09T08:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
     type: article
     provider:
       name: TMCnet

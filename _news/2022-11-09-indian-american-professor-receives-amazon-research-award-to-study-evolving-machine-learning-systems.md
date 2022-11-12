@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/indian-american-pro
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/indian-american-professor-receives-amazon-research-award-to-study-evolving-machine-learning-systems/cid/1897097"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian-American gets Amazon award to study machine learning systems"
-    excerpt: "Pavithra Prabhakar, an Indian-American professor of computer science at the Kansas State University, has received an Amazon Research Award to design a tool that minimises negative user experiences."
-    publishedDateTime: 2022-11-08T05:59:00Z
-    webUrl: "https://www.thehansindia.com/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/11/08/1319612-pavithra-prabhakar.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Indian-American Professor Pavithra Prabhakar Receives Amazon Research Award To Study Evolving Machine Learning"
     excerpt: "Pavithra Prabhakar currently serves as a programme director at the National Science Foundation while on sabbatical from K-State"
     publishedDateTime: 2022-11-08T08:55:00Z

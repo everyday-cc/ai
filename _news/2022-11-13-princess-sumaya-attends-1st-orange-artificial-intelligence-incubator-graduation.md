@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-12T19:27:00Z
 originalUrl: "https://jordantimes.com/news/local/princess-sumaya-attends-1st-orange-artificial-intelligence-incubator-graduation"
 webUrl: "https://jordantimes.com/news/local/princess-sumaya-attends-1st-orange-artificial-intelligence-incubator-graduation"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Jordan Times

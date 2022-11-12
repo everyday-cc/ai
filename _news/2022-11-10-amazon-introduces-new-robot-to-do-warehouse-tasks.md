@@ -27,29 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's latest robot picker for warehouses uses AI to identify objects"
-    excerpt: "The company claims Sparrow can help make workplaces more efficient and safer, but reports have suggested there are higher rates of serious injuries at Amazon's automated warehouses.."
-    publishedDateTime: 2022-11-11T21:38:00Z
-    webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html"
+  - title: "Amazon's new robot should strike fear into its hundreds of thousands of warehouse workers"
+    excerpt: "What do you call a robotic arm that relies on computer vision, artificial intelligence, and suction cups to pick up items? In Amazon's world, it's called a \"Sparrow.\" The tech giant unveiled a robot on Thursday that's capable of identifying individual ..."
+    publishedDateTime: 2022-11-10T00:00:00Z
+    webUrl: "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11"
+    ampWebUrl: "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/284WX_4DX20u8eeGjQY9Ng--~B/Zmk9ZmlsbDtoPTM4MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg"
-        width: 675
-        height: 380
+      - url: "https://i.insider.com/636d9d4ef5877200181c683a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Team uses AI and satellite images to release first-ever global estimates for road transportation greenhouse emissions"
-    excerpt: "The Environmental Protection Agency estimates that the transportation sector accounts for approximately 27% of all greenhouse gas emissions annually in the United States, and emissions from road transportation—driven by carbon-creating internal combustion vehicles—account for a large majority of that."
-    publishedDateTime: 2022-11-10T20:44:00Z
-    webUrl: "https://phys.org/news/2022-11-team-ai-satellite-images-first-ever.html"
+  - title: "Amazon enters the age of robots. What does that mean for its workers?"
+    excerpt: "People have predicted robots will destroy the labour market, but Amazon believes investment in robotics could create jobs"
+    publishedDateTime: 2022-11-11T14:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 0
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/bfaabbd560610605d5fac2dc7d87ea0f890a9836/146_0_4311_2589/master/4311.jpg?width=620&quality=85&auto=format&fit=max&s=81478b424aee582e25e7e5513fdef3fd"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "RckiJXVvtg2DQ28yBLuHgnE8szvtz/MIFYdE8RzCHAa7PUw0LP8nPIv9G2z5LhOg4/ntc1KYtgEL10rx6mo49ElTqGZgOZ1aa0CxBlpbwtmLGHSkCJYm2P5lJ3DnmplkbP+yfzT6APMQlU5IRDgig6RK0gyiCMS791X3zXOISHaNvWdZOYbiThHqk/LHVufuTiXGNlf2eaRhcU0e+ZlvOs9NaNzhTYGxCY4oYmzVurbYDD19gSrc03uugnMOMSETW3JCOyPY5c9fo/wK/J3McklX7BkngYoAO3ai9sH01bkzTeSPSXR7zZPPCeZ27gCCdYdYSQpu5mB2ZZ/8/BY0HZcnoyMgCIVu/iUwuxInLxo=;kxPVgqs13huxeSjtS/ZQVg=="
 ---

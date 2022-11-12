@@ -23,19 +23,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "Poolbeg Pharma PLC Announces AI Programme Yields Novel RSV Drug Targets"
-    excerpt: "First time AI has been used to identify disease targets in RSVLONDON, UK / ACCESSWIRE / / Poolbeg Pharma (AIM:POLB)(OTCQB:POLBF) ('Poolbeg' or the 'Company'), a clinical stage infectious disease"
-    publishedDateTime: 2022-11-08T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ac29607588/poolbeg-pharma-plc-announces-ai-programme-yields-novel-rsv-drug-targets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29607588"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29607588"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-
 secured: "2cyS6xM/uoIIkf0rrwu7yQz/+UWhMqE3El7rZa+Cjtl+m82pX7eG9bHvWo7gI0TJn0dZS9dLNn9hF8eBvxVe85MEbDZW41luoG1AUu9cf7xwqtzftbUFo2bZ50LQQFHQeNlbVNcafz44Qv55Xo+mKxnuXfLAfebaR1WtJ8OUrhOqpdt84+BauiJ9quZ/CdBTJ4WFhIJC1bkhyONdft1aCHD01zM4yOUiHhfjHGPWPdAbp5GyGrH5G1O+himTFGmEY8TD+ngO4TzP4bMEGzlf8hwq4skkjzqEn3/SxuCq3fB51oDicQq6Bcu3AX1DaT3OfzpClGzHqT/00apxBVYTpbSCQnyzJ6p108l+beAdqnWStm4vj6WdXuYQHCv7VPHHdck8k5fqELFNIRfG8dWNPoF3t6/eqz3y2hPcppOJ34rie2wrqGns7u4RmmtVaGCQvzuONPPoIZa9JJgwRKtS8DuURq1oxkHmvoeQw2FmlALe4+3HcbLA6vCrdMLdG8iJ+gGnP4nRQwldjdHfqHV51Q==;QvN2WPBEMtT7lHumiJ3Xow=="
 ---
 

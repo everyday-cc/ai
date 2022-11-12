@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-trav
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn01.vulcanpost.com/wp-uploads/2022/11/Temp-1200x680-1-1-636a1c51726bd.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Driverless Car Development Sets Ablaze a Bonfire of Billions"
-    excerpt: "While executives and investors alike are in some cases heading for the exits, well-capitalized companies in the space are plowing ahead into new markets and projects."
-    publishedDateTime: 2022-11-08T05:47:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/36052-driverless-car-development-sets-ablaze-a-bonfire-of-billions"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2022/11/07/AUTONOMOUS-CAR-SELF-DRIVING-A-display-highlighting-Mobileye-autonomous-driving-technology-at-CES-2020-Photographer-Mario-Tama-Getty-Images-North-America.jpg?height=635&t=1667883668&width=1200"
-        width: 953
-        height: 635
         isCached: true
   - title: "Driverless cars: the future of travel or a road to nowhere?"
     excerpt: "The future of travel – or a fantasy on the road to nowhere? Sienna Rodgers explores the long and winding journey for driverless cars. The self-driving revolution promises a panoply of utopian ..."

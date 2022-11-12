@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata Corporation (TDC) Q3 2022 Earnings Call Transcript"
-    excerpt: "Q3 2022 Earnings Conference Call November 07, 2022 05:00 PM ET Company Participants Christopher Lee - Senior Vice President of Investor Relations"
-    publishedDateTime: 2022-11-08T03:16:00Z
-    webUrl: "https://seekingalpha.com/article/4554562-teradata-corporation-tdc-q3-2022-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Rocket Lab USA, Inc. (RKLB) Q3 2022 Earnings Call Transcript"
     excerpt: "Q3 2022 Results Conference Call November 09, 2022 04:30 PM ET Company Participants Murielle Baker - Communications Manager Peter Beck - Founder"
     publishedDateTime: 2022-11-11T02:40:00Z

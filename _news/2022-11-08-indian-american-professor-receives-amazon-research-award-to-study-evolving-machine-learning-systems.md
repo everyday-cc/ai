@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian-American gets Amazon award to study machine learning systems"
-    excerpt: "Pavithra Prabhakar, an Indian-American professor of computer science at the Kansas State University, has received an Amazon Research Award to design a tool that minimises negative user experiences."
-    publishedDateTime: 2022-11-08T05:59:00Z
-    webUrl: "https://www.thehansindia.com/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/11/08/1319612-pavithra-prabhakar.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Indian-American professor receives Amazon Research Award to study evolving machine learning systems"
     excerpt: "An Indian-American professor of computer science at a university in the US has received an Amazon Research Award to design a tool that minimises negative user experiences. Pavithra Prabhakar, who is the Peggy and Gary Edwards chair in engineering,"
     publishedDateTime: 2022-11-09T05:16:00Z
