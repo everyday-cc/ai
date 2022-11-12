@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/can-you-tell-whether-this-headline-wa
 webUrl: "https://www.wsj.com/articles/can-you-tell-whether-this-headline-was-written-by-a-robot-11668204880"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcitiesdive.com/news/AVs-autonomous-vehicles-break
 webUrl: "https://www.smartcitiesdive.com/news/AVs-autonomous-vehicles-breakthroughs-self-driving-cars-safety/635755/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 770
     height: 364
     isCached: true
-
-related:
-  - title: "Can AI write recipes better than humans?"
-    excerpt: "Researchers are using artificial intelligence to create recipes, complete with appetizing photos and back stories. But Thanksgiving poses a challenge. (Via @nytimes.)"
-    publishedDateTime: 2022-11-10T13:31:00Z
-    webUrl: "https://www.seattletimes.com/business/can-ai-write-recipes-better-than-humans/"
-    ampWebUrl: "https://www.seattletimes.com/business/can-ai-write-recipes-better-than-humans/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-ai-write-recipes-better-than-humans/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "RPKKLUmMI/Bm/ykA4JeaTMstuoQ4HP6zsM3BdR99blC8p/V0YGdUy3MviID51VwDYuzL8A/OnIG9uKaYmtAPHrESJQHQGScBAdzuqCMFp7sXF0tGEhgZeUizhjPoRI5c26SS/+Tn4Lfn68u5oZmaVIEP2RpKUQnJ6ppCp9fvlYaq0j3xB86/ENxPCYoEmvdEN9ZoMyYTQC30ZHZmVKuXM9L5GDkHDZuq45QRGLBwCAjD0VWj2fTVpE1NGjh9dTwcwvgS3nc13+ImiP/gl/9JSgJCp79jpa+xaXw+R70BDO8ZPFvzrVa1VnOdt/O2bKwvzWL8d4Yf4qXLVl4Qo+EVUuamxijHSaYUm/xqykU4ascDrJzozN4JEdMAmXQWUJ/NdR3fdacH5O1PVJnaLU8TWQPj/BLliNBt+dZX05kHzw2txEWHFrf4EqC7BQfZcz9GCvJKvyUpieEh9ekmTDDHNP5XlVAELOFcl3daj0EhXIebKO32L0OqCHdkR0XXgE1NjtfHRz7btsN/2gOloL1CRA==;J66n7YPnO3WtQmX/s/xhZQ=="
 ---

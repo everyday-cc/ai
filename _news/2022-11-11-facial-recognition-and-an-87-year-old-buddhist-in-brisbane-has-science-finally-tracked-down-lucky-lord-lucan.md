@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based facial recognition claims Brisbane Man is missing Lord Lucan"
-    excerpt: "Professor Hassan Ugails world renowned facial recognition system also helped identify three suspects involved in the murder of Jamal Khashoggi."
-    publishedDateTime: 2022-11-07T19:01:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/uk/ai-based-facial-recognition-claims-brisbane-man-is-missing-lord-lucan/articleshow/95361094.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
   - title: "Facial recognition expert claims Lord Lucan is alive"
     excerpt: "Computer scientist Professor Hassan Ugail's AI photo analysis technology has positively identified an elderly man in Australia as Lord Lucan, a British aristocrat who vanished in 1974 the day after brutally attacking his wife and murdering the family nanny."
     publishedDateTime: 2022-11-11T20:22:00Z
@@ -43,20 +34,6 @@ related:
       name: rnz
       domain: rnz.co.nz
     quality: 34
-  - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
-    excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
-    publishedDateTime: 2022-11-07T17:11:00Z
-    webUrl: "https://www.yorkshirepost.co.uk/news/crime/lord-lucan-yorkshire-facial-recognition-expert-says-mystery-man-living-in-australia-is-missing-peer-3909156"
-    type: article
-    provider:
-      name: The Yorkshire Post
-      domain: yorkshirepost.co.uk
-    quality: 24
-    images:
-      - url: "https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NWU4Y2E5LTE5NzAtNGFmMC1iMjE3LWUzNTAxZTViNjM0ZDo0MmI1Mjg1ZS04MWViLTQzNDAtYTg5NC1hZTVhYmMwNmE3OGM=.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "peWhXewp+BW21bis5CRrI69w3R/x1ciOPBmjzJSKhEmST2QLstA6Y6oQXMqU0dlK0agYtT0U9Gbzy/+BSk2MHD9GF0LGqqCG8PtpOTS4G0bEzUj6WeFnORSJ7sF0WG0na4/VHnH4IK+PyxRDoXTnV8Hif5PKa/fFUMYv2RJnNnYN6pZh+ITzDRPy2ko4h1Kp8oGODZhz5vmFC5oeatfTJF5JIjGMUGV3ZpRczm+3wCdSnsTnkadTQzBzAZKHx8wMLQ+cn6qriN39Yv/LdHzZPv8EG1UwyYgge9Yo1e5B6xTSjFZYNUd/TMnenRAFWYMAHpKiHbb/OUptovvxVMvoX/89O+Mr9JsyLXBe8j50lgdgoXydq1H+eQSL4A5a/12QyMAuRSKcHfkqUyztBII8SnJ2EuG5ShqDA9T0ey/Sm2dqurIHMULOb3++DXSioe+HPxKL4qA3N/eacgcWEMGd44r1S4hL9vj/dounRpLyCyUcmBIGth7658TYK87Rq7I5zR0uL9xLogD0BEJoM9FJIA==;9BCGprzYeyZfO5KENJdKSA=="
 ---

@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market Report 2022: Evolving Industrial IoT and Automation Technologies Boost Sector"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, Neurology, CT, MRI, X - ray, IVD), End User (Hospital, Diagnostic Imaging Center,"
+    publishedDateTime: 2022-11-11T22:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-medical-diagnostics-market-report-/2022/11/11/9711641.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "1eloelU16vnnut6DX1bAMeFmpab05Mn4lBX1FbW/A+McztYCwqyGsUUi/5I/bQQ59rY8eAfmJHsfcsVPWqMPi+a4+z9lV8I7VIq9DeKgZngyvsBhbOAJvGp82l6MAsA0j0NWk/H7Q0zBxcgo0DCTpxkZXXiMV9liLDUi6/5bJMUFwY3RnplKvYooZJGejsJeOyNMzeIdPq3WrXPRbFpGqUg3PuJQAvvQjsACbmC3+JaV/dFjG4R60kxxl1+Bl17ZgDotI5FhqE472CuQAoujMulwQ4K2JzE6zyZoEKcLdrA/EoIwyOs4M2hGldOZVwZ4YHZ3vnI+BGYzTuwRsc9idWUDNg0xQgVOcEQ96JR6QLE=;klazhxhk1Cv4xYvuPNgWGg=="
 ---

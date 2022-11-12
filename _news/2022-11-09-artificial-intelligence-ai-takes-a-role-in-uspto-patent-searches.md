@@ -8,8 +8,8 @@ webUrl: "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-r
 ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"

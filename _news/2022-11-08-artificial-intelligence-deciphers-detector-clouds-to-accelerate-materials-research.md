@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-11-artificial-intelligence-deciphers-detecto
 ampWebUrl: "https://phys.org/news/2022-11-artificial-intelligence-deciphers-detector-clouds.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-intelligence-deciphers-detector-clouds.amp"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-82.jpg"

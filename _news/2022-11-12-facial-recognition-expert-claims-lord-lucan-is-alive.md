@@ -7,7 +7,7 @@ originalUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/201886660
 webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018866602/facial-recognition-expert-claims-lord-lucan-is-alive"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,29 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-based facial recognition claims Brisbane Man is missing Lord Lucan"
-    excerpt: "Professor Hassan Ugails world renowned facial recognition system also helped identify three suspects involved in the murder of Jamal Khashoggi."
-    publishedDateTime: 2022-11-07T19:01:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/uk/ai-based-facial-recognition-claims-brisbane-man-is-missing-lord-lucan/articleshow/95361094.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-  - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
-    excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
-    publishedDateTime: 2022-11-07T17:11:00Z
-    webUrl: "https://www.yorkshirepost.co.uk/news/crime/lord-lucan-yorkshire-facial-recognition-expert-says-mystery-man-living-in-australia-is-missing-peer-3909156"
-    type: article
-    provider:
-      name: The Yorkshire Post
-      domain: yorkshirepost.co.uk
-    quality: 24
-    images:
-      - url: "https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NWU4Y2E5LTE5NzAtNGFmMC1iMjE3LWUzNTAxZTViNjM0ZDo0MmI1Mjg1ZS04MWViLTQzNDAtYTg5NC1hZTVhYmMwNmE3OGM=.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial recognition and an 87-year-old Buddhist in Brisbane - has science finally tracked down ‘Lucky’ Lord Lucan?"
     excerpt: "Last weekend, leading computer scientist Hassan Ugail declared that a facial recognition algorithm had identified an 87-year-old Buddhist in Australia as the fugitive earl. Lucan hunters are used to false dawns,"
     publishedDateTime: 2022-11-11T11:15:00Z

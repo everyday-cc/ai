@@ -8,8 +8,8 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-can-now-predict-d
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-can-now-predict-diabetes-complications-209148-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-can-now-predict-diabetes-complications-209148-1.htm"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"

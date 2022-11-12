@@ -33,15 +33,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
-  - title: "Maximizing the Potential of Data and AI through Automation"
-    excerpt: "Fully embracing technology doesn’t equal full efficiency, and many companies are struggling to maximize their returns after investing heavily in data and AI. COVID indeed fast-forwarded the migration to cloud technologies and digitization, requiring ..."
-    publishedDateTime: 2022-11-07T18:54:00Z
-    webUrl: "https://insidebigdata.com/2022/11/07/maximizing-the-potential-of-data-and-ai-through-automation/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "QCxJZDtI2D9AOngLBktFGeIpCUpmwKUqjaWJ1FBGbT68UA4tNpzHzBaOidrMllmS/XDYNYsyu/QoE2UFfVsiNnaIUe3sINSkzrHc3+DrNIIP/0ie0b2oQm+4P7OVG2mgSq8dUhOr9RnvLOUyMBg/GHiyllZmqHLtLJYRRbV6LuiHPksXzBZmrRBhYN5BFFmRFyS0ECIs9bT+IitxPckXwu1l6gabC14GZh2g/ejYSyNVoykWc8EU/H9Q2zbeBz8V9jvZjMQAcEiz1+wcSIWrHzaKlWOPH8/FNTFDsAJsNz5efjsXqYrNYfHubIanvF4tLPJZ3IsZD9lR1Bo66yy/VSGklKCMWWv7j9ODVtZJMss=;yfZf/hyDkTTTs5KTxIEVJg=="
 ---
