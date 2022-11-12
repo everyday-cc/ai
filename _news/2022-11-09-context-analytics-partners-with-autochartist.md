@@ -86,15 +86,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 19
-  - title: "Vizit, a Boston image analytics software startup, raises Series A"
-    excerpt: "The company analyzes the online interactions consumers have with commercial imagery. It uses those interactions and AI to build artificial consumer audiences to test visuals for companies. Jehan Hamedi, a 2022 Boston Business Journal 40 Under 40 honoree ..."
-    publishedDateTime: 2022-11-07T15:35:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2022/11/07/vizit-series-a-image-analytics.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Analytics Leaders Need to Navigate the Technology Behind Decision Intelligence"
     excerpt: "The next major innovation in analytics is Artificial Intelligence (AI). Applying AI across Data Prep, Business Analytics, and Data Science is what separates decision intelligence from traditional business intelligence tools such as Microsoft Power BI,"
     publishedDateTime: 2022-11-11T13:09:00Z

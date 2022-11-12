@@ -25,8 +25,8 @@ topics:
 related:
   - title: "Tech Industries That Should Boom in The Near Future"
     excerpt: "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect"
-    publishedDateTime: 2022-11-09T17:05:00Z
-    webUrl: "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future"
+    publishedDateTime: 2022-11-09T17:26:00Z
+    webUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
     type: article
     provider:
       name: Mobile

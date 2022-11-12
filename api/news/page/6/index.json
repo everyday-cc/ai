@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-04-an-animal-model-of-west-syndrome-exhibits-a-progressive-increase-in-epileptic-spasms-and-learning-and-memory-deficits.md",
+      "title": "An animal model of West syndrome exhibits a progressive increase in epileptic spasms and learning and memory deficits",
+      "excerpt": "Researchers have provided the first demonstration of a progressive increase in epileptic spasms along with learning and memory deficits in an animal model of this disorder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m.md",
+      "title": "Dataloop automates data management and annotation to accelerate AI projects, raises $33M",
+      "excerpt": "Dataloop, a data-management and labeling company for unstructured AI data, has raised $33M in a series B round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Automatic-Annotation-title.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/",
+      "publishedDateTime": "2022-11-03T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps.md",
       "title": "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps",
       "excerpt": "OpenAI announced the introduction of an API for its DALL-E image synthesis model that will allow developers to easily integrate its AI image generation technology into their apps. DALL-E, currently available as a standalone commercial service,",
@@ -1044,83 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-mtr100-spotlight-armach-robotics.md",
-      "title": "MTR100 Spotlight: Armach Robotics",
-      "excerpt": "autonomous robots. Proactive in-water cleaning is the frequent removal of early stage biofouling through gentle means, reducing the problem at its earliest stages. Management and control of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelink.com/news/mtr-spotlight-armach-robotics-500678",
-      "originalUrl": "https://www.marinelink.com/news/mtr-spotlight-armach-robotics-500678",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinelink.com/images/maritime/w800/photo-courtesy-armach-136416.jpg",
-          "width": 800,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Link",
-        "domain": "marinelink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-huawei-and-tianjin-port-jointly-built-a-driverless-zero-carbon-vehicle-cloud-synergy-horizontal-transportation-solution.md",
-      "title": "Huawei and Tianjin Port jointly built a driverless, zero-carbon “vehicle-cloud synergy” horizontal transportation solution",
-      "excerpt": "Huawei and Tianjin Port have jointly collaborated on a driverless, zero-carbon \"vehicle-cloud synergy\" horizontal transportation solution. Huawei and Tianjin Port have jointly collaborated on a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”",
-      "originalUrl": "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-%E2%80%9Cvehicle-cloud-synergy%E2%80%9D",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-%E2%80%9Cvehicle-cloud-synergy%E2%80%9D",
-      "publishedDateTime": "2022-11-03T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

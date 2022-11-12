@@ -77,15 +77,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Vizit, a Boston image analytics software startup, raises Series A"
-    excerpt: "The company analyzes the online interactions consumers have with commercial imagery. It uses those interactions and AI to build artificial consumer audiences to test visuals for companies. Jehan Hamedi, a 2022 Boston Business Journal 40 Under 40 honoree ..."
-    publishedDateTime: 2022-11-07T15:35:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2022/11/07/vizit-series-a-image-analytics.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Context Analytics partners with Autochartist"
     excerpt: "Context Analytics (CA), a global leader in Unstructured Financial Data processing has partnered with Autochartist"
     publishedDateTime: 2022-11-09T12:16:00Z

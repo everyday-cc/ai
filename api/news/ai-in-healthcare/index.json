@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-12-artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery.md",
+      "title": "Artificial Intelligence – a game changer in revolutionizing drug discovery",
+      "excerpt": "The AI in the drug discovery market increased from US$200 million (2015) to US$700 million (2018) and is expected to increase to $5 billion by 2024. The first AI-based small-molecule drug candidates are now in clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-95466643,imgsize-52670,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643",
+      "publishedDateTime": "2022-11-11T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker.md",
       "title": "Artificial Intelligence Will Become An Indispensable, Trusted Enterprise Coworker",
       "excerpt": "Artificial intelligence is transforming global markets and enterprises of all sizes. Over the next year, this transformation will become a quiet revolution. Rapid progress in areas of fundamental AI research,",
@@ -1417,59 +1460,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report.md",
-      "title": "Artificial Intelligence(AI) in Healthcare Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share | 125 Pages Report",
-      "excerpt": "Oct 26, 2022 (The Expresswire) -- \"Artificial Intelligence(AI) in Healthcare Market\" valuation is Projected to reach USD 13240 Mn USD by 2027, From 2222.5",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

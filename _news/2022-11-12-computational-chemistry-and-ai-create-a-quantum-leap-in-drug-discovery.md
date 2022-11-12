@@ -19,49 +19,21 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "3D protein structure predictions made by AI could boost cancer research and drug discovery"
-    excerpt: "In a living being, proteins make up roughly everything: from the molecular machines running every cell's metabolism, to the tip of your hair. Encoded in the DNA, a protein may be represented as a thread of hundreds of individual molecules called amino acids,"
-    publishedDateTime: 2022-11-08T16:08:00Z
-    webUrl: "https://phys.org/news/2022-11-3d-protein-ai-boost-cancer.html"
-    ampWebUrl: "https://phys.org/news/2022-11-3d-protein-ai-boost-cancer.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-3d-protein-ai-boost-cancer.amp"
+  - title: "Artificial Intelligence – a game changer in revolutionizing drug discovery"
+    excerpt: "The AI in the drug discovery market increased from US$200 million (2015) to US$700 million (2018) and is expected to increase to $5 billion by 2024. The first AI-based small-molecule drug candidates are now in clinical trials."
+    publishedDateTime: 2022-11-12T06:30:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 49
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/3d-protein-structure-p.jpg"
-        width: 1819
-        height: 1773
-        isCached: true
-  - title: "Artificial intelligence can predict 3D protein structures that may lead to cancer research"
-    excerpt: "Usually, trying to discover the 3D shape of protein structures is very expensive and time consuming. However, the technique that uses AI helps to understand the 3D shape of the protein folds efficiently and quickly."
-    publishedDateTime: 2022-11-10T21:23:00Z
-    webUrl: "https://interestingengineering.com/innovation/artificial-intelligence-can-predict-3d-protein-structures-that-may-lead-to-cancer-research"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 29
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/10/image/jpeg/ShzLNdE1XaZJjBunlWV2n0iWNPY59mDU4gnRGPvY.jpg"
-        width: 1920
-        height: 949
-        isCached: true
-  - title: "3D protein structure predictions made by an Artificial Intelligence can boost cancer research and drug discovery"
-    excerpt: "A community of researchers including Dr. Eduard Porta, Cancer Immunogenomics Group Leader at the Josep Carreras Leukaemia Research Institute, have just released the results of their research on how to take advantage of Alpha Fold 2,"
-    publishedDateTime: 2022-11-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970847"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 20
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/008c792e-22ae-40aa-848b-2c6183e05f70/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95466643,imgsize-52670,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Google and Meta AI could boost cancer research and drug discovery"
     excerpt: "Alpha Fold 2 is a neural network developed by Deep Mind, a Google-owned AI company solving the 3D structure of proteins."

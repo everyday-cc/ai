@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the future of gaming"
-    excerpt: "Artificial Intelligence is an exciting topic for some and horrifying to others. Reality seems to fall somewhere in-between the extremes."
-    publishedDateTime: 2022-11-07T15:39:00Z
-    webUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/"
-    ampWebUrl: "https://venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-and-the-future-of-gaming/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/ai-future.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Generative AI: The Future Is AI Writing Its Own Code"
     excerpt: "In what was basically like six months, it went from kind of this novelty that you laugh at to something that’s actually generating really high quality content that humans can use ...\""
     publishedDateTime: 2022-11-08T17:40:00Z

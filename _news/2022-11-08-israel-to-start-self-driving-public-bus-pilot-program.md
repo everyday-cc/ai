@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israel to start self-driving public bus pilot programme"
-    excerpt: "Israel has launched a two-year pilot programme in which four companies will operate self-driving public buses in a bid to ease road congestion, the country's Innovation Authority said."
-    publishedDateTime: 2022-11-07T15:04:00Z
-    webUrl: "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=119"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Israel to test self-driving public bus systems in two-year national pilot"
     excerpt: "Israel is set to pilot self-driving public buses for the next two years in a bid to ease the country’s notorious traffic congestion and improve services to encourage use of public transportation. The Israel Innovation Authority (IIA) said Sunday that ..."
     publishedDateTime: 2022-11-08T09:00:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Citizen Services AI Market worth $41.0 Billion by 2027 - Exclusive Study by MarketsandMarkets™"
-    excerpt: "The citizen services AI market has been segmented based on deployment mode into cloud and on-premises. Cloud-based citizen services AI solutions help in maintaining a competitive edge by eliminating the administrative roadblocks of the supporting infrastructure,"
-    publishedDateTime: 2022-11-07T16:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-citizen-services-ai-market-worth-410-billion-2027-/2022/11/07/9707535.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
   - title: "Insights on the Data Science Platform Global Market"
     excerpt: "According to this report the global data science platform market was valued at $4.7 billion in 2020, and is estimated to reach $79.7 billion by 2030, growing at a CAGR of 33.6% from 2021 to 2030. Data science platform is a packaged software application that provides the tools for the entire life cycle of a data science project."
     publishedDateTime: 2022-11-08T20:24:00Z

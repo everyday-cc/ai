@@ -5,10 +5,12 @@ excerpt: "By playing unexpected moves outside of KataGo's training set, a much w
 publishedDateTime: 2022-11-07T19:43:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/"
 webUrl: "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/"
+ampWebUrl: "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Ars Technica
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
-secured: "rk1K/OLytBF9hLrmnTluOLqwmHjS1WZlPYk5T/U6LR7QXSvnmMsk/7SqoRc9rAlmM/aqwKPg1bjhSSr3k5QqVQTVt42O1of+d7/ds1rmMEzq174vKjuKI3ZCzqY69HGVxbfXew0j2jleBAiHdIGLX0A8tLx1s3yRibT626hCENOBR622h9OmJxRohWVPLZhm3F3gkFrDXBfyw1YqpI98KoMknXCEi1H+4N/3W2S2RQyzBAXrFLFzWgtgj3YHc31Zi5h/ysrLKl8EugOUI4D8ld4C4kvrQ2lp5+1vBAatyg2qAQ3tA3JqdryEBNAze3VOG0munqwaqSbfTw112E/XXvR04QJGpoHlfgvPNETEr7eZsYqBeaRCvADm6AK3GXt9TaRwhxMkz4uw+QQGA5TOxSugc5okqLIqipaGJlZ3g+2irF5JW2wDVHNJgAtb+cz2Sp0q73/ojWlI7ueYd+cm5XfqPxxnsKEjvbsDaA9PM9hFMN1a/yq7e4Pen84J1pr3bPQ+de3Eu5rMcxBELUA3qg==;UJvN+FLuAZqhGdYbruZ9vw=="
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/go_board_hero_1200-800x450.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "mVf4ev/XdW6CNTLDaPEhbf+Mg20/Bgl873w+7ROWsgBLbSOF0iE0oGiOoioqNO6QKULxRZTPAN/cQ5uWqLzyCzEXRSSd7Ul0kEVA8NVuXnWOonr01K84BqRWU6t5rW0FnqZMv6WXP0TK0ZzLRiyfCxhGpRGm+ttklVtOSh1Y4ML9Wi5Zh2YM84MgLXkTczzaw2zpvKM3GgusCXVVJIkQpjAp1mYLDPywNiqXLhH4LcTsdwF/wo1IX1BBIj9CUfURZwsOnDD91RkDR85sz8k9XgXHladWVRlM6nfky6VDt1QqEsC1/BJQwjYdLURBbIhrTwDJzHJHdkvjxaUfnclaIeqQOLYOYqGTCAoL3d7uXT4=;SYmZ4+aLUxgRgjIB2QWC6w=="
 ---
 

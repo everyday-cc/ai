@@ -7,7 +7,7 @@ originalUrl: "https://www.wesa.fm/identity-community/2022-11-08/men-still-domina
 webUrl: "https://www.wesa.fm/identity-community/2022-11-08/men-still-dominate-robotics-but-new-pittsburgh-group-hopes-to-promote-more-gender-diversity"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms"
-    excerpt: "The recent closures of Strip District-based autonomous vehicle startup Argo AI LLC and South Side-based vertical farming startup Fifth Season Inc. have resulted in the termination of an estimated 800 jobs in the region,"
-    publishedDateTime: 2022-11-07T16:42:00Z
-    webUrl: "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/"
-    ampWebUrl: "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 61
-    images:
-      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/H51_Y_684lEtaFXUe48V1-tVinE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/IOE7T6U4MNGC3AAVT64SJKWN5U.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "+CUFCb34me+yDEKaqeyKFWoLiiHOqTCrYBpDygZssBvyTPYLGksia/62Fofee9lgAGH9JFpt8IYhMiesCdHjvF6J4M8HgODPK4ihArqW4tu8eBF0kIxPtLlUU5c02UU0JJ3eRTwcqn9bA/pUTa2IMTlE3ezcnjGvdWVjAJ9FLPzAtzFz8aRGqOH4hbSWADxi/Hq4aiyVuKGmXN+lyHtnWDlC0ZF0sLJhVhWQmpaUpSULhSkbPB/aBrfX46RWoGsjfwMO2yOFj7awsMaxe5gYhiAQRYmtXc17t3xjGBv4+cFAdx16EVhx3e+neAzLA/rg06vo1Uaai83KdQRXm+v3HlAjE9Dgs8dbLrC10rcfHilqQSFeZ9xmT0ELSq+GMPtywZ7IdiT60JofufghjTvcO6Uwb7iD47Z93opq7UaLIaQVzuFMEXDlHj98rOmFwNWdhLlFw6pwmrg2OL1jE5sbRD9o8SV14PccIfnoaBWbPFD9LwAMatQZ4clW3BDE5DXR7IBVOMOINSL65SEVbBGuTA==;AvaHnQ+OVD+al2IrYfr9ww=="
 ---

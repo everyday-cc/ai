@@ -55,24 +55,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Google and Meta AI could boost cancer research and drug discovery"
-    excerpt: "Alpha Fold 2 is a neural network developed by Deep Mind, a Google-owned AI company solving the 3D structure of proteins."
-    publishedDateTime: 2022-11-08T19:52:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/google-meta-ai-cancer-research-drug-discovery/"
-    type: article
-    provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 19
-  - title: "Computational chemistry and AI create a quantum leap in drug discovery"
-    excerpt: "We can design compounds suitable for development better and faster than previous approaches.” Kuano’s approach to drug design takes advantage of the fundamental physics behind how enzymes accelerate reactions in the body,"
-    publishedDateTime: 2022-11-11T17:22:00Z
-    webUrl: "https://www.fastcompany.com/90810071/computational-chemistry-and-ai-create-a-quantum-leap-in-drug-discovery"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
 
 secured: "Um/souC58HizqwrKjThrgYDPlO7EWnij50TQEuyJaQCmeDNrFHsiULzFqPpEdU2QcIZEhPeGc3xz3c7ZX3agr4+uqK4+u0lmOqJUZHUa/eUcrsv9Izwcu+jHpKN+I9L4Y8HNJbMoMWciVZpd9qIgWW++pjJlIwZ+ViTKORbPdbH5b/x6u205ba7gTFCcgECjsi/TiWPlTOPkzgXTg+Ec3mUzN6stXpcJzr1XGa1YQfFt13mvDj0fCLhZFOFQxPUR/JFVzkstzAjyXKM56DSqfj437T7KEU0p/e9AzaFwxx8+YA8MVGh3Pdsnw+uCyyQRIJgBSQoBmSL/B9U8cWEAEKGhx8SeBuJN8R9Hw5lfUvuOwsedKpPVcHU9EdXeHQGI2sHkwK0BfLYbApgHG5S/nTYmBhGUrCVEMWPQNgyO2b1wf5ZQGU7idkmPo6teDJ00VKgPmtAHrBY50wpE8tm04R8jqIRzxS2t/8Q4FdHXDbRXRXmZ3fJo24+dg+50ZIWvs/LUeeXRfNzl4uiGjBEXaw==;G2/Z9e9YuS6ry+PEJYRHQQ=="
 ---

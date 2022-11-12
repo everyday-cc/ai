@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence needs more intelligence"
-    excerpt: "The number of products said to be using AI has grown, but in this installment of The Frontier, some experts say its capabilities may be oversold."
-    publishedDateTime: 2022-11-07T15:19:00Z
-    webUrl: "https://www.accountingtoday.com/news/artificial-intelligence-needs-more-intelligence-to-unlock-potential"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 43
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/83ff4cc/2147483647/strip/true/crop/1200x630+0+23/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F3f%2F4a%2F9d9ddc7f4d0dbf2b672d4174ac6d%2Ffrontier-2-logo.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The human touch: ‘Artificial General Intelligence’ is next phase of AI"
     excerpt: "AGI is the ability of an intelligent agent to understand or learn any intellectual task in the same way that humans do."
     publishedDateTime: 2022-11-11T21:51:00Z
@@ -57,6 +43,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Merging Artificial and Human Intelligence to Pursue Payment"
+    excerpt: "Perryman will present \"The Marriage of AI and HI in Pursuing Payment Integrity,\" and will be joined by Pollack to discuss how to avoid common pitfalls that arise when implementing artificial intelligence and machine learning payment integrity efforts and identify best practices for the integration of machine learning and AI techniques with human intelligence."
+    publishedDateTime: 2022-11-10T20:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-merging-artificial-human-intelligence-pursue-payment-integrity-multiplans-/2022/11/10/9711018.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "23/uLQUPEGwsuwLIo6DBL+bOASLqIHtjf2q/bwn+q455G9qlbR8wPoh6hy1SFEtjckhdvfXlkSDzX3IoYGL3c2zQ65PwdHyr+Nl58677WEFO5VMbB9i9siPC787ske6g1v1cW8KXor0UfBDYn/pUFOws8rSB07mbYSEGftkedCeZ/w9B+JTFFiN2TM6K2w0ffeXmWCLO6zBDdNLdAxpffUQ3MHxd/qp2qmr+eiEJRWRDtdawgG95IpR3jBVEQBRfs0Uo0QBCoqz1MJAA3mtJcjTIFY4bL/Tky7ZfMJ4SLz3jEjBsVYpk6yDiOzsjSVcUs5d1g2+4yOk+NzlxF1aTVo9+lz75MDUHYYOsW60EbN4=;Fpn1meEgH7Iq2sAwCpwdxw=="
 ---

@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Citizen Services AI Market worth $41.0 Billion by 2027 - Exclusive Study by MarketsandMarkets™"
-    excerpt: "The citizen services AI market has been segmented based on deployment mode into cloud and on-premises. Cloud-based citizen services AI solutions help in maintaining a competitive edge by eliminating the administrative roadblocks of the supporting infrastructure,"
-    publishedDateTime: 2022-11-07T16:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-citizen-services-ai-market-worth-410-billion-2027-/2022/11/07/9707535.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
   - title: "Speech and Voice Recognition Market Spending and Trends: Outlook to 2030"
     excerpt: "The report published by The Brainy Insights shows that the global speech and voice recognition market is expected to grow from USD 13.8 billion in 2021 to USD 48.1 billion by 2030, at a CAGR of 14.9% during the forecast period 2022-2030."
     publishedDateTime: 2022-11-09T20:11:00Z
