@@ -152,15 +152,6 @@ related:
         width: 850
         height: 557
         isCached: true
-  - title: "Self-driving Vehicles Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
-    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Self-driving Vehicles Market is expected"
-    publishedDateTime: 2022-11-07T22:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
   - title: "AI In Iot Market Size Projected To Discern Stable Expansion On Outlook, Size, Share, Future Growth And Forecast 2022-2031"
     excerpt: "The global Artificial Intelligence (AI) in the IoT market is expected to grow at a CAGR of 27.3% during the forecast period<br />However, during"
     publishedDateTime: 2022-11-10T11:36:00Z

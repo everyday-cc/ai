@@ -24,19 +24,6 @@ images:
     height: 799
     isCached: true
 
-related:
-  - title: "Honda Plans to Make Self-Driving Micro Cars for People Who Can't or Won't Drive"
-    excerpt: "Honda is testing out tiny autonomous cars in Japan that are meant to appeal to old and young people alike. The so-called “micro-mobility devices” are part of Honda’s attempt to branch out to those who can no longer drive themselves or are otherwise uninterested in cars,"
-    publishedDateTime: 2022-11-07T22:00:00Z
-    webUrl: "https://jalopnik.com/honda-plans-to-make-self-driving-micro-cars-for-people-1849753967"
-    ampWebUrl: "https://jalopnik.com/honda-plans-to-make-self-driving-micro-cars-for-people-1849753967/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/honda-plans-to-make-self-driving-micro-cars-for-people-1849753967/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 20
-
 secured: "ZIyc0DsKqN9aj1W7Z4BWSktQedIT+cEIG0AbXbxtF1Z/gDj2fajhhol6r4p/4Vo2Ca+zT9T5wTHBmzaHnoldZQ83G24Yt4rtBbq/LpS2x/q/gXRzYIer4slKeINE7Cf2ad3Yp3+o1reHndRmmDxNieVGj7QGBbHoJq7Xbt+2I9/d/VQYhgWxIbDObViTOqzynX5YWN2REBAqkvFCeiSNUBEID2NwDy3t00xbb0klwB+MXG5JDoiwlgJLSAAs8c7iRpTKq7HuxBVG3gfaY6KYKJFcr9b07m3As+4CZ4otPtW1l1sjbJaGeT1QmPvaPZL9fQ59JoPbaNkVAr7fK6VwT2mIJ64bE6psolRUha9swkc=;Mr7hP29Ct3xu+8F2L9ALxA=="
 ---
 

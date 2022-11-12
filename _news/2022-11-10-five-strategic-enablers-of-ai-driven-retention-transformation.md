@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "How conversational AI can remove sensitive information from contact center calls"
+    excerpt: "Conversational AI technology is commonly associated with human interactions with bots, but that's not the approach that Interactions has largely taken."
+    publishedDateTime: 2022-11-10T14:38:00Z
+    webUrl: "https://venturebeat.com/business/how-conversational-ai-can-remove-sensitive-information-from-contact-center-calls/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
+
 secured: "naXqBun+4Ycq27cjv7dHYxmzcAFMeZ1HHS1CnNJGl+lTnuH+gnLuZeu8bgoFLjRoToT3GhE/bkaWX+gboyNLSWzkHTldl79ycSBHw396GzW3Fq7b1hTH4VastjdA9GodR6ZYDqNkYQ13jWqYiZQRh35np7kt/03jBvPHYHnu1SET3Wgd0KGbk/jALt9fdS9FmjVTy9MO5mLH463qXXv+wBgr6uh240EK5FsKWq0IpjZThYtAalmafxedowUMcrEQbDhSNmpnryZxiqMeuleTJZyo3YIrtIVPunqkAhu2+fUV/OJgpBRdTwTm0GaWzti+riy0RLCzlfZrb8WzhvDQP9O7/G7KSlltB4v3mCDHDcoiUFoLslIUMHfVz1oSahsMKs3KofHkmlZdfZHaK88+OKScVSL7vzze4EoB7T0Yo5RBT3V7for2U6uSXtVsa8I7UVr+o68Tzht2Zz0Fyo95T+qjHDJApadKjqKK/eVjJwGEWwXJA4jWdEvffWhtpS65qFjM+0GEbn2ISYBq8oQayA==;r3v0PSkCGSrhaS2tjiiU+w=="
 ---
 

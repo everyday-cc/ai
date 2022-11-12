@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrus
 webUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft"
 type: article
 quality: 66
-heat: 126
+heat: 106
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Why OpenAI Spent Barely a Dime on Microsoft’s Cloud After $1 Billion Deal"
-    excerpt: "When Microsoft in 2019 said it had invested $1 billion in OpenAI, the high-profile artificial intelligence startup agreed to develop its products exclusively using Microsoft’s Azure cloud servers. It appeared to be a big win for Microsoft Azure in its battle against rivals such as Google Cloud"
-    publishedDateTime: 2022-11-07T23:25:00Z
-    webUrl: "https://www.theinformation.com/articles/why-openai-spent-barely-a-dime-on-microsofts-cloud-after-1-billion-deal"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 53
-    images:
-      - url: "https://tii.imgix.net/production/articles/9099/102f3dce-bef7-4c51-833a-1b29ae79456f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Salt Security Achieves Microsoft Azure IP Co-sell Ready Status"
     excerpt: "Salt Security, the leading API security company, today announced that it has achieved Microsoft Azure IP Co-sell Ready status, allowing the Salt Security API Protection Platform to be sold and marketed by Microsoft sellers globally."
     publishedDateTime: 2022-11-09T14:25:00Z
@@ -47,15 +33,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
-  - title: "Free Rent: OpenAI Deal Shows One Way Microsoft Seeds Its Cloud"
-    excerpt: "When Microsoft in 2019 said it had invested $1 billion in OpenAI, the high-profile artificial intelligence startup agreed to develop its products exclusively using Microsoft’s Azure cloud servers. It appeared to be a big customer win for Microsoft Azure in its battle against rivals such as"
-    publishedDateTime: 2022-11-07T23:25:00Z
-    webUrl: "https://www.theinformation.com/articles/why-openai-spent-barely-a-dime-on-microsofts-cloud-after-1-billion-deal"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 34
   - title: "Tomahawk Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor"
     excerpt: "Tomahawk Robotics, a provider of common control solutions, has successfully hosted Microsoft Azure SDK on its KxM edge device."
     publishedDateTime: 2022-11-10T15:42:00Z

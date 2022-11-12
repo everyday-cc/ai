@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-08T09:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/synopsys-ic-electronic-design-automation-higher-performance-lower-cost-and-faster-time-to-market-1031885502"
 webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-ic-electronic-design-automation-higher-performance-lower-cost-and-faster-time-to-market-1031885502"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Business Insider

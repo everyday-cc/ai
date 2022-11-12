@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-12T14:28:00Z
 originalUrl: "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/"
 webUrl: "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Forbes

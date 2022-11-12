@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-11T13:26:00Z
 originalUrl: "https://www.fox5dc.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule"
 webUrl: "https://www.fox5dc.com/news/too-much-screen-time-childs-vision-digital-eye-strain-20-20-20-rule"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fox 5

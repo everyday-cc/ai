@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-09-nissan-to-launch-driverless-travel-service-in-china.md",
+      "title": "Nissan to launch driverless travel service in China",
+      "excerpt": "Nissan has become one of the global car makers to set up a driverless travel service company in China. In 2021 alone, Nissan’s data reveals that the company will sell over 1.38 million vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/",
+      "originalUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/11/Nissan-1-1200x750.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/",
+      "publishedDateTime": "2022-11-08T23:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Massachusetts Institute of Technology: Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such speech recognition, computer vision,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg?fit=600%2C400&ssl=1",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
+      "publishedDateTime": "2022-11-08T20:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data.md",
       "title": "Deep Learning Camera Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data",
       "excerpt": "Number of Tables and Figures :128 | The global \"Deep Learning Camera Market\"size is projected to reach Multimillion USD",
@@ -250,49 +336,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-movio-wants-to-make-your-marketing-videos-with-generative-ai.md",
-      "title": "Movio wants to make your marketing videos with generative AI",
-      "excerpt": "Movio is a 2-year-old startup leveraging generative AI along with other machine learning frameworks like GAN to make videos featuring talking human avatars.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/08/movio-marketing-videos-generative-ai/",
-      "originalUrl": "https://techcrunch.com/2022/11/08/movio-marketing-videos-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     },
     {
@@ -1174,49 +1217,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-the-role-of-embedded-vision-in-powering-autonomous-robotics.md",
-      "title": "The role of embedded vision in powering autonomous robotics",
-      "excerpt": "Today’s robotics developers have made enormous strides thanks to developments in artificial intelligence (AI), edge-computing, and camera technology, creating totally autonomous mobile robots (AMRs) that can replicate human activities.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Maharajan-Veerabahu.jpg",
-          "width": 390,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "publishedDateTime": "2022-11-07T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

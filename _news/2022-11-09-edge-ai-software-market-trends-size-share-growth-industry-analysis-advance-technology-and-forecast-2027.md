@@ -137,15 +137,6 @@ related:
         width: 850
         height: 557
         isCached: true
-  - title: "Self-driving Vehicles Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
-    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Self-driving Vehicles Market is expected"
-    publishedDateTime: 2022-11-07T22:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
   - title: "Self-expanding Metal Stents Market Size | Share | Trends | Growth | Scope | Outlook | Opportunities | Forecast 2022 Analysis to 2028 By MRI"
     excerpt: "Quantitative market information and forecasts for the global Self-expanding Metal Stents industry, segmented by type, end-use, and geographic region. – Expert analysis of the key technological, demographic, economic, and regulatory factors driving growth ..."
     publishedDateTime: 2022-11-09T04:46:00Z

@@ -30,16 +30,14 @@ images:
 
 related:
   - title: "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae"
-    excerpt: "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled"
-    publishedDateTime: 2022-11-09T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29641695"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695"
+    excerpt: "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 /PRNewswire/ -- Luxonis, a Colorado -based robotic vision platform, is thrilled to introduce rae,"
+    publishedDateTime: 2022-11-09T19:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/09/9709747.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "EbhmdPcTLWaAomx6IxFn07xoblT/MByRWO2Bho5THPtov78d3TUnmXpoMJOEY9p55APvC32AeMxbNbr4Tda1WfFvc0P4hWS/3srDwBZkPsDk0JddhvK5cmYq2wogkIrGa/B0t4Chi7O08K3iJ0aBngUfpXlHrTA6MYjTN3EvtYLvReN3EQb6ZOl2e/8Aaz8qA413nqDJKIDiNKcya5ToogJeymmng2U8udE/P9T6fpcRJ2zD0SxPeSZAlVp6iM/uJT8PkNy0PQVZptJdTnSVwwgYzDwrY9L4lUV7Pj274YjBbo7dODwn75uLOhbVUzIQKUfqfKpEZaP5Ueu0CM6sLcdbuy/afQyrJMvRoZLRER73PlKfnVPY+6kvPdf3HJPGXA4nbdH4wUjg+K+nK+uEGQ7J+L1gO0bpNPTqZ9wkSKS+bVMyfu9cdHvZsWpdJu0ZHm9Y9xo73aEKu8GUG61oA4YcxwLxa94oaQkc9eVWp0/zGJu62k/M0JNeWOfCIeXLzubVffE4Tn5uDr6uDZJOFQ==;zfl9Q7ny8ytgnVi8feNmLg=="
 ---

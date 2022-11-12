@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Supernatural Launches AI-Driven Consulting Practice"
-    excerpt: "Supernatural is launching a new consulting practice, Supernatural Consulting, using AI-powered tools to drive business growth. AI continues to disrupt businesses across the spectrum, and Supernatural gives mid-size companies access to business intelligence once only available to multi-billion dollar players."
-    publishedDateTime: 2022-11-08T18:07:00Z
-    webUrl: "https://www.lbbonline.com/news/supernatural-launches-ai-driven-consulting-practice"
+  - title: "AI Ethics And AI Law Are Warning About Unchecked AI Ageism Discrimination"
+    excerpt: "AI ageism is a neglected and generally unknown AI Ethics and AI Law problem. Time to wise up and realize the truth about AI ageism. We share what it is and what needs to be done about the scourge."
+    publishedDateTime: 2022-11-12T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/12/ai-ethics-and-ai-law-are-warning-about-unchecked-ai-ageism-discrimination/"
     type: article
     provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 37
-    images:
-      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/Supernatural.png"
-        width: 925
-        height: 521
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "RZDXIGwxX3TLNxigSwJEL85gpEDRzI76aL/QT+/p4S9jfZqccMIcmbAGPpsKPlexrR0+iEIx7VGHYpCJLWN9Y8OoZM0rVkpbcE8aQLy+ndhXvLSHXnW9+MurGmKp+cTZYxU0MgzjZaJhK6Ta0g4EqUNAcPl5yKIgH/3JGvBZlQBmtvpRy5qsC598eCBz05+TuTdyUrq9SpPA5Lu21nofp1rMZKuT0i/meK3etDXJpuid4OSV9yHsyiMCceN9XGYzgmWIJbdFzbqJ0XUSWnRIdQtojYDzjNFw4LySlKmUCVLismLzaXlNYLEVRf2Rd7/QAdnj/alzRYUJt26kH2+V1sQ7NO0WsPgtB7TebZ5oM4g=;PaN4DKG9vSBsl5qo+3ZY9Q=="
 ---

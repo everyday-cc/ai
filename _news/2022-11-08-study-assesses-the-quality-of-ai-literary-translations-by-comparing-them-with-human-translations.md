@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2022-11-quality-ai-literary-human.html
 webUrl: "https://techxplore.com/news/2022-11-quality-ai-literary-human.html"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "The Promising Reality of AI"
+    excerpt: "Artificial Intelligence (AI) can sometimes be an ambiguous word in education circles, evoking images of machines replacing human teachers in the future. The truth, while less fantastic, is that AI"
+    publishedDateTime: 2022-11-09T16:32:00Z
+    webUrl: "https://www.eschoolnews.com/webinars/the-promising-reality-of-ai/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 37
+    images:
+      - url: "https://www.eschoolnews.com/files/2022/11/AI-Imagination.jpg"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "Laicy8CfgQLI8IoU8Lc1odfuFmEMdefgMDdwDJzNUP2Q7wy6HUXI0Eb7fXwidEuApAd7zQj8CyfFdNACREfSBj11c5ASsgzjbfzFhgss7iJtKdh3Gshv47Lba3tQ6TiWpqJ+DqqUWHRZylhoBl4WQWukXw+0+6KeBjRIIfA1QfsWSs8eglf8kPVwndrf9LfQIqKNuLrrRn9PKCicuj+ahzKkqtH1gLIZAyrh7jYQCyGJ8+RocmeArldRLNo8bZHDWVTrXDJD7VRD40L4aXhMChAAXdsSCqHgPKdzCQmk4+fwQDefIwkPGJz40zEmsIjjzfpZopb+b1S8CU2HVBNSZFc0N0V9b2/65glqyIgQcqs2ekKWLFmCx1c3lXaFbB6A5N6KwDRBRtYvrVq9tw8EoMWPw+DSv43Fiwji4nNh7hdpF0XUg7vC7xmuamh18ES0CDRN/seEDlMKMg8J2uay2inXoIEevYUkyFjmhws1bKRJh+8pUnEuD0Bi9KpdzxiySURpCM8RTqNn52TMvX7/3g==;HLb/lEJsozoz1HbBbU2tYA=="
 ---
