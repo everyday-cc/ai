@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-insta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: wamda
       domain: wamda.com
     quality: 19
-  - title: "Biggest fintech trends to watch in 2023"
-    excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
-    publishedDateTime: 2022-11-07T09:29:00Z
-    webUrl: "https://it-online.co.za/2022/11/07/biggest-fintech-trends-to-watch-in-2023/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "vvsJZs+t1DvVyXWCvC8rr7wMikuP/ZcacsghEgt1dkUID6QejyraexXORrHLWnbzYIaeOJKwW9QIZSb2PCgHpsV6HVx62NItG5ZdW5Jrqq+VDwxKdr8+eDJEA7MbwedX41ElyoO3cCAtmcPBxsPeaU0GFffS45jn/Z3ktDs9QhatRgU+jcbY7ah8F4hy6Sbwwrk2aRauoqsTFsSUG2jlG7dhFjT8e0+vBoM16GGu4sO/O0tao56n8JVmP38uupcXZHpAdzQCdHXo2wOOQlkxW0uaUPGxe2QuToMF7n5yv8uXURxUZ1UFNtJzZQwVfBFnPuNetmPUYPhr1wictvULb8YjL3PCxln4zIUybgHJQJIhkIE4AabJ7EKJqOH8CFlo/0O0rmyLVj55oBn4DeGXm1shHzxS2tQQTcxQNJ3R7jOVdgcqvOo152T69rmQaAah2X8eyaVDtlCIlB/OBh7zgdbHB/QukyeYjLO7bhqQR3isNUabOrAG9eXJ9kp8EyZJOpi6HC9yy4NiGifh/2ErwQ==;e8gboKR6yez916p5LUsF+w=="
 ---

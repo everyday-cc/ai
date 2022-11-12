@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kiya.ai reaches out to Latin American banks"
-    excerpt: "Kiya.ai managing director Rajesh Mirjankar said on the sidelines of Singapore Fintech Festival held Nov 2-4, 2022. Last year, it handled 14 billion transactions, he added. “We are working in 57 countries, covering all geographies, and we are starting in ..."
-    publishedDateTime: 2022-11-07T10:35:00Z
-    webUrl: "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/"
-    ampWebUrl: "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/11/Metaverse-2.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Indian-American gets Amazon award to study machine learning systems"
     excerpt: "Pavithra Prabhakar, an Indian-American professor of computer science at the Kansas State University, has received an Amazon Research Award to design a tool that minimises negative user experiences."
     publishedDateTime: 2022-11-08T05:59:00Z
@@ -72,6 +56,22 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2022/Nov/1667970367_edugraph-14.jpg"
         width: 550
         height: 378
+        isCached: true
+  - title: "Indian-American Professor Pavithra Prabhakar Receives Amazon Research Award To Study Evolving Machine Learning"
+    excerpt: "Pavithra Prabhakar currently serves as a programme director at the National Science Foundation while on sabbatical from K-State"
+    publishedDateTime: 2022-11-08T08:55:00Z
+    webUrl: "https://www.ndtv.com/education/indian-american-professor-pavithra-prabhakar-receives-amazon-research-award-study-evolving-machine-learning"
+    ampWebUrl: "https://www.ndtv.com/education/indian-american-professor-pavithra-prabhakar-receives-amazon-research-award-study-evolving-machine-learning/amp"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/indian-american-professor-pavithra-prabhakar-receives-amazon-research-award-study-evolving-machine-learning/amp"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/11/8/Prabhakar_C.JPG"
+        width: 750
+        height: 513
         isCached: true
   - title: "How American Eagle Reinvented Its Fulfillment Strategy"
     excerpt: "Faced with pandemic-related disruptions and increasing competition from Amazon, American Eagle decided it needed to take control of its e-commerce delivery. That led to two acquisitions and a new strategic question: Should the delivery companies it acquired still serve other customers,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-up
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DeviantArt Faces Backlash After Announcing New AI Art Tool"
+    excerpt: "\"AI tools help artists' creativity, allowing them to express themselves in ways they could not in the past,\" the online artist community's CEO said."
+    publishedDateTime: 2022-11-11T22:49:00Z
+    webUrl: "https://www.newsweek.com/deviantart-faces-backlash-after-announcing-new-ai-art-tool-1759066"
+    ampWebUrl: "https://www.newsweek.com/deviantart-faces-backlash-after-announcing-new-ai-art-tool-1759066?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/deviantart-faces-backlash-after-announcing-new-ai-art-tool-1759066?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 87
+    images:
+      - url: "https://d.newsweek.com/en/full/2148239/deviantart-faces-backlash.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "OVeRft3oNEOR5g3VQJsWKj8DYRikxZ9mIJEx3aajMiRYgSTOJ8qAy7uy8hEY4WRa72jk6BckfrOCDdcDxxy6ybrdHiRlUB89RHUfnvoaMdmouwOigU0bM2jfsP8cLyrGOtQNnshgsIaAZ15n/BXcS9jzqbvpX+wsWblnnkG2W/MbutqB4RkS6sLbF9wIBdpTBZPncGSC/qc5DZmvO9bHqZ9H92BGFYME+3ryIqNySfRMu0Z0AU2g81aEImJgdHNMeCoaDWW0XUX8VgVKo4xzhmFXGRoxdrFmXdww/D9sBB2hsKowvyBl3NvttAHmRKyMgj8qW4oqSgyLAlEP8T5g8F+HCHP2lZhAlyzezPjmDPrdV+uJmzzR3fLtJzW28bJzmYIz1MBrUUfMIKNkXkMI/v9mGQ3Xwej01Nlc/e34iWenUPF+pmzZh1LShkZNxK+/aXaV/KF3gV8MxDtm21JOQeXuIJy53u766Vi+se1NhZDwzQTjx1nFRE1h1UQAAUEoe2dBYZ4Cs+PUk9SPQbBQPg==;amp0KgAnt0D09IXurTe2jA=="

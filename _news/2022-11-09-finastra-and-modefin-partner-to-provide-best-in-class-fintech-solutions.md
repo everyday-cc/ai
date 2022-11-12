@@ -50,15 +50,6 @@ related:
       name: wamda
       domain: wamda.com
     quality: 19
-  - title: "Biggest fintech trends to watch in 2023"
-    excerpt: "The financial technology sector is rapidly evolving, with traditional methods of banking now being replaced with digital solutions in a bid to make things faster, easier, and more streamlined for both businesses and consumers."
-    publishedDateTime: 2022-11-07T09:29:00Z
-    webUrl: "https://it-online.co.za/2022/11/07/biggest-fintech-trends-to-watch-in-2023/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "c7ObpMqncTPhug72yi5CmoG/dXtWibddc+e+haBPPPGdL5khCoaWPzsLFSqYoFx88MrC1ggLyVqiPnKRgoeul6yN4u2G9gghgeNTxnqAB4r8k5304M/rCzqC3IjbrU05QlMoqQAB56kMdRSy72D1v22JwgBkhvCdgpha78G+N2ZJRqVWCVJ9Jgkj6JhS+VZspNygTynDe00m3m5TIYdUw+xllISx892HJyeF0Bg3z3LtbcUBkhldPfunfiEEKbnEslUM9pXN74dG9FBtljkLIr24fDbwkPtT1u1Xt12U9ttI8h3lON4x8vuldvjeerD4FN++TS6LnYoufwBIEOFhXjLXghgqLqhRMz+gHnq87Is=;AnXvcsyaL1xlxF0NMH5XqQ=="
 ---

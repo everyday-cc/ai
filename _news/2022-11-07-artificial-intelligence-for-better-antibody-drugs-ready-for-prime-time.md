@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://pharmaphorum.com/wp-content/uploads/2022/11/artificial-intelligence-antibody.jpg"

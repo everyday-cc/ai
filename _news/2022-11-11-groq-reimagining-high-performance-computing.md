@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/"
 type: article
-quality: 76
-heat: 77
+quality: 78
+heat: 79
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/636d1f9240cdc45744555971/0x0.jpg?format=jpg&width=1200"

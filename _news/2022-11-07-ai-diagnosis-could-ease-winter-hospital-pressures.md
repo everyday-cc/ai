@@ -18,38 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence could help ease strain on hospitals"
-    excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ..."
-    publishedDateTime: 2022-11-07T09:10:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Study finds artificial intelligence may help ease strain on hospitals"
-    excerpt: "The state-of-the-art technique utilises X-ray technology, comparing scans to a database of thousands of images from patients with pneumonia, tuberculosis and covid. It then uses a process known as dee"
-    publishedDateTime: 2022-11-07T11:00:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals/95357282"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95357282,imgsize-23822,width-1200,height-628,overlay-ethealthworld/study-finds-artificial-intelligence-may-help-ease-strain-on-hospitals.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Pioneering artificial intelligence could ease winter pressures on hospitals"
     excerpt: "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases – such as tuberculosis and pneumonia – could ease winter pressures on hospitals, University of the West of Scotland researchers believe."
     publishedDateTime: 2022-11-07T16:03:00Z
