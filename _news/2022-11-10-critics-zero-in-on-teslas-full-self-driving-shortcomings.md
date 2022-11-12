@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary"
+    excerpt: "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it."
+    publishedDateTime: 2022-11-12T16:24:00Z
+    webUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/"
+    ampWebUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla’s Full Self-Driving Struggles In Snow-Covered Edmonton"
     excerpt: "Tesla’s Full Self-Driving technology splits opinion in many ways. People argue over the hardware it leverages, its cost, and even its name but what matters most is how it actually performs. In one test on snow-covered roads in Edmonton,"
     publishedDateTime: 2022-11-09T21:38:00Z
@@ -41,29 +57,20 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Kodiak Robotics Demonstrates Tire Blowout on Self-Driving Truck"
-    excerpt: "The video shows a Kodiak self-driving truck rolling over a test rig that punctures the front driver-side tire of a Kodiak Class 8 tractor while the autonomous technology is engaged. Even after the tire is destroyed, the Kodiak Driver stays in control and ..."
-    publishedDateTime: 2022-11-10T22:20:00Z
-    webUrl: "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck"
+  - title: "How Machine Learning is Empowering Self-Driving Cars"
+    excerpt: "Self-driving cars equipped with machine learning algorithms can make better decision-making, identify & classify objects and interpret situations."
+    publishedDateTime: 2022-11-09T16:25:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowering-self-driving-cars"
     type: article
     provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 56
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 41
     images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2022-11/kodiak-blowout-screenshot-web-__-1200x630-s.jpg"
-        width: 852
-        height: 447
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Empowering_Self-Driving_Cars.png"
+        width: 1534
+        height: 970
         isCached: true
-  - title: "The Dawn Project Launches Full-Page Ad in The New York Times Highlighting The Dangers Tesla Full Self-Driving Poses to Children"
-    excerpt: "SANTA BARBARA, Calif., Nov. 9, 2022 /PRNewswire/ -- The Dawn Project has yesterday launched a full page advertisement in The New York Times highlighting the dangers of Tesla Full Self-Driving after safety tests reveal that it will repeatedly run down child ..."
-    publishedDateTime: 2022-11-09T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-dawn-project-launches-full-page-ad-in-the-new-york-times-highlighting-the-dangers-tesla-full-self-driving-poses-to-children-1031893169"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "ek9MFXMTg5+ohWZvDXAJV1s4UIX2kJDjzJLcAI26d4rmvIwoDpuk/JLpCz37PLa9u/LLvSADlwb+LGtuA3jWm01M8RK1xSGiVHO4wGMgcuz4oPgym3g1rLcVASbtoC6ziBaGg3Fx+1GssCxeUu3jSFnzaAklf2c+7ZgHdJigFFPSzqCJmL5BfhVhbvW/aG/zQkum85q1q4i6AAEnNeoQnThwbZQsIGmyq+2Uc4x47LwpyKWnN9x46qeEpW7A3eX+hQMiHTm8YR0DIjTjK0bv0ZxBC5/jdKN2qrSmsC8EoT8t7Zsv+MjYy8RbTUsOjgr9WLtTK3JjBk29dyFRw+jP/QCtyrOt37TH/Vhov64UzeX/9vtrFeaE0rMqegWAXONkjwwAFag8czHiKfMasydUVEGv8ScH/BDyU28D3M407TJk9SDgj+Ey1D7FJjQjnVSN1eB5gyZwDSkTCiC1jt7qbJ3vMp0HAkbKX7B6sIWfsAZRgCSkgTJDPTVn5Ak6iAd3b127ER6uDngplEQsQSHGQw==;MrbfTzlnM2PiqQ3ONOhlLQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Carscoops
@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Kodiak Robotics Demonstrates Tire Blowout on Self-Driving Truck"
-    excerpt: "The video shows a Kodiak self-driving truck rolling over a test rig that punctures the front driver-side tire of a Kodiak Class 8 tractor while the autonomous technology is engaged. Even after the tire is destroyed, the Kodiak Driver stays in control and ..."
-    publishedDateTime: 2022-11-10T22:20:00Z
-    webUrl: "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck"
+  - title: "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary"
+    excerpt: "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it."
+    publishedDateTime: 2022-11-12T16:24:00Z
+    webUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/"
+    ampWebUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
     type: article
     provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 56
+      name: Electrek
+      domain: electrek.co
+    quality: 87
     images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2022-11/kodiak-blowout-screenshot-web-__-1200x630-s.jpg"
-        width: 852
-        height: 447
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How Machine Learning is Empowering Self-Driving Cars"
+    excerpt: "Self-driving cars equipped with machine learning algorithms can make better decision-making, identify & classify objects and interpret situations."
+    publishedDateTime: 2022-11-09T16:25:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowering-self-driving-cars"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 41
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Empowering_Self-Driving_Cars.png"
+        width: 1534
+        height: 970
         isCached: true
   - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
     excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
@@ -55,15 +71,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "The Dawn Project Launches Full-Page Ad in The New York Times Highlighting The Dangers Tesla Full Self-Driving Poses to Children"
-    excerpt: "SANTA BARBARA, Calif., Nov. 9, 2022 /PRNewswire/ -- The Dawn Project has yesterday launched a full page advertisement in The New York Times highlighting the dangers of Tesla Full Self-Driving after safety tests reveal that it will repeatedly run down child ..."
-    publishedDateTime: 2022-11-09T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-dawn-project-launches-full-page-ad-in-the-new-york-times-highlighting-the-dangers-tesla-full-self-driving-poses-to-children-1031893169"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "pwcbQ9cxibOkNZq/4Riq3Drzt+/AaIuhdEy9PXWxxYmpCR6Zxi8AUiA2U1VCmONkisvACxQ0YnZB19hgJc6A3XqkixH941r2+0RffpTo50e3ij4eompyDj64z1yZMfgc8uzxA2SqDShcSIh5V+95Lz77RbkwjVpKXvNwqc/nAwD4kUjjiNdDmVhlE47Lr1HqUn3a6nJyKUqh4U9Gr342kznlYLhg9PrLluXXwW5MWnQPN9JlHvYVOKZcxXt95hexR9zZj0y6mEu2/eOJjjkTlQ6SX32e9lvQEx44eBkdCJ1KpdSSx/1sg57JgrI7nVeGhvEtWBzIY+pB9CEFHxoYD6ny86nrgJOkZqT4b2OOGL5Tmvk38oAnV+sEbf74gqSFlAcjI3PLVrFsBK8L14sRDPTmLfBix+N2nHBu8qSRXCjDD5yPNF5KSqLkjg9/mrW/Fmry8TYApgVQDCSI9R0DFZoDktDtvofqRbb+3KYxgabpOZ1hUlGmPXqGSjLmaczRI4SZDsfuZL2zJY/2rOS93g==;fspMUpJeDa2nSniJOXr9Sg=="
 ---

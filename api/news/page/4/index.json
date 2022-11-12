@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-08-lacework-2022-top-startups-for-the-enterprise.md",
+      "title": "Lacework: 2022 Top Startups for the Enterprise",
+      "excerpt": "machine learning, software-defined security Lacework: Cybersecurity Lacework is a cybersecurity company that relies on a patented form of machine learning built specifically within the cloud to protect an organization from the inside out. This approach ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107144807-1667400664411-Jay_Parikh_1.jpg?v=1667836801",
+          "width": 8192,
+          "height": 5464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
+      "publishedDateTime": "2022-11-07T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-the-role-of-embedded-vision-in-powering-autonomous-robotics.md",
       "title": "The role of embedded vision in powering autonomous robotics",
       "excerpt": "Today’s robotics developers have made enormous strides thanks to developments in artificial intelligence (AI), edge-computing, and camera technology, creating totally autonomous mobile robots (AMRs) that can replicate human activities.",
@@ -153,8 +205,8 @@
       "title": "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder",
       "excerpt": "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
-      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
+      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922",
+      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1174,58 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-australia-bets-on-facial-recognition-to-deter-problem-gamblers-despite-concerns-over-rights.md",
-      "title": "Australia bets on facial recognition to deter problem gamblers despite concerns over rights",
-      "excerpt": "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "originalUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/04/ea3a5d70-cb1c-4d31-9a49-62c4a096cdde_a7fb0940.jpg?itok=qMGIsekb&v=1667570814",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "publishedDateTime": "2022-11-04T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

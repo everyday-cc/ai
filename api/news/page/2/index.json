@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-11-kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck.md",
+      "title": "Kodiak Robotics Demonstrates Tire Blowout on Self-Driving Truck",
+      "excerpt": "The video shows a Kodiak self-driving truck rolling over a test rig that punctures the front driver-side tire of a Kodiak Class 8 tractor while the autonomous technology is engaged. Even after the tire is destroyed, the Kodiak Driver stays in control and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck",
+      "originalUrl": "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2022-11/kodiak-blowout-screenshot-web-__-1200x630-s.jpg",
+          "width": 852,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Truckinginfo",
+        "domain": "truckinginfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-amazons-new-robot-can-handle-most-items-in-the-everything-store.md",
+      "title": "Amazon’s New Robot Can Handle Most Items in the Everything Store",
+      "excerpt": "Sparrow could shift the balance between humans and machines in the company’s warehouses, using machine learning algorithms and a custom gripper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
+      "originalUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/636d54218480c23aec34bdef/master/pass/Sparrow-Robot-Amazon-Business.jpg",
+          "width": 2400,
+          "height": 1698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
+      "publishedDateTime": "2022-11-10T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-how-prodege-saved-15-million-in-annual-human-review-costs-using-low-code-computer-vision-ai.md",
       "title": "How Prodege saved $1.5 million in annual human review costs using low-code computer vision AI",
       "excerpt": "This post was co-authored by Arun Gupta, the Director of Business Intelligence at Prodege, LLC. Prodege is a data-driven marketing and consumer insights platform comprised of consumer brands—Swagbucks, MyPoints, Tada, ySense, InboxDollars, InboxPounds, DailyRewards, PollFish, and Upromise—along with",
@@ -651,49 +747,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-10-teslas-full-self-driving-struggles-in-snow-covered-edmonton.md",
-      "title": "Tesla’s Full Self-Driving Struggles In Snow-Covered Edmonton",
-      "excerpt": "Tesla’s Full Self-Driving technology splits opinion in many ways. People argue over the hardware it leverages, its cost, and even its name but what matters most is how it actually performs. In one test on snow-covered roads in Edmonton,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/",
-      "originalUrl": "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J1HROrNmlfg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/",
-      "publishedDateTime": "2022-11-09T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-10-zoom-adds-crestas-conversational-ai-to-help-customer-service-agents.md",
       "title": "Zoom adds Cresta’s conversational AI to help customer service agents",
       "excerpt": "Startup and training time for new agents was cut by a factor of three. The agents are said to save three to five hours in an average week by letting Cresta’s tools do repetitive tasks. “Cresta’s AI-solutions make agents faster and enable self ...",
@@ -1176,57 +1229,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-how-insilico-medicine-uses-ai-to-accelerate-drug-development.md",
-      "title": "How Insilico Medicine Uses AI To Accelerate Drug Development",
-      "excerpt": "Insilico and other companies using AI to develop drugs have cut the time and money involved in the process by as much as 90%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636b6ae0a6628a2dceaf29b9/0x0.jpg?format=jpg&width=1200",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
-      "publishedDateTime": "2022-11-09T00:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

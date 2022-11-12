@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/super-voters-override-self-d
 webUrl: "https://www.reuters.com/breakingviews/super-voters-override-self-driving-truck-controls-2022-11-11/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "ALRTA driving self-insurance scheme to help truck drivers survive disaster and deliver food"
-    excerpt: "When trucking stops so does Australia's food supply, but with no compensation scheme in place for rural and livestock transporters, the industry says a self-insurance scheme will protect businesses until roads reopen."
-    publishedDateTime: 2022-11-09T20:47:00Z
-    webUrl: "https://www.abc.net.au/news/rural/2022-11-10/industry-driving-self-insurance-scheme-to-protect-truckies/101632196"
+  - title: "Kodiak Robotics Demonstrates Tire Blowout on Self-Driving Truck"
+    excerpt: "The video shows a Kodiak self-driving truck rolling over a test rig that punctures the front driver-side tire of a Kodiak Class 8 tractor while the autonomous technology is engaged. Even after the tire is destroyed, the Kodiak Driver stays in control and ..."
+    publishedDateTime: 2022-11-10T22:20:00Z
+    webUrl: "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 0
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 56
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2022-11/kodiak-blowout-screenshot-web-__-1200x630-s.jpg"
+        width: 852
+        height: 447
+        isCached: true
+  - title: "Kodiak shows how its self-driving trucks handle tire blowouts"
+    excerpt: "In a new test track video, Kodiak’s autonomous technology is able to maintain control of a tractor-trailer after a disastrous steer tire blowout. The self-driving trucking company said this shows how its technology is getting progressively safer."
+    publishedDateTime: 2022-11-10T14:40:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21254459/kodiak-shows-how-its-selfdriving-trucks-handle-tire-blowouts"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 24
+    images:
+      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2022/11/16x9/kodiak_tireblowout_autonomous_truck.636c0e4eae3db.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vT9qjGQRzYnmlHLWWoBWHj/5oZ/OPVv5BRQ0nfAasS1rdnrFW8kBnYSceRDKf8y10gZr5w5yqXTiTEaWTdk8dEUJjfmdBheGLhCA46qnzRTXkARrVhjuEuV1fURx+2MMcBHGu76lwQ0F1xmJG1S50Cjz3xSX6HOfrgNn6Q73v3Nbhyoc9AM/AVwz4geZT5RgEVbi3DqkZg1N9jSfPVKuH/5RrZlHsUkztCCplnVpdbGbpv0Fh2UH0rfiz/0DBF7RRextwd2pnUvMQrYxTPjYIDq2GMKNspXXZb8Y72I1wsEz7LaOt63UVzwHhbvCdmumwWiDI68qZO/dfunIuwMpW+WtvTA+V4XLyCl79xA+N75M7irRX1WPbykN9BNJ3oD9CKenIoRmBRVw1plKA5BzWKA50YMFjypyOIwcfBNg2pA5BF20QwRf9oIvq5u/yjvR2OPrtwP+V2kOEgqT44gZ9EktIX/ESFoRYANO5a1ETPM7vbyKEhrR9Ik21RFTbslU45mUh8VZiYjF5Y99Nmkr0w==;ER8LtNWYGfwJuZ0FW/rwEA=="
 ---

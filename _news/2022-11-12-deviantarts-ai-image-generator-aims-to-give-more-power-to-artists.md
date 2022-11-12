@@ -74,6 +74,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "DeviantArt has its own AI image generator"
+    excerpt: "We understand why Google would get into AI images, as it is a gigantic AI tech company. However, it seems rather ironic that DeviantArt would make an AI image generator. The company is all about sharing your own hand-drawn work."
+    publishedDateTime: 2022-11-11T16:19:00Z
+    webUrl: "https://www.androidheadlines.com/2022/11/deviantart-has-its-own-ai-image-generator.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/11/deviantart-has-its-own-ai-image-generator.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/11/deviantart-has-its-own-ai-image-generator.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/Deviantart-logo.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "apqMINB2EkgoOlseItTjipQwFV2VfavPk+xM//o6e4QnaOdMT5NMClbZaj0+v+SqeQEVvpdTRRkAuSMAyC8BQrxXWmgRfi43iBSqZgFUg5KkfZfqvQZdL2YGsOXb/JH6OFU4VWh6St5O8uAcDA+BrX7HG8TKA0OEBeq8T43ScK20IkjRPAqYa35NNQ1+/li0hdK+Ng1jhJQ5S+VIYne08T02i4V+2tOokkfFsyHRHVAjeL8QB3eUgAtUYBFrN+wxCZf3AlVrUBukeuNo3+bu6HTJ8m/krfVRwCxW4BmFFxRO+55tQs8W0apnoC/5qo4MQctWeGyyyi8CNZdALRu6Pp7obHqqi0fDwH+s4vZ9PQb8CyBeNVtMiHNlBrwFHufCT54RiA+tfuFWt4kjh3wdSWPOIS7HsyhxxZGa+fWAY+RWKA8HduBqwITUQp4Dg6wqnlzHvYp5iDIQBvfqwYfITrDOq6pEE+r/pFe+nYcd4gBnfCk9dhRlMU2Zy2wfO9oyBhrxRCdoDK4SkPGbUMcgzw==;W9FlcXPbzR6Nd0ip8P3sPw=="
 ---

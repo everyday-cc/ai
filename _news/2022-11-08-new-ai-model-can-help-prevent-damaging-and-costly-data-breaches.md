@@ -58,6 +58,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Winning with AI is a state of mind"
+    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.   If you"
+    publishedDateTime: 2022-11-12T17:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/winning-with-ai-is-a-state-of-mind-2-46564/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "New AI model can help prevent damaging and costly data breaches"
     excerpt: "Imperial privacy experts have created an AI algorithm that automatically tests privacy-preserving systems for potential data leaks."
     publishedDateTime: 2022-11-08T20:02:00Z

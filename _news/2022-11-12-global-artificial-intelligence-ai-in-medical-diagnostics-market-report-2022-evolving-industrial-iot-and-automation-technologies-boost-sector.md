@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market Report 2022: Evolving Industrial IoT and Automation Technologies Boost Sector"
-excerpt: "The \"Global Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, Neurology, CT, MRI, X - ray, IVD), End User (Hospital, Diagnostic Imaging Center,"
-publishedDateTime: 2022-11-11T22:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-medical-diagnostics-market-report-/2022/11/11/9711641.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-medical-diagnostics-market-report-/2022/11/11/9711641.htm"
+title: "Global Artificial Intelligence (AI) In Medical Diagnostics Market Report 2022: Evolving Industrial Iot And Automation Technologies Boost Sector'"
+excerpt: "The report has been added to ResearchAndMarkets.com's offering. The global AI in medical diagnostics market is projected to reach USD 5.5 Billion by 2027 from USD 1.0 Billion in 2022, at a CAGR of 39."
+publishedDateTime: 2022-11-12T03:00:00Z
+originalUrl: "https://menafn.com/1105170658/Global-Artificial-Intelligence-AI-In-Medical-Diagnostics-Market-Report-2022-Evolving-Industrial-Iot-And-Automation-Technologies-Boost-Sector"
+webUrl: "https://menafn.com/1105170658/Global-Artificial-Intelligence-AI-In-Medical-Diagnostics-Market-Report-2022-Evolving-Industrial-Iot-And-Automation-Technologies-Boost-Sector"
 type: article
-quality: 0
-heat: -1
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?439296"
+    width: 364
+    height: 250
+    isCached: true
 
 related:
   - title: "Global Machine Learning Market Report 2022: Increasingly Complex Security Frameworks Driving Adoption - ResearchAndMarkets.com"
@@ -38,6 +44,6 @@ related:
       domain: buffalonews.com
     quality: 0
 
-secured: "8W5iQ06tw9MzUQLOPkzgZMjEChVwExI3/OVAYQPaDQnllrAbP+ZRkzI3nfbL4Wd2YW4/W1Se1UgCXs4OT4LFL2ePFVomzVV3CdkGCvkRvmfTCJzFMH8dyXkfp1li8TSBGFv/MTkbNT4SSK08wroEh69N3ioF6kow+Oueps3hV91cRPRaiwiGE9BCeh4OmT2Oqrk7U7gZntsi7hyWsjGjHl/i54mLb+4qxE2PFwFmBBjL0uE2zk4ujMaY6yu3sgKP3PJ/dVDZNbTMt4BRrC2suY+ylxiQAbMcy1kid8MLpXbEYh19MnskCAMMt06qXKwzPzoR/3iR/GCRr576VynZ1RVi3sBNha+lEA8PpTz6/fg=;aPMdtbRhJsWeLtvtaXsCgw=="
+secured: "o11PlwTcPQ4mHojldte3ofvVLrJ46MjMIDa0VK1tllQj7+qQaJRqnF1v2RV67LTYIathdAU7MmHln4u83jT9I2cjIMUqgCbgU4ECWO9EtMoK8XH2xT+8KWAkIUZCa+Torx7frkGL/C1FGls/nZyHxcyUKTmpbXWAr1DpyzRZ/ZbJEfHxLvS1a6MNqvi4VKeU+QwTzZ6xzoe9wd5BHVCwb/Ol3363UH3z5qkU6cQzxFzb1/mn44u24Hi4SDjcFnuXWwQCicAot+gzdig0yZHl2Z2gjYwUUG6ZCm8Tb4Ab2nn3gtYNhpATlm08Wi30oSh4BrXVPIEX19Cb6S9zK5Yd90xRKBI4enzQzW/d5r65Bo8=;XPKfjYJVqKggRR9aYh/s7w=="
 ---
 

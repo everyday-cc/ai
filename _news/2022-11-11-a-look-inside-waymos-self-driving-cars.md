@@ -27,20 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "How Machine Learning is Empowering Self-Driving Cars"
-    excerpt: "Self-driving cars equipped with machine learning algorithms can make better decision-making, identify & classify objects and interpret situations."
-    publishedDateTime: 2022-11-09T16:25:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowering-self-driving-cars"
+  - title: "Waymo, self-driving ride-hailing service, now available in downtown Phoenix"
+    excerpt: "Waymo, a fully autonomous ride-hailing service, is making its official debut for residents in downtown Phoenix."
+    publishedDateTime: 2022-11-12T16:28:00Z
+    webUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix"
+    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Empowering_Self-Driving_Cars.png"
-        width: 1534
-        height: 970
-        isCached: true
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 52
   - title: "Waymo One’s Shift to Full Autonomy Only Confirms Uncertain Future for Self-Driving Cars"
     excerpt: "Automakers have spent more than $100 billion on autonomous technology. Yet for all that investment, the self-driving car seems farther away than it did half a decade ago. Find out more at TheDetroitBureau."
     publishedDateTime: 2022-11-11T19:14:00Z

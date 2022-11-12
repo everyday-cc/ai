@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-02-ai-company-secures-91m-for-fleet-of-automated-recycling-robots.md",
+      "title": "AI company secures $91M for fleet of automated recycling robots",
+      "excerpt": "AMP Robotics said a recent flood of funding will support the technology needed to do better with the recycling of plastics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2431667403016/2022/1/911d0aad918d0cc8241708e8274f6bcc/v1.5/AI-company-secures-91M-for-fleet-of-automated-recycling-robots.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "publishedDateTime": "2022-11-02T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-uspto-issues-landmark-patent-to-artificial-intelligence-startup-orbai.md",
       "title": "USPTO Issues Landmark Patent to Artificial Intelligence Startup, ORBAI",
       "excerpt": "What we usually think of as Artificial Intelligence (AI) today, when we see human-like robots and holograms in ... ORBAI is a California-based startup developing artificial general intelligence ...",
@@ -1307,58 +1350,6 @@
         "name": "DualShockers",
         "domain": "dualshockers.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion.md",
-      "title": "Mind control: The metaverse may be the ultimate tool of persuasion",
-      "excerpt": "In an unregulated metaverse, a controlling force with deep knowledge of users can use feedback loops to drive them toward a desired goal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "originalUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Metaverse-Mind-Control-image-001.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "publishedDateTime": "2022-10-22T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

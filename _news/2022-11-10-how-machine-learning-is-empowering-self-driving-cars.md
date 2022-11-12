@@ -26,44 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "A look inside Waymo's self-driving cars"
-    excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
-    publishedDateTime: 2022-11-11T15:15:00Z
-    webUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/"
-    ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
+  - title: "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary"
+    excerpt: "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it."
+    publishedDateTime: 2022-11-12T16:24:00Z
+    webUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/"
+    ampWebUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
     type: article
     provider:
-      name: AZFamily
-      domain: azfamily.com
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Struggles In Snow-Covered Edmonton"
+    excerpt: "Tesla’s Full Self-Driving technology splits opinion in many ways. People argue over the hardware it leverages, its cost, and even its name but what matters most is how it actually performs. In one test on snow-covered roads in Edmonton,"
+    publishedDateTime: 2022-11-09T21:38:00Z
+    webUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/"
+    ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
     quality: 59
     images:
-      - url: "https://do0bihdskp9dy.cloudfront.net/11-11-2022/t_b35467a2694a446fba346f3303a7bdb4_name_WAYMO_ANNOUNCEMENT_frame_59.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://i.ytimg.com/vi/J1HROrNmlfg/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "Waymo One’s Shift to Full Autonomy Only Confirms Uncertain Future for Self-Driving Cars"
-    excerpt: "Automakers have spent more than $100 billion on autonomous technology. Yet for all that investment, the self-driving car seems farther away than it did half a decade ago. Find out more at TheDetroitBureau."
-    publishedDateTime: 2022-11-11T19:14:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/11/waymo-ones-shift-to-full-autonomy-only-confirms-uncertain-future-for-self-driving-cars/"
+  - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
+    excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
+    publishedDateTime: 2022-11-09T20:39:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas-full-self-driving-shortcomings/"
     type: article
     provider:
       name: TheDetroitBureau
       domain: thedetroitbureau.com
-    quality: 26
-  - title: "Majority of motorists think they can buy self-driving cars today"
-    excerpt: "Despite there being no such thing as a commercially available self-driving car, 52% of motorists think they are available in showrooms The majority of motorists think they can buy a fully self-driving car today,"
-    publishedDateTime: 2022-11-08T09:51:00Z
-    webUrl: "https://www.carwow.co.uk/news/6480/majority-think-self-driving-cars-exist"
-    type: article
-    provider:
-      name: carwow
-      domain: carwow.co.uk
-    quality: 24
+    quality: 39
     images:
-      - url: "https://carwow-uk-wp-2.imgix.net/Autonomousvehiclerelease-e1667856643680.jpg?auto=format&cs=tinysrgb&fit=crop&h=800&ixlib=rb-1.1.0&q=60&w=1600"
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/Tesla-FSD-simulation.jpg"
         width: 1600
-        height: 800
+        height: 899
         isCached: true
 
 secured: "1Sd4ulHM8q+CYgouVY1wAcZX8gNQ5YGkqF7tZgkmXGWIJRgjI5Ey4khjZMePjrcUZG+X1ZVRhqAYMhpzWQynfz0OGVr+7e+jLu2aZT2i2uA6s7a7GRy4aol1iGAYFWN11criOrBobirbnfdYL1qVCKQfdwVSUNwwFkdQnpIkl+wu9/RqziAdtju3TFXn+5slGt8xM0kbXitbKIVh89aSIvozdiOvCAUReuknLLnZHfaAFQ6DgLACwbeYaZEXBpV5Gq/Q7fOQiAhFr9PhsPlMRh2vyA9oRrhkqeti0apRpepBC9AB+Kf6F3mCfqB3kV5y2w7gZNlvFjE+6MOQyKMUipw9pxmR/59NmSWNmBSeN8ENF6liiboTTH/rKJz2RnvY/fS7me4+MtnESJqbpnQyqi6Zex21jm+szyYETQw7W+yl0EB8BMGQcSynfYiEDHmBxdKmCpaivHYQuohokvdVMWs31eGSCB88LdNtEEtwa7I0ooHSHmTNrJL3A7iIO29bLmzDG3UaT8rVkaoiFMSJLA==;1DHpuYpb3p9RwNNl9plmZA=="

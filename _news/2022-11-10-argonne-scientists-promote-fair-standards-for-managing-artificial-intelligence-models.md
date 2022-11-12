@@ -49,6 +49,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 59
+  - title: "Winning with AI is a state of mind"
+    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.   If you"
+    publishedDateTime: 2022-11-12T17:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/winning-with-ai-is-a-state-of-mind-2-46564/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "New AI model can help prevent damaging and costly data breaches"
     excerpt: "This is the first time AI has been used to automatically discover vulnerabilities in this type of system, examples of which are used by Google Maps and Facebook. The ..."
     publishedDateTime: 2022-11-08T15:43:00Z

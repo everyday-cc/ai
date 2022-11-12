@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-13-tesla-starts-rolling-wide-full-self-driving-v11-update-exciting-and-scary.md",
+      "title": "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary",
+      "excerpt": "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
+      "originalUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
+      "publishedDateTime": "2022-11-12T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-a-look-inside-waymos-self-driving-cars.md",
       "title": "A look inside Waymo's self-driving cars",
       "excerpt": "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year.",
@@ -45,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-10-teslas-full-self-driving-struggles-in-snow-covered-edmonton.md",
-      "title": "Tesla’s Full Self-Driving Struggles In Snow-Covered Edmonton",
-      "excerpt": "Tesla’s Full Self-Driving technology splits opinion in many ways. People argue over the hardware it leverages, its cost, and even its name but what matters most is how it actually performs. In one test on snow-covered roads in Edmonton,",
+      "path": "_news/2022-11-11-kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck.md",
+      "title": "Kodiak Robotics Demonstrates Tire Blowout on Self-Driving Truck",
+      "excerpt": "The video shows a Kodiak self-driving truck rolling over a test rig that punctures the front driver-side tire of a Kodiak Class 8 tractor while the autonomous technology is engaged. Even after the tire is destroyed, the Kodiak Driver stays in control and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/",
-      "originalUrl": "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/",
+      "webUrl": "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck",
+      "originalUrl": "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/J1HROrNmlfg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2022-11/kodiak-blowout-screenshot-web-__-1200x630-s.jpg",
+          "width": 852,
+          "height": 447,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/",
-      "publishedDateTime": "2022-11-09T13:38:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T14:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
+        "name": "Truckinginfo",
+        "domain": "truckinginfo.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -84,7 +136,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -282,8 +335,8 @@
       "title": "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder",
       "excerpt": "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
-      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
+      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922",
+      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1370,40 +1423,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-the-national-beat-driverless-car-startup-shuts-down-tiger-woods-new-venture-and-more.md",
-      "title": "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more",
-      "excerpt": "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/baltimore/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html",
-      "originalUrl": "https://www.bizjournals.com/baltimore/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

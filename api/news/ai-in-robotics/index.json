@@ -244,6 +244,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-11-kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck.md",
+      "title": "Kodiak Robotics Demonstrates Tire Blowout on Self-Driving Truck",
+      "excerpt": "The video shows a Kodiak self-driving truck rolling over a test rig that punctures the front driver-side tire of a Kodiak Class 8 tractor while the autonomous technology is engaged. Even after the tire is destroyed, the Kodiak Driver stays in control and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck",
+      "originalUrl": "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2022-11/kodiak-blowout-screenshot-web-__-1200x630-s.jpg",
+          "width": 852,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Truckinginfo",
+        "domain": "truckinginfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-amazons-new-robot-can-handle-most-items-in-the-everything-store.md",
       "title": "Amazon’s New Robot Can Handle Most Items in the Everything Store",
       "excerpt": "Sparrow could shift the balance between humans and machines in the company’s warehouses, using machine learning algorithms and a custom gripper.",
@@ -1328,49 +1372,6 @@
       "provider": {
         "name": "Daily Camera",
         "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-ai-company-secures-91m-for-fleet-of-automated-recycling-robots.md",
-      "title": "AI company secures $91M for fleet of automated recycling robots",
-      "excerpt": "AMP Robotics said a recent flood of funding will support the technology needed to do better with the recycling of plastics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2431667403016/2022/1/911d0aad918d0cc8241708e8274f6bcc/v1.5/AI-company-secures-91M-for-fleet-of-automated-recycling-robots.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "publishedDateTime": "2022-11-02T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null

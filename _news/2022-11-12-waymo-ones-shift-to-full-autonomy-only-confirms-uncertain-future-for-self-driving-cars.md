@@ -35,20 +35,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How Machine Learning is Empowering Self-Driving Cars"
-    excerpt: "Self-driving cars equipped with machine learning algorithms can make better decision-making, identify & classify objects and interpret situations."
-    publishedDateTime: 2022-11-09T16:25:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowering-self-driving-cars"
+  - title: "Waymo, self-driving ride-hailing service, now available in downtown Phoenix"
+    excerpt: "Waymo, a fully autonomous ride-hailing service, is making its official debut for residents in downtown Phoenix."
+    publishedDateTime: 2022-11-12T16:28:00Z
+    webUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix"
+    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Empowering_Self-Driving_Cars.png"
-        width: 1534
-        height: 970
-        isCached: true
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 52
   - title: "Majority of motorists think they can buy self-driving cars today"
     excerpt: "Despite there being no such thing as a commercially available self-driving car, 52% of motorists think they are available in showrooms The majority of motorists think they can buy a fully self-driving car today,"
     publishedDateTime: 2022-11-08T09:51:00Z
