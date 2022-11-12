@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/international/indian-american-
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "How American Eagle Reinvented Its Fulfillment Strategy"
-    excerpt: "Faced with pandemic-related disruptions and increasing competition from Amazon, American Eagle decided it needed to take control of its e-commerce delivery. That led to two acquisitions and a new strategic question: Should the delivery companies it acquired still serve other customers,"
-    publishedDateTime: 2022-11-07T13:15:00Z
-    webUrl: "https://hbr.org/2022/11/how-american-eagle-reinvented-its-fulfillment-strategy"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 4
 
 secured: "1AqU5oxKwur4k6NH+pfBak9RC5SOOX5/G4SNbJxDDX1y9FzXSk8BpUbz2pjfavzH1d3YP3Pht9wr5DAOBIF893oOy/KvYL8Ag2AGbVpk5Jqw8yKWd6sYqLQv6UZA2Rh+RVL0Q64g/LAelNjxEcc6BL5bbTXqdRQexaURp5CrdFeBq+n6plcmYhXI8e9N2aO597gcrJpRi66mmjCq0cGnEYhJG2RJE8ZgIhZ83qS7PP8G733WMBuJmga2Hc21y7Cj7xGR0psIIxFE2Uy8KBvpJNE9qynhbuuglMhX2dWB1WcE50exxFnD0tc1X+Po5x4lZR+s1KlrOL+mMXUnRJWAyYrsZGtNiV4nZJBhI8htuMVHsQFm53dEDjivlnjjwhVVVhc3sHU0lM/byJY5RuxkFTIjFpIn0AIE41ITdJuN02mBjnRaYBgPRuQaNQE58KgeGE8rKKRtp5Dg8h2CYXUNm1LVTUJawk0AbygJEoZcTsfwPULH2XS0LCnJdYA6bAq8N24iDKCFrQyx9quJHpaJtw==;SEDsHe+sM3LY3cjUIzgHaQ=="
 ---

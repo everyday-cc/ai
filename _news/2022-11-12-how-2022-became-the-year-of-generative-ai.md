@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "The race is on to build generative AI for the enterprise | The AI Beat"
-    excerpt: "Register here. In the wake of last week’s release of the DALL-E API, a crowd of startups is sure to follow, racing to build generative AI for the enterprise. I thought of that as 50,000 runners converged on New York City for its annual marathon yesterday."
-    publishedDateTime: 2022-11-07T14:51:00Z
-    webUrl: "https://venturebeat.com/ai/the-race-is-on-to-build-generative-ai-for-the-enterprise-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "The AI Image Generator: The Limits of the Algorithm and Human Biases"
     excerpt: "AI generative art algorithms usually function by drawing on ... You'll now receive updates based on what you follow! Personalize your stream and start following your favorite authors, offices and users."
     publishedDateTime: 2022-11-11T14:02:00Z

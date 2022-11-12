@@ -73,15 +73,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "How American Eagle Reinvented Its Fulfillment Strategy"
-    excerpt: "Faced with pandemic-related disruptions and increasing competition from Amazon, American Eagle decided it needed to take control of its e-commerce delivery. That led to two acquisitions and a new strategic question: Should the delivery companies it acquired still serve other customers,"
-    publishedDateTime: 2022-11-07T13:15:00Z
-    webUrl: "https://hbr.org/2022/11/how-american-eagle-reinvented-its-fulfillment-strategy"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 4
 
 secured: "bW7MsaYDlGXkpFMoMFN3YOSv1NjtPiwReAXEWUB9UCh67aHI1EsyojYysZ5LUUF2v4E93w2a3PThS6p0RYmaYbtTK1BaElIxYiUQ44VD4hU9gjJWoJN8NjUeNFL+u6nStv41EM53CW8miyTMn+BjM51cObRyT5LeWiG7GqcmNVU2ncBckRUl01DM1mhHI9sloA1bbHseJFFaBOqtI6uT7ejbTRQ7k/j7jKcNuRLUFRzTRXfRY6NAkrcEh5K5vNnAVqj4X/t6QnzUbVeaGbeNVRfhzp938UnDS/uuOThz9+9HrxB6hH5EFgE5N/Rr59nqTUwqGqkNdX2IRRxGg47XuSp/G0RwVVxE/TeVrwdCHyk903r6B+lSiSZaer4cQZrifgVEx7H/bTzFahDQB9MgAfR7Frm4T94VDJvqecWnRAs0HGaPVeqTlunjEIGirQ4g2JwWg4vk4WykSbMWHHgACA09Ldgkjmw5GyxNO8qIQdPeimdtMp28vvfEbL+pcQCNi2r9SKewzWqVqQ/20Kp+8w==;H/sQI+YtYas4e29FnhrVAQ=="
 ---

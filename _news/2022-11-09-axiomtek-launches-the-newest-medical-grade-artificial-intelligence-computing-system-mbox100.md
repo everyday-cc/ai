@@ -2,12 +2,12 @@
 category: news
 title: "Axiomtek launches the newest medical grade artificial intelligence computing system - mBOX100"
 excerpt: "Axiomtek – a world-renowned leader relentlessly devoted to the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is pleased to announce the release of the mBOX100,"
-publishedDateTime: 2022-11-09T10:49:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/09/9709092.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/09/9709092.htm"
+publishedDateTime: 2022-11-09T10:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-axiomtek-launches-newest-medical-grade-artificial-intelligence-computing-/2022/11/09/9709092.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-axiomtek-launches-newest-medical-grade-artificial-intelligence-computing-/2022/11/09/9709092.htm"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 251
     isCached: true
 
-secured: "A2ZRkWPhdlOChE8KRH9+uVfLJvXJ4R5fIUuOUiitELEojJ0rIZy4Qpv7u94tp396H/lwXqmu5pWhxp1pSHfCoTRRKcdIrwA6eyDtGcR0Qw1s+0s3A5fXV5mMgjLNWp+UyaCWmXObFNRxkCmwB0ERJrDUp8F+GZBgSIOhIJO58kvOgPvXuLjedglM1dPaPVrIx446FoB4zPLKN8pG1O/2fzZPfkiGP9hJ1TdqF5ef6usNRp6xGOs9LBIBf3pZRPBgpfem9y7P+uu/otxFDaC8ciK09G8yL2z9R6dGJkPi3NI0fZ88w9yCVicabrvfeu2G+NFuTsvfxKIr+WxOyYvOED1/2L6526dYEm9hMwrMSlY=;ZlFc4CpABpFwyyOOsbBljw=="
+secured: "cR85pm21c6ED9su0FQpNSO0iqGSHa9C1TH1o/LLRxid8ooEWE8WNLEn8I15+nnPELVbheC9UEG037BSY+AfOBw8JG0hxCVlcJ88Hyla3w6QdraQePERBELjA4JEmqFmh4+IGQv2bSam9/VTnR1+o0e5mBxvCdJ0F8na+Lp7vRP9BGS/VK6eccxIB3g11tBQjwI5dUkC9pAhNNdkkh1qsopmjjyqixmVXSOHGLvmTH7uaVz/o/wfUNh6wuZWZDNL6WbDSfBNtV1jlwcVe9uG5fhPsyXvwDmQmJbaIIwwiiOX7W22SB4UuuCmHz8Zz9cVwrNDO4gKbbSqDh5EWqDyEMCMyhlMBwyAsr/vTECofmOU=;GjzV9p8X291Y2QSSIdfsqw=="
 ---
 

@@ -28,15 +28,6 @@ related:
       name: rnz
       domain: rnz.co.nz
     quality: 34
-  - title: "Lord Lucan 'is exact match for Australian pensioner', facial recognition expert claims"
-    excerpt: "Lord Lucan and a pensioner in Australia have been matched as “the same individual” by a facial recognition expert who unmasked the Skripal poisoners and Jamal Khashoggi’s killers. Professor Hassan Ugail believes his world-leading AI photo analysis ..."
-    publishedDateTime: 2022-11-07T13:54:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2022/11/07/lord-lucan-australia-pensioner-exact-match/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 26
   - title: "Lord Lucan: Yorkshire facial recognition expert says mystery man living in Australia is missing peer"
     excerpt: "A facial recognition expert says his \"foolproof\" technology has definitively matched photographs of Lord Lucan to those of a mystery man living in Australia."
     publishedDateTime: 2022-11-07T17:11:00Z

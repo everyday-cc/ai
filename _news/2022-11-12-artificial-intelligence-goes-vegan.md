@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence goes vegan"
-excerpt: "What if, in the future, robots were the ones starting petitions to defend the rights of animals? It may sound like science fiction, yet artificial intelligence that can specifically generate vegan content has been developed in New Zealand."
-publishedDateTime: 2022-11-12T03:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/12/artificial-intelligence-goes-vegan"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/12/artificial-intelligence-goes-vegan"
+excerpt: "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism"
+publishedDateTime: 2022-11-12T04:20:00Z
+originalUrl: "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1"
+webUrl: "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1"
+ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
+cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Forbes India
+  domain: forbesindia.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/11/11/1815603.jpg"
-    width: 1240
-    height: 1240
+  - url: "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 17
 
-secured: "EmSJKbEFtDZxwB41ctoDyTiXo+3ucSKclm9r574MC1wjRpKNmtBcWtR+iuS2qubjSZsvrPJdiyb8YGDUgw8zhlLrV8gyz3rE8NuUa0mrowqcYVIIlco3Qe71J+71FeZRWj5HP/eglhvUD1j2dIdRUvNDsQD3OhzIv+esPExqmHwJ+VEJfHOwAm1L31HAVM49ibEvpRSB7iXXCB8WkxoG+x35JkYdo8fGSoZ/kUoxeYZt+QQYCG1SU7fHBljbrXIJxVND+4WQgbGKnC+fEzeI8TUZ7tuBpOA49K7Uh/uRxaiySG7l8PPFncw56t5uqSJV9ux+3I/qk9SufStEdFPKN4AqbM08Ff2gNfnyakaelZk=;DsjGwsSSa1Fj8xS/kkKQCQ=="
+secured: "xAh4Lkg6eqEkc5ObZ2jv4PTUkodmsg6bFlBZE57kQKMde6mb2NWDlj1sk6cbXoAbJLzHh1kpgU/uWqzrEOV+Vat6oefr1gWydT+MYu/ciMcoxsUuQtX+PD1fAJlCjiEYc/KRRaa73wB7xmKKWZTXIZSw+cNQr4izRpP8ofgLyoB0c/5n3Ib4Xpq7WgOREnyHDMOz5A5JLHwiAQDx/pNJoMCeLSnxerP22x6i2QiHPczEGP6RGriu4T6k8qGpPv9kUtYXtiiAcedI7GxAeVT/uCK37EnB872lB2ZQx/Kf9BI1a/slpshyZ6nDsMVr5YXw6ckHFb892DrI/Gw0uQCJdwbyTjNsIEl+krZYtiyMN1o=;hqSMsutSDOeMs0BTMA2JNA=="
 ---
 

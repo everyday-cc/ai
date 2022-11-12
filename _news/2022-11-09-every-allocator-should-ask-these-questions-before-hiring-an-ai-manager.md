@@ -7,7 +7,7 @@ originalUrl: "https://www.institutionalinvestor.com/article/b20kvxqg07x789/Every
 webUrl: "https://www.institutionalinvestor.com/article/b20kvxqg07x789/Every-Allocator-Should-Ask-These-Questions-Before-Hiring-an-AI-Manager"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,44 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Three Questions Business Leaders Should Ask When Considering AI"
-    excerpt: "Dr. Steven Gustafson is Noonum's CTO and an AI scientist, passionate about solving hard problems while having fun and building great teams. With AI, it’s important for business leaders to maintain focus on core issues and not get distracted by hype and ..."
-    publishedDateTime: 2022-11-07T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/"
+  - title: "AI is better at answering questions if you get another AI to ask them"
+    excerpt: "Getting good answers from an artificial intelligence can be a tricky task, and now researchers have found that an AI is better at asking questions of another AI than people are"
+    publishedDateTime: 2022-11-10T15:16:00Z
+    webUrl: "https://www.newscientist.com/article/2346519-ai-is-better-at-answering-questions-if-you-get-another-ai-to-ask-them/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&crop=5700,3207,x0,y593,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why You Should Consider Using AI In Your Network Security Strategy"
-    excerpt: "Artificial intelligence (AI) makes for a splashy headline, but how often does it get implemented effectively? The results of one study note that only one in 10 companies report significant ROI from using AI in their processes. The report goes on to expand ..."
-    publishedDateTime: 2022-11-08T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/08/why-you-should-consider-using-ai-in-your-network-security-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "4 AI Questions That Meta AI Is Helping Answer"
-    excerpt: "Here are the innovations by Meta AI that helped it remain at the white-hot epicentre of AI in 2022! A picture is worth a thousand words. But is it? With text-to-image generation, a few words may be enough to create a thousand pictures."
-    publishedDateTime: 2022-11-09T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/4-ai-questions-that-meta-ai-is-helping-answer/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: New Scientist
+      domain: newscientist.com
     quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/meta.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/11/10151212/SEI_1330711301.jpg"
+        width: 1164
+        height: 776
         isCached: true
 
 secured: "elWKO2MovOSXdxkFpKM9gh3TUzqCpjPyFFYio2o+5rx2Hh0bpKXwIyZklGgTGnwMlL2OIVDOe6weVy72p2OhkvIOelDwLXnUTaPxzQ84Pt32jgfa3TXg9PAvfeUTyFt864a5eec3HB9yGhHUdqlhHpcAtGj0knkvstxr4AdhX+tAChmHGpQKFGx7O7WJcGzClZy3qkbpCbFAfTPwEDwKeG3HzlquozUgzT4pZH+YJG9BUFFi0ab9BqKBKELApcGj3bE95rykI8n84sPmVhHWznrAf/3UXwGlW1D+4ap7O/ouyk+ZtEKtDVcZ6Oo6UvjMW8InkK4on8i2I6vy6eIm5eTZPxKyKRF9Wf2jYnF/7Wtlnq9MqS42JyI8MSU6aIkeK0UNk3ppogm6SpgBvx9D7VE9u4/uf3n63lAUXj302g2TRAWl9IbpSPMPP2PCSXk3zYX6yZGckg8auWur1ER6zFlOxOf1AmM54R8Qv4zIy/7UFvKpancskoViUTPQY8ZJoM0l+efJnDvu1crCfxnVMg==;clOJUhesbwsQPn4x28Q/Qw=="
