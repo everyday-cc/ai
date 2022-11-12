@@ -3,12 +3,9 @@ category: news
 title: "Amazon's latest robot picker for warehouses uses AI to identify objects"
 excerpt: "The company claims Sparrow can help make workplaces more efficient and safer, but reports have suggested there are higher rates of serious injuries at Amazon's automated warehouses.."
 publishedDateTime: 2022-11-11T21:38:00Z
-originalUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html"
-webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html"
+originalUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss"
+webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss"
 type: article
-quality: 84
-heat: 104
-published: true
 
 provider:
   name: Engadget
@@ -22,39 +19,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/284WX_4DX20u8eeGjQY9Ng--~B/Zmk9ZmlsbDtoPTM4MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg"
-    width: 675
-    height: 380
-    isCached: true
-
-related:
-  - title: "Amazon introduces new robot to do warehouse tasks"
-    excerpt: "The robot is named Sparrow, and is a robotic arm that can handle millions of items. The robot functions using computer vision and artificial intelligence, and is the company's first robotic system that can detect and pluck individual products ..."
-    publishedDateTime: 2022-11-10T00:00:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/1411668123540/2022/i/16681244192735/v1.5/Amazon-introduces-new-robot-to-do-warehouse-tasks.jpg?lg=5"
-        width: 860
-        height: 576
-        isCached: true
-  - title: "Team uses AI and satellite images to release first-ever global estimates for road transportation greenhouse emissions"
-    excerpt: "The Environmental Protection Agency estimates that the transportation sector accounts for approximately 27% of all greenhouse gas emissions annually in the United States, and emissions from road transportation—driven by carbon-creating internal combustion vehicles—account for a large majority of that."
-    publishedDateTime: 2022-11-10T20:44:00Z
-    webUrl: "https://phys.org/news/2022-11-team-ai-satellite-images-first-ever.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 0
-
-secured: "E/NsOrpir8m4FOjKtNEj5c8NJ7p/pp+T+RoUj2Y71tQ7gWWMOT0YOgAOMieYtJEgwZQmNHrUQ7J04xMdrk+UVhkEshb4YScNKp9+HEGEK6rX8Bpd5ERWEhdSD+oq69v8czIKiK4hKn0aVNInm6GkJUImZyAg404u4A8qPqKKeJB91UPGifyT+LYJ2fM+70STXXEMegxAliCWstTnSuQPj1XqJ5yFKbOZY80+0WeZqL3loP9O2VY0XOurBOvOXvwdTPaMCW2iAyYEYooX7g58eHblrK8kLtngok6vzzrofY6fbFlc5ePutui/zRd+tql6tBwRXFSezZXF6n2tKaxZuFuge19/E6WtGdrGaRSUmXLqdk008o5jmd1xuSWNOLlb+vt5W/aE4u+Ia37OsokvsDnN0IoQm7yOAzGZd+ux+l2wXgS17MRc6BsqDlVO1INAEzIekptcJR1eMnj9mF+iV+ILKnY0VhiifwDYEXLXUxAyLD4P/knCvl93GVX6xYI4YNXlXvTtPgaU0ylWw6oXDw==;5LMxfEdo+AF6HYTdBG1K8A=="
+secured: "g2u5JZLvAIdf+PFX7/EUtsk9QraDjsHlLPi1ktyeSpaSKK0pujTnLvUKPH0dpgeAxkwWm65me6XhCk6PNS47MvTahT0hOR4HI2ICc4N77oBbCN9K57vfisk6vYxjRZXvjysMD/mNEp28Vk8ieWHoRoQRC6rhXbe34/w6vD52wWoQdtVfLxSWX4Dt0+bpNzlIf0uIWF3hEWzT0mHCyK0CoHk6GoWGm7uw5BBPPuVSPYdFdE5dc+VS+7SzDIfQ5KZmjFRYF6kfMBENwEw7MQw/9PtiGWjg+phR2IqyZmu3f6XuBcC/0HIy/dLy1NufFvXcMjAjC+QHv4GFXHoF00nWtbflgezjYDKwx65uHjuSQjVg1ijg1xMj4XoDznzXpKBqKOjXwFKD4EsxNF18rBBNyiYzu9SCVNdWvGpzSFGDUPNlh0/AKzI6t98dvnQ+eFhc63dRuCVASC+v7HeX0tZ00jyoq0a0fVp90fCzB7lmW7MRkYh9ADg116mnlyKeydIB9oWTZRQUBhC+hoEGJxk0Rw==;zcxP5hgeVAyUIRloLHbm7g=="
 ---
 

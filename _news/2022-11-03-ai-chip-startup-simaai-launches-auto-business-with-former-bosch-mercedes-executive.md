@@ -1,20 +1,25 @@
 ---
 category: news
 title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
-excerpt: "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ..."
-publishedDateTime: 2022-11-03T15:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/ai-chip-startup-sima.ai-launches-auto-business-with-former-bosch-mercedes-executive"
-webUrl: "https://www.nasdaq.com/articles/ai-chip-startup-sima.ai-launches-auto-business-with-former-bosch-mercedes-executive"
+excerpt: "SiMa.ai CEO Krishna Rangasayee poses for a picture with his machine learning system used for processing video and images for security cameras, satellite images, drones, industrial robots ..."
+publishedDateTime: 2022-11-03T13:21:00Z
+originalUrl: "https://www.reuters.com/article/chips-automotive-sima-ai/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive-idUSKBN2RT12V"
+webUrl: "https://www.reuters.com/article/chips-automotive-sima-ai/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive-idUSKBN2RT12V"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
+  - AI Hardware
 
-secured: "Eeb5V6g8SRBsPIGlFK76oc0Q9xtF1xVSkOQREBmy2dUGVA7ARh4ivw0+TCnKWPm8HbpuWci2wJ3Bcc6G8B4Sl0fCENl8WZGxEdsTV+pZNZmhbItU9r2VTsrySiZV/aoeewJm6/bAHMCBsd4C2YaXIu0KoO0qCvDRGR13vXZK30b7+OR4rtbWmeVUWiR7ioxhvaRi+XoyCrigzwaomSXMzJIjd5HcpPH4okyIv613tOmFbeTinfQVqUeDaEgYsrT7JrDUQG27bwlTu1VZpGwz7v5rGtegXdiwlycX3gOrrJsAFX3Inoh/PQKWUq31walN3QYJqy5iKTCEY4FLxdkdzKMcNnidzXuUIs9KvJO3mAY=;iOlzoTSJv92sFu37vy3tOA=="
+secured: "wh2uKA5QehOwQSXPvGOyoBH4aSxi+PNpMcYmrYBdNrorYGUw8HvEMprZvhjcfk/gIyTPQ1cMwADYtb6TMxRA3r7+BpfxKlh7WKtHY/wdgiYE1wcDHhImuSDJjjDMeOiNICBmGME6atYwl4BKmGVxiM1S+7jkym2DHS4BcC/WA3C0GH3jjJYIc3toz1pQOqBR4GUHriPifniNmTzy7rKRsm3kNw/Uj42ZXWFCdcyhjH3nwKD6JXk0SLzYONRJWfUH+irR+7aUcEdZYGyTPewvv1FGA1+rOD4vAmPKoMC4UHENigizcn/PEu77bTifMEmb+FDYRTVS6gyXtvZ/W9ei+vLII8BWes+CPAUUUtg727A=;82PIpcWL5+L1eVvfUxu0zQ=="
 ---
 

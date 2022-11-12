@@ -1,24 +1,20 @@
 ---
 category: news
-title: "OneMeta AI’s Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
-excerpt: "OneMeta AI (Ticker: ONEI) created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself as a language translation app after comparisons of Facebook turned Meta's (NASDAQ: META) product began to circulate."
-publishedDateTime: 2022-11-08T10:12:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
-webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+title: "OneMeta AI's Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
+excerpt: "OneMeta AI ONEI created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself ..."
+publishedDateTime: 2022-11-08T11:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
-  - Facebook AI
 
-secured: "aV8KtNM+hjMosunpuFq9d32MTmxwfK3+1mLSFazHJ5WLju7zCaQBIdgYHLUixQlUEwqejPKelFvPw/zOQSiGmO1bazH5S6o434HdHXDJlPuIz9ZtOOOMTTLVDiNvdRcmt+TTAKAoy74bOSau8EXqphf87micSsf7F4sClRxEKfbJqTE5W4zURrjN3Rby2Y9/vUclFu9B0JAOqHsEV71soXJVbY+DeDM3zl5+jPlYvP/yemUXE0M0WC+fIIIYStCyW6sgraPq1ttw5cJMVFO5yWw1R1NmwFGNxugopIXN0rEKLNRhjlLYgUtBkHRfqQQvINZI5pi4+6i9/mL9FrIfYNg7PKo7wLhnFc22831aakixm6wPyPR7YPENPCtpbeUTprTgB4C4sl/0z4zCifhb0KK2yrKmmCPUJb7Q5VvwdSa2Aaz6k9R48KYDDAuij4oBcv2Sy88loO6Bvi4ppupFEaZJvkm10Lp8+Le+a0OdpeIfdc/ORPQzdZKc3AI7wwBI+23EjxUALcOQ4MPWu9ABpA==;FKyYuMIrJdEkmCDnOEIblw=="
+secured: "5hQ97yLCjqPLYOiS9IxZGFfyu8yG0UymsBnD9OyRXfBNppUdpPmu+E5vZnH41Yyh4K/co0VlnpfZ7E+YQrcnI4S3rATCE1EV9KPjciTDKge6YvUB/fYz37H+IFnwGUJ6PBA7RaVldrIkhSe6vs+U2ZAhBjFTIRrpudcF78QFh3TboQdt5KiBp3mvsAdcvEnAHgTh5vuOcGEYJ7dzgo+4/5Er8wv+epgmHehybiBkZ34yUbNredKvOhmgQgpP70w/vUXjTXnjCVYpv3iUjPKpajmVpgeHVVG6K3XDVeohGuWfH0N6T+uwuvOQqG9I1jg9Fc97AaNmEcO4csPap+ESAKBtEKBO4wAwdf211JobDMs=;yUTt90dDklcb5YMn0vC3Yw=="
 ---
 
