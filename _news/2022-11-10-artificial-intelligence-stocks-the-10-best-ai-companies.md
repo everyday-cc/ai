@@ -7,7 +7,7 @@ originalUrl: "https://wtop.com/news/2022/11/artificial-intelligence-stocks-the-1
 webUrl: "https://wtop.com/news/2022/11/artificial-intelligence-stocks-the-10-best-ai-companies-10/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 512
     height: 512
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities"
+    excerpt: "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now."
+    publishedDateTime: 2022-11-13T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5UXvKticxW4yb2EOdPd1J3sGQDOnjIwlxwJM3oXBmDxnZsnNoxvPR/35yHI1DHsa2UpOSQVaZg+fVYCDwi2QgzJbIIXKuEJlLxiQX+DMLdkurmgXx+Hol8zuPWya102RRit09xHxCv+X8JDUcZLNs/bQSNeEevODsop+clmHwuNtfmhzgx9nS9rYDas75OlpJXVIYWwa8yGvbcmnj2iOC+qX/0dhK9YmTZyWytslUrCaAlCsY/GB4L6Ul5nX1VzyrIMxeEE6B5p+w3llNxqGceIIuiOrPOH7qttD4mBpRSt7TYRyUGoE/x4JAjhT1Tacrm7Ii1xxG7RVziZPLZ0OYFlJOr7rLRIk80ZGrNh46k8=;CtMx6SGfAWTD1s88ssC/ag=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon unveils its latest warehouse robot"
+    excerpt: "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,"
+    publishedDateTime: 2022-11-13T16:26:00Z
+    webUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
+        width: 970
+        height: 546
+        isCached: true
   - title: "Amazon introduces new robot to do warehouse tasks"
     excerpt: "The robot is named Sparrow, and is a robotic arm that can handle millions of items. The robot functions using computer vision and artificial intelligence, and is the company's first robotic system that can detect and pluck individual products ..."
     publishedDateTime: 2022-11-10T00:00:00Z

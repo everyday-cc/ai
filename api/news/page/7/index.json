@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-03-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
+      "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
+      "excerpt": "OpenAI's new Converge program will grant roughly ten AI startups $1 million in funding and access to Open AI resources, including AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
+      "originalUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
+      "publishedDateTime": "2022-11-03T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
+      "title": "Dear Artists: Do Not Fear AI Image Generators",
+      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
+          "width": 1396,
+          "height": 1524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "publishedDateTime": "2022-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-todays-cache-are-taiwanese-chip-firms-decoupling-from-china.md",
       "title": "Today’s Cache | Are Taiwanese chip firms decoupling from China?",
       "excerpt": "Taiwanese chip makers have been investing in mainland China since the 1980s, and thousands of firms operate there today. Decoupling from China won’t be an easy affair, but the process seems to have st",
@@ -332,7 +436,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1036,102 +1149,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-listen-to-an-ai-sing-an-uncannily-human-rendition-of-jolene.md",
-      "title": "Listen to an AI sing an uncannily human rendition of 'Jolene'",
-      "excerpt": "Holly+, the digital \"twin\" of experimental musician Holly Herdon, does Dolly Parton's classic 'Jolene' surprising justice..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "originalUrl": "https://www.engadget.com/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/d9b47f20-5aec-11ed-97f3-720746f80e8d",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/holly-plus-holly-herndon-dolly-parton-jolene-ai-cover-204750236.html",
-      "publishedDateTime": "2022-11-02T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
-      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
-      "excerpt": "Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses, such as artificial human tissue for wounds and catalysts for new ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg",
-          "width": 685,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
-      "publishedDateTime": "2022-11-02T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

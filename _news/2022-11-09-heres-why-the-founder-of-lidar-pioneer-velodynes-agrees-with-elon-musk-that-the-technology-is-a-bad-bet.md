@@ -1,11 +1,14 @@
 ---
 category: news
 title: "Here's why the founder of lidar pioneer Velodyne's agrees with Elon Musk that the technology is a bad bet"
-excerpt: "In the long run, autonomous vehicles will likely use a system of cameras and artificial intelligence instead of lidar sensors ... Google LLC's self-driving car effort — now known has Waymo LLC — incorporated his company's sensors into its vehicles."
-publishedDateTime: 2022-11-09T15:37:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html"
+excerpt: "David Hall is the definition of a lidar expert. Here's why he thinks the company he founded and the bigger industry are doomed."
+publishedDateTime: 2022-11-09T13:30:00Z
+originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals
@@ -15,6 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "YYOmngLvrY1YqPXe4X1t7AdZdJ1tUOuM5fSK9t9NeirI/5veynjigD+JZt3jxFPXhOdYsQ9tHda0P16EmxL6IWxiYJyL5HVgg2WmdFAclkEuBFUojdd9e1goQbBJYd/eyOTPtiCQBAIwwapV/Btw71j1JWspYlSvelzVXOiYNaskQrwWmxbHDx0c900802zRtWT0ItGThThmbKk8GWmH6kvvbF9GijqAyUQvylKmIQ4vUPmOyQCuerqgqyFk+wBpWUQ3Y9ZNL3jRUALi0o75beiPJoiVL/cTeAsmN0anpksr+sw0M99gSwFhrG77KxU0RVhuhabxjiP6QyZxNb981pHmm7M/becQNfh2n2I9EN7XS5wVDVnu6ghsM6J4xi7WvcG0tgZNhr/gGgeV+8qKPO3WThQ6M7NfIAH7FGdlS08aNI2b7pszCA8aq7KGxfAVnxTg0RMeIrfnM550r5JiaZ6K/8aQcVAImEm9OAza8qdG7vpNVn1apqf2HwsJNXc0OTzHCt8c513uVMXpDUbchQ==;3D2pkzdOFSKYQUcKHvVuKA=="
+secured: "929DQUPReFFMxR0kEjA8txns//JLjuo1c2BK04v90P05uZemTtV4h2ZazQRaXWm4obfyQKChzTsEW/GclKYyUWMDLsqEu/tCfyDSRySqZd2qpQXZAlnCJ9GvFjwSza7jnp02FOsKHS9isoqxy4GcohS3QO6vGCKZOfrgpGd0eejJ90I1n/iJVgCil7xIFMub3M2bNZEt4YyGsygoz8/ixWCMAUD2IiPo9nqdlpX1a0tVc07pNOhrbssAAFeZCtyst2o+ljgArPn68AtQCOTbHsZEqXrtSmp9lgcdy00gV+OEP2fuRIy/CcWRsmkgtIMkKeCgRrh0nfIoAarav9j0gLmvlO/QObhrqKL50jEr6Pryi504RWx+B+t1qxQEzGG97hsKCZfNbyc23S2oEPIjBHnfAkb7IjEvttwu+l678Og7tgVcwS5Ja1owJpW6rqBfbzVePFA2ZSnK8mFv3YMsAOzB8QKYVpJ1IQ10UYFXhcMu3dDXWoAUgdf6lMfkcrV9IY8tToz9XINheUu3Foiu4g==;5oKxxYH+ZVipmC0dDeaksg=="
 ---
 

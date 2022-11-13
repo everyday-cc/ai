@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu
 webUrl: "https://au.pcmag.com/graphics-cards/97204/nvidia-cripples-a100-gpu-performance-for-chinese-market"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Nvidia’s selling a nerfed GPU in China to get around export restrictions"
-    excerpt: "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Nvidia’s note about not being able to be programmed to exceed the limits is important. Back when GPUs were in short supply, the company announced that its ..."
-    publishedDateTime: 2022-11-08T23:58:00Z
-    webUrl: "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 68
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/0ApsR4WiWJXetEg7ocJyHe01OOc=/0x0:1980x1320/1200x628/filters:focal(990x660:991x661)/cdn.vox-cdn.com/uploads/chorus_asset/file/19970190/2555435ebae590030837.15346566_NVIDIA_A100_GPU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "UUheCByY4QgOpSLcaOt9VS1O/MrrHwxdK9MoQtzkBcBwpwohogiJEPgzML9kYHiqBCT0xfF9jf5Om+AYjgXO7odRj+GGCYq4+NatkBBCvKjMlIPdeEB2gMRl/97ZCYxQ2M2pXpwkd6+yhcGkrIKHRSFdsWtrlPqdzGXsm8R+q8XtkY5zXqZ0PMkpmV9fWPL7Rf4id3zjwtR4smvj57YE52eo0vYI3j8LiO5q/OMDJNyGVmXfuL7SuwCOMw5QCKAXAl/T9NLI5wKX3s9a+XhEn3ysH8XuuRdHfUDRsL6t+HDs5tRlwvsAUloDVpuwpz7F8az+XQsIGFtw8SuG6RfTdd8qSPm0tveQOHjbuLELpiU8qjUqHn5FfgVWIkb1FiKolp+XCK6jkPohN0LnYQTWWSj2W7hIkU2EG2CWeV4KrzHWoqu6PBuzlchN99xO8+XTu4yhfVfCwfSuC2D8d+D7sTqk41J8mtZ9Q5pzraBJ6363XwGvZyanl09Tmx/RZEEc2u4CUyfhOhlezI41AKIFrA==;JRYcduBKB7ixFG4QzOmUbQ=="
 ---

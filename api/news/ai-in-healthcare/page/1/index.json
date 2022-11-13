@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
+      "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
+      "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
+      "publishedDateTime": "2022-11-13T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker.md",
       "title": "Artificial Intelligence Will Become An Indispensable, Trusted Enterprise Coworker",
       "excerpt": "Artificial intelligence is transforming global markets and enterprises of all sizes. Over the next year, this transformation will become a quiet revolution. Rapid progress in areas of fundamental AI research,",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1418,59 +1471,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report.md",
-      "title": "Artificial Intelligence(AI) in Healthcare Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share | 125 Pages Report",
-      "excerpt": "Oct 26, 2022 (The Expresswire) -- \"Artificial Intelligence(AI) in Healthcare Market\" valuation is Projected to reach USD 13240 Mn USD by 2027, From 2222.5",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -37,15 +37,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
-  - title: "Informatica Expands Cloud-Native Master Data Management to Asia with Microsoft Azure"
-    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, today announced that the company is expanding its Software-as-a-Service (SaaS) v"
-    publishedDateTime: 2022-11-09T00:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20221108005033/en/Informatica-Expands-Cloud-Native-Master-Data-Management-to-Asia-with-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-d0q77hRjGWvCunvqSsMC5PkKuEqWGdtYcKRejd3o8qMqnKfqP6Z7nZVMLG-WqUNUuIFBOuQU34x9_qUrqnb9IFt3G9xeKEyIFKgj2nxZILuWb2_mZzaa2HVGkrPJ34F1Q=="
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 27
 
 secured: "Pvuzoo8raMoZ6REj5OyLK0AldK0Iq5LqVv3KPk4xtDW1DqmEsyASjmNLVi/7bz8WxQxxOwpdykuMTSxKDWgCTs1KhMAfxm89RKMAyz2AculkVRdZjuWKfDq+SCKTew6bN6copestYIbPT+RiZ2kUIfSvlTZ+EibVCqP6ko6rtt5NAVKwMH5M6FbSlttGTbUwz7ahJe8dw3ifo+jo0QU+7yBOCecD8KM8OZZM0zDSU6MI5kx4m8cEJKO5mkKptGvZMf0zvJumeCbAmsNp4R7oSr9ziIMMjgGoOuy8JM0j7Di+S07Xdz4Wf+PUPWwhCx2GIz71qJBc4ObJuMGyQKxG3xHUFOv0VzbkkEwrCzznfCFLFhMvB8wBKncPN2b6Ih30GBBtpKb2tHk/glR3ZQwh8XlnEsamNN8OmGqXkD89fVIA42STyXZ4+qQJhAB0RyDpCHt6Xn7zN5zN13T+dRMcw4lQo2/JhexoGDhGmKw2Df4C8JQGtIGr3/Mid+uQqe8PO0ryDSxTgIW6SUC/3B7x+Q==;ZePhz45cH4zA+mjAZMDnjw=="
 ---

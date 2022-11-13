@@ -1,11 +1,14 @@
 ---
 category: news
 title: "Hucu.ai Joins StartUp Health Perks Program to Help Health-Tech Companies Achieve Health Moonshots"
-excerpt: "The StartUp Health Perks Program welcomes Hucu.ai with exclusive discounts for fellow Health Transformers. Hucu.ai joins leading industry vendors across cloud hosting, software, finance, legal, marketing,"
-publishedDateTime: 2022-11-11T16:04:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/11/9711556.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/11/9711556.htm"
+excerpt: "Hucu.ai joins the StartUp Health Perks Program, alongside existing vendors including Google, Amazon, Microsoft, ADP, Twilio, Hubspot, to easily connect and partner with other StartUp Health portfolio companies."
+publishedDateTime: 2022-11-11T17:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,19 @@ provider:
 topics:
   - AI
 
-secured: "FXjMLm8VEuPR3SSy19KGXsV90o5i0BwEe22RzAhUrJAsNxVH6XVwvai7hCCeqODtS6xuv+Y9sPUGRAcFR4kIa5TtPfiQUWTDcY2P0Ol1Fiaz3Zr5uSRyeALnpiQriW0yefv+W+tlj9E2E38avo8xnCKvd41KRAizxOGsEsfbfT8W6UZdG7/40+oFyHizN5MwyfDUuseEIaXnVB7Yv3XZjdheY0i57QXoVblltU0BbFXDq69n8PNIQbk1SitcYVkF9E+O/jB4I4U9KHaQAkwtbb3mTT/nK8popMeBRcp1ij/S7ORNorly/WOoM37pnJ1gMwLhBATxNcL0WYtoraJ4AntPwS2SMGai2QaYK3XZeZk=;NPGk8I4LLhwuuOAIZgZ1cg=="
+related:
+  - title: "Hucu.ai Joins StartUp Health Perks Program to Help Health-Tech Companies Achieve Health Moonshots"
+    excerpt: "The StartUp Health Perks Program welcomes Hucu.ai with exclusive discounts for fellow Health Transformers. Hucu.ai joins leading industry vendors across cloud hosting,"
+    publishedDateTime: 2022-11-11T15:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29682477/hucu-ai-joins-startup-health-perks-program-to-help-health-tech-companies-achieve-health-moonshots"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29682477"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29682477"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+
+secured: "236SmeR/KQGtzyTtfQbDAV75dO1LxhmISZYlh8mcCM2R1Vl1foVbvtbPZfolMVwcSUHQZrW2kLHiKU0qfS3hJ4S2lYCvNWfqUDzak4UeEs6iG4zRDbwzxMnTnkACeZirPC9mCE2kCmre7wPdcANTKXgh809gJcrtXvUFnBClyRXkGmbuwBijvLo3PSrzHkQkpvAsgmF+uEejS6qO3MgZCwbAv126MeOyiuB2ggm/G+FIFHo/L1fDWkDnj1WDZy8Pwc+tw0pdgFzt6/P1JKf13EKhJuD7Rtk/L3fnjZCc+IJNH3WeZuWR/6fmyELKfKjHrMEf19tatXmIr1TQD+arLs4I70nlcyeCq8j4YjtD9Dc=;i71f0quBShv/59oLmLlsMg=="
 ---
 

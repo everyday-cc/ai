@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Amazon introduces new robot to do warehouse tasks"
-excerpt: "The robot is named Sparrow, and is a robotic arm that can handle millions of items. The robot functions using computer vision and artificial intelligence, and is the company's first robotic system that can detect and pluck individual products ..."
-publishedDateTime: 2022-11-10T00:00:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-webUrl: "https://www.upi.com/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
+title: "Amazon unveils its latest warehouse robot"
+excerpt: "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,"
+publishedDateTime: 2022-11-13T16:26:00Z
+originalUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
+webUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: UPI
-  domain: upi.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdnph.upi.com/ph/st/th/1411668123540/2022/i/16681244192735/v1.5/Amazon-introduces-new-robot-to-do-warehouse-tasks.jpg?lg=5"
-    width: 860
-    height: 576
+  - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
+    width: 970
+    height: 546
     isCached: true
 
 related:
@@ -43,19 +45,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon unveils its latest warehouse robot"
-    excerpt: "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,"
-    publishedDateTime: 2022-11-13T16:26:00Z
-    webUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
+  - title: "Amazon introduces new robot to do warehouse tasks"
+    excerpt: "The robot is named Sparrow, and is a robotic arm that can handle millions of items. The robot functions using computer vision and artificial intelligence, and is the company's first robotic system that can detect and pluck individual products ..."
+    publishedDateTime: 2022-11-10T00:00:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
+      name: UPI
+      domain: upi.com
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
-        width: 970
-        height: 546
+      - url: "https://cdnph.upi.com/ph/st/th/1411668123540/2022/i/16681244192735/v1.5/Amazon-introduces-new-robot-to-do-warehouse-tasks.jpg?lg=5"
+        width: 860
+        height: 576
         isCached: true
   - title: "Amazon enters the age of robots. What does that mean for its workers?"
     excerpt: "People have predicted robots will destroy the labour market, but Amazon believes investment in robotics could create jobs"
@@ -74,6 +78,6 @@ related:
         height: 372
         isCached: true
 
-secured: "RckiJXVvtg2DQ28yBLuHgnE8szvtz/MIFYdE8RzCHAa7PUw0LP8nPIv9G2z5LhOg4/ntc1KYtgEL10rx6mo49ElTqGZgOZ1aa0CxBlpbwtmLGHSkCJYm2P5lJ3DnmplkbP+yfzT6APMQlU5IRDgig6RK0gyiCMS791X3zXOISHaNvWdZOYbiThHqk/LHVufuTiXGNlf2eaRhcU0e+ZlvOs9NaNzhTYGxCY4oYmzVurbYDD19gSrc03uugnMOMSETW3JCOyPY5c9fo/wK/J3McklX7BkngYoAO3ai9sH01bkzTeSPSXR7zZPPCeZ27gCCdYdYSQpu5mB2ZZ/8/BY0HZcnoyMgCIVu/iUwuxInLxo=;kxPVgqs13huxeSjtS/ZQVg=="
+secured: "ovwoy4n4kYz8Yis4TPubdBhy1d5S0R4H35qvUr+5xGEgaduXTmzPCuRvw+0/qwB3vLofcOUT1MufKHOIcjt1iT9uo8PQTBIjvg+lqcXN1SYcVtoCah2yBbXlWDqU7E6mcz+e/WvOLIdO7Udj2ekXwf6+07F9rEREofIcx2hI5gsLG7LtbC6hjT02l3QKWdXVz3XQxCJBW5wkhDeGIZeAjztPjX6mW6At0HzhatRusZEGfP77OrRPLojWpREXQutfFMhLFaGgS0TMcFOA/zgfI/YdpgMv0spzNRuDB+kvSjL8GWGjYaX163E9RcjDPLiQNvkgxP+dJGRB6zOdw9A0QVIseXiWDYJ1aef4knUVi2s=;+0KQTLXfK4kU4JXymXUXZw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-12T16:06:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
 webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

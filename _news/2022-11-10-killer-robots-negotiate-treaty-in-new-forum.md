@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T15:09:00Z
 originalUrl: "https://www.hrw.org/news/2022/11/10/killer-robots-negotiate-treaty-new-forum"
 webUrl: "https://www.hrw.org/news/2022/11/10/killer-robots-negotiate-treaty-new-forum"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Human Rights Watch

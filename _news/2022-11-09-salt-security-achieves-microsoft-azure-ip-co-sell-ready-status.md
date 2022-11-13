@@ -38,15 +38,6 @@ related:
       name: iotevolutionworld.com
       domain: iotevolutionworld.com
     quality: 34
-  - title: "Informatica Expands Cloud-Native Master Data Management to Asia with Microsoft Azure"
-    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, today announced that the company is expanding its Software-as-a-Service (SaaS) v"
-    publishedDateTime: 2022-11-09T00:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20221108005033/en/Informatica-Expands-Cloud-Native-Master-Data-Management-to-Asia-with-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-d0q77hRjGWvCunvqSsMC5PkKuEqWGdtYcKRejd3o8qMqnKfqP6Z7nZVMLG-WqUNUuIFBOuQU34x9_qUrqnb9IFt3G9xeKEyIFKgj2nxZILuWb2_mZzaa2HVGkrPJ34F1Q=="
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 27
 
 secured: "qofSvJC0aPJeKizG/idQ0Xv8C9apK8pONxvB7Pz/CAxjmowgNjKon7hOqJz/ZfsgY6ZtWcw5Aa5y28JuwiHRRgJlYCg1ghhklz2TYz1Itjxt1l60nASgYWL8IbFazaZV9c+FHcLi0PTg8qQTtuvoTyaOO7HUH6g0vJLpmUkuNGeiZn9jx+qVdoasErN0bj5nJiwjYRgtvBPARqFaFZ4umYPwd0rXFGIpk1+AtoZGbeuXbpuxq+PUUIRuvlhDfSrWnOJh40kW/PJMgtTcDiycGPproYtdD0Cb0oxqOKnFsZ55rkooav5BmMr5o7tUF1aoamem4J9J/ESRw6VBCb8E4aEgphcLO0Jo/Jt3hpgk/eg=;VdSnb4hb786gDuK+xiSItg=="
 ---

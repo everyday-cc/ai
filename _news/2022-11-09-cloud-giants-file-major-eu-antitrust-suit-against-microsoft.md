@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrus
 webUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: iotevolutionworld.com
       domain: iotevolutionworld.com
     quality: 34
-  - title: "Informatica Expands Cloud-Native Master Data Management to Asia with Microsoft Azure"
-    excerpt: "Informatica (NYSE: INFA), an enterprise cloud data management leader, today announced that the company is expanding its Software-as-a-Service (SaaS) v"
-    publishedDateTime: 2022-11-09T00:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20221108005033/en/Informatica-Expands-Cloud-Native-Master-Data-Management-to-Asia-with-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-d0q77hRjGWvCunvqSsMC5PkKuEqWGdtYcKRejd3o8qMqnKfqP6Z7nZVMLG-WqUNUuIFBOuQU34x9_qUrqnb9IFt3G9xeKEyIFKgj2nxZILuWb2_mZzaa2HVGkrPJ34F1Q=="
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 27
 
 secured: "GwC5dlpVDpTv8m9tCpnitKKbCBUhslkpajRxpQ1dOBRylJqMjHixp1FuXUlf5SC5EdIGFWThX8psGghKmY2E+x5LOnaJ+yqd5DtzMonE70g51hRPdv7A1nExD0CqX3Rj7KyTl24I3+wxGZ7LRiuCJAU7EQLGBfB60XWutav0KUPa6n2axHb+A8oewg+IAU584fTmBDBqtiPXUTQLFGwdaYP9I/WKopKY9NmgBhlLm9OfVGP3dSV7OG1TQokmHFLKzu0WkibQ2lniytNmine5XijeXpCsqUvEyDCq7XCfPI3Ceky8CSNdAqz6kvngGtD+k72D/3b+u8hTaCKKUNfZ4VP2zGwqroMFnnRhbc7Fnmg=;LWnSTE16p6PT/WyZ2rW3nA=="
 ---

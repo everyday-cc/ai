@@ -411,10 +411,10 @@
     {
       "path": "_news/2022-11-02-zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting.md",
       "title": "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting",
-      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
+      "excerpt": "Zest AI plans to use the new funding to rapidly expand ... To learn more about its Discovery Fund, supporting diversity in fintech, visit here.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting-1031864078",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting-1031864078",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -422,23 +422,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T06:45:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29521634",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29521634",
+      "publishedDateTime": "2022-11-02T06:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

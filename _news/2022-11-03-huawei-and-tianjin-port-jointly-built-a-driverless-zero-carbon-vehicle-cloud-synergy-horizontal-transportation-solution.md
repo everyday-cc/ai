@@ -5,6 +5,8 @@ excerpt: "Huawei and Tianjin Port have jointly collaborated on a driverless, zer
 publishedDateTime: 2022-11-03T10:24:00Z
 originalUrl: "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”"
 webUrl: "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-%E2%80%9Cvehicle-cloud-synergy%E2%80%9D"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-%E2%80%9Cvehicle-cloud-synergy%E2%80%9D"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "/L5jR0tPMlEsH3u333H9EQMlkejGGz/r7Kpt6WEM2Mmzau45fGnI+iZfynttzT6x0tycztFI9f38bKCfh47JH6PJh22CHj5ZuAzMiYI43uTOzrVu7ZgEHl5qYpCti97GRWbYqtXUdWQ4gfwODt5AED9niQvMkwVvXnkC7yea02dyxcD4Z4GESiJx2e/HH9tPLwtqzzxAayk4CVtwg9E/DI8IKy7jh4oaoHTMIOY5b7afRibRoAfu9SlVtaPstXvvLBIMlQ6oX9kMmQJS/hPNa4bExLcDl+2kho+g755MNw3Xhd4NPMOGKZbiSxVoY+4DdYKaUC7gV8tHw3ErlyNLi5qDNgiWjhHyEhDNzdocvmE=;DHre3zGfbfFpWhPwXWgBaQ=="
+secured: "C2EqQ+zYOfvRv2pLrz47S05hMNBThbh3ad6vaDYtYSzujZX4vshUIHbXZSItAtd0WeFQUFten8yng5m728Y64eRJwm7KvYWG0DhhJHar3OGnBV+wok/J6GCsirU97sXqe4W4eCjChxTvwqo4xM7w25Q465qUsgadyh8u8ZSNSt58ptl++3b7dzYU2Ci+g7+VaKkSGTpDr468RBazhZuU+/wjNG17eA/ae1rCyELhCcXJv3cDTk1dE3wBHF8aLWu5OsL8kwdrA1LliaN3v8zyECntOt0WdBDjvSkiuGSTRRCKhLKgzglphcQ0ibRosu7A9U9//EYh+tg+CeqtIif/YGw1nUPsSlxAG+sn/MqRevQ=;aJ1K4SVEyAGMidIVQ6h0MA=="
 ---
 

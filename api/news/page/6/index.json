@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-04-samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company.md",
+      "title": "Samba TV Acquires An Artificial Intelligence And Machine Learning Company",
+      "excerpt": "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
+      "originalUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects.md",
       "title": "Dataloop Automates Data Management and Annotation to Accelerate AI Projects",
       "excerpt": "Dataloop, an Israeli startup, has made the announcement that it will offer businesses a complete platform covering every stage",
@@ -327,6 +370,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-peter-rhodes-on-clothes-pegs-driverless-trains-and-keeping-an-eye-on-our-reservoirs.md",
+      "title": "Peter Rhodes on clothes pegs, driverless trains and keeping an eye on our reservoirs",
+      "excerpt": "Brainless project meets driverless technology. What could possibly go wrong? Meanwhile we are having some of those curious periods when, according to excited weather forecasters, we get a month's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressandstar.com/news/voices/opinions/peter-rhodes/2022/11/04/peter-rhodes-on-clothes-pegs-driverless-trains-and-keeping-an-eye-on-our-reservoirs/",
+      "originalUrl": "https://www.expressandstar.com/news/voices/opinions/peter-rhodes/2022/11/04/peter-rhodes-on-clothes-pegs-driverless-trains-and-keeping-an-eye-on-our-reservoirs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express & Star",
+        "domain": "expressandstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1050,110 +1127,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
-      "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
-      "excerpt": "OpenAI's new Converge program will grant roughly ten AI startups $1 million in funding and access to Open AI resources, including AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
-      "originalUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
-      "publishedDateTime": "2022-11-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
-      "title": "Dear Artists: Do Not Fear AI Image Generators",
-      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
-      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
-          "width": 1396,
-          "height": 1524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
-      "publishedDateTime": "2022-11-03T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

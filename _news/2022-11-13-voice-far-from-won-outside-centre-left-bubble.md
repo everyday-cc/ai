@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-13T12:30:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/voice-far-from-won-outside-centreleft-bubble/news-story/2908f51081d2b6d7d5f0716809c31f6f"
 webUrl: "https://www.theaustralian.com.au/commentary/voice-far-from-won-outside-centreleft-bubble/news-story/2908f51081d2b6d7d5f0716809c31f6f"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian
