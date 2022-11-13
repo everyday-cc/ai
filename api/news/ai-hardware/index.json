@@ -531,6 +531,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-08-what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three.md",
+      "title": "What advantages does Taiwan have in the era of AI and smart vehicles? Kneron's CEO points out three",
+      "excerpt": "With an increasing demand for customized AI chips, such components cannot be produced in traditional supply chain models. Both edge and environmental computing also require AI chips with high ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1937823/image_5018046_24751601.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules.md",
       "title": "Nvidia Has Advanced Chip for China That Meets US Exports Rules",
       "excerpt": "The chip was developed after the US government told the chipmaker to restrict sales of a chip designed for AI applications.",
@@ -927,10 +979,10 @@
     {
       "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
       "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
-      "excerpt": "SiMa.ai CEO Krishna Rangasayee poses for a picture with his machine learning system used for processing video and images for security cameras, satellite images, drones, industrial robots ...",
+      "excerpt": "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/chips-automotive-sima-ai/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive-idUSKBN2RT12V",
-      "originalUrl": "https://www.reuters.com/article/chips-automotive-sima-ai/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive-idUSKBN2RT12V",
+      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
+      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -949,7 +1001,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T06:21:00-07:00",
+      "publishedDateTime": "2022-11-03T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -972,7 +1024,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI",
         "AI Hardware"
       ]
@@ -1384,59 +1435,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ais-new-creative-streak-sparks-a-silicon-valley-gold-rush.md",
-      "title": "AI's New Creative Streak Sparks a Silicon Valley Gold Rush",
-      "excerpt": "Investors have got the hots for \"generative AI\" that can make text and images. But so far, the hype runs ahead of the business results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
-      "originalUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/635a221f93ea9ed771dc5180/master/pass/Business-AI-Generators-Stephanie-Guo-1177538357.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
-      "publishedDateTime": "2022-10-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-13T19:45:00Z
 originalUrl: "https://www.financialexpress.com/healthcare/healthtech/precision-diagnostics-making-ai-enabled-cath-labs-in-india/2809951/"
 webUrl: "https://www.financialexpress.com/healthcare/healthtech/precision-diagnostics-making-ai-enabled-cath-labs-in-india/2809951/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Financial Express

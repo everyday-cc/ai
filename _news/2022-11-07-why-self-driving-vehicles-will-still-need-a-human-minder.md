@@ -3,8 +3,8 @@ category: news
 title: "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder"
 excerpt: "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed"
 publishedDateTime: 2022-11-07T14:12:00Z
-originalUrl: "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard"
-webUrl: "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard"
+originalUrl: "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922"
+webUrl: "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "tbG+qipKGCdhrftmY/T2857Ol6wFRTUXQLeyZDMSE/3diDy+z/nFoLSVOpUHhnWDU+LlQ51ZALM+RVkcJrFEAVedUUMZXS80IkYCSliaXLpnzxvIm0zFHDNmG/7E03zbdcvppC9Hd47D9VUS+1b3ZjCVe7eQPs4H0/56xi+Ydc8Yvvvt1Bf5kKJq2tm5Bogspb8bWNJ4xOSpg/wAQRVYo8Vj+pxUBvJPXsIDCybT7WpsFFhLVQqizzvAyXLssuCGlwc22Ww2/etFJAuDeyVGQFxosRES5cnh+szLMrQfeq9zpQyGuod6i0JR+OLhOP51If8MAAfM1PD1e9s4lOOCTnKacYTqjiNT8HJIGjF9XK68y1xEkasNmVxk166tJhsDd9tKQ2c8qn1j9NAe2sN+eWWYQ/2pBd3o2YMgaR+y58EmVxmJlGV50pVmrzUauG3ezqeEe5Hn7q55oMnKFftULxpoSEaTEYIJupQVIEEPB8P/+sM4vA2mWdfnmQDEXsor4SMXIsehusrPxG/nOj79Mw==;l+eBWj7ZOIZRjvTgGM+uFA=="
+secured: "tb/ckBjB9v4L3CLXdKl1z1p8L3Ry6XWWyaFf4jw5zhqSQ26ZPAZ6vRMafTjHpjBrNPPL82BHz4nXs7m9RFtxxmI8ApgkiDaj0YsnMe9Sasv8sApHu/SNAXtO7QH0u4g10a3/mrY6FTXgbLEVRRvA5QvvpRWy0+JJbXZGra+QSX3junBfexFGPlNyprrLkv4URQud8gUDOfGR5t8Nab0micfjZ5ald6cH/GCZzl2YWkV4Q7ncDt89fBDzf66b6nM24mH+jbxnGOI/UmI7WNuQww5q2QN0/tOoSJ5FCeJ3DJn92yJNnRfb2+hQTMTvhZw9T8XMOIoG2gPk3BL2C6HyFekBrG+aQYv/WkKqtCXDq40=;K8dsEinvEQmq+PcjxkiOTA=="
 ---
 

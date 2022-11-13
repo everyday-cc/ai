@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2022/11/10/using-data-and-machine-learn
 webUrl: "https://www.cnbc.com/video/2022/11/10/using-data-and-machine-learning-to-help-companies-recover.html"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -24,47 +24,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Deep Learning Camera Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "Number of Tables and Figures :128 | The global \"Deep Learning Camera Market\"size is projected to reach Multimillion USD"
-    publishedDateTime: 2022-11-09T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08"
+  - title: "Overcoming Challenges to Deep Learning Infrastructure"
+    excerpt: "With use cases like computer vision, natural language processing, predictive modeling, and much more, deep learning (DL) provides the kinds of far-reaching applications that change the way technology can impact human existence. The possibilities are ..."
+    publishedDateTime: 2022-11-10T13:33:00Z
+    webUrl: "https://insidehpc.com/2022/11/overcoming-challenges-to-deep-learning-infrastructure/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Modern Warfare Market 2022 to 2030 Research Methodology with Top Countries Data by Leading Key players"
-    excerpt: "Global Artificial Intelligence in Modern Warfare Market research report covers complete data of the various segments in the Artificial Intelligence in Modern Warfare market study. The assessment contains the descriptions of the market dynamics,"
-    publishedDateTime: 2022-11-10T19:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-modern-warfare-market-2022-to-2030-research-methodology-with-top-countries-data-by-leading-key-players-2022-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Insurance Market : Global Opportunity Analysis And Industry Forecast, 2021-2031"
-    excerpt: "AI in Insurance Market . AI in Insurance Market : Global Opportunity Analysis and Industry Forecast, 2021-2031. PORTLAND , OR, USA, UNITED STATES, November"
-    publishedDateTime: 2022-11-09T18:07:00Z
-    webUrl: "https://menafn.com/1105157641/AI-In-Insurance-Market-Global-Opportunity-Analysis-And-Industry-Forecast-2021-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/09/EP_e9c98image_story.png"
-        width: 986
-        height: 516
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
+        width: 690
+        height: 460
         isCached: true
 
 secured: "F5YVZX2c+Y86OnfZqKdc4wAbyJxiJPHdvvHDPI9DBMqUFhLBrU/PEOXDLXzekS7OYL/WbyZZoZi8vsUKYAa9OCBVcChwGuifg09qY9jKpEQnHTYdsB6yS1rD9Z5sPExaJ1DHUOid3SY6xip5JaEDSpWXXDjXRXjbatbF8kcU4aBuTTty3r4/PjaijJRkwUFmgtUWTP4hyD92Hr2e+gERIYL8/BKqM3Jo/6eo0FDbLJ0C2jh5uoXv0Yg7nOmGaad68MjdY2Y8hYJLdmzCuPI498/sfg2oyPyf4ldAVmTFXE/2ImAR+fxAxfyVnO/RfnlTFp41shztsbkyjwGsymdX3UCqRlcrV/TUmtPraSU50C6ZsbtUnUpK0bqNgi8QLNjObF9g4NWo3Y2J1pJ9dXjotBSuTvkFis2x1adV3AhSrw9UamKZz1f9T7stgnj+viy8DokXVEEHigPhOhFx4b0ww1cyJp9vN4LwSfjxDTPEDs1ssg+9V8noRnS+g6GUems6lKQ3stymAk99ZlAVyxDP5w==;hMKidFqPgK7YFVotLZfcNQ=="

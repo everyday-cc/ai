@@ -35,17 +35,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Waymo, self-driving ride-hailing service, now available in downtown Phoenix"
-    excerpt: "Waymo, a fully autonomous ride-hailing service, is making its official debut for residents in downtown Phoenix."
-    publishedDateTime: 2022-11-12T16:28:00Z
-    webUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix"
-    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 52
 
 secured: "SqY0LrEQ7DEHJMv9wUPrdRQh9c+TpP2jY2B+9k0s4waJTg80lgP1FcJHmfDriMadmY1A9+5KwGXElRD+YAhoufOEKhNmUjHqfSg4hseEnHL30oz/Il+nEV8Qd6derR92lDqhZcKbR/IhMKN3rUW3HaVFWGiru3nYwDgQ+186srTeLMnZMhbMD/pXAPZrrMy6lWbglz1POKUWR+vTQQH7SgrGoAtipwnfgC1pQ4N9BMyQTiPcU3r/IMb6m8sfANLtqBrG5gAAuzYpKFA4dbb3Su8cBE5pNNO8J4Qg9R4PDGcumGhjv++ZssU7OO/CcPYZvT9nQzxFKmLJMkDyG3gA14/lBqiE3ktko+KGaKQyVWWZttQuzxalPygybkNjmRq7YZ28tkemzi4oGFJelQGkSTavo+r1u22CBHyDfEvHMeJvz0s0a2312x9fnNwV/oit5a/WHbo/pfdO8bUXBsoTGXE1yGu9ZSO6HNaZn2cZlQX5vUMhcKa8qUUrMz00KdG/qwkCeyy72z9sFsCa9HfhMg==;4WGInypVfLWqYaTHJeuelA=="
 ---

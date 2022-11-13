@@ -30,14 +30,14 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 0
-  - title: "Global Artificial Intelligence (AI) In Medical Diagnostics Market Report 2022: Evolving Industrial Iot And Automation Technologies Boost Sector'"
-    excerpt: "The report has been added to ResearchAndMarkets.com's offering. The global AI in medical diagnostics market is projected to reach USD 5.5 Billion by 2027 from USD 1.0 Billion in 2022, at a CAGR of 39."
-    publishedDateTime: 2022-11-12T03:00:00Z
-    webUrl: "https://menafn.com/1105170658/Global-Artificial-Intelligence-AI-In-Medical-Diagnostics-Market-Report-2022-Evolving-Industrial-Iot-And-Automation-Technologies-Boost-Sector"
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market Report 2022: Evolving Industrial IoT and Automation Technologies Boost Sector"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, Neurology, CT, MRI, X - ray, IVD), End User (Hospital, Diagnostic Imaging Center,"
+    publishedDateTime: 2022-11-11T23:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/11/9711641.htm"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "TPQqWfHpBbkxIRBT5hnI9wmHAGowNgKHcuwavdgd7BxvfAZtfbWQOlQHtHJKT0WgVrAS1jDzHsUt+hJRkXR6gcT2LVOeVotkFWoSM2W4276ycPxmTvK1pFZ+9u9/izS2UdbMRGw7D1YLojQL7EalSARYmmJ8K+r2ZAKfWXYebTm3gKf8quEHBEWOxKgTQ5zy6t62DmCfL9Oj0F7RTic5Wmi5uhNxy+qTMB73m2W1M4i8Mg8Xne9M33q3irYeLso9xl1BU4kVZDE3e5P/MjSvvoXOb6YSOybh4qHBHfbl5vjlkA0I5HJLMUhNDZuB8KzOfZkoWDkcRWspgCHe5TwhX4010vGZLpaRmLgphJYdoXs=;TSAL/o7WVw75Za5e7N2LPg=="

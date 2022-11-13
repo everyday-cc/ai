@@ -1,20 +1,19 @@
 ---
 category: news
 title: "What advantages does Taiwan have in the era of AI and smart vehicles? Kneron's CEO points out three"
-excerpt: "PRNewswire/-- This article is based on an interview undertaken by FusionMedium's technology online media, TechOrange, and published with permission:"
-publishedDateTime: 2022-11-08T07:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29608073/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29608073/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three"
-ampWebUrl: "https://www.benzinga.com/amp/content/29608073"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29608073"
+excerpt: "With an increasing demand for customized AI chips, such components cannot be produced in traditional supply chain models. Both edge and environmental computing also require AI chips with high ..."
+publishedDateTime: 2022-11-08T09:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482"
+webUrl: "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -26,6 +25,6 @@ images:
     height: 267
     isCached: true
 
-secured: "PV6rj0iCuw43I9X2234Wcpgqq9pux9O9ndvoFYjUsTfYJ5CVHbCJXbQGZph4pqxxG/6/Tf0Rd7sXDEwxhlibMxMcr7Iu4m7BpNCJih2JPcm7BMFYruBLCYRUzYxRxoBz7tleY0b4pShSP+t9QqegaH9jzR01xIvfrVYiCLFsC6TVSG3SVdFRPGjlrqpuXrnyktin9QcE+4nwqwLXhqBJK3fOAIZFqR0YpIuUuvqTgz+g15trcNDjcUGoawnEuiAwYRPP13U4RL4LmsQBCUqZ+a2tQtyfWMjc6jxH6BSV4somgVNRBQiovf5MMecqi0I8ASn25c8GBvigejIqZQXngUgTf0o71WOPKwPNiEhNcYE=;xh35/zieSzLRlKy/0rmyxA=="
+secured: "fP0/8KikaJ0ftK0TXXt3koafqLZhNNTc8eISpLqneQE0EaJ4qG4Lm2wir1t4CVHNFafiqt5PSME54V8F4lC2K/HvyxEbheSR5MpS7m7hf3BYUthYOhWgu1nl5Tk7/I6D/oB6JjCs2fzhLIHr6w4mTeXWWDZ/Yh8Gl20XubN2acMoT2NyBmnASsHbyJPqcezRDhktlfNfQrAXeF1DHOa78YQV1HKMAbRjs612zb6wvy7HWdXmqe5XotRRO6/moU836A+0jxgk11kWcxUpjdi1VLaGs166knnzDHEInZ+oLlPoJ9rnfcJcJzP6tVamWLUQZ//nsiuJnM6IV7zK6PyztQ9saG2Xs6Jx/duvH3HPgb0=;CxPZoEA0zStWL2Y+ay2AEg=="
 ---
 

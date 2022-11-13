@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
-excerpt: "SiMa.ai CEO Krishna Rangasayee poses for a picture with his machine learning system used for processing video and images for security cameras, satellite images, drones, industrial robots ..."
-publishedDateTime: 2022-11-03T13:21:00Z
-originalUrl: "https://www.reuters.com/article/chips-automotive-sima-ai/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive-idUSKBN2RT12V"
-webUrl: "https://www.reuters.com/article/chips-automotive-sima-ai/ai-chip-startup-sima-ai-launches-auto-business-with-former-bosch-mercedes-executive-idUSKBN2RT12V"
+excerpt: "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ..."
+publishedDateTime: 2022-11-03T13:09:00Z
+originalUrl: "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/"
+webUrl: "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/"
 type: article
 
 provider:
@@ -16,7 +16,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
   - AI Hardware
 
@@ -26,6 +25,6 @@ images:
     height: 628
     isCached: true
 
-secured: "W9SKLGkUbbL1nHSfnQJoOKACswnyv5HeF6VvmxX+NThONM1oX26c0oPRD5UCfj384SskgZ/tr/er/fcY9/1L+bvj7rjb7hlj7VeMzQ0tA4P1kU3j9jiTsknkUM7Z5jPCHpA5H3PWdt4kG4qoUOQ2642dTVmLHOZY4T/idmZ497X4BB2py70gOc0VZiFSrSWN7/tIiPNlz2CopjnSsFrDnXG7dIIKPZLNWdYo2fD1qRYgn9UP8yAg36i9z/RK9YLiqMzyf9G0hBe+bmgQzt02su/Rvmrfdu1IAjtHe2sE9jLMLJnbbJZwL36PrXOURzRG/zYQy0AKEyDOsQS3tsuRqEVcdXxsnNWgjqb+EepS0Uw=;pY+AP32fY5WTfO7waalCZg=="
+secured: "pfDACoAs6CsbSxN0YNG6yGfpZI0Al8V/i+c590LApTQiGriLOZelNp0E1qNi30mmhrf/2aSMWkIXeujZLgIPHUJ7BylHl7HJUqKX+KczB/KtguT9H1veBQW380v3aUOofGfmVD0QvoafkDGxW/g3QX0GzcO/JSXxg0BUDRVwGklGmfxriUkEWA/WW21APPB5PsZyJTWZGQoiLqhCN2rqxegtHM/6+e99CWPydDEnX6PxsMIuvdtiRGkuMlT2xz/oInAUN1u3IoSixIu7vpcHw6zuDj9UtYo3IZpXkuF30+7b7q0l1PFQcuRTYmPDXTp0bQfPbIxctAVLxMnkDCkxIukqqc0r1BCc4Hm/c9YB7BA=;rkBH2UqMSw+KeBaZOlqf6Q=="
 ---
 

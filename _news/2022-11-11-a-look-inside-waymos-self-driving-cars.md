@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-dri
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: AZFamily
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo, self-driving ride-hailing service, now available in downtown Phoenix"
-    excerpt: "Waymo, a fully autonomous ride-hailing service, is making its official debut for residents in downtown Phoenix."
-    publishedDateTime: 2022-11-12T16:28:00Z
-    webUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix"
-    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 52
   - title: "Waymo One’s Shift to Full Autonomy Only Confirms Uncertain Future for Self-Driving Cars"
     excerpt: "Automakers have spent more than $100 billion on autonomous technology. Yet for all that investment, the self-driving car seems farther away than it did half a decade ago. Find out more at TheDetroitBureau."
     publishedDateTime: 2022-11-11T19:14:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-sto
 ampWebUrl: "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/"
 type: article
-quality: 106
-heat: 116
+quality: 110
+heat: 120
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI in Robotics
   - AI in Healthcare
   - IBM AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200"

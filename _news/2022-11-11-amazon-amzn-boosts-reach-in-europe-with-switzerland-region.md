@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS Launches Infrastructure Region in Switzerland"
-    excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
-    publishedDateTime: 2022-11-09T06:51:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/09/9709024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AWS Launches Infrastructure Region In Switzerland"
     excerpt: "Using AWS allows us to innovate quickly and access machine learning technologies such as Amazon Rekognition for image and video analysis that would otherwise be unavailable to us or too costly. The new AWS Region opens up new opportunities for us to serve ..."
     publishedDateTime: 2022-11-10T19:29:00Z

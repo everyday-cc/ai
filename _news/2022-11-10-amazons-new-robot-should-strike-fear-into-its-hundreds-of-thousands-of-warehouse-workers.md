@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-released-warehouse-robot-spar
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp"
 type: article
 quality: 80
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon unveils its latest warehouse robot"
-    excerpt: "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,"
-    publishedDateTime: 2022-11-13T16:26:00Z
-    webUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
-        width: 970
-        height: 546
-        isCached: true
-  - title: "Amazon introduces new robot to do warehouse tasks"
-    excerpt: "The robot is named Sparrow, and is a robotic arm that can handle millions of items. The robot functions using computer vision and artificial intelligence, and is the company's first robotic system that can detect and pluck individual products ..."
-    publishedDateTime: 2022-11-10T00:00:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/1411668123540/2022/i/16681244192735/v1.5/Amazon-introduces-new-robot-to-do-warehouse-tasks.jpg?lg=5"
-        width: 860
-        height: 576
-        isCached: true
   - title: "Amazon enters the age of robots. What does that mean for its workers?"
     excerpt: "People have predicted robots will destroy the labour market, but Amazon believes investment in robotics could create jobs"
     publishedDateTime: 2022-11-11T14:54:00Z

@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Lightning-fast analytics unlocks immense power of big data"
-    excerpt: "Microsoft's Azure Synapse Analytics is able to quickly process massive amounts of inputs and turn data into insights, says Paul Morgan, business unit lead at Altron Karabina."
-    publishedDateTime: 2022-11-09T06:38:00Z
-    webUrl: "https://www.itweb.co.za/content/JN1gPvOAAQgMjL6m"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gPvOAAQgMjL6m"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAAQgMjL6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2019/02/resized/-fs-BIGdata-1-2019.xl.jpg"
-        width: 816
-        height: 459
-        isCached: true
   - title: "AI and data analytics may not be as complicated as it seems"
     excerpt: "Artificial Intelligence (AI) is built on data. Yet, many organizations are still finding it hard to implement AI properly to make the most out of their"
     publishedDateTime: 2022-11-10T00:42:00Z

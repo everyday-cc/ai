@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-09-waymo-can-now-charge-for-fully-driverless-services-in-san-francisco.md",
+      "title": "Waymo can now charge for fully driverless services in San Francisco",
+      "excerpt": "The California Department of Motor Vehicles approved an amendment to Waymo’s existing deployment permit Wednesday to include driverless, as well as drivered, operations. Now, Waymo will be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
+      "originalUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
+      "publishedDateTime": "2022-11-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-nvidias-selling-a-nerfed-gpu-in-china-to-get-around-export-restrictions.md",
       "title": "Nvidia’s selling a nerfed GPU in China to get around export restrictions",
       "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Nvidia’s note about not being able to be programmed to exceed the limits is important. Back when GPUs were in short supply, the company announced that its ...",
@@ -731,6 +783,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-08-what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three.md",
+      "title": "What advantages does Taiwan have in the era of AI and smart vehicles? Kneron's CEO points out three",
+      "excerpt": "With an increasing demand for customized AI chips, such components cannot be produced in traditional supply chain models. Both edge and environmental computing also require AI chips with high ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1937823/image_5018046_24751601.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-4-ai-questions-that-deepmind-answered-in-2022.md",
       "title": "4 AI Questions That DeepMind Answered in 2022",
       "excerpt": "And right now, DeepMind is doing just that. So it has every opportunity to prove the naysayers wrong. DeepMind, a unit of Alphabet, uses AI to solve daunting scientific challenges. A year ago, its AlphaFold cracked a problem that had stumped biologists for decades.",
@@ -1071,92 +1175,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics.md",
-      "title": "Perceptron: AI that sees with sound, learns to walk and predicts seismic physics",
-      "excerpt": "This column, Perceptron, aims to collect some of the most relevant recent discoveries and papers — particularly in, but not limited to, artificial intelligence ... who warn that neural networks being used to simulate actual neural networks should ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/",
-      "originalUrl": "https://techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/esmfold-header.jpg?resize=1200,688",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/amp/",
-      "publishedDateTime": "2022-11-07T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-impak-ratings-buys-exerica.md",
-      "title": "impak Ratings Buys Exerica",
-      "excerpt": "UK-based fintech AI company. The amount of the deal was undisclosed. With the acquisition, impak Ratings will expand its AI capabilities, and its market positioning in Europe. Led by CEO Maxim ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/11/impak-ratings-buys-exerica.html",
-      "originalUrl": "https://www.finsmes.com/2022/11/impak-ratings-buys-exerica.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

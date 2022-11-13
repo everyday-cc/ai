@@ -28,15 +28,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "AWS Launches Infrastructure Region in Switzerland"
-    excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
-    publishedDateTime: 2022-11-09T06:51:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/09/9709024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "dxS9afcL0JbjLVwedBJDR3yxixsneMVCQ432a0KK1snDdseTRHYcakEAXfOWG+T5Qi+0UjouOGnYepqrKhPlFRipe3MGbQr6RSlldEoSn0tuTEdMkNf8c25yqzWCQL1p9A22aI/PiD1EL/u9vEwxjhUGExsfM+p7frZDQWxwvZuwXIYUvVUl4PH+0uixGO9hmYz37pQyQbj5VPPb8YNiNP0gw7AM4LsaCs+jUv1eK3SKPGhlSysQZscGv9nuZ0QsYoFHXeZJWUko+CXM81M6sWYVXOE4aKFpmWf0Z178Hgr16QGbYNd/eu1R0c6HSnpVfZVFWNU6+N7VqgTZ8EKFgjjBwh20ftiGft6eOXhRANk=;5gszyu5S3TfmBIBPG9SoCQ=="
 ---

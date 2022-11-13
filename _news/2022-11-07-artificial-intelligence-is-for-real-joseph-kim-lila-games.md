@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-95344993,imgsize-62172,width-1200,height-628,overlay-etbrandequity/artificial-intelligence-is-for-real-joseph-kim-lila-games.jpg"

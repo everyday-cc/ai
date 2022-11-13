@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani
 webUrl: "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani-ai-appointments-target-sales-and-revenue-growth"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Biometric Companies
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gnani.ai appoints Sanjay Pai as Chief Revenue officer"
-    excerpt: "Gnani.ai appoints Sanjay Pai as Chief Revenue officer, He will be responsible for growing and spearheading business development initiatives."
-    publishedDateTime: 2022-11-09T06:28:00Z
-    webUrl: "https://www.ciol.com/gnani-ai-appoints-sanjay-pai-chief-revenue-officer/"
-    ampWebUrl: "https://www.ciol.com/gnani-ai-appoints-sanjay-pai-chief-revenue-officer/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/gnani-ai-appoints-sanjay-pai-chief-revenue-officer/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "US patent office gives GBT the high sign on its face and body biometrics invention"
     excerpt: "A United States patent has been granted to GBT Technologies for its face and body biometric identification for mobile devices."
     publishedDateTime: 2022-11-10T19:07:00Z

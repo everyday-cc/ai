@@ -47,36 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon unveils its latest warehouse robot"
-    excerpt: "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,"
-    publishedDateTime: 2022-11-13T16:26:00Z
-    webUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
-        width: 970
-        height: 546
-        isCached: true
-  - title: "Amazon introduces new robot to do warehouse tasks"
-    excerpt: "The robot is named Sparrow, and is a robotic arm that can handle millions of items. The robot functions using computer vision and artificial intelligence, and is the company's first robotic system that can detect and pluck individual products ..."
-    publishedDateTime: 2022-11-10T00:00:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/1411668123540/2022/i/16681244192735/v1.5/Amazon-introduces-new-robot-to-do-warehouse-tasks.jpg?lg=5"
-        width: 860
-        height: 576
-        isCached: true
 
 secured: "Cmm2ZzJ61xOvCMJsy4hkwgOzZwhnfZmQk8esMnflwLQCmo5GRaBFPacapBLAuyKkH20u0/7Brs9MJJ4yu+Uw+6p0iFxJLAotyr1XZWIZ4Mdvy+ZeHZzfh4r4rpKRrNN4H/7RoFpnawxh7SKJGFtVEJ5PXGIVa7QcWasLfW/EDVFP7rFgtlHz+njDIb2ebExOmbhB60TZscEambneZiBVdKZub9Sfc4sbcqX8WyoOJ+uf/cDXjz9iuE8SZxiQ20osZr6D/m2zVWqnImgn7yVfz1wD02BnsVgPKm2IQbRcFL3w6l6KmrDvGXs+R1MlbbdSMAS8NoKumXND+eDc5QpzYJfsxZr87/YADo68wTl2zP3YmPLtIYnIhEkRo7IK3GiSG0dKPdLdic+a5lRPDocTPenuAtZ7+D/XrhkGv3DDFsFyWqI9iQU5UFC0gVkl7iRFWOmXMGVfmde608DBbJdhS2wUHoMNx8xQkRwvEk69oy4iUAs7EH2T1E98c3dmFwNSLlHSFG1WWZ8sqfAWxs3FDA==;gaIc/uR0N8bd+7P9+ykygQ=="
 ---
