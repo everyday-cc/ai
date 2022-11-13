@@ -47,15 +47,6 @@ related:
       name: newsroom.businesswire.com
       domain: businesswire.com
     quality: 27
-  - title: "Insight Achieves All Microsoft Solutions Partner Designations"
-    excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."
-    publishedDateTime: 2022-11-08T16:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/08/9708649.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "qofSvJC0aPJeKizG/idQ0Xv8C9apK8pONxvB7Pz/CAxjmowgNjKon7hOqJz/ZfsgY6ZtWcw5Aa5y28JuwiHRRgJlYCg1ghhklz2TYz1Itjxt1l60nASgYWL8IbFazaZV9c+FHcLi0PTg8qQTtuvoTyaOO7HUH6g0vJLpmUkuNGeiZn9jx+qVdoasErN0bj5nJiwjYRgtvBPARqFaFZ4umYPwd0rXFGIpk1+AtoZGbeuXbpuxq+PUUIRuvlhDfSrWnOJh40kW/PJMgtTcDiycGPproYtdD0Cb0oxqOKnFsZ55rkooav5BmMr5o7tUF1aoamem4J9J/ESRw6VBCb8E4aEgphcLO0Jo/Jt3hpgk/eg=;VdSnb4hb786gDuK+xiSItg=="
 ---

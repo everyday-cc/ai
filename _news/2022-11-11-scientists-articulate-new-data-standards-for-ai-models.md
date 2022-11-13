@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-scientists-articulate-standards-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "New AI model can help prevent damaging and costly data breaches"
-    excerpt: "This is the first time AI has been used to automatically discover vulnerabilities in this type of system, examples of which are used by Google Maps and Facebook. The ..."
-    publishedDateTime: 2022-11-08T15:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970596"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "New AI model can help prevent damaging and costly data breaches"
     excerpt: "Imperial privacy experts have created an AI algorithm that automatically tests privacy-preserving systems for potential data leaks."
     publishedDateTime: 2022-11-08T20:02:00Z

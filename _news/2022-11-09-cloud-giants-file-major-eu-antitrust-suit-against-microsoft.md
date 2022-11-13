@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrus
 webUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: newsroom.businesswire.com
       domain: businesswire.com
     quality: 27
-  - title: "Insight Achieves All Microsoft Solutions Partner Designations"
-    excerpt: "The qualifications elevate Insight's already vast solutions and services portfolio providing clients access to repeatable, scalable solutions that maximize their investments in Microsoft technology and propel their digital transformation journey."
-    publishedDateTime: 2022-11-08T16:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/08/9708649.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "GwC5dlpVDpTv8m9tCpnitKKbCBUhslkpajRxpQ1dOBRylJqMjHixp1FuXUlf5SC5EdIGFWThX8psGghKmY2E+x5LOnaJ+yqd5DtzMonE70g51hRPdv7A1nExD0CqX3Rj7KyTl24I3+wxGZ7LRiuCJAU7EQLGBfB60XWutav0KUPa6n2axHb+A8oewg+IAU584fTmBDBqtiPXUTQLFGwdaYP9I/WKopKY9NmgBhlLm9OfVGP3dSV7OG1TQokmHFLKzu0WkibQ2lniytNmine5XijeXpCsqUvEyDCq7XCfPI3Ceky8CSNdAqz6kvngGtD+k72D/3b+u8hTaCKKUNfZ4VP2zGwqroMFnnRhbc7Fnmg=;LWnSTE16p6PT/WyZ2rW3nA=="
 ---
