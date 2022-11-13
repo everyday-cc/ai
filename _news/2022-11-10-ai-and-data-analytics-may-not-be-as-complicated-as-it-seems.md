@@ -41,20 +41,6 @@ related:
         width: 816
         height: 459
         isCached: true
-  - title: "Insight sows seed of cloud analytics for GrainCorp"
-    excerpt: "Insight Enterprises has built a cloud infrastructure to grow GrainCorp's analytics capability. Together, Insight helped design the infrastructure with a Microsoft Azure Data Lake and Databricks as the core computation drive."
-    publishedDateTime: 2022-11-09T01:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/703107/insight-sows-seed-of-cloud-analytics-for-graincorp/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/agriculture_wheat_2.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Context Analytics partners with Autochartist"
     excerpt: "Context Analytics (CA), a global leader in Unstructured Financial Data processing has partnered with Autochartist"
     publishedDateTime: 2022-11-09T12:16:00Z
