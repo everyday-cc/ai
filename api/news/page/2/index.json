@@ -158,7 +158,7 @@
       "originalUrl": "https://www.zdnet.com/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -357,7 +357,7 @@
       "originalUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -910,6 +910,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-09-serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server.md",
+      "title": "Serve multiple models with Amazon SageMaker and Triton Inference Server",
+      "excerpt": "Amazon SageMaker is a fully managed service for data science and machine learning (ML) workflows. It helps data scientists and developers prepare, build, train, and deploy high-quality ML models quickly by bringing together a broad set of capabilities purpose-built for ML. In 2021, AWS announced the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/serve-multiple-models-sagemaker-triton-f.jpg",
+          "width": 1549,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:07:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-cloud-giants-file-major-eu-antitrust-suit-against-microsoft.md",
       "title": "Cloud giants file major EU antitrust suit against Microsoft",
       "excerpt": "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\",",
@@ -1149,49 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-nissan-to-launch-driverless-travel-service-in-china.md",
-      "title": "Nissan to launch driverless travel service in China",
-      "excerpt": "Nissan has become one of the global car makers to set up a driverless travel service company in China. In 2021 alone, Nissan’s data reveals that the company will sell over 1.38 million vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/",
-      "originalUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/11/Nissan-1-1200x750.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/",
-      "publishedDateTime": "2022-11-08T23:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

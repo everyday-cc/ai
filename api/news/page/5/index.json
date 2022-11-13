@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-07-is-it-just-hype-how-investors-can-vet-a-companys-ai-claims.md",
+      "title": "Is it just hype? How investors can vet a company’s AI claims",
+      "excerpt": "There are basic training processes and advanced techniques, including automated machine learning (AutoML), hyperparameter tuning, active learning and weak supervision. A company’s ability to use these advanced techniques leads to reduced costs and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/",
+      "originalUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614-e1649786490326.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/amp/",
+      "publishedDateTime": "2022-11-06T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-06-driving-the-2023-bmw-7-series-exceptional-luxury-and-creeping-featuritis.md",
+      "title": "Driving The 2023 BMW 7 Series - Exceptional Luxury And Creeping Featuritis",
+      "excerpt": "BMW 7 series is now available with a choice of 6 or 8 cylinder mild hybrid drivetrains or as an all electric i7 with up to 318 miles of range. It drives better than its 3-ton mass would suggest, but p",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6366c597c7ce31316a13b51b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/",
+      "publishedDateTime": "2022-11-05T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-06-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "excerpt": "Powered by Watson, IBM can deliver safe dividend returns for income investors. Palantir is not low-risk, but the prospect of \"next-generation\" AI could lead to considerable returns. You’re ...",
@@ -1114,92 +1218,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company.md",
-      "title": "Samba TV Acquires An Artificial Intelligence And Machine Learning Company",
-      "excerpt": "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
-      "originalUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects.md",
-      "title": "Dataloop Automates Data Management and Annotation to Accelerate AI Projects",
-      "excerpt": "Dataloop, an Israeli startup, has made the announcement that it will offer businesses a complete platform covering every stage",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/Dataloop-Automates-Data-Management-and-Annotation-to-Accelerate-AI-Projects.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
-      "publishedDateTime": "2022-11-04T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

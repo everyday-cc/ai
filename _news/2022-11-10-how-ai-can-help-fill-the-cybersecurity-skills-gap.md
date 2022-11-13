@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A 5G-enabled AI-based malware classification system for the next generation of cybersecurity"
-    excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity due to its ability to create communication networks between different components of an industry and bring about the new revolution—Industry 4."
-    publishedDateTime: 2022-11-08T18:13:00Z
-    webUrl: "https://techxplore.com/news/2022-11-5g-enabled-ai-based-malware-classification-cybersecurity.html"
-    ampWebUrl: "https://techxplore.com/news/2022-11-5g-enabled-ai-based-malware-classification-cybersecurity.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-5g-enabled-ai-based-malware-classification-cybersecurity.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/data-security.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Fighting Fire With Fire: AI on Both Sides of the Cybersecurity Battlefield"
     excerpt: "Defending organizations utilize AI-powered email security measures to enhance network protection, detect advanced malware and ransomware, optimize critical data center processes, improve threat response times,"
     publishedDateTime: 2022-11-10T14:00:00Z

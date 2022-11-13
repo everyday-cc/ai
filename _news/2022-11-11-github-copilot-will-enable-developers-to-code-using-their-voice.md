@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "GitHub Copilot slammed with the first class-action against \"unfair\" AI"
-    excerpt: "Litigators have filed a class-action lawsuit against the AI system behind GitHub Copilot, a feature designed by Microsoft and OpenAI to help programmers write better code"
-    publishedDateTime: 2022-11-08T18:12:00Z
-    webUrl: "https://www.techspot.com/news/96593-github-copilot-slammed-first-class-action-against-unfair.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/11/2022-11-08-image-11.jpg"
-        width: 2146
-        height: 1613
-        isCached: true
   - title: "Microsoft's Copilot code tool faces the first big AI copyright lawsuit"
     excerpt: "A $9 billion class-action lawsuit has been filed against Microsoft, code-sharing site GitHub and artificial intelligence firm OpenAI for the way their tool Copilot uses people’s code"
     publishedDateTime: 2022-11-08T19:01:00Z

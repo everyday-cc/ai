@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia May Have Found a Way Around New U.S. Chip Export Restrictions"
-    excerpt: "a high tech data center chip that is dumbed down just enough to meet the export restrictions that were put in place by the U.S. government last month. The government, of course, is concerned about sending that AI and high technology to China for fear that ..."
-    publishedDateTime: 2022-11-08T18:01:00Z
-    webUrl: "https://www.thestreet.com/video/nvidia-offers-new-chip-to-china-that-meets-u-s-restrictions"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/nvidia-offers-new-chip-to-china-that-meets-u-s-restrictions"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/nvidia-offers-new-chip-to-china-that-meets-u-s-restrictions"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY3NTM5MzU3NDc5NjA5NzM1/nvidia-and-amd-have-momentum-in-high-end-chips-analyst.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
     excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
     publishedDateTime: 2022-11-09T11:32:00Z
@@ -58,15 +42,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 49
-  - title: "NVIDIA's A800 Data Center GPU Sidesteps US Ban On Chip Exports To China"
-    excerpt: "US regulations are slated to stem the flow of A100 chips into China from March onwards, but a with a few tweaks the nearly identical A800 may be fair game."
-    publishedDateTime: 2022-11-08T18:19:00Z
-    webUrl: "https://hothardware.com/news/nvidias-a800-data-center-gpu-sidesteps-us-ban-on-chip-exports-to-china"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
 
 secured: "/Z5novVDwUWSP5WHXS8+XpNX2Y4OBK1reJ/AXu9hh0MRVWrcB9IPc9yeR8tPU4QqnBZsrz0tIZzu9pzu38opTbbc7Z98jibSSqTFqGQrfxxQHypa8jJgWJN0afgYPgxMGrHsTknSSKohien3NoH4/gnn8vKfWVh71oEWmjiZg6sIOfr2ir6Jd0tCFBXNjsQgOLtwf79KUCjsOKZvfoP6AEyMKMgCcr8u6RyVc4fVvnXddKw8ZXO2+lC/NvkFN7xu7PaXTXRa7LdXadnEZT1w32dkouQzW99ieN+hqpCA7Ahb9wUTHZ3ZPbfOX6V12qg0mZ4ydR5Ko9ObvH8Qgtsv4jbUOPrlZCgo8yibgetS8WM=;kPI6hESDmPVmWl5FDR/u1w=="
 ---

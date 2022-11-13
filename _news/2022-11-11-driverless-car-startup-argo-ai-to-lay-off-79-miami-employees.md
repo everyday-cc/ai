@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Driverless cars will change our world, but can they ever become a reality in S’pore?"
-    excerpt: "General Motors (GM) said it would start producing a fleet of AVs by 2019. And Waymo, formerly the Google self-driving car project, looked set to launch a driverless-taxi service in the same year. The world then, including Singapore, was abuzz with ..."
-    publishedDateTime: 2022-11-08T17:07:00Z
-    webUrl: "https://vulcanpost.com/807887/can-driverless-cars-become-reality-in-singapore/"
-    ampWebUrl: "https://vulcanpost.com/807887/can-driverless-cars-become-reality-in-singapore/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/807887/can-driverless-cars-become-reality-in-singapore/amp/"
-    type: article
-    provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 52
-    images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2022/11/Temp-1200x680-1-1-636a1c51726bd.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6pjIONRF0chr5AOSIFYHKakygZi4BwwlR18JTyaAFjxwa343nBHJVpnfNzxUlhhFsOVWyfS8/V5bbH3pw1qtLF4OZgIV6tUtM+i4ZaYjC7K5XG8jODR70lwWFFW64Ww5ApoQlmZPC8Y09K1UzoMcmRN98ReLh0J4O9068OeJGvG6Daqh4GLu9C25vdIsJ0XBarWuaCkkxlg8abBRc7M79ww0P7fE2TjyV7B9tV52ZnUsqnyweY6Hhi62hodm9DKAS245hRlpocSrJumB+245z3CNhQv4s9VAknRSuNIvp7YYQFsyC7jVpVusvE78AU2agsdTYGXnhUCZ4aPn+FzPs8bg/CeDvTJBqcQ9lWsIeRF82YAqFuMF8XWr3Ajtut8A6RTkbWNSg3xmesktB0JmZYYa6g/6y6DyK/n7QrG2jbRkI5gDNMklvJb5HXAaXBshaZgsZZIddyxFxVwIMpTWecrOoCzEs5sjz3otMmxahDY0QdDh60fVDWmasUeQ2IArPiRT3BYiLRpOjd9uRosIDw==;L9qwNMjqM5H1KeKjOsiIVw=="
 ---

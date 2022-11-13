@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-trav
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: GizChina
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless cars will change our world, but can they ever become a reality in S’pore?"
-    excerpt: "General Motors (GM) said it would start producing a fleet of AVs by 2019. And Waymo, formerly the Google self-driving car project, looked set to launch a driverless-taxi service in the same year. The world then, including Singapore, was abuzz with ..."
-    publishedDateTime: 2022-11-08T17:07:00Z
-    webUrl: "https://vulcanpost.com/807887/can-driverless-cars-become-reality-in-singapore/"
-    ampWebUrl: "https://vulcanpost.com/807887/can-driverless-cars-become-reality-in-singapore/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/807887/can-driverless-cars-become-reality-in-singapore/amp/"
-    type: article
-    provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 52
-    images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2022/11/Temp-1200x680-1-1-636a1c51726bd.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Driverless car startup Argo AI to lay off 79 Miami employees"
     excerpt: "Autonomous vehicle startup Argo AI will lay off 79 Miami employees after announcing the company will shut down and be absorbed by investors Ford Motor Co. and Volkswagen. The job cuts at the company's local office,"
     publishedDateTime: 2022-11-10T16:50:00Z
