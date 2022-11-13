@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/636d1f9240cdc45744555971/0x0.jpg?format=jpg&width=1200"
@@ -48,6 +49,6 @@ related:
         height: 1801
         isCached: true
 
-secured: "1UhgjivlUhFjv7yspkOBN62KB+F9Vu6YhqFp/ofPqCkrqY0iwDGHEHaKMZ/4sLf8tmCpCe2GWTtWGpuF+0vaTYZB7Gav7PvPWQAmkMfAkXhPQIy8kIu0hL73pxp2Y024bQVgVjwuBXlu9+UvunNi8eTRc8ETq8wNTRr3+rcnZoZi9iYY0WaEeRfJ8HbI7nJIx+8uoF/EeZ/fZZZ/0REdrQdLP/Bun0d681Oyxs2JBShk7T/bgqYNaJZOZxLbPqSJN8iOjZi/mdA6e50Yd64RvjEh8CEIwnCWJns8b0qMM8OwNpeVqEnh02RTr5SpethcYsx45vwseCAY8lT8BEAVUVhk5szYTu5rCmCZsIpjP5M=;sC2ksNd0BxR0zGkOS3f/2A=="
+secured: "JIcgWwGwUgeMoYX8tBsrbDnQAjHowUhoNhcbNmnUow+RnThxdOG00jxGi4+4q9NaXzkQGtLq8/ghjNs3g9SeA/B2nd7RPAJKF7zjoKq7YZRdHSJUVfkgCYpMw+anBdsaHUqpI4aBojgdbYmJx6GYZc5VlofnV59FpVsIbFhotac39YIbF62qG9FyDaRzzc7+K+yZW3tHfhoJyUj3VHWuDKQTnra1kWzwxuROVmISl0Xhp3rqBeuxCeruOVlXVzaMr5LwnRvL9iqvU9tvdwFbnW6VAqZH07gtJk1UlGNdf+rzibPJdE6poXLfHjB4iSP/O11YvcEJELO4PLL2UvKLRXroq/Da799y63pdp2vvNppRfKeZXn4qfhvkXHn2O5shqYO9tfoCs8B+e90KHab+JSciQ5aozs67Mt5hVr7CbtdElPLOV0D5sCOhFMxfnq2NAeSwg/j1Kt76wyypl6aTCD/y4HqbPFgpWL1+Wh31MWJpkfWbEQEOb7nU6tlV3uZp+t1Nk73/JaDtqaUKByIZxQ==;/Smn/Gsg1Z8j5aF9+jglJA=="
 ---
 
