@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia Designs New Chip For China To Override U.S Ban"
-    excerpt: "The Nvidia A800 graphic processing unit is \"another alternative product to the Nvidia A100 GPU for customers in China,\" a spokesperson for Nvidia said in a statement. \"The A800 meets the U.S. government's clear test for reduced export control and cannot be programmed to exceed it,"
-    publishedDateTime: 2022-11-08T19:32:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-designs-new-chip-for-china-to-override-u.s-ban"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "UUheCByY4QgOpSLcaOt9VS1O/MrrHwxdK9MoQtzkBcBwpwohogiJEPgzML9kYHiqBCT0xfF9jf5Om+AYjgXO7odRj+GGCYq4+NatkBBCvKjMlIPdeEB2gMRl/97ZCYxQ2M2pXpwkd6+yhcGkrIKHRSFdsWtrlPqdzGXsm8R+q8XtkY5zXqZ0PMkpmV9fWPL7Rf4id3zjwtR4smvj57YE52eo0vYI3j8LiO5q/OMDJNyGVmXfuL7SuwCOMw5QCKAXAl/T9NLI5wKX3s9a+XhEn3ysH8XuuRdHfUDRsL6t+HDs5tRlwvsAUloDVpuwpz7F8az+XQsIGFtw8SuG6RfTdd8qSPm0tveQOHjbuLELpiU8qjUqHn5FfgVWIkb1FiKolp+XCK6jkPohN0LnYQTWWSj2W7hIkU2EG2CWeV4KrzHWoqu6PBuzlchN99xO8+XTu4yhfVfCwfSuC2D8d+D7sTqk41J8mtZ9Q5pzraBJ6363XwGvZyanl09Tmx/RZEEc2u4CUyfhOhlezI41AKIFrA==;JRYcduBKB7ixFG4QzOmUbQ=="
 ---

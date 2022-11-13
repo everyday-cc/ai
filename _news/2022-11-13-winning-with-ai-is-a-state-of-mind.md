@@ -64,15 +64,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "New AI model can help prevent damaging and costly data breaches"
-    excerpt: "Imperial privacy experts have created an AI algorithm that automatically tests privacy-preserving systems for potential data leaks."
-    publishedDateTime: 2022-11-08T20:02:00Z
-    webUrl: "https://techxplore.com/news/2022-11-ai-costly-breaches.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "Z2Ky8oVetB1XwV91i/9GO/VM40SnLvGA5th6ZEEmyh2mkpbwn4cKpxv7JFK+1In9GYZR4vnWAaECW1UrabGTL2v166vnAvhxWwBayPtW1oLaRgkJ1N5emKqfzeZDkwxQLqEYBIetx/jTU4Nlk7+i79PQln3qsTZEuk1Je4POjlnRkjRCFPuplihJOz1mwvmYE/WgElQ4WzgyEQpp4ayguji+bEa70thgeHjdwyNc6Jtu/Avz3nEi6rWRQk02GyLdgPjnTbbEr4Av3i0SCkrkXh0trjX3Z2OpnLBnte7ZWDZwW4jE0lT1impQ1xPhqyzRqP02cld+nOTJ7lXvTyAepoeoGPNyWZMAqZ0hw+0DJ/E=;pOFCT5EwuQdmaJ0mZ+rVjA=="
 ---

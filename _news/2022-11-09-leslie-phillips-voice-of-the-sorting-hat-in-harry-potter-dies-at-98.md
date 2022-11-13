@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leslie Phillips, voice of Sorting Hat, 'Carry On' star, dies"
-    excerpt: "The veteran actor made his first film appearances in the 1930s and is also remembered for his exaggerated comic portrayal of the English upper-class."
-    publishedDateTime: 2022-11-08T19:40:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 44
-    images:
-      - url: "https://media.whas11.com/assets/WOI/images/d2ccc787-da35-49e9-b347-e02218984ae3/d2ccc787-da35-49e9-b347-e02218984ae3_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Leslie Phillips: 'I can be recognised by my voice alone'"
     excerpt: "Leslie Phillips would have known for half a century that at his death, which was announced yesterday, the obituaries would lead with one thing only. However much serious work he did in the theatre and on screen,"
     publishedDateTime: 2022-11-09T16:19:00Z

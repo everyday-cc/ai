@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-scientists-articulate-standards-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "New AI model can help prevent damaging and costly data breaches"
-    excerpt: "Imperial privacy experts have created an AI algorithm that automatically tests privacy-preserving systems for potential data leaks."
-    publishedDateTime: 2022-11-08T20:02:00Z
-    webUrl: "https://techxplore.com/news/2022-11-ai-costly-breaches.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "BIltlka8C3B6C0Vy/9iUPgkgyM1hPzTfvQjwE2nqM5hDIav9NfvvdmFEVocc7HS9CQhFoKsMyjB5k78kK6/c5eidtaa7Y+kWIcNUBrdyz4Q3wLwrKaRvMDwPPyuHp+NLUv68bz7ByrXGjiw78kF+DpyLvO++3RMxkDSkwVxfetfR4WY32YfT9dtwJiw4fe0TAoH+7DhPBXjk18ny/W7R569XooS/NXhyF7wGEnzgNa+atVNQYH1rUtkmEtH727OSXR0qICxUUT9CfT9LoLPCmXg0nbBX2nzVm94RfWjgAgmSa8BqAjkkH18A09pYt5uUVloaNzbG8YSiHxKrhCpAS9Rk3yayZ2lJmEq70DRxI868i7/z7j3nkLx55WHezWBY1R2rQext4BS8kiyCw3K6vUL6eEnFQ6iCsAliLeoQIBPcE86nOs6OwYThp2F3wKs30jPZ6VN8RBzFM9SPf0AVov4CrcT5fCq1eqn6Oc2D+lGI7O7+sK6Gta954GbSAmkaApLBonVfIgX3u95ja3M2uw==;gBBzeNAgTEXTcUehjt0SCA=="
 ---

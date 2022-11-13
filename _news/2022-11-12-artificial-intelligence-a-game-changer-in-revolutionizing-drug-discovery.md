@@ -9,8 +9,8 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artif
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-a-game-changer-in-revolutionizing-drug-discovery/95466643"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: health.economictimes.indiatimes
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Meta AI could boost cancer research and drug discovery"
-    excerpt: "Alpha Fold 2 is a neural network developed by Deep Mind, a Google-owned AI company solving the 3D structure of proteins."
-    publishedDateTime: 2022-11-08T19:52:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/google-meta-ai-cancer-research-drug-discovery/"
-    type: article
-    provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 19
   - title: "Computational chemistry and AI create a quantum leap in drug discovery"
     excerpt: "We can design compounds suitable for development better and faster than previous approaches.” Kuano’s approach to drug design takes advantage of the fundamental physics behind how enzymes accelerate reactions in the body,"
     publishedDateTime: 2022-11-11T17:22:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Microsoft's Copilot code tool faces the first big AI copyright lawsuit"
-    excerpt: "A $9 billion class-action lawsuit has been filed against Microsoft, code-sharing site GitHub and artificial intelligence firm OpenAI for the way their tool Copilot uses people’s code"
-    publishedDateTime: 2022-11-08T19:01:00Z
-    webUrl: "https://www.newscientist.com/article/2346217-microsofts-copilot-code-tool-faces-the-first-big-ai-copyright-lawsuit/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/11/08170834/SEI_132742877.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "g0PFqbsHkEGB1Q+QF6ZIUCv6a80738A3Pm5kC4nwtATQ3ry8vuA6rqWRJecmUzSkqXVDFiLgKqBMngMhiUEtJH3L8nghvVX5BfAk0e57lAM9WWDq5TGB0ZfLaWx1ol+xWUDGgGa0vLnIl2TrXm0RPhVKJj0Mxodv/tmHUFZFa1KPidPiTlWHoJgjya2iQTCjyaRhSxesVHqa1d9yCKhgS+g/J/4StpvLpqCpUEc5ij9UNQ8+axOgM+Cxu5YVrsSBK5htP6DLxyCufunVsqXV7i3PeVFkHETvu/NEG29vJf6Vts5D1vL0wq3ahK+9Tg1nLnQ3LhkmCDSOwLUjbC9CZBFnNUQYsbrE+4Yw8ZJ+pTtlD2wzIodaLOtZXNMKhFaPmRHiE/UyCdArFZH8qYKqsQF4MuiIkKSFfzakp5BmhKfz9Mn+UsKqANg5qTCciTCJO6Macecl5oxdrGRtabxR2paQxvpbqUhJ2a2wG6SnOQ7pyyVB4onasGTEk8R0te7v68yETQaZzhRakmFcFUtpaA==;hmRCIGbn2Tadcs/hpaejig=="
 ---

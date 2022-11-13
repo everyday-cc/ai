@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip
 webUrl: "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 49
-  - title: "Nvidia Designs New Chip For China To Override U.S Ban"
-    excerpt: "The Nvidia A800 graphic processing unit is \"another alternative product to the Nvidia A100 GPU for customers in China,\" a spokesperson for Nvidia said in a statement. \"The A800 meets the U.S. government's clear test for reduced export control and cannot be programmed to exceed it,"
-    publishedDateTime: 2022-11-08T19:32:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-designs-new-chip-for-china-to-override-u.s-ban"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
     quality: 49
 
 secured: "xjRt1ljOAtZuy/+6C63y3w+GwvsLGyLkmGXGdDkgzLvaESlHUjwP0jbhbasKP6Vyep+IsFlTv/x33AT7kIY/idhVroJSko80UErGibbUW9D2tpkmoVSyaFrBhAjuh7cz7yRC1pFG0NtpKv9Mixw71I+U9VX6EcXeTfZEE+6WMrHvLCNK64KhzwEV/zQv5VUClTTUbTtsnOfmE3bCUf9pN/gR1KUwBtacEBBK37TkAPj9AaJGM2aD8srqUmGx1wDb4SgI+UvThTG+iRF0dkgPWEZguC3aA4ntHAfny+XwzuQWlWMsjCG/WTFaZTIB4lmgKNtvj7tSGpsog0owyhyVU4yVsOdpyxRgy4z4b8iXc+U=;ujl0LERWI35vaexELMcupQ=="

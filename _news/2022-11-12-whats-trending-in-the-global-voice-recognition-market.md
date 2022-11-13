@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insights on the Data Science Platform Global Market"
-    excerpt: "According to this report the global data science platform market was valued at $4.7 billion in 2020, and is estimated to reach $79.7 billion by 2030, growing at a CAGR of 33.6% from 2021 to 2030. Data science platform is a packaged software application that provides the tools for the entire life cycle of a data science project."
-    publishedDateTime: 2022-11-08T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-data-science-platform-global-market-2030-/2022/11/08/9708811.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Speech and Voice Recognition Market Spending and Trends: Outlook to 2030"
     excerpt: "The report published by The Brainy Insights shows that the global speech and voice recognition market is expected to grow from USD 13.8 billion in 2021 to USD 48.1 billion by 2030, at a CAGR of 14.9% during the forecast period 2022-2030."
     publishedDateTime: 2022-11-09T20:11:00Z

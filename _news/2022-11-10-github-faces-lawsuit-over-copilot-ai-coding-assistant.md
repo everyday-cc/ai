@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's Copilot code tool faces the first big AI copyright lawsuit"
-    excerpt: "A $9 billion class-action lawsuit has been filed against Microsoft, code-sharing site GitHub and artificial intelligence firm OpenAI for the way their tool Copilot uses people’s code"
-    publishedDateTime: 2022-11-08T19:01:00Z
-    webUrl: "https://www.newscientist.com/article/2346217-microsofts-copilot-code-tool-faces-the-first-big-ai-copyright-lawsuit/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/11/08170834/SEI_132742877.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "GitHub Copilot will enable developers to code using their voice"
     excerpt: "A new GitHub Copilot feature will enable developers to code using their voice. Copilot was introduced last year and uses AI to help speed up mundane coding tasks by suggesting how to complete lines. Behind the Copilot feature is an AI model developed by OpenAI called Codex."
     publishedDateTime: 2022-11-10T16:52:00Z
