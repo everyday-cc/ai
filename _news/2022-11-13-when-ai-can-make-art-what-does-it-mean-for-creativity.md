@@ -3,14 +3,9 @@ category: news
 title: "When AI can make art – what does it mean for creativity?"
 excerpt: "Image-generators such as Dall-E 2 can produce pictures on any theme you wish for in seconds. Some creatives are alarmed but others are sceptical of the hype"
 publishedDateTime: 2022-11-12T16:06:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
-webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
-ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
+originalUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
   name: The Guardian
@@ -23,12 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/ed7b8e4d2037b11ec2f50d6e8af4cc76091247fd/0_196_1024_614/master/1024.jpg?width=620&quality=85&auto=format&fit=max&s=992a794d376bccd3f05d6946b0cf87b9"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "WFKVPJryJxpTpqhE2pVH+HPVwDIFKNnzCHuZZGwGkwAWO6oJ4w0mpXlmYyXH6erOafEq07hntAlkxfRzqRRwylmOxPM/pN73qL/uVWj3bYz3PoOCkHI9eIPlpPvk+aXLL8N+HnhzrQm6z727Z+J3iWn1JmeBlaRdaStSi9LfsT0d4CsRMMuhdto4RN96zcq5RbrSKx/O2Cz0v7USvL1P9EMn35fp7cyWvUmMZpdpXi1+pebW/kh+agqG+jD03G3flvBopGOAC30OSxJlOCde2530If+A0gXenUfif0INH67Tm4uEmmCvWIpAF/zqoMEVwGl1A05ZLBlb3shqWqifEk5wtVF89uo7TsAfP5L1oqTpjKN/zFgtbrDk3lzAxTAKPysrZ4y0fLQ+Bnck80gu6BikL4kOiETqUMmEQjPxeRLvjSck25p9bT8/RN7oikwpcJ6FWeexa4PepQuFgYNdu6pJqzB1txzgemtGOLLcVeE/rpjWrT/Id6hlzixnd3JQHMgKTkUAZTVI9ngEHAwLmA==;+ME7VSIqDZldO+/TIUiLqg=="
+secured: "z7CyHQOUI3YnEh4ho1SnjExVzbYrmSQZuFta7pPbUoQpSKXLf8rhDpGaX4fOte+fFzYT15tb6qWL88oJXYc476L7CHfNpEMZS93nQp9F2/5hrPzBgR6QokvjgFv5+Mr7zL5PFo2iOyd9gPA1Yg2dnfdZbVRwrfP/jjr5G4zQfTtMgDSP8uL1+iGD2YqlqXJSkPQZRI/x+xvt8cVYOTuABmp+kZKynu9V5sLXPt40PN5lRbpLtc3cq+eYWz2DAo+sWdTs49ZN2z+QRyG4HfDvQV+fU6JjJa9GJvt8qzsUwK9qj8gfuZW6WRFX00egNNE/vurKVdjkqLv6QsRwugMs4ezJihiFafpO5/gGjYeVCGDT/Rs/eU7YiQFYywwDU0AJ/YNqms7oRM8vPMMmO6yndML7+rK5a/fhl2k2hwyDHyqNK53DswuElADFf0nIJ7jaJrV2HZN897SAEeyLH8IHgDtozWTKN+sVvh3fxGauAXWlVMiWBvY2Z1B3KVkAOaq46cAkpnAySEl0cVYRfG7RnQ==;qTnKNW/uOJe9FKHnUz+tgA=="
 ---
 
