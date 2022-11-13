@@ -55,22 +55,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Nvidia Plans New Graphics-Processing Chip for China to Meet U.S. Export Rules"
-    excerpt: "Nvidia says the A800 chip meets the U.S. government's rules, with limitations that would hamper its use in areas such as AI models or supercomputers."
-    publishedDateTime: 2022-11-08T09:41:00Z
-    webUrl: "https://www.barrons.com/articles/nvdia-chip-china-export-rules-51667900458"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvdia-chip-china-export-rules-51667900458"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvdia-chip-china-export-rules-51667900458"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 56
-    images:
-      - url: "https://images.barrons.com/im-536383/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
     excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"
     publishedDateTime: 2022-11-09T11:32:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-12T23:42:00Z
 originalUrl: "https://missionlocal.org/2022/11/mission-san-francisco-dall-e-openai-image-generator-art-tech/"
 webUrl: "https://missionlocal.org/2022/11/mission-san-francisco-dall-e-openai-image-generator-art-tech/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2022/11/dayOfTheDead_3.png"
@@ -40,6 +41,6 @@ related:
         height: 512
         isCached: true
 
-secured: "qJegIhFz/W3MzbjBo0hi2yljMLTKtKYp8RmFOdgYOLEdXAqSqmiphoccNlopGNmqZInw3qLGZ69KkLJDtJLVxHeCaQLUkhJWO8897MswXmDQz17bETyz9sqRKuYqO4tupanwkMRxrjGcIDI3DVj/OKv59rg+V1L1RCCKNVcRVBLi5ggUi5XBkl1xaeFKTaWYjn4fFEStS5GPIK4XypgIpk5hsTwMrVcyB0UBBT65dKUtm0vNJBaoo34NObvfs/QzfVCkEJ5BrKfGR4kI1WZiVZ+LTrkhEnsnREMUMnxcean0KM2VcZTKm5oEzpm2Ud0iGLsV1BPzcJ41DBZ2J5dbk3mVul3lZyxS3nO0VKJcjhA=;Xp1GI4OPrbcFATHvX6N72g=="
+secured: "CHR4p1p1xl6cztSfdKf/xCL06lDF97P7RaKZ3FviBupJvh9GdVA7lID9Ok06+HPhxaCzE227N72sO9UMezC4C7osmHtptiYHU9S4KBoFBlusDMBNc6R/FSIM+qBlYYoh8ZxUhKfSmcWQVvTF/8sxfPCTizAeo+nfm0AcWgDiIDILBWy6Y6TwH86L9th6Q68NXCWr3mEglHS0Sb22JRm9+umivhbR+qTLDQF8to2+J2Kdux4JoNFSZFhyFbU34UEX51S0veLcKglZIfc4kBfOjoQc1AyPYcAp0WCE6eOM1VRJIEQivl6145dmJ8jumfI7jZ6lbnR3k2Xi58+o5OgKuq/7f/qyYQ2I/ocWzMzZ16k6W++5OovE7gFLVCpSZ12n9EPwS8jpXSnACaFVPedZjyhYv0U4QGMWE1xne3EZqUUCgFmcZ1J7A1EqIF72oGnIzzs7zdfZ/xAwLNkQogsa/eJ121tJeuFQhPa4IVJVLjEvpB7URo0XsMtOpNZRJIdQjFaESgWMcUyK8UKyQkr8vQ==;S9Tl341DetYa6nkU4lvwyw=="
 ---
 

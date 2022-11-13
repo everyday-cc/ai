@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thequint.com/amp/story/news/india/face-recognition-techn
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/india/face-recognition-technology-submit-digital-life-certificate-how-to-use-latest-details-here"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Quint
@@ -42,22 +42,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2021/11/pension-1019x573.jpg"
         width: 1019
         height: 573
-        isCached: true
-  - title: "Jeevan Pramaan Patra: Check Do's And Don't For Submitting Digital Life Certificate Through Face Recognition Service"
-    excerpt: "Do's And Don't For Submitting Digital Life Certificate - Explore latest photo galleries of at India.com PhotoGallery."
-    publishedDateTime: 2022-11-08T10:22:00Z
-    webUrl: "https://www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    ampWebUrl: "https://www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 37
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2022/11/Jeevan-Pramaan-Patra.jpg"
-        width: 640
-        height: 853
         isCached: true
 
 secured: "px2wM7rVGw0RgXwsG52GyT3huYe/drxJZQwkLyp/c7oA4P41AnIrodvXNu0wnDQJb1OvVylQDxhUUam6sLElFpx87Ktfr1ajfEAkL4xZbbaayxbw2/jNLRYtftm37CwTYKHMSs6ZY8BcDvfAJEx+oU2Qdo0PxgWAW4pFM6t48hXRFB3y0A3/m5eBJQvcYMqRP2GWsQBuI8Hxephz/wYPzvFFDmj9sKdKWVZO9Mol/KBmhaKaXJ7O/GteO1C9FazdjtI+VpovpNgs3SF22qhNhCW9ZWbHF3a9vkQ9IEBZJEWRpOK5LMV0Hlc1wsLwQQR4fKOiLSlP9t/8dvJlcNlMfGRi1TBZHTq/ZQVsA3YQ5K8=;xGXc6fXr9F1ckKm2NKTYiw=="

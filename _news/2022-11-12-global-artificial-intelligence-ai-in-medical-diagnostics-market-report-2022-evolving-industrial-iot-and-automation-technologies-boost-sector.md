@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) In Medical Diagnostics Market Report 2022: Evolving Industrial Iot And Automation Technologies Boost Sector'"
-excerpt: "The report has been added to ResearchAndMarkets.com's offering. The global AI in medical diagnostics market is projected to reach USD 5.5 Billion by 2027 from USD 1.0 Billion in 2022, at a CAGR of 39."
-publishedDateTime: 2022-11-12T03:00:00Z
-originalUrl: "https://menafn.com/1105170658/Global-Artificial-Intelligence-AI-In-Medical-Diagnostics-Market-Report-2022-Evolving-Industrial-Iot-And-Automation-Technologies-Boost-Sector"
-webUrl: "https://menafn.com/1105170658/Global-Artificial-Intelligence-AI-In-Medical-Diagnostics-Market-Report-2022-Evolving-Industrial-Iot-And-Automation-Technologies-Boost-Sector"
+title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market Report 2022: Evolving Industrial IoT and Automation Technologies Boost Sector"
+excerpt: "The \"Global Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, Neurology, CT, MRI, X - ray, IVD), End User (Hospital, Diagnostic Imaging Center,"
+publishedDateTime: 2022-11-11T23:21:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/11/9711641.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/11/9711641.htm"
 type: article
-quality: 17
-heat: 17
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?465158"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Global Machine Learning Market Report 2022: Increasingly Complex Security Frameworks Driving Adoption - ResearchAndMarkets.com"
@@ -44,6 +38,6 @@ related:
       domain: buffalonews.com
     quality: 0
 
-secured: "BHaPd16uepMm8JsFd+VFK7BNUgYtCAGoFLMSNjg2MWkcOqAg7ytDSM8iedGCkqFMQqcMYmPnCuLK1EIn90jtGmR46BNskzX6ghsLcqK8pGpzM58m+wjrW9iaJTLUqbJJwyTTr29iRiRs6r59ALSDvBGdu345RQ4NUO1njuVPn4xp3WO5b6x9bn++yTf7/fL5w3d/f0wbVdROay701UTsD3YjtAqEqoxstlwlK4mvYm8+OaLYl12yYPKVCE/kmlLifbWDFX8pHfswfy4dg65oX0V6UTwpE+2rcDnlLkHLSbV3gqB8GD3X387vmh4jKS/FPY+zuKEJIxyl4FUxNS7irg7caDVcR2+pSpCjl9lIyDA=;o4Y55w1kfqyCHSQDAuyNsw=="
+secured: "kF7bD4utjj32gkrxuaC45YcEer6tJbCfWDiYl1h3/ch+ZZkEOAvT4SrFHHXiENv/LvR7BcZOubbIM8C+4nJX1hQ9fQCH3QKIdgVCTAoOYANF1cgpf31IAmacoGQuUyo6xwlcDVVffWHEIolukHf+3xhTTn5+l3T5Mp5ZlXTBwEAzW6t+0AtGLxmV+aTInwB1LgEhrkBXiXY3DeAIOAU+stph14S1deJIEBJf9aFw9BiJqQ4FClqzWN5Q2r+5W7bFqBW3YBvG9Gp7TaMWjAAgXIVWVDNlzyAmWC4sB436Rq+MhtmYJN125VuEfjIS26cPiy38+l0hHe3ytd6ljP3HjIQD81Ob9MRBmEdMLJS9yxE=;o9X0PQVRwnjWuY+H4Bz7Og=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-08T11:22:00Z
 originalUrl: "https://www.euractiv.com/section/digital/news/artificial-intelligence-definition-governance-on-meps-menu/"
 webUrl: "https://www.euractiv.com/section/digital/news/artificial-intelligence-definition-governance-on-meps-menu/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/shutterstock_1034235682-800x450.jpg"

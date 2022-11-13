@@ -43,22 +43,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Jeevan Pramaan Patra: Check Do's And Don't For Submitting Digital Life Certificate Through Face Recognition Service"
-    excerpt: "Do's And Don't For Submitting Digital Life Certificate - Explore latest photo galleries of at India.com PhotoGallery."
-    publishedDateTime: 2022-11-08T10:22:00Z
-    webUrl: "https://www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    ampWebUrl: "https://www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/webstories/business/jeevan-pramaan-patra-dos-and-dont-for-submitting-digital-life-certificate-5731351/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 37
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2022/11/Jeevan-Pramaan-Patra.jpg"
-        width: 640
-        height: 853
-        isCached: true
 
 secured: "U78IgVbWKDxXur6VFeRHGX4IAaiHc7h8OIUYAL6fHqipWm+feuR7SNK+5eNJSx1QjI3khLX739LbRCjEOYEiROBcodW7pCXdXEL66DCaeIeBELxVZrXfAC+znPjOoy+DxPOdsZ3RhEsTRnZfdnT5huupkwZcVWikvTqfUgFbvmqgjbuw2WDlOp9Md4GfVMVr5mSM7UGeuAMrGu2buv/zhR5U0n6Fw5yJCPrJHaFw7JMUA2hz4WhihmtpCiH3ojVLvXqHCj+U2MEntUDX+5ntWXAcg1RrBk+ezrnDzEmb+UTZo+9wj7ZaW81eXojpkKgtRJgcIP2TuhOYGeKkCho1dCHaGfoK4NpKiYS1cY2/esY=;0UoBzYHWqWumwbdZEL91vA=="
 ---

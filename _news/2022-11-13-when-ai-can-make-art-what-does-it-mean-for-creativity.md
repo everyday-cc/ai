@@ -3,8 +3,8 @@ category: news
 title: "When AI can make art – what does it mean for creativity?"
 excerpt: "Image-generators such as Dall-E 2 can produce pictures on any theme you wish for in seconds. Some creatives are alarmed but others are sceptical of the hype"
 publishedDateTime: 2022-11-12T16:06:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
+webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "n1DItOTBLfSfNgkUhkAAFQobAuX5FxFBqNompu7WqzUkmwCv2YYeUm6SJtMd0szxzW3oaCmDV8YLpz1SXqo7AIheKoY9tGRGPhILdiK79IPdIrqmPCvzcSt2B66YUHKkV7cx4ZT4PpCSIWdGJ+Vs0v+BcsYxgqAHhuW7Ii/QjcVt4zEx4nbbqwuSr1lpQrOg9aljeBMjtMo+YQXBah6d5FiecCoipzFHsT16vHz6W80xQwIOy+bzq5rC3vsEA8Yw6TbLBShlOUum1WFMiOr3CTu5iyN++SQ60VLWL9gguaY27OvT8suS9gYtFLfNpG5o1l+UfCwjPjl0oluL/YwInFT6oHDmt2R97FwiOzv4CNs=;Fod+/a/9HJMT9E0jDwhD4w=="
+secured: "tEgOUcQjvgW9QcbfMudSctuQ3hCUUBRovF9gq9fxz+dnZsyCGXSbFRlS6+xKQb6/FpCOoxSo9LZu9LjqoW7B3PLNveMy6pC7gIziOblVqR+orrKgXsjPbyEgyVL6l84MqMeQa+WFe+nESTCItKlhmcs6iP3DivTFRMem1SVp1URwAwxKo/aI2RyxmNwk+7ukeLzNi9ngO+/flfCUSMji+aTxvHtg6lUPA7EfjnPQOCSyIu30oqKvfBmZ3f0E0OrOx5j8R2/Dgo5jUljnRUBQ1MRti2xlQ8s+yVG5H0nG/moAAspXtUJ1Pj/B39wvn8FF3dVQ4X8rBm/c49M4Hx0BKbpM/NKth5akRmOmj/vHX0I=;2tV+Nf8lKS8l16WbvJ3vEg=="
 ---
 

@@ -34,7 +34,7 @@ related:
     provider:
       name: Mission Local
       domain: missionlocal.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2022/11/dayOfTheDead_3.png"
         width: 512

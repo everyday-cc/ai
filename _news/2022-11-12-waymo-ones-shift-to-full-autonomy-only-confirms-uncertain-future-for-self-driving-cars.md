@@ -46,20 +46,6 @@ related:
       name: FOX 10 Phoenix
       domain: fox10phoenix.com
     quality: 52
-  - title: "Majority of motorists think they can buy self-driving cars today"
-    excerpt: "Despite there being no such thing as a commercially available self-driving car, 52% of motorists think they are available in showrooms The majority of motorists think they can buy a fully self-driving car today,"
-    publishedDateTime: 2022-11-08T09:51:00Z
-    webUrl: "https://www.carwow.co.uk/news/6480/majority-think-self-driving-cars-exist"
-    type: article
-    provider:
-      name: carwow
-      domain: carwow.co.uk
-    quality: 24
-    images:
-      - url: "https://carwow-uk-wp-2.imgix.net/Autonomousvehiclerelease-e1667856643680.jpg?auto=format&cs=tinysrgb&fit=crop&h=800&ixlib=rb-1.1.0&q=60&w=1600"
-        width: 1600
-        height: 800
-        isCached: true
 
 secured: "SqY0LrEQ7DEHJMv9wUPrdRQh9c+TpP2jY2B+9k0s4waJTg80lgP1FcJHmfDriMadmY1A9+5KwGXElRD+YAhoufOEKhNmUjHqfSg4hseEnHL30oz/Il+nEV8Qd6derR92lDqhZcKbR/IhMKN3rUW3HaVFWGiru3nYwDgQ+186srTeLMnZMhbMD/pXAPZrrMy6lWbglz1POKUWR+vTQQH7SgrGoAtipwnfgC1pQ4N9BMyQTiPcU3r/IMb6m8sfANLtqBrG5gAAuzYpKFA4dbb3Su8cBE5pNNO8J4Qg9R4PDGcumGhjv++ZssU7OO/CcPYZvT9nQzxFKmLJMkDyG3gA14/lBqiE3ktko+KGaKQyVWWZttQuzxalPygybkNjmRq7YZ28tkemzi4oGFJelQGkSTavo+r1u22CBHyDfEvHMeJvz0s0a2312x9fnNwV/oit5a/WHbo/pfdO8bUXBsoTGXE1yGu9ZSO6HNaZn2cZlQX5vUMhcKa8qUUrMz00KdG/qwkCeyy72z9sFsCa9HfhMg==;4WGInypVfLWqYaTHJeuelA=="
 ---
