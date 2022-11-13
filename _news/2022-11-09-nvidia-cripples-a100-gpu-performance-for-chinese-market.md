@@ -53,20 +53,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Nvidia’s new A800 GPU chips start selling in China"
-    excerpt: "The GPU is one of the most important types of computing components ... Prior to the ban, Nvidia accounted for about 95 percent of China's AI and supercomputing chip market share, data showed. Nvidia said in a previous statement that the Biden ..."
-    publishedDateTime: 2022-11-08T11:51:00Z
-    webUrl: "https://www.globaltimes.cn/page/202211/1279004.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-17/506f8935-b6d2-4b55-9312-af89e28ad0e0.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Nvidia Designs New Chip For China To Override U.S Ban"
     excerpt: "The Nvidia A800 graphic processing unit is \"another alternative product to the Nvidia A100 GPU for customers in China,\" a spokesperson for Nvidia said in a statement. \"The A800 meets the U.S. government's clear test for reduced export control and cannot be programmed to exceed it,"
     publishedDateTime: 2022-11-08T19:32:00Z

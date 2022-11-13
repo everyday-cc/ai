@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip
 webUrl: "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY3NTM5MzU3NDc5NjA5NzM1/nvidia-and-amd-have-momentum-in-high-end-chips-analyst.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Nvidia’s new A800 GPU chips start selling in China"
-    excerpt: "The GPU is one of the most important types of computing components ... Prior to the ban, Nvidia accounted for about 95 percent of China's AI and supercomputing chip market share, data showed. Nvidia said in a previous statement that the Biden ..."
-    publishedDateTime: 2022-11-08T11:51:00Z
-    webUrl: "https://www.globaltimes.cn/page/202211/1279004.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-17/506f8935-b6d2-4b55-9312-af89e28ad0e0.jpeg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Nvidia Cripples A100 GPU Performance for Chinese Market"
     excerpt: "So Nvidia came up with a solution: tweak the A100 to lower its performance below the limit set by the US Commerce Department. The end result is a new data center-grade GPU called"

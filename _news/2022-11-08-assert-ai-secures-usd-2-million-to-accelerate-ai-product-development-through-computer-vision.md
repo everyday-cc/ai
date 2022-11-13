@@ -35,20 +35,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Assert AI Secures $2 Million to Accelerate AI Product Development through Computer Vision"
-    excerpt: "India's pioneering tech Start-up Assert AI has raised $2 Million via Equity funding to expand business in the US and build specific capabilities in the agribusiness domain. The funding will fast-track AI product development to automate detection,"
-    publishedDateTime: 2022-11-08T12:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/08/9708211.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1941504/Assert_AI.jpg"
-        width: 400
-        height: 335
-        isCached: true
   - title: "Sanofi signs latest billion-dollar AI drug discovery deal, this time with Insilico"
     excerpt: "The research collaboration comes on the heels of several other high-value AI drug discovery partnership announcements from Sanofi."
     publishedDateTime: 2022-11-08T14:00:00Z
