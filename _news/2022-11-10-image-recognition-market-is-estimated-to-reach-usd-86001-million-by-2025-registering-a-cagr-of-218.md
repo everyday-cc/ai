@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Applications Market Will Accelerate At A CAGR Of Over 15.3% Through 2022-2031"
-    excerpt: "Automatic Speech Recognition Applications Market was valued at USD 14.42 bn in 2021 and is anticipated to grow at a compound annual growth rate (CAGR) of 15.3% NEW YORK CITY, NEW YORK, UNITED STATES,"
-    publishedDateTime: 2022-11-08T08:32:00Z
-    webUrl: "https://menafn.com/1105146516/Automatic-Speech-Recognition-Applications-Market-Will-Accelerate-At-A-CAGR-Of-Over-153-Through-2022-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/08/EP_8062dimage_story.jpeg"
-        width: 640
-        height: 335
-        isCached: true
   - title: "Healthcare Chatbots Market Is Projected To Register At A Healthy CAGR Of 21% During The Forecast Period 2020 2030 X Herald"
     excerpt: "The global  was valued at US$  121  Mn in  2019  , and is estimated to grow at a high CAGR of approximately <st"
     publishedDateTime: 2022-11-08T23:44:00Z

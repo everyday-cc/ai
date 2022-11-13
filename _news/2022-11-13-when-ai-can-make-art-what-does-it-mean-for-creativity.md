@@ -3,8 +3,8 @@ category: news
 title: "When AI can make art – what does it mean for creativity?"
 excerpt: "Image-generators such as Dall-E 2 can produce pictures on any theme you wish for in seconds. Some creatives are alarmed but others are sceptical of the hype"
 publishedDateTime: 2022-11-12T16:06:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
-webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
+originalUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "slWV+i+TKjNr1h3i2frkNLHKZSnE08BgvQD9Ad0NUN47cMIhuG4ImErbDZvOtJ1KvJWOTqblFQmkY/QZT8xFRqmeMErWwNSpuksGVVChrDuNjmtET9AC35QvKtEQA7kpfLnTNGq9EC0pfBHfQEN2SX0wU632h5XconSBb7gzSTtdgz8k0TrTHlijpnyILH9fbnxyHakY/M+CE6XolCE1o694hBzrVzMMksCQYpUJJg1UpywLnBXvIPsGzwz0jj0GDLIFMBA6Z6Ti/Po9zw+//V2t3DaNjR80dLiFjK+7wom027Fbgs3eNIoi4y3aChZygeQ4ywH1Uigxv2Mm8Oj5VdOe/ZUDGGC5WAukbiti9tgNomdyIT80BqWsZYz0IVPrZkEHAmcUVEbtGNuBlJZexKwfjZV8oCXU4OOnSHrtRL6rqP+ipy4E5ZWuP6PS40qWHU/ad1zEfYh6GBrqvSpe1/r+YUTjMuVzwaTpyH50Znj9CcwEGbDs8iGmRGcRHA1jQInX06c/F7lmvHAtCYHsbA==;+m+zzEHCagFyfzoL7t3fEQ=="
+secured: "n1DItOTBLfSfNgkUhkAAFQobAuX5FxFBqNompu7WqzUkmwCv2YYeUm6SJtMd0szxzW3oaCmDV8YLpz1SXqo7AIheKoY9tGRGPhILdiK79IPdIrqmPCvzcSt2B66YUHKkV7cx4ZT4PpCSIWdGJ+Vs0v+BcsYxgqAHhuW7Ii/QjcVt4zEx4nbbqwuSr1lpQrOg9aljeBMjtMo+YQXBah6d5FiecCoipzFHsT16vHz6W80xQwIOy+bzq5rC3vsEA8Yw6TbLBShlOUum1WFMiOr3CTu5iyN++SQ60VLWL9gguaY27OvT8suS9gYtFLfNpG5o1l+UfCwjPjl0oluL/YwInFT6oHDmt2R97FwiOzv4CNs=;Fod+/a/9HJMT9E0jDwhD4w=="
 ---
 

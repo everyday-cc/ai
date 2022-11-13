@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai
 cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/60067/content/MediaTek_Dimensity_9200_Hero.jpg"
         width: 708
         height: 400
-        isCached: true
-  - title: "MediaTek Dimensity 9200 debuts — can it take on Snapdragon phone chips?"
-    excerpt: "MediaTek unveiled its latest flagship system-on-chip today (November 8), promising better performance and improved power efficiency for Android phones that adopt the new silicon. Now the only question is whether MediaTek's new Dimensity 9200 can make a splash outside of the markets where the chip maker currently thrives."
-    publishedDateTime: 2022-11-08T08:01:00Z
-    webUrl: "https://www.tomsguide.com/news/mediatek-dimensity-9200"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iENFzQrToQYxCt6JRUvk45-1200-80.jpeg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "zgF+Q+lW24+UniJDqu9MYLO3KlGKelB95Jx1HCEYEr3zwgbViB28hkzdM/Mwf6Mm/IiipxeFowVUZQbbquGAoru/so1JorTRfCrhUuaP8jnLtXtIaULLoAf0msLRiz26zm5mwJtDVINzQSMssjL6BX+i5IBydibL2Q++wSFv1ZgWsoA5VhGv7IWJ351qgCUUjEi6I/Qo6VtbpB0/aH68ZWT3U2sJ5GqCmO4u4OfZJIw5gwBbEOOzlyH3dXlaArJwBf23G2W69rqNeFTCbOXSTG2UtPRdzPQZqy/yuvdNGoBOglqqp2dFKM66wh3EVkhywjoSNOpjHf5pTRaug4qEC/Nv/w9WWRIJpyNHsCYkDN/RXvEXAX9g1Qpt6sPYAbFlA4plSVqwyXlBCw4QnLgOm7I2qheNmL680Tct+bgDTIKR1qLhjPFH1c0yi/7ab7sQnQkNqgT/cbWl+/DVZx1KioF756CHPjqxoX0yackUAo+GcIGnTLZ6n/60QP+4VZnGUoeWmJgsPu9TyMBqVnkQCQ==;5SHdZw8Y9rhJiPFbXdFomw=="

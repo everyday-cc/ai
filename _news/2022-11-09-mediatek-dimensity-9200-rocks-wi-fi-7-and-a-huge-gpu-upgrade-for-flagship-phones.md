@@ -68,20 +68,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 56
-  - title: "MediaTek Dimensity 9200 debuts — can it take on Snapdragon phone chips?"
-    excerpt: "MediaTek unveiled its latest flagship system-on-chip today (November 8), promising better performance and improved power efficiency for Android phones that adopt the new silicon. Now the only question is whether MediaTek's new Dimensity 9200 can make a splash outside of the markets where the chip maker currently thrives."
-    publishedDateTime: 2022-11-08T08:01:00Z
-    webUrl: "https://www.tomsguide.com/news/mediatek-dimensity-9200"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iENFzQrToQYxCt6JRUvk45-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "v7TPLueh6Hfkutz5ZQN2krKUKoKsp7MI+yhTSCLunGQ+InbJcY7aQ+GK/36aWRw8fDL/3O8agXXQ4sd4pE1hQPIl06ypp7ljopcphPz5f9jBccS/42GZO11mhkduJa7fVMr25JAUAidL0sE5TjAJDI5JY9k6tkbjmLIMX0LWh8r91TD5e5f5qKFGaRQvwcxZ/VrBl7ALM+lvyJyuWlC8CIZEW87Z3z+GYYYxCLzqCoYaOGRQ55HrQc6DnZrQOuPEMn1d0x3jRfVAyhnL9tWy6SO90mxWD/lP6hjTYFxvXEj72HMrhIYyihzRKTHBTAZMPOI2cNA7Vn2f5lTLjGY8u/lFB31KfPDap0UgL93/DHdijPSFEPrDn6XsT/db66ziDZMn7Gp3c510lOwspU3Jx5tVpoKMdw/nkcv/71Qie0moHbgCeJdcD+8YjopsfxXmAPPFk+birj9mAXt5r1/swfjyNOx+PSXRotQujh9zg+oOVQCM4NlT0K0AKJ1Sisgc0VCN4LII9nUS0eHU9IByMg==;2kgMrFOhgtg5ER3zIciTlw=="
 ---

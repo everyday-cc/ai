@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-pi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

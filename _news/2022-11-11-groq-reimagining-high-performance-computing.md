@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagini
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/"
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:
