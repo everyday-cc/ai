@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2022/11/09/nissan-to-launch-driverless-trav
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/09/nissan-to-launch-driverless-travel-service-in-china/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn01.vulcanpost.com/wp-uploads/2022/11/Temp-1200x680-1-1-636a1c51726bd.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Driverless cars: the future of travel or a road to nowhere?"
-    excerpt: "The future of travel – or a fantasy on the road to nowhere? Sienna Rodgers explores the long and winding journey for driverless cars. The self-driving revolution promises a panoply of utopian ..."
-    publishedDateTime: 2022-11-08T13:47:00Z
-    webUrl: "https://www.politicshome.com/thehouse/article/driverless-cars-the-future-of-travel-or-a-road-to-nowhere"
-    type: article
-    provider:
-      name: PoliticsHome
-      domain: politicshome.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2022_11/KXDW45_urtni5.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Driverless car startup Argo AI to lay off 79 Miami employees"
     excerpt: "Autonomous vehicle startup Argo AI will lay off 79 Miami employees after announcing the company will shut down and be absorbed by investors Ford Motor Co. and Volkswagen. The job cuts at the company's local office,"

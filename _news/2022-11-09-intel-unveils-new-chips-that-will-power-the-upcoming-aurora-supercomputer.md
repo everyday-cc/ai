@@ -48,6 +48,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Intel and IBM: High-performance AI chips to quantum computing breakthroughs"
+    excerpt: "Intel Max Series product family debuted two leading-edge products for high-performance computing (HPC) and artificial intelligence (AI), while IBM unveiled 400 qubit-plus quantum processors this past week."
+    publishedDateTime: 2022-11-13T05:19:00Z
+    webUrl: "https://www.digit.in/news/cpus-motherboards/intel-and-ibm-high-performance-ai-chips-to-quantum-computing-breakthroughs-65994.html"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 52
+    images:
+      - url: "https://static.digit.in/default/1033f8fa57d2814cd34b4ee6eb797dbee7d8a068.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
     excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
     publishedDateTime: 2022-11-10T00:44:00Z

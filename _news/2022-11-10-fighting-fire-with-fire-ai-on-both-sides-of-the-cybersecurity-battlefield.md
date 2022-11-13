@@ -64,15 +64,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "CYBERSECURITY STARTUP VERITI EMERGES FROM STEALTH, ANNOUNCES OVER $18 MILLION IN FUNDING"
-    excerpt: "Founded in 2021 by unit 8200 veterans and ex-Check Point executives Adi Ikan, CEO, and Oren Koren, CPO, Veriti amplifies security teams' efforts to reduce risk and maximize their organization's security posture."
-    publishedDateTime: 2022-11-08T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-startup-veriti-emerges-from-stealth-announces-over-18-million-in-funding-1031886392"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "VEHWxv44zHAJS0QsKay7HdsT3xuEB4WCkaBVmG3p9QJJIxo6LNQNyq+DcKmiMaMHtkYjCow2Wp2VXZNkwrDzK1GiCjrlGXLY0q7OjptHkVPvFsSBVj5NDV9y7q7ScaKBSgRAD8B6O72Jzv26chzTJ8xw1ZxCipBL+pHSUND8/J6KeRfUjCHupCB+4BGoPSM7HayyG+nsW9aGyslYxJdz2olXnlzba31IRiPVCQkW4r/uC68AVqQpZR0eNZ1d7r9GINHvGBm46ToJuLJVyoZV+VZ7Qtz0UJsHFjKTBd6G8LowVGc1vpaldj3NJUd1YMBKwxMcdEih9COH/GXsHA7xyHjir+c4ytqXSK/GjHtbyp2/3Y/wNoqkNYE/Mete4aO5GBWsocQhYaCoonEoSiaqREmWwBT9H2SGiTgdGTStucYGW4mVJAnNpigro0yL0bi9P5UVW6ta3l/R4luGBc8E7XG6HvkcMD/Cz/xO1j+UHOgfcv/D2L4CMcdH6B4/ixzCrQ7/HA3zIptrRSz09/pe/w==;bV31dMTGKcu36nM+P0mGoQ=="
 ---

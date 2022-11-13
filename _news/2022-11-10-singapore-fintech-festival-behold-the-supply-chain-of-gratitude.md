@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Get to know the BostInno Fire Awards fintech honorees"
-    excerpt: "Today, we'll meet the honorees in the fintech category. Boston is on its way to becoming ... This Cambridge company operates an AI-powered insurance comparison platform, allowing customers to compare and purchase a variety of policies online."
-    publishedDateTime: 2022-11-08T14:28:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2022/11/08/fire-awards-2022-fintech-honorees.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-
 secured: "369uSRZskMFIxEQd6GVDFep2NqyfMKsGi3GRVHmTpH5lIIq5jjZN+Es2mgK+s6Vj1JKOSZJQn4Y33x09jsfbqOo/d93BolcMW0iNDpd/b2fOS/SMIwIyzYhDNGejpGz95pb0NEFR1Lgi0Elf7QPkVMtrSfxWitYFLhYX0gRtPYGXSNEuUAnUzxPvR84moVVTZELModtuiuqMvcKMIc6cRj4fINqS+vWLCBm8473ayAR1NdKk2P8ZkogfLrPO3puVity3Y6GfO6zcyuE9sNMentjJSHdbJ6psEp/h2hMRoET6x/6N1G47Jt8KyuRy2mNEHxoOQ4aLFQ1Jl0XUYg96ckELajAACfnqiBF2U/h1/hkXqVrOdYV5uXsjB+SXBCePT9jorg40wA0gWfcrxSLhn46l8EQqIDqVYK//Pd4PR6HfIckFVB1rToycMZA9EtMDCpi8xj1/tCFmII4MvxRu2rVcFhDGVBSMsaH1k/hRLd0dlPQIBFAgwB9EHPqCQD0uaTZHDn0g1sa6p66RpEkwGQ==;tsGqRwEkZyGi+ejIukqOPw=="
 ---
 

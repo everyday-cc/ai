@@ -38,15 +38,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Study assesses the quality of AI literary translations by comparing them with human translations"
-    excerpt: "Recent advancements in the field of machine learning (ML) have greatly improved the quality of automatic translation tools. At present, these tools are primarily used to translate basic sentences, as well as short texts or unofficial documents."
-    publishedDateTime: 2022-11-08T14:31:00Z
-    webUrl: "https://techxplore.com/news/2022-11-quality-ai-literary-human.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 6
 
 secured: "XqqkAnQc8SeWcGCleSuVf4GnQZmXaHOPokfkbqJky/LymwRX+bceJgVJJhGvSbiMnTHu5pKMY5bLKdspkDoMhFNvFlcLYRAw30XmibEzOtVhzF93Taea5rztUmUhLPn5mxBrutyBsH36W/QoM7Y99Vo1SjDh1iObUY0sAKFTYDeSEtQzRDiQA26WAQljYf9cGi1tWDB47fEZvEU6HeH3whX+CTidioINI1lfzIPsV50mbXhuMX6CDWvPXalxn/HSdj4m1pdOIYQP3pZhRlNQao0oLcSbSN5DW4XvTrFvbyrJwjcEXWIZ69nJ4d7xxDy72JInKZEiD1qIgEy/5fyqh5+CE+zjjr0fUaFwH9CbgWM=;Kueoyqe79TZ+eHy0CP694g=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Tech Industries That Should Boom in The Near Future"
 excerpt: "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect"
-publishedDateTime: 2022-11-09T17:05:00Z
-originalUrl: "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future"
-webUrl: "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future"
+publishedDateTime: 2022-11-09T17:26:00Z
+originalUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
+webUrl: "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future"
 type: article
 quality: 24
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: theatlantic.com
     quality: 34
 
-secured: "E7yqxzKk4NMfDqv6etotmRaaD0eONViBq7VIelp1hjF8LzJsAIL1mYhLKf3CYLEbDoBUhai13ZHZj8YyddQG2E5qTZIB25oGY07lA1kiavK9yAqewhVR2+SdCMsl4TqR/dSk/Tb8S58BAN0rQLbERoXmqtd6DEUjQJCs4Bpl1W9gXwsrERiUzq8rF5kXcj2VymTKdKg6ySh1N6tY/XzbKKPHtHpCuMd8pou4tWXGZTGGrnmYOvY0fYJ/k/6Zq/k2v3Py8rLbzKMv4OyRwtTcf3lZRYDKOF1bXx+fa9U4268VzzMooMKp9fRtcFViAcfqjeBVGzI3tCIwsola46Ql2FjX1zxSWJxSlp+O4O9cJ/g=;tkj14K23bfsA3jv5fW+n2Q=="
+secured: "492DEeUUTQcYQw6Wn5Y+cDkt6k+SW7mdvPsFDtBgtKsVynU2Vc5J0B1+NRylQIXb1IspRgW4Ec/PdDA9D2VMKa5Iw4ns2f077on+/60aq3BiB8ybousqc8tNJxo21jfqVTr8YpKUOKgNtb329DLQ2pHWNdF4n5jHy2oBCbJ/5utlJEo0xYDXFyr0mKAqL6W64bvc1baSLjY5sVgLFQ/GQbgIz8QIl/D9S06oBCjZ1S87hRGS5Y8PudrPy/A6pBlFEXQecjFop5kZ6W3ue/EwV3kIXyWIFcYKzZLcXS/ZkWhJv/XwPyUV2QpnPlIsfc5Ym6q7mUXYgFnVZFCzEVsXsomIJuuM+VZfdbvywgucZbg=;E5zTnxg9M8lwW2l7dc5XuQ=="
 ---
 

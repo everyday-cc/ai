@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Intel unveils Max Series GPUs for high-performance computing and AI"
-excerpt: "Intel has unveiled its Intel Max Series graphics processing units (GPUs) for high-performance computing and AI applications."
-publishedDateTime: 2022-11-09T13:59:00Z
-originalUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-performance-computing-and-ai/"
-webUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-performance-computing-and-ai/"
+title: "Intel and IBM: High-performance AI chips to quantum computing breakthroughs"
+excerpt: "Intel Max Series product family debuted two leading-edge products for high-performance computing (HPC) and artificial intelligence (AI), while IBM unveiled 400 qubit-plus quantum processors this past week."
+publishedDateTime: 2022-11-13T05:19:00Z
+originalUrl: "https://www.digit.in/news/cpus-motherboards/intel-and-ibm-high-performance-ai-chips-to-quantum-computing-breakthroughs-65994.html"
+webUrl: "https://www.digit.in/news/cpus-motherboards/intel-and-ibm-high-performance-ai-chips-to-quantum-computing-breakthroughs-65994.html"
 type: article
-quality: 64
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Digit
+  domain: digit.in
 
 topics:
-  - AI
   - AI Hardware
+  - AI
+
+images:
+  - url: "https://static.digit.in/default/1033f8fa57d2814cd34b4ee6eb797dbee7d8a068.jpeg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Intel Launches powerful Max Series CPUs and GPUs for high-performance computing and AI"
@@ -39,20 +41,15 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Intel and IBM: High-performance AI chips to quantum computing breakthroughs"
-    excerpt: "Intel Max Series product family debuted two leading-edge products for high-performance computing (HPC) and artificial intelligence (AI), while IBM unveiled 400 qubit-plus quantum processors this past week."
-    publishedDateTime: 2022-11-13T05:19:00Z
-    webUrl: "https://www.digit.in/news/cpus-motherboards/intel-and-ibm-high-performance-ai-chips-to-quantum-computing-breakthroughs-65994.html"
+  - title: "Intel unveils Max Series GPUs for high-performance computing and AI"
+    excerpt: "Intel has unveiled its Intel Max Series graphics processing units (GPUs) for high-performance computing and AI applications."
+    publishedDateTime: 2022-11-09T13:59:00Z
+    webUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-performance-computing-and-ai/"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
-    quality: 52
-    images:
-      - url: "https://static.digit.in/default/1033f8fa57d2814cd34b4ee6eb797dbee7d8a068.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Intel unveils new chips that will power the upcoming Aurora supercomputer"
     excerpt: "While the new Intel Max Series product family is powering the Argonne National Lab's latest supercomputer, the chips are really designed for mainstream high-performance computing, Intel says."
     publishedDateTime: 2022-11-09T13:59:00Z
@@ -111,6 +108,6 @@ related:
         height: 720
         isCached: true
 
-secured: "uzDxA6BLiYvFE8f9kzN6KtTLcyfNKf58v7VTITe87wBgHLa7iInEmH6M0X0q0YbzXkW5eNXHD++DpyQoLY9pu1ARA8y5cswL641KShtPC/XnLMI1+GtLbAJlGEGMT075cXPAJIR/CXYVCX2sl8pJpigUku+DyvYg+cuXdBnj9iCONfsF7NNQbv4zxRFGVA/KvWKlO9MqnCLj3Ys8NjsZ6y4hA5/sPCTTldhUA2QqoslK35ofHjpZX1xX5BXQC+h566w91jLX8YPv0XO6b+AajoPpA47AMxI9qeGrpSxPTam7D56bv4f2O58ZWdY/18H7vAxk6FIpEJZQ8Ei+KNSRzEx3cV/Cv5lb6K3+RQn8nEfqn0VSMKYt8IqeRlVngL6fdDv3/5sECeP1h2qglmaH1nPr1lMBq+VdBoSxn0686o8IZPPJPv6qQu9256oSdUeOgxyAC/45jbC9mBA50WIn/bRSESD9LFAB1fJoVk6ZoGnmlAL3XkhwqdDactH8MN/hDlBJ4+QxtLCtoWfjRSbJtA==;6rYXt+nVgyuf0ymdgzz3jA=="
+secured: "CWTmjalR/nt5qS8OQ1bN6dDkQsDJufeFoDEB22fTsz3GgsJlDQ8Sw0v52On+Wfo7Yb1Rlsu81iyphVO/Ja9tw4cQdtmPBylXmpC4u1X0Cd8KkQDxKmDq8u3S0nPbaZZc5Acq0x2l8sI7Wy+7emMUlp6G8mwaInJeSLoKFATah7xfJpZTDUyGvD8nfRrveUBnx3zXcLzc83PtZQ9JqmcEgdnCJIf6qfaQcX4enfFob0mIbBPQhdvfGWwnNdDy5U8vgEH153s5/ptJMC7aQotd/jsOcWsKVvksVUlgtcNVonh3zPunAD7DbucZFtgze5sEq9qnnQ9d5BUHOwvCQoOInHwSbjOfm++kxCJxnwdBfEw=;99Nc810FgqTigVROSM69Xg=="
 ---
 

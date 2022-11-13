@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Driverless cars: the future of travel or a road to nowhere?"
-    excerpt: "The future of travel – or a fantasy on the road to nowhere? Sienna Rodgers explores the long and winding journey for driverless cars. The self-driving revolution promises a panoply of utopian ..."
-    publishedDateTime: 2022-11-08T13:47:00Z
-    webUrl: "https://www.politicshome.com/thehouse/article/driverless-cars-the-future-of-travel-or-a-road-to-nowhere"
-    type: article
-    provider:
-      name: PoliticsHome
-      domain: politicshome.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2022_11/KXDW45_urtni5.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "6pjIONRF0chr5AOSIFYHKakygZi4BwwlR18JTyaAFjxwa343nBHJVpnfNzxUlhhFsOVWyfS8/V5bbH3pw1qtLF4OZgIV6tUtM+i4ZaYjC7K5XG8jODR70lwWFFW64Ww5ApoQlmZPC8Y09K1UzoMcmRN98ReLh0J4O9068OeJGvG6Daqh4GLu9C25vdIsJ0XBarWuaCkkxlg8abBRc7M79ww0P7fE2TjyV7B9tV52ZnUsqnyweY6Hhi62hodm9DKAS245hRlpocSrJumB+245z3CNhQv4s9VAknRSuNIvp7YYQFsyC7jVpVusvE78AU2agsdTYGXnhUCZ4aPn+FzPs8bg/CeDvTJBqcQ9lWsIeRF82YAqFuMF8XWr3Ajtut8A6RTkbWNSg3xmesktB0JmZYYa6g/6y6DyK/n7QrG2jbRkI5gDNMklvJb5HXAaXBshaZgsZZIddyxFxVwIMpTWecrOoCzEs5sjz3otMmxahDY0QdDh60fVDWmasUeQ2IArPiRT3BYiLRpOjd9uRosIDw==;L9qwNMjqM5H1KeKjOsiIVw=="
 ---

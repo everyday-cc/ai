@@ -23,17 +23,6 @@ images:
     height: 678
     isCached: true
 
-related:
-  - title: "Samba TV Acquires AI Startup Disruptel To Boost Its ACR-Based Measurement"
-    excerpt: "On Tuesday, Samba announced its merge with the St. Louis-based AI startup Disruptel to bolster its machine learning chops, namely in automatic content recognition (ACR). Terms of the deal were not disclosed. Disruptel launched in 2017 with the goal to ..."
-    publishedDateTime: 2022-11-08T14:08:00Z
-    webUrl: "https://www.adexchanger.com/digital-tv/samba-tv-acquires-ai-startup-disruptel-to-boost-its-acr-based-measurement/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 16
-
 secured: "QeoqfpzPbQAuhepHwm1dn+TpdhXJVeVyP+Qqv9QDAa5xYvvxxukuYKZoHpfBwkG7VUx7KWDz8q31S2g2dPJA7az3f8/41DlJO7VV+EBEFco86A776nzGjx0699A4fQKQj2zx08FV/v14q9Fqjn0T4yMf3/Z4Sk6gNZ3beyxwClNwWAQEvC83Dh3cStxQ2qadP8WxhPlcF6Su57xZWM0L5UiVWE6c0jmHF7hDcI7RTu5fPL/jmI1byz4jdNv+LlNxy5XhTSZkjvyEeXGyE23JO+HMRBcIVM/bBPm/DglSOouJ8yl8uwk3tCv40E/dEWzykKNgIl8npraXMK+pmfmRGZORP5MdgUuoBiq3VVNiU+k=;ULuXJv2hwsss5KETWLkSVA=="
 ---
 
