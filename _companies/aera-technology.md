@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Aera_Technology"
   url: "https://twitter.com/Aera_Technology"
-  followers: 2647
+  followers: 2646
 
 size: 201-500 employees
 yearFounded: 2017
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Aera Technology"
 
-secured: "7EEdPCH0HQYx06uUldgPw3gdzLvDmXtN0BmBE+9IaChCH6I61yYoERguKerspKeTtx+sN3heV9wO3pymoU1BdpcYn8bKS1nGxyNi3nwoB1EzI+ElpaJSDwFUU6H19rpkOeqRIOUhocYQi7KBS0yBU6AV9+lMVUO+1vfUAOvtCSXsEKW6JGcLWS2cL69V1gw2ToMNVyMZRwuRWGl3/r6dfWl4LAY+50+zpCegHZedHp5P12vCw+hUOlud4w+XO0/VDjQPoI+kGpx9QOh9zLQu94gfmPyCEx8GybYI8XhEfDAkBsCtGgzSVshLZFnqKDXoCppoXkINV/14N1Jko/VWM7IgZ3UrNaiCFV5BQPJ7C9K/JC2NVvR2AXGzrlZReaybJB2ly/t5tV6BLSl1g2i2ah/ezqCs9Irpdr5OopTDRBM=;jxQToGrHX9MOCOKz9y28sw=="
+secured: "NPgE88p/LL6ZtSP0b7fS9HLi6KAuAfFRAaF7mH6Fv8loQ/qDaLbFEyTnQYq1ddstXR55M2IKE0F8hnMMItxkhuoxsutuLSryB6Ikp7zgctLorzUwxaiKaOoqF3tqfNJphaW0iN4+TXqRNrNAh31FgQYebLn59SE39jF5Er63RysQq9MESlkbJF/DP2m79W7E2kb522t7iborXaBU9Ug1T85hR06IN03Z71o7N/xl+VNRv8baIKchFUnaJ81w82ROJa7hP2oxSgnMp1LxYA8Hys0byqvWOrjRwDn4EcfJvlxv4K16aZQFcYEShzmprJ0sZ5IGNoxQsYIJHpXKsbbN+KI3dxZ3uSdOgLLqo+FmzFgHT8ZjyueBEKTJKX3Yd34XCQ4Tk8/47pLqC37pCjFweT5fWcHRmEB+SQZHbFaMfXQ=;QOzCJ0R/gJIyuC2ApeMw1Q=="
 ---
 

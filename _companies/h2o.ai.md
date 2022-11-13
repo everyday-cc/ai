@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "h2oai"
   url: "https://twitter.com/h2oai"
-  followers: 23439
+  followers: 23435
 
 size: 51-200 employees
 yearFounded: 2012
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "pNgduMQHyv2cx9+dlI3RY1jUAFBY/iDHa0/FmvKXxmLkr2BxNPWlSDDb4HfjXGVzDTgtBnBsxtZOMRy257jH77xFlHYAziLC1DOkay7iX73xORQnjw9WIkjJQyj91+NjbvX7XRzVgFpOeBlfaE+W3a0MfZ0BFnn8A0u6PY6qkaH6Vyg4CA4ZWa1oOUuZQ1HiLv0a0znvXvYa7npr52fH6ZTS8YH38PYZJb6WgbEHetMerfYxadMb9yC73IVuSkENfq/POe6kttZboVBrV3OOFQcEdpuSoHKGKt1lUdFknsmOu6r0T6dXwUjF5tFB7VeNkkePt4Qe5bbUTQWsGmVs4h/Vtrtzx1PRZuHOB6DeCema+FSf8/WM/JPHPxVxdsLfEGOijTN1i+rMlSSeiuR7a8sHpSWte/eLH3ICt4LzUNo=;lfjqkEWuuBSQ2e+3MpjfZg=="
+secured: "K75N7CH9PWs5OSeXx7weFXZZatnVsWXb6mX9Jruz3JEUx13OxBlyN4vS//8OQgymFDKQVfnv+bsLJ3KmQYFpHuXTw3f898tG9ZVKy74bsr0gLuVdLxWw9wCj0+fBV99IxC/kfqGyRf61MBogQJ2iAYnzKv2e5Cjvwtyu7ZMbHE+fQyNtgL25CGvFwczW/gwT/7QZoGrw3/FXADSEnCddz/woiOZsHR2p/OUCcTQZHYx4l5xhcLmWr+7XCGjN8Vzj2wXVPj7NLzIFu4RwOYEd/9SgSwUksYzXdPg9BOy/nwzOsHGnD9RGIqy1oOux4PJYSu5z/hyIIKa9oL1GEit3HGJ9rhCnhR9qrORAQBgy2G5hpIdJfuIHrkShLmOIdT/v45aQbIrtVyqnSKhjesBZ38I+LfPtD1kY3tGR/OaFSIU=;AJWCWmKJSccF78FiJCSN5A=="
 ---
 
