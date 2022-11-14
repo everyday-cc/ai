@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Law Market Share, Size, Revenue, Global 2023 Latest Trends, Boosting Strategies, Growth Opportunities and Forecast 2028"
-    excerpt: "Global \"Artificial Intelligence in Law Market” (2023-2028) research report gives an outline of the business with"
-    publishedDateTime: 2022-11-09T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Iot Market Size Projected To Discern Stable Expansion On Outlook, Size, Share, Future Growth And Forecast 2022-2031"
     excerpt: "The global Artificial Intelligence (AI) in the IoT market is expected to grow at a CAGR of 27.3% during the forecast period<br />However, during"
     publishedDateTime: 2022-11-10T11:36:00Z

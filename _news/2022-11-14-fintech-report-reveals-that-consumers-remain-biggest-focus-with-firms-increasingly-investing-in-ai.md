@@ -43,20 +43,6 @@ related:
         width: 1170
         height: 687
         isCached: true
-  - title: "Finastra and Modefin partner to provide best-in-class fintech solutions"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T09:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-ekvdblx5"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:Mzk4NjgyMzYtMTc5Yy00:ZDkxYmM0/galadinner14june-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Egyptian fintech Blnk raises $32 million in equity, debt funding"
     excerpt: "Egypt-based fintech Blnk, has raised $23.7 million in equity and debt funding, and $8.3 million in securitised bond issuance."
     publishedDateTime: 2022-11-10T14:13:00Z
@@ -67,6 +53,6 @@ related:
       domain: wamda.com
     quality: 19
 
-secured: "b+neKbGixbs5lenGYtwEUkCQsTlJICnbUvWFzT6MVwtqGtvCMiLy6oAZKD/+2Vbsh7QLsvD5jg7o0pwGZFf8OnpFZVxodWhEKYSMGgtcoEBNS2SPOFC4UhM5hPDXuH7Q8Lzap/JxJnG4A5Uy5Z+6PlnqHldEZM1ZimWTj+iDPTiI8wRvyegd9Tj0iEViRQD0FHyPO4X+ow2VzCKJ9hmKRtffOR9PDyFu+6rDYRsu4zN3H8yPAjwzMeThmrcUVoC4hq8NyX66YINNpSHWtSQOhhg/Jptbp+9+HKHh/qqHfoQEP6b7YLwNXmJq9RGkAVBt8uUWRbTeKi/R1lm8kstRWNCZN4Aat2L66xRYDO6hc4Y=;dyBOnSbykyE9z/oSvjPw0g=="
+secured: "NMHTTQlFpEXgPDuFKprokHHZS2DHFYxgNc4BBPVBJvqkAqkXlXa/BbXqm4wFulUL80e2B7Y2IYxecE0xCSj3AePnNYJuVa29RV6Xk8k4/f6ac0yFVDe0xbS9UDttk0kEAny9a+0Lru7cxH53qrAmTi5n9fFc/Z2T15EDSKcNiL/YGhdD3VPjx9dxAO7fsYVHBcQPW2LR3zzZj4e3q1xgp1pxmJ2hJu5HQvqW5sZIwfAWCEtBNhT1EA2ul3SMRu55urOf6Wu5PzNm6uf/KEdJ4HZp/H70eJ7Dykc5Umhmqt4CGhhga9CbrBdbKR3RvBlBsf5+XuxXq1L+8g6k4PIPKIAaJ5SM+utypDr1HcgBEp0yOBASKItv7dARG84MAUsS28kjANlqyztC36lBPb2LtygG+Kn74H5gyhNvV/efO67nYhZHxm/jTDNdiMXKN67sV8c0iUm9PSkyhXl6z09k4mnaqXdBIO02L10zYWCmWLWSVSvqy8Bdsu4WBu8zPSzyitWVt4l4svaTkOKELfPOcQ==;BWCM0oN8bncNjMrTURe2bQ=="
 ---
 

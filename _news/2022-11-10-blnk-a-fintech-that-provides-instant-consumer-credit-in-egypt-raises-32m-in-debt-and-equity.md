@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-insta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Fintech-New-York-City.jpg"
         width: 1600
         height: 1186
-        isCached: true
-  - title: "Finastra and Modefin partner to provide best-in-class fintech solutions"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T09:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/finastra-and-modefin-partner-to-provide-best-in-class-fintech-solutions-ekvdblx5"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:Mzk4NjgyMzYtMTc5Yy00:ZDkxYmM0/galadinner14june-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
-        height: 600
         isCached: true
   - title: "Egyptian fintech Blnk raises $32 million in equity, debt funding"
     excerpt: "Egypt-based fintech Blnk, has raised $23.7 million in equity and debt funding, and $8.3 million in securitised bond issuance."

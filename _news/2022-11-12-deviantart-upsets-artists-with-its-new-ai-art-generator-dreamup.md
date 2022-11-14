@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-up
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/"
 type: article
 quality: 89
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://d.newsweek.com/en/full/2148239/deviantart-faces-backlash.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "DeviantArt Launches AI Art Generator"
+    excerpt: "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t"
+    publishedDateTime: 2022-11-13T23:07:00Z
+    webUrl: "https://www.pcmag.com/news/deviantart-launches-ai-art-generator"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06RnNZE6O0FQ1E9Zpcfv8ew-1.fit_lim.size_1200x630.v1668380788.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "DeviantArt has its own AI image generator"
     excerpt: "We understand why Google would get into AI images, as it is a gigantic AI tech company. However, it seems rather ironic that DeviantArt would make an AI image generator. The company is all about sharing your own hand-drawn work."

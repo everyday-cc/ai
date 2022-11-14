@@ -1,22 +1,20 @@
 ---
 category: news
-title: "DeviantArt provides a way for artists to opt out of AI art generators"
-excerpt: "Rutkowski and others have expressed concern that AI-generated art imitating their styles will crowd out their original works, harming their income as people start using AI-generated images for commercial purposes. For DeviantArt’s part, it’s ..."
-publishedDateTime: 2022-11-11T14:41:00Z
-originalUrl: "https://techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/"
-webUrl: "https://techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/"
-ampWebUrl: "https://techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/amp/"
+title: "DeviantArt Launches AI Art Generator"
+excerpt: "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t"
+publishedDateTime: 2022-11-13T23:07:00Z
+originalUrl: "https://www.pcmag.com/news/deviantart-launches-ai-art-generator"
+webUrl: "https://www.pcmag.com/news/deviantart-launches-ai-art-generator"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: PC Magazine
+  domain: pcmag.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/06RnNZE6O0FQ1E9Zpcfv8ew-1.fit_lim.size_1200x630.v1668380788.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "DeviantArt provides a way for artists to opt out of AI art generators"
+    excerpt: "Rutkowski and others have expressed concern that AI-generated art imitating their styles will crowd out their original works, harming their income as people start using AI-generated images for commercial purposes. For DeviantArt’s part, it’s ..."
+    publishedDateTime: 2022-11-11T14:41:00Z
+    webUrl: "https://techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/"
+    ampWebUrl: "https://techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "DeviantArt Faces Backlash After Announcing New AI Art Tool"
     excerpt: "\"AI tools help artists' creativity, allowing them to express themselves in ways they could not in the past,\" the online artist community's CEO said."
     publishedDateTime: 2022-11-11T22:49:00Z
@@ -61,20 +75,6 @@ related:
       - url: "https://d.newsweek.com/en/full/2148239/deviantart-faces-backlash.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "DeviantArt Launches AI Art Generator"
-    excerpt: "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t"
-    publishedDateTime: 2022-11-13T23:07:00Z
-    webUrl: "https://www.pcmag.com/news/deviantart-launches-ai-art-generator"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06RnNZE6O0FQ1E9Zpcfv8ew-1.fit_lim.size_1200x630.v1668380788.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "DeviantArt has its own AI image generator"
     excerpt: "We understand why Google would get into AI images, as it is a gigantic AI tech company. However, it seems rather ironic that DeviantArt would make an AI image generator. The company is all about sharing your own hand-drawn work."
@@ -136,6 +136,6 @@ related:
       domain: kotaku.com
     quality: 37
 
-secured: "FfczYnn58mY+F4bs13ATVZkbA7VNK3YrXuo4kofcuczy37MEOxwXh88jA4n+Xm0ZFyazFvDBJUEILWa6gIfMFQlyftO1WX7qJvio1FtuqszfhhARobUKnYJkwElGJcM+vmHbUUmrGrW8O/sn2LglQUrHS36VgzSJ6ipNk4ZxkRU0u15cjGBYZnsluL5lpukbBqjapEVIqW9XTs62G5HKDA3qiOJueYvA8/lAXezzLwTVCe593MaO8fLO4bXDxx90SLv2ZqtwN5wqjhYmfWjyWUSPEUbXJbOb1zYjBcu/hfFO8/IOLW5Ew7PMYACRBedJq01qKNXDcMovqJ2b3u9UMzA2y2AeaTPHPIc9wwgk8TmKtkHgH0VqqQ6wb3K+askN7IlxzzAnv/STloxjhkMhX7cPJleLRzL5a1hNrsK0YoaNmL3eHznYPrq8Dv4mrgLv58z7s7iSpMgCh7sDnxc++o9noINAEvq4+MZSm2xi0OTRK14TDeglob/7FKOZ4h1PRcHGaywZaIwqd95ZxsTwhA==;shWGXb7K/6qqdGO0rQUGsA=="
+secured: "LWrNxo4s1NMgojt1knadJW+5u/KnNg6jd1VxTlTb94mXK0zknjMkDKSpz7qkZayafxmWVxLT8HKR72+f2lESKrbZseF10Y1MAbuaIvNj1qTo64dxw2GTjFB7GJHdMETHUqHXjLEPODDGw90sxvKibJ1sA4Nbd4nmTb8xJ4Jtn/ezmOp7y5xgB9pkev8hPP2yJL/zUx+AyrK2SYBLQafxYenZHvToSjaSGHe5tP+CKFgHrvEjeMG/OuVwYn9Y1u20luYiTExdbjKoFwNI6gQyW94jha1LtYHpT6dmb6FfmlGhvkobDYCVlKyOVvPu7hSPnhkPULXQCEk4siiYUeleqsazjNZWQGDmqI3wqbDvMhU=;oKgoOw08EYM7Bqu1AMkPRg=="
 ---
 

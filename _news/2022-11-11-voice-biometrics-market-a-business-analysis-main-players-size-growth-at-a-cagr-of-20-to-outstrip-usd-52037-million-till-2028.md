@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Big Data Market Will Hit Big Revenues In Future | CAGR of 15.03% by 2029"
-    excerpt: "As per the report published by Fior Markets, the global big data market is expected to grow from USD 160.18 billion in 2021 and to reach USD 491.02 billion by 2029, growing at a CAGR of 15.03% during the forecast period 2022-2029."
-    publishedDateTime: 2022-11-09T10:18:00Z
-    webUrl: "https://techbullion.com/big-data-market-will-hit-big-revenues-in-future-cagr-of-15-03-by-2029/"
-    ampWebUrl: "https://techbullion.com/big-data-market-will-hit-big-revenues-in-future-cagr-of-15-03-by-2029/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-market-will-hit-big-revenues-in-future-cagr-of-15-03-by-2029/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 43
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/Big-Data-Market.jpeg"
-        width: 800
-        height: 505
-        isCached: true
   - title: "Image Recognition Market Is Estimated To Reach USD 86,001 Million By 2025, Registering A CAGR Of 21.8%"
     excerpt: "Image Recognition Market The increased adoption of cloud-based technologies has been one of the main drivers behind the growth in the glo"
     publishedDateTime: 2022-11-09T18:30:00Z

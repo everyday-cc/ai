@@ -261,7 +261,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -511,7 +511,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1205,45 +1205,27 @@
       ]
     },
     {
-      "path": "_news/2022-11-09-how-insilico-medicine-uses-ai-to-accelerate-drug-development.md",
-      "title": "How Insilico Medicine Uses AI To Accelerate Drug Development",
-      "excerpt": "Insilico and other companies using AI to develop drugs have cut the time and money involved in the process by as much as 90%.",
+      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
+      "title": "AWS Launches Infrastructure Region in Switzerland",
+      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636b6ae0a6628a2dceaf29b9/0x0.jpg?format=jpg&width=1200",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
-      "publishedDateTime": "2022-11-09T00:01:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1252,6 +1234,7 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI"
       ]
     }

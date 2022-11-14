@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Law Market Share, Size, Revenue, Global 2023 Latest Trends, Boosting Strategies, Growth Opportunities and Forecast 2028"
-    excerpt: "Global \"Artificial Intelligence in Law Market” (2023-2028) research report gives an outline of the business with"
-    publishedDateTime: 2022-11-09T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-share-size-revenue-global-2023-latest-trends-boosting-strategies-growth-opportunities-and-forecast-2028-2022-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Face Recognition Speed Gate Market Size and Overview Report 2022 by Recent Developments, Industrial Trends, Top Vendors and Forecast to 2028"
     excerpt: "Nov 10, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Speed"
     publishedDateTime: 2022-11-10T05:26:00Z

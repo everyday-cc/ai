@@ -75,6 +75,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "DeviantArt Launches AI Art Generator"
+    excerpt: "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t"
+    publishedDateTime: 2022-11-13T23:07:00Z
+    webUrl: "https://www.pcmag.com/news/deviantart-launches-ai-art-generator"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06RnNZE6O0FQ1E9Zpcfv8ew-1.fit_lim.size_1200x630.v1668380788.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "DeviantArt’s AI image generator aims to give more power to artists"
     excerpt: "DeviantArt, an early internet-era hub for visual creators and communities, is launching its own AI art generator."
     publishedDateTime: 2022-11-12T12:00:00Z

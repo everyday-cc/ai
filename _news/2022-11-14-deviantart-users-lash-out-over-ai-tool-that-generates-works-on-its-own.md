@@ -74,6 +74,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "DeviantArt Launches AI Art Generator"
+    excerpt: "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t"
+    publishedDateTime: 2022-11-13T23:07:00Z
+    webUrl: "https://www.pcmag.com/news/deviantart-launches-ai-art-generator"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06RnNZE6O0FQ1E9Zpcfv8ew-1.fit_lim.size_1200x630.v1668380788.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "DeviantArt has its own AI image generator"
     excerpt: "We understand why Google would get into AI images, as it is a gigantic AI tech company. However, it seems rather ironic that DeviantArt would make an AI image generator. The company is all about sharing your own hand-drawn work."
     publishedDateTime: 2022-11-11T16:19:00Z
@@ -118,6 +132,6 @@ related:
       domain: kotaku.com
     quality: 37
 
-secured: "T02NFMoXbC0NLx4hLmEYM6g7CrwejjRqjDp+AhAFo2BOLaArhEfGKGGcXz0z4zhQVa5b7HsucQhRyXCxFPkuPVEoSjgOdUVD+btjuVfDclpWM1OGMWuikcDnHVMFyUj0FAE4Sp5sfL2HhBqEyBOlCLYi8WjpoByHRSVkSPhes+95wrMPbc5FxRs53/CDb/5EyScDuomDN1KHS81YtminBtNRKUs5oWFYbjq1HXcZYNreKx7NKmmz9kfwhc+7fUFnofVOidPlPmp5wS9+R+PCjYlVdDVeaCSbVuL3590COoPrYJZG3M1Z8afCx/YaBJGk7KOZSAJEcumDbLFAXMiiZLpR3xmXW5YyuiXrftZP+FI=;lpyhNsSy6hznF8cAP6x16A=="
+secured: "niauZgV59REDXCIo580+sHc6ULR4CBrG4zbN8pHYxfQPQeN1kKhCs5I1WY4iGBb+fZHDlQ5EqoHs8EuLY6TCB7WQ4jMO94YHRD7cntEVxf5AX/IH4SB+HN3HvOmHZntMLsIiW6DqUsG9AHGQKG5iPpYWduzDU0bdJJDWVjjkejnZ5cTPfOvQxPqDSZhGO53uPWYa2Jcf2hOuk/B2TisUaKZ/tKfBmzO38XmWPLPpNRO5jzgVgXIylBc1sRQAXtdHO6lXZundNXLnuw4KSwTUqG6hvVzbzRgn3+gRCHFQPRIyGJvuHdsqKvjoCiL2/p9b7MQO3oZ0yCaldXjcSjP9TXXR7VNSXfyyGLmGjuD9r4qufQTV/FiJAJDFZOblE9u7RwI5KTn3YrlOgfBpPAFiuEM5jRCvgyo5HI4eYYrwf+aLF2Y5uu9h5bpAH3xx16x2wp8NIWckBPM3rEvAP1DNp5p0cZJns2yTKiauEE9+ZcQGfNxuTcFu/BhkFYNy2FAtE9iKUldJnDPqFTkPRjA2mw==;lCryZgCq0GsaGhIvyQj6TQ=="
 ---
 

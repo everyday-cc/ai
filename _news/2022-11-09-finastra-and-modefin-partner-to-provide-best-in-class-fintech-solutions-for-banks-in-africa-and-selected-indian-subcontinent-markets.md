@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finastra, Modefin partner to provide FinTech solutions for banks in Africa"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-11-09T10:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/finastra-modefin-partner-to-provide-fintech-solutions-for-banks-in-africa/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Isle of Man launches Fintech Innovation Challenge"
     excerpt: "Digital Isle of Man (an executive branch of the Isle’s government) has announced the launch of its second annual Fintech Innovation Challenge, an opportunity to engage with international stakeholders and industries in their digital ecosystem."
     publishedDateTime: 2022-11-11T10:41:00Z
@@ -53,6 +39,24 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "AI, figital and banking ecosystems - FINTECH360 international conference was held in Yerevan"
+    excerpt: "FINTECH360 international conference held in Yerevan earlier this month brought together over 200 representatives of leading banks, IT and telecommunication companies, payment systems and specialized associations from different countries."
+    publishedDateTime: 2022-11-10T13:48:00Z
+    webUrl: "https://arka.am/en/news/business/ai_figital_and_banking_ecosystems_fintech360_international_conference_was_held_in_yerevan/"
+    type: article
+    provider:
+      name: Arka
+      domain: arka.am
+    quality: 23
+  - title: "11/11 – Weekly Fintech Recap"
+    excerpt: "Partnerships SPENN and Mastercard Partner to Boost Digital Inclusion in Africa Spenn and Mastercard announced a strategic partnership that will enable Spenn Mobile Wallet users – even those without bank accounts - to make safe and seamless digital payments on the Mastercard network including international e-commerce transactions."
+    publishedDateTime: 2022-11-11T19:49:00Z
+    webUrl: "https://financialit.net/news/blockchain/1111-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "PofGT7R34y3wjcWWXNtc1rSNbtr43ctz4l4Lv1UV+3PVYF5wRnzUS62+dgk4rK/GYTzhNz/ljBcDE68cHAEVT5W9sSrbWPcUUoISGXh3NTIeXkaM668tNlSl5HXQJbJY3zmed+2boPQRRYB9BjvMKcQbfAxVy7mVZJl8D6LRrQSXU1yVE+3fWq9EA8ouCCbOkO7HWTTxebFE/xYxrALC4IS61Yn/q30jNh5/MHcAee0Ld39ckZ8IjEZqzBwRDROCshdKY5vpGdwjp6mTAi28Bfez9S+FWh9xk8bAvwcJ0XaP+lE+3gOUhGpGmPqAxF+60x3WiJxgV+KX1g0IeleZeFl6a5HQDUrhl3K3lvc70SY=;GxEeEyfJiUnfRZ0uBX2sRg=="
 ---
