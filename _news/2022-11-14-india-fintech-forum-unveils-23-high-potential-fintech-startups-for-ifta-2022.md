@@ -24,6 +24,26 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "India FinTech Forum unveils 23 high potential fintech startups"
+    excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
+    publishedDateTime: 2022-11-14T20:41:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94864/india-fintech-forum-unveils-23-high-potential-fintech-startups"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "23 'high potential' companies selected for IFTA Fintech Startup of the Year award"
+    excerpt: "The India FinTech Forum organises consultations, round tables, webinars and meet-ups in several locations and seeks to drive policies that accelerate the growth of fintech in India. It has more than 2,"
+    publishedDateTime: 2022-11-14T13:29:00Z
+    webUrl: "https://www.cnbctv18.com/business/companies/fintech-23-high-potential-companies-selected-for-ifta-startup-of-the-year-award-15164081.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 0
+
 secured: "C2VOGnbpiAez4MONFSMh6/QGwL1iph8EiYqclWCUUjaU3hfx5dn4ol0a3O0dkymHshjcsQkWbvSIvCqXBTcMDdugITgiRiHrNT7XdkMY8IW9qsnBG1pQisKE19y4WKs6ocQKamG0BhKo/EaOsZMqXvXTSoGnlCU2KSb9ZSbDUgIaHmnKHwjd9uNYONpzrDyq+aGLNwdwaNgD5pa96LHLFaubnaPnU04NEdRTbPYeGkqCnvgobft+GCEhw9bl1Q/xMHsHyiydm0zAadEsHsn5RCVFwftBoAQqOEAkHUwrp8qao8rbbPgLFCFeaHG2lhAEhp/KPclIT8miKrdnWBi022b7MfZCn3DAgg+Trid4TYQG5pyQHsWDhpz72uOAESFXbTahIpDH4BU6MbnZ42sPiARqenkmMrkbjzFoJ2Wp/Uy/Bhpkn8HYn2AyaLJS6bCE91cQiOyrLFCsRc/H34zv3D1YJ2tBbrh+n/yFawq0hxUN+wxrpwgk6+4Y82LhCKiJqmZgdboJMUQo/5oErfVIBg==;uM50+8dUFySuiGnMqDaI/A=="
 ---
 

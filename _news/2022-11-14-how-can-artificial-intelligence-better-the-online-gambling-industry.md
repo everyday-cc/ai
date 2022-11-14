@@ -52,7 +52,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/warehouse.jpg"
         width: 1920

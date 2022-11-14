@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252527242/Caixabank-robot-answer
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

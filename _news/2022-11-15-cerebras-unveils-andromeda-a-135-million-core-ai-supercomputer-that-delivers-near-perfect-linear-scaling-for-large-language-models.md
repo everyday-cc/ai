@@ -20,6 +20,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Cerebras Builds Its Own AI Supercomputer, Andromeda"
+    excerpt: "Company stood up an AI Exaflop system in just three days! At Supercomputing ‘22 in Dallas, Texas, startup Cerebras has announced the company has created its own supercomputer, m"
+    publishedDateTime: 2022-11-14T19:56:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63727c20a310e887f861196b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 656
+        isCached: true
   - title: "Cerebras’s Andromeda supercomputer has 13.5M cores that can do an exaflop in AI computing"
     excerpt: "Cerebras Systems is unveiling Andromeda, a 13.5 million-core AI supercomputer that can operate at more than an exaflop for AI applications."
     publishedDateTime: 2022-11-14T14:00:00Z
@@ -61,6 +77,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 21
+  - title: "Cerebras Systems debuts AI supercomputer with 13.5M+ processor cores"
+    excerpt: "Chip startup Cerebras Systems Inc. today debuted Andromeda, a supercomputer optimized to run artificial intelligence applications that features more than 13.5 million processor cores. Sunnyvale, California-based Cerebras Systems is backed by more than $720 million in venture funding."
+    publishedDateTime: 2022-11-14T19:02:00Z
+    webUrl: "https://siliconangle.com/2022/11/14/cerebras-systems-debuts-ai-supercomputer-13-5m-processor-cores/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "AZUQOd2xoOBwC2vcj3m6a6pNrL6KH2EmgI993WtSZJ9RD5JsNSFN4mWZMBuERHt9qElq1FkuOyR4L+WKmVgicXx0W+mYzfE3z7kq9EjKxgLDweOc0B57Q7yLRKSI14Ke2+XMnBhlzvQ6xnzqhC3gnB8qZGpFG6pQASRXdILAVsw+NaqWdBa6WUjTWZHOWQGrheSLyCdmG72C0zJA2bVnQd7eFv8saHtAdEGqqMsFz695sb4qYEKmkgrEktFraHP2/uptxmbzm/73i7mUVsY0sA0nhLiKGF4VzxUrG343rvHOuP8lM0mWqs4eWwlaJECAF35Ex9gi1NQsnoNVYHZya8314rSGiusK5eUU97tKQ/ES//P4yVqJy7wCVjRCbNor0PS/ffQ1f9EU68uxZhl3qbn9G0AxSgoiWgK6OxHfKHS+RJ21ghBDCtKEjfRyjzCUdnS3s5sKjP7caa6PfbFSxBubW7ATOywsM6zuTK0/0JPGI8iBdB0i0ZXMrKAATFgSpQopcQl4TE5w7ATuon+/Wg==;5mkqs+Vqg5CQh0BZbhbmOQ=="
 ---

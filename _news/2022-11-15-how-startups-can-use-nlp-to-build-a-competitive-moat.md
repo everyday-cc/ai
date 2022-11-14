@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T19:59:00Z
 originalUrl: "https://techcrunch.com/sponsor/cohere-company/how-startups-can-use-nlp-to-build-a-competitive-moat/"
 webUrl: "https://techcrunch.com/sponsor/cohere-company/how-startups-can-use-nlp-to-build-a-competitive-moat/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechCrunch

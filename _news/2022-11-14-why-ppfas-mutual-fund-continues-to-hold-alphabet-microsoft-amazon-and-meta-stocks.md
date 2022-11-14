@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-c
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -28,34 +28,26 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
-    excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
-    publishedDateTime: 2022-11-14T17:24:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-aiming-to-combat-global-supply-chain-disruptions-with-new-initiative"
+  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application dev"
+    publishedDateTime: 2022-11-14T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Ha9XZXKHm5RyLDfEdvC4EH-1200-80.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Microsoft’s new Supply Chain Platform combines data and AI to help fix logistics and inventory problems"
-    excerpt: "Microsoft's new Supply Chain Platform combines data and AI to help fix logistics and inventory problems - SiliconANGLE"
-    publishedDateTime: 2022-11-14T15:15:00Z
-    webUrl: "https://siliconangle.com/2022/11/14/microsofts-new-supply-chain-platform-combines-data-ai-help-fix-logistics-inventory-problems/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+  - title: "Tomahawk Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor"
+    excerpt: "Tomahawk Robotics, a provider of common control solutions, has successfully hosted Microsoft Azure SDK on its KxM edge device."
+    publishedDateTime: 2022-11-10T15:42:00Z
+    webUrl: "https://www.iotevolutionworld.com/fog/articles/454021-tomahawk-hosts-microsoft-azure-sdk-kxm-body-worn.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/aerial-view-factory-trucks-parked-near-warehouse-daytime.jpg"
-        width: 2000
-        height: 1498
-        isCached: true
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 34
 
 secured: "Cil+iJiOhZa0zp8ikz3owUeIhPSWWJdPRB+xS2HgV4XrIvbffjFVb/RauCvFn6PziF3NJkyIovmM2mPNsbbccZw/m7VFqLfsftmabNqHs67DJlB24UvEdprrUijsvrmH3VF2xAjPGdPvkwXJD9cgKI0PxZLDwCVeJieaCX63mmGSUvFqBgMT2TB2hGmYWPYSKDFzZA5poV4wHX0OXC8tsCfwTb7O46Pgau3muSErN5as54Y+rIHde5TYOxFTUR30zsO1yzp3omI2yz/aHwDUVsN0hXWUqR2WsuqLd2tPa9fYGMOch+nWhSP5CQKfp2iCSH7f79mP8eK8xu8hdB0UK9fIHYJLYKoYH2jeuWsxMSM=;ZIoEitnJ+y+tiSNs4RskWA=="
 ---

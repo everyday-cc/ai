@@ -2,35 +2,26 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-14-why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks.md",
-      "title": "Why PPFAS Mutual Fund continues to hold Alphabet, Microsoft, Amazon and Meta stocks",
-      "excerpt": "The Parag Parikh Flexi Cap Fund, which has been the flagship scheme of the fund house, has been investing in US stocks and has about 16% of the portfolio exposure to stocks namely Alphabet, Microsoft,",
+      "path": "_news/2022-11-15-qualdo-drx-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Qualdo-DRX Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application dev",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks-11668327748149.html",
-      "originalUrl": "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks-11668327748149.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 89,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/11/13/600x338/FILES-RUSSIA-INTERNET-GOOGLE-0_1668328840535_1668328840535_1668328865787_1668328865787.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html",
-      "publishedDateTime": "2022-11-13T12:13:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29709389",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389",
+      "publishedDateTime": "2022-11-14T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +31,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

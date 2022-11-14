@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Hello Heart Adds Breakthrough Artificial Intelligence (AI) Capabilities to Empower Users to Make Better Choices"
-excerpt: "Hello Heart, the only digital therapeutic that focuses exclusively on heart health, today announced Dot-to-Dot, a new addition to their digital whole heart health program. Dot-to-Dot is a breakthrough feature that leverages well-established clinical research and artificial intelligence (AI) to help people connect their lifestyle choices to their heart health."
-publishedDateTime: 2022-11-14T18:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hello-heart-adds-breakthrough-artificial-intelligence-ai-capabilities-/2022/11/14/9712487.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hello-heart-adds-breakthrough-artificial-intelligence-ai-capabilities-/2022/11/14/9712487.htm"
+excerpt: "Users now have access to deeper insights and personalization to support positive choices regarding their heart health Hello Heart, the only digital therapeutic that focuses exclusively on heart health,"
+publishedDateTime: 2022-11-14T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29706468/hello-heart-adds-breakthrough-artificial-intelligence-ai-capabilities-to-empower-users-to-make-bet"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29706468/hello-heart-adds-breakthrough-artificial-intelligence-ai-capabilities-to-empower-users-to-make-bet"
+ampWebUrl: "https://www.benzinga.com/amp/content/29706468"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29706468"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "5r0p+Do2XKWYLgd0jhWp401NGBIXVa8wmrRrQXnRmN/BAY1MiMX/+gQN3lVxiC7TzXY6cEne7yuzngh1jzR/zMBBuH543t8my/F1t9mcZZnaZUpjnV0aqUVKtFxZle3C3ZzvcXhYI1GOkNpKcslg5fNiKXiizTOLB2wQDw+t+uKwf3wjJvL6BF14GOY9aeTGKpcBxtCJJiCFTL496d+woe4rSY+abgM5qIQxhb70NXX7MmpWbElolzZPeUICdIXr3J4wbXFwwp290oe5/qErxul9COBLtIFBo9L6HPe68H7+pUn6rfWvBxYRx/IFsCT0C5H22zgwtURK+24D79+uB4373p0MhijZLInA0VnvuVg=;sNDwe4s0jOrNGpfH5VyTGA=="
+secured: "qWTvcg/RkOwcFghk0LUYcOiEr+13JuHuh7oSXxG/9CA5PaCyODVQhj24Oes4PALWvoK9aHvEgae47H8p6shxWFw3cRrsYkx0lfW03A6whLOnyPmFtJ2lcTBvGcmdoPGMn0zDsaNlDBi9wT+qhZxIeapiJqqSKOlGBRzYzBChWDRLPx+qrr/vo3BS4oXA+7U1rlK3a8cRBXdiP8Vwdfvok1o3V0aW54ElyOfZp3p+JgYWO733tcaeMuXCDbWuAoLGM8JbrPyod0SkaXx66IZC9WL3HUsbfe/OKxUbLj7DNOgEmJfm05KU2rdJ+F3QYttOhusRdOhdOVGfCUieI5ZlbYoh1FyTmjxP79hRJQsG810=;tnJinnBWhoJohOQ5vLKJPg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow
 webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
         width: 970
         height: 546
+        isCached: true
+  - title: "AI tool uses CT scans to identify patients at risk of reduced blood flow to the heart"
+    excerpt: "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart."
+    publishedDateTime: 2022-11-14T22:56:00Z
+    webUrl: "https://www.news-medical.net/news/20221114/AI-tool-uses-CT-scans-to-identify-patients-at-risk-of-reduced-blood-flow-to-the-heart.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20221114/AI-tool-uses-CT-scans-to-identify-patients-at-risk-of-reduced-blood-flow-to-the-heart.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221114/AI-tool-uses-CT-scans-to-identify-patients-at-risk-of-reduced-blood-flow-to-the-heart.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Team uses AI and satellite images to release first-ever global estimates for road transportation greenhouse emissions"
     excerpt: "The Environmental Protection Agency estimates that the transportation sector accounts for approximately 27% of all greenhouse gas emissions annually in the United States, and emissions from road transportation—driven by carbon-creating internal combustion vehicles—account for a large majority of that."

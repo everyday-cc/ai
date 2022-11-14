@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T19:17:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/11/hungry-for-ai-new-supercomputer-contains-16-dinner-plate-size-chips/"
 webUrl: "https://arstechnica.com/information-technology/2022/11/hungry-for-ai-new-supercomputer-contains-16-dinner-plate-size-chips/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Ars Technica

@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-14T16:52:00Z
 originalUrl: "https://fintechmagazine.com/articles/webinar-deploying-analytics-at-scale-in-financial-services"
 webUrl: "https://fintechmagazine.com/articles/webinar-deploying-analytics-at-scale-in-financial-services"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 

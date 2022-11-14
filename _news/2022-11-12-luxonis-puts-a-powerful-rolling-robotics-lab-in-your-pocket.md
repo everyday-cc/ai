@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/robotics/luxonis-rae-robot/"
 webUrl: "https://newatlas.com/robotics/luxonis-rae-robot/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

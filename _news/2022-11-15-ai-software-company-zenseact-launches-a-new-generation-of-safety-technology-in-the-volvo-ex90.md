@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T18:44:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29710288/ai-software-company-zenseact-launches-a-new-generation-of-safety-technology-in-the-volvo-ex90"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/n29710288/ai-software-company-zenseact-launches-a-new-generation-of-safety-technology-in-the-volvo-ex90"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Benzinga.com

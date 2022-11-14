@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-11-artificial-intelligence-industrial-
 ampWebUrl: "https://techxplore.com/news/2022-11-artificial-intelligence-industrial-environments.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-artificial-intelligence-industrial-environments.amp"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T19:38:00Z
 originalUrl: "https://www.biometricupdate.com/202211/facial-recognition-deployed-for-g20-immigration-control-security-in-bali"
 webUrl: "https://www.biometricupdate.com/202211/facial-recognition-deployed-for-g20-immigration-control-security-in-bali"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Biometric Companies

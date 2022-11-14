@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T18:55:00Z
 originalUrl: "https://www.ross-shirejournal.co.uk/news/motors-how-does-the-nissan-ariya-evolve-stack-up-and-is-i-293536/"
 webUrl: "https://www.ross-shirejournal.co.uk/news/motors-how-does-the-nissan-ariya-evolve-stack-up-and-is-i-293536/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Ross-shire Journal

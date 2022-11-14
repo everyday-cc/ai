@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-14T15:59:00Z
 originalUrl: "https://siliconangle.com/2022/11/14/ai-made-hardware-interesting/"
 webUrl: "https://siliconangle.com/2022/11/14/ai-made-hardware-interesting/"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 

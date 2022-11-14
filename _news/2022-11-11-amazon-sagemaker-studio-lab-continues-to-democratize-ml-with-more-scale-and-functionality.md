@@ -38,6 +38,24 @@ related:
         width: 1550
         height: 773
         isCached: true
+  - title: "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker"
+    excerpt: "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine"
+    publishedDateTime: 2022-11-14T20:08:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+  - title: "Refit trained parameters on large datasets using Amazon SageMaker Data Wrangler"
+    excerpt: "Amazon SageMaker Data Wrangler helps you understand, aggregate, transform, and prepare data for machine learning (ML) from a single visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform, and combine features without having to write any code. Data"
+    publishedDateTime: 2022-11-14T20:14:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/refit-trained-parameters-on-large-datasets-using-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
 
 secured: "ojVAXyDC4P6S6YSesyuFtyb6zDj0REhYWvduZ6od4Kp5Lo2nXQOTTTU8/Dvh8K7So3ayx6Fc5XzYaPYLXz3WpFdmM43m1Id3EEp5/nS5JJxtgroQzu0b02Y0/hyUDLftLAa3S2C2Ype4Rtq/TG/7bTo9fVNrxzt5egiFgaO94IOXDBq7NRvLx8RwhCCzONW1mkJ/uFjfudhx6TnpI1PSbvdjXkzcOiQqkHJK8jPQdu2e0Hya+xe5flmAH5oMRIh8AiC0orYnTFFjFaEbE26v5T3R20EJhvBM/WKig2TEbcszXhEs0r2YG2ZRgmScxc8KBR4dY0Dts5C8DApHeuGIvG1IAS3qUgDVKQhFQrgYHtM=;Kuzmx+5hW231V3MsC0mPsw=="
 ---

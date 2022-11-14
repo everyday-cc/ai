@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-14T13:24:00Z
 originalUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/11/14/this-female-ai-scientist-quietly-built-a-profitable-longevity-startup-in-estonia-that-is-dominating-the-global-skincare-ai-market/"
 webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/11/14/this-female-ai-scientist-quietly-built-a-profitable-longevity-startup-in-estonia-that-is-dominating-the-global-skincare-ai-market/"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+related:
+  - title: "We Should Avoid The ‘Turing Trap’ With AI And Continue Making Humans Indispensable"
+    excerpt: "When considering AI and the workplace, it's tempting to look at automation first of all. New research argues that this is the wrong approach and means we miss out on long-term benefits from the technology."
+    publishedDateTime: 2022-11-14T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/adigaskell/2022/11/14/we-should-avoid-the-turing-trap-with-ai-and-continue-making-humans-indispensable/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
 
 secured: "85LqZJtshM0fs3PUQPX5BwvohO5y0w8Y68Onsh6S1h+59DcymXhkSS2DD8Lt6mKXtoJW+5NQsSCKZCfAMGdN907xaz346LbESdn3TBWix5OUazqYEzy44azndSvev3EuO5cDzSvFyiKJmpLfo/e3biNHy8DzhRH5oAG8SuZPjBr22VWe7UYmSCCMDRH8h+afiXUxR0tB6/rBUGifdDoTes0xDzez4c2Ry33Ev91Oscla4IBoSEZYlSTHzUojhjXCre8uAleToUsxaMPzAbJDSlJoci+iRs/0HY7+HJw8j2rsnSbJgPs6DL1fggPbe+Jld96j3y7VjX5Gb656ZiWRtXE9vKFWWGVLn14+u/Z2iE4=;+JxN0ZqrqE6xlyZKpCM7uQ=="
 ---

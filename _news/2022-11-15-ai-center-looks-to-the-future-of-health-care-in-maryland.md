@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T20:44:00Z
 originalUrl: "https://www.umaryland.edu/news/archived-news/november-2022/ai-center-looks-to-the-future-of-health-care-in-maryland.php"
 webUrl: "https://www.umaryland.edu/news/archived-news/november-2022/ai-center-looks-to-the-future-of-health-care-in-maryland.php"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: umaryland

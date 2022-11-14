@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2022/11/10/vivo-unveils-the-v2-chip-to-
 webUrl: "https://www.gizmochina.com/2022/11/10/vivo-unveils-the-v2-chip-to-pair-with-mediateks-dimensity-9200-chip-for-ai-enhancement/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -21,40 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements"
-    excerpt: "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+."
-    publishedDateTime: 2022-11-10T05:48:00Z
-    webUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html"
-    ampWebUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
-    type: article
-    provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 74
-    images:
-      - url: "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg"
-        width: 839
-        height: 471
-        isCached: true
-  - title: "Vivo V2 chip gets new features, will debut on the X90 series"
-    excerpt: "The V2 chip brings improvements in compatibility and functionality and greatly upgrades the on-chip memory, AI computing and image processing units. The V2 chip utilises FIT dual-core connectivity technology to achieve high-speed communication."
-    publishedDateTime: 2022-11-11T08:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/vivo-v2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "lUkDh3qu2mTs3yd8v9nyVxAy/O+ZCdbaf2D+jY/Fq4uSylmyT6Q40PTiV0O8pxCKclSz9XgRYeah02wkAkT4y0lHT0L2dDPiZIdv20kRWO1WQ8pot/uucg80k/yZ/gfhQJGfXLrpvlyHD1uJ2YD/tJ7ujfqleRpR9GRNU0DJ3TUcNbDEoPdCzb3D9KtgXCEJCXk9FPylaOt/JII2DXtvLggfcNt9nM52+yrrKQlMtQswccOh+WiZjbe8lZZloNfdm0wSmR0xGSWai8QVbh9vX90/9tjtzuRIxbaCoDzgQ6L8XdpgrmJYBGxNdburNt1JNF/7x2yVj6OgqkgnAqGRhrJhNsWEpPRuYhRXJCC1xA1bSkiiXo36WYltwtcTzcvuchacA3gae12oMayZcXO8Zn/JWWnQebS9Ij+bh46F4XgT006yy8Tha3oJnKx3Apo+z00VHPemFlOd+DbMcYcwWiykfLURs02pgV8w9ficzdjVaP8XJsuiD6FIfz7cL9OJlVP7FmqWjy8vbujX5HiTkQ==;pgHLFEV+0Lf3EiOjvWKD1w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-up
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/"
 type: article
 quality: 89
-heat: 160
+heat: 159
 published: true
 
 provider:

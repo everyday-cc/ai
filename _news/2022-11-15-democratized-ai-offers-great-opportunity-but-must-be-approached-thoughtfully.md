@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T20:30:00Z
 originalUrl: "https://www.govexec.com/sponsors/2022/11/democratized-ai-offers-great-opportunity-must-be-approached-thoughtfully/379619/"
 webUrl: "https://www.govexec.com/sponsors/2022/11/democratized-ai-offers-great-opportunity-must-be-approached-thoughtfully/379619/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Government Executive

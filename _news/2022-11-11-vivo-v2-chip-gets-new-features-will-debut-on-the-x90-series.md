@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-f
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/vivo-v2-chip-gets-new-features-will-debut-on-the-x90-series-9492851.html/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,33 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements"
-    excerpt: "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+."
-    publishedDateTime: 2022-11-10T05:48:00Z
-    webUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html"
-    ampWebUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
-    type: article
-    provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 74
-    images:
-      - url: "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg"
-        width: 839
-        height: 471
-        isCached: true
-  - title: "Vivo unveils the V2 chip to pair with MediaTek’s Dimensity 9200 chip for AI enhancement"
-    excerpt: "Vivo has unveiled a new chip that will be paired with the Dimensity 9200 processor for artificial intelligence enhancement. The announcement was made during this year’s Dual-Core X Imaging Technology Communication Conference in China."
-    publishedDateTime: 2022-11-10T20:15:00Z
-    webUrl: "https://www.gizmochina.com/2022/11/10/vivo-unveils-the-v2-chip-to-pair-with-mediateks-dimensity-9200-chip-for-ai-enhancement/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 56
 
 secured: "Kh73ZAg79o4unBnzEa56ms6Cgp8e7of8ffSNFmfNqZGW/8Us6lkhenNeAlS/x1xXWqZe4BQb8pN+9Jieeq7bsOWuEqZImAPGerPNz5ZfQIYmSYCZnW49qNcdUJnzYL04kj/2nobEZj9CdypnE07IhXhcJoekh8aP3hj/JQJ0zRq45ynfuON1633yhoV1gwCE8J24ClSLX42x3/dbuWGAxAc+xcccTxZVaA4AMwSvzKw0LkZnJXzEg6Mtjw+1f/wk6ZeDMv0+crkUsrJKyGCWQkvIc/Zf4yfRb809/cWvtbp10dS02DNBF6nOtUTMbM85MWPKdyRhd+JWct1tqohRyY/7a/Clc2rG1xyH9jxR/jY=;ZTYo5WkyLyf1W+yXk9ZWwQ=="
 ---

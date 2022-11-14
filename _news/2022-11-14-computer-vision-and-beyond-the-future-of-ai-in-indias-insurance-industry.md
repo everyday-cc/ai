@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
 type: article
 quality: 72
-heat: 113
+heat: 115
 published: true
 
 provider:
@@ -53,7 +53,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/warehouse.jpg"
         width: 1920

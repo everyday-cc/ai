@@ -35,7 +35,7 @@ related:
     provider:
       name: fintechmagazine
       domain: fintechmagazine.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://assets.bizclikmedia.net/1800/3bde99c6e7ae57496070410ba243f8b1:67217f0a99fa019d78b17cbb145747d8/mpu-300x250.png.jpg"
         width: 1800

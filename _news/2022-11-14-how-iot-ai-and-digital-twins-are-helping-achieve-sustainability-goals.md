@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T11:15:04Z
 originalUrl: "https://azure.microsoft.com/blog/how-iot-ai-and-digital-twins-are-helping-achieve-sustainability-goals/"
 webUrl: "https://azure.microsoft.com/blog/how-iot-ai-and-digital-twins-are-helping-achieve-sustainability-goals/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T19:36:00Z
 originalUrl: "https://www.forbes.com/sites/rscottraynovich/2022/11/14/hedgehog-looks-to-supersize-sonic/"
 webUrl: "https://www.forbes.com/sites/rscottraynovich/2022/11/14/hedgehog-looks-to-supersize-sonic/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

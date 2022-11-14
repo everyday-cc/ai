@@ -1,13 +1,15 @@
 ---
 category: news
 title: "15,000 facial-recognition cameras to monitor Qatar World Cup – Organisers"
-excerpt: "By Biodun Busari All sixty-four matches in the FIFA 2022 World Cup tournament starting on November 20 in Qatar will be monitored with nothing less"
-publishedDateTime: 2022-11-11T17:22:00Z
-originalUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/"
-webUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/"
+excerpt: "All sixty-four matches in the FIFA 2022 World Cup tournament starting on November 20 in Qatar will be monitored with nothing less than 15,000 cameras equipped with facial-recognition technology ..."
+publishedDateTime: 2022-11-11T18:22:00Z
+originalUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
+webUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
+ampWebUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
+cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -19,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.vanguardngr.com/wp-content/uploads/2022/11/Qatar-World-Cup-logo-1024x576.jpg"
-    width: 1024
-    height: 576
+  - url: "https://cdn.vanguardngr.com/wp-content/uploads/2022/11/Qatar-World-Cup-logo.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "Jfprin/fxpcAP3NXz+ePc8imtfm5t/WYF0wJNF9lUqCTrzKQy9qabayww7Vxik9A1Q1ZAFFFoDfrs+gMzbA6Wi2SXBf+PVtiY+YUexykBz3YRqmARPa/ll5fqD+dQL41BRBCSrkiOqNraDePUXa4YH3q+sZtYvVwyh8IuQB91uUvFrmU4hzpsrloM8nfPlDI/k2A35RBoS+6R3MaCN7QCEIOWROEHaftDkoVqkUOYEtO06b3oxClK3ZU7vHxgrEEEy+PYDqX3AareOdaXhPgsxCGIL3UVIQpIcAqxxKBsNybQQXR1838MBsIpFLDQQ/BgZE5mtn28u7nyV9ZrYdE6IHtw1nVIQ/yD6xsdQUE+UqPFFov5/rUl3kO9/7V5KQisbJNTq+zgthfu5rZlqpvQgvfp8I/ohe7tC5ep1mc/5+mWqzjdKgM1UCenqXTmFjEsZokwC7x2b5dmRlopPdUX17z2XkglAGZtg0VmJI/tZelUZyftvVdQiTFgXWhDXGqg3lH8z6/V8qhNZJ5HckTPg==;uCLWDt2FrSy/D4m+jKfALg=="
+secured: "UX9X1CtIEcBqV5NS9HEOidW7pEkn9GXeGJuWQexyyt9QDw9b3qYVYJtbEeKy5uzlViPHs5mFodWRvaZNShI/0m3Jq/RG355dUud71jAUJJ9FwbXSdSX22Q6gLOFwd2KYYr9Gk5IWziAm7mYwE6sS/TL1Zl0q+Wukx0hcx+SJQ0UE0ByTIHrRu/gA+Yvi9JnUtgo0Qz9MXB6taycChfW+zww6Uj+eH3b58cDgj47XQ7SRh8GefD4rEQmncjJ4/nBWdq339TMhlhtxAZFJ/L2l2UQ5yG/eOCeJqDCcvOnAQL2eLkYlvSncUvDwKOhqLvqILesvq/8PSitWw2Ccece3FfO6eqHmj3i8V14eQBU3ycQ=;4b0quwO1t4MbRPU9/RIAtQ=="
 ---
 

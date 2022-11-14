@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T18:53:00Z
 originalUrl: "https://www.zdnet.com/article/how-to-control-windows-11-using-voice-access/"
 webUrl: "https://www.zdnet.com/article/how-to-control-windows-11-using-voice-access/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ZDNet

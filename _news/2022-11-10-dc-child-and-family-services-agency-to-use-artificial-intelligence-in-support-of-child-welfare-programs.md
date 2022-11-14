@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-10T14:00:00Z
 originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs"
 webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Buffalo News

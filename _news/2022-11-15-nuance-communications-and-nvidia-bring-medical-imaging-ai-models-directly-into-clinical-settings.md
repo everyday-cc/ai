@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-14T18:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nuance-communications-and-nvidia-bring-medical-imaging-ai-models-directly-into-clinical-settings-1031911265"
 webUrl: "https://markets.businessinsider.com/news/stocks/nuance-communications-and-nvidia-bring-medical-imaging-ai-models-directly-into-clinical-settings-1031911265"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
