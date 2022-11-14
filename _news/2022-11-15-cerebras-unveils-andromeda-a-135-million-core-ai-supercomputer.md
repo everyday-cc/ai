@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-14T16:33:00Z
 originalUrl: "https://www.datanami.com/this-just-in/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer/"
 webUrl: "https://www.datanami.com/this-just-in/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 related:
   - title: "Cerebras’s Andromeda supercomputer has 13.5M cores that can do an exaflop in AI computing"
@@ -61,6 +62,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "wHa1bwREjgSMd0HU945QhE+0FRrmxx4D7TcDg/Ex0X0ufeTT/WXpG+M+KdN5oX5tjogGp2IbFf9Kl4CABzMEgJVuZweFYf7P6+SCoK/Kam1sf2g6TV+aOLNuDm6VMekRuoVCIvfKXnrqWukGx6lJ3wKOrDeYiUsZSQmSmy0QUUDbdH0N6Mkp4sNNw8QnbaiWtnDT+0qZ5Js5ToECdepV/ncb5MUCOkCvN80lqhnd0bbmLF4eoVq39Kw/KAjurNo2gZARfMPDHYdGQ682v53JB9JBgQEhSy6vcw6f5odsLT7HENvrKGe0V3IaF/zmwKaapQmMO377R+Vkeki8BvHll7CMhr4SmUrvmGxFYyJKGiE=;idskCDmHm/PazYPqT5dkkQ=="
+secured: "jo0G/aK2pN+uuTdHTkd1TBhXcGSRworSeYn1reksA91QenvCliiXYmLS862CJ4NhAUzWg6qkUX9/lQGT7FBlA4esAqk2ifGquDJu53LCmgAt2ofioHgqtOM+oP7bLjggY7dFw9wxvqDPov8G0jxU6iT1t+WoHiNDDRrvP/LmZ80+94yYX5c/KaGo0aiD3lDUNe9OI145GVmU7vTLUGTESgU/2jlUKS8VKoGRK0a0gf9yCI7CQuxjOepqz3VKsjZbs4gIhfc382STBd4wLG7vSC1JgOsG3CGmRzJ8LZG5ppNzcnL5RCyQ0WwxemktwcRLkEpHOup7T3VoYeLp2PNZqZaFD1adOQdmrl/X0ApF+c64qclisRxqaA2XThidcxG519SY3xEfpgDUACXZBG9VU9sRzDiW1AWasV3LuzcrLv83WGEfvDFbF7gRdTAXSMsMDCt4aWFWhx+LbW5L67do5D36yG6anwc8dkypLkBDaMlcEBDeXFBPLE48WGbK6FSsau4cMHWkHDS8bbGf/5f35Q==;b4rPk12DvF+rqCkjRXc5Bw=="
 ---
 

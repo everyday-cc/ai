@@ -2,6 +2,179 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-03-this-indiana-company-is-mixing-straw-mud-limestone-and-robots-to-build-homes.md",
+      "title": "This Indiana company is mixing straw, mud, limestone and robots to build homes",
+      "excerpt": "The AI-controlled robot has pincher-type arms that can scoop ... such as Loren Wood Builders and Bailey Weiler Design. Costs will start to come down once the AI automation technology is refined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
+      "originalUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/11/01/NHEN/2acf12fe-d13d-45c4-809f-7f83c857706c-TR-Habitat_renders-3.jpg?auto=webp&crop=3823,2151,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-artificial-intelligence-makes-enzyme-engineering-easy.md",
+      "title": "Artificial intelligence makes enzyme engineering easy",
+      "excerpt": "Artificial intelligence (a computer-based tool) can minimize this trial-and-error, but still relies on experimentally obtained crystal structures of enzymes—which can be unavailable or not ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.html",
+      "originalUrl": "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-80.jpg",
+          "width": 997,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-intelligence-enzyme-easy.amp",
+      "publishedDateTime": "2022-11-02T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022.md",
+      "title": "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022",
+      "excerpt": "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
+      "originalUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/c9/3c94ed0a-6c17-5fec-8ce9-4cd34d6bd131/63633fddb13d3.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims.md",
+      "title": "Tesla gave full self driving demo to California DMV amid deceptive claims",
+      "excerpt": "Tesla gave a full self-driving demo to the California DMV and other FSD critics. In recent times the California DMV has been pressuring.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/",
+      "originalUrl": "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2022/11/fsd-beta-canada-scaled-1.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-bmi-declines-seen-seven-years-before-cognitive-impairment-diagnosis.md",
       "title": "BMI Declines Seen Seven Years Before Cognitive Impairment Diagnosis",
       "excerpt": "WEDNESDAY, Nov. 2, 2022 (HealthDay News) — Significantly lower body mass index (BMI) occurs beginning approximately seven years before a diagnosis of mild cognitive impairment (MCI), according ...",
@@ -668,49 +841,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
-      "title": "Researchers show how network pruning can skew deep learning models",
-      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
-      "publishedDateTime": "2022-11-02T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
       "title": "Study urges caution when comparing neural networks to the brain",
       "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
@@ -1026,108 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-has-fetterman-been-tested-for-cognitive-impairment-voters-have-a-right-to-know.md",
-      "title": "Has Fetterman Been Tested for Cognitive Impairment? Voters Have a Right to Know.",
-      "excerpt": "Or did his stroke leave him with serious cognitive impairment? If his stroke damaged his ability to hear and speak but not to think, many voters might not care. After all, if Fetterman were deaf ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aei.org/op-eds/has-fetterman-been-tested-for-cognitive-impairment-voters-have-a-right-to-know/",
-      "originalUrl": "https://www.aei.org/op-eds/has-fetterman-been-tested-for-cognitive-impairment-voters-have-a-right-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Enterprise Institute",
-        "domain": "aei.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting.md",
-      "title": "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting",
-      "excerpt": "Zest AI plans to use the new funding to rapidly expand ... To learn more about its Discovery Fund, supporting diversity in fintech, visit here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29521634",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29521634",
-      "publishedDateTime": "2022-11-02T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-new-onestream-research-finds-economic-disruption-continues-to-pose-the-largest-threat-to-business.md",
-      "title": "New OneStream Research Finds Economic Disruption Continues to Pose the Largest Threat to Business",
-      "excerpt": "This is significantly fewer than predicted both last fall and earlier this year. With AutoML technology poised to reduce the barriers to adoption of machine learning in organizations, half of all financial decision – makers say their organizations plan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/new-onestream-research-finds-economic-disruption-continues-to-pose-the-largest-threat-to-business/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/new-onestream-research-finds-economic-disruption-continues-to-pose-the-largest-threat-to-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

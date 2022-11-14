@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market : Size Expected to Rise at a Progressive CAGR of 31.6%, with Top Countries Data, Trends and Growth Forecast to 2022-2027"
-    excerpt: "Key Players/Manufacturers: 3M, Google LLC, Hewlett Packard Enterprise Development LP, International Business Machines Corporation, Microsoft ... and splits by revenue. Cognitive Computing Market revenues segmented by component, services, organization ..."
-    publishedDateTime: 2022-11-10T02:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-expected-to-rise-at-a-progressive-cagr-of-316-with-top-countries-data-trends-and-growth-forecast-to-2022-2027-2022-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "FQaLicJ8ISrgyCag+b06QktOAOaACMTLKGzqI8Uz3ypwP8gBLlUAfuKNx9Es78MpQhKPpGTafvKPf+cdatJN9oOxUswooAZ/urszPylAgCoCc6A33rnHoVgSs2NKVKTooXr6lPA9JqkJA1qDc9L07yLr2Q2F/9GeUSRlxHDlYv//H8eOVuiwn0vWdDxuAf5LqQfI95cgmJynPtqUbS1QzKIgkWJujOcbCtIUwNL1NWCg7rcYQ/Sjeg83AQeCeXv2cD360Iu+nVORERzQMU27uzaSFu0RP3pZOQb5pNSopnhAjHctC734NSSAnyeSoWC2xFnFxvLFCwTTPcvaryQBiMGWl9+QNdZPAN2LLuNyZiY=;R1uZ7483jvpWBe8ZWfiGZw=="
 ---

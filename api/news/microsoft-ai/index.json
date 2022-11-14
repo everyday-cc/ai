@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-14-why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks.md",
+      "title": "Why PPFAS Mutual Fund continues to hold Alphabet, Microsoft, Amazon and Meta stocks",
+      "excerpt": "The Parag Parikh Flexi Cap Fund, which has been the flagship scheme of the fund house, has been investing in US stocks and has about 16% of the portfolio exposure to stocks namely Alphabet, Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks-11668327748149.html",
+      "originalUrl": "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks-11668327748149.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/11/13/600x338/FILES-RUSSIA-INTERNET-GOOGLE-0_1668328840535_1668328840535_1668328865787_1668328865787.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html",
+      "publishedDateTime": "2022-11-13T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
       "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
       "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
@@ -1321,49 +1365,6 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-crossword-puzzles-beat-computer-video-games-in-slowing-memory-loss.md",
-      "title": "Crossword puzzles beat computer video games in slowing memory loss",
-      "excerpt": "Crossword puzzles were superior to cognitive games on the primary cognitive outcome measure, ADAS-Cog, at both 12 weeks and 78 weeks. Crossword puzzles were superior on FAQ, a measure of daily ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221027093305.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221027093305.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-c
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Mint
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
+    excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
+    publishedDateTime: 2022-11-14T17:24:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-aiming-to-combat-global-supply-chain-disruptions-with-new-initiative"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ha9XZXKHm5RyLDfEdvC4EH-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Microsoft’s new Supply Chain Platform combines data and AI to help fix logistics and inventory problems"
     excerpt: "Microsoft's new Supply Chain Platform combines data and AI to help fix logistics and inventory problems - SiliconANGLE"
     publishedDateTime: 2022-11-14T15:15:00Z

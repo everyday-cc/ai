@@ -60,7 +60,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 19
+    quality: 21
 
 secured: "AZUQOd2xoOBwC2vcj3m6a6pNrL6KH2EmgI993WtSZJ9RD5JsNSFN4mWZMBuERHt9qElq1FkuOyR4L+WKmVgicXx0W+mYzfE3z7kq9EjKxgLDweOc0B57Q7yLRKSI14Ke2+XMnBhlzvQ6xnzqhC3gnB8qZGpFG6pQASRXdILAVsw+NaqWdBa6WUjTWZHOWQGrheSLyCdmG72C0zJA2bVnQd7eFv8saHtAdEGqqMsFz695sb4qYEKmkgrEktFraHP2/uptxmbzm/73i7mUVsY0sA0nhLiKGF4VzxUrG343rvHOuP8lM0mWqs4eWwlaJECAF35Ex9gi1NQsnoNVYHZya8314rSGiusK5eUU97tKQ/ES//P4yVqJy7wCVjRCbNor0PS/ffQ1f9EU68uxZhl3qbn9G0AxSgoiWgK6OxHfKHS+RJ21ghBDCtKEjfRyjzCUdnS3s5sKjP7caa6PfbFSxBubW7ATOywsM6zuTK0/0JPGI8iBdB0i0ZXMrKAATFgSpQopcQl4TE5w7ATuon+/Wg==;5mkqs+Vqg5CQh0BZbhbmOQ=="
 ---

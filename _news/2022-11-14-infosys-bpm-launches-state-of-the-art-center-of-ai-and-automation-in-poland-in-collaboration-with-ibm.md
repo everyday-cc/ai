@@ -39,6 +39,20 @@ related:
         width: 480
         height: 359
         isCached: true
+  - title: "Infosys BPM Launches State-of-the-Art Center of AI and Automation in Collaboration With IBM"
+    excerpt: "Formed in collaboration with IBM, this center will showcase a growing portfolio of data and AI solutions that are designed to automate and accelerate the hybrid cloud journey of global enterprises. The center will complement Infosys BPM service offerings that are built with a design thinking approach and deep domain expertise in data and AI technologies."
+    publishedDateTime: 2022-11-14T17:50:00Z
+    webUrl: "https://www.cmswire.com/the-wire/infosys-bpm-launches-state-of-the-art-center-of-ai-and-automation-in-collaboration-with-ibm/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 29
+    images:
+      - url: "https://www.cmswire.com/-/media/46c2c28095954c10b6d3922b828ebd87.ashx?mw=0&mh=0"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Infosys BPM opens AI, automation unit in Poland in collaboration with IBM"
     excerpt: "The announcement underscores two years of strong collaboration between Infosys BPM and IBM, delivering client success, identifying new use cases, and building solutions, to enable clients to innovate in hybrid cloud environments,"
     publishedDateTime: 2022-11-14T12:40:00Z

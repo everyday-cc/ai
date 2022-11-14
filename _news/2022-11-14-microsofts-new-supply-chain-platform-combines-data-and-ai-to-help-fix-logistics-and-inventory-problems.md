@@ -41,7 +41,21 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
+    excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
+    publishedDateTime: 2022-11-14T17:24:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-aiming-to-combat-global-supply-chain-disruptions-with-new-initiative"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ha9XZXKHm5RyLDfEdvC4EH-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
 
-secured: "8IrOLRPQe51CHMiJsJIbYxH97eV0Xn3Rq8EesROATlBjh6/E1C2FzQZSnqCRIalQCUT+zElfrgk2X++6l3gnUImFYKekYRVHVE/h3PStKErrGAnc8gZEmRYwMKfR00SU3pzNmUKsgx92Hb3K0/yYO99dURRImCRz60HRCBBbRa48apyF0Baw3DOmp0vd4Q/ueerKwv35lzN+IcZgm563EEvqM9XkKrG41D+mzGHsIZa3HeDSMV3AYwd4I+hCCq8/9sgJu3SrM+8jZCpZHhKUqcO8sJzzIbSYLuaL7crHq/NbMen9LahR9amKogF5x/5Omb7rwj3EygaN3iA8rSooYpzqIfZdQaf+X8M5UsJ2SPc=;nJ8rfOMrxZkw0rx1kPTDeA=="
+secured: "KW4iFREldsgn09K5xl72l7jqjI4WKsMmsEgoF+UScu6DX04nHsmVEnlvQ3DFFR12hGzREqW3mTXorGwSh6cz+3KjATdZO/wjxsvPas99zdhq6rPdCEkXlUHsD8fOYu1tYLKQRLkjD2hE2+MH3B5Os0S0f5C3YNR82k2QZxxyfF4Dg2dkHg1Vbhn0UiPiuIspeO/UnzV7WUAHQ+j/i6KuEyptNB7BfTVrjO4VwxhNXqnQgP019mS2RZdN4KplyUEVfdWTPoevzCXGN9dX7LkUCGTfFV/dpsKR1PnGxT1WAbLWkUQKICaDIamh6yo2wNkKrhazZWVwVoeocR6W7wtq+rkPld8sH8sGm0DJd2M3v5dNVN0cXcG1XQuaGSuLs8eL7z59UFUeSzcseLTZzyV9n0bBC+OI1fXmGkLEqg2p4qQE/XzOr9ILuGRwVlnDJ/Xl/qTeXy6PfQYkPdSzOuc/DL0bnzFPDJYhmHd1nLA6btAyiCwFs1n0nlrY0en6FQRnaf+0sxbdRONPAvU39tHSOg==;KvqSuH+eC3E8M++hE0g/ig=="
 ---
 

@@ -2,6 +2,127 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-11-the-rise-of-the-robots-and-the-impact-on-dubais-economy.md",
+      "title": "The rise of the robots and the impact on Dubai's economy",
+      "excerpt": "Experts have noted that increased efficiency means a serious addition to the economy, while reports suggest AI could add up to 13 trillion Euros to the global economy by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/17/42/50/1000x563_cmsv2_693a1a49-5f55-5ad8-b104-0ea65f309f3c-7174250.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "publishedDateTime": "2022-11-11T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-industry-innovation-ai-smile-smart-tracking-case-debut-worldwide-developed-by-weiyun-ai-robotics-group.md",
+      "title": "INDUSTRY INNOVATION: AI SMILE Smart Tracking Case debut worldwide developed by Weiyun AI & Robotics Group",
+      "excerpt": "The world's first AI SMILE Smart Tracking Case was self researched and developed by Weiyun scientific team. As the first pioneer intelligent hardware customized for invisible orthodontic users in the whole market,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/industry-innovation-ai-smile-smart-tracking-case-debut-worldwide-developed-by-weiyun-ai-robotics-group-1031904529",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/industry-innovation-ai-smile-smart-tracking-case-debut-worldwide-developed-by-weiyun-ai-robotics-group-1031904529",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan.md",
+      "title": "QuickLogic Inks eFPGA Sales Rep Agreement with CHIP-gogo in Japan",
+      "excerpt": "Extensive experience with semiconductor IP and custom LSI design services to strategic accounts in Japan SAN JOSE, Calif., Nov. 11, 2022 /PRNewswire/ -- QuickLogic Corporation (NASDAQ:QUIK), a develop",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29680095",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29680095",
+      "publishedDateTime": "2022-11-11T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028.md",
       "title": "Global Artificial Intelligence Chipsets Market 2022 to hit USD 24450 Million at a CAGR of 15.7% till 2028",
       "excerpt": "The global market for Artificial Intelligence Chipsets estimated at USD 10200 million in the year 2022, is projected to reach a revised size of USD 24450 million by 2028, growing",
@@ -1111,163 +1232,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by-abb-alphabet-amazon.md",
-      "title": "Artificial Intelligence (AI) Robots Market Outlook 2022 and Forecast to 2030 | By -ABB, Alphabet, Amazon",
-      "excerpt": "Robots Market Research Report (2022 -2030) here: The study report offers a comprehensive analysis of the global Artificial Intelligence (AI) Robots Market size across the globe as regional and country-level market size analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-meta-layoffs-hit-an-entire-ml-research-team-focused-on-infrastructure.md",
-      "title": "Meta layoffs hit an entire ML research team focused on infrastructure",
-      "excerpt": "After today's Meta layoffs, a researcher said entire team focused on applying ML across the infrastructure stack was cut.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
-      "originalUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/zuck.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
-      "publishedDateTime": "2022-11-09T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-amazons-new-robot-should-strike-fear-into-its-hundreds-of-thousands-of-warehouse-workers.md",
-      "title": "Amazon's new robot should strike fear into its hundreds of thousands of warehouse workers",
-      "excerpt": "What do you call a robotic arm that relies on computer vision, artificial intelligence, and suction cups to pick up items? In Amazon's world, it's called a \"Sparrow.\" The tech giant unveiled a robot on Thursday that's capable of identifying individual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
-      "originalUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/636d9d4ef5877200181c683a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
-      "publishedDateTime": "2022-11-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

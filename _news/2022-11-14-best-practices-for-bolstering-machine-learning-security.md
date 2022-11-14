@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-
 ampWebUrl: "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Security
+  - AI in Finance
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/180913390_1200.png"

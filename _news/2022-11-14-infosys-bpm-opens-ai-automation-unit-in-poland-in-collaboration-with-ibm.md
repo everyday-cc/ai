@@ -44,6 +44,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "Infosys BPM Launches State-of-the-Art Center of AI and Automation in Collaboration With IBM"
+    excerpt: "Formed in collaboration with IBM, this center will showcase a growing portfolio of data and AI solutions that are designed to automate and accelerate the hybrid cloud journey of global enterprises. The center will complement Infosys BPM service offerings that are built with a design thinking approach and deep domain expertise in data and AI technologies."
+    publishedDateTime: 2022-11-14T17:50:00Z
+    webUrl: "https://www.cmswire.com/the-wire/infosys-bpm-launches-state-of-the-art-center-of-ai-and-automation-in-collaboration-with-ibm/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 29
+    images:
+      - url: "https://www.cmswire.com/-/media/46c2c28095954c10b6d3922b828ebd87.ashx?mw=0&mh=0"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "7VPk9uggpD7Dzwwh897eyrjJifXDOhFviuu6h1LlwDSbYE9N/k80DmkObshQHoKx3G5PtSyeJgSl3V0WLR4ti9IrXXhuro8b+eOvr0+6PVGy0n298vo/9odrvcKXd5h1w3QE0puS1NXs4gTJ53kdL5ekRfGEC+6Rb1fOq06TCnk1FCyMraEy+d7M/7G4EXPY992mIp3kuK+4Qi0RCHUEqiQYxgi74/PvVhqMm8UGB+yNU45Grs2U4gy5njlthv8ItzQgacdujxOiEjGg80RTeXp9PsgY1SqVUOvVDiGQPqZHXfDygoRVZqjQi2ePnpEWm0CAxTcn5hm7F4G1qlDVTg2EDUBn2Z0enrbN/GzUxSI=;X3gZenPTbHPBssVidjlvKw=="
 ---
