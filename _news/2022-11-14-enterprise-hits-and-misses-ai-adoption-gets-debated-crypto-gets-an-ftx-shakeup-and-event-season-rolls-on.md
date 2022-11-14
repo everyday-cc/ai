@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
@@ -26,6 +27,6 @@ images:
     height: 283
     isCached: true
 
-secured: "cdv1zLN/in9eXvbEoUEghHCmWWgrISBt65CAzoiymXdGZ6u+0Nu28RFQaGU7Byc24Iiu6fVXDz7+EBbXXs0nJkSnSVF5CND25olNYCZQxM3bFplIWeTLbTjnY6YJelsGIdeTe4JwVRR8C5FX5lbaq5eJNBSuPlAaMuUHVTxw2RZsJpP1f0O4S0qLc/OGYUrFLhYDuyFYNQKFn32vdRYj+F7Fv34yxZQ7H987KgcnltHkJm1yRYS+MfEsPL8U3LJqcpsCQNF5XpMPTSLo1jzGF3prDuZonnQBrDW2dNgZFVHkxtZ1OYJa37gdh9FNZ7NklbeGjAnr4ryPVZ4w/JsiHNBoMYjg9YM/ZXEqUEh3ZI0=;dCNg/wVR5825QZ27H4Gm4A=="
+secured: "RwwDfHr0iW5bbQARtQjW7CmDF/XQH/cjNsduXJh458tB2O5Llzv7327nYqI8dQupJm61OjSWOUTQtjverI1cS0Gx7tfM2phrhqK8uNWMsX/3NVgDVoMVDI/e8ga7NvpSVkb6M93yY8iTwDJIL1d3EdAOIC5BKD8O4xWjFB4yBWje7qaYVbv7JyEHQJfLoB3Q5NcoNGRDlMCypjXOi/OW7AERCYZ0AR4cXCB6VakKFtUoY+0a98aIyml82nkdSC0vMzNen6ptOJJPQR9xUc8ABI0wIVS5F9IrdEoqC+HyqRrapN73tKGAosD0dXOYxVuNyrbUWWfs70H32rJP/ggcxbemGtdwrn2Ul57jrLpN4XZYsKqWw1NquPYHBvc/hXLYnTFCgAnYEoYGCSmnrjWJmjwVy8hJFRugdtU39cKlw/3KJSQuqNnkyv7UgdrwF+XIz6WW8qRX7/pNX0zrkUzzeZymlolVXNvGR3YXgSYXB0V5fTKQIt3+fL6CJn80jfM5ZCX77KRTOVVx+2oMeWCqjg==;YSOfmLl12WueV9bpD8ym+A=="
 ---
 

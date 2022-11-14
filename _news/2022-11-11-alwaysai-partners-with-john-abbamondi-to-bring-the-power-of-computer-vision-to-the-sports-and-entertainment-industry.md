@@ -6,9 +6,6 @@ publishedDateTime: 2022-11-10T17:07:00Z
 originalUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
 type: article
-quality: 11
-heat: 11
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "Myx2Gt6LgqJA3rSggAbKvccbLNpel4KtP5/JUm7RV+jN83bcYjppaIeRe035QXoM0Gr8HlZXh81ryqgkCwo6pwMjh8WuJQhPTwT//lsCB4GEJNARZ7bmkihXsiJQRUlJdmVxjEFxBNQ/dfwgJbEOjnwvJY8HwYspq7pO1KtxAz2ji18DlSt+omOw8FM88Ate2Dqg5H+8G72KA7W+SvPdgy4r+73PEXq9F+47OJFRDYMjm2JiAIxnRFQ5aGQyCJw3zVmnLWXgmLFOyE/j7XNV803GJApS8tvwy/zhbdW8RP346C5XabCmUfCJ1Kuaidjp2pufn/Rpz9IoLFUjCxBW91/LfOjsK1cYIzsUbC68nlg=;UM4gPlw0Xp/jT6AncjUIow=="
+secured: "I9U0dfZJIHDNqADhlE/gsAg8eXMDQz1vCrqD6kPxvJGNtTWBHyLpIl9XrUcm1UHr76x1tDEDdp9BRSWBXAmhL3+f/5xSFPYF1i+sI0CFoI/cKg0bVxBtMFpsUzy3BcdlQxSwtmBnuZT2euCTjVM8rBhj3L5tmObLvxvJ0DjIpZcbcZ4g9ym0DBYEmyvRE7ErkLimMjvWNwXuckZw04G8rsFe8OVzFR3f/G1EBYDpdgIc3QtoXM31ByctzVXvkaZD8nqcaUWp/WIyJR/KdiD2rN3P8khHdSDTZVmaJBjDjwHj47fWX8ddjeXRgrMykp75+yoCR9hmtpqrR7dP14p9N3oPZYUFMhz5NZ9daQzNVz0=;APGST4+4DzdB5qoU+83XPA=="
 ---
 

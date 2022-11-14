@@ -6,9 +6,6 @@ publishedDateTime: 2022-11-14T10:18:00Z
 originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
 webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: The Buffalo News
@@ -18,6 +15,6 @@ topics:
   - Facebook AI
   - AI
 
-secured: "Ez06uv0vH5LMMukyxfob/ECgHQaL+ji5e1yQvnzM+A0yoOT1jnJqhzn7zKfpvb+gIvv9GB56xum2xAxoXl9GzVeqG85RmrV8bxSmNoph1nkuLr8/FvbhQ4v4q5IMBKCxDCQL6U3b/D2dqPrahBXtPOfEijAQPCU8YHr4wAHoQY0h9WfJ0xAXF2KcYSHtG4BWDCBmtM+ckEbcEgqOzYGFnkz2JgpeazRzXT3eLiUlm8uKmWnoAb3tckGQxqhZb2y0yRf+9mj1AF2Y43MELwnVS1ZKXjhXtra67pgPDJ1R3xbbEu6gV1Ox8h/hs937w9yOdoAMk3EdetoXorxwalitAjC/ajjao6RXv0hD+uUu4xPRxwIVLE1E+d3ebGtuy53zV1AMHSpExrDNqaAk/Mj5RCTFzmOzWR60tUabdJPiiFMKNp15Jdw6yqqhDbCs+fDFMxlAsuXhAg0EtKwqFX3qatrmnfbW20HVWsX2UTTLHb6BQJfcoyofxyQe54cdsWcUB5oHqjHWT5nf9lpwHM4Z8w==;vD92PbLtuVkGMTvQcp+/jw=="
+secured: "NxqQ9f4arN4OEbuX2DPi4NQJc1BGelDeXq5EBzBdz6vQ62ZcfBCctO7E3Fl0tg0FegtVgIXR2kekhy8Lorhc2OpFRcwbBsUvlS8M5wPWNnXhiF9gM1NaHtC2kAZbxn1F9xtdGG0dyyQSO1O5AI6HRTYNWehQxV1N5NuW2b89H85mvMa1oORKnl+ypDxR9TZIDQOqTDrBPfNs5i1RbXLBlw/dNI3L2f6+JWUtl6ISuu9A4jYy71B3HdkQRCyYGY2x0GvQrYwSEbiIihvLy4OspX7YqrQwTWekdh/OklZlwQmAIWWJ17uBw77KHJ93yz1N6JYy5nwwtPttZNFA74K9znXc7dzi3EiRicqJWdYH9peeYKnjSAt4lIU/B8yZFAgJBylGaJbLTnvvwRU4adrIoXHkm0Mb8tSjyEta7nUp6L9/EzXiBGNnPsSiKmb9r0qrvtjFdkYYQn4PpKW7mTZAcV00Sr8nlqvW4CB7zUs3HeE/YAbXEidfQyxXdzuKyxL2quW1T8fWMgvBBkLQH8cxBA==;jN0C8054ufmB1gyFvocKAA=="
 ---
 
