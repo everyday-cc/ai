@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AWS AI
 
 images:
   - url: "https://assets.bizclikmedia.net/1800/3bde99c6e7ae57496070410ba243f8b1:67217f0a99fa019d78b17cbb145747d8/mpu-300x250.png.jpg"
@@ -42,6 +43,6 @@ related:
         height: 477
         isCached: true
 
-secured: "GYHetIYhBWuiHuSSM7/tuUa2XKUCNfjgCEtEwpA64reo+kG2oCdSXq4J/pPIi+APq1X+bStofyDsNRKatfikpTepAC6hg60WM3XWotwUH5T/5+NEihN+OuPvEaXEeiJIVTnebIOmwpUQlgupfj6oHAYOrjWCK1N3jyGNWq2o8FpR67zuj498KVlm4fnFAbLKPhn7GszYJjSY23wELvRq04AWjm7adXDDcLKxDwzPV6KSQbiwrboK5P/3J5HJTHz+DLJiBinoC7tWhAmvxTyGZ7m9XE2SVE4+aLS71TW3yEwHTxVRe8Scs4OCce3gd0cH/xuXo7SOKZZF4Tw7IWAfHyNniT6YAy0WfKWodOw7A38=;Q03Ra3UY24AdNAau2hSS+w=="
+secured: "j1KD34E+NVinwwQcTlpXR0fVveSaz2nKLM1Z24mX/VmPITvB6akTTWZfhy1VH1lI88FfLNr1W9FIeoGNVAQRSihYGrSSe/sLL3fIV4LCRd4mOMXjH8GlwpdPiVpzCOluAJf4LN1zeUIZqJzXsKwYPEJpTtkUiXZ3QgEfzxhZrZh3jOr6ctbJ8cuTRaFbXO5G/7DxtY4TVzZuhLgnqQ9MwkF/XvVMwkm/hXd2PphECKjbPcKwq6ODYlDVxXzAfJN1djN3WElsH3IGxyFnjwhfZ2hiUnLXIpdVqrm2MF7SUWnuUSe5tGin6S/vJxNQqKkIDUHb+nM4GWaELmMBFcmQTTrJ8YSyDsBJnPG0lgV9ijoqtGjr5Mj/VsXyOJKaiKWtlm6YWy2FVnN+j9teQRuRX4PxEdaC7uMwebA0HRcBcBRJWVa9TFXo9o1OMEPlNi2Cgb8Uln74z6uzhkm0dUS/niDCM1w/CjRpyNycwHFuvylDOWhHvJswRnsMX7irSWu8lq6KQa+Npou8Uf+M4L8Dzg==;I0pvKgZVvu8PWazdkR3PvA=="
 ---
 

@@ -18,6 +18,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/11/10175805/SEI_133081267.jpg"

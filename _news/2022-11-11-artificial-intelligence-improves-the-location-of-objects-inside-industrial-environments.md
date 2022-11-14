@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/warehouse.jpg"

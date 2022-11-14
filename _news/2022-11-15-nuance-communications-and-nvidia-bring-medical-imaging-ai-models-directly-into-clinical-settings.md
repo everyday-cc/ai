@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg"
@@ -28,6 +29,6 @@ images:
     height: 255
     isCached: true
 
-secured: "9eYVLY44S4xYG20L/obEn1+jhMAXd6WFcsb/FyvkhxlvFTJ3+MreIWfVd6Mp14skx+bUaq4kSh9NKHBdTS0nKGbU3k/xqU/6912ajc6U7qzlHOSHFj1Sjy8UCaaxs3+H0aOSF1HEJgcxGDJp2U1W5vZT0vjD+wdMYPaopBkRQ0JROr1frKfL7o18Ruml05suoF9iGh3+KgTVh4yrQ3k2S1L4RSWnpv/NpbP1pNbcNhiHYqoUZ0I7OG7KnE6nSnj4Ngq9e83fjFalA6Qt03JDGNUJIYxNeNjZ4vmJlr02H92EK1Fc1pLqloyla12xZycFJeesSig35UH7+gpy9NcYagqhiT4oYnT9bCzRe1kpm+E=;HJoQN3zJ79Vtb9hxrJVSiA=="
+secured: "RjhbwAaJmXp1znf8uRESouMzLiRxpZaz9qEgya/QN8zlt/Pl+aSrNeTgaSydExL9V5BMLl2sarzrT+LdDEliF/kjxZs5xLeyy1zgn7yjZQeJk9XcqtS8wWgl/L9W5YLa2E++7LlF2e21hi73PlyENcKqX+Pqc/1UFaS6MvOpiv2/Xr/tzUeYqOq6O+KMauJwTD/hsITCspQoEOFW3p26JIGdk1+b2v4A9Vv2GzhC13kKvQDNTGNvwJtoDOBmMPXuWvKQj6JTWDdv8gkndj6HPuehDyNxlLr+SEufHn3nsMu3xQ+dzDhjS2JG+WWPZg8ns/AxL+DpubKzDcY0l9zfEHsGUD+FZVv8ASKFrxLYGJ/5v1D6sxeZvW1Jri4QAnYwwr3D2fQfY30e9dIpL2qT4vsK0rgpOFGE8VFycgvI6VYgbbYR9FG06SVxCjdww1ZKEUs0jSaKjnN0LvnQ9v+xWwvOpKpDIw2XY+BvJXw63jgaVQvHLxsH8qIY2wsym57pNgkldVFUTzv9vndBiNDvGA==;2ehdS/f6Ob7Ybwp/j7aFQw=="
 ---
 

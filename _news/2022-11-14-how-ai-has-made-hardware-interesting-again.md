@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/lassen800.jpg"
@@ -42,6 +44,6 @@ related:
         height: 754
         isCached: true
 
-secured: "zhqXDcA4Cxm3/Q3bzoVUNwFiUmTqI7AJbuI0lKyGHt0nRQL+uqn7/+lDex86tKCDmT/Bo6cthuhdiLiKEMbS+uCnCbn0/hafNL+Yq/gkXECxlUPDO7dHUk74FdN05W8K6em9NNBPhpHHsLee6pNsIGGVja9YyiRuj18Ff9md6pRNIiwsjpwb9NWAzs05XoPRVPc+O9ED6hoqfc4/BIO/JhbCIl/jCvPDeRSGDCV4y65XmvEqXA+vrO/WrBqFCrVsnL9wvXHSLTUQ6VUY7pKlhvbtOMz1ywcdKsNQhNMfDRKMWGLwxMfSJGWxK9rB4zs8KYFPXtx9QuRunXdnlPEr2u1MYF7clu0VOGHD+GEeZ4U=;QbfN3frI4oqdU0VKA3Z3Hg=="
+secured: "Wl4UHlGUXCpoyBHXjz+l/VwLB2heU80oFTA+VQmjYTvws8t0k2r2ROwYPPy+340o1r5YJpNJ+/o8VD7AwXvwvG0nNYqLpjMXFePMvsp1AKOfOvkz7Auv7QbI5WTNvOWCu7JWaPHwNJPxyT3zgqq04LmmQrZtWtQJDRY8XIJ4cp8kU3T+/8kpcFzcCJ/DdRGKr32caSB5F/XRJBKVBC1y3NoKTbIKIBByOfhK6rGGlz4pmigPyAn5+sWDemGaXNcOJZYSrcU9MRg8Q1GnEO7QKOgCrNsWvBwydRqoPOnys9ya3d09LUzUJKsCJJDAkRmCyV4EIr4lxxPJ/XfjyCWBTl1c+bmriutTJ1SZZBatZzjZ1uW+mT+bVeihWh0ejJwPOXxxagtPQU6tnuwyNChBLtQi5boEqYVLANbYIfM6Mz3qOCsmjr1vIynyONx9RlRfhWHtV6b3GUnu5ngGRYf9Xo5z+eF/YsL8haMOVLmzRP1aSrxQZ5s65ou5k86Xw/svYXxdBDuwg8QszHleWWO+Nw==;VyTiE98E2XfZ2OJIYgZGqw=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "AWS Launches Infrastructure Region in Switzerland"
 excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
-publishedDateTime: 2022-11-09T06:51:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/09/9709024.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/09/9709024.htm"
+publishedDateTime: 2022-11-09T08:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "SeuUSkF3DFSaQ/0taZrx9M/GuQDdC8segEbeUI8AjvsvsRvkYdL3nRcIhvAZEFFibfcOeFi16wbUgJfd5fCrw4zRXkQxgc0R1sGngyCKUWJ1FscLD0PSnv0cnyOkQCPPm5xvkmUQSI0zciL2SncbxIZjJHagTsHmIvKwWwrphmpc+xtuBhvzRdZdrvdUdSk2YiGhoBT8+2FMGsNff3v1KzkXzqx9R/pBySlEEPywyvS20w9m8IcwXi2CD9v3PbpGlF5j1HULr7E62bVIYkzLnMUNdlyQSR/GmqX5vcAG9HmrUDbBjGYFfMpbe0IGdWVWtGd+OVIO37iJ4tjoH2PYPX41Y00w1bZZEaHE+S9dX8I=;RFLkEGk6BpTWaXd/WqmQdg=="
+secured: "YeahiYb56cY6+N8q7WSHwd3P3IljGBVY378E+GEoNbM9o+wcty/NVUYarGLob5BacM5y+6sOPDZiC+ca7Tp986LVzXlp8NDGODKdRpbzmwFNUyIcgfakVFF0Hs+zw6/+umKzeUnPV5IcnlKcPMduubCDKV5Hpkwk9jH1WvnDzOY2dWcBuW2AWdXweZUoaSM/A9tDnOTr5Z3wKxaneAs/6qZ2+uPRJOs7JZcOHBMZt0YjHmojT3H3n9shZ7W/xxJc7v5O3Y9Mw7/yq3HueyqWIqv4DzqKBkX9g11XzbRKmfgBMn9690BeQ+dqVljBfiw3pJgLoVMGV+hssHnoeN9j/pDtHPYLVQsg6S3wgPNIjn0=;8/cCOoVUBZ4YNUrnbgup+g=="
 ---
 
