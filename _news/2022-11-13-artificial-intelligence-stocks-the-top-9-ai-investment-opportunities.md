@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/"
 type: article
 quality: 112
-heat: 122
+heat: 123
 published: true
 
 provider:

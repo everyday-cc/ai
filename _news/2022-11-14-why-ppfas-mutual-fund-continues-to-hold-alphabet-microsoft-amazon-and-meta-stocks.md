@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-c
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -26,35 +26,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Cloud giants file major EU antitrust suit against Microsoft"
-    excerpt: "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\","
-    publishedDateTime: 2022-11-09T14:29:00Z
-    webUrl: "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 66
-  - title: "Salt Security Achieves Microsoft Azure IP Co-sell Ready Status"
-    excerpt: "Salt Security, the leading API security company, today announced that it has achieved Microsoft Azure IP Co-sell Ready status, allowing the Salt Security API Protection Platform to be sold and marketed by Microsoft sellers globally."
-    publishedDateTime: 2022-11-09T14:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-salt-security-achieves-microsoft-azure-ip-co-sell-/2022/11/09/9709310.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-  - title: "Tomahawk Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor"
-    excerpt: "Tomahawk Robotics, a provider of common control solutions, has successfully hosted Microsoft Azure SDK on its KxM edge device."
-    publishedDateTime: 2022-11-10T15:42:00Z
-    webUrl: "https://www.iotevolutionworld.com/fog/articles/454021-tomahawk-hosts-microsoft-azure-sdk-kxm-body-worn.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 34
 
 secured: "Cil+iJiOhZa0zp8ikz3owUeIhPSWWJdPRB+xS2HgV4XrIvbffjFVb/RauCvFn6PziF3NJkyIovmM2mPNsbbccZw/m7VFqLfsftmabNqHs67DJlB24UvEdprrUijsvrmH3VF2xAjPGdPvkwXJD9cgKI0PxZLDwCVeJieaCX63mmGSUvFqBgMT2TB2hGmYWPYSKDFzZA5poV4wHX0OXC8tsCfwTb7O46Pgau3muSErN5as54Y+rIHde5TYOxFTUR30zsO1yzp3omI2yz/aHwDUVsN0hXWUqR2WsuqLd2tPa9fYGMOch+nWhSP5CQKfp2iCSH7f79mP8eK8xu8hdB0UK9fIHYJLYKoYH2jeuWsxMSM=;ZIoEitnJ+y+tiSNs4RskWA=="
 ---

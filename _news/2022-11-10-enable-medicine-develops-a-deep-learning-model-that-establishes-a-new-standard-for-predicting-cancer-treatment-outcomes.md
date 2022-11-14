@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29664032"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29664032"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "PET/MRI machine learning model can eliminate sentinel lymph node biopsy in majority of breast cancer patients"
-    excerpt: "Nearly 70% of breast cancer patients could find out if their cancer has spread to their lymph nodes without having to undergo an invasive sentinel node biopsy. New research published ahead of print in the Journal of Nuclear Medicine shows that with the help of machine learning (a type of artificial intelligence),"
-    publishedDateTime: 2022-11-10T19:58:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-petmri-machine-sentinel-lymph-node.html"
+  - title: "Yale-led team develops machine learning tool for personalized hypertension treatment"
+    excerpt: "Researchers have created a new tool to assist with hypertension treatments via machine learning. Hypertension is the most prominent modifiable risk factor for major cardiovascular events. According to the National Center of Health Statistics, part of the ..."
+    publishedDateTime: 2022-11-14T05:04:00Z
+    webUrl: "https://yaledailynews.com/blog/2022/11/14/yale-led-team-develops-machine-learning-tool-for-personalized-hypertension-treatment/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 0
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 32
+    images:
+      - url: "https://yaledailynews.com/wp-content/uploads/2022/11/machinelearning_EvangelosOikonomou.png"
+        width: 1144
+        height: 830
+        isCached: true
 
 secured: "26VdsrOCeHy9HLmvdfszHyXr1h4fwuKDTDneDrnnkdWNXM/YoCdjG5MlBS5rO9b2Cn0r8n10Brn9j2W74zd9z2xQEAvBjfKK2q2FbYUxpAlLvxi7ZF+rmDZU4A5gwXRiJe6X709nltmxKr27LWwkolJTjR6TFqwRgrVHU52Ov2VkAMWs0vlsu010EoWoVwI3HCvXmGRIhX7SGpTs5drb+k2SipJwk78S5YDJ43DVITO3WYsIBn2tGmW6f4rPHlp15pTY0JCd4jepKU2FEJlg759dey25uP9U9ARTbNgua5IUzA0VfZMBsEP7e+D+XqoOXca4fMtOKWaiVLocX6TEVf4Hc7gvF5mA1k9syia5rwE=;849xdgNlXTZLusJ0oJn6oA=="
 ---

@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
+      "title": "AWS Launches Infrastructure Region in Switzerland",
+      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-how-insilico-medicine-uses-ai-to-accelerate-drug-development.md",
       "title": "How Insilico Medicine Uses AI To Accelerate Drug Development",
       "excerpt": "Insilico and other companies using AI to develop drugs have cut the time and money involved in the process by as much as 90%.",
@@ -1165,40 +1199,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-watch-this-penny-sized-jumping-robot-right-itself-mid-leap.md",
-      "title": "Watch This Penny-Sized Jumping Robot Right Itself Mid-Leap",
-      "excerpt": "When they put these modified robots through their paces, the team confirmed that a collophore and body shape are necessary to land. Watch This Tiny Remote-Controlled Robot Crab-Walk Want Quieter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/technology/robots/a41887660/springtail-robots/",
-      "originalUrl": "https://www.popularmechanics.com/technology/robots/a41887660/springtail-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

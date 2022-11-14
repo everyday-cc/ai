@@ -9,7 +9,7 @@ ampWebUrl: "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

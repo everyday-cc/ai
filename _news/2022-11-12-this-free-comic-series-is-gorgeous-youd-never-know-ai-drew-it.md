@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-free-comic-series-is-gorge
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

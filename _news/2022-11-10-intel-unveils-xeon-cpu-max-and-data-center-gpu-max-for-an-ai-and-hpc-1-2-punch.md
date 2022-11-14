@@ -35,15 +35,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Intel unveils Max Series GPUs for high-performance computing and AI"
-    excerpt: "Intel has unveiled its Intel Max Series graphics processing units (GPUs) for high-performance computing and AI applications."
-    publishedDateTime: 2022-11-09T13:59:00Z
-    webUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-performance-computing-and-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "Intel and IBM: High-performance AI chips to quantum computing breakthroughs"
     excerpt: "Intel Max Series product family debuted two leading-edge products for high-performance computing (HPC) and artificial intelligence (AI), while IBM unveiled 400 qubit-plus quantum processors this past week."
     publishedDateTime: 2022-11-13T05:19:00Z
@@ -58,15 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel unveils new chips that will power the upcoming Aurora supercomputer"
-    excerpt: "While the new Intel Max Series product family is powering the Argonne National Lab's latest supercomputer, the chips are really designed for mainstream high-performance computing, Intel says."
-    publishedDateTime: 2022-11-09T13:59:00Z
-    webUrl: "https://www.zdnet.com/article/intel-unveils-new-chips-that-will-power-the-upcoming-aurora-supercomputer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 48
   - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
     excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
     publishedDateTime: 2022-11-10T00:44:00Z
@@ -81,15 +63,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Intel unveils Max Series chip family designed for high performance computing"
-    excerpt: "The new family is made up of the Intel Xeon CPU Max series and Intel Data Center GPU Max series, which it says have been designed for high performance computing (HPC) and artificial intelligence (AI) workloads."
-    publishedDateTime: 2022-11-09T13:59:00Z
-    webUrl: "https://www.itpro.co.uk/hardware/components/369479/intel-unveils-max-series-chip-family-designed-for-high-performance"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 46
   - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
     excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
     publishedDateTime: 2022-11-10T07:39:00Z

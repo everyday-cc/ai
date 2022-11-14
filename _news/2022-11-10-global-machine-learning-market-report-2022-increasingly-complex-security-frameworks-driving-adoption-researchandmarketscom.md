@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pu Artificial Leather Market Analysis 2022 by CAGR Status, Industry Revenue, Demand Scope, Growth Opportunities, Latest Trends and Forecast to 2029"
+    excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The most recent research study by"
+    publishedDateTime: 2022-11-14T03:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pu-artificial-leather-market-analysis-2022-by-cagr-status-industry-revenue-demand-scope-growth-opportunities-latest-trends-and-forecast-to-2029-2022-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Business Opportunity, Market Size, Upcoming Trends, Recent Development And Forecast: 2022-2031"
     excerpt: "The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impac"
     publishedDateTime: 2022-11-10T06:26:00Z

@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Intel unveils Max Series GPUs for high-performance computing and AI"
-    excerpt: "Intel has unveiled its Intel Max Series graphics processing units (GPUs) for high-performance computing and AI applications."
-    publishedDateTime: 2022-11-09T13:59:00Z
-    webUrl: "https://venturebeat.com/ai/intel-unveils-max-series-gpus-for-high-performance-computing-and-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "Intel and IBM: High-performance AI chips to quantum computing breakthroughs"
     excerpt: "Intel Max Series product family debuted two leading-edge products for high-performance computing (HPC) and artificial intelligence (AI), while IBM unveiled 400 qubit-plus quantum processors this past week."
     publishedDateTime: 2022-11-13T05:19:00Z
@@ -64,24 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel unveils new chips that will power the upcoming Aurora supercomputer"
-    excerpt: "While the new Intel Max Series product family is powering the Argonne National Lab's latest supercomputer, the chips are really designed for mainstream high-performance computing, Intel says."
-    publishedDateTime: 2022-11-09T13:59:00Z
-    webUrl: "https://www.zdnet.com/article/intel-unveils-new-chips-that-will-power-the-upcoming-aurora-supercomputer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 48
-  - title: "Intel unveils Max Series chip family designed for high performance computing"
-    excerpt: "The new family is made up of the Intel Xeon CPU Max series and Intel Data Center GPU Max series, which it says have been designed for high performance computing (HPC) and artificial intelligence (AI) workloads."
-    publishedDateTime: 2022-11-09T13:59:00Z
-    webUrl: "https://www.itpro.co.uk/hardware/components/369479/intel-unveils-max-series-chip-family-designed-for-high-performance"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 46
   - title: "Intel Unveils Xeon CPU Max And Data Center GPU Max For An AI And HPC 1-2 Punch"
     excerpt: "Intel's bringing a left-right combo to Supercomputing '22, with new high-bandwidth CPUs and high-throughput GPUs."
     publishedDateTime: 2022-11-09T19:24:00Z

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-14-citi-backs-indian-saas-startup-lentra-as-it-plans-to-expand-internationally.md",
+      "title": "Citi backs Indian SaaS startup Lentra as it plans to expand internationally",
+      "excerpt": "Indian SaaS startup Lentra has raised $60 million in a Series B funding round that saw participation from Citi Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "originalUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/keyboard-typing-image-getty.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "publishedDateTime": "2022-11-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
       "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
       "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -377,7 +428,7 @@
       "originalUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -576,7 +627,7 @@
       "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -748,7 +799,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1191,50 +1242,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-how-prodege-saved-15-million-in-annual-human-review-costs-using-low-code-computer-vision-ai.md",
-      "title": "How Prodege saved $1.5 million in annual human review costs using low-code computer vision AI",
-      "excerpt": "This post was co-authored by Arun Gupta, the Director of Business Intelligence at Prodege, LLC. Prodege is a data-driven marketing and consumer insights platform comprised of consumer brands—Swagbucks, MyPoints, Tada, ySense, InboxDollars, InboxPounds, DailyRewards, PollFish, and Upromise—along with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T12:51:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],
