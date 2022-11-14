@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "myconversica"
   url: "https://twitter.com/myconversica"
-  followers: 12298
+  followers: 12299
 
 size: 201-500 employees
 yearFounded: 2007
@@ -36,7 +36,7 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/887468833916600320/8nOhBX6V_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1592203607704674305/juaSAX0l_400x400.jpg"
     width: 400
     height: 400
     isCached: true
