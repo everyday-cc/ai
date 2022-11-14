@@ -6,9 +6,9 @@ publishedDateTime: 2022-11-11T17:53:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 61
+heat: 91
+published: true
 
 provider:
   name: Science Daily
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Scientists articulate new data standards for AI models"
@@ -52,19 +53,19 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Winning with AI is a state of mind"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.   If you"
-    publishedDateTime: 2022-11-12T17:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/winning-with-ai-is-a-state-of-mind-2-46564/"
+  - title: "How AI is changing scientists’ understanding of language learning"
+    excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
+    publishedDateTime: 2022-11-13T08:43:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-ai-changing-scientists-understanding-language-learning/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Rappler
+      domain: rappler.com
     quality: 39
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://www.rappler.com/tachyon/2022/10/ai-language-learning.jpg"
+        width: 1280
+        height: 900
         isCached: true
 
 secured: "mN8MgL0lr58dWJxy2a52la8J1NP6vJxI92vNfffXYTnd5G9jbaeC+LQp9PnnJC/9Zu8/WehFeIUVPZgyNNSZYeE0lfPRzHTEhsiKpQ5LRXra+zmDBHGRtOZ4XZymrFSjujIaGKsz0+OQHayXBzDYaK1cer6M0sbigs8GvyyNwEX0calUuNk0H+GQ1uMfR/Izc2Q6uLemRRKDCinJIvEKxK7FfwW5ytlF2YuUbpjj3f37kdrYCzDo2x6T+aePB0rqC/ltby6Eik6tp5f+VDtP4B9uDbSayeEMGLB7rvlYb8nGnT8Qk/Z1jpPLoeFzebEjnvEHFLCZ81N/KYouHTCw49baLLLKHxwQzLOQpOhFV3E=;0bAhvezXZemqahVg2uGgfw=="

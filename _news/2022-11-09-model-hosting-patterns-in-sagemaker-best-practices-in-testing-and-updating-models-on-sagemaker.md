@@ -66,20 +66,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 77
-  - title: "Amazon SageMaker benefits tens of thousands of customers"
-    excerpt: "Amazon SageMaker has opened the dawn of a new era in machine learning since its launch in 2017, helping tens of thousands of customers."
-    publishedDateTime: 2022-11-09T07:23:00Z
-    webUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 41
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
-        width: 600
-        height: 313
-        isCached: true
 
 secured: "2Sv7e7RhzFm/LG4uCwNuCzgNT3qLbx0bZZGurtx1RoS/7jvg0oWuB5cIOJirKpxO3lGs16Tjy/tBxI2rvhPbNzmP+sy4cddCOiuNm9WnYtdwKnW0cpYPwRIJBrRVB5tZIRfxtvNw56T0XDwpAD9y1hMg1ow5H/SlFgCAYvQM4JhThaC3jaHh+5SrrQ7vFJaChhx3D1Yc20C1+xPT0nVnmrLRhAWPnUsO+jH0yRVZG0bN1wxStVfRvvsKCdeArYzNMq6+LnDEhVXSS2Q1kQK7KoBaWfLXFA66l9AvtUtFEFhH9hCiWQ8xdt5AphM0mwzTw3rfz8Wo9Z3qd5J15BwfVzZIHqMr+yy4HE84lY39Jag=;Ch5vvWE7gcJvmEQiK8xvsQ=="
 ---

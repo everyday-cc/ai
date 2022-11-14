@@ -94,6 +94,33 @@ related:
         width: 1985
         height: 1381
         isCached: true
+  - title: "DeviantArt users lash out over AI tool that generates works on its own"
+    excerpt: "The AI — which is being called DreamUp —  is meant to push for “safe and fair” AI image generation for DeviantArt users."
+    publishedDateTime: 2022-11-13T20:20:00Z
+    webUrl: "https://nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/"
+    ampWebUrl: "https://nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/11/deviant-art-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "DeviantArt Embraces AI Art, Fucks Up Massively"
+    excerpt: "That thing was, of course, AI-generated art, something that sounds cool in theory but which in practice has been little else but a chanc e for tech goons and grifters to steal art, kid themselves into thinking they’re artists and/or deprive working artists of work."
+    publishedDateTime: 2022-11-14T00:44:00Z
+    webUrl: "https://kotaku.com/deviantart-ai-art-nft-crypto-scam-hustle-protest-stable-1849778362"
+    ampWebUrl: "https://kotaku.com/deviantart-ai-art-nft-crypto-scam-hustle-protest-stable-1849778362/amp"
+    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/deviantart-ai-art-nft-crypto-scam-hustle-protest-stable-1849778362/amp"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
 
 secured: "FfczYnn58mY+F4bs13ATVZkbA7VNK3YrXuo4kofcuczy37MEOxwXh88jA4n+Xm0ZFyazFvDBJUEILWa6gIfMFQlyftO1WX7qJvio1FtuqszfhhARobUKnYJkwElGJcM+vmHbUUmrGrW8O/sn2LglQUrHS36VgzSJ6ipNk4ZxkRU0u15cjGBYZnsluL5lpukbBqjapEVIqW9XTs62G5HKDA3qiOJueYvA8/lAXezzLwTVCe593MaO8fLO4bXDxx90SLv2ZqtwN5wqjhYmfWjyWUSPEUbXJbOb1zYjBcu/hfFO8/IOLW5Ew7PMYACRBedJq01qKNXDcMovqJ2b3u9UMzA2y2AeaTPHPIc9wwgk8TmKtkHgH0VqqQ6wb3K+askN7IlxzzAnv/STloxjhkMhX7cPJleLRzL5a1hNrsK0YoaNmL3eHznYPrq8Dv4mrgLv58z7s7iSpMgCh7sDnxc++o9noINAEvq4+MZSm2xi0OTRK14TDeglob/7FKOZ4h1PRcHGaywZaIwqd95ZxsTwhA==;shWGXb7K/6qqdGO0rQUGsA=="
 ---

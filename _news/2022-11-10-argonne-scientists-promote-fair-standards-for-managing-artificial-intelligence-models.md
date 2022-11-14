@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists promote FAIR standards for managing artificial intelligence models"
+    excerpt: "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
+    publishedDateTime: 2022-11-11T17:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 61
   - title: "Scientists articulate new data standards for AI models"
     excerpt: "Aspiring bakers are frequently called upon to adapt award-winning recipes based on differing kitchen setups. Someone might use an eggbeater instead of a stand mixer to make prize-winning chocolate chip cookies,"
     publishedDateTime: 2022-11-10T22:45:00Z
@@ -40,28 +49,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Scientists promote FAIR standards for managing artificial intelligence models"
-    excerpt: "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
-    publishedDateTime: 2022-11-11T17:53:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
+  - title: "How AI is changing scientists’ understanding of language learning"
+    excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
+    publishedDateTime: 2022-11-13T08:43:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-ai-changing-scientists-understanding-language-learning/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 59
-  - title: "Winning with AI is a state of mind"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.   If you"
-    publishedDateTime: 2022-11-12T17:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/winning-with-ai-is-a-state-of-mind-2-46564/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Rappler
+      domain: rappler.com
     quality: 39
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://www.rappler.com/tachyon/2022/10/ai-language-learning.jpg"
+        width: 1280
+        height: 900
         isCached: true
 
 secured: "acPhgT1p1D5PJTpToBt+QaHGBeNKMtAX6T04EGZreukEqekBu7Z8RzHtY7vf5FnM0/jQSPsV0sINP+73wStbqgbRTneskSZbU6hJHMZ2EVYSmzY8jhKCg3NodNS5ud8s9nVR5AlXEknek+FFh+CqMfoRW2QZEIH0BvyNb/povmHR1QIgY321UP/67l4Q0jhpD0mdJaKjyVNyqjx2RamDylg3FkwoJWKiBbMK5nTJUuhoed5fG2tgyPPOocHWYwNdur85/LTARA2pzNBCmCKVyN9TQCA1CID9b+tc2HdwJQwieJi5XGZ50Rns5aFR0aXsOqh0elYOoK8wddEK052/YxDn2mZHLIaApQvfoWa2ElbzazhR+86aNKgIMAQBKeRexB9wuZz7VeNYjkFDXnZxvdn14Btz9Eks1aQP68DDsqJMnjqIoXUkYSSiW5CDeE5C4G39rWGx2I+Guzyu+0K8LXYJ5wJpREOaBkz3CLp6S8vZCrXj9JqC+XorQbGys04knUbPBAacJY5DhFkAwO2tzQ==;yoYL4oCe8prulHFxEn/BfQ=="

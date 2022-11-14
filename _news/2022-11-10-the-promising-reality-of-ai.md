@@ -7,7 +7,7 @@ originalUrl: "https://www.eschoolnews.com/webinars/the-promising-reality-of-ai/"
 webUrl: "https://www.eschoolnews.com/webinars/the-promising-reality-of-ai/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Benefits of artificial intelligence in logistics"
-    excerpt: "We’re going, to be honest with you: there won’t be any big surprises in this list of the b AI in logistics. Prognosticators have been touting the potential"
-    publishedDateTime: 2022-11-11T11:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/benefits-of-artificial-intelligence-in-logistics-46513/"
+  - title: "Winning with AI is a state of mind"
+    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.   If you"
+    publishedDateTime: 2022-11-12T17:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/winning-with-ai-is-a-state-of-mind-2-46564/"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640

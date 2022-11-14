@@ -19,6 +19,20 @@ topics:
 
 related:
   - title: "Artificial intelligence goes vegan"
+    excerpt: "What if, in the future, robots were the ones starting petitions to defend the rights of animals? It may sound like science fiction, yet artificial intelligence that can specifically generate vegan content has been developed in New Zealand."
+    publishedDateTime: 2022-11-12T18:59:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/12/artificial-intelligence-goes-vegan"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/11/1815603.jpg"
+        width: 1240
+        height: 1240
+        isCached: true
+  - title: "Artificial intelligence goes vegan"
     excerpt: "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism"
     publishedDateTime: 2022-11-12T04:20:00Z
     webUrl: "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1"

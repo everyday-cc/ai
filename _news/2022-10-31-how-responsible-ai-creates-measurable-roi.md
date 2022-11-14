@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1267598662.jpg?w=1200&strip=all"

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,8 @@
         "AI in Robotics",
         "AI in Healthcare",
         "IBM AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI in Autos"
       ]
     },
     {
@@ -160,58 +161,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-12-can-you-tell-whether-this-headline-was-written-by-a-robot.md",
-      "title": "Can You Tell Whether This Headline Was Written by a Robot?",
-      "excerpt": "You probably haven’t noticed, but there’s a good chance that some of what you’ve read on the internet was written by robots. And it’s likely to be a lot more soon. Artificial-intelligence software programs that generate text are becoming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-you-tell-whether-this-headline-was-written-by-a-robot-11668204880",
-      "originalUrl": "https://www.wsj.com/articles/can-you-tell-whether-this-headline-was-written-by-a-robot-11668204880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-662366/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-12-deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup.md",
       "title": "DeviantArt upsets artists with its new AI art generator, DreamUp",
       "excerpt": "Also, DeviantArt will let artists opt out of letting their images train DreamUp in the future, but each artist must fill out a form that requires human review first. This policy h",
@@ -220,7 +169,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -468,6 +417,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-scientists-promote-fair-standards-for-managing-artificial-intelligence-models.md",
+      "title": "Scientists promote FAIR standards for managing artificial intelligence models",
+      "excerpt": "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221110205411.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221110205411.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -748,6 +740,59 @@
       ]
     },
     {
+      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
+      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
+      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
       "title": "Japan to invest up to $500 mln in new advanced chip development company",
       "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
@@ -1007,49 +1052,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-scientists-articulate-new-data-standards-for-ai-models.md",
-      "title": "Scientists articulate new data standards for AI models",
-      "excerpt": "Aspiring bakers are frequently called upon to adapt award-winning recipes based on differing kitchen setups. Someone might use an eggbeater instead of a stand mixer to make prize-winning chocolate chip cookies,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/argonne-scientists-pro.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp",
-      "publishedDateTime": "2022-11-10T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

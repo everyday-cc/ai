@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-up
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/"
 type: article
 quality: 89
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -95,6 +95,33 @@ related:
         width: 1985
         height: 1381
         isCached: true
+  - title: "DeviantArt users lash out over AI tool that generates works on its own"
+    excerpt: "The AI — which is being called DreamUp —  is meant to push for “safe and fair” AI image generation for DeviantArt users."
+    publishedDateTime: 2022-11-13T20:20:00Z
+    webUrl: "https://nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/"
+    ampWebUrl: "https://nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/11/deviant-art-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "DeviantArt Embraces AI Art, Fucks Up Massively"
+    excerpt: "That thing was, of course, AI-generated art, something that sounds cool in theory but which in practice has been little else but a chanc e for tech goons and grifters to steal art, kid themselves into thinking they’re artists and/or deprive working artists of work."
+    publishedDateTime: 2022-11-14T00:44:00Z
+    webUrl: "https://kotaku.com/deviantart-ai-art-nft-crypto-scam-hustle-protest-stable-1849778362"
+    ampWebUrl: "https://kotaku.com/deviantart-ai-art-nft-crypto-scam-hustle-protest-stable-1849778362/amp"
+    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/deviantart-ai-art-nft-crypto-scam-hustle-protest-stable-1849778362/amp"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
 
 secured: "OVeRft3oNEOR5g3VQJsWKj8DYRikxZ9mIJEx3aajMiRYgSTOJ8qAy7uy8hEY4WRa72jk6BckfrOCDdcDxxy6ybrdHiRlUB89RHUfnvoaMdmouwOigU0bM2jfsP8cLyrGOtQNnshgsIaAZ15n/BXcS9jzqbvpX+wsWblnnkG2W/MbutqB4RkS6sLbF9wIBdpTBZPncGSC/qc5DZmvO9bHqZ9H92BGFYME+3ryIqNySfRMu0Z0AU2g81aEImJgdHNMeCoaDWW0XUX8VgVKo4xzhmFXGRoxdrFmXdww/D9sBB2hsKowvyBl3NvttAHmRKyMgj8qW4oqSgyLAlEP8T5g8F+HCHP2lZhAlyzezPjmDPrdV+uJmzzR3fLtJzW28bJzmYIz1MBrUUfMIKNkXkMI/v9mGQ3Xwej01Nlc/e34iWenUPF+pmzZh1LShkZNxK+/aXaV/KF3gV8MxDtm21JOQeXuIJy53u766Vi+se1NhZDwzQTjx1nFRE1h1UQAAUEoe2dBYZ4Cs+PUk9SPQbBQPg==;amp0KgAnt0D09IXurTe2jA=="
 ---

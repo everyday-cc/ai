@@ -41,6 +41,22 @@ related:
         width: 1170
         height: 687
         isCached: true
+  - title: "Fintech Report Reveals that Consumers Remain Biggest Focus, with Firms Increasingly Investing in AI"
+    excerpt: "FinTech Connect released its Industry Benchmark Report, Fintech in Flux: Thriving in the Age of Uncertainty, showing customers are \"biggest focus.\""
+    publishedDateTime: 2022-11-13T21:43:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Fintech-New-York-City.jpg"
+        width: 1600
+        height: 1186
+        isCached: true
   - title: "Egyptian fintech Blnk raises $32 million in equity, debt funding"
     excerpt: "Egypt-based fintech Blnk, has raised $23.7 million in equity and debt funding, and $8.3 million in securitised bond issuance."
     publishedDateTime: 2022-11-10T14:13:00Z

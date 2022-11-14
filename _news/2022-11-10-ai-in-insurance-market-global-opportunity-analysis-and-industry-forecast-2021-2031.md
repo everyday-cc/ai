@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Business Opportunity, Market Size, Upcoming Trends, Recent Development And Forecast: 2022-2031"
-    excerpt: "The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impac"
-    publishedDateTime: 2022-11-10T06:26:00Z
-    webUrl: "https://menafn.com/1105160242/Artificial-Intelligence-Market-Business-Opportunity-Market-Size-Upcoming-Trends-Recent-Development-And-Forecast-2022-2031"
+  - title: "Artificial Intelligence In Agriculture Market 2022 | Global Industry Growth Prospects And Opportunity Assessment By 2030"
+    excerpt: "Emergen Research Logo Increasing implementation of data generation through sensors is one of the key factors driving market revenue growt"
+    publishedDateTime: 2022-11-09T13:52:00Z
+    webUrl: "https://menafn.com/1105156649/Artificial-Intelligence-In-Agriculture-Market-2022-Global-Industry-Growth-Prospects-And-Opportunity-Assessment-By-2030"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667055"
-        width: 426
-        height: 250
-        isCached: true
+    quality: 0
 
 secured: "uM6MHN130ZpMJ/cKUhQGi7t8et7DskDTPJMMk/k2JmpinGFuQp7D5o9t2VDIAbw/FZRLBqHOQZljKIV8Y0wmixAbc7d2gsaBytVkOBVSFSeBsjey7tDqzGo4TrdeW5LgNcKJltuRPIcoroUK3Y0JmFtlrcywcTQ+saGeQhldp2PbUQIGIwkavnfijtp2usRqnPhxVEk/VzN4CL18YJ3nhV/kmrvLyhghdeHbpKVpwlYCaVUYGYam4ieiLP+oZhtUYGUBholNpuF0TBKDr+csUlhCZtqtvMGk/mJJNZ9Pqk9AiT7IfPPYdT/lfzGBPS7dU5EtsG4dOwNmBk9iWf51aaiNaIzJl+CvEk+ZcdowR9g=;hKTHzXmB0vKjSV7cx/nnKg=="
 ---

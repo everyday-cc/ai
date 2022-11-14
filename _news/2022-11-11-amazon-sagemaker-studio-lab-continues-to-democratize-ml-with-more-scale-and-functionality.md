@@ -66,20 +66,6 @@ related:
         width: 1547
         height: 773
         isCached: true
-  - title: "Amazon SageMaker benefits tens of thousands of customers"
-    excerpt: "Amazon SageMaker has opened the dawn of a new era in machine learning since its launch in 2017, helping tens of thousands of customers."
-    publishedDateTime: 2022-11-09T07:23:00Z
-    webUrl: "https://vir.com.vn/amazon-sagemaker-benefits-tens-of-thousands-of-customers-97685.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 41
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2022/112022/09/10/in_social/amazon-sagemaker-benefits-tens-of-thousands-of-customers-20221109102944.jpg?randTime=1667984494"
-        width: 600
-        height: 313
-        isCached: true
 
 secured: "ojVAXyDC4P6S6YSesyuFtyb6zDj0REhYWvduZ6od4Kp5Lo2nXQOTTTU8/Dvh8K7So3ayx6Fc5XzYaPYLXz3WpFdmM43m1Id3EEp5/nS5JJxtgroQzu0b02Y0/hyUDLftLAa3S2C2Ype4Rtq/TG/7bTo9fVNrxzt5egiFgaO94IOXDBq7NRvLx8RwhCCzONW1mkJ/uFjfudhx6TnpI1PSbvdjXkzcOiQqkHJK8jPQdu2e0Hya+xe5flmAH5oMRIh8AiC0orYnTFFjFaEbE26v5T3R20EJhvBM/WKig2TEbcszXhEs0r2YG2ZRgmScxc8KBR4dY0Dts5C8DApHeuGIvG1IAS3qUgDVKQhFQrgYHtM=;Kuzmx+5hW231V3MsC0mPsw=="
 ---

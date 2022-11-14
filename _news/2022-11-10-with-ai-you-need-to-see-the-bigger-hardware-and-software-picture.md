@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Edge AI Software Market Trends, Size, Share, Growth, Industry Analysis, Advance Technology and Forecast 2027"
+    excerpt: "Video & image recognition segment to register largest market size during the forecast period Edge AI software is segmented based on data source into video and image recognition, speech recognition, iris & facial data,"
+    publishedDateTime: 2022-11-09T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-software-market-trends-size-share-growth-industry-analysis-advance-technology-and-forecast-2027-2022-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "nUK/6FKXuRfsCDwZuVEcAucFpbtBkCvDBfOJPziHq9tIVXkuSTVNPuGrYptpH7/w7Y+AdmdUoRelhWIkdKeoEYuat5Iv1NBTWWRJgu7VP1jejVL2Sga6W3bSlCmwTy4yz6+/Q/fVEbt9u4IX3eawbjFsCD+9wvi4PPcRnXOItVvCt31aPPUs/W6LjveGdTUgRC06WxYTtiWaDDMTFRmJuUoY/BmtlSjyrsJBvwLSx4Mo1o69EG2F63Ow+nltq+RDMFNNkP5SsNJs4DYtchOjkkMsD9T+q22AvU2XWTD8IXr7dNM4rlURygC9RID5yotaoH+LnQHnEkbcLxJ+WYsjie4xs7Tup1v4jy2vdrUtPX3bJzlsFygmgRuickBK2PyA/JL+QL6CAyNCtJwjrkXETi4Kl+fgSmYr3KJJ76YehLsmuVgDEtdyGzSwcrUL9C/hrHBRmAoe9F81LfrUkyjqEiK1dQ6Pcnjb56Tut8rT9Gu/Xc2Ig13QsvVg0LS1+TFbwLQ+EqgdZWz34dH1TwNFyA==;whQllbKl1OfT6xaIZml2Rg=="
 ---

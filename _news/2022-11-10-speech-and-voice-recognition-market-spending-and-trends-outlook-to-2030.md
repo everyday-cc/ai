@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "What’s Trending in the Global Voice-Recognition Market?"
-    excerpt: "From smart TVs to voice-recognition tech for children, the industry for real-time speech analytics and voice biometrics is rapidly expanding."
-    publishedDateTime: 2022-11-11T16:13:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21254585/global-market-insights-whats-trending-in-the-global-voicerecognition-market"
+  - title: "Federated Learning Solutions Market – High Growth Prediction Due To Increasing Demand and Future Trends"
+    excerpt: "As per the report published by Fior Markets, the Federated Learning Solutions market is expected to grow from USD 91.5 Million in 2020 to USD 210.86 Million by 2028, at a CAGR of 11% during the forecast period 2021-2028."
+    publishedDateTime: 2022-11-09T10:28:00Z
+    webUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/"
+    ampWebUrl: "https://techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/federated-learning-solutions-market-high-growth-prediction-due-to-increasing-demand-and-future-trends/amp/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/11/Voice_recognition_dreamstime_39055871_promo.636e72ec831f7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/Federated-Learning-Solutions-Market.png"
+        width: 850
+        height: 557
         isCached: true
+  - title: "Indoor Robots Market to Grow at a Surprising"
+    excerpt: "Global Indoor Robots Market was valued at USD 11.65 billion in 2021 and is expected to reach USD 100.37 billion by 2029, registering a CAGR of 25.50% during the forecast period of 2022-2029. The market report curated by the Data Bridge Market Research team includes in-depth expert analysis,"
+    publishedDateTime: 2022-11-10T07:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-indoor-robots-market-grow-a-surprising-growth-usd-/2022/11/10/9710074.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "q9izmPLtskcIMBMfTUE7IlbM0FisLiFwT/WWPHh2b2jwBNzYy8AHvrpK4yhyuOwCtcoLiMQAqFAiErUjFNcIyqbeNWtjkHu0ewdnG6lfXoCwsqvonnPkCGhIlk5M1+J5K62fEyBfvVHqTMTZdKwwtBUtGwhJgWuFpsiNv6DQcPQILAd0SrmZ5fWAcJIDadzB/rXSlTyUznuSu0VA3RN9ciUCs30hNcdlykHTml3lNQU17O+lwhY27FkWDznJ1fPiSSa+Xh5SmlDonIMNZAQPSbj6Ox8z0wSrxwwqdDeSnLJeXkRGNJ5Twz/R+k3cT0X0SZPArJ8yOzEb2ESW6LXhdhXNpuUpJHKhXs0SUxkZRG8GmwmZ35oAL9HUF6whxF1FHvCoaMGVan9lxXGA8yfrk1KKNu/JS6qO6urNnN5h0tj2nTsbUb4Nt0BVvopYUf58hAGMDMgb3A8HB/z6ymDDOxlgcANLPrlz24KTnrlex6/eW2fmqjwk2ceolwBgHhrM4JSqSe1EdC7ehveJ3BP1jw==;oU9CxYVFbLeUqNyxZbCoPQ=="
 ---

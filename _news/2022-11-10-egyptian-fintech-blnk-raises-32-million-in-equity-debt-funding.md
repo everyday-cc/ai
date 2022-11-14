@@ -35,6 +35,22 @@ related:
         width: 1170
         height: 687
         isCached: true
+  - title: "Fintech Report Reveals that Consumers Remain Biggest Focus, with Firms Increasingly Investing in AI"
+    excerpt: "FinTech Connect released its Industry Benchmark Report, Fintech in Flux: Thriving in the Age of Uncertainty, showing customers are \"biggest focus.\""
+    publishedDateTime: 2022-11-13T21:43:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Fintech-New-York-City.jpg"
+        width: 1600
+        height: 1186
+        isCached: true
   - title: "Finastra and Modefin partner to provide best-in-class fintech solutions"
     excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
     publishedDateTime: 2022-11-09T09:46:00Z
