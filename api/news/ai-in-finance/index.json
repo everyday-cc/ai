@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-08-lantern-pharma-reports-third-quarter-2022-financial-results-and-operational-highlights.md",
+      "title": "Lantern Pharma Reports Third Quarter 2022 Financial Results and Operational Highlights",
+      "excerpt": "Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (“A.I.”) and machine learning (“M.L.”) platform to transform the cost,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
+      "originalUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-anchainai-2022-top-startups-for-the-enterprise.md",
       "title": "AnChain.AI: 2022 Top Startups for the Enterprise",
       "excerpt": "AnChain.AI's Web3 risk prevention and security platform aims to establish trust around blockchains and cryptocurrencies.",
@@ -1291,49 +1334,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-how-can-banks-supercharge-credit-operations-with-ai.md",
-      "title": "How can banks supercharge credit operations with AI?",
-      "excerpt": "Financial services aren’t just complex businesses, they’re incredibly rigid too. Just ask a bank. Most banks spend decades trying to move their net interest margin up a couple basis points. This isn’t for the",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Rajat-Deshpande-Finbox.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "publishedDateTime": "2022-10-12T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

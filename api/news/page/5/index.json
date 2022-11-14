@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-07-artificial-intelligence-could-help-ease-strain-on-hospitals.md",
+      "title": "Artificial intelligence could help ease strain on hospitals",
+      "excerpt": "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
+      "publishedDateTime": "2022-11-07T01:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-aryaag-invests-in-computer-vision-start-up-assert-ai.md",
       "title": "Arya.ag invests in computer vision start-up Assert AI",
       "excerpt": "Assert AI to utilise the funds for expanding its presence in the US market and develop exclusive products for the agriculture industry",
@@ -1163,59 +1207,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
-      "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
-      "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
-      "originalUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6365367400aff92bacb21cde/master/pass/Musk_EthicalAI_twitter_biz_GettyImages-1395053069.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/twitter-ethical-ai-team/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/twitter-ethical-ai-team/amp",
-      "publishedDateTime": "2022-11-04T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

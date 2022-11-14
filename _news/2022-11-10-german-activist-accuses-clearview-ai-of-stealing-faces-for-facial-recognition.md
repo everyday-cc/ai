@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2022/11/223-activist-accuses-clearview-a
 webUrl: "https://www.medianama.com/2022/11/223-activist-accuses-clearview-ai-of-stealing-faces-for-facial-recognition/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 2560
     isCached: true
-
-related:
-  - title: "Big Tech can steal your face"
-    excerpt: "And there is nothing you can do about it  A German activitist, Matthias Marx, claims he has had his face stolen by Clearview AI and his features mapped and monetised by three companies without his permission."
-    publishedDateTime: 2022-11-09T11:17:00Z
-    webUrl: "https://www.fudzilla.com/news/55797-big-tech-can-steal-your-face"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/6709a53a076d4199a8a5daa7cd4595ca_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "Z0oGXzH13TGN4+GkNO2LnLPrAGOoM5SK73kJDz/VueT4JtoXAE8qMUibyocnhkyhrfH4wYoLzBJZddUeDAu20826B511Pkif/hSKOahZAC+NKp/sDuIDQuhMT2dYBK8qSIwK+WsVgHORydC+CktOBgmVTlWDhM07A94AVC8uJYT0mW+DQOKVzyI20bvIeKsxPkc8GoRXjo/0aIUfMyPQDuz4vhcD+dmKJE64VGgVn6VRwA419yptrfgwOReCczZrxefEBZGELPQ+jv5z2crQwI4ItPBdqc90sYPHTdCUXcEVAMjGC7YosebR2v1faG13/ttaOs98JC21C049H7sk7D86tl+iKJuu8HxlmespW0uj/Kw4IlCQtJVX9rqT+b+j3n6O787S30EbbEBByE/qKDQvLmeVWxcCEDkgpmbR7vM1krOoHTMzT9b0MGnhGAgrAHitFPJOoZCa+AvuJ1FeQXRc2NclDOQJPX2N1OG5odvlEWEs3tNed9Yw0O99s4m6RkbsbsVshZQTBbTbqdSGqg==;QvcCEwQeYkVqM42euSO/rA=="
 ---

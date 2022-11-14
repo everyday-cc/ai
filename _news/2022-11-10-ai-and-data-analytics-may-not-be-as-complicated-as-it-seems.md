@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Context Analytics partners with Autochartist"
-    excerpt: "Context Analytics (CA), a global leader in Unstructured Financial Data processing has partnered with Autochartist"
-    publishedDateTime: 2022-11-09T12:16:00Z
-    webUrl: "https://financefeeds.com/context-analytics-partners-with-autochartist/"
-    type: article
-    provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 4
   - title: "Analytics Leaders Need to Navigate the Technology Behind Decision Intelligence"
     excerpt: "The next major innovation in analytics is Artificial Intelligence (AI). Applying AI across Data Prep, Business Analytics, and Data Science is what separates decision intelligence from traditional business intelligence tools such as Microsoft Power BI,"
     publishedDateTime: 2022-11-11T13:09:00Z

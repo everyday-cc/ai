@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-10T19:51:00Z
 originalUrl: "https://www.newscientist.com/article/2346597-ai-uses-artificial-sleep-to-learn-new-task-without-forgetting-the-last/"
 webUrl: "https://www.newscientist.com/article/2346597-ai-uses-artificial-sleep-to-learn-new-task-without-forgetting-the-last/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/11/10175805/SEI_133081267.jpg"

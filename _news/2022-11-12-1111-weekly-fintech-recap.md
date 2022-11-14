@@ -42,20 +42,6 @@ related:
       name: Arka
       domain: arka.am
     quality: 23
-  - title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T11:31:00Z
-    webUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated6_12.png"
-        width: 900
-        height: 480
-        isCached: true
 
 secured: "NnOoC8YsfZYgYO7M9p/T/gE2LuZsq71ou3nHQWgeVyKINbsUBTqNwZoTiaCvEkBQ7Fy/DiDxd9ubBmBHeNwDIyuKEohOebUcacQDNOQ/OdiZvYiMYeCUvUZvZdHeLQ5dUQZFqYsJmIVmidD/a/FY+daOoCqkxyOmlzGlQKimEensBIfJLNbH64rRltDFsbXXnGUVTg6ZI7dNvRsCcV38Kqqql1GqMJVn7Ws+Ik2sMoXAElxiPXkriUFPRVg0Z6sK8GFiYh3Sqw2qDDTEvJhXugBeN7EZnQtKlAPFmkuosAb6+zOSXvve2nSZeI2m+6mQfIngksFGSxAZWAVRDaW++7NOXsqCeo24bbDWZ+wRH4md58Wo42vVTSClAQzB6EyDegs5KWRSWol8h2R/kv7d7JJoIs44SO0ftQDhEp3aAK/+z6R3YFN8dPwbJQSIfeSiYfIz7pI2lECVE01g0L4f5K64y+GKUFl7hIJ6JhC2UWh0Qe2lrC3img0nYged6+HMofXsemPhb+3SRYiymOt7Yw==;38THiVKlZeUKDfN83cuA9A=="
 ---

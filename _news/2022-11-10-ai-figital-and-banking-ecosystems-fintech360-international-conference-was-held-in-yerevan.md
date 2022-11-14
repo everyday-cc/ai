@@ -33,20 +33,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Finastra and Modefin Partner to Provide Best-in-class Fintech Solutions for Banks in Africa and Selected Indian Subcontinent Markets"
-    excerpt: "Finastra, a global provider of financial software applications and marketplaces, and Modefin, a global fintech solution provider helping banks to thrive in the digital age, today announced their partnership to offer Finastra’s Fusion Trade Innovation and Fusion Essence solutions to banks in Africa and several Indian subcontinent markets."
-    publishedDateTime: 2022-11-09T11:31:00Z
-    webUrl: "https://financialit.net/news/banking/finastra-and-modefin-partner-provide-best-class-fintech-solutions-banks-africa-and"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated6_12.png"
-        width: 900
-        height: 480
-        isCached: true
   - title: "11/11 – Weekly Fintech Recap"
     excerpt: "Partnerships SPENN and Mastercard Partner to Boost Digital Inclusion in Africa Spenn and Mastercard announced a strategic partnership that will enable Spenn Mobile Wallet users – even those without bank accounts - to make safe and seamless digital payments on the Mastercard network including international e-commerce transactions."
     publishedDateTime: 2022-11-11T19:49:00Z

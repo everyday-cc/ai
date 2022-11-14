@@ -33,7 +33,7 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/11/10175805/SEI_133081267.jpg"
         width: 1200

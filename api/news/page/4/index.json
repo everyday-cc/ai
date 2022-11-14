@@ -209,6 +209,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-08-lantern-pharma-reports-third-quarter-2022-financial-results-and-operational-highlights.md",
+      "title": "Lantern Pharma Reports Third Quarter 2022 Financial Results and Operational Highlights",
+      "excerpt": "Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (“A.I.”) and machine learning (“M.L.”) platform to transform the cost,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
+      "originalUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028.md",
       "title": "Artificial Intelligence (AI) Robots Market 2022: Growth Analysis, Key Stakeholders, Regional Outlook, End-User Applicants by 2028",
       "excerpt": "The top-down approach helps recognize the Artificial Intelligence (AI) Robots market scenario along with the internal & external factors influencing the market. The bottom-up approach concentrates its analysis on micro attributes & specific features of the domain Artificial Intelligence (AI) Robots market.",
@@ -775,8 +818,8 @@
       "title": "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder",
       "excerpt": "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922",
-      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922",
+      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
+      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1112,50 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-artificial-intelligence-could-help-ease-strain-on-hospitals.md",
-      "title": "Artificial intelligence could help ease strain on hospitals",
-      "excerpt": "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
-      "publishedDateTime": "2022-11-07T01:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
