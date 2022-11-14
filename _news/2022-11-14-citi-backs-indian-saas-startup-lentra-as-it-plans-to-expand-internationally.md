@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Article: Fintech AI startup Lentra raises $60 Mn in Series B round led by Bessemer"
+    excerpt: "Lentra, a Pune-based fintech SaaS startup, has announced that it has raised $60 million in Series B funding. The funding round was led by existing investors Bessemer Venture Partners and the Susquehanna International Group (SIG) Venture Capital."
+    publishedDateTime: 2022-11-14T09:15:00Z
+    webUrl: "https://www.peoplematters.in/article/funding-investment/fintech-ai-startup-lentra-raises-60-mn-in-series-b-round-led-by-bessemer-36022"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 31
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668066004/ad-drceochl.png"
+        width: 990
+        height: 550
+        isCached: true
 
 secured: "XBz1D0RgIb8BwoamPJ0dN6SuUF0bguKP4pzNV5HKmGCER/f93E3KZUVsZtqTTvL+qSX07VyfxdmgoNFOh6YxWnFTpEFWLXAed0+WXVQkB2iA0I4rtKWdiaRTJ/YOoe/PVN7ZeYC+W2FuCCdhUv0ZPMmQBxxKo+1hnJuxulGZ1Nr7PZEMsgZEaVtYvXovQL6jGZX/XS76GjRyjLMHVAjVQVtCLKQEd2GtKWUTLEH1rseIPkstcot4GQyAC/K4PimasaTS1ecUmVxW0yxTVs5I6Gnp2HMzPQlAWSW2W9SeogG7vNlKM5aT8znUb0hnQtApfLDN+sjC0nMstUM+0/6xjjKdvfbI64vOFTHZxBNyYpPmDUpXzeU3tWj8yqQrHExKUsk+iXMA6ANXYeLY5Rist7FJGKK6ymIvrC+ChxcG0Fr5xmZ4iV+kKbCglSL16aPGtMYfgwrUpFsPOUP8Gjmu2Lps0P8qO+tpDlvtLz9yLLAHky3Lgev6xZlPQIoo/eWyjIeHx2VdOUSqGCoZtySB+w==;W4JrdmdchWoG7HLJ/OwZNA=="
 ---

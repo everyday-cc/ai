@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Is Estimated To Reach USD 86,001 Million By 2025, Registering A CAGR Of 21.8%"
-    excerpt: "Image Recognition Market The increased adoption of cloud-based technologies has been one of the main drivers behind the growth in the glo"
-    publishedDateTime: 2022-11-09T18:30:00Z
-    webUrl: "https://menafn.com/1105157802/Image-Recognition-Market-Is-Estimated-To-Reach-USD-86001-Million-By-2025-Registering-A-CAGR-Of-218"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/09/EP_d6641image_story.jpeg"
-        width: 790
-        height: 413
-        isCached: true
 
 secured: "TYpXh5zov9Ox5U9TCLcA5rXbIunKdxDy6Vmh5q3NQpA69UNDADmo27hDMsneLhs84bYVnTHtLCg7GpObdOHetozlffxq2suTV2dzI64Dv0En1fGrTrT50UL7Tqd8TOCjD2puH4ny9wBYeRHdiE9Z5RGPlRlms+6FUssxulpF7rGZbGGSXL+bwL+rHAzrKg2tDzLo8870N6yxURRIN3kFglZmehNX9voHSAzRk762//4GR4V1xH2ch+f3KMLNcXpBM0QjgXh+Ey113CUU+0BB5hVliS8apkC6BrWAfwdOoITZnblwej1S+k4QSHep0O1ckwMHQJO1qiUzwJ8RW73cu3+aIc27Sn8hLbRVXMzX0f4=;5oDotizC/keFnpstQhIxWQ=="
 ---

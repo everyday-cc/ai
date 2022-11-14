@@ -24,17 +24,6 @@ images:
     height: 225
     isCached: true
 
-related:
-  - title: "Video Highlights: Google Engineer on His Sentient AI Claim"
-    excerpt: "Google Engineer Blake Lemoine (who worked for the company's Responsible AI unit) joins Emily Chang of Bloomberg Technology in the video below to talk about some of the experiments he conducted that led him to believe that LaMDA (a Large Language Model) was a sentient AI,"
-    publishedDateTime: 2022-11-09T18:28:00Z
-    webUrl: "https://insidebigdata.com/2022/11/09/video-highlight-google-engineer-on-his-sentient-ai-claim/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
-
 secured: "JPC5apf918u0iO8RCoy2m8COC3cJ/4AzxShMlSsQAjTpnxV6+UAntSsQXRcvC1xGxpvd2N6G6JglN6NTjV3I+wbgLr9J/h7k2H0xb1aYBWkB0/FRH09xHOacyAxjvF7pcjJkD7U84plGppipGobuarrsKZN8H59VOGDidsUd1kNmAm72IGivS78pOBEmiGzlEHEljHHS07NfDOoK1YN3OWxL+s6XC9oadp7tavUtIc+RCv3MhDkH2KRkHm9q/2/C0zN/i8FlI2ddGl1tfST43RUj8v46nSShHVLbSvaYbWk3y1b4quVZ17JpGswTFcJKzjQwVOvkjnxq9M7kbyfcUepg0arhIJHwC6xqlGiKwgkVUzOZ46RsyaMczYzGpG1JXqdPT2cKixxq1vHtElIDsnjGuCuOhhnG4CFnjFP2nXUV/IPJ3BnZncI8FROzL6G+08xSpBNTcHk65EYhUWcf8HBccWkqgtUmz01lwmzJsnTEeKAEOdAIjo1xoQRalzfW0tPKyj2UYO/SjojCpODR/g==;mghneqscGHXBfOqNKTaRpg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
 type: article
 quality: 72
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How can artificial intelligence better the online gambling industry?"
+    excerpt: "One of the latest technologies that are starting to be used more and more in the online gambling industry is artificial intelligence (AI). AI can be used in a number of different ways to help improve the online gambling experience. It can be used to help ..."
+    publishedDateTime: 2022-11-14T10:02:00Z
+    webUrl: "https://www.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334"
+    ampWebUrl: "https://m.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/519160"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Artificial intelligence improves the location of objects inside industrial environments"
     excerpt: "Indoor positioning technologies are one of the driving forces behind the digital transformation of the industrial sector. The ability to track objects, assets and people accurately and cheaply could save resources,"
     publishedDateTime: 2022-11-10T16:36:00Z
@@ -57,20 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI In Insurance Market : Global Opportunity Analysis And Industry Forecast, 2021-2031"
-    excerpt: "AI in Insurance Market . AI in Insurance Market : Global Opportunity Analysis and Industry Forecast, 2021-2031. PORTLAND , OR, USA, UNITED STATES, November"
-    publishedDateTime: 2022-11-09T18:07:00Z
-    webUrl: "https://menafn.com/1105157641/AI-In-Insurance-Market-Global-Opportunity-Analysis-And-Industry-Forecast-2021-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/09/EP_e9c98image_story.png"
-        width: 986
-        height: 516
-        isCached: true
   - title: "Precision diagnostics: Making AI-enabled cath labs in India"
     excerpt: "The rising complexity of patient profiles and shifting disease patterns is making the need for personalised care even more vital and AI solutions have the potential to transform the patient care pathway."
     publishedDateTime: 2022-11-13T19:45:00Z
@@ -80,16 +82,7 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 19
-  - title: "Artificial intelligence improves the location of objects inside industrial environments"
-    excerpt: "Indoor positioning technologies are one of the driving forces behind the digital transformation of the industrial sector. The ability to track objects, assets and people accurately and cheaply could save resources,"
-    publishedDateTime: 2022-11-09T18:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/970781"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
 
-secured: "fqQThUusstzQmtwKZWSLLXiahm3TL/LOUanPJ7EKlo9Gpfpbm88azh78yubIEG4+OuHHjrGPamYfb3uI5/K9+e6ZZTPu/wpjqJfy+A0EC3KkfjD+R9j/OMh+zHQfJq5KMKSX2AFSIDJN3sDKbu641ak4QUdmJWqQkiyRW5RzLfR/Sig4O/gmxEv1PjMSycb7oycRNBm+O0DNqe54jqOuwd7p5TQ3Knrsl6T9QvgSvPp5csHGEojT3CFA9xbbTDyBXZTpbIZkHs89XaN4jr2b5tvVJIN7UnVTzNrVeTkUB/fps9y2RxfbyaGAZ7wFD4x/MQVQhJjJhHsB6T0O44oNcRZ1WCxamBl64a2QcpY3I0s=;cGjXP4PAD2k9LslfACzC/w=="
+secured: "e5wtRYYnyYq2aA/xcgFS37SlwnqIj2BbRUz09Uz17zqkYUrQKCrHRkzYD8MEMIOqNMV6uh4F+aYGeYJg2qMaC33/afAvyEZFfWlvvypmrSS32NIm98HcGN/EG1BTSn3AdmODhR90REyurx0c6BCbMsIBqXwNA7e5jcZRzobY7v62YYryWEOVZtK5cP4D0pBKTe8CbvMTEHhCBKigHg6n3frwJafuMhTZ8TwNqIRLtfTVyNZdtjns/rvNtvwNJl9e8dVqgbODBZUTilrmYNNCNM18HgE4MltQI/YQeRupDNlFoxRolfGRG0HUi4pg6RThDnajWXtyTNIqPaBfdRGKTCyNRwFk5Qyk1qB7lNVkIUcnRKySaI6LFHNHb3DF6A9StUlFvn/ihW8PUsAm4ly+sLsvTpMBm2K+l42kKTv86RlqXVgp4eoH8nPHZj1zlWwvrsuvGjMGWcxjTo8xSj6NkXBOUFzC08ZQ6qjbXCY01DAbcigKhuhQ+DIMgOhWBi13Opr3hYdmv80Yoell7lYjww==;sauLmQsqpxDNw3P3L9mD9A=="
 ---
 

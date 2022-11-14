@@ -1,23 +1,23 @@
 ---
 category: news
 title: "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry"
-excerpt: "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,"
-publishedDateTime: 2022-11-10T17:07:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
+excerpt: "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ..."
+publishedDateTime: 2022-11-10T17:33:00Z
+originalUrl: "https://www.news10.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
+webUrl: "https://www.news10.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "IMaBqr4g6kJQtYPpVWMQq2vt3ZBTSmqWo1aBC8vcjCcr/miGJaiP1fsrbez0HIngbGdHrpN4cAw5a3sO6t6QMjuKct0985xFLA67xeSTP+sR+EuxQYunVJzE1cWjXJ+cBjVxfrUdb3WFK1/FftLQDFfZkzGRhHAVW6yBW9ahrJHEjvdRO0KnTGJL+f/ccO36oBmyg1YzXi2DZ5fITyhqdWlaOzKbUpVcuunh+xucRN18/XhDDFYbkqXg5Fpqh80VBiT8CjWJXdoiM+Y4NVmbTKAhBdecYcV/g6l++6UcD9ZPZGec/LlGPMZ3UM772LQJLdxXAmbhM5i4NYSydhsiTTJPXEQTvgjCkW8Ze17NG74=;4byEZR3ffMrHwRfDwNQw7Q=="
+secured: "Ve/FhmGfQqDyw/mpnjbvDU0ZkI7IMlr0cjNOEczfnoUClwXO87EhLza9YhjXafKAtGxTqdjAV6IN4S00dhRZ2gdByHyeZILNQ7rYdsJ8WaI06UElcv7O8/+NnxXjyFWWdKcl7002nGmwZ2fEVl9TYgFrCd3t2QRAMBFXqaclu2OXBnJHHJPseBNjGzmfmcSeZ/ljKAujtXi5ElSoBmIpAJ8t/FxshCEJIOQG7/Ys829S7lo53CB8mQtBmSxrH2A+Gz0UYctEsrFfFooalnBhHd6UsrZZR73gFJ/6TgGHpveOYaVhXoWUMPIPbw/puUYHPdSjBWH7oxlLgsPAJrsL5tU4akg6wYGzi6PdFInF59I=;b7+YZadI3dJGG+ImtWsVag=="
 ---
 

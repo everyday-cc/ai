@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/cybersecurity-cloud-and-cod
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help Fill the Cybersecurity Skills Gap"
-    excerpt: "As we approach the end of 2022, the Common vulnerabilities and exposure metrics for this year continue to show an upward trend and this is a surprise to no one. Just to level-set everyone, Common Vulnerabilities and Exposures,"
-    publishedDateTime: 2022-11-09T17:10:00Z
-    webUrl: "https://securityboulevard.com/2022/11/how-ai-can-help-fill-the-cybersecurity-skills-gap-2/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 39
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2017/09/SBNIcon4_512px.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Fighting Fire With Fire: AI on Both Sides of the Cybersecurity Battlefield"
     excerpt: "Defending organizations utilize AI-powered email security measures to enhance network protection, detect advanced malware and ransomware, optimize critical data center processes, improve threat response times,"
     publishedDateTime: 2022-11-10T14:00:00Z

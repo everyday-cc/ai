@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MarketWatch
@@ -41,20 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Image Recognition Market Is Estimated To Reach USD 86,001 Million By 2025, Registering A CAGR Of 21.8%"
-    excerpt: "Image Recognition Market The increased adoption of cloud-based technologies has been one of the main drivers behind the growth in the glo"
-    publishedDateTime: 2022-11-09T18:30:00Z
-    webUrl: "https://menafn.com/1105157802/Image-Recognition-Market-Is-Estimated-To-Reach-USD-86001-Million-By-2025-Registering-A-CAGR-Of-218"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/09/EP_d6641image_story.jpeg"
-        width: 790
-        height: 413
         isCached: true
 
 secured: "yKWO+LrpW6prUoAjrVo7VJsRIsGwSNhe9dnMxvACNVT8Z5Iw25Z0I4Hc6tUHzL0CLkpQD5TX8rchbUlXljd+bLU+4GlM5wqI15uFzSzYvhiRVBXLGbcxGBzpK7YS1pjMo+bQwnKzySIG3Zti0zEpkDKRRHIDu0rLPqsFuNgZx/ETAKTOEG3BqqGiZl8MDYfW4QS+O3cLAF7zOAE87VyWXfJhIkLDr1hCI23mpDPWEBq4vkqrfzEaa9fXzawFlkklN0kZbFdzM6r/3U3i0/78S5jq49hxrPz4OdxHaj4F1lVsOFmukV139sihNSRnsUhRpeUtAo9cE1QTxpsY3vdMNQn4Ny2RRmBjipZQRXv3GQc=;DiND0/73mOeI+LsnqCnzKQ=="

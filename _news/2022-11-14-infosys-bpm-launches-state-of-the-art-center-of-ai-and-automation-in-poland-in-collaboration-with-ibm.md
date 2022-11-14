@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2,"
-    excerpt: "Huawei and the Artificial Intelligence Association of Thailand conclude Super AI Engineer Season 2, aiming to elevate AI workforce in Thailand Huawei Technologies (Thailand) Co., Ltd., and the Artificial Intelligence Association of Thailand (AIAT ..."
-    publishedDateTime: 2022-11-10T08:55:00Z
-    webUrl: "https://www.bangkokpost.com/thailand/pr/2434774/huawei-and-the-artificial-intelligence-association-of-thailand-conclude-super-ai-engineer-season-2-"
+  - title: "Infosys BPM opens AI, automation unit in Poland for global clients"
+    excerpt: "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients."
+    publishedDateTime: 2022-11-14T10:29:00Z
+    webUrl: "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 40
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
     images:
-      - url: "https://static.bangkokpost.com/media/content/20221110/c1_2434774_700.jpg"
-        width: 700
-        height: 467
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/13/full/1649873871-5587.jpg?im=Resize,width=480"
+        width: 480
+        height: 359
         isCached: true
 
 secured: "W6B8n0EYQutGgySslmXKjdwsMTmQBgtoVH0tU8+yhMUpe+exfaRDeJam0MUCmvWMrTlFh1iE92brUZ0R3QzZxoBWcdZ7he+5B/I7/W3K1dCY3xS3Lwf4i5M8liC1dRFyM9o2vzI1lyuJGGmWpCO2eZkZdZsgmlV8sBAHuXK8NYt7zIX3YvKyd4o1LYctcTMcdd+09//0HHlJomSDew1oawESaUc1cmDsb5vcMVO748f8/MZSHXkq1yoGemmhL6BOTqy0t+IWjRZriAxUcoVTM6KgyijJqQ/s/Gr36l7i3jSh6P8viWFUpG5eZYdekwnOANCLL/gKouxYsd6CgrGr/yBiHOqVnaV0aWLgSPytU0qAWBPFVxKzgBpYzm5q/IO0I1bCsVDDKZwjjfRwmfdeo0ybA2oVl+ACbVPJ9Q8x89ucZt2H0PxYUV2nEU9szTUpM45VxvjQwXigdjdpPC5lKQpdkkwPO777LKE1MTIbo00iZeJ3Zpy4DO7DMCbumM06gxkW3KN5yrO6oNSu6sMPBg==;v1nFhoA785D75WwokBj45A=="

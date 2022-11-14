@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Dumping Hopper Market Size 2022 Global Industry Revenue, Business Growth, Share, Demand and Applications Market Research Report to 2029"
+    excerpt: "Global Self-Dumping Hopper Market research report presents an In-Depth detailed overview of the current market"
+    publishedDateTime: 2022-11-14T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-dumping-hopper-market-size-2022-global-industry-revenue-business-growth-share-demand-and-applications-market-research-report-to-2029-2022-11-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Business Opportunity, Market Size, Upcoming Trends, Recent Development And Forecast: 2022-2031"
     excerpt: "The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impac"
     publishedDateTime: 2022-11-10T06:26:00Z

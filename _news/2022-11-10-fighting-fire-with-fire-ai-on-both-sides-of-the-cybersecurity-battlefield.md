@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI Can Help Fill the Cybersecurity Skills Gap"
-    excerpt: "As we approach the end of 2022, the Common vulnerabilities and exposure metrics for this year continue to show an upward trend and this is a surprise to no one. Just to level-set everyone, Common Vulnerabilities and Exposures,"
-    publishedDateTime: 2022-11-09T17:10:00Z
-    webUrl: "https://securityboulevard.com/2022/11/how-ai-can-help-fill-the-cybersecurity-skills-gap-2/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 39
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2017/09/SBNIcon4_512px.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "VEHWxv44zHAJS0QsKay7HdsT3xuEB4WCkaBVmG3p9QJJIxo6LNQNyq+DcKmiMaMHtkYjCow2Wp2VXZNkwrDzK1GiCjrlGXLY0q7OjptHkVPvFsSBVj5NDV9y7q7ScaKBSgRAD8B6O72Jzv26chzTJ8xw1ZxCipBL+pHSUND8/J6KeRfUjCHupCB+4BGoPSM7HayyG+nsW9aGyslYxJdz2olXnlzba31IRiPVCQkW4r/uC68AVqQpZR0eNZ1d7r9GINHvGBm46ToJuLJVyoZV+VZ7Qtz0UJsHFjKTBd6G8LowVGc1vpaldj3NJUd1YMBKwxMcdEih9COH/GXsHA7xyHjir+c4ytqXSK/GjHtbyp2/3Y/wNoqkNYE/Mete4aO5GBWsocQhYaCoonEoSiaqREmWwBT9H2SGiTgdGTStucYGW4mVJAnNpigro0yL0bi9P5UVW6ta3l/R4luGBc8E7XG6HvkcMD/Cz/xO1j+UHOgfcv/D2L4CMcdH6B4/ixzCrQ7/HA3zIptrRSz09/pe/w==;bV31dMTGKcu36nM+P0mGoQ=="
 ---
