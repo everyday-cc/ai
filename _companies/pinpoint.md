@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "pinpoint_sw"
   url: "https://twitter.com/pinpoint_sw"
-  followers: 340
+  followers: 341
 
 size: 11-50 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Pinpoint"
 
-secured: "mojpFvQRw7+bbTaZBFcZI6Vct9At1Zx4ZE37n880P5thRXR8AC1xjsUFq5BmTNMkGf7+85vFEcK6+L2V9ffhjYwiLtoOfCHqBB0ypheAgBN9LPyjz9JXwCfw8XPdpIixeYKBi8iVHduugiMilnnzFI4FiBxkcN4iB3I2Rj10rsSp4U4WKhiFIEQoWYsk2Osm85ghJTeo/8GkOZ7krzzqBmHmYeZu96mHsDz3fU4OYKJ3VB7argExEhm17F4aOdv+N2sXECrC+n4Uf4zostaIt3rBOCzQHqqngLY0M8jK1wzkvVh4sJFqhdrj6fz7KjlNEZSHquSwRG7qWPnJ0xZfHbx11AJXYgK81yU0G3YkXKelGEI3snt7f0qu+oHjlteMpeJLjCyJHvCtQHrRLuLeRQ==;KPNcVjyIIWT83q6uXKgycQ=="
+secured: "/6HTsKRqkO2ksTPBoAcwy/c7fwmbbf67uU4F+gKyzD0Y3dR14if9xGMbvzfF5yBQ4+Cf0peSy+/0u0rYgI3FZzizwrFeR/wM20apkBAryk8THbHOrTDhQegYTyNka/R8uPOP47Z/ue5ugOh0LloPf3/smrYP5rfnWZZjQ27xVEl4ffdlPjJpqV6R9Yb5kXCooY+HQpyEly2umahWRlW8UAGZ1aOfcohEFT4IsUqA12gkDCmaAqIdXwRK9PJgYQV+Hx9V5dSdVrDiWdAifU/qmH5soIHOo66Z3CoZucvy2OWlglGMSrCgSI0AaMFu6jm2b2mcFZyyT0O/zATc++xTQg/k+7/6aaasxCPXNKBNyDYHsKNlFIxLUeWRbanKy3VokCyiTdWIaImERVLYvm2wQg==;7wyWIdNtJE4iXOp2uoEw7g=="
 ---
 
