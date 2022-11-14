@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Use of government food benefits may slow cognitive aging in eligible seniors, study says"
-excerpt: "Nutrition benefits could be an effective way to slow age-related cognitive decline, according to a new study.The study, published Wednesday in the journal Neurology, found that eligible seniors ..."
+excerpt: "According to *** study conducted by the University of michigan and published in the Journal of Alzheimer's blood pressure has an impact on cognitive ability. The study looked at over 24,000 people ..."
 publishedDateTime: 2022-11-10T07:52:00Z
-originalUrl: "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
-webUrl: "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
-ampWebUrl: "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+originalUrl: "https://www.wmur.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+webUrl: "https://www.wmur.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+ampWebUrl: "https://www.wmur.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WMUR
+  domain: wmur.com
 
 topics:
   - Microsoft AI
@@ -44,6 +44,6 @@ related:
         height: 677
         isCached: true
 
-secured: "kjW2Q9lFhZTNEYy6VKgq1znLwFuItHtG6qaAsP+Luu4wkKaFD9XpROLT9m3K+ZHDBL9r3zA3E0b9paPalLHS6Q0bB85DZvZfObFgHZNOl313hUvbwW9+puWDcPqX76uPNw3TIf54W8yeiNrg8w9uwYCPJ1QvalecN2bDLajBp2pywwqfT+xewR50GnhN57xerBESwQwSs18bq3mV8OHkD1g6H/WicXt23BClKzyyTusVZ3yQ/BbcZ4f0iFRkJ//vqojMn76Rb2EQWigefv2WQ84bDPd6eTXqp7aC9EujDMc/S1fXZ/OWspFdXlg3reJo0c32+KNDFw69OX5HZP06/4abWb1I/5Omq5atvyfuJ34=;qcx8Zi6UMtgyiG16adfEtA=="
+secured: "so18+DWB3TgUsSpkLAsTNWAJvBz7plOudf8oGij3AFfA7ZtIuwZ01JAe3uubKQBCRagCKsP1UcedwZYvozFRUBvpWXd6fPScKx+JJSbJentxvArIOFmLD0oho61aMqhASZlfNqy2AzSN8NsOSLbl4oUerx/k2lJw/Rp6atsPJPSwjN8kbF1Hp7xzFtTb6ZyJNnOHiuP5IJ4pImleFs1qRP9atqnNPoQlucatYvQ+X2gbH5ikGRknPVlSFX7ww9ePI1cp0VUXONZ3TifOl56YuPLslVMrGN6L+mZaXNBJRbSYk5apnKkg/eUfunMrVswlDqJ61nDDVRn3TJwITdBaRxG+Qqu8ILuLg54xYH7TdYA=;DbWbzbI7U7tIjjXKzZP6Pw=="
 ---
 

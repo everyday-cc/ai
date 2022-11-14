@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
-    excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."
-    publishedDateTime: 2022-11-09T20:39:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/11/critics-zero-in-on-teslas-full-self-driving-shortcomings/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/Tesla-FSD-simulation.jpg"
-        width: 1600
-        height: 899
-        isCached: true
 
 secured: "pwcbQ9cxibOkNZq/4Riq3Drzt+/AaIuhdEy9PXWxxYmpCR6Zxi8AUiA2U1VCmONkisvACxQ0YnZB19hgJc6A3XqkixH941r2+0RffpTo50e3ij4eompyDj64z1yZMfgc8uzxA2SqDShcSIh5V+95Lz77RbkwjVpKXvNwqc/nAwD4kUjjiNdDmVhlE47Lr1HqUn3a6nJyKUqh4U9Gr342kznlYLhg9PrLluXXwW5MWnQPN9JlHvYVOKZcxXt95hexR9zZj0y6mEu2/eOJjjkTlQ6SX32e9lvQEx44eBkdCJ1KpdSSx/1sg57JgrI7nVeGhvEtWBzIY+pB9CEFHxoYD6ny86nrgJOkZqT4b2OOGL5Tmvk38oAnV+sEbf74gqSFlAcjI3PLVrFsBK8L14sRDPTmLfBix+N2nHBu8qSRXCjDD5yPNF5KSqLkjg9/mrW/Fmry8TYApgVQDCSI9R0DFZoDktDtvofqRbb+3KYxgabpOZ1hUlGmPXqGSjLmaczRI4SZDsfuZL2zJY/2rOS93g==;fspMUpJeDa2nSniJOXr9Sg=="
 ---

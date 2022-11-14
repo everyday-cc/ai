@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Space Robotics Market Sees Promising Growth, Future Strategic Planning And Forecast To 2030 Report By Emergen Research"
+    excerpt: "Emergen Research Logo Increasing collaborations between space agencies and companies and major software developing companies is a key fac"
+    publishedDateTime: 2022-11-14T12:14:00Z
+    webUrl: "https://menafn.com/1105177889/Space-Robotics-Market-Sees-Promising-Growth-Future-Strategic-Planning-And-Forecast-To-2030-Report-By-Emergen-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?839579"
+        width: 375
+        height: 250
+        isCached: true
+
 secured: "+I8jRSFvfpKe9aFWPQeXOLOy3XTRdaMXJBARcnbTbnHOrO0oIGRcCe9WQ+12+JVzUZXHf96Ldu+Ly17qPmpaAEUlVTDasjs4aQhA40mQndzoTM+V7SzDDqaxF9G2hG+fBeT9w3VU6R/Uf0ElwAuirGQcTliIfpubF3GyOebFTdjdt+cR0Dc/UO1rGBFRyC8MkPmB+f3k+qyer7pX1UpUjcdpdoeL6LTPhg0WPQYm0ToWkiS0weVyvXlNSPC1GhibZTbg5nuuvg0ItuKjgz4HnGe1ap1sZQTNP/eJUDgiMRXIyQ74mlEmsRVtJj5snDmHDkt8lpiynl+4kospT4HbKcz6TAw92jbZktJKjgkIE84=;jrv08TxWAMm8xwPFyd8A1w=="
 ---
 

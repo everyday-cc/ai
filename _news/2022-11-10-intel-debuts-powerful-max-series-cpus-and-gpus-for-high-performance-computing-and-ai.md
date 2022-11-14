@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel Unveils Xeon CPU Max And Data Center GPU Max For An AI And HPC 1-2 Punch"
-    excerpt: "Intel's bringing a left-right combo to Supercomputing '22, with new high-bandwidth CPUs and high-throughput GPUs."
-    publishedDateTime: 2022-11-09T19:24:00Z
-    webUrl: "https://hothardware.com/news/intel-announce-xeon-cpu-max-data-center-gpu-max"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 30
   - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
     excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
     publishedDateTime: 2022-11-10T07:39:00Z

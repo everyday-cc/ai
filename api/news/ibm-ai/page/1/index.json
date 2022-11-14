@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -55,6 +55,58 @@
         "IBM AI",
         "Microsoft AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-ibms-latest-quantum-computing-processor-triples-the-qubits-of-its-predecessor.md",
+      "title": "IBM's latest quantum computing processor triples the qubits of its predecessor",
+      "excerpt": "IBM's latest quantum computing processor ... to tackle calculations of much greater complexity in fields such as artificial intelligence, and the design of new materials for drug discovery and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
+      "originalUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b1208170-5ec1-11ed-ad7f-0a8837a7224a",
+          "width": 1517,
+          "height": 894,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
+      "publishedDateTime": "2022-11-09T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1358,40 +1410,6 @@
       "provider": {
         "name": "NBC4 Columbus",
         "domain": "nbc4i.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives-using-ai.md",
-      "title": "IBM In Deal With Saudi's SDAIA, Ministry Of Energy To Speed Up Sustainability Initiatives Using AI",
-      "excerpt": "(RTTNews) - IBM (IBM) Tuesday said it has signed a strategic agreement with Saudi Arabia's Saudi Data, Artificial Intelligence Authority or SDAIA and Ministry of Energy to accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives?amp",
-      "publishedDateTime": "2022-09-26T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

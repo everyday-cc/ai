@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NLP in Healthcare and Life Sciences Market Size Will Reach to USD 8.18 Billion By 2030, at 19.3% CAGR Growth: Polaris Market Research"
+    excerpt: "According to the research report, the global NLP in healthcare and life sciences market size was valued at USD 1.88 billion in 2021 and is expected to reach USD 8.18 Billion by 2030, growing at a CAGR of 19."
+    publishedDateTime: 2022-11-14T12:10:00Z
+    webUrl: "https://www.medgadget.com/2022/11/nlp-in-healthcare-and-life-sciences-market-size-will-reach-to-usd-8-18-billion-by-2030-at-19-3-cagr-growth-polaris-market-research.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 5
 
 secured: "yKWO+LrpW6prUoAjrVo7VJsRIsGwSNhe9dnMxvACNVT8Z5Iw25Z0I4Hc6tUHzL0CLkpQD5TX8rchbUlXljd+bLU+4GlM5wqI15uFzSzYvhiRVBXLGbcxGBzpK7YS1pjMo+bQwnKzySIG3Zti0zEpkDKRRHIDu0rLPqsFuNgZx/ETAKTOEG3BqqGiZl8MDYfW4QS+O3cLAF7zOAE87VyWXfJhIkLDr1hCI23mpDPWEBq4vkqrfzEaa9fXzawFlkklN0kZbFdzM6r/3U3i0/78S5jq49hxrPz4OdxHaj4F1lVsOFmukV139sihNSRnsUhRpeUtAo9cE1QTxpsY3vdMNQn4Ny2RRmBjipZQRXv3GQc=;DiND0/73mOeI+LsnqCnzKQ=="
 ---
