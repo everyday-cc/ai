@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 61
-  - title: "Argonne scientists promote FAIR standards for managing artificial intelligence models"
-    excerpt: "Argonne computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
-    publishedDateTime: 2022-11-10T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/971005"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b5d7a7db-c6b7-461a-859c-1fe00a590127/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
   - title: "How AI is changing scientists’ understanding of language learning"
     excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
     publishedDateTime: 2022-11-13T08:43:00Z

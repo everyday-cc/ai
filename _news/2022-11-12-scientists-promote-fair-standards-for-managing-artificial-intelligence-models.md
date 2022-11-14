@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/argonne-scientists-pro.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Argonne scientists promote FAIR standards for managing artificial intelligence models"
-    excerpt: "Argonne computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable."
-    publishedDateTime: 2022-11-10T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/971005"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b5d7a7db-c6b7-461a-859c-1fe00a590127/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
         isCached: true
   - title: "How AI is changing scientists’ understanding of language learning"
     excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"

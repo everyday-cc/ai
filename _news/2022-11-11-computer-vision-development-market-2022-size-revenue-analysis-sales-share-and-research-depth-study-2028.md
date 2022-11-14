@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-developm
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 10
+  - title: "Global Autonomous Vehicles Market Size and Research Report 2022 by Production, Consumption Analysis, Product Types and Forecast to 2025"
+    excerpt: "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence (AI) software, light detection and ranging (LiDAR), and Radar sensing technology, which is further used to monitor the car and to form an active 3D map of the current ..."
+    publishedDateTime: 2022-11-14T13:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-autonomous-vehicles-market-size-and-research-report-2022-by-production-consumption-analysis-product-types-and-forecast-to-2025-2022-11-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 2
   - title: "Asia Pacific Precision Diagnostics Market Report 2022: Surging Demand for Personalized Medicine Drives Growth - ResearchAndMarkets.com"
     excerpt: "The \"Asia Pacific Precision Diagnostics Market Forecast to 2028 - COVID-19 Impact and Regional Analysis - by Type, Application, and End User\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-11-11T08:20:00Z

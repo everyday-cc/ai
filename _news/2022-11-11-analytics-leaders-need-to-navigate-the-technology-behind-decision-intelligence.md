@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2022/11/11/9711436.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/11/11/9711436.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI and data analytics may not be as complicated as it seems"
-    excerpt: "Artificial Intelligence (AI) is built on data. Yet, many organizations are still finding it hard to implement AI properly to make the most out of their"
-    publishedDateTime: 2022-11-10T00:42:00Z
-    webUrl: "https://techwireasia.com/2022/11/ai-and-data-analytics-may-not-be-as-complicated-as-it-seems/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/11/pexels-jeshootscom-530024-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "9NeuSykHi+ybbN3NJnoN6v3zmiy9kpkz9BJgXRjEeCTPZgGo+JINiL7zwsOOok29WZ42XHLp7xJojdaWVsH+USOfHuJhjDGM/v7X0i2a+MMjXx6x1nsoCJLbvnmXQd0SbXxsAqwgtMdvH/R8R3JbyQ333NXtPVXkBI5cqlxoK9KrAYbeaPICWF/lIm+cX+QNRv6jTdHfihXP4Q4eDApSaPSQW9iEocAlXWAIlqBJs9MNUvkMVvFSgAO0Vag0z550D0b8yUe+H7uw3rWB4RaIDZpciDFTi3JkFodIfvjNjKpcj4A7GqQIb64kpy7T44cq52XiOcXyhQftCZ+Es5c4TiHsKc4+VRTXazbwblUggKs=;iIKEvavKCn3DE+92v2p9Qg=="
 ---

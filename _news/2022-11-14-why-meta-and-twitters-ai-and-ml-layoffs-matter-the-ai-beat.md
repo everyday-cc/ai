@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T14:24:00Z
 originalUrl: "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/"
 webUrl: "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/"
 type: article
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: VentureBeat

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 5
+  - title: "Autonomous Multifunctional Agriculture Robot Market To Reach USD 1,278.5 Million at a 16.7% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "Besides, increasing demand for autonomous multifunctional agriculture robots to perform harvesting, seeding, and plant inspection fosters market growth. Growing advances in vision cameras, sensing technology, and artificial intelligence to improve crop ..."
+    publishedDateTime: 2022-11-14T13:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29698702/autonomous-multifunctional-agriculture-robot-market-to-reach-usd-1-278-5-million-at-a-16-7-cagr-by"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "yKWO+LrpW6prUoAjrVo7VJsRIsGwSNhe9dnMxvACNVT8Z5Iw25Z0I4Hc6tUHzL0CLkpQD5TX8rchbUlXljd+bLU+4GlM5wqI15uFzSzYvhiRVBXLGbcxGBzpK7YS1pjMo+bQwnKzySIG3Zti0zEpkDKRRHIDu0rLPqsFuNgZx/ETAKTOEG3BqqGiZl8MDYfW4QS+O3cLAF7zOAE87VyWXfJhIkLDr1hCI23mpDPWEBq4vkqrfzEaa9fXzawFlkklN0kZbFdzM6r/3U3i0/78S5jq49hxrPz4OdxHaj4F1lVsOFmukV139sihNSRnsUhRpeUtAo9cE1QTxpsY3vdMNQn4Ny2RRmBjipZQRXv3GQc=;DiND0/73mOeI+LsnqCnzKQ=="
 ---

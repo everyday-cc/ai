@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/41301/isle-of-man-launches-fi
 webUrl: "https://www.finextra.com/newsarticle/41301/isle-of-man-launches-fintech-innovation-challenge"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI, figital and banking ecosystems - FINTECH360 international conference was held in Yerevan"
-    excerpt: "FINTECH360 international conference held in Yerevan earlier this month brought together over 200 representatives of leading banks, IT and telecommunication companies, payment systems and specialized associations from different countries."
-    publishedDateTime: 2022-11-10T13:48:00Z
-    webUrl: "https://arka.am/en/news/business/ai_figital_and_banking_ecosystems_fintech360_international_conference_was_held_in_yerevan/"
+  - title: "Preparing for fintech’s second decade: 4 moves your firm must make now"
+    excerpt: "How can fintech startups prepare to compete in the next decade ... You will need modern tech infrastructure that can support greater cross-product automation, a sophisticated AI assistant, more integrations with external parties such as the crypto ..."
+    publishedDateTime: 2022-11-14T15:38:00Z
+    webUrl: "https://techcrunch.com/2022/11/14/preparing-for-fintechs-second-decade-4-moves-your-firm-must-make-now/"
     type: article
     provider:
-      name: Arka
-      domain: arka.am
-    quality: 23
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1248156107.jpg?resize=1200,801"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "11/11 – Weekly Fintech Recap"
     excerpt: "Partnerships SPENN and Mastercard Partner to Boost Digital Inclusion in Africa Spenn and Mastercard announced a strategic partnership that will enable Spenn Mobile Wallet users – even those without bank accounts - to make safe and seamless digital payments on the Mastercard network including international e-commerce transactions."
     publishedDateTime: 2022-11-11T19:49:00Z

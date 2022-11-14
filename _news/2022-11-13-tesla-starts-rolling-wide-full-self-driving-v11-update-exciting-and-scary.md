@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Tesla’s Full Self-Driving Struggles In Snow-Covered Edmonton"
-    excerpt: "Tesla’s Full Self-Driving technology splits opinion in many ways. People argue over the hardware it leverages, its cost, and even its name but what matters most is how it actually performs. In one test on snow-covered roads in Edmonton,"
-    publishedDateTime: 2022-11-09T21:38:00Z
-    webUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/"
-    ampWebUrl: "https://www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/teslas-full-self-driving-struggles-in-snow-covered-edmonton/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/J1HROrNmlfg/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "kERowC39QGn1fde62OyiKTfJ6I3sbW0SkNwFzL6zpaerI/vlDywD12HUm2ZqGuhDIoZP2qFeW0cT2ZYr6T57cEcnGMvdSuy22uuR6+GGqr0c/dpOb3JmRR3fhaU0pOmdtT6RKJuVP3XwwLtHZ+82sFw5BxeBhQR2LbZ1IqjwJEdBev96R6hkCVJdboa72cjuvLC7ngMUyrCnFxqHRCY1c/Xc2FTcvoAqYKOjTAv8PxwVC+/dyQtozs1mG9VQwyPMLbL71/Ju8pLaBb3MCrKvanD08GGklJdYRDkuNe4+prJ30v7ezVl6xT+2lD8LPn1fk911MFGPfGs4nCJ6gjymGxhiiF/Ll8zydKZYHq+qxkeIuXqt//5Zd8ore1HE4JLzmzKDkiSifyu77aBgHWo7X9eNzoh6PScIvoVjETHNBVvn1K9wRsKao4jwvOIDVWLaUH+TOiuMOQdTpvSWafIFc8EdzmO7lCwGzif7xVaxs9hyjauxT3eA6kz9ucT3hZJjrSuxjSZLD3hhpM2e4VIvVw==;07gbu7W00DY827HQA75H6w=="
 ---

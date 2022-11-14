@@ -34,6 +34,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "How Generative AI Is Changing Creative Work"
+    excerpt: "Generative AI models for businesses threaten to upend the world of content creation, with substantial impacts on marketing, software, design, entertainment, and interpersonal communications. These models are able to produce text and images: blog posts,"
+    publishedDateTime: 2022-11-14T13:26:00Z
+    webUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/11/Nov22_14_1364531717.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "DpBc9905D7wGztBVXd+1oKaAP9qWYxVRHfd8yah7tG95w7ixqYbt1Q1hoeoZP29lofkGLqwt6IL5AIDzyPUBLHI+lCfD6NrlKF5BgayFI27cbRwtn56MGJkEklVMaZMqVGtTAh4+GQlda6IQ7dh7UdBbr4/1ABbUprglaICE9KmmrmZ5oJ65mMsK2UkpWsBh/Kt/x3Wqb9xRClWMkqRarCicl/J9IO4JCGMt+rA5UR6iCkHA/oGSIMVKFS/uyD5eQGsTK+1Rta1+QcLw22Iz5Cynf4mw0pk1Z1MuasnfgXZUrcf16kcEDBxjKbnLPj9Z8fpdmM644ZtazTj87pvfpNaPBernSZb4A3KxToOYkSqdXh4F8H6mvJiAV9/0LIN74PadZ1guZqXi3tVHbIXnJAP+u24YR7xxiI9C0XsWQioAZpC+ZKysgm6uHzRkAhIRoXtgSrIY3LatPTg6S/JSDezc6UDxp12h1DE7ztuY3hPvg3Ykn1uZTnJllnTPjuFcJNhzYVT9HYjdamPhi4e06w==;B5IQtSlUdEjqDJM+LHy9Xg=="
 ---

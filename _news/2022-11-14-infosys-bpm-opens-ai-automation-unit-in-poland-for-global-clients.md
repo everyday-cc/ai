@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/infosys-bpm-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Standard
@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "Infosys BPM opens AI, automation unit in Poland in collaboration with IBM"
+    excerpt: "The announcement underscores two years of strong collaboration between Infosys BPM and IBM, delivering client success, identifying new use cases, and building solutions, to enable clients to innovate in hybrid cloud environments,"
+    publishedDateTime: 2022-11-14T12:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/infosys-bpm-opens-ai-automation-unit-in-poland-in-collaboration-with-ibm/article66135701.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 18
 
 secured: "hP8vraM5c8FN5UWlTV/fyugvNwVMTIYA5V/ko+hvs4yRwrd12yPEHS/MGk0l+PrR5iaSXupq0FqhSoiL2L4U+62cZv1AyNv9f00lriqObfp5DyHga9W94Z1CSI+iVylPHeFMYFMiUj1rVUBJ5X6+LKv51sTW9t6Of2m0bNRGhhZxQyaH9lEgo0grLCoE359eN6CkmovOp+v/44GSGnCVXI4pOOw7Iebm597qoAT4Jk7Ib23xEZprUWIr7aawdBUcQE96Pu/0cMkSnYwRpqzd4Je7AZEV4cw1t8mWxAP5ltDMr6QsfxqwWGNkH+Pr5qmgSpz3wnyLK+qqSNlPhsGESpxIpRixaSOTI+VUD0szogQv1Hvt2mGMuRJOJQTOCpqZL/WtQkhOablD5YqCTnPwRVewsKLO3Km97u82LPKRm2e7dJMuWalvI5wfpWETwukwTn8owgQgODif+00D4Opbc1sb4lwaQ/hk7PtG2R1QFjNKX6MKAq7WnvAB3wGQZpUKIWGb3w3s/T03SZw868EqdQ==;U1e7UGYJlFU0JsSirR9ncA=="
 ---

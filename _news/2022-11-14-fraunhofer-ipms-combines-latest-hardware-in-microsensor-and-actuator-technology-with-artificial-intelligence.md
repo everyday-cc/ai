@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T13:49:00Z
 originalUrl: "https://www.design-reuse.com/news/53011/fraunhofer-ipms-electronica.html"
 webUrl: "https://www.design-reuse.com/news/53011/fraunhofer-ipms-electronica.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Design-Reuse

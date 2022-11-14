@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T13:24:00Z
 originalUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/11/14/this-female-ai-scientist-quietly-built-a-profitable-longevity-startup-in-estonia-that-is-dominating-the-global-skincare-ai-market/"
 webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/11/14/this-female-ai-scientist-quietly-built-a-profitable-longevity-startup-in-estonia-that-is-dominating-the-global-skincare-ai-market/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Forbes

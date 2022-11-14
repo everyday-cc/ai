@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T14:47:00Z
 originalUrl: "https://nextcity.org/urbanist-news/without-new-regulations-self-driving-cars-could-make-our-transportation-sys"
 webUrl: "https://nextcity.org/urbanist-news/without-new-regulations-self-driving-cars-could-make-our-transportation-sys"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Next City

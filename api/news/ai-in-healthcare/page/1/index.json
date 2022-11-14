@@ -303,6 +303,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-07-kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million-us-seniors-age-in-place.md",
+      "title": "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place",
+      "excerpt": "On the heels of its successful General Availability launch of KamiCare, an artificial intelligence (AI) fall management solution for senior living communities, Kami Vision has announced Fall Detect by KamiCare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_37a69568-21e3-5c9e-9f61-93e13eae0014.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_37a69568-21e3-5c9e-9f61-93e13eae0014.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-06-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "excerpt": "Powered by Watson, IBM can deliver safe dividend returns for income investors. Palantir is not low-risk, but the prospect of \"next-generation\" AI could lead to considerable returns. You’re ...",
@@ -952,9 +986,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/83d9a07d-a900-4791-afaf-62a2de80f6cf-1509545409.jpg",
-          "width": 300,
-          "height": 452,
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/055ada53-6efa-4e28-a4e9-7fc8860f3760-xpertsvar20logo.jpg",
+          "width": 260,
+          "height": 260,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1422,49 +1456,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research.md",
-      "title": "Tempus Announces Real-World Data-Driven Program to Accelerate Precision Oncology Research",
-      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine ... Kuzel, MD, FACP, Division Chief of Hematology/Oncology/Cell Therapy at Rush University Medical Center. \"By having access to these large data sets accumulated from hundreds of centers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

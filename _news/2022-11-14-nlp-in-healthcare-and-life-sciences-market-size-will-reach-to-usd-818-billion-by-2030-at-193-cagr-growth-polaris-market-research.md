@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Autonomous Multifunctional Agriculture Robot Market To Reach USD 1,278.5 Million at a 16.7% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "Besides, increasing demand for autonomous multifunctional agriculture robots to perform harvesting, seeding, and plant inspection fosters market growth. Growing advances in vision cameras, sensing technology, and artificial intelligence to improve crop ..."
+    publishedDateTime: 2022-11-14T13:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29698702/autonomous-multifunctional-agriculture-robot-market-to-reach-usd-1-278-5-million-at-a-16-7-cagr-by"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "NfFYHlT/xgaiWQ5tJnK1SWGrs8yTCEcvprCrH/iq1pWr5xxHO0a2pshf2PGncSkf9RCT5pSmRd3OAO2NQlP/p1SVihqsikJ5uapmOu98hAAkiC9cY3LvJAse5DkKR4zz4eyYWctfmCGqm5bqg+0bzUj0DYqZpg9PRaPdXRsXdPoTIzbDx9sidwHmWzqXaVRwGKPTyIGN90yK/opyFrIo0vfOSVdKlrGUDezvwJYVffxWdxRm694tR4Rra0syyiLWguJtwmUB912XjQ1TlqBt7YitWbywd7p8n1L2xcC6fWrPzaulRVjuQqE53Nzph93ijoR9r2DQMXZMedaq1nJn0aweq7IUb92YXuUJOMIwHun2A+fKEJGcN3MnWvuZ9G9kwhcr8Lewx5H2mh7W1aXBh6PW4SkryVxWtPQF8TSknzvIi3IRzAmqPCi1a0OTzvp/cZ6z11vvTSrs0sFFXQFobfgBlBgQNdvObcjH4gJsS2IIJIEglVkAC3LAkeLOdbSXRJMW2M7X+KCvl5DrLoxJtQ==;7nYfR+1v38LoyKCjR3fVoQ=="
 ---

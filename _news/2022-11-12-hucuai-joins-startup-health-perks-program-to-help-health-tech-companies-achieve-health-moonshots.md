@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Hucu.ai Joins StartUp Health Perks Program to Help Health-Tech Companies Achieve Health Moonshots"
-excerpt: "The StartUp Health Perks Program welcomes Hucu.ai with exclusive discounts for fellow Health Transformers. Hucu.ai joins leading industry vendors across cloud hosting, software, finance, legal, marketing,"
-publishedDateTime: 2022-11-11T16:04:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/11/9711556.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/11/9711556.htm"
+excerpt: "Hucu.ai joins the StartUp Health Perks Program, alongside existing vendors including Google, Amazon, Microsoft, ADP, Twilio, Hubspot, to easily connect and partner with other StartUp Health portfolio companies."
+publishedDateTime: 2022-11-11T17:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm"
 type: article
 quality: 4
 heat: -1
@@ -30,6 +30,6 @@ related:
       domain: benzinga.com
     quality: 24
 
-secured: "Ni0wZmcGX3esMCNq0awO272IR8XZ+OPghj2ai4BOq/WDgqKhOGetNSxPn3NNSrf04aMdlQMqu4Vv9rZF5PqdtSEL/MUvLfAAV4Q1/FmwasfgCnZJeC9vdhtUWiMI/biITqbaIypfL/zYAo1TdcJBsDMkz9pmj1Kq7QIgmDqpjMFxrmk6e2mgYTMaWF5pre4cWR2Uo9oj/+CxpPtVB4kApk7qQvlNJULV7w94q5q6mjD1Y5/IvfS/arnt8+ejIsO5gb95WcoX+pE6ajPF2eEh/kmRMMcCTGcO0yBDaH32Ott+3lJpcj/EkJi0naoeDtjkwM3F1YqgpucXwYRND1wgSQ3F+wuiCqTmzS7G3kTKFIc=;ZompXNb+R8q++rOtyVLspg=="
+secured: "R+9M+JjBVKYki+HUFU0ipPhkHTlNvuA3wSR7AHNuYSdHOKnIhnXxAAWg3HMsmVJnD62g2AwVJx5X/PR1nfKVR7glNwvBOePBjxStkZesyZ6LJsrTSrAkvEPL6RiCrSnnw9vI/mEQRc0E9DKxcDlwHopD7VMP/NvO25kaccS6RaAMzEJDvT7Jwfotc+GGUvgIRWyZcVDK/vH+BOAk2i4p9JF/uEbtcmaHYYPf+RZbJ7XGqG/vhWIdN6bkNJ7TquFzzwYks891r4kxp11qQCvhSNgp4yJrRv1PYHz2AUzgbw05RPtrRbk0HVNoJKQ6kH6SUYy6eugm1/aSichUikRBJUzJBAAVcm5vrai+G1opym0=;vmhKCHMYNwN4JCGW0+zIug=="
 ---
 

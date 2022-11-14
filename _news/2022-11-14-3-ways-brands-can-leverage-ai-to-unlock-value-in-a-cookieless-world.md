@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T12:25:00Z
 originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/11/14/3-ways-brands-can-leverage-ai-to-unlock-value-in-a-cookieless-world/"
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/11/14/3-ways-brands-can-leverage-ai-to-unlock-value-in-a-cookieless-world/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

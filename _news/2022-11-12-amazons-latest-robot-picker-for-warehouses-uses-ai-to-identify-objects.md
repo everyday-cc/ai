@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow
 webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
         width: 970
         height: 546
-        isCached: true
-  - title: "Amazon introduces new robot to do warehouse tasks"
-    excerpt: "The robot is named Sparrow, and is a robotic arm that can handle millions of items. The robot functions using computer vision and artificial intelligence, and is the company's first robotic system that can detect and pluck individual products ..."
-    publishedDateTime: 2022-11-10T00:00:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/10/Amazon-Sparrow-warehouse/1411668123540/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/1411668123540/2022/i/16681244192735/v1.5/Amazon-introduces-new-robot-to-do-warehouse-tasks.jpg?lg=5"
-        width: 860
-        height: 576
         isCached: true
   - title: "Team uses AI and satellite images to release first-ever global estimates for road transportation greenhouse emissions"
     excerpt: "The Environmental Protection Agency estimates that the transportation sector accounts for approximately 27% of all greenhouse gas emissions annually in the United States, and emissions from road transportation—driven by carbon-creating internal combustion vehicles—account for a large majority of that."

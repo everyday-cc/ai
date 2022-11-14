@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T14:08:00Z
 originalUrl: "https://www.law.com/dailybusinessreview/2022/11/14/death-injuries-often-result-when-auto-manufacturers-dont-exercise-patience-with-driving-technology/"
 webUrl: "https://www.law.com/dailybusinessreview/2022/11/14/death-injuries-often-result-when-auto-manufacturers-dont-exercise-patience-with-driving-technology/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Law

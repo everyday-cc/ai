@@ -52,6 +52,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 5
+  - title: "Autonomous Multifunctional Agriculture Robot Market To Reach USD 1,278.5 Million at a 16.7% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "Besides, increasing demand for autonomous multifunctional agriculture robots to perform harvesting, seeding, and plant inspection fosters market growth. Growing advances in vision cameras, sensing technology, and artificial intelligence to improve crop ..."
+    publishedDateTime: 2022-11-14T13:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29698702/autonomous-multifunctional-agriculture-robot-market-to-reach-usd-1-278-5-million-at-a-16-7-cagr-by"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "TYpXh5zov9Ox5U9TCLcA5rXbIunKdxDy6Vmh5q3NQpA69UNDADmo27hDMsneLhs84bYVnTHtLCg7GpObdOHetozlffxq2suTV2dzI64Dv0En1fGrTrT50UL7Tqd8TOCjD2puH4ny9wBYeRHdiE9Z5RGPlRlms+6FUssxulpF7rGZbGGSXL+bwL+rHAzrKg2tDzLo8870N6yxURRIN3kFglZmehNX9voHSAzRk762//4GR4V1xH2ch+f3KMLNcXpBM0QjgXh+Ey113CUU+0BB5hVliS8apkC6BrWAfwdOoITZnblwej1S+k4QSHep0O1ckwMHQJO1qiUzwJ8RW73cu3+aIc27Sn8hLbRVXMzX0f4=;5oDotizC/keFnpstQhIxWQ=="
 ---

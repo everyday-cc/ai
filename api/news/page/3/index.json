@@ -2,6 +2,411 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-10-too-easymidjourney-tests-dramatic-new-version-of-its-ai-image-generator.md",
+      "title": "“Too easy“—Midjourney tests dramatic new version of its AI image generator",
+      "excerpt": "Midjourney opened to the public in March as part of an early wave of AI image synthesis models. It quickly gained a large following due to its distinct style and for being publicly available before DALL-E and Stable Diffusion.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/midjourney-turns-heads-with-quality-leap-in-new-ai-image-generator-version/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/midjourney-turns-heads-with-quality-leap-in-new-ai-image-generator-version/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/midjourney-turns-heads-with-quality-leap-in-new-ai-image-generator-version/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/midjourney-turns-heads-with-quality-leap-in-new-ai-image-generator-version/amp/",
+      "publishedDateTime": "2022-11-09T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-zoom-adds-crestas-conversational-ai-to-help-customer-service-agents.md",
+      "title": "Zoom adds Cresta’s conversational AI to help customer service agents",
+      "excerpt": "Startup and training time for new agents was cut by a factor of three. The agents are said to save three to five hours in an average week by letting Cresta’s tools do repetitive tasks. “Cresta’s AI-solutions make agents faster and enable self ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/zoom-adds-crestas-conversational-ai-to-help-customer-service-agents/",
+      "originalUrl": "https://venturebeat.com/ai/zoom-adds-crestas-conversational-ai-to-help-customer-service-agents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1370249712-1-e1658347263596.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/zoom-adds-crestas-conversational-ai-to-help-customer-service-agents/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zoom-adds-crestas-conversational-ai-to-help-customer-service-agents/amp/",
+      "publishedDateTime": "2022-11-09T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-21-results.md",
+      "title": "Nvidia and Intel show machine learning performance gains on latest MLPerf Training 2.1 results",
+      "excerpt": "Both Nvidia and Intel’s Habana Labs reported performance gains with the MLPerf 2.1 benchmark in training machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/machine-learning-challenges.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
+      "publishedDateTime": "2022-11-09T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios.md",
+      "title": "Pixel 8 hardware leaks suggest faster chip, tweaked screen ratios",
+      "excerpt": "WinFuture cites devices codenamed \"Shiba\" and \"Husky,\" both running Android 14 \"Upside Down Cake\" and sporting a new Tensor G3 system-on-a-chip developed with ... with the typical Google AI/ML improvements baked in. The Exynos 2300 was seemingly on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-8-800x488.jpg",
+          "width": 800,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/amp/",
+      "publishedDateTime": "2022-11-09T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-tech-industries-that-should-boom-in-the-near-future.md",
+      "title": "Tech Industries That Should Boom in The Near Future",
+      "excerpt": "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect",
+      "sourceUrl": null,
+      "webUrl": "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future",
+      "originalUrl": "https://www.themobileindian.com/crypto/tech-industries-that-should-boom-in-the-near-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.themobileindian.com/wp-content/uploads/2021/06/Cell-Person-Phone-Smartphone-Technology-Texting-918633.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile",
+        "domain": "themobileindian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-brain-tumor-segmentation-at-scale-using-aws-inferentia.md",
+      "title": "Brain tumor segmentation at scale using AWS Inferentia",
+      "excerpt": "Medical imaging is an important tool for the diagnosis and localization of disease. Over the past decade, collections of medical images have grown rapidly, and open repositories such as The Cancer Imaging Archive and Imaging Data Commons have democratized access to this vast imaging data. Computational",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/brain-tumor-segmentation-at-scale-using-aws-inferentia/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/brain-tumor-segmentation-at-scale-using-aws-inferentia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/brain-tumor-segmentation-inferentia.jpg",
+          "width": 1551,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:24:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server.md",
+      "title": "Serve multiple models with Amazon SageMaker and Triton Inference Server",
+      "excerpt": "Amazon SageMaker is a fully managed service for data science and machine learning (ML) workflows. It helps data scientists and developers prepare, build, train, and deploy high-quality ML models quickly by bringing together a broad set of capabilities purpose-built for ML. In 2021, AWS announced the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/serve-multiple-models-sagemaker-triton-f.jpg",
+          "width": 1549,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:07:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-ibms-latest-quantum-computing-processor-triples-the-qubits-of-its-predecessor.md",
+      "title": "IBM's latest quantum computing processor triples the qubits of its predecessor",
+      "excerpt": "IBM's latest quantum computing processor ... to tackle calculations of much greater complexity in fields such as artificial intelligence, and the design of new materials for drug discovery and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
+      "originalUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b1208170-5ec1-11ed-ad7f-0a8837a7224a",
+          "width": 1517,
+          "height": 894,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
+      "publishedDateTime": "2022-11-09T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae.md",
       "title": "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae",
       "excerpt": "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled",
@@ -367,12 +772,12 @@
       ]
     },
     {
-      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
-      "title": "AWS Launches Infrastructure Region in Switzerland",
-      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
+      "path": "_news/2022-11-09-artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group.md",
+      "title": "Artificial Intelligence (AI) Consulting Market Recovery and Impact Analysis Report | IBM, Mckinsey, Boston Consulting Group",
+      "excerpt": "Artificial intelligence (AI) consulting is the process of utilizing AI technologies and tools to solve business problems. As a new and emerging field, AI consulting is still in its early stages ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -382,11 +787,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T00:05:00-08:00",
+      "publishedDateTime": "2022-11-09T00:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -396,7 +801,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "IBM AI",
         "AI"
       ]
     },
@@ -491,6 +896,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
+      "title": "AWS Launches Infrastructure Region in Switzerland",
+      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/09/9709024.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/09/9709024.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -742,458 +1181,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-artificial-intelligence-ai-takes-a-role-in-uspto-patent-searches.md",
-      "title": "Artificial Intelligence (AI) Takes a Role in USPTO Patent Searches",
-      "excerpt": "In 2021 the U.S. Patent and Trademark Office (USPTO) developed an Artificial Intelligence (AI) based prototype search system for use by examiners during examination of patent applications. A",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
-      "publishedDateTime": "2022-11-08T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-introduction-to-machine-learning-for-marketing.md",
-      "title": "Introduction To Machine Learning For Marketing",
-      "excerpt": "Machine learning has been inducted into various domains for automation and insights. It has helped businesses grow by aiding decision-making based on data. Organizations create and deploy machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
-      "publishedDateTime": "2022-11-08T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-google-and-renault-are-creating-a-software-defined-vehicle.md",
-      "title": "Google and Renault are creating a 'software defined vehicle'",
-      "excerpt": "Google partnered with Renault Group to bring Android-powered infotainment systems to cars. The two companies are now building on this partnership to design and deliver the digital architecture for a more complex concept,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "originalUrl": "https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a1ed710e73713aed5efb0ac9d693389b2af75905/2022/11/08/dcf2798d-ce78-4063-b61c-edac98daf4e2/cars-in-traffic-with-tech.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "publishedDateTime": "2022-11-08T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-in-the-age-of-artificial-intelligence-human-skills-are-needed-more-than-ever.md",
-      "title": "In the age of artificial intelligence, human skills are needed more than ever",
-      "excerpt": "Alan Turing, widely considered to be the father of theoretical computer science and artificial intelligence, reportedly said that “once the machine thinking method had started, it would not take ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2022/11/08/bc563069-25d9-4e6d-bab5-e1f1aa801ff8_edbd8e94.jpg?itok=Ya-ASJIt&v=1667899505",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "publishedDateTime": "2022-11-08T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-id-selfie-improving-digital-identity-verification-using-aws.md",
-      "title": "“ID + Selfie” – Improving digital identity verification using AWS",
-      "excerpt": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/id-selfie-rekognition.jpg",
-          "width": 1547,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T10:55:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-getting-started-with-deploying-real-time-models-on-amazon-sagemaker.md",
-      "title": "Getting started with deploying real-time models on Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/getting-started-real-time-sagemaker.jpg",
-          "width": 1548,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T10:51:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-why-data-remains-the-greatest-challenge-for-machine-learning-projects.md",
-      "title": "Why data remains the greatest challenge for machine learning projects",
-      "excerpt": "Automated and semi-automated labeling tools use a deep learning model to process the training examples and predict the bounding boxes. The automated labels are not perfect, and a human labeler must review and adjust them, but they speed up the process ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/",
-      "originalUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/amp/",
-      "publishedDateTime": "2022-11-08T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-robotics-innovation-leading-companies-in-autopilot-mine-shuttles.md",
-      "title": "Robotics innovation: Leading companies in autopilot mine shuttles",
-      "excerpt": "The mining industry continues to be a hotbed of innovation, with activity driven by the need to enhance safety,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "originalUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/11/Autopilot-mine-shuttles.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mining Technology",
-        "domain": "mining-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-insta360-dual-sensor-camera-uses-ai-to-make-video-editing-easy.md",
-      "title": "Insta360 dual-sensor camera uses AI to make video editing easy",
-      "excerpt": "In the continuing development of the One RS modular platform, Insta360 launched a variation with two big Leica lenses designed to provide enhanced 360 images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
-      "originalUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ce6ff9233ffc2fbed9d9d5d3af544024a96ce99b/2022/11/07/da7d89aa-1136-474b-a672-1cc531874ee9/one-rs-1-inch-360-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
-      "publishedDateTime": "2022-11-08T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

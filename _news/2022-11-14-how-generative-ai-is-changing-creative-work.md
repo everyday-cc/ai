@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T13:26:00Z
 originalUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
 webUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
 type: article
+quality: 39
+heat: -1
+published: false
 
 provider:
   name: Harvard Business Review
@@ -15,6 +18,39 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "440kqez8OFnfQQGfskj/vxgBCh715Z/+x2DTqwkm3XLsYHD075pSemz6wHF+YkPOmKic9PKV3lCFVWCjeS+eNflgjwIiie66VLFHdKEgdxVDE0yp0/QibOwuJ7DpqHAJH8JeQzIE4KpgkexAZssB9o8z/juf1v6m2S7jjpeZ5i3GF8jE1pG7uCpLCWUQHfQf5Z0EW2h1e+R+8d0Zo7ypXsyFOGnAblivyVSYv7m9Vi0/qYSq7yh/PgbkgUufvgD/LlEZLh97XK/IMMpE0e/XiLd+ITD+ZaLefMQ3AwxvCbHHv5aXo+uAcE+o0QD0TAHghPA5lGsjgMjPYb3lKg0CO3ECkoqsbWqhjYsW5FL8SyI=;za1qzkLzGGTBmPfTvMUPtA=="
+images:
+  - url: "https://hbr.org/resources/images/article_assets/2022/11/Nov22_14_1364531717.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "How 2022 became the year of generative AI"
+    excerpt: "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code."
+    publishedDateTime: 2022-11-11T17:18:00Z
+    webUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "The AI Image Generator: The Limits of the Algorithm and Human Biases"
+    excerpt: "AI generative art algorithms usually function by drawing on ... You'll now receive updates based on what you follow! Personalize your stream and start following your favorite authors, offices and users."
+    publishedDateTime: 2022-11-11T14:02:00Z
+    webUrl: "https://www.archdaily.com/992012/the-ai-image-generator-the-limits-of-the-algorithm-and-human-biases"
+    type: article
+    provider:
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 17
+
+secured: "D78cdibVMULAAaMkimJ4QCXR/NoM43qP+tAHBbSqlIWYzTnflsIBjBSc6yi1FLilO63GLFopsdWto5QXT2qdBNSbcr0HpTMsmUMk3wINQz4fvTRiCMMUkmmOdB23eEwFvxlnZwnrk8jcBgTyCs5PVUiVGkWwoBIHbAl0DGWGXKHV7Hsd/LWBs4rqIH0/gS1qL0g0dLh/I0vzINdhh+hg+LiHyc4zFhbtYb5p7D6d9CVOSQnw9UiMazHuuEqCcL6/ybzYRI5gv2frR/PE6pcKzR/rV498IRIJ39pQzlFJQDbfyxqgs7mQHh0GZ1yY/+ekCHkuiQcnWVjuSRMSIhOvTtDBkWWaPzrn+KS76G/iY70=;zo50dG00SxE49kn6IFA3kQ=="
 ---
 

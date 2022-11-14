@@ -57,20 +57,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
-    excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
-    publishedDateTime: 2022-11-10T00:44:00Z
-    webUrl: "https://siliconangle.com/2022/11/09/intel-debuts-powerful-max-series-cpus-gpus-high-performance-computing-ai/"
+  - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"
+    excerpt: "Jeff McVeigh, corporate vice president, and general manager, Super Compute Group, Intel \"Dell Technologies and Intel are collaborating on innovative solutions in the HPC and AI space, bringing our various solutions including the Max Series GPU and 4th Gen ..."
+    publishedDateTime: 2022-11-14T16:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-dell-technologies-advances-high-performance-computing-ai-with-/2022/11/14/9712380.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/newsroom-intel-max-series-badges.jpg.rendition.intel_.web_.1920.1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "2m3Ba6uWK7JznKWhr7w6cO/b0K5XaIqM1aQK5aO7KnklSdq0cPPUfyD8KBUsA9xOGrerLTuY+tgcnydOf1hjg2L9tvZYa7oQMcUeHy5RIqWr10dufrGHUtN8cQKX5enLF7IOB86p0vQHCknrSNNNG4fD2irP4I5pwkTn8PxSDqRrPqcIeUNYNrRDrdd27BqJYDEEu5xn6ksiHMEvw8LIsxVKYPIgRFhL1wFj8BhHaKArnhL6S9P7hX/57qV1N9R/voQBqzTG1+MErtMzhZ5RprXS64spQxOvUwtY7lCcodaArEoCdCOMigIHiBHdLYYj/OgXvHVbUYqPDFLN2GSzQmOwrnsGCvdGEn1q7x4ox4BDeB9qkB0J/UMvYSq7PpUCTllRANfrLnJFvSypa1PAeacYU9G1p02H0JrMhy/HyTp5PP37XvC1falMdvMWJ1SGWhCNslRA/woNjQwOOxAzOx41olSYNMiq8eV0S3zQZX+Rjp0UXweJVRZPBKl3MRGYBMn/gPzH/BvixIQcwp8wdQ==;ewRbns7ncgXQR5aaZ3/8IA=="
 ---

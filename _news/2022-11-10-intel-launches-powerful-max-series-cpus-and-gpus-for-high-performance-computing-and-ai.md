@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel debuts powerful Max Series CPUs and GPUs for high-performance computing and AI"
-    excerpt: "Intel Corp. is looking to compete with rivals Advanced Micro Devices Inc. and Nvidia Corp. in the high-performance computing and artificial intelligence markets with the launch of its latest product family,"
-    publishedDateTime: 2022-11-10T00:44:00Z
-    webUrl: "https://siliconangle.com/2022/11/09/intel-debuts-powerful-max-series-cpus-gpus-high-performance-computing-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/newsroom-intel-max-series-badges.jpg.rendition.intel_.web_.1920.1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
     excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
     publishedDateTime: 2022-11-10T07:39:00Z
@@ -71,6 +57,15 @@ related:
         width: 1278
         height: 720
         isCached: true
+  - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"
+    excerpt: "Jeff McVeigh, corporate vice president, and general manager, Super Compute Group, Intel \"Dell Technologies and Intel are collaborating on innovative solutions in the HPC and AI space, bringing our various solutions including the Max Series GPU and 4th Gen ..."
+    publishedDateTime: 2022-11-14T16:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-dell-technologies-advances-high-performance-computing-ai-with-/2022/11/14/9712380.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "SUwVaYQ674XjhoVG4YWB7KVqscjfxM63C64D6RWfZL+KcVuxadaWUqh6XfFFkfpQKIRxCjDX+Zm2deupvzpK5YFMSmC2S7ItWekOwCg59aFn6ZKwtpk8fJkPfSwWab6YpF1YG+NDwcL3VvqYy759GKo0GB3G63Bw7BMsl/GzmGI3cqwujm3a1GRmkLZzow42RfYUSFLawHZ5wZ64eec82Jp5nxkx7N9qS/U6AGdTFexuddQisX+bCkj2CUNdbdVo76vZ1tFuYTIB1QWmgYibZTUMm4SLrk+E0K9upHvBIQIhHgD1Q80XhGoX7iTvhmc0Rom0QtAQLJN/bjHMs7dQ157tNYAsD40LiDoUV+zJcz5OTdjJtqlXNVF8anHMJkJaEf3Dxx3ruJfwPb7/kAA8GR6HHWy4LfLaqcj3ZIEdLda35ImoZV50ITy1z8EBhh5Z8wC5FvMW+lQaPpwaYSHGtnKf0vsueiEwYyOYX/G1fl5hWDuzCbMvNv10AlF4s2RBSrcO0nTQrqM5GjtxLx58kg==;J2F68MqOExKr9Q9GcN5FEg=="
 ---

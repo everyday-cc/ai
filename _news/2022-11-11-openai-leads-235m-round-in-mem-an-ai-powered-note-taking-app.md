@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-rai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app"
-    excerpt: "Mem’s search experience uses AI to search across notes ... OpenAI Startup Fund participants receive early access to new OpenAI systems and Azure resources from Microsoft in addition to capital. “OpenAI is obviously leading the wave of technological ..."
-    publishedDateTime: 2022-11-09T21:15:00Z
-    webUrl: "https://techcrunch.com/2022/11/09/ai-powered-note-taking-app-mem-raises-23-5m-openai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "OpenAI Invests in AI Organizer App Mem To Bring Order To All"
     excerpt: "OpenAI has announced an investment in AI organizer app startup Mem. The app uses AI tech to integrate personal data across various channels."
     publishedDateTime: 2022-11-11T15:46:00Z

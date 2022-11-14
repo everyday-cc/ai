@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-14T10:19:00Z
 originalUrl: "https://www.businessinsider.com/google-search-ai-generated-content-2022-11"
 webUrl: "https://www.businessinsider.com/google-search-ai-generated-content-2022-11"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T13:20:00Z
 originalUrl: "https://www.digitaltrends.com/mobile/google-pixel-7-pro-vs-pixel-6-pro-camera-test-comparison/"
 webUrl: "https://www.digitaltrends.com/mobile/google-pixel-7-pro-vs-pixel-6-pro-camera-test-comparison/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Digital Trends

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T14:30:00Z
 originalUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/35869-sustainable-supply-chains-must-be-ai-backed"
 webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/35869-sustainable-supply-chains-must-be-ai-backed"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Supply Chain
