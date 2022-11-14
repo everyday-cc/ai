@@ -1,40 +1,32 @@
 ---
 category: news
-title: "Precision diagnostics: Making AI-enabled cath labs in India"
-excerpt: "The rising complexity of patient profiles and shifting disease patterns is making the need for personalised care even more vital and AI solutions have the potential to transform the patient care pathway."
-publishedDateTime: 2022-11-13T19:45:00Z
-originalUrl: "https://www.financialexpress.com/healthcare/healthtech/precision-diagnostics-making-ai-enabled-cath-labs-in-india/2809951/"
-webUrl: "https://www.financialexpress.com/healthcare/healthtech/precision-diagnostics-making-ai-enabled-cath-labs-in-india/2809951/"
+title: "Computer vision and beyond: The future of AI in India’s insurance industry"
+excerpt: "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ..."
+publishedDateTime: 2022-11-14T08:14:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 72
+heat: 122
+published: true
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
-  - AI in Healthcare
+  - Computer Vision
   - AI
 
+images:
+  - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg"
+    width: 753
+    height: 929
+    isCached: true
+
 related:
-  - title: "Computer vision and beyond: The future of AI in India’s insurance industry"
-    excerpt: "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ..."
-    publishedDateTime: 2022-11-14T08:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg"
-        width: 753
-        height: 929
-        isCached: true
   - title: "Artificial intelligence improves the location of objects inside industrial environments"
     excerpt: "Indoor positioning technologies are one of the driving forces behind the digital transformation of the industrial sector. The ability to track objects, assets and people accurately and cheaply could save resources,"
     publishedDateTime: 2022-11-10T16:36:00Z
@@ -79,6 +71,15 @@ related:
         width: 986
         height: 516
         isCached: true
+  - title: "Precision diagnostics: Making AI-enabled cath labs in India"
+    excerpt: "The rising complexity of patient profiles and shifting disease patterns is making the need for personalised care even more vital and AI solutions have the potential to transform the patient care pathway."
+    publishedDateTime: 2022-11-13T19:45:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/precision-diagnostics-making-ai-enabled-cath-labs-in-india/2809951/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
   - title: "Artificial intelligence improves the location of objects inside industrial environments"
     excerpt: "Indoor positioning technologies are one of the driving forces behind the digital transformation of the industrial sector. The ability to track objects, assets and people accurately and cheaply could save resources,"
     publishedDateTime: 2022-11-09T18:34:00Z
@@ -89,6 +90,6 @@ related:
       domain: eurekalert.org
     quality: 11
 
-secured: "i/v+4lf0DkFkS6g6gSus0eKeY/rRhw1g4djLyBr0TsKyHFELlWcbgAR53+HDHAuICbA/BcM4MDQ9KyXpi/0PoKr1eSUSD95UL8fD5ydOrZN3+To6c3VDgWl9M177iVm2/yuwL6QTZWqUnTOk8lmImmbU1SM1lMO/9YmJKkewAoF/JY2fkDMwZ22wC8o3/J7I97ZSeADPI2XQFDQaF62TYKCXnRpKpzoLNdGtiZ7sjGo22y6MiHr4unOI+KRf/6gzEKU0g1KCI/DeE7Z/ii1+D2bfVX6eONy6xwU2LaKL1zx5leV151F6svd37u8DsTlWeR626sv+MW/F+q7+91FNuHmTZu//tiDGp0PHuA6fqLLHVNBMdZNQEG/4ADqDOuQjjs0ege31zZyVRppiOL2RH7CBsaWq10Kdobyg32hdNXkUQvHwHnjloqCLBkr0D5PFKz2A2MWpTWelOKNJK0b36Ys3q6SIZ38ub++wZcMTc6zHilSOSuQHPMtTezz7kOl1/TGsWhL7VuEg2npF7imXQQ==;791z8Bgcc2sqqEIbmkwD/A=="
+secured: "fqQThUusstzQmtwKZWSLLXiahm3TL/LOUanPJ7EKlo9Gpfpbm88azh78yubIEG4+OuHHjrGPamYfb3uI5/K9+e6ZZTPu/wpjqJfy+A0EC3KkfjD+R9j/OMh+zHQfJq5KMKSX2AFSIDJN3sDKbu641ak4QUdmJWqQkiyRW5RzLfR/Sig4O/gmxEv1PjMSycb7oycRNBm+O0DNqe54jqOuwd7p5TQ3Knrsl6T9QvgSvPp5csHGEojT3CFA9xbbTDyBXZTpbIZkHs89XaN4jr2b5tvVJIN7UnVTzNrVeTkUB/fps9y2RxfbyaGAZ7wFD4x/MQVQhJjJhHsB6T0O44oNcRZ1WCxamBl64a2QcpY3I0s=;cGjXP4PAD2k9LslfACzC/w=="
 ---
 

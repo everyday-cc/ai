@@ -55,22 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MediaTek Dimensity 9200 Rocks Wi-Fi 7 And A Huge GPU Upgrade For Flagship Phones"
-    excerpt: "The Dimensity 9200 has a few tricks up its sleeve, in addition to offering more performance at a much lower power draw."
-    publishedDateTime: 2022-11-09T15:20:00Z
-    webUrl: "https://hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
-    ampWebUrl: "https://amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60067/content/MediaTek_Dimensity_9200_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
 
 secured: "lUkDh3qu2mTs3yd8v9nyVxAy/O+ZCdbaf2D+jY/Fq4uSylmyT6Q40PTiV0O8pxCKclSz9XgRYeah02wkAkT4y0lHT0L2dDPiZIdv20kRWO1WQ8pot/uucg80k/yZ/gfhQJGfXLrpvlyHD1uJ2YD/tJ7ujfqleRpR9GRNU0DJ3TUcNbDEoPdCzb3D9KtgXCEJCXk9FPylaOt/JII2DXtvLggfcNt9nM52+yrrKQlMtQswccOh+WiZjbe8lZZloNfdm0wSmR0xGSWai8QVbh9vX90/9tjtzuRIxbaCoDzgQ6L8XdpgrmJYBGxNdburNt1JNF/7x2yVj6OgqkgnAqGRhrJhNsWEpPRuYhRXJCC1xA1bSkiiXo36WYltwtcTzcvuchacA3gae12oMayZcXO8Zn/JWWnQebS9Ij+bh46F4XgT006yy8Tha3oJnKx3Apo+z00VHPemFlOd+DbMcYcwWiykfLURs02pgV8w9ficzdjVaP8XJsuiD6FIfz7cL9OJlVP7FmqWjy8vbujX5HiTkQ==;pgHLFEV+0Lf3EiOjvWKD1w=="
 ---

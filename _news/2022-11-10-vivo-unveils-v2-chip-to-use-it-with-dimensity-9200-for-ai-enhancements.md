@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai
 cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,22 +52,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 56
-  - title: "MediaTek Dimensity 9200 Rocks Wi-Fi 7 And A Huge GPU Upgrade For Flagship Phones"
-    excerpt: "The Dimensity 9200 has a few tricks up its sleeve, in addition to offering more performance at a much lower power draw."
-    publishedDateTime: 2022-11-09T15:20:00Z
-    webUrl: "https://hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
-    ampWebUrl: "https://amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mediatek-dimensity-9200-speeds-3ghz-wi-fi-7-flagship-phones"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60067/content/MediaTek_Dimensity_9200_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
 
 secured: "zgF+Q+lW24+UniJDqu9MYLO3KlGKelB95Jx1HCEYEr3zwgbViB28hkzdM/Mwf6Mm/IiipxeFowVUZQbbquGAoru/so1JorTRfCrhUuaP8jnLtXtIaULLoAf0msLRiz26zm5mwJtDVINzQSMssjL6BX+i5IBydibL2Q++wSFv1ZgWsoA5VhGv7IWJ351qgCUUjEi6I/Qo6VtbpB0/aH68ZWT3U2sJ5GqCmO4u4OfZJIw5gwBbEOOzlyH3dXlaArJwBf23G2W69rqNeFTCbOXSTG2UtPRdzPQZqy/yuvdNGoBOglqqp2dFKM66wh3EVkhywjoSNOpjHf5pTRaug4qEC/Nv/w9WWRIJpyNHsCYkDN/RXvEXAX9g1Qpt6sPYAbFlA4plSVqwyXlBCw4QnLgOm7I2qheNmL680Tct+bgDTIKR1qLhjPFH1c0yi/7ab7sQnQkNqgT/cbWl+/DVZx1KioF756CHPjqxoX0yackUAo+GcIGnTLZ6n/60QP+4VZnGUoeWmJgsPu9TyMBqVnkQCQ==;5SHdZw8Y9rhJiPFbXdFomw=="
 ---

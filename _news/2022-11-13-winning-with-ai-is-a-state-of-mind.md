@@ -24,22 +24,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "The Promising Reality of AI"
-    excerpt: "Artificial Intelligence (AI) can sometimes be an ambiguous word in education circles, evoking images of machines replacing human teachers in the future. The truth, while less fantastic, is that AI"
-    publishedDateTime: 2022-11-09T16:32:00Z
-    webUrl: "https://www.eschoolnews.com/webinars/the-promising-reality-of-ai/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 37
-    images:
-      - url: "https://www.eschoolnews.com/files/2022/11/AI-Imagination.jpg"
-        width: 500
-        height: 281
-        isCached: true
-
 secured: "Z2Ky8oVetB1XwV91i/9GO/VM40SnLvGA5th6ZEEmyh2mkpbwn4cKpxv7JFK+1In9GYZR4vnWAaECW1UrabGTL2v166vnAvhxWwBayPtW1oLaRgkJ1N5emKqfzeZDkwxQLqEYBIetx/jTU4Nlk7+i79PQln3qsTZEuk1Je4POjlnRkjRCFPuplihJOz1mwvmYE/WgElQ4WzgyEQpp4ayguji+bEa70thgeHjdwyNc6Jtu/Avz3nEi6rWRQk02GyLdgPjnTbbEr4Av3i0SCkrkXh0trjX3Z2OpnLBnte7ZWDZwW4jE0lT1impQ1xPhqyzRqP02cld+nOTJ7lXvTyAepoeoGPNyWZMAqZ0hw+0DJ/E=;pOFCT5EwuQdmaJ0mZ+rVjA=="
 ---
 

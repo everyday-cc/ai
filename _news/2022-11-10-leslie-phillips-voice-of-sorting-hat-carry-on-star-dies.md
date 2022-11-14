@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wltx.com/amp/article/news/nation-world/leslie-phillips-s
 cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/leslie-phillips-sorting-hat-voice-actor-dies/507-bb41eea1-a7f1-4481-9f90-c69affcaad41"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1140
     height: 641
     isCached: true
-
-related:
-  - title: "Leslie Phillips: 'I can be recognised by my voice alone'"
-    excerpt: "Leslie Phillips would have known for half a century that at his death, which was announced yesterday, the obituaries would lead with one thing only. However much serious work he did in the theatre and on screen,"
-    publishedDateTime: 2022-11-09T16:19:00Z
-    webUrl: "https://theartsdesk.com/film-theatre-tv/leslie-phillips-i-can-be-recognised-my-voice-alone"
-    ampWebUrl: "http://theartsdesk.com/film-theatre-tv/leslie-phillips-i-can-be-recognised-my-voice-alone?amp"
-    cdnAmpWebUrl: "https://theartsdesk-com.cdn.ampproject.org/c/theartsdesk.com/film-theatre-tv/leslie-phillips-i-can-be-recognised-my-voice-alone?amp"
-    type: article
-    provider:
-      name: The Arts Desk
-      domain: theartsdesk.com
-    quality: 44
-    images:
-      - url: "https://theartsdesk.com/sites/default/files/mastimages/casanova_73_henry.jpg"
-        width: 900
-        height: 450
-        isCached: true
 
 secured: "h9TPHPaZU3cQEtB9LXWFts4UWJQNqCOI5c7EXRlKysYgte/GPeeNFR5WHNjqiaxOPd86J28/P3ce+spY6CunKwS+XG4U7amFFifZiCPnGmFdGl/PZF3o6HJR4Y+IUnny5SzWXf18ViiqA8vpiZfx5bhmWLcR3soGYzF4ez0Qt+Qwsl+7XJ25KzPm7+kqRr0LJl9Iuigb7oewwcyWhAwIZPznCqlbABOjSCPJAgzN7ppwd7/ALUYaFl9jwYTDWfevN6FdwnDgceyMyzUqWCvh+aD87ehRV4oD/KqU7ZLR04yoLdodBJV+CckUSUeW+ma0yqT7d7wTl+YGMyKx8rqsiSUHkjCRU72fChvzC3ACV7I=;9C5Ez0tms0Mjo4jLJwL8vw=="
 ---

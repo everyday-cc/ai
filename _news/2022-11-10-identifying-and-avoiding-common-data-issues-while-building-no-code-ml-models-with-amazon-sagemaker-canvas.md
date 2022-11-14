@@ -44,20 +44,6 @@ related:
         width: 1549
         height: 775
         isCached: true
-  - title: "Model Hosting Patterns in SageMaker: Best practices in testing and updating models on SageMaker"
-    excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. With SageMaker, you can deploy your ML models on hosted endpoints and get inference results in real time. You can easily view the performance"
-    publishedDateTime: 2022-11-09T16:53:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/model-hosting-patterns-in-sagemaker-best-practices-in-testing-and-updating-models-on-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/best-practices-in-testing-sagemaker.jpg"
-        width: 1547
-        height: 773
-        isCached: true
   - title: "Amazon SageMaker Studio Lab continues to democratize ML with more scale and functionality"
     excerpt: "To make machine learning (ML) more accessible, Amazon launched Amazon SageMaker Studio Lab at AWS re:Invent 2021. Today, tens of thousands of customers use it every day to learn and experiment with ML for free. We made it simple to get started with just an email address, without the need for installs,"
     publishedDateTime: 2022-11-11T19:30:16Z

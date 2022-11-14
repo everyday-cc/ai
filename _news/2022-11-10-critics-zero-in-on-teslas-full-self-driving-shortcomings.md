@@ -57,20 +57,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "How Machine Learning is Empowering Self-Driving Cars"
-    excerpt: "Self-driving cars equipped with machine learning algorithms can make better decision-making, identify & classify objects and interpret situations."
-    publishedDateTime: 2022-11-09T16:25:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowering-self-driving-cars"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Empowering_Self-Driving_Cars.png"
-        width: 1534
-        height: 970
-        isCached: true
 
 secured: "ek9MFXMTg5+ohWZvDXAJV1s4UIX2kJDjzJLcAI26d4rmvIwoDpuk/JLpCz37PLa9u/LLvSADlwb+LGtuA3jWm01M8RK1xSGiVHO4wGMgcuz4oPgym3g1rLcVASbtoC6ziBaGg3Fx+1GssCxeUu3jSFnzaAklf2c+7ZgHdJigFFPSzqCJmL5BfhVhbvW/aG/zQkum85q1q4i6AAEnNeoQnThwbZQsIGmyq+2Uc4x47LwpyKWnN9x46qeEpW7A3eX+hQMiHTm8YR0DIjTjK0bv0ZxBC5/jdKN2qrSmsC8EoT8t7Zsv+MjYy8RbTUsOjgr9WLtTK3JjBk29dyFRw+jP/QCtyrOt37TH/Vhov64UzeX/9vtrFeaE0rMqegWAXONkjwwAFag8czHiKfMasydUVEGv8ScH/BDyU28D3M407TJk9SDgj+Ey1D7FJjQjnVSN1eB5gyZwDSkTCiC1jt7qbJ3vMp0HAkbKX7B6sIWfsAZRgCSkgTJDPTVn5Ak6iAd3b127ER6uDngplEQsQSHGQw==;MrbfTzlnM2PiqQ3ONOhlLQ=="
 ---

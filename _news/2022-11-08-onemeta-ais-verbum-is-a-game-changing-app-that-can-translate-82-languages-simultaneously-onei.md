@@ -1,28 +1,21 @@
 ---
 category: news
-title: "OneMeta AI's Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
-excerpt: "OneMeta AI ONEI created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself ..."
-publishedDateTime: 2022-11-08T11:33:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
-ampWebUrl: "https://www.benzinga.com/amp/content/29609438"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29609438"
+title: "OneMeta AI’s Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
+excerpt: "OneMeta AI (Ticker: ONEI) created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself as a language translation app after comparisons of Facebook turned Meta's (NASDAQ: META) product began to circulate."
+publishedDateTime: 2022-11-08T10:12:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
+  - Natural Language Processing
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1667837662.png"
-    width: 1222
-    height: 1091
-    isCached: true
-
-secured: "H0AyAMhc3VoFKgi6tEVxIj3LNBb7Ho/ZsMfZUOwPE5qEzjrxIkbQ4/DhpN08dt15I7R4N832V/QaZYtmnhotIq0x0dqSFCT/vzBj19Iikn3Z5jSG1fyIrhViCQcHTBbMY4/9RB93gKmkYUrfJLrvx2uVzti6Pm9HRfetsJBbx58Rwtu0ozSS3yIb/vLavubR6mAK4w64qbSrxHX3Lj/LksaCVbgH1e7C5CYv/LZNh2a1ePwOdD/ydhA1H1ys8RFAaP+/m9oaqo88o2F2oC8SMhHnEAwvoE60qEFw4tAYx+PnXyQcusaSNMDWUICd1KTyuWykUq3CScXq8omUM2+sgXEI+Q1Z9Z7UZX46IT7SolE=;GGf7BdJC4ymwRAkTWKsv2g=="
+secured: "ZLiFijnKwP6TAZCZ4V6TBBqUFI23yQdASYXzNnFRxy8zIUCj8PnQ/L/f34AKipBbhgciQ6nw2iiKSqqYMQ0qf3n69z5cyyYz9UI2x4LodhcpOCu3+yF0FeZdstGFQ3rAAF0wObVIja3A76zxeuJom7IyBzHDjHTzDKeeq86mM6ygnfvY+HUHu9dOl8pjh87LPtPCxrEnwcejaNGvon0a5UZwrjUwRvF/BRuvHN3ZUxl3KyQKkO1pgniLqbeWKnsXjHp4f3XzGc8wxLnLVVielB9L0maz1b4caeSNOLu2fJgDtmN0tqpkCM2DINO23KJlLoyHkdrcyiHUoplLkv3t5MWgFtn43T7vtBQINZ7f8MFqR1a68sqsp8qh3e6FAnwH3xMDdHg/ptu+gV23k3zeL99SU0Ln03Z0azO4XG6Z+0Bxb2XPTjqnxDQk63tvwJzIYb3/K4CZKdC7H/HuBlQC0QC1UqoZzvuLn9Pz8jQ910eyvgeEFosNf4XJcxh52peqqHeQ6w35OvWWvqUCFh/GVQ==;uuHRyp9w/Hr1U8jdvcq2Kw=="
 ---
 

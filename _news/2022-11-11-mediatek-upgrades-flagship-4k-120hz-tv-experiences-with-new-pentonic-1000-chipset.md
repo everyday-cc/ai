@@ -57,6 +57,15 @@ related:
         width: 400
         height: 264
         isCached: true
+  - title: "MediaTek's Latest Pentonic 1000 Chipset Brings Flagship 4K 120Hz TV Experiences to the Next Level."
+    excerpt: "MediaTek  launched the Pentonic 1000, its latest flagship smart TV system-on-chip (SoC) designed for 4K 120 Hz displays. Pentonic 1000 integrates Wi-Fi 6/6E support, MEMC for smoother video, a"
+    publishedDateTime: 2022-11-14T08:19:00Z
+    webUrl: "https://www.guru3d.com/news-story/mediateks-latest-pentonic-1000-chipset-brings-flagship-4k-120hz-tv-experiences-to-the-next-level.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 0
 
 secured: "H4yZLyYu4bACXe2la6DeGVsSCQPUbkN/pFxwBwkqpvBdtUTcJ62285lN27O+Z44MadllqaE1JyCeESqtcuqtPrCvnyz4pxfyWBBmPmtEYBpIq/6wv1yqJollDMgcOP1g7yfE1sGf3amVxi2lXtMfGVnKHwOkWP7cfVwhxx9StlIBC5a2BrPK1BcGni7J/3tHS92XFYce4tnVyRsxalDRRlXPaEjpQBIl/gq47wykkHPMRrKgZ1WMXtBL8tGBtJ6Rd4Us+CCdd1fdkyazUKgCVqOrB5ND78XZCd/pfVGt2aUOy6+oBhkemVlKuqq0pKWA0OIiHfqOq15Q6stlthCYLheWCqeQSs3thFpkEXRaaKCarldpKDghEL9hd4NoXGclu1DZNHCmQ8er5V797N/chcQaS3JK9GahUO94zqOVl5NISiiDvB+5BrNB7sIOI4r0DlOGiyft55nDEz7IbQM7n2vZpOliwQC2NOj8GuL3NzarHTR84sBcvN2C2EI0b15cdO+SyXjR6EGRMq0QVUcyRw==;Uip488vKJjsvVC/gNlC7xw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kcra.com/amp/article/use-of-government-food-benefits-may
 cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 677
     isCached: true
+
+related:
+  - title: "Use of government food benefits may slow cognitive aging in eligible seniors, study says"
+    excerpt: "Nutrition benefits could be an effective way to slow age-related cognitive decline, according to a new study.The study, published Wednesday in the journal Neurology, found that eligible seniors ..."
+    publishedDateTime: 2022-11-10T07:52:00Z
+    webUrl: "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+    ampWebUrl: "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 35
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-90d814141c79d2c1ae6043eeb2472008-h-2b8641cbdfa05e06661d58c5c0f151bd-1668041453.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "Ct8+KxdRHR6J/17KNr2mnN9OJtlM8N2gZGV0uzTzqXCLb1EsH1yFaRkEuo8F5rHTl77VQmAJbE2tmngTsQ50vt0XQrhLpzVjOtQJgO+Myf9xJijf0j/qlQrxGyCK1S3Zlq4UWxCiYg/npMOJvfH4UPZGFkP0kygNjTY26YzBJ/knXpf/TnNzY1kxl/QuAE6l77/SetnWOFzw52KRRvwB6XaiwNbm9MY/4ugR8qKpuZH8zH4xWEbK+PyiA681Aj6haTINbYIQKj6PsJ3R/DtWF3kueOWUwOpuFS200N4h0gQtRRcsaKENPpk5YxS7hMhLVqdOu0fRQiNWRJjWWePGqHAsAumJQ+qosvMG8QvOotw=;nXYmXO5LXNp3SCVVV2kZTQ=="
 ---

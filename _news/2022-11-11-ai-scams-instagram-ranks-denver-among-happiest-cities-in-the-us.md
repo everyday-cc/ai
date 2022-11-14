@@ -9,8 +9,8 @@ ampWebUrl: "https://kdvr.com/news/local/ai-scams-instagram-ranks-denver-among-ha
 cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/ai-scams-instagram-ranks-denver-among-happiest-cities-in-the-us/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: FOX31 Denver
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Airgram Raises $10 Million for AI Meeting Assistant in 2022"
-    excerpt: "Airgram is one of the top-ranked meeting productivity software programs that provides its users with a whole suite of features, including voice transcription and real-time recording. After Airgram was founded in 2020,"
-    publishedDateTime: 2022-11-09T15:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/airgram-raises-10-million-for-ai-meeting-assistant-in-2022-1031892942"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Leaders of Calm, 23andMe invest in Denver AI health startup"
     excerpt: "Exer Labs Inc., a startup that launched in Denver as a fitness-coaching application, raised $6.5 million and announced its new focus as a remote patient-monitoring platform for health care providers."
     publishedDateTime: 2022-11-09T21:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.ytimg.com/vi/J1HROrNmlfg/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "How Machine Learning is Empowering Self-Driving Cars"
-    excerpt: "Self-driving cars equipped with machine learning algorithms can make better decision-making, identify & classify objects and interpret situations."
-    publishedDateTime: 2022-11-09T16:25:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-machine-learning-is-empowering-self-driving-cars"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Empowering_Self-Driving_Cars.png"
-        width: 1534
-        height: 970
         isCached: true
   - title: "Critics Zero in on Tesla’s Full Self-Driving Shortcomings"
     excerpt: "Tesla’s under fire, once again, for shortcomings of its Full Self-Driving program. The Dawn Project took out a full-page ad in The New York Times blasting the company and its CEO Elon Musk. Find out more at TheDetroitBureau."

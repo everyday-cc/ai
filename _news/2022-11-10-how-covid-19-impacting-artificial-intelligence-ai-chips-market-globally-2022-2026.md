@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/how-covid-19-impacting-a
 webUrl: "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10"
 type: article
 quality: 92
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com"
-    excerpt: "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,"
-    publishedDateTime: 2022-11-09T15:51:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "ctsnR97AsXbQHYpH4vGHgSSKmUn7N57n+xP8hZQgwonXyB/h3vRx8uvr0fFVjuxNB/Jtir///f0tE3GCSFdZpPP74j1xdt8l7Xvk0yPXBUhcc6E499WFF9IQr1vfQ41srlhLOo/FaDnkDgr1VPQwYy5SYL+VI4N7LhdbGmTKd4flhvWlzc1AVa2INqxfIjH1rC9vAbzP6E3HmXnVCMH1+qARcfXTBZR8lB90yToVZzbVNMZ1NLNeR1H+DNeyLPyEHSYWENk/MEq0PFNNtKfWrET8RajTNzBE7XbxWxKI25KOyLuup78CY1twwq/rvFaiq2WIyQzyLtI8KDSV6y+ptrDYt/X4bAjpG4pHGCY4s50=;lpjaEXe5+DYqVJ92+26b2w=="
 ---
