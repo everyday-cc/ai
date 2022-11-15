@@ -148,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -204,7 +204,7 @@
       "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -236,7 +236,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AWS AI"
       ]
     },
     {

@@ -2,27 +2,19 @@
 category: news
 title: "Researchers show how network pruning can skew deep learning models"
 excerpt: "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,"
-publishedDateTime: 2022-11-02T16:38:00Z
-originalUrl: "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html"
-webUrl: "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html"
-ampWebUrl: "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp"
+publishedDateTime: 2022-11-02T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/970000"
+webUrl: "https://www.eurekalert.org/news-releases/970000"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
-
-secured: "UAQviPYq3QNlFDxy/GvpG3QuLkUunYVzA9xKHk8pefAv1+ZS+TK7M6wmBOCjAR/u2ihN/AZe1DxSavr0iNRiNRJCr+ZZzga6DF3LGjZfTnl96bPAGm0QyRvSi2R+KCkGoBmcU51830vQjvTLtDdYTsgQh+rCI0vPd0csWlgtcOry92O+BQxhvy5hlbAdIFs+zpnobo00PH3tZdFiUTywN4msIOSAiAgEf2oW8IiE+k3dWTQB3jkqfKl4Wj4FU+z7NF/MvElGRqPbSg9V7TuPHVt5WB4FxySjPTI+NrFuaXuZntzJACjXYmMoQwjwRj8G0Y40EeqgDoQpad+x4b+YafMJ+iQ3nbTqXW8TVn5FCSI=;lBVDSHbA9AFrC0aenfxBVw=="
+secured: "DPkLR2nFo4RQ3mse3S1NpoVJu/l1VyQdsKRiIDznnEDdCSzocvlXjVwzE4YPSGz6RC70KLmvF/PrZxGf4JFOUoWYTgrKf6e/UqZdyMPWmxRNk6NY2ihzTsUDNQKnKtjbUDQBE5S/031gKlaXKYJCmJdbD6gUivMxe7PDeiJG98Qpxk427tBr6b4fGzXe1LUHgsNoc0vHpzAY2tLBFHQeLi5fV1NMLfcRp8lI5d6432Gt8vYgSVxIu/B0DKJ6zf/xxYdl1YvLbPOSGHCxmKK4koN7P7dI/9qqDy0kVflaLzd2RpLvZcg+CQ2aXJ+CVs3YznqpkXPrJcK6h6Rf16ypzv85/X19bc1oWZ7yBpVeVns=;E40cH+nznRtka81nKMnuiQ=="
 ---
 

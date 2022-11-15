@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-03-fintech-in-latin-america-and-africa-is-breaking-the-mold.md",
+      "title": "Fintech in Latin America and Africa Is Breaking the Mold",
+      "excerpt": "The US and Europe can learn a lot from startups that are nimbler, more digitized, and potentially better at serving underserved people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/",
+      "originalUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6363137dd05a7e57f9be5703/master/pass/Fintech-Latin-America-Africa-Breaking-Mold-Business-95186910.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/fintech-latin-america-banking-opportunities/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fintech-latin-america-banking-opportunities/amp",
+      "publishedDateTime": "2022-11-03T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
       "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
       "excerpt": "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ...",
@@ -972,40 +1024,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-03-google-wants-ai-in-one-thousand-languages.md",
-      "title": "Google wants AI in one thousand languages",
-      "excerpt": "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-03-artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector.md",
       "title": "Artificial Intelligence (AI) Robots Market Size with Top Countries Data, Analysis by Leading Key Players in Machinery & Equipment Sector",
       "excerpt": "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ...",
@@ -1058,6 +1076,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-03-google-wants-ai-in-one-thousand-languages.md",
+      "title": "Google Wants AI In One Thousand Languages",
+      "excerpt": "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106",
+      "publishedDateTime": "2022-11-02T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-how-can-teachers-deal-with-the-ai-writers-hiding-in-their-classrooms.md",
       "title": "How Can Teachers Deal With The AI Writers Hiding In Their Classrooms",
       "excerpt": "If you are a teacher, the probability is high that some of the essays you are collecting from students were actually written by an algorithm.",
@@ -1106,50 +1158,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
-      "title": "Microsoft wants AI to change your job—if it can work out the kinks",
-      "excerpt": "The most hyped words in tech today may be \"generative AI.\" The term describes artificially intelligent technology that can generate art, or text or code, directed by prompts from a user. The concept was made famous this year by Dall-E,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp",
-      "publishedDateTime": "2022-11-02T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

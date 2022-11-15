@@ -566,7 +566,7 @@
       "originalUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -859,7 +859,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1018,7 +1018,7 @@
       "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1050,7 +1050,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AWS AI"
       ]
     },
     {
@@ -1062,7 +1063,7 @@
       "originalUrl": "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {

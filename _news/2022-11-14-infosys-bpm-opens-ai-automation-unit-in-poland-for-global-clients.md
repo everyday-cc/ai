@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/infosys-bpm-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Infosys, IBM launch AI centre in Poland"
+    excerpt: "Infosys's business process management (BPM) arm has launched a centre of AI and automation, in collaboration with IBM, at the Infosys Business Experi"
+    publishedDateTime: 2022-11-15T02:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Infosys BPM Launches State-of-the-art Center of AI and Automation in Poland, in Collaboration with IBM"
     excerpt: "LODZ, Poland and BANGALORE, India, Nov. 14, 2022 /PRNewswire/ -- Infosys BPM, the business process management arm of Infosys (NSE: INFY) (BSE:"
     publishedDateTime: 2022-11-14T08:08:00Z

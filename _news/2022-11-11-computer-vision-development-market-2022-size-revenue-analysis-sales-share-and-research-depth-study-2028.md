@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market Size Share Trends Growth Demand and Competitive Analysis Insights 2022-2029 | DataM Intelligence"
+    excerpt: "During this bear market you can follow full-time trader Chris Capre & get his options trades signals in real-time. Click Here to See His Next Trade! Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49."
+    publishedDateTime: 2022-11-14T22:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29717836/artificial-intelligence-in-healthcare-market-size-share-trends-growth-demand-and-competitive-anal"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29717836"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29717836"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
   - title: "Self-Dumping Hopper Market Size 2022 Global Industry Revenue, Business Growth, Share, Demand and Applications Market Research Report to 2029"
     excerpt: "Global Self-Dumping Hopper Market research report presents an In-Depth detailed overview of the current market"
     publishedDateTime: 2022-11-14T06:13:00Z
@@ -44,17 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size Share Trends Growth Demand and Competitive Analysis Insights 2022-2029 | DataM Intelligence"
-    excerpt: "During this bear market you can follow full-time trader Chris Capre & get his options trades signals in real-time. Click Here to See His Next Trade! Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49."
-    publishedDateTime: 2022-11-14T22:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29717836/artificial-intelligence-in-healthcare-market-size-share-trends-growth-demand-and-competitive-anal"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29717836"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29717836"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Pu Artificial Leather Market Analysis 2022 by CAGR Status, Industry Revenue, Demand Scope, Growth Opportunities, Latest Trends and Forecast to 2029"
     excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The most recent research study by"
     publishedDateTime: 2022-11-14T03:18:00Z

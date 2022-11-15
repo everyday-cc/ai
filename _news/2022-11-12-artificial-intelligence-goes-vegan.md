@@ -8,8 +8,8 @@ webUrl: "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-
 ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
 type: article
-quality: 61
-heat: 81
+quality: 63
+heat: 83
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg"

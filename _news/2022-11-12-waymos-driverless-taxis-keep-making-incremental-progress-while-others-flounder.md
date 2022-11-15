@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-t
 webUrl: "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "A look inside Waymo's self-driving cars"
-    excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
-    publishedDateTime: 2022-11-11T15:15:00Z
-    webUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/"
-    ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 59
-    images:
-      - url: "https://do0bihdskp9dy.cloudfront.net/11-11-2022/t_b35467a2694a446fba346f3303a7bdb4_name_WAYMO_ANNOUNCEMENT_frame_59.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "rVcJk+Wa8S2A0T5a44nXp1nzD9+T7MiBa5GvXggYpgIYGiryhcD0Wph42FFS47Cb7cD8ZdT+TMugi6a5wmsXlfYDdGZq6o3qdsmdiJbLByKFVA2mbpnflpJYjbnxm3oqKV1Z+ZFbekdT1x7kG4ayNkhDQFQCAaLpf2/Av8ldlEu3TjU6mt7UW1sSNhSrPPZwHgkkEJE8+wir6Mp5UgucWyIwlBfk8o5ToEGx9JyddDoDF1ziuHhlLc6fBGANsdp40QqdbEBFuyId8iK0m7MFpxdgrQjN+J1uqcxoEprBpH5qsbpXDsM9FmExRIaoshmAFafjXnZvZOyEll0DBppEOGdNCUvr7OF2tw/zM7HpFEE=;JFyqJzbdNwAK317/wGLNCA=="
 ---

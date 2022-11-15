@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Amazon enters the age of robots. What does that mean for its workers?"
-excerpt: "People have predicted robots will destroy the labour market, but Amazon believes investment in robotics could create jobs"
-publishedDateTime: 2022-11-11T14:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs?ref=upstract.com"
+excerpt: "As the robot worked, a screen displayed its progress ... Using computer vision and artificial intelligence Amazon says Sparrow can already identify about 65% of its product inventory, tell ..."
+publishedDateTime: 2022-11-12T07:11:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
+webUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Amazon enters the age of robots. What does that mean for its workers?"
-    excerpt: "As the robot worked, a screen displayed its progress ... Using computer vision and artificial intelligence Amazon says Sparrow can already identify about 65% of its product inventory, tell ..."
-    publishedDateTime: 2022-11-12T07:11:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
+    excerpt: "People have predicted robots will destroy the labour market, but Amazon believes investment in robotics could create jobs"
+    publishedDateTime: 2022-11-11T14:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/11/amazon-robots-jobs"
     type: article
@@ -48,6 +48,6 @@ related:
         height: 372
         isCached: true
 
-secured: "Cmm2ZzJ61xOvCMJsy4hkwgOzZwhnfZmQk8esMnflwLQCmo5GRaBFPacapBLAuyKkH20u0/7Brs9MJJ4yu+Uw+6p0iFxJLAotyr1XZWIZ4Mdvy+ZeHZzfh4r4rpKRrNN4H/7RoFpnawxh7SKJGFtVEJ5PXGIVa7QcWasLfW/EDVFP7rFgtlHz+njDIb2ebExOmbhB60TZscEambneZiBVdKZub9Sfc4sbcqX8WyoOJ+uf/cDXjz9iuE8SZxiQ20osZr6D/m2zVWqnImgn7yVfz1wD02BnsVgPKm2IQbRcFL3w6l6KmrDvGXs+R1MlbbdSMAS8NoKumXND+eDc5QpzYJfsxZr87/YADo68wTl2zP3YmPLtIYnIhEkRo7IK3GiSG0dKPdLdic+a5lRPDocTPenuAtZ7+D/XrhkGv3DDFsFyWqI9iQU5UFC0gVkl7iRFWOmXMGVfmde608DBbJdhS2wUHoMNx8xQkRwvEk69oy4iUAs7EH2T1E98c3dmFwNSLlHSFG1WWZ8sqfAWxs3FDA==;gaIc/uR0N8bd+7P9+ykygQ=="
+secured: "PF+tw32jVDz7v0QLBHREuqMtEpFhEQ/lkl7V1hPqEBMwSWmUjSC8yeqTLEDWVTtHVB5C5+u4ylYHYNmpn57JWC+Ar/v+2i406nHf9CmPCOzj5ZB8nLuV7sHb6sE/tWhICkjU0LfmXnrT2kEI3Qxs8+Iiq2hwTG/cxEk8WmSxrPuxP8IGUthWPqF8oeuF/hSUJpIQsUeH5i+p28aWnIPfG63r3AjPVak1PAT9YwS4kJ3G+9nK6yIz7ec8yXQW8uGnSjNATKxD65+yQ+wB7jbu89yLfEDDSRqWy8s8VOUnHK7A8LiVsF+JiX02SOIlwQp+4fphIBeP0oYObIUrKhpmffSHXL2oWZv66OQ6HdTuqL0=;vTmZCkvRnmadeCqG/vORlQ=="
 ---
 

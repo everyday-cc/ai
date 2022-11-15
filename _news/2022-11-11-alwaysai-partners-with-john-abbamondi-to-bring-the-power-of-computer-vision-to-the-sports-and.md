@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry"
-    excerpt: "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,"
-    publishedDateTime: 2022-11-10T17:07:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
+    excerpt: "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ..."
+    publishedDateTime: 2022-11-10T17:41:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WDAF-TV
+      domain: fox4kc.com
     quality: 11
 
 secured: "ktmP97ngVRTfwJOpUUBz+TXGZQe02OE065yEsjDWKIfK1cnpCfKPK+v6k1dwzmEqOgUiQpNpPS9yTClDAGjeStCHQ1sH4naOg2eyeK3Yd5EnrfutFrjq1Lj4MbJETPbtBjSolxzqk+9yQjFZ1dHQ6TFaelDo2jJlBHH9b+HvfJ0R/tQL36b2M7eAEhsNWp/N1MS9i9Baikh+ioisxcBsZyx6GEZLboebxjqcnGA3Y4sUBcd84cmTRqnaQydBj+8hAy2a0dMHjV0gqlL1CB0W9SgtPd2efX9d0AeqkJt+yScERSTpOKL+jKp3EiF0/yN71lVRAC6LBdaJf2oE/+1xB+ojvWwUwflHSZnP0E5oC1A=;/T0zcF76Sk761Bx+bCfkzQ=="

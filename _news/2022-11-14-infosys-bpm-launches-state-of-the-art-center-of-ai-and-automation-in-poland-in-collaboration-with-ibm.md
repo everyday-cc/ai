@@ -39,6 +39,22 @@ related:
         width: 480
         height: 359
         isCached: true
+  - title: "Infosys, IBM launch AI centre in Poland"
+    excerpt: "Infosys's business process management (BPM) arm has launched a centre of AI and automation, in collaboration with IBM, at the Infosys Business Experi"
+    publishedDateTime: 2022-11-15T02:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Infosys BPM Launches State-of-the-Art Center of AI and Automation in Collaboration With IBM"
     excerpt: "Formed in collaboration with IBM, this center will showcase a growing portfolio of data and AI solutions that are designed to automate and accelerate the hybrid cloud journey of global enterprises. The center will complement Infosys BPM service offerings that are built with a design thinking approach and deep domain expertise in data and AI technologies."
     publishedDateTime: 2022-11-14T17:50:00Z

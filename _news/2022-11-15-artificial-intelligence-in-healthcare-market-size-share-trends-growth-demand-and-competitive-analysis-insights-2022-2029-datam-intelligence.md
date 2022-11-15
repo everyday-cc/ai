@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29717836/artificial-inte
 ampWebUrl: "https://www.benzinga.com/amp/content/29717836"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29717836"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028"

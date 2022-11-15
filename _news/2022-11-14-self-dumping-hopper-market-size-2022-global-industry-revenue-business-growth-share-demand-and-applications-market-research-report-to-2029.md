@@ -53,7 +53,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 19
+    quality: 21
   - title: "Pu Artificial Leather Market Analysis 2022 by CAGR Status, Industry Revenue, Demand Scope, Growth Opportunities, Latest Trends and Forecast to 2029"
     excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The most recent research study by"
     publishedDateTime: 2022-11-14T03:18:00Z
