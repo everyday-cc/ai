@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Verseon Acquires Edammo to Deepen Drug Discovery Approach"
-excerpt: "Verseon Corporation has acquired Edammo, an artificial intelligence-focused company, to deepen its own AI-based drug discovery platform, the companies revealed Tuesday. Adityo Prakash, co-founder and CEO of Verseon and Ed Ratner,"
-publishedDateTime: 2022-11-14T20:14:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/getnews-2022-11-14-verseon-acquires-edammo-to-deepen-drug-discovery-approach"
-webUrl: "https://markets.buffalonews.com/buffnews/article/getnews-2022-11-14-verseon-acquires-edammo-to-deepen-drug-discovery-approach"
+title: "Verseon Acquires Edammo To Deepen Drug Discovery Approach"
+excerpt: "Adityo Prakash, co-founder and CEO of Verseon and Ed Ratner, CEO at Edammo, discussed the acquisition with BioSpace . “We develop completely new drugs on the computer, atom by atom, then we make them in the laboratory,"
+publishedDateTime: 2022-11-14T23:48:00Z
+originalUrl: "https://menafn.com/1105179831/Verseon-Acquires-Edammo-To-Deepen-Drug-Discovery-Approach"
+webUrl: "https://menafn.com/1105179831/Verseon-Acquires-Edammo-To-Deepen-Drug-Discovery-Approach"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "o/DggDwpJ3ewrs0+ZMRt6BCPCwV+3d+L6GrhJKOSp4i4rExeRuxTvkqrjiVBiOXOteA3UHgo6GeYrYEl3sbhCWe6u8WiplzUqlNMNQ6YBFvOVPIPZia2sXxPIt6rO3MK8BHm04jkRRjsqWIpuahI/EnI3Yk+PeEDG6TNWP4XmK4Pr1og2+2sPplXbPUAlXgJkkj2g2apdNv2WSdwpORQB0b72giRY/slxUUWlJYZ116H5DqeALm320eM+xKnqDtLCwNoxWR/4wrN9PcqLGZrLaIJSVJtcfbU4bfbfMBEbKh+WxQnZCnrmW7lavd+6afUkI3mVLGAvamlxwE0qbOsb+c/N0pbaq+hJya9lLnOHYDxZbsMft884lp1m7UrevxXsHU28hcDoCPXQm/7Lbie7Ym/IcCS2qxmKdcWoCWKaBrHy8sLpKdd1/673ASdfUGBDr0w1Hrbp4lHkxVQCpBebV5fouWAB0v1yfMYQRANENZnHM3Sma4kemdQweQNbS+gFtYjyUyg3BmzIjy4TNSW0A==;la1xFs3FXslHyRx2B7IpFA=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-11/14/G_b27194c9-5_Image_In_Body.jpeg"
+    width: 625
+    height: 350
+    isCached: true
+
+secured: "lYuJHYMoMa6kQh5UTbQsstQ7r7BcCyU6p2noNOSVdhAG/IhSeaiAlrAJq1+i/t5JNPUYI/JkgoR+eCE/XVDv6qLCX5JMHFlSqoNoil7x7mCU1xLrzEKIGP63EZFXinjfwpmCc+RW3LE7Epljz/i2JPod1EF9fEJmr4n7ZIBKBtVJx4Ausp6P/7OxF0WVXujDbkrHxUAlKdrmMq5qZqxb4wL5Xhz+br4iv6Dr1oOklp8t7WkW9lL3SQEYsrwQ05nmVV1pkePHa4Ov4Zmm5Tv+KHq4VvqoZSvsg4uLlGgKoN3v0MPPQRA8n7WUVzOQ07QFA7XxoYbnoDDCCHXueTaEUnMX+ji046QaMqX77nBGuCs=;ohOLmrxERDv42kTFk1sH+A=="
 ---
 

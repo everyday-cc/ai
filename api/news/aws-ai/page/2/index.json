@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-10-24-reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws.md",
-      "title": "Reduce deep learning training time and cost with MosaicML Composer on AWS",
-      "excerpt": "In the past decade, we have seen Deep learning (DL) science adopted at a tremendous pace by AWS customers. The plentiful and jointly trained parameters of DL models have a large representational capacity that brought improvements in numerous customer use cases, including image and speech analysis, natural",
+      "path": "_news/2022-10-25-shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china.md",
+      "title": "Shoplazza Shared Innovative Practices in the Age of AI at AWS Summit China",
+      "excerpt": "To solve the pain points, Shoplazza uses the data flow and computing power of Amazon EMR and Amazon SageMaker and combines all the processes, including sampling, featuring training, and estimation ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
+      "webUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
+      "originalUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/reduce-deep-learning-training-mosaicml.jpg",
-          "width": 1343,
-          "height": 669,
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_5020059_33882458.jpg?h=252f27fa&itok=lHZ54Tpo",
+          "width": 600,
+          "height": 316,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,21 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T12:31:17-07:00",
+      "publishedDateTime": "2022-10-24T12:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AWS AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {

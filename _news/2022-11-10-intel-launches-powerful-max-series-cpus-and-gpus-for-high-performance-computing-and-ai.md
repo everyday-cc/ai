@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-s
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
     images:
       - url: "https://static.digit.in/default/1033f8fa57d2814cd34b4ee6eb797dbee7d8a068.jpeg"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
-    excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
-    publishedDateTime: 2022-11-10T07:39:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 21
-    images:
-      - url: "https://static.tnn.in/thumb/msid-95421643,imgsize-100,width-1280,height-720,resizemode-75/95421643.jpg"
-        width: 1278
         height: 720
         isCached: true
   - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"

@@ -5,10 +5,12 @@ excerpt: "A New Zealand startup has developed the very first AI tool capable of 
 publishedDateTime: 2022-11-12T04:20:00Z
 originalUrl: "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1"
 webUrl: "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1"
+ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
+cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: Forbes India
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg"
+    width: 900
+    height: 600
+    isCached: true
 
 related:
   - title: "Artificial intelligence goes vegan"
@@ -41,8 +50,8 @@ related:
     provider:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
-    quality: 17
+    quality: 19
 
-secured: "APhjNkUdKevx3Qv4EMg2fPi64yzlLZIvI5hZn7HIujBqv7bn8+Y92KOCn9Cf3k9GWzobrkgyyR4iAMF7FjH07/DYkz6sxeSSLr0+Rx1ZtMTQhkTDDUMYYP4Imlb5E1rmUyBaR4sEAEZfUEHhk7BbkDb8Iic06I4+0GjdpbhBYDpXYUlpgGKevV8MUPntuSPKwM1Cbb+SriphMZc94cZEquN8kDqzF+EEHLjR3LNahOf6oY60X0DCwVeB3rUMYiIwBjcQecAX09V0bHJRL2w4ohEhBlRRyqoxMxca9TrDzqU7OrXKIrYZne1KcxXGjWkvUyj1bjDIQEWNU5aGU7snTnEGRf1xFMbcfaSL16M7MLkKRkAGQ/eycTTPjVIsB+DZLTJDSqSm045kYcXCCr9bI8EYWZ7XsGZuzQxml+3VVBtp4l/ZPv7r8mzp5ABvkNUECfntSIAdfEy4SJEduyIHGQtqBUsUh+x9JvP8l//GoZuQoQas8fmJ26hgvMdmTwgoWW9dmgcZKTC44NSRUtMIZQ==;SvoumddtuZrZwAbN5iPM+A=="
+secured: "8zT18mx+M0fLuma4MMgxkoiy3PCdmom1ayQpJECS6cufekS57JFBnyMPVKNEaYRqy2dot3OE+uUErtDNZl7T7BrouY4MHc6q6FRQNUjqnOg0RWyg+4uS50tVxqfK1Wx4+JOcyrr2M0pG/K1PO51QrXTtKxrGbU3kJNjnDfi29AFywdGMcl8I4ohRgBLcqWQPK9q1EyUl6mDmJftj1cyor/OHku4ZNL8PY1tI8Gs5KO9S2z8VKdpwb5Vo7w1MQDoJ/QvPxP8y504B7Fw7PYEMDamkEynlr+8uRjc41FP55649maD6gB/WOY656ZmJYOw8K9GLN4495A1irjKV3ynt9JB2nwkRWXiR2b4WDgliEjw=;sba2nuj8ULgtCvzn8ObG/A=="
 ---
 

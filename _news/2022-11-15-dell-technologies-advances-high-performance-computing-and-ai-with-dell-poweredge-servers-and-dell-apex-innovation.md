@@ -49,22 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
-    excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
-    publishedDateTime: 2022-11-10T07:39:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 21
-    images:
-      - url: "https://static.tnn.in/thumb/msid-95421643,imgsize-100,width-1280,height-720,resizemode-75/95421643.jpg"
-        width: 1278
-        height: 720
-        isCached: true
 
 secured: "USjLZNepy13p6vczfD3Rv+awKcf+JplIMkVdOm+DsYAzPvTXVAk6st5RwJswxk6imBsEdFE5nufhBi8XJpLB4lG2lP6IQMkPdYSpTPEivnGAw8bKwr7qsMMK+h4ZX51gC+FUqw5Ny6RydOWZViuy+Z2UtXTy6pSNhRYDqYDn9P1sA9+FvTXSreAMRtIKiotKd/COVMTir1p6GDGBnXSzXtq49BWe1L2+WsJCg3/idq+KNGUwyV3FK40s/vYQxDyI4C7fxpadnGkzs8JPDxEx5FR7Wb+vq55fe8/CCV9XBcArbejuCEb8VdewJvrj6x1b+r1ml+g5pmsxD4jtccohqR6jdjSvwDOqCRQqQPVm8f8=;MQtXoyk6jQ2dF1CW5QqvCw=="
 ---

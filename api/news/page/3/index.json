@@ -2,6 +2,247 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-10-github-faces-lawsuit-over-copilot-ai-coding-assistant.md",
+      "title": "GitHub faces lawsuit over Copilot AI coding assistant",
+      "excerpt": "Class-action complaint contends that training the AI system on public GitHub repos violates the legal rights of creators who posted the code under open-source licenses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
+      "originalUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/netgear-asus-lawsuit-100573125-orig-100780974-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
+      "publishedDateTime": "2022-11-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-reading-drivers-set-to-face-yellow-box-junction-fines.md",
+      "title": "Reading drivers set to face yellow box junction fines",
+      "excerpt": "For the first six months drivers blocking the yellow box junctions will only be sent a warning notice by the council, as opposed to penalty charge notices, the Local Democracy Rep",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
+      "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/63E9/production/_127577552_mediaitem127577550.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-63580590.amp",
+      "publishedDateTime": "2022-11-10T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says.md",
+      "title": "Use of government food benefits may slow cognitive aging in eligible seniors, study says",
+      "excerpt": "Nutrition benefits could be an effective way to slow age-related cognitive decline, according to a new study.The study, published Wednesday in the journal Neurology, found that eligible seniors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "originalUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-90d814141c79d2c1ae6043eeb2472008-h-2b8641cbdfa05e06661d58c5c0f151bd-1668041453.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "publishedDateTime": "2022-11-09T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLWT",
+        "domain": "wlwt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market 2022 : Size, Share, Industry Analysis, Growth And Forecast 2028",
+      "excerpt": "Nov 10, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Healthcare Market\" research provides significant and in-depth information on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-vivo-unveils-v2-chip-to-use-it-with-dimensity-9200-for-ai-enhancements.md",
+      "title": "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements",
+      "excerpt": "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
+      "originalUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg",
+          "width": 839,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
+      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
+      "publishedDateTime": "2022-11-09T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FoneArena",
+        "domain": "fonearena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026.md",
       "title": "Natural Language Processing (NLP) Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Market\"",
@@ -966,214 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-how-machine-learning-powered-campaigns-are-propelling-business-strategies.md",
-      "title": "How machine learning powered campaigns are propelling business strategies?",
-      "excerpt": "In the modern era, driven by technology, the adoption of machine learning is proliferating among businesses. While it enables firms to solve complex problems on the back of meaningful information derived from the careful",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png",
-          "width": 434,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "publishedDateTime": "2022-11-09T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-axiomtek-launches-the-newest-medical-grade-artificial-intelligence-computing-system-mbox100.md",
-      "title": "Axiomtek launches the newest medical grade artificial intelligence computing system - mBOX100",
-      "excerpt": "Axiomtek – a world-renowned leader relentlessly devoted to the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is pleased to announce the release of the mBOX100,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709092.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709092.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1942607/image_5019367_31655331.jpg",
-          "width": 400,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Sales Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 09, 2022 (The Expresswire) -- Global Natural Language Processing (NLP) in Healthcare Sales Market (2022-2028) Research Report is a professional and in-depth study on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group.md",
-      "title": "Artificial Intelligence (AI) Consulting Market Recovery and Impact Analysis Report | IBM, Mckinsey, Boston Consulting Group",
-      "excerpt": "Artificial intelligence (AI) consulting is the process of utilizing AI technologies and tools to solve business problems. As a new and emerging field, AI consulting is still in its early stages ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
-      "title": "AWS Launches Infrastructure Region in Switzerland",
-      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "AI software company Zenseact launches a new generation of safety technology in the Volvo EX90."
-excerpt: "With the release of Volvo Cars' fully electric flagship SUV – the Volvo EX90 – Zenseact introduces OnePilot: AI-powered software that will offer drivers a new level"
-publishedDateTime: 2022-11-14T18:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29710288/ai-software-company-zenseact-launches-a-new-generation-of-safety-technology-in-the-volvo-ex90"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29710288/ai-software-company-zenseact-launches-a-new-generation-of-safety-technology-in-the-volvo-ex90"
+excerpt: "With the release of Volvo Cars' fully electric flagship SUV – the Volvo EX90 – Zenseact introduces OnePilot: AI-powered software that will offer drivers a new level of safety. OnePilot marks the start of Zenseact's journey to autonomous driving,"
+publishedDateTime: 2022-11-14T20:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/14/9712568.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/14/9712568.htm"
 type: article
 quality: 5
 heat: 5
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "afO5cX77uqIN+nq0elbRj3ml86fK0p5nTvh4UlsUjuDgDkMCtlcTRBWF3VQNuiQ7O23hdZKttirrA8RUfxWj7iQFeHcuzVfM4mMlLiZ6hZz+tXfhaHT5Uwho3t4OKoP7lDlCFwYxBgB3j/ovbHW9cegNuJads4E7TosjnqqcDVp88zoMtUtuM6Oc9jyfgIfW7hbW+WpUEkngcrudnjHjwDKVslvMeNXxRIC7ww8rHO8BkFG5OezMf8dbHeK0o2mkYgW7oGwCTc3GRXndDW0V5H7a8p1C5Y3v+tJNZJ7Td+GQPdC2nTDCm7W5+aeMPa3dn4N+Dk9QAkyafldQiem/TdCt4f6XS2Wd/cyuErZ/2Vc=;Ag0tZhtGsJKOCuU+nV9U+w=="
+secured: "e18DCLxKWN2t+m43J9IFZCT4bxgHGPdReoeYbqpsVTIz/2Pt21y1cA72PQ9/k/GNm3XLclP4AhIIGOeSOUl7Bl8Mn3tZe8/XucFoHDjquKW/8f0DLOg+cQP7LcerE6+fgOnLehCIrMP33QVGzTNOAr1LPxHSniRbmTl0PhShV0VTE1IulVTvcItdzPnbOSRX/aIowjn5U5w0WpvW9NDTpdonX9erLndvgR/hj4YlfZev/JKKme3Kb6NT7DFK5Gp6Wj6XA31rrmhovKhNuVRN8OkZEPiiRPBsM5aeJCMz3wmWgHWCA628ZH70/xh7gQKZJObIQwmlk/hyjP+Gl6NzZvf7S5TmT+MXewhtqEnxGi4=;UAb5PW6MGr9pza89n2vaCg=="
 ---
 

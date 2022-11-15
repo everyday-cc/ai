@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-12-softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination.md",
+      "title": "SoftBank, NEC, Sony, Toyota + more team up for Rapidus, Japan’s bid for next-gen chip domination",
+      "excerpt": "Major Japanese tech firms including SoftBank and Sony plan to launch a new chip company called Rapidus that aims to mass produce 3nm by 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "originalUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1189756266.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "publishedDateTime": "2022-11-11T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-luxonis-puts-a-powerful-rolling-robotics-lab-in-your-pocket.md",
+      "title": "Luxonis puts a powerful rolling robotics lab in your pocket",
+      "excerpt": "A Colorado-based computer vision company has launched a hackable, open-source roving robot called rae that packs AI processing and machine learning ... where pledges currently start at US$399. If all goes to plan with the already funded campaign, shipping ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
+      "originalUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/9a1e525/2147483647/strip/true/crop/3840x2016+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F4e%2F0da8d8df4b559c90452be6db0526%2Frae-noglass-front.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it.md",
+      "title": "This Free Comic Series Is Gorgeous. You'd Never Know AI Drew It",
+      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a demonstration of how shockingly fast AI is evolving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "originalUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "publishedDateTime": "2022-11-11T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-scientists-promote-fair-standards-for-managing-artificial-intelligence-models.md",
       "title": "Scientists promote FAIR standards for managing artificial intelligence models",
       "excerpt": "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable.",
@@ -276,6 +431,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
+      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
+      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -689,7 +897,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -898,7 +1106,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1033,204 +1241,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-github-faces-lawsuit-over-copilot-ai-coding-assistant.md",
-      "title": "GitHub faces lawsuit over Copilot AI coding assistant",
-      "excerpt": "Class-action complaint contends that training the AI system on public GitHub repos violates the legal rights of creators who posted the code under open-source licenses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
-      "originalUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/11/netgear-asus-lawsuit-100573125-orig-100780974-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679748/github-faces-lawsuit-over-copilot-coding-tool.amp.html",
-      "publishedDateTime": "2022-11-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-reading-drivers-set-to-face-yellow-box-junction-fines.md",
-      "title": "Reading drivers set to face yellow box junction fines",
-      "excerpt": "For the first six months drivers blocking the yellow box junctions will only be sent a warning notice by the council, as opposed to penalty charge notices, the Local Democracy Rep",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
-      "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/63E9/production/_127577552_mediaitem127577550.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-63580590.amp",
-      "publishedDateTime": "2022-11-10T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market 2022 : Size, Share, Industry Analysis, Growth And Forecast 2028",
-      "excerpt": "Nov 10, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Healthcare Market\" research provides significant and in-depth information on the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-vivo-unveils-v2-chip-to-use-it-with-dimensity-9200-for-ai-enhancements.md",
-      "title": "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements",
-      "excerpt": "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
-      "originalUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg",
-          "width": 839,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
-      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
-      "publishedDateTime": "2022-11-09T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FoneArena",
-        "domain": "fonearena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

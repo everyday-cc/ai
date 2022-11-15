@@ -41,22 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Intel introduces Intel Xeon CPU Max Series and Intel Data Center GPU Max Series to power the upcoming Aurora supercomputer at Argonne National Labs"
-    excerpt: "Intel Corporation has introduced the Intel Max Series product family with two products for high-performance computing (HPC) and artificial intelligence (AI)."
-    publishedDateTime: 2022-11-10T07:39:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/intel-introduces-intel-xeon-cpu-max-series-and-intel-data-center-gpu-max-series-to-power-the-upcoming-aurora-supercomputer-at-argonne-national-labs-article-95421643/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 21
-    images:
-      - url: "https://static.tnn.in/thumb/msid-95421643,imgsize-100,width-1280,height-720,resizemode-75/95421643.jpg"
-        width: 1278
-        height: 720
-        isCached: true
   - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"
     excerpt: "Jeff McVeigh, corporate vice president, and general manager, Super Compute Group, Intel \"Dell Technologies and Intel are collaborating on innovative solutions in the HPC and AI space, bringing our various solutions including the Max Series GPU and 4th Gen ..."
     publishedDateTime: 2022-11-14T16:24:00Z
