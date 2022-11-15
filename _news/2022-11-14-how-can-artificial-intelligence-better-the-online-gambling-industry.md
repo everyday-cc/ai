@@ -42,22 +42,6 @@ related:
         width: 753
         height: 929
         isCached: true
-  - title: "Artificial intelligence improves the location of objects inside industrial environments"
-    excerpt: "Indoor positioning technologies are one of the driving forces behind the digital transformation of the industrial sector. The ability to track objects, assets and people accurately and cheaply could save resources,"
-    publishedDateTime: 2022-11-10T16:36:00Z
-    webUrl: "https://techxplore.com/news/2022-11-artificial-intelligence-industrial-environments.html"
-    ampWebUrl: "https://techxplore.com/news/2022-11-artificial-intelligence-industrial-environments.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-artificial-intelligence-industrial-environments.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/warehouse.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "9 Humanoid Robots Made in India"
     excerpt: "According to a report, the humanoid robot market is expected to register a CAGR of 63.5% between 2022 and 2027"
     publishedDateTime: 2022-11-11T06:30:00Z

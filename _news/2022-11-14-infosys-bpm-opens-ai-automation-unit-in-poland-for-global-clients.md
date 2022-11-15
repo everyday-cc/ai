@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/infosys-bpm-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1070
         height: 579
+        isCached: true
+  - title: "Infosys BPM-IBM Collaboration Launches the Center of AI and Automation"
+    excerpt: "Infosys BPM, the business process management arm of Infosys INFY INFY INFY, today launched the Center of AI and Automation, in collaboration with IBM, at the Infosys Business Experience Lounge in Poland,"
+    publishedDateTime: 2022-11-14T13:05:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13401"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 39
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_13401_16684292239725005.jpg"
+        width: 350
+        height: 215
         isCached: true
   - title: "Infosys BPM Launches State-of-the-art Center of AI and Automation in Poland, in Collaboration with IBM"
     excerpt: "LODZ, Poland and BANGALORE, India, Nov. 14, 2022 /PRNewswire/ -- Infosys BPM, the business process management arm of Infosys (NSE: INFY) (BSE:"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tomahawk Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor"
-    excerpt: "Tomahawk Robotics, a provider of common control solutions, has successfully hosted Microsoft Azure SDK on its KxM edge device."
-    publishedDateTime: 2022-11-10T15:42:00Z
-    webUrl: "https://www.iotevolutionworld.com/fog/articles/454021-tomahawk-hosts-microsoft-azure-sdk-kxm-body-worn.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 34
 
 secured: "mngLKxTvXU4N2HiuPjToaDHdxHpYaZcqXm/32n0FFxYtIuG+R9PSImE9r4pkI//WzmSt4y1/aGchGbBXDZwWlHEZKc/vbyzbovHe+a1+lS8s9xOmh71itHgE1gsp58mpRF0TRuHiJKr65XJmFKPBQCmXgh3HKHqvkuTwNztlwuXLEdg53iRyytVoWrC68l3n4pNMtNLe2oUSffDleN3LTSF03zpAQiQcuY2KkrQjNcDaDfWNu8flQatK8lGxeTCtsgEgRsfsspnyH4IFmr2InCppqy10C/Ugu36FvHGtHY1Bbm5LMjZb/nVnvkS1ipJTQaoFKTd6icXxz0LLzv/d2quy+DligcCNTkFYrmXL1Bg=;aAs8rrdr3O313nwUjVb3qw=="
 ---

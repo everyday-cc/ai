@@ -55,6 +55,20 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "Infosys BPM-IBM Collaboration Launches the Center of AI and Automation"
+    excerpt: "Infosys BPM, the business process management arm of Infosys INFY INFY INFY, today launched the Center of AI and Automation, in collaboration with IBM, at the Infosys Business Experience Lounge in Poland,"
+    publishedDateTime: 2022-11-14T13:05:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13401"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 39
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_13401_16684292239725005.jpg"
+        width: 350
+        height: 215
+        isCached: true
   - title: "Infosys BPM Launches State-of-the-Art Center of AI and Automation in Collaboration With IBM"
     excerpt: "Formed in collaboration with IBM, this center will showcase a growing portfolio of data and AI solutions that are designed to automate and accelerate the hybrid cloud journey of global enterprises. The center will complement Infosys BPM service offerings that are built with a design thinking approach and deep domain expertise in data and AI technologies."
     publishedDateTime: 2022-11-14T17:50:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/explained-google-meta-face
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-google-meta-facebook-1000-language-ai-deep-learning-machine-learning-model-artificial-intelligence/article66138787.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-google-meta-facebook-1000-language-ai-deep-learning-machine-learning-model-artificial-intelligence/article66138787.ece/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://th-i.thgim.com/public/incoming/vg6pfe/article66089788.ece/alternates/FREE_1200/2022-11-01T141712Z_1328416294_RC21DX9YCYXF_RTRMADP_3_ALPHABET-SB-ENERGY.JPG"
@@ -26,6 +27,6 @@ images:
     height: 798
     isCached: true
 
-secured: "JxZVI24gsvN5lIDNmimDMwYycvS91K7mYzdLUhyL4PVtcxkk7iNf9M0+jwKBiUGrznWIrTBvqSChBiR1y4yLKNMYZfKgvqXghrJRLklosWJWKg6zY2d1QlzDQ8NyMznO0Dh3+vgqFi+MzsQ+2oDbIkBxal5lQGKyBr25kqCr8GMsd5SXwv/xFXX378VpRaEg0FnaaT0i79lelF9b6pedlfS5L5qw08n4rnhni/gfbZMK52UwyM2+Pd2CfbCunl83zuTUFd85KX3TVHI9ZJ7O9HJdVsM/INGEeu4alDD6y/sloHD8AeDJMW4rVxjbrkVEFuIPYgHjUaSWgbsHWetS1aXa+jquVPNQBUoqHbkvVxw=;RpbabnLCnXTH+dAiY1kUZA=="
+secured: "Kmy0AH4oxbIA3om5/jV5lmGmqmiu6Nhzhoek1IWp2nVuVtsIYZlzbl+fqX/+M+5ae7lNdUbQUgLARDEAIHsX5jXJliytpUkipavnKYc7BZu9BV5nEsy9v8W+qGvTx0ZrIEquaMwDx+amsKUf9qC/6McmbqLSQhhXJu9Xan9VdRfHZkLXcHgA6SXD6Z8oHwRAVNxktjg/o0+Imj/k2h+9rxv7b4MWIS6hzoBBY6NfWT7EFeERdC+cXqGyzb1u1l+dcob6LySXq6IgJql6KEN7jsrguvTzjEjxXPlSycCVPjmX3RTiplWejtWZQKCJb+Qn81K49LnYzWZPAXjBbh+3rBr9Xv5k2BF4yHquEoVQPaO/OgbjW1sPlhtF8xiIlW57m4MlYSXS1Vk6+yze+40PuqYWzeRdzjRCMTh78Y+3qO2lb7NRSWKB9sarvPi4QKzDcuf0CaNbRkD07BDesg55e5hZ5mey0V66AFbusZ8f56KODjR1dB6nn2fyg6nqdQ48m72MlI05SAAFa0Zsjx3arA==;u1npvrUyu2k5nGD84cZnhA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Bank of England sets out research on AI and ML in financial services"
-    excerpt: "Few industries have been as impacted by the rise of AI as financial services. Read a summary of the Bank of England's recent research."
-    publishedDateTime: 2022-11-10T16:53:00Z
-    webUrl: "https://www.techerati.com/news-hub/bank-of-england-research-ai-ml-financial-services/"
-    type: article
-    provider:
-      name: techerati
-      domain: techerati.com
-    quality: 51
 
 secured: "EXEMaoETkoshta8m5k25R72uxZp0SWSeCYiB6bG8MUvW48crqk3isfpWSUJap1FfeoPgsoGCYzJPFr5MLHYjBMpncpD4Icg0nc5FnkXXg/ZmyXm5jIbmms+1f5GjvfEDGs7vjqerKCSEhD1qP/eLMHovFXBsQY28EJsuf01+qjk+o1QjoIDLKB7xz8e+AHh8YkcXkQgMU/osLPFwiGF/h7vnfb60rFVnVE2QD+l+LbGXOjm3dvrDuu48Nj5nshz0HqJI3yv7aJPGKlRqo39X8jwm1OCd6xCGJEzu0JZ9eol1ymDXwTOVsnVdeHtHd723PV/F8snnAq00vGImM9omiIdgES7jeR0xwZSmNoPPBtzJJH/I2MKpDsi28c+8YJBAlcLS5/EvMshBWlKB7jbG4ArAzAZISIrCVeftgL3XF542C7iXnff3wAXMt3kn5JpDX0p+udvQJ4wF+ZQcCIlA2LpwNjzfvy0w6PDW3nFgnnUn96rK7SEbv1dXxbspEVhbvvLyTdjO8GrBJx3ySRAcsA==;jqt9KRbF0fFFs2ibRFudlg=="
 ---

@@ -24,20 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Identifying and avoiding common data issues while building no code ML models with Amazon SageMaker Canvas"
-    excerpt: "Business analysts work with data and like to analyze, explore, and understand data to achieve effective business outcomes. To address business problems, they often rely on machine learning (ML) practitioners such as data scientists to assist with techniques such as utilizing ML to build models using"
-    publishedDateTime: 2022-11-10T16:44:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/10/avoiding-common-data-issues-sagemaker-canvas.jpg"
-        width: 1550
-        height: 773
-        isCached: true
   - title: "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker"
     excerpt: "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine"
     publishedDateTime: 2022-11-14T20:08:39Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2023-expected-to-reach-significant-rate-by-2027-2022-11-14"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spinal Surgery Products Market Is Expected To To Reach US$ 15.5 Bn By 2030"
-    excerpt: "As per industry analysis by Fact.MR, a market research and competitive intelligence provider, the global spinal surgery products market is projected to expand at a CAGR of 4.3% and reach a market value of US$ 15."
-    publishedDateTime: 2022-11-10T16:28:00Z
-    webUrl: "https://www.medgadget.com/2022/11/spinal-surgery-products-market-is-expected-to-to-reach-us-15-5-bn-by-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 2
   - title: "Interventional Radiology Market Is Projected To Reach USD 39.34 Billion By 2030 - Reports And Data"
     excerpt: "Reports And Data The global interventional radiology market size was USD 25.10 Billion in 2021 and is expected to register a revenue CAGR"
     publishedDateTime: 2022-11-14T13:58:00Z

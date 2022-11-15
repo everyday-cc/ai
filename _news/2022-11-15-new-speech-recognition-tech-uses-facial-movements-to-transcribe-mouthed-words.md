@@ -20,7 +20,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?89176"
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?847276"
     width: 375
     height: 250
     isCached: true
@@ -59,6 +59,6 @@ related:
         height: 720
         isCached: true
 
-secured: "iBA0iSG6yl+4GGrsbNLAx6oEY1bCAC2TCc2ER6ZLs7u9DuZlR3V1ETZ1bR/YSGbWnH5pkY3uGnuXOFF5n11GNRKW5T4y94LnlqwUU2oP2q3fuI1Q9v2CNlkDTsXaFJOREOLj4AkaZpdxmYmcylODoBDVTIF7nvczHB5U5ehnYmKA36UXYFPyP8ctrfqgLnAMzTe6lorYzZhdZp03xGFrzQyW/mJL1U/gA8bRcHlTud/rnwSinVu8GDdg2xtxQyXUnIvTCX858lotbkpk7xXVsafuyLVFTTzwapeIsN/6THqchYRCpp2yZ75Wuz3bXBxJP08DrFPK9N7gT+m1r22COkzeNBov21TJLwJbnRYuQWE=;R209HgD3T5qNGyTbxy7QwA=="
+secured: "7WnlSwj7xcBYc9L6EjWmUygjVH4i5ClU5wta7MSN9vuen8fd0mxVazpDrxXnCsTRE0cZhnHpXEi8kMsiMJ9cXcwn4lCioF7glRH7acBJ8A/kL+zGOUj98hExTYlrp9QxJpahG+blCiks16ZeGAr+e8VhMmopXB3Gji+VfWbz5Cehop+FGTY92ZyFTOr+ExPoeXVh+KNm9Gjz22QOZFxqX3kx3ClgbA117nI4bN+GMG0chS7yoaHzIJ2DS7UETHl1oSvko+FVqYsR6D632RAUoU7IRVwk96c8t/uHpZHx5vQfJHqPb5r0bWhAmk20zXwl6ay5ibmzjN3fuLNQ3UIX/CnerKyEROUveo6WTyXBTew=;ftdxQLuMl0JuGkZpn/GCtg=="
 ---
 
