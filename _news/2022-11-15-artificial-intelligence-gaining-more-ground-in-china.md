@@ -27,15 +27,15 @@ images:
 related:
   - title: "AI gaining more ground in China"
     excerpt: "Significant progress has been made in developing China's AI industry, with technological innovation capabilities in some areas ranking among the best in the world, they said. A Stanford University report showed that China filed more than half of the world's AI patent applications last year and the nation continued to lead the world in the number of AI journals,"
-    publishedDateTime: 2022-11-14T23:56:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
+    publishedDateTime: 2022-11-15T07:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202211/15/6372d26aa31049178c90a4bf.jpeg"
+      - url: "http://img2.chinadaily.com.cn/images/202211/15/6372ebe5a31049178c90b2cc.jpeg"
         width: 720
         height: 404
         isCached: true

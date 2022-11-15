@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T13:16:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/15/ai-virtues-as-missing-bedrock-ingredient-for-responsible-ai-says-ai-ethics-and-ai-law/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/15/ai-virtues-as-missing-bedrock-ingredient-for-responsible-ai-says-ai-ethics-and-ai-law/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Forbes

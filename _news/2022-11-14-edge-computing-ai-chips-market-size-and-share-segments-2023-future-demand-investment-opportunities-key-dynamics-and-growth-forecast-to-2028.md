@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip for Data Centers Market 2023: Global Research by Size, Share, Growth Trends, Manufacturers, and Regional Demand Scope Forecast to 2029"
+    excerpt: "Nov 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Chip for Data Centers"
+    publishedDateTime: 2022-11-14T09:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2023-global-research-by-size-share-growth-trends-manufacturers-and-regional-demand-scope-forecast-to-2029-2022-11-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Managed Services Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029"
     excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “AWS Managed Services Market”"
     publishedDateTime: 2022-11-14T03:39:00Z

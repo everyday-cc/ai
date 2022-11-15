@@ -50,6 +50,17 @@ related:
       name: ArchDaily
       domain: archdaily.com
     quality: 17
+  - title: "Daydrm.ai's AI Tool, created by a Former Agency Creative Director, can now Generate Creative Advertising Ideas."
+    excerpt: "The Artificial Intelligence tool at Daydrm.ai can now generate creative advertising ideas. This AI tool was created by a former agency creative director who has become the front-end Software Engineer at Daydrm.ai. It's no secret that artificial ..."
+    publishedDateTime: 2022-11-15T16:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29731849/daydrm-ais-ai-tool-created-by-a-former-agency-creative-director-can-now-generate-creative-adverti"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29731849"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29731849"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "G5SOYG4pPTvVT57CQTGOqOpP/Hb84K26mjgBbJQ1amgF+LihPSMfQ/wIHXGMXdPMThOdFKxhUI2H/GBQxqAbSvCL99qZM/awcimCvayFPjdXFuhT7oz4D5HywvSupbZvMiX1o7XvjfsGvn00PBvOwqkj/x7pXBX14zE5TQNTVWuDgn+4tCmR8F/Sjf4CM2B5N8I/2pUNmYwSOO3yjB0R7QeoZGQqdUADFZ9PORn8f01vXMZXRC3XO8hWzVGOAPHdPhtOaCzzqhUIBmZwDrhIT6cRSXfgvpojSjmv6eXVPV5erQrAvhYJgauUDbDRqkRIm/DA8yiETqxYUMeuuazsPxO1rXJXBaWzD/iYsxZgIctbfQAQhZYtdNTWc/j3CZujB7LLRDS7K59D7ZZ7K355hcVJPe3ApyX+/dxCs9h0W4MH5dWd6u/7X3+23RU7Pts+08cCNoPj1OAj3InErW5ymqljAaMIZgyuluGbwpDwYmR9nZDnBYXYUycfBBzfJlGR8zJNch4DmXwDPiIIJK/Tdg==;ZqySn6Tscfbl2zfQSxe59w=="
 ---

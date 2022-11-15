@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models.md",
+      "title": "Solving Brain Dynamics Gives Rise to Flexible Machine Learning Models",
+      "excerpt": "MIT researchers built “liquid” neural networks, inspired by the brains of small species: a class of flexible, robust machine learning models that learn on the job and can adapt to changing conditions,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/",
+      "originalUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/amp/",
+      "publishedDateTime": "2022-11-15T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-ai-driven-fashion-platform-shoptrue-constantly-learns-its-users-shopping-habits.md",
+      "title": "AI-driven fashion platform Shoptrue constantly learns its users shopping habits",
+      "excerpt": "The startup raised $6 million in seed funding in 2021 to help build ... Shoptrue’s launch is another example of how AI technology is transforming the e-commerce industry. In June, Pinterest acquired the AI-powered shopping platform The Yes, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/",
+      "originalUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Shoptrue-PR-Imagery-v3.1-no-brand.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/amp/",
+      "publishedDateTime": "2022-11-15T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-mediateks-latest-generation-socs-enable-greater-access-to-leadership-performance.md",
+      "title": "MediaTek’s Latest Generation SoCs Enable Greater Access To Leadership Performance",
+      "excerpt": "Senior Analyst, Mobility & VR, Anshel Sag, gives his coverage of MediaTek’s Executive Summit 2022 where it announced many new processors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/11/15/mediateks-latest-generation-socs-enable-greater-access-to-leadership-performance/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/15/mediateks-latest-generation-socs-enable-greater-access-to-leadership-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6373b61545125d6806dfbf60/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/11/15/mediateks-latest-generation-socs-enable-greater-access-to-leadership-performance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/15/mediateks-latest-generation-socs-enable-greater-access-to-leadership-performance/amp/",
+      "publishedDateTime": "2022-11-15T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-ai-for-diabetic-retinopathy-screening-gets-us-fda-approval.md",
+      "title": "AI For Diabetic Retinopathy Screening Gets U.S. FDA Approval",
+      "excerpt": "The AEYE Health AI model performs better than human experts, diagnosing diabetes from otherwise healthy retinas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63729d325ee651502ca8fb83/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/",
+      "publishedDateTime": "2022-11-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education.md",
       "title": "Use of tech like AI and ML has the potential to transform higher education",
       "excerpt": "Technologies like AI and ML are rapidly transforming every aspect of human lives; yet, one industry that has seen limited use of this new technology but offers incredible potential and opportunity, is education. The magic of software applications ...",
@@ -106,7 +303,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -253,7 +450,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-can-healthcare-and-alternative-medicine-safely-adopt/439152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -547,7 +744,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -988,209 +1185,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-verefa-v60-pro-the-game-changer-is-coming.md",
-      "title": "VEREFA V60 Pro: The Game Changer is Coming",
-      "excerpt": "Press Release The better auto-emptying robot vacuum is coming. Verefa has debuted its latest model V60 Pro.This press release features multimedia. View the full release here:  Business Wire)Verefa,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
-      "originalUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20221113005166/en/1635558/4/Image_1_V60_Pro.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
-      "publishedDateTime": "2022-11-14T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry.md",
-      "title": "Computer vision and beyond: The future of AI in India’s insurance industry",
-      "excerpt": "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg",
-          "width": 753,
-          "height": 929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "publishedDateTime": "2022-11-14T00:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-citi-backs-indian-saas-startup-lentra-as-it-plans-to-expand-internationally.md",
-      "title": "Citi backs Indian SaaS startup Lentra as it plans to expand internationally",
-      "excerpt": "Indian SaaS startup Lentra has raised $60 million in a Series B funding round that saw participation from Citi Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
-      "originalUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/keyboard-typing-image-getty.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
-      "publishedDateTime": "2022-11-13T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
-      "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
-      "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
-      "publishedDateTime": "2022-11-13T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "IBM AI",
-        "Microsoft AI",
-        "AI in Autos"
       ]
     }
   ],

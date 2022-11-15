@@ -2,9 +2,9 @@
 category: news
 title: "AI gaining more ground in China"
 excerpt: "Significant progress has been made in developing China's AI industry, with technological innovation capabilities in some areas ranking among the best in the world, they said. A Stanford University report showed that China filed more than half of the world's AI patent applications last year and the nation continued to lead the world in the number of AI journals,"
-publishedDateTime: 2022-11-14T23:56:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
-webUrl: "https://global.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
+publishedDateTime: 2022-11-15T07:42:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
+webUrl: "https://www.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
 type: article
 quality: 39
 heat: -1
@@ -15,11 +15,11 @@ provider:
   domain: chinadaily.com.cn
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202211/15/6372d26aa31049178c90a4bf.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202211/15/6372ebe5a31049178c90b2cc.jpeg"
     width: 720
     height: 404
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IMVtHkveeMtXxebGlo4HOcRdnIP18y++QCtMShcYWCeejkYx8HXKXcS9K8dbT+X/y+7GP1e5gjzdZwbWbXcVuToJ9xcEiEv1dkwP16VOThtcwICpa4e01NnV9li3at9043wmy6dQ18luEsBEQqXv3jW+FFjvFGl61OD7gCq1QToIqVohnVFv9Tr5kQaC1ZNGn3QZrehYaxImhjiB2zXBAgwkqm0njepBiTBbxLIHCn72d48b8yrxXvye79qTOrFAQ4ji/gPdqZ+RWEZTIwXtcTXHkqJAEt5F2bZ85IUE/xLOUwQsnbLlZOjY2oXOvfnECVy7Nujz0f1mTG1HMb953Y8ljMbYzNZSmnvGOFHK7Kc=;vyZO588nMTDhdxhA7p24RQ=="
+secured: "mfx+cLKmea/Q3VxtsUFuqGS7TYv+56ZyJfCkjBf0YDzWVi9bm+tMMNXOPxC0STMooRDgC8G5+rv1UgR5EmA1AjXECIQc5cPajTmHw/Im+4h/YXvj3mjuYqk5L8Atb+AK1M6KAl121tQOGnh/aEycl8hrZaHjMhcLohob1J+8714DkyaxrMvZHHAcZSiS0O2C75O/v1EmsJlRltqi9fF+IlBPf2/sDmt4RwZDpLXPFY05cV+wZ1NlQeXGekLTq+ArpuCnLBXCDJ0TbvugsF4fycHwiu1g1W/ay2SFOp2Ij8OBj3T3ld8+ME+m2oYvFx3axntFtTV3VM5VaEmzPdbQMVbmChOvj1co7sPYcOHcxVY=;4PzbZY/KHVJ70cWvnb605g=="
 ---
 

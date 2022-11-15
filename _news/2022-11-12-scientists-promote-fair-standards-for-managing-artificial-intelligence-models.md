@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221110205411.htm"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Scientists articulate new data standards for AI models"
-    excerpt: "Aspiring bakers are frequently called upon to adapt award-winning recipes based on differing kitchen setups. Someone might use an eggbeater instead of a stand mixer to make prize-winning chocolate chip cookies,"
-    publishedDateTime: 2022-11-10T22:45:00Z
-    webUrl: "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-scientists-articulate-standards-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/argonne-scientists-pro.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How AI is changing scientists’ understanding of language learning"
     excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
     publishedDateTime: 2022-11-13T08:43:00Z

@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app"
-    excerpt: "Mem, an AI-powered note-taking app, has raised capital from OpenAI's startup fund -- one of the first companies to do so."
-    publishedDateTime: 2022-11-10T23:20:00Z
-    webUrl: "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/"
-    ampWebUrl: "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/"
+  - title: "Zest AI Appoints Investment Veteran to Board"
+    excerpt: "Aditi Maliwal, a partner at Upfront Ventures, has joined the board of directors of fintech company Zest AI. Maliwal will bring to the Burbank company years of experience in investment and technology,"
+    publishedDateTime: 2022-11-11T19:53:00Z
+    webUrl: "https://www.sfvbj.com/finance/zest-ai-appoints-investment-veteran-to-board/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: sfvbj
+      domain: sfvbj.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1130532319.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://d2dmozeuai8pbs.cloudfront.net/wp-content/uploads/2022/11/1527562227213.jpeg"
+        width: 399
+        height: 399
         isCached: true
 
 secured: "MP2BnIY/lVsLT2nZzUu50xWeeeRBbmKbFz19wG5WRuAWnkF4IQ7JhB3IADJHBxJbRq13Mmy1Gug6+n1t8u4/PG7OeHFcSDORewD0EgYAh7+c1IYTH6eG4FY11SXN2n5bE9C3l3d59POOIq4eoi+P1X+4HrLVedP8BVmQGv1kyqNfBIoAktCi6LEFWZQw5xheXU0vJdbHO0hKrmZB/PzIrK9VLUoWvBe+rXuN7Jdfx3S0Co6gMKB+xbSfhAf3EiqPo5aL4gLyzOmri5Day3DBSfwunbiCcpcBlW1ROcG5UlN2EL6cXHZ0Z/KPyglkWsbLc7aHxqB/HsP9x7UzAFxfIfsOmBmbp0TTggDTDekNLnre+mwJJ8ecv4JsIl7P3oonXaBGKNUIdOVNKddIVuqPi86mg/Ms1B7hmD23LfIAnm8HJg0frqVSAiBq5hAYnwLa958RCp9R+R1Ti7B/8z17qC4P5tSNyYZBIJaCh5oQE7UnSzshT6jAx3uAe5tEj3g+rOjF95k9Pj6dePdzm8KRGA==;V/p1GGbBj7N77XS9wng28w=="

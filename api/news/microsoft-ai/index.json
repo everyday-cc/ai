@@ -10,7 +10,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -100,7 +100,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -310,20 +310,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-90d814141c79d2c1ae6043eeb2472008-h-2b8641cbdfa05e06661d58c5c0f151bd-1668041453.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
-      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-11-09T23:52:00-08:00",
       "updatedDateTime": null,
       "provider": {

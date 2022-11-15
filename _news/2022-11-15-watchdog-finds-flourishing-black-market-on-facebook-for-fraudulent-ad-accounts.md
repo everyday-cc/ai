@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T13:22:00Z
 originalUrl: "https://www.technewsworld.com/story/watchdog-finds-flourishing-black-market-on-facebook-for-fraudulent-ad-accounts-177404.html"
 webUrl: "https://www.technewsworld.com/story/watchdog-finds-flourishing-black-market-on-facebook-for-fraudulent-ad-accounts-177404.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TechNewsWorld

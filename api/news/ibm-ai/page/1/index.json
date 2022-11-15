@@ -105,27 +105,18 @@
       "title": "IBM's latest quantum computing processor triples the qubits of its predecessor",
       "excerpt": "IBM's latest quantum computing processor ... to tackle calculations of much greater complexity in fields such as artificial intelligence, and the design of new materials for drug discovery and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
-      "originalUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
+      "webUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html?src=rss",
+      "originalUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html?src=rss",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b1208170-5ec1-11ed-ad7f-0a8837a7224a",
-          "width": 1517,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "publishedDateTime": "2022-11-09T08:05:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T04:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Engadget",

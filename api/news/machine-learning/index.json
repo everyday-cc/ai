@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models.md",
+      "title": "Solving Brain Dynamics Gives Rise to Flexible Machine Learning Models",
+      "excerpt": "MIT researchers built “liquid” neural networks, inspired by the brains of small species: a class of flexible, robust machine learning models that learn on the job and can adapt to changing conditions,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/",
+      "originalUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/amp/",
+      "publishedDateTime": "2022-11-15T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education.md",
       "title": "Use of tech like AI and ML has the potential to transform higher education",
       "excerpt": "Technologies like AI and ML are rapidly transforming every aspect of human lives; yet, one industry that has seen limited use of this new technology but offers incredible potential and opportunity, is education. The magic of software applications ...",
@@ -1378,59 +1421,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge.md",
-      "title": "Problem scaling AI? MIT proposes sub-photon optical deep learning at the edge",
-      "excerpt": "Using wavelength division multiplexing, researchers were able to perform image recognition using optical computing, thereby dramatically lowering the energy required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "originalUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cf73b493c596ba517977d05a81839bc703f72b25/2022/10/31/2478f28e-dfe4-4c71-92c7-fde978a3deb9/photonic-equation-landscape.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "publishedDateTime": "2022-11-01T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

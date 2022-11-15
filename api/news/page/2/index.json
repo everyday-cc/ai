@@ -2,6 +2,209 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-14-verefa-v60-pro-the-game-changer-is-coming.md",
+      "title": "VEREFA V60 Pro: The Game Changer is Coming",
+      "excerpt": "Press Release The better auto-emptying robot vacuum is coming. Verefa has debuted its latest model V60 Pro.This press release features multimedia. View the full release here:  Business Wire)Verefa,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
+      "originalUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20221113005166/en/1635558/4/Image_1_V60_Pro.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
+      "publishedDateTime": "2022-11-14T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry.md",
+      "title": "Computer vision and beyond: The future of AI in India’s insurance industry",
+      "excerpt": "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg",
+          "width": 753,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "publishedDateTime": "2022-11-14T00:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-citi-backs-indian-saas-startup-lentra-as-it-plans-to-expand-internationally.md",
+      "title": "Citi backs Indian SaaS startup Lentra as it plans to expand internationally",
+      "excerpt": "Indian SaaS startup Lentra has raised $60 million in a Series B funding round that saw participation from Citi Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "originalUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/keyboard-typing-image-getty.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "publishedDateTime": "2022-11-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
+      "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
+      "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
+      "publishedDateTime": "2022-11-13T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "IBM AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-13-tesla-starts-rolling-wide-full-self-driving-v11-update-exciting-and-scary.md",
       "title": "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary",
       "excerpt": "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it.",
@@ -210,7 +413,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -262,7 +465,7 @@
       "originalUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -469,7 +672,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221110205411.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -512,7 +715,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -746,7 +949,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1050,206 +1253,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-amazons-new-robot-can-handle-most-items-in-the-everything-store.md",
-      "title": "Amazon’s New Robot Can Handle Most Items in the Everything Store",
-      "excerpt": "Sparrow could shift the balance between humans and machines in the company’s warehouses, using machine learning algorithms and a custom gripper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
-      "originalUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/636d54218480c23aec34bdef/master/pass/Sparrow-Robot-Amazon-Business.jpg",
-          "width": 2400,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
-      "publishedDateTime": "2022-11-10T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-how-prodege-saved-15-million-in-annual-human-review-costs-using-low-code-computer-vision-ai.md",
-      "title": "How Prodege saved $1.5 million in annual human review costs using low-code computer vision AI",
-      "excerpt": "This post was co-authored by Arun Gupta, the Director of Business Intelligence at Prodege, LLC. Prodege is a data-driven marketing and consumer insights platform comprised of consumer brands—Swagbucks, MyPoints, Tada, ySense, InboxDollars, InboxPounds, DailyRewards, PollFish, and Upromise—along with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T12:51:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix.md",
-      "title": "Now anyone can hail a Waymo robotaxi in downtown Phoenix",
-      "excerpt": "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to members of the general public. Previously, the company had only been operating a commercial service with no safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/DTPHX_W1_Open.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/amp/",
-      "publishedDateTime": "2022-11-10T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-amazon-debuts-sparrow-a-new-bin-picking-robot-arm.md",
-      "title": "Amazon debuts Sparrow, a new bin-picking robot arm",
-      "excerpt": "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "publishedDateTime": "2022-11-10T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

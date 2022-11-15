@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T14:04:00Z
 originalUrl: "https://www.forbes.com/sites/dbloom/2022/11/15/descript-aicloud-based-editor-raises-50-million-launches-new-interface/"
 webUrl: "https://www.forbes.com/sites/dbloom/2022/11/15/descript-aicloud-based-editor-raises-50-million-launches-new-interface/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Forbes

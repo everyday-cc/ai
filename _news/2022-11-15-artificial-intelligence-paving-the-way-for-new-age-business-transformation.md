@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T14:53:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-paving-the-way-for-new-age-business-transformation/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-paving-the-way-for-new-age-business-transformation/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Indiatimes

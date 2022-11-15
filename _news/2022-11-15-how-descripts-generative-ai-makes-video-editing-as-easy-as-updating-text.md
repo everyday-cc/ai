@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T14:00:00Z
 originalUrl: "https://venturebeat.com/ai/how-descripts-generative-ai-makes-video-editing-as-easy-as-updating-text/"
 webUrl: "https://venturebeat.com/ai/how-descripts-generative-ai-makes-video-editing-as-easy-as-updating-text/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: VentureBeat

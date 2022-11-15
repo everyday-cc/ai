@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T13:45:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-ceva-introduces-voice-user-interface-solution-ti-simplelinktrade-/2022/11/15/9713068.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-ceva-introduces-voice-user-interface-solution-ti-simplelinktrade-/2022/11/15/9713068.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

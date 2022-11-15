@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/industry/industry-news/gdit-forms-5g-and-ed
 webUrl: "https://www.hstoday.us/industry/industry-news/gdit-forms-5g-and-edge-accelerator-coalition-with-aws-cisco-dell-technologies-splunk-and-t-mobile/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1920
     height: 1238
     isCached: true
-
-related:
-  - title: "GDIT Forms 5G and Edge Accelerator Coalition with AWS, Cisco, Dell Technologies, Splunk and T-Mobile"
-    excerpt: "Companies will accelerate adoption of innovative, cost-effective 5G solutions for government agenciesFALLS CHURCH, Va., Nov. 10, 2022"
-    publishedDateTime: 2022-11-10T21:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gdit-forms-5g-and-edge-accelerator-coalition-with-aws-cisco-dell-technologies-splunk-and-t-mobile-1031900257"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "5iUGxywSSqRqOwTCrU1c64V3KwFH50jr+u3eKyEXDYzjGub8OSMcsGxXdCDRygE8BbjKpALXz2limPVBuDWibL5Di4Ct5DF2dN1Qws9+l59jsS7LPPe9OFG5azDf2cis9hevftaWm17sgMNKE6pPzi+3unUO4JEXqFZgnHUBIvV1N6YRMClDqQD2pBx2H36uvQF2KMlLANphz/Fwrt2zRRdeYg2N2YIBktuTe6gwE89B/uddrAwwVfiB4f6eJkBbvPxuGyEOPpfE7YFQcE7BcWXFehv4dj6kLV03KksATuxIQJxqN9/YXYeNXDd/Gv+zQ9UngZ8HgojqmePHhEFhOiNjOkksrwrZnyrf7g7LbQKRqgEnyqcMPgGwZ5X7R6hfLBT6qSbTDcbqXV94JeuBSo+h/+IpOSxFN3CHCvvv4siaVELlzE0qZyHxXo0vkqSe22E/3TMt4eKxwvZXkpshkjx5PNsPvo3fuwfBBlNzjT5I5SvdW8kLGCfVEL4PFP75bMFBLvWPEprare9iTRIQsw==;b7C8r99ww3K7tHCDZ8+bLA=="
 ---

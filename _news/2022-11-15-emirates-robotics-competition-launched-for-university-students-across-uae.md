@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T13:38:00Z
 originalUrl: "https://www.zawya.com/en/press-release/government-news/emirates-robotics-competition-launched-for-university-students-across-uae-uc370m6m"
 webUrl: "https://www.zawya.com/en/press-release/government-news/emirates-robotics-competition-launched-for-university-students-across-uae-uc370m6m"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Zawya

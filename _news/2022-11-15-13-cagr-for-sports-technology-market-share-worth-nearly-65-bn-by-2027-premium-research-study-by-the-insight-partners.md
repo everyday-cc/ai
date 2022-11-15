@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T14:09:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29728371/13-cagr-for-sports-technology-market-share-worth-nearly-65-bn-by-2027-premium-research-study-by-th"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/g29728371/13-cagr-for-sports-technology-market-share-worth-nearly-65-bn-by-2027-premium-research-study-by-th"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

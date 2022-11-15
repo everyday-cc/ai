@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T14:01:00Z
 originalUrl: "https://spacenews.com/leocloud-and-axiom-pact/"
 webUrl: "https://spacenews.com/leocloud-and-axiom-pact/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SpaceNews

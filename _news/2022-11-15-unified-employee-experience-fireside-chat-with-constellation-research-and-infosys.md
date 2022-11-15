@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T14:31:00Z
 originalUrl: "https://www.technologyreview.com/2022/11/15/1063157/unified-employee-experience-fireside-chat-with-constellation-research-and-infosys/"
 webUrl: "https://www.technologyreview.com/2022/11/15/1063157/unified-employee-experience-fireside-chat-with-constellation-research-and-infosys/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MIT Technology Review

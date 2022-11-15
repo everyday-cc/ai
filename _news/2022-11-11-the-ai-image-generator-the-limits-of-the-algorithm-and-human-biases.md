@@ -48,6 +48,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Daydrm.ai's AI Tool, created by a Former Agency Creative Director, can now Generate Creative Advertising Ideas."
+    excerpt: "The Artificial Intelligence tool at Daydrm.ai can now generate creative advertising ideas. This AI tool was created by a former agency creative director who has become the front-end Software Engineer at Daydrm.ai. It's no secret that artificial ..."
+    publishedDateTime: 2022-11-15T16:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29731849/daydrm-ais-ai-tool-created-by-a-former-agency-creative-director-can-now-generate-creative-adverti"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29731849"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29731849"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "DpBc9905D7wGztBVXd+1oKaAP9qWYxVRHfd8yah7tG95w7ixqYbt1Q1hoeoZP29lofkGLqwt6IL5AIDzyPUBLHI+lCfD6NrlKF5BgayFI27cbRwtn56MGJkEklVMaZMqVGtTAh4+GQlda6IQ7dh7UdBbr4/1ABbUprglaICE9KmmrmZ5oJ65mMsK2UkpWsBh/Kt/x3Wqb9xRClWMkqRarCicl/J9IO4JCGMt+rA5UR6iCkHA/oGSIMVKFS/uyD5eQGsTK+1Rta1+QcLw22Iz5Cynf4mw0pk1Z1MuasnfgXZUrcf16kcEDBxjKbnLPj9Z8fpdmM644ZtazTj87pvfpNaPBernSZb4A3KxToOYkSqdXh4F8H6mvJiAV9/0LIN74PadZ1guZqXi3tVHbIXnJAP+u24YR7xxiI9C0XsWQioAZpC+ZKysgm6uHzRkAhIRoXtgSrIY3LatPTg6S/JSDezc6UDxp12h1DE7ztuY3hPvg3Ykn1uZTnJllnTPjuFcJNhzYVT9HYjdamPhi4e06w==;B5IQtSlUdEjqDJM+LHy9Xg=="
 ---

@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Fintech has arrived, and ‘Techfin’ is on its way"
+    excerpt: "Around the time when fintech picked up globally ... Newer emerging technologies in the AI/ML space would be commercially deployed for wider range of usage in digital finance. This would need regulators to adopt newer methods to regulate and supervise ..."
+    publishedDateTime: 2022-11-15T15:52:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/fintech-has-arrived-and-techfin-is-on-its-way/article66141501.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/fintech-has-arrived-and-techfin-is-on-its-way/article66141501.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/fintech-has-arrived-and-techfin-is-on-its-way/article66141501.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/pvn29z/article66141521.ece/alternates/FREE_1200/PO13_BS_stock_market.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "India FinTech Forum Unveils 23 high potential fintech startups"
     excerpt: "India FinTech Forum has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
     publishedDateTime: 2022-11-15T06:39:00Z

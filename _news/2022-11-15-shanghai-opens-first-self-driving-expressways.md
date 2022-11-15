@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T13:58:00Z
 originalUrl: "https://ukranews.com/en/news/893547-shanghai-opens-first-self-driving-expressways"
 webUrl: "https://ukranews.com/en/news/893547-shanghai-opens-first-self-driving-expressways"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Новости Украины

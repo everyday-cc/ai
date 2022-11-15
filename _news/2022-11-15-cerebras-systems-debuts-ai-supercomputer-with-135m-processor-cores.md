@@ -75,7 +75,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 37
+    quality: 43
     images:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/AI-supercomputer.jpg"
         width: 700

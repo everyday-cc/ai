@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T13:31:00Z
 originalUrl: "https://www.technologyreview.com/2022/11/15/1063230/download-tencent-palm-payments-ai-carbon-footprint/"
 webUrl: "https://www.technologyreview.com/2022/11/15/1063230/download-tencent-palm-payments-ai-carbon-footprint/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MIT Technology Review

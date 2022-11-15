@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-15T12:21:00Z
 originalUrl: "https://www.geeky-gadgets.com/ai-supercomputer-15-11-2022/"
 webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-15-11-2022/"
 type: article
-quality: 37
+quality: 43
 heat: -1
 published: false
 

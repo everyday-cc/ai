@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-12T18:59:00Z
 originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/12/artificial-intelligence-goes-vegan"
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/12/artificial-intelligence-goes-vegan"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

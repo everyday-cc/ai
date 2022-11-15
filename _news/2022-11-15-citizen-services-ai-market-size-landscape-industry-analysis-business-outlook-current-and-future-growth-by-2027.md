@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T12:07:00Z
 originalUrl: "https://www.marketwatch.com/press-release/citizen-services-ai-market-size-landscape-industry-analysis-business-outlook-current-and-future-growth-by-2027-2022-11-15"
 webUrl: "https://www.marketwatch.com/press-release/citizen-services-ai-market-size-landscape-industry-analysis-business-outlook-current-and-future-growth-by-2027-2022-11-15"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: MarketWatch

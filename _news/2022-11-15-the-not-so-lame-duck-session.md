@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T14:20:00Z
 originalUrl: "https://www.vox.com/policy-and-politics/2022/11/15/23458878/lame-duck-congress-same-sex-marriage-protections"
 webUrl: "https://www.vox.com/policy-and-politics/2022/11/15/23458878/lame-duck-congress-same-sex-marriage-protections"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Vox

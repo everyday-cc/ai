@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T13:24:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/beazley-and-assureful-launch-industry-first-usage-based-liability-insurance-for-e-commerce-businesses"
 webUrl: "https://insurancenewsnet.com/oarticle/beazley-and-assureful-launch-industry-first-usage-based-liability-insurance-for-e-commerce-businesses"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Insurancenewsnet.com

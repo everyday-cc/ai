@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-inte
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-eye-care-for-diabetes-patients/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Automation and AI are Transforming Service Desks?"
-    excerpt: "Today, ‘Artificial Intelligence (AI) and ‘automation’ have substantially altered how businesses operate their manufacturing lines. In today’s ever-evolving workplace, both Fortune 100 companies and start-ups around the globe are ..."
-    publishedDateTime: 2022-11-15T07:08:00Z
-    webUrl: "https://techbullion.com/how-automation-and-ai-are-transforming-service-desks/"
-    ampWebUrl: "https://techbullion.com/how-automation-and-ai-are-transforming-service-desks/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-automation-and-ai-are-transforming-service-desks/amp/"
+  - title: "AI For Diabetic Retinopathy Screening Gets U.S. FDA Approval"
+    excerpt: "The AEYE Health AI model performs better than human experts, diagnosing diabetes from otherwise healthy retinas."
+    publishedDateTime: 2022-11-15T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/home_image.png"
-        width: 699
-        height: 500
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63729d325ee651502ca8fb83/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "zPLuMUbufKpMmuHVLKAN6vAN/REnAPsPakeMWp655EzOWrFeip0h33luoUSWlTC/4ZZNWr9CpsLGfXkXpzSqFhqDiRI9pn29Usf18tr/hIeoZcSX5kXYPUmkbHOmJ6DTlVJZeXvU+QkTUZaf4JLGojz/tRwURIQcz7Yr17dnkNImS/rpftLLB8f/xSeLGLzDULobS7BchiUsVzdXn6U9mqRw3DAXwd91Zr+fBSOVKjgHdJjAz5jiPE5sNCBYk7uwygCQkxc4epBVmBoUZEgDNzK6vCs8dr5ECqdD2ea1+oef7nsfN8ceI1xfxpkmi0nK86TMSbmHfd8L4YV4l8pFsRf+NQhCQIKSsZOYqX1btNg=;+WmQ3pi4dwYlnjo9EKhYng=="

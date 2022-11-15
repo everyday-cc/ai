@@ -39,6 +39,26 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 69
+  - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
+    excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
+    publishedDateTime: 2022-11-15T13:11:00Z
+    webUrl: "https://www.zdnet.com/article/your-supply-chain-is-probably-a-mess-microsoft-says-it-has-the-answer/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+  - title: "Optimizely Launches Digital Experience Platform on Microsoft Azure Marketplace"
+    excerpt: "Optimizely customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. Optimizely DXP offers rich personalization features, powered by artificial intelligence (AI) and benefitting from ..."
+    publishedDateTime: 2022-11-14T13:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29698688/optimizely-launches-digital-experience-platform-on-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29698688"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29698688"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
 
 secured: "Cil+iJiOhZa0zp8ikz3owUeIhPSWWJdPRB+xS2HgV4XrIvbffjFVb/RauCvFn6PziF3NJkyIovmM2mPNsbbccZw/m7VFqLfsftmabNqHs67DJlB24UvEdprrUijsvrmH3VF2xAjPGdPvkwXJD9cgKI0PxZLDwCVeJieaCX63mmGSUvFqBgMT2TB2hGmYWPYSKDFzZA5poV4wHX0OXC8tsCfwTb7O46Pgau3muSErN5as54Y+rIHde5TYOxFTUR30zsO1yzp3omI2yz/aHwDUVsN0hXWUqR2WsuqLd2tPa9fYGMOch+nWhSP5CQKfp2iCSH7f79mP8eK8xu8hdB0UK9fIHYJLYKoYH2jeuWsxMSM=;ZIoEitnJ+y+tiSNs4RskWA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow
 webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
         width: 970
         height: 546
+        isCached: true
+  - title: "Amazon confirms its latest warehouse robot uses AI to handle millions of items"
+    excerpt: "Amazon has revealed its latest warehouse robot designed to identify items and move them to new locations, introducing the latest AI robot called 'Sparrow'."
+    publishedDateTime: 2022-11-12T08:05:00Z
+    webUrl: "https://www.tweaktown.com/news/89486/amazon-confirms-its-latest-warehouse-robot-uses-ai-to-handle-millions-of-items/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 50
+    images:
+      - url: "https://static.tweaktown.com/news/8/9/89486_01_amazon-confirms-its-latest-warehouse-robot-uses-ai-to-handle-millions-of-items.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "AI tool uses CT scans to identify patients at risk of reduced blood flow to the heart"
     excerpt: "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart."
