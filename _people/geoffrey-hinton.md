@@ -15,7 +15,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=JicYPdAAAAAJ
-  citations: 623488
+  citations: 624233
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Geoffrey_Hinton
