@@ -43,20 +43,6 @@ related:
         width: 852
         height: 447
         isCached: true
-  - title: "Kodiak shows how its self-driving trucks handle tire blowouts"
-    excerpt: "In a new test track video, Kodiak’s autonomous technology is able to maintain control of a tractor-trailer after a disastrous steer tire blowout. The self-driving trucking company said this shows how its technology is getting progressively safer."
-    publishedDateTime: 2022-11-10T14:40:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21254459/kodiak-shows-how-its-selfdriving-trucks-handle-tire-blowouts"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 24
-    images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2022/11/16x9/kodiak_tireblowout_autonomous_truck.636c0e4eae3db.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vT9qjGQRzYnmlHLWWoBWHj/5oZ/OPVv5BRQ0nfAasS1rdnrFW8kBnYSceRDKf8y10gZr5w5yqXTiTEaWTdk8dEUJjfmdBheGLhCA46qnzRTXkARrVhjuEuV1fURx+2MMcBHGu76lwQ0F1xmJG1S50Cjz3xSX6HOfrgNn6Q73v3Nbhyoc9AM/AVwz4geZT5RgEVbi3DqkZg1N9jSfPVKuH/5RrZlHsUkztCCplnVpdbGbpv0Fh2UH0rfiz/0DBF7RRextwd2pnUvMQrYxTPjYIDq2GMKNspXXZb8Y72I1wsEz7LaOt63UVzwHhbvCdmumwWiDI68qZO/dfunIuwMpW+WtvTA+V4XLyCl79xA+N75M7irRX1WPbykN9BNJ3oD9CKenIoRmBRVw1plKA5BzWKA50YMFjypyOIwcfBNg2pA5BF20QwRf9oIvq5u/yjvR2OPrtwP+V2kOEgqT44gZ9EktIX/ESFoRYANO5a1ETPM7vbyKEhrR9Ik21RFTbslU45mUh8VZiYjF5Y99Nmkr0w==;ER8LtNWYGfwJuZ0FW/rwEA=="
 ---

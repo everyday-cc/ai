@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/fintech-startups/india-fintech-forum-
 webUrl: "https://financialit.net/news/fintech-startups/india-fintech-forum-unveils-23-high-potential-fintech-startups-ifta-2022"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "India FinTech Forum unveils 23 high potential fintech startups"
-    excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
-    publishedDateTime: 2022-11-14T20:41:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94864/india-fintech-forum-unveils-23-high-potential-fintech-startups"
+  - title: "India FinTech Forum Unveils 23 high potential fintech startups"
+    excerpt: "India FinTech Forum has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
+    publishedDateTime: 2022-11-15T06:39:00Z
+    webUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/"
+    ampWebUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
+      name: CIOL
+      domain: ciol.com
+    quality: 24
   - title: "23 'high potential' companies selected for IFTA Fintech Startup of the Year award"
     excerpt: "The India FinTech Forum organises consultations, round tables, webinars and meet-ups in several locations and seeks to drive policies that accelerate the growth of fintech in India. It has more than 2,"
     publishedDateTime: 2022-11-14T13:29:00Z

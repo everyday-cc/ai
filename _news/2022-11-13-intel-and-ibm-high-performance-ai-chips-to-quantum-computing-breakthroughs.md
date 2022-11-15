@@ -7,7 +7,7 @@ originalUrl: "https://www.digit.in/news/cpus-motherboards/intel-and-ibm-high-per
 webUrl: "https://www.digit.in/news/cpus-motherboards/intel-and-ibm-high-performance-ai-chips-to-quantum-computing-breakthroughs-65994.html"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Launches powerful Max Series CPUs and GPUs for high-performance computing and AI"
-    excerpt: "With the introduction of its newest product family, the Intel Max, Intel Corp. hopes to compete against rivals Advanced Micro Devices Inc."
-    publishedDateTime: 2022-11-10T14:46:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/"
+  - title: "Cloud Intelligence/AIOps – Infusing AI into Cloud Computing Systems"
+    excerpt: "When legendary computer scientist Jim Gray accepted the Turing Award in 1999, he laid out a dozen long-range information technology research goals. One of those goals called for the creation of trouble-free server systems or,"
+    publishedDateTime: 2022-11-10T17:01:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/cloud-intelligence-aiops-infusing-ai-into-cloud-computing-systems/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 66
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/Intel-Launches-powerful-Max-Series-CPUs-and-GPUs-for-high-performance-computing-and-AI.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2022/11/1200x627_AIOps_TW_FB_LI_with_logo.png"
+        width: 2917
+        height: 1643
         isCached: true
-  - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"
-    excerpt: "Jeff McVeigh, corporate vice president, and general manager, Super Compute Group, Intel \"Dell Technologies and Intel are collaborating on innovative solutions in the HPC and AI space, bringing our various solutions including the Max Series GPU and 4th Gen ..."
-    publishedDateTime: 2022-11-14T16:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dell-technologies-advances-high-performance-computing-ai-with-/2022/11/14/9712380.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "z60N8vl754m3lZ4RH8p8ihgEH80DybRGWNmN7O02K6Gea4TOesPqz/GIfcnHcs4GrHfI3NTv6rPw8gbBViC52RuzZhZ9evSqo0W8cV5f7KcxudfMCdR3ih5eu37NHidpzwkUWbCZbK7yuMopXK3S+bHbRIi8YSzruOaX22RXRCh4w0BRPEo0BfXGTFnv9gS9EeP9pbIK0Prm+8iG4ejqPHIlUe9pa8yVvC6lpWPRKo749v7VU5ZBesf0o/AYImtlvQjOJayb8lWmpEIiunawB2a5THXTNWCKfuRdB1GZLKtLwyKEu3fD73YvnL0UtMhseKfopN7CqasUH0Sr2T9tTNGLpk0dneeUixEwNAOBRIPXK5bAzOM7WNHj+tMTV/4nxCTTKBmYmiW6bDaiTIt3g5GE7fJFftTgjbMWwT9xXDB8qSFfk+6+QVdmF9JuhK5csdFF09D05FNcMmPZsvq0O32Zt6lJVlyLeZ9zVWWZMmTznAdk/2FdYh6+EhrCyr1iM3MuAQhHjTuyYD7EcP0AEA==;HIof5PP2M3yMJgxVYoY7xQ=="
 ---

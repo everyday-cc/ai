@@ -7,7 +7,7 @@ originalUrl: "https://landline.media/autonomous-truck-firm-says-system-handles-t
 webUrl: "https://landline.media/autonomous-truck-firm-says-system-handles-tire-blowouts-better-than-the-average-human/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 800
     height: 800
     isCached: true
-
-related:
-  - title: "Can AI write recipes better than humans?"
-    excerpt: "Researchers are using artificial intelligence to create recipes, complete with appetizing photos and back stories. But Thanksgiving poses a challenge. (Via @nytimes.)"
-    publishedDateTime: 2022-11-10T13:31:00Z
-    webUrl: "https://www.seattletimes.com/business/can-ai-write-recipes-better-than-humans/"
-    ampWebUrl: "https://www.seattletimes.com/business/can-ai-write-recipes-better-than-humans/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-ai-write-recipes-better-than-humans/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "D1fgFckg8uHFtVZRx6jOwu10+d7fQC8qrWmymXeisao/v/nNO9uHxGykVg1MBL7EPidJ+sZGqv7lFB525TymDiYQuCVi018iEM2KDilJJHn3f80984S66PVpwIM01rlFrzwEiaowXwbe5e5nEP1HlVMKWp99CZHeqJY6PfErsrXYaH7i/4OTHzfFzDfg9h4+9xZoaKkMMRDv2apb0dvVv2IotEwshCh4gjbRVm5UBLlRwinX67pGMlONxnfyJBbyZqqPoJjrLHZXevKRpBiFp7vEU41zAsvw9zwoQF+fr/gaSozlKYK62M/kgLqRfj4LEo3V0dEdHlGKHwNOBI/+AkI3yPzLwsiOaZM1weHU572+BJMrunfreItcBxu59hacBwoy7HCGnBJH5+b0O/SMfGmD25TxDrsi73fjS2Pvnd+0iUgIgFiyiW/aMjNxez6kZq//ni/GlEO7XD5tOruu3g2gXdS80M78HewlCVFkzEycS014omLKXjSVZ0jAT+wLP9WiCTWv/dMrW9erf6ftKQ==;hqlCr0LNc7iHnrcdzxOFjg=="
 ---

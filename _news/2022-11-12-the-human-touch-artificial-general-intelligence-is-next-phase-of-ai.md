@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Intelligence/AIOps – Infusing AI into Cloud Computing Systems"
-    excerpt: "When legendary computer scientist Jim Gray accepted the Turing Award in 1999, he laid out a dozen long-range information technology research goals. One of those goals called for the creation of trouble-free server systems or,"
-    publishedDateTime: 2022-11-10T17:01:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/cloud-intelligence-aiops-infusing-ai-into-cloud-computing-systems/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2022/11/1200x627_AIOps_TW_FB_LI_with_logo.png"
-        width: 2917
-        height: 1643
-        isCached: true
   - title: "Merging Artificial and Human Intelligence to Pursue Payment"
     excerpt: "Perryman will present \"The Marriage of AI and HI in Pursuing Payment Integrity,\" and will be joined by Pollack to discuss how to avoid common pitfalls that arise when implementing artificial intelligence and machine learning payment integrity efforts and identify best practices for the integration of machine learning and AI techniques with human intelligence."
     publishedDateTime: 2022-11-10T20:27:00Z

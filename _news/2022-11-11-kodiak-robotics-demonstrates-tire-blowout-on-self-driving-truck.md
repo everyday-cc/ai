@@ -7,8 +7,8 @@ originalUrl: "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates
 webUrl: "https://www.truckinginfo.com/10186742/kodiak-robotics-demonstrates-tire-blowout-on-self-driving-truck"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Truckinginfo
@@ -39,20 +39,6 @@ related:
       - url: "https://www.reuters.com/resizer/404WA8ywFMct-ZdPgdn5toAYbnY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A4XQ6JS6C5OD5NUTMYQKMW35GI.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Kodiak shows how its self-driving trucks handle tire blowouts"
-    excerpt: "In a new test track video, Kodiak’s autonomous technology is able to maintain control of a tractor-trailer after a disastrous steer tire blowout. The self-driving trucking company said this shows how its technology is getting progressively safer."
-    publishedDateTime: 2022-11-10T14:40:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21254459/kodiak-shows-how-its-selfdriving-trucks-handle-tire-blowouts"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 24
-    images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2022/11/16x9/kodiak_tireblowout_autonomous_truck.636c0e4eae3db.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "W0EVqQmqmuv2NUfa84NlP8mZhBTf3b5ClQqoKcHkm48dvpfZ/w3P61Up+awKczc8RD0Vo1T5VISMjLxfFT9X+eVBDtjpqxr6Aau1N4C++yL7Qc8xhKDJlpcFyRwScdhdGIshfAr4nB7YziHtXBcvL5Kv9mjf8Rq2h348ezxtIiXQaxY/U22zgb05Ml4JxT0qWOe7TtlwhhGcENndAUIQw9mB2VkD/oth2oGCmSnhoxuQz3nt+RZpp7lm4FbaARbURsHz9989RTroNd3XcpIHepGRfGyYzUkuT4foo6882T31lZhqBXHxWlAZ9GXFaNAwJMlvpkfdVeV8iZj3NT+ZUld7OUnkmsKIkppZKvZSSGVLZQY3XszKZIWnrwmt5SMd8dwDuHhZ+hH5hBka/QqjVo80WlMJZ7q+TAnfyzxuwjUOkbbeFi5gzCA/YcCAqZDdn6sIbDVIz7TIVgiJcTjqpQapuntymZb55kU5LZhUJGZQCMFGhptyvDBemfu70HDVPkrUy0YcRQWsXEhPQ6F9dg==;0NmyroW1+5XMkvy0dCzYZg=="

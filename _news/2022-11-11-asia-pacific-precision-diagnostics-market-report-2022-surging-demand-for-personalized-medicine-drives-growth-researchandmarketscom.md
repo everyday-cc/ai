@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS Managed Services Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029"
+    excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “AWS Managed Services Market”"
+    publishedDateTime: 2022-11-14T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-managed-services-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size Share Trends Growth Demand and Competitive Analysis Insights 2022-2029 | DataM Intelligence"
     excerpt: "During this bear market you can follow full-time trader Chris Capre & get his options trades signals in real-time. Click Here to See His Next Trade! Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49."
     publishedDateTime: 2022-11-14T22:05:00Z

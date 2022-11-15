@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS Managed Services Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029"
+    excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “AWS Managed Services Market”"
+    publishedDateTime: 2022-11-14T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-managed-services-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Dumping Hopper Market Size 2022 Global Industry Revenue, Business Growth, Share, Demand and Applications Market Research Report to 2029"
     excerpt: "Global Self-Dumping Hopper Market research report presents an In-Depth detailed overview of the current market"
     publishedDateTime: 2022-11-14T06:13:00Z

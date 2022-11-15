@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2022/11/10/using-data-and-machine-learn
 webUrl: "https://www.cnbc.com/video/2022/11/10/using-data-and-machine-learning-to-help-companies-recover.html"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-related:
-  - title: "Overcoming Challenges to Deep Learning Infrastructure"
-    excerpt: "With use cases like computer vision, natural language processing, predictive modeling, and much more, deep learning (DL) provides the kinds of far-reaching applications that change the way technology can impact human existence. The possibilities are ..."
-    publishedDateTime: 2022-11-10T13:33:00Z
-    webUrl: "https://insidehpc.com/2022/11/overcoming-challenges-to-deep-learning-infrastructure/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
-        width: 690
-        height: 460
-        isCached: true
 
 secured: "F5YVZX2c+Y86OnfZqKdc4wAbyJxiJPHdvvHDPI9DBMqUFhLBrU/PEOXDLXzekS7OYL/WbyZZoZi8vsUKYAa9OCBVcChwGuifg09qY9jKpEQnHTYdsB6yS1rD9Z5sPExaJ1DHUOid3SY6xip5JaEDSpWXXDjXRXjbatbF8kcU4aBuTTty3r4/PjaijJRkwUFmgtUWTP4hyD92Hr2e+gERIYL8/BKqM3Jo/6eo0FDbLJ0C2jh5uoXv0Yg7nOmGaad68MjdY2Y8hYJLdmzCuPI498/sfg2oyPyf4ldAVmTFXE/2ImAR+fxAxfyVnO/RfnlTFp41shztsbkyjwGsymdX3UCqRlcrV/TUmtPraSU50C6ZsbtUnUpK0bqNgi8QLNjObF9g4NWo3Y2J1pJ9dXjotBSuTvkFis2x1adV3AhSrw9UamKZz1f9T7stgnj+viy8DokXVEEHigPhOhFx4b0ww1cyJp9vN4LwSfjxDTPEDs1ssg+9V8noRnS+g6GUems6lKQ3stymAk99ZlAVyxDP5w==;hMKidFqPgK7YFVotLZfcNQ=="
 ---

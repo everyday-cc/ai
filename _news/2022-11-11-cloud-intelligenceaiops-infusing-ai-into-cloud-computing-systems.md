@@ -29,29 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "The human touch: ‘Artificial General Intelligence’ is next phase of AI"
-    excerpt: "AGI is the ability of an intelligent agent to understand or learn any intellectual task in the same way that humans do."
-    publishedDateTime: 2022-11-11T21:51:00Z
-    webUrl: "https://www.c4isrnet.com/cyber/2022/11/11/the-human-touch-artificial-general-intelligence-is-next-phase-of-ai/"
+  - title: "Intel and IBM: High-performance AI chips to quantum computing breakthroughs"
+    excerpt: "Intel Max Series product family debuted two leading-edge products for high-performance computing (HPC) and artificial intelligence (AI), while IBM unveiled 400 qubit-plus quantum processors this past week."
+    publishedDateTime: 2022-11-13T05:19:00Z
+    webUrl: "https://www.digit.in/news/cpus-motherboards/intel-and-ibm-high-performance-ai-chips-to-quantum-computing-breakthroughs-65994.html"
     type: article
     provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 45
+      name: Digit
+      domain: digit.in
+    quality: 52
     images:
-      - url: "https://www.c4isrnet.com/resizer/awehFlIS2QrsUaNW2miDBlrWAYc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/GTEUDWH56JAEPE3NVL3MWEG3FQ.jpg"
-        width: 1024
-        height: 640
+      - url: "https://static.digit.in/default/1033f8fa57d2814cd34b4ee6eb797dbee7d8a068.jpeg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Merging Artificial and Human Intelligence to Pursue Payment"
-    excerpt: "Perryman will present \"The Marriage of AI and HI in Pursuing Payment Integrity,\" and will be joined by Pollack to discuss how to avoid common pitfalls that arise when implementing artificial intelligence and machine learning payment integrity efforts and identify best practices for the integration of machine learning and AI techniques with human intelligence."
-    publishedDateTime: 2022-11-10T20:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-merging-artificial-human-intelligence-pursue-payment-integrity-multiplans-/2022/11/10/9711018.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "23/uLQUPEGwsuwLIo6DBL+bOASLqIHtjf2q/bwn+q455G9qlbR8wPoh6hy1SFEtjckhdvfXlkSDzX3IoYGL3c2zQ65PwdHyr+Nl58677WEFO5VMbB9i9siPC787ske6g1v1cW8KXor0UfBDYn/pUFOws8rSB07mbYSEGftkedCeZ/w9B+JTFFiN2TM6K2w0ffeXmWCLO6zBDdNLdAxpffUQ3MHxd/qp2qmr+eiEJRWRDtdawgG95IpR3jBVEQBRfs0Uo0QBCoqz1MJAA3mtJcjTIFY4bL/Tky7ZfMJ4SLz3jEjBsVYpk6yDiOzsjSVcUs5d1g2+4yOk+NzlxF1aTVo9+lz75MDUHYYOsW60EbN4=;Fpn1meEgH7Iq2sAwCpwdxw=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry"
-excerpt: "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ..."
-publishedDateTime: 2022-11-10T17:41:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
-webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
+excerpt: "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,"
+publishedDateTime: 2022-11-10T17:07:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: WDAF-TV
-  domain: fox4kc.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -34,6 +34,6 @@ related:
         height: 315
         isCached: true
 
-secured: "tmmc7T3XEskaGoHPBZy71o+PqX7a/HJLOtdPQDJR18kdvPxeux9PRTcjkdNOmjIrip2UURxZY0TplraZstWFvqNiFA/oLFeDl6RkdX27fXepRnKsNqAKvT2PoXLyyjPibeGGVFNPyTlKkox7lWsERwHLc7ACiZnQxPCj3+6lheHExodYFDiEWYV0SD8n5doSRjSSG6m2oSV5YrGCccI2a1/Gr90EnC4tCqy+zZA+Xtj+9Hly1NAFVPu0fiTgJdUXrCuwuzZrvip97QKjoFmvMfAgxBLN29FUdA3cW1emBF+S8OdNa28yfyO6WoRiHq/yz6C9bAgs8QZRn9QjTtElykfklwgod71eWwd5glel488=;5yHeL9hkklnVaKjzIgpvMQ=="
+secured: "CX8xtkhH/GguHt9i43NWqJLa/fGDmhL04MrVNv1K1afDhbl6d5Xed9alDowxqEi2DoQSp17fcD1XQIJdCWk0lol89nmoCL1tk8gXsmoteHU5nrmqB2MDMokJjgEBxc1sjL5Rq4qxPgoZRnMTjlAqwuibg0eZDbDDocR45uzqoGFPSXMbWwSt4nR19WNU8R/JbCZ7MKWI/3ofPzE4PmuqfXgj6GJMffEUEVn0ebiH6WEgWTg+eGJsA5a1VfAhx61cH+Ic5QZCWaxgtjs+jwB3ZQiwMJFQcKjJLA4XZHbNWwiaMk3YzIuLzZ1cJ9gAu77lyHJB6vNCNYYOma70qi3OuNQO5eOAow3hmFAnpMn3Pdw=;dRzoukut3mjFbwzpabD+Iw=="
 ---
 
