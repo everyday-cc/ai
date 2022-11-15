@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/"
 type: article
 quality: 72
-heat: 103
+heat: 102
 published: true
 
 provider:

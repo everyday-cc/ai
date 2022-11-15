@@ -1,30 +1,28 @@
 ---
 category: news
-title: "New speech recognition tech uses facial movements to transcribe mouthed words"
-excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
-publishedDateTime: 2022-11-14T17:24:00Z
-originalUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
+title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
+excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
+publishedDateTime: 2022-11-15T04:48:00Z
+originalUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
 type: article
-quality: 73
-heat: 103
-published: true
+quality: 53
+heat: -1
+published: false
 
 provider:
-  name: Gadgets Now
-  domain: gadgetsnow.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
-    width: 800
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?89176"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -44,32 +42,23 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Facial recognition technology has shrugged off protests"
-    excerpt: "Amazon issued a one-year ban on police departments using Rekognition, its facial search technology. And Microsoft said it was waiting for new legislation to be adopted before selling its facial recognition technology to law enforcement organizations."
-    publishedDateTime: 2022-11-14T17:30:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests-11668444305981.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html"
+  - title: "15,000 facial-recognition cameras to monitor Qatar World Cup – Organisers"
+    excerpt: "All sixty-four matches in the FIFA 2022 World Cup tournament starting on November 20 in Qatar will be monitored with nothing less than 15,000 cameras equipped with facial-recognition technology ..."
+    publishedDateTime: 2022-11-11T18:22:00Z
+    webUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
+    ampWebUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 43
     images:
-      - url: "https://images.livemint.com/img/2022/11/14/600x338/Flap_1_1577986738736_1668444543951_1668444543951.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2022/11/Qatar-World-Cup-logo.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
-    excerpt: "Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies. Facial recognition systems using biometric data will not be allowed until a specific law is adopted or at least until the end of next year,"
-    publishedDateTime: 2022-11-14T18:33:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
-secured: "5nfqAlmAphT4C3fQEPDpdZkyZb/YhTWEVX0w1QGyQF9XweA47HfUy7PIKrEEYi6UOsFu4oyumDsfTPHlhH2ymKvdhp+ufX1XM5x0gBitJvwnoqkpdGxwztWB7ciYBBDAq6eREWQy0tik+geTU8wHTB+K2cs6pkZpXJEFTFaykPUPfzxLR/sPye8M3ZAOjG8NEgd7zm1YbGnpLhohI7CQG50ZY3aQrZY1ciWEvezXe1PQNNcm8OvUDNgd/BdccHa0mbLWv+Xblhxa6VXPuqNizHSp4+c+nUf08tO9LxtZFNTYXwGU+5mEDKNfI6GOQENyBvJtaEnihaFgATsSgzptaBZWCdRQwMiusyWTudLf5jOStikZ86f2tVpib2huwuM7LOQSm3Qjrw0AgGGtZ+liA6zgoX0Jejl04ru1QuEi4JwXsJnaW/CJ27Ehy3z1LNa34sJnVf4ebr8yYtPs9SHkziL5EXDnEOCK+AFFkFukALTazW71MYKx5g/KMa/qbU5R9AE9bbwuCd1Iuu82YyXO9g==;q0XbAgq1QF+Y1xclwKkHRw=="
+secured: "iBA0iSG6yl+4GGrsbNLAx6oEY1bCAC2TCc2ER6ZLs7u9DuZlR3V1ETZ1bR/YSGbWnH5pkY3uGnuXOFF5n11GNRKW5T4y94LnlqwUU2oP2q3fuI1Q9v2CNlkDTsXaFJOREOLj4AkaZpdxmYmcylODoBDVTIF7nvczHB5U5ehnYmKA36UXYFPyP8ctrfqgLnAMzTe6lorYzZhdZp03xGFrzQyW/mJL1U/gA8bRcHlTud/rnwSinVu8GDdg2xtxQyXUnIvTCX858lotbkpk7xXVsafuyLVFTTzwapeIsN/6THqchYRCpp2yZ75Wuz3bXBxJP08DrFPK9N7gT+m1r22COkzeNBov21TJLwJbnRYuQWE=;R209HgD3T5qNGyTbxy7QwA=="
 ---
 

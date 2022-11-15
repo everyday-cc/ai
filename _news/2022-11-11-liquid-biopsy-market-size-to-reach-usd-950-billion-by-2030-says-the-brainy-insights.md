@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Interventional Radiology Market Is Projected To Reach USD 39.34 Billion By 2030 - Reports And Data"
-    excerpt: "Reports And Data The global interventional radiology market size was USD 25.10 Billion in 2021 and is expected to register a revenue CAGR"
-    publishedDateTime: 2022-11-14T13:58:00Z
-    webUrl: "https://menafn.com/1105178308/Interventional-Radiology-Market-Is-Projected-To-Reach-USD-3934-Billion-By-2030-Reports-And-Data"
+  - title: "Global Fintech Blockchain Market Size To Grow USD 8.7 Billion By 2030 | CAGR Of 43.8%"
+    excerpt: "Blockchain technology is transforming operations in a wide range of industries, including finance. Blockchain and fintech are emerging as the most promising technology pairing, with the potential to completely transform the fintech industry."
+    publishedDateTime: 2022-11-15T03:55:00Z
+    webUrl: "https://menafn.com/1105180612/Global-Fintech-Blockchain-Market-Size-To-Grow-USD-87-Billion-By-2030-CAGR-Of-438"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 0
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?89176"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "riR3eR6FkRjhCZumEcydAg+Gtd7S+A24rm1oEyvFtzOdKW7IgAZt2pOiMM3rmqvDaSqqOIG3Bs0I2V3d0QsNYuLkThkue+Tax5Zn7viFjZ3lJoSw48dliSCh5mtLcHE2Z2xePIQ3oQ89fNPfJ5ig8yQLPQoGOwkhzD9eruGPqwaC95C6h3LAHeYabteheQwEncbQwklCTzDDKHIBwQ8KEBPmJyIKN5dAP71ocMwWXP75CgNuHoiPH8AtpYBI3PH1rie9m4nrCIk4nycp9Osa2+Lvmu7vMJv9b5/+hI8YGZSUV7AwN1iS2/0zpamFMhvPcFAzwcUYSkk0jIzgrUc+Y3toinBWS/fE/kNt6LRuw2s=;erDGq0YPAs6k96uZD6avUw=="
 ---

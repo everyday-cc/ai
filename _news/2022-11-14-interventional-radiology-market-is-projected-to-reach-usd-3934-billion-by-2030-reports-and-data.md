@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Liquid Biopsy Market Size To Reach USD 9.50 Billion By 2030, Says The Brainy Insights"
-    excerpt: "Still, the industry is moving towards a multi-cancer strategy utilizing NGS with various machine learning/artificial intelligence (ML/AI ... frequency of cancer and strong demand for customized therapy. The blood sample segment market size will be 0. ..."
-    publishedDateTime: 2022-11-11T06:38:00Z
-    webUrl: "https://menafn.com/1105166032/Liquid-Biopsy-Market-Size-To-Reach-USD-950-Billion-By-2030-Says-The-Brainy-Insights"
+  - title: "Artificial Intelligence In Manufacturing Market 2023 Expected to Reach Significant Rate by 2027"
+    excerpt: "Nov 14, 2022 (The Expresswire) -- As per Market Growth Report, The global Artificial Intelligence In Manufacturing market size was valued at USD 915.93 million in 2021 and is expected to expand at a CAGR of 58.59% during the forecast period, reaching USD ..."
+    publishedDateTime: 2022-11-15T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2023-expected-to-reach-significant-rate-by-2027-2022-11-14"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?132023"
-        width: 278
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Spinal Surgery Products Market Is Expected To To Reach US$ 15.5 Bn By 2030"
+    excerpt: "As per industry analysis by Fact.MR, a market research and competitive intelligence provider, the global spinal surgery products market is projected to expand at a CAGR of 4.3% and reach a market value of US$ 15."
+    publishedDateTime: 2022-11-10T16:28:00Z
+    webUrl: "https://www.medgadget.com/2022/11/spinal-surgery-products-market-is-expected-to-to-reach-us-15-5-bn-by-2030.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 2
 
 secured: "hAVNjdw8RcPR1a+cVU3oF9w/NlXKRPGZxcn8Eoy7387BOQUF3xxNADt+5/2KPjT/WAZcfieWGNt4g21nGU7uMkRIxL4dhadqliK5SExuYk4O3uqtQB5PLy5tg72TnpyP5nhGtYg060RaMeK3z+QWMAcXNyBnb0IBn/lD/o5LXHaaoBmJmYP1dUWv5i4NmnfMTBEKhZkaLDBOvOpnGV/hMaYLfnFRpq6wQ6FGZL0RBSWOn0fjr/RvcBvw+bTg3LsLwaRbmJIQaAD3dMKLYpTMf+sXpiEs+htYPDewjaNmJjsfgzpVyEyC8kjgo1xaXjfaIKYAoHcthGS9WTU1lHv4Fi4Ou9bCdrIiHITGBfL67dnZyT41Hg5QgpbluzVZmqy9NX3QXQUiqfTS6rjz/72ozqJ+80rsxT7vkSh5Gbzo/LAnNaa6GvOo2nDD5SHwz0TZEJXFVfIM2SsSq0JYPHrBCvzIeu1lyKrQ9MNXwiO70VfCQXfXf2Cr0vRG+4K+HWWLlZpZ7RG4ar3ggO7WIGESfw==;lZF2KAoaQKiV+QTOzAkClQ=="
 ---

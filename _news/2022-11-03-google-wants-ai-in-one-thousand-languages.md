@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Google Wants AI In One Thousand Languages"
-excerpt: "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ..."
-publishedDateTime: 2022-11-02T19:35:00Z
-originalUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106?refsec=topics_afp-news"
-webUrl: "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106?refsec=topics_afp-news"
-ampWebUrl: "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106"
+title: "Google wants AI in one thousand languages"
+excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+publishedDateTime: 2022-11-02T20:08:00Z
+originalUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
 type: article
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "KpreE5ePMlG1SbLblDtujmORbhWjeN+7Tc0Hrb2F3Rf7kEonT1a6DifWriiQZv/S5cOw3GJ4mwNsO5Bo4H5RODG0G3BAKj3tQMXlofvIpux8n+FV2+f2WF+tW73QfVWT9ii6GI/QKt6x1/SGgnnxjK4sWC6nB0+BMHMbmd273QVxmxw5bLfRN6lkBCMVgwXGGSoh15+kcHQ5PNRIk9eQ2fHOfupPCK5JonyHxp1tOdwHeB22Ff44Wb0JK0uzLjhQz8B2HyJHyyDGWZg6BIXvsbFhuRxbIbOcd+ub4BF1WgT3ibxGdcLoCSF7CLpuu0yaBIhHwsoBx5ZbneQbajfL7ceZdR1rzUCiabENOGSPJfc=;dWhf3REbGjVSz2z6tB+RfA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "TWLYzqvxhIlBJCD2la7dkZzk4lUrmD2yzS3j+n078dDT5vkSzv7z5BTmM75xtPZV2fnNzm7USkjOleSEFPbf0oSHdqxNGq6OwKv6FUqyShEcmf7pu54aUH+Ea+QKRYAN7nVb/ULBldUa5HNauhO7KBQMEmdmic2qkXb8r0PNTfx8ATQs413sGEGeek54g9oqCd0yprOWwuyiDZaydX6jjCf0fSxjCb0PZYTaq8IkZr/FVA2hekx/pcF40fzNdh5eVHN5hpljwPXiBREkd8CRf9i8SdFcqw0d2g6+Zfl28brj8iP7iOh425iH1Ht19oswYEsowPik0qX3alWe8k/vqUHI3B/+KJhxdujtKbFnbq8=;r3pAOwE/JU+b1YNggEYoEw=="
 ---
 

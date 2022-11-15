@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
-      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
-      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
-      "publishedDateTime": "2022-11-14T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-11-14-natural-language-processing-nlp-software-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026.md",
       "title": "Natural Language Processing (NLP) Software Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Software",
@@ -85,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words.md",
+      "title": "This new speech recognition tech uses tiny face sensors to transcribe mouthed words",
+      "excerpt": "Researchers in South Korea have designed a new silent speech recognition system that can accurately recognise words by tracking facial movements. The technology aims to help deaf people, who cannot always communicate with others using sign language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words",
+      "originalUrl": "https://www.euronews.com/next/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/18/57/56/1000x563_cmsv2_13dad030-a6a4-5085-af77-e1929df7e760-7185756.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words",
+      "publishedDateTime": "2022-11-11T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -598,25 +597,34 @@
     },
     {
       "path": "_news/2022-11-03-google-wants-ai-in-one-thousand-languages.md",
-      "title": "Google Wants AI In One Thousand Languages",
-      "excerpt": "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ...",
+      "title": "Google wants AI in one thousand languages",
+      "excerpt": "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/google-wants-ai-in-one-thousand-languages-01667417106?refsec=topics_afp-news",
+      "webUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/google-wants-ai-in-one-thousand-languages-01667417106",
-      "publishedDateTime": "2022-11-02T12:35:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp",
+      "publishedDateTime": "2022-11-02T13:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

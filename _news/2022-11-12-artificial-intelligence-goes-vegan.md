@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/artificial-intelligenc
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
 type: article
 quality: 63
-heat: 83
+heat: 85
 published: true
 
 provider:
