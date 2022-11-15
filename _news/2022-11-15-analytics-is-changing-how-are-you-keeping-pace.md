@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "TigerGraph Cloud adds graph analytics, machine learning tools"
+    excerpt: "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite."
+    publishedDateTime: 2022-11-15T19:43:00Z
+    webUrl: "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html"
+    ampWebUrl: "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 95
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/16/10/hands_type_on_keyboard_of_laptop_displaying_bar_chart_data_metrics_analytics_review_by_peopleimages_gettyimages-1179754541_2400x1600-100857891-large-100931301-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "TigerGraph brings machine learning and analytics features to the cloud"
     excerpt: "Performing machine learning (ML) directly inside the database is becoming an essential feature for databases. In the best scenarios, it can save the time for exporting the data to a separate function, a delay that can be substantial with large datasets. “"
     publishedDateTime: 2022-11-15T14:00:00Z
@@ -50,29 +66,6 @@ related:
         width: 861
         height: 483
         isCached: true
-  - title: "Webinar: deploying analytics at scale in financial services"
-    excerpt: "Speakers from AWS and Teradata will come together to speak about the challenges of deploying analytics across organisations within financial services"
-    publishedDateTime: 2022-11-14T16:52:00Z
-    webUrl: "https://fintechmagazine.com/articles/webinar-deploying-analytics-at-scale-in-financial-services"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 26
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/3bde99c6e7ae57496070410ba243f8b1:67217f0a99fa019d78b17cbb145747d8/mpu-300x250.png.jpg"
-        width: 1800
-        height: 1013
-        isCached: true
-  - title: "Analytics Leaders Need to Navigate the Technology Behind Decision Intelligence"
-    excerpt: "The next major innovation in analytics is Artificial Intelligence (AI). Applying AI across Data Prep, Business Analytics, and Data Science is what separates decision intelligence from traditional business intelligence tools such as Microsoft Power BI,"
-    publishedDateTime: 2022-11-11T13:09:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/11/9711436.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "KI7FCOyCoudHqQEHnPGfsOuj1f0YTFZ/jqzIQ1XOwt4x+nzTuP41xMU3CRW1YWj9y1GGHWRRHjZNc2dEQHLPrH8HqMvYqcXHFvV2Md51HAjsq+ahUHk+CFemz1Z6JnrZnvUDbpW3m3hYrxtQoPSB2lYq3rANuALS5jgvgOxi6WPxA3iNbqREyTwRAWvmcxB32aRNLjX7Ch/mD7mNvlHC4xYbiantbceGqcgqFEXz8fXw7zBspTLOYKeXLBs78iGINAZPfSKBUFmt38ocL738qrep58ynIFt9b/hQDx7Lk4DZayXL7+2cunhKteMYUM+qUJcn0naFryIfw2E5JKHAgPnn/mnc0F2nya6mH2rK1z9le/1tyGCN/9LX8H8pDb2uc92ZIfNTbqHCIkT4DyJ1Q5WRyDu/MxZ6FVxk0q7oO+SkJmBQ30HW0u9Whhrv7oUJ0mvhDwA6dy+fzmWFVzp0gCQ61BljNIGLCR8pDLHTU1wLMRMx5zKg7BqdIj6QL1ki2zbL5luJi+cHgCwSXw/MhA==;Eet0RSvg4zcxelAhB+wRJw=="
 ---

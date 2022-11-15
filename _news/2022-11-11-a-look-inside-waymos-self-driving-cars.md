@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Tiny Hurdle in the Way of Driverless Cars Going Mainstream"
+    excerpt: "Consumers are still skeptical that self-driving cars can actually be safe enough, which to some degree makes sense. Autonomous-vehicle development has faced more obstacles than originally anticipated in the past few years,"
+    publishedDateTime: 2022-11-15T16:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "Waymo's driverless robotaxis can now be hailed by ANYONE in downtown Phoenix - a major expansion - after the company secured a permit to charge for autonomous delivery in ..."
     excerpt: "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to all members of the general public in a significant expansion of the technology in a major city. The news comes a ..."
     publishedDateTime: 2022-11-12T00:51:00Z

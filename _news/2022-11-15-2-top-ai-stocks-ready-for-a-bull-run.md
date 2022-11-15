@@ -1,31 +1,21 @@
 ---
 category: news
 title: "2 Top AI Stocks Ready for a Bull Run"
-excerpt: "The market potential for AI is projected to grow by 20% a year through 2029. Alphabet is using AI to help improve its Google Search engine for consumers. Ansys is using AI to improve its engineering simulation software. Artificial intelligence (AI ..."
-publishedDateTime: 2022-11-15T10:47:00Z
-originalUrl: "https://www.fool.com/investing/2022/11/15/2-top-ai-stocks-ready-for-a-bull-run/"
-webUrl: "https://www.fool.com/investing/2022/11/15/2-top-ai-stocks-ready-for-a-bull-run/"
+excerpt: "Given how complex AI is, it is hard to separate the pretenders from the real innovators. The industry is expected to grow at 20% annually through 2029 and hit over $1 trillion in annual spending worldwide."
+publishedDateTime: 2022-11-15T09:30:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-3"
+webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-3"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/708978/car-tech.jpg"
-    width: 2000
-    height: 1500
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities"
@@ -45,6 +35,6 @@ related:
         height: 675
         isCached: true
 
-secured: "H0Eyl8hH2BV3BwyN1FeUhP7EwNlgf751yNmIqsAMDlb3l9PxWLfR6ooHml27Hq1lYlaVCfhcplXlRPvzUujOjeMnywT/sEumJeR0C6jf8+wf0Sj87Y3bLbKEuThFT+o9XDQUut0Xe9Rf2XKRufyZiJvbbsZxEsjpN0AP/ghwhsuiZ6pb7h+DCJUW4VdCcZS3JAJxB6NP1yHrD9Pte7TI8eF5TJTIgsiCHd+i/n0C/K36NlVxAG/6457TA3G9hWtcetCMRPTexSlzZaRDVHn1o6mSQiv+mn+LyKCvzPtKf5pAM/89uEWmMfzvPLQMo0iSYBsHCCpXSR0OKEez98Bc0EKquDMXhIis/a+JIt0o+P778JWC8eMcqlv3rXbvUAn47piONz987J5VFG2FTcNgJT+G4Fpcs3wppkXs5yKp22G7yoP2wzpyb4SpzrmcX5wXwBjR32k6wxm+1XAvydc9eikWPY7fdrCRHSwFgaJ3K3OwCVhZvgCvHiN41nAQRO/4f0L+Mv/WIakELqU0gV0oVg==;tO2Q1xcgKoJ0ff3K1jZStg=="
+secured: "ZDnRHDKtUWohI5Y9BW6nWbXmzu7byw6ZAsQ37/9XeOn6Vz2e5g8PIGsIs3z6ZfcVh+sAluo9mxJpv5vAGVFme/fn9vSTNehePMP4z7woPf+aB+ac0Xzz5oZuqZePk2MEOCJ9oNlvhe8g6D4ll2AeolIarNmSSycUeb3hNqceqL6mXwJ77zECyFUSocyA0KkS+KncGwtfbvIUjM62RSZrLfzFGbtn7Cm21AUZcc8HkuxAclzCInqlBF3R0BQQ8vWNTmtbL8NghJVNmmBGDjajX2M8UA2zD4beD5tV/w9blig3s2yiLxH6o9+VVq93/8OgFuXDbpG1Dv4n0k0ihPzxb+Ib4ZKhKe7MrEIst2xV6G8=;M49glFs+bz9xlU4H0ieqEg=="
 ---
 

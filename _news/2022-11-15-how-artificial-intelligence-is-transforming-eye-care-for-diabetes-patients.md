@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AEYE Health gets FDA clearance to use AI to screen diabetics in hopes of preventing blindness"
+    excerpt: "That clearance could be a game-changer for the millions of people who are at high risk of diabetic retinopathy."
+    publishedDateTime: 2022-11-15T17:30:00Z
+    webUrl: "https://www.fastcompany.com/90811773/aeye-health-gets-fda-clearance-to-use-ai-to-screen-diabetics-in-hopes-of-preventing-blindness"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 6
 
 secured: "zPLuMUbufKpMmuHVLKAN6vAN/REnAPsPakeMWp655EzOWrFeip0h33luoUSWlTC/4ZZNWr9CpsLGfXkXpzSqFhqDiRI9pn29Usf18tr/hIeoZcSX5kXYPUmkbHOmJ6DTlVJZeXvU+QkTUZaf4JLGojz/tRwURIQcz7Yr17dnkNImS/rpftLLB8f/xSeLGLzDULobS7BchiUsVzdXn6U9mqRw3DAXwd91Zr+fBSOVKjgHdJjAz5jiPE5sNCBYk7uwygCQkxc4epBVmBoUZEgDNzK6vCs8dr5ECqdD2ea1+oef7nsfN8ceI1xfxpkmi0nK86TMSbmHfd8L4YV4l8pFsRf+NQhCQIKSsZOYqX1btNg=;+WmQ3pi4dwYlnjo9EKhYng=="
 ---

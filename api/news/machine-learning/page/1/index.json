@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
+      "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
+      "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
+      "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/16/10/hands_type_on_keyboard_of_laptop_displaying_bar_chart_data_metrics_analytics_review_by_peopleimages_gettyimages-1179754541_2400x1600-100857891-large-100931301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
+      "publishedDateTime": "2022-11-15T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m.md",
       "title": "Making data available on demand for AI and ML workloads, Weka lands $135M",
       "excerpt": "The company has partnered with leading cloud providers, including AWS, Azure, GCP and Oracle ... s first multi-cloud data platform for next-generation workloads like AI, ML and HPC,” he said. By 2026, large enterprises will triple their unstructured ...",
@@ -10,7 +65,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -51,50 +106,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models.md",
-      "title": "Solving Brain Dynamics Gives Rise to Flexible Machine Learning Models",
-      "excerpt": "MIT researchers built “liquid” neural networks, inspired by the brains of small species: a class of flexible, robust machine learning models that learn on the job and can adapt to changing conditions,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/",
-      "originalUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/11/15/solving-brain-dynamics-gives-rise-to-flexible-machine-learning-models/amp/",
-      "publishedDateTime": "2022-11-15T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Machine Learning",
-        "AI"
+        "AI Hardware"
       ]
     },
     {
@@ -150,7 +163,7 @@
       "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -371,6 +384,40 @@
         "AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-enable-medicine-develops-a-deep-learning-model-that-establishes-a-new-standard-for-predicting-cancer-treatment-outcomes.md",
+      "title": "Enable Medicine Develops a Deep Learning Model that Establishes a New Standard for Predicting Cancer Treatment Outcomes",
+      "excerpt": "Enable Medicine, the platform for indexing and searching biological data, today unveiled a new tool that identifies spatial-cellular signatures associated with cancer outcomes. Published in Nature Biomedical Engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-enable-medicine-develops-deep-learning-model-that-establishes-/2022/11/10/9710935.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-enable-medicine-develops-deep-learning-model-that-establishes-/2022/11/10/9710935.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1301,49 +1348,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
-      "title": "Researchers show how network pruning can skew deep learning models",
-      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
-      "publishedDateTime": "2022-11-02T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

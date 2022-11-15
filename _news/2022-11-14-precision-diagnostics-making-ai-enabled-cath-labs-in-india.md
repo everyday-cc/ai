@@ -51,20 +51,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "9 Humanoid Robots Made in India"
-    excerpt: "According to a report, the humanoid robot market is expected to register a CAGR of 63.5% between 2022 and 2027"
-    publishedDateTime: 2022-11-11T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/9-humanoid-robots-made-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/ameca-banner_11zon-1024x576-1.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "i/v+4lf0DkFkS6g6gSus0eKeY/rRhw1g4djLyBr0TsKyHFELlWcbgAR53+HDHAuICbA/BcM4MDQ9KyXpi/0PoKr1eSUSD95UL8fD5ydOrZN3+To6c3VDgWl9M177iVm2/yuwL6QTZWqUnTOk8lmImmbU1SM1lMO/9YmJKkewAoF/JY2fkDMwZ22wC8o3/J7I97ZSeADPI2XQFDQaF62TYKCXnRpKpzoLNdGtiZ7sjGo22y6MiHr4unOI+KRf/6gzEKU0g1KCI/DeE7Z/ii1+D2bfVX6eONy6xwU2LaKL1zx5leV151F6svd37u8DsTlWeR626sv+MW/F+q7+91FNuHmTZu//tiDGp0PHuA6fqLLHVNBMdZNQEG/4ADqDOuQjjs0ege31zZyVRppiOL2RH7CBsaWq10Kdobyg32hdNXkUQvHwHnjloqCLBkr0D5PFKz2A2MWpTWelOKNJK0b36Ys3q6SIZ38ub++wZcMTc6zHilSOSuQHPMtTezz7kOl1/TGsWhL7VuEg2npF7imXQQ==;791z8Bgcc2sqqEIbmkwD/A=="
 ---

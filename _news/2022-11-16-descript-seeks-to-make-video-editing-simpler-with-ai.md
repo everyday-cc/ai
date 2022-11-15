@@ -33,6 +33,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "AI-powered media editing app Descript lands fresh cash from OpenAI"
+    excerpt: "Descript is the second startup to receive a cash infusion from the fund after AI note-taking app Mem, and Mason says it reflects OpenAI’s belief in the future of Descript’s AI-powered features. “I founded Descript with the idea of building a simple ..."
+    publishedDateTime: 2022-11-15T17:58:00Z
+    webUrl: "https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "tFh/F6orv/9MdkkEVY/60+nXNIJsrVTFQ+BduSJkOAHuYTFZ6OnYzRNIcXU7u6xA3NISPJNSpHAnVmbyArY2KzVQkUvhslhvATDMCRivYtVtYQdBrDgSD7leELTzfnwTIsKjfCBjY6KmyxSXXi7/HoHYDrrSCCnaZfFsjuyJvuDwl6rx0shLqP+MDd3NtoU6D9PECKus97zuTtU4iezX2r6cDlT+kBfMbCanMF4azBRYUNSN3Oh/SYnJv9pLrmffDns8iq9bEsQ1YNrnYAfi0u91lnmy+grTkxtYb2a+OnPx4TDhKKMI7aPjH+r3RuJePoV5IfhSzuIzn4LzCobS3PUol01UH7/INOPFAf7i/NS84VpXh3jBiyzIk/xXJwj0vBz9C3M9bZufIYx0xZ9Hk6/bzGglI8p2PftqKWobUoFk+xk47Knp6/ZOHRzzkmFh/gjwKjTqfTicIxalwRMoTuANa1CaUgINSSy+QD79I4j2t2+YKmnjwrb7CwSfWSLo6AeK4gYDcT2oQFvxc94V6Q==;mHGpYlVpreZQIGlb/lNzOg=="
 ---

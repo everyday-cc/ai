@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T18:27:00Z
 originalUrl: "https://wusfnews.wusf.usf.edu/education/2022-11-15/the-rabbi-who-co-founded-saint-leos-interfaith-center-is-getting-a-major-catholic-honor"
 webUrl: "https://wusfnews.wusf.usf.edu/education/2022-11-15/the-rabbi-who-co-founded-saint-leos-interfaith-center-is-getting-a-major-catholic-honor"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: wusfnews.wusf.usf.edu

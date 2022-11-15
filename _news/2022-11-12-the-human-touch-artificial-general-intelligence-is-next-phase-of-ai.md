@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-11T21:51:00Z
 originalUrl: "https://www.c4isrnet.com/cyber/2022/11/11/the-human-touch-artificial-general-intelligence-is-next-phase-of-ai/"
 webUrl: "https://www.c4isrnet.com/cyber/2022/11/11/the-human-touch-artificial-general-intelligence-is-next-phase-of-ai/"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:

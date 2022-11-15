@@ -52,6 +52,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI predicts that a dinosaur thought to be predatory may have been an herbivore"
+    excerpt: "A research team used artificial intelligence to discover information on dinosaurs, specifically to find out if a certain dinosaur was a predator or not."
+    publishedDateTime: 2022-11-15T18:06:00Z
+    webUrl: "https://interestingengineering.com/science/ai-predicts-that-a-dinosaur-thought-to-be-predatory-may-have-been-herbivores"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
 
 secured: "8qGme4dnGDtzfS5vyd+om5U1tRlZpBDdn/bZ72uEtEZEZY9CynZTyRexDnByy5RnfZJvswUkhu85lSP1UA+/VsJ/evfYzjSEopeIvRyiXVnwOc5hNVryFMOdb9Ah1IMzTufcmMgT2i4nW0WXvR2bVyTDtPOEA4WNAZ/sF9XAcOIXCNuwWFCc3+OxeA8fV5JUNAmKiNfvZUM5AEIHfFnHu8wMKNzaL+VQxhvcl1VQWJdV1gViZXBg/5ZfxclDgQuUjqR3qpp5cBQvUEYDcED2f/H+/XwvTOHXfnRevUdi0sGcz0WUdS75U+j2I478FdzJosRCfaOnjgMpCldOnyr7UUbVxtpvVagOn3IwqAm/rgE=;kTOOS9guWwaLen5VwkeXdQ=="
 ---

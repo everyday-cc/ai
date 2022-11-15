@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Tiny Hurdle in the Way of Driverless Cars Going Mainstream"
+    excerpt: "Consumers are still skeptical that self-driving cars can actually be safe enough, which to some degree makes sense. Autonomous-vehicle development has faced more obstacles than originally anticipated in the past few years,"
+    publishedDateTime: 2022-11-15T16:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "A look inside Waymo's self-driving cars"
     excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
     publishedDateTime: 2022-11-11T15:15:00Z

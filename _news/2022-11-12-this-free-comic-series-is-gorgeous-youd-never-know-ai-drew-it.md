@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-free-comic-series-is-gorge
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     excerpt: "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a demonstration of how shockingly fast AI is evolving."
     publishedDateTime: 2022-11-11T21:47:00Z
     webUrl: "https://www.cnet.com/culture/youd-never-know-ai-drew-this-beautiful-comic-series/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
+  - title: "AI Drew This Whole Gorgeous Comic Series. You'd Never Know It"
+    excerpt: "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving."
+    publishedDateTime: 2022-11-15T20:44:00Z
+    webUrl: "https://www.cnet.com/culture/ai-drew-this-whole-gorgeous-comic-series-youd-never-know-it/"
     type: article
     provider:
       name: CNET

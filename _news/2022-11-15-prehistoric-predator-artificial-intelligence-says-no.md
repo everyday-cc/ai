@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-11-prehistoric-predator-artificial-intell
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI predicts that a dinosaur thought to be predatory may have been an herbivore"
+    excerpt: "A research team used artificial intelligence to discover information on dinosaurs, specifically to find out if a certain dinosaur was a predator or not."
+    publishedDateTime: 2022-11-15T18:06:00Z
+    webUrl: "https://interestingengineering.com/science/ai-predicts-that-a-dinosaur-thought-to-be-predatory-may-have-been-herbivores"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
 
 secured: "Yb0W9xQb1g2VoSAcRJwx5pm4K5uwalEYyaOajjPxisFuVY6cQHkqsCJnQjeFjhH/5fOyZ9cXElHb33IdsV/nHl8CTFaHz8Js2DmI0r7ZFW9a2hFWxiBrib6RRIfpiry4SRpvd8SmibNxgoVeJy1VEVh9fFOvhfqYCrnJxwmSgd7OLZdPcVQ+wDHO9qN2b506UWq5trZ77j6Maf+7LXF++7TdfDvqgX04c2r5eglpb0Npu7yVaU8V/TBPLmvdPEFB6KtXLh+ljUHOISYzIR/DQJlrDRVMf7aOtA05M1zirYAyzy36lyAUwqP8cli56LuHIqc2GPtAD803jYR38cF4X3rhbJ+KSYEtiVGRmPwuTf2zd2Y1OmMTXCQqz+iu4MfNkO6NeBIX0asixtubtPnwG+9w6/9ynyYGHiglwGUz6TXHMgdfXK6xr9OjkxWOopimBfpZcsD6wtbseRvZX8RNXuoY26ijWHKwuiArqQAO8UpkCS5YW5ilhnamq+Y7GP0ul1ToBZCFM1ZQpg6hnW/8Dg==;+yQA69TZ6ew2Ora2JFpcRw=="
 ---

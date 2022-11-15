@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T17:12:00Z
 originalUrl: "https://www.bizjournals.com/albuquerque/inno/stories/news/2022/11/15/albuquerque-smart-microphone-make-city-safer.html"
 webUrl: "https://www.bizjournals.com/albuquerque/inno/stories/news/2022/11/15/albuquerque-smart-microphone-make-city-safer.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Business Journals

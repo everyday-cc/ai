@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T19:19:00Z
 originalUrl: "https://www.bbc.co.uk/programmes/articles/1j1r44RHsV8pxfDHdnZpwwm/from-edwardian-etiquette-to-artificial-intelligence-books-chosen-by-jessie-cave-kae-kurd-ruth-jones-and-samuel-west"
 webUrl: "https://www.bbc.co.uk/programmes/articles/1j1r44RHsV8pxfDHdnZpwwm/from-edwardian-etiquette-to-artificial-intelligence-books-chosen-by-jessie-cave-kae-kurd-ruth-jones-and-samuel-west"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: BBC

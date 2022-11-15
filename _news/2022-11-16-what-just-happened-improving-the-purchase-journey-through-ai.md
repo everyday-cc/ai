@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T18:59:00Z
 originalUrl: "https://marketscale.com/industries/retail/what-just-happened-improving-the-purchase-journey-through-ai/"
 webUrl: "https://marketscale.com/industries/retail/what-just-happened-improving-the-purchase-journey-through-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: marketscale

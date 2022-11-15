@@ -34,12 +34,21 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 105
+    quality: 107
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1124400900.jpg?w=1200&strip=all"
         width: 1200
         height: 628
         isCached: true
+  - title: "AI software startup Weka doubles valuation in $135M funding"
+    excerpt: "A Campbell startup that helps to ease moving data around in artificial intelligence applications said on Tuesday that it doubled its valuation in its second large funding of 2022. WekaIO Inc. said it was valued at $750 million in a Series D funding round led by U."
+    publishedDateTime: 2022-11-15T21:28:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/11/15/weka-doubles-valuation-in-135m-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "+DXybW2EuLgAjiln9vOOOSrtL5bnX0teuPGnYWvBGNNuS60TvIHQ5nuKiGwQ61V6WpUv60/qnXVsiJooHfMR9OACcGL4FRVNd57AF/bjMM0n83oAeNSqNMPbglpjDgXks+djugcY35svi9Yv2igp1Al7rOk9zDlyaUY6c/PIUsicufuooGWOao1retsiuPWhFHsFe5k8yGimIzzrQgElKGDfjROP+AGVv5rSF0i8OOMUF7gzo2ETII+ubLLi/AnhKfidpsmTyhqXT/hErQIOQpRI+nRbrOVLqex311aOen3VNdcO8ImZg+9lL5p/8z0NCRdubumpz6jPxezAN/SsqUYEp8i0tOV52hAdYe3xv7w=;AVPyIRL5/YAbifNqoogvgg=="
 ---

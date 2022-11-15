@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/google-search-ai-generated-content
 webUrl: "https://www.businessinsider.com/google-search-ai-generated-content-2022-11"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Winning with AI is a state of mind"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.   If you"
-    publishedDateTime: 2022-11-12T17:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/winning-with-ai-is-a-state-of-mind-2-46564/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "g1B9oqmOgjTXEgFY2BgImUZds0LsPotHawWjoT2YankCFHu07AmOAlm/cuqNfUvo1hzqytAGAiDnGe5QgpubrLl6M38oEbZidtbTMypP5YYugniMIQPc6jdsDIC6fqdNCg76DXRmVSKfS7ijksYVhjHMgCeTVdG/xmKoRaMZm59TSBaJo8yndLxsHrUPzT+YZFFIVzurveVjKfHEDknGkRWJXrluwMqBO0BfS347JsDUPR5cDy3IlYNUlIH0v+c4jZABjbYfkYl34foT6saLnuZabLUhv9GvFlZkuR0auIn8ByxnfoefJN6dGLalsG2qDu8NLxyqXF0dIWy3lIvpR9NWtOFroBmRX4uOT6Yu5i8QV9MFM5slGkwuvw/Jz9kSZrnbz2N2wutadc1mwCClWfXpD8j22IXv8E1XHezFVlu8994xkeALNx4jpgemVud1aW011+SEh5u2oypYfz3PPX2ZZVYvnVJt/DI7jVYEM6T3GrRQI7xOUbQKLAbSgDAEPVKpqMdlT+PMI1h3aRJY2w==;giSUnqh6L7kW///0e/oibw=="
 ---

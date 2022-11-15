@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T18:55:00Z
 originalUrl: "https://www.dcvelocity.com/articles/55992-massachusetts-startup-lands-26-million-backing-for-trailer-unloading-robot"
 webUrl: "https://www.dcvelocity.com/articles/55992-massachusetts-startup-lands-26-million-backing-for-trailer-unloading-robot"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: DC Velocity

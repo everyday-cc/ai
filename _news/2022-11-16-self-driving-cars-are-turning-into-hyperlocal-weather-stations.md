@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T20:05:00Z
 originalUrl: "https://www.popsci.com/technology/waymo-self-driving-car-weather-station/"
 webUrl: "https://www.popsci.com/technology/waymo-self-driving-car-weather-station/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Popular Science

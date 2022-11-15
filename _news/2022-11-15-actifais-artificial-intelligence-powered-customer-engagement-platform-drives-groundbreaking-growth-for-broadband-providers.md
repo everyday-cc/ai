@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-actifais-artificial-intelligence-p
 webUrl: "https://www.tmcnet.com/usubmit/-actifais-artificial-intelligence-powered-customer-engagement-platform-drives-/2022/11/15/9713093.htm"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,19 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Actifai's Artificial Intelligence-powered Customer Engagement Platform Drives Groundbreaking Growth for Broadband Providers"
+    excerpt: "The First-of-its-kind Platform Helps Broadband Service Providers Generate Higher Average Revenue per User, Increase Sales Conversions, and Enhance Customer Lifetime Value WASHINGTON, Nov. /PRNewswire/ -- Today,"
+    publishedDateTime: 2022-11-15T20:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29738225/actifais-artificial-intelligence-powered-customer-engagement-platform-drives-groundbreaking-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29738225"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29738225"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
 
 secured: "v5+ZLH7bCAyfX1jx4+fH4Yf0R75E5z/gr94Syv3rfRgS86Pos2jAZVf2vfTpy29D3BJFDLCbY1nO3exDxJ7GNioEq+LOH4AX0x/7+YUEJwr4YJmGunoW/ycplIn5fJT0DepNCSbIXEwLTkXhePjN0JBN5p65pqvVtG0WHfBtPytrQyzxPDvtjBQZRWkf+puxKt/MPZdMQPSTKUbdgoLmZdbCc2oE8yJoB/El7HVWoa0druveqESwi+aRKMDPncLyyWn3WruI85Ddw17khZq8X+E538CUGW0+xOQr9/3TimLZ6QNlxpghQyRqpx0HVNNPS7uayIdw0ijsyMRmS3KppwHsseadX1ZZZPOXZKYDf9A=;zi6Uvz1c03MqmtIV5wrjLQ=="
 ---

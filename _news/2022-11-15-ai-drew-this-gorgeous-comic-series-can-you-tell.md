@@ -55,6 +55,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
+  - title: "AI Drew This Whole Gorgeous Comic Series. You'd Never Know It"
+    excerpt: "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving."
+    publishedDateTime: 2022-11-15T20:44:00Z
+    webUrl: "https://www.cnet.com/culture/ai-drew-this-whole-gorgeous-comic-series-youd-never-know-it/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
 
 secured: "k5Kh1xpQOcfTjF9LZkGLr2/6zNvxKC5PoJlAzdAGgFYWIW/gn2IGx8WM2UXz36eb9fIf3nRrEr6vWuY3nmcUf9JGrai6Zn7vLxmO9xMUCgv6EX8qTs8hutPvt4D7XAYznlxCLBsOAZsrxfNO1B6J/SW4+bv9c0+GflOVuA4u8lzARwWwhhdzGonbPb3vesWa61C91mNo/WRATFYXWQlcq9168fGZZo7QyEirO0YIpzWktf6sf7Mkjk7KZS4f2eY6rspzqJ8GaDqcdLnZI7zwMVlE/5rhwfxa5osIuGnHKO7k0GLx0i36IgVloSp8siEajm4Tjkx7hUs82T/pkw4FAgHe8QrNChzJCI7iO3G7VT4=;Woh/l2yd4ONDNvU9QlP4eQ=="
 ---

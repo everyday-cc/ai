@@ -55,6 +55,15 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "Infosys (INFY) BPM & IBM Launches Center of AI and Automation"
+    excerpt: "The center will allow both Infosys and IBM clients to analyze workflows, design AI-infused apps with low-code tooling, assign tasks to bots, and track performance on the go. Further, they will get hands-on access to various digital solutions across the data,"
+    publishedDateTime: 2022-11-15T16:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/infosys-infy-bpm-ibm-launches-center-of-ai-and-automation"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Infosys BPM-IBM Collaboration Launches the Center of AI and Automation"
     excerpt: "Infosys BPM, the business process management arm of Infosys INFY INFY INFY, today launched the Center of AI and Automation, in collaboration with IBM, at the Infosys Business Experience Lounge in Poland,"
     publishedDateTime: 2022-11-14T13:05:00Z
