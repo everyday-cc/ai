@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1124400900.jpg?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 392
         isCached: true
 
-secured: "FK3v/TcUU7OQ0k/b5lrYZifnBW5/Rzk9nuKlA7lxh1NGLEozqEf/Ov8rS2yyrqAgzTZvYlzfwxt31f1pGMhOELae+a2nERGjdsEQVK8Yklcqd4A2YuhP9KUnS0fTRWeM4mprEEMWOfqQgzZjKWiOsAD+O+5LXws7ygaDHaZNytQnvlmBtezxBBkPNYPgdxfqgohtR7m/chQJ3wgH44FRZOFDm+UTP9ikPBB6xlXXaveb+GL2sZeqIOS+I5yPGGBs+nQrY9Q1aJU5akkSv4mC5BegHJDNuU9LreIYu4tCiLHUD0ZRSlTgP0w0xX3WU5EnVXVS6qzOtNP2Ep/8/ZWv8zZyv1J865oWhrVRJiv1TS0=;fVOFM1BulgLIrxXKg/RrBQ=="
+secured: "n2L9/RojV1Rc8t2fd0CY+JmxOwOkE5ElhC3XQgJpZOBTHIOemh1/Rxy9q84CNKBjtCU0dS6Y800BOU4YcewhMsNb9O5Y3LzPvycyMzqYJr8SD6FUMFDeOQ6NEURortEdQzb0v57PB+kIh7H0rwaI+DKEO+I/hETciVpfdTLG2qy9uveDKqYrS5ZSUp9Pj5U5PORSjYddjxy+voqPwRRL1HHlPaYi7xnuQEXUDXp14lII0ejCVc2pljbgBTRaONZBMISSbWefUsd/o3NJs4TOkCBbnQltB2HiB5gWAKw75SJ21tOrws7RBzsKvhsiDJOUes1TPK+CLEqK80p6UJwQA0pSVf2HmjF5DlsF9DwWRh0tbHCCmE+0F9NVolu05wLvbpzFNRDmsfB22kgGC4PSS1CxBKvu+BXKG+gj4zJrtOar7JK3LkACtfnCenKgE+BDMcPb8WZlqoFLYbvBk1xS2dqb7WVcxdyuwc3w7R28wxC+HruDLNQBryz6LC1eE6A/vu53HRWiNPMdhXlLlhQKnQ==;JrJKlY/1iWjBE72ERlCFng=="
 ---
 
