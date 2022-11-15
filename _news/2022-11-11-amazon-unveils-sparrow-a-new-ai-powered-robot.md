@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/amazon-unveils-sparrow-a-new-ai-powe
 webUrl: "https://www.geeky-gadgets.com/amazon-unveils-sparrow-a-new-ai-powered-robot-11-11-2022/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon debuts Sparrow, a new bin-picking robot arm"
-    excerpt: "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins."
-    publishedDateTime: 2022-11-10T17:46:00Z
-    webUrl: "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/"
-    ampWebUrl: "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Amazon debuts AI-powered robotic arm and new delivery drone"
     excerpt: "Both systems made their debut on Thursday during an event hosted by the company’s Amazon Robotics division. The company formed the division following its $775 million acquisition of robotics startup Kiva Systems Inc."
     publishedDateTime: 2022-11-11T22:07:00Z

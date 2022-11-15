@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "New speech recognition tech set to transcribe mouthed words using facial movements"
+    excerpt: "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ..."
+    publishedDateTime: 2022-11-15T10:16:00Z
+    webUrl: "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 68
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/nov/Twitter-we_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "15,000 facial-recognition cameras to monitor Qatar World Cup – Organisers"
     excerpt: "All sixty-four matches in the FIFA 2022 World Cup tournament starting on November 20 in Qatar will be monitored with nothing less than 15,000 cameras equipped with facial-recognition technology ..."
     publishedDateTime: 2022-11-11T18:22:00Z

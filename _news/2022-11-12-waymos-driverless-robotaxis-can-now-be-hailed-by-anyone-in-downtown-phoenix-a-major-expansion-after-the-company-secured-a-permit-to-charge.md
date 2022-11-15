@@ -27,33 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Now anyone can hail a Waymo robotaxi in downtown Phoenix"
-    excerpt: "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to members of the general public. Previously, the company had only been operating a commercial service with no safety ..."
-    publishedDateTime: 2022-11-10T18:02:00Z
-    webUrl: "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/"
-    ampWebUrl: "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/amp/"
+  - title: "Waymo’s driverless taxis keep making incremental progress, while others flounder"
+    excerpt: "Waymo keeps (driverless) trucking along. The Alphabet division made a couple of announcements this week meant to highlight the progress — albeit incremental — of its robotaxis. The first was ..."
+    publishedDateTime: 2022-11-12T02:40:00Z
+    webUrl: "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: The Verge
+      domain: theverge.com
+    quality: 79
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/DTPHX_W1_Open.png?resize=1200,675"
+      - url: "https://cdn.vox-cdn.com/thumbor/rkzNuvHybGrsaHtJSpV2V2AmT84=/0x0:3620x2343/1200x628/filters:focal(1810x1172:1811x1173)/cdn.vox-cdn.com/uploads/chorus_asset/file/24187968/1142125645.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Waymo, self-driving ride-hailing service, now available in downtown Phoenix"
-    excerpt: "Waymo, a fully autonomous ride-hailing service, is making its official debut for residents in downtown Phoenix."
-    publishedDateTime: 2022-11-12T16:28:00Z
-    webUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix"
-    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-self-driving-ride-hailing-service-now-available-in-downtown-phoenix.amp"
+  - title: "A look inside Waymo's self-driving cars"
+    excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
+    publishedDateTime: 2022-11-11T15:15:00Z
+    webUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/"
+    ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
     type: article
     provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 52
+      name: AZFamily
+      domain: azfamily.com
+    quality: 59
+    images:
+      - url: "https://do0bihdskp9dy.cloudfront.net/11-11-2022/t_b35467a2694a446fba346f3303a7bdb4_name_WAYMO_ANNOUNCEMENT_frame_59.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "uG+h7F4rAKIFfdgSTpxSnm8oEPZ7Sc/iMwzI77qIx5B4sdk/362x493A2TWn3Muy3+WU2WEkjHDk+HxOXgGyBGfu8k0nN+eBXbaKQTK+C/cs/Xosztn5fELmJjTx5LGCZlSiUVHbQR7A23DnxMoQ8AM4AXNsdWLgxBVu159qUaogtSTuPp92iPv6I8gsOsYtx8+Jhb1TUZVQZJPub6NM2beYLM7FkAvDoa2hPV4oOmVanUlekuFtmwzONb1cdwB/QOY9vUBOwyOXGAnRF0UfkLzOlYph5/+1U2cXFOn0B4MA67xjo9US0bVBftTTgZTiAjAiUg6vnFNQwmBxEzIRKTaAamh6Rl4If5vK/gNNpc0=;WELX4+U8juzxC90p88ykbw=="
 ---

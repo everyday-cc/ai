@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon debuts Sparrow, a new bin-picking robot arm"
-    excerpt: "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins."
-    publishedDateTime: 2022-11-10T17:46:00Z
-    webUrl: "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/"
-    ampWebUrl: "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Amazon unveils Sparrow a new AI powered robot"
     excerpt: "Amazon has unveiled Sparrow which is a new AI-powered robot that is designed to be used in their fulfillment centers. The robot will be used to pick items"
     publishedDateTime: 2022-11-11T08:31:00Z

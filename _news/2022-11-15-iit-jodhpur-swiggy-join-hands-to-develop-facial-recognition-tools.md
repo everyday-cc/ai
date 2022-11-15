@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 667
     isCached: true
+
+related:
+  - title: "IIT Jodhpur, Swiggy tie up to develop facial recognition tool"
+    excerpt: "Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies"
+    publishedDateTime: 2022-11-15T09:24:00Z
+    webUrl: "https://www.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to-develop-facial-recognition-tool-32154.html"
+    ampWebUrl: "https://m.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to-develop-facial-recognition-tool-32154.amp"
+    cdnAmpWebUrl: "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to-develop-facial-recognition-tool-32154.amp"
+    type: article
+    provider:
+      name: edexlive
+      domain: edexlive.com
+    quality: 59
+    images:
+      - url: "https://images.edexlive.com/uploads/user/imagelibrary/2022/11/15/original/s.jpg"
+        width: 3989
+        height: 2352
+        isCached: true
 
 secured: "Zhl48h6iehAzmuicqrZGk94nvsN4eaK8XW6I4vexSSk9h7mQXqeAJwKb1h/fn3KaD6eVVoVxvlKTcoCU2M9VFP6zQCJ/qpUn4NDNU6Pi/2rYkuXe3IfuiwbuCuCzAp7l5yzGi6uO77cQcl+F7pa+L3PDEyJinReS0H6rk62+A8uVvLw1eU+hROi15/3fWdMgC4UkenPDoRQpBPr5IdLEI2DWq1g74hbpUcHnza854X5f0BLvfaVRZ2wSbAFNt23VemzTkLpAAvPpmSg/QuHhEQfp209B8NUBkKUoap9OKWD9xHSq+jRHHKm1KSTW/bTNd0aL9WaW/qKI9GvbpA/Ta/5RzwQ3JT95cA9Z7qf8pTE=;hcvF8L0R7afFNhpEr1rptw=="
 ---
