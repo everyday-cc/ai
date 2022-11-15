@@ -16,6 +16,9 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/AI-supercomputer.jpg"
@@ -100,6 +103,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "kWfvcO/ha3z2IXD9tDJWyCHXvWqcdm0m148aqZbFfVWW92w2dOW0nlDeTkeKAk0TIm56tKJU1YFFM3Nd2K3zm5yDS7FKiXWVJ0LZXGlsKfaY8ylwc+Mr8Z2UQgaqI6qHfLWpq0Af0vdxylpY+wTWehjEdnbccvgZb4GWcVbaoONCP06YBP6bj91+ecicr17fbg1Hr3wOJNEiII1H8IvNj6BebZBlDHsvIujw9gDFCNyehITbcNC7M1ki35ovdcOs49ihF2txGZQ98aDXP64MLYKrIaHynEah9LOTvYhaeS+ifCN+nW9KYl4CJuJLUrPua0Tm/NxXlkDYDWgkG11/71mD8aTmjjbERNyFvGEhRIY=;qqeVoch+7Ic1kbEyUv8KNQ=="
+secured: "vEf5zI+kdUFuiHDGxk+iLbTNTCPrAtLUHHwWnhI2QzsPETXNYXBKrou2/Bw3CHox8OR4KngD4HIvKm203JRT+i/QmOTZUcto+VHNlNMqxoEculwA0pvDXl3EOT24ip5KepRSqyvFieQDb+Gwv2gI6oudpk8eEoG9/ZlOWWE1U1UC+ovmN5wzD+NgZXbvWAiLmP/v6PtO8CY5InVYiNsIFavUeB9yRnEiX3KjDp43gb+5btpOnXbF/DtVoGBE8Z781/YAyIewASskTughGgYvSFrF4Blo7ruKLFDY/F679vZF2AXomVV0zW4qyzLT7p48uu9RWM7IOpwjW9TwxsAM7MxOWqlm3a+CjGI6KtgsJfB0dUwMSyzycl6OsQawjLC9Rr3LjwW+O5I42t+6KeNYnK4Y+tQVjlQow1P/DAti6mENBxTeS07Uil2GQ6oBsmUjNCeEzpGlWvLUu/+W+4zquDbjpQk87W3zeuOgngRPdYOH415tDT4jJl0oU0c3DUPvzJedNz2WPeE/OBb78INXTA==;wFC6Bk8QmQ9voNSLqLVt+g=="
 ---
 

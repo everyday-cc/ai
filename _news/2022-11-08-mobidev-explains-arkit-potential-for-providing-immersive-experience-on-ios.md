@@ -1,10 +1,10 @@
 ---
 category: news
 title: "MobiDev Explains ARKit Potential for Providing Immersive Experience on iOS"
-excerpt: "Among all augmented reality platforms, ARKit stands above the rest in popularity and performance. Apple's tight-knit ecosystem, standardized hardware, and high performance of ARKit for augmented reality applications make it highly desirable for AR developers."
-publishedDateTime: 2022-11-08T14:09:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/08/9708426.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/08/9708426.htm"
+excerpt: "The most important aspect of ARKit is that it is the only framework that unlocks the full potential of iPhone and iPad hardware for augmented reality experiences. Some of the greatest features that ARKit has to offer are object and scene recognition,"
+publishedDateTime: 2022-11-08T15:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mobidev-explains-arkit-potential-providing-immersive-experience-ios-/2022/11/08/9708426.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mobidev-explains-arkit-potential-providing-immersive-experience-ios-/2022/11/08/9708426.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "LyRVd7njyGKxRo7r99XRUTyqUyG7b4wBlMnW8LpsYs2Sw1Kbke74Rv4gcCE5XlRJ0trTbGmcFwd38vlDWvtjzwkrwvOyFWfbGgBeTqXgMIM1hR2AZGQNcQz95r4uXQSTR4RdLkrlG1SPlAG4Y9/XODQM8AI5gv5kj6fTdPAKyEk8hCYyhseXILDK0HO7JRMYM7DqWnXqzh2UJsLJfSdh+pfkprfF9PIqE94ZKVU4Mo+6BWG3wG71Aj0sHwykH2AvQKTkuyyQaoPnhcpbPfvjo4tXVlKO0nT5nQ69r+kz4ZW/SEYXjgZBpryYqM/V0dFf9AU4yaLuF4to9o3R1kqg4Mc5Miiwtn2rkw9/Dhrdlcw=;hsg/2xbdfZG0WmMoLsEwaA=="
+secured: "W6xXkk4CtplJiXFMYtLSSnnOpowWbOqTdw26qppMRzODBmIAAhkg1KyJtP18oOD1R9Ap5zqAhPjgx0X0XyMVzQSzi5mN0QZfXUD09+FFAwTKFqEM5Ai2OSazNdoxa77Z0g8kMJRidiOkLviVheMLdfR+LB9JhJ+MrgBfhPmUaqJrAMifizWof7MhGFyvId5lBxVcpZ8f1+mUb12J8SU+W6YbW3c1wRWUBqCLMcK2S5L1xMm7Ng/8JHS6jKvZXTPiMIEx8JBPkCFD/7+EulFolmAA9F82u3nDTBApNQJIfgYxOR2qaiHn4vJe/vVBteKhniqslAtJbYcbrM168OOD1UmEFabH8WhMQH69x42gEhI=;j5azC92MzifucqpppgOHZw=="
 ---
 

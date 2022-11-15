@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2022/11/11/1815603.jpg"
