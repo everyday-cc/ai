@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/226ddbf6b4eed63d9e038bb3f3d3d0c423277541/2022/11/14/08346f06-67f3-46ae-a534-ecaf18241c3d/cerebras-andromeda-doors-closed-2022.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Andromeda 13.5 million core AI supercomputer unveiled"
+    excerpt: "Cerebras Systems has unveiled a new supercomputer this week in the form of Andromeda. A 13.5 million core AI supercomputer"
+    publishedDateTime: 2022-11-15T12:21:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-15-11-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/AI-supercomputer.jpg"
+        width: 700
+        height: 488
         isCached: true
   - title: "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer"
     excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5"

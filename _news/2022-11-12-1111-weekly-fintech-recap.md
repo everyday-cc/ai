@@ -19,6 +19,31 @@ topics:
   - AI
 
 related:
+  - title: "Five Key Enhancement Factors For Secure Fintech Apps"
+    excerpt: "Automation is important, as AI/ML algorithms can help distinguish and block suspicious ... The safety of customer data must become the top concern for every business launching or maintaining a fintech app. It is always cheaper to avoid a data breach ..."
+    publishedDateTime: 2022-11-15T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63330347c1ef0850e665888b/0x0.jpg?format=jpg&crop=4274,2405,x194,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Indian fintech Lentra raises $60M to expand loans-as-a-service for banks"
+    excerpt: "Now that legacy has taken a very different turn in fintech with outsourcing of a very different kind, with the emergence of embedded finance technology. In the latest development, Lentra, an Indian embedded AI-based finance startup, has raised $60 million ..."
+    publishedDateTime: 2022-11-13T00:00:00Z
+    webUrl: "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 63
   - title: "Preparing for fintech’s second decade: 4 moves your firm must make now"
     excerpt: "How can fintech startups prepare to compete in the next decade ... You will need modern tech infrastructure that can support greater cross-product automation, a sophisticated AI assistant, more integrations with external parties such as the crypto ..."
     publishedDateTime: 2022-11-14T15:38:00Z
@@ -46,6 +71,31 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-11-11-101905.png"
         width: 480
         height: 270
+        isCached: true
+  - title: "India FinTech Forum Unveils 23 high potential fintech startups"
+    excerpt: "India FinTech Forum has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
+    publishedDateTime: 2022-11-15T06:39:00Z
+    webUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/"
+    ampWebUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 24
+  - title: "India FinTech Forum Unveils 23 High Potential Fintech Startups for IFTA 2022"
+    excerpt: "India FinTech Forum, a not-for-profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high-profile jury this month."
+    publishedDateTime: 2022-11-14T09:55:00Z
+    webUrl: "https://financialit.net/news/fintech-startups/india-fintech-forum-unveils-23-high-potential-fintech-startups-ifta-2022"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 21
+    images:
+      - url: "https://financialit.net/sites/default/files/india_fintech_forum.png"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "NnOoC8YsfZYgYO7M9p/T/gE2LuZsq71ou3nHQWgeVyKINbsUBTqNwZoTiaCvEkBQ7Fy/DiDxd9ubBmBHeNwDIyuKEohOebUcacQDNOQ/OdiZvYiMYeCUvUZvZdHeLQ5dUQZFqYsJmIVmidD/a/FY+daOoCqkxyOmlzGlQKimEensBIfJLNbH64rRltDFsbXXnGUVTg6ZI7dNvRsCcV38Kqqql1GqMJVn7Ws+Ik2sMoXAElxiPXkriUFPRVg0Z6sK8GFiYh3Sqw2qDDTEvJhXugBeN7EZnQtKlAPFmkuosAb6+zOSXvve2nSZeI2m+6mQfIngksFGSxAZWAVRDaW++7NOXsqCeo24bbDWZ+wRH4md58Wo42vVTSClAQzB6EyDegs5KWRSWol8h2R/kv7d7JJoIs44SO0ftQDhEp3aAK/+z6R3YFN8dPwbJQSIfeSiYfIz7pI2lECVE01g0L4f5K64y+GKUFl7hIJ6JhC2UWh0Qe2lrC3img0nYged6+HMofXsemPhb+3SRYiymOt7Yw==;38THiVKlZeUKDfN83cuA9A=="

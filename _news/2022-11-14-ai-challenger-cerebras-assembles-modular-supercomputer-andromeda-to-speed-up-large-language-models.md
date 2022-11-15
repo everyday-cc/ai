@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 597
         isCached: true
+  - title: "Andromeda 13.5 million core AI supercomputer unveiled"
+    excerpt: "Cerebras Systems has unveiled a new supercomputer this week in the form of Andromeda. A 13.5 million core AI supercomputer"
+    publishedDateTime: 2022-11-15T12:21:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-15-11-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/AI-supercomputer.jpg"
+        width: 700
+        height: 488
+        isCached: true
   - title: "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer"
     excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5"
     publishedDateTime: 2022-11-14T16:33:00Z

@@ -33,6 +33,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AIQ works with AWS to quicken innovation in the energy sector"
+    excerpt: "Under the agreement, AIQ and AWS will develop an Innovation Factory to foster collaboration in key focus areas, including enhancing the AIQ Data ecosystem’s performance by leveraging AWS’s resources and technologies,"
+    publishedDateTime: 2022-11-15T09:35:00Z
+    webUrl: "https://www.zawya.com/en/business/energy/aiq-works-with-aws-to-quicken-innovation-in-the-energy-sector-yqne4upy"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://static.zawya.com/version/c:OWM2ODExYzgtODIyZi00:MWIxMzA1/200423074653iqcn-jpg.jpg?f=3%3A2"
+        width: 724
+        height: 482
+        isCached: true
 
 secured: "mmLKfE08eA5Sc8DNq/8GP35T8ZRZeWfQK4qx9SOI5FmEMNA94pA0nMdN9UYXsTTlZcGOCzTT+TY1QINJSEPW7vpzAyc8IMbgh64292qszN+wulfFAIi+VD67KweMy7qd21fS3CQNkjiXavl/9oe0oOZIWnLYVIXQy7ySQ7/r6muIEnHUvkc6NEOlt4B+BULlgDQUoSom/cMdT8twshIQnx6LivEM6uuo2VS3GmZkRBytxfhYPr7mC0HA/l6FnsjyBeU9ALlbpRTEEBYk+E81NFbfTQtSv72wzdYF0ko+qgFGerFzag5dK5uNDX53IJ809REK4TLFALmngnuNNJ3Uj2GlPz8xZUbGKczlUTYfLU4=;dXIx6yHeG81nKI6NhGEYpw=="
 ---

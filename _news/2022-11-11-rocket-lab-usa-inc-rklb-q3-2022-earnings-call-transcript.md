@@ -24,22 +24,6 @@ images:
     height: 1200
     isCached: true
 
-related:
-  - title: "Stereotaxis, Inc. (STXS) Q3 2022 Earnings Call Transcript"
-    excerpt: "Q3 2022 Earnings Conference Call November 10, 2022, 10:00 ET Company Participants David Fischel - CEO & Chairman Kimberly Peery - CFO &"
-    publishedDateTime: 2022-11-10T20:12:00Z
-    webUrl: "https://seekingalpha.com/article/4556127-stereotaxis-inc-stxs-q3-2022-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
-
 secured: "ER+IdPbD0hGCjpH6avab2AIbOMVO+6q4X28+HYbbcAun1BO4aCyxggp2o7WxCWFXEEPKA+YcIX9affcw7W0Xrte9Oz9cRK5iD0FHmckPA4D3U+qc9PmPufxX2uyEPwNt1rmTtnz2kjyNQlzn8nNZ+3BMfuIsUzO5LQ8Kf1qgKZC+kV2aX96fyXET2e4AAEIwRfKyFUgTa8XmgPanH9INq8ruqjGdHDIg68/RDS4BrHyGVL3Uag03sCkapz34NINkZdohrZU4RqFSnElI5bGMQ3tOvLJJZtxpstUyC2YmCMC20bO8aGzT2grx8UDVw0Cj3q1lCr/t+YvZOaGanmDYfPi5TqzEC9zOZ+Jyh99TEtM=;Ug4uMP/DztBBBdsCC5qahQ=="
 ---
 

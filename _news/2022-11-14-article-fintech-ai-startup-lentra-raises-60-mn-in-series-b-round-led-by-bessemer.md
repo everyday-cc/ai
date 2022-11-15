@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Indian fintech Lentra raises $60M to expand loans-as-a-service for banks"
-    excerpt: "Now that legacy has taken a very different turn in fintech with outsourcing of a very different kind, with the emergence of embedded finance technology. In the latest development, Lentra, an Indian embedded AI-based finance startup, has raised $60 million ..."
-    publishedDateTime: 2022-11-13T00:00:00Z
-    webUrl: "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
   - title: "Indian AI-Based Finance Startup Raises $60 Million in Series B Led by Citi"
     excerpt: "Lentra, an India-based startup in the fintech space just raised $60 million from Citi and other venture capital firms. Read more here."
     publishedDateTime: 2022-11-14T12:50:00Z

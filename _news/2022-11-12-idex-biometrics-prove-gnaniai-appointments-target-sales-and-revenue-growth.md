@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani
 webUrl: "https://www.biometricupdate.com/202211/idex-biometrics-prove-gnani-ai-appointments-target-sales-and-revenue-growth"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1080
     height: 511
     isCached: true
-
-related:
-  - title: "US patent office gives GBT the high sign on its face and body biometrics invention"
-    excerpt: "A United States patent has been granted to GBT Technologies for its face and body biometric identification for mobile devices."
-    publishedDateTime: 2022-11-10T19:07:00Z
-    webUrl: "https://www.biometricupdate.com/202211/us-patent-office-gives-gbt-the-high-sign-on-its-face-and-body-biometrics-invention"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
 
 secured: "E9dm/XzMkJAX3J/fUN3HDyvyNSGUXsUZwC7AWjL0M9mfsek8H7kI/cziIovulhIAsibo5yrV9W+xbUOjU+CQzXA5lU2iDOgTAotQVKVcsqCALC5EeqoHZrUBeujtKE8nt9pxS2GTYJXmmDAoHt2w2YXAd7nlaw2w+tMcBvvMMZ/hTlanG0KTHGWxfdOrVl3Z15T7EYMgvbzikqdozR7epgvsiSD3bAVZwaV9jSKT7vfnTgW3tzqVr5lsqu3BHbIRCTeLN5Y43xVq/M+42INDZ3guk/I8hYVapGCGw+EWEBYD3KQjOp53P5YGaZoCgbbv/Ud5FlmxNkK6tq7CbyqfKbU4DwzZCR+Sgg1qD3CX2PcdPsfAjFMrztJ1nbpvA/E7zvJ/CTRyWiN1uVhpWFvdy0vCJYHdKT53Cpm9EAzG+KRzeVnulegSm/nWXjAeWs/znm2vbpePA3K3RNWsBvV/GuFeZiM/gM9SqDRb4SbbuY+ZZfAiJvfHcUhjwjQNXJIaiZOdoHY+enGsTbxK86mKtA==;jz3x3x+i3Jpj2w70ikZqTw=="
 ---

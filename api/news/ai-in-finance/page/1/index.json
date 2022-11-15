@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-14-preparing-for-fintechs-second-decade-4-moves-your-firm-must-make-now.md",
-      "title": "Preparing for fintech’s second decade: 4 moves your firm must make now",
-      "excerpt": "How can fintech startups prepare to compete in the next decade ... You will need modern tech infrastructure that can support greater cross-product automation, a sophisticated AI assistant, more integrations with external parties such as the crypto ...",
+      "path": "_news/2022-11-15-five-key-enhancement-factors-for-secure-fintech-apps.md",
+      "title": "Five Key Enhancement Factors For Secure Fintech Apps",
+      "excerpt": "Automation is important, as AI/ML algorithms can help distinguish and block suspicious ... The safety of customer data must become the top concern for every business launching or maintaining a fintech app. It is always cheaper to avoid a data breach ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/14/preparing-for-fintechs-second-decade-4-moves-your-firm-must-make-now/",
-      "originalUrl": "https://techcrunch.com/2022/11/14/preparing-for-fintechs-second-decade-4-moves-your-firm-must-make-now/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1248156107.jpg?resize=1200,801",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63330347c1ef0850e665888b/0x0.jpg?format=jpg&crop=4274,2405,x194,y0,safe&width=1200",
           "width": 1200,
-          "height": 801,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T07:38:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/",
+      "publishedDateTime": "2022-11-15T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -107,7 +107,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {

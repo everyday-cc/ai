@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbctv18.com/business/companies/fintech-23-high-potent
 webUrl: "https://www.cnbctv18.com/business/companies/fintech-23-high-potential-companies-selected-for-ifta-startup-of-the-year-award-15164081.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "India FinTech Forum Unveils 23 high potential fintech startups"
-    excerpt: "India FinTech Forum has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
-    publishedDateTime: 2022-11-15T06:39:00Z
-    webUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/"
-    ampWebUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 24
-  - title: "India FinTech Forum Unveils 23 High Potential Fintech Startups for IFTA 2022"
-    excerpt: "India FinTech Forum, a not-for-profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high-profile jury this month."
-    publishedDateTime: 2022-11-14T09:55:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/india-fintech-forum-unveils-23-high-potential-fintech-startups-ifta-2022"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 21
-    images:
-      - url: "https://financialit.net/sites/default/files/india_fintech_forum.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "/ip3inEFA1mPG5LO4YWCBKAFUB2yM22ksWJIRB1rPPuR1H6PfSZ8C6J4UIJNWur4o7Y52tFyi2cmYW/VxSngYWX6BLQT1GibfdJm8yCo/o2fDgX7IfkFv9rvd53/qGOzr2mkIuzeYQU55gLH7mlcr0VTnNl4gjt4vNjgs63LGxdx17A/OWjLRhylZxutWqjRRQP/MK7GCsx+yb1hCn/1vdV+yVr91bk6NLbdmvFA5HlJCbRZmzDrfjXhxlYessGXoOhT9lB5fpo7MyrK57z0i5Y+dG3yOMSJc6N/sBpeaUPyPfSiR3RnPrXMmlnN0lDuO1pBatova5Z4szn1GyFR9DeYwr5N/sSiJnR85d7rnuudh0HC5nz3nRIG8IlG76s+7dcAGXB/wy7PcGac9Zdd+cZr7ENs0JTm9OEqXT6QFwnpJOaWlqkOo+ouWBQs0MY+8b1w9z7UCBQyDcMHaj7MnQkrnC8NFt4sQ7WRIWF9asV++5H+dBLBEKSPgsWXBWyippPXIEgeD9/z2zKmRg091A==;Ceg7kUL0pOTKk9+m3RYCPQ=="
 ---

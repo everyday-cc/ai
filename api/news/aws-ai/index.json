@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-15-aiq-works-with-aws-to-accelerate-innovation-in-the-energy-sector.md",
+      "title": "AIQ works with AWS to accelerate innovation in the energy sector",
+      "excerpt": "The Innovation Factory team, which will include AWS and AIQ specialists, will work to develop new solutions that boost operational efficiency across the energy sector’s value chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aiq-works-with-aws-to-accelerate-innovation-in-the-energy-sector-lpt2b355",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aiq-works-with-aws-to-accelerate-innovation-in-the-energy-sector-lpt2b355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:MmNhYTdhOGYtN2M3OS00:ZDYzYmEy/aiqxaws-jpeg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T01:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker.md",
       "title": "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker",
       "excerpt": "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine",
@@ -43,50 +86,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-facial-recognition-technology-has-shrugged-off-protests.md",
-      "title": "Facial recognition technology has shrugged off protests",
-      "excerpt": "Amazon issued a one-year ban on police departments using Rekognition, its facial search technology. And Microsoft said it was waiting for new legislation to be adopted before selling its facial recognition technology to law enforcement organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests-11668444305981.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests-11668444305981.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/11/14/600x338/Flap_1_1577986738736_1668444543951_1668444543951.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html",
-      "publishedDateTime": "2022-11-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -489,24 +488,33 @@
     {
       "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
       "title": "AWS Launches Infrastructure Region in Switzerland",
-      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
+      "excerpt": "AWS Europe (Zurich) Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "webUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
+      "originalUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81666.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T00:05:00-08:00",
+      "publishedDateTime": "2022-11-09T05:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
         "images": null,
         "publishers": null,
         "authors": null

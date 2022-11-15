@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow
 webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Team uses AI and satellite images to release first-ever global estimates for road transportation greenhouse emissions"
-    excerpt: "The Environmental Protection Agency estimates that the transportation sector accounts for approximately 27% of all greenhouse gas emissions annually in the United States, and emissions from road transportation—driven by carbon-creating internal combustion vehicles—account for a large majority of that."
-    publishedDateTime: 2022-11-10T20:44:00Z
-    webUrl: "https://phys.org/news/2022-11-team-ai-satellite-images-first-ever.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 0
 
 secured: "vgDH/vg9rF1KtUk04Mv/UiO3D4SdYwvE9GTngEG/AcDij4BSz3IF+AhIY7LqoWXcJv7Qu3dLJJUOuxabPw/+Gf7FknW3R+OAxqG1Dad0poxqILpjEUA5WX7Y+s5yAYT+Qkf6X0gBJ08BBtB5a3JMCuVmrZmx4w0LKmqJfHJIwgtLuwLRC18o9/2J9SBuhtKKJBz9TASssStsoBFykQEXzybxv9cX+OzGt5zdnBfC3DQXhfzi7yDM4AerydJhdjXnNqtNJAmg6KpX8HkTeHnWJWd4pWQK5f+L+gmWnxPus9k+gy+IIuUgJ9fWVEZ9UdVkqzCmjn3EBu3D27BLGSJa4onEpEZycklBxIUpBqclg95YU4ZrAHYyoYWi8Nwr1iE0aY1zf/PKG/fTcsF7ot5Eet160M05GOBdyN8deXmfw+/LdTel6EKZLeV3mOIZ4csNwwl8weD2p0v5/bjOgyxrfg/ipo2eHnYbbrusDOKhQhGAx6mgX60cDmzvNnym0cz6UWK/YE1JJI0DiaiPKV8/6Q==;5ULZd4w1Qx03fDg1gDrB8Q=="
 ---

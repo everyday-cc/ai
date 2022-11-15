@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Launches Infrastructure Region in Switzerland"
-excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
-publishedDateTime: 2022-11-09T08:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
+excerpt: "AWS Europe (Zurich) Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more ..."
+publishedDateTime: 2022-11-09T13:11:00Z
+originalUrl: "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html"
+webUrl: "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "YeahiYb56cY6+N8q7WSHwd3P3IljGBVY378E+GEoNbM9o+wcty/NVUYarGLob5BacM5y+6sOPDZiC+ca7Tp986LVzXlp8NDGODKdRpbzmwFNUyIcgfakVFF0Hs+zw6/+umKzeUnPV5IcnlKcPMduubCDKV5Hpkwk9jH1WvnDzOY2dWcBuW2AWdXweZUoaSM/A9tDnOTr5Z3wKxaneAs/6qZ2+uPRJOs7JZcOHBMZt0YjHmojT3H3n9shZ7W/xxJc7v5O3Y9Mw7/yq3HueyqWIqv4DzqKBkX9g11XzbRKmfgBMn9690BeQ+dqVljBfiw3pJgLoVMGV+hssHnoeN9j/pDtHPYLVQsg6S3wgPNIjn0=;8/cCOoVUBZ4YNUrnbgup+g=="
+images:
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81666.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "JgBMKdmHsldj5FlyK3KWFE7Bh/FuzYunVfpidSv3BUnw767L+GxG90o/AL/9UD7cDDIUKHwAeEgU6M9Bn32VcYIf1DqNN64KA5jO6ndp+cC/s8aFaQ+BBqjVu26HOH119X62/se3qhG8PYedIjTrx5+KXj3SjaWN6yStxU/xaygs+hTgo3ByUc0hDdLmCB0I4j+5Jq/D0F3utctH7a7U0MpWXpUvSRjhZy9mA4pnjzWRdXqm/4iysR/0ab3uoEMD4/aYGUcLTq8CH5mYXHFuzAj0K3J6FkpWaD0eMmU8cYkk67KQjlOUT1lnL5tn5QDuolL0zOceLBBFyc6reZdMeXzIfo/+2kSU6jyJFhUjAvU=;PhZ00CAJfHudf7EHKQjc8g=="
 ---
 

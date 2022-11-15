@@ -1,31 +1,48 @@
 ---
 category: news
-title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
-excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
-publishedDateTime: 2022-11-15T04:48:00Z
-originalUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
-webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+title: "New speech recognition tech uses facial movements to transcribe mouthed words"
+excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
+publishedDateTime: 2022-11-14T17:24:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 71
+heat: 111
+published: true
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?847276"
-    width: 375
-    height: 250
+  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
+  - title: "New speech recognition tech set to transcribe mouthed words using facial movements"
+    excerpt: "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ..."
+    publishedDateTime: 2022-11-15T10:16:00Z
+    webUrl: "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 70
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/nov/Twitter-we_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "This new speech recognition tech uses tiny face sensors to transcribe mouthed words"
     excerpt: "Researchers in South Korea have designed a new silent speech recognition system that can accurately recognise words by tracking facial movements. The technology aims to help deaf people, who cannot always communicate with others using sign language."
     publishedDateTime: 2022-11-11T13:27:00Z
@@ -42,39 +59,32 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "New speech recognition tech set to transcribe mouthed words using facial movements"
-    excerpt: "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ..."
-    publishedDateTime: 2022-11-15T10:16:00Z
-    webUrl: "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
+  - title: "Facial recognition technology has shrugged off protests"
+    excerpt: "Amazon issued a one-year ban on police departments using Rekognition, its facial search technology. And Microsoft said it was waiting for new legislation to be adopted before selling its facial recognition technology to law enforcement organizations."
+    publishedDateTime: 2022-11-14T17:30:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests-11668444305981.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 68
+      name: Mint
+      domain: livemint.com
+    quality: 61
     images:
-      - url: "https://images.mid-day.com/images/images/2022/nov/Twitter-we_d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.livemint.com/img/2022/11/14/600x338/Flap_1_1577986738736_1668444543951_1668444543951.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "15,000 facial-recognition cameras to monitor Qatar World Cup – Organisers"
-    excerpt: "All sixty-four matches in the FIFA 2022 World Cup tournament starting on November 20 in Qatar will be monitored with nothing less than 15,000 cameras equipped with facial-recognition technology ..."
-    publishedDateTime: 2022-11-11T18:22:00Z
-    webUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
-    ampWebUrl: "https://www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/11/15000-facial-recognition-cameras-to-monitor-qatar-world-cup-organisers/amp/"
+  - title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
+    excerpt: "Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies. Facial recognition systems using biometric data will not be allowed until a specific law is adopted or at least until the end of next year,"
+    publishedDateTime: 2022-11-14T18:33:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime"
     type: article
     provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 43
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2022/11/Qatar-World-Cup-logo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
-secured: "7WnlSwj7xcBYc9L6EjWmUygjVH4i5ClU5wta7MSN9vuen8fd0mxVazpDrxXnCsTRE0cZhnHpXEi8kMsiMJ9cXcwn4lCioF7glRH7acBJ8A/kL+zGOUj98hExTYlrp9QxJpahG+blCiks16ZeGAr+e8VhMmopXB3Gji+VfWbz5Cehop+FGTY92ZyFTOr+ExPoeXVh+KNm9Gjz22QOZFxqX3kx3ClgbA117nI4bN+GMG0chS7yoaHzIJ2DS7UETHl1oSvko+FVqYsR6D632RAUoU7IRVwk96c8t/uHpZHx5vQfJHqPb5r0bWhAmk20zXwl6ay5ibmzjN3fuLNQ3UIX/CnerKyEROUveo6WTyXBTew=;ftdxQLuMl0JuGkZpn/GCtg=="
+secured: "Z+DTfAYl1LQKvnM4d5+QO74zvvzOif1KAU+OlulA+FxKs8ogIYj0FwX3yfwUYmZYZQqxBYYyuVo0oxQx1maY4c5hPsP6LyQp5xP7JKXP8+hjb/ZID+w0izm40Gp/iLq2+EMQSoqsjC3YQCjUtNGli/cWPWhgise0yo2eKjI9uYfuPlznJ1fX+Vimm87CfRdc50KlO05ty4KKnHwTFFO1yKMDHdNYNGzVsBEuLc5QxqA12Jy6YIhtzzgrSL4CKMvXrR5aq2Sbml+Tj4AR13hPnF7GQ9F8MYUWeO1zQdd5Tlt5Yld2G8b1sbRWnDM3T/+kNURjYzcOI5+YEdyIai6A4nJEtkdOQtJm0U7LAZQQG2g=;bc2ENPtcZSJrHYKUeNdDrg=="
 ---
 

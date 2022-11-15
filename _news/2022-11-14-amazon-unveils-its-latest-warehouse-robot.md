@@ -59,15 +59,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Team uses AI and satellite images to release first-ever global estimates for road transportation greenhouse emissions"
-    excerpt: "The Environmental Protection Agency estimates that the transportation sector accounts for approximately 27% of all greenhouse gas emissions annually in the United States, and emissions from road transportation—driven by carbon-creating internal combustion vehicles—account for a large majority of that."
-    publishedDateTime: 2022-11-10T20:44:00Z
-    webUrl: "https://phys.org/news/2022-11-team-ai-satellite-images-first-ever.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 0
 
 secured: "ovwoy4n4kYz8Yis4TPubdBhy1d5S0R4H35qvUr+5xGEgaduXTmzPCuRvw+0/qwB3vLofcOUT1MufKHOIcjt1iT9uo8PQTBIjvg+lqcXN1SYcVtoCah2yBbXlWDqU7E6mcz+e/WvOLIdO7Udj2ekXwf6+07F9rEREofIcx2hI5gsLG7LtbC6hjT02l3QKWdXVz3XQxCJBW5wkhDeGIZeAjztPjX6mW6At0HzhatRusZEGfP77OrRPLojWpREXQutfFMhLFaGgS0TMcFOA/zgfI/YdpgMv0spzNRuDB+kvSjL8GWGjYaX163E9RcjDPLiQNvkgxP+dJGRB6zOdw9A0QVIseXiWDYJ1aef4knUVi2s=;+0KQTLXfK4kU4JXymXUXZw=="
 ---

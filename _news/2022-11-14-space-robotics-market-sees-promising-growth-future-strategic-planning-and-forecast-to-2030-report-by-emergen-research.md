@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Unit Market 2022 : Risk Analysis & Macroeconomic Trends Market Research Report with Fastest Growing Countries Data | 90 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of Deep Learning Unit will have significant change from previous year."
+    publishedDateTime: 2022-11-14T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-unit-market-2022-risk-analysis-macroeconomic-trends-market-research-report-with-fastest-growing-countries-data-90-report-pages-2022-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "D/IQ8YWYBHhzhike5gqr8MiJOEcmaWLHhqK2twOc6g/4GWIXxoT/KHT5Vf9Gq5rpF1gPA0M9qNYTNTYR1nQq8TdfnuXONDF/LCkVNA+s6e8ti1CtGFuWNfDGjhzEeShlEqyBSRrBnnQ89DHewy/jLYleOXAfYOhs/oBb0Q1m3xqmggL+KKFoxN6Ok7UtIrPMWD/RBhX9ZvQSFwQPnBsaI3dqgsJQPNePnwzWWNStIBRHjiZWwO0eGInQ/MqDf43wrv6OCVfeQUBuJXvQL3T8CJWcQQppLtnEqYpkVhtOfmcfCZ+IGReG9uI/TGa47YB9dt7qD6gN4OMen39f6EN70mqw1rzuuh/jxSMTH+AjLt8=;5NnpGQ9DMp+ZYd+B2qGiCg=="
 ---

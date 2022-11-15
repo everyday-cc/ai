@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-15-use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education.md",
+      "title": "Use of tech like AI and ML has the potential to transform higher education",
+      "excerpt": "Technologies like AI and ML are rapidly transforming every aspect of human lives; yet, one industry that has seen limited use of this new technology but offers incredible potential and opportunity, is education. The magic of software applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169.html",
+      "originalUrl": "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/11/15/1600x900/AI_and_ML_in_Higher_education_1668514399749_1668514399882_1668514399882.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169-amp.html",
+      "publishedDateTime": "2022-11-15T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker.md",
       "title": "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker",
       "excerpt": "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine",
@@ -1121,6 +1165,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
+      "title": "Researchers show how network pruning can skew deep learning models",
+      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "publishedDateTime": "2022-11-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
       "title": "Study urges caution when comparing neural networks to the brain",
       "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
@@ -1241,40 +1328,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
-      "title": "Researchers show how network pruning can skew deep learning models",
-      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/970000",
-      "originalUrl": "https://www.eurekalert.org/news-releases/970000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-02-galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m.md",
       "title": "Galileo looks to improve unstructured data for machine learning (ML), raises $18M",
       "excerpt": "Register here. Machine Learning (ML) requires data on which to train and iterate. Making use of data for ML also requires a basic understanding of what is in the training data, which isn’t always an easy problem to solve. Notably, there is a real ...",
@@ -1378,59 +1431,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges.md",
-      "title": "Startups across AWS Accelerators use AI and ML to solve mission-critical customer challenges",
-      "excerpt": "Relentless advancement in technology is improving the decision-making capacity of humans and enterprises alike. Digitization of the physical world has accelerated the three dimensions of data: velocity, variety, and volume. This has made information more widely available than before, allowing for advancements",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/startups-across-aws.jpg",
-          "width": 1338,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T08:05:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

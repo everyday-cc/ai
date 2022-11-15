@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge Computing AI Chips Market Size and Share Segments 2023 | Future Demand, Investment Opportunities, Key Dynamics, and Growth Forecast to 2028"
+    excerpt: "Nov 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Edge Computing AI Chips Market”"
+    publishedDateTime: 2022-11-14T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-size-and-share-segments-2023-future-demand-investment-opportunities-key-dynamics-and-growth-forecast-to-2028-2022-11-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size Share Trends Growth Demand and Competitive Analysis Insights 2022-2029 | DataM Intelligence"
     excerpt: "During this bear market you can follow full-time trader Chris Capre & get his options trades signals in real-time. Click Here to See His Next Trade! Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49."
     publishedDateTime: 2022-11-14T22:05:00Z

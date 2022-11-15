@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive"
-excerpt: "OAKLAND, Calif., Nov 3 (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top ..."
-publishedDateTime: 2022-11-03T13:09:00Z
-originalUrl: "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/"
-webUrl: "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/"
+excerpt: "OAKLAND, Calif. (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Thursday said it is entering the automotive industry and has recruited Harald Kroeger, a former executive at top tier ..."
+publishedDateTime: 2022-11-03T06:08:00Z
+originalUrl: "https://www.aol.com/news/ai-chip-startup-sima-ai-130845021.html"
+webUrl: "https://www.aol.com/news/ai-chip-startup-sima-ai-130845021.html"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg"
-    width: 1200
-    height: 628
+  - url: "https://media.zenfs.com/en/reuters.com/1e76d5c56bb3c3c6fe34f175c82dfc4e"
+    width: 800
+    height: 532
     isCached: true
 
-secured: "pfDACoAs6CsbSxN0YNG6yGfpZI0Al8V/i+c590LApTQiGriLOZelNp0E1qNi30mmhrf/2aSMWkIXeujZLgIPHUJ7BylHl7HJUqKX+KczB/KtguT9H1veBQW380v3aUOofGfmVD0QvoafkDGxW/g3QX0GzcO/JSXxg0BUDRVwGklGmfxriUkEWA/WW21APPB5PsZyJTWZGQoiLqhCN2rqxegtHM/6+e99CWPydDEnX6PxsMIuvdtiRGkuMlT2xz/oInAUN1u3IoSixIu7vpcHw6zuDj9UtYo3IZpXkuF30+7b7q0l1PFQcuRTYmPDXTp0bQfPbIxctAVLxMnkDCkxIukqqc0r1BCc4Hm/c9YB7BA=;rkBH2UqMSw+KeBaZOlqf6Q=="
+secured: "21KgblbRtC0j8oSAzb3YEHSRztHjQuOymhIF7QlqLYEGNDZfcPZ+Wt7WavjQeFUZNYX6ThQoGr5aakroaXdjn7bSb/aQranLxy/lGphV7fJBc757A8HnDkKT3KX+L7CO9DTk/Wa4GSDe7YlN8HqBqmni0Vc2LcdOF+pZ9ycXvwwalMUIEqqxlBC31GqQwpyQ2Q/jY/28re+71YeVz8DnBRbV0UW0B1DdXez8M82xZyadbf1YA4VNQLoQNyNf9zM8t/6IsG4yXP5iuZvQHSxRGC9y0M2DQEtACXVbLEzHDhTEcijf5DRlgSZ5c4lPbFWV2jzNLrAxZYjPmT++68006Np5PZwpgvLGuQ2THr8ENw0=;f381iwE2EJAWe1bYATcoIg=="
 ---
 
