@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mid-day.com/amp/technology/article/new-speech-recognitio
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: Mid Day
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New speech recognition tech uses facial movements to transcribe mouthed words"
-    excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
-    publishedDateTime: 2022-11-14T17:24:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 71
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "This new speech recognition tech uses tiny face sensors to transcribe mouthed words"
     excerpt: "Researchers in South Korea have designed a new silent speech recognition system that can accurately recognise words by tracking facial movements. The technology aims to help deaf people, who cannot always communicate with others using sign language."
     publishedDateTime: 2022-11-11T13:27:00Z
@@ -75,6 +59,20 @@ related:
       - url: "https://images.livemint.com/img/2022/11/14/600x338/Flap_1_1577986738736_1668444543951_1668444543951.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
+    excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
+    publishedDateTime: 2022-11-15T04:48:00Z
+    webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?457052"
+        width: 374
+        height: 250
         isCached: true
   - title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
     excerpt: "Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies. Facial recognition systems using biometric data will not be allowed until a specific law is adopted or at least until the end of next year,"

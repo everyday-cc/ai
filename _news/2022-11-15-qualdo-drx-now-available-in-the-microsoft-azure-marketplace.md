@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
-    excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
-    publishedDateTime: 2022-11-15T13:11:00Z
-    webUrl: "https://www.zdnet.com/article/your-supply-chain-is-probably-a-mess-microsoft-says-it-has-the-answer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Why PPFAS Mutual Fund continues to hold Alphabet, Microsoft, Amazon and Meta stocks"
     excerpt: "The Parag Parikh Flexi Cap Fund, which has been the flagship scheme of the fund house, has been investing in US stocks and has about 16% of the portfolio exposure to stocks namely Alphabet, Microsoft,"
     publishedDateTime: 2022-11-13T20:13:00Z

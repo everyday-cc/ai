@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/artificial-intelligenc
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1"
 type: article
 quality: 63
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1240
         height: 1240
         isCached: true
-  - title: "Artificial intelligence goes vegan"
-    excerpt: "In the future, advertising campaigns promoting meat-free alternatives or soy milk could very well be written by artificial intelligence."
-    publishedDateTime: 2022-11-11T01:53:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2022/11/11/artificial-intelligence-goes-vegan/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "8zT18mx+M0fLuma4MMgxkoiy3PCdmom1ayQpJECS6cufekS57JFBnyMPVKNEaYRqy2dot3OE+uUErtDNZl7T7BrouY4MHc6q6FRQNUjqnOg0RWyg+4uS50tVxqfK1Wx4+JOcyrr2M0pG/K1PO51QrXTtKxrGbU3kJNjnDfi29AFywdGMcl8I4ohRgBLcqWQPK9q1EyUl6mDmJftj1cyor/OHku4ZNL8PY1tI8Gs5KO9S2z8VKdpwb5Vo7w1MQDoJ/QvPxP8y504B7Fw7PYEMDamkEynlr+8uRjc41FP55649maD6gB/WOY656ZmJYOw8K9GLN4495A1irjKV3ynt9JB2nwkRWXiR2b4WDgliEjw=;sba2nuj8ULgtCvzn8ObG/A=="
 ---

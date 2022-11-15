@@ -1,0 +1,29 @@
+---
+category: news
+title: "Electronica: OKdo stocks first 8 core Rock 5B single-board computers"
+excerpt: "After revealing it would make and stock Rock single-board computers earlier this year, component distributor OKdo announced availability of the Rock 5B"
+publishedDateTime: 2022-11-15T17:48:00Z
+originalUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-okdo-stocks-first-8-core-rock-5b-single-board-computers-2022-11/"
+webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-okdo-stocks-first-8-core-rock-5b-single-board-computers-2022-11/"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: Electronics Weekly
+  domain: electronicsweekly.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/11/15174608/OKD0-ROCK-5B-sbc-503.jpg"
+    width: 503
+    height: 408
+    isCached: true
+
+secured: "9DsQ47DGNXeePho7qKq1ak19Rq/C33x7aqS4v6AM3JccpYsNxlrRuxkmcpj7JIZDvL+hCSV1vs6AV8+biJOc1G0QKaNR74Jw5RKrFZOqzYKfbNwBVeGwHrd93MAze8pWNnh1SPZD2TTZWnvnn4AmQgc+vXvPpwjFqJmwKSnljOj/T8sjl9vR2vzjCrPX+nv037w5WKtSjotfcL6AjjdYU0PwTmNPg7USL5gaHBX1PxgBdr6Qu5BtepveldnUBUSbOX90v6o1eFHPyxb0OD1bYa9XMSiJ2WMmDMpAW8SZFs3J4mrdDGZZUCj8xNA0QTAPpi0W5Km86h0zKrEhIqrt/nN92C2O08zbT9DeIDxHP2g=;hilKFRYTQgZ0ep35Hqwj9w=="
+---
+

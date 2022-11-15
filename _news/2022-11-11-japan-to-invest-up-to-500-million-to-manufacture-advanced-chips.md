@@ -24,22 +24,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "Japan to invest up to $500M to manufacture advanced chips"
-    excerpt: "TOKYO -Japan said on Friday it will invest up to 70 billion yen ($500 million) in a new semiconductor company led by tech firms including Sony Group Corp and NEC Corp as it rushes to re-establish"
-    publishedDateTime: 2022-11-11T02:48:00Z
-    webUrl: "https://business.inquirer.net/372366/japan-to-invest-up-to-500m-to-manufacture-advanced-chips"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://business.inquirer.net/files/2022/11/2022-11-11T004855Z_2_LYNXMPEIAA00R_RTROPTP_4_ELMOS-M-A-CHINA-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
-
 secured: "xcRTjtIc9KaU8UYiEvFTyvVd8/R0CY2CPXBVgjBBMmr/kyPU14wK9HKQo+fidN14zyw5YfZcuiIX9YAcRz3gWdPTc8eEi3+5Y1Z0s0t0tGpqmmDxmyKAmLk7ZhQ29zHn10CY+aDSmnbaXYgCdQmkRs2oWggz3bEjgB/yNCcCDFcAfvI0JMiXv4Zpyrp4NH0rMwzBonF0lkxK5jDLh4FJmlaHb9ISB/hz/9yUnPfz55inaMYmYjxGDrIZ9tShMgNBE+erutIQLmOe7eW3y+QgS/HRA/kZaVcv9cEV7WxpBwg7zhDk5t4Of7uDMk54L/1F2hKRN9DcdsdV16kkG3JJasTFJI64WxOxNZrsisua3j0=;ZYG3o2kwoETtAAuD+qkMUg=="
 ---
 

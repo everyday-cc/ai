@@ -105,6 +105,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 24
+  - title: "Japan’s FinTech unicorn Opn acquires US payments startup MerchantE"
+    excerpt: "Singapore-based AI Communis, the startup behind the platform integrating speech recognition and natural language processing technologies, announced on Monday that it has raised $1.3 million US in a seed round. Participating investors include UTokyo ..."
+    publishedDateTime: 2022-11-15T18:09:00Z
+    webUrl: "https://thebridge.jp/en/2022/11/opn-acquires-merchante"
+    type: article
+    provider:
+      name: BRIDGE
+      domain: thebridge.jp
+    quality: 24
+    images:
+      - url: "https://thebridge.jp/en/wp-content/uploads/2022/11/opn_featuredimage.jpg"
+        width: 1240
+        height: 780
+        isCached: true
   - title: "11/11 – Weekly Fintech Recap"
     excerpt: "Partnerships SPENN and Mastercard Partner to Boost Digital Inclusion in Africa Spenn and Mastercard announced a strategic partnership that will enable Spenn Mobile Wallet users – even those without bank accounts - to make safe and seamless digital payments on the Mastercard network including international e-commerce transactions."
     publishedDateTime: 2022-11-11T19:49:00Z

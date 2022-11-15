@@ -91,6 +91,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 24
+  - title: "Japan’s FinTech unicorn Opn acquires US payments startup MerchantE"
+    excerpt: "Singapore-based AI Communis, the startup behind the platform integrating speech recognition and natural language processing technologies, announced on Monday that it has raised $1.3 million US in a seed round. Participating investors include UTokyo ..."
+    publishedDateTime: 2022-11-15T18:09:00Z
+    webUrl: "https://thebridge.jp/en/2022/11/opn-acquires-merchante"
+    type: article
+    provider:
+      name: BRIDGE
+      domain: thebridge.jp
+    quality: 24
+    images:
+      - url: "https://thebridge.jp/en/wp-content/uploads/2022/11/opn_featuredimage.jpg"
+        width: 1240
+        height: 780
+        isCached: true
   - title: "India FinTech Forum Unveils 23 High Potential Fintech Startups for IFTA 2022"
     excerpt: "India FinTech Forum, a not-for-profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high-profile jury this month."
     publishedDateTime: 2022-11-14T09:55:00Z
@@ -115,6 +129,6 @@ related:
       domain: financialit.net
     quality: 4
 
-secured: "E678w+RlpyZPOWDFIPnuQxFIzhuSio4eLvZJIlWjDx+cySErfsgSBnCYOzL3mFiY8Vfak4k5SkStpO1WTpA39hLVrxSCZal77TtnrPEFNnZ4ReuurSGymT43pKle687ZaJfhnbGoh9IpXsJ8zHfZd43o163NrdAQYvHs2B24TAvLfs4WNtLTdSMIQ+cGzoFmG/avCmlnNkltZQ65U2c/zOW1npIE2QXWBWskYFAf4j4H5FeASXBgnfX3Ua9/vVBvLj62FhjlvOxJgLXdhi2C70BaXboWcgOEAiOJXW7+RJEWfeymoPPWKw7YbhVhW8wrAK/Bl5x8q5c2sx44hm0r22oRnoSZNwKE8AFZPrqJ8IY=;8S0sdVyX2drmCqh/dsuUGw=="
+secured: "qze6X7c2+QGWN9RsyVlC6OSK5HqFKUXb5UIauh9Wcbd4wp2FMQsKXIWoc7e2sexsK3kLMBrJGo/T8OGcegMeiwG/NLRdMimN8vyKVOoqpsSvnZAlTKGEC9FjNPkzQ3NumBZY2ry9DGlw4HwDPaqzK7ZJjj7Ab9hTVuFkvlnV08OsO61oNVjmCLofGvqijH/78qqVci9yRgaKENlJ7hdvjF584Bte5Z3yElQFMMiW3wTwf+5w5gqzUowt6pbbXBsAIusfE16Ty46j3iC0TKxS3jWjomzd1wABqvKv9dw/P5WU80ZSAYoG2Ml4qW+eoIdjr7nWbq+4EJVG83XYiHRf/hjo8j06dF7ABFyBI8m+Ibms5ofk+GijMBCie97kCBiktJO+AcwRkQkdQIChjPdRgBgUGOfAJryZHLxzS0TBkRKyu9CQ2WckUTlIZVIJ+xIZvSfL7T73cVjxeE9uPodBMWcJZ/EBPKsbQ7gm+ckZ1oKj0ID+C39l+lA1GiDwFadN/WQcmQWN78/FnLynzd2fug==;sCFIy8mxBCH9XcBtC0q5RA=="
 ---
 

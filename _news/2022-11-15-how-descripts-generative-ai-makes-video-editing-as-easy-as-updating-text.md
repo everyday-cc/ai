@@ -22,6 +22,22 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Descript Seeks to Make Video Editing Simpler with AI"
+    excerpt: "Video editing is notoriously difficult and time-consuming, but a startup called Descript says it has found a way to make it as easy as creating a document or spreadsheet."
+    publishedDateTime: 2022-11-15T16:57:00Z
+    webUrl: "https://www.thurrott.com/cloud/275993/descript-seeks-to-make-video-editing-simpler-with-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/11/descript.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+
 secured: "dL7Um5dd6+XF/9znCVAz7R1GbLh9jGLEW/Cj3qG4xnUrEXySj8dVvLfYSzVCcK8rTHRSZIU/+F7I6ralzWBrpcExRpioVqHbUHDe2kxc2MFjZ2q8mtDEYs1C4b4Qv6V18ga4b+dBJ8FecDxTSS6Od+6PhOry62TgrkC+9JfS5rEvu7wwyPLohAjcqHdFcT9VUWetZQZL6wVruH3mWXtLDQJ9fgkyIIhtrR8qatm84/inlO4KodDIgHzOTIZQ78WXy1FGS18DL0Z2vdKYrslZheECukiKt5/O7BqKMGLdhtl29ETbQ9wFaLxTMHxurl7DdeFnrTCWMjyTdFOcOQ8+1/o7KdDRdjImBK+tG/WSd099lK4/AKJ7GuWkdjUZlN8ly9Muc6SzTI8IndSRVchoDXUQaMGDHfN65CoxP1ZxLMLQUP7teeVZKKVawsQg/csQLp+QwUyuCsrvyC2EyT7uR5iG9yNMnVWfA9yIX5wBQrxOqM+XajmBY5THKb46Ky3f5L6bV0rLjyEJh/onpXOkUA==;/Slr0NnWONYu+dAGXEBSgQ=="
 ---
 

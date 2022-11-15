@@ -34,20 +34,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "How Generative AI Is Changing Creative Work"
-    excerpt: "Generative AI models for businesses threaten to upend the world of content creation, with substantial impacts on marketing, software, design, entertainment, and interpersonal communications. These models are able to produce text and images: blog posts,"
-    publishedDateTime: 2022-11-14T13:26:00Z
-    webUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/11/Nov22_14_1364531717.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Daydrm.ai's AI Tool, created by a Former Agency Creative Director, can now Generate Creative Advertising Ideas."
     excerpt: "The Artificial Intelligence tool at Daydrm.ai can now generate creative advertising ideas. This AI tool was created by a former agency creative director who has become the front-end Software Engineer at Daydrm.ai. It's no secret that artificial ..."
     publishedDateTime: 2022-11-15T16:14:00Z

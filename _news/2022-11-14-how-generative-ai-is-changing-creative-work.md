@@ -25,42 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "How 2022 became the year of generative AI"
-    excerpt: "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code."
-    publishedDateTime: 2022-11-11T17:18:00Z
-    webUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
+  - title: "New Microsoft partnership accelerates generative AI development"
+    excerpt: "Reinforcement learning for Microsoft's Project Bonsai is now using DIMC technology from d-Matrix to accelerate generative AI development."
+    publishedDateTime: 2022-11-15T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/new-microsoft-partnership-accelerates-generative-ai-development/"
+    ampWebUrl: "https://venturebeat.com/ai/new-microsoft-partnership-accelerates-generative-ai-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-microsoft-partnership-accelerates-generative-ai-development/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 106
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1180780724-e1668530418994.jpg?fit=800%2C422&strip=all"
         width: 800
-        height: 533
+        height: 422
         isCached: true
-  - title: "The AI Image Generator: The Limits of the Algorithm and Human Biases"
-    excerpt: "AI generative art algorithms usually function by drawing on ... You'll now receive updates based on what you follow! Personalize your stream and start following your favorite authors, offices and users."
-    publishedDateTime: 2022-11-11T14:02:00Z
-    webUrl: "https://www.archdaily.com/992012/the-ai-image-generator-the-limits-of-the-algorithm-and-human-biases"
+  - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
+    excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
+    publishedDateTime: 2022-11-15T13:11:00Z
+    webUrl: "https://www.zdnet.com/article/your-supply-chain-is-probably-a-mess-microsoft-says-it-has-the-answer/"
     type: article
     provider:
-      name: ArchDaily
-      domain: archdaily.com
-    quality: 17
-  - title: "Daydrm.ai's AI Tool, created by a Former Agency Creative Director, can now Generate Creative Advertising Ideas."
-    excerpt: "The Artificial Intelligence tool at Daydrm.ai can now generate creative advertising ideas. This AI tool was created by a former agency creative director who has become the front-end Software Engineer at Daydrm.ai. It's no secret that artificial ..."
-    publishedDateTime: 2022-11-15T16:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29731849/daydrm-ais-ai-tool-created-by-a-former-agency-creative-director-can-now-generate-creative-adverti"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29731849"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29731849"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+  - title: "Microsoft Announces AI Supply Chain Platform"
+    excerpt: "Artificial intelligence and enhanced data use are becoming a key part of supply chain management, and Microsoft has announced the Microsoft Supply Chain Platform."
+    publishedDateTime: 2022-11-15T15:53:00Z
+    webUrl: "https://www.environmentalleader.com/2022/11/microsoft-announces-ai-supply-chain-platform/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 54
+    images:
+      - url: "https://s30148.pcdn.co/wp-content/uploads/2022/11/Screen-Shot-2022-11-14-at-5.10.16-PM-1024x707.png"
+        width: 1024
+        height: 707
+        isCached: true
+  - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
+    excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
+    publishedDateTime: 2022-11-14T17:24:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-aiming-to-combat-global-supply-chain-disruptions-with-new-initiative"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ha9XZXKHm5RyLDfEdvC4EH-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Microsoft’s new Supply Chain Platform combines data and AI to help fix logistics and inventory problems"
+    excerpt: "Microsoft's new Supply Chain Platform combines data and AI to help fix logistics and inventory problems - SiliconANGLE"
+    publishedDateTime: 2022-11-14T15:15:00Z
+    webUrl: "https://siliconangle.com/2022/11/14/microsofts-new-supply-chain-platform-combines-data-ai-help-fix-logistics-inventory-problems/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/aerial-view-factory-trucks-parked-near-warehouse-daytime.jpg"
+        width: 2000
+        height: 1498
+        isCached: true
 
 secured: "G5SOYG4pPTvVT57CQTGOqOpP/Hb84K26mjgBbJQ1amgF+LihPSMfQ/wIHXGMXdPMThOdFKxhUI2H/GBQxqAbSvCL99qZM/awcimCvayFPjdXFuhT7oz4D5HywvSupbZvMiX1o7XvjfsGvn00PBvOwqkj/x7pXBX14zE5TQNTVWuDgn+4tCmR8F/Sjf4CM2B5N8I/2pUNmYwSOO3yjB0R7QeoZGQqdUADFZ9PORn8f01vXMZXRC3XO8hWzVGOAPHdPhtOaCzzqhUIBmZwDrhIT6cRSXfgvpojSjmv6eXVPV5erQrAvhYJgauUDbDRqkRIm/DA8yiETqxYUMeuuazsPxO1rXJXBaWzD/iYsxZgIctbfQAQhZYtdNTWc/j3CZujB7LLRDS7K59D7ZZ7K355hcVJPe3ApyX+/dxCs9h0W4MH5dWd6u/7X3+23RU7Pts+08cCNoPj1OAj3InErW5ymqljAaMIZgyuluGbwpDwYmR9nZDnBYXYUycfBBzfJlGR8zJNch4DmXwDPiIIJK/Tdg==;ZqySn6Tscfbl2zfQSxe59w=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "New speech recognition tech uses facial movements to transcribe mouthed words"
-excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
-publishedDateTime: 2022-11-14T17:24:00Z
-originalUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
+title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
+excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
+publishedDateTime: 2022-11-15T04:48:00Z
+originalUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
 type: article
-quality: 71
-heat: 111
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: Gadgets Now
-  domain: gadgetsnow.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
-    width: 800
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?457052"
+    width: 374
+    height: 250
     isCached: true
 
 related:
@@ -85,6 +83,6 @@ related:
       domain: usnews.com
     quality: 49
 
-secured: "FAkH95i+cx3qssbFpn+IZqs8yfjfY8J5GbW1wSyowdO9k3bYLUVb1SRF6CtrkMvSoG0PvFS7uL5xtwTXkFJErlG7MiL5DWjN683yTHNW+Jl0IVohcdsczeqWFbDjH3piLfmUL071CKivNpPZF9TqlpByl05XRhhmSgJI8BBZvdwVbEtR+QYUXDOdgSZyOFj9A1aiEUwG5vlpdVi4wb318gADfeeJvSWENrlxbbcm46SDXhjLBmh6oR8jBeAuKh23DRi2zcUNjGwyGxeb0zou6OEPlnCkj0ad956Zw36k6slY8WJcpJv8cWo26sWBvrq1j31u8vjOS07aXgtpJG8KRaruaQdU/GClFYBqZhOaT2k=;Du9bk8pC+otXMDsdSVh52Q=="
+secured: "dfLKCZDjKMZ/n3Y+TFfxX+PN8WcSuQZTu7YPuR52DK+8CBfN7ZSqjp++Ec5xveaBuiuVP8WwIh6IVEiJZnSSKajQ7PXiYYy+GHIO8XdIJP6+ocnanQ/plC+tGOjda29HZdcUtLd80/9kDnH6ULFY1BoQuc0I+meNVsqG8z1kwZfdcEQhgt2rPXgTIsgxjJj6Sm1LXfSMj1K6Ih6ys2d8IjEOdJWTnH83reyckJlpr+8ePlljewryh4fzKt2DjeW0OwRiugv9judOGZcRep/PaR22Iv9CkxrAPsdZfkn0Jn1Hhb9DpKPR4iF4ISuq16/rsgV6R3ETvMAtfP+UHrxCvPHysRsX2QgKcRnsO4nYco4=;36bc6rQaPYHrmEjYnKrkTg=="
 ---
 

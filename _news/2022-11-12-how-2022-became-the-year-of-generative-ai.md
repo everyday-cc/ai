@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Is Changing Creative Work"
-    excerpt: "Generative AI models for businesses threaten to upend the world of content creation, with substantial impacts on marketing, software, design, entertainment, and interpersonal communications. These models are able to produce text and images: blog posts,"
-    publishedDateTime: 2022-11-14T13:26:00Z
-    webUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/11/Nov22_14_1364531717.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The AI Image Generator: The Limits of the Algorithm and Human Biases"
     excerpt: "AI generative art algorithms usually function by drawing on ... You'll now receive updates based on what you follow! Personalize your stream and start following your favorite authors, offices and users."
     publishedDateTime: 2022-11-11T14:02:00Z
