@@ -9,8 +9,8 @@ ampWebUrl: "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biome
 cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Travel Daily Media
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK deploys fingerprint, face biometrics to track deportees, non-Irish EU citizens"
-    excerpt: "People subject to deportation orders in the UK will soon have to carry a GPS-enabled fingerprint scanner to verify location and identity."
-    publishedDateTime: 2022-11-11T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202211/uk-deploys-fingerprint-face-biometrics-to-track-deportees-non-irish-eu-citizens"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/21105254/uk-border-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Italy to limit face biometrics systems use nationwide to police"
     excerpt: "The Data Protection Agency has warned two municipalities experimenting with face biometrics to stop until governing legislation is adopted."
     publishedDateTime: 2022-11-15T20:38:00Z

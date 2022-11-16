@@ -35,20 +35,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "UK deploys fingerprint, face biometrics to track deportees, non-Irish EU citizens"
-    excerpt: "People subject to deportation orders in the UK will soon have to carry a GPS-enabled fingerprint scanner to verify location and identity."
-    publishedDateTime: 2022-11-11T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202211/uk-deploys-fingerprint-face-biometrics-to-track-deportees-non-irish-eu-citizens"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/21105254/uk-border-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
 
 secured: "Puqkngw51/94c6A9GkfnMwmsysngtqMqA9/R9tduX9ew252HgUoafKtMpKWcylvcKaUD/oTw4PXIBXF5PSSQrEvUvdEEWMTGYrKua0XvVSlvkMxaGWJBI13By8Vo1EXoNI6Y3DCzWxp8GCux/AlsThkZtLgolRBJE2qepgqgC3w5qG9WV9xwcGtoFbkz0Goh6gg93EsXRumyYWyoYdfQnIpDQt3KjWxZgXt1gC4iF7xPwhHqdmYotqRJTYWvERzHrU+Kt/ra1+tmFCGEAp764WtMncUY4U/myEss+o6Qhmc4jKDoR3rqm0ntB+zgLxxBTE2qG62OA5T1DXvMt+FxuVX9iEcwviBQ4bKWIUVMIcENsAuE+zib/J3sL9zB4p9eOksP2p2OVkDx0KIA8z/CwmVj8P6GBPxT3y8X/kvxTbzbHWypDQWF0QndMCPqiOz5WM82G5eH1Hx26x4Tvz6xmXygsDAXB7HkqoHE6X8PMLPt3Lvf33UHqs54q9ko+TTaIrOQUMbHUC//StSgwpVS9A==;+0zQ6NToVFBc1S+ibXfHMA=="
 ---

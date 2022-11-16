@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-drew-this-gorgeous-comic-ser
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-drew-this-gorgeous-comic-series-can-you-tell/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: CNET
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Free Comic Series Is Gorgeous. You'd Never Know AI Drew It"
-    excerpt: "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a demonstration of how shockingly fast AI is evolving."
-    publishedDateTime: 2022-11-11T18:00:00Z
-    webUrl: "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "You'd Never Know AI Drew This Beautiful Comic Series"
     excerpt: "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a demonstration of how shockingly fast AI is evolving."
     publishedDateTime: 2022-11-11T21:47:00Z

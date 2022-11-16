@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "OurCrowd expands Abu Dhabi investment operations and launches global AI hub"
+    excerpt: "Expanded OurCrowd Arabia operations will manage emerging market deals for existing Abu Dhabi platform OurCrowd’s Abu Dhabi team to expand to approximately 60 over four years to be based at Abu Dhabi Global Market (ADGM) ABU DHABI,"
+    publishedDateTime: 2022-11-16T10:36:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ourcrowd-expands-abu-dhabi-investment-operations-and-launches-global-ai-hub-v4jzafvq"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:NTYzN2VmOWEtNGVkNC00:NWI4NjVm/argentina-national-football-team-camp-and-friendly-match-in-abu-dhabi.jpg?f=1%3A1&q=1&w=3840"
+        width: 548
+        height: 548
+        isCached: true
   - title: "OurCrowd Expands Abu Dhabi Investment Operations and Launches Global AI Hub, in Partnership With ADIO's Innovation Programme"
     excerpt: "Dr. Dewan said: \"IDI is the culmination of OurCrowd's strategy to revolutionise its FinTech platform with AI funcionality across the board. We intend to leverage these tools and architecture to deliver AI solutions that can be broadly used by external ..."
     publishedDateTime: 2022-11-16T08:55:00Z
@@ -52,6 +66,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "+KNiB7Qxt4gQ01SD2ZUnRzxfhvbijSFi1qQtbEzoRQbp7j55DwmOHB5R20rim/UUOxOv4xmeSsSErJmajTLO2i6tb2a7N6zG9EkWktqt9uFDdq5XMAa4CK5zU5a0A5UpPhZa7iGGKA6qPR88Mp0yTt1a8wMgd/zf2NGExaSbr3tt2CuI0QipGFlQh8FLQWosEKl8ngt1i8IdLxe0fE9qvG1j3pizlGBrYxIyRfZ1D9ayACDFho9gv7GcdARSR9QEUVMiz5bUaiV9q5X6VKIcIGZ3QQXoDljmV+wt1n/ZKsMocHiJY58O6PIBH1Or8K5l0fPN/p9ta31H7Cfr0EocNHYjCRZv6zeJG63J5F+Da1A=;eZCWJlV3ydTjjpJOs9zPKw=="
+secured: "ixRuOQXTmpIax6efhW21Rl1ZeJu2A6ll+7zecZAuVtjr4BK+ZwRoQHx1Ca7LPY5HS4njJC4KAph2fzQyd9xmkiaflra5g651cWfe3FB5Qh2T981mBMIPJ43kOufdFowR//ZQNOIwSrsnTjnld2mef8hLXkS74i2P+Yv1u70imjm1R4ACB5PMHgNZF/gmBIAWdVwE1IlA6VtESFw3Tc6vsfuciBDgTbK0esd8dvPL0EhQbQuJ2uC9x70f5my4g4KEf1chkYkvpmWZEE0AN3IT2DJpultc6Uih2lJbjwLm/nDgYJcy8mcKg0CjrLSn5M8+qWtFnM6XUi654d8lc4II6XRjrz4fRT75PSjTJTNGhJC6YaMDbRlG+G+u6fH/ca9lYK1N4Ts0c6wPpwxYE4gjCBP81d3NmiMH9K2dcoYBMfmXWNVAgtkWO6Tu1QUYLIS5f8b3lg0S8lhMxUhVXBhJtMwroKAzQnjonTyT3Hg1+AHxWcVK2ut5Z8I1HGSSXTDeAisAWQu5GPXhUCZwDzgg7w==;knuz3tOxz1tCN+2N+9ZlSA=="
 ---
 

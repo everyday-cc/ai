@@ -36,7 +36,7 @@ related:
     provider:
       name: Forbes India
       domain: forbesindia.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg"
         width: 900

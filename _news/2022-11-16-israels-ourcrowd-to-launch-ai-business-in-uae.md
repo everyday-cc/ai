@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-busines
 webUrl: "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107152442-16685880061668588003-26611735275-1080pnbcnews.jpg?v=1668588781&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "OurCrowd expands Abu Dhabi investment operations and launches global AI hub"
+    excerpt: "Expanded OurCrowd Arabia operations will manage emerging market deals for existing Abu Dhabi platform OurCrowd’s Abu Dhabi team to expand to approximately 60 over four years to be based at Abu Dhabi Global Market (ADGM) ABU DHABI,"
+    publishedDateTime: 2022-11-16T10:36:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ourcrowd-expands-abu-dhabi-investment-operations-and-launches-global-ai-hub-v4jzafvq"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:NTYzN2VmOWEtNGVkNC00:NWI4NjVm/argentina-national-football-team-camp-and-friendly-match-in-abu-dhabi.jpg?f=1%3A1&q=1&w=3840"
+        width: 548
+        height: 548
         isCached: true
   - title: "OurCrowd Expands Abu Dhabi Investment Operations and Launches Global AI Hub, in Partnership With ADIO's Innovation Programme"
     excerpt: "Dr. Dewan said: \"IDI is the culmination of OurCrowd's strategy to revolutionise its FinTech platform with AI funcionality across the board. We intend to leverage these tools and architecture to deliver AI solutions that can be broadly used by external ..."

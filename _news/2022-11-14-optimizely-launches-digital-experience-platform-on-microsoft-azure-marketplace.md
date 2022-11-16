@@ -48,6 +48,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
+    publishedDateTime: 2022-11-16T09:53:00Z
+    webUrl: "https://www.newswit.com/en/Lt1B"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 54
+    images:
+      - url: "https://www.newswit.com/img/f/20221116/ed1cb5aa5f06e53b7c7c13545344bac2-0.jpg"
+        width: 800
+        height: 455
+        isCached: true
 
 secured: "RoKnlWscCNN3uiqOOQmiek7NRy6yqHHkXoGn99xKVRYOXIywagk7Z8l6wqxNoH4ChHZyAyLAICr49Z1Let3tAreISFUg+TmypsKEajOj+0G7/WdFhARYfOh1t5Gvu+4v8ADOi3j/BUIzDQF/7lKTw2hOK5vBrFmkgX6LDWhE3UjHct15gySPaGYMuxXin5xVBnStkUI5zIZpH1YvpiKdGISbvAm0nVglKA8s5Pa2eJJreVdiTujSngKwMg0dWnJdHSXYJTg3GgHTp6grA5uv1zv1VQUi4aBhQoOYHdqvm1HX4eMk93PyHqXldrQBe3JPzL60ZZ9vF2zGIMQfjHobfxHPermNIeS8JK16AQ4i0kQ=;IZv9sfN01wF4bOy76YQLhQ=="
 ---

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-10-nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-21-results.md",
+      "title": "Nvidia and Intel show machine learning performance gains on latest MLPerf Training 2.1 results",
+      "excerpt": "Both Nvidia and Intel’s Habana Labs reported performance gains with the MLPerf 2.1 benchmark in training machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/machine-learning-challenges.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
+      "publishedDateTime": "2022-11-09T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios.md",
+      "title": "Pixel 8 hardware leaks suggest faster chip, tweaked screen ratios",
+      "excerpt": "WinFuture cites devices codenamed \"Shiba\" and \"Husky,\" both running Android 14 \"Upside Down Cake\" and sporting a new Tensor G3 system-on-a-chip developed with ... with the typical Google AI/ML improvements baked in. The Exynos 2300 was seemingly on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-8-800x488.jpg",
+          "width": 800,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/amp/",
+      "publishedDateTime": "2022-11-09T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-tech-industries-that-should-boom-in-the-near-future.md",
       "title": "Tech Industries That Should Boom in The Near Future",
       "excerpt": "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect",
@@ -1044,103 +1148,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-artificial-intelligence-ai-takes-a-role-in-uspto-patent-searches.md",
-      "title": "Artificial Intelligence (AI) Takes a Role in USPTO Patent Searches",
-      "excerpt": "In 2021 the U.S. Patent and Trademark Office (USPTO) developed an Artificial Intelligence (AI) based prototype search system for use by examiners during examination of patent applications. A",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
-      "publishedDateTime": "2022-11-08T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-introduction-to-machine-learning-for-marketing.md",
-      "title": "Introduction To Machine Learning For Marketing",
-      "excerpt": "Machine learning has been inducted into various domains for automation and insights. It has helped businesses grow by aiding decision-making based on data. Organizations create and deploy machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
-      "publishedDateTime": "2022-11-08T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
       ]
     }
   ],

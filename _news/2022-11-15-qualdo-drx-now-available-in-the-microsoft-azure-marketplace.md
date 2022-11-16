@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://images.livemint.com/img/2022/11/13/600x338/FILES-RUSSIA-INTERNET-GOOGLE-0_1668328840535_1668328840535_1668328865787_1668328865787.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
+    publishedDateTime: 2022-11-16T09:53:00Z
+    webUrl: "https://www.newswit.com/en/Lt1B"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 54
+    images:
+      - url: "https://www.newswit.com/img/f/20221116/ed1cb5aa5f06e53b7c7c13545344bac2-0.jpg"
+        width: 800
+        height: 455
         isCached: true
   - title: "Optimizely Launches Digital Experience Platform on Microsoft Azure Marketplace"
     excerpt: "Optimizely customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. Optimizely DXP offers rich personalization features, powered by artificial intelligence (AI) and benefitting from ..."

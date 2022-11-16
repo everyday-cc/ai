@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-07-how-self-driving-tractors-and-ai-are-changing-agriculture.md",
+      "title": "How Self-Driving Tractors And AI Are Changing Agriculture",
+      "excerpt": "As artificial intelligence (AI) and autonomous machines become more common in agriculture, the industry is going through enormous changes. Ofir Schlam, CEO and co-founder of Taranis, a leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2019/04/27/how-self-driving-tractors-and-ai-are-changing-agriculture/",
+      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2019/04/27/how-self-driving-tractors-and-ai-are-changing-agriculture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/blogs-images/lanabandoim/files/2019/04/Taranis-Dashboard-1200x675.jpeg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2019/04/27/how-self-driving-tractors-and-ai-are-changing-agriculture/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2019/04/27/how-self-driving-tractors-and-ai-are-changing-agriculture/amp/",
+      "publishedDateTime": "2022-11-06T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-the-biggest-opportunity-in-generative-ai-is-language-not-images.md",
+      "title": "The Biggest Opportunity In Generative AI Is Language, Not Images",
+      "excerpt": "AI-powered copywriting has seen stunning revenue growth over ... and will prefer to work with a neutral startup that deploys its solution on-premise. This will be particularly true in highly regulated industries like financial services and healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63672833959962e11fa38215/0x0.jpg?format=jpg&crop=1024,576,x0,y199,safe&width=1200",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
+      "publishedDateTime": "2022-11-06T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-artificial-intelligence-deciphers-detector-clouds-to-accelerate-materials-research.md",
       "title": "Artificial intelligence deciphers detector 'clouds' to accelerate materials research",
       "excerpt": "\"This new algorithm will really help.\" The speed boost offered by artificial intelligence promises to also alter the experimental process itself. Instead of making decisions after data collection ...",
@@ -1094,111 +1198,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-ai-image-generator-dall-e-is-coming-to-your-apps.md",
-      "title": "AI image generator DALL-E is coming to your apps",
-      "excerpt": "OpenAI has announced that its AI image generator can now be integrated into apps and products through its new DALL-E API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
-      "originalUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/twitter-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker.md",
-      "title": "Transfer learning for TensorFlow object detection models in Amazon SageMaker",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg",
-          "width": 1550,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T08:28:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

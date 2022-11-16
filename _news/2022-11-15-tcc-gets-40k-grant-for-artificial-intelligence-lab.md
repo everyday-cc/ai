@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kjrh.com/news/local-news/tcc-gets-40k-grant-for-artifici
 cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/tcc-gets-40k-grant-for-artificial-intelligence-lab?_amp=true"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "TCC receives $40k grant to develop artificial intelligence lab"
-    excerpt: "TCC will create an AI lab using a virtual platform, with the goal of providing greater access to AI computing power, tools and resources."
-    publishedDateTime: 2022-11-11T18:30:00Z
-    webUrl: "https://tulsaworld.com/news/local/education/tcc-receives-40k-grant-to-develop-artificial-intelligence-lab/article_7fe5adac-61db-11ed-8425-d3e7a5ecdf2c.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 17
 
 secured: "j9ihYxo3FivmOn5tGRLsoUvGLpJibu79lgIYk8ZTYm3ehViwsSvAHwy38aVeigDzcGqbSGKxHcJSI3B+UJhy4S2TL08NtM9lZpZLknRZZm2swwxkDDxYCZJKdzOaiMepboRsUJKN160C7oENv176ktjQeCCGIDR0Rrs2fdAkpNLZ2NdkD936pjvVtskO9RuA/daF91CiMPtEdcP6WAvG3jIShTqFGWXMfPOoZ77Vf/ndLpMUCzsEJIvdFGtoesCxW3JK4w8uPkkexJEsJ+i3EN311zcc++EW7UggIafldX5tCu4D2+1wy7VuvThB7AV1sdCf4LFhepLKwKlIyoWAYs3Iv+Rap1qCcfWGnTrkgtBBlU/gsNLIDHVlYcXvS74ITgUca7KpQf63SGrw8XH+UE6FBJWPVtu7g10RvOWGFJZrjRr4LOvqRxfOdbgi8y6QiQmjfTJ4+zup7nIsoTkptVHmLCtgmGJgRVNwOHgUJkZWYP6kW+k4CbhgH/H6X8tCHp8ZxXnplmbWHptzirSf9A==;VT6IAv9LrznbGMEAB5zUBg=="
 ---

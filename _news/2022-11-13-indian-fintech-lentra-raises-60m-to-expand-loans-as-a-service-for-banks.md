@@ -97,6 +97,20 @@ related:
         width: 660
         height: 454
         isCached: true
+  - title: "Fintech to accelerate growth after funding round"
+    excerpt: "A Cardiff-based fintech behind an AI-based credit scoring service to people without a credit history or those looking to secure small loans has secured backing from a number of"
+    publishedDateTime: 2022-11-16T10:21:00Z
+    webUrl: "https://www.insidermedia.com/news/wales/fintech-to-accelerate-growth-after-funding-round"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/AGAM-Shabnam-Wazed-77736-1668515720.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Japan’s FinTech unicorn Opn acquires US payments startup MerchantE"
     excerpt: "Singapore-based AI Communis, the startup behind the platform integrating speech recognition and natural language processing technologies, announced on Monday that it has raised $1.3 million US in a seed round. Participating investors include UTokyo ..."
     publishedDateTime: 2022-11-15T18:09:00Z
@@ -111,6 +125,17 @@ related:
         width: 1240
         height: 780
         isCached: true
+  - title: "Rise of fintech 2.0 - The next phase of fintech evolution"
+    excerpt: "Forbes India and AWS 'The Mavericks' keynote address imparted some insight into 'The Evolution of Fintech: The next phase' and the crucial role of technology in shaping the future of fintech"
+    publishedDateTime: 2022-11-16T07:07:00Z
+    webUrl: "https://www.forbesindia.com/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 24
   - title: "India FinTech Forum Unveils 23 High Potential Fintech Startups for IFTA 2022"
     excerpt: "India FinTech Forum, a not-for-profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high-profile jury this month."
     publishedDateTime: 2022-11-14T09:55:00Z

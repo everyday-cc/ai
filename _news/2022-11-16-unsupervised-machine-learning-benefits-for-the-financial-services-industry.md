@@ -8,8 +8,8 @@ webUrl: "https://securityboulevard.com/2022/11/unsupervised-machine-learning-ben
 ampWebUrl: "https://securityboulevard.com/2022/11/unsupervised-machine-learning-benefits-for-the-financial-services-industry/amp/"
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/11/unsupervised-machine-learning-benefits-for-the-financial-services-industry/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"

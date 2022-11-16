@@ -47,6 +47,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OurCrowd expands Abu Dhabi investment operations and launches global AI hub"
+    excerpt: "Expanded OurCrowd Arabia operations will manage emerging market deals for existing Abu Dhabi platform OurCrowd’s Abu Dhabi team to expand to approximately 60 over four years to be based at Abu Dhabi Global Market (ADGM) ABU DHABI,"
+    publishedDateTime: 2022-11-16T10:36:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ourcrowd-expands-abu-dhabi-investment-operations-and-launches-global-ai-hub-v4jzafvq"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:NTYzN2VmOWEtNGVkNC00:NWI4NjVm/argentina-national-football-team-camp-and-friendly-match-in-abu-dhabi.jpg?f=1%3A1&q=1&w=3840"
+        width: 548
+        height: 548
+        isCached: true
 
 secured: "pqHvgBjUyDcLx9e/2XRW+BXn+SiA5iNEilk3XTkQCUsIN81fyE5UnV+VXwLiCtgd7cwp+uY/XRF/jlo3OE9hvCaQYiW82U89MpiJBejbhPxq8LD73pdWJ9DKqSgY5xbARf1XN8zuWOq2jCBeeCeWJ5+0ihsHhtnRBW6cT5Rb4LIIuHXsa7pKnBwtmiAqQFqIsJoyRCE+U418Ad7HgCwke9Q/h8Wjv2As4e5pWHYZlTj4QJJOSIEuUQG8C+e/k/raOQ15PXmamOGdSh3fXVRpyuo3AtO/tA3r+cRTkY4D3xTGNeU/rP3Ye/sNApIm7h8PjXkJtjS6TNFyJvQNsR8G0RpI0rCT0XKRmxd+8L1tTKI=;13BW8IImKLOxzq3wkhypQA=="
 ---
