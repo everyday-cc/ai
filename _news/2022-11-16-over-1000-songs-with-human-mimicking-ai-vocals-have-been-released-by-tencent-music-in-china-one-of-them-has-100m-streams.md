@@ -7,7 +7,7 @@ originalUrl: "https://www.musicbusinessworldwide.com/over-1000-songs-human-mimic
 webUrl: "https://www.musicbusinessworldwide.com/over-1000-songs-human-mimicking-ai-vocals-have-been-released-by-tencent-music-in-china-one-of-them-has-over-100m-streams/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2868
     height: 1929
     isCached: true
-
-related:
-  - title: "AI music startup Boomy has been used to create 10m songs"
-    excerpt: "We’ve seen a flurry of announcements from streaming services recently about their catalogues reaching 100m tracks: Apple Music, Amazon Music and YouTube Music. Now there’s an announcement about a catalogue that’s a tenth of the size,"
-    publishedDateTime: 2022-11-11T09:55:00Z
-    webUrl: "https://musically.com/2022/11/11/ai-music-startup-boomy-has-been-used-to-create-10m-songs/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
-    images:
-      - url: "https://musically.com/wp-content/uploads/2022/11/boomy-ai-music-2022.jpg"
-        width: 1500
-        height: 500
-        isCached: true
 
 secured: "4eEZnKVFKBPW7GwX8PLCacJloPmHXqsGGHqdNfpR2lLnPpQQmFpuax9XGZ4e+2WzXBT4ZjRH+cZn98VXlYzYk9Jt2b3YunZ5fVL9MCgqsJZVAidVHoBy32u3VGL1+hsyi6f7XMb63eW/RO0xHlTdjAGhyrS1Lwlumh1lu1FQ6LAKeDuzxfxL/dS69b+XRAh4RPKBOE8rNA/rdVJUhlCOI/w7BqzNDt4rUWJh5I/RIx2d7YFUIEgYP9S4gNXWNAavo9+57SleIPsw2TBnpxZtwuyGXxR1DiUi01j0LfyfTNiQjvJz7JUQrzjuF79B39fCUeWHVy+2k5BUFq9GAK3myL9Rh4wZjRtywhLBWzikoKrdjXm6nv97vMkMqBM5DgaH9X+n8HK4IWIKYdX9Q4sL9aRiDQsjnqSyBELTTsKzOis4eI3cmyXQN4iZRH9WWbFjkd6y3K0s6EVXOuAW81JiH6H9xk0HkpVviSffZy5CGkG5rcf1PgG7xDPsg25tuGWzrH2T4VClHJUGmXMa0Y9uKQ==;vQJK111d+E5PmMbYtNQMZg=="
 ---

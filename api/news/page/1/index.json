@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-qualcomms-next-top-tier-android-chip-adds-ray-tracing-wi-fi-7-connectivity.md",
+      "title": "Qualcomm's Next Top-Tier Android Chip Adds Ray Tracing, Wi-Fi 7 Connectivity",
+      "excerpt": "Qualcomm's top-tier chips power the priciest Android phones that compete with ... phones with the new chipset will offer improved AI that can, for example, more accurately spotlight you against your blurred Zoom background. Qualcomm also promises more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/bc10e675dd6ea165f365e7121f39896a88e56f23/hub/2022/11/14/0505a75b-5ae0-4b93-a8d8-3f1ca6ad1bd7/qualcomm-snapdragon-8-gen-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
+      "publishedDateTime": "2022-11-15T16:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
       "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
       "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
@@ -49,58 +101,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more.md",
-      "title": "Qualcomm unveils the Snapdragon 8 Gen 2 with Wi-Fi 7 support, AI and gaming performance boosts and more",
-      "excerpt": "For instance, the Snapdragon 8 Gen 2 processor includes new Snapdragon Elite Gaming features like real-time hardware-accelerated ray-tracing, a 25% GPU performance boost and ... X70 5G modem and uses Qualcomm's 5G AI Processor to improve speeds, latency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/",
-      "originalUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9a49c8ba6b68de68cf3574a0e9ad6fbabfc49c50/2022/11/15/10300eac-7fee-49e0-9ebb-251f2e1aa53d/snapdragon-8-gen-2-chip-and-qrd-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/",
-      "publishedDateTime": "2022-11-15T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -187,6 +187,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts.md",
+      "title": "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts",
+      "excerpt": "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts",
+      "originalUrl": "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/0338lYBMfwaUJRqTokcbrVk-1.fit_lim.size_1200x630.v1668548876.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -906,7 +957,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1190,57 +1241,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-how-will-ai-and-5g-power-the-next-wave-of-innovation.md",
-      "title": "How Will AI And 5G Power the Next Wave Of Innovation?",
-      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. Artificial intelligence (AI) continues to permeate every sphere of our society and deliver new and improved experiences. It could be said that AI will transform every ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668409539-Myproject-1135.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

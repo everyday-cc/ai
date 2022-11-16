@@ -42,6 +42,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "AI-powered video and audio editing app Descript raises $50M"
+    excerpt: "Descript was founded by former Groupon Inc. Chief Executive Andrew Mason, who told TechCrunch in an interview that the app is designed to be a simple, intuitive yet fully powered editing tool for video and audio that relies on AI to do much of the processing for users."
+    publishedDateTime: 2022-11-16T01:10:00Z
+    webUrl: "https://siliconangle.com/2022/11/15/ai-powered-video-audio-editing-app-descript-raises-50m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/descript.png"
+        width: 1069
+        height: 643
+        isCached: true
 
 secured: "tFh/F6orv/9MdkkEVY/60+nXNIJsrVTFQ+BduSJkOAHuYTFZ6OnYzRNIcXU7u6xA3NISPJNSpHAnVmbyArY2KzVQkUvhslhvATDMCRivYtVtYQdBrDgSD7leELTzfnwTIsKjfCBjY6KmyxSXXi7/HoHYDrrSCCnaZfFsjuyJvuDwl6rx0shLqP+MDd3NtoU6D9PECKus97zuTtU4iezX2r6cDlT+kBfMbCanMF4azBRYUNSN3Oh/SYnJv9pLrmffDns8iq9bEsQ1YNrnYAfi0u91lnmy+grTkxtYb2a+OnPx4TDhKKMI7aPjH+r3RuJePoV5IfhSzuIzn4LzCobS3PUol01UH7/INOPFAf7i/NS84VpXh3jBiyzIk/xXJwj0vBz9C3M9bZufIYx0xZ9Hk6/bzGglI8p2PftqKWobUoFk+xk47Knp6/ZOHRzzkmFh/gjwKjTqfTicIxalwRMoTuANa1CaUgINSSy+QD79I4j2t2+YKmnjwrb7CwSfWSLo6AeK4gYDcT2oQFvxc94V6Q==;mHGpYlVpreZQIGlb/lNzOg=="
 ---

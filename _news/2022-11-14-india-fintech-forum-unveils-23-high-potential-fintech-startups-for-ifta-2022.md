@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Isle of Man launches Fintech Innovation Challenge"
-    excerpt: "Digital Isle of Man (an executive branch of the Isle’s government) has announced the launch of its second annual Fintech Innovation Challenge, an opportunity to engage with international stakeholders and industries in their digital ecosystem."
-    publishedDateTime: 2022-11-11T10:41:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41301/isle-of-man-launches-fintech-innovation-challenge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-11-11-101905.png"
-        width: 480
-        height: 270
-        isCached: true
   - title: "India FinTech Forum unveils 23 high potential fintech startups"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
     publishedDateTime: 2022-11-14T20:41:00Z
@@ -108,6 +94,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
+    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
+    publishedDateTime: 2022-11-16T00:56:00Z
+    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
+        width: 660
+        height: 454
+        isCached: true
   - title: "Japan’s FinTech unicorn Opn acquires US payments startup MerchantE"
     excerpt: "Singapore-based AI Communis, the startup behind the platform integrating speech recognition and natural language processing technologies, announced on Monday that it has raised $1.3 million US in a seed round. Participating investors include UTokyo ..."
     publishedDateTime: 2022-11-15T18:09:00Z
@@ -121,20 +121,6 @@ related:
       - url: "https://thebridge.jp/en/wp-content/uploads/2022/11/opn_featuredimage.jpg"
         width: 1240
         height: 780
-        isCached: true
-  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
-    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
-    publishedDateTime: 2022-11-16T00:56:00Z
-    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
-        width: 660
-        height: 454
         isCached: true
   - title: "11/11 – Weekly Fintech Recap"
     excerpt: "Partnerships SPENN and Mastercard Partner to Boost Digital Inclusion in Africa Spenn and Mastercard announced a strategic partnership that will enable Spenn Mobile Wallet users – even those without bank accounts - to make safe and seamless digital payments on the Mastercard network including international e-commerce transactions."

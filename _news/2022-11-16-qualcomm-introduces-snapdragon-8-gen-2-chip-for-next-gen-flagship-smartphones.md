@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm's Next Top-Tier Android Chip Adds Ray Tracing, Wi-Fi 7 Connectivity"
+    excerpt: "Qualcomm's top-tier chips power the priciest Android phones that compete with ... phones with the new chipset will offer improved AI that can, for example, more accurately spotlight you against your blurred Zoom background. Qualcomm also promises more ..."
+    publishedDateTime: 2022-11-16T00:29:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/resize/bc10e675dd6ea165f365e7121f39896a88e56f23/hub/2022/11/14/0505a75b-5ae0-4b93-a8d8-3f1ca6ad1bd7/qualcomm-snapdragon-8-gen-2.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Qualcomm unveils the Snapdragon 8 Gen 2 with Wi-Fi 7 support, AI and gaming performance boosts and more"
     excerpt: "For instance, the Snapdragon 8 Gen 2 processor includes new Snapdragon Elite Gaming features like real-time hardware-accelerated ray-tracing, a 25% GPU performance boost and ... X70 5G modem and uses Qualcomm's 5G AI Processor to improve speeds, latency ..."
     publishedDateTime: 2022-11-15T23:52:00Z
@@ -41,49 +57,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
-    excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
-    publishedDateTime: 2022-11-15T23:00:00Z
-    webUrl: "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
+  - title: "Qualcomm's Snapdragon 8 Gen 2 Wants To Give Your Android Flagship Phone An AI Edge"
+    excerpt: "That's used in everything from on-device language translation to camera pipeline processing ... and with support for Integer 4 Precision (INT4) it can run more AI models simultaneously. A second AI processor has been added to the Sensing Hub, doubling ..."
+    publishedDateTime: 2022-11-15T23:17:00Z
+    webUrl: "https://www.slashgear.com/1101021/qualcomms-snapdragon-8-gen-2-wants-to-give-your-android-flagship-phone-an-ai-edge/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 71
+      name: SlashGear
+      domain: slashgear.com
+    quality: 65
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/q/qualcomms-/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts_evcy.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Qualcomm Snapdragon Summit: Snapdragon 8 Gen 2 platform unlocks new AI capabilities"
-    excerpt: "Announced at Qualcomm's Snapdragon Summit in Hawaii, the latest chipset features improved AI support, Wi-Fi 7, and faster overall performance"
-    publishedDateTime: 2022-11-15T23:00:00Z
-    webUrl: "https://www.itpro.co.uk/hardware/components/369520/qualcomm-unlocks-ai-capabilities-new-snapdragon-8-gen-2-platform"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 63
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1668547119/itpro/Snapdragon_8_Gen_2_QRD_Indoor_Setting_copy.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Qualcomm’s Snapdragon 8 Gen 2 Announced – Huge Power And Performance With Lots Of AI"
-    excerpt: "Snapdragon Tech Summit, Qualcomm has taken the veil off of its supercharged Snapdragon 8 Gen 2 mobile platform. Naturally, performance in almost all regards has improved, but so too have the overall capabilities - especially those that revolve around AI."
-    publishedDateTime: 2022-11-15T23:20:00Z
-    webUrl: "https://techgage.com/article/qualcomm-snapdragon-summit-2022-day-1/"
-    type: article
-    provider:
-      name: Techgage
-      domain: techgage.com
-    quality: 34
-    images:
-      - url: "https://techgage.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-680x404.jpg"
-        width: 680
-        height: 404
+      - url: "https://www.slashgear.com/img/gallery/qualcomms-snapdragon-8-gen-2-wants-to-give-your-android-flagship-phone-an-ai-edge/l-intro-1668453729.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
-secured: "bVSgGbbfEEZqDtGQpL2EYnAVlfSoKMHOFW+UfN3MofObtDYmUOOE9q4UZWrmY26rWA8R/ByOYvyeOhHisNxoyaLtKAuMW6JE95BZGP/CDdz/C556TeqeeDHuawTOIf0VvIrk1/gLT5GwTu7rDRDgzB5I1yPeyXePHzLySr1gjQq5Us4E7xMss8owUg3RNj+b6z9r3NObX4cqHs3u/JZEvbpjsiHyXwx1v5iVtWY4AHNB9/nmdz7nVsBNHaf/GnqDOj6ZLlcZE1TuMhWl0BEcCbzH3YxxwtCX7DsVL5lNpZAFGD18nnnkMKMPjt8TWi0UFRDiLBXf6z3aljaA5NtB9ceAwwdy/AodkoSS/8u/M/0=;qP9GwC3tSr8FJ4hUm1DxxQ=="
+secured: "2yjhmGfmdbTMdIG/5onxqWecw0z3BILeXj2loWkPTqglbkjP256EPbefyDKCeGqOJBtfU6OV19eg5lhm+OBlwoFqeYgm3TFMh6G1h3aZFaMrnbc2YMa+TY7s7kq0b0oXcsfH0WGSEdRqf8uf3t3DLsZ+014FzLUj1W0qdFOIP0LyVX9A1R342SjCjKLb02yJDYglikO6tczmUmVoGADEyPvg1y4QuoLh+1J2O80GqrnkzFkZQCQW97RWxZTUQKPWSGkeX31w1WC25C9A65FNGaKFYZb8lgf9seBQphmb0Fu+8vX14DLTYAr3WaZBY4wWOjyXRGLt3/Qahm4rDomnbaxMMMQ9bOoeIfq71Ep6xxrxgtJcB1ClGuuo+Zq+QCSuNYWczw0zuaANjXuTJtqeuWCwweOTtnfa4MDJREFegQqSmQk70JegOBfx+/R253NLH+WVg0g+Kd3sUCzLaPHTgQRgRPTlzfl4PEPBw2l2RIWjtzovn0jITqloQm60/eyRhWxrVNhGU9BVKhN8wWL86g==;dsH4bY7oaFKGijOiy9VuMQ=="
 ---
 

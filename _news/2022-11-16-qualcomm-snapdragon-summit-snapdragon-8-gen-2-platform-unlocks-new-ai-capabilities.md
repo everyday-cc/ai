@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-15T23:00:00Z
 originalUrl: "https://www.itpro.co.uk/hardware/components/369520/qualcomm-unlocks-ai-capabilities-new-snapdragon-8-gen-2-platform"
 webUrl: "https://www.itpro.co.uk/hardware/components/369520/qualcomm-unlocks-ai-capabilities-new-snapdragon-8-gen-2-platform"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1668547119/itpro/Snapdragon_8_Gen_2_QRD_Indoor_Setting_copy.jpg"
@@ -29,49 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm unveils the Snapdragon 8 Gen 2 with Wi-Fi 7 support, AI and gaming performance boosts and more"
-    excerpt: "For instance, the Snapdragon 8 Gen 2 processor includes new Snapdragon Elite Gaming features like real-time hardware-accelerated ray-tracing, a 25% GPU performance boost and ... X70 5G modem and uses Qualcomm's 5G AI Processor to improve speeds, latency ..."
-    publishedDateTime: 2022-11-15T23:52:00Z
-    webUrl: "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-8-gen-2-with-wi-fi-7-support-ai-and-gaming-performance-boosts-and-more/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9a49c8ba6b68de68cf3574a0e9ad6fbabfc49c50/2022/11/15/10300eac-7fee-49e0-9ebb-251f2e1aa53d/snapdragon-8-gen-2-chip-and-qrd-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
     excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
     publishedDateTime: 2022-11-15T23:00:00Z
-    webUrl: "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
+    webUrl: "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 71
+    quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/q/qualcomms-/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts_evcy.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/0338lYBMfwaUJRqTokcbrVk-1.fit_lim.size_1200x630.v1668548876.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Qualcomm introduces Snapdragon 8 Gen 2 chip for next-gen flagship smartphones"
-    excerpt: "Qualcomm’s new Snapdragon 8 Gen 2 processor is set to bring up to 25 percent faster graphics, 35% faster CPU performance, and up to a 40 improvement in energy efficiency for next-gen flagship phones."
-    publishedDateTime: 2022-11-15T22:07:00Z
-    webUrl: "https://liliputing.com/qualcomm-introduces-snapdragon-8-gen-2-chip-for-next-gen-flagship-smartphones/"
+  - title: "Qualcomm spotlights embedded artificial intelligence in its latest Snapdragon smartphone chip"
+    excerpt: "At its Snapdragon Summit event in Hawaii, Qualcomm made artificial intelligence the centerpiece of its marketing pitch for its new Snapdragon 8 Gen 2 as it strives to build the Snapdragon name into a globally recognized brand."
+    publishedDateTime: 2022-11-16T02:22:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
     type: article
     provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 36
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 63
     images:
-      - url: "https://liliputing.com/wp-content/uploads/2022/11/snapdragon-8-gen-2_01.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7326506/2147483647/strip/true/crop/4032x2696+0+164/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fc3%2F343f2f3743eb86a24ffd9643e2a1%2Fillumina.jpg"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen 2 SoC announced with AI capabilities: Here's what's new"
+    excerpt: "Powered by the most advanced Qualcomm AI Engine, Snapdragon 8 Gen 2 is the world's most advanced 5G platform, and is tuned to support new image sensors from giants like Sony and Samsung. \"Snapdragon 8 Gen 2 will revolutionise the landscape of flagship smartphones in 2023,"
+    publishedDateTime: 2022-11-16T01:41:00Z
+    webUrl: "https://www.digit.in/news/mobile-phones/qualcomm-snapdragon-8-gen-2-soc-announced-with-ai-capabilities-heres-whats-new-66025.html"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 34
+    images:
+      - url: "https://static.digit.in/default/2c5a65a376cac7e4856fd84ed8294e3876a902a0.jpeg"
         width: 1280
-        height: 762
+        height: 720
         isCached: true
   - title: "Qualcomm’s Snapdragon 8 Gen 2 Announced – Huge Power And Performance With Lots Of AI"
     excerpt: "Snapdragon Tech Summit, Qualcomm has taken the veil off of its supercharged Snapdragon 8 Gen 2 mobile platform. Naturally, performance in almost all regards has improved, but so too have the overall capabilities - especially those that revolve around AI."
@@ -88,6 +89,6 @@ related:
         height: 404
         isCached: true
 
-secured: "cnJ08fEDxsp35rE5byH1gCNl+4Rq64Xk12cHJnsy9QKJZ0z0i/13nKP/h9XHDHbpmGcEfzZ2ZW0dxEzD90FOUWUtVXp5yBVilM4LpmEvuKno27mELxp6lLOvZD4BZpC6VAX9X1y4i9OGPiB8/kDJGSPk5nb/VVdFijG+BISHuKLqM2FbuTuMZ5+moQ3IUItoUdd5VexZdkpoqGAsETMXcE5XLzSvjLB3bYqzMuPJ9W3CsMiq81G1LNCBBaigvwrsoo05mMmC9w0HwZoMncCG3Y5ex0koxEuF+ZmXnJ85NrUi2LnVmPbL2fHf23Dxo4XftHXP3nva1JWDV1pgzYFaGwwxxTGj8cIhAn9rix2AeS8=;pJepCT6KP7lHNrR1Gqs+Tw=="
+secured: "iOea7A7PDRFL9z3++GAG4T9ylu5KweLf1njXidvVybsQN+kXXvhzFaLSqdSV1+xOGX/tWaGeOi7YZG0NaaKmS3CSpH13u0U/JhR8ME4sZ2z5nYB3FIs+SWvimq1gedZjrc9SNrICyjX/eCyVSvMt6ss6uNwy4dUokhSMkK7BtLlDt8h+NHACSybJ7+qZ9+seRP2ReAj5WY2nK/YjS0t2PlQdlRTQW8qeElUSs+JvdEYlVk+xHys9pV0Yq1eXJ7lu6IlWTLxVreWEw0cQ2TGdFTTOeWbOX9hnczs89ncyBvqP6O9lbO4Bait8NUBJuKHAu/WXUIyHa7Ka/tr3gqXGmAFXm8Sx3u8L63nDNEecAvnbBAZfrF/iL0BCS9z3fY1dEeGImD0SyjYsSOgDZkQuxlclY94oAcLCPBGbkHPkRD5m1WwKE7QujrjEiBaUBfYPOe0WkcwZglNx6RoiNBGCDn739ov1RGdJC++6hb4TGvydrLjdwLZw/C4pmwWjJBh/X+aNhPHw4wrCTGhlR81Qmg==;v+rXxH2bOfDXZ7AGSpBX1w=="
 ---
 

@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Isle of Man launches Fintech Innovation Challenge"
-    excerpt: "Digital Isle of Man (an executive branch of the Isle’s government) has announced the launch of its second annual Fintech Innovation Challenge, an opportunity to engage with international stakeholders and industries in their digital ecosystem."
-    publishedDateTime: 2022-11-11T10:41:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41301/isle-of-man-launches-fintech-innovation-challenge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-11-11-101905.png"
-        width: 480
-        height: 270
-        isCached: true
   - title: "India FinTech Forum unveils 23 high potential fintech startups"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
     publishedDateTime: 2022-11-14T20:41:00Z
@@ -116,7 +102,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
         width: 660

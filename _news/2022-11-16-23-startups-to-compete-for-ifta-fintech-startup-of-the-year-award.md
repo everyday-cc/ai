@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-16T00:56:00Z
 originalUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
 webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
@@ -79,20 +80,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Isle of Man launches Fintech Innovation Challenge"
-    excerpt: "Digital Isle of Man (an executive branch of the Isle’s government) has announced the launch of its second annual Fintech Innovation Challenge, an opportunity to engage with international stakeholders and industries in their digital ecosystem."
-    publishedDateTime: 2022-11-11T10:41:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41301/isle-of-man-launches-fintech-innovation-challenge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-11-11-101905.png"
-        width: 480
-        height: 270
-        isCached: true
   - title: "India FinTech Forum unveils 23 high potential fintech startups"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
     publishedDateTime: 2022-11-14T20:41:00Z
@@ -145,6 +132,6 @@ related:
       domain: financialit.net
     quality: 4
 
-secured: "zh9tvsUkHb2wqlv0GhsZ1D/C98v1eSB4Lq7wSMCq1+Ue2vuJYMXjgrskgBdFl5tFuy99oMMOkqFABMXmszxu3yuEDbGNfCZj4JZncB6gQ4QjumLO+Q6r+A1x0Pi+ubg3eVKKYL6bdpu+Cs9XwNYGlG0gXsQpItxaTERpmhB0GL53N0qv6huCobcn1g03kVenJVsb+P2DcivAnZeCAur5odSvSOPywP61H7fveNCtIreRC8MWJT/cV8YMPB2ajyxleKRjq8Qv/d/Oz+s0HQhIhbs3jh7IkQJ0OgVdQwGcAy91nRE8Vs3892pK0ewok0LRjeds8fhg4DQErOOZE4NQoIIWdFRkg7lCo3Mkv631Lfo=;BnX0yWRSAr8egvW9ZQVnvg=="
+secured: "13B6L7vX1qBtp/NnAa1BLGEnBV05dk8grxcD4oFTO3NCQTy3Z6GFaGoXYQmkCBveKRW8DNgtiFC2KjQoBNAsQc29N5Cej4u34nTAJ4uhvlEdQGBw9HXbdxAdFKHkKsbFL5nCLsc2vv1vJKmugm8StqeRs4U0G9CnOVocaAPaS4hTP+UCphQV/zcRc3EgLZDO41Tr5EXBoM6D0BHupHwBkQf0MzmcE4GuTUL1qNjAUv35ILyMNPSd+n0J6j2EMEfHX8hUWNQHLHGXsE5dBoU/S30t3OfN1Qbxosx2bAlOVsStpPHJWkj2EWBARuG6ClwpSKi7+Jl0bSuEHt/iByxRFuCEHgWKCYhoR281xSI085F7w0GSe099/5rY7JVbtRCRqF4qPJnFKZv9IWqyRKbHYJVl5i/AlAa7HFA6q+9I0EFzu/xO0ZWtgM+pX0YcOLo+VSMEaHB0gpI4gDy8wy3WOVGqRps6OgbWyJlvPI6wQ2tksc+UZ0K6RZvmf8hxSTsOg1ZoFMwwJlZZDqM0Jm1CxQ==;+15OW5A0jd3u/7lAv7yp3A=="
 ---
 

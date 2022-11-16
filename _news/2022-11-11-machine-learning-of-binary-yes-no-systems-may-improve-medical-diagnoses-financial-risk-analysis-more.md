@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/cb1900b2-2e23-48ff-b9fa-0f1306657dc8/Rendition/thumbnail/Content/Public"
