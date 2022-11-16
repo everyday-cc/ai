@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Voice Market Size, Share, Regional Growth Status, Business Statistics, and Opportunities Forecast to 2023-2028"
-    excerpt: "Pre and Post Covid are covered and Report Customization is available. Global “Artificial Intelligence Voice Market”"
-    publishedDateTime: 2022-11-11T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-voice-market-size-share-regional-growth-status-business-statistics-and-opportunities-forecast-to-2023-2028-2022-11-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence as a Service Market 2022-2026 Is Booming Worldwide With Comprehensive Study Explores Huge Revenue Scope In Future"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence as a Service Market\""
     publishedDateTime: 2022-11-15T06:01:00Z

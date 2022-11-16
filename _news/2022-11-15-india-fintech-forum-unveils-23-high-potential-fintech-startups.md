@@ -1,24 +1,28 @@
 ---
 category: news
-title: "India FinTech Forum Unveils 23 high potential fintech startups"
-excerpt: "India FinTech Forum has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
-publishedDateTime: 2022-11-15T06:39:00Z
-originalUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/"
-webUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/"
-ampWebUrl: "https://www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
-cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/india-fintech-forum-unveils-23-high-potential-fintech-startups/amp/"
+title: "India FinTech Forum unveils 23 high potential fintech startups"
+excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
+publishedDateTime: 2022-11-14T20:41:00Z
+originalUrl: "https://www.finextra.com/pressarticle/94864/india-fintech-forum-unveils-23-high-potential-fintech-startups"
+webUrl: "https://www.finextra.com/pressarticle/94864/india-fintech-forum-unveils-23-high-potential-fintech-startups"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CIOL
-  domain: ciol.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo.png"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "Five Key Enhancement Factors For Secure Fintech Apps"
@@ -104,6 +108,20 @@ related:
         width: 1240
         height: 780
         isCached: true
+  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
+    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
+    publishedDateTime: 2022-11-16T00:56:00Z
+    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
+        width: 660
+        height: 454
+        isCached: true
   - title: "India FinTech Forum Unveils 23 High Potential Fintech Startups for IFTA 2022"
     excerpt: "India FinTech Forum, a not-for-profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high-profile jury this month."
     publishedDateTime: 2022-11-14T09:55:00Z
@@ -128,6 +146,6 @@ related:
       domain: financialit.net
     quality: 4
 
-secured: "+jMx/zRU0/FEoztniYc8VU8nk+h/I8Xi5GVV7pWCKmPrKGJ+Skjh9X44Q8BJtdeL3lHVWh+aIEveSNUV0I2/SpfGNU2oBqItHMV5L22zvH0fexbKEx2WrwfnlKUAyaWyfpqDC2V5X+CQTrSrPoTnBtq5S/M0Xy4FLbE2kyvrHbh8mTTgE9DWv0DisAKq4pe3+Iabi1Vt/018INRgSN4E1qIESITW+2GAxXqON5s23W4IgLHh8A3qRynI9Ibr0GStLzkptJVSOF4KY+0oBwZq68CmXZAOQKvl32TFIoVpC5F0MB0UbUFUyURtoK/onPQMBGLXSh8GpwMjceDvUdm75LlvWS5klBk+xOnpZcVbl4rEpC3cS5dVd9EAf2ZdY+cN0mZHLtF+bE/5HE60KTm8NtMI0goRsUxRae7H7e4e38uegL21kSSXIOm3iNWRDs+s/LY0tKCyc+csD4ZyCco6bYDTd0sqQUimsHTbgIoFZUBCfRkuYY/goL26H2bOdm57EtmH4ekNJafBFMknCMWEAQ==;y3q7hZFxRvzg/zjS9aBcHQ=="
+secured: "Jh+hB0F0VKXROKsX7vBflFdgXA+6/V15O8PIifqxWkZ5ryL6FY3mFwhpXFmQ/0/5BxW3IxW5UPpf4tNhjHDFhgCO5GOa+byOpgEXsYJhe10GtZqpWucnXb4XKPjH1XKCtTBbiF/53OXGC2lGgHIxh0t0g4fTvgkTgkiaTDWwBXrn1++3azV6QvAfwtornOpOFUBaLxtvO9GOnoTBAzV5rTpr0V+PxrlqhyIMbWmws6nSzEYDmSZvnaNk+GB5yQwHrARB6jXbDrRLUUeWuetJTObHadnznEp1zFHy08g/UAdABTqr9/jc3s2W9FN6n96NCSkbEA4y6bVM1nuGufDU/PFDK1Are1MwRrtKlPMTnKM=;nm0CkNsNC6h5r34pope8XQ=="
 ---
 

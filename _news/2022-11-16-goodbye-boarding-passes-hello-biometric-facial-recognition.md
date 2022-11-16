@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Goodbye Boarding Passes, Hello Biometric Facial Recognition"
-excerpt: "Last week, Air New Zealand customers were some of the first to experience biometric verification at the boarding gate after a successful trial at Los Angeles Airport. It’s all part of Air New Zealand’s plan to take the friction out of travel and to ..."
-publishedDateTime: 2022-11-15T22:49:00Z
-originalUrl: "https://www.scoop.co.nz/stories/BU2211/S00256/goodbye-boarding-passes-hello-biometric-facial-recognition.htm"
-webUrl: "https://www.scoop.co.nz/stories/BU2211/S00256/goodbye-boarding-passes-hello-biometric-facial-recognition.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/BU2211/S00256/goodbye-boarding-passes-hello-biometric-facial-recognition.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2211/S00256/goodbye-boarding-passes-hello-biometric-facial-recognition.htm"
+title: "Goodbye boarding passes, hello biometric facial recognition"
+excerpt: "Boarding passes will soon be a thing of the past. Last week, Air New Zealand customers were some of the first to experience biometric verification at the boarding gate after a successful trial at Los Angeles Airport."
+publishedDateTime: 2022-11-15T23:39:00Z
+originalUrl: "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/"
+webUrl: "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/"
+ampWebUrl: "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/amp/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Scoop
-  domain: scoop.co.nz
+  name: Travel Daily Media
+  domain: traveldailymedia.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.traveldailymedia.com/assets/2022/11/Biometric-gates-at-LAX-scaled.jpg"
+    width: 2048
+    height: 1536
+    isCached: true
 
 related:
   - title: "UK deploys fingerprint, face biometrics to track deportees, non-Irish EU citizens"
@@ -45,6 +51,6 @@ related:
       domain: biometricupdate.com
     quality: 4
 
-secured: "19cLWAtXzOJnlO7y1vbHV3KFNrtwQOoMZdVEoccesJ6W4Pt9Yl8g12iR79n7wUCNTWcY7c8idARhwkxZzCdQrUTK9Zgf7G4owJYC663/dGA8XM0GxpIgjdtdbtXRf7OiPYH0rcFoA2hFYRLzu1G91coKRssMr+313AuYJ6xsV8AqZ7eNKLAu9bNXI/YJlKTpgC8kLhnk3dNAj8CuHvmkPlj/JD/Rzixv2DLbdG+aFib0rYgxTopDkCfmwkdaqvtWOedD1vCunFCDZB3VEyHHkOni2e14W8Ksv7vQ9DkLCuHig1JLCrrP0LNtyVaDG1wKGV8CfqVR1n1BKUwGNb7XExMv/mmKGPCRdJ8f1Gvqzlo=;5tpXxHldgnrFV30yGEoa9A=="
+secured: "3i+JeAKMd4PQ5vPOOT/4g3nJooJJkLprGpoEwjBR+EBYE4deUPFN7I3sQOGbZk29qWvR6Rgj+QFjxjDGUAqcdlBDCYHx53Q3N0NW0pzqx53PynEvjJukeTl/lrQYT8Mf+B9cHrrGWH5CIQvHESnPH4dUOIvp5zRa0XSsib8g26isncEChoXKI8Qy6h06FZsL5eWqDQPk47k/s+xaVUrMt/9uNRiEEMJ8sCX2y3CkWigxoDJ6y24/BuN6S+b+XBp//+htYKCLsS85GH5FDqb+gNohFu2/kL7fNyTyajAi7rECC6yG8+CMKrkYyI0l7UgZanLynVR3KDFKp97z42yHBsa/egpvaXd8tG2IbKyayMM=;EkEMwdd0sU3XJY4xQMq+HA=="
 ---
 

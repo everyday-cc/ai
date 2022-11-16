@@ -20,33 +20,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Global Artificial Intelligence Chipsets Market 2022 to hit USD 24450 Million at a CAGR of 15.7% till 2028"
-    excerpt: "The global market for Artificial Intelligence Chipsets estimated at USD 10200 million in the year 2022, is projected to reach a revised size of USD 24450 million by 2028, growing"
-    publishedDateTime: 2022-11-11T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11"
+  - title: "Global Fintech Blockchain Market Size To Grow USD 8.7 Billion By 2030 | CAGR Of 43.8%"
+    excerpt: "Blockchain technology is transforming operations in a wide range of industries, including finance. Blockchain and fintech are emerging as the most promising technology pairing, with the potential to completely transform the fintech industry."
+    publishedDateTime: 2022-11-15T03:55:00Z
+    webUrl: "https://menafn.com/1105180612/Global-Fintech-Blockchain-Market-Size-To-Grow-USD-87-Billion-By-2030-CAGR-Of-438"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Biometrics Market: A business Analysis, Main players, Size, Growth at a CAGR of 20% to Outstrip USD 5203.7 Million till 2028"
-    excerpt: "Global Voice Biometrics Market Analysis and Outlook: Worldwide \"Voice Biometrics Market\" 2022-2028 is expected to"
-    publishedDateTime: 2022-11-11T07:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-biometrics-market-a-business-analysis-main-players-size-growth-at-a-cagr-of-20-to-outstrip-usd-52037-million-till-2028-2022-11-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?89176"
+        width: 375
+        height: 250
         isCached: true
   - title: "Autonomous Multifunctional Agriculture Robot Market To Reach USD 1,278.5 Million at a 16.7% CAGR by 2030 - Report by Market Research Future (MRFR)"
     excerpt: "Besides, increasing demand for autonomous multifunctional agriculture robots to perform harvesting, seeding, and plant inspection fosters market growth. Growing advances in vision cameras, sensing technology, and artificial intelligence to improve crop ..."

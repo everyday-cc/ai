@@ -1,27 +1,29 @@
 ---
 category: news
-title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
-excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
-publishedDateTime: 2022-11-15T04:48:00Z
-originalUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
-webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+title: "New speech recognition tech uses facial movements to transcribe mouthed words"
+excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
+publishedDateTime: 2022-11-14T17:24:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 71
+heat: 121
+published: true
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?457052"
-    width: 374
-    height: 250
+  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -82,7 +84,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Italy bans the use of facial-recognition technology"
+    excerpt: "Italy's Data Protection Agency has issued a rebuke to two municipalities experimenting with ‘smart glasses’ and facial-recognition technology."
+    publishedDateTime: 2022-11-15T17:36:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/11/italy-bans-the-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/19915/untitled-design-5.jpg?crop=0,0.27416666666666667,0,0.23364583333333328&cropmode=percentage&width=1200&height=450&rnd=133130029250000000"
+        width: 1200
+        height: 450
+        isCached: true
 
-secured: "dfLKCZDjKMZ/n3Y+TFfxX+PN8WcSuQZTu7YPuR52DK+8CBfN7ZSqjp++Ec5xveaBuiuVP8WwIh6IVEiJZnSSKajQ7PXiYYy+GHIO8XdIJP6+ocnanQ/plC+tGOjda29HZdcUtLd80/9kDnH6ULFY1BoQuc0I+meNVsqG8z1kwZfdcEQhgt2rPXgTIsgxjJj6Sm1LXfSMj1K6Ih6ys2d8IjEOdJWTnH83reyckJlpr+8ePlljewryh4fzKt2DjeW0OwRiugv9judOGZcRep/PaR22Iv9CkxrAPsdZfkn0Jn1Hhb9DpKPR4iF4ISuq16/rsgV6R3ETvMAtfP+UHrxCvPHysRsX2QgKcRnsO4nYco4=;36bc6rQaPYHrmEjYnKrkTg=="
+secured: "35rLbhM0UK92twfT+aBF9hen19gL5TjjEZZ5U9lNA4TGIZcryzVU3tyyS+eljGoFSnUU/XzcxAJQtfcPaWyis9uhESQTG8gLjqAnru+fZmSjZsMs3svnI+6qKLnUGjJBED0XpjtjBFROncM67MgRcXJVkCBYLFJMz5TlrjprRQ6NrJCKzy2I1PyI6jc5OOVw8S5cp0d7tVGM/oOfWNHFzFV8ImbgJ4wgbGlLD5jNkAqEyVoApd8vlmOPPPgA0DsBa/scqkddT3X29Svp1KxJ3AEP959UPTNzB/TuS70UQ0tp6VmMyuUaA1++tFABpH3FikoOGb7Dz2bv9VliGlckuLG927LVMooViRBajydfPK0=;HhqzzHEGG4g+U1uH2FgzpQ=="
 ---
 

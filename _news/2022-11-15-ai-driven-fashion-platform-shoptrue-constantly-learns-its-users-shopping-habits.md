@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptru
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "New Fashion Marketplace ShopTrue Combines AI-Informed Product Suggestions With Taste-Driven Shopping"
+    excerpt: "Romney Evans, the tech entrepreneur who co-founded True Fit, a leading apparel fit technology company, today is launching a new firm called, Shoptrue."
+    publishedDateTime: 2022-11-15T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/sharonedelson/2022/11/15/new-fashion-marketplace-shoptrue-combines-ai-informed-product-suggestions-with-taste-driven-shopping/"
+    ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2022/11/15/new-fashion-marketplace-shoptrue-combines-ai-informed-product-suggestions-with-taste-driven-shopping/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2022/11/15/new-fashion-marketplace-shoptrue-combines-ai-informed-product-suggestions-with-taste-driven-shopping/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6372976de0fd37716b61196f/0x0.jpg?format=jpg&width=1200"
+        width: 936
+        height: 530
+        isCached: true
 
 secured: "oPfNnpZpdLVBZ0sQE1Wvs3CIwNbwJcpQzjkJ4dEo/H3vjOjxvZnRuxE17kI0pTX+n3xDpytcseUrXiCoo6dgY8cakP7sYrMK4amzUe4hTSU5blTdUjEXkTZwE6qF58n57Xqem1TyHwRFkxU6bacNqMhAPiAukr/oilPxCg/Z0YIWO/t/QMKYApYNHaw3WEx0HrRTYYsW/SLU7hMxoGmFI02bHZ141QbrTD5JLDEBa/6jfE2J439Bs7Jy9Sf/a2xRMxlEBbUUPMxsd15I8vawiFcYViuDZBe8WbLwS85QXxEmyzKkSNdeKdItx4qFr/d4FtE06NfpBBrUdtMuZkTySBYxnxJ2f+F5u3pyBBqgLaM=;osfvNWW/70OUl5p1jensZA=="
 ---

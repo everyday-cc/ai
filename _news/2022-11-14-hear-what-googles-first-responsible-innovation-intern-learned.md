@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/inside-google/googlers/hear-what-googles-first
 webUrl: "https://blog.google/inside-google/googlers/hear-what-googles-first-responsible-innovation-intern-learned/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

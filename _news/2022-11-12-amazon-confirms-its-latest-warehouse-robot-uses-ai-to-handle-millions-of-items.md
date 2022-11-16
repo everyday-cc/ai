@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Amazon's latest robot picker for warehouses uses AI to identify objects"
-    excerpt: "The company claims Sparrow can help make workplaces more efficient and safer, but reports have suggested there are higher rates of serious injuries at Amazon's automated warehouses.."
-    publishedDateTime: 2022-11-11T21:38:00Z
-    webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html?src=rss"
+    excerpt: "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ..."
+    publishedDateTime: 2022-11-12T05:28:00Z
+    webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 84
+    quality: 86
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/284WX_4DX20u8eeGjQY9Ng--~B/Zmk9ZmlsbDtoPTM4MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg"
-        width: 675
-        height: 380
+      - url: "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg"
+        width: 875
+        height: 493
         isCached: true
   - title: "Amazon unveils its latest warehouse robot"
     excerpt: "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,"
@@ -52,6 +52,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
         width: 970
         height: 546
+        isCached: true
+  - title: "Amazon debuts AI-powered robotic arm and new delivery drone"
+    excerpt: "Both systems made their debut on Thursday during an event hosted by the company’s Amazon Robotics division. The company formed the division following its $775 million acquisition of robotics startup Kiva Systems Inc."
+    publishedDateTime: 2022-11-11T22:07:00Z
+    webUrl: "https://siliconangle.com/2022/11/11/amazon-debuts-ai-powered-robotic-arm-new-delivery-drone/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/amazon-1.png"
+        width: 1320
+        height: 743
         isCached: true
   - title: "AI tool uses CT scans to identify patients at risk of reduced blood flow to the heart"
     excerpt: "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart."

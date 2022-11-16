@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-goodbye-boarding-passes-hello-biometric-facial-recognition.md",
+      "title": "Goodbye boarding passes, hello biometric facial recognition",
+      "excerpt": "Boarding passes will soon be a thing of the past. Last week, Air New Zealand customers were some of the first to experience biometric verification at the boarding gate after a successful trial at Los Angeles Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/",
+      "originalUrl": "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.traveldailymedia.com/assets/2022/11/Biometric-gates-at-LAX-scaled.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/amp/",
+      "publishedDateTime": "2022-11-15T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors.md",
+      "title": "Trinamix’s face authentication optimized for Snapdragon mobile processors",
+      "excerpt": "Trinamix said that its face authentication technology has been optimized for new Qualcomm Snapdragon mobile processors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/",
+      "originalUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/trinamiX_face_authentication_demo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/amp/",
+      "publishedDateTime": "2022-11-15T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-mediateks-latest-generation-socs-enable-greater-access-to-leadership-performance.md",
       "title": "MediaTek’s Latest Generation SoCs Enable Greater Access To Leadership Performance",
       "excerpt": "Senior Analyst, Mobility & VR, Anshel Sag, gives his coverage of MediaTek’s Executive Summit 2022 where it announced many new processors.",
@@ -106,50 +201,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-15-new-speech-recognition-tech-set-to-transcribe-mouthed-words-using-facial-movements.md",
-      "title": "New speech recognition tech set to transcribe mouthed words using facial movements",
-      "excerpt": "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
-      "originalUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2022/nov/Twitter-we_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
-      "publishedDateTime": "2022-11-15T02:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-11-15-computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market 2022 to Eyewitness Massive Growth by 2026",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Computer Vision in Artificial Intelligence",
@@ -158,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026-2022-11-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -305,7 +356,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -337,6 +388,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-amazons-latest-robot-picker-for-warehouses-uses-ai-to-identify-objects.md",
+      "title": "Amazon's latest robot picker for warehouses uses AI to identify objects",
+      "excerpt": "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
+      "originalUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg",
+          "width": 875,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1235,92 +1339,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-tag-intelligent-object-recognition.md",
-      "title": "Tag: intelligent object recognition",
-      "excerpt": "ST. PAUL, Minn. – Alula, a provider of smart security and system communications for residential and commercial applications has announced several enhanced features for its Alula Smart Security App and AlulaConnect dealer portal. The features and updates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "originalUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitysystemsnews.com/images/og-default-image.png",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Systems News",
-        "domain": "securitysystemsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-retail-technology-gains-intelligence-from-computer-vision.md",
-      "title": "Retail technology gains intelligence from computer vision",
-      "excerpt": "This is where artificial intelligence (AI) and computer vision come into play, enabling cashless checkout and stock management. Cameras and sensors have been used by a number of enterprises in recent years to detect things and ring them up,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/retail-technology-gains-intelligence-from-computer-vision/",
-      "originalUrl": "https://bestgamingpro.com/retail-technology-gains-intelligence-from-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/11/Computer-vision-brings-intelligence-to-retail-tech.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

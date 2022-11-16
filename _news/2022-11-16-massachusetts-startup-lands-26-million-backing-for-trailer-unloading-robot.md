@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/55992-massachusetts-startup-la
 webUrl: "https://www.dcvelocity.com/articles/55992-massachusetts-startup-lands-26-million-backing-for-trailer-unloading-robot"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Pickle Robot’s unloading robots bring in $26M"
+    excerpt: "Pickle Robot Company announced that it closed a $26 million Series A funding round and it has live pilot implementations in the LA area."
+    publishedDateTime: 2022-11-15T23:02:00Z
+    webUrl: "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/11/feauted-web-pickle-robot.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "D2mNncfW6MGJL9AYx2UoNlGRF78IVpEi4WUJncVq5KxgBu6HFJxFVBfW+5rXdtonXz++tZeGd1pVNIh5vZnIPQFWhHwxqt2wM66QTVStjauBwlwWJyuFJOyhQt82IvAsqCSjhfvvcfzYxiRo5LK7BTMo0D3kO1GqylCQSCDmPG/I05YMQsUoci312S7F+Zo1JSZYFaJsZnePtKUpyYnSbZBWY4L6lKrIzS7EU8zs7BScYbYH6kiZMuxmK9TPeYfVCT1fj/xBL/jnCehanzwAn+KFYz2XrS+3IvItU4swydWvTiyp1lW5iTVwl5/U7SPYxc4T1mv5dtVg/rfYeVY1eKWe4vMx8BxPH1KEb2lYKt50ZTexA1Iun/Znj6fA9AK1Wl7PtB4AeP7y2qzQJnp70BxIA1RTcXAyRg7ZqafvlnR4ENr3WZnC4D/Ln1jDTlQ2ZiAxyY/2aOVqKiA2QPyYGoqiTuXz/KfxeRwE0Giih9vXH0noi15FWEqUZhghbcYNeZ2SwIoCwWfT1XAZy/nDwQ==;johpYsNn92Efx6Efy9APkg=="
 ---

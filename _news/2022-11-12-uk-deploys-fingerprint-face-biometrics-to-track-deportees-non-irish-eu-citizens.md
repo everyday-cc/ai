@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Goodbye Boarding Passes, Hello Biometric Facial Recognition"
-    excerpt: "Last week, Air New Zealand customers were some of the first to experience biometric verification at the boarding gate after a successful trial at Los Angeles Airport. It’s all part of Air New Zealand’s plan to take the friction out of travel and to ..."
-    publishedDateTime: 2022-11-15T22:49:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2211/S00256/goodbye-boarding-passes-hello-biometric-facial-recognition.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2211/S00256/goodbye-boarding-passes-hello-biometric-facial-recognition.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2211/S00256/goodbye-boarding-passes-hello-biometric-facial-recognition.htm"
+  - title: "Goodbye boarding passes, hello biometric facial recognition"
+    excerpt: "Boarding passes will soon be a thing of the past. Last week, Air New Zealand customers were some of the first to experience biometric verification at the boarding gate after a successful trial at Los Angeles Airport."
+    publishedDateTime: 2022-11-15T23:39:00Z
+    webUrl: "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/"
+    ampWebUrl: "https://www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/goodbye-boarding-passes-hello-biometric-facial-recognition/amp/"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 59
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2022/11/Biometric-gates-at-LAX-scaled.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Italy to limit face biometrics systems use nationwide to police"
     excerpt: "The Data Protection Agency has warned two municipalities experimenting with face biometrics to stop until governing legislation is adopted."
     publishedDateTime: 2022-11-15T20:38:00Z

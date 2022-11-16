@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Asia Pacific Precision Diagnostics Market Report 2022: Surging Demand for Personalized Medicine Drives Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Asia Pacific Precision Diagnostics Market Forecast to 2028 - COVID-19 Impact and Regional Analysis - by Type, Application, and End User\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-11-11T08:20:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-11-asia-pacific-precision-diagnostics-market-report-2022-surging-demand-for-personalized-medicine-drives-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "+I8jRSFvfpKe9aFWPQeXOLOy3XTRdaMXJBARcnbTbnHOrO0oIGRcCe9WQ+12+JVzUZXHf96Ldu+Ly17qPmpaAEUlVTDasjs4aQhA40mQndzoTM+V7SzDDqaxF9G2hG+fBeT9w3VU6R/Uf0ElwAuirGQcTliIfpubF3GyOebFTdjdt+cR0Dc/UO1rGBFRyC8MkPmB+f3k+qyer7pX1UpUjcdpdoeL6LTPhg0WPQYm0ToWkiS0weVyvXlNSPC1GhibZTbg5nuuvg0ItuKjgz4HnGe1ap1sZQTNP/eJUDgiMRXIyQ74mlEmsRVtJj5snDmHDkt8lpiynl+4kospT4HbKcz6TAw92jbZktJKjgkIE84=;jrv08TxWAMm8xwPFyd8A1w=="
 ---
