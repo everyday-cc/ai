@@ -40,20 +40,20 @@ related:
         height: 690
         isCached: true
   - title: "Mormon Church comes out in support of same-sex marriage law"
-    excerpt: "The Church of Jesus Christ of Latter-day Saints says it supports efforts underway in Congress to safeguard same-sex marriage rights."
-    publishedDateTime: 2022-11-16T02:30:00Z
-    webUrl: "https://www.clickondetroit.com/news/politics/2022/11/15/mormon-church-comes-out-in-support-of-same-sex-marriage-law/"
+    excerpt: "The Church of Jesus Christ of Latter-day Saints says it supports efforts underway in Congress to safeguard same-sex marriage rights. The Utah-based faith said in a statement Tuesday that church"
+    publishedDateTime: 2022-11-15T21:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/mormon-church-comes-out-in-support-of-same-sex-marriage-law/article_8f9d2289-7d9c-511b-bb8f-886bd7fa553c.html"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 24
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ZUPBZQ3THFC5TEBXNMBUDSOZWQ.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 379
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/2c/12caa9bf-9818-569a-a1e3-dd9072556626/637416871dcfc.image.jpg?crop=1957%2C1027%2C0%2C15&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "h4thHcH3eLDYBfMTfZ1pjQXGRY4z74NU6gxpAEXySD2Z9ME0PkUtNC7bFbB06vLgo7KG0CI2A0GHAgfxE7znHVAx59UtU/q4TjTh/67BOBg0sG4cyIAnHB4efIYYwR2SXmV4VnTG+9Ivp88HgsRftSCSznRMez0UIXFjDd2uFIAluVhZjzbEwrQUeo5TRjMMTo293/MiMG3PfRipB3s8fKb5FMJ7qTPHPcU1p0+/QFu6sTOPx+ZgA/+ZC0aPfedqMsVzwfJMsejseXs/aejWHslIFqYMVhDd4hu0AxhqovVwBASPQ9TEQTwzCcxoYPyuutGunQTfWMdhg+5GTNgrX8xj59diFL+EGUwUBOFrIIo=;j3MckH6/YUAdBGWKOkvc2g=="
+secured: "9g3i/vzoPj12++SNWoe4eM5qvVPrhAY63L8S2hn+XX/Dgrhwyq97LZ0Fs4FTR3y12LKzrvY0c84SzY06q4AoDupga17ai2RjJyh80GcTZkbawH/qWW5NmHrW4i9b59bNXbx8ZvxOWQ8i21EkJwaPcTVNiooJj+LFplJIktW3F77aAGhV3N/g+k9q2h0eGdLdmsBp5YIn2femAxbUgy4M/yHiJWhSe2sTKahSPNFpit6LwcpvI7q64FnXz+iuGEhdZA+/M+fFI+sTBmAq3EKiXgdgH/98REF42oGTfstRx+XYafDVfCny2Rz5SUsI3HqA17H2zNLsheVUoYAQeN80Z9bf4AXS9WGzyvlq5m5xDfPfaKRUNAehPSJQZpYepzrtd3W6nzcoWDHeWIUajbHTndiX4rWyxIzYMbFUrc+vr52OVpSIRspXQM+CBH+6g7qY6+bdb3WPQ9QjUoNYvOvQeWwqGh3LtqLaNNwIR/Y30Nl/fyboPDgwo5LRgyO/M1qwsHAQNHnqm1ax/961zkzIcg==;g+Yee0SCJkBEepTsGP/fFQ=="
 ---
 

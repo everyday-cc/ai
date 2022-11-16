@@ -76,6 +76,20 @@ related:
         width: 1280
         height: 762
         isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen2: 40% faster CPU, 25% faster GPU, 8K 60FPS, Wi-Fi 7"
+    excerpt: "On the GPU side of things, Qualcomm promises up to 25% more performance ... the new Snapdragon 8 Gen2 SoC has dedicated AI processing on the chip that is called \"cognitive ISP\". What this will do in reality, is apply features including facial recognition ..."
+    publishedDateTime: 2022-11-16T04:34:00Z
+    webUrl: "https://www.tweaktown.com/news/89534/qualcomm-snapdragon-8-gen2-40-faster-cpu-25-gpu-8k-60fps-wi-fi-7/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
+    images:
+      - url: "https://static.tweaktown.com/news/8/9/89534_03_qualcomm-snapdragon-8-gen2-40-faster-cpu-25-gpu-8k-60fps-wi-fi-7.png"
+        width: 620
+        height: 348
+        isCached: true
 
 secured: "zULgT9ztzMVSOhHQNkz7EGx87GjrJGcF2EWWCVVcHDmEMse8VoBP0SEwfoNniGRgBDXXcWLUhk8YctH8uENZQ5yhbwR+H4wU8HL6595izut8Es6YKpVzaExdz4xVFR0Xbgvtt+NcciSWRIuYbnC4SBjXJoG0j7442DG7XMj6UGi1jPZcyRviTdGUZUiWejLFS753yI7feo3JRS5cGyV6Msq7m9089aX3k06F/8AKx+fDy1f6VfNFRv7lIC0y4p9TUm45yy0q1UszwfJV8kGFb+mlG81ROsx+kqqogM4sn3JOi4kscfjZgje1xdY+/Xbar1mcpwSa1GKtREwiAzMcnwdIVkigfXH3qAP3YAuOYhM=;DXN8hl4dWQS/L7AVNJ3Wmg=="
 ---

@@ -29,16 +29,16 @@ related:
   - title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
     excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
     publishedDateTime: 2022-11-15T23:00:00Z
-    webUrl: "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
+    webUrl: "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/0338lYBMfwaUJRqTokcbrVk-1.fit_lim.size_1200x630.v1668548876.jpg"
-        width: 1120
-        height: 630
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/q/qualcomms-/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts_evcy.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Qualcomm Snapdragon Summit: Snapdragon 8 Gen 2 platform unlocks new AI capabilities"
     excerpt: "Announced at Qualcomm's Snapdragon Summit in Hawaii, the latest chipset features improved AI support, Wi-Fi 7, and faster overall performance"
@@ -69,6 +69,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7326506/2147483647/strip/true/crop/4032x2696+0+164/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fc3%2F343f2f3743eb86a24ffd9643e2a1%2Fillumina.jpg"
         width: 320
         height: 214
+        isCached: true
+  - title: "AI is at the center of Qualcomm’s ‘one technology roadmap’"
+    excerpt: "In the context of Qualcomm's plan to leverage mobile tech to grow share in adjacent segments, AI has a key role to play."
+    publishedDateTime: 2022-11-16T04:10:00Z
+    webUrl: "https://www.rcrwireless.com/20221115/chips/ai-is-at-the-center-of-qualcomms-one-technology-roadmap"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 39
+    images:
+      - url: "https://390088.smushcdn.com/432460/wp-content/uploads/2022/11/IMG_4463-1068x580.jpg?lossy=1&strip=1&webp=1"
+        width: 1068
+        height: 580
         isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 2 SoC announced with AI capabilities: Here's what's new"
     excerpt: "Powered by the most advanced Qualcomm AI Engine, Snapdragon 8 Gen 2 is the world's most advanced 5G platform, and is tuned to support new image sensors from giants like Sony and Samsung. \"Snapdragon 8 Gen 2 will revolutionise the landscape of flagship smartphones in 2023,"

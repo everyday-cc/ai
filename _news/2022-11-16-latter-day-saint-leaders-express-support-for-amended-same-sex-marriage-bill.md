@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Mormon Church comes out in support of same-sex marriage law"
-    excerpt: "The Church of Jesus Christ of Latter-day Saints says it supports efforts underway in Congress to safeguard same-sex marriage rights."
-    publishedDateTime: 2022-11-16T02:30:00Z
-    webUrl: "https://www.clickondetroit.com/news/politics/2022/11/15/mormon-church-comes-out-in-support-of-same-sex-marriage-law/"
+    excerpt: "The Church of Jesus Christ of Latter-day Saints says it supports efforts underway in Congress to safeguard same-sex marriage rights. The Utah-based faith said in a statement Tuesday that church"
+    publishedDateTime: 2022-11-15T21:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/mormon-church-comes-out-in-support-of-same-sex-marriage-law/article_8f9d2289-7d9c-511b-bb8f-886bd7fa553c.html"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 24
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ZUPBZQ3THFC5TEBXNMBUDSOZWQ.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 379
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/2c/12caa9bf-9818-569a-a1e3-dd9072556626/637416871dcfc.image.jpg?crop=1957%2C1027%2C0%2C15&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mormon church voices support for same-sex marriage law"
     excerpt: "The Church of Jesus Christ of Latter-day Saints voiced its support for proposed federal legislation safeguarding same-sex marriages. The Utah-based faith said in a statement Tuesday that church doctri"

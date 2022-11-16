@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Mormon Church comes out in support of same-sex marriage law"
-excerpt: "The Church of Jesus Christ of Latter-day Saints says it supports efforts underway in Congress to safeguard same-sex marriage rights."
-publishedDateTime: 2022-11-16T02:30:00Z
-originalUrl: "https://www.clickondetroit.com/news/politics/2022/11/15/mormon-church-comes-out-in-support-of-same-sex-marriage-law/"
-webUrl: "https://www.clickondetroit.com/news/politics/2022/11/15/mormon-church-comes-out-in-support-of-same-sex-marriage-law/"
+excerpt: "The Church of Jesus Christ of Latter-day Saints says it supports efforts underway in Congress to safeguard same-sex marriage rights. The Utah-based faith said in a statement Tuesday that church"
+publishedDateTime: 2022-11-15T21:30:00Z
+originalUrl: "https://www.stltoday.com/news/national/mormon-church-comes-out-in-support-of-same-sex-marriage-law/article_8f9d2289-7d9c-511b-bb8f-886bd7fa553c.html"
+webUrl: "https://www.stltoday.com/news/national/mormon-church-comes-out-in-support-of-same-sex-marriage-law/article_8f9d2289-7d9c-511b-bb8f-886bd7fa553c.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: clickondetroit.com
-  domain: clickondetroit.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ZUPBZQ3THFC5TEBXNMBUDSOZWQ.jpg?_a=ATO2Bfe0"
-    width: 700
-    height: 379
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/2c/12caa9bf-9818-569a-a1e3-dd9072556626/637416871dcfc.image.jpg?crop=1957%2C1027%2C0%2C15&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DELrw2yqS/N3MEEXndbUspA0QJFsXQmJEyMYiaLmk1P6+gOn9xPZbZef1XBV1hevnuansVR2fsxhueLj9C/cV8GN+AuG0d2IfSCFT4XWMOAmnMd5K1cYPb+gME8/R5NeBDfIH27ChKLxotBJ1XZpLLtf2hMlOOOUE1NPpiIXyD5fnnYmguEJARYi0ppZL3bQqczFOdr0PeuFu4w8l4i23D6ttXYgp2rzzNrZlUiXNunDJw2ysapk8+xm0Hm33/iiU9Ej9SnYPBQ4WXEvX5Ucud3Fm8sJUzcjn0cE/ncZQZCA1f2KhrnZT7+oz+hzX7U6VzP9nTur+nZGOTa4mcJTcFrVGFMRyuhZMiwW1W4PN/g=;bhBRqhILjkEhZjVWMn1wLQ=="
+secured: "ohi9nl6BCsviioa43bhrDJrYxqhAQAR0KZkFO1FK9cwgkJX3xB9NIjG9auG0ajMd4GsC0aIIvhsimDbIg6jKELlsL9uG2oVfdykh4WSqxdvAbVfEHQZs+qf3lgc8WVB2HUmcfa0/ueLQXCcxeUL4bHZ4s4tvoub4MW9BrHrOndSU8SD84ouCTgsnlGTzdqabGOGEOLsDx8EGNLVlY7neCPj/yOk3e8SmijmNDazUUHiLejG/igrOzAdp78XivMvsjpk0QjyWB4Q4D9kYo8uYjc4gFCsDep3Ge6SALpgGIsBR6INMGUJiNsmfVPZpJJQArC38gSItltybStNEBuKJWy1WhaZvwrgiN5D2I6zlGrQ=;Ez31PD/OCUCRD4Iw/waXgA=="
 ---
 

@@ -28,16 +28,16 @@ related:
   - title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
     excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
     publishedDateTime: 2022-11-15T23:00:00Z
-    webUrl: "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
+    webUrl: "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/0338lYBMfwaUJRqTokcbrVk-1.fit_lim.size_1200x630.v1668548876.jpg"
-        width: 1120
-        height: 630
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/q/qualcomms-/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts_evcy.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Qualcomm Snapdragon Summit: Snapdragon 8 Gen 2 platform unlocks new AI capabilities"
     excerpt: "Announced at Qualcomm's Snapdragon Summit in Hawaii, the latest chipset features improved AI support, Wi-Fi 7, and faster overall performance"
@@ -69,6 +69,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "AI is at the center of Qualcomm’s ‘one technology roadmap’"
+    excerpt: "In the context of Qualcomm's plan to leverage mobile tech to grow share in adjacent segments, AI has a key role to play."
+    publishedDateTime: 2022-11-16T04:10:00Z
+    webUrl: "https://www.rcrwireless.com/20221115/chips/ai-is-at-the-center-of-qualcomms-one-technology-roadmap"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 39
+    images:
+      - url: "https://390088.smushcdn.com/432460/wp-content/uploads/2022/11/IMG_4463-1068x580.jpg?lossy=1&strip=1&webp=1"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "Qualcomm’s Snapdragon 8 Gen 2 Announced – Huge Power And Performance With Lots Of AI"
     excerpt: "Snapdragon Tech Summit, Qualcomm has taken the veil off of its supercharged Snapdragon 8 Gen 2 mobile platform. Naturally, performance in almost all regards has improved, but so too have the overall capabilities - especially those that revolve around AI."
     publishedDateTime: 2022-11-15T23:20:00Z
@@ -84,6 +98,6 @@ related:
         height: 404
         isCached: true
 
-secured: "OsrQqkW2Sqpr7GLwthdtM5iQIpGZMpW3QR/1HdWrqsrXyfE4XLm153NB+5abRTAjTL9QWLM+t/o0f9/TsC+wlPsdIqTrr7VFIsEIi6mbb+6jglrEZmmgICnwWN2rV7eXmJniL8asR1EkdtEiAey0O+KJmViwWAmNFgUV5j6uD4srmkwpvN/yTBcOPGLzVmolM8gpKQb+fjsDH8N8/Ng+JZDzNu6s+DbYasfZ+t3q3xxahxMJ0KhOdXJX3a3znWh9fZVYP7t1Wx8AwsM6JON9Xov1SLsyeOeImwNztHn+ORLd+24uChn2eEe3WnIIg8zPgDM+fDqsYO9feoA6FwIhddTRpVcYOMvJUxzqeHzeuh8=;0wedlVe+Ih5QnzebAlX/ag=="
+secured: "Pe1ZnJLPvvyPUFYT9/2w1m7oiwY8Z18zlqUY86YIMzQ6AuTaRx7fMzT57NIw9JRqaSR7SEXWnW1iB2S8JfkJHtKJ/m56ctJ+C6Lc0BDqFz2ZYKEORnDffA5YY5LLzSgKNasYkYtwJjIIBm32Wlg9cX/o3fKpd1pHCVvdBNEt1zE+oRlEHms2hymr9NqVkrY8s/uncdfguGP4UjKpBIUusmDQOFloaBrhTKc0Qrctlxlf1oD0hrfnQME3JCIDJXAs5wtW2j/XlnU35koyyVT9zTMKzaiUGqUEGCqHVj7pk1PCLtiYpmGYtluUi93lWncO2DQbcgxofN3Bown18Oi4NWWTq7fCzUP1f9yLKm3XI7eEqny9HY/JfFo5Al9wSi2nM1So91nGUeJPJx/u6LW33VQjKeJaKAsGRsxJvtu6138R2vJbZTDBvH1uKNXW2Y7J0ECMG5zl/vDt6JAbGANbWlXikGDsIpqtqMKjQmh/5RIKOohzk2xvV5RA3d/WCs8M3sKoPRAyZ/YWJ4wJj3XvBQ==;SZ6MMlYmiYvF4FSrSeMmHA=="
 ---
 

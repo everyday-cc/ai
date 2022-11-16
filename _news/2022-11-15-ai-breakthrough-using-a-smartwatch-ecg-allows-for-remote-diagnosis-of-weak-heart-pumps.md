@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Enhanced Smartwatch ECG to Detect Heart Failure"
+    excerpt: "Smartwatch ECG can effectively detect heart failure in nonclinical environment, revealed a new study in Nature Medicine."
+    publishedDateTime: 2022-11-16T04:49:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 72
+    images:
+      - url: "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI transforms smartwatch ECG signals into a diagnostic tool for heart failure"
     excerpt: "A study reports the ability of a smartwatch ECG to accurately detect heart failure in nonclinical environments. Researchers applied artificial intelligence (AI) to Apple Watch ECG recordings to identify patients with a weak heart pump."
     publishedDateTime: 2022-11-15T03:25:00Z

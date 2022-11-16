@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/11/221114190626.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221114190626.htm"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Enhanced Smartwatch ECG to Detect Heart Failure"
+    excerpt: "Smartwatch ECG can effectively detect heart failure in nonclinical environment, revealed a new study in Nature Medicine."
+    publishedDateTime: 2022-11-16T04:49:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 72
+    images:
+      - url: "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI breakthrough using a smartwatch ECG allows for remote diagnosis of weak heart pumps"
     excerpt: "Researchers applied AI to smartwatch ECG recordings to accurately identify patients with weak heart pumps, allowing for faster diagnosis."
     publishedDateTime: 2022-11-14T21:32:00Z

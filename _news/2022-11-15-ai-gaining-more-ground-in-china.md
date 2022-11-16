@@ -39,6 +39,20 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "KKR’s Probe CX adds consulting, AI group Innovior"
+    excerpt: "Probe CX is bolting on digital transformation consulting and AI group Innovior in a bid to build out its presence in the Australasian market."
+    publishedDateTime: 2022-11-16T04:27:00Z
+    webUrl: "https://www.afr.com/street-talk/kkr-s-probe-cx-adds-consulting-ai-group-innovior-20221116-p5byue"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1947%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e23ab8e3dd84e717150ac17a5af07d3572154be6"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "BDwqMIjJbZE/cpMee/KgLtYSSiMYMYOAziU5rrduT5s/q9+WiSgw5N0spKs/AczS2KNS2QY4DYIxa1pM4unonTQggkcwOzLC2H/N6+gvhuZoU25M4LJLhpFbVy4sbM+ld78B/7cSHrBCnc6Kv9vsVDAYtifk/OiV5ofjmG+BONGLw80Pj1jv5dML5+eh2bUnrsDcT965ALka3RqxqhjVolZdAuFIA+S6Pmy5t5uUojFnxIkdhR8nXikvOWZcDe21GdFmR/rjQp9twiW1vjRXVQXJVQXghsfOBgOVAzUme3lEqXc7aDkMehOZ7gsO9T4MW2DuRhBykIGn662Zqjwy5/PWoYyPEQMfEiSZsVOXHULcqn3hRVw6NLmuq3c0YFBXd+KUg8u74/AtrMyjvUwHMwwPzwOzdyYWv87Nan7S20vfKl6gvXLQ6cOU13ZUunZtJ3p0Y8gtXLOKi3SAR0L7RIakDDcc6kBIDKzTyBdjk1eZnTESHToeOkIwb2rZ68bGazytVoeBVLwnmzshfuwVCg==;SvgbvTDqZ/tgTDN37D5FDQ=="
 ---

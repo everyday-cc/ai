@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/qualcomms-next-premium-android-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -75,7 +75,21 @@ related:
         width: 1280
         height: 762
         isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen2: 40% faster CPU, 25% faster GPU, 8K 60FPS, Wi-Fi 7"
+    excerpt: "On the GPU side of things, Qualcomm promises up to 25% more performance ... the new Snapdragon 8 Gen2 SoC has dedicated AI processing on the chip that is called \"cognitive ISP\". What this will do in reality, is apply features including facial recognition ..."
+    publishedDateTime: 2022-11-16T04:34:00Z
+    webUrl: "https://www.tweaktown.com/news/89534/qualcomm-snapdragon-8-gen2-40-faster-cpu-25-gpu-8k-60fps-wi-fi-7/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
+    images:
+      - url: "https://static.tweaktown.com/news/8/9/89534_03_qualcomm-snapdragon-8-gen2-40-faster-cpu-25-gpu-8k-60fps-wi-fi-7.png"
+        width: 620
+        height: 348
+        isCached: true
 
-secured: "3lKatiYrZ8Xazt3fS0ZzL9UNxwMyjb7UHsV64Ezm6YJ02tWWcHd9rwJw02MoFUSQU2FFZ6P0lEIJAiFu35cwVDbdqrvAtFHjPxWxNssq6Un3Ch/uAqrqaF4OynlkMJPf6A4GHz8f5zrBh0l9loSSdvHoeEBH+o4e1fyOtV9drStcM7ijfaSqZ6xfFGXpxstOWPC6wr9UP3DMV1LxV9EhtZdAhGUQeLb1jNQzQnFzpyTq56skYKKlvOBM92CHjuqDfZS5TNWMSdfr7zBMt4f9Un3io3jtfol53PgIBK+1aaWcvEbts959ELh78lkQ8xEUlOp45PRTFqDxNLy+yIuOqthzz32qEdAJ7KDkuprn7jQ=;PG0Gw0JtcurRWAB6nL3Ujg=="
+secured: "K5FMUQoQmyhdsrS71+7ExGPFfEv8Ok+Zxf75hWTlHAZZODDwezMohSX5EvUj9iLGaQnDih8IQu+/QavxqXLvXUc871DQwWzlDjJTlpu5W8cjIWLghBc1CLBiaVE2r4PGrBaCMU7AeVgkjrLKsZORZ40pfO8PlkwSkhKmqZQeAXG7J18c5bVUSkIm/QPJxIlvk2ZXAkNtIBCu61/A7FkmNALqVL/E3Q28qcX2O0vmsxFQrugI4A4cv4Hr/vn2U4YjpqwabhPg+c2zTjPwZkdPFKxqqiEoDHyQEyaVcwpROLn/XVAtUiHwQcf9Q7btt7I3Otds35QBCgvVTksACOJRG/8hzoC5wjVkVPD8WeBICaL9fuZ8oJh+oRnW9fQmkecidzzUIwrgd4L1q9Zf9enc5cJCOyjyma8RV3EmaMeE2nczmWcEokUQg/rFz75WjeU5soJBzhqFWiiWzQWbnYrOuyejjT3PTq3vLEo74u4W5XwGTwmsibjDoizxl/gPV/rQz/RTq2Wcoz/YLb3C55xeSw==;TmysfOy+xlCQbJbEiNiV+Q=="
 ---
 

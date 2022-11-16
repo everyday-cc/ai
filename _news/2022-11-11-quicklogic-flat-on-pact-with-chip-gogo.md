@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "QuickLogic Inks eFPGA Sales Rep Agreement with CHIP-gogo in Japan"
-    excerpt: "Extensive experience with semiconductor IP and custom LSI design services to strategic accounts in Japan SAN JOSE, Calif., Nov. 11, 2022 /PRNewswire/ -- QuickLogic Corporation (NASDAQ:QUIK), a develop"
-    publishedDateTime: 2022-11-11T12:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29680095/quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29680095"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29680095"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
   - title: "Quicklogic Flat On Pact With CHIP-Gogo"
     excerpt: "QuickLogic Flat on Pact with CHIP-gogo QuickLogic Corporation (NASDAQ: QUIK), a developer of ultra-low power multi-core voice-enabled SoCs, embed"
     publishedDateTime: 2022-11-11T18:22:00Z
