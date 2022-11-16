@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800"
@@ -290,6 +291,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "zka/JWix9VvPRcK+M8AEDbiVkVjgZV6UAo1wUr6xI6nN86YTDf50K30CaTMk5zlnUwPXiVUCEUQIppoyG3aw4iaafU4OMeHGuDZiNw+jEShyN32vuHIkbxEQ+GZWAb7TGK3R5KO3ml/mzVRa35nEroKK8U2zSsTOs6hBXhApUr+ImzuuA6jua0Fq34J4NeOgiXotWonGpyRVjZsk/KfVbe2bL7PxHgczL+Nhrk0m6tlo0TUpoADB+VynfyD+wvLayEz+nlPAb0KRgqtIJKSdi8ofzgU+fm6Da7bIymjGhyBqRWHJClqOeXIW3RqQ6IJ9VoWdj2cEngarIwvtEYW2Zh4hf/kGA9lPViXdEqTuR2w=;0FQZx54Him5aS1mHIAwXNQ=="
+secured: "EKC8OwOpEnDvjyV+9Q9H+DJqjJzulqdn42oTjABzq81Ik7oQZLs1MIqYi9OAl2N2meuhfj9MpSgV3ME5Jf6JsaFTUtKurum2TA+ZSfvMsvGAFUbmJsIDG4vIQay0GSV0+jA1NOOwGb0KqQ1gF3YsTlKdC4bMcAtXASXeQ4i0/nrhKaII0p3DmFuULtae2EAaqQ6P9+T/fWwyN/ekgMcyo/ez7/RGr0H2uNU9nIpRNpqRHfICrxpwg7a8faxuSBRPLheuObuY/dyxC9OTP6iE5MJYnTk5rACnL0YAh2X8Ka+cMn8Z9/UyQqRvTn3sTV8pga62K0zuTXaS6/4ewyijfuXRBW6AJreEEu9NDzt9gouJB2PMYF6O3LGOkUYetc0Lrm2x8y7q9SQklqqj4vkZV6aCwbdlH8LqVZ1HVwe+hANySm3HMDkGjKHnDm4T/pjfkLdnpr6IRnmnpfl7cS+kXQwcbLiU/LVwNYsABPGu/7ZMbMc51Xa4Scz/s5Fx3d48RvVtvmtxwWuRfhEcZg5SXA==;60hm2YVaKnIeFxHTEs0Mug=="
 ---
 

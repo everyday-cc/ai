@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.cnet.com/a/img/resize/53149eacd0f62e090e026c91d67c93f58ecebf68/hub/2022/11/16/3e3ffbbd-8fe7-4910-b21c-cdae4e2c126a/nvidia-microsoft-logo-graphic.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -290,6 +291,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "qHLBFoW2ZQ/U8sXAUIhv1I9y5jVLR/dqZ1kBZCpaECcjaVNeLIP2gaiugtfAfuo1G1mwaSwuXyPl4NwIqHE0bBPZMcxH8cpwljINqhLYD/wUffaFPujTDH5WLXLfaZvXLksoc/ZrHDU79O6RlSdEKLv4oHl7ubQuj3kGYTHtIV9Wz2OmYnvLScIc+uFn3PgJUdvS6C3figiboo3Ll1nDAl2BscjidGeMbKEb2SB3h190RsXaxpg2qZ4sYDFCNMbTBrhbmejplZx5oZyUXM/Aui5UkWE/j3p+nmm/bU6tG37vTDVzisHY++SAfxH3PSy+YvEDUqp5tR0pT4vDJgTzpwdGokt6O1+8BhZFV9w7pqg=;uHsA5mLcH1xOurdsF7woGg=="
+secured: "r1TicCdEO+Fgqt3KJFKKqBzQmbo3AqJZ+I0lxiDIxC60oxVBW9JgdGznowlGoDaaJW09aARkgR+2k05FE9HH7fCOdtfrljqFy9qXCGlU6m0Vg6PzojeALpGV++W+YRCwLzqUPQkFp0mtNLqjhpDAQPSk15YaNvxPKfgkCedmKTUjlpSvxAs984WRw3lTlTnUuTHAu0VPHOjQ6nqaRbf6K48NRZPTuk/zrQscTsuCqt994bPGQFMUU3zMJNVP0kaYdjOc4AyZZhTph12ABvo40nIxqzCaj32FRssp4X+4jVKc4kDgOayKwpdNafsbdWUWwwRT6FeKQVNTJX8YsmG7rw45rWsa+/e1WJOcnc5VGWXEW4gK98sTPX0svRuPVqcJRsctRaa17xHx2Fy4jfNIt5ZI5bDvkwFePqPHzHEqtOl6f6pDM7Ye5krbEACtNsJY6FdsOU6SYuuX7y5V8LFAADdePkIrtlQWNT2JfijSl0lMrXpAeEbH0X6wGzo0I69ZXMObVMf3Zzyn90ZP2cNk6w==;qKMgpfliH3sH3hPi3kx8qg=="
 ---
 
