@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
 type: article
 quality: 87
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/226ddbf6b4eed63d9e038bb3f3d3d0c423277541/2022/11/14/08346f06-67f3-46ae-a534-ecaf18241c3d/cerebras-andromeda-doors-closed-2022.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "NVIDIA Partners With Azure to Build Massive Cloud AI Supercomputer"
-    excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build what the companies said will be one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s supercomputing infrastructure combined with NVIDIA GPUs,"
-    publishedDateTime: 2022-11-16T14:57:00Z
-    webUrl: "https://insidehpc.com/2022/11/nvidia-partners-with-azure-to-build-massive-cloud-ai-supercomputer/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
-        width: 593
-        height: 290
         isCached: true
   - title: "Andromeda 13.5 million core AI supercomputer unveiled"
     excerpt: "Cerebras Systems has unveiled a new supercomputer this week in the form of Andromeda. A 13.5 million core AI supercomputer"

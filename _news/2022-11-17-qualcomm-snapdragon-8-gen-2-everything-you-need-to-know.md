@@ -43,6 +43,22 @@ related:
         width: 663
         height: 448
         isCached: true
+  - title: "Qualcomm Ups The Snapgragon AI Game"
+    excerpt: "This translates to a 60% increase in performance per watt for AI inferencing. The Qualcomm AI Engine includes a Sensing Hub, the Kyro CPU, the Adreno GPU, and the Hexagon DSP ... [+] Processor. The Hexagon Processor also now supports a new innovation calle ..."
+    publishedDateTime: 2022-11-16T17:10:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/11/16/qualcomm-ups-the-snapgragon-ai-game/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/16/qualcomm-ups-the-snapgragon-ai-game/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/16/qualcomm-ups-the-snapgragon-ai-game/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6373edc7b96ca2bed221ad47/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 505
+        isCached: true
   - title: "Qualcomm unveils the Snapdragon 8 Gen 2 with Wi-Fi 7 support, AI and gaming performance boosts and more"
     excerpt: "For instance, the Snapdragon 8 Gen 2 processor includes new Snapdragon Elite Gaming features like real-time hardware-accelerated ray-tracing, a 25% GPU performance boost and ... X70 5G modem and uses Qualcomm's 5G AI Processor to improve speeds, latency ..."
     publishedDateTime: 2022-11-15T23:52:00Z
@@ -116,6 +132,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7326506/2147483647/strip/true/crop/4032x2696+0+164/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fc3%2F343f2f3743eb86a24ffd9643e2a1%2Fillumina.jpg"
         width: 320
         height: 214
+        isCached: true
+  - title: "Qualcomm spotlights embedded artificial intelligence in its latest Snapdragon smartphone chip"
+    excerpt: "Qualcomm launched its latest Snapdragon processor on Tuesday for the next crop of top-tier Android smartphones—with artificial intelligence infused throughout the chip to boost photography, sound, connectivity,"
+    publishedDateTime: 2022-11-16T18:51:00Z
+    webUrl: "https://techxplore.com/news/2022-11-qualcomm-spotlights-embedded-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-qualcomm-spotlights-embedded-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-qualcomm-spotlights-embedded-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 63
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/snapdragon-processor.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI is at the center of Qualcomm’s ‘one technology roadmap’"
     excerpt: "In the context of Qualcomm's plan to leverage mobile tech to grow share in adjacent segments, AI has a key role to play."
@@ -197,6 +229,6 @@ related:
       domain: telecoms.com
     quality: 19
 
-secured: "2ucq4+L0vfQjGhiFBZUFawJTWge/CJA+t6fVI6s7NRTZt5fx1MkvQOz1y8pnlOt1Ckc/BCP+WZ6Ib5myNGEw2aSL4xeEmF/6eBAxPkeblxLyiMRntvoycUbAMIIofbBdV3IWml6ouVqR0XaFsIXvoBwa0F+d2lGaRDXAW4okaPhPNHqQljVllT1UsjWaegMHTyikIChM7vkgoIQCIqcN6nywMwMA97mAMRulWOgEyd2ngDQieeS3pQTJC3WPPm9p7dewaiGgyj2K8cgAb0A/t7l+87FWkSwJoNWuEd6rcnYhLjpVCNpxQUywtvC+TNTfv2wYKhZF9g973TyBanblmLhkfm34EDxMhQaKdQ2mgFI=;vQBdy9ODUjSxno0U0jFWeA=="
+secured: "R2/hpDM88uEsFPdg0IEGC8+U69B6gXASjdetjckXbayT3O+8PWv6JVOZu9OgrZD4JDdwB1Z3RBefc0bkOWPBJPIstBwhVcFVDqD78LmawkdkFUGPiEs3PJKSu7y2Lw0kg3ZE+SkfOgGPdB3yDRW5unPvSVW8W+rCTgVOiVerrl/j1lcgEV51YZJSlnAOd0MIm9lFX9eqHj2u55+j0+mbteOkoZFjXtEoHExYUH0pgYIvjhE7SHDqH6uHWP71YOeNdPgBOokASzQZPikY2mL9GNFRMC0qQZ91x1ORjU4pIWf01qmCkmhQkCo/lYtG5N9f8IQOq9mP7CYplMMTtfzjWqo2Qgns/ysmxtXxZH/5T3pPk0Gnj6T/QmKwf4a1HOgiaX5rBj7mKHwqBpN+tXtko8idhUy1VKk1YiTZJsu7QsB8ShmHdXO40QvN9/6Uwdw7q8AqhYr0LqCbUjf85DmPjSdIJYMjDD0oSi6kZdPu4nWwUvAc+ziBKI76XZtc+C3gyTPv89gg3RGla/4qXM08UA==;SyLTDywr1jEtrj3wGxaoTw=="
 ---
 

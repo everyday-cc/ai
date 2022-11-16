@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Manufacturing Market 2023 Expected to Reach Significant Rate by 2027"
-    excerpt: "Nov 14, 2022 (The Expresswire) -- As per Market Growth Report, The global Artificial Intelligence In Manufacturing market size was valued at USD 915.93 million in 2021 and is expected to expand at a CAGR of 58.59% during the forecast period, reaching USD ..."
-    publishedDateTime: 2022-11-15T03:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2023-expected-to-reach-significant-rate-by-2027-2022-11-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Healthcare Market 2022 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2028"
     excerpt: "The report provides a comprehensive analysis of the key companies operating in the global Computer Vision in Healthcare market and compares their product portfolios, business overviews, geographic reach,"
     publishedDateTime: 2022-11-15T06:41:00Z

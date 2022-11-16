@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Manufacturing Market 2023 Expected to Reach Significant Rate by 2027"
-    excerpt: "Nov 14, 2022 (The Expresswire) -- As per Market Growth Report, The global Artificial Intelligence In Manufacturing market size was valued at USD 915.93 million in 2021 and is expected to expand at a CAGR of 58.59% during the forecast period, reaching USD ..."
-    publishedDateTime: 2022-11-15T03:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2023-expected-to-reach-significant-rate-by-2027-2022-11-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Chip for Data Centers Market 2023: Global Research by Size, Share, Growth Trends, Manufacturers, and Regional Demand Scope Forecast to 2029"
     excerpt: "Nov 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Chip for Data Centers"
     publishedDateTime: 2022-11-14T09:55:00Z

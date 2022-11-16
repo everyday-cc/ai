@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29698688"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29698688"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -19,49 +19,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application dev"
-    publishedDateTime: 2022-11-14T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-  - title: "Why PPFAS Mutual Fund continues to hold Alphabet, Microsoft, Amazon and Meta stocks"
-    excerpt: "The Parag Parikh Flexi Cap Fund, which has been the flagship scheme of the fund house, has been investing in US stocks and has about 16% of the portfolio exposure to stocks namely Alphabet, Microsoft,"
-    publishedDateTime: 2022-11-13T20:13:00Z
-    webUrl: "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks-11668327748149.html"
-    ampWebUrl: "https://www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mutual-fund/mf-news/why-ppfas-mutual-fund-continues-to-hold-alphabet-microsoft-amazon-and-meta-stocks/amp-11668327748149.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://images.livemint.com/img/2022/11/13/600x338/FILES-RUSSIA-INTERNET-GOOGLE-0_1668328840535_1668328840535_1668328865787_1668328865787.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
-    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
-    publishedDateTime: 2022-11-16T09:53:00Z
-    webUrl: "https://www.newswit.com/en/Lt1B"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 54
-    images:
-      - url: "https://www.newswit.com/img/f/20221116/ed1cb5aa5f06e53b7c7c13545344bac2-0.jpg"
-        width: 800
-        height: 455
-        isCached: true
 
 secured: "RoKnlWscCNN3uiqOOQmiek7NRy6yqHHkXoGn99xKVRYOXIywagk7Z8l6wqxNoH4ChHZyAyLAICr49Z1Let3tAreISFUg+TmypsKEajOj+0G7/WdFhARYfOh1t5Gvu+4v8ADOi3j/BUIzDQF/7lKTw2hOK5vBrFmkgX6LDWhE3UjHct15gySPaGYMuxXin5xVBnStkUI5zIZpH1YvpiKdGISbvAm0nVglKA8s5Pa2eJJreVdiTujSngKwMg0dWnJdHSXYJTg3GgHTp6grA5uv1zv1VQUi4aBhQoOYHdqvm1HX4eMk93PyHqXldrQBe3JPzL60ZZ9vF2zGIMQfjHobfxHPermNIeS8JK16AQ4i0kQ=;IZv9sfN01wF4bOy76YQLhQ=="
 ---

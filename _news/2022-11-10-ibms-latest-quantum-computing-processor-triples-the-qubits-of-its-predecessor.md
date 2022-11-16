@@ -3,8 +3,10 @@ category: news
 title: "IBM's latest quantum computing processor triples the qubits of its predecessor"
 excerpt: "IBM's latest quantum computing processor ... to tackle calculations of much greater complexity in fields such as artificial intelligence, and the design of new materials for drug discovery and ..."
 publishedDateTime: 2022-11-10T12:36:00Z
-originalUrl: "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html?src=rss"
-webUrl: "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html?src=rss"
+originalUrl: "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html"
+webUrl: "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html"
+ampWebUrl: "https://www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "ZX/u0CD603iFpZmHzq4KCa1V+7NPZa8l+XzW0qjWx7e1cSKPabEdDJEegTBGJ+e5x22/mijL5RepioeBkiVRTXTIhwBNuMCEZ8Mf73z41FvhiGsIn7/wE/K2Xxv4TEmVhv9I1HluFp2GQoKzR3TQg7lWprXLtavBSa/ufnQ3CIz0lSfLZHagVBxpLTAUXNpwPflgy4orpa9zna34Ln3GLQiH97e6WmQdySrRTMVOt0lva0jWW/y2/FwA6QcEifUJmgjw+/RJ3dCHEAAwSLgDUJXabQZQjPnIbgqkHd395z0sRjQzS3WBmKcqFib+psygqHGZApjKhP/v5u8yik5dXGZv1j4xUrQBurMzpCOhKfo=;c0P4r8Ywgtex3iO68tmShA=="
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b1208170-5ec1-11ed-ad7f-0a8837a7224a"
+    width: 1517
+    height: 894
+    isCached: true
+
+secured: "v7KopP5SD49h2gVd37rnRofg4zwzYOth8vKQVImHD4nRVX4z0n9XeorUTWXQwtIBaFrnDrVaB4zUPnSjfE/PDnPEYLXiBSb5YZ6IGLHb5M3v/KpOiJfiAbFDaSaGON6VNKcKdU8a4t1HcMSqWcL74QA+bei1fcMJGomBLLRka8ddDBoJhXXEUoZiCGwsxAjXufXIuH5hs4WOdwAQUDg5YeeoSSviVHbvUZ7ryrvdg2WbpTNTR12hlfqVXe6rwiv+z+ZTMLTh5vPwYsiLrIzSuzxrpyW2cJRtaUD4GFLWtLHH808hIGplJD3A/tUOAafZ7n1ruEunnFjdjZNiQNsoOQucWY/YyVmOvkZJIH7J5l4=;pFssGVzzFJS4+KBmVu/DWA=="
 ---
 
