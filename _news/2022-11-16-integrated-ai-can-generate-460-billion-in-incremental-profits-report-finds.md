@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-in
 ampWebUrl: "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/"
 type: article
-quality: 84
-heat: 104
+quality: 86
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars-e1668557733700.jpg?w=1200&strip=all"
@@ -51,6 +52,6 @@ related:
       domain: businessinsider.com
     quality: 33
 
-secured: "5JH6Z4U9cAMPef5iHUNzQObvG7rwXYpxVcs0b/f50gigEF+maOXI6lTP6QTzS1q+WmJrqfCis4FFT23ekeqaB2NLkAjUn+qvoCdqBnsv62loAXsqKQDaxA0tKYzxY3vxByQfJtqjsxgd71klZ180n459BgI6aWUCpBv2g1EtnYDJJ7C2Wxm+zLJbwtC8k2GXv+30ZzsqHnhGIluK7ejfqF5QrrjfR7HZBIu+q1FxSRK4TnkyWwY3fr9vimyhLIxbiUpZlwXbjC70LPm5wLXsUE9tBMTlvWGz0iRgWztma3oflz/oH9hPuTeOmP8InsI9BtAs3ZFKF/udDa24RGuoWlQeCmlLr1802CtOFxSCwRA=;JURBHx2Qs1YmW4kxuZ6iUQ=="
+secured: "sTe1VcmmYzCTR9atNzIJ0SGA12PUcatsY5vnC3vqGPx0ozruHKpJZQT9/hrrhvtK4BJZH1ZNtJfg5E4jsi0eg7xyp8TDHgFGl/Le37yHx9OX8Kbciqkg5EiBY7BGzCfxyUB2BZv/QoT3Wyxmu2WUyjMKigj4D1BI6K5uYJGPFgXHPgU25vIUhnJ3WkBQtBozgtu5PHwP8b/haVB9QNYCTw1IAZIHqZOInoC3OepRIN7O6HJHHJQpWFnplN1C+9XsfIFGgMla8NV0xRrzdSjYmdaEcb6UGY5jd5JYumMGq7ShOEaYj5uCzQxrsHnsM9JQXnYCeg1+iGEZ8q2Uyoacv+O0o4tGi9bNfSQKp8wMRC212xy560BtyV6dLic8JJIStX6KNOfxGH9gSaklaviImT8IFc+PoUjwFRe/M6/qBwytxOLiUaqvDFtVxCi5YBPvnnjljBgMfIAS1YgEHopwqWv4vEeUvoCFy6dv/HPaHbgTHY8LBR3L3x4o1QxKfnWzW4pCRPZJMot8l3SYxJHqrw==;Xn2g1HVs0jd7EvdcbL5B+w=="
 ---
 

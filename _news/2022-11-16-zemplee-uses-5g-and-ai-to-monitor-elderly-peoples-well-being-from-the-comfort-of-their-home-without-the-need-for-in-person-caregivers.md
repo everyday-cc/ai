@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/zemplee-monitors-elderly-people-well
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zemplee-monitors-elderly-people-well-being-from-their-home-5g-2022-11?amp"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1116
     height: 558
     isCached: true
+
+related:
+  - title: "Augmented Reality Coupled With Artificial Intelligence can Train Caretakers for the Elderly"
+    excerpt: "Caretakers are often needed to help elderly people who are sick, disabled or injured. A new study highlights that augmented reality (AR) and artificial intelligence (AI) can merge to train caregivers for older people."
+    publishedDateTime: 2022-11-16T12:08:00Z
+    webUrl: "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 62
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/alzheimer6.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "k0H4O8ImuTktuXeDL+s5Hx6iMtfwXvDvKIjez+7XJXQbB/qxwSlbiZmHibl59wIt86YRtT1cs1VBKjyWLZzXGxkWlI0ptVh9gSetdIVkMwM9t5BsFNSNt1JgHHPk5tKog95E+TrjlIQlNif6Uxk/W3ImfrjcxHdhDG8KmiEDaMHLRA/HEV/50C3ycNSaCeYsgN5m8c9KIbTdg0sx/nxRfeBYkcLY+E2iVRnoh/ha2iu9tUuMp3TjosRSeRGLbFPdxY04wQGpeCLguyBppANC2MMMb84t0OP6RAzxDW/eNv2bOySrsWrZ4hv4j0iaKPy6XxrIetcD2OQfjAz9gGYfuF1QtjB8C/VapYVwF3d3KUYQCs0iLGzBhL3i40iRiPf1JFiaKZMC3o412CHdLHwyWDzXv3zj8ISjzCZT/2Gix74roLgPM9LiNEiK3GfF+5iA4qFb8m718YOGX4hlheYSvb2Mm4gkWxtGf63z9ErdXD4wDgrPDODerYN8X9Yor+UVRhTIGmi1dwx3QSqOp39XVQ==;S0fOW2nH6LueuJVyi9MF2w=="
 ---

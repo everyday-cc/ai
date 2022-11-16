@@ -56,6 +56,20 @@ related:
         width: 548
         height: 548
         isCached: true
+  - title: "Ourcrowd Expands Abu Dhabi Investment Operations And Launches Global AI Hub, In Partnership With ADIO's Innovation Progr..."
+    excerpt: "(business wire )--ourcrowd , Israel's most active venture firm, is to significantly expand its Abu Dhabi operations with a new venture capital (VC"
+    publishedDateTime: 2022-11-16T12:52:00Z
+    webUrl: "https://menafn.com/1105191619/Ourcrowd-Expands-Abu-Dhabi-Investment-Operations-And-Launches-Global-AI-Hub-In-Partnership-With-ADIOs-Innovation-Progr"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?559640"
+        width: 374
+        height: 250
+        isCached: true
   - title: "OurCrowd Expands Abu Dhabi Investment Operations and Launches Global AI Hub, in Partnership With ADIO's Innovation Programme"
     excerpt: "Dr. Dewan said: \"IDI is the culmination of OurCrowd's strategy to revolutionise its FinTech platform with AI funcionality across the board. We intend to leverage these tools and architecture to deliver AI solutions that can be broadly used by external ..."
     publishedDateTime: 2022-11-16T08:55:00Z

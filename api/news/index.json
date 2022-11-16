@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly.md",
+      "title": "Augmented Reality Coupled With Artificial Intelligence can Train Caretakers for the Elderly",
+      "excerpt": "Caretakers are often needed to help elderly people who are sick, disabled or injured. A new study highlights that augmented reality (AR) and artificial intelligence (AI) can merge to train caregivers for older people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "originalUrl": "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/alzheimer6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "publishedDateTime": "2022-11-16T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-how-ai-can-improve-job-quality.md",
+      "title": "How AI Can Improve Job Quality",
+      "excerpt": "Most people experience AI through workplace technology, not automation. AI can either improve job quality or make it worse. A new study from Partnership on AI shares insights from workers on how employers can ensure that AI makes jobs better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
+      "originalUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636953d143386d13e7af29b9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/",
+      "publishedDateTime": "2022-11-16T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds.md",
       "title": "Integrated AI can generate $460 billion in incremental profits, report finds",
       "excerpt": "A new report from Infosys reveals $467 billion in incremental profit can be made by global organizations who optimize AI and data practices.",
@@ -10,7 +103,7 @@
       "originalUrl": "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -49,7 +142,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -113,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -153,7 +247,9 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
       ]
     },
     {
@@ -208,7 +304,7 @@
       "originalUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1152,101 +1248,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-the-hunt-for-the-dark-webs-biggest-kingpin-part-4-face-to-face.md",
-      "title": "The Hunt for the Dark Web’s Biggest Kingpin, Part 4: Face to Face",
-      "excerpt": "The team uses a secret technique to locate AlphaBay’s server. But just as the operation heats up, the agents have an unexpected run-in with their target.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
-      "originalUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6369782f3505151fbc0b01cd/master/pass/WI110122_EX_Tracers_AlphaBay2_01.jpg",
-          "width": 2400,
-          "height": 1632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabay-series-part-4-face-to-face/amp",
-      "publishedDateTime": "2022-11-15T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
-      "title": "Prehistoric predator? Artificial intelligence says no",
-      "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
-      "publishedDateTime": "2022-11-15T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

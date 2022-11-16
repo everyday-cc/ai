@@ -32,15 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 89
-  - title: "Amazon SageMaker Studio Lab continues to democratize ML with more scale and functionality"
-    excerpt: "To make machine learning (ML) more accessible, Amazon launched Amazon SageMaker Studio Lab at AWS re:Invent 2021. Today, tens of thousands of customers use it every day to learn and experiment with ML for free. We made it simple to get started with just an email address, without the need for installs,"
-    publishedDateTime: 2022-11-11T19:30:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-studio-lab-continues-to-democratize-ml-with-more-scale-and-functionality/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
   - title: "Detect multicollinearity, target leakage, and feature correlation with Amazon SageMaker Data Wrangler"
     excerpt: "In machine learning (ML), data quality has direct impact on model quality. This is why data scientists and data engineers spend significant amount of time perfecting training datasets. Nevertheless, no dataset is perfect—there are trade-offs to the preprocessing techniques such as oversampling, normalization,"
     publishedDateTime: 2022-11-15T17:29:11Z

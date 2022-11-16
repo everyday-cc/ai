@@ -53,11 +53,11 @@ related:
         height: 1667
         isCached: true
   - title: "DeviantArt upsets artists with its new AI art generator, DreamUp [Updated]"
-    excerpt: "As for DreamUp itself? We experimented with the service, which feels like a vanilla Stable Diffusion model. DeviantArt members get five free prompts to try it out, and members can"
+    excerpt: "Also, DeviantArt will let artists opt out of letting their images train DreamUp in the future, but each artist must fill out a form that requires human review first. This policy h"
     publishedDateTime: 2022-11-11T22:46:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com"
-    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com&amp"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com&amp"
+    webUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/"
     type: article
     provider:
       name: Ars Technica

@@ -98,6 +98,20 @@ related:
         width: 660
         height: 454
         isCached: true
+  - title: "4 FinTech companies transforming the financial space in Iceland"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-11-16T11:43:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-companies-transforming-the-financial-space-in-iceland/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Fintech to accelerate growth after funding round"
     excerpt: "A Cardiff-based fintech behind an AI-based credit scoring service to people without a credit history or those looking to secure small loans has secured backing from a number of"
     publishedDateTime: 2022-11-16T10:21:00Z
@@ -151,15 +165,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "11/11 – Weekly Fintech Recap"
-    excerpt: "Partnerships SPENN and Mastercard Partner to Boost Digital Inclusion in Africa Spenn and Mastercard announced a strategic partnership that will enable Spenn Mobile Wallet users – even those without bank accounts - to make safe and seamless digital payments on the Mastercard network including international e-commerce transactions."
-    publishedDateTime: 2022-11-11T19:49:00Z
-    webUrl: "https://financialit.net/news/blockchain/1111-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 4
 
 secured: "nR3CXST9IPfF4CgvWJL93K3q93JSKa+ZaNhJCYXlqXWxkIc+ZppuSFvThM7dI5y3wlmXs79bV6E4IGgHFWj/dqc1cfXXa66RHLgsWeE1yb+9kQwAb5XXCVwTx4WcKAa1z69qlLLE59Ml82r+FpAu+BscjrPzQySa5FR/CMzA6I4s9v8QktQm/0sqj+4GlLXJSN2AGoa/kaAtmgkBPDUsaYUEVTxH6LuihaCO/sGsMKR2dXoCjCwRRrgj02zCYSA9OyxPb67RGlNxnitOGlNkVxnvhT40EmDcSpYR4AufPxutsAB5WFOCgszpYT4HF4zlU/j14Z1H3SHLfG24BP8sWUnEjddC3okBichWOgbf7Ln3DYoxL/nRau9OjWbK/wCmPJzEfbw3JP+oVY/as28EiQiUUFqSQpE2c5AT4HtBHu09XdTFLKIOHZpTBCJcird9BxMudpP1dKbeJF8nKDFYhkPn/ESsJVExY57OYARm9XYo4ygkEa0/73ZyLVSfACCwv30lbn862j3gkTULio8s4Q==;P6Sx5UdMULn37dJ2GdYj7g=="
 ---

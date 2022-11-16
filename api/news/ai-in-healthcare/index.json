@@ -88,59 +88,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-15-how-can-healthcare-and-alternative-medicine-safely-adopt-artificial-intelligence-and-virtual-reality.md",
-      "title": "How Can Healthcare And Alternative Medicine Safely Adopt Artificial Intelligence And Virtual Reality",
-      "excerpt": "and telecommunications—have in recent years discovered the power of pairing artificial intelligence (AI) and virtual reality (VR) to help alleviate the complexities within their industries. Handout AI in healthcare A few years ago, both these innovations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-can-healthcare-and-alternative-medicine-safely-adopt/439152",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-can-healthcare-and-alternative-medicine-safely-adopt/439152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668497972-Healthfinal.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
       "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
       "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
@@ -536,6 +483,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million-us-seniors-age-in-place.md",
+      "title": "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place",
+      "excerpt": "On the heels of its successful General Availability launch of KamiCare, an artificial intelligence (AI) fall management solution for senior living communities, Kami Vision has announced Fall Detect by KamiCare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/cc/fccec21e-85c9-57d3-87f1-a92213eda6ca/636976b40edaf.image.jpg?resize=271%2C500",
+          "width": 271,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

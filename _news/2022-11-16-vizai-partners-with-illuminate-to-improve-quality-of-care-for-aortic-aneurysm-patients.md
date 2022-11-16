@@ -7,7 +7,7 @@ originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-1
 webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-16-vizai-partners-with-illuminate-to-improve-quality-of-care-for-aortic-aneurysm-patients"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "UC Davis Health and Illuminate develop program to improve care for at-risk abdominal aortic aneurysm patients"
-    excerpt: "UC Davis Health and AI (artificial intelligence) software company Illuminate have developed a centralized abdominal aortic aneurysm surveillance program that is saving lives."
-    publishedDateTime: 2022-11-16T03:47:00Z
-    webUrl: "https://www.news-medical.net/news/20221115/UC-Davis-Health-and-Illuminate-develop-program-to-improve-care-for-at-risk-abdominal-aortic-aneurysm-patients.aspx"
+  - title: "How AI Can Improve Job Quality"
+    excerpt: "Most people experience AI through workplace technology, not automation. AI can either improve job quality or make it worse. A new study from Partnership on AI shares insights from workers on how employers can ensure that AI makes jobs better."
+    publishedDateTime: 2022-11-16T11:23:00Z
+    webUrl: "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/"
+    ampWebUrl: "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 5
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/bleeding_cerebral_aneurysm%2c_angiography%2c_illustration_-_Semnic_M1_701a4e100a9c4e07afda61bef58cb9ca-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://imageio.forbes.com/specials-images/imageserve/636953d143386d13e7af29b9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Can Healthcare And Alternative Medicine Safely Adopt Artificial Intelligence And Virtual Reality"
+    excerpt: "and telecommunications—have in recent years discovered the power of pairing artificial intelligence (AI) and virtual reality (VR) to help alleviate the complexities within their industries. Handout AI in healthcare A few years ago, both these innovations ..."
+    publishedDateTime: 2022-11-15T08:31:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/how-can-healthcare-and-alternative-medicine-safely-adopt/439152"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1668497972-Healthfinal.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "IS8cY3KMfXycj+GWEYKzVZ2oXE8a81pqDuYkaDsjPm8hm8JeSN2Q70TPBWxzajRQRpCzEBSc55dwKRCAUBR0GvFb7cqlzn1y8/HGNSS5lwWyjVPWYuBjYLDkEWmvfO9+iggd2242cNhnazoVto4awpN9AsGEA3IdOh5CNSh1hGVkypVBknL3m+TT+BsEFyE4Z8CebX1dXoPHIaha9M3egqH5h316p7LGA6MivipIC0QpNJcZZHHqEpfDCTQ+6DbGsVI3UiQiQOKHY69Wii0aAQuMUfldl8+33PkJjBTSlf9g1z5cS5kOsYbWeeksyNkAJ1K62Ti8DWtjBobn3Ccuk0Qf9N5pJsE0RzAHZTjVFvM=;RrwPw9U9NH9fABZUXrZwPg=="

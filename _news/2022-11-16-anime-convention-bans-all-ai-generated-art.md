@@ -30,7 +30,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars-e1668557733700.jpg?w=1200&strip=all"
         width: 1200

@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place"
-excerpt: "Kami Vision has announced Fall Detect by KamiCare, the world’s first AI fall detection and assistance system available at home."
+excerpt: "On the heels of its successful General Availability launch of KamiCare, an artificial intelligence (AI) fall management solution for senior living communities, Kami Vision has announced Fall Detect by KamiCare,"
 publishedDateTime: 2022-11-07T21:13:00Z
-originalUrl: "https://www.businesswire.com/news/home/20221103006302/en/Kami-Vision-Unveils-Worlds-First-Fall-Detection-Assistance-System-with-AI-to-Help-54-Million-U.S.-Seniors-Age-In-Place"
-webUrl: "https://www.businesswire.com/news/home/20221103006302/en/Kami-Vision-Unveils-Worlds-First-Fall-Detection-Assistance-System-with-AI-to-Help-54-Million-U.S.-Seniors-Age-In-Place"
+originalUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Healthcare
   - AI
-  - Computer Vision
 
-secured: "AFK/V71E/5TTS3NiJLV+0kI8shHBnf51jh6fkdMyR6nZlVOGWfVt7Lc9Dnikym9EWwhCYFmagG3ov6VLrsrOXkJzDYs2zMVXaDINppqrqbjCEmt8PqZ6ZhcMCT2dsGBBcmbCvGsQ17eFvkr0pikVN7cKTMZHtlNYIKR4GvdEbby4gLpTp0kIwZhwCiyqea4EApbBxKM2GAuMXgq3JmLHU8u/iWbKg0YAjLjYb10hQ0d3dMUjUuRSRywKB5zWDTYtapHKXp3ywb4iE/BHmIuSj93C3vHtNP4yLB/1EyuoKrQR6zNnF6qKPKnB3AZeVCDkr7JgcaWStp8RFbNQ05btQgFh/jU/uloZXJsWDkuaqt+Mf1yq9saoKQeq9ng0H1otyPDMa74sWvfYMITXpRk8T8IQc9uHxZnOJwcS1rcFq9lO0VPvelUqQFzrTTo5eK66rgZzOFbZ3yRbnHXpF9lRTjsYKp4fqgfReONKFDomI+MDNXsAi/YbebC3BabYWo2WlMlGSYhFIi5NO832EQOa9Q==;6gKHg7RJm8hR16pnN4Ynsg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/cc/fccec21e-85c9-57d3-87f1-a92213eda6ca/636976b40edaf.image.jpg?resize=271%2C500"
+    width: 271
+    height: 500
+    isCached: true
+
+secured: "sByjgA/olAxTAFzAGg5/EQyYJCjqCY7THrzqnUYQt1uqK9agrIBbnAmJ9H6kiVLp85+kMn2o2ezBvwQtJeYHqv6CbFT+fZQ6cwzoEV1KXFj6kuKySJA4XxO+XEotK1dctYHsMPZYrUoYLRzTROTaX2Sa6sPFWE+J+VaXdgYkqyZG6q4w3z9xrV3wb5Ao54F4rZ79bg+Aju/N9ykZGBccEZK9a9bhXzWsoUol3MGazc4DD2TufZYDT0qvyauyHXcSV7UYJJzk3Uwg93SMhHqtpPy3XFSLoP1NMegGlAsDpWUxdpOxJ4pN5V9AYmXMsNj88D2nDALWSW9TG9GZAkRDJXsCpGnnG6sRNfJ4lp0cVdc=;GeX0oYfChjmRdA9HSTzmyw=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdra
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/"
 type: article
-quality: 89
-heat: 189
+quality: 93
+heat: 193
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6374aa9e9444d36ccde85854/0x0.jpg?format=jpg&width=1200"
@@ -176,6 +178,6 @@ related:
         height: 404
         isCached: true
 
-secured: "oYE4CgTz4YCjI/CG5WogbmS4TiIe5MoiVOH1qUawdxWlHVDNWOk3swkdaPmh195Alm7OfYGPAIo0NqE95bU5qY69f8BeEO16JPx9obJ8YFY/HUM56rGv/KShxMbnruWsZ4LbX5Hsq6hQ/9bIz3+R54EhvqbaYBabpRavXZbYFN9cT/2+fhmc7caDk3CCzb7V/leyrBH1lXMM1nkOE/sbOH85DNQ5QLy2xuQBSSvYACSRX0MOcnQVkvp/rmas6ODjEpj5JICCk7Mv67i5sT4Ib4alPPpaPqU/lQ66XJDPfkZbYk51socINhDUaGocIjSFW8Kx++wNLcgfcgczOMjEzyasd8vhBQBJ5nml4h6fV7Y=;+CBueLnlWI0gd5GHRQjTQw=="
+secured: "QzUQaSb8p793gg4Z2E74689RdTIMXM3fhbEA8qyKtnvY6yLJrmkCB4dGB0ew+/17AGVQu7nHdNxTGQUdkFs0tRllqrGHudY/d7d8W+PGuld+dBqSrfHzaerfx62GfRHNUo0LQJvqNYMZCOnYiLo8CedhGlyX0+GrbBZN1j/34ro290FGCiVrZTqCgAAlqYG/fkYOC6D0MzblArj7nXduMvBLupmjD/EA452glcLfZigPynejZrAM1qapheLkU3ueify6Gx2oBQlE48iY2CSQCuFFJ6AHmmZiGmNuuiyO1usVDsX68SWAHAQ94tFDVKXJFjdM6G4G6un/A0uyZz2CbatXDp7aq7EPGYcf5d3PD2hos1700oMo321Co3F0jXkUoMbiBgs29+tbh3ilgDh032Bwp5WKOblAChsXwPcnEmKKl5/e+9xoM1TP+9O0efhWPOZMJOKL8N2E3jGHuzhHA9aBmCupdxKBlSax9bFtr21nd8Ae2hninbVDln9wLBDbIUph2rFdcXEn13kGeJySFA==;FDA9dIEOnKz62ZPa/s8XGA=="
 ---
 

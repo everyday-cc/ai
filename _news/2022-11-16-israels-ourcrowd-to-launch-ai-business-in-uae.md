@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-busines
 webUrl: "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://static.zawya.com/version/c:NTYzN2VmOWEtNGVkNC00:NWI4NjVm/argentina-national-football-team-camp-and-friendly-match-in-abu-dhabi.jpg?f=1%3A1&q=1&w=3840"
         width: 548
         height: 548
+        isCached: true
+  - title: "Ourcrowd Expands Abu Dhabi Investment Operations And Launches Global AI Hub, In Partnership With ADIO's Innovation Progr..."
+    excerpt: "(business wire )--ourcrowd , Israel's most active venture firm, is to significantly expand its Abu Dhabi operations with a new venture capital (VC"
+    publishedDateTime: 2022-11-16T12:52:00Z
+    webUrl: "https://menafn.com/1105191619/Ourcrowd-Expands-Abu-Dhabi-Investment-Operations-And-Launches-Global-AI-Hub-In-Partnership-With-ADIOs-Innovation-Progr"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?559640"
+        width: 374
+        height: 250
         isCached: true
   - title: "OurCrowd Expands Abu Dhabi Investment Operations and Launches Global AI Hub, in Partnership With ADIO's Innovation Programme"
     excerpt: "Dr. Dewan said: \"IDI is the culmination of OurCrowd's strategy to revolutionise its FinTech platform with AI funcionality across the board. We intend to leverage these tools and architecture to deliver AI solutions that can be broadly used by external ..."

@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20221115/UC-Davis-Health-and-Ill
 webUrl: "https://www.news-medical.net/news/20221115/UC-Davis-Health-and-Illuminate-develop-program-to-improve-care-for-at-risk-abdominal-aortic-aneurysm-patients.aspx"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Viz.ai partners with Illuminate to improve quality of care for aortic aneurysm patients"
-    excerpt: "Adds natural language processing to Viz.ai’s AI-powered platform to detect suspected disease earlier and monitor patients Viz.ai, the leader in AI-powered disease detection and intelligent care coordination,"
-    publishedDateTime: 2022-11-16T00:03:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-16-vizai-partners-with-illuminate-to-improve-quality-of-care-for-aortic-aneurysm-patients"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 11
 
 secured: "/uzF6h6WsTkIvEsFxjSlKBhPJc4NQr4PT+dOhN9Y9KfgB5KmIeW8ty04+peX5BDsN+/cX0YGLx6O4Hr0sM3mKlbMBlyaQPhsd/0jKk2d2gBzZ1DEWGwWBLC6oLymgq0/A9duzhr9pTHV33a3cPWmQ8N+/2aogJ0S6QNw0HxVgLs+r1wwOKhEwJSdkjj290boVbg+I2a6GTfkD+eLpKr3eMDYB8A/tQkYt/KTk8v9/p227fnkQ4w4b3R0rmK/2i7t0uzAEwUCp13GgnPoQB7h/x63yUUQObInCaC7uQRB5K6V37kNdI122R/rJLCfCZeGlXsDdvgh66cgGzJOlJ2mYBU21KepnFLKgCZmTvli9CuIiP/LR1AUfLmShafPz2GD6zk7F7m50ynSsFMeZ88ASnLEC3PbUFBNLvAnZyVzn7r0tlE229uEdrDjtLYsY9245szrMeehMF5CUrySWZH2l6GCJ4tvYtSO9m3iCtv2A4btMQxlKUKMZyt5M0KzCyeuh1id+Q+zKqPRzUzsTooh+Q==;ne82i0dOR3d7KdS1trh9OA=="
 ---
