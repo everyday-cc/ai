@@ -2,7 +2,7 @@
 name: "ZenRobotics"
 overview: "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://zenrobotics.com/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=9I-Th926Ly0"
 
-secured: "aF6UGCTQpPpOaHh0scoaxaA83t7kC2tsza6rfPfbxxMXSrAZ9gx7cMTzU8reJhtWjGhL1n0ZR+hbv4GOtoD5iK0IPqGvbg2IVu9RDgTT4n6IGM7EbtrpXSIvT3kYQcpomFSglPQRhgGIFCWYP7zQxgSYHjb3YcYTtJoWaF0yN4YwUnBRbuyABbJQi3UQsnnTUXzQ8oIKqAvggqbd5qo80PZjOnhgaAkR/kNpt16Qb5aRpdQxotvuq192wA49/7IE2mszR1hGKiOKZY4Wd/vrRFRrIs/0S5/QYWEsAEJ/c8XjV6yTelTdJ0y2Bt4ih/eWz9WYO6FrQ9gLETdRMm+NfHvlg7UfumAXKvp1aQfLQJbOmYggGfUscHiSRKij66qMxQMfNY6g81Lp5sKbgT9PZj9aB1L36fOcoXmWp51YWnM=;HW98aucpNg8RY2T4wdLVDw=="
+secured: "6Mvau/csMzRoajSsBnnt+OK0FHsvdVoGfounTPYwyh23jkTvu+EaCbwAZp6VeXIMjXB491RdbkWFwvxMg/LnE91eucQv1oiEqKUSXEurmvwCuFKZya3LpTfCrjRwLLGBQhT4fTIm18IAvzGS/RQazUqZXyn7VOdZn01q6KsObDf5Pub8tgyq6t8sj1QdwORjthEZo0QndaaFOZA5FyOc9+1Rv8c8Cg67BcJXafU2Vl2HNdLDMX5dHgL+5IYrujkULRVp9u3cmuLjvI5uw0cllE5cw0DLEBth3aHj+fP3978+G7G2KFrmA/vj23vOKxOHqWb/Lpo+CV9myncBJcI/3k8ctw4zgRtEYbSfwVYsTrvfiqFI/y9E77nYtXM+w7Vf+gKzK70JK3r9iOuir+c5y1lPRvyw2tuL/BcqvYKf2Sg=;OSTtI94+/Kwy9xabGMPObg=="
 ---
 
