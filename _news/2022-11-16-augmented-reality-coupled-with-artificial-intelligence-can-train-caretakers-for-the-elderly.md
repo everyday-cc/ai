@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/alzheimer6.jpg"

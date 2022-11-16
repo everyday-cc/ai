@@ -5,12 +5,7 @@ excerpt: "and OneMeta AI ONEI has positioned itself to prove that point. That's 
 publishedDateTime: 2022-11-14T11:28:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
-ampWebUrl: "https://www.benzinga.com/amp/content/29695590"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
   name: Benzinga.com
@@ -20,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1668104872.png"
-    width: 1222
-    height: 1091
-    isCached: true
-
-secured: "lrfFUOd0gD+FTz86w/w8eE8xCtm4tHE+HXJChv/dEkBcmnmnEcYB6PTkuPYEADp5xzkD/burJOdxlBO+RaQaex82t4igp8Wb786v3z9TOIf1LWulfEgvYX3tcRFtkMQaRRoenQbQ2VmwwmTQR6T4Nfd+LETd39vO9+3oF6chKs6RbPRyaGF/uJ/Xd7foasmE0grmmk9vCizjHMCCYgMqX2WWeYMqSHr2fhdPemm3YbdqixmBB9O+mTIiqvenpk/+E2BL4F8jqiYRBKpwYD4gDICcb2HM/bi+TkgNBrO1xRN7kWGnDOxXfRf9QiZITE7r4ZnIY0dUBx1sS4ca7vMcQ5Q0Aap3ubEz0hlxXbw5k4I=;K68bIBR6NS7ECHAqzqHhmQ=="
+secured: "ZlyvnjXjC27Dzx3sn0f6ictzrGS1LE22/6QlKl/ip083NOXFLe0rkHSr5bESMmfhreuy3oVqCnzR8XJSoG9BZal1lHXl5Tl/DxYFWGuq6LQRL7B7jL8Ucqh58HziThi7JY2YeVd1+pNKoEXD+la67Z9GebmAxc76ohKxkl8S1Igla8UahpSjvKcUkvJCZ2cb03wSsMV1+FT999xQyklm2zYDMa82+a1gIf2+1heTHb9JoC6OSdI9rW3FytjLUW9bx6mcicz88+GOsK9ShbYWKTKiywJIzFUU7sx42lOR07d6ue2IP3wsgq8LqsffZ61FZGhgzN21uEN/VUmXA4i1Vx32HvSCt6x8SM4bqUmhbwo=;uyacin4uxPS25/YBkiWDTg=="
 ---
 
