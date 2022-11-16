@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-s
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
+  - title: "Mayo Clinic Uses Artificial Intelligence to Diagnose Heart Failure"
+    excerpt: "New research by Mayo Clinic shows how an artificial intelligence algorithm can be applied to Apple Watch ECG recordings to detect weak heart pumps."
+    publishedDateTime: 2022-11-16T13:29:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-uses-artificial-intelligence-to-diagnose-heart-failure"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 32
   - title: "AI breakthrough using a smartwatch ECG allows for remote diagnosis of weak heart pumps"
     excerpt: "Researchers applied AI to smartwatch ECG recordings to accurately identify patients with weak heart pumps, allowing for faster diagnosis."
     publishedDateTime: 2022-11-14T21:32:00Z

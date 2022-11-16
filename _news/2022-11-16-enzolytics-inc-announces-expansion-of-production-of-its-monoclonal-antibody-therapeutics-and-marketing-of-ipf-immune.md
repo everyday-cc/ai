@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T13:33:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57604516-enzolytics-inc-announces-expansion-of-production-of-its-monoclonal-antibody-therapeutics-and-marketing-of-ipf-immune-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57604516-enzolytics-inc-announces-expansion-of-production-of-its-monoclonal-antibody-therapeutics-and-marketing-of-ipf-immune-200.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Finanznachrichten
@@ -15,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Marketing
+
+related:
+  - title: "New Amazon HealthLake capabilities enable next-generation imaging solutions and precision health analytics"
+    excerpt: "At AWS, we have been investing in healthcare since Day 1 with customers including Moderna, Rush University Medical Center, and the NHS&nbsp;who have built breakthrough innovations in the cloud. From developing public health analytics hubs, to improving health equity and patient outcomes, to developing"
+    publishedDateTime: 2022-11-15T14:59:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-amazon-healthlake-capabilities-enable-next-generation-imaging-solutions-and-precision-health-analytics/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 36
 
 secured: "SPlQjkAGd65bxvjuMYGxV6413dhir0lEeSX+5IRfrQ0SlPJJSrbRhJ1CwXM7RgDNCaJNgSQGPHlE3XTxP8vjir1c84LFnpdQCMykFZEu+Z2Rb1FpnM2mbfS88WJm6fdeI4uf5wMWshsTKldEz8O09qMvoYIOghOjPbGqiLKBECFzKbHPX4RIFV57tpP5aL/+9pBkM3/gnVN30M/NckR6FHZof+FGCEIAbO0tRTdQ8ODPmy7Vw6/o3gFBds86SYMa7Lej3K5oz6jJznWyj7+WuAYi8oeqkzLNOxS9TMzwVbRLgzGs0bk3JVcc5PgGfe2RuDcMnT5s298fs+aTNdCeMGYVeb06aqQt2XS9CJoeH3I=;Fq10e2mLA1USSJSHYI1tbw=="
 ---

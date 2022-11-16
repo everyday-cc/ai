@@ -43,20 +43,6 @@ related:
         width: 875
         height: 493
         isCached: true
-  - title: "Amazon debuts AI-powered robotic arm and new delivery drone"
-    excerpt: "Both systems made their debut on Thursday during an event hosted by the company’s Amazon Robotics division. The company formed the division following its $775 million acquisition of robotics startup Kiva Systems Inc."
-    publishedDateTime: 2022-11-11T22:07:00Z
-    webUrl: "https://siliconangle.com/2022/11/11/amazon-debuts-ai-powered-robotic-arm-new-delivery-drone/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/amazon-1.png"
-        width: 1320
-        height: 743
-        isCached: true
   - title: "Amazon confirms its latest warehouse robot uses AI to handle millions of items"
     excerpt: "Amazon has revealed its latest warehouse robot designed to identify items and move them to new locations, introducing the latest AI robot called 'Sparrow'."
     publishedDateTime: 2022-11-12T08:05:00Z

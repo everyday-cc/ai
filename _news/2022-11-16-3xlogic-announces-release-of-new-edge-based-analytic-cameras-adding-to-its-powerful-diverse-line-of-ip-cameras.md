@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T13:33:00Z
 originalUrl: "https://www.sourcesecurity.com/news/3xlogic-new-edge-based-analytic-cameras-powerful-diverse-line-ip-cameras-co-5589-ga-npr.1668586340.html"
 webUrl: "https://www.sourcesecurity.com/news/3xlogic-new-edge-based-analytic-cameras-powerful-diverse-line-ip-cameras-co-5589-ga-npr.1668586340.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

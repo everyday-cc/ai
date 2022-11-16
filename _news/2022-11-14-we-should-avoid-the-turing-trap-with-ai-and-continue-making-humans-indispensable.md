@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/adigaskell/2022/11/14/we-should-avoid
 webUrl: "https://www.forbes.com/sites/adigaskell/2022/11/14/we-should-avoid-the-turing-trap-with-ai-and-continue-making-humans-indispensable/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,73 @@ topics:
   - AI
 
 related:
-  - title: "This Female AI Scientist Quietly Built A Profitable Longevity Startup In Estonia That Is Dominating The Global Skincare AI Market"
-    excerpt: "At that time, Konstantin worked as a consultant for NVIDIA, evangelizing and teaching CUDA GPU technology to the many emerging AI and gaming companies of the time. Together, they decided to start developing all kinds of apps to explore human skincare and ..."
-    publishedDateTime: 2022-11-14T13:24:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/11/14/this-female-ai-scientist-quietly-built-a-profitable-longevity-startup-in-estonia-that-is-dominating-the-global-skincare-ai-market/"
+  - title: "Feeding the world by AI, machine learning and the cloud"
+    excerpt: "Although farmers have invaluable knowledge of their own crops and fields, says Jung, AI and machine learning tools can be instrumental in cataloging greater detail, refining algorithms, and creating recommendations for solutions. As more data is collected ..."
+    publishedDateTime: 2022-11-16T15:56:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/"
+    ampWebUrl: "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/Thomas-Jungrev.png?w=1200"
+        width: 1200
+        height: 671
+        isCached: true
+  - title: "Artificial intelligence gaining more ground in China"
+    excerpt: "Artificial intelligence, a key technology for driving digital transformation, is playing an increasingly vital role in accelerating China's push for industrial upgrading and promoting the in-depth integration of the digital economy and real economy,"
+    publishedDateTime: 2022-11-15T06:52:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/11/15/artificial-intelligence-gaining-more-ground-in-china"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/15/1820161.jpeg"
+        width: 1199
+        height: 800
+        isCached: true
+  - title: "Introducing The AI-Augmented Enterprise Worker"
+    excerpt: "Similar advances have occurred in IT service management and workflow, where AI can improve services exponentially by improving customer service and helping technicians better diagnose issues. Businesses that start thinking today about how AI might augment ..."
+    publishedDateTime: 2022-11-16T14:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/16/introducing-the-ai-augmented-enterprise-worker/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 20
+    quality: 47
+  - title: "How AI is changing scientists’ understanding of language learning"
+    excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
+    publishedDateTime: 2022-11-13T08:43:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-ai-changing-scientists-understanding-language-learning/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 39
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/10/ai-language-learning.jpg"
+        width: 1280
+        height: 900
+        isCached: true
+  - title: "AI gaining more ground in China"
+    excerpt: "Significant progress has been made in developing China's AI industry, with technological innovation capabilities in some areas ranking among the best in the world, they said. A Stanford University report showed that China filed more than half of the world's AI patent applications last year and the nation continued to lead the world in the number of AI journals,"
+    publishedDateTime: 2022-11-15T07:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202211/15/6372ebe5a31049178c90b2cc.jpeg"
+        width: 720
+        height: 404
+        isCached: true
 
 secured: "DP99l1g3Ev5OCukef8hfzVzXVUsBxisuYOW4/yDQhSNS3LsK4obZm9Nl8H4jGW+XtJJ83TGF+cyTXnOtMvtXZly2vFPGy9DPTw3evVWyoQvtzqe/A0eBMM1VyuisiZEfsIvKwadNS59cpm7slENbaam20FH93dr6m3yR2LTYlIZixho58K1QXmkXlz8LJB57WufKaU5cAGBDcLETtw2uYBf3Zv9JnSS256CYngeVd7YUmaWogQ7GoBT/rpTrPHTcsWDVJpMo2BPXiOfRsdPdCoAH8HS3YxLKyBFJSDnRXRf5j7KGSZsjMWdg39iMlGuUNzxJVtNNvdUbIxdtQ0UE8e6+TOLjUwYxp7DSv4P+IpeDuyEDRaGCLpXuvConySYXA6O8ve1RYFQLPHCs84sI8Ul6qbV+MXg6y9mljlCBpCTzpOiZcWvNQlvY1JRmc20Ebp4n7o015a97jDq7vQjqbDhOjxZmoSZWGoJ1AWL3PfrqzF6QCKef2O0DzalC+ZIz5uZSj5qYkqHkgfDfteMHtw==;1/vqUN7muShC6z4F58HLaA=="
 ---

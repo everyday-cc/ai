@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-15T20:20:00Z
 originalUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
 webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: CBS News

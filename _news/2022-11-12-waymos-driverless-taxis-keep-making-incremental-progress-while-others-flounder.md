@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-t
 webUrl: "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "Waymo's driverless robotaxis can now be hailed by ANYONE in downtown Phoenix - a major expansion - after the company secured a permit to charge for autonomous delivery in ..."
-    excerpt: "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to all members of the general public in a significant expansion of the technology in a major city. The news comes a ..."
-    publishedDateTime: 2022-11-12T00:51:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11418589/Waymos-driverless-robotaxis-hailed-downtown-Phoenix-major-expansion.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11418589/amp/Waymos-driverless-robotaxis-hailed-downtown-Phoenix-major-expansion.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11418589/amp/Waymos-driverless-robotaxis-hailed-downtown-Phoenix-major-expansion.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 37
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/11/11/21/64460129-0-image-a-19_1668202676407.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "rVcJk+Wa8S2A0T5a44nXp1nzD9+T7MiBa5GvXggYpgIYGiryhcD0Wph42FFS47Cb7cD8ZdT+TMugi6a5wmsXlfYDdGZq6o3qdsmdiJbLByKFVA2mbpnflpJYjbnxm3oqKV1Z+ZFbekdT1x7kG4ayNkhDQFQCAaLpf2/Av8ldlEu3TjU6mt7UW1sSNhSrPPZwHgkkEJE8+wir6Mp5UgucWyIwlBfk8o5ToEGx9JyddDoDF1ziuHhlLc6fBGANsdp40QqdbEBFuyId8iK0m7MFpxdgrQjN+J1uqcxoEprBpH5qsbpXDsM9FmExRIaoshmAFafjXnZvZOyEll0DBppEOGdNCUvr7OF2tw/zM7HpFEE=;JFyqJzbdNwAK317/wGLNCA=="
 ---

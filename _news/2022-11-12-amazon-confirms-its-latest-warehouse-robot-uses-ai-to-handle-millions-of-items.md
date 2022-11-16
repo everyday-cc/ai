@@ -53,20 +53,6 @@ related:
         width: 970
         height: 546
         isCached: true
-  - title: "Amazon debuts AI-powered robotic arm and new delivery drone"
-    excerpt: "Both systems made their debut on Thursday during an event hosted by the company’s Amazon Robotics division. The company formed the division following its $775 million acquisition of robotics startup Kiva Systems Inc."
-    publishedDateTime: 2022-11-11T22:07:00Z
-    webUrl: "https://siliconangle.com/2022/11/11/amazon-debuts-ai-powered-robotic-arm-new-delivery-drone/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/amazon-1.png"
-        width: 1320
-        height: 743
-        isCached: true
   - title: "AI tool uses CT scans to identify patients at risk of reduced blood flow to the heart"
     excerpt: "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart."
     publishedDateTime: 2022-11-14T22:56:00Z

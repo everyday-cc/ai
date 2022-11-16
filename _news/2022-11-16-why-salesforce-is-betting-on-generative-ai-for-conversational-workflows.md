@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T14:29:00Z
 originalUrl: "https://venturebeat.com/ai/why-salesforce-is-betting-on-generative-ai-for-conversational-workflows/"
 webUrl: "https://venturebeat.com/ai/why-salesforce-is-betting-on-generative-ai-for-conversational-workflows/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T14:00:00Z
 originalUrl: "https://venturebeat.com/ai/new-dall-e-integration-adds-generative-ai-for-next-level-slides/"
 webUrl: "https://venturebeat.com/ai/new-dall-e-integration-adds-generative-ai-for-next-level-slides/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

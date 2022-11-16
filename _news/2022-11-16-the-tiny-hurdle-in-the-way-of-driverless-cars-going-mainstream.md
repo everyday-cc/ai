@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Waymo's driverless robotaxis can now be hailed by ANYONE in downtown Phoenix - a major expansion - after the company secured a permit to charge for autonomous delivery in ..."
-    excerpt: "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to all members of the general public in a significant expansion of the technology in a major city. The news comes a ..."
-    publishedDateTime: 2022-11-12T00:51:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11418589/Waymos-driverless-robotaxis-hailed-downtown-Phoenix-major-expansion.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11418589/amp/Waymos-driverless-robotaxis-hailed-downtown-Phoenix-major-expansion.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11418589/amp/Waymos-driverless-robotaxis-hailed-downtown-Phoenix-major-expansion.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 37
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/11/11/21/64460129-0-image-a-19_1668202676407.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "6anUoNLX2GdKyZxG77Tf98K9da0eEWVeBKkX8ewt7RCD2L7tYWt4iDwjrTq7VFchnGxzwbfu5bLRGWfhDEl+b1bKYg60ppo54S/PDc4dWVLBtLls9K4zUoU7qsbvRaC0s7m9zrNuGgEeA8mC0yxfPi6U2zTx1gIZ4z6J0wPA6bDj3TngArNfR+BeBKYuhzkLu1Oy8Y8Th+fKeMF81F/KFoLp9SnyJcL+E/S4VC9KlbSSyB+hQg1f31ICLpIg6D2LWHN/qiUHdgB1juWbMQQ+hJkLJkRM0/+ZeXZ3mQIh/4zGOgy0CQZfEiqWkQ+/viJJMoPb5HuYeRo05kx+/SyavL7NC2YCOhm+bXILONmdEsA=;5Fm2QHeAHPLkJvudkronig=="
 ---

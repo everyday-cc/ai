@@ -71,14 +71,16 @@ related:
         height: 250
         isCached: true
   - title: "OurCrowd Expands Abu Dhabi Investment Operations and Launches Global AI Hub, in Partnership With ADIO's Innovation Programme"
-    excerpt: "Dr. Dewan said: \"IDI is the culmination of OurCrowd's strategy to revolutionise its FinTech platform with AI funcionality across the board. We intend to leverage these tools and architecture to deliver AI solutions that can be broadly used by external ..."
-    publishedDateTime: 2022-11-16T08:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ourcrowd-expands-abu-dhabi-investment-operations-launches-global-/2022/11/16/9714256.htm"
+    excerpt: "Abu Dhabi Investment Office (ADIO) supporting OurCrowd to launch Integrated Data Intelligence Ltd (IDI), a technical excellence hub in Abu Dhabi to commercialise Artificial Intelligence (AI) for busin"
+    publishedDateTime: 2022-11-16T06:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29742439/ourcrowd-expands-abu-dhabi-investment-operations-and-launches-global-ai-hub-in-partnership-with-ad"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29742439"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29742439"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "ixRuOQXTmpIax6efhW21Rl1ZeJu2A6ll+7zecZAuVtjr4BK+ZwRoQHx1Ca7LPY5HS4njJC4KAph2fzQyd9xmkiaflra5g651cWfe3FB5Qh2T981mBMIPJ43kOufdFowR//ZQNOIwSrsnTjnld2mef8hLXkS74i2P+Yv1u70imjm1R4ACB5PMHgNZF/gmBIAWdVwE1IlA6VtESFw3Tc6vsfuciBDgTbK0esd8dvPL0EhQbQuJ2uC9x70f5my4g4KEf1chkYkvpmWZEE0AN3IT2DJpultc6Uih2lJbjwLm/nDgYJcy8mcKg0CjrLSn5M8+qWtFnM6XUi654d8lc4II6XRjrz4fRT75PSjTJTNGhJC6YaMDbRlG+G+u6fH/ca9lYK1N4Ts0c6wPpwxYE4gjCBP81d3NmiMH9K2dcoYBMfmXWNVAgtkWO6Tu1QUYLIS5f8b3lg0S8lhMxUhVXBhJtMwroKAzQnjonTyT3Hg1+AHxWcVK2ut5Z8I1HGSSXTDeAisAWQu5GPXhUCZwDzgg7w==;knuz3tOxz1tCN+2N+9ZlSA=="
 ---

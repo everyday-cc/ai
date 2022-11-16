@@ -43,6 +43,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Global Industrial Robotics Market Size & Share Projected to Reach to USD 46.1 Billion by 2030, at 14.2% CAGR Growth: Polaris Market Research"
+    excerpt: "According to the research report, the global industrial robotics market size & share was valued at USD 14.1 billion in 2021 and is expected to reach USD 46.1 Billion by 2030, growing at a CAGR of 14.2% during the forecast period."
+    publishedDateTime: 2022-11-16T13:31:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/16/9714630.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "NfFYHlT/xgaiWQ5tJnK1SWGrs8yTCEcvprCrH/iq1pWr5xxHO0a2pshf2PGncSkf9RCT5pSmRd3OAO2NQlP/p1SVihqsikJ5uapmOu98hAAkiC9cY3LvJAse5DkKR4zz4eyYWctfmCGqm5bqg+0bzUj0DYqZpg9PRaPdXRsXdPoTIzbDx9sidwHmWzqXaVRwGKPTyIGN90yK/opyFrIo0vfOSVdKlrGUDezvwJYVffxWdxRm694tR4Rra0syyiLWguJtwmUB912XjQ1TlqBt7YitWbywd7p8n1L2xcC6fWrPzaulRVjuQqE53Nzph93ijoR9r2DQMXZMedaq1nJn0aweq7IUb92YXuUJOMIwHun2A+fKEJGcN3MnWvuZ9G9kwhcr8Lewx5H2mh7W1aXBh6PW4SkryVxWtPQF8TSknzvIi3IRzAmqPCi1a0OTzvp/cZ6z11vvTSrs0sFFXQFobfgBlBgQNdvObcjH4gJsS2IIJIEglVkAC3LAkeLOdbSXRJMW2M7X+KCvl5DrLoxJtQ==;7nYfR+1v38LoyKCjR3fVoQ=="
 ---

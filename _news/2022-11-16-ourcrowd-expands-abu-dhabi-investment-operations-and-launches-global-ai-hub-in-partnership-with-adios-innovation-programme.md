@@ -1,18 +1,20 @@
 ---
 category: news
 title: "OurCrowd Expands Abu Dhabi Investment Operations and Launches Global AI Hub, in Partnership With ADIO's Innovation Programme"
-excerpt: "Dr. Dewan said: \"IDI is the culmination of OurCrowd's strategy to revolutionise its FinTech platform with AI funcionality across the board. We intend to leverage these tools and architecture to deliver AI solutions that can be broadly used by external ..."
-publishedDateTime: 2022-11-16T08:55:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ourcrowd-expands-abu-dhabi-investment-operations-launches-global-/2022/11/16/9714256.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ourcrowd-expands-abu-dhabi-investment-operations-launches-global-/2022/11/16/9714256.htm"
+excerpt: "Abu Dhabi Investment Office (ADIO) supporting OurCrowd to launch Integrated Data Intelligence Ltd (IDI), a technical excellence hub in Abu Dhabi to commercialise Artificial Intelligence (AI) for busin"
+publishedDateTime: 2022-11-16T06:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29742439/ourcrowd-expands-abu-dhabi-investment-operations-and-launches-global-ai-hub-in-partnership-with-ad"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29742439/ourcrowd-expands-abu-dhabi-investment-operations-and-launches-global-ai-hub-in-partnership-with-ad"
+ampWebUrl: "https://www.benzinga.com/amp/content/29742439"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29742439"
 type: article
-quality: 0
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -76,6 +78,6 @@ related:
         height: 250
         isCached: true
 
-secured: "pqHvgBjUyDcLx9e/2XRW+BXn+SiA5iNEilk3XTkQCUsIN81fyE5UnV+VXwLiCtgd7cwp+uY/XRF/jlo3OE9hvCaQYiW82U89MpiJBejbhPxq8LD73pdWJ9DKqSgY5xbARf1XN8zuWOq2jCBeeCeWJ5+0ihsHhtnRBW6cT5Rb4LIIuHXsa7pKnBwtmiAqQFqIsJoyRCE+U418Ad7HgCwke9Q/h8Wjv2As4e5pWHYZlTj4QJJOSIEuUQG8C+e/k/raOQ15PXmamOGdSh3fXVRpyuo3AtO/tA3r+cRTkY4D3xTGNeU/rP3Ye/sNApIm7h8PjXkJtjS6TNFyJvQNsR8G0RpI0rCT0XKRmxd+8L1tTKI=;13BW8IImKLOxzq3wkhypQA=="
+secured: "XzK0313o4/ZuNiAe4NeBe+dU8JhdOney0iFR9oAdlC0FORktntubqXwUydgPPWgQkYZkJNTkdZpdcEOwL0QNJioYRfAvNQg1k3BIlTfIxP4tMh05DatkuSPpG1/lcMJXL8hIkAGj2uNIl6+zgROSnDC4rw3NakrEpGZduWjm1ZhUMkzlqOKplUJfNO/I82L4TIvjoRrbQ8VKOf9cwIHDb99PG6sCw3+EyO/Y5VURoVtY2vKg/shl7uP3J3I6sIUaWOZp/ToLW2exQZeSS7MGNo+Pnw2r9CE6ykL/C5miMihqJCRdlZXyVa0Tf332BU7Y1E8CvTG49a8KlBMlqSW6/3rGy6hEoRYU/ub1XdWmcB0=;CzL1nneHfG8YRw6LXm2+1Q=="
 ---
 

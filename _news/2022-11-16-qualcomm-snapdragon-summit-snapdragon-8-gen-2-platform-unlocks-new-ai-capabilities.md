@@ -106,6 +106,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen 2: Everything you need to know"
+    excerpt: "Qualcomm announced its next flagship mobile processor, the Snapdragon 8 Gen 2, at its Snapdragon Tech Summit in Hawaii on November 15, 2022. It's the new"
+    publishedDateTime: 2022-11-16T16:15:00Z
+    webUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2"
+    ampWebUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-Large.jpeg"
+        width: 1280
+        height: 761
+        isCached: true
   - title: "AI is at the center of Qualcomm’s ‘one technology roadmap’"
     excerpt: "In the context of Qualcomm's plan to leverage mobile tech to grow share in adjacent segments, AI has a key role to play."
     publishedDateTime: 2022-11-16T04:10:00Z
@@ -176,6 +192,15 @@ related:
         width: 680
         height: 404
         isCached: true
+  - title: "Qualcomm launches its latest top-end smartphone chip"
+    excerpt: "US mobile chip giant Qualcomm has unveiled the latest iteration of its flagship SoC, which will be powering many of the most expensive devices next year."
+    publishedDateTime: 2022-11-16T13:38:00Z
+    webUrl: "https://telecoms.com/518477/qualcomm-launches-its-latest-top-end-smartphone-chip/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
 
 secured: "iOea7A7PDRFL9z3++GAG4T9ylu5KweLf1njXidvVybsQN+kXXvhzFaLSqdSV1+xOGX/tWaGeOi7YZG0NaaKmS3CSpH13u0U/JhR8ME4sZ2z5nYB3FIs+SWvimq1gedZjrc9SNrICyjX/eCyVSvMt6ss6uNwy4dUokhSMkK7BtLlDt8h+NHACSybJ7+qZ9+seRP2ReAj5WY2nK/YjS0t2PlQdlRTQW8qeElUSs+JvdEYlVk+xHys9pV0Yq1eXJ7lu6IlWTLxVreWEw0cQ2TGdFTTOeWbOX9hnczs89ncyBvqP6O9lbO4Bait8NUBJuKHAu/WXUIyHa7Ka/tr3gqXGmAFXm8Sx3u8L63nDNEecAvnbBAZfrF/iL0BCS9z3fY1dEeGImD0SyjYsSOgDZkQuxlclY94oAcLCPBGbkHPkRD5m1WwKE7QujrjEiBaUBfYPOe0WkcwZglNx6RoiNBGCDn739ov1RGdJC++6hb4TGvydrLjdwLZw/C4pmwWjJBh/X+aNhPHw4wrCTGhlR81Qmg==;v+rXxH2bOfDXZ7AGSpBX1w=="
 ---

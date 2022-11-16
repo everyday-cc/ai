@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/how-automation-and-ai-are-transforming-servi
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-automation-and-ai-are-transforming-service-desks/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 699
     height: 500
     isCached: true
+
+related:
+  - title: "Notion is using AI to automatically write your blog posts, job descriptions, and poetry"
+    excerpt: "Zhao thinks Notion AI can help in both cases. “For many users in this space, it solves the cold start problem. And even more than that, it saves time.” Notion AI won’t write you a publishable blog post, but it can help you skip the crappy first draft ..."
+    publishedDateTime: 2022-11-16T14:28:00Z
+    webUrl: "https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 39
 
 secured: "KNguxd+58on/dF5v5PQUxkD3oLJGN/y8KCD3a/75TNjZ/NSSSN3YJVZH7xYNqufYwjIN0G9FsCkuLiAL0dvcDWdPR4qP+uHpqmCmZnpukDzQgPeolGBGQfatwBI2FAKtlCvbYiL2PL0vItUf1ozaOT2ugRogVh6HGUMqg3kn6MKSFR6C7ILWTVlxk/Hqf4F31p0bGOAYkrs1qu7bPYwcGNWTmv9xx5O0UiD0Z6gDB85L8S+1A4A6CtWiji4jEWtOJ7D3M+QPQYDFHhLxD1iI+NtIURLEd0cNzPL5TzOt/9GnUe9Sm93zYjeLkzrV8vwkF2swszyaB2ErKQsX5ZtAthT2jsrMDzeTNWv53+dHAUAUvVK2zTY3pjc4w5TrnGqzNHHJFFbKXfwsTOkCSteZPsxcEIGLybfE3ZCESixBTsLaNa0nvrx2R5iTnHh6q9w7nLCGXaXpwY3fBhodJf3zRIJkiRLHTHVggVHSA4SmVTHE7IUm700GqZVJtoHZQPt8HCIoa7PpSndQM1rfqfWnmQ==;Dx5KuNZPgjxkL55NNpOQRQ=="
 ---

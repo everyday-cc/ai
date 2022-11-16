@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T13:55:00Z
 originalUrl: "https://www.ndtv.com/education/ignou-launches-ugc-approved-professional-development-programme-on-artificial-intelligence-in-ict-applications"
 webUrl: "https://www.ndtv.com/education/ignou-launches-ugc-approved-professional-development-programme-on-artificial-intelligence-in-ict-applications"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: NDTV

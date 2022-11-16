@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-report-2023-upcoming-trends-demand-regional-analysis-and-forecast-by-2029-2022-11-15"
 type: article
 quality: 61
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market 2022-2029 | Global Industry Size, Share, Growth, Developments, Top Industry Players, Recent Trends, Forecast to 2029"
+    excerpt: "Nov 16, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Market” Report Industry Size, Share, Current Insights and Developments Forecast 2029 The report incorporates in ..."
+    publishedDateTime: 2022-11-16T16:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-2029-global-industry-size-share-growth-developments-top-industry-players-recent-trends-forecast-to-2029-2022-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Managed Services Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029"
     excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “AWS Managed Services Market”"
     publishedDateTime: 2022-11-14T03:39:00Z
@@ -128,6 +142,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Courses for NLP Market Trend, Size, Share, Market Segmentation, Survey Report 2023 Along with Statistics, Forecasts till 2028"
+    excerpt: "Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 83 Pages Report Global “Deep"
+    publishedDateTime: 2022-11-15T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-trend-size-share-market-segmentation-survey-report-2023-along-with-statistics-forecasts-till-2028-2022-11-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Deep Learning Unit Market 2022 : Risk Analysis & Macroeconomic Trends Market Research Report with Fastest Growing Countries Data | 90 Report Pages"
     excerpt: "According to this latest study, the 2021 growth of Deep Learning Unit will have significant change from previous year."
     publishedDateTime: 2022-11-14T03:10:00Z

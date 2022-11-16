@@ -40,7 +40,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 62
+    quality: 64
     images:
       - url: "https://images.medindia.net/amp-images/health-images/alzheimer6.jpg"
         width: 1200

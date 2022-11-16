@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T14:28:00Z
 originalUrl: "https://phys.org/news/2022-11-global-diversity-based-advanced-machine.html"
 webUrl: "https://phys.org/news/2022-11-global-diversity-based-advanced-machine.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Phys.org

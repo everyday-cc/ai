@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-an
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169-amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "AI Voice Replication Is Transforming Star Wars And Other Media"
+    excerpt: "AI voice replication is restoring James Earl Jones' voice for Star Wars projects. Here’s how the technology actually works."
+    publishedDateTime: 2022-11-16T14:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/ai-voice-replication-is-transforming-star-wars-and-other-media"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 19
 
 secured: "M3oljOk9GTC6q1R+alWYoHWOOX4JrH2caHdQ6uPC1oYmnWxcElxpK6UY4kJfVcPPIMmVa3ZnaFCIezRJ8YxO/FQHCKRnfZEoBcEz6XpqjK5I3dNPUlMMtHpDLjDkEOBmHPr0dPM2IFvLX+1923Vq9gKrEE21NabfVwMybeZhX60F3bY4GkyuxwSraGliOa3BjxoV5zpkMut+9Ha5otm+nPHh3fsBy3kX/qrCWq4SFevATUtq8k/aev2I5GlA5tzxmdhmtz9PzEIvBcxNt0+xDj4+7crMhj+piU+aawcwMEULvyUZ9PNN1qYb96lNPJ6ZIux/y7XNn6eVrvISjzoqJdJ/bHSvzc6Du/WHGzqVWlE=;u/sgIQzFRStpWOsb7SoP5A=="
 ---

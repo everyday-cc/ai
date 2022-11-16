@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/new-microsoft-partnership-accelerates-gen
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-microsoft-partnership-accelerates-generative-ai-development/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, Nvidia partner to build a massive AI supercomputer in the cloud"
+    excerpt: "The partnership makes Microsoft Azure the first public cloud to incorporate Nvidia's full AI stack – its GPUs, networking and AI software."
+    publishedDateTime: 2022-11-16T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ceedd03cba1eadb3ef14a3155671348e716ed0c8/2021/05/19/7b33da8e-a1fe-4eef-8ef1-08b606f226c6/zdnet-azure-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z
@@ -41,6 +57,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Nvidia, Microsoft Join Forces to Launch Artificial Intelligence Computer"
+    excerpt: "By Sabela Ojea Nvidia Corp. said Wednesday that it signed a multi-year collaboration with Microsoft Corp. to create an artificial intelligence"
+    publishedDateTime: 2022-11-16T13:36:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-microsoft-join-forces-to-launch-artificial-intelligence-computer-271668609379"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
   - title: "Microsoft Announces AI Supply Chain Platform"
     excerpt: "Artificial intelligence and enhanced data use are becoming a key part of supply chain management, and Microsoft has announced the Microsoft Supply Chain Platform."
     publishedDateTime: 2022-11-15T15:53:00Z

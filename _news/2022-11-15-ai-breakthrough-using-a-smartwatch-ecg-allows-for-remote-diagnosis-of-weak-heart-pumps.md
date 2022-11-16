@@ -49,6 +49,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
+  - title: "Mayo Clinic Uses Artificial Intelligence to Diagnose Heart Failure"
+    excerpt: "New research by Mayo Clinic shows how an artificial intelligence algorithm can be applied to Apple Watch ECG recordings to detect weak heart pumps."
+    publishedDateTime: 2022-11-16T13:29:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-uses-artificial-intelligence-to-diagnose-heart-failure"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 32
 
 secured: "/qMzQdamKwAjN/HVjMEwAB05IHkc9DZJrLTmBMiNe7GVsBBDfEu7QbUgRrJncNjXrtQmW9trRPninnI+Serss4J3WnHHXhU91Io7kk5E4I3mXrehzZwZbnCr9mMOpwnE/Ny4oPr+h6wCJlIz/85GeAmlTs2EtBDXFG9lFh61L328K1lOP+sSXSYTSez2Jta4DKMB8MfBJt0YX7zjaMoR0End/1KSK0bkHBBRpG5PmT/YF5T+69jYmjUbCXNG7GsPSTMlLjeGSOgoEAcmu9vNfIk7uipFSaudw1Z0CV9YFY7AJqCpZGdT0oZKRHAL+x7wBEGZM19dTUD/Ll9HEyqs8nyfaX06ZGAZF2Za9ZYUpVY=;4IirqAFrmf/81+f3zm45FQ=="
 ---

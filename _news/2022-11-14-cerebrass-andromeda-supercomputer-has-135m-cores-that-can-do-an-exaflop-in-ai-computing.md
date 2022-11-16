@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA Partners With Azure to Build Massive Cloud AI Supercomputer"
+    excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build what the companies said will be one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s supercomputing infrastructure combined with NVIDIA GPUs,"
+    publishedDateTime: 2022-11-16T14:57:00Z
+    webUrl: "https://insidehpc.com/2022/11/nvidia-partners-with-azure-to-build-massive-cloud-ai-supercomputer/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
+        width: 593
+        height: 290
+        isCached: true
   - title: "Andromeda 13.5 million core AI supercomputer unveiled"
     excerpt: "Cerebras Systems has unveiled a new supercomputer this week in the form of Andromeda. A 13.5 million core AI supercomputer"
     publishedDateTime: 2022-11-15T12:21:00Z
@@ -77,6 +91,15 @@ related:
         width: 700
         height: 488
         isCached: true
+  - title: "Cerebras unveils AI supercomputer containing 16 dinner-plate-size chip"
+    excerpt: "Cerebras claims that Andromeda features more cores than 1,953 Nvidia A100 GPUs and 1.6 times as many cores as the largest supercomputer in the world, Frontier, which has 8.7 million cores."
+    publishedDateTime: 2022-11-16T14:00:00Z
+    webUrl: "https://www.hindustantimes.com/technology/cerebras-unveils-ai-supercomputer-containing-16-dinner-plate-size-chip-101668601844001.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 34
   - title: "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer"
     excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5"
     publishedDateTime: 2022-11-14T16:33:00Z

@@ -38,6 +38,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Mayo Clinic Uses Artificial Intelligence to Diagnose Heart Failure"
+    excerpt: "New research by Mayo Clinic shows how an artificial intelligence algorithm can be applied to Apple Watch ECG recordings to detect weak heart pumps."
+    publishedDateTime: 2022-11-16T13:29:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-uses-artificial-intelligence-to-diagnose-heart-failure"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 32
   - title: "AI breakthrough using a smartwatch ECG allows for remote diagnosis of weak heart pumps"
     excerpt: "Researchers applied AI to smartwatch ECG recordings to accurately identify patients with weak heart pumps, allowing for faster diagnosis."
     publishedDateTime: 2022-11-14T21:32:00Z

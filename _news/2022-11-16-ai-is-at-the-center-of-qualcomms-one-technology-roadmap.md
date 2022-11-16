@@ -115,6 +115,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen 2: Everything you need to know"
+    excerpt: "Qualcomm announced its next flagship mobile processor, the Snapdragon 8 Gen 2, at its Snapdragon Tech Summit in Hawaii on November 15, 2022. It's the new"
+    publishedDateTime: 2022-11-16T16:15:00Z
+    webUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2"
+    ampWebUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-Large.jpeg"
+        width: 1280
+        height: 761
+        isCached: true
   - title: "Qualcomm introduces Snapdragon 8 Gen 2 chip for next-gen flagship smartphones"
     excerpt: "Qualcomm’s new Snapdragon 8 Gen 2 processor is set to bring up to 25 percent faster graphics, 35% faster CPU performance, and up to a 40 improvement in energy efficiency for next-gen flagship phones."
     publishedDateTime: 2022-11-15T22:07:00Z
@@ -171,6 +187,15 @@ related:
         width: 680
         height: 404
         isCached: true
+  - title: "Qualcomm launches its latest top-end smartphone chip"
+    excerpt: "US mobile chip giant Qualcomm has unveiled the latest iteration of its flagship SoC, which will be powering many of the most expensive devices next year."
+    publishedDateTime: 2022-11-16T13:38:00Z
+    webUrl: "https://telecoms.com/518477/qualcomm-launches-its-latest-top-end-smartphone-chip/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
 
 secured: "VuiFh2ZFjgfhzsGYytrp2i112nztCEGLCyM8FaSM8pd0/ywRG+7GRuBnyeRgG5T6XRDtIfOaKJz9ktSlfT2Z5Pue9GbNfG7w8J33/dZqk/PefPefIeJJJwd64UBbukXQoR2rcyqY+0nFXM6O4ALKkHfJEpZR6NmXb1R30yS4Ov4osF9jz6hD8rRnyBgwEXwtRR84+ptpqKnW223zs11luzpxEq+p5N72AQZOKrTw+nlu8TTp6yDbkLH5I2j6oIOle8mzWdGFC2DW2dl6bP8swHZ9JuZiB4aZdWMPbWFCQjTU8UJ1yAQgm0EPx0iRX4/SXN7Xk1Fel7y6r8ySvTVgJg9SRTPpV/eeQQWQTGX77wY=;OKY54rapDxUEyXa9+0f+TQ=="
 ---

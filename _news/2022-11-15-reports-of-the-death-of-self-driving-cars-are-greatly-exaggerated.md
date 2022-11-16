@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "What Happens If Self-Driving Cars Don’t Happen This Decade?"
+    excerpt: "Late 2022 has seen many grim declarations of the future of self-driving, particularly after the decision by Ford/VW to close down Argo.AI their self-driving startup. Other companies in the self-driving space and LIDAR space have seen market devaluations ..."
+    publishedDateTime: 2022-11-16T13:43:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/11/16/what-happens-if-self-driving-cars-dont-happen-this-decade/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
 
 secured: "xclWF5OTqKyLJks5hwzsYPSSMLGGE47lMbWSfDDSHdOmhOz1Ly0wHg15VnPVGx12i7wzE4nIjFXiUPsrBD47Q46DmhsK5lbgD2itKxvFP39ClF+n5O0e9lPP5FwgufP9BXgcNZolMOvjxTrlRRsnO7A2QqEfuJ9i+YOMgB/HuGwpfe/emwJx2ubYDE31Phh/N2MMSnpJJIV6kjsq22A6ez9OBkRQcnW8SKrK7SXBTWfDpJu78x8lxZ9C13MjOVtzYBZIyFjc7tiVNdREMXgPhxbW2hliikMdJKpgFU0w8tLT8Hp7F0RWDf3jfUADxKO1SODuFQedGzvfofBL/14VdN3oWWYZtnP+2RWy0S+qHLvIC75QUpMXq0hwq/rNZBWf6WMc/esEYWU8dPSHZj4mL5N6g8LrhTOLCzzqdTlOBdyGD7w680vi8luJRwVsP2dqWyx9sgSxbW/2LR5ebC5L4vn9p5Awu30Y4pWass0GbyScm0y9l5YtneaPCjdAMPqJ3LkGsURZpW84jaYa0fmFrw==;YcB9E4pOiH2UQJCcE60h2w=="
 ---
