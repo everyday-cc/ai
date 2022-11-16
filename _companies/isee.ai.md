@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "isee_ai"
   url: "https://twitter.com/isee_ai"
-  followers: 248
+  followers: 249
 
 size: 11-50 employees
 yearFounded: 2016
