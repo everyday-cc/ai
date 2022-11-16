@@ -8,8 +8,8 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwat
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
 type: article
-quality: 72
-heat: 92
+quality: 74
+heat: 94
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg"
@@ -50,6 +51,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "MPCiVNOcJ7N8QBwV6arovblVqJElSofHcvgSHXRhln18Tc4JgbYTKtYvtBPiGt5cUSyQs+d+BmsVHswVDfNEytypQ0azhpUL8t6Kl6qUo4OWtiptm+dzo0kPdTfdDaljpPfGP42WLLXfjxsGUtPcH4eU3DgCng0QDgD3ZFLiJldM0JwuqVcijXfjIchj39DkclPOs/wDQw/0X3JDfnbZp7ddkTO5EqALFcL29WNl5jqDpDAC0N8kuT2h78NGhBv6Q/V8buDscd9nsRJQIJNQblXZXsbq+BxCYHivNkpJHtHndhKHGX+I3KLKU+ae69AGkNe+aytqfwzpkyhGSGwoi5QpDBTLGweVhhkxzXYvao8=;r0BlKU3yTY7USnFnXZPxAw=="
+secured: "RhOYGUXMQKC1Diaf2SQ79VmP89DjgaYRgQPuwKaGm7AsNzihLCoxIMp6Pcc726urAazxxpUW6CbbjGQ3qEUPhO0NPRGjrq5R7BgLg7lJ91OwamOPxJI1Wihyt4tm458+u78ZkCaA/1axswopqwf6FhO+dyHVudC+kjPtQ7yVQPx92CbPgsN8WPWgJwLUEIl3w4ElD8lxnW4ZwOKlCE25becz15D4PwLKch0mnoPXahkmCAYHmjlWLZt43ZKb5YsvgUq47bDOzJzXYfhIAp/uTVOCL9Jscn0MXNoR4pV7VVFjpCr7NZer1mmqGrr/7C53SyB4pfT+FuhXmI8p9vt5rv8oKglOIzgQu8qZ2FyaqqShKmreU4VWwFqcgLkHbcLEH+MZ4CbhUqPUd+08YPl+yHkR7fs7eWwYN3WIfjT6fCJGlV8iudnU3LfGvEJCUCbRhj1NG/DvjDQwmiZRYG602N+zVc3bo+LvzB5fh5LeXR960mtGX42yuDItN3jfdMsIZ0oHpK6ob8culEPwzRWLmA==;Acy+otiF+hVU9I8w8kI3cg=="
 ---
 

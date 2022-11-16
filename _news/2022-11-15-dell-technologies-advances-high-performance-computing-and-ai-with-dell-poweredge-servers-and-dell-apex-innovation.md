@@ -33,15 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "INDUSTRY INNOVATION: AI SMILE Smart Tracking Case debut worldwide developed by Weiyun AI & Robotics Group"
-    excerpt: "The world's first AI SMILE Smart Tracking Case was self researched and developed by Weiyun scientific team. As the first pioneer intelligent hardware customized for invisible orthodontic users in the whole market,"
-    publishedDateTime: 2022-11-11T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/industry-innovation-ai-smile-smart-tracking-case-debut-worldwide-developed-by-weiyun-ai-robotics-group-1031904529"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
 
 secured: "USjLZNepy13p6vczfD3Rv+awKcf+JplIMkVdOm+DsYAzPvTXVAk6st5RwJswxk6imBsEdFE5nufhBi8XJpLB4lG2lP6IQMkPdYSpTPEivnGAw8bKwr7qsMMK+h4ZX51gC+FUqw5Ny6RydOWZViuy+Z2UtXTy6pSNhRYDqYDn9P1sA9+FvTXSreAMRtIKiotKd/COVMTir1p6GDGBnXSzXtq49BWe1L2+WsJCg3/idq+KNGUwyV3FK40s/vYQxDyI4C7fxpadnGkzs8JPDxEx5FR7Wb+vq55fe8/CCV9XBcArbejuCEb8VdewJvrj6x1b+r1ml+g5pmsxD4jtccohqR6jdjSvwDOqCRQqQPVm8f8=;MQtXoyk6jQ2dF1CW5QqvCw=="
 ---

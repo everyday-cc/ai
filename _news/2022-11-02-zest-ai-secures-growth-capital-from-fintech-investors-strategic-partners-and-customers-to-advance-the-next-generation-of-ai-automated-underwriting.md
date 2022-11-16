@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting"
-excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\"."
-publishedDateTime: 2022-11-02T13:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting-1031864078"
-webUrl: "https://markets.businessinsider.com/news/stocks/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting-1031864078"
+excerpt: "Zest AI plans to use the new funding to rapidly expand ... To learn more about its Discovery Fund, supporting diversity in fintech, visit here."
+publishedDateTime: 2022-11-02T13:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-"
+ampWebUrl: "https://www.benzinga.com/amp/content/29521634"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29521634"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "YLuWVFdfcQpQj6hVnbFHdSjrSMXS4ti43d67H6fmEwK4W0LpNcrGEq0TS3RXMT9AdNe4k/yftX4UEEIeif2oz9F0u+XJr7WegYb+y6id2QlGkM0Fp6FJWV+2DNUHgG1OLOeOlE1K88VgUovYC5cS/bMgCzths6PyTkrjvrzFQ2AZLdtaKiQWH2HPKsLC7wc21Y+A0IF18S0Iw3II1dXhm4A10HEbTCYZkwmh5weaDX96kBo8kNKm42B4XR2wnCYJ2nKxRzKbuX6L+CzfXbMvXH6VZxxn/PPnpyBsi2aB6s5vzQhQwTrgQasWpoB4sFDcReMuQSQd24DtgHjQntl+6oXesX44+WjoagW+sjEH6Z0=;mejntK64Da9L7ESaJihHRw=="
+secured: "Hweqp8unCWT47G0GUkwFw65697KzedzTbfq3kr4rRcc6MCX3veShdh5LbaDyGjz2kFwcFHtKKNKE2k6R+esbycVrrgE29EO6NYpsYQ4ccT9YGQOeKJtsl8j2QLnYTuuNiiOG0mISaSh3XaHyWVWquZAeZ+t27QSWYB/i5Ail5kfpUfEgLUTkLSADl/HF+wtXYE7ogOrVtyaiAbEhz8DPdBaWnPPTlGfYZ+r2nx5y5Ku1QrxHCNlpN0vkQikWuBu3avRcSQG+jqKT8sRp3hSqyX6hewciaEzoIpfEDiWqpdDuv22+QgBpF140pR6CjEQX3CuVg0UNK9guYQ6M40+gAgBtQ4ved7jkJjddj5HD6ZA=;joWYU9DG5g49fvltqK4x0Q=="
 ---
 

@@ -3,11 +3,11 @@ category: news
 title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
 excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
 publishedDateTime: 2022-11-15T23:00:00Z
-originalUrl: "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
-webUrl: "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
+originalUrl: "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
+webUrl: "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
 type: article
-quality: 69
-heat: 119
+quality: 67
+heat: 117
 published: true
 
 provider:
@@ -19,13 +19,12 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/q/qualcomms-/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts_evcy.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/0338lYBMfwaUJRqTokcbrVk-1.fit_lim.size_1200x630.v1668548876.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -102,6 +101,6 @@ related:
         height: 404
         isCached: true
 
-secured: "XvQfI0hKJePi5m1OGHUE6Pt4ecraF7ZjCsSIxzkQ2lWw6Rn4tDoAsIVZ3VHahhl4bJ2r5/2af4P58BJyf6lR+0n3BdUGPwWDvMSUETB1IauM8oypx9w8qBbj3EqeR4ygs+32TLfqUIpNLISdy7/aGgVrgmHJ5C2Se202MTCHDLuNxOs3P4G6Dt6RP/41mCHcxcfjD0fR19p6FBldTeBoWy1Kyti0J/oLyPNEWwGsxPDjJ5MNoHjTJkjhv+Zh75KIA4fHNV65+E9N5QEbfmitnTnYdzydY1HqBE0ZXFlQOILwLUE3PwuW6J1c0NcHQHyCnHT3uEtF6qQuRKaB6gYPm54hZvbOILKzWQOfnNDF270=;jLBWMWM3MgdY2MlumUkahA=="
+secured: "42FhyIvMCn9z6NxKxzYawVKTz1knY64rAfmXe9+9ubkeD2qam1zOQFUvPQ4PT/2LbK7CIAGOYG/7CxX6GBJnqpKSk6/dlcDgoVJY8hRwUJf/RZ2aDqewEO+i+RScPZSOhL3K5anfnzuq26Ppyd7UjRE6zSch8PI7zW4BfjEbFbcasar1kG6XGCD02f5H0paXxfYMqLUP1mhXeYKf/vah4f6s9iF8Qs+rIKVodv5hlehNFYTGwRWde8q4t2B97EmxEz94xc3F60eQ7rnPlq30DpyexPhTFdHjal4+HYf5IjZJRhCByppoVB6ANlNTyTBX+l9a0bhftu+okMjO3K9UciTRRztKaiGVsSX9R5soPRA=;sKs1BBZhZBpyHgdNhikrxQ=="
 ---
 

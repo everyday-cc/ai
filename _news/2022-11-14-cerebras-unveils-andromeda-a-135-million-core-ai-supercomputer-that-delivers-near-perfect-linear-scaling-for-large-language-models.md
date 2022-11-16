@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-14T13:02:00Z
 originalUrl: "https://www.eagletribune.com/region/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer-that-delivers-near-perfect-linear/article_c24f2495-3df3-59ac-8b77-f96b935c0157.html"
 webUrl: "https://www.eagletribune.com/region/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer-that-delivers-near-perfect-linear/article_c24f2495-3df3-59ac-8b77-f96b935c0157.html"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/4/cc/4cc98bb2-1a71-5110-98f6-e573aa7c24c8/63724f1bea9a9.image.jpg?crop=1981%2C1040%2C6%2C0&resize=1200%2C630&order=crop%2Cresize"
@@ -115,6 +116,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "9/HjwE44mTtA30j/Brfb7Dq9l8BWb4VZFPNLiPfikA+FsGygxKIhTBzaHeJ19VNngr8tVFzWvzd68bvCVllz0OXMpDW7RXz+1pO7v6xkYP0ZO9H9L1Gz+xlO7oEm3YLVudFFYHPbKfh7f2Y7LYEmVUmcV10OcHn9Q9QAF1Ubqhby6XqnvH2Kcbmm98DvH943TUi9ofWLl6cx3sTAXcTKcW7ROVm6VNgJ3/7PdVQzJOfepoWIkOHC9bQtkB9WacZ+38ittwwTCQ9IlCe5fWYaEVXkoW+0RhuB8JU69tNoWrPsC0VRe3MHxUJM51u1Lk4a67Vj8Q4hr9f0Fd1yZqh8yAQXDWNmyEDAu9d5j5mQA5Q=;2XZf8sXICAcqgFKnTalD0g=="
+secured: "XLFzd0rVZtA9uTYzXcM0kOQrSQNr6jWN1lj0tRf9bS7wWL17of+4Qca8atnV79qzf27oMYKAUP0eZkMSifMYyd95M9KkXQ91eq293uBDsoIqW/kI5weuiPmtm5UcDdd2cKRp3TjLb3/V3MqE2lQlr2yZtY2fvOeJfKq/0vzewI5+ukzdEN+oGsiOtTBmRqpaUJEODeAIa05CT56E9OgS1MR6buENWwoItNdMuatdxf6b7iylrJiujQqeKNjDHh3b2FtiZL2YHV0ovUjgl68sQ0FurHL9kFaKNoD4/0tKTSfhHgg0tin6e0S1x8jos3BhbCILgQE3uxjfB5vBEYgsFj0vyQaFCTwpph+vGjvlGh0IbiZ6YXL6vPeUL41YNI797Q3/cHKXZCiXAgjbfIhYmXHC4JiQ5OwI5nusQQUG4NtWl3Hejz6yIhxLwKP3eLQ+z8sJ1JNtXhNlqTOTJhnnjoH9/rCJFSZRtWE1RbIWxHP6TIPwUeHyMfXA8o5+Ye6Aq0oCs/hWOVXWLxSCzLd1wA==;zFcdK0/Oru5/EBblhpXb0Q=="
 ---
 

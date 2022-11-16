@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This new speech recognition tech uses tiny face sensors to transcribe mouthed words"
-    excerpt: "Researchers in South Korea have designed a new silent speech recognition system that can accurately recognise words by tracking facial movements. The technology aims to help deaf people, who cannot always communicate with others using sign language."
-    publishedDateTime: 2022-11-11T13:27:00Z
-    webUrl: "https://www.euronews.com/next/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words"
-    ampWebUrl: "https://www.euronews.com/next/amp/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 68
-    images:
-      - url: "https://static.euronews.com/articles/stories/07/18/57/56/1000x563_cmsv2_13dad030-a6a4-5085-af77-e1929df7e760-7185756.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Facial recognition technology has shrugged off protests"
     excerpt: "Amazon issued a one-year ban on police departments using Rekognition, its facial search technology. And Microsoft said it was waiting for new legislation to be adopted before selling its facial recognition technology to law enforcement organizations."
     publishedDateTime: 2022-11-14T17:30:00Z

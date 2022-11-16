@@ -29,16 +29,16 @@ related:
   - title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
     excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
     publishedDateTime: 2022-11-15T23:00:00Z
-    webUrl: "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
+    webUrl: "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/q/qualcomms-/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts_evcy.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/0338lYBMfwaUJRqTokcbrVk-1.fit_lim.size_1200x630.v1668548876.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Qualcomm Snapdragon Summit: Snapdragon 8 Gen 2 platform unlocks new AI capabilities"
     excerpt: "Announced at Qualcomm's Snapdragon Summit in Hawaii, the latest chipset features improved AI support, Wi-Fi 7, and faster overall performance"

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -40,7 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -237,17 +238,17 @@
       "title": "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts",
       "excerpt": "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year.",
       "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts",
-      "originalUrl": "https://au.pcmag.com/mobile-phones/97333/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts",
+      "webUrl": "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts",
+      "originalUrl": "https://www.pcmag.com/news/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/q/qualcomms-/qualcomms-snapdragon-8-gen-2-processor-ups-the-ai-smarts_evcy.1200.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://i.pcmag.com/imagery/articles/0338lYBMfwaUJRqTokcbrVk-1.fit_lim.size_1200x630.v1668548876.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -280,7 +281,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },

@@ -60,22 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This new speech recognition tech uses tiny face sensors to transcribe mouthed words"
-    excerpt: "Researchers in South Korea have designed a new silent speech recognition system that can accurately recognise words by tracking facial movements. The technology aims to help deaf people, who cannot always communicate with others using sign language."
-    publishedDateTime: 2022-11-11T13:27:00Z
-    webUrl: "https://www.euronews.com/next/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words"
-    ampWebUrl: "https://www.euronews.com/next/amp/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/this-new-speech-recognition-tech-uses-tiny-face-sensors-to-transcribe-mouthed-words"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 68
-    images:
-      - url: "https://static.euronews.com/articles/stories/07/18/57/56/1000x563_cmsv2_13dad030-a6a4-5085-af77-e1929df7e760-7185756.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
     excerpt: "Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies. Facial recognition systems using biometric data will not be allowed until a specific law is adopted or at least until the end of next year,"
     publishedDateTime: 2022-11-14T18:33:00Z

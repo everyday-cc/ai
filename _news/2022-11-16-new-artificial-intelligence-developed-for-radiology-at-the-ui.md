@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-16T04:20:00Z
 originalUrl: "https://dailyiowan.com/2022/11/15/new-artificial-intelligence-developed-for-radiology-at-the-university-of-iowa/"
 webUrl: "https://dailyiowan.com/2022/11/15/new-artificial-intelligence-developed-for-radiology-at-the-university-of-iowa/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dailyiowan.com/wp-content/uploads/2022/11/UIHC-AI-photo-900x600.jpg"
@@ -23,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "311YQQVEZSUb8H7tLcK5yP/nmMYYWk8q2uHEQo4qfexW/IRDxCYmkLFLrATOFQhOOaynfmJBTeJiIKXRNDPC+68LcMCgKbD/gnHbwC1jM6HQuM9AX/sBXDAubNRQPdFNCf+G9ZjpmwbJDaad+N4pRtKbDBwmUGRC4wZHbaX8z/DTIeRu4NA7SBTfZOegeei+AprnIHwce/e+3XXzsdN5NCYLVYK45X+/Eqj5EF1qJ0KqGt9Z6O35fvLlwxt0oIDrViwb5MXkCdQ3OUrRhps7bAv8PDxXmpdtmN8cUuZ/gwc3gqjqwuMi6oEkrVx8mjUTfbQ8gmTg8litveg0MXAtknXRLcvtTjwmW4t+hsn8mvg=;VQknjc0gbOVVVNzBfM68yQ=="
+secured: "Ya1/bwBfoOGzMIvEI65qQriTtBkCOpGmRHMcsJKIjmXlHHKS4mli14LvGkijY0rD7eBb1/SjnhT+QzFqubwzUeYDtIkw4OjF1kUULcqRjBWwgqHi9h2IaIjHGUGVibpSVEAr3kc8rj1r7DQCi59TKYOmNenaLyI7qIlmaYCilym0MnwdeI9/teNTYIB/NK7budt6MtCsmE+HK28tPp6OL4jHV1nEdVJGz3m3pcDA/F5TYQtfBc7chyd4Yok0OiIEXX3KGMHv7TrF5vaHvFpJRrdIGSIxW6BSsHT0zrbMi31Ur41jydpcu6ilTiUDqiVukXbc1AfJZ2P/enrm9G3r1G6mMoP8KYD/8SZrHeznFiGIEukuX/mjOs65BkIcPtr/zNFwEJBoX8IbngOKazN1u5Mw8TDeWkii6yBPtfGNjioF4j6FY78g3l/Do8Lb2GJzy8uiUWIfj1/75fjFrdZc+J6ynSSW0Gpcbk9EiFRia8pIFf3XAXa/O4WzBAkU+X5XYT2lmmajIu2ogFJN2wf8lA==;BTtp4ywVo7T6+FIpG2kjIQ=="
 ---
 

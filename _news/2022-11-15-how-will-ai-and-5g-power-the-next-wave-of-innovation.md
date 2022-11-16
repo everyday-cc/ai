@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-p
 webUrl: "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "INDUSTRY INNOVATION: AI SMILE Smart Tracking Case debut worldwide developed by Weiyun AI & Robotics Group"
-    excerpt: "The world's first AI SMILE Smart Tracking Case was self researched and developed by Weiyun scientific team. As the first pioneer intelligent hardware customized for invisible orthodontic users in the whole market,"
-    publishedDateTime: 2022-11-11T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/industry-innovation-ai-smile-smart-tracking-case-debut-worldwide-developed-by-weiyun-ai-robotics-group-1031904529"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"
     excerpt: "Jeff McVeigh, corporate vice president, and general manager, Super Compute Group, Intel \"Dell Technologies and Intel are collaborating on innovative solutions in the HPC and AI space, bringing our various solutions including the Max Series GPU and 4th Gen ..."
     publishedDateTime: 2022-11-14T16:24:00Z

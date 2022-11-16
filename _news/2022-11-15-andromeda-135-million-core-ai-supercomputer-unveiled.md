@@ -101,7 +101,7 @@ related:
     provider:
       name: Eagle-Tribune
       domain: eagletribune.com
-    quality: 8
+    quality: 10
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/4/cc/4cc98bb2-1a71-5110-98f6-e573aa7c24c8/63724f1bea9a9.image.jpg?crop=1981%2C1040%2C6%2C0&resize=1200%2C630&order=crop%2Cresize"
         width: 1200

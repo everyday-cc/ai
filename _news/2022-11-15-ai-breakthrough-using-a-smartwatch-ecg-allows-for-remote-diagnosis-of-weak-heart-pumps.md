@@ -34,7 +34,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 72
+    quality: 74
     images:
       - url: "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg"
         width: 300

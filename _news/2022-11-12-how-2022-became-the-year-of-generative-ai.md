@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Image Generator: The Limits of the Algorithm and Human Biases"
-    excerpt: "AI generative art algorithms usually function by drawing on ... You'll now receive updates based on what you follow! Personalize your stream and start following your favorite authors, offices and users."
-    publishedDateTime: 2022-11-11T14:02:00Z
-    webUrl: "https://www.archdaily.com/992012/the-ai-image-generator-the-limits-of-the-algorithm-and-human-biases"
-    type: article
-    provider:
-      name: ArchDaily
-      domain: archdaily.com
-    quality: 17
   - title: "Daydrm.ai's AI Tool, created by a Former Agency Creative Director, can now Generate Creative Advertising Ideas."
     excerpt: "The Artificial Intelligence tool at Daydrm.ai can now generate creative advertising ideas. This AI tool was created by a former agency creative director who has become the front-end Software Engineer at Daydrm.ai. It's no secret that artificial ..."
     publishedDateTime: 2022-11-15T16:14:00Z
