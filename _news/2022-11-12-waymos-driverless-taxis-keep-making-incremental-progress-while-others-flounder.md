@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-t
 webUrl: "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "A look inside Waymo's self-driving cars"
-    excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
-    publishedDateTime: 2022-11-11T15:15:00Z
-    webUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/"
-    ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 59
-    images:
-      - url: "https://do0bihdskp9dy.cloudfront.net/11-11-2022/t_b35467a2694a446fba346f3303a7bdb4_name_WAYMO_ANNOUNCEMENT_frame_59.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Waymo's driverless robotaxis can now be hailed by ANYONE in downtown Phoenix - a major expansion - after the company secured a permit to charge for autonomous delivery in ..."
     excerpt: "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to all members of the general public in a significant expansion of the technology in a major city. The news comes a ..."
     publishedDateTime: 2022-11-12T00:51:00Z

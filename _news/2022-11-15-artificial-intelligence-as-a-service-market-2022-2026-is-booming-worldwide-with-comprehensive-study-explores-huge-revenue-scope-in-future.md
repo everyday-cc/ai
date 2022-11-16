@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In RegTech Market by Type and by Application-Global Opportunities and Industry Analysis, Forecast, 2023-2029"
+    excerpt: "Nov 15, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 114 Pages Report\" Global"
+    publishedDateTime: 2022-11-15T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-by-type-and-by-application-global-opportunities-and-industry-analysis-forecast-2023-2029-2022-11-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "At 42.4% CAGR, Artificial Intelligence in Healthcare Market to Witness Huge Growth by 2029"
     excerpt: "Use of artificial intelligence and robotics in diagnosing and treating pharmacological disorders is estimated to drive the Artificial Intelligence (AI) in healthcare market growth. Use of virtual assistant can help in transform delivery of care for improving patient care and help in tracking patient health."
     publishedDateTime: 2022-11-14T06:32:00Z

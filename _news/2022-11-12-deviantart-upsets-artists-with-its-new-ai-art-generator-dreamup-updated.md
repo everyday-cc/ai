@@ -77,22 +77,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "DeviantArt has its own AI image generator"
-    excerpt: "We understand why Google would get into AI images, as it is a gigantic AI tech company. However, it seems rather ironic that DeviantArt would make an AI image generator. The company is all about sharing your own hand-drawn work."
-    publishedDateTime: 2022-11-11T16:19:00Z
-    webUrl: "https://www.androidheadlines.com/2022/11/deviantart-has-its-own-ai-image-generator.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/11/deviantart-has-its-own-ai-image-generator.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/11/deviantart-has-its-own-ai-image-generator.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/Deviantart-logo.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "DeviantArt’s AI image generator aims to give more power to artists"
     excerpt: "DeviantArt, an early internet-era hub for visual creators and communities, is launching its own AI art generator."
     publishedDateTime: 2022-11-12T12:00:00Z
@@ -137,6 +121,6 @@ related:
       domain: kotaku.com
     quality: 37
 
-secured: "2gTk+Oo8k+5X+RuRAta9OYe5LKXLPHixOP4a2XKn1xq+AJ4kujRQYXAfbAAwSwbAxr2Ba4lK/SrG3XDN6uLZrfuubAY8Gr+tUJgnB0kXyQdeu8k+4B+2MKD9TPghT+/FiOQ7B14cUhNdEhvO3fWG4p7aZKBhxcyBn26n3P3P0gF1KiDRpz9pecLhoPSmXqJZDXt6e0HPcn70TbYowBVhEzZKzDhtmjrBd4zpvUQV2qwCdRNySlF6Vl3xsHqdI6TD81CYXyL6ULZVh10k6JPv1FJeIjQ0r15ZS1oRbhR++3oaPa/atAeeRjJ9iHW1/onfAMqPheBJ1U182w9LPhCQnTvO0IdHHkWT0b2GTsjgtyg=;lfAcSW72mMFzy19T/a/XmQ=="
+secured: "jiZ97cgzZBV0hi8FkOmL9hzJVySoziJGOjtEKmtQSdtn6Vn27iV6qjNtqqkekS9KxH2F89Qy9zvwh0jvM6kJHUiozX5nF4tF7ASTPqhtaJkp8/MAn+hmYXWHz3P/qMQutGUbSK+hbMePDrZENCuLAo0mOtf1suYqiZLIEGjlJGw+GCz+fj56Cjolzy7Q1CMDXpAuAif+fMLQ5CR8k7klod4r1suFDiOpyuaHSlm9SeCNC8t23nmSrRa3XhiTXSaCpMgdnFsdYOrSY4/rva47dXu3pckiNWzqQ4pwi4l3ND3EnnM6L2DZF/Bqtm3eGyePySU9PZUykIhu8PqFv7uZ9BAjZjShOfxFlW/vlPZaXQIDuBgT1wRhcIB/T240VtBPpexGrAkC0PBz2N+LU0zF3F0PcaSQ99mZsrUfDdaoWdZdUsMmg7hBRsHTs3Fjdrr3fE0ZK0ilXmQ+jFrIhlzqDqLu6YJCeDJtKt11aw+fK0ppM8h75XAZomp1E9l3c+5yQMAdqr8j1ZYtXlrf4g9fEQ==;WPY3zCe5ExCTPfBl2AmkPw=="
 ---
 

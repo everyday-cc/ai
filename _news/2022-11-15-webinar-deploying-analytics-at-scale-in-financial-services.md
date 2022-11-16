@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/webinar-deploying-analytics-a
 webUrl: "https://fintechmagazine.com/articles/webinar-deploying-analytics-at-scale-in-financial-services"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1800
     height: 1013
     isCached: true
+
+related:
+  - title: "Mutual fund transfer agency CAMS looks at mainstreaming analytics, AI: Chief Platform Officer Ravi Kethana"
+    excerpt: "Financial products in an era of tech-driven consumerism should be tailored so they are simple to understand, easy to subscribe and seamlessly integrate with partners, Kethana explained in an interview to PTI."
+    publishedDateTime: 2022-11-16T07:15:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/mutual-fund-transfer-agency-cams-looks-at-mainstreaming-analytics-ai-chief-platform-officer-ravi-kethana-9545221.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/mutual-fund-transfer-agency-cams-looks-at-mainstreaming-analytics-ai-chief-platform-officer-ravi-kethana-9545221.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/mutual-fund-transfer-agency-cams-looks-at-mainstreaming-analytics-ai-chief-platform-officer-ravi-kethana-9545221.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 41
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/10/artificial-intelligence-rep.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "j1KD34E+NVinwwQcTlpXR0fVveSaz2nKLM1Z24mX/VmPITvB6akTTWZfhy1VH1lI88FfLNr1W9FIeoGNVAQRSihYGrSSe/sLL3fIV4LCRd4mOMXjH8GlwpdPiVpzCOluAJf4LN1zeUIZqJzXsKwYPEJpTtkUiXZ3QgEfzxhZrZh3jOr6ctbJ8cuTRaFbXO5G/7DxtY4TVzZuhLgnqQ9MwkF/XvVMwkm/hXd2PphECKjbPcKwq6ODYlDVxXzAfJN1djN3WElsH3IGxyFnjwhfZ2hiUnLXIpdVqrm2MF7SUWnuUSe5tGin6S/vJxNQqKkIDUHb+nM4GWaELmMBFcmQTTrJ8YSyDsBJnPG0lgV9ijoqtGjr5Mj/VsXyOJKaiKWtlm6YWy2FVnN+j9teQRuRX4PxEdaC7uMwebA0HRcBcBRJWVa9TFXo9o1OMEPlNi2Cgb8Uln74z6uzhkm0dUS/niDCM1w/CjRpyNycwHFuvylDOWhHvJswRnsMX7irSWu8lq6KQa+Npou8Uf+M4L8Dzg==;I0pvKgZVvu8PWazdkR3PvA=="
 ---

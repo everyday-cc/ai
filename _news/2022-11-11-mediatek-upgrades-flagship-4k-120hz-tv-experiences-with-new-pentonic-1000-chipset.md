@@ -1,17 +1,19 @@
 ---
 category: news
 title: "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset"
-excerpt: "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. /PRNewswire/ -- MediaTek today launched the Pentonic 1000, its latest flagship smart TV system-on-chip"
-publishedDateTime: 2022-11-10T21:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29673417/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29673417/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset"
-ampWebUrl: "https://www.benzinga.com/amp/content/29673417"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29673417"
+excerpt: "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched"
+publishedDateTime: 2022-11-10T23:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798"
+webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -23,6 +25,6 @@ images:
     height: 264
     isCached: true
 
-secured: "W2AWP39MMCjW57iThQH/d8nTH97BOzn75wIw5cB4j2032mtZ9oiEC3N+IBD9VUgT6FsUagJAcj0RkQWpBT1Lmj2MMsFkuP79Jo5e2P6yhcAIiXLbjbr5md8A6BVefTxhNL7AXobQTKJoBGjzMFYkHa9uFEEPEHom35Pj5CI0lH6u8dRcsG0pItKEuDkMjSpTdN/Pjcj+Xmx1ZRvVDzYqQRYFWbFw/8rwvCv+Q4p4ZQJT5LJkp6NBfv259luLlr5L50fHBcGPudAOHv8IUT/vW+e4GGoEkx75/Xvb8Ih/4vj0njPNjFN24rSiXru45l3zkwtBX2Q52T8J55LSALOwcSI97MmbHk3aOMf/Zx0IV2M=;TVx9YzZR7DwuNQST0HTzEQ=="
+secured: "z0qCpod3Yj2j1NqfXZXoOZMxcq8jQ8i0ELIfORRgvKQrvZbf5V5LkGPUIL5v6o6UrZpgkyHol/jljZozfTCAqPIsRgPYv6pBo1Vlp62vXo/5j/SYhveTqB5VTt3egNKbAyVcdi/m15s5au40ltp9d3mb1mYcXVQsMQ8oewKX5EjzhhtG0AUD4db86ENSpTHuevezH18+qTWt1R1cS2TG2lB04GWLpRxIv72F9deNOt959OK2b5giT13aos4mhv/iXomJCp3oOxOG29B2POOumu05ejiz9PS3GCYCorQm39W1xMCmDi5NwiNhJt4MBUtd8Wpv8tOUUDzZ6/bGeLQlzpi0MSL2bQupErifrrppabo=;I7oyzjepjCSm7Qpb8bE4LA=="
 ---
 

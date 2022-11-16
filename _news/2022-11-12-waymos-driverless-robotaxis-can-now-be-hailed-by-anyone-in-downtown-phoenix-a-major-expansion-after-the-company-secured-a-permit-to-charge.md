@@ -50,22 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "A look inside Waymo's self-driving cars"
-    excerpt: "Colton Shone got a look inside one of the self-driving Jaguars released earlier this year."
-    publishedDateTime: 2022-11-11T15:15:00Z
-    webUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/"
-    ampWebUrl: "https://www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2022/11/11/look-inside-waymo-self-driving-cars/?outputType=amp"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 59
-    images:
-      - url: "https://do0bihdskp9dy.cloudfront.net/11-11-2022/t_b35467a2694a446fba346f3303a7bdb4_name_WAYMO_ANNOUNCEMENT_frame_59.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "uG+h7F4rAKIFfdgSTpxSnm8oEPZ7Sc/iMwzI77qIx5B4sdk/362x493A2TWn3Muy3+WU2WEkjHDk+HxOXgGyBGfu8k0nN+eBXbaKQTK+C/cs/Xosztn5fELmJjTx5LGCZlSiUVHbQR7A23DnxMoQ8AM4AXNsdWLgxBVu159qUaogtSTuPp92iPv6I8gsOsYtx8+Jhb1TUZVQZJPub6NM2beYLM7FkAvDoa2hPV4oOmVanUlekuFtmwzONb1cdwB/QOY9vUBOwyOXGAnRF0UfkLzOlYph5/+1U2cXFOn0B4MA67xjo9US0bVBftTTgZTiAjAiUg6vnFNQwmBxEzIRKTaAamh6Rl4If5vK/gNNpc0=;WELX4+U8juzxC90p88ykbw=="
 ---
