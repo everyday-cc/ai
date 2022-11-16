@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
 type: article
 quality: 74
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Supercharging the next age of fintech through open innovation"
+    excerpt: "The next era of fintech is coming. With the expansion of the financial services ecosystem beyond the traditional borders of banking, lending, and investment, new industries and business models are being unlocked as demand grows for both embedded services and hyper personalization."
+    publishedDateTime: 2022-11-16T20:44:00Z
+    webUrl: "https://techcrunch.com/sponsor/fis/supercharging-the-next-age-of-fintech-through-open-innovation/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "India FinTech Forum unveils 23 high potential fintech startups"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
     publishedDateTime: 2022-11-14T20:41:00Z
@@ -165,6 +174,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Falling Valuations Make Fintech and AI Accessible Again"
+    excerpt: "Today’s tech era is ripe with innovations in fintech and AI, where advanced platforms and business models allow new players to enter and challenge incumbents. “We continue to see fintech as an expanding market segment. The Industrial sector has seen a ..."
+    publishedDateTime: 2022-11-16T19:12:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b20phvhjyd7mtw/Falling-Valuations-Make-Fintech-and-AI-Accessible-Again"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 19
 
 secured: "nR3CXST9IPfF4CgvWJL93K3q93JSKa+ZaNhJCYXlqXWxkIc+ZppuSFvThM7dI5y3wlmXs79bV6E4IGgHFWj/dqc1cfXXa66RHLgsWeE1yb+9kQwAb5XXCVwTx4WcKAa1z69qlLLE59Ml82r+FpAu+BscjrPzQySa5FR/CMzA6I4s9v8QktQm/0sqj+4GlLXJSN2AGoa/kaAtmgkBPDUsaYUEVTxH6LuihaCO/sGsMKR2dXoCjCwRRrgj02zCYSA9OyxPb67RGlNxnitOGlNkVxnvhT40EmDcSpYR4AufPxutsAB5WFOCgszpYT4HF4zlU/j14Z1H3SHLfG24BP8sWUnEjddC3okBichWOgbf7Ln3DYoxL/nRau9OjWbK/wCmPJzEfbw3JP+oVY/as28EiQiUUFqSQpE2c5AT4HtBHu09XdTFLKIOHZpTBCJcird9BxMudpP1dKbeJF8nKDFYhkPn/ESsJVExY57OYARm9XYo4ygkEa0/73ZyLVSfACCwv30lbn862j3gkTULio8s4Q==;P6Sx5UdMULn37dJ2GdYj7g=="
 ---

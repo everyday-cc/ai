@@ -32,6 +32,29 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 89
+  - title: "Build a cross-account MLOps workflow using the Amazon SageMaker model registry"
+    excerpt: "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At"
+    publishedDateTime: 2022-11-16T21:57:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/build-an-across-account-mlops-workflow.jpg"
+        width: 1551
+        height: 775
+        isCached: true
+  - title: "Enabling hybrid ML workflows on Amazon EKS and Amazon SageMaker with one-click Kubeflow on AWS deployment"
+    excerpt: "Today, many AWS customers are building enterprise-ready machine learning (ML) platforms on Amazon Elastic Kubernetes Service (Amazon EKS) using Kubeflow on AWS (an AWS-specific distribution of Kubeflow) across many use cases, including computer vision, natural language understanding, speech translation,"
+    publishedDateTime: 2022-11-16T19:15:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enabling-hybrid-ml-workflows-on-amazon-eks-and-amazon-sagemaker-with-one-click-kubeflow-on-aws-deployment/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "Detect multicollinearity, target leakage, and feature correlation with Amazon SageMaker Data Wrangler"
     excerpt: "In machine learning (ML), data quality has direct impact on model quality. This is why data scientists and data engineers spend significant amount of time perfecting training datasets. Nevertheless, no dataset is perfect—there are trade-offs to the preprocessing techniques such as oversampling, normalization,"
     publishedDateTime: 2022-11-15T17:29:11Z

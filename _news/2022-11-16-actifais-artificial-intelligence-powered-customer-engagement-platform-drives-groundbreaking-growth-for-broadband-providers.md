@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29738225"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29738225"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Demand for AI and HPC support drives Dell’s latest PowerEdge release"
+    excerpt: "PowerEdge XE9680 system at the Supercomputing Conference in Dallas. It was announced as the first system with eight Nvidia GPUs interconnected with Nvidia’s NVLink, designed to meet growing customer demand for large-scale artificial intelligence and high-performance computing initiatives."
+    publishedDateTime: 2022-11-16T20:33:00Z
+    webUrl: "https://siliconangle.com/2022/11/16/demand-for-ai-and-hpc-support-drives-dells-latest-poweredge-release-sc22/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/Vigil.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Actifai's Artificial Intelligence-powered Customer Engagement Platform Drives Groundbreaking Growth for Broadband Providers"
     excerpt: "Today, Actifai, an AI-powered customer engagement platform for broadband providers, highlighted the significant impact its flagship product, Engage, is delivering to the industry. The pioneering customer acquisition solution delivers measurable results for its growing list of customers who have realized a 12% average revenue per user (ARPU) lift on new sales,"
     publishedDateTime: 2022-11-15T13:25:00Z

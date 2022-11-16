@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T19:37:00Z
 originalUrl: "https://www.timesunion.com/news/article/UAlbany-hires-27-professors-specializing-in-17589504.php"
 webUrl: "https://www.timesunion.com/news/article/UAlbany-hires-27-professors-specializing-in-17589504.php"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Times Union

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence
 webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-hit-1423-billion-2030-/2022/11/15/9713017.htm"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Automotive Artificial Intelligence Global Market to Reach $7.78 Billion by 2026"
-    excerpt: "Key Mergers And Acquisitions In The Automotive Artificial Intelligence Market 29. Automotive Artificial Intelligence Market Future Outlook and Potential Analysis"
-    publishedDateTime: 2022-11-16T18:53:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/16/9715190.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "qam7UPxpVSQJfJjM7p5Wx1Da+SqOx8cC84XIgO4q3uEFY8n9+7E4FZxxOr2nRht+pAEnctPGDjB3qGRLJDdLWoF6UsQ87B/xpZyEZec+67C2wNQl31KQ0Xxzbcok0K3KNf0W0u5OucllPyQKnp1V+HUGeRTii28UIOHEG4iwQTguAK7Q+OBdvpaAyE9oXaRGQSLsQWa306yCR+X+MuuGnJl7PwzZCFTKZ03ZQUHb0XlzjL5MGpfyFQ69AkEJefGUlmnunL7r2IzSr89IMk8svsOjz17a2cbCSFUzFOF/o7hARctwd2ZkqLbBp/VrzaloquxsAS/3H1JZFIGQq4dAOQysNm1mV1Mc2Coie3cAuAM=;gzViqPtbXm1x5oXMnDWt6g=="
 ---

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Demand for AI and HPC support drives Dell’s latest PowerEdge release"
+    excerpt: "PowerEdge XE9680 system at the Supercomputing Conference in Dallas. It was announced as the first system with eight Nvidia GPUs interconnected with Nvidia’s NVLink, designed to meet growing customer demand for large-scale artificial intelligence and high-performance computing initiatives."
+    publishedDateTime: 2022-11-16T20:33:00Z
+    webUrl: "https://siliconangle.com/2022/11/16/demand-for-ai-and-hpc-support-drives-dells-latest-poweredge-release-sc22/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/Vigil.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Actifai's Artificial Intelligence-powered Customer Engagement Platform Drives Groundbreaking Growth for Broadband Providers"
     excerpt: "The First-of-its-kind Platform Helps Broadband Service Providers Generate Higher Average Revenue per User, Increase Sales Conversions, and Enhance Customer Lifetime Value WASHINGTON, Nov. /PRNewswire/ -- Today,"
     publishedDateTime: 2022-11-15T20:31:00Z

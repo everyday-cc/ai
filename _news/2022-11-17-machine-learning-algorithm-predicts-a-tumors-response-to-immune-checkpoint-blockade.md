@@ -41,6 +41,20 @@ related:
         width: 2880
         height: 2052
         isCached: true
+  - title: "Artificial intelligence can potentially predict a patient’s response to cancer treatment"
+    excerpt: "Researchers successfully trained a machine learning algorithm to predict which cancer patients would respond to treatment."
+    publishedDateTime: 2022-11-16T21:28:00Z
+    webUrl: "https://interestingengineering.com/health/artificial-intelligence-predict-response-cancer-treatment"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 28
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/16/image/jpeg/3Fur2SUBWIOWs9PJmw0f3NcWy3QSySi1v7oFJTpj.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "q8tdrWPtgaufu7mByah04x47kUrfaV64oQ8Ovr3i1zOlk7p4pdB271AHMGKd0q90ne11E7cKSQe6nh4u9iOGGBDwIFO4KcQF45NOqKNJCV0zm4hsgy1wlwXMLot4bmreW9EFg93zREUWWxoal/S23uQj77qyK0xmD3G54JVPn3sykWXGUVwxfeLtIW6nQv82gPaTyIbpswyvVDrK9x3JexAwFaHLWraF/eDVNutYl4jFvxBckOZb+/RnkiJdbtwwhAO/Y8sVS+1/n2NXGvLztlltEgBcLhowjY7dy7HC0Eiy9uR1i1TLLC1p6QxrJ2L4RU6szFiU4ZN0vRs2cJljXB7hshHps9p9+ggYjAR74lCKRtxUz5JDHW3qbMWpqkzL2SSIa/fKwBBQ0P7P0pAPzvJ2qxqS6/nJM/Am6qcLJnTHT49C6RVaU1PJ2EIzKBIRagH1iC9AWEVeNAlCpxWqkIKcuyvWK219tr39NFNT5bYCUtZ/KdKgih6UAg1DTulyb3l3geCe7aqW+76kO72+Yw==;8WQI8XxERty7RxMLNVkztQ=="
 ---

@@ -26,48 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's latest robot picker for warehouses uses AI to identify objects"
-    excerpt: "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ..."
-    publishedDateTime: 2022-11-12T05:28:00Z
-    webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html"
+  - title: "AI tool predicts reduced blood flow to the heart"
+    excerpt: "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart. The tool is able to accurately predict reduced blood ..."
+    publishedDateTime: 2022-11-14T21:12:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-ai-tool-blood-heart.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-ai-tool-blood-heart.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-ai-tool-blood-heart.amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg"
-        width: 875
-        height: 493
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-tool-predicts-reduc.jpg"
+        width: 2400
+        height: 1454
         isCached: true
-  - title: "Amazon unveils its latest warehouse robot"
-    excerpt: "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,"
-    publishedDateTime: 2022-11-13T16:26:00Z
-    webUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
+  - title: "AI Digital Tool Predicts Covid-19 Patient Prognosis"
+    excerpt: "The research, led by Theo Zanos, PhD, associate professor at the Feinstein Institutes' Institute of Health System Science and Institute of Bioelectronic Medicine, accounted for rapid changes in patient condition and outcomes across different COVID-19 waves and the variants that caused them,"
+    publishedDateTime: 2022-11-15T16:35:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/15/9713865.htm"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg"
-        width: 970
-        height: 546
-        isCached: true
-  - title: "Amazon confirms its latest warehouse robot uses AI to handle millions of items"
-    excerpt: "Amazon has revealed its latest warehouse robot designed to identify items and move them to new locations, introducing the latest AI robot called 'Sparrow'."
-    publishedDateTime: 2022-11-12T08:05:00Z
-    webUrl: "https://www.tweaktown.com/news/89486/amazon-confirms-its-latest-warehouse-robot-uses-ai-to-handle-millions-of-items/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 50
-    images:
-      - url: "https://static.tweaktown.com/news/8/9/89486_01_amazon-confirms-its-latest-warehouse-robot-uses-ai-to-handle-millions-of-items.png"
-        width: 620
-        height: 349
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "5UZk6j1Dnp0PCYNN1YaBnKkUf+5zGpyk4G/n8Xk8RQf+vv0ncOTZscQpLlSsi1xr5YEMF1EeaG3UbkqHWoCzIVIFsJxmeRgXNJXSwU3zGEW18QaGPfEklOu9BrLCbWa8Z1knIMMn90zHIXCAKkyKY23Xbv6wp5jF8xkREFd22gnz5Dr1Q/oruNEwETPu7+Huf4gkKmDACqfZDsF4EhOdG0nntuR3ltRHEkMlQwg3wquyfWb4o3JUnXtxqe/Llj+ecyD5K4a9/S2K/2dC44mL2PRsn+w/qI+s08yym2ex8sMeF/J6YUuvKuw8mtElX1UMfBwJkVkZJ4/N6V9pxytaTRZSq3YcBw333ORL710GnoM=;myofkAa0ew/uzHGt2sMXQw=="
 ---

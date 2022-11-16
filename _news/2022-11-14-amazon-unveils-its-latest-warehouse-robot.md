@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse
 webUrl: "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechRadar
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's latest robot picker for warehouses uses AI to identify objects"
-    excerpt: "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ..."
-    publishedDateTime: 2022-11-12T05:28:00Z
-    webUrl: "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg"
-        width: 875
-        height: 493
-        isCached: true
   - title: "Amazon confirms its latest warehouse robot uses AI to handle millions of items"
     excerpt: "Amazon has revealed its latest warehouse robot designed to identify items and move them to new locations, introducing the latest AI robot called 'Sparrow'."
     publishedDateTime: 2022-11-12T08:05:00Z
@@ -56,22 +42,6 @@ related:
       - url: "https://static.tweaktown.com/news/8/9/89486_01_amazon-confirms-its-latest-warehouse-robot-uses-ai-to-handle-millions-of-items.png"
         width: 620
         height: 349
-        isCached: true
-  - title: "AI tool uses CT scans to identify patients at risk of reduced blood flow to the heart"
-    excerpt: "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart."
-    publishedDateTime: 2022-11-14T22:56:00Z
-    webUrl: "https://www.news-medical.net/news/20221114/AI-tool-uses-CT-scans-to-identify-patients-at-risk-of-reduced-blood-flow-to-the-heart.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20221114/AI-tool-uses-CT-scans-to-identify-patients-at-risk-of-reduced-blood-flow-to-the-heart.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221114/AI-tool-uses-CT-scans-to-identify-patients-at-risk-of-reduced-blood-flow-to-the-heart.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "ovwoy4n4kYz8Yis4TPubdBhy1d5S0R4H35qvUr+5xGEgaduXTmzPCuRvw+0/qwB3vLofcOUT1MufKHOIcjt1iT9uo8PQTBIjvg+lqcXN1SYcVtoCah2yBbXlWDqU7E6mcz+e/WvOLIdO7Udj2ekXwf6+07F9rEREofIcx2hI5gsLG7LtbC6hjT02l3QKWdXVz3XQxCJBW5wkhDeGIZeAjztPjX6mW6At0HzhatRusZEGfP77OrRPLojWpREXQutfFMhLFaGgS0TMcFOA/zgfI/YdpgMv0spzNRuDB+kvSjL8GWGjYaX163E9RcjDPLiQNvkgxP+dJGRB6zOdw9A0QVIseXiWDYJ1aef4knUVi2s=;+0KQTLXfK4kU4JXymXUXZw=="

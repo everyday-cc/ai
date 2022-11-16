@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T20:56:00Z
 originalUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
 webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Engadget

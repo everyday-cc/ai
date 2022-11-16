@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T19:42:00Z
 originalUrl: "https://www.itnews.com.au/news/westpac-takes-considered-approach-to-ai-587852"
 webUrl: "https://www.itnews.com.au/news/westpac-takes-considered-approach-to-ai-587852"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IT News For Australia Business

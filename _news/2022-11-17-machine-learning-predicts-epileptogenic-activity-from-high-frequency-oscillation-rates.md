@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T19:54:00Z
 originalUrl: "https://medicalxpress.com/news/2022-11-machine-epileptogenic-high-frequency-oscillation.html"
 webUrl: "https://medicalxpress.com/news/2022-11-machine-epileptogenic-high-frequency-oscillation.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Medical Xpress

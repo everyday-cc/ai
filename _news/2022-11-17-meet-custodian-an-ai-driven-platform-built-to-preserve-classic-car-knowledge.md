@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T18:18:00Z
 originalUrl: "https://www.forbes.com/sites/alistaircharlton/2022/11/16/meet-custodian-an-ai-driven-platform-built-to-preserve-classic-car-knowledge/"
 webUrl: "https://www.forbes.com/sites/alistaircharlton/2022/11/16/meet-custodian-an-ai-driven-platform-built-to-preserve-classic-car-knowledge/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Forbes

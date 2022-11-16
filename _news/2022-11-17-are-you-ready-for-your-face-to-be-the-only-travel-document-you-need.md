@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-16T17:10:00Z
 originalUrl: "https://www.afar.com/magazine/new-facial-recognition-tech-is-coming-to-airports-in-the-u-s-and-abroad"
 webUrl: "https://www.afar.com/magazine/new-facial-recognition-tech-is-coming-to-airports-in-the-u-s-and-abroad"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Afar

@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-14T13:26:00Z
 originalUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
 webUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2022/11/Nov22_14_1364531717.jpg"

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-malware-detection-and-classification-with-amazon-rekognition.md",
+      "title": "Malware detection and classification with Amazon Rekognition",
+      "excerpt": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it’s predicted to cost its victims $265 billion (USD) annually",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T11:10:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-woman-revealing-why-she-shows-only-half-her-face-on-work-calls-melts-hearts.md",
       "title": "Woman Revealing Why She Shows Only Half Her Face on Work Calls Melts Hearts",
       "excerpt": "A woman melted hearts online after revealing the reason she shows only half her face on work calls ... This kind of non-detailed phonetic recognition is also the way babies process speech up to the age of about 14 months and goes some way toward explaining ...",
@@ -1316,49 +1360,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-australia-bets-on-facial-recognition-for-problem-gamblers.md",
-      "title": "Australia bets on facial recognition for problem gamblers",
-      "excerpt": "As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers",
-      "originalUrl": "https://www.aljazeera.com/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-09-29T015936Z_1168054420_RC29KW9J7XZP_RTRMADP_3_AUSTRALIA-GAMBLING.jpg?resize=1920%2C1440",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/11/4/australia-bets-on-facial-recognition-for-problem-gamblers",
-      "publishedDateTime": "2022-11-03T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

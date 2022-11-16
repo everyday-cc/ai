@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Viz.ai Partners With Vastrax to Accelerate Trial Enrollment and Illuminate to Improve Aortic Aneurysm Detection"
+    excerpt: "Viz.ai, a developer of artificial intelligence (AI)–powered disease detection and intelligent care coordination, announc"
+    publishedDateTime: 2022-11-16T17:49:00Z
+    webUrl: "https://evtoday.com/news/vizai-partners-with-vastrax-to-accelerate-trial-enrollment-and-illuminate-to-improve-aortic-aneurysm-detection"
+    type: article
+    provider:
+      name: Endovascular Today
+      domain: evtoday.com
+    quality: 0
+
 secured: "/uzF6h6WsTkIvEsFxjSlKBhPJc4NQr4PT+dOhN9Y9KfgB5KmIeW8ty04+peX5BDsN+/cX0YGLx6O4Hr0sM3mKlbMBlyaQPhsd/0jKk2d2gBzZ1DEWGwWBLC6oLymgq0/A9duzhr9pTHV33a3cPWmQ8N+/2aogJ0S6QNw0HxVgLs+r1wwOKhEwJSdkjj290boVbg+I2a6GTfkD+eLpKr3eMDYB8A/tQkYt/KTk8v9/p227fnkQ4w4b3R0rmK/2i7t0uzAEwUCp13GgnPoQB7h/x63yUUQObInCaC7uQRB5K6V37kNdI122R/rJLCfCZeGlXsDdvgh66cgGzJOlJ2mYBU21KepnFLKgCZmTvli9CuIiP/LR1AUfLmShafPz2GD6zk7F7m50ynSsFMeZ88ASnLEC3PbUFBNLvAnZyVzn7r0tlE229uEdrDjtLYsY9245szrMeehMF5CUrySWZH2l6GCJ4tvYtSO9m3iCtv2A4btMQxlKUKMZyt5M0KzCyeuh1id+Q+zKqPRzUzsTooh+Q==;ne82i0dOR3d7KdS1trh9OA=="
 ---
 

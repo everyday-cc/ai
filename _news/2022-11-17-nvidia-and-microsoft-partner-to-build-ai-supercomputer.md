@@ -38,7 +38,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 119
+    quality: 121
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800"
         width: 1200
@@ -70,11 +70,27 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://www.cnet.com/a/img/resize/53149eacd0f62e090e026c91d67c93f58ecebf68/hub/2022/11/16/3e3ffbbd-8fe7-4910-b21c-cdae4e2c126a/nvidia-microsoft-logo-graphic.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nvidia and Microsoft team up to build massive AI cloud computer"
+    excerpt: "Nvidia announced a collaboration with Microsoft to build a \"massive\" cloud computer focused on AI. It will reportedly use tens of thousands of high-end Nvidia GPUs for applications like deep learning and large language models."
+    publishedDateTime: 2022-11-16T22:24:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 106
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/nvidia_logo_hero_1-800x448.jpg"
+        width: 800
+        height: 448
         isCached: true
   - title: "Microsoft, Nvidia partner to build a massive AI supercomputer in the cloud"
     excerpt: "The partnership makes Microsoft Azure the first public cloud to incorporate Nvidia's full AI stack – its GPUs, networking and AI software."
@@ -167,20 +183,6 @@ related:
         width: 1024
         height: 707
         isCached: true
-  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
-    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
-    publishedDateTime: 2022-11-16T09:53:00Z
-    webUrl: "https://www.newswit.com/en/Lt1B"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 54
-    images:
-      - url: "https://www.newswit.com/img/f/20221116/ed1cb5aa5f06e53b7c7c13545344bac2-0.jpg"
-        width: 800
-        height: 455
-        isCached: true
   - title: "NVIDIA Partners With Azure to Build Massive Cloud AI Supercomputer"
     excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build what the companies said will be one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s supercomputing infrastructure combined with NVIDIA GPUs,"
     publishedDateTime: 2022-11-16T14:57:00Z
@@ -237,6 +239,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Microsoft Ships ML.NET 2.0 and New Model Builder Version for Machine Learning"
+    excerpt: "Heading the highlights of ML.NET 2.0 are new APIs for working with text, specifically text classification in Model Builder, along with a sentence similarity API."
+    publishedDateTime: 2022-11-16T19:04:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2022/11/16/mlnet-2-0.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 48
   - title: "NVIDIA Accelerates Scientific Discovery on Microsoft Azure Cloud and a Variety of Partner Systems"
     excerpt: "NVIDIA announced broad adoption of its next-generation H100 Tensor Core GPUs and Quantum-2 InfiniBand, including new offerings on Microsoft Azure cloud and more than 50 new partner systems for accelerating scientific discovery."
     publishedDateTime: 2022-11-16T17:32:00Z
@@ -279,6 +290,24 @@ related:
         width: 2000
         height: 1498
         isCached: true
+  - title: "Nvidia says it is working with Microsoft to put AI in the cloud"
+    excerpt: "Nvidia declined to say how much the deal is worth, but industry sources said each A100 GPU is priced at about $10,000 to $12,000, and the H100 is far more expensive than that. “We're at that inflection point where AI is coming to the enterprise and ..."
+    publishedDateTime: 2022-11-16T19:41:00Z
+    webUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-put-ai-in-the-cloud-587898"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 36
+  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "Customers Can Seamlessly Extend Nutanix Environment to Microsoft Azure Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure,"
+    publishedDateTime: 2022-11-15T23:53:00Z
+    webUrl: "https://www.ryt9.com/en/prg/263384"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 34
   - title: "NVIDIA Teams With Microsoft to Build Massive Cloud AI Computer"
     excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s advanced supercomputing infrastructure combined with NVIDIA GPUs,"
     publishedDateTime: 2022-11-16T18:58:00Z

@@ -80,6 +80,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Supercharging the next age of fintech through open innovation"
+    excerpt: "The next era of fintech is coming. With the expansion of the financial services ecosystem beyond the traditional borders of banking, lending, and investment, new industries and business models are being unlocked as demand grows for both embedded services and hyper personalization."
+    publishedDateTime: 2022-11-16T20:44:00Z
+    webUrl: "https://techcrunch.com/sponsor/fis/supercharging-the-next-age-of-fintech-through-open-innovation/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "India FinTech Forum unveils 23 high potential fintech startups"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
     publishedDateTime: 2022-11-14T20:41:00Z
@@ -161,6 +170,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Falling Valuations Make Fintech and AI Accessible Again"
+    excerpt: "Today’s tech era is ripe with innovations in fintech and AI, where advanced platforms and business models allow new players to enter and challenge incumbents. “We continue to see fintech as an expanding market segment. The Industrial sector has seen a ..."
+    publishedDateTime: 2022-11-16T19:12:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b20phvhjyd7mtw/Falling-Valuations-Make-Fintech-and-AI-Accessible-Again"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 19
 
 secured: "NZJ3m995lKE9ssqeTTeU4YZl0mAeM2okS676OjS6g2jPDsJAzUZE1Sy8ID6H/YbzA//GjfBWaaiKYJfMwVrN8Fp85fwdLk+2JZ4xf45FIhfinRATOZZQlnufipgj1k8c/rQU7EwwCG/UIOzoImSPk+2lEFUsywYJwMa5eJ1Pe4rj/zk1YmeFljF5bognxxE9puAtQmckjrhtSpvxtJf5egwibNgOoYjlCVuWD03C7RR1+vzOY6EF8RYaszq4wMw05AwSxBJbQ500ckkFwm8AIlOeT3XT0rAz7/smV18eaJ3ZakRMYi0qtDz+JxNVWgZ7LaXHUetLhg+6WUssOtyMqjcIA6Rfrnvq3X21vC48nnnvBwhZV5oC89Lca9xQBOdUxVoJq6k+7uNA6B7xX+SKo3u+WQYyVjRUAlYyPuuoBIVgCCYR9IKKhAYGSGDEH1ZFw9OG1t6NowvEFneSbhuN2/FkJ2dNqNRiASJlsts7hIoEfy9lKIHeFkf345thNHU94DWvrcHnI3n3xkzOF0MQ2g==;iL2s3CAJ/5lHouEd8uPlIA=="
 ---

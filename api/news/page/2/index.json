@@ -2,6 +2,179 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-16-boston-dynamics-suing-ghost-robotics-over-quadruped-design.md",
+      "title": "Boston Dynamics suing Ghost Robotics over quadruped design",
+      "excerpt": "Boston Dynamics claims Ghost Robotics infringed on seven patents related to Boston Dynamics' Spot quadruped robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/boston-dynamics-suing-ghost-robotics-over-quadruped-design/",
+      "originalUrl": "https://www.therobotreport.com/boston-dynamics-suing-ghost-robotics-over-quadruped-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/boston-dynamics-suing-ghost-robotics.jpg",
+          "width": 890,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-a-conversation-with-thomas-friedman-about-ai.md",
+      "title": "A conversation with Thomas Friedman about AI",
+      "excerpt": "Technology has an unmistakable impact on society — the way we work, learn and play have all changed significantly over the past decade. As SVP of Technology and Society, part of my work at Google is connecting people and ideas to help shape the future of our most ambitious technology and its impact on",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "originalUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_2.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-study-recommends-companies-use-artificial-intelligence-to-better-serve-all-shareholders.md",
+      "title": "Study recommends companies use artificial intelligence to better serve all shareholders",
+      "excerpt": "Artificial intelligence can help reduce \"short-termism\" in companies and help firms better serve all shareholders, a new study recommends.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-companies-artificial-intelligence-shareholders.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-companies-artificial-intelligence-shareholders.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/board-room.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-companies-artificial-intelligence-shareholders.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-companies-artificial-intelligence-shareholders.amp",
+      "publishedDateTime": "2022-11-15T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream.md",
+      "title": "The Tiny Hurdle in the Way of Driverless Cars Going Mainstream",
+      "excerpt": "Consumers are still skeptical that self-driving cars can actually be safe enough, which to some degree makes sense. Autonomous-vehicle development has faced more obstacles than originally anticipated in the past few years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream",
+      "originalUrl": "https://www.nasdaq.com/articles/the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos.md",
       "title": "Startup Uses AI To Turn Textbooks Into Gen-Z Friendly Videos",
       "excerpt": "Prof Jim aims to make it cheap and easy for textbook publishers to create videos narrated by famous avatars, complete with slides and pop quizzes.",
@@ -313,7 +486,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -694,6 +867,48 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-ai-tool-predicts-reduced-blood-flow-to-the-heart.md",
+      "title": "AI tool predicts reduced blood flow to the heart",
+      "excerpt": "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart. The tool is able to accurately predict reduced blood ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-ai-tool-blood-heart.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-ai-tool-blood-heart.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-tool-predicts-reduc.jpg",
+          "width": 2400,
+          "height": 1454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-ai-tool-blood-heart.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-ai-tool-blood-heart.amp",
+      "publishedDateTime": "2022-11-14T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-can-the-armys-robotics-programs-build-ai-the-silicon-valley-way.md",
       "title": "Can the Army’s robotics programs build AI the Silicon Valley way?",
       "excerpt": "DIU has brokered a potentially groundbreaking contract between the Army’s Robotic Combat Vehicle program and a small California firm that trains AI algorithms to navigate off-road.",
@@ -745,7 +960,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -883,6 +1098,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-were-getting-a-better-idea-of-ais-true-carbon-footprint.md",
+      "title": "We’re getting a better idea of AI’s true carbon footprint",
+      "excerpt": "AI startup Hugging Face has undertaken the tech sector’s first attempt to estimate the broader carbon footprint of a large language model. Large language models (LLMs) have a dirty secret: they require vast amounts of energy to train and run. What’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
+      "originalUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/nuclear-power-BLOOMa.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
+      "publishedDateTime": "2022-11-14T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
       "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
       "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
@@ -923,295 +1181,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-cat-pining-after-owner-when-shes-home-alone-breaks-hearts-made-me-cry.md",
-      "title": "Cat Pining After Owner When She's Home Alone Breaks Hearts: 'Made Me Cry'",
-      "excerpt": "A cat named Elie has melted hearts online after a video of her waiting by the door for her owner to come back home went viral on social media. The viral clip shared on TikTok on Sunday by the cat's owner (under the username Eliethehallwaycat) shows Elie following her owner to the door,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388",
-      "originalUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2148780/cat-waiting-owner-melts-hearts.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388?amp=1",
-      "publishedDateTime": "2022-11-14T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapse-forbes-ai-newsletter-november-12th.md",
-      "title": "Inflation Hits Lowest Level Since Start Of 2022 And Crypto Exchange FTX Faces Collapse- Forbes AI Newsletter November 12th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63726ff6041a641baca8fb80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/amp/",
-      "publishedDateTime": "2022-11-14T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-congress-returns-after-the-2022-midterm-election-with-a-hectic-year-end-agenda.md",
-      "title": "Congress returns after the 2022 midterm election with a hectic year-end agenda",
-      "excerpt": "Lawmakers’ packed to-do list includes reaching a government funding agreement, passing an election overhaul bill and codifying federal recognition of same-sex marriage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/congress-returns-2022-midterm-election-hectic-year-end-agenda-rcna56668",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/congress-returns-2022-midterm-election-hectic-year-end-agenda-rcna56668",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221114-capitol-building-mb-1215-f019ea.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna56668",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna56668",
-      "publishedDateTime": "2022-11-14T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-hear-what-googles-first-responsible-innovation-intern-learned.md",
-      "title": "Hear what Google’s first Responsible Innovation intern learned",
-      "excerpt": "In 2018, we launched Google’s AI Principles to ensure we’re building AI that not only solves important problems and helps people in their daily lives, but also AI that is ethical, fair and safe. At the same time, we launched a central Responsible Innovation team to ensure the rest of Google is held accountable",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/hear-what-googles-first-responsible-innovation-intern-learned/",
-      "originalUrl": "https://blog.google/inside-google/googlers/hear-what-googles-first-responsible-innovation-intern-learned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-best-practices-for-bolstering-machine-learning-security.md",
-      "title": "Best practices for bolstering machine learning security",
-      "excerpt": "New considerations are necessary as more businesses adopt machine learning at scale. In association withCapital One Nearly 75% of the world’s largest companies have already integrated AI and machine learning (ML) into their business strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/180913390_1200.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/",
-      "publishedDateTime": "2022-11-14T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat.md",
-      "title": "Why Meta and Twitter’s AI and ML layoffs matter | The AI Beat",
-      "excerpt": "Gousios, who worked on the Probability team from October 2020 to February 2022, said while Facebook had a lot of developers ... According to Nantas Nardelli, senior research scientist at climate tech AI company Carbon Re, these were some of the best ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware"
       ]
     }
   ],
