@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
@@ -95,6 +96,6 @@ related:
         height: 483
         isCached: true
 
-secured: "TicXpwkHkgWFwfGqoXOjzNLoFh2D1+koN1VyKIBYlYoJYvJ6G6R36FMHvxiec8V8mps4cSdBNy/EHITTYQWg8bd1M7wLeoRoHqSdk8BMR9SRj8p2rXONp+LJ5EYiTZ1A7FuCACLK/JSfB7iSiT+TgI4XghIE707C46ozWkq6fjL4i6sHNFd7MlFpPFkPlLRN5+rWljKUKPwpyVHhMWqCl2LuC2dhFj+tgg+6nSoQzVlWbOuIGVEyVnFFP2td06G350v8rYjBNf5TqiX6cdIuLKJJ+lUtvS7LTZO03KgJ9L0DxHsaZYEm41yJXu3qH1p8ucE1khh8EaUhronLJaon9D+gYMmKhtFXWaVNxCzDE1o=;Y1LdxV5j3bbRGzzVTVaREw=="
+secured: "D2L2POFyfAHO0HJeX3nryXnt+XPD02U6iK+tlb0yWkUiYvpoXK4cqE8LjitAOJNjK44jDKczgIfVKjsTiBzMz2cxqbH6VlkGFXwWEu6so8RynoXzu4RQmbulAC+Kk35pgIZP7ha6zdCjfv9PDKXLgz22PjBu7M/DYb7SHnP3y64UdGRaKZOW0iw55vkJGIMmofBa+5eTcsslXS1U6Pv9gvHt4gHcqBJiU0ZdSTT8Sp7PPnn1xXjAD8z3hJRSwBGws++/7/JMALEq5GAlHHIyPrWc8XNgf+wzYBVBOtb/SS2/dEHr/VpDMEwCe4Mo5M2kExDsUl9sj5zTuxiHHqklVH0hKBCFx9edRIwQiVHZR7zRubHYHH024z6QLUt7+bSRNwuBPahHrtn+EXNM72ZeomAeQ4hsVbmjQOkVuuU1r3eQafL+gTchs3N0qNETJuUS3new/upNY+juxkd3/Ry3E0Fd7KA7IDsJkRoDlbURxxhSgClcWvmMTgr617AK+TpX/0K5dNnFbNdYL3pMcks+bg==;fLCfzKR7idE84dCENwx0YQ=="
 ---
 

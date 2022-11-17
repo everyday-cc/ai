@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 850
     isCached: true
 
-secured: "bS3anB+diPBpMS9qmkcuwj6WENZ0OcdrQL5MKOUbPrrVZmolKNbUAp9L16y9Rah3MG6UITqO6iwSYFhbtPd1MMlXXlIE5rrBUGsSY/hAgSF7WiBm5o7WV1VUGKgWDGyDi8k9pHD08coNtaDz1dyux8C+Gq9iFp47m4slEk2DQbqBqd0l36iqVFPWsLj07PYD7s9NPR/71Os8SGJbfpSFi4iGeioTrtc+o1n6jw6EhG5WKjuNbR82VNeq6HQYTD4Lni1J12z36PmtHkEoZNFAanYvDQux/wTvXGkjir85LCdQFAUl5/dSVDT0tYm/l37j6ty8IKT/jkvaqZCJcjIZJglAd3tjnGgNbLFUy9HLZ2Y=;kKFPSgDb41y1OuUfbwFdtg=="
+secured: "o/kYw5Fh0KRHnvB8DSmC/ZqQ1jOHkDhYiFzobISS6Ib0BII5ur2u3COxVmkDuQ+dlCGEnkPnbers9Y6Lu63o0xn4cIi61rAnCyii7y2rCiz2K8QfUZkDfvIpfHMjjDJ2cU7Y2G4LBhasY9pCDihWZTgCLen56TIGTEAxFBzuidtSz2gpSEhZ/rD34u5evQRemYKqEmMadD4TAC5wdNo9WDLoI1sdur6hKKilq81a50TgP6o1REszr7+Z2rMyT5iVm/mvMR5dL5QXKkuSE4aE8QV1zXHX9GjnDfJQGiEHn2sMaWQIWzm8TJdhTFSgmlrGW6lny0ses+KawuXuiUzLLjywpwWGcTFwbgQSIMQa2nNG0HDzvzqG8HK40viRixFseCh1hgMRo2N6qvpBV96vFZ58rIOcBJ0r+VXPbn+7Gvdu0mLXJ8nlN5THvSFwHPGvZm3tuIIHsxSMWylp+veBy+LstmQzzBigUN7MxijydQIY+UUhbLkjj4SA/9ogiZyhmqxEYRVPRiLZBBirHb6F1w==;ApnalAZDxpY3qeH/GKtLGw=="
 ---
 
