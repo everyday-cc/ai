@@ -199,6 +199,20 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "AI may dominate mobile SoC competition between Qualcomm and MediaTek"
+    excerpt: "suggesting that AI computing capability will be crucial for mobile chips to go beyond limitations of existing functions... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and ..."
+    publishedDateTime: 2022-11-17T08:26:00Z
+    webUrl: "https://www.digitimes.com/news/a20221117PD201/ai-qualcomm-snapdragon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221117pd201_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Qualcomm introduces Snapdragon 8 Gen 2 chip for next-gen flagship smartphones"
     excerpt: "Qualcomm’s new Snapdragon 8 Gen 2 processor is set to bring up to 25 percent faster graphics, 35% faster CPU performance, and up to a 40 improvement in energy efficiency for next-gen flagship phones."
     publishedDateTime: 2022-11-15T22:07:00Z
@@ -279,6 +293,6 @@ related:
       domain: telecoms.com
     quality: 19
 
-secured: "RxTWjpjsewot75yZd42N4gvVJtm0aS13hb85MWff8ftsMPsnqHlDxffd4OGfqoBMkY/Rverc3MD+BiuLImZg0F2MOHOojj4iFqDYIf2TwA54ygZE27Iagpy38CC13+z19eNqMu2RALT/0DDGdSikhoy1BgEFhc8UgwsLqUoO4xP+vxFq+528F8PIfS5dNYgguBi6e8kHl5fw8R1ALf0Se6y6IWTr/VnBlQzKrBlZfflum7QfO0AC80fO5QnQ7tp5rU4nSIokAJJvH5Ovv0VBHQTXqJmkj48t5rXyK+Ax+dxEZZDYlbEvV7+E8qjIubw+QS2bFP8kkoaQgrCT99VjsP56fMKPidvS/z4Faeapm40=;N8hE9LvpQrD98BRCOb/n+g=="
+secured: "Fv1U1TNNgsFyvBEJpM5XfENKaJU01rExakwzg2vgEakyVfCTJ2j/an1jUGaKsyeLz3vhPXw9lIE4D5S1jF9xv3bnfD6ICBNEVUszMMTYdITLys3p+plixNz+UVHOnYH46IkSC29I381lJ7ECuEDscHfFYNd/QNoil1zP9cFD2mi3iuEzdUvXREPTjAgUWdJO/WHSwPXRQkHurF/cYbFjpAW9LiLoiyPircE2IRU6uJEarLfAqr0C8yiT1iWpV49FdY/cbNh41PKKPmFofi2N2jmt70+zTkQj/HfnGvZLKbQEbHiofgxBSyJen3GrfBIIFm4OZHtw7VX6OKVLNgZYVZhCI6+fGdWWgxvLqODJa9RRtCzKLHLAGlWX3kPlsNs16KMQffGm+nchLhxqWB2xUfwEXLt9ADC55/e0BAEAOC3fDEd5ZOZcSveAQWcqb3EXriuGUplF2yU5PCTrj9SZaD8iqbE+YVWPejgXGlhFTQnMOXWv1LYtIo1l1t70D8WHVRnwX7ud6oVD57YjBuq9oA==;mnL5zeIF9ztkRB3w+Yq5vQ=="
 ---
 

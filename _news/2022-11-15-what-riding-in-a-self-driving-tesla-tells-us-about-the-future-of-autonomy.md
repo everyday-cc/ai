@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-se
 webUrl: "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: The New York Times
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary"
-    excerpt: "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it."
-    publishedDateTime: 2022-11-12T16:24:00Z
-    webUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/"
-    ampWebUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla tells US of new fatal crashes involving automated driving"
     excerpt: "Tesla Inc. disclosed to US regulators two new fatal crashes involving automated driver-assist systems, bringing its total to 16 since June 2021."
     publishedDateTime: 2022-11-16T00:10:00Z

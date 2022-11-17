@@ -20,21 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "When AI can make art – what does it mean for creativity?"
-    excerpt: "Image-generators such as Dall-E 2 can produce pictures on any theme you wish for in seconds. Some creatives are alarmed but others are sceptical of the hype"
-    publishedDateTime: 2022-11-12T16:06:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney"
+  - title: "Are We Ready for AI-Generated Code?"
+    excerpt: "Autocompleted code is convenient and quick, but it may expose your organization to security and compliance risks."
+    publishedDateTime: 2022-11-16T22:00:00Z
+    webUrl: "https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
     images:
-      - url: "https://i.guim.co.uk/img/media/ed7b8e4d2037b11ec2f50d6e8af4cc76091247fd/0_196_1024_614/master/1024.jpg?width=620&quality=85&auto=format&fit=max&s=992a794d376bccd3f05d6946b0cf87b9"
-        width: 620
-        height: 372
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt204ea0da35abc7e8/63752bb52dc1730f3660ddb2/codehandshake-Andriy_Popov-alamy.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "9+PQkCJK4DHUqqkcIIvbCTzhYeSv1vtnmDn/h/n+BddDXpw898oPVpneQCohO9Qxuk4PCr2dmOuvY6cN2riYzlJtAokoE2m9gqyO9Jgo41kY05JFemVGN1ecYoUiKZL1ZPto4uFmH0eijuQwPK0d2X/c0aFNytormlalLki5xLYzydyTg84WLK5gg2m2qsALdvji0JZRHBbQc7kamDvfXjuEK80WRCxQeYylzfPzakdDZbF6eG2zaaxyc/ZcUSVVajYmPoOYhccVH2KvpvARlBwmbsluBOX3Y4CAV3gVz8Sy+TuK5pWxyv58UzvbsscnQDQRupkE5pwtkZIEsey/LK7PjreZsFBmm6Sq8scd5osJx7BvyI9TWRUQ0n8TU1CV39PD8wU7wchkyj/OsTQrpZudwORMMi/pBLt1Qsjhg8PNipZfiT7Hl0HM0Rcio/Ph+rcm4maTQAA2XkT0SUSF25KEhRZr+xCHvH9hF4RZZUOc3TMq51RsF04NvJXc0qEnii8ZAdcCBkUvZxGJSZ/HPg==;93It/u3FUWsiAAGN18sIDA=="

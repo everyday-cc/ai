@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-16T21:32:00Z
 originalUrl: "https://technical.ly/software-development/temple-nars-project-future-ai/"
 webUrl: "https://technical.ly/software-development/temple-nars-project-future-ai/"
 type: article
-quality: 12
-heat: 12
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://technical.ly/wp-content/uploads/2019/09/IMG_4661-copy.jpg"

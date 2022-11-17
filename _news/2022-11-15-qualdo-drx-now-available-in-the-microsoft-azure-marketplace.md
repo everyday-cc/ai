@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-excerpt: "Qualdo.ai's data reliability team today announced the availability of Qualdo-DRX in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Qualdo.ai customers can now take advantage of the productive and ..."
-publishedDateTime: 2022-11-14T20:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
+excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
+publishedDateTime: 2022-11-14T19:09:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -115,6 +117,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "NVIDIA announces multi-year collaboration with Microsoft to build “massive” AI computer"
+    excerpt: "The U.S.-based chip designer and computing firm will be providing tens of thousands of GPUs, Quantum-2 InfiniBand, and its full stack of AI software to Azure. Microsoft and global enterprises will use the platform for rapid and cost-effective AI development and deployment, the company shared in a blog."
+    publishedDateTime: 2022-11-17T07:35:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 66
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/cb5jam/article66147933.ece/alternates/FREE_1200/2022-11-08T001316Z_223228154_RC2BHX9HJ0XI_RTRMADP_3_USA-CHINA-CHIPS-NVIDIA.JPG"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z
@@ -204,6 +222,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
         width: 593
         height: 290
+        isCached: true
+  - title: "Microsoft and Nvidia team up to build massive AI cloud supercomputer"
+    excerpt: "Microsoft and Nvidia are on a mission to build one of the most powerful AI supercomputers in the world using Azure cloud infrastructure."
+    publishedDateTime: 2022-11-17T08:38:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/microsoft-and-nvidia-team-up-to-build-massive-ai-cloud-supercomputer"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/AdobeStock_303718045.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft Bolsters Azure Integration with SQL Server 2022"
     excerpt: "SQL Server 2022 customers will see benefits in the areas of data integration, analytics, governance, and high availability thanks to the database’s"
@@ -317,6 +349,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "06TU58M8i1Y2ZjxKHPs0qOoNF5O7b5tkx7JsVDz2Fr4T6FAtaCtPMOLz5+0HyCriEKoRsTn7ADAAijsDIuL2bwtqoilMrATolUtDuILxJR10+cPzLC+OLb+Ncry36xEmwAn7it3aOJMS8Y6Lkjq6H5T8FnC0gR1LE5qZfhrvkJoNJPERuK3IiazcNPjQXx85p/F7c1MVX6k/4xuE0N3/vSIPz+Z8gnS+sdNGpcmwv89ZLbdHOf+U8lITgxU+CSu7TYsgEXgCFgX2eepVF0MtFJ07TGYe33vND5f2h16yBJoAh63cj4EA+q3k4qrPKdGOB1XzNAnJXK97DjvMzFdJ+yIyLDlFXUzjKMF6f97NmVs=;GAwYhG0J3FFfS6VhxzPnjA=="
+secured: "z6CxH53yn4vz7+WDyS/SufMtIaQDOJ+6XlY0rrM7macZja12qDEUU9usOyg0lGPUEZdCn77Qr0mSAawK87lMUYyXXLT9z0FkLwQq75kbTGrZO0bEoymVVlBGiUt3++e9ml1UHip992N0nSKxOcUtllDUmtgbXoBAwJeYIcD1vYiP8RaAqA5tY53K2cy+T2HltYYBDgbOAaf548kt56oYdCbtrJb5oj42VStMgBmBM3emcIssdrDcEYBY4guglllcB54JyWM3tMLbr+DOwSWwIgOOBdRcskwYD3LyiokW7QZzrrqI+qmCNDI0qL9nMsIGGP3NuRGhOF8CTwBkQn20zvaf/3Ib4CZnONKBYOmeKg8=;hKXOjTeIVSAjZ/jccif2mQ=="
 ---
 

@@ -2,12 +2,12 @@
 category: news
 title: "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR"
 excerpt: "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028)."
-publishedDateTime: 2022-11-16T21:48:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/16/9715226.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/16/9715226.htm"
+publishedDateTime: 2022-11-16T20:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm"
 type: article
-quality: 16
-heat: 16
+quality: 14
+heat: -1
 published: false
 
 provider:
@@ -15,21 +15,29 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "Automotive Artificial Intelligence Global Market to Reach $7.78 Billion by 2026"
     excerpt: "Key Mergers And Acquisitions In The Automotive Artificial Intelligence Market 29. Automotive Artificial Intelligence Market Future Outlook and Potential Analysis"
-    publishedDateTime: 2022-11-16T18:53:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/16/9715190.htm"
+    publishedDateTime: 2022-11-16T20:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/16/9715190.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Automotive Artificial Intelligence Market to Hit $14.23 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global automotive artificial intelligence market size is expected to reach USD 14.23 billion by 2030, advancing at 21.6% CAGR, according to a new report by Grand View Research, Inc. Artificial Intelligence (AI) in the automotive industry is driven by factors such as government initiatives to incorporate autonomous driving and the growing demand for autonomous vehicles."
+    publishedDateTime: 2022-11-15T12:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-hit-1423-billion-2030-/2022/11/15/9713017.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
-secured: "GWFue09By5h4vS9VzvAdExB2iyVCrSRwn77QevfbosufYkp8bhBuq4mVBuWV81mAwlqG/Je3u78o0bNGLHa+bvXDVO97m84/mZ4jqbuCIm2ryC0PFvNYUbF4NfAwfp+gbo4/9YjOfC0Y9YAti8UwwGtSthzMAw9mYtf9h6LcZ54OqyGHo9Re9Fs+owOEJj0++HVjJfTyEP3JXapQ0uv26Xsb+f7RnyYmq6CpwXrZllXSUU8u1hK5mibJlv6nQN8UWrwRdCsz0keqsEuv2DuRKp4yqRlRVOlL75HPuEH2M+l47ukwqFd2t60qfWJF6hlZni6V3azcUJ0BcKoLyNDJs6AffPmG60pnDZbfio8m7SY=;5W/1mMzRoOwz+7GiLIiZ9Q=="
+secured: "3z1ehIuRxC1GXyZ7hcETaKWJoy7qffZvZlpPWc1E7+94V+Dr50fotOin3px6lw686+hP4SBvtq5sa09Tb9WZImY+naroMua/u34HMy5nMjYF3umS/XRprDnUo8wZpgXWGnETaGlnAidqj6EEcXxlHMY9g0n+wY9/Vi/n7NuoNN85X6tqEm9nT+uo/mwXe/nP8N3U6ZcgGm4c6Dl/0HLwjXH3wGPqSpUOoptk5+vXsxsQ+7TzcgUNnHBvrCjguSGa4NIk+2khAm9NTiTyxWKKTB486Vm6hbWpba2oXahS/CaiOrrO8CTUmj5Pbqf97hFgkG5dKlvG502jWSWsncJE+/LADqBhsE+06idzanQt3K4=;iaXFBkSpiRNhoUYGb+g4Yw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-16T19:37:00Z
 originalUrl: "https://www.timesunion.com/news/article/UAlbany-hires-27-professors-specializing-in-17589504.php"
 webUrl: "https://www.timesunion.com/news/article/UAlbany-hires-27-professors-specializing-in-17589504.php"
 type: article
-quality: 21
-heat: 21
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,7 +18,14 @@ topics:
   - AI in Autos
   - AI
   - AI Ethics
+  - AI in Robotics
 
-secured: "yRyFBtnJgbR7Nh2AotcL0WmmnsQV/tgGtz4F30dA3QkMLLCP7rridXBniNMfpX/SYoi+osomYsas3Z8H10EGtbRb70NE1skuC5CqSglnOvVYcx3s8Q/1MDRcYdmj6Jz3SaUv7rO9jVNkE7ou4bCr+5rsBPN2AD/hzZZA879BH1YMEe4FbnqfAMXG74nks3S7t2xhhAEz+Yfvw9/dXsAnhbDhyz7bmC/DxElM7yW8VhrkfnH569EMFkL6JFIwjUGkQwYKAo40JKhKGbabhUsDpq5vQx/u9dWyiKByHOX0ImEElgri4V4jQbVbwOM3XNXHiFB3hRh862xFbN5W5fSQ9w3DJRya/EA8iLKfmAicVsh+aNA1CQZS36CO+ZlbPTfD8F6aB0GXrsQkAcHaq9oQLy8Ph4wFav28HGBP5HX9Gjs40z3yakPCXrVIOfWqWdcQPp1RdnFs0rmn/bnc/7jMrqXjx+os7xTVkAGfOO67F9Ag3ekwD5RHhk0l117XGon/8kpm2Uy69Nzt+61nZCBf3Q==;MNQ9pVacRLl8IRfasTllwQ=="
+images:
+  - url: "https://s.hdnux.com/photos/01/30/31/32/23172773/5/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
+
+secured: "l+v/EALDmGtYHLEIF+D5wAA03gDNs9ZN7/Z+FOmJtMSTE4Dk8JY/0uoRsua0hYETC/UfWWOa5dZefbp0wv3DpuQkMlqIio6nKTfHAVtYOipWm9k+PU8gjltkLajeBRL2vGAVQ1dYsOqGtMM0iOuuWvt7cbrDxvszz1+yT3q7+HDt3+9giZRSSwMQqCJwirV/V/YCFrY/HGp21fXa8Xcjcm99Z4nYbgiqEL59qmLeMpV9CTdW7QK8dBoHoUezcLK2wc0J8LvuldF24uJcBf/swrvz5t3j8kL/JVGovzAAMqMsCGxyJ/BhGiofY7wWepPcBkydJG/I0Eei1lupS5I158y8pFNbjV8xgyXst4ufHLI=;zYWzQZKET++SKTJijI/5FA=="
 ---
 

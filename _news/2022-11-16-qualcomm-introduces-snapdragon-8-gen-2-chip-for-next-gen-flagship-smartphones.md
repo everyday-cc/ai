@@ -209,6 +209,20 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "AI may dominate mobile SoC competition between Qualcomm and MediaTek"
+    excerpt: "suggesting that AI computing capability will be crucial for mobile chips to go beyond limitations of existing functions... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and ..."
+    publishedDateTime: 2022-11-17T08:26:00Z
+    webUrl: "https://www.digitimes.com/news/a20221117PD201/ai-qualcomm-snapdragon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221117pd201_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Qualcomm Snapdragon 8 Gen2: 40% faster CPU, 25% faster GPU, 8K 60FPS, Wi-Fi 7"
     excerpt: "On the GPU side of things, Qualcomm promises up to 25% more performance ... the new Snapdragon 8 Gen2 SoC has dedicated AI processing on the chip that is called \"cognitive ISP\". What this will do in reality, is apply features including facial recognition ..."
     publishedDateTime: 2022-11-16T04:34:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary"
-    excerpt: "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it."
-    publishedDateTime: 2022-11-12T16:24:00Z
-    webUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/"
-    ampWebUrl: "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy"
     excerpt: "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary."
     publishedDateTime: 2022-11-14T22:45:00Z

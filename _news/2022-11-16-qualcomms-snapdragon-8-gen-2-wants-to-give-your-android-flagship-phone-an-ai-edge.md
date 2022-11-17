@@ -200,6 +200,20 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "AI may dominate mobile SoC competition between Qualcomm and MediaTek"
+    excerpt: "suggesting that AI computing capability will be crucial for mobile chips to go beyond limitations of existing functions... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and ..."
+    publishedDateTime: 2022-11-17T08:26:00Z
+    webUrl: "https://www.digitimes.com/news/a20221117PD201/ai-qualcomm-snapdragon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221117pd201_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Qualcomm introduces Snapdragon 8 Gen 2 chip for next-gen flagship smartphones"
     excerpt: "Qualcomm’s new Snapdragon 8 Gen 2 processor is set to bring up to 25 percent faster graphics, 35% faster CPU performance, and up to a 40 improvement in energy efficiency for next-gen flagship phones."
     publishedDateTime: 2022-11-15T22:07:00Z

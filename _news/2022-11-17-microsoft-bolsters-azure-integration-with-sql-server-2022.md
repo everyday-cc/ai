@@ -121,6 +121,33 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
+    publishedDateTime: 2022-11-14T19:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+  - title: "NVIDIA announces multi-year collaboration with Microsoft to build “massive” AI computer"
+    excerpt: "The U.S.-based chip designer and computing firm will be providing tens of thousands of GPUs, Quantum-2 InfiniBand, and its full stack of AI software to Azure. Microsoft and global enterprises will use the platform for rapid and cost-effective AI development and deployment, the company shared in a blog."
+    publishedDateTime: 2022-11-17T07:35:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 66
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/cb5jam/article66147933.ece/alternates/FREE_1200/2022-11-08T001316Z_223228154_RC2BHX9HJ0XI_RTRMADP_3_USA-CHINA-CHIPS-NVIDIA.JPG"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z
@@ -211,6 +238,20 @@ related:
         width: 593
         height: 290
         isCached: true
+  - title: "Microsoft and Nvidia team up to build massive AI cloud supercomputer"
+    excerpt: "Microsoft and Nvidia are on a mission to build one of the most powerful AI supercomputers in the world using Azure cloud infrastructure."
+    publishedDateTime: 2022-11-17T08:38:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/microsoft-and-nvidia-team-up-to-build-massive-ai-cloud-supercomputer"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/AdobeStock_303718045.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft is Building an AI Supercomputer with NVIDIA"
     excerpt: "Microsoft is teaming up with Nvidia to create an AI supercomputer powered by Azure and tens of thousands of Nvidia GPUs."
     publishedDateTime: 2022-11-16T17:06:00Z
@@ -239,15 +280,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Qualdo.ai's data reliability team today announced the availability of Qualdo-DRX in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Qualdo.ai customers can now take advantage of the productive and ..."
-    publishedDateTime: 2022-11-14T20:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Ships ML.NET 2.0 and New Model Builder Version for Machine Learning"
     excerpt: "Heading the highlights of ML.NET 2.0 are new APIs for working with text, specifically text classification in Model Builder, along with a sentence similarity API."
     publishedDateTime: 2022-11-16T19:04:00Z
