@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Stellantis Accelerates Autonomous Driving Journey with Acquisition of aiMotive, a Leading Artificial Intelligence and Autonomous Driving Start-up"
+    excerpt: "Stellantis N.V. and aiMotive, a leading developer of advanced artificial intelligence and autonomous driving software, today announced that they have entered into an agreement for Stellantis to acquire aiMotive."
+    publishedDateTime: 2022-11-17T12:55:00Z
+    webUrl: "https://www.design-reuse.com/news/53038/stellantis-aimotive-acquisition.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 15
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage53038/Stellantis_aiMotive_1200x750px.jpg"
+        width: 900
+        height: 562
+        isCached: true
+
 secured: "UZ/i7XT219xJGizRxLYwZk2SBT/ZZkBGAsCx5KVSt/uQVj++6G5MwmJ7bkuN3IMOOkM/KAbSf+gfWpbrFaymdRtRkmSrcTpuJEjNF0iiElu/LjxYrdnIXkz9+zgiLacmMxR68wQxxHEZWkeam/by/4w8DtqmQE+0aDcGGDOv8tMVCq7tfLdSpscOzByDOcO2lag4Nc4AZcFjr9ncsYz/SYFJRruaSviPhsL/t0dgGLZr2FOJE+pkkx91ijI+sgOqmB8XZCDsDIhA59+xnxqWGjRcZaqsCC3MRmBSIQr9PD5cMeHDy7HgL5923snLtKNrxwL8I1zkkFDcFyF5BrlubOSenDqm5MuoNjugTGwjfFw=;HlADTzcJrA2R4xJnOLTaBQ=="
 ---
 

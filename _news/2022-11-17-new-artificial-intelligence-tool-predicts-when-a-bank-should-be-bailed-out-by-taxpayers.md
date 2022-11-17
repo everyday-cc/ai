@@ -39,7 +39,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI tool predicts when a bank should be bailed out"
+    excerpt: "An artificial intelligence tool developed by researchers at UCL and Queen Mary University of London could help governments decide whether or not to bail out a bank in crisis by predicting if the intervention will save money for taxpayers in the long term."
+    publishedDateTime: 2022-11-17T10:00:00Z
+    webUrl: "https://phys.org/news/2022-11-ai-tool-bank-bailed.html"
+    ampWebUrl: "https://phys.org/news/2022-11-ai-tool-bank-bailed.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-ai-tool-bank-bailed.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-42.jpg"
+        width: 1920
+        height: 875
+        isCached: true
 
-secured: "JobyWzYRIYCWoWOG68lQGGqHoF6/wZLtmlQ+L7PrODrwyQwSocWq6dCtb6y4b1scxU+JdPyRqGvAf9nt0DxVtt6exTLlLevLF/uDJsCWSRx+c0GfknxGd5gXS/as+f9FLbuvvPrsktQmM2qZMjBsQmk2qN4XcdeigJpX4aZdIxFdloV1lzIWIceRVkEzKseQWcLwEkrFf7Jrscj3BAJREkQ4wt2ir3HxfGn2ISyM1KKbviz/qsjmN2e4kAMZssME3HNTW+xBOXXKRjexNLYIHCtGRhjKy3yFgqO4xBEu5xo+qQc0nbVb0oZL+5d5Gyn14bJIzm4i1tB9XKpwdDAu8SPf1TEuQ5T2XP8AKOIidag=;DVhkO2ZJk53l77t8Btz5yw=="
+secured: "T8M9kFXSPUhOHtuNZ1G66V+auQY9mtAEiWJt7RybNdFqljIJCU0iY/akDbDshratGbmMm9OwkKZze0Dqns3B/yo3csJjZsU8APAm18UaRZXxep1YCSQj1UAmzcWyq5xClmboVOmHRiXa6BFNrWHNiR0p8YF+OxNAqPOFPn5rt4ifRha8uq8xXN5li7/WOY1jxDYV97QlSHfVAXoZyIujCAFmBXMhMQAR+rpnm9+dQOTp5yMHDMq1gDlt87QK4kkQ7MuwGOk3q3pvw+OJXNvbA7G68IQXTBJgs1JrfZHmypZmZ8UsOBfHaFzhwbZBCOLvv4PsE3IXyrfxfHkD0AnrXoCcd1uDC1arlJycBI7UtmfJPmnUQ3E0j3hhXLk+krZHZfLllS2Acr3iB4XllcR2304AJaRM3/40RN8AvcwAG2VDFT5/CWr83dvooHs2BmsQ9DFTInWGCncRoNWzImsWwQr6v7/UDTuaUEojrID0BzQDY8EbzlAXHX/uD1AJOb51RVroQprztOlqPPB4TlrZrA==;GnKRtDjs04LLxoCyXIJtow=="
 ---
 

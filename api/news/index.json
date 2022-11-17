@@ -2,6 +2,215 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-17-the-robots-are-coming-to-address-the-labor-shortage.md",
+      "title": "The Robots Are Coming (To Address The Labor Shortage)",
+      "excerpt": "Robots can convert dangerous ... From generative design to construction optioneering, the use of artificial intelligence (AI) can help transform your project planning, workflow and efficiency—before you ever break ground. Today’s AI-driven tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e138b1ae5c9506f59b91/0x0.jpg?format=jpg&crop=1910,1074,x107,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "publishedDateTime": "2022-11-17T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning.md",
+      "title": "IBM Research helps extend PyTorch to enable open-source cloud-native machine learning",
+      "excerpt": "IBM Research has contributed code to the open-source PyTorch machine learning project that could help to significantly accelerate training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
+      "originalUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
+      "publishedDateTime": "2022-11-17T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-how-you-can-get-the-most-out-of-sentiment-analysis.md",
+      "title": "How You Can Get The Most Out Of Sentiment Analysis",
+      "excerpt": "This article will explore the uses of sentiment analysis, how proper sentiment analysis is achieved and why companies should explore its use across various business areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-11-17T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-picture-limitless-creativity-at-your-fingertips.md",
+      "title": "Picture Limitless Creativity at Your Fingertips",
+      "excerpt": "Now picture Lee 43 years later, stumbling onto DALL-E, an artificial intelligence that generates original works ... “A huge portion of the entire usage is basically art therapy,” Holz, the Midjourney creator, tells me. “The images are not really ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/637549891fb094c5b94def5a/master/pass/Engines-of-WOW_AI-Art.jpg",
+          "width": 4875,
+          "height": 3331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
+      "publishedDateTime": "2022-11-17T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-computer-says-no-a-robot-may-decide-who-gets-next-bank-bailout.md",
       "title": "Computer Says No? A Robot May Decide Who Gets Next Bank Bailout",
       "excerpt": "Governments could soon predict whether a bank bailout will ultimately save taxpayer money using an artificial intelligence tool developed at two London universities. Researchers at UCL and Queen Mary University of London have built an algorithm that ...",
@@ -10,7 +219,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2022-11-17/computer-says-no-a-robot-may-decide-who-gets-next-bank-bailout",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -52,6 +261,58 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it.md",
+      "title": "Big Challenges That AI Can Help Overcome And Steps Companies Can Take To Embrace It",
+      "excerpt": "We may be on our way to a greater economic downturn as we look to 2023. Automation software and technologies that increase companies’ insights and efficiencies tend to be contra-cyclical (doing better in down markets) as companies look to do more with less.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&crop=3426,1928,x0,y176,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/amp/",
+      "publishedDateTime": "2022-11-17T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -747,7 +1008,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 391,
+      "heat": 411,
       "tags": null,
       "images": [
         {
@@ -978,247 +1239,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy.md",
-      "title": "Machine learning can help predict patient response to cancer immunotherapy",
-      "excerpt": "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades. Now, researchers at the Johns Hopkins Kimmel Cancer Center and its Bloomberg~Kimmel Institute for Cancer Immunotherapy are one step closer to solving that problem.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-can-h.jpg",
-          "width": 2880,
-          "height": 2052,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.amp",
-      "publishedDateTime": "2022-11-16T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-woman-revealing-why-she-shows-only-half-her-face-on-work-calls-melts-hearts.md",
-      "title": "Woman Revealing Why She Shows Only Half Her Face on Work Calls Melts Hearts",
-      "excerpt": "A woman melted hearts online after revealing the reason she shows only half her face on work calls ... This kind of non-detailed phonetic recognition is also the way babies process speech up to the age of about 14 months and goes some way toward explaining ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "originalUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2150294/dog-attending-work-meeting-melts-hearts.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "publishedDateTime": "2022-11-16T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly.md",
-      "title": "Augmented Reality Coupled With Artificial Intelligence can Train Caretakers for the Elderly",
-      "excerpt": "Caretakers are often needed to help elderly people who are sick, disabled or injured. A new study highlights that augmented reality (AR) and artificial intelligence (AI) can merge to train caregivers for older people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
-      "originalUrl": "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/alzheimer6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
-      "publishedDateTime": "2022-11-16T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-how-ai-can-improve-job-quality.md",
-      "title": "How AI Can Improve Job Quality",
-      "excerpt": "Most people experience AI through workplace technology, not automation. AI can either improve job quality or make it worse. A new study from Partnership on AI shares insights from workers on how employers can ensure that AI makes jobs better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
-      "originalUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636953d143386d13e7af29b9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/",
-      "publishedDateTime": "2022-11-16T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds.md",
-      "title": "Integrated AI can generate $460 billion in incremental profits, report finds",
-      "excerpt": "A new report from Infosys reveals $467 billion in incremental profit can be made by global organizations who optimize AI and data practices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/",
-      "originalUrl": "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars-e1668557733700.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/",
-      "publishedDateTime": "2022-11-16T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

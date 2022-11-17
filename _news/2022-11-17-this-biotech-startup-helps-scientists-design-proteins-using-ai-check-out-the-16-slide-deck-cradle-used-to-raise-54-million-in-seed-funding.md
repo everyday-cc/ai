@@ -28,6 +28,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Startup Cradle raises $5.4M to design protein machines and cell factories with AI"
+    excerpt: "Cradle, a Dutch startup has received $5.4M in seed funding to help scientists design and program proteins to produce plastic, milk and meat."
+    publishedDateTime: 2022-11-17T11:25:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/startup-cradle-raises-5-4m-for-protein-machines-and-cell-factories/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 32
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2022/11/shutterstock-synthetic-biology-meat.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
 secured: "jWYpLG+oGuEepmebdwwlfnbHdLgwDVxBkWtPe/SMITC2dSlqwnvhiUrOfz6CR15WFaKcPKgPreyr4zHcZPGnHusBq5xoI3XRAdN5ZJpMXb1vR8LpQ6WJO0ueHhEohw4OXz6AucyfbteITh16H+3toy0e6/cEbwvQNdtYSdoI+xNlRnPavyh293UXHy63xKwHDYf5ngDTee4xkvwMGoqgTTYU8Jy4PkzAUNspZP2nVXBtt9/2FTUorDjfo/UIwGaS4gBFmLbSTbPTCzAMuoge9AyhyUJScKkA6sXQhh+iCADwizyj4GFNnBcdr30atAYQiZoXj3Rs6/GhkoPU3y18kkY7/c678WdfzH+a4pGWt0b6HOxNHXNztMLcMGY37e+gWQK0AApdpWHNP7wz9WK8ah3U2ENvoSDGid3wb1G5BSXRNz0RhJqPmT6mGqqkIjbjZ3NJKbFpHlDxC2na0YEGPpED4HZg8pGv143He3/NukAp2dlIiHRkWgTwkVmXoW1ZDIeDdh3MgD0oabWmnb6yXg==;4hB4hiAikY9PZgL3csM3ug=="
 ---
 

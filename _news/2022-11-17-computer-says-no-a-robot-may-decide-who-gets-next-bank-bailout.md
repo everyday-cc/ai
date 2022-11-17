@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-11-17/computer-says-n
 webUrl: "https://www.bloomberg.com/news/articles/2022-11-17/computer-says-no-a-robot-may-decide-who-gets-next-bank-bailout"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI tool predicts when a bank should be bailed out"
+    excerpt: "An artificial intelligence tool developed by researchers at UCL and Queen Mary University of London could help governments decide whether or not to bail out a bank in crisis by predicting if the intervention will save money for taxpayers in the long term."
+    publishedDateTime: 2022-11-17T10:00:00Z
+    webUrl: "https://phys.org/news/2022-11-ai-tool-bank-bailed.html"
+    ampWebUrl: "https://phys.org/news/2022-11-ai-tool-bank-bailed.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-ai-tool-bank-bailed.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-42.jpg"
+        width: 1920
+        height: 875
+        isCached: true
   - title: "New Artificial Intelligence Tool Predicts When a Bank Should Be Bailed Out by Taxpayers"
     excerpt: "An artificial intelligence tool could help governments decide whether or not to bail out a bank in crisis by predicting if the intervention will save money for taxpayers in the long term. The AI tool,"
     publishedDateTime: 2022-11-17T10:00:00Z
@@ -45,6 +61,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "CIPbkXs+JRmlO9GRjVL/mgGPXVbUqSuBRbTZpzThxcqAeMFXtN2RYhVswvaQxps6NvtkDBLJ7Bf1g2ERPKmmk2lCslxbQgA+uJhxIOxWGK1r2sK1xqXRWFoBkeMRjfUxvRTx/YDNGcGtdNn8XW9oqgu4mc5E8+qV98//r9I664GLVk9DX0sdwrtaQml3cBBm1j0Lq4wLUyYSuZk2R4WVGc0Z+JUd5VgaSDntlpPZJ6Yn35EIBH78fhEwRpIpomE36mIGiZhUk0+GqM9qk1zFnvySm+euj/Bv1FAWPg+ZH+yAb9PPgUhNByu5Bf7iNO5fhCkFgMXwxuyhPrMAp0XYXavyLV4HBpAZosznVycG5OM=;MRLaSbK1OeUrn2+Ls85UtQ=="
+secured: "4VXJThHhGeb5ULfDeyn/1WG8loUz3sC2tba04qF/KefzYPFf+emQWgN8ixnyjoi3CvlR5+J/aH4xpCkmEV3KXu0XNvHcp0eAbAq4yCBhFmYDSF6961fT7ckzLamP1yvgciJSlwzzNp5jJfRthnAQIOXdqnruTac6LrnYi5Xm3BG2osW3j2aaN5Tw50qwSlfEMAqso39ZrfEJiD4ziID57PkRTYtJR8XMaZu7QKrUbjjODD8wMvFENV7Oe1Z12Fj/c7Y5cXq3ZkBowuZVQuXb6g/RvaOOlCyjWH52LYjwTVy0MwZuUa1859CZGq0IQEYSpN16ydFgbw3+rqeSJvjWHlYG7xG1bPlEb55WgljEJ8XRRHGfArB9U5ybNUkELO+r8f1Fvj3H3ikR9+W9t65c278Rul37BVA0/32nJTLkDtcTtx+I4QAOtRG7oaNgGZHjwi3UzukbA+tX/jxVf63SQbMTH71MwCvvIPe/iOhvJmi/9W9dMUeXqj0zBWIAd9lRtYIREUUJ0RZ5CP/AT3EQ/Q==;SPZCSFtXWZJHFI5i3woKqg=="
 ---
 

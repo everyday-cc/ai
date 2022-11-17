@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market 2022 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2028"
-    excerpt: "The report provides a comprehensive analysis of the key companies operating in the global Computer Vision in Healthcare market and compares their product portfolios, business overviews, geographic reach,"
-    publishedDateTime: 2022-11-15T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2022-regional-trade-company-profile-analysis-business-strategies-and-pestel-analysis-by-2028-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Chip for Data Centers Market 2023: Global Research by Size, Share, Growth Trends, Manufacturers, and Regional Demand Scope Forecast to 2029"
     excerpt: "Nov 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Chip for Data Centers"
     publishedDateTime: 2022-11-14T09:55:00Z
@@ -80,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Window Cleaning Robot Market 2023 Latest Developments, Trends and Demand, Size, Share, Growth, Trends, And Forecast, 2029"
+    excerpt: "Nov 17, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 128 Pages Report\" Global"
+    publishedDateTime: 2022-11-17T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/window-cleaning-robot-market-2023-latest-developments-trends-and-demand-size-share-growth-trends-and-forecast-2029-2022-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -187,15 +187,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 9
-  - title: "Global Autonomous Vehicles Market Size and Research Report 2022 by Production, Consumption Analysis, Product Types and Forecast to 2025"
-    excerpt: "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence (AI) software, light detection and ranging (LiDAR), and Radar sensing technology, which is further used to monitor the car and to form an active 3D map of the current ..."
-    publishedDateTime: 2022-11-14T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-autonomous-vehicles-market-size-and-research-report-2022-by-production-consumption-analysis-product-types-and-forecast-to-2025-2022-11-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 2
 
 secured: "XVsv5xaqqIDUY8zPmmuEh3mUtQtnRLM7/6ZHBa/HREDjHE2eZ9FPfK6+NUk2gBG+/tYGF0vu4BizXB/Ngs1ZZVA089mEDRgTIiiZFoLXKSJsrJ2sk53sTwWPNfY7PtZouNFy0fPbQlQcqzAjlw+dV7Yv2k9acBgWDFaFM3DyhUxJx9hlsVca9tTdpGHbVNgA1nqYnsJsOOvCCK9ySPlFIq+8KEZ2ZjF2mkWNhAnoHTEtjG1DoKH+1iHz/64+PavHkX8ONMB53EQL+e1L2XChjt9SCPRw7RekoDbc18JAeewgYwwPQY+zfATDAOKsWEGbZB8msPSr8hR4ZISVibcL9eaght2JG1CgC0bCtyb4cBY=;LEpCazaerTBmWiB6FLr9eA=="
 ---

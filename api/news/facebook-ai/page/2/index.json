@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-11-how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals.md",
+      "title": "How a flawed biometrics research project exposed AI ethical issues, singled out LGBTQ+ individuals",
+      "excerpt": "Flaws in a facial recognition dataset that was discovered by researchers highlight just some ways in which biometrics tech can cause harm to LGBTQ+ individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "originalUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "publishedDateTime": "2022-10-10T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-facebook-parent-meta-unveils-ai-video-generator-make-a-video.md",
       "title": "Facebook parent Meta unveils AI video generator Make-a-Video",
       "excerpt": "8 (UPI) --Meta, the parent company of Facebook, has unveiled a new ... RELATED Tesla unveils 'Optimus' robot prototype at AI Day event \"Make-A-Video research builds on the recent progress made ...",
@@ -1429,58 +1482,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-the-promise-of-sustainable-ai-may-not-outweigh-the-organizational-challenges.md",
-      "title": "The promise of sustainable AI may not outweigh the organizational challenges",
-      "excerpt": "Enterprises can use Artificial Intelligence (AI) and other smart technology to solve sustainability challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
-      "originalUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/4-How-data-reinforces-commitments-to-sustainability.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
-      "publishedDateTime": "2022-09-19T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

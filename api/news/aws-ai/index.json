@@ -685,24 +685,33 @@
     {
       "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
       "title": "AWS Launches Infrastructure Region in Switzerland",
-      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
+      "excerpt": "AWS Europe (Zurich) Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "webUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
+      "originalUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81666.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T00:05:00-08:00",
+      "publishedDateTime": "2022-11-09T05:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
         "images": null,
         "publishers": null,
         "authors": null

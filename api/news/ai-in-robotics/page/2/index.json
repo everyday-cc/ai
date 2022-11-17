@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-07-three-questions-business-leaders-should-ask-when-considering-ai.md",
+      "title": "Three Questions Business Leaders Should Ask When Considering AI",
+      "excerpt": "Dr. Steven Gustafson is Noonum's CTO and an AI scientist, passionate about solving hard problems while having fun and building great teams. With AI, it’s important for business leaders to maintain focus on core issues and not get distracted by hype and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&crop=5700,3207,x0,y593,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/",
+      "publishedDateTime": "2022-11-07T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
       "title": "Robotics Engineering Week to address critical development issues",
       "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
@@ -1281,58 +1333,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
-      "title": "Today’s news in 10 minutes",
-      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "publishedDateTime": "2022-10-30T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

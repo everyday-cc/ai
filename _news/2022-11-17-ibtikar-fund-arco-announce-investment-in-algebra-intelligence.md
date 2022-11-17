@@ -1,0 +1,28 @@
+---
+category: news
+title: "Ibtikar Fund, Arco announce investment in Algebra Intelligence"
+excerpt: "Ibtikar Fund and the Architects Contracting Company (Arco) have invested an undisclosed amount in Algebra Intelligence, a"
+publishedDateTime: 2022-11-17T12:44:00Z
+originalUrl: "https://www.wamda.com/2022/11/ibtikar-fund-arco-announce-investment-algebra-intelligence"
+webUrl: "https://www.wamda.com/2022/11/ibtikar-fund-arco-announce-investment-algebra-intelligence"
+type: article
+quality: 22
+heat: 22
+published: false
+
+provider:
+  name: wamda
+  domain: wamda.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://cdn.wamda.com/feature-images/f59a2026d538da4.png"
+    width: 900
+    height: 500
+    isCached: true
+
+secured: "92NB0BDNunV5Z7RIwmSHdCDfu4FjTt8tVEh92XG5wlgIqQZvZDazBMEroCC6RwjBIK9IHi/n508Rudzm+oYjwmpmT2nhjWRIojR86cCBZ6h1pMXxyzTnoD9FWDsa5t+b7hNN/MieMA3YyiYQova5KBqtKdkQuj5rO+kFX05QVH4SCwSRjOrIkPF3Pv6pf2HSOkNDgbnLfbo3PY3G0oxxfl/X8knuBUpptQQPaw4GHpBoFHpaV5hsQl11kT98KwysnTotbszJ9Y7zQnTQv/UXTQVSsmJJPilgpPNsOdd6jUClHQMAJHcRex8FM/nwQ8KEPFNCkTgIInJZkNMDN2f9Po83jH/hm/AP3QxfuoirOKE=;d1QFP8Hp+t8U4EPGYrlOmg=="
+---
+

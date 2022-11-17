@@ -2,6 +2,247 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-14-infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients.md",
+      "title": "Infosys BPM opens AI, automation unit in Poland for global clients",
+      "excerpt": "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/13/full/1649873871-5587.jpg?im=Resize,width=480",
+          "width": 480,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "publishedDateTime": "2022-11-14T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-verefa-v60-pro-the-game-changer-is-coming.md",
+      "title": "VEREFA V60 Pro: The Game Changer is Coming",
+      "excerpt": "Press Release The better auto-emptying robot vacuum is coming. Verefa has debuted its latest model V60 Pro.This press release features multimedia. View the full release here:  Business Wire)Verefa,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
+      "originalUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20221113005166/en/1635558/4/Image_1_V60_Pro.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
+      "publishedDateTime": "2022-11-14T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry.md",
+      "title": "Computer vision and beyond: The future of AI in India’s insurance industry",
+      "excerpt": "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg",
+          "width": 753,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "publishedDateTime": "2022-11-14T00:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-citi-backs-indian-saas-startup-lentra-as-it-plans-to-expand-internationally.md",
+      "title": "Citi backs Indian SaaS startup Lentra as it plans to expand internationally",
+      "excerpt": "Indian SaaS startup Lentra has raised $60 million in a Series B funding round that saw participation from Citi Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "originalUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/keyboard-typing-image-getty.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "publishedDateTime": "2022-11-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-deviantart-launches-ai-art-generator.md",
+      "title": "DeviantArt Launches AI Art Generator",
+      "excerpt": "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/deviantart-launches-ai-art-generator",
+      "originalUrl": "https://www.pcmag.com/news/deviantart-launches-ai-art-generator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06RnNZE6O0FQ1E9Zpcfv8ew-1.fit_lim.size_1200x630.v1668380788.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
       "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
       "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
@@ -955,267 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
-      "title": "Japan to invest up to $500 mln in new advanced chip development company",
-      "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "originalUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-HGRp8TetewRZxXkozlMWTm3HlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPRHXI73MBPX5J54LYWMQ7XQME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone.md",
-      "title": "Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone",
-      "excerpt": "Introduced in August, Stable Diffusion (SD) is an AI image generator model that creates novel images ... When running locally, SD requires a fairly beefy GPU to generate images quickly, but some developers optimized the model to run on older GPUs with ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/sd_phone_hero_4-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "publishedDateTime": "2022-11-10T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone.md",
-      "title": "Qualys CEO: Removing Risk In Cloud’s Continuous Challenge Zone",
-      "excerpt": "Cloud system misconfiguration is happening due to speed at which we are building and harnessing cloud itself - commercial & public organizations are grasping the flexible advantages of cloud at a speed that outpaces their approach to securing the services they themselves are adopting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636bd41bce450e31337fde53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/amp/",
-      "publishedDateTime": "2022-11-10T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset.md",
-      "title": "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset",
-      "excerpt": "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1942241/MediaTek_Pentonic_1000_1022.jpg",
-          "width": 400,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

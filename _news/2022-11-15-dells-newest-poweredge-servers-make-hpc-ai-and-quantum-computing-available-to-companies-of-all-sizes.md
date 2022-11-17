@@ -36,15 +36,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Artificial Intelligence can help companies better serve all shareholders, study recommends"
-    excerpt: "Artificial intelligence can help reduce “short-termism” in companies and help firms better serve all shareholders, a new study recommends. The domination of hedge funds often means the views and priorities of other shareholders - and broader stakeholders - can be ignored by boards of directors."
-    publishedDateTime: 2022-11-14T17:23:00Z
-    webUrl: "https://www.exeter.ac.uk/news/research/title_943270_en.html"
-    type: article
-    provider:
-      name: University of Exeter
-      domain: exeter.ac.uk
-    quality: 7
 
 secured: "qs2ZSljit+e8QTmJncIJTnn3UQBArKhK/Y2jNO9G8e4vCgTaKIU2bKKqrSh0H/zOmE/78gWYZyRcJ1qqSxjftv9lpHE9W71qnK+nrUPdksadwGdHpTkNhvYTrxAYnFDd1hEnuCCnhFy7cCRZuKnsQvnkKx4GyHm8NDcPBSSdlyFF3sc9Lkk7OxJX32fzQ+qvr+eIzYFpw/AcqDpRO1KhygMeW8MmVRItaagH9B+VSF3NQwmNf78T3EN91ijZFxVLX9gSnOTMKuwfZhBQdlFL/QKOhZ51+Fvda4eGK1R8iZJLbK2Y7qr1WBqH5XUfr+BUMKF25Tlby+dYlaVKw+Eigi+Yin3dX6uKFNrBt0jsuMs=;sNmpm8+6BniNXKw4u7Nllw=="
 ---

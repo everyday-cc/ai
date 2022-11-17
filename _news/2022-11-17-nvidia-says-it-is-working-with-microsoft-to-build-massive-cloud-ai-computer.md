@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-16T20:27:00Z
 originalUrl: "https://www.reuters.com/technology/nvidia-says-it-is-working-with-microsoft-build-massive-cloud-ai-computer-2022-11-16/"
 webUrl: "https://www.reuters.com/technology/nvidia-says-it-is-working-with-microsoft-build-massive-cloud-ai-computer-2022-11-16/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://www.reuters.com/resizer/T5ftYrseaMtfZ1YNXckWGXq4dZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4WEDSSQ65LGVM66ZN3DWSXLMI.jpg"
@@ -125,6 +126,20 @@ related:
       - url: "https://cdn.neowin.com/news/images/uploaded/2022/11/1668615981_microsoft_lockheed_martin_logo_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Nvidia and Microsoft team up to build 'most powerful' AI supercomputer"
+    excerpt: "The firms seek to accelerate the training of AI models using Azure's supercomputer infrastructure and Nvidia GPUs"
+    publishedDateTime: 2022-11-17T11:27:00Z
+    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/369532/nvidia-and-microsoft-team-up-to-build-most"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1668681671/itpro/Nvidia-Microsoft-169.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
@@ -299,6 +314,20 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
+    excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
+    publishedDateTime: 2022-11-17T12:15:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-microsoft-partner-to-build-huge-cloud-based-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
     excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
     publishedDateTime: 2022-11-14T17:24:00Z
@@ -397,6 +426,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "XWMJW3fyNQo4FBZIjn8G44Dnq17tvGJbuJaPIuG9/BIK+gfKqQ7Pwn+EOHYAV7/jdge6rokEZz20BHJ3JUHBNNMKkosJXfSI4yx33w4vN/M8OdJb0Dix4SCbOAMPALjggPTx6VwmZ5ssxURLlXawq4LWi9JYKbBb9NaX7B57L0zeLM+INp2bIEYDKrG6bKXE/qpFvFx9Z+nWUKVVy/P6gsUU0Xn9PCdcGGE6qBoIRPNIdjS6oemQVC/pjHFXldxmT1VDFNkcXzXQNIliJ+JitY9F8sFmfyjJkFfHd6W/wOD9AO+OjEdVcfwMZjm8MYx6SaFwlKoJJCKe87dABh3Y8XmAzgpyfp6kxoUwM6Mmb6I=;KQjBeof4yMoIF9/TRF+PPQ=="
+secured: "B+7dFiak9BeKOhFNTpJkTkULgFxf7SncX6GFy2WqISncw9fP9+/CMl6yr9HXzZiDj7G4A1kRDOIUZ0oL6su2PuxZeZvbhWAD8OVkr4LlylD6Ueu7IlfckGvZMWwibGHVnbUMbAYYWWPa1ilNDlToUizrMhvAvyWEuYcJfy8QZbc+rukK2A6FNFETUKnA+7WRlCtb0lDnMvXZ+M60ApFo2ojM017+1y7pi+Zf09mSoy0IiVvrLJ7OZREWioBBt1umazxFRzYy9fCjHzvJwg0y9uayzV6klgdoo0eC4QBi30a1kiLSo9S3S/BK+JfEgzDm0+Vf2/fDIVv3rTd9jRqyNkeNS9pIxYa0+ozIlQgTlkQ81KIbGuZ41OhQ+FTGh0kRrAU1cxm3FdHIshfNDydcG8W5A5xHeKG9gOATz0MBa69/aap5douQjlGsVrcLci9nNkA7kxoHSR/hlPMDydlM+aGWgTeQAVScxF38Gb5T46uKG3mAPhhCkWf8ziIfBGyifc/AP79vwoTY7RD6Q7EAWQ==;qKgG+QhMLsMTG9mXRmagoA=="
 ---
 

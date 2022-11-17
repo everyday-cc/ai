@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-11-companies-artificial-intelligenc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-companies-artificial-intelligence-shareholders.amp"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: techxplore
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence can help companies better serve all shareholders, study recommends"
-    excerpt: "Artificial intelligence can help reduce “short-termism” in companies and help firms better serve all shareholders, a new study recommends. The domination of hedge funds often means the views and priorities of other shareholders - and broader stakeholders - can be ignored by boards of directors."
-    publishedDateTime: 2022-11-14T17:23:00Z
-    webUrl: "https://www.exeter.ac.uk/news/research/title_943270_en.html"
-    type: article
-    provider:
-      name: University of Exeter
-      domain: exeter.ac.uk
-    quality: 7
   - title: "Dell’s newest PowerEdge servers make HPC, AI and quantum computing available to companies of all sizes"
     excerpt: "Dell's newest PowerEdge servers make HPC, AI and quantum computing available to companies of all sizes - SiliconANGLE"
     publishedDateTime: 2022-11-14T19:56:00Z

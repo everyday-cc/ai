@@ -129,11 +129,25 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://www.reuters.com/resizer/T5ftYrseaMtfZ1YNXckWGXq4dZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4WEDSSQ65LGVM66ZN3DWSXLMI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Nvidia and Microsoft team up to build 'most powerful' AI supercomputer"
+    excerpt: "The firms seek to accelerate the training of AI models using Azure's supercomputer infrastructure and Nvidia GPUs"
+    publishedDateTime: 2022-11-17T11:27:00Z
+    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/369532/nvidia-and-microsoft-team-up-to-build-most"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1668681671/itpro/Nvidia-Microsoft-169.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
@@ -294,6 +308,20 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
+    excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
+    publishedDateTime: 2022-11-17T12:15:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-microsoft-partner-to-build-huge-cloud-based-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
     excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
     publishedDateTime: 2022-11-14T17:24:00Z
@@ -392,6 +420,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "MUWd/M9dwyCE9GqabLGrokyBJwCO5KmGBWVV9LUb9WIbLwKgxDV9+1EA4krYfxFqjpcMNNg5ZQ5uqKPc9UkNN2SlpPzEbCvYiVax6w2DWw68pSbKwEdOCQjI8DF0hddl4JYVSgnK76V/ay/jkzBY8Bj3WoyJSl4CUQmM5c+/dDbX+4ndsu+sgON5we831vvSW+QXYfHFKqTGmI/qg8MqrrlUBb4RGu3hAjqle9POhJYJX2S5YU53izupA0KMcVfEpdoYTZDkiOUqOaWDvi9uQ2C5M2CZuOwvgJxSR0TqBulgnqXUjUFSVsesjyt0F+YjNqq9M32Z5igPWi9X7AiiYKC06BVk92G4/hNVsYv7yHk=;K8Xd0NAFP3kM6wZ3bXIxPQ=="
+secured: "rUZCzTAOMe4Fw4C8gNifrfOsywpesp6UHq9YyhCST2g9TaYsTa/hYYiWiubnFT2qSa0TTOI7dNogGiy8cxNFLYZtq1tzqoV8D0+oEUODaxoQNUAuoxtQ4DmRimhrcvEN/5IXKRlMU636TJBXxddQh9yQh1HzUn8ZbGcYcwYRysH8iCUVqkps+Mdqu9lPFqeGDM0ZMiz2lIfzw9/zfPAnChbSwlvKhQERTfZaxWwvfp9zeXJ/3wyxwaVpTHsWvh6cDTN31UDIvbZkGSCdqdjakIA9MqUBbqsJBem1cJapg6N24eS7Qi4tUBlhXkLGWQlcmYOB99OdQ3+eEj0QKt/aVVwIMb8T5UJgzXWuumV7EbNSQabY81JJSW/3EuDNFez4NTs5y3vDwRNQDDd912he8SycvUCRkKI5jRdurSY8fioM1ppftdk63sl+uCrcSXhS5SGfv+tx/TXiu8JGLWHR+bMep2SvTYMyNR9tfLq1KHQi3lN2LmcYlgKrP5Uhwf2NyYw6cEeNHfO1EGmpLM4wiQ==;o0KJjl7Ei1OkpyPvroOYYw=="
 ---
 
