@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29751475"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29751475"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "10 Predictions And A Wishlist From AWS Re:Invent 2022"
-    excerpt: "With the help of the OSS community and the partner ecosystem, Amazon may extend EKS-A to run on other public cloud environments such as Azure and Google Cloud ... databases, machine learning, and analytics to Kubernetes to enable customers to run the ..."
-    publishedDateTime: 2022-11-12T14:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Rackspace Technology, Inc.: Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
     excerpt: "Booth attendees who play Onica by Rackspace Technology's \"Knights of AI\" game will see first-hand how key AWS services interact, including Amazon SageMaker, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS, and Amazon Simple Email ..."
     publishedDateTime: 2022-11-16T16:17:00Z

@@ -35,7 +35,7 @@ related:
     provider:
       name: Perth Now
       domain: perthnow.com.au
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.perthnow.com.au/publication/C-8882639/b2a0f71abbb1507ce8e75546831809e4d4aa6b0a-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200

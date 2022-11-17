@@ -116,17 +116,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
-    publishedDateTime: 2022-11-14T19:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z
@@ -259,6 +248,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Qualdo.ai's data reliability team today announced the availability of Qualdo-DRX in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Qualdo.ai customers can now take advantage of the productive and ..."
+    publishedDateTime: 2022-11-14T20:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "NVIDIA Accelerates Scientific Discovery on Microsoft Azure Cloud and a Variety of Partner Systems"
     excerpt: "NVIDIA announced broad adoption of its next-generation H100 Tensor Core GPUs and Quantum-2 InfiniBand, including new offerings on Microsoft Azure cloud and more than 50 new partner systems for accelerating scientific discovery."
     publishedDateTime: 2022-11-16T17:32:00Z

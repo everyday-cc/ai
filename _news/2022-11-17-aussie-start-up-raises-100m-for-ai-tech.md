@@ -8,7 +8,7 @@ webUrl: "https://www.perthnow.com.au/business/aussie-start-up-raises-100m-for-ai
 ampWebUrl: "https://www.perthnow.com.au/business/aussie-start-up-raises-100m-for-ai-tech-c-8882639.amp"
 cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/aussie-start-up-raises-100m-for-ai-tech-c-8882639.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.perthnow.com.au/publication/C-8882639/b2a0f71abbb1507ce8e75546831809e4d4aa6b0a-16x9-x0y0w1280h720.jpg?imwidth=1200"

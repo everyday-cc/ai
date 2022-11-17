@@ -22,21 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Notion's latest feature is an AI that can write blog posts, to-do lists and more"
-    excerpt: "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,"
-    publishedDateTime: 2022-11-16T20:56:00Z
-    webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
-    ampWebUrl: "https://www.engadget.com/amp/notion-ai-announced-202032305.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html"
+  - title: "Notion AI Wants To Be Your New Writing Assistant"
+    excerpt: "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical"
+    publishedDateTime: 2022-11-17T05:24:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5"
-        width: 1600
-        height: 1000
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6375be983ee8c63117f59b8f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "Explore Why AI Writing Assistant Software Market 2022 Is Thriving Worldwide by 2026?"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Writing Assistant Software Market\" Insights 2022"
+    publishedDateTime: 2022-11-15T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/explore-why-ai-writing-assistant-software-market-2022-is-thriving-worldwide-by-2026-2022-11-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7/mu7SJPdclgVCrJiS16SjtmeG3TW/wQsOpkG1HWpK0FxkeoQKfhZWrAQHFK+TofGEa+rVVOuUsGinTGmkLVvexN/Hzwt7cmaytlfd33wDPjwWgaMcnzQyU5/q5JBjZvLeI8Io2abHwJVSZdek81oEvYJaKLoun/aja4N/TBwkFLJ06CZigq9RTTgzAy+y+zbRocJVFdwWOuVm2O/IYDfzk+57uhrUebN5CnxywKFb2mPCI2lx7FnY4Fz+esbhhfSlmEtfgjLdmKt7nqig57ZCuFiovawqr5ziSZksorykp6igMxW4qrb5STEeeYJFb6WY4TdQZZUrWBSPYCM+cJmh7haym2jvIeERmu0O8JjxKSsmLhF14gIxF7/i3iYX9Knpz6tHjjBqs+93wQZgaAaJRV3L6MfihVXHu6dhZOnCTqIE9vRvWnb20WcYAT9zf+rbVQ6l2QAJFAhebvfTlLgbeWKNbJZ4STWkC5Vzov883ywbY33RVoneAWE5VM61vXaAhGIbDbtGqT35+g9tD9TQ==;CEFG/enwkCDuJEchGye3sA=="

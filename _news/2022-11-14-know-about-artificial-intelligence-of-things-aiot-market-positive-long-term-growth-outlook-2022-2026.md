@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Explore Why AI Writing Assistant Software Market 2022 Is Thriving Worldwide by 2026?"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Writing Assistant Software Market\" Insights 2022"
-    publishedDateTime: 2022-11-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/explore-why-ai-writing-assistant-software-market-2022-is-thriving-worldwide-by-2026-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Discover How Artificial Intelligence (AI) Market 2022-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence (AI) Market\" Insights 2022"
     publishedDateTime: 2022-11-14T03:49:00Z

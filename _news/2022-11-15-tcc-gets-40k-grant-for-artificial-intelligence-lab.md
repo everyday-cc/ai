@@ -8,8 +8,8 @@ webUrl: "https://www.kjrh.com/news/local-news/tcc-gets-40k-grant-for-artificial-
 ampWebUrl: "https://www.kjrh.com/news/local-news/tcc-gets-40k-grant-for-artificial-intelligence-lab?_amp=true"
 cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/tcc-gets-40k-grant-for-artificial-intelligence-lab?_amp=true"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ause/slices/118/7fed36643eb2467f9bc52626aec24432/118a058b233944b89d88d63b9eb62074/poster_d386be2969bb4bcfabf2fdffaf09ae47.jpg"

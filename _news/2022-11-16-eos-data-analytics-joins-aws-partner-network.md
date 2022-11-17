@@ -55,7 +55,21 @@ related:
         width: 1800
         height: 1013
         isCached: true
+  - title: "Mutual fund transfer agency CAMS looks at mainstreaming analytics, AI: Chief Platform Officer Ravi Kethana"
+    excerpt: "Working towards the goal of customer ease, India's largest mutual fund transfer agency Computer Age Management Services Limited (CAMS) is looking at mainstreaming analytics, artificial intelligence and blockchain,"
+    publishedDateTime: 2022-11-17T05:05:00Z
+    webUrl: "https://www.ptinews.com/news/business/459145.html"
+    type: article
+    provider:
+      name: PTI
+      domain: ptinews.com
+    quality: 21
+    images:
+      - url: "http://www.ptinews.com/cms/gall_content/2022/11/2022_11$large_Ravi-Kethana2.jpg"
+        width: 302
+        height: 301
+        isCached: true
 
-secured: "3SJOev+9Ex7E76F+4WmIKiGBQo5PNnd7H/Dmo5cDVRgVsSE10FdSHi0luT9xxlEKMctXJMcG2mF9qOa2xYF8e0iKP2/W54y/XS0Zi7UEdq7p30xrI+f2rzEOsc9jubWtN6cGl8IwsbMCYGrZYXv+yZXLvRbeu9xEnloCHxSgVEmp59R+ar7onOztWhtS81fJErXH2XEOFkoHJFlgJk/gM1D6UhyuH/ubi7oKh0rJpBDlfEpk4JXoAjIf39u7hmVgAmiCmNCEZtYTYoHWhYjlVrDX175YfVS3ewwbffj0qxdQ1ww0pPgDUC5+aXNoK0483ocrurUHAcJ6dXX6AhP2TV73ETDfel9FOAQkMmMmVOY=;59c+06zF5uc7v1knXT6h1A=="
+secured: "VXAa3k1CB42FRnse0t/SCSOPXb6NXoG9MvZ5JZSJlm4MBEEWkC1iTOT6Y/P5wKHOZu9VNLNbi+oIXBGxUZP07cFgwbGyh3n1xaVT0keik/7gosmX5KomQq6/zs8c3cqojD8ZR5wfNcWbZ8ASx4p8jrqmEVTK+k4OkgsR32/EnWY9M/gTQFDKu6wsxu0owMWyWQDHYh/LDY41btyy0dCo69Q2liGl3q0BsNelQO+KEkZzWJKc6LK6dq1onzsdSJZ87gnlS0vyTyjRdd8cTGuwXl1f0wHLc1KaUIGrxrCkcu+SLeBIxYHgzTw0zrXb6+S5WFVUoJK1dcrQak1JXZjttBWr6LQqVgXi12CMh8Stb5ULLUQzDf3MblIZekFMswHr2vjKObMRI8OK4Pf00EzXufqraoslBMfmuMcBHFmxbWQ8JU2VbUfXLD/Fwv7Gnmk50SaIIP/JZxxVyw5vxhuJcnNV/PM5hQ2KJJK/ymx+Fs6QCHOZtenbvRnluAuEkb+7qep+4Yd9OoJNUgepwBc2tg==;VQ6IM1U7Or3Y3MlxYaalXA=="
 ---
 

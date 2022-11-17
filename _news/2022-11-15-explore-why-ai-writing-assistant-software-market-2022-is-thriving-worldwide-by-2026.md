@@ -28,127 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Artificial Intelligence (AI) Market 2022 to Eyewitness Massive Growth by 2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Computer Vision in Artificial Intelligence"
-    publishedDateTime: 2022-11-15T06:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026-2022-11-15"
+  - title: "Notion AI Wants To Be Your New Writing Assistant"
+    excerpt: "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical"
+    publishedDateTime: 2022-11-17T05:24:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6375be983ee8c63117f59b8f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 673
         isCached: true
-  - title: "Know About Artificial Intelligence of Things (AIoT) Market Positive Long-Term Growth Outlook 2022-2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence of Things (AIoT)"
-    publishedDateTime: 2022-11-14T03:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-of-things-aiot-market-positive-long-term-growth-outlook-2022-2026-2022-11-13"
+  - title: "Notion is using AI to automatically write your blog posts, job descriptions, and poetry"
+    excerpt: "Zhao thinks Notion AI can help in both cases. “For many users in this space, it solves the cold start problem. And even more than that, it saves time.” Notion AI won’t write you a publishable blog post, but it can help you skip the crappy first draft ..."
+    publishedDateTime: 2022-11-16T14:28:00Z
+    webUrl: "https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Discover How Artificial Intelligence (AI) Market 2022-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence (AI) Market\" Insights 2022"
-    publishedDateTime: 2022-11-14T03:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-ai-market-2022-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-11-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What's Driving the Self-checkout Systems Market Growth 2022-2026?"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Self-checkout Systems Market\" Insights 2022 |"
-    publishedDateTime: 2022-11-15T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/whats-driving-the-self-checkout-systems-market-growth-2022-2026-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Software"
-    publishedDateTime: 2022-11-14T03:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Platform Market Survey Report 2022 Along with Statistics, Forecasts till 2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Platform Market\""
-    publishedDateTime: 2022-11-15T06:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-survey-report-2022-along-with-statistics-forecasts-till-2026-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In RegTech Market by Type and by Application-Global Opportunities and Industry Analysis, Forecast, 2023-2029"
-    excerpt: "Nov 15, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 114 Pages Report\" Global"
-    publishedDateTime: 2022-11-15T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-by-type-and-by-application-global-opportunities-and-industry-analysis-forecast-2023-2029-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence as a Service Market 2022-2026 Is Booming Worldwide With Comprehensive Study Explores Huge Revenue Scope In Future"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence as a Service Market\""
-    publishedDateTime: 2022-11-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2022-2026-is-booming-worldwide-with-comprehensive-study-explores-huge-revenue-scope-in-future-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At 42.4% CAGR, Artificial Intelligence in Healthcare Market to Witness Huge Growth by 2029"
-    excerpt: "Use of artificial intelligence and robotics in diagnosing and treating pharmacological disorders is estimated to drive the Artificial Intelligence (AI) in healthcare market growth. Use of virtual assistant can help in transform delivery of care for improving patient care and help in tracking patient health."
-    publishedDateTime: 2022-11-14T06:32:00Z
-    webUrl: "https://www.medgadget.com/2022/11/at-42-4-cagr-artificial-intelligence-in-healthcare-market-to-witness-huge-growth-by-2029.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 26
+      name: The Verge
+      domain: theverge.com
+    quality: 39
 
 secured: "DuZxBlBHLhm4yVbgZ6UxB3uomZbMbUbC+7BAbghPuGLVqKB6vj8odbLExc7Z4gT57jEjQFx2ouK65DpoNFCr4RIqGDpaxNdO2+QYcmt7T/5my0cqNx6n0WNMkvtsNba8Vwxx683/LNzT51/wbQhvrnUPD6FHrm4A+EL5OGPfCZYbyDKH+7h+/sJsWLQ7xZGAjqXEo9JBHotU2tx7WpvEaM2MpwYIg8S1pElTOt+adjhzdyM66fvNjP/1znke8ofQ3z9kbkUMNDuHA0630UqaxyXdji4Ym2LAwfNe4AtuOOARoIE7XJlPeNdfKF8AxTabPVTiLLs5jMNHFM71T/NGS7byr+o8cK1FQk1rMLpjQW4=;h0PrrOWKlMQKMmU9lTcopg=="
 ---

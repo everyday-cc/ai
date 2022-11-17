@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "10 Predictions And A Wishlist From AWS Re:Invent 2022"
-    excerpt: "With the help of the OSS community and the partner ecosystem, Amazon may extend EKS-A to run on other public cloud environments such as Azure and Google Cloud ... databases, machine learning, and analytics to Kubernetes to enable customers to run the ..."
-    publishedDateTime: 2022-11-12T14:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
     excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent"
     publishedDateTime: 2022-11-16T16:13:00Z

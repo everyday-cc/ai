@@ -197,6 +197,59 @@
       ]
     },
     {
+      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
+      "title": "Dear Artists: Do Not Fear AI Image Generators",
+      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
+          "width": 1396,
+          "height": 1524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "publishedDateTime": "2022-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-if-youre-a-facebook-user-youre-also-a-research-subject.md",
       "title": "If you're a Facebook user, you're also a research subject",
       "excerpt": "According to its public database of published research, Facebook's written more than 180 public papers about artificial intelligence but just one study about elections, based on an experiment ...",
@@ -1357,49 +1410,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-facebook-parent-meta-unveils-ai-video-generator-make-a-video.md",
-      "title": "Facebook parent Meta unveils AI video generator Make-a-Video",
-      "excerpt": "8 (UPI) --Meta, the parent company of Facebook, has unveiled a new ... RELATED Tesla unveils 'Optimus' robot prototype at AI Day event \"Make-A-Video research builds on the recent progress made ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
-      "originalUrl": "https://www.upi.com/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/7411665284314/2022/1/16652843608717/v1.5/Facebook-parent-Meta-unveils-AI-video-generator-Make-a-Video.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
-      "publishedDateTime": "2022-10-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

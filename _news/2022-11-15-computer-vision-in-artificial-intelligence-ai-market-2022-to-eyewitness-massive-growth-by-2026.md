@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artif
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026-2022-11-15"
 type: article
 quality: 86
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Explore Why AI Writing Assistant Software Market 2022 Is Thriving Worldwide by 2026?"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Writing Assistant Software Market\" Insights 2022"
-    publishedDateTime: 2022-11-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/explore-why-ai-writing-assistant-software-market-2022-is-thriving-worldwide-by-2026-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

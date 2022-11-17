@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/notion-ai-announced-202032305.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 1000
     isCached: true
 
-related:
-  - title: "Notion is using AI to automatically write your blog posts, job descriptions, and poetry"
-    excerpt: "Zhao thinks Notion AI can help in both cases. “For many users in this space, it solves the cold start problem. And even more than that, it saves time.” Notion AI won’t write you a publishable blog post, but it can help you skip the crappy first draft ..."
-    publishedDateTime: 2022-11-16T14:28:00Z
-    webUrl: "https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 39
-
-secured: "L/JqUjgHExQrlf8n/z2vH41vLSdTvSM7h6NJ7pHhaGWkm4kpMQzm4xBLeMzOPRv/6MOajTArC3nT6HtHMzmp5GoYCFRys4YVY3ExQPhsluZ3EiR+9n1/eml6nFCTqvSVnCN3A/NnI8dS2SjY3YFSt9Ul48Zdba1iYzwalIv8vFL2HUhhxKaxyfnI04tA5vrqq8iclnggX6BVRnjjtm2Y5faCU7FIbsUT5Ywh/4R2qQD0525AYBfkzX9W2AjSb/93tNWdBYZwQ+1rbL/rHIKSqMzjZVUu57yhZefSHqw8tQWIbzUE4qOCH6KOhlGFjIK7qAw/jEXmthfNPn4PNFhnvlWht21oYJCxVcMxgKJmziY=;82FWy4ThGu3Cz3I15wcjUw=="
+secured: "E/FgiEj4H3bMGnhu0ClZKa1HS5+VofuhVMqsvG1/pCYDgWafRtauP7Si6u3GXSYF2KsFbEyAi2ambR0Y51Jl2PUBGdPvr/hHYWz1wEfDeadcXdrHKUbb+3MebxO9rtvMAdLJ1WcIsNtuEB0GwOT1hgLev3pvbAadcdlqEu5GghFzuIZvkj1M7ifQCAvYPDIHFqoqFe+S3g2hMM/M3QEVY5YtsqKINrLbkFzslBT/5m8MRZUoVcR1i/LvKxvRD5DCZmPaIMTHJdwD2qerJ4Erfxyg67vvWTnY1SwUfnFPjpaKlMYdalpZqpBB/IZFNh+Mk0842rrRFHGW8BaJwqHqYjTiAYhrpDef4zoRv6+Z9b9/WQ5y+xtqDvIwxaYe8qXqce47AIdDwm/F1Ao3dB69WZK5MKy/N4J+wK4GX2cAG4JySNPcYQ13H7dYCGzosaIqHRVgpWvcdsprBy9m3o62yZtimfxkCMaLOkjBIWvINsNxq+5927uJawUt7mo7dErARcxwHt6jUCg/ng5uSKhrAQ==;wSlwu3C/wJGADvIQe51rZA=="
 ---
 
