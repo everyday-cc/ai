@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T18:42:00Z
 originalUrl: "https://medicalxpress.com/news/2022-11-flexible-ai-chips-wearable-health.html"
 webUrl: "https://medicalxpress.com/news/2022-11-flexible-ai-chips-wearable-health.html"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Medical Xpress

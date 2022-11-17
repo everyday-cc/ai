@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:08:00Z
 originalUrl: "https://menafn.com/1105200184/Mouser-Gives-A-Closer-Look-At-Autonomous-Mobile-Robots-In-New-Installment-Of-Empowering-Innovation-Together"
 webUrl: "https://menafn.com/1105200184/Mouser-Gives-A-Closer-Look-At-Autonomous-Mobile-Robots-In-New-Installment-Of-Empowering-Innovation-Together"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Mena FN

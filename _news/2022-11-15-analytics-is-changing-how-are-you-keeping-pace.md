@@ -51,7 +51,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
         width: 400

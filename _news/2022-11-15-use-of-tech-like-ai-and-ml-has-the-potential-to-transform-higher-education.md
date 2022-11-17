@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-an
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169-amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "HR Digital Transformation and the Rise of AI in the Corporate World"
+    excerpt: "In 2020, it launched StedY.io, an AI-based tool for automating the engineer recruitment process, bearing in mind that StedY itself employs engineers. IBM Watson offers useful personality analysis tools in the form of its Personality Insights and Tone ..."
+    publishedDateTime: 2022-11-17T21:06:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/the-evolution-of-hrm-and-artificial-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/HR_Digital_Transformation_and_the_Rise_of_AI_in_the_Corporate_World.png"
+        width: 1920
+        height: 1003
+        isCached: true
   - title: "AI Voice Replication Is Transforming Star Wars And Other Media"
     excerpt: "AI voice replication is restoring James Earl Jones' voice for Star Wars projects. Here’s how the technology actually works."
     publishedDateTime: 2022-11-16T14:00:00Z

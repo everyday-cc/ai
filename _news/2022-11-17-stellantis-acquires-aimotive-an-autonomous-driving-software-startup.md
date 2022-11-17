@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stellantis Acquires Autonomous Driving Software Startup aiMotive"
+    excerpt: "Stellantis, the parent company of the Jeep and Chrysler brands, is acquiring autonomous driving software startup aiMotive as the automaker looks to expand the autonomous driving and connectivity capabilities of its future vehicles."
+    publishedDateTime: 2022-11-17T17:40:00Z
+    webUrl: "https://www.futurecar.com/5605/Stellantis-Acquires-Autonomous-Driving-Software-Startup-aiMotive"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 19
   - title: "Stellantis Accelerates Autonomous Driving Journey with Acquisition of aiMotive, a Leading Artificial Intelligence and Autonomous Driving Start-up"
     excerpt: "Stellantis N.V. and aiMotive, a leading developer of advanced artificial intelligence and autonomous driving software, today announced that they have entered into an agreement for Stellantis to acquire aiMotive."
     publishedDateTime: 2022-11-17T12:55:00Z

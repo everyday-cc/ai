@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-18-qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform.md",
+      "title": "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform",
+      "excerpt": "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1179422887.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
+      "publishedDateTime": "2022-11-17T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-nvidia-blames-crypto-crash-for-sagging-gpu-sales-but-the-data-center-is-booming.md",
       "title": "NVIDIA Blames Crypto Crash For Sagging GPU Sales But The Data Center Is Booming",
       "excerpt": "The data center is NVIDIA's biggest earner, having brought in more than double what its gaming division did last quarter.",
@@ -54,7 +107,7 @@
       "originalUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -202,7 +255,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 451,
+      "heat": 471,
       "tags": null,
       "images": [
         {
@@ -279,112 +332,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile.md",
-      "title": "Qualcomm Snapdragon 8 Gen 2 Delivers More AI For Mobile",
-      "excerpt": "Day 1 of the Snapdragon Tech Summit kicked off with the introduction of the latest smartphone system-on-chip (SoC) for smartphones – the Snapdragon 8 Gen 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6374aa9e9444d36ccde85854/0x0.jpg?format=jpg&width=1200",
-          "width": 663,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/",
-      "publishedDateTime": "2022-11-16T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-qualcomms-next-top-tier-android-chip-adds-ray-tracing-wi-fi-7-connectivity.md",
-      "title": "Qualcomm's Next Top-Tier Android Chip Adds Ray Tracing, Wi-Fi 7 Connectivity",
-      "excerpt": "Qualcomm's top-tier chips power the priciest Android phones that compete with ... phones with the new chipset will offer improved AI that can, for example, more accurately spotlight you against your blurred Zoom background. Qualcomm also promises more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/bc10e675dd6ea165f365e7121f39896a88e56f23/hub/2022/11/14/0505a75b-5ae0-4b93-a8d8-3f1ca6ad1bd7/qualcomm-snapdragon-8-gen-2.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
-      "publishedDateTime": "2022-11-15T16:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1477,6 +1424,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
+      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
+      "excerpt": "SiMa.ai CEO Krishna Rangasayee poses for a picture with his machine learning system used for processing video and images for security cameras, satellite images, drones, industrial robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
+      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

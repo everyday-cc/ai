@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:33:00Z
 originalUrl: "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/"
 webUrl: "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: TechCrunch

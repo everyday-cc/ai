@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:20:00Z
 originalUrl: "https://awfulannouncing.com/radio/pat-mcafee-vikings-radio-paul-allen.html"
 webUrl: "https://awfulannouncing.com/radio/pat-mcafee-vikings-radio-paul-allen.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Awful Announcing

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-
 webUrl: "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Chip Startup Astera Labs Rockets To Over $3B Valuation After Funding Round"
+    excerpt: "“Astera Labs continues to surpass every milestone for a technology start-up, and we are now deep into the next stage ... new CXL industry standards to enable “mainstreaming” of AI and ML (machine learning) in the cloud, the company said."
+    publishedDateTime: 2022-11-17T18:29:00Z
+    webUrl: "https://www.crn.com/news/computing/scrappy-chip-startup-astera-labs-rockets-to-over-3b-valuation-after-funding-round"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
   - title: "Santa Clara data center chip startup Astera Labs scores $150M, triples valuation"
     excerpt: "CEO Jitendra Mohandra said the funding and new valuation \"validates that we are in the right markets for AI/machine learning, cloud and hyperscale infrastructure that are continuing to grow.\" The Series D round was led by Fidelity Management & Research and ..."
     publishedDateTime: 2022-11-17T14:58:00Z

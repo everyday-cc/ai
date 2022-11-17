@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:31:41Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-mlops-features-of-amazon-sagemaker-to-scale-energy-optimization-across-their-ammonia-plants/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-mlops-features-of-amazon-sagemaker-to-scale-energy-optimization-across-their-ammonia-plants/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: AWS

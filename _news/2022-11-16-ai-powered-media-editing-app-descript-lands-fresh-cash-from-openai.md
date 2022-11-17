@@ -38,6 +38,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Expert.ai Recognizes Natural Language Apps That Encourage Positive Change"
+    excerpt: "Developers were challenged with creating an app that created positive change by embedding natural language processing, word meaning disambiguation and sentiment analysis leveraging expert.ai's 'smart from the start' Knowledge Models in three domains ..."
+    publishedDateTime: 2022-11-17T20:05:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/17/9715906.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "aVrSoc6j7Lx7Bl35USov8l03ugPlzpwF0gr4Oepem2JXvEcvQm7b6V6UmRqQ6VvtSWj62IVA7gGtRQkExrL2YQELaPg/OkkCn2CN1XSdwoXDXQnPBVP6mZlx4NgbRvtV3Zd20PBy5v0bP3m8Yd1QdyP13V1aRQf4Ag11YnVj8CEnUcCgGGbP9oMjsBZhlSM7qS7x5eP658o8abYK0buMjmskUMwlVdtClOdRjxuWCJj/Bq1vgkKYCtuSC+jKwmRXzUmt3j8x2usdc1+tP/7+JStxtOXrIVr41falBTGB3iv19FWQFJ10M9s6mMNkIiFsHF/GulQfDKIONznOSqF8T36W0acYQQgA/egJY2iYAyYd6X7KD9SUhY6yxpZ2xs8SGCkKCRiR8cEMrnXL+oPj8XYjNCTIPzjN+vckf69+4qjtGwpC54kWFJze5Nh/pJ7LodrVvCCGwq7yYkF33gHmDldejkulTg4SqT30ye+1lt0s/MyBcHTZSXxyVTwpLTGXwSvD4z2iJD2BdXcznyHQbQ==;fomCzYZZYl5/6ah1kjZ37Q=="
 ---

@@ -28,6 +28,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Chip Startup Astera Labs Rockets To Over $3B Valuation After Funding Round"
+    excerpt: "“Astera Labs continues to surpass every milestone for a technology start-up, and we are now deep into the next stage ... new CXL industry standards to enable “mainstreaming” of AI and ML (machine learning) in the cloud, the company said."
+    publishedDateTime: 2022-11-17T18:29:00Z
+    webUrl: "https://www.crn.com/news/computing/scrappy-chip-startup-astera-labs-rockets-to-over-3b-valuation-after-funding-round"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
 
 secured: "vExugoUsyzz6IoqyvexKNDHImIhYjhJn1y0aQbF8ypZrLkIMT6hHKKgiPRJk14V6ReYAMdurnWoDhpZKHvRBAQ1tXWQAxZGALs33g7wrS1h37gADiHRjib4JE5UI162UDkx8gafrgta2kg1LXpDDj0GHks5TwEoxLfTqDCwk6lt9jtvB0MMJSV8muOapoWBR4wus7mtVVpO1eBFOPFtrmg6bAAKPsn7luYpi5EbqK1VwmSyAisUaOSpVaZy/5X82/rrtHHuavrgeq63R2Uskr4lp7/T9CTmhbt8RNt9G2kp+eJWAw59uH51Y/oZUMged7A6o5AdcOxz4Kcwmcax2xhyXLEzK5wyy8Z8S7p248oFuMi/oPFnt4WKhJbbeW5qkLOE5pry5spgyY1nqL5IAJWhVScQ7XrRv0ArqZxulVJDKUmfF8ZXhT1KVAoxGRjcMjkAogVx1/oMoNPIwsl1+pTxpBaxfCbxsp+il7vAJg6zlxykRJQkVm7La5dRjEwgwrKmilcvye0kH1joQvCjrBg==;B8IFTFyOEy192429x+ybpQ=="
 ---

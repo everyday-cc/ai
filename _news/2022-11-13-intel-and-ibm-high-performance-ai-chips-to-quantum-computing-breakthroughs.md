@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://static.digit.in/default/1033f8fa57d2814cd34b4ee6eb797dbee7d8a068.jpeg"

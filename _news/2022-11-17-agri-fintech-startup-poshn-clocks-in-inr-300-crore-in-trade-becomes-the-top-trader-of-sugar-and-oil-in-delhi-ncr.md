@@ -41,6 +41,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Agri-Fintech Startup Poshn Clocks in Rs 300 Crore in Trade; Becomes the Top Trader of Sugar and Oil in Delhi NCR"
+    excerpt: "Poshn is addressing the challenges faced by hundreds and thousands of food processing units and more than two million wholesale buyers. The platform adds a layer of trust by bringing in transparent pricing,"
+    publishedDateTime: 2022-11-17T20:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221117/4004654.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "RZgBzwZEPaWELYtkA5MDxfI60ksNCCNd0QRdd/vfWJJ2XDA5KHR9qKlA/6wGnuPlhfpGN/JDwt8DLtdfqLQ+3JgTAkyz0qIwJykeGL1PD5QCoQXXh8MTlcilO57no8xZRB6WpGBc9P+8YD2hy+mVe2A4raDRAhD6x1qUlEBrPT9gLW8Xryu7zMlFhQNFOYyKtSl3+m0WSBRMH+XsHF7Uvla4Pu4h6cEJfuwAJdrotYy+T4LqCmiPSRiyzjq0FBsaHaBK9JPlfeabi8PCWf3Kdgx5SaCEKoBpSovsnNpr/bMHheIxZcPqfLUE66rIfEnd2LwXoaAfpTpuWrjWSAew97E8eDQubXfRXGrgrvc0d+Y=;rbtSoXSScXQXIMLYPf97dQ=="
 ---

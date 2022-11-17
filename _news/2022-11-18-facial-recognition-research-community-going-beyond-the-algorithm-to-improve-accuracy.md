@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:51:00Z
 originalUrl: "https://www.biometricupdate.com/202211/facial-recognition-research-community-going-beyond-the-algorithm-to-improve-accuracy"
 webUrl: "https://www.biometricupdate.com/202211/facial-recognition-research-community-going-beyond-the-algorithm-to-improve-accuracy"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Biometric Companies
@@ -15,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "xTWEwokOEYLL3DEgRdbrYPjLeCRKKulIWLP4Iow8CEKs4/emXbhngb+d1Q47rVXw3cM7cGDaU1cpW1+RoiPuL+CNqw36oua9SxFWUHtiSSM0KfJ9iUspp6ZKwKqQQoXXPOaUYS3NmCrrw6CiwRYmxgn8QcGdTRFlqfEi94k70+4me4BH5XnGQXpk0JbDkSAF8Os/kmKrwAcq/0WoJIs8wrTwZOFdommyz39rP6OL2Fkasqq444mbqvjmn/fYTAtgQffktK/dP75HpuwL0fLMRAVyXWI9u4/L/l805UfPYWrEtqxXAk2jMW9bmjM9pDyyMDiwsGabcty0RpX9nSNRIYMYaleFnAokdWwdyyeO4dg=;IsqHnKay5GvpMf+XmRIWrQ=="
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+    width: 2048
+    height: 1333
+    isCached: true
+
+secured: "FRcy9ff1u09RW5PevKLFKvXs2PANdl119uMALtAl7nTHpUn/h/OOPfgM7N0UT5s9qMHgl+Y5HpSr7mIHVx4IDvU68ZkCqEEMmMGtERaPEpX9xdD/cHSpS3Z3Q+TR27/pwZ4zktylI2Q1muUxPpq9osinhJcaf4bTpjDwIV1z/Gr6Bl2nj+QFqeT8Y3i5S4qiI2kdhCbCJejb2mvfXT9zvWcM7YtHwM4Yr8d5jxnou3RbVIaM6ZNasUOF5T6zWPg5UX6olxx1VSXTNYOFJ+U8pSpHBQ3Lbuq3Upzv/wF6geRGyC2dhgZZ5Yjg7sjGz1n3Pe7R1OIXdh06+4N6uRwBDsUwbJpVwsIEGgn2s1EaMAI=;CqCVD9G+PzEHsyzrfJ+pRQ=="
 ---
 

@@ -26,6 +26,17 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "University at Albany Adds 27 Professors Who Specialize in AI"
+    excerpt: "Those programs could include math and design, AI computing, educational research and ethics. AI is \"radically changing the world around us,\" said UlAbany Provost Carol Kim, saying that the college must prepare students \"to help them understand how AI ..."
+    publishedDateTime: 2022-11-17T18:49:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/university-at-albany-adds-27-professors-who-specialize-in-ai"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
+
 secured: "vLPxVlZdVNVWup3u441DIIi4+BAdUVmU10iNY2OV7u6ary9L4lMXenKeSd865rO5rpyHlUwmuSqbs3/hIcvYxCWQRzYViem0gnBUWL/K6dCumqODVvg7rVmmS4mruxPP9TCdbEsneC7wS9q1sIPI9O1pNQJCuP/xcRuJmFZoyTGSymhMV7sMKnud3zNej0y9ctCo5lQcX8jVJHh6Y7cramoQXSzzS944sLj8idHRvknM7bql3hpWkPzXiZDlni7MdIrY+eme29rbm9dqEmKZArFVolXXKMJ8RMAJcMpR3eRvc6gRbCYpIvBCEjdrYIIOrlAQf3yIbefoQuLy2G9BOLZwMYUN2l4AbhC55facR6m3dmjwZm2sztsgBaqVI29q6ROpmG3E9R041Nagaeek+ZeYS6aPBLU+ym6+2uvDXQ5snr0kGU3OQ+zPdJJpBR/1ImxvgWtnImDOW1dZdoCYXIugRc6fDBSJWcCaL8u4Sh0P2I481ARS8uvdh+hWka5Pa3uOgHhVjgFsbxzoWwfmoA==;IkesBg5H02drfUskNqSf/g=="
 ---
 

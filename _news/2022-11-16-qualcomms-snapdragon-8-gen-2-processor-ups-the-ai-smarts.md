@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform"
+    excerpt: "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ..."
+    publishedDateTime: 2022-11-17T20:01:00Z
+    webUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/"
+    ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1179422887.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 2 Delivers More AI For Mobile"
     excerpt: "Day 1 of the Snapdragon Tech Summit kicked off with the introduction of the latest smartphone system-on-chip (SoC) for smartphones – the Snapdragon 8 Gen 2."
     publishedDateTime: 2022-11-16T08:41:00Z
@@ -59,6 +75,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6373edc7b96ca2bed221ad47/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 505
+        isCached: true
+  - title: "Qualcomm's Next Top-Tier Android Chip Adds Ray Tracing, Wi-Fi 7 Connectivity"
+    excerpt: "Qualcomm's top-tier chips power the priciest Android phones that compete with ... phones with the new chipset will offer improved AI that can, for example, more accurately spotlight you against your blurred Zoom background. Qualcomm also promises more ..."
+    publishedDateTime: 2022-11-16T00:29:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/resize/bc10e675dd6ea165f365e7121f39896a88e56f23/hub/2022/11/14/0505a75b-5ae0-4b93-a8d8-3f1ca6ad1bd7/qualcomm-snapdragon-8-gen-2.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Qualcomm's New AR Chips Point to a New Generation of Smart Glasses"
     excerpt: "Glasses using the AR2 Gen 1 may be a lot faster at using cameras for scanning and depth sensing: Qualcomm is promising faster AI for things like object recognition and hand tracking than even the XR2 chip found on headsets such as the Quest 2, but using ..."
@@ -184,19 +216,33 @@ related:
         width: 1280
         height: 761
         isCached: true
-  - title: "AI is at the center of Qualcomm’s ‘one technology roadmap’"
-    excerpt: "In the context of Qualcomm's plan to leverage mobile tech to grow share in adjacent segments, AI has a key role to play."
-    publishedDateTime: 2022-11-16T04:10:00Z
-    webUrl: "https://www.rcrwireless.com/20221115/chips/ai-is-at-the-center-of-qualcomms-one-technology-roadmap"
+  - title: "Qualco adds conversational AI from Webio to debt collection platform"
+    excerpt: "QUALCO, an international fintech solutions provider, has partnered with customer engagement specialists, Webio to add conversational AI to their existing collections and recoveries software offering."
+    publishedDateTime: 2022-11-15T11:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94901/qualco-adds-conversational-ai-from-webio-to-debt-collection-platform"
     type: article
     provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
+      name: Finextra
+      domain: finextra.com
     quality: 39
     images:
-      - url: "https://390088.smushcdn.com/432460/wp-content/uploads/2022/11/IMG_4463-1068x580.jpg?lossy=1&strip=1&webp=1"
-        width: 1068
-        height: 580
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "QUALCO adds Webio’s conversational AI to debt collection platform"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-11-15T12:44:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/qualco-adds-webios-conversational-ai-to-debt-collection-platform/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/QUALCO.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "AI may dominate mobile SoC competition between Qualcomm and MediaTek"
     excerpt: "suggesting that AI computing capability will be crucial for mobile chips to go beyond limitations of existing functions... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and ..."
@@ -225,20 +271,6 @@ related:
       - url: "https://liliputing.com/wp-content/uploads/2022/11/snapdragon-8-gen-2_01.jpg"
         width: 1280
         height: 762
-        isCached: true
-  - title: "Qualcomm Snapdragon 8 Gen2: 40% faster CPU, 25% faster GPU, 8K 60FPS, Wi-Fi 7"
-    excerpt: "On the GPU side of things, Qualcomm promises up to 25% more performance ... the new Snapdragon 8 Gen2 SoC has dedicated AI processing on the chip that is called \"cognitive ISP\". What this will do in reality, is apply features including facial recognition ..."
-    publishedDateTime: 2022-11-16T04:34:00Z
-    webUrl: "https://www.tweaktown.com/news/89534/qualcomm-snapdragon-8-gen2-40-faster-cpu-25-gpu-8k-60fps-wi-fi-7/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
-    images:
-      - url: "https://static.tweaktown.com/news/8/9/89534_03_qualcomm-snapdragon-8-gen2-40-faster-cpu-25-gpu-8k-60fps-wi-fi-7.png"
-        width: 620
-        height: 348
         isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 2 SoC announced with AI capabilities: Here's what's new"
     excerpt: "Powered by the most advanced Qualcomm AI Engine, Snapdragon 8 Gen 2 is the world's most advanced 5G platform, and is tuned to support new image sensors from giants like Sony and Samsung. \"Snapdragon 8 Gen 2 will revolutionise the landscape of flagship smartphones in 2023,"

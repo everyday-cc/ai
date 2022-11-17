@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-17T18:03:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 

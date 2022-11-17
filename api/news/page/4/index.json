@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-15-how-will-ai-and-5g-power-the-next-wave-of-innovation.md",
+      "title": "How Will AI And 5G Power the Next Wave Of Innovation?",
+      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. Artificial intelligence (AI) continues to permeate every sphere of our society and deliver new and improved experiences. It could be said that AI will transform every ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668409539-Myproject-1135.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy.md",
+      "title": "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy",
+      "excerpt": "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/11/14/business/tesla-self-driving-flaws-promo/tesla-self-driving-flaws-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-can-the-armys-robotics-programs-build-ai-the-silicon-valley-way.md",
       "title": "Can the Army’s robotics programs build AI the Silicon Valley way?",
       "excerpt": "DIU has brokered a potentially groundbreaking contract between the Army’s Robotic Combat Vehicle program and a small California firm that trains AI algorithms to navigate off-road.",
@@ -231,49 +334,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
-      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
-      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
-      "publishedDateTime": "2022-11-14T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1155,52 +1215,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
-      "title": "Artificial intelligence goes vegan",
-      "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "publishedDateTime": "2022-11-11T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AWS AI",
-        "AI in Healthcare"
       ]
     }
   ],

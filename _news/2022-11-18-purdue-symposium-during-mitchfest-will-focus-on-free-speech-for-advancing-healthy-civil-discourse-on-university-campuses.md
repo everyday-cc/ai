@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:04:00Z
 originalUrl: "https://www.purdue.edu/newsroom/releases/2022/Q4/purdue-symposium-during-mitchfest-will-focus-on-free-speech-for-advancing-healthy-civil-discourse-on-university-campuses.html"
 webUrl: "https://www.purdue.edu/newsroom/releases/2022/Q4/purdue-symposium-during-mitchfest-will-focus-on-free-speech-for-advancing-healthy-civil-discourse-on-university-campuses.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Purdue University

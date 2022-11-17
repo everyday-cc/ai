@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-11-16-qualcomms-next-top-tier-android-chip-adds-ray-tracing-wi-fi-7-connectivity.md",
-      "title": "Qualcomm's Next Top-Tier Android Chip Adds Ray Tracing, Wi-Fi 7 Connectivity",
-      "excerpt": "Qualcomm's top-tier chips power the priciest Android phones that compete with ... phones with the new chipset will offer improved AI that can, for example, more accurately spotlight you against your blurred Zoom background. Qualcomm also promises more ...",
+      "path": "_news/2022-11-16-artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure.md",
+      "title": "Artificial Intelligence Enhanced Smartwatch ECG to Detect Heart Failure",
+      "excerpt": "Smartwatch ECG can effectively detect heart failure in nonclinical environment, revealed a new study in Nature Medicine.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/bc10e675dd6ea165f365e7121f39896a88e56f23/hub/2022/11/14/0505a75b-5ae0-4b93-a8d8-3f1ca6ad1bd7/qualcomm-snapdragon-8-gen-2.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg",
+          "width": 300,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-next-premium-android-chip-adds-ray-tracing-and-wi-fi-7-connectivity/",
-      "publishedDateTime": "2022-11-15T16:29:00-08:00",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
+      "publishedDateTime": "2022-11-15T20:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-israels-ourcrowd-to-launch-ai-business-in-uae.md",
+      "title": "Israel’s OurCrowd to Launch AI Business in U.A.E.",
+      "excerpt": "The venture-capital firm is partnering with Abu Dhabi entity to invest $60 million to expand its operations in the Arab country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
+      "originalUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-667365/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +92,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -113,7 +155,7 @@
       "originalUrl": "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -759,7 +801,7 @@
       "originalUrl": "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -951,6 +993,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-new-speech-recognition-tech-set-to-transcribe-mouthed-words-using-facial-movements.md",
+      "title": "New speech recognition tech set to transcribe mouthed words using facial movements",
+      "excerpt": "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "originalUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2022/nov/Twitter-we_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "publishedDateTime": "2022-11-15T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
       "title": "Prehistoric predator? Artificial intelligence says no",
       "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
@@ -1139,109 +1225,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-how-will-ai-and-5g-power-the-next-wave-of-innovation.md",
-      "title": "How Will AI And 5G Power the Next Wave Of Innovation?",
-      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. Artificial intelligence (AI) continues to permeate every sphere of our society and deliver new and improved experiences. It could be said that AI will transform every ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668409539-Myproject-1135.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy.md",
-      "title": "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy",
-      "excerpt": "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
-      "originalUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/11/14/business/tesla-self-driving-flaws-promo/tesla-self-driving-flaws-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

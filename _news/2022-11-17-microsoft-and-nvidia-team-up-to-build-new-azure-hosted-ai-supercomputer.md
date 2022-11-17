@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-bu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/"
 type: article
 quality: 121
-heat: 451
+heat: 471
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
     quality: 85
     images:
       - url: "https://www.reuters.com/resizer/T5ftYrseaMtfZ1YNXckWGXq4dZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4WEDSSQ65LGVM66ZN3DWSXLMI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Nvidia and Microsoft team up to build ‘massive’ AI supercomputer"
+    excerpt: "Nvidia has announced a “multi-year collaboration” with Microsoft to build “one of the most powerful AI supercomputers in the world,” designed to handle the huge computing workloads needed to train and scale AI. The collaboration will see Nvidia ..."
+    publishedDateTime: 2022-11-17T15:44:00Z
+    webUrl: "https://www.theverge.com/2022/11/17/23464001/nvidia-microsoft-ai-supercomputer-announcement"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/2aF5ZzkRINDNvP8NgKASlsyrIAM=/0x0:3200x2300/1200x628/filters:focal(1600x1150:1601x1151)/cdn.vox-cdn.com/uploads/chorus_asset/file/24205193/Microsoft_Nvidia_Supercomputer.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -435,6 +449,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2022/01/PNY-InsideHPC-Guide-EGX-platform-Covor-image.png"
         width: 1753
         height: 2280
+        isCached: true
+  - title: "Microsoft, Lockheed Form New Cloud Collaboration Pact"
+    excerpt: "In the early spring, Lockheed announced a pact with Microsoft to explore how the Azure cloud offering can be applied in into the former's \"5G.MIL\" network architecture vision. Classified cloud, artificial intelligence and machine learning, 5G and digital ..."
+    publishedDateTime: 2022-11-17T22:00:00Z
+    webUrl: "https://www.nextgov.com/cxo-briefing/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379880/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/17/Cloud_Computing_IOT-1/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Microsoft’s new Supply Chain Platform combines data and AI to help fix logistics and inventory problems"
     excerpt: "Microsoft's new Supply Chain Platform combines data and AI to help fix logistics and inventory problems - SiliconANGLE"

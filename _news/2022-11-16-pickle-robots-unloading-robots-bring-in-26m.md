@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/pickle-robots-unloading-robots-brin
 webUrl: "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Soft Robotics Secures $26M in First Close of Series C Funding"
+    excerpt: "Led by CEO Jeff Beck, and COO Mark Chiappetta, Soft Robotics is an industry technology company that designs and builds automated, high-speed picking solutions using proprietary soft robotic grippers, 3D machine vision, and artificial intelligence."
+    publishedDateTime: 2022-11-17T21:39:00Z
+    webUrl: "https://www.finsmes.com/2022/11/soft-robotics-secures-26m-in-first-close-of-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 54
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/11/Soft-Robotics.jpeg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Massachusetts startup lands $26 million backing for trailer-unloading robot"
     excerpt: "Pickle Robot Co. says its technology addresses one of logistics’ most labor-intensive, physically demanding, and highest turnover jobs."
     publishedDateTime: 2022-11-15T18:55:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.eagletribune.com/region/amp-robotics-establishes-new-h
 webUrl: "https://www.eagletribune.com/region/amp-robotics-establishes-new-headquarters-in-louisville/article_f926f37b-8502-570b-8002-a1c364e8d945.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: Eagle-Tribune
@@ -39,6 +39,24 @@ related:
         width: 3000
         height: 1612
         isCached: true
+  - title: "Amp Robotics opens new headquarters"
+    excerpt: "Amp Robotics Corp., a developer of artificial intelligence (AI), robotics and infrastructure for the recycling industry, has opened its new corporate headquarters in Louisville, Colorado. The new location unites the staff from the company’s previous offices in Louisville and Broomfield,"
+    publishedDateTime: 2022-11-16T00:00:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-opens-new-headquarters/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 34
+  - title: "AMP Robotics opens 84,000-square-foot headquarters in Louisville (Photos)"
+    excerpt: "The company's recycling technology uses artificial intelligence to identify and sort materials and is already operating in the United States, Asia and Europe."
+    publishedDateTime: 2022-11-17T20:16:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/11/17/amp-robotics-headquarters-louisville.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "qm2M0xyl3x5EPC3fzC9Qd1EGGgxhEu1ErnaaykuJbFoTEfW6O/1E59JNwh8DlK1Y+hfYiQ644t0xr1Q+gy5gXjr0mOo1J3groEuFZnsjQ+La+PFTgXQXP2ghvhpbUgIkM9az/SooX0in/HdYciKh9CLD9LvxOmDrV4B0DTKnrxwX2ZI8w2Gr+4sF0MmrIGSAUOQx2GEI70gUQ13HgtIppHWmO8RfscfqHeLx4ZwCf+cEGGaCnUKr+YPV8C4OEzKdXMk2IdGo7wwUj4uFbh4hmA/aui5cNKyXg73h9jzAFcpMQ0WnArogYuWVdmpzUnproDLOPuNMvuK3ujgYfIZLXJGeS6NNNydWd23e9sFQm+3nDlB4gQdWBI6UKKALgN6WFkHigx5rKAhJzpBZvGAgJrjo+fkioioOpJ7/sXFgirPxZJkYlm2Ttrc6oEw/5hT2WLsDS5yh7Sd94KwaCK2eaGx57YALydt/eUY2qqf4vDQPMutvffxo9xT5DlX2jitIHZSHox53cbs927HzNhGoVw==;jv8IkZPZeuyABm6crkxqrA=="
 ---

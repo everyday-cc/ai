@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-18-qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform.md",
+      "title": "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform",
+      "excerpt": "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1179422887.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
+      "publishedDateTime": "2022-11-17T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
       "title": "Artificial intelligence-aided colonoscopy does not increase cancer detection",
       "excerpt": "Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November issue of The American Journal of Gastroenterology .",
@@ -104,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -143,7 +196,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -198,7 +252,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -501,7 +555,7 @@
       "originalUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1169,58 +1223,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-notion-ai-wants-to-be-your-new-writing-assistant.md",
-      "title": "Notion AI Wants To Be Your New Writing Assistant",
-      "excerpt": "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6375be983ee8c63117f59b8f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
-      "publishedDateTime": "2022-11-16T21:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

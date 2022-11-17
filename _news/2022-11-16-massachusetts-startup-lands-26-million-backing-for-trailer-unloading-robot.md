@@ -33,6 +33,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Soft Robotics Secures $26M in First Close of Series C Funding"
+    excerpt: "Led by CEO Jeff Beck, and COO Mark Chiappetta, Soft Robotics is an industry technology company that designs and builds automated, high-speed picking solutions using proprietary soft robotic grippers, 3D machine vision, and artificial intelligence."
+    publishedDateTime: 2022-11-17T21:39:00Z
+    webUrl: "https://www.finsmes.com/2022/11/soft-robotics-secures-26m-in-first-close-of-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 54
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/11/Soft-Robotics.jpeg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "D2mNncfW6MGJL9AYx2UoNlGRF78IVpEi4WUJncVq5KxgBu6HFJxFVBfW+5rXdtonXz++tZeGd1pVNIh5vZnIPQFWhHwxqt2wM66QTVStjauBwlwWJyuFJOyhQt82IvAsqCSjhfvvcfzYxiRo5LK7BTMo0D3kO1GqylCQSCDmPG/I05YMQsUoci312S7F+Zo1JSZYFaJsZnePtKUpyYnSbZBWY4L6lKrIzS7EU8zs7BScYbYH6kiZMuxmK9TPeYfVCT1fj/xBL/jnCehanzwAn+KFYz2XrS+3IvItU4swydWvTiyp1lW5iTVwl5/U7SPYxc4T1mv5dtVg/rfYeVY1eKWe4vMx8BxPH1KEb2lYKt50ZTexA1Iun/Znj6fA9AK1Wl7PtB4AeP7y2qzQJnp70BxIA1RTcXAyRg7ZqafvlnR4ENr3WZnC4D/Ln1jDTlQ2ZiAxyY/2aOVqKiA2QPyYGoqiTuXz/KfxeRwE0Giih9vXH0noi15FWEqUZhghbcYNeZ2SwIoCwWfT1XAZy/nDwQ==;johpYsNn92Efx6Efy9APkg=="
 ---

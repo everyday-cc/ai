@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:27:00Z
 originalUrl: "https://www.mytotalretail.com/video/total-retail-tech/ai-expert-simplifies-how-to-use-it-to-extract-value-from-big-data/"
 webUrl: "https://www.mytotalretail.com/video/total-retail-tech/ai-expert-simplifies-how-to-use-it-to-extract-value-from-big-data/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Total Retail

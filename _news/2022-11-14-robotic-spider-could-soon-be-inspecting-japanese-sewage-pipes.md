@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T00:01:00Z
 originalUrl: "https://newatlas.com/robotics/tmsuk-spd1-sewer-inspecting-robotic-spider"
 webUrl: "https://newatlas.com/robotics/tmsuk-spd1-sewer-inspecting-robotic-spider"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: New Atlas

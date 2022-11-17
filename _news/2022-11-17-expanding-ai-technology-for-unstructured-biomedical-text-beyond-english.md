@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T10:00:16Z
 originalUrl: "https://azure.microsoft.com/blog/expanding-ai-technology-for-unstructured-text-beyond-english/"
 webUrl: "https://azure.microsoft.com/blog/expanding-ai-technology-for-unstructured-text-beyond-english/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft

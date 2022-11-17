@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:57:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/septa-board-approves-zeroeyes-artificial-intelligence-gun-detection-pilot-program-1031923492"
 webUrl: "https://markets.businessinsider.com/news/stocks/septa-board-approves-zeroeyes-artificial-intelligence-gun-detection-pilot-program-1031923492"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Business Insider

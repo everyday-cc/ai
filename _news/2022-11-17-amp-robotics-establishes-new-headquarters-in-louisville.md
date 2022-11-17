@@ -39,6 +39,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amp Robotics opens new headquarters"
+    excerpt: "Amp Robotics Corp., a developer of artificial intelligence (AI), robotics and infrastructure for the recycling industry, has opened its new corporate headquarters in Louisville, Colorado. The new location unites the staff from the company’s previous offices in Louisville and Broomfield,"
+    publishedDateTime: 2022-11-16T00:00:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-opens-new-headquarters/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 34
+  - title: "AMP Robotics opens 84,000-square-foot headquarters in Louisville (Photos)"
+    excerpt: "The company's recycling technology uses artificial intelligence to identify and sort materials and is already operating in the United States, Asia and Europe."
+    publishedDateTime: 2022-11-17T20:16:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/11/17/amp-robotics-headquarters-louisville.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "W8ja5SSQNenNaNJuGWoD5h+Sl5stVrY7bXgeyowEbWV3LL1SMivVDwX01INi6EdY9sUvPqbSw7h8ZmRkwFUXpeAFtGt+OUrI+VrVfdjdDXncfPOhcvsdQNdcsECt/ZRzQDs64MLPlkajEfQU4C2LmpDHm7+kUsJEGYC/F+4Z30a6rMyHm95xnXADQ+m1zvnquvBtN2T0k/UuxNQL18Ca2EFvjIe9KSPa36GYXvKoshA8JkLDpALTjx48VNnvP1qtBCdLLVT0ieZuZVNCro9nFpCAu6zBrCzhjU69HniF0b/bJ6kRxcdnaHQSbkHB2Y70EnzQWYqhLuN45qW4ETJZgH5DozL01zS4VZc/PYlNt9E=;uyOHXNvGiOEZ9YfEGuVksg=="
 ---

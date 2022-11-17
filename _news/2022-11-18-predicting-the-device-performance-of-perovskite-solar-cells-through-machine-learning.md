@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T19:03:00Z
 originalUrl: "https://techxplore.com/news/2022-11-device-perovskite-solar-cells-machine.html"
 webUrl: "https://techxplore.com/news/2022-11-device-perovskite-solar-cells-machine.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: techxplore

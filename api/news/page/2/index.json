@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-17-notion-ai-wants-to-be-your-new-writing-assistant.md",
+      "title": "Notion AI Wants To Be Your New Writing Assistant",
+      "excerpt": "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6375be983ee8c63117f59b8f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
+      "publishedDateTime": "2022-11-16T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-tusimple-co-founder-takes-control-of-self-driving-trucking-company.md",
       "title": "TuSimple Co-Founder Takes Control of Self-Driving Trucking Company",
       "excerpt": "U.S. government regulators are investigating whether the self-driving trucking company TuSimple defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. WSJ tech reporter Heather Somerville joins ...",
@@ -503,7 +555,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 451,
+      "heat": 471,
       "tags": null,
       "images": [
         {
@@ -694,6 +746,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-worrying-loophole-in-italys-facial-recognition-ban-points-to-the-eus-future.md",
+      "title": "Worrying loophole in Italy’s facial recognition ban points to the EU’s future",
+      "excerpt": "Italy has introduced a new facial recognition ban, but it features a glaring exemption that is set to echo across the EU. “The moratorium stems from the need to regulate eligibility requirements, conditions, and guarantees relating to facial recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
+      "originalUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2FUntitled-design-1-1.jpg&signature=cf49e9e1a46730c9aa7ab700afd7781f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-feeding-the-world-by-ai-machine-learning-and-the-cloud.md",
       "title": "Feeding the world by AI, machine learning and the cloud",
       "excerpt": "Although farmers have invaluable knowledge of their own crops and fields, says Jung, AI and machine learning tools can be instrumental in cataloging greater detail, refining algorithms, and creating recommendations for solutions. As more data is collected ...",
@@ -828,6 +932,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-amp-robotics-establishes-new-headquarters-in-louisville.md",
+      "title": "AMP Robotics establishes new headquarters in Louisville",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has opened its new corporate headquarters in Louisville. Located at 1875 Taylor Avenue, the office unites staff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/amp-robotics-establishes-new-headquarters-in-louisville/article_f926f37b-8502-570b-8002-a1c364e8d945.html",
+      "originalUrl": "https://www.eagletribune.com/region/amp-robotics-establishes-new-headquarters-in-louisville/article_f926f37b-8502-570b-8002-a1c364e8d945.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/c/8d/c8d70ece-7a7a-5718-8f2e-b6f795c6a854/6374fffd09af5.image.jpg?crop=1640%2C861%2C0%2C42&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1030,60 +1177,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-16-qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile.md",
-      "title": "Qualcomm Snapdragon 8 Gen 2 Delivers More AI For Mobile",
-      "excerpt": "Day 1 of the Snapdragon Tech Summit kicked off with the introduction of the latest smartphone system-on-chip (SoC) for smartphones – the Snapdragon 8 Gen 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6374aa9e9444d36ccde85854/0x0.jpg?format=jpg&width=1200",
-          "width": 663,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/",
-      "publishedDateTime": "2022-11-16T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-11-16-netherlands-coalition-aims-to-demystify-artificial-intelligence.md",
       "title": "Netherlands coalition aims to demystify artificial intelligence",
       "excerpt": "Dutch citizens need to learn about the impact of artificial intelligence on society and their lives, says the Netherlands AI Coalition.",
@@ -1114,100 +1207,6 @@
         "name": "Computer Weekly",
         "domain": "computerweekly.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure.md",
-      "title": "Artificial Intelligence Enhanced Smartwatch ECG to Detect Heart Failure",
-      "excerpt": "Smartwatch ECG can effectively detect heart failure in nonclinical environment, revealed a new study in Nature Medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "publishedDateTime": "2022-11-15T20:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-israels-ourcrowd-to-launch-ai-business-in-uae.md",
-      "title": "Israel’s OurCrowd to Launch AI Business in U.A.E.",
-      "excerpt": "The venture-capital firm is partnering with Abu Dhabi entity to invest $60 million to expand its operations in the Arab country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
-      "originalUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-667365/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
