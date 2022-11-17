@@ -25,12 +25,14 @@ related:
   - title: "Notion's latest feature is an AI that can write blog posts, to-do lists and more"
     excerpt: "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,"
     publishedDateTime: 2022-11-16T20:56:00Z
-    webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html?src=rss"
+    webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
+    ampWebUrl: "https://www.engadget.com/amp/notion-ai-announced-202032305.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 62
+    quality: 82
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5"
         width: 1600

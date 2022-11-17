@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "EOS Data Analytics Joins AWS Partner Network"
+    excerpt: "EOS Data Analytics (EOSDA), a global provider of artificial intelligence (AI)-powered satellite imagery analytics, has joined the Amazon Web Services (AWS) Partner Network (APN), a community of AWS Partners that leverages programs,"
+    publishedDateTime: 2022-11-16T13:17:00Z
+    webUrl: "https://channelvisionmag.com/eos-data-analytics-joins-aws-partner/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 39
+    images:
+      - url: "https://channelvisionmag.com/wp-content/uploads/2022/03/cv_display_ad4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Webinar: deploying analytics at scale in financial services"
     excerpt: "Speakers from AWS and Teradata will come together to speak about the challenges of deploying analytics across organisations within financial services"
     publishedDateTime: 2022-11-14T16:52:00Z

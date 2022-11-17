@@ -3,11 +3,13 @@ category: news
 title: "Notion's latest feature is an AI that can write blog posts, to-do lists and more"
 excerpt: "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,"
 publishedDateTime: 2022-11-16T20:56:00Z
-originalUrl: "https://www.engadget.com/notion-ai-announced-202032305.html?src=rss"
-webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html?src=rss"
+originalUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
+webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
+ampWebUrl: "https://www.engadget.com/amp/notion-ai-announced-202032305.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html"
 type: article
-quality: 62
-heat: 72
+quality: 82
+heat: 92
 published: true
 
 provider:
@@ -38,6 +40,6 @@ related:
       domain: theverge.com
     quality: 39
 
-secured: "qpphb8z8pDRvR5yefe2mPzDZuAxrFPDSYIo+PqVo3DIk+erXPuUhB3/N6x6JOH/eoahO2bGMziNI/+8T5Luv9h0SjkvtZzrtOtD4kQtoPR2H2v+0WBaRGVmuTTJh9TJNBR07nPHYauGssXI1rRo3kfOJmwSFSSdRMMvoQjo1h9lpCkuhSbbXfw2FWOh0xg24niEkz+KT+TFLqzu2iERIykmiziiSoJnV8/lGvkv0H6Hn+mFGx1Rv8opQYB25VM7eFNQhtNkjWKD1MaqNuJ66bQvj00Xjy3rcdJkKZjmnDNa5g4B5tbFTQXh0fnfpz21DfpN5+JzP81k7yfwq0RyuxT4o6y5pmCbEgV3U7f34VuY=;w1DKy7MDlemuAQoLyGn+SQ=="
+secured: "L/JqUjgHExQrlf8n/z2vH41vLSdTvSM7h6NJ7pHhaGWkm4kpMQzm4xBLeMzOPRv/6MOajTArC3nT6HtHMzmp5GoYCFRys4YVY3ExQPhsluZ3EiR+9n1/eml6nFCTqvSVnCN3A/NnI8dS2SjY3YFSt9Ul48Zdba1iYzwalIv8vFL2HUhhxKaxyfnI04tA5vrqq8iclnggX6BVRnjjtm2Y5faCU7FIbsUT5Ywh/4R2qQD0525AYBfkzX9W2AjSb/93tNWdBYZwQ+1rbL/rHIKSqMzjZVUu57yhZefSHqw8tQWIbzUE4qOCH6KOhlGFjIK7qAw/jEXmthfNPn4PNFhnvlWht21oYJCxVcMxgKJmziY=;82FWy4ThGu3Cz3I15wcjUw=="
 ---
 
