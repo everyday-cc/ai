@@ -1,0 +1,24 @@
+---
+category: news
+title: "Astera Labs raises $150M for chips that deliver AI in the cloud"
+excerpt: "Watch now. Astera Labs provides chips for connecting AI systems in the cloud, and today it has raised $150 million at a $3.15 billion valuation. It makes sure AI processor are fed enough data. In addition to closing the fourth round of funding, Santa Clara ..."
+publishedDateTime: 2022-11-17T14:04:00Z
+originalUrl: "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/"
+webUrl: "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/"
+type: article
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+secured: "lMgg8fjkTO1COuu5JaQ1NGayEDII6kJ/p9TxCsoaLoSqi9qWHk/1rVrqNsMOFpCv6+u+NigzVFZVqMSBMyKHNzWpi/8kihTpyWj1R3h69Z0fAnVrkdvrR1hjqUFDd38D2X9TUbqHDnUwWNHFRVdgaVrzllXoPUkr/tcIXQfGOblh588exXMzQIZQnkmlvAEo/ngDpAVdDTBx/lQAUMNjxK9YGMIgGc59C7nRoLkfdz34EDhkZwXZpQV10edSEhS/d8zjmoi47soA1zeKdu38D2upD/b/Sd9Rafh0YhJ7TMwT3ACcOWWMIy0tsIzFPP/nw4cDfogM6oBvinbYj1QJ3dsbpP3/Hsj9xpaZowR/ZuVtlQ/0FMH4XVVVH9RUk+KW26l5hnHxtTrmxn3rfGk7YCr3cdNOSHrazSxDWj7l6GP/NO9H2o6g6lwI1QFH1Y4dx+YkIp6rS5gEel5X2+2popJKsTKhNX9ylxa0k0hoozpn1E91gNIJ4k+rY4dsb3nIwNg1N5J2rUJRF0OTfss1ZA==;keYP6beWMoCaXmpvtKsZ5A=="
+---
+

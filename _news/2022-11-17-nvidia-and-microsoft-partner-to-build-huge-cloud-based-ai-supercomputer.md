@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
@@ -420,6 +421,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "xXkMt+qI9Ppuzg9qs4BOVU/xCKhr+dgj0JbB+QZtRwBBySkBC4O7tRUC2Z72EUWFo4+49cl8lROR86eF9fjf2OZ7v0LbtgWM01+X3UvGbeI5bd8TSb/iAa7S7TugIbiaIQPoEFhUP6NuRnjPuKvS2py7NgYSUPrk4XdhI9/fXH+MGIg3GLIC+r6akXLaO3TR0V9Abul4/oUbNHkHdqTXR2S6tKWGv58dhM4ywW0WXlFrNrsMGo/tMcoi7DwJ1cpSIoTtDNXuE3W9SU8X9X6JyhzGYn49EOUrZ4vbqxmkQM+QWw/6pjlfbjILTKcAl36YUKjnaX1tGDUbbc8Auqhey++uzP42jTGF5W4bAO1yJcg=;j3Dn79JY7Ak+3OcPARg7iQ=="
+secured: "HqP6vBVt7eEjEWS24c1RQiN8ZIVYDi/v2IPkb+WKHYqXRv016QrV62oG24jMsRiUjiM4L+HuWEzQIHpIq0YRu95DS7/bFOiUPk8i3fUeWyIpogOG/fDe/VKgVfMRoe3EB01xFzPqsLbchqHvDevygoCrpmHXkaw+ebnM3UfAxmK3OWdnMbBo0s6aLF7tTmO42fC5gGZZWkGIlk88li6ndSvpEGgX0yqKIMfOBEVL0fSPCBbPM61YizyEgX8+z2BqWtpXFNqo9UL/Dw96CL97f5Qopte5XXqIi5iWejTQ+vJHIJMXpYSFpzV2RvqjRVHwhaTs8I6gYxcojE2B5us/HnSF2pYO0+iLABjPkKvJzqQBOPwUz5mtnAplzDK0wjr49AAgzyzkVKR0K8xtIecp5pLaH82miClIvIlg9QjW94Ee2pjl1uEHtRcD4mH4eDBeSjdyDUqlEGRThgID4m+/SIj7nsvQC2rBEEM47ZcsFMJr/oCS/FVmvwrgMV1gUmlox3M2A7C/sEMaMOuWYGWqPw==;fi40F0Ed9ksj7a7gJUOVug=="
 ---
 
