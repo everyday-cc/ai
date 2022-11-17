@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/augmented-reality-coupled-with-art
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.insider.com/6357e2cffc29ff001a5f474f?width=1200&format=jpeg"
         width: 1116
         height: 558
+        isCached: true
+  - title: "Vulcan Coalition helps people with disabilities train for AI jobs"
+    excerpt: "The company earned a USD 25,000 grant and rewards aimed at further supporting the project’s development, including mentoring and support for an AI for Good grant application and fast-tracked listing on the Microsoft Azure Marketplace. “Without ..."
+    publishedDateTime: 2022-11-17T12:35:00Z
+    webUrl: "https://news.microsoft.com/apac/features/vulcan-coalition-ai-jobs/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/11/vulcan-coalition-ai-punnaphoj-aeuepalisa_1920x1080-2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Dnb0XRSxR6GwnMO/SC/69tKbc01KqwMUQs4jG27dN1+i7lm2tZv7x3riYemoRhjx1kKlSsVdyfZehbk9WQ6ciZ5oRseOmeXhsfgoP/BIwyMGAUcjO0j1yZTgqPM3TRuDoaEDuWfulH40hS/zy8962Ba5K9GNx2op1P9gLankWZclaLWmBmXwiSQG7h0MqYMVN6YwL2INSpVRm9acW/RxyY3zkrfg4Lybty5p2j5HwXeT8DfG4dctAsf09pyKmpkJTlXNobIa0pNiLTwh/Mz+kNFfCChoEAjjEqTl2RdGEm9I9eRDi/q0uWhuoiZHR08C+RbMq2SQOfv4Q7YUYPK5XYTY/v5yojBVu5aPuwgv6GA=;MAF1PHyz+TWzb71bZUrPlg=="

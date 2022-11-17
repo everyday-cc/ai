@@ -56,6 +56,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 80
+  - title: "Large-scale feature engineering with sensitive data protection using AWS Glue interactive sessions and Amazon SageMaker Studio"
+    excerpt: "Organizations are using machine learning (ML) and AI services to enhance customer experience, reduce operational cost, and unlock new possibilities to improve business outcomes. Data underpins ML and AI use cases and is a strategic asset to an organization. As data is growing at an exponential rate,"
+    publishedDateTime: 2022-11-17T16:35:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-feature-engineering-with-sensitive-data-protection-using-aws-glue-interactive-sessions-and-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 76
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/large-scale-feature-engineering-glue-sagemaker.jpg"
+        width: 1550
+        height: 775
+        isCached: true
   - title: "Detect multicollinearity, target leakage, and feature correlation with Amazon SageMaker Data Wrangler"
     excerpt: "In machine learning (ML), data quality has direct impact on model quality. This is why data scientists and data engineers spend significant amount of time perfecting training datasets. Nevertheless, no dataset is perfect—there are trade-offs to the preprocessing techniques such as oversampling, normalization,"
     publishedDateTime: 2022-11-15T17:29:11Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T12:59:00Z
 originalUrl: "https://hub.jhu.edu/2022/11/17/artificial-intelligence-healthy-personalized-diets/"
 webUrl: "https://hub.jhu.edu/2022/11/17/artificial-intelligence-healthy-personalized-diets/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: HUB

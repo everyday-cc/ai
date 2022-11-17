@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
         width: 424
         height: 283
-        isCached: true
-  - title: "AI Can Make Crypto Safer for Everyone"
-    excerpt: "Artificial intelligence can make cryptocurrencies easier to use without the need for intermediaries that people may not trust."
-    publishedDateTime: 2022-11-16T10:07:00Z
-    webUrl: "https://www.washingtonpost.com/business/ai-can-make-crypto-safer-for-everyone/2022/11/16/f97573e4-65bb-11ed-b08c-3ce222607059_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7DRP4GTFXMI63MEMHTRCEYDQLE.jpg&w=1440"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "GB3lbZ9CV/GYLP78JXoCZj4xrcEaGE/UR/OAPegGR5ryjp+Lla6BIV0Fz9XfALdPSIlnj1PKceBkbK1bDgBgPrcYVmIQEidoN8jsuTjaN5hsKTmNCH1+LnGulxQj54oPqa255DyUWxm6G37yKlmD//NjHposdsFuA1kW36L6IVyXCSsFVumZoZFldQGD94IA/Nfqxyx4uZ2EdAm6gzTbrpegPGmV2RaQT1g/PMlnIM9gDUoPb8v0eoa1YWDTDgk91tTz2HzN5P5a7sa+hgWJWE5nfk+Hv3FH+mbCdRmUUEHvE+8+ZTEPF+SVPY/uEtUq/qey8+BDN7ncAVwt+cF8uRH4mjbwIKA0WY96nbtY5VdsX6u+6Z62XL3f/lbDpFDhJknwOsetWlFi5tRr7TXR87/clGcnZvpP7ybdftuYFUdXRf17N6H4joQe7XfgKqSeDrJNO6sgN+i0GOrPzWm96UQqxkpe+LYfEsc+JWnmQtVvWxL1W10Pi5A0uad5bQGvJKyK/ydbXwoKnp/PaxjpsA==;KEQM3P6G/c66ZehzCP3exQ=="

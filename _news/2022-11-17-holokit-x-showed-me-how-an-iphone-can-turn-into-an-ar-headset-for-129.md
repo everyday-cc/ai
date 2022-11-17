@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T13:07:00Z
 originalUrl: "https://www.cnet.com/tech/mobile/holokit-x-showed-me-how-an-iphone-can-turn-into-an-ar-headset-for-129/"
 webUrl: "https://www.cnet.com/tech/mobile/holokit-x-showed-me-how-an-iphone-can-turn-into-an-ar-headset-for-129/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: CNET

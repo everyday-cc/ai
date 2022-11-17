@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T14:25:00Z
 originalUrl: "https://venturebeat.com/business/celential-ai-appoints-wendi-zhang-as-vp-of-business-development-and-operations-to-lead-strategic-growth-and-help-close-the-tech-talent-gap/"
 webUrl: "https://venturebeat.com/business/celential-ai-appoints-wendi-zhang-as-vp-of-business-development-and-operations-to-lead-strategic-growth-and-help-close-the-tech-talent-gap/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: VentureBeat

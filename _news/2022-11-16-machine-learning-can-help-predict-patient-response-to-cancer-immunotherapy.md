@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-11-machine-patient-response-canc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Machine learning can help predict patient response to cancer immunotherapy"
+    excerpt: "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades. Now, researchers at the Johns Hopkins Kimmel Comprehensive Cancer Center and its Bloomberg~Kimmel Institute for Cancer Immunotherapy are one step closer to solving that problem."
+    publishedDateTime: 2022-11-17T12:59:00Z
+    webUrl: "https://hub.jhu.edu/2022/11/17/machine-learning-algorithm-predicts-immunotherapy-success/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 17
 
 secured: "nHHeH9xQRxuWy4TOX7j+GtkDAOuESVMkqg6rw3WEATXUW+SpX/jnyTnJ6Wof45rNM1ZH140wYA8dHx8oVaBTyeg1Nc27DDkVaCvvvHhzcGmDSbu83OQBoNTSUlw/ge9dZMqAUL5emXHzCtdzwMrfnJzIR0eh7ZdoBOnkry5Gy5CurOt92EM79irPpRz3pDHVHLXBMtsMQKE3AUzTZmBL5pew6xKV7yRmbnUgB3dZG0FxCMO6IbB7jbtDZUzOnYT0SA8G7t4yApFPGfCOu2S4GwrclMmCHmT0+VfSXPs3bZVpN5R57Ao6I6wY9W4E91tVtUeahWz0riPwUkJIapOAzIfgJBJo1SXQn8cFhW2zSuRa1iLJJX2Ss1ejckIjxxll9gnDm9DUa/tgOOkM1x3eWtWGpYQyhiTU50aq77lr0m52H635lX9V+jnNFFspJwKUfA6daDhjm0ZDqOjfzniMv0AsZYLAjoeZHj8zbjPF6ybAansJFgoTJpi07koRvp5MpkWn8DLE83F6meypzs+qkg==;ZXaM1cRfj1gD/Hwb15/QEQ=="
 ---

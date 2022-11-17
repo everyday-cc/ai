@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/what-mid-market-companies-should-know-about-three-common-ai-myths/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/what-mid-market-companies-should-know-about-three-common-ai-myths/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 671
         isCached: true
-  - title: "Introducing The AI-Augmented Enterprise Worker"
-    excerpt: "Similar advances have occurred in IT service management and workflow, where AI can improve services exponentially by improving customer service and helping technicians better diagnose issues. Businesses that start thinking today about how AI might augment ..."
-    publishedDateTime: 2022-11-16T14:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/16/introducing-the-ai-augmented-enterprise-worker/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "We Should Avoid The ‘Turing Trap’ With AI And Continue Making Humans Indispensable"
     excerpt: "When considering AI and the workplace, it's tempting to look at automation first of all. New research argues that this is the wrong approach and means we miss out on long-term benefits from the technology."
     publishedDateTime: 2022-11-14T13:01:00Z

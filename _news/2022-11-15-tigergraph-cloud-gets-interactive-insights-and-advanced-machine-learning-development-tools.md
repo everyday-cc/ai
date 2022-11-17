@@ -67,6 +67,20 @@ related:
         width: 1024
         height: 477
         isCached: true
+  - title: "TigerGraph Develops New Analytics and ML Tools for TigerGraph Cloud"
+    excerpt: "TigerGraph, provider of an advanced analytics and ML platform for connected data, is unveiling updates to TigerGraph Cloud, the native parallel graph database-as-a-service: TigerGraph Insights and ML Workbench."
+    publishedDateTime: 2022-11-17T16:24:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraph-Develops-New-Analytics-and-ML-Tools-for-TigerGraph-Cloud-155993.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 41
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "G/dfknDKgKGcZD/dOQYkpe5FXo2eskOciWcu4RueycUIs4YxLAUOFbfHhUcWlfXxONP68PQvF71/49XA47qKLaNayqk0LsGXASH/7eirR+Torce3KMDpWlyafO/ZfH4iRDLTIB868cB/3tq3mawKyzow+YI7cWAh+rSUg1rKzNEE+VoFDl4mZILKknfPJSiEONY320b+KJetf2BPLm9LZ3W/yPffwC6MvKJ8gpuKV1rsf1Xuphjh1yvq4DIom3jEoiC/JvWxpXokH2O77Z2vC4pjJHT6VaDaoX8xQH8wgRa4kTZVkExUlzlQQ1UdTzfcmsyiq0Aw/+sucEEhPuqMhBObG7zfG0vazEMeBegKnkHVtCxOWjIDQ/k3XS27Q9Z6cS1bI3qOx+6Slwm9KwL2GKtmwhKK89+3U7FAqXqK0C9vVqMKdm1pmC7iE6mqqjSmN5MvEb7sZYaiDqn/OaIo8efSDLerQqYZRm7dTOO2CFUJvcYITtdIaO888ItRKUdtOvLspBWFALCYg8uWjbECDw==;VItw8rsFB5zn7sh9r7UlQw=="
 ---

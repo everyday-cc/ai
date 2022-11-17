@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-17T12:15:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-microsoft-partner-to-build-huge-cloud-based-ai-supercomputer/"
 webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-microsoft-partner-to-build-huge-cloud-based-ai-supercomputer/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -149,6 +149,36 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1668681671/itpro/Nvidia-Microsoft-169.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "Nvidia Is Building an AI Supercomputer With Microsoft"
+    excerpt: "Nvidia and Microsoft are teaming up to build \"one of the most powerful AI supercomputers in the world.\" Microsoft is set to provide the infrastructure using Azure, and Nvidia will of course provide the performance through its data center GPUs,"
+    publishedDateTime: 2022-11-17T15:16:00Z
+    webUrl: "https://au.pcmag.com/news/97369/nvidia-is-building-an-ai-supercomputer-with-microsoft"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-is-/nvidia-is-building-an-ai-supercomputer-with-microsoft_tqsk.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia to collaborate with Microsoft for ‘massive’ AI supercomputer"
+    excerpt: "A “multi-year collaboration” between Nvidia and Microsoft is underway to create “one of the most powerful AI supercomputers in the world,” which will be able to manage the enormous processing workloads required to train and scale AI."
+    publishedDateTime: 2022-11-17T16:44:00Z
+    webUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/"
+    ampWebUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 74
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/11/ANI-20221117155021.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
@@ -420,6 +450,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Nvidia, Microsoft team up to build one of most powerful AI supercomputers"
+    excerpt: "Nvidia has announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world. \"AI technology advances as well as industry adoption are accelerating."
+    publishedDateTime: 2022-11-17T14:18:00Z
+    webUrl: "https://www.business-standard.com/article/technology/nvidia-microsoft-team-up-to-build-one-of-most-powerful-ai-supercomputers-122111701023_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 33
 
 secured: "HqP6vBVt7eEjEWS24c1RQiN8ZIVYDi/v2IPkb+WKHYqXRv016QrV62oG24jMsRiUjiM4L+HuWEzQIHpIq0YRu95DS7/bFOiUPk8i3fUeWyIpogOG/fDe/VKgVfMRoe3EB01xFzPqsLbchqHvDevygoCrpmHXkaw+ebnM3UfAxmK3OWdnMbBo0s6aLF7tTmO42fC5gGZZWkGIlk88li6ndSvpEGgX0yqKIMfOBEVL0fSPCBbPM61YizyEgX8+z2BqWtpXFNqo9UL/Dw96CL97f5Qopte5XXqIi5iWejTQ+vJHIJMXpYSFpzV2RvqjRVHwhaTs8I6gYxcojE2B5us/HnSF2pYO0+iLABjPkKvJzqQBOPwUz5mtnAplzDK0wjr49AAgzyzkVKR0K8xtIecp5pLaH82miClIvIlg9QjW94Ee2pjl1uEHtRcD4mH4eDBeSjdyDUqlEGRThgID4m+/SIj7nsvQC2rBEEM47ZcsFMJr/oCS/FVmvwrgMV1gUmlox3M2A7C/sEMaMOuWYGWqPw==;fi40F0Ed9ksj7a7gJUOVug=="
 ---

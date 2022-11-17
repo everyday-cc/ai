@@ -3,8 +3,8 @@ category: news
 title: "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company"
 excerpt: "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate"
 publishedDateTime: 2022-11-17T00:31:00Z
-originalUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26"
-webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26"
+originalUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=mw_latestnews"
+webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=mw_latestnews"
 type: article
 quality: 44
 heat: -1
@@ -67,6 +67,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "DQjwATBw5v6tkgvz7ID0mX+NjEDGjF9CJKwq8/l7RQkguL7zclB8WDvscFd1otX6nqWqAtMHvdEoVTrtnuiLH6BHuM9VRSS4P5SU1H7cgCyD4i/qppApCr0rxqcfRbYdn5ZVZnK/Rttf59aTScbBCkMTU8dTwUnIJL/9Zle3Ies0B4lJUmx5QpcG13udyDb5vcFCaCn+yMa7swiSN+WvQXLgMxogOf6NYIvi7RYNjWDSW0ZDa3m1SPRAgVcTUBaubTVJsj6AmHtgenhR2shTNduAZZYD8VBC0Y79RHS9LhahDqI8Q+vR/Epl1Xaz2AMS9NSbB+apUWB65BQvpnjh0jeEU0CBFMgj9u5i2/5uzNqxEHvhl/ZAeBrDVGSWNVsoYal/bTTtyXTC9vibaviTOumdhX5wx9/xKOcQa34s+HNth6fEV5BKoQkyvT7grsua+ttEuR6M9qPm2pHoWPBdyoiCNXgP09V7QmznUBvXWVl/ohWAm/N/acpBWk0VGozkFPNgDFei2oBvCOJUXBb0HQ==;pnnvVztph+/+yBm9qJiz9A=="
+secured: "mQaX6RoK+y4GL6ods3v2DDHtAD/5ZaGzfa7ldegmzteNA4uJ7oBiQG5uJB5wo6v37gBLT/q4T8w8w/AMdL+NUrNixrZEKwqWIZNI/O8w1NtZWQifPJKiTaHzMqUa6xt0MtbuPwmkzs+r1y933fuN682tRpCX4m2UYFBh9FKfEtsMHH02rIapU6IfE4MLPC+My+nAaeBKhbZpVUekvvaB8M0LVWtafk4XaN7Mt46RK4936Ytev0Upju+sskbyPx5R98VfeAB7C5aaAMyWEXBQDwKnEhyqh2FovCjRk1tqmKijyGEZ2ZHEUpc0+c8hwUQs081UjMu7Tf8+EdNiIpguBOst6t3Pk3bNM0HQHYZI6l8=;U1xS5cVSrcRX2d3i/S+gYg=="
 ---
 

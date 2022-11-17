@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T14:00:00Z
 originalUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
 webUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Seattle Times

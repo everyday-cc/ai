@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-powered media editing app Descript lands fresh cash from OpenAI"
-    excerpt: "Descript is the second startup to receive a cash infusion from the fund after AI note-taking app Mem, and Mason says it reflects OpenAI’s belief in the future of Descript’s AI-powered features. “I founded Descript with the idea of building a simple ..."
-    publishedDateTime: 2022-11-15T17:58:00Z
-    webUrl: "https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "AI-powered video and audio editing app Descript raises $50M"
     excerpt: "Descript was founded by former Groupon Inc. Chief Executive Andrew Mason, who told TechCrunch in an interview that the app is designed to be a simple, intuitive yet fully powered editing tool for video and audio that relies on AI to do much of the processing for users."
     publishedDateTime: 2022-11-16T01:10:00Z

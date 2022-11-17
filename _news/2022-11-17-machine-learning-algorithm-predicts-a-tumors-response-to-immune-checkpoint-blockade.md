@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Machine learning can help predict patient response to cancer immunotherapy"
+    excerpt: "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades. Now, researchers at the Johns Hopkins Kimmel Comprehensive Cancer Center and its Bloomberg~Kimmel Institute for Cancer Immunotherapy are one step closer to solving that problem."
+    publishedDateTime: 2022-11-17T12:59:00Z
+    webUrl: "https://hub.jhu.edu/2022/11/17/machine-learning-algorithm-predicts-immunotherapy-success/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 17
 
 secured: "q8tdrWPtgaufu7mByah04x47kUrfaV64oQ8Ovr3i1zOlk7p4pdB271AHMGKd0q90ne11E7cKSQe6nh4u9iOGGBDwIFO4KcQF45NOqKNJCV0zm4hsgy1wlwXMLot4bmreW9EFg93zREUWWxoal/S23uQj77qyK0xmD3G54JVPn3sykWXGUVwxfeLtIW6nQv82gPaTyIbpswyvVDrK9x3JexAwFaHLWraF/eDVNutYl4jFvxBckOZb+/RnkiJdbtwwhAO/Y8sVS+1/n2NXGvLztlltEgBcLhowjY7dy7HC0Eiy9uR1i1TLLC1p6QxrJ2L4RU6szFiU4ZN0vRs2cJljXB7hshHps9p9+ggYjAR74lCKRtxUz5JDHW3qbMWpqkzL2SSIa/fKwBBQ0P7P0pAPzvJ2qxqS6/nJM/Am6qcLJnTHT49C6RVaU1PJ2EIzKBIRagH1iC9AWEVeNAlCpxWqkIKcuyvWK219tr39NFNT5bYCUtZ/KdKgih6UAg1DTulyb3l3geCe7aqW+76kO72+Yw==;8WQI8XxERty7RxMLNVkztQ=="
 ---

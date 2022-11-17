@@ -52,15 +52,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Introducing The AI-Augmented Enterprise Worker"
-    excerpt: "Similar advances have occurred in IT service management and workflow, where AI can improve services exponentially by improving customer service and helping technicians better diagnose issues. Businesses that start thinking today about how AI might augment ..."
-    publishedDateTime: 2022-11-16T14:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/16/introducing-the-ai-augmented-enterprise-worker/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How AI is changing scientists’ understanding of language learning"
     excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
     publishedDateTime: 2022-11-13T08:43:00Z

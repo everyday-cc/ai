@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T14:50:00Z
 originalUrl: "https://markets.businessinsider.com/news/etf/tesla-fame-s-robot-run-etf-is-now-betting-big-on-these-oil-stocks-1031922620"
 webUrl: "https://markets.businessinsider.com/news/etf/tesla-fame-s-robot-run-etf-is-now-betting-big-on-these-oil-stocks-1031922620"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Business Insider

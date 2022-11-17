@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T12:57:00Z
 originalUrl: "https://www.politico.eu/newsletter/digital-bridge/ttc-deliverables-content-regulators-assemble-privacy-deals/"
 webUrl: "https://www.politico.eu/newsletter/digital-bridge/ttc-deliverables-content-regulators-assemble-privacy-deals/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Politico Europe

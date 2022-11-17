@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Indian fintech Lentra raises $60M to expand loans-as-a-service for banks"
-    excerpt: "Now that legacy has taken a very different turn in fintech with outsourcing of a very different kind, with the emergence of embedded finance technology. In the latest development, Lentra, an Indian embedded AI-based finance startup, has raised $60 million ..."
-    publishedDateTime: 2022-11-13T00:00:00Z
-    webUrl: "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
   - title: "Preparing for fintech’s second decade: 4 moves your firm must make now"
     excerpt: "How can fintech startups prepare to compete in the next decade ... You will need modern tech infrastructure that can support greater cross-product automation, a sophisticated AI assistant, more integrations with external parties such as the crypto ..."
     publishedDateTime: 2022-11-14T15:38:00Z

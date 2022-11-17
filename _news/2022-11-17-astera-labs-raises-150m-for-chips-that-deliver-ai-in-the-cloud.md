@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T14:04:00Z
 originalUrl: "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/"
 webUrl: "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/"
 type: article
+quality: 64
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Santa Clara data center chip startup Astera Labs scores $150M, triples valuation"
+    excerpt: "CEO Jitendra Mohandra said the funding and new valuation \"validates that we are in the right markets for AI/machine learning, cloud and hyperscale infrastructure that are continuing to grow.\" The Series D round was led by Fidelity Management & Research and ..."
+    publishedDateTime: 2022-11-17T14:58:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/11/17/astera-labs-scores-150m-joins-the-unicorns.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "lMgg8fjkTO1COuu5JaQ1NGayEDII6kJ/p9TxCsoaLoSqi9qWHk/1rVrqNsMOFpCv6+u+NigzVFZVqMSBMyKHNzWpi/8kihTpyWj1R3h69Z0fAnVrkdvrR1hjqUFDd38D2X9TUbqHDnUwWNHFRVdgaVrzllXoPUkr/tcIXQfGOblh588exXMzQIZQnkmlvAEo/ngDpAVdDTBx/lQAUMNjxK9YGMIgGc59C7nRoLkfdz34EDhkZwXZpQV10edSEhS/d8zjmoi47soA1zeKdu38D2upD/b/Sd9Rafh0YhJ7TMwT3ACcOWWMIy0tsIzFPP/nw4cDfogM6oBvinbYj1QJ3dsbpP3/Hsj9xpaZowR/ZuVtlQ/0FMH4XVVVH9RUk+KW26l5hnHxtTrmxn3rfGk7YCr3cdNOSHrazSxDWj7l6GP/NO9H2o6g6lwI1QFH1Y4dx+YkIp6rS5gEel5X2+2popJKsTKhNX9ylxa0k0hoozpn1E91gNIJ4k+rY4dsb3nIwNg1N5J2rUJRF0OTfss1ZA==;keYP6beWMoCaXmpvtKsZ5A=="
 ---

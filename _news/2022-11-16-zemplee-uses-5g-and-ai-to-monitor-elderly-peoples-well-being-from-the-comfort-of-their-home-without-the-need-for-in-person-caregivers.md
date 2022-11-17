@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Vulcan Coalition helps people with disabilities train for AI jobs"
+    excerpt: "The company earned a USD 25,000 grant and rewards aimed at further supporting the project’s development, including mentoring and support for an AI for Good grant application and fast-tracked listing on the Microsoft Azure Marketplace. “Without ..."
+    publishedDateTime: 2022-11-17T12:35:00Z
+    webUrl: "https://news.microsoft.com/apac/features/vulcan-coalition-ai-jobs/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/11/vulcan-coalition-ai-punnaphoj-aeuepalisa_1920x1080-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "k0H4O8ImuTktuXeDL+s5Hx6iMtfwXvDvKIjez+7XJXQbB/qxwSlbiZmHibl59wIt86YRtT1cs1VBKjyWLZzXGxkWlI0ptVh9gSetdIVkMwM9t5BsFNSNt1JgHHPk5tKog95E+TrjlIQlNif6Uxk/W3ImfrjcxHdhDG8KmiEDaMHLRA/HEV/50C3ycNSaCeYsgN5m8c9KIbTdg0sx/nxRfeBYkcLY+E2iVRnoh/ha2iu9tUuMp3TjosRSeRGLbFPdxY04wQGpeCLguyBppANC2MMMb84t0OP6RAzxDW/eNv2bOySrsWrZ4hv4j0iaKPy6XxrIetcD2OQfjAz9gGYfuF1QtjB8C/VapYVwF3d3KUYQCs0iLGzBhL3i40iRiPf1JFiaKZMC3o412CHdLHwyWDzXv3zj8ISjzCZT/2Gix74roLgPM9LiNEiK3GfF+5iA4qFb8m718YOGX4hlheYSvb2Mm4gkWxtGf63z9ErdXD4wDgrPDODerYN8X9Yor+UVRhTIGmi1dwx3QSqOp39XVQ==;S0fOW2nH6LueuJVyi9MF2w=="
 ---

@@ -145,6 +145,36 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Nvidia Is Building an AI Supercomputer With Microsoft"
+    excerpt: "Nvidia and Microsoft are teaming up to build \"one of the most powerful AI supercomputers in the world.\" Microsoft is set to provide the infrastructure using Azure, and Nvidia will of course provide the performance through its data center GPUs,"
+    publishedDateTime: 2022-11-17T15:16:00Z
+    webUrl: "https://au.pcmag.com/news/97369/nvidia-is-building-an-ai-supercomputer-with-microsoft"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-is-/nvidia-is-building-an-ai-supercomputer-with-microsoft_tqsk.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia to collaborate with Microsoft for ‘massive’ AI supercomputer"
+    excerpt: "A “multi-year collaboration” between Nvidia and Microsoft is underway to create “one of the most powerful AI supercomputers in the world,” which will be able to manage the enormous processing workloads required to train and scale AI."
+    publishedDateTime: 2022-11-17T16:44:00Z
+    webUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/"
+    ampWebUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 74
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/11/ANI-20221117155021.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "NVIDIA announces multi-year collaboration with Microsoft to build “massive” AI computer"
     excerpt: "The U.S.-based chip designer and computing firm will be providing tens of thousands of GPUs, Quantum-2 InfiniBand, and its full stack of AI software to Azure. Microsoft and global enterprises will use the platform for rapid and cost-effective AI development and deployment, the company shared in a blog."
     publishedDateTime: 2022-11-17T07:35:00Z
@@ -192,6 +222,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/nvidia.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
+    excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
+    publishedDateTime: 2022-11-17T12:15:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-microsoft-partner-to-build-huge-cloud-based-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 56
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia says it is working with Microsoft to put AI in the cloud"
     excerpt: "Nvidia declined to say how much the deal is worth, but industry sources said each A100 GPU is priced at about $10,000 to $12,000, and the H100 is far more expensive than that. “We're at that inflection point where AI is coming to the enterprise and getting those services out there that customers can use to deploy AI for business use cases is becoming real,"
@@ -307,20 +351,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
-    excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
-    publishedDateTime: 2022-11-17T12:15:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-microsoft-partner-to-build-huge-cloud-based-ai-supercomputer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
     excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
     publishedDateTime: 2022-11-14T17:24:00Z
@@ -418,6 +448,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Nvidia, Microsoft team up to build one of most powerful AI supercomputers"
+    excerpt: "Nvidia has announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world. \"AI technology advances as well as industry adoption are accelerating."
+    publishedDateTime: 2022-11-17T14:18:00Z
+    webUrl: "https://www.business-standard.com/article/technology/nvidia-microsoft-team-up-to-build-one-of-most-powerful-ai-supercomputers-122111701023_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 33
 
 secured: "z6CxH53yn4vz7+WDyS/SufMtIaQDOJ+6XlY0rrM7macZja12qDEUU9usOyg0lGPUEZdCn77Qr0mSAawK87lMUYyXXLT9z0FkLwQq75kbTGrZO0bEoymVVlBGiUt3++e9ml1UHip992N0nSKxOcUtllDUmtgbXoBAwJeYIcD1vYiP8RaAqA5tY53K2cy+T2HltYYBDgbOAaf548kt56oYdCbtrJb5oj42VStMgBmBM3emcIssdrDcEYBY4guglllcB54JyWM3tMLbr+DOwSWwIgOOBdRcskwYD3LyiokW7QZzrrqI+qmCNDI0qL9nMsIGGP3NuRGhOF8CTwBkQn20zvaf/3Ib4CZnONKBYOmeKg8=;hKXOjTeIVSAjZ/jccif2mQ=="
 ---
