@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
+      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
+      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
+      "publishedDateTime": "2022-11-14T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-cat-pining-after-owner-when-shes-home-alone-breaks-hearts-made-me-cry.md",
       "title": "Cat Pining After Owner When She's Home Alone Breaks Hearts: 'Made Me Cry'",
       "excerpt": "A cat named Elie has melted hearts online after a video of her waiting by the door for her owner to come back home went viral on social media. The viral clip shared on TikTok on Sunday by the cat's owner (under the username Eliethehallwaycat) shows Elie following her owner to the door,",
@@ -156,7 +199,7 @@
       "originalUrl": "https://blog.google/inside-google/googlers/hear-what-googles-first-responsible-innovation-intern-learned/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -245,6 +288,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-14-giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022.md",
+      "title": "Giraffe AI Labs participated in Singapore Fintech Festival in Nov 2022",
+      "excerpt": "Giraffe AI Labs announced on 7 November 2022 that it participated in the Singapore Fintech Festival (SFF) 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022-2022-11-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022-2022-11-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat.md",
       "title": "Why Meta and Twitter’s AI and ML layoffs matter | The AI Beat",
       "excerpt": "Gousios, who worked on the Probability team from October 2020 to February 2022, said while Facebook had a lot of developers ... According to Nantas Nardelli, senior research scientist at climate tech AI company Carbon Re, these were some of the best ...",
@@ -253,7 +348,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 70,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -299,7 +394,7 @@
       "originalUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -571,58 +666,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-amazon-unveils-its-latest-warehouse-robot.md",
-      "title": "Amazon unveils its latest warehouse robot",
-      "excerpt": "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot",
-      "originalUrl": "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1176,57 +1219,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it.md",
-      "title": "This Free Comic Series Is Gorgeous. You'd Never Know AI Drew It",
-      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a demonstration of how shockingly fast AI is evolving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "originalUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "publishedDateTime": "2022-11-11T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

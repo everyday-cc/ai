@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-06-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "Powered by Watson, IBM can deliver safe dividend returns for income investors. Palantir is not low-risk, but the prospect of \"next-generation\" AI could lead to considerable returns. You’re ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/11/05/artificial-intelligence-stocks-you-buy-and-hold/",
+      "originalUrl": "https://www.fool.com/investing/2022/11/05/artificial-intelligence-stocks-you-buy-and-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/707518/ai-artificial-intelligence-robots-working-office.jpg",
+          "width": 5500,
+          "height": 3667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-05T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-6-ways-machine-learning-can-boost-your-marketing-processes.md",
       "title": "6 ways machine learning can boost your marketing processes",
       "excerpt": "Businesses must use data and forge the right, long-lasting partnerships to ensure marketing ML deployments are tailored and always evolving.",
@@ -1112,58 +1165,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data.md",
-      "title": "Artificial Intelligence in Healthcare Market Evolution Segmentation and Insight of Trends 2022 to 2028 with Top Countries Data",
-      "excerpt": "Nov 04, 2022 (The Expresswire) -- \"Artificial Intelligence in Healthcare Market\" research provides significant and in-depth information on the global",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-evolution-segmentation-and-insight-of-trends-2022-to-2028-with-top-countries-data-2022-11-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -1364,27 +1364,45 @@
       ]
     },
     {
-      "path": "_news/2022-11-04-peter-rhodes-on-clothes-pegs-driverless-trains-and-keeping-an-eye-on-our-reservoirs.md",
-      "title": "Peter Rhodes on clothes pegs, driverless trains and keeping an eye on our reservoirs",
-      "excerpt": "Brainless project meets driverless technology. What could possibly go wrong? Meanwhile we are having some of those curious periods when, according to excited weather forecasters, we get a month's ...",
+      "path": "_news/2022-11-04-our-future-artificial-intelligence-overlords-need-a-resistance-movement.md",
+      "title": "Our Future Artificial Intelligence Overlords Need a Resistance Movement",
+      "excerpt": "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies ...",
       "sourceUrl": null,
-      "webUrl": "https://www.expressandstar.com/news/voices/opinions/peter-rhodes/2022/11/04/peter-rhodes-on-clothes-pegs-driverless-trains-and-keeping-an-eye-on-our-reservoirs/",
-      "originalUrl": "https://www.expressandstar.com/news/voices/opinions/peter-rhodes/2022/11/04/peter-rhodes-on-clothes-pegs-driverless-trains-and-keeping-an-eye-on-our-reservoirs/",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i83al0Y60bcI/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T23:01:00-07:00",
+      "publishedDateTime": "2022-11-03T23:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Express & Star",
-        "domain": "expressandstar.com",
-        "images": null,
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -112,17 +112,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application dev"
-    publishedDateTime: 2022-11-14T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z
@@ -241,6 +230,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Qualdo.ai's data reliability team today announced the availability of Qualdo-DRX in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Qualdo.ai customers can now take advantage of the productive and ..."
+    publishedDateTime: 2022-11-14T20:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "Microsoft Ships ML.NET 2.0 and New Model Builder Version for Machine Learning"
     excerpt: "Heading the highlights of ML.NET 2.0 are new APIs for working with text, specifically text classification in Model Builder, along with a sentence similarity API."
     publishedDateTime: 2022-11-16T19:04:00Z
@@ -320,6 +318,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "2qSG2aPB6XGbvN3/Jcs5zj2smUOB80v5yDV/hVCMa42JKxOVRahr72y1UGBfqseG68A7Akby4QvbjGdnEbvpU4cQ92HyYgGTErlB9/DeaJ0cop4862Nl//fWvYFl4CGnGYiFSyXZAsyezXa7V9Mj/9yxzSFDZXDcqLMB89Zz2RGn7bilXxcy5MYTCyizDkHFXpVFmV00YYK6sIFhPTXXWZerN+E97UP7fZneFTc1sYd6f2DWKHAFZMjggWN1838iHoLVsblDoYs4C480nmo1FhK/oWFTRHb1nwkF/mZsAl16reH6nFV7t/YifRiYJ1VgB6M7xnK8u3Z+HDB4CYOOBz+MXKkfslT6f3Vh401qK1Q=;Y/CdKzY3NQEvdd/sQLC2Jw=="
+secured: "JWIp4YTRipAxQRWliggD47j7OEdRz/mk7NfmkMr9PbyfdvQH73lyH06HRPLOx3VXSug7Y2TwNAYxNf1JAiefuDlSALCOBR9CjOqqzku2F7pb8tDC7RbIYFWwIgneurRwQzSd3CIr2NCw2YMc52DVUhfYLTIRBuwP3vYD00CSDGNscr2YezpUh44BvDY75+JvC7G9LS7gKnNkTORivwj1lvnHNMIGIDUZE2wfCoWD5mH43XX6/dh8PxVOcF4BoG4CCb5yFv74LdBQTBauzIie4RMH/7xPXnDYeeRedTuxH8tdGb24qm7PK49YuDo8tVosz0d56nptRAgCPXkpmsCy3nHPQBwAXzZQZCzZ9jeihezYjG5P+a/IvH0DDFinjny3mkIqRDhIuP6OUaMetfeTXKhvYZSMqETlG+iTcQzv+k/GjhDwVuwrAZMrHgGN/bilNZVC1C7GuQrSSrCjDyOXG8/GLM0JTiw6dx77zpG2FCDDDQwJG1Zz82x45ltLKq6/SGy9aXE/is1/rKgoD8mNEg==;Sha1CI870rq8LLZIcQDZCw=="
 ---
 

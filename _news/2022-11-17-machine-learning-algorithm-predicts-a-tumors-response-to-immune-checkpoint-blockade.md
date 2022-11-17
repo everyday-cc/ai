@@ -49,7 +49,7 @@ related:
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/16/image/jpeg/3Fur2SUBWIOWs9PJmw0f3NcWy3QSySi1v7oFJTpj.jpg"
         width: 1920

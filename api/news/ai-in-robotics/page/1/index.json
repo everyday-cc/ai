@@ -244,7 +244,7 @@
       "originalUrl": "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -287,7 +287,7 @@
       "originalUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -354,58 +354,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-amazon-unveils-its-latest-warehouse-robot.md",
-      "title": "Amazon unveils its latest warehouse robot",
-      "excerpt": "Amazon has unveiled \"Sparrow\", a new intelligent robotic system aimed at streamlining the fulfillment process by moving individual products before they get packaged. Unlike the retail giant's previously deployed robotic arms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot",
-      "originalUrl": "https://www.techradar.com/news/amazon-unveils-its-latest-warehouse-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Gsv7aGKV8VFZyi9mYTbV3T-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1389,6 +1337,40 @@
       "provider": {
         "name": "Christian Science Monitor",
         "domain": "csmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-collaborative-robot-cobot-market-worth-92-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29572091",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091",
+      "publishedDateTime": "2022-11-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

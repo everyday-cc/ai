@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-16T21:28:00Z
 originalUrl: "https://interestingengineering.com/health/artificial-intelligence-predict-response-cancer-treatment"
 webUrl: "https://interestingengineering.com/health/artificial-intelligence-predict-response-cancer-treatment"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/16/image/jpeg/3Fur2SUBWIOWs9PJmw0f3NcWy3QSySi1v7oFJTpj.jpg"
@@ -55,6 +56,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Fdd8NnP5B9UW9Lt3loB3f8oXy+yC+K4pPUZtvG4QO40uEZ7D0x3e1UuAzCNMKATF8chcZGq+GXoN5cImw2v8hEYmITUXjMNlIQEs/EoZVFy8iKDjQ/VKKm0aOslUJAryvy0iuqdrWHyIoHFcca1O2EY6XR86RhiK99is51x552TLFUUEB5oNU/mQQ7HFThnIdSRuMuR4Vnlw5RhQmLGjNAEtrv+l84t3KNslLOuvFRpBjZKsDWnJ9uByzjgGQDRzMzdsyM+HDBeL3m4CqL1juOc1kORvCZWRg0DQNVEklRpXQJM3IMFwDCluxFs7MWG8GKzQrepi05PSQucQP5AeREvqLOlcL/ynvnKxOkdy81Y=;vRC1XPp1Znst24C1uSbwZA=="
+secured: "8HM/yh4LBK1Xaozp76F8q9s8zGB7ADnc628VZp6Wxqvb+ubbc5GsrgpcqojornTTTlMIcXSWoSfa8fAzTlZMZCfGwf7k7uaYhMIPd/N8FGGzl3+iKNWjXqSj8nXMkqD+ivLE0yzCqJI4F0loHgdWp7z/MHoDETA9nICya6hzjrH0PX/yhn4WqkZ1rqMy8Qadsrc7CcuXh05FGABqHpsKVCVzk2Xu1nlLgECcHDNyblBH8X5iw5I6f//V1JwlFEddoLozIWb2yF6JPY468r0h5P8ePGIXPz0hoX2DZLvBfYAJ1pludpnvozQ0Tog3q3vB/iY5egNeTHdkQbnkRk2IAJUTfK+TMhYtG4iqNAR/KIIWQKIOHHgHYmNg2k5ep0Z87kveYdd87YOIzXQk7NEijnooCqz1UeC9YCnLH7MSJFdyjaIGKzN8uzUvIqQ9yayYmO8b9Tp9A+M4gEVqW5TPcjwKb8KuZ4l2UpqXYYFw3xQeRj5uygeAeIwXhfz29ffQmpSbHPrRKc9R5VgRHLZL9g==;Yoyycto6E0hpXRZPrYbfLA=="
 ---
 

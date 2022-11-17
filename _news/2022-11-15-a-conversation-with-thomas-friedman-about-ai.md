@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/a-conversation-with-thomas-fried
 webUrl: "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

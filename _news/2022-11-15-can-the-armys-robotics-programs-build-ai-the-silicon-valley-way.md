@@ -9,7 +9,7 @@ ampWebUrl: "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/?amp=1"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

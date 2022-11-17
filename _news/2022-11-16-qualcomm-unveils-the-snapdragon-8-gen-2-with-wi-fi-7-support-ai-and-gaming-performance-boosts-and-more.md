@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 505
         isCached: true
+  - title: "Qualcomm's New AR Chips Point to a New Generation of Smart Glasses"
+    excerpt: "Glasses using the AR2 Gen 1 may be a lot faster at using cameras for scanning and depth sensing: Qualcomm is promising faster AI for things like object recognition and hand tracking than even the XR2 chip found on headsets such as the Quest 2, but using ..."
+    publishedDateTime: 2022-11-16T23:15:00Z
+    webUrl: "https://www.cnet.com/tech/computing/qualcomms-new-ar-chips-point-to-a-new-generation-of-smart-glasses/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/qualcomms-new-ar-chips-point-to-a-new-generation-of-smart-glasses/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-new-ar-chips-point-to-a-new-generation-of-smart-glasses/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/resize/b5852af6c05e9069d8cadd8877545a0317e52a70/hub/2022/11/15/1ee0b984-9cc3-49a1-b7ac-80b7fdee942c/snapdragon-ar2-gen-1-platform-and-glasses.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
     excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
     publishedDateTime: 2022-11-15T23:00:00Z
@@ -136,6 +152,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/snapdragon-processor.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Qualcomm Launches Snapdragon AR2 Gen 1 Chip for Augmented Reality Headsets"
+    excerpt: "Qualcomm has launched the Snapdragon AR2 Gen 1, the company's dedicated chip for Augmented Reality glasses. Check out all its details here."
+    publishedDateTime: 2022-11-16T18:15:00Z
+    webUrl: "https://beebom.com/qualcomm-snapdragon-ar2-gen-1-chip-augmented-reality/"
+    ampWebUrl: "https://beebom.com/qualcomm-snapdragon-ar2-gen-1-chip-augmented-reality/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/qualcomm-snapdragon-ar2-gen-1-chip-augmented-reality/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 57
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/11/SD-Featured.png?w=750&quality=75"
+        width: 750
+        height: 500
         isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 2: Everything you need to know"
     excerpt: "Qualcomm announced its next flagship mobile processor, the Snapdragon 8 Gen 2, at its Snapdragon Tech Summit in Hawaii on November 15, 2022. It's the new"
@@ -222,6 +254,20 @@ related:
       - url: "https://techgage.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-680x404.jpg"
         width: 680
         height: 404
+        isCached: true
+  - title: "Qualcomm Teases Powerful New Snapdragon Laptop CPU, Claims AI Processing Will Redefine PCs"
+    excerpt: "Qualcomm says that ARM is the future for Windows computing thanks in large part to its dedicated AI processing."
+    publishedDateTime: 2022-11-16T22:01:00Z
+    webUrl: "https://hothardware.com/news/qualcomm-claims-ai-processing-will-redefine-pcs-teases-new-laptop-cpu-core"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 29
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/60136/content/Snapdragon-AI-compute.jpg"
+        width: 708
+        height: 410
         isCached: true
   - title: "Qualcomm launches its latest top-end smartphone chip"
     excerpt: "US mobile chip giant Qualcomm has unveiled the latest iteration of its flagship SoC, which will be powering many of the most expensive devices next year."

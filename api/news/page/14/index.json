@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-11-02-computer-vision-brings-intelligence-to-retail-tech.md",
+      "title": "Computer vision brings intelligence to retail tech",
+      "excerpt": "Cashierless checkout and inventory management tools powered by AI and computer vision are on the rise, despite economic downturn.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
+      "originalUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1155281842.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/computer-vision-brings-intelligence-to-retail-tech/amp/",
+      "publishedDateTime": "2022-11-01T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop.md",
       "title": "Automated exploratory data analysis and model operationalization framework with a human in the loop",
       "excerpt": "Identifying, collecting, and transforming data is the foundation for machine learning (ML). According to a Forbes survey, there is widespread consensus among ML practitioners that data preparation accounts for approximately 80% of the time spent in developing a viable ML model. In addition, many of our",
@@ -1112,58 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-robot-truck-developer-tusimple-ousts-ceo-after-report-of-ties-to-chinese-startup.md",
-      "title": "Robot Truck Developer TuSimple Ousts CEO After Report Of Ties To Chinese Startup",
-      "excerpt": "Last week, Ford and Volkswagen decided to stop funding Argo AI, a promising autonomous tech company that had raised more than $3 billion after determining that it would be too many years before ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/10/31/robot-truck-developer-tusimple-ousts-ceo-after-report-of-ties-to-chinese-startup/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/10/31/robot-truck-developer-tusimple-ousts-ceo-after-report-of-ties-to-chinese-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/615e1b93298aca27c94429b4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

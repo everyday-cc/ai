@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/news/the-voice-coaches-multiple-grammy-nominations
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/the-voice-coaches-multiple-grammy-nominations/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 780
     height: 438
     isCached: true
-
-related:
-  - title: "‘The Voice’ Cast Member Announces Documentary About Their Life"
-    excerpt: "The Documentary Will Give Fans ‘Unprecedented Access’ to Christina Aguilera’s Life. In a press release from TIME Studios and Roc Nation, Christina Aguilera announced that sh"
-    publishedDateTime: 2022-11-12T08:46:00Z
-    webUrl: "https://heavy.com/entertainment/the-voice/christina-aguilera-documentary/"
-    ampWebUrl: "https://heavy.com/entertainment/the-voice/christina-aguilera-documentary/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/the-voice/christina-aguilera-documentary/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 44
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2022/11/camera-2341279-e1668267874216.jpg?quality=65&strip=all&w=780"
-        width: 780
-        height: 438
-        isCached: true
 
 secured: "/sOoUyRwONhDuOpMwL3tHGR6wr1kNPvIqrc3l2O4iI0PrnIt7ZqzjnxFOW6twwTcHg55kebQkktA/gCZgSq/sevIKMCA9vERU9aP+WgWz2YnJ1Cj22edEDCIL1EACcJKqXMP99ighf/S45tH0ubOGurnSg15cXr3Ut8BHhsY5F3nbObPZwvQR6wOeHWNDReOWHv1NjZQO/HhFydaax39ElXzadkWgwtEVkaBRTHSKXoQIkOa3JMWTcfin6nvEDniw2aMrxD8XUN/0N/1y/B2YwTtBLu3bGbAZzHbcNajfTZCyta7+wpEawZ+3ju+05g6cOAUYn2uuKpwE+qf8EAodA1sns2CFECB7/O6+CARIhHN+R/y/OPHdlZA29heqclZhhmeG/fKPnylwlaK4dGxPlwUryzC/8deARlONgzS7UzX06xz9hoxy0oqmMsQEm3aGTxNGztHLZPPJiehgc/rX4vTrx+uKiwJ7Tq1zoSFrzdEecjOcIIV7ZoCBtDOUU975hg4/jNt8Qnb6bLvnqPmoQ==;qi6br7YIW5GMVmhXK/arUg=="
 ---

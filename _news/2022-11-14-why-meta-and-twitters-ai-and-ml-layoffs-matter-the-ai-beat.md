@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs
 webUrl: "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/"
 type: article
 quality: 70
-heat: 72
+heat: 70
 published: true
 
 provider:

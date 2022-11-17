@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-16T18:14:00Z
 originalUrl: "https://interestingengineering.com/innovation/mit-reveals-a-new-type-of-faster-ai-algorithm-for-solving-a-complex-equation"
 webUrl: "https://interestingengineering.com/innovation/mit-reveals-a-new-type-of-faster-ai-algorithm-for-solving-a-complex-equation"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/16/image/jpeg/fgEIHJOIubyQZB8xpPzvPVlTlOkQpLndB134judN.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1079
     isCached: true
 
-secured: "ZSD9+tCDKp+O1lI058Zb76wb+40ciwbT+LImiTov8cfjClfsOdfd4whj5WgnPHiWtyUvyMnG0N8EwQcQwvY9xhQvSfabCR+9z0MHhjuEC0dFyjsghNlEE8JqpO8kYOfyNIJeN1gMaB2z7OOLbnbQ4AyzMbs75NNWZMt8bsHe3e67R64dYwDosvspJ2qPUSYvyTIfOErq4oSnuy5rzNwMSJLedcQEzB2CVbyihTX0T6Wa4KtyeMIwuf37OvcmelDsHOQGDJbO+VDZ11HPvghc96XSbxlOyGWPfdMZnnxbbx0PSNElmiztp5lPeoXmNPhuD2AREN8703xlMgzg82op3PrBmDabNUA7xTzFNzavGOg=;U53Gr7tBUqCw3VGtiBZzdQ=="
+secured: "6prFQfd+gZ4br+/R+HUk5qJMZ4KzcgvLEJZldZqcniJcpPspQKqbPTtHLtkGiCByJ1PxCowa9zBMKWgNl43zjdJznEdxQhFckg+d2WYElc73eawAm9x/Ve8BNl7+sTv5rkcGFabHpQW47/zsG0dI4K/eB1fzljMxjMmyjsAR+G1yeIBkk7Uj10xuWZf/Vp+b5BW08XUMcCISV77Tiay9BiJK8V63LMcJaT41wb44oUvisKNEGvgfjqeYvJCn4OvYMQZpbE42mF52GX1kmww90wLs2mvvstrUh9jzf9ylBoZp8PAHFVTEk25InSFJLEikNJIRMQFDOmbrHq1rxCvzLnn5Ii5sGPDU1OZuQQ06nj/Jb31k/N2bdtIZleqVE+aXk/1HY0VTzNHmgNck9CanGJDY///8u9vbp1ssGcXnnIvFXwS9hMGp2KKY4PnEf+Lt2b+u+PYy8s5vTWLvAvYa+VtghsDzDPmCVeC2n/u7s3Da2OKIju+TzqrM/BGmNEcx/6wAOhha85wWjxTq3X6Ibg==;i8G8bQ5jNBq30L5C5+ttOA=="
 ---
 

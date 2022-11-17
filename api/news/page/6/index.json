@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-09-ibm-quantum-computing-progress-edges-toward-eventual-utility.md",
+      "title": "IBM Quantum Computing Progress Edges Toward Eventual Utility",
+      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and writes about processors, digital photography, AI, quantum computing ... computing's long-term prospects, IBM said Wednesday it's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/d735aade6ff6f7b818ce6c04b53150e98fc491ad/hub/2022/11/09/f0493856-5ab7-4633-a64a-f011ee909111/ibm-quantum-osprey-flexi-cables.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "publishedDateTime": "2022-11-09T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
       "title": "Honda planning self-driving electric vehicle fitted with AI",
       "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing.",
@@ -119,49 +171,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
-      "title": "AWS Launches Infrastructure Region in Switzerland",
-      "excerpt": "AWS Europe (Zurich) Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
-      "originalUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81666.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -430,6 +439,40 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
+      "title": "AWS Launches Infrastructure Region in Switzerland",
+      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1133,50 +1176,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-robotics-innovation-leading-companies-in-autopilot-mine-shuttles.md",
-      "title": "Robotics innovation: Leading companies in autopilot mine shuttles",
-      "excerpt": "The mining industry continues to be a hotbed of innovation, with activity driven by the need to enhance safety,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "originalUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/11/Autopilot-mine-shuttles.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mining Technology",
-        "domain": "mining-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

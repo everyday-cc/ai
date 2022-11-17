@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-17-snapdragon-ar2-chip-set-to-accelerate-ar-glasses.md",
+      "title": "Snapdragon AR2 Chip Set To Accelerate AR Glasses",
+      "excerpt": "Qualcomm unveiled its AR2 Gen 1 Platform at Snapdragon Summit 2022 in Hawaii today. The new chipset will enable distributed processing, which",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637414810444d6781321ad4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
+      "publishedDateTime": "2022-11-16T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer.md",
       "title": "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer",
       "excerpt": "Microsoft and Nvidia have announced a multi-year partnership to build a new AI supercomputer in the Azure cloud.",
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 263,
       "tags": null,
       "images": [
         {
@@ -221,7 +273,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -275,7 +327,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 70,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1423,59 +1475,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge.md",
-      "title": "Problem scaling AI? MIT proposes sub-photon optical deep learning at the edge",
-      "excerpt": "Using wavelength division multiplexing, researchers were able to perform image recognition using optical computing, thereby dramatically lowering the energy required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "originalUrl": "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cf73b493c596ba517977d05a81839bc703f72b25/2022/10/31/2478f28e-dfe4-4c71-92c7-fde978a3deb9/photonic-equation-landscape.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/",
-      "publishedDateTime": "2022-11-01T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application dev"
-publishedDateTime: 2022-11-14T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
+excerpt: "Qualdo.ai's data reliability team today announced the availability of Qualdo-DRX in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Qualdo.ai customers can now take advantage of the productive and ..."
+publishedDateTime: 2022-11-14T20:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -314,6 +312,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "mngLKxTvXU4N2HiuPjToaDHdxHpYaZcqXm/32n0FFxYtIuG+R9PSImE9r4pkI//WzmSt4y1/aGchGbBXDZwWlHEZKc/vbyzbovHe+a1+lS8s9xOmh71itHgE1gsp58mpRF0TRuHiJKr65XJmFKPBQCmXgh3HKHqvkuTwNztlwuXLEdg53iRyytVoWrC68l3n4pNMtNLe2oUSffDleN3LTSF03zpAQiQcuY2KkrQjNcDaDfWNu8flQatK8lGxeTCtsgEgRsfsspnyH4IFmr2InCppqy10C/Ugu36FvHGtHY1Bbm5LMjZb/nVnvkS1ipJTQaoFKTd6icXxz0LLzv/d2quy+DligcCNTkFYrmXL1Bg=;aAs8rrdr3O313nwUjVb3qw=="
+secured: "5MTWhPD8dGsp2idnVt/C22Y4l671dEycFXC2FvYjjDggaNZM2M+xNnw40cRNps9OHc8TIwoZr3HF6Agln2vpwOG0Nhq3E+Futo4tDiMI/zTpE5ShkbGneKpznJ0ULtdVDwo9CrtBqfLWTYC77uWZgnakmvMgA4bc2aVyonO7iK2YHgv9Prp3FkQ8b6LiVic8JI5eas8m9GfnQQiE+i+G49JR5rfwdAvtjS6hUGASp51jp6D9klQyG8ZDgDWm/++9WZPyrUjKkDK8ZkpbQlfsOheiLeK29lD6QkDu3LLMuAta/c0hbxsoqq0v6uDrWVPvCUL27QItXHy4asohlHLdZzMp74z3WMk6TmaffEzn80Q=;UBfkVZji+GaM9+nXfRZQng=="
 ---
 
