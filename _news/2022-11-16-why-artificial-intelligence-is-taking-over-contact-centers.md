@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2022/11/why-artificial-intellige
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "Winning with AI is a state of mind"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.   If you"
-    publishedDateTime: 2022-11-12T17:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/benefits-of-music/winning-with-ai-is-a-state-of-mind-2-46564/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "SsSARBw9oqsXoGMZVXL6XdQPwDxp5mD6H3AUj/xS2kG8eKcn4dCpDFsyPlWquQCTAW9Sv62GjokVeBCyQGUUWOp/BVhrwog17gcT+nagzrO6vnM8RfxvF0c4mw8p/seT0feMVmILts1N+P3UOj/FpPHlTuLnr1js+heyE9zmASRMMGNCblX+obXLoFwLvWX4aZh5+5GUhaTbh/1dv5TGbgv3cQJl3Z09gS+2QqIjPUTy5c02YrVi3ks8/a36d3Ye2gXMC5EXiHMw2ywxcGUUqSnChEI0S0LQLNeWu8X9V6BYRIAwNhRtgf7zHjfiEtr1drNtuT0p5A4OSbewhqAaiVHfW+g2BOZksL7CVcukiskkZtAMO8QyQwA/eHEe0uLe+DmzEs/6sOVXQwohHshPTL35nYMgwoumwWTRtjsZyq6d5IB/HZEsJMz9V0/VH9TSteow56WWIYDe6c67io0CQFnZfSA1DNlZEVxIooXamT1q2vIbzirtxw8iHeZWNHw9wQcjpaUKQwYin460YSrVMg==;PNtvEdjDuAxuqtiSQe2Zpg=="
 ---

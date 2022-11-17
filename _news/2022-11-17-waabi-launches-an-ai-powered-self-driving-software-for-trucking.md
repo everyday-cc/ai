@@ -7,7 +7,7 @@ originalUrl: "https://www.canadianmanufacturing.com/manufacturing/waabi-launches
 webUrl: "https://www.canadianmanufacturing.com/manufacturing/waabi-launches-an-ai-powered-self-driving-software-for-trucking-287137/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Waabi unveils its first generation self-driving truck"
-    excerpt: "Their launch signals both that Waabi is ready to verify and validate its self-driving stack and that it’s open for business. Waabi is starting out with a handful of trucks that appear to be made by Peterbuilt (although Waabi wouldn’t name its first OEM ..."
-    publishedDateTime: 2022-11-16T14:01:00Z
-    webUrl: "https://techcrunch.com/2022/11/16/waabi-unveils-its-first-generation-self-driving-truck/"
+  - title: "TuSimple Co-Founder Takes Control of Self-Driving Trucking Company"
+    excerpt: "U.S. government regulators are investigating whether the self-driving trucking company TuSimple defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. WSJ tech reporter Heather Somerville joins ..."
+    publishedDateTime: 2022-11-17T02:54:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-667998/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company"
+    excerpt: "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate"
+    publishedDateTime: 2022-11-17T00:31:00Z
+    webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://images.mktw.net/im-315600/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Waabi Unveils Adaptable Autonomous Driving System for Trucking"
     excerpt: "Self-driving truck startup Waabi has unveiled its core product, the Waabi Driver, an autonomous driving system for commercial trucks designed to learn and adapt to new routes and driving scenarios at a faster pace and lower development cost. The Waabi ..."
     publishedDateTime: 2022-11-16T14:33:00Z
@@ -43,15 +62,6 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 4
-  - title: "Scorpion Launches First-to-Market Artificial Intelligence Solution, Increasing Visibility and Driving Revenue"
-    excerpt: "Scorpion, the leading provider of digital marketing technology, announced the release of Ranking.AI, a solution to help bring the power of artificial intelligence (AI) to businesses by improving search engine rankings,"
-    publishedDateTime: 2022-11-15T17:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/15/9713841.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YARiMvx98CoRtUDRSr9dKwr+Smcs46jVx0Hehk/6AJ2K7KFKX7IMvJXXNeuCI1QZcpc0nPGJVDGPFxXZi8hvhIrFus6ULHuKW/Qtg04+cIWNbgCPdC41evl7bs2lJSwP03nid0gs8NEakf8NwE6sqWmjXp9Pw8JFOL6kMhIG+g53GUDJoAglg7F0sWedxK3CHWYVZvW4U2Aaf6L0i5CnU0k9eqFWlSBlM2c66rQz5XHGoSouG1OCRh4MmorliAP90v3UgZ9vSqKtuMjb6E2zr4eHBJhqihs1XdpjJCA4DQdV9Trvy2e7aiVPTReVkQ2GJuXbDFhY006Vkd8eUCWQZtpd1HUlrmmPjjRnwHz71yU=;8grAiz53zZkfzQF5oDJevw=="
 ---

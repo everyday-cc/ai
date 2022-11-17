@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia says it is working with Microsoft to build 'massive' cloud AI computer"
+    excerpt: "The rapid growth of AI models such as those used for natural language processing have sharply boosted demand for faster, more powerful computing infrastructure. Nvidia said Azure would be the first public cloud to use its Quantum-2 InfiniBand networking ..."
+    publishedDateTime: 2022-11-16T20:27:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-says-it-is-working-with-microsoft-build-massive-cloud-ai-computer-2022-11-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 83
+    images:
+      - url: "https://www.reuters.com/resizer/T5ftYrseaMtfZ1YNXckWGXq4dZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4WEDSSQ65LGVM66ZN3DWSXLMI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
     publishedDateTime: 2022-11-14T19:09:00Z
@@ -242,6 +256,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft and Nvidia team up to develop AI-based cloud"
+    excerpt: "I, for one, welcome our Skynet overlordsIn a move that shows that executives from Microsoft and NVIDIA have never seen any science fiction, the pair have teamed up to build a new type of AI cloud computer for Azure customers."
+    publishedDateTime: 2022-11-17T10:33:00Z
+    webUrl: "https://fudzilla.com/news/ai/55838-microsoft-and-nvidia-team-up-to-develop-ai-based-cloud"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/fa135545d2412b7ede314e3e87f84a23_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Microsoft Bolsters Azure Integration with SQL Server 2022"
     excerpt: "SQL Server 2022 customers will see benefits in the areas of data integration, analytics, governance, and high availability thanks to the database’s"
     publishedDateTime: 2022-11-16T18:08:00Z
@@ -293,6 +321,20 @@ related:
       name: Visual Studio Magazine
       domain: visualstudiomagazine.com
     quality: 48
+  - title: "NVIDIA and Microsoft team up to build an AI cloud computer that probably won't become Skynet"
+    excerpt: "NVIDIA and Microsoft's AI cloud computer probably won't take over the world. What could possibly go wrong!? Well, probably nothing really (maybe?) Today, Microsoft and NVIDIA announced a multi-year partnership to develop a new type of AI cloud computer for Azure customers,"
+    publishedDateTime: 2022-11-17T09:43:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/nvidia-and-microsoft-team-up-to-build-an-ai-cloud-computer-that-probably-wont-become-skynet"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 43
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Dk4vmuSsdEo9AhfCqHHRCo-1200-80.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NVIDIA Accelerates Scientific Discovery on Microsoft Azure Cloud and a Variety of Partner Systems"
     excerpt: "NVIDIA announced broad adoption of its next-generation H100 Tensor Core GPUs and Quantum-2 InfiniBand, including new offerings on Microsoft Azure cloud and more than 50 new partner systems for accelerating scientific discovery."
     publishedDateTime: 2022-11-16T17:32:00Z
