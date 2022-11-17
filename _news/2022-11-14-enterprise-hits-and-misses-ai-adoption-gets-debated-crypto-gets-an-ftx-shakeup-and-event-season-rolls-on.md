@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Can Make Crypto Safer for Everyone"
+    excerpt: "Artificial intelligence can make cryptocurrencies easier to use without the need for intermediaries that people may not trust."
+    publishedDateTime: 2022-11-16T10:07:00Z
+    webUrl: "https://www.washingtonpost.com/business/ai-can-make-crypto-safer-for-everyone/2022/11/16/f97573e4-65bb-11ed-b08c-3ce222607059_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7DRP4GTFXMI63MEMHTRCEYDQLE.jpg&w=1440"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "RwwDfHr0iW5bbQARtQjW7CmDF/XQH/cjNsduXJh458tB2O5Llzv7327nYqI8dQupJm61OjSWOUTQtjverI1cS0Gx7tfM2phrhqK8uNWMsX/3NVgDVoMVDI/e8ga7NvpSVkb6M93yY8iTwDJIL1d3EdAOIC5BKD8O4xWjFB4yBWje7qaYVbv7JyEHQJfLoB3Q5NcoNGRDlMCypjXOi/OW7AERCYZ0AR4cXCB6VakKFtUoY+0a98aIyml82nkdSC0vMzNen6ptOJJPQR9xUc8ABI0wIVS5F9IrdEoqC+HyqRrapN73tKGAosD0dXOYxVuNyrbUWWfs70H32rJP/ggcxbemGtdwrn2Ul57jrLpN4XZYsKqWw1NquPYHBvc/hXLYnTFCgAnYEoYGCSmnrjWJmjwVy8hJFRugdtU39cKlw/3KJSQuqNnkyv7UgdrwF+XIz6WW8qRX7/pNX0zrkUzzeZymlolVXNvGR3YXgSYXB0V5fTKQIt3+fL6CJn80jfM5ZCX77KRTOVVx+2oMeWCqjg==;YSOfmLl12WueV9bpD8ym+A=="
 ---

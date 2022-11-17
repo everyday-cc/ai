@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
-excerpt: "Rackspace Technology® (NASDAQ: RXT) — a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor of AWS re:Invent 2022."
-publishedDateTime: 2022-11-16T18:40:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/16/9715076.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/16/9715076.htm"
+excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent"
+publishedDateTime: 2022-11-16T16:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and"
+ampWebUrl: "https://www.benzinga.com/amp/content/29751475"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29751475"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -38,6 +40,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "zjtr3AEOR9/+Zad1ylhQpJJ+dis163FJoXxYTDl2SNAQC7QXRoTgpskNh77puPVUsU+R3amTdTQeEjy59V4Icn1qtdDiem9i/z1ezOpKw2fJ9SzNptxULvTz2UxvpQQUZFxBy6B6VSVWtMSAZteuXh7HBQHx0oPxh0o5i3oYGPZEnKIi1kow4954es2g1UWj8F3Yml7tUKqVLa8JcBkXBhNEdZq2AuSt+ua77iVkOGk4HAVpxs4B4AGdoNcVjVcfGfFZp8KutMx4ajggloskn3UU9hZvSMA+A9LEis6f1YNKErQVA2m9jEs7+TlGSoSCYhv3S3c9GTxUp21sU0G1BjoRbts2s2g6vEQ8bPZPWLw=;KBbKz5KY+rFgsaIv33xb8g=="
+secured: "ZSGmhcyUzh/CXsHg7zK6fSFBdfBmGqLXsEXaSpb+LVx9BVjAgYL60edmS39ZcriyYFp5GY4qCzcMNcW9i8WnLFdSSumlkMM5Z8GjCEG66BtY99yjpmM0HotFfZf9DlQlJM85ttdviiRIK4HGejFvU+Uoat8Dz/af/rEHcCKZ9qa3BdPCwDbzV9b66RKY0gDD8wyXcC0cp/6uqV01lHBLhd4ytp1FM0I+ckbKo6qaXSZgpPaITIAYwoC7fCExiKgNnx1AnZ7DvCp+tnrYI1yGy9KPAu8bICoAqCjJQeA1gTCaGKuBvwAshJ11oIuaXSTBInsq6Vt2HyTTbKG9LUQM9K/39l4NwyYFksQqG/m6B4Y=;o+uArVrd7EpaPCVSHwTnwQ=="
 ---
 

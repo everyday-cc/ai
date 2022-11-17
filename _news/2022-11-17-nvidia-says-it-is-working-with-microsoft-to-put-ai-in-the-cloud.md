@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Nvidia says it is working with Microsoft to put AI in the cloud"
-excerpt: "Nvidia declined to say how much the deal is worth, but industry sources said each A100 GPU is priced at about $10,000 to $12,000, and the H100 is far more expensive than that. “We're at that inflection point where AI is coming to the enterprise and ..."
+excerpt: "Nvidia declined to say how much the deal is worth, but industry sources said each A100 GPU is priced at about $10,000 to $12,000, and the H100 is far more expensive than that. “We're at that inflection point where AI is coming to the enterprise and getting those services out there that customers can use to deploy AI for business use cases is becoming real,"
 publishedDateTime: 2022-11-16T19:41:00Z
-originalUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-put-ai-in-the-cloud-587898"
-webUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-put-ai-in-the-cloud-587898"
+originalUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-build-massive-cloud-ai-computer-587898"
+webUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-build-massive-cloud-ai-computer-587898"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/0_0_480_1_70__News_20190812110543_CRN_690_cloud_generic_iStock-630019720.jpg"
+    width: 480
+    height: 298
+    isCached: true
 
 related:
   - title: "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer"
@@ -116,6 +122,17 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
+    publishedDateTime: 2022-11-14T19:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z
@@ -234,15 +251,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Qualdo.ai's data reliability team today announced the availability of Qualdo-DRX in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Qualdo.ai customers can now take advantage of the productive and ..."
-    publishedDateTime: 2022-11-14T20:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Ships ML.NET 2.0 and New Model Builder Version for Machine Learning"
     excerpt: "Heading the highlights of ML.NET 2.0 are new APIs for working with text, specifically text classification in Model Builder, along with a sentence similarity API."
     publishedDateTime: 2022-11-16T19:04:00Z
@@ -313,6 +321,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "yAr5xbkSGDyLdAmzA94anJaJCaZ1Yi/pdBdYSGfSjU3pCOfI1KwzmdiTPAJyFplCknEGguu4Ziy6rj3CLdNFGG0rhuVgM0LdpZkPqnPBsWcYdLgEleluPj6WK+sVvTngTbPCiJRsgg5KyrzlfaydiqeBD5xxVNv3LAzWTQ6TbMZfFHv0ypNeg/vRfG2cmSKxidM5Cb/ZIfa17vQ2Y0MQd0h2ISvX6uTvD8z4Dj/MZfJE2kEaoObyqEigNa60mGZn5j44lZz0M0z4H5o2sBK/tzUo89rM/uCcuG86uxTov4ECoLgI4TZwr1eyTI2AGm1ej2FG+DPvM7EEaFuvb9YYlo3B9X0nz8v5tSTtQXpSf0x89o5Z9M//Upu/WG+f0Lkogs8WLFX7QEDYMi8pFMw7tMKVhyTWymcvTgc31rgO6AFUZmOJg4t2fH/0YefXxEMgLLcutMYDdsOUxIAtP1ki/A/3moBkm8B6VGMiWFOE982EpqKr7Jhtkue2RKmwIwT7gqZcQU3bYtpK9cXfPcPZoA==;URseUPoqxxKlGUc0jKSLJg=="
+secured: "AChyHcy4X9mlsaYJXTjBL6Qbxd/aJjquFVZsHKok8PinUnEDO2N75aoiOOdGGPvnIRtY0qV0ablnwda6Pz4wxORwjk0IEI0wqFKtnISAkYz4sQ0uXuC3xr67GFJAuzRu3hhvHYG67NZB7I1u6w90+w1qsx01/3jQToldTKfmG+NQBmG++Rf32IzRTeveU1GUPv5vuwZRfnGXGAYm343XR+MrRblsqvDEpDCvRQJqXkF04Iq6kH2BrXb9hbGlNkPyg+J9zLbEAVdpTWBmMVkwZauRDhRHL1pK7Em4kB0R+tH86FdNaz2aXsXYh9sc5xOGmgnaNhOXMu079K79gJLssHdnE/sxxbCR5OnP20ZULkk=;ogxOz75zCgxg1t9eIAIkLw=="
 ---
 

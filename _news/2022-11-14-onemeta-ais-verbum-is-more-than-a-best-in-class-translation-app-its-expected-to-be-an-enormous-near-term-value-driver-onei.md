@@ -1,23 +1,31 @@
 ---
 category: news
-title: "OneMeta AI’s Verbum Is More Than A Best-In-Class Translation App, It’s Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
-excerpt: "Having transformative technology and assets can quickly turn smallcaps into large caps, and OneMeta AI (Ticker: ONEI) has positioned itself to prove that point. That's no overzealous presumption. It's a sentiment based on ONEI having,"
-publishedDateTime: 2022-11-14T10:18:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
-webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
+title: "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
+excerpt: "and OneMeta AI ONEI has positioned itself to prove that point. That's no overzealous presumption. It's a sentiment based on ONEI having, among other things, a proven and working language translation app separating itself from everything in the industry."
+publishedDateTime: 2022-11-14T11:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
+ampWebUrl: "https://www.benzinga.com/amp/content/29695590"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590"
 type: article
-quality: 0
-heat: 0
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
-secured: "WhvNqG+ZM0b/ozZbDPJasnGlCSiyHTQYyEIAo27rPzLruwG5T8zph+Aw/qJ/+RZ0E8kBumB2hJzxcjLqmKlWoQRfpxw1EKTzcZaOK9v0S7l6/a0l8EbpPLZqisx4uCdAkxrF7C50CpbfEi7+JrUcYY/IvuCZShDPedsFymYqNflT5/qDpQSf7XuMHSCEyTIEgo5gajZmp90sC2C83YYedVfX59QADCJE8aDSb5qhiGS2qwD37ZDqd4NcIzbp6AwRrpg7Nj1bMHIFc+HBmDSEtcm9Rf1GmvpIyPWAsSrQ395Ijhhqng/DYTffJ6d0Cfz+ablza1BgTIOhoKbh34lZYGTBWlQEeaqheaGZIr6n4nHimJZjf9ujegAX7wwdG6ev7JnJePy49kL8pcnDJobgKDocZj+zCV1KZ6WQpNg9LcpJfWiH/ZuOBPgE81FP+duQf8rkhXi0Y/Mos/84DplRpHbwi3rq73hLlxwR8pBANmQ0O1l2hHHnJ5Qmj7tH3NTZzdL7afOIlLDvb8jjNiDB3g==;ci2IfJM6t+dW1mmhAMyl5w=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1668104872.png"
+    width: 1222
+    height: 1091
+    isCached: true
+
+secured: "eMExvJP8pJbkJ+t4j0vThDr+ypaGjNWFdjzii9lpDuSwQ90jDR6Y9fBM0dwKGz9WijXTme+dcvBmXqx25teV27IYgCfxW/R1P4CwN+TBvbac5ZCUFo/7mut1XjmPv+PVFtUaXr9XXK4bKVgrR4uZ5YAuA0dMm+NIkeQc7bJha8yb+Wx3K2XuNmdbJPnOt7q351baR6jY2SZZZ8H8pDUewvwzZhcpYfyE0J8GE22ZitZya8tnCQkbkPRCaQDY+q3gW91oaWlVudJSDcPVDa7be88mUNrzi1NTt/NRaGJIeSWSnE7VYxJ51MyJgWSzNJsCZilG3rNvZyJSv+IPQIv8qgImItcUmot4YHLqCu6nr2s=;xgkZ0d3czc8GYttfLHd19A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 754
     isCached: true
 
-secured: "QjLbW3oYLrl4r2jaVzKBLiuELFemH6j76rpTxhfngiMy7e0FjP4jq3gW/lzZKrw/VFkGWEJ7nrKBe+Vj4q7HizAMKMzILU7IkadEFqpg7rMh0nhVyfKqmHRq7oW0hLPQAV+UDRatONGQYTxWanUETOVmf/J0XdjQq42JpCdoXe/Q3fzQ/sMTeDLkB1mjtEm/MXsl5bSUE0NmeZUwgSwktSGgCg8/S+GHVLTIq/YKZFd2OdbyDqhhb7Bdz0dlVHTqSg/f95W3zUgcYumX75h+jHA0EaMO4QjZUkv5pvf5vy86/4RBrJA5STXw4Lao3zez1gGJdpd3hxaFYfq8YQg+k1QdVkcJr+5fM9b9/v9J6No=;ufyzc+1NAXgmL1hsaxwZ5g=="
+secured: "r9em84PfWvTDDoCTK+v8YPjoo5i9EdJ9M1IujYZYCLs9aP9DTzyVKpowQRwRjvJxzlRNQXH9CiO+ailEPOqQSQUlir4rZHCZzQv8uULM17kZlGDoAPlcR6G88oY76pwUPDoRglRCnDBGI5x+aGngaJ9QkUoBEV0jWKcsccpHYZUFZmiQzK0BD28DPkDf946aGDVFwLhiHXons/ErYrHYfnRjM03stfORCgU2bXf2RouWVXW5TqGZBx+Rh0CmDJe2f6/3IG69S53B2gs3qr7U0CP3Ltahilv9ZFe7KQC2DVPiXzzhRX1OM88muDwkzQbJ+F8hGBQf+wiKUcdxkQwbaEJYVkmg4Hlm8womm3VxNQvmzamGkx6ArFrfrXoJSXUk3a2bPvtj0BeqvTJLZFnN2BZ8E2ZsirALcsfr60nE7N8TJ5R0NT0wKmC2+jPPHvz4Tm2jUDcVWnz/lqZemnNEA4r7hokgZze0FOS2gum+T//9/OKKBT3t68NlV2Vaqs0J2Qxv1/oKZtiJcJF+DeAtug==;0AAG9H8/xzoAwZDJX79RoQ=="
 ---
 

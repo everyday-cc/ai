@@ -7,8 +7,8 @@ originalUrl: "https://www.afr.com/technology/kkr-backs-aussie-robotics-company-i
 webUrl: "https://www.afr.com/technology/kkr-backs-aussie-robotics-company-in-blockbuster-108m-raise-20221115-p5byf4"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Australian Financial Review
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Aussie start-up raises $100m for AI tech"
+    excerpt: "Malcolm Turnbull is among investors backing an Australian firm developing AI, robotics and navigation technology for use on land, sea and in space."
+    publishedDateTime: 2022-11-16T23:20:00Z
+    webUrl: "https://www.perthnow.com.au/business/aussie-start-up-raises-100m-for-ai-tech-c-8882639"
+    ampWebUrl: "https://www.perthnow.com.au/business/aussie-start-up-raises-100m-for-ai-tech-c-8882639.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/aussie-start-up-raises-100m-for-ai-tech-c-8882639.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 57
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-8882639/b2a0f71abbb1507ce8e75546831809e4d4aa6b0a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8I9UK1jwwUol1p3/ntfY9HfzQzy7OLhA9IbfJe5zBH+9nT0YMyxgwAvAgQR/6elOKViiF2MwSrFImcjryr05uX62TyodbxoDHgFZv0AsHxbRfFwgKjT59m2ltr6RbCRkLmgHDDOZwGzfRSQFMQI6m5/P0FksvkT68a0MDECCRTt8TrKlfprPF/N7zKWBmn9xsAMWKOh3Q56lzx5XDSO6fQvCP+83YuGQ+k34WZL5XmMmkZNgXp+369bbljzS9Ouu+/fXTSNDbEkNV9X2eIwHnbxiCGPGaAvkAUvgvqI/daRmVzlyh7B2Et1GitibhYrKeZWKEW3VuwmGcPMR6ZPC3JoV1MP45GmEBkS4ls9E0t0=;8LrpNemV6G1cVmuGGtEoFw=="
 ---

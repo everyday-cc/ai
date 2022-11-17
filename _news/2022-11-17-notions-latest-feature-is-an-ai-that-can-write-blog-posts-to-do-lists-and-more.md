@@ -3,12 +3,12 @@ category: news
 title: "Notion's latest feature is an AI that can write blog posts, to-do lists and more"
 excerpt: "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,"
 publishedDateTime: 2022-11-16T20:56:00Z
-originalUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
-webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html"
+originalUrl: "https://www.engadget.com/notion-ai-announced-202032305.html?src=rss"
+webUrl: "https://www.engadget.com/notion-ai-announced-202032305.html?src=rss"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 72
+published: true
 
 provider:
   name: Engadget
@@ -21,6 +21,23 @@ provider:
 topics:
   - AI
 
-secured: "bXx1nGydaMnceT3vxxNOmFQ/Zuw367hzApTXRk9gAwypFoK5u8l8ntQj0vh77n2MvUSAZv7557+KKzfZbxTfQuC8Q+km6uV9qvlKHKnFVGnKHvroWHcl37D1DKsdbmkICJkNVtM+xTfInIyNbxw3ChKQPQeo3cmiggaZh+5V4aRjUMFYpruM4EIRHjkQqjfPq8Z4wUx8RvT9dkzZ4kxIm7QPsYQAnFZhRSNnax2BNTPJTAEK5N3tHpqb0A0sU5KQ/rxszMZvArfytazoG7PifdOs5JijCUgD3u4HYyPM1Cm7BqkfZXC7dcEnfqq9PSN5o74HcDzNfqLBgzuPvxrvBnGcvGX2L0UVEq6xE6d+EhzfTKpznMAmmnvvzHlu7OJgkf8/5/X8YLBSWD/OAJmAGTipAl/2k9canXonH3BOygsvn4ECT8YQ0mZ2qCmPTO8gMnF2f0X+yOw7538Ju+JMg1oAfl8W6E5t2627038NONZ29VU8pIGLV1QWZe4UUGhsxthdGmOvSvtwq5f/g2S3IQ==;U4JJ1vhvYhRX/KEGH4Lc9w=="
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5"
+    width: 1600
+    height: 1000
+    isCached: true
+
+related:
+  - title: "Notion is using AI to automatically write your blog posts, job descriptions, and poetry"
+    excerpt: "Zhao thinks Notion AI can help in both cases. “For many users in this space, it solves the cold start problem. And even more than that, it saves time.” Notion AI won’t write you a publishable blog post, but it can help you skip the crappy first draft ..."
+    publishedDateTime: 2022-11-16T14:28:00Z
+    webUrl: "https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 39
+
+secured: "qpphb8z8pDRvR5yefe2mPzDZuAxrFPDSYIo+PqVo3DIk+erXPuUhB3/N6x6JOH/eoahO2bGMziNI/+8T5Luv9h0SjkvtZzrtOtD4kQtoPR2H2v+0WBaRGVmuTTJh9TJNBR07nPHYauGssXI1rRo3kfOJmwSFSSdRMMvoQjo1h9lpCkuhSbbXfw2FWOh0xg24niEkz+KT+TFLqzu2iERIykmiziiSoJnV8/lGvkv0H6Hn+mFGx1Rv8opQYB25VM7eFNQhtNkjWKD1MaqNuJ66bQvj00Xjy3rcdJkKZjmnDNa5g4B5tbFTQXh0fnfpz21DfpN5+JzP81k7yfwq0RyuxT4o6y5pmCbEgV3U7f34VuY=;w1DKy7MDlemuAQoLyGn+SQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-natural-language-processing-helps-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:

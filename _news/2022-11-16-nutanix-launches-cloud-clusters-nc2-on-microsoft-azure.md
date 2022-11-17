@@ -115,6 +115,17 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
+    publishedDateTime: 2022-11-14T19:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z
@@ -146,6 +157,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/nvidia.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Nvidia says it is working with Microsoft to put AI in the cloud"
+    excerpt: "Nvidia declined to say how much the deal is worth, but industry sources said each A100 GPU is priced at about $10,000 to $12,000, and the H100 is far more expensive than that. “We're at that inflection point where AI is coming to the enterprise and getting those services out there that customers can use to deploy AI for business use cases is becoming real,"
+    publishedDateTime: 2022-11-16T19:41:00Z
+    webUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-build-massive-cloud-ai-computer-587898"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_480_1_70__News_20190812110543_CRN_690_cloud_generic_iStock-630019720.jpg"
+        width: 480
+        height: 298
         isCached: true
   - title: "Why PPFAS Mutual Fund continues to hold Alphabet, Microsoft, Amazon and Meta stocks"
     excerpt: "The Parag Parikh Flexi Cap Fund, which has been the flagship scheme of the fund house, has been investing in US stocks and has about 16% of the portfolio exposure to stocks namely Alphabet, Microsoft,"
@@ -233,15 +258,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Qualdo.ai's data reliability team today announced the availability of Qualdo-DRX in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Qualdo.ai customers can now take advantage of the productive and ..."
-    publishedDateTime: 2022-11-14T20:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-qualdo-drx-now-available-the-microsoft-azure-marketplace-/2022/11/14/9712550.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Ships ML.NET 2.0 and New Model Builder Version for Machine Learning"
     excerpt: "Heading the highlights of ML.NET 2.0 are new APIs for working with text, specifically text classification in Model Builder, along with a sentence similarity API."
     publishedDateTime: 2022-11-16T19:04:00Z
@@ -293,15 +309,6 @@ related:
         width: 2000
         height: 1498
         isCached: true
-  - title: "Nvidia says it is working with Microsoft to put AI in the cloud"
-    excerpt: "Nvidia declined to say how much the deal is worth, but industry sources said each A100 GPU is priced at about $10,000 to $12,000, and the H100 is far more expensive than that. “We're at that inflection point where AI is coming to the enterprise and ..."
-    publishedDateTime: 2022-11-16T19:41:00Z
-    webUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-put-ai-in-the-cloud-587898"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 36
   - title: "NVIDIA Teams With Microsoft to Build Massive Cloud AI Computer"
     excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s advanced supercomputing infrastructure combined with NVIDIA GPUs,"
     publishedDateTime: 2022-11-16T18:58:00Z

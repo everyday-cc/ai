@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/riot-games-and-ubisoft-team-up-on-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 96
 published: true
 
 provider:
