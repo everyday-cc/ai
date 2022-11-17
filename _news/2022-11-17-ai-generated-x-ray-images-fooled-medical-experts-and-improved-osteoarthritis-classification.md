@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI-generated x-ray images fooled medical experts and improved osteoarthritis classification"
+    excerpt: "Sharing medical data between laboratories and medical experts is important for medical research. However, data sharing is often sufficiently complex and sometimes even impossible due to the strict data regulatory legislation in Europe."
+    publishedDateTime: 2022-11-17T18:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221117102821.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
 
 secured: "fN69e1T4KZMJ+dAwHBQ3OXQ6mZxV+0ua8mB4rLb3aPWq/sYc6kAmAB2EOksVx7qndUxaKglPuW+9n9RyE/S/43+X+r/RVjjSWEQjGg6quh9dbD2zTgGF+oQ6Fp7aRbazAC3pa2b2soc9q9gCCg9cu2TSdKGKFpqcdCQLpep99WaPpx4C0cTlL7zP7QCXO1QuYP4TnTFNKFJwft7/7obC1OO4i7lZnoF2G/5MosqN0T5+Uur6VO0fFEl8DGnnWFQiei0Swu9JDgdpwmSmPQBCdULA5GUXnUI5dYSplySI6rpnP13sHD5xRbm24X4iecQVc+J9mdGREYb5M9Bl3+KlLMr1KBvu5rQ5eMEA4wJf1cU=;CXXGUSXpTWCimqzlTqDSXA=="
 ---

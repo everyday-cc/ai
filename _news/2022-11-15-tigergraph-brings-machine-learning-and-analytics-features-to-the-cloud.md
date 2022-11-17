@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence Based Predictive Analytics Platform Is Gaining"
+    excerpt: "Increasing focus on Artificial Intelligence (AI)-based predictive analytics platforms is gaining popularity in the healthcare predictive analytics market trends. Players in the healthcare predictive analytics market are focusing on the launch of AI-based predictive analytics platforms to sustain their position in the market."
+    publishedDateTime: 2022-11-17T18:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Analytics is changing. How are you keeping pace?"
     excerpt: "Forward-thinking technology leaders are deploying a future-ready data strategy that can scale with demand and evolve with changing business requirements."
     publishedDateTime: 2022-11-14T17:54:00Z

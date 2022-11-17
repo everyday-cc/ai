@@ -3,8 +3,8 @@ category: news
 title: "Nvidia Is Building an AI Supercomputer With Microsoft"
 excerpt: "Nvidia and Microsoft are teaming up to build \"one of the most powerful AI supercomputers in the world.\" Microsoft is set to provide the infrastructure using Azure, and Nvidia will of course provide the performance through its data center GPUs,"
 publishedDateTime: 2022-11-17T15:16:00Z
-originalUrl: "https://au.pcmag.com/news/97369/nvidia-is-building-an-ai-supercomputer-with-microsoft"
-webUrl: "https://au.pcmag.com/news/97369/nvidia-is-building-an-ai-supercomputer-with-microsoft"
+originalUrl: "https://www.pcmag.com/news/nvidia-is-building-an-ai-supercomputer-with-microsoft"
+webUrl: "https://www.pcmag.com/news/nvidia-is-building-an-ai-supercomputer-with-microsoft"
 type: article
 quality: 84
 heat: -1
@@ -19,13 +19,13 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-is-/nvidia-is-building-an-ai-supercomputer-with-microsoft_tqsk.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/02kY6ljyCNzOEcGjDxjcFgo-1.fit_lim.size_1200x630.v1668697582.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -227,6 +227,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/nvidia.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "AI Inference Company d-Matrix Announces Collaboration with Microsoft"
+    excerpt: "Matrix, a AI-compute and inference company, announced a collaboration with Microsoft using its low-code reinforcement learning (RL) platform, Project Bonsai, to enable an AI-trained compiler for d-Matrix’s  digital in-memory compute (DIMC) products."
+    publishedDateTime: 2022-11-17T15:12:00Z
+    webUrl: "https://insidehpc.com/2022/11/ai-inference-company-d-matrix-announces-collaboration-with-microsoft/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 56
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Future-of-Data-visualisation-Cover-Image.jpg"
+        width: 643
+        height: 898
         isCached: true
   - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
     excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
@@ -463,6 +477,6 @@ related:
       domain: business-standard.com
     quality: 33
 
-secured: "Ghy03WrPI+X0+ZHZDk82d4qIFs0ToT9zTDYfjXu437TEKT2PYR8xoTyORh2pJb0meVXDqM0C7RY3DdUCvKdcpckrcrb1IcDLB0XnW8WDamOOW8giFwaXIDfMbaq6LyQjYJny+mFOPItY264TuMtDwmYTQrfTdPXYFhiycouDL+A7w2K+QyHvuHMLS5K8TPGcV1R4Vee/rU4EJR3sMsqIksK/bsXdPXDyD1eQHmG4NnfsMsxgEswhLbiHZJLS5166AqOUnocPj0j0u+hVBLbbnGfe6iMHRn3UMrx4Gp06UWMXnrGNCS1pAM0oZ4b7hwnF1Vu2z6kTHlUiT8O/gKhmTmnuohEMB+g2CmeRMTzENdU=;3nTvO0LdS+3ccoBuw8lWjA=="
+secured: "4DlRLrag6grnO5gP4VdYItfCsMJ+qUWWTGOLh6uikNnc1dYyh58JP6xiw64xADXsEMXQzJh70NL4GzfTHnYoOdhYrrVBmjrqQnsRZpG2Sexn4RUAS0z2Bz5pVEE0eyd4o5ofCyMioykYNEXkvPQUD57+DcYxq4PrWPWDLSoTKeaMQKP7J3+JDBGk470CeJJCxJxTqzOUUtVogPODS+HVKl+WxrR/Ykm+UxEW6YConpV0OB26n/bNsbwQWA5MazBC2OyOXCuvnRyf7BLyBZR7lZOjFUYkYM4juOR7m02Kxf1lh2ynzIySsZhzAoR8ufRasfJurIAsZv+8/pPaonUD0s1RfZLccMNUZ8ri7A5wuqo=;ipkBtuMOyP4DfLyPWToTaQ=="
 ---
 

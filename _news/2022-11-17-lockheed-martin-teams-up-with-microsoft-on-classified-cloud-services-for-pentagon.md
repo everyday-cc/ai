@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified
 webUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: GeekWire
@@ -27,6 +27,22 @@ images:
     width: 1680
     height: 987
     isCached: true
+
+related:
+  - title: "Microsoft, Lockheed form new cloud collaboration pact"
+    excerpt: "The world's largest defense company has both internal initiatives and work with military customers in mind for this partnership."
+    publishedDateTime: 2022-11-17T17:47:00Z
+    webUrl: "https://washingtontechnology.com/companies/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379867/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/11/17/Cloud_Computing_IOT/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "F3e8NIpKnXH02c9aEPM12AVu1S0EMHaPAZW7OO5NiWyAFM9KwD6yuDnXbb2x6QMqO+OTsJ5e1UZXKv1d5N4mOtZzD/MuiFp6n9J0L3DgmVbi960deQkhnfergEXPHOyyDNAXTr6lANhUzciGTxzasQeyu0u30cyCxvSzmM+qb1NdKD7cQPLQoo0FXiroSgbJWZGJzSrMX7HfizEOetVia1iHNlrPWprk08Qsnm1+3ifFJ/Hug2ecsrnRYIGioXmfM6ICAyMLuboLytXLzA0bj2Uf9ty15sWz7IktYp4JSPwxUEQjO4zsrJdtXmrTnwZXdlACXnrOEOEYwX1NE+t+P1BwmBvuEIMUyTjsCNj2wbI7A7xhTX58wZX9/+UbAviInZSXEs+8NA6jIsJEfjMuw6GW/8IVZK29jpRpr9gAAsO2VM7DJV3Xgib0Nt6/1NnRvYz6G+dTDQcMIBLreAS71lG9NR5jruq+/NO0EXMikgTbfWFm84j1fk0wU/zgLXNqnYOeFnODHpvYXaodbjByTA==;g8e1/H5CSMoY7Eq9yFXi9g=="
 ---

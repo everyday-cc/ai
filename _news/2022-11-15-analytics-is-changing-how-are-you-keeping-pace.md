@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence Based Predictive Analytics Platform Is Gaining"
+    excerpt: "Increasing focus on Artificial Intelligence (AI)-based predictive analytics platforms is gaining popularity in the healthcare predictive analytics market trends. Players in the healthcare predictive analytics market are focusing on the launch of AI-based predictive analytics platforms to sustain their position in the market."
+    publishedDateTime: 2022-11-17T18:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "TigerGraph brings machine learning and analytics features to the cloud"
     excerpt: "Performing machine learning (ML) directly inside the database is becoming an essential feature for databases. In the best scenarios, it can save the time for exporting the data to a separate function, a delay that can be substantial with large datasets. “"
     publishedDateTime: 2022-11-15T14:00:00Z

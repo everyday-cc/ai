@@ -55,6 +55,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "Build high performing image classification models using Amazon SageMaker JumpStart"
+    excerpt: "Image classification is a computer vision-based machine learning (ML) technique that allows you to classify images. Some well-known examples of image classification include classifying handwritten digits, medical image classification, and facial recognition. Image classification is a useful technique"
+    publishedDateTime: 2022-11-17T18:00:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-high-performing-image-classification-models-using-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/high-performing-image-classification-models-sagemaker.jpg"
+        width: 1548
+        height: 773
+        isCached: true
   - title: "Large-scale feature engineering with sensitive data protection using AWS Glue interactive sessions and Amazon SageMaker Studio"
     excerpt: "Organizations are using machine learning (ML) and AI services to enhance customer experience, reduce operational cost, and unlock new possibilities to improve business outcomes. Data underpins ML and AI use cases and is a strategic asset to an organization. As data is growing at an exponential rate,"
     publishedDateTime: 2022-11-17T16:35:20Z

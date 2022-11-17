@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20221117/Artificial-neural-net
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: News Medical
@@ -44,6 +44,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "AI-generated x-ray images fooled medical experts and improved osteoarthritis classification"
+    excerpt: "Sharing medical data between laboratories and medical experts is important for medical research. However, data sharing is often sufficiently complex and sometimes even impossible due to the strict data regulatory legislation in Europe."
+    publishedDateTime: 2022-11-17T18:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221117102821.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
 
 secured: "O+4W0kyooIjcG/QAgjEhBnnBpP6N867P3fNFRILtn6e0zyTpzXektXN18P2g3QS2Wue9g2XgixNTtQ1sJsHVVSG4bmfZIMXTk8PVNH7/CqcWGoh+scufqlHOkO5+bdPs9DR0Xg7NDa/qBbM7xJ5bekJIegh4KoE6nY0F2wc8WsmZWETljIMygkzPDWHKgLx9XMJ5+oivEnEt6h9mWsUnAEZS5Z1f/FXYKSsgVTRoF4eei3TLw8RVdhjTNiHSu8UDwO6edSE+CTGeGWhYcRVQXJP0eCJuhyi4xSUXBj9nzDUJU/ohmgccpDYja0quKwiQjlaKvKJZ23rwZbwuYdXvYIbb/GgHxN7DEEGWb89n2xGJBUqdrKhMMJ+HTnwxwociJ1UoufzJ0nBAV940F6xepHO81cgdjJEzrVvJvkybaAnVii36TO/bbbgQ74AlWgb1HDGrwA7enMWgw8N2Y/UrUfvd711pveS1JtHc1cbbHLXiMsETD9tHaZH5hh7as2oxrPnzw5gOllCj35WQdMMhXw==;cqiw8BWLtvxlL1X7aLuEIw=="
 ---

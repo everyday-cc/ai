@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to
 ampWebUrl: "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 100
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/10/image_Wifi3R_2022Q1_22H024x007_007_Chatham.max-1000x1000-1.jpg"
@@ -41,6 +42,6 @@ related:
       domain: techcrunch.com
     quality: 47
 
-secured: "YgP3jNWiyWlQA4+IHNvPPHBD5UuI47G0KGdOZ3PVGy1t2I0m+RjrB/lwaLKTr5S2+phfXDLCpbJ+vG/+qW2zGDwhKms4siiMJyoGJPtQbc/zMIULK3i2PGVJ1UY6nBewawQb5DRlbbXfglEAAm2769qLezjDsxquW+oejdNaVHx+rtewyOEda0na7gzBMBPVkQEF6QCPXxjfaKhfosugozNIrKIgNpKow/1VgTnRcnQC0OfW8TgrO6cCHf4oqUipRaPeihhZVWTTBsPQgHPeb4W+Bphgr5kZzhWE3ix4vAd1T3mwp0azKTecKGhtrovWAYK4xxZcV9qrKU6+uRUTrpnbB7XU2Pd9NPc6/+R4PYg=;2PGTxEqK5brWvsrePWd+TQ=="
+secured: "1ZI7ZXzbuxGzSLvRIcX+l1OvQEq1lhJmHbvB+MXX/5DyRANnpw3m1L4CfIvd+LD0KlwIpFdOklS5cO8uR2Dm9Z3A8yTZ+E1fj2pJN7093yTDCFsR5zgUH7Hx2EWLgUzGMa6S+Oh6WWKPhj3FBda8sx4tdC7uW0lUwncUhRuDxa+DYfD6vNsiI5vF49GRw2fEHpTXXsWyfas5tdSAPs53/kM/rCunkrknGlbUn6k9Ykh5rWOginzVp6+PsVGZxh79BbaGLgT1XzWXHQaWchaQzlUplKnkbQRCxYXVYF7XO0oLxDNpso+9nRw/+OCkGNavRRu794iedp+Hjfa5vvd1UeMKlZUvw65ZV5d0UwVbIEkcn0UXyADZjYKvxf0Csel0en1C4Pu+k5ZBnlqOXUD5Hx5mReRqlpPaYv+Sq1LVK1wGhbSNstfL65nRin9ghFz2oScgRVyP9ygnL9L57h2i5uq6Kt9GwCIJq36NDdBv92Kk/Jd7Wj5hMy71O71sldzPRTAaYlFqzVtmQbD6bwNyVg==;E/6lgZrx8a8dQTe6K+8ANw=="
 ---
 

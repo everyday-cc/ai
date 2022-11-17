@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken
 ampWebUrl: "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/637652b1faac083553360160/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "X5mFvhUkXTRzidYVj3WwA3lM5fqlbTJMdzgIf4v/7CX3CzPhxwXovpeKNROfnhW+uW5eDlKlM5HPYCmUjKlkk1Uw6zqNlG2XElpnSvLGYZnYt77qU7F0BzNKa/0rJvGmII4oD6k8Esdz54O4sVe270Wd+9wzgkSxyVLITX8TsRAnv0N3X7GEIFM3V4omQqYicdBkV0LUrYObusJF6zkLH4ZtB95p6iWuxf2ebTUQwFzuIw3cAuhH5gAi+QkNEO59Zg/xh13+KL9WvGYP/ZUgzqMUWvRhhRDUAO3gN9n99xo595RcyzMbmppNHCNPIcLD9ZMYpKm0qgJq4fJOnoYxiUrVSno6aeWSw3HVyRg4CoY=;AyiKdY88sR4HI35EpGXSfg=="
+secured: "uV/2efjC73BYE7SO78btENK4ycXMoATydjLKcgYkN+XGn2gr5JZWXoAFZVkyYZoDwxWx7xUmmAcoyNXYeUf/iy3EVFp8EbXRgA8XrtFatEB1qjJLUPuTUqrHKMcuy1/vjiBNFe2p3uF+CA+OVw/aDQUo+ZTSl2k+tzveODyKik7YFCgxkJCUKLzhydL6VxAOX/dmNYwdb3ZApq056LbWgGXqwzFrz7/hkOVzbBeUF3cTpikxDlpqPGtjn0O1IJLyXFqcO5qIwU2uEo1kVd/Qs0NtYHib1BTg5+rkbsYCFWfeVH2i2giqMsQu1UCe9BqamMo1xbQjmF+Kh6NqJZNch1P3vnGxvmRfJbQ44M6eaR5niZ76I8rucDrD7S1DTSxNr23mAmpmcyJ8z1TD+IcIwuBfOWbz03Qu96Qkv7se5k3FA4i+vcelN+AcvBJ82dINO1skv6rum8znhc9oHmgX9nmIOOjSkqG2e8p9ScvPVUjdCk3G1/NYmuwXVhZMitADZ7Eebpp8rFR/mV6amqm2vg==;lcprzRdLgvaYa5QhH6d6yw=="
 ---
 
