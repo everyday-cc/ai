@@ -14,7 +14,7 @@ website: https://t.co/OiHC3bfPoX
 twitter:
   username: KyleCranmer
   url: https://twitter.com/KyleCranmer
-  followers: 13953
+  followers: 13954
 
 googleScholar:
   url: https://scholar.google.com/citations?user=EZjSxgwAAAAJ
