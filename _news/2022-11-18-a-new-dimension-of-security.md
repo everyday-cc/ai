@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T13:02:00Z
 originalUrl: "https://www.jamaicaobserver.com/business/a-new-dimension-of-security/"
 webUrl: "https://www.jamaicaobserver.com/business/a-new-dimension-of-security/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Jamaica Observer

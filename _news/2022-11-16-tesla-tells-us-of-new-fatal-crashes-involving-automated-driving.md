@@ -33,6 +33,29 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Tech billionaire wages war on ‘safety’ of self-driving Teslas"
+    excerpt: "O’Dowd alleges that Tesla ’s full self-driving software is dangerous and warns that if regulators do not intervene it could lead to death and destruction on the roads. Musk, who believes technology will eventually help to eliminate road deaths ..."
+    publishedDateTime: 2022-11-18T15:06:00Z
+    webUrl: "https://www.thetimes.co.uk/article/tech-billionaire-wages-war-on-safety-of-self-driving-teslas-t2pjvnc7d"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F94037810-6711-11ed-9ccc-9d160947f622.jpg?crop=2488%2C1400%2C0%2C130&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Waymo is using its self-driving taxis to create real-time weather maps"
+    excerpt: "Self-driving cars frequently have trouble with poor weather, but Waymo thinks it can overcome these limitations by using its autonomous taxis as weather gauges. The company has revealed that its ..."
+    publishedDateTime: 2022-11-14T18:44:00Z
+    webUrl: "https://www.engadget.com/waymo-robotaxi-weather-station-maps-174012064.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 49
   - title: "WATCH | Scary as self-driving Tesla malfunctioned [VIDEO]"
     excerpt: "Ah, we all love a bit of video content, don’t we? It’s engaging, exciting and a different way of consuming content. We also love consuming as much news as we possibly can to stay in the know but we have busy lives so if we can get a taste of what’s ..."
     publishedDateTime: 2022-11-18T09:35:00Z

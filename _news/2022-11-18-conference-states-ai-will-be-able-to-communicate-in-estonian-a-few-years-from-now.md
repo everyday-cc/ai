@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T13:03:00Z
 originalUrl: "https://www.baltictimes.com/conference__state_s_ai_will_be_able_to_communicate_in_estonian_a_few_years_from_now/"
 webUrl: "https://www.baltictimes.com/conference__state_s_ai_will_be_able_to_communicate_in_estonian_a_few_years_from_now/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Baltic Times

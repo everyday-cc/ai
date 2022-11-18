@@ -38,6 +38,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Positive Liver Cancer Detection Data Published in Cancer Discovery Shows Further Promise of Delfi's AI Liquid Biopsy Platform"
+    excerpt: "Findings to be Presented at AACR Precision Prevention, Early Detection and Interception of Cancer Conference BALTIMORE and PALO ALTO, Calif., Nov. 18, 2022 /PRNewswire/ -- Positive liver cancer detection data published in Cancer Discovery 1 demonstrates ..."
+    publishedDateTime: 2022-11-18T16:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/positive-liver-cancer-detection-data-published-in-cancer-discovery-shows-further-promise-of-delfi-s-ai-liquid-biopsy-platform-1031925851"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/1950933/Delfi_Diagnostics_Liver_Cancer.jpg"
+        width: 300
+        height: 400
+        isCached: true
 
 secured: "u8kxOPCWJUDB8VxAvFFZnaEFhl3IL/Szxhfse9vqa2VorzczebUMBjZRk4KG6Qtq+hJrvCLZHeiCOtkyZ3Kkn4Iz1Jv/yqQDpXLhNu85nnUaMs+kOPuN+rNagFfp/RulV0sUmEgAspLzVONpW6X/FeXM5KUd2l15oLthJIaoCoNHVzg/q/1q1pjXAHc41UglfsW0aj3HJiHvDdd0yuh8neIMihM5wL8b6Wth12YpBcUVvSpLJLJz6GguWIrbjq3Nkqp5Yqq60pSOTHv5iuabI4Gw/cFycDRsSLir10JOBBf25mO3XqAeV/JIXMji0ghwv80Nt4Il3T6p6Y7QjjN4MXr/+IiI2ectvQgD0wV/hnE=;LSTJDrUxLSO/Uc8HwMISOg=="
 ---

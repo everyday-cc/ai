@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech Report Reveals that Consumers Remain Biggest Focus, with Firms Increasingly Investing in AI"
-    excerpt: "FinTech Connect released its Industry Benchmark Report, Fintech in Flux: Thriving in the Age of Uncertainty, showing customers are \"biggest focus.\""
-    publishedDateTime: 2022-11-13T21:43:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 45
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Fintech-New-York-City.jpg"
-        width: 1600
-        height: 1186
-        isCached: true
 
 secured: "eUGUpQrOUb5+xQi9hLozgJAjCmRnDj3ES9bby388O+ZTWbTBbftSdVIdow9HkgpJ7d0t01YPhtoh+hsJxOFSMIsmaSOWiQQsttDZXM5PbhaHGyUwjxlOo2okGkG5dT+WFD0Eoee8ViBc5D6wGtkn8/xmbLk3/iHcA3/IBsSGWlGcKmvaqyAOwS+u92Fr29CeNId0pjFUQsrnfuBrK/TMMCfNdXNy/CyZ8L4bRy2QepTC7ywlT6MgvQgURb2EQnyZOedmCgAH3/e62Bmzt+yLeaAdcOatZF84KAkb6ZrZaAA8guNZEK1ZQ+8Tos6ZxVnwvUM0Z0oR+zXeVZMPoh+up9zZFhhDo7gQTHhZK2JQy2TqQuHJRBFIshG48d8WzgSnyVP23tJXtfauspyqSU0tw2zhIeBkpbq4i5YHAIBLHAkZV/g9o6SH9lXFbyPsyQ5Uo5AlH+u1dZRfFc/JBzkIoqonDG3JJafEaLxBJvewrBaJiYg68xEP8jAcUK3EgDH6oMx+HW2rjWIhp56TcAt/ww==;lXgk5RwmNfMtI/VmHvmAHQ=="
 ---

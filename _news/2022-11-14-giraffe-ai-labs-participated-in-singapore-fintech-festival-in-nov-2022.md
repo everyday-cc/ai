@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/giraffe-ai-labs-particip
 webUrl: "https://www.marketwatch.com/press-release/giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022-2022-11-14"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Report Reveals that Consumers Remain Biggest Focus, with Firms Increasingly Investing in AI"
-    excerpt: "FinTech Connect released its Industry Benchmark Report, Fintech in Flux: Thriving in the Age of Uncertainty, showing customers are \"biggest focus.\""
-    publishedDateTime: 2022-11-13T21:43:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198593-fintech-report-reveals-that-consumers-remain-biggest-focus-with-firms-increasingly-investing-in-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 45
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Fintech-New-York-City.jpg"
-        width: 1600
-        height: 1186
-        isCached: true
   - title: "UnionBank’s evolving ecosystem showcased at Singapore Fintech Festival 2022"
     excerpt: "By Adrian Paul B. Conoza, Special Features and Content Editor The Philippines is proudly represented in the global financial technology (fintech) space as Union Bank of the Philippines (UnionBank) once again joined the Singapore Fintech Festival (SFF),"
     publishedDateTime: 2022-11-16T00:00:00Z

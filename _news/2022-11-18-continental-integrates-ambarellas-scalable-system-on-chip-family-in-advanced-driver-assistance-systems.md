@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T14:25:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-continental-integrates-ambarellas-scalable-system-on-chip-family-/2022/11/18/9716911.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-continental-integrates-ambarellas-scalable-system-on-chip-family-/2022/11/18/9716911.htm"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: TMCnet

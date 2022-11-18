@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T14:11:00Z
 originalUrl: "https://www.qmul.ac.uk/media/news/2022/pr/queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications-.html"
 webUrl: "https://www.qmul.ac.uk/media/news/2022/pr/queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications-.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Queen Mary University of London

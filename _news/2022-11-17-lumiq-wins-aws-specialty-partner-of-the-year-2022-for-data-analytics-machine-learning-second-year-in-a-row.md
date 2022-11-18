@@ -1,22 +1,30 @@
 ---
 category: news
 title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
-excerpt: "Bengaluru Karnataka [India] November 17 ANIPRNewswire India leading Data Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data Analytics and Machine Learning at the recent"
-publishedDateTime: 2022-11-17T07:32:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
-webUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
+excerpt: "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape."
+publishedDateTime: 2022-11-17T06:03:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AWS AI
 
-secured: "jRdYDxhN3VJBX12tIVc6WLv3DmRge9ZYmNUzj3h0RFV6kE3NmvO1qtaBaIVqV/imI6ZWlxrHauDxTRqkScNirluFUfMzcEW4YlVNFJ18m+WpOY4bADJ1vSZ8eYsbSq4V9jmVZrNEN8L0XMjbeBqXOVUPkZY2x2W+oSLEBZRr1/39a3gpfPBT4Xa5IluX8Klg+0PtIbVgMavZJUbvbcij7RPHrqp1T+7h0TRiMfaIyaB+8fR5KKU7chEDWjg+Gy/7IiBLcGJfkSaU4QOWfcrojDq1qzgu6gFpSQJnfrZ5J8pb38pEiXkvtOW2pbXUd/EL2OP1wENIhwoPPYZhhkasEyy1Vha/oBi2m0q+/PxyFaF7++2QqTSBEub25gJytU6fKah7ZQHLOWFmFCtwMnufF3vCpoCFPfUjzvlKlTqFSMxcZAw6ATvMuSu1hfQYC4SA4dnu/1hK/PYW59P4jIXUcoIFGhYs109pbM0XKMp12b3Uz+sMv/xyzx25AUbK2wP0mQiYDPI+fehWt9hjEPTtag==;6Ht4sAaOwVrRFreF8sMdkw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "vKvgWWAHNkzeCryfOAPyrHZc79fHbrE0T3iGjtA73g5isIznZQIDMd7MWO7ivucUvt9ECS/58C8lgbwVo9266HPf/GyWUoZPmnw2m3dD7Led25ajqmYvcDTNh5bKwi7pf97eVgGFjHIMYV/RQhY3iZQFqNfrRcz4z9tKuq5ebPpwlm98qC05y5zrmHQhDgiVSqqguNr+ozsCHYYYpNl4xZe76lohpoEChuYBBOZoE+jTSHLIwLJJyx/uukkytMQ1/EeSJY65TcA5X2Ty/0c4qxaIxU8h5gtoGJDrQkcKiVsHLNRS9mfrre0Ly3G/MfZwKsrjTyVGRnYpWyHZm4whaov923tPr04+I0ejyzUgMzc=;sqLZuy8d4BfJ5PdkV8kWFg=="
 ---
 

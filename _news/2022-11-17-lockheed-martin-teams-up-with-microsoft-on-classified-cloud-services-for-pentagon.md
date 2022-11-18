@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified
 webUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -52,6 +52,17 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Lockheed Martin, Microsoft announce landmark agreement on classified cloud, advanced technologies for Department of Defense"
+    excerpt: "Artificial Intelligence/Machine Learning (AI/ML), Modeling and Simulation Capabilities ... Digital Transformation:ï¿½Microsoft Azure will power Lockheed Martin's digital transformation journey, accelerating enterprise-wide productivity gains to deliver ..."
+    publishedDateTime: 2022-11-18T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/w29785718/lockheed-martin-microsoft-announce-landmark-agreement-on-classified-cloud-advanced-technologies-fo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29785718"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785718"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "F3e8NIpKnXH02c9aEPM12AVu1S0EMHaPAZW7OO5NiWyAFM9KwD6yuDnXbb2x6QMqO+OTsJ5e1UZXKv1d5N4mOtZzD/MuiFp6n9J0L3DgmVbi960deQkhnfergEXPHOyyDNAXTr6lANhUzciGTxzasQeyu0u30cyCxvSzmM+qb1NdKD7cQPLQoo0FXiroSgbJWZGJzSrMX7HfizEOetVia1iHNlrPWprk08Qsnm1+3ifFJ/Hug2ecsrnRYIGioXmfM6ICAyMLuboLytXLzA0bj2Uf9ty15sWz7IktYp4JSPwxUEQjO4zsrJdtXmrTnwZXdlACXnrOEOEYwX1NE+t+P1BwmBvuEIMUyTjsCNj2wbI7A7xhTX58wZX9/+UbAviInZSXEs+8NA6jIsJEfjMuw6GW/8IVZK29jpRpr9gAAsO2VM7DJV3Xgib0Nt6/1NnRvYz6G+dTDQcMIBLreAS71lG9NR5jruq+/NO0EXMikgTbfWFm84j1fk0wU/zgLXNqnYOeFnODHpvYXaodbjByTA==;g8e1/H5CSMoY7Eq9yFXi9g=="
 ---

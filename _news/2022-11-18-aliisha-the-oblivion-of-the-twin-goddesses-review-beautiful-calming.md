@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T14:33:00Z
 originalUrl: "https://www.fortressofsolitude.co.za/aliisha-the-oblivion-of-the-twin-goddesses-review-beautiful-calming/"
 webUrl: "https://www.fortressofsolitude.co.za/aliisha-the-oblivion-of-the-twin-goddesses-review-beautiful-calming/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: fortressofsolitude.co.za

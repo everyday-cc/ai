@@ -31,16 +31,16 @@ images:
 
 related:
   - title: "Paper calls for ethical governance of artificial intelligence"
-    excerpt: "A humanoid robot called Walker X plays Chinese chess at the World Artificial Intelligence Conference in Shanghai in June, 2021. [Photo/CHINA DAILY] China has shared its positions on the supervision, development and use of artificial intelligence ..."
-    publishedDateTime: 2022-11-18T01:30:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
+    excerpt: "China has shared its positions on the supervision, development and use of artificial intelligence, as well as on related international cooperation, in a paper that calls for strengthened ethical governance of AI,"
+    publishedDateTime: 2022-11-18T02:10:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 56
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg"
+      - url: "https://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg"
         width: 720
         height: 480
         isCached: true

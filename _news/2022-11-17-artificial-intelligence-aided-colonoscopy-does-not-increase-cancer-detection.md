@@ -7,8 +7,8 @@ originalUrl: "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-
 webUrl: "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Sioux City Journal
@@ -38,6 +38,20 @@ related:
       - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/11/image1668750544.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Positive Liver Cancer Detection Data Published in Cancer Discovery Shows Further Promise of Delfi's AI Liquid Biopsy Platform"
+    excerpt: "Findings to be Presented at AACR Precision Prevention, Early Detection and Interception of Cancer Conference BALTIMORE and PALO ALTO, Calif., Nov. 18, 2022 /PRNewswire/ -- Positive liver cancer detection data published in Cancer Discovery 1 demonstrates ..."
+    publishedDateTime: 2022-11-18T16:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/positive-liver-cancer-detection-data-published-in-cancer-discovery-shows-further-promise-of-delfi-s-ai-liquid-biopsy-platform-1031925851"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/1950933/Delfi_Diagnostics_Liver_Cancer.jpg"
+        width: 300
+        height: 400
         isCached: true
 
 secured: "I3pmCksKuXeEu5bB/EqoRhW2UJcWCzsEEfisnO0Tu73I1jB3TzuNTleivXx78COq+Nqi+tcwt8cQjgulLhVJOA9MQ3hcqYU/7f2M6lOWFEWxjGpeOY+WiHvKXIPT0VB5L//5XTrry59Wf8O/FiklGbgt47+dlOw23b5sKHo0RcezDVWKhOf84SdOJCypwovgzYoi84NyzNO+Pqj7/ONsFXCDFStqrhyAX2moqbQfyCBWcteUUAox1R/LZsLUU3zZ0Ev8r2j29zYyf0xlt+AuPe1uCbghK7YBHwsM+weXtqtgvrc3Wvpk+6NTjh0Wtl8Socvx6ii/MUoFNsLKDDucbnTd9jm5FcMzlteW8KTZdns=;BR3rHvop8v1qeTggoq4ZrQ=="

@@ -385,6 +385,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Nvidia and Microsoft are building a supercomputer in the cloud"
+    excerpt: "NVIDIA is also set to utilize Azure’s scalable virtual machine instances to research and further advances ... Megatron Turing NLG 530B provide the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video or audio."
+    publishedDateTime: 2022-11-18T14:41:00Z
+    webUrl: "https://www.techradar.com/news/nvidia-and-microsoft-are-building-a-supercomputer-in-the-cloud"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 49
   - title: "NVIDIA and Microsoft team up to build an AI cloud computer that probably won't become Skynet"
     excerpt: "NVIDIA and Microsoft's AI cloud computer probably won't take over the world. What could possibly go wrong!? Well, probably nothing really (maybe?) Today, Microsoft and NVIDIA announced a multi-year partnership to develop a new type of AI cloud computer for Azure customers,"
     publishedDateTime: 2022-11-17T09:43:00Z
@@ -458,6 +467,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Nvidia and Microsoft team up for ‘most powerful’ AI supercomputer"
+    excerpt: "The deal will see Nvidia contribute tens of thousands of GPUs, networking technology, and its full stack of AI software to Microsoft Azure cloud’s supercomputing infrastructure, which already utilises ND and NC-series virtual machines trained to work on ..."
+    publishedDateTime: 2022-11-18T12:21:00Z
+    webUrl: "https://www.techcentral.ie/nvidia-and-microsoft-team-up-to-build-most-powerful-ai-supercomputer/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
     quality: 34
   - title: "Nvidia to collaborate with Microsoft for 'massive' AI supercomputer"
     excerpt: "According to The Verge, as part of the partnership, Nvidia will make use of Microsoft's scalable virtual machine instances to accelerate the development of generative AI models like DALL-E. The AI supercomputer will make use of thousands of Nvidia's powerful H100 and A100 data centre GPUs as well as its Quantum-2 InfiniBand networking architecture,"

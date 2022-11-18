@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-samsung-dea
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-samsung-deals-this-week/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Walmart Deals for Days: This $119 robot vacuum deal is one of the best we've seen this Black Friday"
+    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
+    publishedDateTime: 2022-11-18T15:56:00Z
+    webUrl: "https://www.cbsnews.com/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 45
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/18/c8502349-33f1-45e1-8dce-ae2bae7dabec/thumbnail/1200x630/c599ebe5043f0f0444d6131eda127da3/eufy-by-anker-robo-vacuum-g32-pro-119.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7ekS1zAc8KjbvviSqVgGLJowjWGDx1OhzqeEIkR04RD0QLLxAOGZp6oylaz4m1wsVg4dEFXwlgNEhFAjiGVOpfad9NdO45doSp2vbnDStQLFAa+I+KtAVGDIaUgauJVEyzK0RFcqKZMN9LVpPEDMHz7oBKoH+AGFhJnWbis9JAJtfF+n4zXZZvGhOzvNRncsuaPZvaGJbMAUlZQMrPzKxK5VZ3xkXX/i4007pIma7AIkj/LJ1OY4Z1Jn2i5i3NRUWItvwRNZG0pCQ391LKvDRGuJurxLouQmJuI3OLInnIwk7Ybdy81ofPfX6sbJTQziBk7b3gagWGTZ81erzCTHD4dQE1DoeB4DsUhRbBsgKoE=;zDvp0GwzO8kNEw/hgzj8bQ=="
 ---

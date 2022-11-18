@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T12:43:00Z
 originalUrl: "https://www.theglobeandmail.com/arts/books/article-best-book-gift-2022/"
 webUrl: "https://www.theglobeandmail.com/arts/books/article-best-book-gift-2022/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Globe and Mail

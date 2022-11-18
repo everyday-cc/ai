@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T17:46:00Z
 originalUrl: "https://www.csrwire.com/press_releases/760051-new-holland-presents-driverless-t8-tractor-raven-autonomytm-sima-paris"
 webUrl: "https://www.csrwire.com/press_releases/760051-new-holland-presents-driverless-t8-tractor-raven-autonomytm-sima-paris"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: CSR Wire

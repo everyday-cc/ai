@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T13:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/18/an-executives-guide-to-understanding-where-conversational-ai-can-best-impact-cx/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/18/an-executives-guide-to-understanding-where-conversational-ai-can-best-impact-cx/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Forbes

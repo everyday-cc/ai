@@ -47,6 +47,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Lockheed Martin, Microsoft announce landmark agreement on classified cloud, advanced technologies for Department of Defense"
+    excerpt: "Artificial Intelligence/Machine Learning (AI/ML), Modeling and Simulation Capabilities ... Digital Transformation:ï¿½Microsoft Azure will power Lockheed Martin's digital transformation journey, accelerating enterprise-wide productivity gains to deliver ..."
+    publishedDateTime: 2022-11-18T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/w29785718/lockheed-martin-microsoft-announce-landmark-agreement-on-classified-cloud-advanced-technologies-fo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29785718"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785718"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "n5TnOImwnEjtHDcx8iSjm+E24dbnUamkzT1lwWc8o8mi9lNomNcMwWp5siq6AEsFMZtFnZ2ciJxF6fPbJ4CscgwQiA4tPNpWrPEsQEefKhDmuB4gjyxug2DW+Wdga6RRwDi7cmzpgGFOJ/0b6cKg1zFGSPphP6DUGs4hUuy93N8m8VRFKCPDy/dwYuzgW9BeExsWiBfGW6TOsBUB856JJeMw/UAXTVK4dQKPgcvQwhtKYTP/dG23M0VWOiUDQpRQQbjezIuUy0aG+1gyOg36v7mvPRu8Q72h09/rf8KvEvee0NFQ14oWr2hauV5ErXfz6QCQPzcskV0chS9nj//bPViWzQCOMoaCaphmlR2Tyr4=;tA6xrcfrLgKnMk2yRhkRsg=="
 ---

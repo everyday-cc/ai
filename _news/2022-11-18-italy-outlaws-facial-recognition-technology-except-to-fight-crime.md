@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Italy bans the use of facial-recognition technology"
-    excerpt: "Italy's Data Protection Agency has issued a rebuke to two municipalities experimenting with ‘smart glasses’ and facial-recognition technology."
-    publishedDateTime: 2022-11-15T17:36:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/11/italy-bans-the-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/19915/untitled-design-5.jpg?crop=0,0.27416666666666667,0,0.23364583333333328&cropmode=percentage&width=1200&height=450&rnd=133130029250000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "7dLMVCrqEfeW/eyRqPy70g2VTTkQzbY5+Lv61rKma2riklvGSkS3tsrzhYiJU0KrQJ6Pw1bmO8oA3vtWpkHMJtYRsaNxm2ljCtw8NCe7bRX4HkfNfkoCuR+KROBICEeznATmUnwd8UvGqWp4PmAUejrLj9vNjw0uh/mBOoSJM8Oow2nDtc/QedkybJT+HJgwcCNkHvw2so2tRQIGv5HsTIf+nj85cFwUq02T50f1CkMe/6YLrcPO1C+bZ8u7IGKXd5FBCKcJHLuHsHdRl065VkOoh2rSaePY3QdYmqP2gsqsZMahsHdwAtimVy/tm5KOarY0kubcn1nr11R6Us/L6N9M+VW19dfIcmV7Aay2qO0=;XyLixhJG7JWnRteF/RK9Ag=="
 ---

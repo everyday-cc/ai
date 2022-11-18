@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "‘Full-on robot writing’: the artificial intelligence challenge facing universities"
+    excerpt: "“Waiting in front of the lecture hall for my next class to start, and beside me two students ... computer theorist Ben Goertzel proposed what he called the “robot university student test”, arguing that an AI capable of obtaining a degree in a same ..."
+    publishedDateTime: 2022-11-18T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 68
+    images:
+      - url: "https://i.guim.co.uk/img/media/1143a55bd5f548d54d15ed8041088b5a8bf2f82e/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=7707616aa038a0125e220cf9679ed8a0"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Explore Why AI Writing Assistant Software Market 2022 Is Thriving Worldwide by 2026?"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Writing Assistant Software Market\" Insights 2022"
     publishedDateTime: 2022-11-15T06:01:00Z

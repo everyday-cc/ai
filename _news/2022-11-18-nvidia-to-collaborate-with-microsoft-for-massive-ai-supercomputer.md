@@ -384,6 +384,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Nvidia and Microsoft are building a supercomputer in the cloud"
+    excerpt: "NVIDIA is also set to utilize Azure’s scalable virtual machine instances to research and further advances ... Megatron Turing NLG 530B provide the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video or audio."
+    publishedDateTime: 2022-11-18T14:41:00Z
+    webUrl: "https://www.techradar.com/news/nvidia-and-microsoft-are-building-a-supercomputer-in-the-cloud"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 49
   - title: "Microsoft Ships ML.NET 2.0 and New Model Builder Version for Machine Learning"
     excerpt: "Heading the highlights of ML.NET 2.0 are new APIs for working with text, specifically text classification in Model Builder, along with a sentence similarity API."
     publishedDateTime: 2022-11-16T19:04:00Z
@@ -466,6 +475,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Nvidia and Microsoft team up for ‘most powerful’ AI supercomputer"
+    excerpt: "The deal will see Nvidia contribute tens of thousands of GPUs, networking technology, and its full stack of AI software to Microsoft Azure cloud’s supercomputing infrastructure, which already utilises ND and NC-series virtual machines trained to work on ..."
+    publishedDateTime: 2022-11-18T12:21:00Z
+    webUrl: "https://www.techcentral.ie/nvidia-and-microsoft-team-up-to-build-most-powerful-ai-supercomputer/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
     quality: 34
   - title: "Nvidia, Microsoft team up to build one of most powerful AI supercomputers"
     excerpt: "Nvidia has announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world. \"AI technology advances as well as industry adoption are accelerating."
