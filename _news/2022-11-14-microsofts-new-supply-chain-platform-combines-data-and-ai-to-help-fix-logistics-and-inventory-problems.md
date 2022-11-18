@@ -459,20 +459,6 @@ related:
         width: 1753
         height: 2280
         isCached: true
-  - title: "Microsoft, Lockheed Form New Cloud Collaboration Pact"
-    excerpt: "In the early spring, Lockheed announced a pact with Microsoft to explore how the Azure cloud offering can be applied in into the former's \"5G.MIL\" network architecture vision. Classified cloud, artificial intelligence and machine learning, 5G and digital ..."
-    publishedDateTime: 2022-11-17T22:00:00Z
-    webUrl: "https://www.nextgov.com/cxo-briefing/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379880/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/17/Cloud_Computing_IOT-1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "Customers Can Seamlessly Extend Nutanix Environment to Microsoft Azure Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure,"
     publishedDateTime: 2022-11-15T23:53:00Z

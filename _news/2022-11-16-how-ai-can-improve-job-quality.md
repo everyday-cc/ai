@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-im
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

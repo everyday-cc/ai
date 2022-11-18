@@ -81,6 +81,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Using machine learning and analytics to address healthcare labor challenges"
+    excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
+    publishedDateTime: 2022-11-17T22:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/using-machine-learning-and-analytics-to-address-healthcare-labor-challenges.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "TigerGraph Cloud gets interactive insights and advanced machine learning development tools"
     excerpt: "TigerGraph is the developer of an industry-leading graph database that’s designed to perform certain tasks more efficiently than relational and NoSQL database systems can do. For example, there are many situations where databases are required to store not only business records,"
     publishedDateTime: 2022-11-15T14:00:00Z

@@ -352,7 +352,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -438,7 +438,7 @@
       "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -493,7 +493,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -687,7 +687,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": null,
       "content": "\r\n",

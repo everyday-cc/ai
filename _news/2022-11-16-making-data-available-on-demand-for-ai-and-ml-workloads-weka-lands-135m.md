@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/making-data-available-on
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/"
 type: article
 quality: 107
-heat: 128
+heat: 127
 published: true
 
 provider:

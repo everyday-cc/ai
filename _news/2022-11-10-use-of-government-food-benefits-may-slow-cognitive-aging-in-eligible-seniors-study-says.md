@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Use of government food benefits may slow cognitive aging in eligible seniors, study says"
-excerpt: "According to *** study conducted by the University of michigan and published in the Journal of Alzheimer's blood pressure has an impact on cognitive ability. The study looked at over 24,000 people ..."
+excerpt: "Nutrition benefits could be an effective way to slow age-related cognitive decline, according to a new study.The study, published Wednesday in the journal Neurology, found that eligible seniors ..."
 publishedDateTime: 2022-11-10T07:52:00Z
-originalUrl: "https://www.wcvb.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
-webUrl: "https://www.wcvb.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
-ampWebUrl: "https://www.wcvb.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+originalUrl: "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+webUrl: "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+ampWebUrl: "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
 type: article
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - Microsoft AI
@@ -23,6 +23,6 @@ images:
     height: 677
     isCached: true
 
-secured: "/+5PR7e4RviGUe4JkwlZU2Im2iBH/qICr5RFW4Jsk9n54Ne/UjdTfluA+7UVcxIz+rWKQGicndW6p20as+J4vWgX7OFo/ohiYMTNT3yg50NRmjV6FgaZmLGn0FDSz0hPSQ8zBi29f45Sv4rMSCmACSJjNDJb25A2XXP3AxMwM/ZVUBYiCh4CWyFUIPb9BMcZfMW46fzBK7Q1b3GUJuzQhveWndTQeOUnB4PPnBttduy61eB/JZMyGojbA0yLRyIOCn139hSZ5SOyDnWRoJL0XZHdROC7B5gkedvxeyPkafUuQ60b7S3X+vNGWYww4dh630yxnH++KN59rMNphgwfhhInzYKRwsc8hvkA6cw1DeA=;IT9JJXVraUr3RJ8h0uuZZA=="
+secured: "tsIDsCTQDq3NyX0jFAvvGqV/lW+vrSNSoTq9x42gTYHsgg2BJgxJCOecksrQPGKFCPWcbrUcXJh8r+i+R5KMbc7Hhd59oSjwBHZ4EffX7g3zN453K54JHmL42joSaWlIVzh1VHJ02+fdtPnLf8jZFM2N/6FNYOreLsgERRuvPyuEeZkY8u1yFT9sQZ+bOSEhpFFQyTWRX4FSw30MZ2mIiuIbIPXS+UKjLqT6bN/fQuIkLOeDROAmzIzFaR7HiXlVlXLurC7iKaE0ejAPmfEPahbc4skuA+YpBHe2pfU2PMWGoyy/cP7D4bUhO99Cjzf9O9EC1qR2vYBoyw6CBiG+2mbwClQ56ZUs1wE4IwTUiyc=;X2I8DFmPjlx8YpPQ8wwcrw=="
 ---
 

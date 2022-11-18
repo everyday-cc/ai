@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Using machine learning and analytics to address healthcare labor challenges"
+    excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
+    publishedDateTime: 2022-11-17T22:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/using-machine-learning-and-analytics-to-address-healthcare-labor-challenges.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "G/dfknDKgKGcZD/dOQYkpe5FXo2eskOciWcu4RueycUIs4YxLAUOFbfHhUcWlfXxONP68PQvF71/49XA47qKLaNayqk0LsGXASH/7eirR+Torce3KMDpWlyafO/ZfH4iRDLTIB868cB/3tq3mawKyzow+YI7cWAh+rSUg1rKzNEE+VoFDl4mZILKknfPJSiEONY320b+KJetf2BPLm9LZ3W/yPffwC6MvKJ8gpuKV1rsf1Xuphjh1yvq4DIom3jEoiC/JvWxpXokH2O77Z2vC4pjJHT6VaDaoX8xQH8wgRa4kTZVkExUlzlQQ1UdTzfcmsyiq0Aw/+sucEEhPuqMhBObG7zfG0vazEMeBegKnkHVtCxOWjIDQ/k3XS27Q9Z6cS1bI3qOx+6Slwm9KwL2GKtmwhKK89+3U7FAqXqK0C9vVqMKdm1pmC7iE6mqqjSmN5MvEb7sZYaiDqn/OaIo8efSDLerQqYZRm7dTOO2CFUJvcYITtdIaO888ItRKUdtOvLspBWFALCYg8uWjbECDw==;VItw8rsFB5zn7sh9r7UlQw=="
 ---

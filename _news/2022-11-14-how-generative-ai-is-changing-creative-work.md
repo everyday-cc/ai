@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Why Salesforce is betting on generative AI for conversational workflows"
-    excerpt: "Salesforce’s AI research is heavily focused on generative AI techniques to provide a fully conversational workflow."
-    publishedDateTime: 2022-11-16T14:29:00Z
-    webUrl: "https://venturebeat.com/ai/why-salesforce-is-betting-on-generative-ai-for-conversational-workflows/"
+  - title: "Protein programmers get a helping hand from Cradle’s generative AI"
+    excerpt: "The company emerged from stealth today with a substantial seed round. AI and proteins have been in the news lately, but largely because of the efforts of research outfits like DeepMind and Baker Lab. Their machine learning models take in easily collected ..."
+    publishedDateTime: 2022-11-16T00:00:00Z
+    webUrl: "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/cradle-tc.jpg?resize=1200,782"
+        width: 1200
+        height: 782
+        isCached: true
 
 secured: "G5SOYG4pPTvVT57CQTGOqOpP/Hb84K26mjgBbJQ1amgF+LihPSMfQ/wIHXGMXdPMThOdFKxhUI2H/GBQxqAbSvCL99qZM/awcimCvayFPjdXFuhT7oz4D5HywvSupbZvMiX1o7XvjfsGvn00PBvOwqkj/x7pXBX14zE5TQNTVWuDgn+4tCmR8F/Sjf4CM2B5N8I/2pUNmYwSOO3yjB0R7QeoZGQqdUADFZ9PORn8f01vXMZXRC3XO8hWzVGOAPHdPhtOaCzzqhUIBmZwDrhIT6cRSXfgvpojSjmv6eXVPV5erQrAvhYJgauUDbDRqkRIm/DA8yiETqxYUMeuuazsPxO1rXJXBaWzD/iYsxZgIctbfQAQhZYtdNTWc/j3CZujB7LLRDS7K59D7ZZ7K355hcVJPe3ApyX+/dxCs9h0W4MH5dWd6u/7X3+23RU7Pts+08cCNoPj1OAj3InErW5ymqljAaMIZgyuluGbwpDwYmR9nZDnBYXYUycfBBzfJlGR8zJNch4DmXwDPiIIJK/Tdg==;ZqySn6Tscfbl2zfQSxe59w=="
 ---

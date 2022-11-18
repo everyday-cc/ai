@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Flexible AI computer chips promise wearable health monitors that protect privacy"
-excerpt: "Rather than working like a typical computer chip, though, the chip we're working with ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices, which would minimize the amount of information a device ..."
-publishedDateTime: 2022-11-17T18:42:00Z
-originalUrl: "https://medicalxpress.com/news/2022-11-flexible-ai-chips-wearable-health.html"
-webUrl: "https://medicalxpress.com/news/2022-11-flexible-ai-chips-wearable-health.html"
+excerpt: "My colleagues and I have developed a flexible, stretchable electronic device that runs machine-learning algorithms to continuously collect and analyze health data directly on the body. The skinlike sticker,"
+publishedDateTime: 2022-11-17T18:03:00Z
+originalUrl: "https://www.chron.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
+webUrl: "https://www.chron.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "2BlKduWBfG5BUtqlIobCPo2n70APL09hAKt9BSyCxuU9jFRWKgsvX4JJIlySRtvOZTG/cF/uEERY6OLi9pkh7VePu/aQeCpftCG/wgRz8csdtDbXyiW9ocbqKV8dvwjOf35ihfQ8LijtSjFJyPNRHlw6gJv3ROOJO9Z7QtZPpLGWlFi9OmDfLWoPnbKylVNXU880eusjbgD4Jki4RzlQkg22rRpdUV1MfLWlB6TyxEWlGxsKOXv7w5jWTCHZYcmaqY5jIP48VcNYttnjlr0vhR0P7wKnHpitDiKm4Zsn1gC6+6nHB9jB2VXJCvLghx32/FEf14t3ZI8RxefyiK4RvunxVegC/o/FwRjPVb5LI9SQPDks7h5Vim1cqcNVgheeHBjsKTgyitnbuYa/r3KFwL/WVguKNk4FoH+AZr+rT4Dc+olQi1TTV2mYMnYLASOfOtkbZ1sUgJZ3z6BJ3KAvqE6h2ourFqMpOO/eyo6J/JA5Fj4lMKuEJu6yu51OuYeCSgVqKzvMeu0sQd2XBjcTGg==;LJkBARCljyKANnSfRC56SQ=="
+secured: "BYOQWdoSZU7/rptdc9OiVFNe7pf+KAftGo+DD/L9TlqwWjkwXla7mtswxttwHV4lsWfkuy8gs7TJbE+Zfey6mPu/Oiqn1yIaHf30uzgSDwIW47xy44hxKaQGvyGn1ZkrVpC8whoT4xVwMVxMCn8Eu5YgwXWrv40BfHquMECFWbafhaU91PfBF8jDJPLlT2pdL+sxXiH8hEz/Tk9srqE8+GhYpVQZdqpvtaTutcsCTEMT3A31v/xd0xQmt/aN41ETu+XBryfCRthM7l2ZwawWkM0YXpK6AZGRL4e/m4n76z6Io9zTAt5noBb6lqXOZXhYxZnTUDIm4u19HFJ9iKZlGOWsLkMsuAhz3Iug64JQUOE=;PZm5P1NftGPH9VS9YrUkAg=="
 ---
 

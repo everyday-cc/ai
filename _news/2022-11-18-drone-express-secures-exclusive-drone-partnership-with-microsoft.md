@@ -33,6 +33,20 @@ related:
         width: 1680
         height: 987
         isCached: true
+  - title: "Microsoft, Lockheed form new cloud collaboration pact"
+    excerpt: "The world's largest defense company has both internal initiatives and work with military customers in mind for this partnership."
+    publishedDateTime: 2022-11-18T00:47:00Z
+    webUrl: "https://washingtontechnology.com/companies/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379867/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/11/17/Cloud_Computing_IOT/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "n5TnOImwnEjtHDcx8iSjm+E24dbnUamkzT1lwWc8o8mi9lNomNcMwWp5siq6AEsFMZtFnZ2ciJxF6fPbJ4CscgwQiA4tPNpWrPEsQEefKhDmuB4gjyxug2DW+Wdga6RRwDi7cmzpgGFOJ/0b6cKg1zFGSPphP6DUGs4hUuy93N8m8VRFKCPDy/dwYuzgW9BeExsWiBfGW6TOsBUB856JJeMw/UAXTVK4dQKPgcvQwhtKYTP/dG23M0VWOiUDQpRQQbjezIuUy0aG+1gyOg36v7mvPRu8Q72h09/rf8KvEvee0NFQ14oWr2hauV5ErXfz6QCQPzcskV0chS9nj//bPViWzQCOMoaCaphmlR2Tyr4=;tA6xrcfrLgKnMk2yRhkRsg=="
 ---

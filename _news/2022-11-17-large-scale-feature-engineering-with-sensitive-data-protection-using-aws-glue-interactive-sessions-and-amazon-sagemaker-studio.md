@@ -61,29 +61,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
-  - title: "Build high performing image classification models using Amazon SageMaker JumpStart"
-    excerpt: "Image classification is a computer vision-based machine learning (ML) technique that allows you to classify images. Some well-known examples of image classification include classifying handwritten digits, medical image classification, and facial recognition. Image classification is a useful technique"
-    publishedDateTime: 2022-11-17T18:00:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-high-performing-image-classification-models-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/high-performing-image-classification-models-sagemaker.jpg"
-        width: 1548
-        height: 773
-        isCached: true
-  - title: "Refit trained parameters on large datasets using Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler helps you understand, aggregate, transform, and prepare data for machine learning (ML) from a single visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform, and combine features without having to write any code. Data"
-    publishedDateTime: 2022-11-14T20:14:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/refit-trained-parameters-on-large-datasets-using-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
   - title: "Detect multicollinearity, target leakage, and feature correlation with Amazon SageMaker Data Wrangler"
     excerpt: "In machine learning (ML), data quality has direct impact on model quality. This is why data scientists and data engineers spend significant amount of time perfecting training datasets. Nevertheless, no dataset is perfect—there are trade-offs to the preprocessing techniques such as oversampling, normalization,"
     publishedDateTime: 2022-11-15T17:29:11Z

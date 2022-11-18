@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-bu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/"
 type: article
 quality: 121
-heat: 471
+heat: 461
 published: true
 
 provider:
@@ -449,20 +449,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2022/01/PNY-InsideHPC-Guide-EGX-platform-Covor-image.png"
         width: 1753
         height: 2280
-        isCached: true
-  - title: "Microsoft, Lockheed Form New Cloud Collaboration Pact"
-    excerpt: "In the early spring, Lockheed announced a pact with Microsoft to explore how the Azure cloud offering can be applied in into the former's \"5G.MIL\" network architecture vision. Classified cloud, artificial intelligence and machine learning, 5G and digital ..."
-    publishedDateTime: 2022-11-17T22:00:00Z
-    webUrl: "https://www.nextgov.com/cxo-briefing/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379880/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/17/Cloud_Computing_IOT-1/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Microsoft’s new Supply Chain Platform combines data and AI to help fix logistics and inventory problems"
     excerpt: "Microsoft's new Supply Chain Platform combines data and AI to help fix logistics and inventory problems - SiliconANGLE"

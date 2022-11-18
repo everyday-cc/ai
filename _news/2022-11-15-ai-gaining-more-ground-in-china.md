@@ -64,20 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "How AI is changing scientists’ understanding of language learning"
-    excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
-    publishedDateTime: 2022-11-13T08:43:00Z
-    webUrl: "https://www.rappler.com/technology/features/how-ai-changing-scientists-understanding-language-learning/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 39
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/10/ai-language-learning.jpg"
-        width: 1280
-        height: 900
-        isCached: true
 
 secured: "BDwqMIjJbZE/cpMee/KgLtYSSiMYMYOAziU5rrduT5s/q9+WiSgw5N0spKs/AczS2KNS2QY4DYIxa1pM4unonTQggkcwOzLC2H/N6+gvhuZoU25M4LJLhpFbVy4sbM+ld78B/7cSHrBCnc6Kv9vsVDAYtifk/OiV5ofjmG+BONGLw80Pj1jv5dML5+eh2bUnrsDcT965ALka3RqxqhjVolZdAuFIA+S6Pmy5t5uUojFnxIkdhR8nXikvOWZcDe21GdFmR/rjQp9twiW1vjRXVQXJVQXghsfOBgOVAzUme3lEqXc7aDkMehOZ7gsO9T4MW2DuRhBykIGn662Zqjwy5/PWoYyPEQMfEiSZsVOXHULcqn3hRVw6NLmuq3c0YFBXd+KUg8u74/AtrMyjvUwHMwwPzwOzdyYWv87Nan7S20vfKl6gvXLQ6cOU13ZUunZtJ3p0Y8gtXLOKi3SAR0L7RIakDDcc6kBIDKzTyBdjk1eZnTESHToeOkIwb2rZ68bGazytVoeBVLwnmzshfuwVCg==;SvgbvTDqZ/tgTDN37D5FDQ=="
 ---

@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "How AI is changing scientists’ understanding of language learning"
-    excerpt: "New AI models may show that learning language is possible without a built-in grammar template, contrary to what many linguists have believed"
-    publishedDateTime: 2022-11-13T08:43:00Z
-    webUrl: "https://www.rappler.com/technology/features/how-ai-changing-scientists-understanding-language-learning/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 39
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/10/ai-language-learning.jpg"
-        width: 1280
-        height: 900
-        isCached: true
   - title: "AI gaining more ground in China"
     excerpt: "Significant progress has been made in developing China's AI industry, with technological innovation capabilities in some areas ranking among the best in the world, they said. A Stanford University report showed that China filed more than half of the world's AI patent applications last year and the nation continued to lead the world in the number of AI journals,"
     publishedDateTime: 2022-11-15T07:42:00Z
