@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-
 webUrl: "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.sb.by/upload/content/og_image.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Italy bans the use of facial-recognition technology"
+    excerpt: "Italy's Data Protection Agency has issued a rebuke to two municipalities experimenting with ‘smart glasses’ and facial-recognition technology."
+    publishedDateTime: 2022-11-15T17:36:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/11/italy-bans-the-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/19915/untitled-design-5.jpg?crop=0,0.27416666666666667,0,0.23364583333333328&cropmode=percentage&width=1200&height=450&rnd=133130029250000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "SvNk/pn8v1yQxGsJZVVWwuc/AEQt7cnVrGpXstkbGFsihN85ocKIo8rtmPznz8Nvf4ax6jQcRUSUXht3v3Cd1Jdh+Hvg66c3nhy0cX2SONQwLcshK3DCh5Aci/gKQOftWL60aVA9KqMob3F+yo1leTt6lUDK+iOZYy+nRPG5y6E0ByidpOhwH3nzAOkU89QlizcSpMq3U9nEME79lVMeP/LB12SKFOhoZI28HVPRtc0NHvczEBzFZHRHi+xGZtvkYfEgTeCiEB9Bl4rrdcMGpPuYxNdzS/LpPUpsRn7/Tvp9RdRmxd/tQNm1a83DcNkZidUxrST0zRO88HkU0pZ0oKAza2L4P1svKRNdEiF3nLlB/GlDhNMyOpcEfYpB65g/zzFsNX5EZpauNEnVolOJEMti0hywlAyRWdpq50nkPKMlbzo+rzLyIrtNKek8KhEkem4Ydfx4pA8hqRKWAnEaj6a2zBTdyMljt9C4XNO2OiPgHMhs270ZuclPtO/YmKuYJdYZx2pMQWf3hMuVDeZKLw==;M4ZLeVUMR+juy0r3ZocnvA=="

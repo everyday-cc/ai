@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Precision diagnostics: Making AI-enabled cath labs in India"
-    excerpt: "The rising complexity of patient profiles and shifting disease patterns is making the need for personalised care even more vital and AI solutions have the potential to transform the patient care pathway."
-    publishedDateTime: 2022-11-13T19:45:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/precision-diagnostics-making-ai-enabled-cath-labs-in-india/2809951/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
 
 secured: "e5wtRYYnyYq2aA/xcgFS37SlwnqIj2BbRUz09Uz17zqkYUrQKCrHRkzYD8MEMIOqNMV6uh4F+aYGeYJg2qMaC33/afAvyEZFfWlvvypmrSS32NIm98HcGN/EG1BTSn3AdmODhR90REyurx0c6BCbMsIBqXwNA7e5jcZRzobY7v62YYryWEOVZtK5cP4D0pBKTe8CbvMTEHhCBKigHg6n3frwJafuMhTZ8TwNqIRLtfTVyNZdtjns/rvNtvwNJl9e8dVqgbODBZUTilrmYNNCNM18HgE4MltQI/YQeRupDNlFoxRolfGRG0HUi4pg6RThDnajWXtyTNIqPaBfdRGKTCyNRwFk5Qyk1qB7lNVkIUcnRKySaI6LFHNHb3DF6A9StUlFvn/ihW8PUsAm4ly+sLsvTpMBm2K+l42kKTv86RlqXVgp4eoH8nPHZj1zlWwvrsuvGjMGWcxjTo8xSj6NkXBOUFzC08ZQ6qjbXCY01DAbcigKhuhQ+DIMgOhWBi13Opr3hYdmv80Yoell7lYjww==;sauLmQsqpxDNw3P3L9mD9A=="
 ---

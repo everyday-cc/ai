@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-18T10:22:00Z
 originalUrl: "https://www.wbur.org/endlessthread/2022/11/18/life-death-ai"
 webUrl: "https://www.wbur.org/endlessthread/2022/11/18/life-death-ai"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "http://media.wbur.org/wp/2022/11/GettyImages-1244703603-1-1000x668.jpg"

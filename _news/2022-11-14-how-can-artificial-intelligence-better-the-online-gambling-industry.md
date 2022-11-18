@@ -42,15 +42,6 @@ related:
         width: 753
         height: 929
         isCached: true
-  - title: "Precision diagnostics: Making AI-enabled cath labs in India"
-    excerpt: "The rising complexity of patient profiles and shifting disease patterns is making the need for personalised care even more vital and AI solutions have the potential to transform the patient care pathway."
-    publishedDateTime: 2022-11-13T19:45:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/precision-diagnostics-making-ai-enabled-cath-labs-in-india/2809951/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
 
 secured: "UqBkc+5P/SY2sWS+wnklvWAepxbktfAoo9DpygBAKyKdoq8r13T+d/weKfvKC54KoYBuHuwe8HFSdqC1oYUy6jKK599lbw2NqfaWLf3fN81h4QngJJMq1HFbDGH2HaU1vU04IbWquenNA0t6L1DzaQADKiceHseTBJveIMhLlBVGlYqyrQrv8R9s2HIpOViZtUfMKKPqJUTgonOmerTEv1x0UFTxxz5ckNdlaScxBE4x0eEBR+5QUdO1GyKpjFaB4XoWdZlpVSQdQi5Hah6jIkAH11Trukogerm+UlGVZIUsfmG5nTo+CMNL0TdD8VDV63bDoBqjhIoUWI4UQnplaN2fkcvz7HkudQuda5Ii8+s=;IsCehXr2Oc2N0WLSFyxn3w=="
 ---

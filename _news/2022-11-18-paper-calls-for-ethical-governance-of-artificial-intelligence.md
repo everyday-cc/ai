@@ -2,9 +2,9 @@
 category: news
 title: "Paper calls for ethical governance of artificial intelligence"
 excerpt: "A humanoid robot called Walker X plays Chinese chess at the World Artificial Intelligence Conference in Shanghai in June, 2021. [Photo/CHINA DAILY] China has shared its positions on the supervision, development and use of artificial intelligence ..."
-publishedDateTime: 2022-11-18T02:10:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
-webUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
+publishedDateTime: 2022-11-18T01:30:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
+webUrl: "https://www.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
 type: article
 quality: 56
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg"
     width: 720
     height: 480
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 640
         isCached: true
 
-secured: "kU4jU6KnzsGpsqY+u5bUgNJRZNLQAdljmKPD0nC+1dEUeUb8DCxzePznWMrXZ0ZAMAl1uJuNmYK2QZs8VEn0Xs5dtaEfmULJGaqlot1oXMSQBWG3dt7fLPFvXa16gDXl3nP1Eh+SdlqBWve1j8BDaJg7AWQCeir5LFXDz+vSsW3cqAY8Bnzr0V4Qqays26XO8VecQLKfPPNSSOLLF1p/WUmMZMaS9K9Jlor6rzJX1jwR0QcdBavKtgRDHPzlwBxo9D1qoy7qNFZo+NEJBYzlVrW50ds6DZPR28AlpkshRd1/6Xv98bJsTaen9190E76KujJ8T/ZZSiPJoZXPXx5PWohWLpQUj/kjROeBOT7ZN3SgiZ0FIpZVvpBtfhikHu8XwlcOfLmpZGcASbhMggf+dOXmtVja4cjviqtOrvHr7/ADiBT0PXax9/s7e2oXqhU3gozianvibtQ5t5BeuGql6GwP2HQnaHTBEXkIvZD9AQhDc+cq3oZI0+4Le/z2zeKOV2rp/pFBLUHBafSaPbXkew==;beZAEcunYwDlr5DyuPTX6w=="
+secured: "1TqlsReLQrv8bJ1rLARmx6hPI5q8yra2xFvvKZb94Fs8FJ8idU/uVJLejtnZinkf0jdaqtWmDhVolGVj0vT9ANNYV0Wf0bIqBn1o2VwBweVLlon1j6OjDQPMXv+k6s069X4c8igoQOpeMW+bpTOU9oqGKPRTf4ZilZBV5Aipbo5KIhW69fjx0l0XXtdL1k8R493RqJqtL7BKTgFrDU5Boo1eLli1WM+IiSZ7w6VtSgpkx/Y2bN/ZZwdH/o4+opV4QPcwVj86ME6wE2xuJ8UOJRZKJ1yZHbsTx+VbunKMUtNxfBAfA7m3Gfr8RKD4YF7mC8C5EFNlHK+OEbHuePIQTOoLJX6QrD9h7duKWo9oM8M=;BRoAgLda0LlKy30BW8lQZQ=="
 ---
 

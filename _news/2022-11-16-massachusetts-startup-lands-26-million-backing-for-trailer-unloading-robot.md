@@ -47,6 +47,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Soft Robotics secures $26m in Series C funding round"
+    excerpt: "According to Soft Robotics, the new technology is an “easy-to-integrate automation package that combines ultra-fast 3D vision and artificial intelligence technologies with patented and proven, IP69K-rated, soft grasping to give industrial robots the hand ..."
+    publishedDateTime: 2022-11-18T11:12:00Z
+    webUrl: "https://www.foodbev.com/news/soft-robotics-secures-26m-in-series-c-funding-round/"
+    type: article
+    provider:
+      name: FoodBev Media
+      domain: foodbev.com
+    quality: 54
+    images:
+      - url: "https://www.foodbev.com/wp-content/uploads/2022/03/Soft-Robotics-.png"
+        width: 610
+        height: 380
+        isCached: true
 
 secured: "D2mNncfW6MGJL9AYx2UoNlGRF78IVpEi4WUJncVq5KxgBu6HFJxFVBfW+5rXdtonXz++tZeGd1pVNIh5vZnIPQFWhHwxqt2wM66QTVStjauBwlwWJyuFJOyhQt82IvAsqCSjhfvvcfzYxiRo5LK7BTMo0D3kO1GqylCQSCDmPG/I05YMQsUoci312S7F+Zo1JSZYFaJsZnePtKUpyYnSbZBWY4L6lKrIzS7EU8zs7BScYbYH6kiZMuxmK9TPeYfVCT1fj/xBL/jnCehanzwAn+KFYz2XrS+3IvItU4swydWvTiyp1lW5iTVwl5/U7SPYxc4T1mv5dtVg/rfYeVY1eKWe4vMx8BxPH1KEb2lYKt50ZTexA1Iun/Znj6fA9AK1Wl7PtB4AeP7y2qzQJnp70BxIA1RTcXAyRg7ZqafvlnR4ENr3WZnC4D/Ln1jDTlQ2ZiAxyY/2aOVqKiA2QPyYGoqiTuXz/KfxeRwE0Giih9vXH0noi15FWEqUZhghbcYNeZ2SwIoCwWfT1XAZy/nDwQ==;johpYsNn92Efx6Efy9APkg=="
 ---

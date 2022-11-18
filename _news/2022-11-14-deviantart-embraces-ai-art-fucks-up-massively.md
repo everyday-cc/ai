@@ -34,22 +34,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "DeviantArt users lash out over AI tool that generates works on its own"
-    excerpt: "The AI — which is being called DreamUp —  is meant to push for “safe and fair” AI image generation for DeviantArt users."
-    publishedDateTime: 2022-11-13T20:20:00Z
-    webUrl: "https://nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/"
-    ampWebUrl: "https://nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/13/deviantart-users-lash-out-over-ai-tool-that-generates-works-on-its-own/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/11/deviant-art-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "+YuZbkpTEF61ilNkzJq81JCB1MUnYUqc5Pn0W5nFAIi7e9N3sZoehChv9eWHM77pcMmtc9ishu8O8Rkvi4dRwATmce7VQyGW6rez9n4VRhiK0cSoKr6xGoPfimF/8pESmGXUmQWyLYlu3gJL+bqNRXz6aFNXYCmoGGyjicmbzsS3ouKS8AXM9ututaPE4csAjt/EG/aG6kk5thC54VaO95W5+b7p9PNO/ymIqjd0Tja7q0TUizruwhXSAGt3zae8nh2C0zg37TPoF8Do9M5oX88VbrY052lSAHVeN5HzYshzaL5war+2w/YlAs1IoiD5WXODBugFKHHWKhVxU//+jQ+pBAVLc+ncbh9QBlxzg/tqgNNNL0ZHCyjYZ4Mw6uPmL0F3X2cpV9WcEw91AjNn/ufF1UNB4akPRsxUo0U4TWcIEqBELzGkNjmo8z4MLyvEmP9h0mSVnWDqbH08ZkxkxkF3dBE6AR8/PRJCCvDfmAyUhW37cDnBPmQ9wfjQO5dalf1BP4NeOFHW4JFDaEPSow==;pRVpMPRNrzV8Idvq5kt77A=="
 ---

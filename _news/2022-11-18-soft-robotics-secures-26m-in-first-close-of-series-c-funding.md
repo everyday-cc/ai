@@ -39,6 +39,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Soft Robotics secures $26m in Series C funding round"
+    excerpt: "According to Soft Robotics, the new technology is an “easy-to-integrate automation package that combines ultra-fast 3D vision and artificial intelligence technologies with patented and proven, IP69K-rated, soft grasping to give industrial robots the hand ..."
+    publishedDateTime: 2022-11-18T11:12:00Z
+    webUrl: "https://www.foodbev.com/news/soft-robotics-secures-26m-in-series-c-funding-round/"
+    type: article
+    provider:
+      name: FoodBev Media
+      domain: foodbev.com
+    quality: 54
+    images:
+      - url: "https://www.foodbev.com/wp-content/uploads/2022/03/Soft-Robotics-.png"
+        width: 610
+        height: 380
+        isCached: true
   - title: "Massachusetts startup lands $26 million backing for trailer-unloading robot"
     excerpt: "Pickle Robot Co. says its technology addresses one of logistics’ most labor-intensive, physically demanding, and highest turnover jobs."
     publishedDateTime: 2022-11-15T18:55:00Z
