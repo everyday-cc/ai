@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mid-day.com/amp/technology/article/new-speech-recognitio
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: Mid Day
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New speech recognition tech uses facial movements to transcribe mouthed words"
-    excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
-    publishedDateTime: 2022-11-14T17:24:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 71
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Facial recognition technology has shrugged off protests"
     excerpt: "Amazon issued a one-year ban on police departments using Rekognition, its facial search technology. And Microsoft said it was waiting for new legislation to be adopted before selling its facial recognition technology to law enforcement organizations."
     publishedDateTime: 2022-11-14T17:30:00Z
@@ -60,6 +44,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
+    excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
+    publishedDateTime: 2022-11-15T04:48:00Z
+    webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917770"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
     excerpt: "Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies. Facial recognition systems using biometric data will not be allowed until a specific law is adopted or at least until the end of next year,"
     publishedDateTime: 2022-11-14T18:33:00Z
@@ -69,20 +67,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Italy bans the use of facial-recognition technology"
-    excerpt: "Italy's Data Protection Agency has issued a rebuke to two municipalities experimenting with ‘smart glasses’ and facial-recognition technology."
-    publishedDateTime: 2022-11-15T17:36:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/11/italy-bans-the-use-of-facial-recognition-technology/"
+  - title: "Infographic: How facial recognition and tech can make remote work more efficient"
+    excerpt: "This includes anything from note-taking and timesheets to remote monitoring. Facial recognition technology can improve time tracking without distracting employees from their tasks or adding to your workload. This technology can be used anywhere and works ..."
+    publishedDateTime: 2022-11-17T20:04:00Z
+    webUrl: "https://techaeris.com/2022/11/17/infographic-how-facial-recognition-and-tech-can-make-remote-work-more-efficient/"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/19915/untitled-design-5.jpg?crop=0,0.27416666666666667,0,0.23364583333333328&cropmode=percentage&width=1200&height=450&rnd=133130029250000000"
-        width: 1200
-        height: 450
-        isCached: true
+      name: Techaeris
+      domain: techaeris.com
+    quality: 14
 
 secured: "Ex3Z/81MTiTzdW0APYCTRNQfE/sreC3EdhDx4dqRAlHskcor8d2wlQwsXg4dt/zOEtpn4WVWtdHpBoqSPWEESUYMZpAP6y4sp1M1qs5D14yjds6j2P4SW/qbPxZRqCZJFycE6ikm51iI+KXwEoptEa4ntCAYtZd0sCiO2lRImQtpWfgp/Yu5oa8o+UnKgJDIETNvrnOo79GAh3/BiR50koCa/pRs2pQXp3lEv5aVGjrYBCyYRIoKDr/4Edi8EaZRZ3G8Lbj6kHulgbbUisiiyc+ImQbE/I+8izdkFlfEe54ftbb3UDFqnSIxLwCWg2qTpBG/QsekazxZRnVg7drGIYiI4B+FXjDLTZqRMzBN1ntLx677KiW4d7IapayjzTbRINkLTBZxl5RftXsqDU+TVISpYTGWxeMo1bWh0fgt86vOIQ+9ueymNBxT8h6eOAsG1n3kLPH6UQK7ETWlM/U3SomaqoWR7oNGdfrGCEwKNzDHh60WjV6dW/1/EvdVtFhne69GkcIjoy80mvf8+2nvOA==;IKBik7hFN339ijvLB62WoQ=="
 ---

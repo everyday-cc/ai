@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-11-stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone.md",
+      "title": "Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone",
+      "excerpt": "Introduced in August, Stable Diffusion (SD) is an AI image generator model that creates novel images ... When running locally, SD requires a fairly beefy GPU to generate images quickly, but some developers optimized the model to run on older GPUs with ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/sd_phone_hero_4-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
+      "publishedDateTime": "2022-11-10T15:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone.md",
       "title": "Qualys CEO: Removing Risk In Cloud’s Continuous Challenge Zone",
       "excerpt": "Cloud system misconfiguration is happening due to speed at which we are building and harnessing cloud itself - commercial & public organizations are grasping the flexible advantages of cloud at a speed that outpaces their approach to securing the services they themselves are adopting.",
@@ -351,6 +403,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-11-microsoft-is-testing-new-ads-in-windows-11.md",
+      "title": "Microsoft is testing new ads in Windows 11",
+      "excerpt": "it's ads appearing in the operating system—said no one other than Microsoft. The Redmond firm appears to be testing a feature in preview builds that shows ads for its services in the flyout menu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
+      "originalUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-14-image-5.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-enable-medicine-develops-a-deep-learning-model-that-establishes-a-new-standard-for-predicting-cancer-treatment-outcomes.md",
       "title": "Enable Medicine Develops a Deep Learning Model that Establishes a New Standard for Predicting Cancer Treatment Outcomes",
       "excerpt": "Enable Medicine, the platform for indexing and searching biological data, today unveiled a new tool that identifies spatial-cellular signatures associated with cancer outcomes. Published in Nature Biomedical Engineering,",
@@ -491,10 +595,10 @@
     {
       "path": "_news/2022-11-11-alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry.md",
       "title": "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry",
-      "excerpt": "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ...",
+      "excerpt": "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,",
       "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/",
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -504,11 +608,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T09:41:00-08:00",
+      "publishedDateTime": "2022-11-10T09:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WDAF-TV",
-        "domain": "fox4kc.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -723,6 +827,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-10-altec-and-accel-works-partner-to-enhance-enterprise-digitalisation-in-southeast-asia-via-integrated-document-and-data-management.md",
+      "title": "Altec And Accel Works Partner To Enhance Enterprise Digitalisation In Southeast Asia Via Integrated Document And Data Management",
+      "excerpt": "SINGAPORE - - 10 November 2022 - , a leading provider of enterprise content platform and process automation solutions and Accel Works, a professio",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105162269/Altec-And-Accel-Works-Partner-To-Enhance-Enterprise-Digitalisation-In-Southeast-Asia-Via-Integrated-Document-And-Data-Management",
+      "originalUrl": "https://menafn.com/1105162269/Altec-And-Accel-Works-Partner-To-Enhance-Enterprise-Digitalisation-In-Southeast-Asia-Via-Integrated-Document-And-Data-Management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-11/10/MOL_d6ef1007-1_Image_In_Body.jpg",
+          "width": 318,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker.md",
       "title": "Artificial Intelligence Will Become An Indispensable, Trusted Enterprise Coworker",
       "excerpt": "Artificial intelligence is transforming global markets and enterprises of all sizes. Over the next year, this transformation will become a quiet revolution. Rapid progress in areas of fundamental AI research,",
@@ -879,6 +1026,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-10-tech-giant-microsoft-to-invest-1b-plus-in-north-carolina-data-center-operations.md",
+      "title": "Tech giant Microsoft to invest $1B-plus in North Carolina data center operations",
+      "excerpt": "Microsoft Corp. will invest at least $1 billion within 10 years in data center operations in Catawba County, the technology giant revealed Wednesday. The announcement came after the Catawba County Board of Commissioners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/triad/news/2022/11/10/catawba-county-microsoft-expansion-data-center.html",
+      "originalUrl": "https://www.bizjournals.com/triad/news/2022/11/10/catawba-county-microsoft-expansion-data-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-github-faces-lawsuit-over-copilot-ai-coding-assistant.md",
       "title": "GitHub faces lawsuit over Copilot AI coding assistant",
       "excerpt": "Class-action complaint contends that training the AI system on public GitHub repos violates the legal rights of creators who posted the code under open-source licenses.",
@@ -1021,196 +1202,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market 2022 : Size, Share, Industry Analysis, Growth And Forecast 2028",
-      "excerpt": "Nov 10, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Healthcare Market\" research provides significant and in-depth information on the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-column-music-powerful-tool-for-joy-improves-cognitive-processing-speed.md",
-      "title": "Column: Music powerful tool for joy, improves cognitive processing speed",
-      "excerpt": "In addition, music can help slow age-related cognitive decline by improving aging adults’ cognitive processing speed. Think about that for a moment. We are all part of the \"aging population,\" right?",
-      "sourceUrl": null,
-      "webUrl": "https://www.newarkadvocate.com/story/news/local/granville/2022/11/10/column-music-improves-cognitive-processing-speed/69626489007/",
-      "originalUrl": "https://www.newarkadvocate.com/story/news/local/granville/2022/11/10/column-music-improves-cognitive-processing-speed/69626489007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/dd81f7b80aef18fc9ff3cd911b276728a9998bb7/c=0-306-3264-2142/local/-/media/2017/04/17/Newark/B9327119808Z.1_20170417115132_000_GEEI1KT06.1-0.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewarkAdvocate.com",
-        "domain": "newarkadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-vivo-unveils-v2-chip-to-use-it-with-dimensity-9200-for-ai-enhancements.md",
-      "title": "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements",
-      "excerpt": "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
-      "originalUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg",
-          "width": 839,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
-      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
-      "publishedDateTime": "2022-11-09T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FoneArena",
-        "domain": "fonearena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026.md",
-      "title": "Natural Language Processing (NLP) Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Market\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

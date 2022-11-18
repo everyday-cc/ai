@@ -210,48 +210,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-18-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
-      "title": "Artificial intelligence-aided colonoscopy does not increase cancer detection",
-      "excerpt": "Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November issue of The American Journal of Gastroenterology .",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-87.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.amp",
-      "publishedDateTime": "2022-11-17T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-18-3-key-ways-artificial-intelligence-helps-organizations-drive-dei.md",
       "title": "3 Key Ways Artificial Intelligence Helps Organizations Drive DE&I",
       "excerpt": "Debates about the efficacy and ethics of using artificial intelligence (AI) —or not using it—when making decisions about hiring, promotions, and diversity, equity and inclusion (DE&I) have been going on for years. And while the AI Bill of Rights has ...",
@@ -1248,6 +1206,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-4-times-when-mathematics-made-huge-breakthroughs-in-ai.md",
+      "title": "4 Times When Mathematics Made Huge Breakthroughs in AI",
+      "excerpt": "Although some discoveries offered compelling answers, others promised avenues of explorations for the future generations.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
+      "originalUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/math.png",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
       ]
     }
   ],

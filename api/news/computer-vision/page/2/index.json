@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-05-indonesian-police-use-face-recognition-for-g20-summit-security.md",
+      "title": "Indonesian Police Use Face Recognition for G20 Summit Security",
+      "excerpt": "Wakapolri said that through the command center, Indonesian police can find out the situation of members and facilities G20 Summit. They also provide the face recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "originalUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/04/63651ae978d50-wakapolri-komjen-pol-gatot-eddy-pramono_665_374.jpg",
+          "width": 665,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "cdnAmpWebUrl": "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "publishedDateTime": "2022-11-04T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "viva",
+        "domain": "viva.co.id",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-australia-bets-on-facial-recognition-to-deter-problem-gamblers-despite-concerns-over-rights.md",
+      "title": "Australia bets on facial recognition to deter problem gamblers despite concerns over rights",
+      "excerpt": "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "originalUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/04/ea3a5d70-cb1c-4d31-9a49-62c4a096cdde_a7fb0940.jpg?itok=qMGIsekb&v=1667570814",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
+      "publishedDateTime": "2022-11-04T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
       "title": "Robotics Engineering Week to address critical development issues",
       "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
@@ -1272,101 +1368,6 @@
       "provider": {
         "name": "Niagara Gazette",
         "domain": "niagara-gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-daily-authority-our-pixel-7-review-is-here.md",
-      "title": "Daily Authority: 📱 Our Pixel 7 review is here",
-      "excerpt": "Today's edition of the Daily Authority covers our Pixel 7 review, Liz Truss and lettuce, and much more. Hit the link for all the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/daily-authority-october-21-2022-3222595/",
-      "originalUrl": "https://www.androidauthority.com/daily-authority-october-21-2022-3222595/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Pixel-7-white-back-angled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-facial-recognition-used-in-arrest-of-911-conspiracy-theory-lawyer-accused-of-trying-to-disarm-officer-on-jan-6.md",
-      "title": "Facial recognition used in arrest of 9/11 conspiracy theory lawyer accused of trying to disarm officer on Jan. 6",
-      "excerpt": "\"Following this tip, the FBI reviewed New York Department of Motor Vehicles (DMV) photos of John O’Kelly, and used facial recognition software to compare O’Kelly’s DMV photos to footage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/justice-department/facial-recognition-used-arrest-911-conspiracy-theory-lawyer-accused-tr-rcna53298",
-      "originalUrl": "https://www.nbcnews.com/politics/justice-department/facial-recognition-used-arrest-911-conspiracy-theory-lawyer-accused-tr-rcna53298",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221020-John-o-kelly-capitol-rioter-snip-ac-529p-918dcf.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna53298",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna53298",
-      "publishedDateTime": "2022-10-20T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null

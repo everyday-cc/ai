@@ -345,6 +345,59 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-cohesity-leapfrogging-the-competition-in-data-security-and-management.md",
+      "title": "Cohesity - Leapfrogging The Competition In Data Security And Management",
+      "excerpt": "The latest member to join the Cohesity Security Advisory Council is Kelly Bissell, leader of Microsoft Security Services. I've watched this market ... Cloudera, Clumio, Cognitive Systems, CompuCom, Cradlepoint, CyberArk, Dell, Dell EMC, Dell Technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63741f3da82aacc952f59b8f/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/amp/",
+      "publishedDateTime": "2022-11-15T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-pickle-robots-unloading-robots-bring-in-26m.md",
       "title": "Pickle Robot’s unloading robots bring in $26M",
       "excerpt": "Pickle Robot Company announced that it closed a $26 million Series A funding round and it has live pilot implementations in the LA area.",
@@ -1187,49 +1240,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
-      "title": "Prehistoric predator? Artificial intelligence says no",
-      "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
-      "publishedDateTime": "2022-11-15T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

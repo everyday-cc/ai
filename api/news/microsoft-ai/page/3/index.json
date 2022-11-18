@@ -2,6 +2,471 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-28-love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers.md",
+      "title": "'Love hormone' oxytocin may improve cognitive impairment in Alzheimer's",
+      "excerpt": "Laurence Monneret/Getty Images Alzheimer’s disease is a common form of dementia characterized by cognitive impairments ... of neurology at the Uniformed Services University of the Health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/love_hormone_alzheimers_732x549_thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-microsoft-previews-vision-studio-for-working-with-azure-computer-vision-api.md",
+      "title": "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API",
+      "excerpt": "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform.",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-video-games-are-good-for-a-developing-brain-study-shows.md",
+      "title": "Video games are good for a developing brain, study shows",
+      "excerpt": "Huge news for the kids who grew up gaming: There are some cognitive benefits associated with children who play video games. Children who played video games showed \"enhanced cognitive performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/video-games-children-study",
+      "originalUrl": "https://mashable.com/article/video-games-children-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/079RyeM8TLJYWd7KogR8t1J/hero-image.fill.size_1200x675.v1666805636.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-parents-of-boys-shown-to-have-faster-rate-of-cognitive-decline-than-those-with-girls.md",
+      "title": "Parents of boys shown to have 'faster rate of cognitive decline' than those with girls",
+      "excerpt": "But what about your children? A new study has considered whether the gender of the next generation can affect cognitive health. A new study published in the United States has found that parents of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/How-you-age-1687908.jpg?r=1666778811254",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline/amp",
+      "publishedDateTime": "2022-10-26T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-vleeschhouwer-microsoft-cloud-computing-services-are-growing.md",
+      "title": "Vleeschhouwer: Microsoft cloud computing services are growing",
+      "excerpt": "Jay Vleeschhouwer, Managing Director of Software Research at Griffin Securities, joins Worldwide Exchange to discuss Microsoft's Q1 ... info about our products and services. ©",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsofts-end-to-end-arm-development-environment-is-here-at-last.md",
+      "title": "Microsoft’s end-to-end Arm development environment is here at last",
+      "excerpt": "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
+      "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
+      "publishedDateTime": "2022-10-26T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-introducing-vision-studio-a-ui-based-demo-interface-for-computer-vision.md",
+      "title": "Introducing Vision Studio, a UI-based demo interface for Computer Vision",
+      "excerpt": "Are you looking to improve the analysis and management of images and videos? The Computer Vision API provides access to advanced algorithms for processing media and returning information.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
+      "originalUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97d85a19-b0dc-47b0-8532-dc8f7b366e05.png",
+          "width": 1024,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T01:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-ai-art-raises-questions-about-copyright.md",
+      "title": "AI art raises questions about copyright",
+      "excerpt": "Let artificial intelligence (AI) do the work for you. Then you change your mind and want to have the painting in a surrealistic style. A piece of cake. Type what you want in the message field of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
+      "originalUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/media/content/20221026/c1_2422648_221026063358_700.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-how-to-be-a-super-ager-and-improve-your-memory-and-cognitive-function-as-you-age.md",
+      "title": "How to be a 'super-ager' and improve your memory and cognitive function as you age",
+      "excerpt": "but I was so alarmed by my forgetfulness I Googled to see if there was any way to improve my memory and cognitive function. Like what you see? Sign up to our bodyandsoul.com.au newsletter for more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
+      "originalUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
+      "cdnAmpWebUrl": "https://www-bodyandsoul-com-au.cdn.ampproject.org/c/s/www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
+      "publishedDateTime": "2022-10-25T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bodyandsoul.com.au",
+        "domain": "bodyandsoul.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-novel-approach-to-tms-may-slow-cognitive-decline-in-alzheimers.md",
+      "title": "Novel Approach to TMS May Slow Cognitive Decline in Alzheimer's",
+      "excerpt": "A novel approach to repetitive transcranial magnetic stimulation (rTMS) that targets the precuneus appears to slow the progression of cognitive and functional decline in patients with Alzheimer's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/983068",
+      "originalUrl": "https://www.medscape.com/viewarticle/983068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsoft-gaming-revenue-grew-slightly-yoy-xbox-hardware-up-13-content-services-down-3.md",
+      "title": "Microsoft Gaming Revenue Grew Slightly YoY: Xbox Hardware Up 13%, Content & Services Down 3%",
+      "excerpt": "Today, Microsoft announced its financial results for the first quarter of the fiscal year 2023, related to the period between July 1, 2022, and September 30, 2022. The press release shared today ...",
+      "sourceUrl": null,
+      "webUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "originalUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event.md",
       "title": "Microsoft Celebrates 10 Years Of Surface At Its 2022 Surface Event",
       "excerpt": "I believe Microsoft has made some incredible innovations for its hardware and software over the past 10 years and with its Surface Brand. That path is marked by the Surface teams",
@@ -883,479 +1348,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-children-may-get-a-cognitive-boost-from-playing-video-games.md",
-      "title": "Children may get a cognitive boost from playing video games",
-      "excerpt": "A compelling new study published in JAMA Network Open suggests there may be some cognitive benefits associated with playing video games. The research looked at around 2,000 children and found ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
-      "originalUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c0c5e38/2147483647/strip/true/crop/3796x1993+0+338/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F7e%2Fbe%2F4156a12a4c70bafd8aedd83e93d7%2Fdepositphotos-12112893-xl.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-one-in-10-older-americans-has-dementia.md",
-      "title": "One in 10 older Americans has dementia",
-      "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia,\" Manly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221024131046.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221024131046.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-microsoft-cloud-gaming-services-are-still-in-their-baby-days.md",
-      "title": "Microsoft: Cloud gaming services are still in their ‘baby days’",
-      "excerpt": "It is investigating whether Microsoft would be interested in cloud computing after the acquisition. The emerging market of game services forms a monopoly. In its 33-page response, Microsoft wrote ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/10/21/microsoft-cloud-gaming-services-are-still-in-their-baby-days/",
-      "originalUrl": "https://www.gizchina.com/2022/10/21/microsoft-cloud-gaming-services-are-still-in-their-baby-days/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-why-generative-ai-legal-battles-are-brewing-the-ai-beat.md",
-      "title": "Why generative AI legal battles are brewing | The AI Beat",
-      "excerpt": "Behind this week's firehose of news around generative AI tools, legal battles around \"fair use\" of training data are brewing, say experts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-824294832.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/amp/",
-      "publishedDateTime": "2022-10-21T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study.md",
-      "title": "Post-COVID cognitive impairments similar to being 'sleep deprived': Canadian-led study",
-      "excerpt": "A new Western University-led study has shed more light on the impacts of COVID-19, suggesting patients may experience short- and long-term cognitive impairments following infection, which can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
-      "originalUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.md",
-      "title": "The cognitive conditioning of the electoral mind, By Umar Yakubu",
-      "excerpt": "I sincerely hope and pray that as we move into the elections period with all the possibilities of change that it offers, people’s minds will open up properly to the stark realities around them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.premiumtimesng.com/opinion/560783-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.html",
-      "originalUrl": "https://www.premiumtimesng.com/opinion/560783-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.premiumtimesng.com/wp-content/files/2021/05/Umar-Yakubu.jpg",
-          "width": 498,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Premium Times",
-        "domain": "premiumtimesng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-post-covid-cognitive-impairments-similar-to-being-sleep-deprived-study-says.md",
-      "title": "Post-COVID cognitive impairments similar to being 'sleep deprived,' study says",
-      "excerpt": "Toronto, Ontario (CTV Network) -- A new Western University-led study has shed more light on the impacts of COVID-19, suggesting patients may experience short- and long-term cognitive impairments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gwinnettdailypost.com/features/health/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-study-says/article_1ee93774-7f42-5252-97f0-46657a774541.html",
-      "originalUrl": "https://www.gwinnettdailypost.com/features/health/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-study-says/article_1ee93774-7f42-5252-97f0-46657a774541.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/4a/c4aeea9e-50e6-11ed-af3d-0396fbfa0a0f/635201a714fb7.image.jpg?crop=1080%2C567%2C0%2C76&resize=1080%2C567&order=crop%2Cresize",
-          "width": 1080,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gwinnett Daily Post",
-        "domain": "gwinnettdailypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-students-explore-new-cognitive-science-major-in-the-college-of-arts-and-sciences.md",
-      "title": "Students Explore New Cognitive Science Major in the College of Arts and Sciences",
-      "excerpt": "A new cognitive science major within Cornell’s College of Arts and Sciences was approved earlier this year. Now, the major, coordinated by director Prof. Shaun Nichols, cognitive science ...",
-      "sourceUrl": null,
-      "webUrl": "https://cornellsun.com/2022/10/20/students-explore-new-cognitive-science-major-in-the-college-of-arts-and-sciences/",
-      "originalUrl": "https://cornellsun.com/2022/10/20/students-explore-new-cognitive-science-major-in-the-college-of-arts-and-sciences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cornellsun.com/wp-content/uploads/2022/10/Mann-1.jpg?fit=1170%2C780&#038;ssl=1",
-          "width": 1170,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cornell Daily Sun",
-        "domain": "cornellsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-weight-loss-in-early-parkinson-linked-to-cognitive-decline.md",
-      "title": "Weight Loss in Early Parkinson Linked to Cognitive Decline",
-      "excerpt": "THURSDAY, Oct. 20, 2022 (HealthDay News) -- Weight loss in early Parkinson disease (PD) is associated with a decline in cognitive function, according to a study published online Oct. 19 in Neurology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "originalUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/c/80/c802b23b-58c1-50e8-8c20-79c45aff8b67/6351f2b4671d4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kpvi",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-staying-at-the-cutting-edge-of-automotive-design-technology-with-azure-cloud-platform-and-amd.md",
-      "title": "Staying at the Cutting Edge of Automotive Design Technology with Azure Cloud Platform and AMD",
-      "excerpt": "SPONSORED CONTENT]   In automotive, first movers have a massive advantage. Success in the industry centers on vehicle R&D, at the core of which is design, performance and crash safety multi-physics software.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2022/10/staying-at-the-cutting-edge-of-automotive-design-technology-with-azure-cloud-platform-and-amd/",
-      "originalUrl": "https://insidehpc.com/2022/10/staying-at-the-cutting-edge-of-automotive-design-technology-with-azure-cloud-platform-and-amd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2022/10/automotive-car-design-shutterstock-1472898104.jpg",
-          "width": 500,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-fetterman-is-ready-for-full-duty-and-speaks-with-no-cognitive-deficits-his-doctor-says.md",
-      "title": "Fetterman is ready for 'full duty' and speaks with no 'cognitive deficits,' his doctor says",
-      "excerpt": "A new report from his campaign is the first major post-stroke update in months. Pennsylvania Senate candidate John Fetterman's health \"has continued to improve\" and he is speaking \"without ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "originalUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/fetterman-file-gty-ml-221019_1666195068491_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "publishedDateTime": "2022-10-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

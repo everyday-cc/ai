@@ -7,7 +7,7 @@ originalUrl: "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-
 webUrl: "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,19 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence-aided colonoscopy does not increase cancer detection"
-    excerpt: "Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November issue of The American Journal of Gastroenterology ."
-    publishedDateTime: 2022-11-17T18:50:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.amp"
+  - title: "Artificial Intelligence-Aided Colonoscopy Does Not Increase Cancer Detection"
+    excerpt: "THURSDAY, Nov. 17, 2022 (HealthDay News) — Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November issue of The American Journal of Gastroenterology."
+    publishedDateTime: 2022-11-18T05:49:00Z
+    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 69
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 49
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-87.jpg"
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/11/image1668750544.jpg"
         width: 800
         height: 600
         isCached: true

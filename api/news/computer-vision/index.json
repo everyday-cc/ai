@@ -89,6 +89,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-worrying-loophole-in-italys-facial-recognition-ban-points-to-the-eus-future.md",
+      "title": "Worrying loophole in Italy’s facial recognition ban points to the EU’s future",
+      "excerpt": "Italy has introduced a new facial recognition ban, but it features a glaring exemption that is set to echo across the EU. “The moratorium stems from the need to regulate eligibility requirements, conditions, and guarantees relating to facial recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
+      "originalUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2FUntitled-design-1-1.jpg&signature=cf49e9e1a46730c9aa7ab700afd7781f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-woman-revealing-why-she-shows-only-half-her-face-on-work-calls-melts-hearts.md",
       "title": "Woman Revealing Why She Shows Only Half Her Face on Work Calls Melts Hearts",
       "excerpt": "A woman melted hearts online after revealing the reason she shows only half her face on work calls ... This kind of non-detailed phonetic recognition is also the way babies process speech up to the age of about 14 months and goes some way toward explaining ...",
@@ -329,6 +381,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-new-speech-recognition-tech-set-to-transcribe-mouthed-words-using-facial-movements.md",
+      "title": "New speech recognition tech set to transcribe mouthed words using facial movements",
+      "excerpt": "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "originalUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2022/nov/Twitter-we_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "publishedDateTime": "2022-11-15T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -769,10 +865,10 @@
     {
       "path": "_news/2022-11-11-alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry.md",
       "title": "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry",
-      "excerpt": "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ...",
+      "excerpt": "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,",
       "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/",
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -782,11 +878,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T09:41:00-08:00",
+      "publishedDateTime": "2022-11-10T09:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WDAF-TV",
-        "domain": "fox4kc.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1253,102 +1349,6 @@
         "name": "PRESSENZA",
         "domain": "pressenza.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-indonesian-police-use-face-recognition-for-g20-summit-security.md",
-      "title": "Indonesian Police Use Face Recognition for G20 Summit Security",
-      "excerpt": "Wakapolri said that through the command center, Indonesian police can find out the situation of members and facilities G20 Summit. They also provide the face recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "originalUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/04/63651ae978d50-wakapolri-komjen-pol-gatot-eddy-pramono_665_374.jpg",
-          "width": 665,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "cdnAmpWebUrl": "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "publishedDateTime": "2022-11-04T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "viva",
-        "domain": "viva.co.id",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-australia-bets-on-facial-recognition-to-deter-problem-gamblers-despite-concerns-over-rights.md",
-      "title": "Australia bets on facial recognition to deter problem gamblers despite concerns over rights",
-      "excerpt": "Despite concerns about privacy and surveillance, the tech – which uses AI to identify addicts who have asked to be barred from betting sites – will target problem gambling in a country where the addiction affects some 1 per cent of the population.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "originalUrl": "https://www.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/04/ea3a5d70-cb1c-4d31-9a49-62c4a096cdde_a7fb0940.jpg?itok=qMGIsekb&v=1667570814",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/article/3198521/australia-bets-facial-recognition-deter-problem-gamblers-despite-concerns-over-rights",
-      "publishedDateTime": "2022-11-04T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

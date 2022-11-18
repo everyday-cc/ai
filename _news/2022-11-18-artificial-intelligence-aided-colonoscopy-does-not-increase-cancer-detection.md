@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Artificial intelligence-aided colonoscopy does not increase cancer detection"
-excerpt: "Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November issue of The American Journal of Gastroenterology ."
-publishedDateTime: 2022-11-17T18:50:00Z
-originalUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html"
-webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.amp"
+title: "Artificial Intelligence-Aided Colonoscopy Does Not Increase Cancer Detection"
+excerpt: "THURSDAY, Nov. 17, 2022 (HealthDay News) — Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November issue of The American Journal of Gastroenterology."
+publishedDateTime: 2022-11-18T05:49:00Z
+originalUrl: "https://www.physiciansweekly.com/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/"
+webUrl: "https://www.physiciansweekly.com/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Too Old to Operate
+  domain: physiciansweekly.com
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-87.jpg"
+  - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/11/image1668750544.jpg"
     width: 800
     height: 600
     isCached: true
@@ -41,6 +39,6 @@ related:
         height: 315
         isCached: true
 
-secured: "w+dWc60JEea1sG7ET116iOOZO9L/khOOfPPL8asc4dm5jJx7DGO7Ot+1ofVU8Qu+R49HHFiAj/zQ/2ywzhZsMNv1tI8y7WtGFtts9kajFecg3fZTkU8VrgLanpibMoUD3qHOBMupBMQksKpveKMUBKb/+/Aq7vOl4nabFLz8vVB9SwybhqpkEhDInElRnH+ka2RviUqQ38kP6LtliTA5uul9B830E/jcWe5RKZpLae5FFxMzxAPX+OSL0QT8YKvSPFD0mEBXGSfBUM7L+vkYonL4wwHb5XmLtLRefrwj0MmSR5LGQPsdKTiBpqaoq1mt8VMZyVciSuYecslzOn5D3CtlOun2WLsRXaZxJGztLrl2H9mnc1GkvOrP9RzFxfbx4Cb/8jK4HMeLNycH55XrPpxRfzieGC65LX2oewy6tbCyOGlL8C/UQEC+vqdiq2XzOhtdhL4Hl+ZA6ovBj+2AgAc9egDy+f1S7XS5g4wQJb7wKNznmVxkygpN+yj1Xi6Nrx9FVW3ovx21S1kJf4Ulxw==;Jg32IcOiL2in04oF3hfz8g=="
+secured: "u8kxOPCWJUDB8VxAvFFZnaEFhl3IL/Szxhfse9vqa2VorzczebUMBjZRk4KG6Qtq+hJrvCLZHeiCOtkyZ3Kkn4Iz1Jv/yqQDpXLhNu85nnUaMs+kOPuN+rNagFfp/RulV0sUmEgAspLzVONpW6X/FeXM5KUd2l15oLthJIaoCoNHVzg/q/1q1pjXAHc41UglfsW0aj3HJiHvDdd0yuh8neIMihM5wL8b6Wth12YpBcUVvSpLJLJz6GguWIrbjq3Nkqp5Yqq60pSOTHv5iuabI4Gw/cFycDRsSLir10JOBBf25mO3XqAeV/JIXMji0ghwv80Nt4Il3T6p6Y7QjjN4MXr/+IiI2ectvQgD0wV/hnE=;LSTJDrUxLSO/Uc8HwMISOg=="
 ---
 
