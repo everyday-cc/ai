@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.computerweekly.com/visuals/German/article/graph-database-network-adobe.jpg"
@@ -26,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "xPb6cmb50l5mkGf3lOyMFJdXZP1gusHiFF080fgAUGATstWdUt0eFjhRDPg6hXZs+6OLqMGxYsGpOWnpG2Lv3mFo76hGd1ICVTKzxu9BT+8UUlhhDOXThAdTTf1iwdcG5Jrajg9E1NJOHyj5UxiPwK3UrWnN9eFn39XO6GH6lrylqUe8hj35er+Oz51QwNJWOUhHAc06soKtL/Rr6wpbUteZcmqwy2YBnNg0rcIiZ6DmyC5HksCjGuyG5PjwcKnznwCyyfEdnJZQFzY/6ZEDglcVTdvlbuwvabTtaHgcNDvsHIs+VDEs3VlhvhvIhLcZNef/Q1jrAB5G1x+WK5U1/6t7N92KBOlnZhqh1oHYbDM=;heXjP/FZMta1BuElYIiI1Q=="
+secured: "wUkzzNOS3YNxz+p9sSSfhbIB5WNPlhQuhgwec+7sI4bBNrlOdy2lzfy1jgX2nI5kBwraSKI0WiC/bstWRQdvR9aNXRjIE8qJ81EHu685VSy0uPA07DO02EesstdN7Re8T2nF0HV7e7yfmqBBGZiCTzQ9OBerLE5cJJEPsJoeWhwhOCb7QZgHp3AjXgPwNLw4Exs2/vpTsw/4bnIE9jA2gSrHeKCGVigF3//45z+fYxPwsc7zKy/F5YC4Os96rgCd5azu6Mk+tEnfYI7H9uWvMiXyAhwoBy7+5orYW8IQV4KidznzGI2RZcEp+xO+VugvB2CWfxpqPyAxiw10Kw3PWjmh7KQHzh/hUq779VZEa1z9RfCwDqWc4sA8NZ79aLJmNPBfsSHKSjZg1FKmC8+uaFEQ5cUxfguuWtDiZFs/tjaJBcsDxVmnacKDV6JwWhB/tbtTA2CTVacshNVsOJIQ/loZ99Eh5hQz79hr7B96SisElZ6c0WKo2fucCNPT7tp11lhalSG/7deWalmisLpB4g==;0UvRmTLlY4o6ueYXEy34xw=="
 ---
 

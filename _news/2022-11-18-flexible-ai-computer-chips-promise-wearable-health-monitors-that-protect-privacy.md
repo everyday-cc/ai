@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Flexible AI computer chips promise wearable health monitors that protect privacy"
-excerpt: "Rather than working like a typical computer chip, though, the chip we’re working with ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices, which would minimize the amount of information a device ..."
-publishedDateTime: 2022-11-18T01:45:00Z
-originalUrl: "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860"
-webUrl: "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860"
-ampWebUrl: "https://theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860"
+excerpt: "Rather than working like a typical computer chip, though, the chip we're working with ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices, which would minimize the amount of information a device ..."
+publishedDateTime: 2022-11-17T18:42:00Z
+originalUrl: "https://medicalxpress.com/news/2022-11-flexible-ai-chips-wearable-health.html"
+webUrl: "https://medicalxpress.com/news/2022-11-flexible-ai-chips-wearable-health.html"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/494503/original/file-20221109-13740-snz30g.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=202&fit=crop"
-    width: 320
-    height: 202
-    isCached: true
-
-secured: "MFAdxcWWZ1Po2Msb9tsBgr2lmS6WC8DNCYGIoY37nRDGhOQxb4WKoD2voxu3HvltaGHhwNk4pV9GL97eQL8R3+VPaENlqvjPuCyto4cZuwLKuWa3YqLXYRr9+QZ5P0DHnrXnZitZpLhxnxNk6YnfAW+l0WxE8LSDwqnK9UnFbuZUqh9tVaB1h6m1uSzG/TlI0euQagG8yyr4lVQzUtBAu2Ts93OyzVaANy2/k3PjatioIBHzeJv17HpCzWREKqD13qoNnaf59AfZkc67TSqwEaIEz4TiPlWxn0Hz0XfPPcU7mf4n1JtuvzLSo/jZ4nNsUKdTXNjtJPJFNS66x078quA9JzB3+rIr++Qd9uzxWGa1qES7MBp27mYwXlmX2h62f6QdcM1+4ReWGdRBG5Rs4+ILY+nLb1lQ7cfxeN+TVUbgcKvIgiXhP+XwM14nzHKZLiRtyDKS8DSTGsTZz8APoNNIE8uV0/elhrODh5xAXbZDBLpjN0XrA73FR1jCf+trrZ3fv6LOl6qdPt1MmyRP1g==;2KXmyOTLPZfcbmadVspmNw=="
+secured: "uuCaKiC8+vqRKCwwoiq+X82yXGdRTv7J6ogC1yQV5ll/uUtxW3t+NR0HQERNY+MkfAfeymEDr2flUtmWmR3DzTvI/kuoBUWvaYaeOOSrnicD1yey80vIFiZgo11dohWHw+Nz77k/OfCFNHQObc5TMCjXgNamaUmx/47yx0+SmuzNhFFk7s+9se4pU3Yfn2CgGxbXauY4aToJMG1PajZZfjAKvu9G6OVmJvCpX6Fjs25ISs6XB2EfDBx4NGBJz2Haqo3MgUyDF2A4u49fx7gicgrBYHHJk58E+vOaMJOlUNMTNhRErBHTTI+/xyYpxhagGOWqFJ5plpBCbFIbRB7CNSH7qfdFMyZ6Ky0JIbmOMdaMv6x62Nem8XdnIxRf827WNmKDcJGJPR0HZL629ebw9pVAMOHGMp/TE/59jKBOuf1BqGN9k8fw6+Uesl8leTfManpJG9wRUhu9v8KqFl2UtXLR1Zbyyp4dtW08vX7Ny3kyC0F3MX/GLo3EAxwCYm/mU/nMshDSIAoZVEqwNHrbgA==;Q2cztXdN8TELIQ5SX0hyDA=="
 ---
 
