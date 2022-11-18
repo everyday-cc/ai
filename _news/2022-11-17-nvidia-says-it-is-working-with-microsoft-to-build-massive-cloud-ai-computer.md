@@ -127,6 +127,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud"
+    excerpt: "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ..."
+    publishedDateTime: 2022-11-18T17:53:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Nvidia and Microsoft team up to build ‘massive’ AI supercomputer"
     excerpt: "Nvidia has announced a “multi-year collaboration” with Microsoft to build “one of the most powerful AI supercomputers in the world,” designed to handle the huge computing workloads needed to train and scale AI. The collaboration will see Nvidia ..."
     publishedDateTime: 2022-11-17T15:44:00Z
@@ -367,6 +383,20 @@ related:
       - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/11/Nvidia-Microsoft-.jpg"
         width: 1066
         height: 600
+        isCached: true
+  - title: "Microsoft and NVIDIA to work together on new cloud AI project"
+    excerpt: "NVIDIA announced that it will be partnering up with Microsoft \"to build one of the most powerful AI supercomputers in the world\". The multi-year collaboration will be backed up by Microsoft Azure’s advanced supercomputing infrastructure combined with ..."
+    publishedDateTime: 2022-11-18T16:25:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-and-nvidia-to-work-together-on-new-cloud-ai-project"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/08/office-engineer-pexels.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
     excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."

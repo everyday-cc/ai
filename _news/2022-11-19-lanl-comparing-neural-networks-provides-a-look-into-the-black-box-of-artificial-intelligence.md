@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-18T16:35:00Z
 originalUrl: "https://losalamosreporter.com/2022/11/18/lanl-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence/"
 webUrl: "https://losalamosreporter.com/2022/11/18/lanl-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence/"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://losalamosreporter.files.wordpress.com/2022/11/image002-56.png"

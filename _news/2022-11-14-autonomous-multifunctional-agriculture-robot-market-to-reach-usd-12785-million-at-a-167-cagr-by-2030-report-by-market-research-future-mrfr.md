@@ -42,15 +42,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 5
-  - title: "Global Industrial Robotics Market Size & Share Projected to Reach to USD 46.1 Billion by 2030, at 14.2% CAGR Growth: Polaris Market Research"
-    excerpt: "According to the research report, the global industrial robotics market size & share was valued at USD 14.1 billion in 2021 and is expected to reach USD 46.1 Billion by 2030, growing at a CAGR of 14.2% during the forecast period."
-    publishedDateTime: 2022-11-16T13:31:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/16/9714630.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YXO4RDYGw28ifOcJPFPfT4WDOq7TzO2yTUZ+yQraCQFCf4DxyNBu7nX/mB8QmsjL7Gyzjb9Q81rDyPL+HP4Anj/WqGXM+AKaNAjhn6GsFVaRt+sbaocw0ggZvniv+lgyUIn5HRo3b4NB+hJtyTCntYla4Ru49/YHgpOKLyEvM6klLOWFCHrLglLn+oRSfsAOw7i50yXFr/Vd5TRPG0aLM7UNfsm0WARkNBTO08z+brWmpjWzIfs+ZjQbMKSif9yZqLe1Gi4XAbWgM3AoN9zQKA/92OkQXLDD3iw65S4Jg2M7uXRO7c7xJpzB/I7PCeUkQCAkzuOHxQHO8y95BCXs3e6s4RalxnFXc7bhgtzmFUU=;lyErmHT9eOzynRPmhNeAmA=="
 ---

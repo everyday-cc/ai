@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-in
 ampWebUrl: "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/"
 type: article
-quality: 89
-heat: 100
+quality: 91
+heat: 102
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/600af5868c1bda438d3a4b6a/0x0.jpg?format=jpg&width=1200"

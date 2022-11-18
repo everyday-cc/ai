@@ -28,7 +28,7 @@ related:
     provider:
       name: losalamosreporter
       domain: losalamosreporter.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://losalamosreporter.files.wordpress.com/2022/11/image002-56.png"
         width: 732

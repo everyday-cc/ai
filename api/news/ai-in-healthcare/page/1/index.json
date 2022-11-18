@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
-      "title": "How artificial intelligence is being used to stop retail theft",
-      "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security system sent an alert to his phone that showed a customer who ...",
+      "path": "_news/2022-11-18-3-key-ways-artificial-intelligence-helps-organizations-drive-dei.md",
+      "title": "3 Key Ways Artificial Intelligence Helps Organizations Drive DE&I",
+      "excerpt": "Debates about the efficacy and ethics of using artificial intelligence (AI) —or not using it—when making decisions about hiring, promotions, and diversity, equity and inclusion (DE&I) have been going on for years. And while the AI Bill of Rights has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wtkr.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
-      "originalUrl": "https://www.wtkr.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "webUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
+      "originalUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png",
-          "width": 1280,
-          "height": 720,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600af5868c1bda438d3a4b6a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 665,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wtkr.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "publishedDateTime": "2022-11-18T07:09:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
+      "publishedDateTime": "2022-11-17T09:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTKR",
-        "domain": "wtkr.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

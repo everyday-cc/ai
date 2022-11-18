@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/walmart-deals-for-days-this-119-robo
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/18/c8502349-33f1-45e1-8dce-ae2bae7dabec/thumbnail/1200x630/c599ebe5043f0f0444d6131eda127da3/eufy-by-anker-robo-vacuum-g32-pro-119.jpg"

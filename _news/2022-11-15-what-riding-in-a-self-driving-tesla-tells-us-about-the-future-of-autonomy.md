@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-se
 webUrl: "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html"
 type: article
 quality: 68
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -52,6 +52,22 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 49
+  - title: "Zoox: Autonomous vehicle not in self-driving mode at time of crash"
+    excerpt: "A fully autonomous capable SUV being tested in Las Vegas wasn’t in self-driving mode when it was involved in a crash earlier this week, company officials said Friday. On Monday, a 2016 Toyota Highlander outfitted with fully autonomous driving technology ..."
+    publishedDateTime: 2022-11-18T18:44:00Z
+    webUrl: "https://www.reviewjournal.com/local/traffic/zoox-autonomous-vehicle-not-in-self-driving-mode-at-time-of-crash-2678852/"
+    ampWebUrl: "https://www.reviewjournal.com/local/traffic/zoox-autonomous-vehicle-not-in-self-driving-mode-at-time-of-crash-2678852/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/local/traffic/zoox-autonomous-vehicle-not-in-self-driving-mode-at-time-of-crash-2678852/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 44
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2022/11/17153368_web1_IMG_4355-1c-.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "WATCH | Scary as self-driving Tesla malfunctioned [VIDEO]"
     excerpt: "Ah, we all love a bit of video content, don’t we? It’s engaging, exciting and a different way of consuming content. We also love consuming as much news as we possibly can to stay in the know but we have busy lives so if we can get a taste of what’s ..."
     publishedDateTime: 2022-11-18T09:35:00Z

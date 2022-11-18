@@ -62,6 +62,22 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 49
+  - title: "Zoox: Autonomous vehicle not in self-driving mode at time of crash"
+    excerpt: "A fully autonomous capable SUV being tested in Las Vegas wasn’t in self-driving mode when it was involved in a crash earlier this week, company officials said Friday. On Monday, a 2016 Toyota Highlander outfitted with fully autonomous driving technology ..."
+    publishedDateTime: 2022-11-18T18:44:00Z
+    webUrl: "https://www.reviewjournal.com/local/traffic/zoox-autonomous-vehicle-not-in-self-driving-mode-at-time-of-crash-2678852/"
+    ampWebUrl: "https://www.reviewjournal.com/local/traffic/zoox-autonomous-vehicle-not-in-self-driving-mode-at-time-of-crash-2678852/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/local/traffic/zoox-autonomous-vehicle-not-in-self-driving-mode-at-time-of-crash-2678852/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 44
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2022/11/17153368_web1_IMG_4355-1c-.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla tells US of new fatal crashes involving automated driving"
     excerpt: "Tesla Inc. disclosed to US regulators two new fatal crashes involving automated driver-assist systems, bringing its total to 16 since June 2021."
     publishedDateTime: 2022-11-16T00:10:00Z
