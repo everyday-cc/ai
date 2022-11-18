@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-mult
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 81
 published: true
 
 provider:

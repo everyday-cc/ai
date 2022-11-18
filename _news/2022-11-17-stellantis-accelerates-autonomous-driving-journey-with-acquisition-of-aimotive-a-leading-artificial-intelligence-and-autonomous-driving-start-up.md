@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Stellantis acquires artificial intelligence and autonomous driving startup, aiMotive"
+    excerpt: "Stellantis has acquired aiMotive, a developer of advanced artificial intelligence and autonomous driving software. This acquisition enhances Stellantis’ artificial intelligence and autonomous driving core technology, expands its global talent pool and ..."
+    publishedDateTime: 2022-11-18T06:35:00Z
+    webUrl: "https://www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/"
+    ampWebUrl: "https://www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 45
   - title: "Stellantis acquires AiMotive, an autonomous driving software startup"
     excerpt: "It's a move, Stellantis NV said in a news release, to accelerate the development of its STLA AutoDrive platform announced last year."
     publishedDateTime: 2022-11-17T15:04:00Z

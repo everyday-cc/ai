@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-17T16:38:00Z
 originalUrl: "https://www.salisburypost.com/2022/11/17/the-future-is-already-here-rccc-plugs-into-artificial-intelligence/"
 webUrl: "https://www.salisburypost.com/2022/11/17/the-future-is-already-here-rccc-plugs-into-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.salisburypost.com/wp-content/uploads/sites/9/2022/11/AI-Incubator.jpg?w=525"
@@ -23,6 +24,6 @@ images:
     height: 350
     isCached: true
 
-secured: "+t0bKmKFUfM2CFGXitqBXNPv/Xrq3Se4do26glsZoNyo9UyYAWzZRCRHvGPfl4Cdld57W7/LeW3dLE4VcMKumB6twHe69IIpgN98/dLopOAT8HgOQGvFqoNZXvQIhqsk1n/uqE3lVSDbXlqV2GR1NSIOkgc+XVVgcSkYWdCwAJejSDFp0IGXMBiQTypk59UbsJ+xJKx08OSEytNbC+8Tmt7DgxQh0dBOgk3Ui/pQ29ZQZfCJiiQ6WA4fxHaafkK3CUB3Y0jdrQmw8lih6WcZTLuu8kgeZZZwbbz9pnyhVSWgEU2/WxVj2MGNdae3MzLC7Fcd0zn3sVBk6EaFVntrlkPogi/umSUuX9KPKnChqck=;IvHzEKTQXm4J5jSXy1Op4A=="
+secured: "RkMRmuFuhR+2PJDz34CjJzvyDYgAybyv4+45z/1mcVMbQbqk+Rql/uo0MQDssoOZdU6ooDJ3A30QThcOqxCv/3IatVpxPL2ZCwZDxqCGLwmDpIFSCyJMQuWZihgcwZcxhN9+FE7sJK+23Vmd9I0PItxnUYxJXgsPj8H2H+jpoZVQCFPBTjYhG8lBSz3hyUbcraBHiGKzmOJAH/KeckQdJOwdHox1r0+5RalU40q7ZdbmqdXsM64nfB7b7tUFsRpvWDExFPz/vLBMHSCxw7r+TJflZwdvup4ftCUYdqwAcA/tcKq1+VysvSMe3vlnenoV9eiPYDmif66f6vOFypo7W2S0ZBzs/0MCzs38Oo2rw3o2pewfHOy7rKvIs6B54HidrH2aIYe64YWvSXH8xKYFRxWBcOx0PPLrUy96EnloixOPQudY2b1S1nUN7oJKYsiJl8EJ67NeKyBXB9aqfz8TOedWQpQJm1lRLAYblPzsIdsF0rva7Kp3U7K0UK4URJoo5KqcoXYayl62PmS+lJthIg==;hDRGeGPaIN8MqH94/4HVBg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

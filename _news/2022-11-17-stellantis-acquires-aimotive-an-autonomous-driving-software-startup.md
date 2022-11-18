@@ -7,7 +7,7 @@ originalUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2022/11/
 webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2022/11/17/stellantis-acquires-aimotive-autonomous-driving-software-startup/69656551007/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Stellantis acquires artificial intelligence and autonomous driving startup, aiMotive"
+    excerpt: "Stellantis has acquired aiMotive, a developer of advanced artificial intelligence and autonomous driving software. This acquisition enhances Stellantis’ artificial intelligence and autonomous driving core technology, expands its global talent pool and ..."
+    publishedDateTime: 2022-11-18T06:35:00Z
+    webUrl: "https://www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/"
+    ampWebUrl: "https://www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 45
   - title: "Stellantis to buy software developer aiMotive in autonomous driving push"
     excerpt: "The acquisition helps Stellantis expand its global talent pool and boosts the mid-term development of its all-new STLA AutoDrive platform."
     publishedDateTime: 2022-11-17T08:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-dr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

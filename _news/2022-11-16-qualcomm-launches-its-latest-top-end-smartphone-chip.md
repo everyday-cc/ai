@@ -319,6 +319,20 @@ related:
         width: 708
         height: 410
         isCached: true
+  - title: "Qualcomm surrounds all platforms with AI technology; AR and PC applications receiving attention"
+    excerpt: "The company has announced the S5 Gen 2 and S3 Gen 2 sound chip platforms, as well as the brand-new... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time ..."
+    publishedDateTime: 2022-11-18T07:05:00Z
+    webUrl: "https://www.digitimes.com/news/a20221118PD209/ai-qualcomm-snapdragon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 27
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221118pd209_files/5_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "Nxi9El47kmKemqIc8Ujy6brk+KwzxpkvQ3bGkKPis63ocS4XrOZ8DrHGgL2tP+2PaLNqr4U4N9n6hK90Jy5TXubtk1GW68WDYbTF7tuYfut19y+hMNow6VBMt0ZqE7W0ahq4EBv5bTtmZB0YIUXsjJBIIhMsUKfkz5jvN8Kmt6TkylAC4iD3vKq3afTVVR4r3nCu/bexA8u+KJN8eyIw4l4rosHECxu7OWtgiqGnSojYT/yagEER+IAtMaNIjoSTgGY65Pb0wrnzLhmA8Em03VWCmyoxTI7+vHlrnotqAQ5/nptsHoI44ejMhvcmZCalQKXMuDuWoEnkWPZp0Uun2Qw84Yq4Q7EN8pyds6cNsTltKSLt0CaMxGkyoOwduwd8QoIAj4PBP7VaDzdBi5HSu6Y8t0FrMqvbtDLG4r7sHHpfSOOs6qdLQ3gsamypne3ZTgwngO0mogtGiLalf/i0tXlgnD8C2CQXRK4tKx1Pps458FNci/TtnUG6FFJTUd/0v7t4i2nLfQ17DJDp8E1R9g==;mMc2FubYuaB95/JoOrrh6A=="
 ---

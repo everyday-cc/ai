@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 90
 published: true
 
 provider:

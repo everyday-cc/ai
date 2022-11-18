@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-sn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
 type: article
 quality: 106
-heat: 306
+heat: 318
 published: true
 
 provider:
@@ -315,6 +315,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/60136/content/Snapdragon-AI-compute.jpg"
         width: 708
         height: 410
+        isCached: true
+  - title: "Qualcomm surrounds all platforms with AI technology; AR and PC applications receiving attention"
+    excerpt: "The company has announced the S5 Gen 2 and S3 Gen 2 sound chip platforms, as well as the brand-new... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time ..."
+    publishedDateTime: 2022-11-18T07:05:00Z
+    webUrl: "https://www.digitimes.com/news/a20221118PD209/ai-qualcomm-snapdragon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 27
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221118pd209_files/5_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Qualcomm launches its latest top-end smartphone chip"
     excerpt: "US mobile chip giant Qualcomm has unveiled the latest iteration of its flagship SoC, which will be powering many of the most expensive devices next year."

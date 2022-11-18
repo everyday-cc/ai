@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-hel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-help-understand-llms/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

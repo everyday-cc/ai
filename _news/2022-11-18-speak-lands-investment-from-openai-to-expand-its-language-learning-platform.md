@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

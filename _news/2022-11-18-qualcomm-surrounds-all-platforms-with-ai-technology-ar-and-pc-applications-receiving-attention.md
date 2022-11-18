@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Qualcomm’s Snapdragon 8 Gen 2 Announced – Huge Power And Performance With Lots Of AI"
-excerpt: "Snapdragon Tech Summit, Qualcomm has taken the veil off of its supercharged Snapdragon 8 Gen 2 mobile platform. Naturally, performance in almost all regards has improved, but so too have the overall capabilities - especially those that revolve around AI."
-publishedDateTime: 2022-11-15T23:20:00Z
-originalUrl: "https://techgage.com/article/qualcomm-snapdragon-summit-2022-day-1/"
-webUrl: "https://techgage.com/article/qualcomm-snapdragon-summit-2022-day-1/"
+title: "Qualcomm surrounds all platforms with AI technology; AR and PC applications receiving attention"
+excerpt: "The company has announced the S5 Gen 2 and S3 Gen 2 sound chip platforms, as well as the brand-new... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time ..."
+publishedDateTime: 2022-11-18T07:05:00Z
+originalUrl: "https://www.digitimes.com/news/a20221118PD209/ai-qualcomm-snapdragon.html"
+webUrl: "https://www.digitimes.com/news/a20221118PD209/ai-qualcomm-snapdragon.html"
 type: article
-quality: 34
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Techgage
-  domain: techgage.com
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
   - AI Hardware
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://techgage.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-680x404.jpg"
-    width: 680
-    height: 404
+  - url: "https://img.digitimes.com/newsshow/20221118pd209_files/5_2b.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -298,6 +297,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Qualcomm’s Snapdragon 8 Gen 2 Announced – Huge Power And Performance With Lots Of AI"
+    excerpt: "Snapdragon Tech Summit, Qualcomm has taken the veil off of its supercharged Snapdragon 8 Gen 2 mobile platform. Naturally, performance in almost all regards has improved, but so too have the overall capabilities - especially those that revolve around AI."
+    publishedDateTime: 2022-11-15T23:20:00Z
+    webUrl: "https://techgage.com/article/qualcomm-snapdragon-summit-2022-day-1/"
+    type: article
+    provider:
+      name: Techgage
+      domain: techgage.com
+    quality: 34
+    images:
+      - url: "https://techgage.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-680x404.jpg"
+        width: 680
+        height: 404
+        isCached: true
   - title: "Qualcomm Teases Powerful New Snapdragon Laptop CPU, Claims AI Processing Will Redefine PCs"
     excerpt: "Qualcomm says that ARM is the future for Windows computing thanks in large part to its dedicated AI processing."
     publishedDateTime: 2022-11-16T22:01:00Z
@@ -312,20 +325,6 @@ related:
         width: 708
         height: 410
         isCached: true
-  - title: "Qualcomm surrounds all platforms with AI technology; AR and PC applications receiving attention"
-    excerpt: "The company has announced the S5 Gen 2 and S3 Gen 2 sound chip platforms, as well as the brand-new... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time ..."
-    publishedDateTime: 2022-11-18T07:05:00Z
-    webUrl: "https://www.digitimes.com/news/a20221118PD209/ai-qualcomm-snapdragon.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 27
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221118pd209_files/5_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Qualcomm launches its latest top-end smartphone chip"
     excerpt: "US mobile chip giant Qualcomm has unveiled the latest iteration of its flagship SoC, which will be powering many of the most expensive devices next year."
     publishedDateTime: 2022-11-16T13:38:00Z
@@ -336,6 +335,6 @@ related:
       domain: telecoms.com
     quality: 19
 
-secured: "WUmLSbfCEkMASk+k792Z2pdRGdlJ+ZXirXXZWDtHagkKuj9PkfyuqsATgEO9eCPX1x1zhVFAvGA4T7yB4ekNrA2KAifBCpJuWaD5HUlU7aK+Q3AGntTj/0WHdXmuyaXNn4W7FzQnWUOerwfboWEafDfg+pEPRUs27D59DsqmzhygSNKbkXPxXSx7Oq2xxWY6c2TUXWy17L3tH5O8za9PEC75gWVL+SBd8meRoh3nFGcyhw7y/WOTFeWDNd6L+t5kUnucYNL1XsKlHCz5O24+v3GwQ9eWQT7a/uChf5+dfGl+aX7R81JnlEW+U8Ui4U7dFXU5NZtK1PSiEYvb0g6Q8E3hvgcOLAryfbI+xIciiXcF+jsSd7jIs2GvEm9W0zoGcj3Is+jYkBib+IrV6vdkCF83PjHOer9RgxbED/J6naRxOdG10aEpk2b+fGnyvo41M6rD5Medi3d49wB9J1iN6bnYJjVdMWdiZqzjPdycL8mMUUzaEiL4wGmLMzFugN9Tkixx6Y9i8mK02U6XGbwVaA==;+OI4Rr0/lLwEYWPIgMfQ3Q=="
+secured: "MD2KRUEehHm0KwJWmMG75CUahKtMA9DqKqFofFvh06YX8ttRv26loU4A+L9cvDpNgAk0fwCjSqTeL29h/h6/i7SMtyldlX/ep5GsGVUi+xlck1aWxPhTfQgBP80dukuOIq6HmweSZ471lfxJQ2ME3E/THakgPnBgImjrwE3vX3Bni/E2Za5R3dMLF3T0e8xM3pN8rmsWNluNMOOobz4FjNontPWlpBx9w6dGyGIjX9AmKfiHuJfLJPsHTkMTOcDpM/EJgCIjniF2Qh7eM2auzHUrVYtcWQSMcj1Zp/S+xVerxklZtNL05otQkoqxA8ncOoniM35qwD286k+AJJK6yLtC/T/NzotE1cUrxfZPgfY=;notTquzeEAYdBd+GuaPB/A=="
 ---
 

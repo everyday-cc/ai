@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Italy outlaws facial recognition technology, except to fight crime"
+    excerpt: "Italy prohibited the use of facial recognition and ‘smart glasses’ as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies, Reuters reports It is noted that facial recognition systems using biometric data ..."
+    publishedDateTime: 2022-11-18T08:39:00Z
+    webUrl: "https://www.sb.by/en/italy-outlaws-facial-recognition-technology-except-to-fight-crime.html"
+    type: article
+    provider:
+      name: sb.by
+      domain: www.sb.by
+    quality: 39
+    images:
+      - url: "https://www.sb.by/upload/content/og_image.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "LrMQX567ChvWlq5F6cPF9Zis+xoBw3X6UQ02XpDv1DirTiwB69VGZysevfy7d86WZmtFVSJoNFpItjybu7g2IXzrPUu3ir8KaogD3uDUz9N/PVEQiFMXno/KN+C6rqLqHDBS5C9azSXJiRsRXgPmAUAgJUyE1qpRCwWdNDK1RIdJZqU7bq8RX2MaD0wprNloHk29Uth2Lvhwojz5Fq7ydHJ/JOQxOCBEGwXNVgLrV5JOuXKDu0NA009DlveEqCMmwO/8ySNqi5ZeYtblgYyD7mlrceC6q2/GmDYoJsmE0OXhYfKLZ/8zdYv8ASEcDXyyYBbUl/mRedQLL5aSMj3NY9f391OstZXXrw0YkqH+00s=;5BUeE5K4ihHGe2oM3mu7JQ=="
 ---
