@@ -19,43 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "AMP Robotics establishes new headquarters in Louisville"
-    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has opened its new corporate headquarters in Louisville. Located at 1875 Taylor Avenue, the office unites staff ..."
-    publishedDateTime: 2022-11-16T15:30:00Z
-    webUrl: "https://www.eagletribune.com/region/amp-robotics-establishes-new-headquarters-in-louisville/article_f926f37b-8502-570b-8002-a1c364e8d945.html"
+  - title: "Y, Robot: Campus researchers push the boundaries of robotics"
+    excerpt: "The Robotic Vision Lab focuses on using artificial intelligence and machine learning to achieve vision in robots. Their research spans self-driving cars, facial recognition and food inspection. Casey Sun, a Ph.D. student in the lab, explained how Robotic ..."
+    publishedDateTime: 2022-11-14T20:46:00Z
+    webUrl: "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: The Digital Universe
+      domain: byu.edu
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/c/8d/c8d70ece-7a7a-5718-8f2e-b6f795c6a854/6374fffd09af5.image.jpg?crop=1640%2C861%2C0%2C42&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://universe.byu.edu/wp-content/uploads/2022/10/2203-65-4-1920x1280.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
+    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
+    publishedDateTime: 2022-11-15T20:20:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 53
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "AMP Robotics Establishes New Headquarters in Louisville"
-    excerpt: "The new facility encompasses an expanded production floor, and a research and development lab to scale innovation."
-    publishedDateTime: 2022-11-17T06:12:00Z
-    webUrl: "https://www.waste360.com/fleets-technology/amp-robotics-establishes-new-headquarters-louisville"
+  - title: "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
+    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
+    publishedDateTime: 2022-11-17T19:36:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
     type: article
     provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 54
+      name: CBS News
+      domain: cbsnews.com
+    quality: 53
     images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/uploads/2016/03/mrfpeter-macdiarmid-getty-57469662.jpg"
-        width: 3000
-        height: 1612
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AMP Robotics opens 84,000-square-foot headquarters in Louisville (Photos)"
-    excerpt: "The company's recycling technology uses artificial intelligence to identify and sort materials and is already operating in the United States, Asia and Europe."
-    publishedDateTime: 2022-11-17T20:16:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2022/11/17/amp-robotics-headquarters-louisville.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
 
 secured: "5PztQJettO3KUhYiNEkBd3iKtSMVoKpwQKNDiXqHKQjDSvav7r1O4ByVuC0fQ3H0pGdEwsCJVYlPBvWTneJKMkAc00ewVhPvA36HM5DBhlX2vvbqaaMrFN1cciwxqAAHJ22bJZm3/i55J7TVv2JQ7IK3W1ACjYs8Q2BnNnSXRkOMDaQ9yO/osnbXF0SL867qg3DaIuN/1rog1RK031fCmAr1GPdQswpp9Ah/d3C7N7+DTXnw1F6B841y4wBGFBOJAwL42k7qItQ8RpCbHFlqQ1Ck5Svi44aufmEctPEUmX4EG7RdRg2MCbM4p8UVeJinj5DRNaI+S9BiDUS9alUZpEv+s3GIDYJfT/x/MZ1hW4Q=;iDPDHwvAuWze6/2wV9MSkQ=="
 ---

@@ -5,6 +5,8 @@ excerpt: "Mobility” self-driving EVs are set to hit the streets, combining Art
 publishedDateTime: 2022-11-07T19:57:00Z
 originalUrl: "https://electrek.co/2022/11/07/honda-reveals-new-self-driving-evs/"
 webUrl: "https://electrek.co/2022/11/07/honda-reveals-new-self-driving-evs/"
+ampWebUrl: "https://electrek.co/2022/11/07/honda-reveals-new-self-driving-evs/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/07/honda-reveals-new-self-driving-evs/amp/"
 type: article
 quality: 40
 heat: 40
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/11/Honda-self-driving-EVs.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Honda Plans to Make Self-Driving Micro Cars for People Who Can't or Won't Drive"
@@ -34,6 +43,6 @@ related:
       domain: jalopnik.com
     quality: 20
 
-secured: "Fl9IUmvWHfgWmesxMh3T3EI33CqOFlA21Od6QyVTx1ktPbsmTU8sw3hT/7e+z/rdHEZeOvpFLFOfrWOMXqmZheCFWgQU6pWbL86xYtfbCmveEoQ/ve2xdcwd0ttpcx7PtAmx3zYX8AKKO65IerIfLXZKUzP62rCZKGyv+3JvAm5hRepGl2AIG3a217vXh+lMkIjhBj7bwz95dijsOPQ9+kSwutaKJl0iPWv40glJD91f8Xho3Kkxc/XPG0DC4wnrgKS6oCEk4BaFNJa92Z2lUt0c6ycKwbvjJgZAD4kNon+nyxhKrhRUkUExdmln+xue05iKlqQFDIsTErIcGBSp13S4bfdSYJDI2dfPianGFzi5NXJLfpiw+rPMWRsnt8zWIWF01HEmt2enuroNmT3TwHRhDxQv+JY+P+/MwC4IdDmjDrBhSfW2Drg96XPntZvkwQVMnj0T0KmUDrYtc9pZ2CO/m+a4Kkd3LnELB8USAYxaEIUUvJ/4PGxb54tkepRBenGMvLaqzhJ8G4ZLal4ZBw==;df+Wk9td0Zc2RQsKBpKGAQ=="
+secured: "rH+rcB2tHGpEQWU3fWwoLVSI4uYB5OLBPn9/Ce+hoRv7nwrm8Jabhwj3HNTMYC2JO5epzFFzP6aFcXOR6uv/D4RWERRNiV8Zg1YXM1nsIpAJMr9xncncqdhpqvMbVvBYSf1jafdM3CC0F70sO5rEC1WRZba3zaPSvP5qTOWT6944gwuqZN1hq5JvvQuQ936h7gOmUQm+/7NyZyF8IRlWYWGrcqrZMHWtrJI59yn3pJmnzCDGfaG8/avMKntmiOn4RA3KIrM0Q7BZWjAFFxB3ORdBM4tik6OGrrJil+GYKph8hflRU/eLnta8zLPNuv0RkE/WvlgRj13VIahQZeqlPYR3j2vGJ4WViL/eIGx6b/E=;Zphh3vDeBn9cnL4ZXCwRAw=="
 ---
 

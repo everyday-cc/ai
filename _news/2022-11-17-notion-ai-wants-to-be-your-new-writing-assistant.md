@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 39
+  - title: "Why AI is the assistant every creative needs"
+    excerpt: "Others were at it before us. In 2018, Lexus released an advertisement completely scripted by AI. The company used IBM Watson, an AI system, to analyse 15 years of award-winning car ads. Watson managed to identify the elements of successful ads that ..."
+    publishedDateTime: 2022-11-18T01:22:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/why-ai-is-the-assistant-every-creative-needs/news-story/85e8564282fe2d095fdd680082dc219b"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "pGvp7+4mjlpMaDZLRUvVDKM0xlGcQEmEqthlGmAaQ+jwDWTDBIwLIoffSsTkTxfOeas8xLrlp2OXodBWMVbDXIplFMNtpEUEeCZT8aF3oz6UokUrQzcvssyQRMDYr0FJkUZFFnFnVGv/uLbd0Nn1bK47RBH5HPBb83nDrAYldXQG9ZYV29pKXMHaRkzlh2wVHqewkAq+Ud2bd3l01yZ0XNw35/JnNihIGUk90m8K1bgKNtpFwBz3x2iAOfh5AAjLrM5UifmhFtRY3NPRv4sVDA5F1yXzU2KIBxJ8lqNwPSFGd63mvVNLIX5H2D9YC4ZFe7KMu47030PWAXmRC128WqzUvGISiqp//l1UNTA2kh2EXkri9vYFqYrM2oo9OxH6t9/U2Mw8kx7CJrR8h7ONUlshdb/Ex1nqyCKKL2Zil/UqgnjL0v/7JtgllMG0p0mVtWIkj4YokbadLA3Wq7YTFF9YZUpuqyScL/0sjiuFQHRb/W/a2V6YT01H9FfjedIxmTYPlfw88ztLm/684t4o6A==;+Xtk7rvOWrhJCtGKz2Wb/g=="
 ---

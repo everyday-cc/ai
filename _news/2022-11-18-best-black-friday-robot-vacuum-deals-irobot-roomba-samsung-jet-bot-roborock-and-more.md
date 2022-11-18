@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Y, Robot: Campus researchers push the boundaries of robotics"
+    excerpt: "The Robotic Vision Lab focuses on using artificial intelligence and machine learning to achieve vision in robots. Their research spans self-driving cars, facial recognition and food inspection. Casey Sun, a Ph.D. student in the lab, explained how Robotic ..."
+    publishedDateTime: 2022-11-14T20:46:00Z
+    webUrl: "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/"
+    type: article
+    provider:
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 54
+    images:
+      - url: "https://universe.byu.edu/wp-content/uploads/2022/10/2203-65-4-1920x1280.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
     excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
     publishedDateTime: 2022-11-15T20:20:00Z
@@ -44,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amp Robotics opens new headquarters"
+    excerpt: "Amp Robotics Corp., a developer of artificial intelligence (AI), robotics and infrastructure for the recycling industry, has opened its new corporate headquarters in Louisville, Colorado. The new location unites the staff from the company’s previous offices in Louisville and Broomfield,"
+    publishedDateTime: 2022-11-16T00:00:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-opens-new-headquarters/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 34
 
 secured: "QsPP2pwjdOxlZ551P+NLILxRAN0nhNSESULJ9azRzntr5gaKN12kgi8fRrbKEiJZol1FnImooz9TEUhcOTBw/7TcCkaOwfvP6Ak0wC99yDMpNn6fbApUOeZ2E53eeAKnGfsOaxEbat7q7omV1jJ+VfIcHLI/ktbJ9DwTFRmkzJHNLvMYxhzzdTuZ6ECLdtMIQOqTuoCLuCZYXkUVy+HMFaB9ge3Ah3cm1M8EH3Le8dPMWMpIhSnVuNo9C57QGwu87FVBta2jn9Qnq+o+o4gSu6d1Gyc14wv0w0bFnrdbfOkNlP1tAPQG5IMtV+VNQXYfIVeCtuGNEuFLYfX9ujoWrKzI/Tuc7qP8yg5QddmHaNY=;hrdjMHXbL8t09CZQeGRZ5w=="
 ---

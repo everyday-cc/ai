@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-17T06:03:00Z
 originalUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg"
@@ -25,6 +26,6 @@ images:
     height: 267
     isCached: true
 
-secured: "ZTANY3QGbhqbX/9E2R14jnKcVPiDZTpxzmPMWymKfb2nqesMil/sxCo5m9aZ72oR6mMVXK05+HgbR8kgO37PPhg4pzVhgaMPIdjWtmGx3BxrufsiVmoYQ5qpq5yn9NzKq77h32XXHYYMRuaZp0oXm01HSfXvRD4kMuUTU0BybjNibV9sqoHD+EC27eYfqJVdEpCct77qdFnPqW7rzztaAaMyU6hys9Z6/6/q9AmCaC8b/UbqybsBbtGcQnU5fwlFq0iHDyDicYVf+SJYqjNzrjIpLpxrC89cG5cpxV5xnkcSwzpM27HDRezDv8svTryndseJbmyNiFk96+r4ahHwCb4gIuwq4aclX0UE0by8eZg=;Z8An/PSQwiJ6KLGAto2bfA=="
+secured: "rSsmX8RzSxnpgZZiyUyCEJ1eTi6h2OpOng3QVexIPmt14uUzOrKTdIALiLFM3+XC5nn1U/liAGjQwZrHmJRCvxjKqxAhmBQItKbN6qSaFJyoS9M2DSavXJWxlVF/vQOuKpg6s1FHlLqT2+d6eWnpEc8vOHaVnp7Z0SybDHZWDggJE/v169Wd+1ybEv4FxyZ1UsWtchGgiOpaiSqGfrl2X52EdUU5Momtf57o00lZ4j32fIUs+rtNbohSpSqL+QOg9BIjTgVvPp7zJvgNuGeyvnJYXYnh0GSDSaBFkzBg10s/6PrqgVaQcx2SWi846PXTxL4voIDRtlzBh58GqVEYpe+VLohcxufjwbilZkVGySW83YfHSDALEWLgPpxn9qQsDS5PVl4tXfCamqG+M/gkngeGBrUuTOTeOEty90QsGAFppkCpTvUti1T7QoOiv0G9L5ps15vYVFfn03gz/9Mlyp1QQ7iICYycYDO4LSECOLNMVBAihpX/bQvJikhWXWBfkKj+w/PwHdtrIrZ86B9Guw==;uHxoxT1qoUUSyvHlrbqyzg=="
 ---
 

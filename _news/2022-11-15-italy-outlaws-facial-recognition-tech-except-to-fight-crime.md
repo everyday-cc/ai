@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "New speech recognition tech uses facial movements to transcribe mouthed words"
-    excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
-    publishedDateTime: 2022-11-14T17:24:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 71
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "New speech recognition tech set to transcribe mouthed words using facial movements"
     excerpt: "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ..."
     publishedDateTime: 2022-11-15T10:16:00Z
@@ -71,20 +55,29 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Italy bans the use of facial-recognition technology"
-    excerpt: "Italy's Data Protection Agency has issued a rebuke to two municipalities experimenting with ‘smart glasses’ and facial-recognition technology."
-    publishedDateTime: 2022-11-15T17:36:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/11/italy-bans-the-use-of-facial-recognition-technology/"
+  - title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
+    excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
+    publishedDateTime: 2022-11-15T04:48:00Z
+    webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
     images:
-      - url: "https://eandt.theiet.org/media/19915/untitled-design-5.jpg?crop=0,0.27416666666666667,0,0.23364583333333328&cropmode=percentage&width=1200&height=450&rnd=133130029250000000"
-        width: 1200
-        height: 450
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302940"
+        width: 374
+        height: 250
         isCached: true
+  - title: "Infographic: How facial recognition and tech can make remote work more efficient"
+    excerpt: "This includes anything from note-taking and timesheets to remote monitoring. Facial recognition technology can improve time tracking without distracting employees from their tasks or adding to your workload. This technology can be used anywhere and works ..."
+    publishedDateTime: 2022-11-17T20:04:00Z
+    webUrl: "https://techaeris.com/2022/11/17/infographic-how-facial-recognition-and-tech-can-make-remote-work-more-efficient/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 14
 
 secured: "aOriM5ICkg+yblhfXk8Qo+GRve7n+xq3Qu6Iz+QnYCUlRMYnpD2MVChjDtHBAKiBb8lzWg2ad47TyakF4IIFEv31e7BBImzfk3SC8H/CuDqOgqDm875ElXl+jsyV/z3lFIITIEl9zYAb317Iik7tM53LyXtaxIcCa8khNo41xdKtd9itMINN65GzE4yg2mojjCaSX+h8RIGgZKi4YyCYZrKw0J03BOVIHK4BDzx9FY9FzbMvFYjusMtyKUxW48IR6TyjULWP/WhbX95oAby5IB+6BwEhEDWe0kh0I5vTLlm2GV24V5Q7uuSF0IGUNR4pjk1B+/LljFo6EYlP8s8Su1wX1CEnVw5CULr3VmEMbE0SJ6FDqw675m4YlH7fsFgE9VdPcBdlkAbZv5r+P+SpIo43/CWGhpg2I7+QPXt7jtYlt9YL10PqnuebJb1Zl19YFr2qZI1iqJjwmrHv9ECntsXsC83N/cuBmweuvDnLeagz7cCOeRmlVgbZP0arEDoav22E6+e9a8dGYVN8R9rr1g==;avgHuTf8JBN/y3BqklKyZQ=="
 ---

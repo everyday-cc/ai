@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why AI is the assistant every creative needs"
+    excerpt: "Others were at it before us. In 2018, Lexus released an advertisement completely scripted by AI. The company used IBM Watson, an AI system, to analyse 15 years of award-winning car ads. Watson managed to identify the elements of successful ads that ..."
+    publishedDateTime: 2022-11-18T01:22:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/why-ai-is-the-assistant-every-creative-needs/news-story/85e8564282fe2d095fdd680082dc219b"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "7/mu7SJPdclgVCrJiS16SjtmeG3TW/wQsOpkG1HWpK0FxkeoQKfhZWrAQHFK+TofGEa+rVVOuUsGinTGmkLVvexN/Hzwt7cmaytlfd33wDPjwWgaMcnzQyU5/q5JBjZvLeI8Io2abHwJVSZdek81oEvYJaKLoun/aja4N/TBwkFLJ06CZigq9RTTgzAy+y+zbRocJVFdwWOuVm2O/IYDfzk+57uhrUebN5CnxywKFb2mPCI2lx7FnY4Fz+esbhhfSlmEtfgjLdmKt7nqig57ZCuFiovawqr5ziSZksorykp6igMxW4qrb5STEeeYJFb6WY4TdQZZUrWBSPYCM+cJmh7haym2jvIeERmu0O8JjxKSsmLhF14gIxF7/i3iYX9Knpz6tHjjBqs+93wQZgaAaJRV3L6MfihVXHu6dhZOnCTqIE9vRvWnb20WcYAT9zf+rbVQ6l2QAJFAhebvfTlLgbeWKNbJZ4STWkC5Vzov883ywbY33RVoneAWE5VM61vXaAhGIbDbtGqT35+g9tD9TQ==;CEFG/enwkCDuJEchGye3sA=="
 ---
