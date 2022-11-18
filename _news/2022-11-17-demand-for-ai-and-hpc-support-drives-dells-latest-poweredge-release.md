@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dell Advances HPC and AI with Dell PowerEdge Servers"
+    excerpt: "The server combines two upcoming 4th Gen Intel Xeon Scalable processors and eight NVIDIA GPUs, to help deliver maximum performance for AI workloads. PowerEdge XE9640 – Next-generation 2U performance optimised 4x GPU PowerEdge server, combining Intel Xeon ..."
+    publishedDateTime: 2022-11-18T04:56:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/28987-dell-advances-hpc-and-ai-with-dell-poweredge-servers"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/160c9d3b1e0090d7ce281cb7b9ae01a5.jpg?t=20221118_045459"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Actifai's Artificial Intelligence-powered Customer Engagement Platform Drives Groundbreaking Growth for Broadband Providers"
     excerpt: "The First-of-its-kind Platform Helps Broadband Service Providers Generate Higher Average Revenue per User, Increase Sales Conversions, and Enhance Customer Lifetime Value WASHINGTON, Nov. /PRNewswire/ -- Today,"
     publishedDateTime: 2022-11-15T20:31:00Z

@@ -1,0 +1,31 @@
+---
+category: news
+title: "Best Black Friday Samsung deals this week"
+excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
+publishedDateTime: 2022-11-17T13:24:00Z
+originalUrl: "https://www.cbsnews.com/essentials/best-black-friday-samsung-deals-this-week/"
+webUrl: "https://www.cbsnews.com/essentials/best-black-friday-samsung-deals-this-week/"
+ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-samsung-deals-this-week/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-samsung-deals-this-week/"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: CBS News
+  domain: cbsnews.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/17/314cdff8-4d4b-4462-bcc0-801c8bdcc9b9/thumbnail/1200x630/cddf98c21dad468fdcb823890880edab/samsung-black-friday-temp.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "7ekS1zAc8KjbvviSqVgGLJowjWGDx1OhzqeEIkR04RD0QLLxAOGZp6oylaz4m1wsVg4dEFXwlgNEhFAjiGVOpfad9NdO45doSp2vbnDStQLFAa+I+KtAVGDIaUgauJVEyzK0RFcqKZMN9LVpPEDMHz7oBKoH+AGFhJnWbis9JAJtfF+n4zXZZvGhOzvNRncsuaPZvaGJbMAUlZQMrPzKxK5VZ3xkXX/i4007pIma7AIkj/LJ1OY4Z1Jn2i5i3NRUWItvwRNZG0pCQ391LKvDRGuJurxLouQmJuI3OLInnIwk7Ybdy81ofPfX6sbJTQziBk7b3gagWGTZ81erzCTHD4dQE1DoeB4DsUhRbBsgKoE=;zDvp0GwzO8kNEw/hgzj8bQ=="
+---
+

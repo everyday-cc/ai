@@ -173,22 +173,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Nvidia to collaborate with Microsoft for ‘massive’ AI supercomputer"
-    excerpt: "A “multi-year collaboration” between Nvidia and Microsoft is underway to create “one of the most powerful AI supercomputers in the world,” which will be able to manage the enormous processing workloads required to train and scale AI."
-    publishedDateTime: 2022-11-17T16:44:00Z
-    webUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/"
-    ampWebUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 74
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/11/ANI-20221117155021.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "NVIDIA announces multi-year collaboration with Microsoft to build “massive” AI computer"
     excerpt: "The U.S.-based chip designer and computing firm will be providing tens of thousands of GPUs, Quantum-2 InfiniBand, and its full stack of AI software to Azure. Microsoft and global enterprises will use the platform for rapid and cost-effective AI development and deployment, the company shared in a blog."
     publishedDateTime: 2022-11-17T07:35:00Z
@@ -475,6 +459,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Nvidia to collaborate with Microsoft for 'massive' AI supercomputer"
+    excerpt: "According to The Verge, as part of the partnership, Nvidia will make use of Microsoft's scalable virtual machine instances to accelerate the development of generative AI models like DALL-E. The AI supercomputer will make use of thousands of Nvidia's powerful H100 and A100 data centre GPUs as well as its Quantum-2 InfiniBand networking architecture,"
+    publishedDateTime: 2022-11-18T04:30:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20221117/4004829.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 34
   - title: "Nvidia, Microsoft team up to build one of most powerful AI supercomputers"
     excerpt: "Nvidia has announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world. \"AI technology advances as well as industry adoption are accelerating."

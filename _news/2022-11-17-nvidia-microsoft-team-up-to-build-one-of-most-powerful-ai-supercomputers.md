@@ -171,22 +171,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Nvidia to collaborate with Microsoft for ‘massive’ AI supercomputer"
-    excerpt: "A “multi-year collaboration” between Nvidia and Microsoft is underway to create “one of the most powerful AI supercomputers in the world,” which will be able to manage the enormous processing workloads required to train and scale AI."
-    publishedDateTime: 2022-11-17T16:44:00Z
-    webUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/"
-    ampWebUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 74
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/11/ANI-20221117155021.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
     publishedDateTime: 2022-11-14T19:09:00Z
@@ -484,6 +468,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Nvidia to collaborate with Microsoft for 'massive' AI supercomputer"
+    excerpt: "According to The Verge, as part of the partnership, Nvidia will make use of Microsoft's scalable virtual machine instances to accelerate the development of generative AI models like DALL-E. The AI supercomputer will make use of thousands of Nvidia's powerful H100 and A100 data centre GPUs as well as its Quantum-2 InfiniBand networking architecture,"
+    publishedDateTime: 2022-11-18T04:30:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20221117/4004829.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 34
 
 secured: "1AH8UCMOdlDjUGZqxZ1b6njM1iO8otoZlXk6M6xYcQ8s3up9Slkz/w13zwOLMG7qhHiRHSlSbKeNrRZgweZO52K244QKmLWLZ0QBQ7Bu5YPzxpV9oAiSEjYuhCBaKp1pz5n0jP4o5m0SL4TW9wTyYfiqo0VmTyk2I6Omsa0/hrO305ZVdL1a0J8pIDZdJJmYXfIGWrccjH8YuplaZX19xPmzCc0hrmCOR5RQTb8TGtljyOeNWt3CgBcpaU9x0V8OdzEJdsotZjawyQGm88Jk8QfCsl8u2C2jzSWGzQtrbZY54X4h9DfPDJybAQMlAYUNOEIjvlnb2yFb4lxWnZQC7eV7C0D+kr02nkfRezUqrtGWv7tGq9bimkT9KLBzohnAKpEwvWSEFDQxpLK5JsJJ1I32A4ETw4sovz6ukqFKjtmXXOndfWG1CJC2wtgdufx5E+TCoxRRA8d4wm/9F7n3G+TlEqZcXlhMozrWQomvQgWrs+eXV2GBIDz1QYTP+8P94hR/0d/81GHWlMRtgoNUqw==;sO3+DbEGBLfatGmjY3eKkg=="

@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Nvidia to collaborate with Microsoft for ‘massive’ AI supercomputer"
-excerpt: "A “multi-year collaboration” between Nvidia and Microsoft is underway to create “one of the most powerful AI supercomputers in the world,” which will be able to manage the enormous processing workloads required to train and scale AI."
-publishedDateTime: 2022-11-17T16:44:00Z
-originalUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/"
-webUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/"
-ampWebUrl: "https://theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/nvidia-to-collaborate-with-microsoft-for-massive-ai-supercomputer/1222342/?amp"
+title: "Nvidia to collaborate with Microsoft for 'massive' AI supercomputer"
+excerpt: "According to The Verge, as part of the partnership, Nvidia will make use of Microsoft's scalable virtual machine instances to accelerate the development of generative AI models like DALL-E. The AI supercomputer will make use of thousands of Nvidia's powerful H100 and A100 data centre GPUs as well as its Quantum-2 InfiniBand networking architecture,"
+publishedDateTime: 2022-11-18T04:30:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/India/20221117/4004829.html"
+webUrl: "https://news.webindia123.com/news/Articles/India/20221117/4004829.html"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://static.theprint.in/wp-content/uploads/2022/11/ANI-20221117155021.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer"
@@ -487,6 +479,6 @@ related:
       domain: business-standard.com
     quality: 33
 
-secured: "Eyp25N8tDljo5QqT1VJ5hvVh0khX/EhzIiBpRLMWKUriq1OrTtRRByCLIoFa11poOJ4QD5ysg24qVqxnfrrrLlDFnOLGKYjlxDEnB6Mre9J8/bKTAvz9HQYs7dCxUhj0j4qsNy6AjUcnoxDAlNHhi71nMSJkPgxOUBHCW8PLe1mEM4Qxc3ijUip2vL7REyNo+jVeLn+jGnIxh/0wDFPnvGPBntPNSm+AHk7ENOujt1dOuep+xWi1A84kW8d4+w/j60SItXWqrRTODX4UAeqZrQprSMDj9shGeRdN8h+uplVRolwtE/fhWlaGTKlA1cd1ajfB7J+obHjhY5JM2mI2d0adroKh+C2s0+uXd17sdIw=;kyFMVOg5Zpyge5FwXgg+BQ=="
+secured: "YVn+64sSgNhF+u3HZQDb6O7hsEBVqyriyEqG48okPjVSimoNWT5H1ka1NpOjpWfSFMZ+imRUtTJAQKPGssgLkNkzGU/bTDZ0CWoPwKbg7NBuhG3Jtt0H9r9AkyRsOd6Xivk0tVhwMOv0/Ex+bwrFl/xgNzdkwagF7/Mm8JoC+0p1Fzf4Ir8GEqIc2rr/2YlIDEop7AB7G/tbowcC4WMFr0SoRBDbiJnN0WJ9vz5S+bSEy+FbiorK7iMfsu2nszHSM8ygqtDTApKHkEuzlCUpYONOLUKBi4OFXl8NbElanr5zoDmPNn9MAmA6HmUzfxQppl1U9MzB+vutwbTn6Vjeql8jSJDvTUTac8mnjV8PBeI=;gSBVHMoPRZKBed69zpGVBg=="
 ---
 

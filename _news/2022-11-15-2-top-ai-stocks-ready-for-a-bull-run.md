@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-r
 webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-3"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities"
-    excerpt: "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now."
-    publishedDateTime: 2022-11-13T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/"
+  - title: "Are We Ready for AI-Generated Code?"
+    excerpt: "Autocompleted code is convenient and quick, but it may expose your organization to security and compliance risks."
+    publishedDateTime: 2022-11-16T22:00:00Z
+    webUrl: "https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 112
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200"
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt204ea0da35abc7e8/63752bb52dc1730f3660ddb2/codehandshake-Andriy_Popov-alamy.jpg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "ZDnRHDKtUWohI5Y9BW6nWbXmzu7byw6ZAsQ37/9XeOn6Vz2e5g8PIGsIs3z6ZfcVh+sAluo9mxJpv5vAGVFme/fn9vSTNehePMP4z7woPf+aB+ac0Xzz5oZuqZePk2MEOCJ9oNlvhe8g6D4ll2AeolIarNmSSycUeb3hNqceqL6mXwJ77zECyFUSocyA0KkS+KncGwtfbvIUjM62RSZrLfzFGbtn7Cm21AUZcc8HkuxAclzCInqlBF3R0BQQ8vWNTmtbL8NghJVNmmBGDjajX2M8UA2zD4beD5tV/w9blig3s2yiLxH6o9+VVq93/8OgFuXDbpG1Dv4n0k0ihPzxb+Ib4ZKhKe7MrEIst2xV6G8=;M49glFs+bz9xlU4H0ieqEg=="
