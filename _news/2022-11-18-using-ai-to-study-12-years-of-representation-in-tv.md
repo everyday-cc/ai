@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T20:00:00Z
 originalUrl: "https://blog.google/technology/ai/using-ai-to-study-12-years-of-representation-in-tv/"
 webUrl: "https://blog.google/technology/ai/using-ai-to-study-12-years-of-representation-in-tv/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Google

@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Self-Dumping Hopper Market Size 2022 Global Industry Revenue, Business Growth, Share, Demand and Applications Market Research Report to 2029"
-    excerpt: "Global Self-Dumping Hopper Market research report presents an In-Depth detailed overview of the current market"
-    publishedDateTime: 2022-11-14T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-dumping-hopper-market-size-2022-global-industry-revenue-business-growth-share-demand-and-applications-market-research-report-to-2029-2022-11-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "XSGopSNQhc/yKwLhSwIJQjs40W/nnM7qIlNkdcO1oCSDaptzxjUU1OlWxZKZsqzCmxzGcN1NitmIvu15zWAitB1qDAvEPFvzv6dQladCNAoNneHpLvgypNGNEGMZ6L7/ZiQ2axf2faDOh+INNf8XUdiL063abE9cx1lDK9X1yc5VSZzPs0236d3gBJ1CdUsLQAM2aeL1jfmvwiJyAocrFmwC+IIOcXt774QYiuK+GJb5VviZbSElMU1ebZhF4VHR7Vl0QhIEddwFZstKLpwjcdHcCEJnRG997ECGxL+ieY5Wya45cmsA4mrhKBuFCCjUimJzXCsMa1AFkOujsM8nOB7VboRG7wX9Fse8+LrUvns=;zIWWYEjCH3rbGg9yalnPGw=="
 ---

@@ -194,6 +194,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
+    excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
+    publishedDateTime: 2022-11-18T19:54:00Z
+    webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
   - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
     publishedDateTime: 2022-11-14T19:09:00Z
@@ -527,6 +536,6 @@ related:
       domain: business-standard.com
     quality: 33
 
-secured: "LZJdwonI/f9Rlq1EyzHDs1ffk7A7XPtOF7XCx9sraxdfYRvQY6tZBqQXOfvDrdZoDRgl4KWgDreuOiYYpFB7neWz+1d+DTZHmJVSNoplTlBWmSgAR2J7Gw90SwaTQb0z6C//8njj2cLyUiHBVkendbg3wq9Zp7z36IRC+fwGfz5uqpJCt1CPMU2LcHLnKboCxSPPWQBwOATzAOWUgzezc3Fa+l2FMnpQNPL9arNgDCGT3wcaYguIg3GmuZdMacGi304/dSp0Fz4IUWJ2MlI4iVY7JiUSfevKj3zQ8SBFpKcGFpuBxYjiIuRZpvCJPCG8Al2vd5NFOdyff9jcOIP9qsO5kFgoOqTnNGbK3fDGorc=;YhuTR82Oc5YXjLadjFUSXw=="
+secured: "X7mYPh7U+dWsynbz7Vi4ggliOY4KhhhN9VUPhbPFtrIuD8BOk6dY77sezu6C9hOOu7Wo014iJqL6X/Qrt1viWUKV5aq9hRwK2GjETVsRpJftxW07VkzgaBm3W/khZlqMyoC77KX/YuygOiAdtK77CEq7tIOk3qz4A+dKuvK4/AcdGaV1QA/JqqWkBdFFHso2sdMEstLRwLCbiasETmoDQQ6ju3QCm6edYgEGMiWKCuN0ms5wbBM63GQ9WTN5PL5wqcns5gJbD3YDnnVIQdCGeXF/EA5sJ/CoTCNPj6bC8Nn1AGmqg5dSWsnZ2j3HFujS0dD0NW+I2QeMGj9Aa+Ij4+iTrKA6h4lCqpuLO8DkkJGibZVgu5tn1lEP3/xT8WiV0U69tq7b1WgAh0GanQ7yKM74fApxd4KtHGn5Nw74j5tD1Tf07vfNkGwLDCOdefut3qbcUkk2ajK80J8w9+zDbv/WvJIgm/1Tu3Jodl9vVs8B8+ZVc5JG8rDV2ExlkJwHGCm0+uFqi/R3CvHNPG+4QQ==;H3GvJUtI3x01UCQasCY7iQ=="
 ---
 

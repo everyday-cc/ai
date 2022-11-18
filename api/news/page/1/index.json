@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-18-easy-and-accurate-forecasting-with-autogluon-timeseries.md",
+      "title": "Easy and accurate forecasting with AutoGluon-TimeSeries",
+      "excerpt": "AutoGluon-TimeSeries is the latest addition to AutoGluon, which helps you easily build powerful time series forecasting models with as little as three lines of code. Time series forecasting is a common task in a wide array of industries as well as scientific domains. Having access to reliable forecasts",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/forecasting-autogluon-timeseries.jpg",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T14:01:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-ai-in-healthcare-vast-potential-ethical-questions.md",
+      "title": "AI in healthcare: Vast potential, ethical questions",
+      "excerpt": "They’re also able to see more patients, which improves access to care. On the pharmaceutical side, you’ll find AlphaFold, an AI system developed by Google’s DeepMind. Using this AI tool helps scientists better predict the structure of protein folding ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/",
+      "originalUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/",
+      "publishedDateTime": "2022-11-18T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-chinas-moore-threads-s80-gpu-battles-a-geforce-rtx-3060-in-benchmark-roundup.md",
+      "title": "China's Moore Threads S80 GPU Battles A GeForce RTX 3060 In Benchmark Roundup",
+      "excerpt": "The S80 is the company's first retail product, and on paper, the specifications are pretty impressive for a first effort, and in fact rather similar to both Intel's Arc Alchemist DG2-512 as well as NVIDIA's GA106.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "originalUrl": "https://hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60156/content/small_bare-gpu.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "publishedDateTime": "2022-11-18T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-your-guide-to-aiml-at-aws-reinvent-2022.md",
       "title": "Your guide to AI/ML at AWS re:Invent 2022",
       "excerpt": "AWS re:Invent season is upon us again! Just a few days to go until re:Invent takes place for the 11th year in Las Vegas, Nevada. The Artificial Intelligence and Machine Learning team at AWS has been working hard to offer amazing content, an outstanding AWS DeepRacer experience, and much more. In this",
@@ -52,6 +201,110 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-amazon-looks-to-sparrow-to-carry-its-robotics-ambitions.md",
+      "title": "Amazon Looks to Sparrow to Carry its Robotics Ambitions",
+      "excerpt": "But the robotic device, known as Sparrow, is outfitted with suction cups and artificial intelligence software rather than the ... the most physically challenging and repetitive tasks over to robots. Warehouse workers pick items up, sort them and put ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "originalUrl": "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-669457/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "publishedDateTime": "2022-11-18T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech.md",
+      "title": "Spot AI raises $40M to build smarter CCTV security camera tech",
+      "excerpt": "CCTV cameras have a strong Big Brother vibe, but that may be because we don't really know how the footage they pick up ever gets used.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/spot-ai.jpg?resize=1200,814",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
+      "publishedDateTime": "2022-11-18T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -251,13 +504,22 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 114,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63768c8761ae8255072d6c0d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/amp/",
       "publishedDateTime": "2022-11-18T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -986,247 +1248,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models.md",
-      "title": "Snorkel takes a deep dive into data labeling and foundation AI models",
-      "excerpt": "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "publishedDateTime": "2022-11-17T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai.md",
-      "title": "AI startup Snorkel preps a new kind of expert for enterprise AI",
-      "excerpt": "and also too arduous to build and maintain — they didn't scale, in other words. In an intriguing twist on that earlier approach, Snorkel, a three-year-old AI startup based in San Francisco, Wednesday unveiled tools to, as they put it, bring the human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/344bbfe0bd114ebfe363a4ba2758ca25291e9623/2022/11/17/a9c230b0-6ff9-466d-a751-53e84f1758f2/snorkel-2022-prompt-builder.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "publishedDateTime": "2022-11-17T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-how-to-get-people-to-trust-ai-predictions.md",
-      "title": "How to Get People to Trust AI Predictions",
-      "excerpt": "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=tech_featst_pos1",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=tech_featst_pos1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-664644/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-nvidia-blames-crypto-crash-for-sagging-gpu-sales-but-the-data-center-is-booming.md",
-      "title": "NVIDIA Blames Crypto Crash For Sagging GPU Sales But The Data Center Is Booming",
-      "excerpt": "The data center is NVIDIA's biggest earner, having brought in more than double what its gaming division did last quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
-      "originalUrl": "https://hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/60141/content/NVIDIA_Voyager_Hero.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
-      "publishedDateTime": "2022-11-17T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud.md",
-      "title": "Astera Labs raises $150M for chips that deliver AI in the cloud",
-      "excerpt": "Watch now. Astera Labs provides chips for connecting AI systems in the cloud, and today it has raised $150 million at a $3.15 billion valuation. It makes sure AI processor are fed enough data. In addition to closing the fourth round of funding, Santa Clara ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

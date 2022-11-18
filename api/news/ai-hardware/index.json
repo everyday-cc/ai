@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-19-chinas-moore-threads-s80-gpu-battles-a-geforce-rtx-3060-in-benchmark-roundup.md",
+      "title": "China's Moore Threads S80 GPU Battles A GeForce RTX 3060 In Benchmark Roundup",
+      "excerpt": "The S80 is the company's first retail product, and on paper, the specifications are pretty impressive for a first effort, and in fact rather similar to both Intel's Arc Alchemist DG2-512 as well as NVIDIA's GA106.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "originalUrl": "https://hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60156/content/small_bare-gpu.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
+      "publishedDateTime": "2022-11-18T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform.md",
       "title": "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform",
       "excerpt": "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ...",
@@ -63,7 +106,7 @@
       "originalUrl": "https://hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -255,7 +298,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 501,
+      "heat": 511,
       "tags": null,
       "images": [
         {
@@ -1424,59 +1467,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
-      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
-      "excerpt": "SiMa.ai CEO Krishna Rangasayee poses for a picture with his machine learning system used for processing video and images for security cameras, satellite images, drones, industrial robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
-      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

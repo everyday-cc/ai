@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "10 Washington, D.C. Fintech Startups To Watch"
+    excerpt: "Fintech Deal Day starts at 8 a.m., Dec.8, 2022. Today, there are more than 10,000 fintech startups in the United States. They're no longer just in major hubs like New York and San Francisco. Washington, D.C. is now coming online as a major player for fintech startups."
+    publishedDateTime: 2022-11-18T21:00:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/11/29792266/10-washington-d-c-fintech-startups-to-watch"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29792266"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29792266"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/11/18/shutterstock_615464276.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "India FinTech Forum unveils 23 high potential fintech startups"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
     publishedDateTime: 2022-11-14T20:41:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Citi backs Indian SaaS startup Lentra as it plans to expand internationally"
-    excerpt: "Indian SaaS startup Lentra has raised $60 million in a Series B funding round that saw participation from Citi Ventures."
-    publishedDateTime: 2022-11-14T05:00:00Z
-    webUrl: "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/"
-    ampWebUrl: "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/keyboard-typing-image-getty.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Indian AI-Based Finance Startup Raises $60 Million in Series B Led by Citi"
     excerpt: "Lentra, an India-based startup in the fintech space just raised $60 million from Citi and other venture capital firms. Read more here."
     publishedDateTime: 2022-11-14T12:50:00Z

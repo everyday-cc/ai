@@ -8,8 +8,8 @@ webUrl: "https://www.computerweekly.com/feature/How-to-get-structure-from-unstru
 ampWebUrl: "https://www.computerweekly.com/feature/How-to-get-structure-from-unstructured-data?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-to-get-structure-from-unstructured-data?amp=1"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:

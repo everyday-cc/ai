@@ -36,6 +36,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 22
+  - title: "Bringing on the Right Investors: What Every AI Startup Needs to Know"
+    excerpt: "It's a good time to be an early-stage investor, and it's an even better time to be an AI-first startup looking for funding. Investments in AI companies topped $77 billion last year globally, more than doubling from $36 billion in 2020."
+    publishedDateTime: 2022-11-18T19:11:00Z
+    webUrl: "https://www.inc.com/rana-el-kaliouby/5-things-ai-startups-find-investors.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "14JVCCXr+Da5J6CpKf73R/FswfMyxnZhZ9Y2itS0vuPfZqi15gup0On5s5VSdYLQUfsm6qJtGCc2EbTsg0HP/1nAQmUfusWdF86TLux/v1NHNx3sjdY5MO5zOmnwi7+PlY3fpAB3N5p+XBZ+QJ26eel3jYH72dbvWj47fmkZiLoZclpiQIUDYcQi+9UuZQAclcNlDNBRmLrvUMbUsR2W78+4CZdjW9N/eFaXEtfj6lyW6LFLJxRH4GyI8Sr78y0yS476lufUnxMNTfXBwdnkyab4pRFh3oIfn8sLNEkiJ3ajDHLqJBlY88VEQ2puzOiif/9VnYnnsPwOC0mftWYtfC36IqsHzTOFiIKho/8CwsM=;qCks49/oQ/x2IFfOSvy6dQ=="
 ---

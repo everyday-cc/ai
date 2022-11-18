@@ -187,6 +187,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
+    excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
+    publishedDateTime: 2022-11-18T19:54:00Z
+    webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
   - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
     publishedDateTime: 2022-11-14T19:09:00Z

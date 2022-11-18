@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Nvidia: Data Center Growth But Gaming Profits Plummet"
+    excerpt: "Nvidia continues to be a global leader in high performance graphics cards and AI via data centers. Read more to learn more about the latest ER."
+    publishedDateTime: 2022-11-18T20:34:00Z
+    webUrl: "https://seekingalpha.com/article/4559148-nvidia-data-center-growth-but-gaming-profits-plummet"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "t7LPBSUcAn3UUGqDUYvxALRPjpT0JKYnEudhzo7+UerLvBbvkJkqwd1DRl15CZqELoQ2B608ZaOuvEU2eOcqsNFmiefXxx9lZ0WobK+MQ+FF9k2xYAWyZmLm/vErbnI6ins/drQK24L+bQKRnTqGf9Y+1HUDCnn+jD8o9MNgTodIlqGc08de7s0BivT0gu2hWIg26UoZNFA7NHaEH7IEUhRMTJt6gOeeA05BF5GYmRDm0khYSqnLXiVj22oSq84I5RuyyoJ36Qc5ONg2WM2eM3AJpZNgElNY2BDFkW+rSRFF6qqHqHx+A0l6HjYSMA9pPHe85IbPkinHO8yLTUXMIRybOhLcszSB9wBJoHM2jbKSPVS+oTyf09h9MGMKgttfWQ9pe0EQ0SmtnkpS2iVZdGfjAD0vSxwnLW/rtOKuykPMHG2QGm2HrehSVetSAn/WNNcu4o2VQf/KgwqGu6p/4rJ+5CHUBivdQDAIzV07Qdt+gpwl3Y4tAoSCy3rbbW/pA4QcDzDgQYc2ztliGiAwMQ==;KZ7sWyXtq2GObEd4zAioNQ=="
 ---

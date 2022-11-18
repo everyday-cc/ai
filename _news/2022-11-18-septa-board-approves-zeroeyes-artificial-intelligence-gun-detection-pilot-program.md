@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "SEPTA approves artificial intelligence pilot program to combat crime"
+    excerpt: "Acting Transit Police Chief Charles Lawson said a six-month artificial intelligence pilot program will begin with 300 cameras. The SEPTA board approved the pilot program during its November meeting. The program will use existing cameras at stations along ..."
+    publishedDateTime: 2022-11-18T18:32:00Z
+    webUrl: "https://6abc.com/septa-safety-crime-gun-violence-zeroeyes-program/12468085/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 17
+
 secured: "ZOXNUE7CHJklOPXuVwkj7zbhipz6Qyv6SapMqwIeAb9vWcSGxmX2ObSk8iPQKoiCMzv+BVZoImIqfUoVJyWZZpHeSKXgWqh7qjyU6QhhUMr7F4353XVvSWWllNw7iA/1P/UFlvQ4PfiPA4IPz2jUNDHu75VaGaxz1G7zMIdL1reZ7kto5CVT6XK7A42fpQMHnrEd1AwJ9gfhTelgp4HzmMRgMKLK0DS4CGrAYA3Be2UyqkLR8rPWSzExLL/OCHUsNKY9aEbS54pwAHqVbCJeVahXh0AK2CMU9VaVAcyLvD2BDs92qnViOuS9phADqbkvARIBQzTebZzJq/wGkRdS+/nqMm+aaHXKBbJS3pv4OHE=;QLriWj1EC8L7HXVAd99GFg=="
 ---
 

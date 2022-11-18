@@ -42,6 +42,15 @@ related:
         width: 753
         height: 929
         isCached: true
+  - title: "Ship.Cars Partners with Monk AI to Introduce Artificial Intelligence to the Auto-Transportation Indu"
+    excerpt: "“Artificial intelligence (AI) is getting more advanced and used in all industries,” says Eftim Eftimov, President of Ship.Cars. “We are the first in the industry to deliver this technology to auto-transport carriers to use for their loads. This AI ..."
+    publishedDateTime: 2022-11-17T00:01:00Z
+    webUrl: "https://www.dcvelocity.com/articles/56010-ship-cars-partners-with-monk-ai-to-introduce-artificial-intelligence-to-the-auto-transportation-indu"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 19
 
 secured: "UqBkc+5P/SY2sWS+wnklvWAepxbktfAoo9DpygBAKyKdoq8r13T+d/weKfvKC54KoYBuHuwe8HFSdqC1oYUy6jKK599lbw2NqfaWLf3fN81h4QngJJMq1HFbDGH2HaU1vU04IbWquenNA0t6L1DzaQADKiceHseTBJveIMhLlBVGlYqyrQrv8R9s2HIpOViZtUfMKKPqJUTgonOmerTEv1x0UFTxxz5ckNdlaScxBE4x0eEBR+5QUdO1GyKpjFaB4XoWdZlpVSQdQi5Hah6jIkAH11Trukogerm+UlGVZIUsfmG5nTo+CMNL0TdD8VDV63bDoBqjhIoUWI4UQnplaN2fkcvz7HkudQuda5Ii8+s=;IsCehXr2Oc2N0WLSFyxn3w=="
 ---

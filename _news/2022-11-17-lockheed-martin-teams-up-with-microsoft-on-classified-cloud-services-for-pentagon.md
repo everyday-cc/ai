@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified
 webUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/"
 type: article
 quality: 64
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -63,6 +63,29 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "Defense Business Brief: Lockheed, Microsoft in ‘landmark’ partnership; Army restocks rockets; USAF funds hypersonic tests; and more."
+    excerpt: "The companies billed the partnership as a “landmark expansion of their strategic relationship to help power the next generation of technology for the Department of Defense.” Lockheed hopes access to the Microsoft cloud will allow it to move quicker on programs."
+    publishedDateTime: 2022-11-18T21:37:00Z
+    webUrl: "https://www.defenseone.com/business/2022/11/defense-business-brief-november-18-2022/379963/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 8
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2022/11/18/1808489/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "New classified cloud partnership to speed up Lockheed's work with DOD, company says"
+    excerpt: "A new partnership between Microsoft and Lockheed Martin that gives the latter classified cloud access will ultimately allow executives to more quickly and cheaply provide solutions to Defense Department customers,"
+    publishedDateTime: 2022-11-18T21:18:00Z
+    webUrl: "https://insidedefense.com/insider/new-classified-cloud-partnership-speed-lockheeds-work-dod-company-says"
+    type: article
+    provider:
+      name: InsideDefense
+      domain: insidedefense.com
+    quality: 0
 
 secured: "F3e8NIpKnXH02c9aEPM12AVu1S0EMHaPAZW7OO5NiWyAFM9KwD6yuDnXbb2x6QMqO+OTsJ5e1UZXKv1d5N4mOtZzD/MuiFp6n9J0L3DgmVbi960deQkhnfergEXPHOyyDNAXTr6lANhUzciGTxzasQeyu0u30cyCxvSzmM+qb1NdKD7cQPLQoo0FXiroSgbJWZGJzSrMX7HfizEOetVia1iHNlrPWprk08Qsnm1+3ifFJ/Hug2ecsrnRYIGioXmfM6ICAyMLuboLytXLzA0bj2Uf9ty15sWz7IktYp4JSPwxUEQjO4zsrJdtXmrTnwZXdlACXnrOEOEYwX1NE+t+P1BwmBvuEIMUyTjsCNj2wbI7A7xhTX58wZX9/+UbAviInZSXEs+8NA6jIsJEfjMuw6GW/8IVZK29jpRpr9gAAsO2VM7DJV3Xgib0Nt6/1NnRvYz6G+dTDQcMIBLreAS71lG9NR5jruq+/NO0EXMikgTbfWFm84j1fk0wU/zgLXNqnYOeFnODHpvYXaodbjByTA==;g8e1/H5CSMoY7Eq9yFXi9g=="
 ---

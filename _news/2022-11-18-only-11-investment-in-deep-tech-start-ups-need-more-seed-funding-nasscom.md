@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Bringing on the Right Investors: What Every AI Startup Needs to Know"
+    excerpt: "It's a good time to be an early-stage investor, and it's an even better time to be an AI-first startup looking for funding. Investments in AI companies topped $77 billion last year globally, more than doubling from $36 billion in 2020."
+    publishedDateTime: 2022-11-18T19:11:00Z
+    webUrl: "https://www.inc.com/rana-el-kaliouby/5-things-ai-startups-find-investors.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
   - title: "Only 11% Tech Funds Reach Deep Tech Start-Ups, Need Higher Seed Funding: Nasscom Chief"
     excerpt: "Deep tech or deep technology startups are enterprises that work in the area of emerging technologies like artificial intelligence (AI), robotics ... are prioritising their funds to the deep tech startup ecosystem because this sector is driving innovation ..."
     publishedDateTime: 2022-11-18T10:53:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-19-amazon-looks-to-sparrow-to-carry-its-robotics-ambitions.md",
+      "title": "Amazon Looks to Sparrow to Carry its Robotics Ambitions",
+      "excerpt": "But the robotic device, known as Sparrow, is outfitted with suction cups and artificial intelligence software rather than the ... the most physically challenging and repetitive tasks over to robots. Warehouse workers pick items up, sort them and put ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "originalUrl": "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-669457/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "publishedDateTime": "2022-11-18T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years.md",
       "title": "5 Jobs Which Could Be Taken By Artificial Intelligence In The Next 10 Years",
       "excerpt": "There’s no doubting the power of machine learning, particularly combined with robotics, and we’re looking at some of the jobs which are more likely than others to be taken over by AI. AI investing apps are a particularly exciting use of machine learning,",
@@ -1402,49 +1454,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-miso-robotics-automatic-burger-flippers-plot-european-takeover.md",
-      "title": "Miso Robotics’ automatic burger flippers plot European takeover",
-      "excerpt": "tech startup’s products have been sent to work ... Flippy 2, the modular frying robot; Sippy, the automatic beverage dispenser; and CookRight, the AI-powered sensor system which I assume is the more taciturn of the bunch. To explain how they work would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzExXC9mbGlwcHkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

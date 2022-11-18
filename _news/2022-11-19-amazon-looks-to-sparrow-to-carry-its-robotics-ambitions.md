@@ -5,7 +5,12 @@ excerpt: "But the robotic device, known as Sparrow, is outfitted with suction cu
 publishedDateTime: 2022-11-18T17:59:00Z
 originalUrl: "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969"
 webUrl: "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969"
+ampWebUrl: "https://www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969"
 type: article
+quality: 104
+heat: 104
+published: true
 
 provider:
   name: Wall Street Journal
@@ -19,6 +24,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "1Vdghfwbh91CBpPZ246lZwtg2i7i3KY0WurlWkz9vZGmZlQed+1kGBogom+k+hKyfABa47ulKIsCrqDZwHk2MrObpSBuGkdZq8QX0TDd20qETpkUb8Hr22kdZlokBTXQ42G+oboOcQlVhZGmQ16Cgx7gtx/h03LCrI5G2hM2FxZBIqabOsj4gu8t3BCx2hpX+8hhBa7LrBHXTkciC8yov1P39lm/JTJBbpb7ofFqovTJrNawbBqTxTJtR4eHbrc3RShVX+Pw2m6M6oZRIUPLQJFkTZCM0RzJ8Hmyed1P/THgUZFSd6Qd/ylx+RVHu4FK2yh1qZu+I0X4Ss4vZE4h6MUEwoE8m+BewEuGAS7MHW0=;gQjb6Q7WkX2JR55adJacLQ=="
+images:
+  - url: "https://images.wsj.net/im-669457/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "uJGBkTvttVYT9kpSzO4uAIWeo/irswJOYlBiblgNUKKtJb+IimqvrFgVQzYNkPhD5ytLhAeG8g7NPMJVLBXhrhujPSLuGGXkgaI19DGVeE1TgVtO5sFce+5tliFqgyezeuLPQ3oxHLgzK5gDtUar8uX3b/68ff8J7npiVRbuHdf/pw0fkuiLBks/b7aIvvGrPapAM/nyIV5tj++nik8dXpyYb1p1dfNR3LFf8S59agJ1hmL43Z8bxeKnbC/gPvB2HXHZ8uo8cnxu6rRCJI/emVHNwUhGSPb1rYi+Fc76/8djgqWXAA+sruh+r+6XTZe+KJ4xggx2Q9vqpN22ihSk8RHecDTSFwjFu6e3yWopDnU=;0nqzc/5syMahvCdmKEzOMg=="
 ---
 

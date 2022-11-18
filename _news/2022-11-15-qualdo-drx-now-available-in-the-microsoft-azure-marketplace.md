@@ -189,6 +189,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
+    excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
+    publishedDateTime: 2022-11-18T19:54:00Z
+    webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
   - title: "Microsoft and Nvidia collaborate to build new Azure-based AI supercomputer"
     excerpt: "Enterprises wishing to train and use sophisticated AI models at scale will be the target market. To develop the system, the duo will use the Azure cloud platform's NC-series and ND-series virtual machines, which are GPU-based instances. According to Nvidia ..."
     publishedDateTime: 2022-11-18T07:38:00Z

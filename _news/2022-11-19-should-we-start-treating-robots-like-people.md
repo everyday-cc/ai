@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T19:30:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/its-time-to-start-treating-robots-like-people/435717"
 webUrl: "https://www.entrepreneur.com/science-technology/its-time-to-start-treating-robots-like-people/435717"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Entrepreneur

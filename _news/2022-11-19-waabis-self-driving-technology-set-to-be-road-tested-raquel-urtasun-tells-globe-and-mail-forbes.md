@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T20:39:00Z
 originalUrl: "https://www.utoronto.ca/news/waabi-s-self-driving-technology-set-be-road-tested-raquel-urtasun-tells-globe-and-mail-forbes"
 webUrl: "https://www.utoronto.ca/news/waabi-s-self-driving-technology-set-be-road-tested-raquel-urtasun-tells-globe-and-mail-forbes"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: University of Toronto

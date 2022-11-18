@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-im
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Can Healthcare And Alternative Medicine Safely Adopt Artificial Intelligence And Virtual Reality"
-    excerpt: "and telecommunications—have in recent years discovered the power of pairing artificial intelligence (AI) and virtual reality (VR) to help alleviate the complexities within their industries. Handout AI in healthcare A few years ago, both these innovations ..."
-    publishedDateTime: 2022-11-15T08:31:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/how-can-healthcare-and-alternative-medicine-safely-adopt/439152"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 71
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1668497972-Healthfinal.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Viz.ai partners with Illuminate to improve quality of care for aortic aneurysm patients"
     excerpt: "Adds natural language processing to Viz.ai’s AI-powered platform to detect suspected disease earlier and monitor patients Viz.ai, the leader in AI-powered disease detection and intelligent care coordination,"
     publishedDateTime: 2022-11-16T00:03:00Z

@@ -27,11 +27,18 @@ related:
     excerpt: "Rightfully, ergo, the list of taxes would only be considered complete if we also had AI taxes. Whoa, some say, if you start taxing AI then we are potentially going to harm or maybe even kill the golden goose. AI can be used for the betterment of humanity."
     publishedDateTime: 2022-11-18T13:00:00Z
     webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63768c8761ae8255072d6c0d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 739
+        isCached: true
 
 secured: "dSnYfpKdikT6VI/ZOTvcXqn9qdQth6F1AGpUKukrQWNlZllhmIVm0ZZh1ZHB8gn4gNE8WCkyfzmmJmtdIPzrs31740h70ZxDqhmYhNIZpld+PtOFCGtcXSx/A18cpYQVEGj4wu1h+t79o1IIUWRZZers51pHYW/Z25pV7+4TuzCMkgL8jahL1gaDlclneLLhHg5y2+cX1ZEQRmywqerP68cEkC4knED9LFMgcnu58YmpU4jJyI6/uJEQW3WM61ZJ9EixWTpJ8SEIvIZqhivP1cCNSOvdfCzYY2ilLA3k0qPNLBEISIialQaavYwGR3GET4JgHdRWikQkRFA6a5eZQI8nZhbJY9DIOadrrQJbslGxbf9kY+udkc08noT7CaiQbxqzsTFAQONTVo/eoMglXQjR1O6cjHvJIN1z86wtSYIubpyyy8O37/LZ18yqWPofYgG5SAryv8wKjhGSeaN6Pqhke018cQC6w+FTWqKRTOsAzSBjMNFPEOUJzXETS/1uZ3s15sCbx94zpxhBxqwGfg==;Ln9TWJipfoI3YDg3eNxB2Q=="
 ---

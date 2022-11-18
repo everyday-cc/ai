@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Ship.Cars Partners with Monk AI to Introduce Artificial Intelligence to the Auto-Transportation Indu"
+    excerpt: "“Artificial intelligence (AI) is getting more advanced and used in all industries,” says Eftim Eftimov, President of Ship.Cars. “We are the first in the industry to deliver this technology to auto-transport carriers to use for their loads. This AI ..."
+    publishedDateTime: 2022-11-17T00:01:00Z
+    webUrl: "https://www.dcvelocity.com/articles/56010-ship-cars-partners-with-monk-ai-to-introduce-artificial-intelligence-to-the-auto-transportation-indu"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 19
 
 secured: "e5wtRYYnyYq2aA/xcgFS37SlwnqIj2BbRUz09Uz17zqkYUrQKCrHRkzYD8MEMIOqNMV6uh4F+aYGeYJg2qMaC33/afAvyEZFfWlvvypmrSS32NIm98HcGN/EG1BTSn3AdmODhR90REyurx0c6BCbMsIBqXwNA7e5jcZRzobY7v62YYryWEOVZtK5cP4D0pBKTe8CbvMTEHhCBKigHg6n3frwJafuMhTZ8TwNqIRLtfTVyNZdtjns/rvNtvwNJl9e8dVqgbODBZUTilrmYNNCNM18HgE4MltQI/YQeRupDNlFoxRolfGRG0HUi4pg6RThDnajWXtyTNIqPaBfdRGKTCyNRwFk5Qyk1qB7lNVkIUcnRKySaI6LFHNHb3DF6A9StUlFvn/ihW8PUsAm4ly+sLsvTpMBm2K+l42kKTv86RlqXVgp4eoH8nPHZj1zlWwvrsuvGjMGWcxjTo8xSj6NkXBOUFzC08ZQ6qjbXCY01DAbcigKhuhQ+DIMgOhWBi13Opr3hYdmv80Yoell7lYjww==;sauLmQsqpxDNw3P3L9mD9A=="
 ---

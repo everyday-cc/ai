@@ -2,6 +2,213 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-17-snapdragon-ar2-chip-set-to-accelerate-ar-glasses.md",
+      "title": "Snapdragon AR2 Chip Set To Accelerate AR Glasses",
+      "excerpt": "Qualcomm unveiled its AR2 Gen 1 Platform at Snapdragon Summit 2022 in Hawaii today. The new chipset will enable distributed processing, which",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637414810444d6781321ad4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
+      "publishedDateTime": "2022-11-16T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-lockheed-martin-teams-up-with-microsoft-on-classified-cloud-services-for-pentagon.md",
+      "title": "Lockheed Martin teams up with Microsoft on classified cloud services for Pentagon",
+      "excerpt": "Under the terms of an agreement announced this week, Lockheed Martin will become the first non-governmental entity to operate independently inside the Microsoft Azure Government ... artificial intelligence, machine learning, modeling and simulation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/",
+      "originalUrl": "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/221116-cloud.jpg",
+          "width": 1680,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-notions-latest-feature-is-an-ai-that-can-write-blog-posts-to-do-lists-and-more.md",
+      "title": "Notion's latest feature is an AI that can write blog posts, to-do lists and more",
+      "excerpt": "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
+      "originalUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/notion-ai-announced-202032305.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html",
+      "publishedDateTime": "2022-11-16T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
+      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
+      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
+      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
+      "publishedDateTime": "2022-11-16T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-malware-detection-and-classification-with-amazon-rekognition.md",
       "title": "Malware detection and classification with Amazon Rekognition",
       "excerpt": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it’s predicted to cost its victims $265 billion (USD) annually",
@@ -106,7 +313,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 501,
+      "heat": 511,
       "tags": null,
       "images": [
         {
@@ -581,7 +788,7 @@
       "originalUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1017,206 +1224,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-pickle-robots-unloading-robots-bring-in-26m.md",
-      "title": "Pickle Robot’s unloading robots bring in $26M",
-      "excerpt": "Pickle Robot Company announced that it closed a $26 million Series A funding round and it has live pilot implementations in the LA area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/",
-      "originalUrl": "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/feauted-web-pickle-robot.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors.md",
-      "title": "Trinamix’s face authentication optimized for Snapdragon mobile processors",
-      "excerpt": "Trinamix said that its face authentication technology has been optimized for new Qualcomm Snapdragon mobile processors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/",
-      "originalUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/trinamiX_face_authentication_demo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/amp/",
-      "publishedDateTime": "2022-11-15T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-should-we-have-a-robot-tax-part-2.md",
-      "title": "Should We Have A Robot Tax? Part 2",
-      "excerpt": "In the second of a two-episode series, Orly Mazur of SMU Dedman School of Law discusses her views on the tax implications of increasing automation and the alternatives to a robot tax.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/taxnotes/2022/11/15/should-we-have-a-robot-tax-part-2/",
-      "originalUrl": "https://www.forbes.com/sites/taxnotes/2022/11/15/should-we-have-a-robot-tax-part-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637402b7c67483f0f4c181fd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/taxnotes/2022/11/15/should-we-have-a-robot-tax-part-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taxnotes/2022/11/15/should-we-have-a-robot-tax-part-2/amp/",
-      "publishedDateTime": "2022-11-15T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-far-field-speech-recognition-market-2022-swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028.md",
-      "title": "Far-field Speech Recognition Market 2022 - SWOT Analysis, Business Standards, Value Chain and Sales Channels Analysis 2028",
-      "excerpt": "The most recent information in the sector, which considers the effects of the changing geopolitical environment, is used to gather and evaluate market insights for the Far-field Speech Recognition market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-11-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-11-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

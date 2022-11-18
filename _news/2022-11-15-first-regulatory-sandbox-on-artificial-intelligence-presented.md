@@ -7,7 +7,7 @@ originalUrl: "https://nami.org/xoso/Vw36nkJC.html"
 webUrl: "https://nami.org/xoso/Vw36nkJC.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "CBA accelerates AI deployment amid regulatory and board scrutiny"
-    excerpt: "Banks are keen to use AI to improve customer service and create more efficient processes. But regulators are monitoring to ensure it’s being used responsibly."
-    publishedDateTime: 2022-11-14T05:34:00Z
-    webUrl: "https://www.afr.com/companies/financial-services/cba-accelerates-ai-deployment-amid-regulatory-and-board-scrutiny-20221114-p5by10"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.3133%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_333%2C$y_131/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/102cc6e61dc3bbbf151ca9b5f4a0647eb6470141"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Zxsek/25tSjYE9l9RTWfk0tPW1Ac/DECb4xBvyiHXFejNvlQmYeANwy3eEsyp/ssaM/l5E7ERWRyhdfGoRk/9nJFY0k+F54OPiTyzcu8wPVAoUP1GcDGxMxlNY1gVWrSnOHqCz7+aYXgETnbkPVUvjhzkJhlOuH/QGjT0K9D/EA6t1o12msS1RHyevdACZV9TnxEsangV+HLdVlfQf5mll7MKBfBR6024z7vYZCx6qtHsD/s+Zg2WHRNmZ729Ld+75bnC45RTI5Py1GmXJqEEfb8754y4v6a/vcAbOXW1NmEUU4LIkEUJaIckA0Itjf4e1AZgImeouASLLbTnEgWxVQ9lRm+eggLGkkGhfRnE9c=;vfYh/NiX6Wyoyaz2WvEc5g=="
 ---

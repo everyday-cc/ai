@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/pvn29z/article66141521.ece/alternates/FREE_1200/PO13_BS_stock_market.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "10 Washington, D.C. Fintech Startups To Watch"
+    excerpt: "Fintech Deal Day starts at 8 a.m., Dec.8, 2022. Today, there are more than 10,000 fintech startups in the United States. They're no longer just in major hubs like New York and San Francisco. Washington, D.C. is now coming online as a major player for fintech startups."
+    publishedDateTime: 2022-11-18T21:00:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/11/29792266/10-washington-d-c-fintech-startups-to-watch"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29792266"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29792266"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/11/18/shutterstock_615464276.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Supercharging the next age of fintech through open innovation"
     excerpt: "The next era of fintech is coming. With the expansion of the financial services ecosystem beyond the traditional borders of banking, lending, and investment, new industries and business models are being unlocked as demand grows for both embedded services and hyper personalization."

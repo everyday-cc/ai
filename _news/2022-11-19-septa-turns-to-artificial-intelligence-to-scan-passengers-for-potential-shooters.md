@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-18T20:14:00Z
 originalUrl: "https://whyy.org/articles/septa-artificial-intelligence-scan-guns-zero-eyes/"
 webUrl: "https://whyy.org/articles/septa-artificial-intelligence-scan-guns-zero-eyes/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: WHYY

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-18-easy-and-accurate-forecasting-with-autogluon-timeseries.md",
+      "title": "Easy and accurate forecasting with AutoGluon-TimeSeries",
+      "excerpt": "AutoGluon-TimeSeries is the latest addition to AutoGluon, which helps you easily build powerful time series forecasting models with as little as three lines of code. Time series forecasting is a common task in a wide array of industries as well as scientific domains. Having access to reliable forecasts",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/forecasting-autogluon-timeseries.jpg",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T14:01:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-your-guide-to-aiml-at-aws-reinvent-2022.md",
       "title": "Your guide to AI/ML at AWS re:Invent 2022",
       "excerpt": "AWS re:Invent season is upon us again! Just a few days to go until re:Invent takes place for the 11th year in Las Vegas, Nevada. The Artificial Intelligence and Machine Learning team at AWS has been working hard to offer amazing content, an outstanding AWS DeepRacer experience, and much more. In this",
@@ -1404,40 +1456,6 @@
       "provider": {
         "name": "Naija Gist - Latest",
         "domain": "pulse.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-exfo-plans-5g-center-of-excellence-in-montreal.md",
-      "title": "EXFO plans 5G Center of Excellence in Montreal",
-      "excerpt": "Freshly backed with federal development money, test and measurement solutions provider EXFO plans a 5G Center of Excellence in Montreal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20221031/5g/exfo-plans-5g-center-of-excellence-in-montreal",
-      "originalUrl": "https://www.rcrwireless.com/20221031/5g/exfo-plans-5g-center-of-excellence-in-montreal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
         "images": null,
         "publishers": null,
         "authors": null

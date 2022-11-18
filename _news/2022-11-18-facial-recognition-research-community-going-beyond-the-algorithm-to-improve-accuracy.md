@@ -24,6 +24,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Facial recognition advances spurring new use cases, improvements in IFPC 2022 spotlight"
+    excerpt: "Facial recognition is about to be able to accurately unmask deepfakes, match families walking through the airport all at once, and outperform other biometric modalities, according to industry experts speaking at the International Face Performance ..."
+    publishedDateTime: 2022-11-18T19:27:00Z
+    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-advances-spurring-new-use-cases-improvements-in-ifpc-2022-spotlight"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
+
 secured: "8XVG2DsTMw0t8vlEid1QEUVGFbDNDmsJq72WwEcQrdki4gOavKABAgNM8u1lOqwoSXMXoxEuf41KlhB8ycNK147lAmLs8KwtVXvSqRbD/7/a9IOXLWNjAoOjtGQ/7LzPlrfh3eTYg+6OEOfpwm2WERT7HIoOXlUpYkRUTsKrQk+VTHtCMKsagpP7lWAvT+IkrMZzijPjMcRKzSFHFR5552m/yuGuag29a/zHFhHgDt7kbdBT5T3qyvEe0YimMbyfNCSRbbcjA7HGRdfhmGbFSeNEPQIKqYqyo/HGOQn/L3XfsMrqE6l3WDG8gODs6j0H2Gh0s+PKjpAgmzr35vdPSYHLXWAhBAqSNWRFi4hAkH5hczqgXxpUdz3MZ+pfEGvBnoWCFAPT7QztuK82lGhdCuXRHgC1pCaucnieNJN73HUYZzyeAql0gCcB3wrITolbWDZO8ewRb/6PTIQpa+qjCGqx6XOI8T6iBbOCyqNFFwzvBMbtkDVeFZAHVQudSFZeSYsA7RmOJJaBo74JMdiCgA==;yePcx9jdvIV2OwWr4IQI1g=="
 ---
 

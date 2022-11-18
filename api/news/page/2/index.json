@@ -2,6 +2,247 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-17-snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models.md",
+      "title": "Snorkel takes a deep dive into data labeling and foundation AI models",
+      "excerpt": "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
+      "publishedDateTime": "2022-11-17T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai.md",
+      "title": "AI startup Snorkel preps a new kind of expert for enterprise AI",
+      "excerpt": "and also too arduous to build and maintain — they didn't scale, in other words. In an intriguing twist on that earlier approach, Snorkel, a three-year-old AI startup based in San Francisco, Wednesday unveiled tools to, as they put it, bring the human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/344bbfe0bd114ebfe363a4ba2758ca25291e9623/2022/11/17/a9c230b0-6ff9-466d-a751-53e84f1758f2/snorkel-2022-prompt-builder.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "publishedDateTime": "2022-11-17T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-how-to-get-people-to-trust-ai-predictions.md",
+      "title": "How to Get People to Trust AI Predictions",
+      "excerpt": "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=tech_featst_pos1",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=tech_featst_pos1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-664644/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-nvidia-blames-crypto-crash-for-sagging-gpu-sales-but-the-data-center-is-booming.md",
+      "title": "NVIDIA Blames Crypto Crash For Sagging GPU Sales But The Data Center Is Booming",
+      "excerpt": "The data center is NVIDIA's biggest earner, having brought in more than double what its gaming division did last quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
+      "originalUrl": "https://hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60141/content/NVIDIA_Voyager_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming",
+      "publishedDateTime": "2022-11-17T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud.md",
+      "title": "Astera Labs raises $150M for chips that deliver AI in the cloud",
+      "excerpt": "Watch now. Astera Labs provides chips for connecting AI systems in the cloud, and today it has raised $150 million at a $3.15 billion valuation. It makes sure AI processor are fed enough data. In addition to closing the fourth round of funding, Santa Clara ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-locus-robotics-named-to-fast-companys-second-annual-list-of-the-next-big-things-in-tech.md",
       "title": "Locus Robotics Named to Fast Company's Second Annual List of the Next Big Things in Tech",
       "excerpt": "List Recognizes Leader in Warehouse Robotics for its Innovative AMR Robotics Technology Breakthroughs That Transform the WarehouseWILMINGTON,",
@@ -604,57 +845,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-17-artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029.md",
-      "title": "Artificial Intelligence Products Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029",
-      "excerpt": "The prime objective of this Global \"Artificial Intelligence Products Market\" (2022) is to provide the insights on the post COVID-19 impact, and top to bottom analysis on the present state focuses on the major players and restraints for the key players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-17-aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector.md",
       "title": "AIQ to work with AWS to accelerate digital transformation in energy sector",
       "excerpt": "The companies will develop an Innovation Factory team who will work to develop new solutions that boost operational efficiency across the energy sector’s value chain",
@@ -1031,213 +1221,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-snapdragon-ar2-chip-set-to-accelerate-ar-glasses.md",
-      "title": "Snapdragon AR2 Chip Set To Accelerate AR Glasses",
-      "excerpt": "Qualcomm unveiled its AR2 Gen 1 Platform at Snapdragon Summit 2022 in Hawaii today. The new chipset will enable distributed processing, which",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637414810444d6781321ad4d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
-      "publishedDateTime": "2022-11-16T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-lockheed-martin-teams-up-with-microsoft-on-classified-cloud-services-for-pentagon.md",
-      "title": "Lockheed Martin teams up with Microsoft on classified cloud services for Pentagon",
-      "excerpt": "Under the terms of an agreement announced this week, Lockheed Martin will become the first non-governmental entity to operate independently inside the Microsoft Azure Government ... artificial intelligence, machine learning, modeling and simulation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/",
-      "originalUrl": "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/221116-cloud.jpg",
-          "width": 1680,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-notions-latest-feature-is-an-ai-that-can-write-blog-posts-to-do-lists-and-more.md",
-      "title": "Notion's latest feature is an AI that can write blog posts, to-do lists and more",
-      "excerpt": "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
-      "originalUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/notion-ai-announced-202032305.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html",
-      "publishedDateTime": "2022-11-16T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
-      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
-      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "publishedDateTime": "2022-11-16T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

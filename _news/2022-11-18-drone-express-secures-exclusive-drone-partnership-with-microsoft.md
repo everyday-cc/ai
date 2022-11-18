@@ -58,6 +58,29 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "Defense Business Brief: Lockheed, Microsoft in ‘landmark’ partnership; Army restocks rockets; USAF funds hypersonic tests; and more."
+    excerpt: "The companies billed the partnership as a “landmark expansion of their strategic relationship to help power the next generation of technology for the Department of Defense.” Lockheed hopes access to the Microsoft cloud will allow it to move quicker on programs."
+    publishedDateTime: 2022-11-18T21:37:00Z
+    webUrl: "https://www.defenseone.com/business/2022/11/defense-business-brief-november-18-2022/379963/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 8
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2022/11/18/1808489/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "New classified cloud partnership to speed up Lockheed's work with DOD, company says"
+    excerpt: "A new partnership between Microsoft and Lockheed Martin that gives the latter classified cloud access will ultimately allow executives to more quickly and cheaply provide solutions to Defense Department customers,"
+    publishedDateTime: 2022-11-18T21:18:00Z
+    webUrl: "https://insidedefense.com/insider/new-classified-cloud-partnership-speed-lockheeds-work-dod-company-says"
+    type: article
+    provider:
+      name: InsideDefense
+      domain: insidedefense.com
+    quality: 0
 
 secured: "n5TnOImwnEjtHDcx8iSjm+E24dbnUamkzT1lwWc8o8mi9lNomNcMwWp5siq6AEsFMZtFnZ2ciJxF6fPbJ4CscgwQiA4tPNpWrPEsQEefKhDmuB4gjyxug2DW+Wdga6RRwDi7cmzpgGFOJ/0b6cKg1zFGSPphP6DUGs4hUuy93N8m8VRFKCPDy/dwYuzgW9BeExsWiBfGW6TOsBUB856JJeMw/UAXTVK4dQKPgcvQwhtKYTP/dG23M0VWOiUDQpRQQbjezIuUy0aG+1gyOg36v7mvPRu8Q72h09/rf8KvEvee0NFQ14oWr2hauV5ErXfz6QCQPzcskV0chS9nj//bPViWzQCOMoaCaphmlR2Tyr4=;tA6xrcfrLgKnMk2yRhkRsg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sal
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7DRP4GTFXMI63MEMHTRCEYDQLE.jpg&w=1440"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Nvidia: Data Center Growth But Gaming Profits Plummet"
+    excerpt: "Nvidia continues to be a global leader in high performance graphics cards and AI via data centers. Read more to learn more about the latest ER."
+    publishedDateTime: 2022-11-18T20:34:00Z
+    webUrl: "https://seekingalpha.com/article/4559148-nvidia-data-center-growth-but-gaming-profits-plummet"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "4SWy5B0AkU6b8K/KDahgzFa6XC91jlVb3J/nYyxsO6kA0wiPW1Da2PazYlSdOz9EBSDvNKEcYJY3DWnGZNnWcDHW3D5hCeGj11Gf8RE/MEykhyz30wcBT82cF15JXYCuWG/v+ab8IpN4UYxt61EWjTKauI0aHZnFWpKzsLmlLMbSGvsr9NQOVIjGQjhyuUEXxQhRaE2rAh9laRk4yJOwvYVCQyY92SfkrUVqXhhhxZbU1x9yBH2fs0q7d/iHuLT4DMAXq5tEonNLLMda4YNx2qy7yG/g9ydDZDDCU5psv2LrEnZvQgj3mI3A8FMrSGKtMFGi5xUDw6r53PLgl2EJ9qyIZ833m5gFpqWWEAdFYocaz700Qa8LLkhddYME0/s7u7ui3QhTqYw7KiGh48ZKkl/xMPtdvLa2EOvvPDYJMUxobXx2A8oAIyX3elvxE2nlBSQHYPM0o4hzyScU5h0mylGfp2mW7DmRl3RoJYRFns9pzI4BbhRIpe3zaCqvCLzE6VZfUmRiz0UvCUmsnV2m/Q==;n6SL3FQljAwn5d1ALRsldg=="
