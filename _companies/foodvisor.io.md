@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "foodvisor_app"
   url: "https://twitter.com/foodvisor_app"
-  followers: 1179
+  followers: 1178
 
 size: 11-50 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=H77GQBirQkM"
 
-secured: "laBbkvAOLghytIhU2rwTGINExkJf/aIfa7LP8qXyq4vZypWoGT7uZlTEOGmN8vNtUn5I6TkOSDDD7eknh63pjaB2on1NObvIlbQwwEE3hWhe8DD1XZJ2wGTSQ+C9yedlUPYleIy4Ny/vWb+YbBGGltJIDx+fc/p3LXK0QZeBllntS99p+b5RTj+2/rrNYqoSls7X1SskZ28ikArwcJC3Qk1BlsoYKySu0UqJMlfu4O4R2NWrdSGrjTBZKxQ4wd1BNaeLL1tBdVIRIWq9ZlO5ZkgnBqla3541Ofwu1NDVX/CGpzanhtu65e3zrUthU6gTlUDLsH5wGtXRv3XLfpK9hZ8qZnd0G6Wa+dnD6QjoZU3J4yNJ53weY5s/KEhdrQz3x9Gq7VdZzy40BD3lqbx3ZCtB56To7S5KINPrrZMlpbs=;em27Y9brZA2ZCmulU2HVXQ=="
+secured: "mAZnn6izEI7Ur6iex0q4sDcd9XvJ1I+FIqxq8GyWMb0Lz97OlV7Q3VAGlroh8Nw5fTH2rA+iArK39BNvuxB/qcXm8KAJ43G86NxoYS8HPaDQRTsJGWtM5BIjLfukzidPvNkluLlmJqiBYvjKOX8Pvnn571MR7I3Hp4tlEkZgg/zul6eHuEQGQhDhgl5VM4LJJWK2Rj++0/Y4OKsN5NABWk2hZi28a1P+XJ3087dqTZYEna7qBvUDSbQz0HlKUCwfGUbfNA4GA6txeFDzJY1Cwrhx7f4r+nMnEdSjnbA47I+qiroBRIzikIz67X89IEF4hpTiKBbywbQs6Ubnc85nacYmm7V4zFR2eTwtznGe/VXRrGh2SCWOnm5NzAa1JCEs3bhEglII5ZcPacVg+6cOadev6nhUV4+axA97f/HAEJo=;mQchAKxFle/orqF5t/r+hQ=="
 ---
 

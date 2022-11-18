@@ -2,7 +2,7 @@
 name: "Mediktor"
 overview: "Free face detection and recogniton API provider. Leading Face Recognition on Cloud."
 type: "profile"
-heat: 64
+heat: 0
 
 website: https://www.mediktor.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Mediktor"
   url: "https://twitter.com/Mediktor"
-  followers: 2660
+  followers: 2653
 
 size: 11-50 employees
 yearFounded: 2011
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VrnosHhMfgA"
 
-secured: "7cnhF8/RzNASv0hLNPx15mz7c/0UwHHEqqVi+m0AJbwIdOY6BaHmwEPzN1G6rDz10BupJtXnFmRydqz5g7f8WiHtXY6/vk08OoxNWwdDS+BLmNdAezELM89Ey0VyzdtPK1VEdGmsUpG4mwwpqEpf1ECnt2gMKlFHu3b8EUyCG/PzZEjO2iR+FIgpqavlhSSmtpDy8WC3qnzpSOJSkCr+58fjXph1bEkgowhMrZdQ0BOhNsZ6pmXUggLmwDRwyrehlXpvlQWSGyNWYIAuTeWHClR3mnU0HyKFVmfBCsNI+Hr/rk55+sUbW9BuaoEBUYc5MQk0mX8gbao3+r5JFgmf5e/HNYbkss7FXXhpT9ITIiH1/TmFcrSF1Sr/h7zy4yQ6XkLaztbMSFCIMbANSwd88eN408n8XfdJw3QHIUGCH9U=;UQvly+E3j/h1itJ+ObHPdA=="
+secured: "PkdcQ9dsCemshG7orLV5PBpbw7MftEgduFjvlSJy2QsV32OLCT3XIWaxZ7qYsAdcpRtxBHvN03lGZ4hdLvpg9SkmxIgplpNXFMwAaB4bOrjlyWQQZfnvBaOBDFbjfeOZZCPgTjkZjpuXZG7ni8s4AF1wyGi4e3uwe4V75AzBLSyYztLfYi8FztG5z8gC8nqW+s0F9fkq1gzDyUqGUe57dnLEY5q2tk0s5ZH4NV0kqFs4X/CLpvAxFqnmQDFNBuYSDZcoRJq5jWmnzOnCH28MYLmIMCFuA4vBvfO22MYCjZJoW0EXJ24xgbyigT+Mv4S9K0WthQX6qW8M4CgrSFzIsCgRJ/yFQhSoe9OZhQuszSGp5iPhz86s8aoZ4ZvNaWm5NCTa6RXrVUAVgwVfqjlbKqe0ebWWFODN9G53frDvcDk=;4GdhNBmsJc3WrD0IdBk+Wg=="
 ---
 
