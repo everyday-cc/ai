@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-se
 webUrl: "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "WATCH | Scary as self-driving Tesla malfunctioned [VIDEO]"
+    excerpt: "Ah, we all love a bit of video content, don’t we? It’s engaging, exciting and a different way of consuming content. We also love consuming as much news as we possibly can to stay in the know but we have busy lives so if we can get a taste of what’s ..."
+    publishedDateTime: 2022-11-18T09:35:00Z
+    webUrl: "https://www.thesouthafrican.com/news/watch-tesla-malfunctioned-18-november-2022-video/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 39
+    images:
+      - url: "http://www.thesouthafrican.com/wp-content/uploads/2022/11/pexels-screen-post-10029877-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tesla tells US of new fatal crashes involving automated driving"
     excerpt: "Tesla Inc. disclosed to US regulators two new fatal crashes involving automated driver-assist systems, bringing its total to 16 since June 2021."
     publishedDateTime: 2022-11-16T00:10:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-17T16:38:00Z
 originalUrl: "https://www.salisburypost.com/2022/11/17/the-future-is-already-here-rccc-plugs-into-artificial-intelligence/"
 webUrl: "https://www.salisburypost.com/2022/11/17/the-future-is-already-here-rccc-plugs-into-artificial-intelligence/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.salisburypost.com/wp-content/uploads/sites/9/2022/11/AI-Incubator.jpg?w=525"

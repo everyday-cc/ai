@@ -190,6 +190,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 69
+  - title: "Microsoft and Nvidia collaborate to build new Azure-based AI supercomputer"
+    excerpt: "Enterprises wishing to train and use sophisticated AI models at scale will be the target market. To develop the system, the duo will use the Azure cloud platform's NC-series and ND-series virtual machines, which are GPU-based instances. According to Nvidia ..."
+    publishedDateTime: 2022-11-18T07:38:00Z
+    webUrl: "https://www.computing.co.uk/news/4060415/microsoft-nvidia-collaborate-build-azure-ai-supercomputer"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 69
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/30f8a17/7f265084-11c2-4e5b-ad90-78ab96c8ebc1/2/NVIDIA-Microsoft-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
     excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
     publishedDateTime: 2022-11-15T13:11:00Z

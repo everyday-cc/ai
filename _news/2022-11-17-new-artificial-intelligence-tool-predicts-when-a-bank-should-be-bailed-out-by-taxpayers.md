@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-17T10:00:00Z
 originalUrl: "https://scitechdaily.com/new-artificial-intelligence-tool-predicts-when-a-bank-should-be-bailed-out-by-taxpayers/"
 webUrl: "https://scitechdaily.com/new-artificial-intelligence-tool-predicts-when-a-bank-should-be-bailed-out-by-taxpayers/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AI in Healthcare
 
 images:
   - url: "https://scitechdaily.com/images/AI-Computer-World-Artificial-Intelligence.jpg"

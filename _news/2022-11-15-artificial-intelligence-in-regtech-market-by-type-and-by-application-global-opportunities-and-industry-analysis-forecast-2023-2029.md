@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Stadium Market 2022 Worldwide Business Growth and Consumption Status by 2028"
+    excerpt: "The report helps to gain information about the impact of the Covid-19 pandemic on the Artificial Intelligence in Stadium market. The report provides the strategies adopted by the prominent market players to cope with the effects of the Covid-19 pandemic."
+    publishedDateTime: 2022-11-15T07:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-2022-worldwide-business-growth-and-consumption-status-by-2028-2022-11-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence as a Service Market 2022-2026 Is Booming Worldwide With Comprehensive Study Explores Huge Revenue Scope In Future"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence as a Service Market\""
     publishedDateTime: 2022-11-15T06:01:00Z

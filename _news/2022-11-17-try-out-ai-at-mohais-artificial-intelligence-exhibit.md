@@ -5,9 +5,11 @@ excerpt: "“Artificial Intelligence: Your Mind and the Machine” runs through 
 publishedDateTime: 2022-11-17T14:00:00Z
 originalUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
 webUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
+ampWebUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1"
 type: article
-quality: 34
-heat: 34
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 secured: "YgLwlt4czy7Y9TVGK0d8vUx6obI+jkfbaNAXOI0Fb4kY1bOlw7/zWOsmZVZbCooiC6XS7X/3/kMAydstQUvXvV3dQV7FpGGBXs//OMc7tBU1AZ3m+3tw/EaddiQOWpxHYqJQsvXWiJzN7/j5/0x+lGx6X3TsUMvTxXfqEy7jGEMrsBDbqwmPOlGhI1VojeN3oDYhuWRIU3ScHsfYaaHcd2/cMr/U87QCG8ZhEKwQPFvAaX+Lb0oyhu+PTTA1Zj6Og7heiDnCkmwMRV0KbB+R7sXCL30IH6w2qQIftxtowWe1vR3OHWHyhsJUg/sCoL3FlRpk2g96jnST6VeA2VMBGhiakLSDvSXwSRxB5qushOTNGT0+ZPhJkP3O3ZJgwHZ8SkaJkVFfJVk7x0YQ0gpfXubq0tya0gD1uf8wgic8nX66UAvczaR2gfrdQFDqbD0Q9dXaK9KhrkxocDM8yigDzocKnSX+jRiHvxHo22cheppZQmFrkVPMUEMDgA7terM8rBJKk6l/DIp4UMqyY4mpnQ==;pBnrJJBAtAjiDgSpIZ030Q=="
 ---

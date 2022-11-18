@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "New speech recognition tech uses facial movements to transcribe mouthed words"
+    excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
+    publishedDateTime: 2022-11-14T17:24:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 71
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "New speech recognition tech set to transcribe mouthed words using facial movements"
     excerpt: "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ..."
     publishedDateTime: 2022-11-15T10:16:00Z
@@ -44,20 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
-    excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
-    publishedDateTime: 2022-11-15T04:48:00Z
-    webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917770"
-        width: 444
-        height: 250
-        isCached: true
   - title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
     excerpt: "Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies. Facial recognition systems using biometric data will not be allowed until a specific law is adopted or at least until the end of next year,"
     publishedDateTime: 2022-11-14T18:33:00Z
@@ -67,15 +69,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Infographic: How facial recognition and tech can make remote work more efficient"
-    excerpt: "This includes anything from note-taking and timesheets to remote monitoring. Facial recognition technology can improve time tracking without distracting employees from their tasks or adding to your workload. This technology can be used anywhere and works ..."
-    publishedDateTime: 2022-11-17T20:04:00Z
-    webUrl: "https://techaeris.com/2022/11/17/infographic-how-facial-recognition-and-tech-can-make-remote-work-more-efficient/"
+  - title: "Italy bans the use of facial-recognition technology"
+    excerpt: "Italy's Data Protection Agency has issued a rebuke to two municipalities experimenting with ‘smart glasses’ and facial-recognition technology."
+    publishedDateTime: 2022-11-15T17:36:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/11/italy-bans-the-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 14
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/19915/untitled-design-5.jpg?crop=0,0.27416666666666667,0,0.23364583333333328&cropmode=percentage&width=1200&height=450&rnd=133130029250000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "Xgn47Xr+ZJbXBYcY4otBByCP1QkB0K5cgMV1fBCc7iZg9v2vY6+MDDCj84LDJQCjZtkTxmwcC2hou2q/XfvT1ImxOs5s/2FFVGbmdj+JL4llxVL70K6Btdbc5btiur4+ilv2yagXq1mOHOm594gBgB6ve7axuDvQzguO+aRfq1hl6iP8oSLAOjx/aElmUzWez03uMqBPWMSXIak532/s2zdzLol1y52VeuFAdkLlnJKyyrtEoK/R3gc+yQzDTkZMhR8cirZn7V9LkZ2C2H3+VKq0fWkJ81hZQq05gpwedDIZLwwLJySVgiNSRZwW4BqFfCYMlDxJY+AMXGpz4yFV+q4yn9/UYBRD3bMqdByyntueO1Y1UUy58kmputPT0O6Y8F4sti2QtNToE8WjPczcXGJ6ooIccfyQTQDBMlYdRgF+ABBPTDZk+3igpQcgRksa1gvOIlp0Br58uQVKbPtQxPr/i0LXKuD8eklKtUdb7G2N6E7S9eXfRrRPl8Aeyp5TtNPQExye3RE3oLc0+PTt/g==;fY3h0ItXmSwBq2YgB39vUw=="
 ---
