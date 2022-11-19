@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 34
-  - title: "Cerebras Systems debuts AI supercomputer with 13.5M+ processor cores"
-    excerpt: "Chip startup Cerebras Systems Inc. today debuted Andromeda, a supercomputer optimized to run artificial intelligence applications that features more than 13.5 million processor cores. Sunnyvale, California-based Cerebras Systems is backed by more than $720 million in venture funding."
-    publishedDateTime: 2022-11-14T19:02:00Z
-    webUrl: "https://siliconangle.com/2022/11/14/cerebras-systems-debuts-ai-supercomputer-13-5m-processor-cores/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "0m8V0n+gBm+duAOkSM6hHS1bTNc2SsQjbCqYt9wZKSBsJ4XWrubLnSCs/Q5hRxaBGNikoQUh/vcSG31qVcF5fqqgD/BaigIObe3gNwxRuY9grzi68oK/LmMW8jnJPQWZVpKcScyH5B//sFdU7M9aJsF5+1z3DCiUtOEcmMJFxgNoQriWs3DdLibVElfuC6XU30dkUAYDZ2th3eVWgta2HWtcpQRm6A/4NYjEpSYIcDOGeXJ3C5rd1v4MirgeHFaWs/l30/+7y/DLpLs97IVKzzXWW86sw6CNeoxHmEhR+m4gSZXKXXp1OFNIjqpzan3KqLJYVOKTrVzNBeX3NydW4uDVptCEF5aJ1d4fifwdiZUjcJELTLrbNt2fFpWQ1zvVQMRsQjPFzqW93YlSBG1nD73ZsWHfOqXBEB8Rg9v0cvSSlRBpbEWCqBB83h+gpcpnqiVU8ELzn8MSFG8xqcTKWH5JR8FaRseCrmyUNLAsbU/GYFhb5d9NFtcrsDYGjEeFXmzLougntyrJ70JRm55frw==;nDBRLp0blcPnvqqV3GJUXA=="
 ---

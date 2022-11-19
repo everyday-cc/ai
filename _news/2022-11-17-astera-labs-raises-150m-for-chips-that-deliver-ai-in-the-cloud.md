@@ -31,7 +31,12 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/027b-169d1635f1c6-d5d3cb267cde-1000/astera_labs_logo.jpg"
+        width: 610
+        height: 458
+        isCached: true
   - title: "Santa Clara data center chip startup Astera Labs scores $150M, triples valuation"
     excerpt: "CEO Jitendra Mohandra said the funding and new valuation \"validates that we are in the right markets for AI/machine learning, cloud and hyperscale infrastructure that are continuing to grow.\" The Series D round was led by Fidelity Management & Research and ..."
     publishedDateTime: 2022-11-17T14:58:00Z

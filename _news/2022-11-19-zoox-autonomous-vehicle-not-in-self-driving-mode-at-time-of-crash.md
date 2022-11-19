@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Waymo is using its self-driving taxis to create real-time weather maps"
-    excerpt: "Self-driving cars frequently have trouble with poor weather, but Waymo thinks it can overcome these limitations by using its autonomous taxis as weather gauges. The company has revealed that its ..."
-    publishedDateTime: 2022-11-14T18:44:00Z
-    webUrl: "https://www.engadget.com/waymo-robotaxi-weather-station-maps-174012064.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 49
   - title: "WATCH | Scary as self-driving Tesla malfunctioned [VIDEO]"
     excerpt: "Ah, we all love a bit of video content, don’t we? It’s engaging, exciting and a different way of consuming content. We also love consuming as much news as we possibly can to stay in the know but we have busy lives so if we can get a taste of what’s ..."
     publishedDateTime: 2022-11-18T09:35:00Z

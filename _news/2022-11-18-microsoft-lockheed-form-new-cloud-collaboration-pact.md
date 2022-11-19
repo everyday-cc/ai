@@ -39,6 +39,20 @@ related:
         width: 1680
         height: 987
         isCached: true
+  - title: "Voice Recognition Software Market Next Big Thing | Major Giants- Microsoft, Google, Brainasoft"
+    excerpt: "Global Voice Recognition Software Market Size, Share Analysis, Segment Growth 2023 is the latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
+    publishedDateTime: 2022-11-14T19:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-recognition-software-market-next-big-thing-major-giants-microsoft-google-brainasoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/Cyber-Security-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Drone Express secures exclusive drone partnership with Microsoft"
     excerpt: "Drone Express has adopted Microsoft Azure to host its AI solutions and machine learning to train its models to detect static and dynamic obstacles. This includes a dynamic obstacle like a pet in the backyard, teaching the drone contact the homeowner or ..."
     publishedDateTime: 2022-11-17T20:32:00Z

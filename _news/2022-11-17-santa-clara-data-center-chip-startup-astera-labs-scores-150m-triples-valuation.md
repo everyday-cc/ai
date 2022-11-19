@@ -36,7 +36,12 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/027b-169d1635f1c6-d5d3cb267cde-1000/astera_labs_logo.jpg"
+        width: 610
+        height: 458
+        isCached: true
 
 secured: "vExugoUsyzz6IoqyvexKNDHImIhYjhJn1y0aQbF8ypZrLkIMT6hHKKgiPRJk14V6ReYAMdurnWoDhpZKHvRBAQ1tXWQAxZGALs33g7wrS1h37gADiHRjib4JE5UI162UDkx8gafrgta2kg1LXpDDj0GHks5TwEoxLfTqDCwk6lt9jtvB0MMJSV8muOapoWBR4wus7mtVVpO1eBFOPFtrmg6bAAKPsn7luYpi5EbqK1VwmSyAisUaOSpVaZy/5X82/rrtHHuavrgeq63R2Uskr4lp7/T9CTmhbt8RNt9G2kp+eJWAw59uH51Y/oZUMged7A6o5AdcOxz4Kcwmcax2xhyXLEzK5wyy8Z8S7p248oFuMi/oPFnt4WKhJbbeW5qkLOE5pry5spgyY1nqL5IAJWhVScQ7XrRv0ArqZxulVJDKUmfF8ZXhT1KVAoxGRjcMjkAogVx1/oMoNPIwsl1+pTxpBaxfCbxsp+il7vAJg6zlxykRJQkVm7La5dRjEwgwrKmilcvye0kH1joQvCjrBg==;B8IFTFyOEy192429x+ybpQ=="
 ---

@@ -334,6 +334,95 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-why-artificial-intelligence-is-taking-over-contact-centers.md",
+      "title": "Why Artificial Intelligence Is Taking Over Contact Centers",
+      "excerpt": "Businesses with contact centers increasingly are striving to find ways to improve customer experience while reducing costs and the burden on employees. Enter artificial intelligence, which can help contact center agents respond to customers faster and be more productive while improving customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
+      "originalUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202211/chatbot%20Biz.jpg?itok=hMCJTqg9",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
+      "publishedDateTime": "2022-11-15T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
+      "title": "Prehistoric predator? Artificial intelligence says no",
+      "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "publishedDateTime": "2022-11-15T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
       "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
       "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
@@ -1338,104 +1427,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
-      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
-      "excerpt": "Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses, such as artificial human tissue for wounds and catalysts for new ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg",
-          "width": 685,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
-      "publishedDateTime": "2022-11-02T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-google-makes-massive-commitment-to-support-more-languages-using-ai.md",
-      "title": "Google makes massive commitment to support more languages using AI",
-      "excerpt": "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "publishedDateTime": "2022-11-02T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

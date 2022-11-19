@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-17T18:29:00Z
 originalUrl: "https://www.crn.com/news/computing/scrappy-chip-startup-astera-labs-rockets-to-over-3b-valuation-after-funding-round"
 webUrl: "https://www.crn.com/news/computing/scrappy-chip-startup-astera-labs-rockets-to-over-3b-valuation-after-funding-round"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AWS AI
+
+images:
+  - url: "https://www.crn.com/resources/027b-169d1635f1c6-d5d3cb267cde-1000/astera_labs_logo.jpg"
+    width: 610
+    height: 458
+    isCached: true
 
 related:
   - title: "Astera Labs raises $150M for chips that deliver AI in the cloud"

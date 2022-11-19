@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-11-prehistoric-predator-artificial-intellige
 ampWebUrl: "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp"
 type: article
-quality: 59
-heat: 89
+quality: 63
+heat: 93
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg"

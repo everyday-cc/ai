@@ -167,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -307,7 +307,7 @@
       "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -448,6 +448,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-google-epic-partnering-to-allow-epic-hospital-clients-to-run-ehrs-on-google-cloud.md",
+      "title": "Google, Epic partnering to allow Epic hospital clients to run EHRs on Google Cloud",
+      "excerpt": "Instead, Cerner elected to go with AWS, despite being offered about $250 million in ... center Mayo Clinic and for-profit behemoth HCA, and building up its artificial intelligence and machine-learning offerings. For example, Google Cloud announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
+      "originalUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/Od7194B5yckvKHMTZrM1r_6AnOc1BJC1kBAy2vLsaII/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUwODAwMzc2LmpwZw.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1424,49 +1467,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-aws-opens-lagos-office-increases-commitment-to-africa.md",
-      "title": "AWS opens Lagos office, increases commitment to Africa",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, today announced the opening of its first office in Lagos, Nigeria. The new Lagos office is part of AWS’s support for the growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
-      "originalUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocdn.eu/pulscms-transforms/1/uQQktkqTURBXy84NWEyODYxYWNhZTUxMDJiY2IyMWQwNmM0NDI0MzAyZS5qcGVnkpUDAMzAzQKrzQGAkwXNBLDNAnY",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
-      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
-      "publishedDateTime": "2022-11-01T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naija Gist - Latest",
-        "domain": "pulse.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

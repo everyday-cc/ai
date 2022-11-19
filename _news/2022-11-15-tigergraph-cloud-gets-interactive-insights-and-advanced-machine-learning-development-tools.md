@@ -65,22 +65,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Analytics is changing. How are you keeping pace?"
-    excerpt: "Forward-thinking technology leaders are deploying a future-ready data strategy that can scale with demand and evolve with changing business requirements."
-    publishedDateTime: 2022-11-14T17:54:00Z
-    webUrl: "https://www.cio.com/article/411912/analytics-is-changing-how-are-you-keeping-pace.html"
-    ampWebUrl: "https://www.cio.com/article/411912/analytics-is-changing-how-are-you-keeping-pace.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/411912/analytics-is-changing-how-are-you-keeping-pace.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 44
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/11/iStock-1277730712.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 477
-        isCached: true
   - title: "TigerGraph Develops New Analytics and ML Tools for TigerGraph Cloud"
     excerpt: "TigerGraph, provider of an advanced analytics and ML platform for connected data, is unveiling updates to TigerGraph Cloud, the native parallel graph database-as-a-service: TigerGraph Insights and ML Workbench."
     publishedDateTime: 2022-11-17T16:24:00Z

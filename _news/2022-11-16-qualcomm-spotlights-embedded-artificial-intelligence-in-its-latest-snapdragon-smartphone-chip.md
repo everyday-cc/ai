@@ -8,7 +8,7 @@ webUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm
 ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
 type: article
-quality: 63
+quality: 67
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/7326506/2147483647/strip/true/crop/4032x2696+0+164/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fc3%2F343f2f3743eb86a24ffd9643e2a1%2Fillumina.jpg"

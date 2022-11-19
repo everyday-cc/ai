@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-im
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Impact of AI on future job roles"
+    excerpt: "AI will create a distinct dividing line of jobs that are able to be mastered if they are properly trained and taught, which will override the threat to unskilled jobs. Despite the fact that many jobs have been taken over by artificial intelligence, there are still a lot of jobs you can find if you keep learning and upskilling yourself."
+    publishedDateTime: 2022-11-19T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/VL4A0115-1-1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Viz.ai partners with Illuminate to improve quality of care for aortic aneurysm patients"
     excerpt: "Adds natural language processing to Viz.ai’s AI-powered platform to detect suspected disease earlier and monitor patients Viz.ai, the leader in AI-powered disease detection and intelligent care coordination,"
     publishedDateTime: 2022-11-16T00:03:00Z

@@ -52,15 +52,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 34
-  - title: "Cerebras Systems debuts AI supercomputer with 13.5M+ processor cores"
-    excerpt: "Chip startup Cerebras Systems Inc. today debuted Andromeda, a supercomputer optimized to run artificial intelligence applications that features more than 13.5 million processor cores. Sunnyvale, California-based Cerebras Systems is backed by more than $720 million in venture funding."
-    publishedDateTime: 2022-11-14T19:02:00Z
-    webUrl: "https://siliconangle.com/2022/11/14/cerebras-systems-debuts-ai-supercomputer-13-5m-processor-cores/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "vEf5zI+kdUFuiHDGxk+iLbTNTCPrAtLUHHwWnhI2QzsPETXNYXBKrou2/Bw3CHox8OR4KngD4HIvKm203JRT+i/QmOTZUcto+VHNlNMqxoEculwA0pvDXl3EOT24ip5KepRSqyvFieQDb+Gwv2gI6oudpk8eEoG9/ZlOWWE1U1UC+ovmN5wzD+NgZXbvWAiLmP/v6PtO8CY5InVYiNsIFavUeB9yRnEiX3KjDp43gb+5btpOnXbF/DtVoGBE8Z781/YAyIewASskTughGgYvSFrF4Blo7ruKLFDY/F679vZF2AXomVV0zW4qyzLT7p48uu9RWM7IOpwjW9TwxsAM7MxOWqlm3a+CjGI6KtgsJfB0dUwMSyzycl6OsQawjLC9Rr3LjwW+O5I42t+6KeNYnK4Y+tQVjlQow1P/DAti6mENBxTeS07Uil2GQ6oBsmUjNCeEzpGlWvLUu/+W+4zquDbjpQk87W3zeuOgngRPdYOH415tDT4jJl0oU0c3DUPvzJedNz2WPeE/OBb78INXTA==;wFC6Bk8QmQ9voNSLqLVt+g=="
 ---

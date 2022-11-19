@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-15-infosys-ibm-launch-ai-centre-in-poland.md",
-      "title": "Infosys, IBM launch AI centre in Poland",
-      "excerpt": "Infosys's business process management (BPM) arm has launched a centre of AI and automation, in collaboration with IBM, at the Infosys Business Experi",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
-      "publishedDateTime": "2022-11-14T18:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-14-infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients.md",
       "title": "Infosys BPM opens AI, automation unit in Poland for global clients",
       "excerpt": "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients.",
@@ -1393,6 +1350,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-president-biden-visits-ibm-to-announce-20b-investment-in-hudson-valley.md",
+      "title": "President Biden visits IBM to announce $20B investment in Hudson Valley",
+      "excerpt": "artificial intelligence and quantum computing. Thanks to the CHIPS and Science Act, IBM Poughkeepsie will directly benefit and be able to ensure a reliable and secure supply of next-generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://westchester.news12.com/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "originalUrl": "https://westchester.news12.com/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/d58cb652-7d2f-4be8-a0ba-43cd43c5626b.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://westchester.news12.com/amp/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "cdnAmpWebUrl": "https://westchester-news12-com.cdn.ampproject.org/c/s/westchester.news12.com/amp/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "publishedDateTime": "2022-10-06T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 12 Networks",
+        "domain": "news12.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

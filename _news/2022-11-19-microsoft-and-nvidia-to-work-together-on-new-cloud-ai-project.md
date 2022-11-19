@@ -401,20 +401,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Microsoft aiming to combat global supply chain disruptions with new initiative"
-    excerpt: "Ongoing supply chain disruptions around the world are affecting the availability of products in various industries. On Monday, Microsoft announced the Supply Chain Platform, an initiative to help combat these disruptions."
-    publishedDateTime: 2022-11-14T17:24:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-aiming-to-combat-global-supply-chain-disruptions-with-new-initiative"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Ha9XZXKHm5RyLDfEdvC4EH-1200-80.jpg"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Nvidia and Microsoft are building a supercomputer in the cloud"
     excerpt: "NVIDIA is also set to utilize Azure’s scalable virtual machine instances to research and further advances ... Megatron Turing NLG 530B provide the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video or audio."
     publishedDateTime: 2022-11-18T14:41:00Z

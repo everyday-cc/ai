@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Impact of AI on future job roles"
+    excerpt: "AI will create a distinct dividing line of jobs that are able to be mastered if they are properly trained and taught, which will override the threat to unskilled jobs. Despite the fact that many jobs have been taken over by artificial intelligence, there are still a lot of jobs you can find if you keep learning and upskilling yourself."
+    publishedDateTime: 2022-11-19T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/VL4A0115-1-1.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "IS8cY3KMfXycj+GWEYKzVZ2oXE8a81pqDuYkaDsjPm8hm8JeSN2Q70TPBWxzajRQRpCzEBSc55dwKRCAUBR0GvFb7cqlzn1y8/HGNSS5lwWyjVPWYuBjYLDkEWmvfO9+iggd2242cNhnazoVto4awpN9AsGEA3IdOh5CNSh1hGVkypVBknL3m+TT+BsEFyE4Z8CebX1dXoPHIaha9M3egqH5h316p7LGA6MivipIC0QpNJcZZHHqEpfDCTQ+6DbGsVI3UiQiQOKHY69Wii0aAQuMUfldl8+33PkJjBTSlf9g1z5cS5kOsYbWeeksyNkAJ1K62Ti8DWtjBobn3Ccuk0Qf9N5pJsE0RzAHZTjVFvM=;RrwPw9U9NH9fABZUXrZwPg=="
 ---

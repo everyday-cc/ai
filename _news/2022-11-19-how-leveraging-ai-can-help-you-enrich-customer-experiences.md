@@ -28,7 +28,7 @@ related:
     provider:
       name: BizTech
       domain: biztechmagazine.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202211/chatbot%20Biz.jpg?itok=hMCJTqg9"
         width: 1440

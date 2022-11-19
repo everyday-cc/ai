@@ -35,45 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial recognition technology has shrugged off protests"
-    excerpt: "Amazon issued a one-year ban on police departments using Rekognition, its facial search technology. And Microsoft said it was waiting for new legislation to be adopted before selling its facial recognition technology to law enforcement organizations."
-    publishedDateTime: 2022-11-14T17:30:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests-11668444305981.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/facial-recognition-technology-has-shrugged-off-protests/amp-11668444305981.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://images.livemint.com/img/2022/11/14/600x338/Flap_1_1577986738736_1668444543951_1668444543951.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
-    excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
-    publishedDateTime: 2022-11-15T04:48:00Z
-    webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?588893"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
-    excerpt: "MILAN (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies."
-    publishedDateTime: 2022-11-14T18:42:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "ZONntED1OmWJIbeeSZj4KhgHArJ58KTPUKTomDrqCg6OtdAouImjCsziPfmDgDTPRkLyNkFK1+FBd24Kq2no54lFnWLh03gnxAPuZsvjxaOm8ST+RQYzMinzN5UQWGzTFaaHQd4maWaUgCebI6tACpgdGeeMClJh6VuHqmOVPmFT+qu/mMESfhJaZfHarLcvGdrkhw73kNZyrv/BK+BFAXtlErNpgGD71vYSbjkIov/RL5ms2cxKjub+1maliw1dhRNNrQRvKIrlvECxNCsrCnwCfS8i+9nBR1EettEb1s/wkXQ/JPYVH/63yUcHKRnfXLThI7263VVkcRrej5eCYUSiim3ylIwIOMWse6Londg=;0EmyS9pGmpA8Qxh5r1gORg=="
 ---

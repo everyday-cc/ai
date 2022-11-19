@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
+      "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
+      "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "originalUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/870fb8e0-6535-11ed-957e-bd695d44829f",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "publishedDateTime": "2022-11-15T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-protein-programmers-get-a-helping-hand-from-cradles-generative-ai.md",
+      "title": "Protein programmers get a helping hand from Cradle’s generative AI",
+      "excerpt": "The company emerged from stealth today with a substantial seed round. AI and proteins have been in the news lately, but largely because of the efforts of research outfits like DeepMind and Baker Lab. Their machine learning models take in easily collected ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/",
+      "originalUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/cradle-tc.jpg?resize=1200,782",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/",
+      "publishedDateTime": "2022-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-cohesity-leapfrogging-the-competition-in-data-security-and-management.md",
       "title": "Cohesity - Leapfrogging The Competition In Data Security And Management",
       "excerpt": "The latest member to join the Cohesity Security Advisory Council is Kelly Bissell, leader of Microsoft Security Services. I've watched this market ... Cloudera, Clumio, Cognitive Systems, CompuCom, Cradlepoint, CyberArk, Dell, Dell EMC, Dell Technologies ...",
@@ -150,6 +253,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-why-artificial-intelligence-is-taking-over-contact-centers.md",
+      "title": "Why Artificial Intelligence Is Taking Over Contact Centers",
+      "excerpt": "Businesses with contact centers increasingly are striving to find ways to improve customer experience while reducing costs and the burden on employees. Enter artificial intelligence, which can help contact center agents respond to customers faster and be more productive while improving customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
+      "originalUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202211/chatbot%20Biz.jpg?itok=hMCJTqg9",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
+      "publishedDateTime": "2022-11-15T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-should-we-have-a-robot-tax-part-2.md",
       "title": "Should We Have A Robot Tax? Part 2",
       "excerpt": "In the second of a two-episode series, Orly Mazur of SMU Dedman School of Law discusses her views on the tax implications of increasing automation and the alternatives to a robot tax.",
@@ -263,7 +410,7 @@
       "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -909,7 +1056,7 @@
       "originalUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -953,7 +1100,7 @@
       "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -984,7 +1131,9 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -1079,152 +1228,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market 2022 to Eyewitness Massive Growth by 2026",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Computer Vision in Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026-2022-11-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026-2022-11-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-how-will-ai-and-5g-power-the-next-wave-of-innovation.md",
-      "title": "How Will AI And 5G Power the Next Wave Of Innovation?",
-      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. Artificial intelligence (AI) continues to permeate every sphere of our society and deliver new and improved experiences. It could be said that AI will transform every ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668409539-Myproject-1135.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-infosys-ibm-launch-ai-centre-in-poland.md",
-      "title": "Infosys, IBM launch AI centre in Poland",
-      "excerpt": "Infosys's business process management (BPM) arm has launched a centre of AI and automation, in collaboration with IBM, at the Infosys Business Experi",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
-      "publishedDateTime": "2022-11-14T18:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

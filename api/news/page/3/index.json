@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-17-tusimple-co-founder-takes-control-of-self-driving-trucking-company.md",
+      "title": "TuSimple Co-Founder Takes Control of Self-Driving Trucking Company",
+      "excerpt": "U.S. government regulators are investigating whether the self-driving trucking company TuSimple defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. WSJ tech reporter Heather Somerville joins ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086",
+      "originalUrl": "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-667998/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-toyota-bz-suv-concept-is-a-muscular-ev-powered-by-ai-assistant.md",
+      "title": "Toyota bZ SUV Concept Is a Muscular EV Powered by AI Assistant",
+      "excerpt": "This aggressive \"Beyond Zero\" EV showcases Toyota's sustainable design and brings the brand's conceptual AI assistant, Yui, along for the ride.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/toyota-bz-compact-suv-concept-debut/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/toyota-bz-compact-suv-concept-debut/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/109a15a636c7538e4e0a9a83b137bd86be2909e7/hub/2022/11/16/9aba124d-3c1f-423d-87e7-6b6d130b87fc/ogi-toyota-bz-compact-suv-concept-laas-2022-730053.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/toyota-bz-compact-suv-concept-debut/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/toyota-bz-compact-suv-concept-debut/",
+      "publishedDateTime": "2022-11-16T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-machine-learning-based-digital-marketing-tools-to-streamline-ops.md",
       "title": "Machine Learning-based digital marketing tools to streamline ops",
       "excerpt": "As the online market is flooded with competitors and user engagement requiring real-time content, fast computing in digital marketing has become crucial. Here is a list of Machine Learning and Artificial Intelligence-backed tools that help automate time-consuming manual tasks of marketing.",
@@ -149,7 +252,7 @@
       "originalUrl": "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -400,7 +503,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 501,
+      "heat": 491,
       "tags": null,
       "images": [
         {
@@ -832,7 +935,7 @@
       "originalUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1111,109 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
-      "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
-      "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "originalUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/870fb8e0-6535-11ed-957e-bd695d44829f",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "publishedDateTime": "2022-11-15T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-protein-programmers-get-a-helping-hand-from-cradles-generative-ai.md",
-      "title": "Protein programmers get a helping hand from Cradle’s generative AI",
-      "excerpt": "The company emerged from stealth today with a substantial seed round. AI and proteins have been in the news lately, but largely because of the efforts of research outfits like DeepMind and Baker Lab. Their machine learning models take in easily collected ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/cradle-tc.jpg?resize=1200,782",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/",
-      "publishedDateTime": "2022-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

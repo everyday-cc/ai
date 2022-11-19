@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Qualcomm spotlights embedded artificial intelligence in its latest Snapdragon smartphone chip"
+    excerpt: "At its Snapdragon Summit event in Hawaii, Qualcomm made artificial intelligence the centerpiece of its marketing pitch for its new Snapdragon 8 Gen 2 as it strives to build the Snapdragon name into a globally recognized brand."
+    publishedDateTime: 2022-11-16T02:22:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 67
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7326506/2147483647/strip/true/crop/4032x2696+0+164/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fc3%2F343f2f3743eb86a24ffd9643e2a1%2Fillumina.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Qualcomm's Snapdragon 8 Gen 2 Processor Ups the AI Smarts"
     excerpt: "Qualcomm is looking to deliver more on-device AI experiences with its powerful new mobile processor, which is bound for top-tier smartphones beginning later this year."
     publishedDateTime: 2022-11-15T23:00:00Z
@@ -153,22 +169,6 @@ related:
       - url: "https://www.slashgear.com/img/gallery/qualcomms-snapdragon-8-gen-2-wants-to-give-your-android-flagship-phone-an-ai-edge/l-intro-1668453729.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Qualcomm spotlights embedded artificial intelligence in its latest Snapdragon smartphone chip"
-    excerpt: "At its Snapdragon Summit event in Hawaii, Qualcomm made artificial intelligence the centerpiece of its marketing pitch for its new Snapdragon 8 Gen 2 as it strives to build the Snapdragon name into a globally recognized brand."
-    publishedDateTime: 2022-11-16T02:22:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-11-15/qualcomm-spotlights-embedded-artificial-intelligence-in-its-latest-snapdragon-smartphone-chip?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 63
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7326506/2147483647/strip/true/crop/4032x2696+0+164/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fc3%2F343f2f3743eb86a24ffd9643e2a1%2Fillumina.jpg"
-        width: 320
-        height: 214
         isCached: true
   - title: "Qualcomm spotlights embedded artificial intelligence in its latest Snapdragon smartphone chip"
     excerpt: "Qualcomm launched its latest Snapdragon processor on Tuesday for the next crop of top-tier Android smartphones—with artificial intelligence infused throughout the chip to boost photography, sound, connectivity,"

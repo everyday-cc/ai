@@ -324,7 +324,7 @@
       "originalUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -357,6 +357,49 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
+      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
+      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
+      "publishedDateTime": "2022-11-14T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -555,25 +598,34 @@
     },
     {
       "path": "_news/2022-11-08-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei.md",
-      "title": "OneMeta AI’s Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)",
-      "excerpt": "OneMeta AI (Ticker: ONEI) created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself as a language translation app after comparisons of Facebook turned Meta's (NASDAQ: META) product began to circulate.",
+      "title": "OneMeta AI's Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)",
+      "excerpt": "OneMeta AI ONEI created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1667837662.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T02:12:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29609438",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29609438",
+      "publishedDateTime": "2022-11-08T03:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -583,9 +635,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1402,60 +1453,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-could-you-get-paid-to-do-ai-safety-research-and-should-you.md",
-      "title": "Could You Get Paid To Do AI Safety Research – And Should You?",
-      "excerpt": "A few years ago he began experimenting with deep learning, the type of AI which has dominated the field since the Big Bang in 2012, when a team led by Geoff Hinton achieved startling results in an image recognition ... Some people object that this subject ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63598fa6d32ba318a208fd10/0x0.jpg?format=jpg&width=1200",
-          "width": 922,
-          "height": 1518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
-      "publishedDateTime": "2022-10-27T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

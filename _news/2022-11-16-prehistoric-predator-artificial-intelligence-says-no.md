@@ -32,7 +32,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 59
+    quality: 63
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg"
         width: 2880

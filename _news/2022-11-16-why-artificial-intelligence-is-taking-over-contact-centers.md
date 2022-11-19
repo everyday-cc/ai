@@ -8,9 +8,9 @@ webUrl: "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence
 ampWebUrl: "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp"
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: BizTech
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202211/chatbot%20Biz.jpg?itok=hMCJTqg9"

@@ -1,26 +1,31 @@
 ---
 category: news
 title: "Try out AI at MOHAI’s ‘Artificial Intelligence’ exhibit"
-excerpt: "“Artificial Intelligence: Your Mind and the Machine” runs through Jan. 8. Seattle is the first West Coast stop for this traveling exhibit, created by the Relayer Group in New York. AI is the attempt to create machines that simulate human intelligenc"
-publishedDateTime: 2022-11-17T14:00:00Z
-originalUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
-webUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
-ampWebUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1"
+excerpt: "A new special exhibition at the Museum of History & Industry explores how AI developed over the years and how it has affected our lives. \"Artificial Intelligence: Your Mind and the Machine\" runs through Jan."
+publishedDateTime: 2022-11-17T12:59:00Z
+originalUrl: "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.html"
+webUrl: "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.html"
+ampWebUrl: "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.amp.html"
+cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.amp.html"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Yakima Herald-Republic
+  domain: yakimaherald.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Healthcare
 
-secured: "YgLwlt4czy7Y9TVGK0d8vUx6obI+jkfbaNAXOI0Fb4kY1bOlw7/zWOsmZVZbCooiC6XS7X/3/kMAydstQUvXvV3dQV7FpGGBXs//OMc7tBU1AZ3m+3tw/EaddiQOWpxHYqJQsvXWiJzN7/j5/0x+lGx6X3TsUMvTxXfqEy7jGEMrsBDbqwmPOlGhI1VojeN3oDYhuWRIU3ScHsfYaaHcd2/cMr/U87QCG8ZhEKwQPFvAaX+Lb0oyhu+PTTA1Zj6Og7heiDnCkmwMRV0KbB+R7sXCL30IH6w2qQIftxtowWe1vR3OHWHyhsJUg/sCoL3FlRpk2g96jnST6VeA2VMBGhiakLSDvSXwSRxB5qushOTNGT0+ZPhJkP3O3ZJgwHZ8SkaJkVFfJVk7x0YQ0gpfXubq0tya0gD1uf8wgic8nX66UAvczaR2gfrdQFDqbD0Q9dXaK9KhrkxocDM8yigDzocKnSX+jRiHvxHo22cheppZQmFrkVPMUEMDgA7terM8rBJKk6l/DIp4UMqyY4mpnQ==;pBnrJJBAtAjiDgSpIZ030Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/1/e6/1e68e56d-d11b-5a76-b2f5-a0fd0f0adb64/63764a809e617.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "IxVo8o/SX7mh/U0F+d+jvNo/tIjktV4WAtWoptuqnxPnpZQcsnPN4sXroiX5+r6V0sILwDfsF7nYlz1hYXOsW5QWhj3UhKZj41XSPyrmVTIQVp7FpbV5UjQBYQN5YJbEmLrwQy4e4pwjIMPCMquFn27I3ps3Nkg9ObiquYxoABQZhnBDjPeY5GckFsh1lH1pJ91z5bCefNsJCO5wuJVzR33kntNfBihM6GrSedkTYu1WnwS5SX2ddaUJfn2btdltgixNW88ZSGp/ha58fOX9aCOpMSjEuIB+qdA9V/kojox2PNftQoOKb+zSSfkWuZOvE30Q27gyFuK+iaZV6phNtRUdMJx+UfsnYed4GdDVExE=;r+uqTyo0RblIBV3vj0QGhg=="
 ---
 

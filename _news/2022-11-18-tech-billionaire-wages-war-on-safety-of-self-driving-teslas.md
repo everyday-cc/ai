@@ -39,15 +39,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Waymo is using its self-driving taxis to create real-time weather maps"
-    excerpt: "Self-driving cars frequently have trouble with poor weather, but Waymo thinks it can overcome these limitations by using its autonomous taxis as weather gauges. The company has revealed that its ..."
-    publishedDateTime: 2022-11-14T18:44:00Z
-    webUrl: "https://www.engadget.com/waymo-robotaxi-weather-station-maps-174012064.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 49
   - title: "Zoox: Autonomous vehicle not in self-driving mode at time of crash"
     excerpt: "A fully autonomous capable SUV being tested in Las Vegas wasn’t in self-driving mode when it was involved in a crash earlier this week, company officials said Friday. On Monday, a 2016 Toyota Highlander outfitted with fully autonomous driving technology ..."
     publishedDateTime: 2022-11-18T18:44:00Z

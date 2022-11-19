@@ -2,12 +2,12 @@
 category: news
 title: "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR"
 excerpt: "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028)."
-publishedDateTime: 2022-11-16T21:48:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/16/9715226.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/16/9715226.htm"
+publishedDateTime: 2022-11-16T20:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm"
 type: article
-quality: 14
-heat: -1
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 related:
   - title: "Automotive Artificial Intelligence Global Market to Reach $7.78 Billion by 2026"
@@ -28,16 +29,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "Automotive Artificial Intelligence Market to Hit $14.23 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global automotive artificial intelligence market size is expected to reach USD 14.23 billion by 2030, advancing at 21.6% CAGR, according to a new report by Grand View Research, Inc. Artificial Intelligence (AI) in the automotive industry is driven by factors such as government initiatives to incorporate autonomous driving and the growing demand for autonomous vehicles."
-    publishedDateTime: 2022-11-15T12:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-hit-1423-billion-2030-/2022/11/15/9713017.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
-secured: "+iaAoYiSPhS+85gKncJpo+aLsz0zmDXExyNyzohH/8yxi0MJ/Xs6W/ZeRg3Juo05Sv+bjlSVZWl7HehFWL8XAvpqxkP534bDEAGsr9ove3nltSD0Spu8N6ay/qNG9GtERwhli4SVh47nUwU/riUjW+IXiuJ6IFdT3YINPlKvZfmI6wGz3lwupNsYWu2gRFvjQQlVK369OquH3SCoe/gXiM7QIQM9NDkZJ0HHiQqrUmXnNKxOzZDEK03XlMOBwIan//nC4zBa2TIQDd4+4pKc4aa/ldllfRCa1S9owX1KyDdOhANmeQqkk593KqdfU2DXWSnRR6Y+6bi836jTT4AdVz0g+kGPHv8cSgWE4VldFfA=;WPPC9SLhDI8qjXuyXmKerA=="
+secured: "W/NTU9wy5H9XswmpoQ+QHa/NM6QWJxtAl+d0RZcU/5WvLvuHn8FtA7qSQHNH+OQaUpnI50vAJRAv8TUka+oiGum30O2HHO9rs/CAUsOS5JU/qT6/DtbFF2qgRk0dqecdTnTfI7jjpYwDIAwkF20SaSb5S1OgkCHjmkxpYxubLYiMekJo6yCVHnBaQiVhmi3I+ZN/Amtp0SRCyYSR59htjaiIdhoFamAF9ePGjk55PwLDdCatYpF5yuoJM8Rm9URQ0rKuPg7eE/9VXTisOKhxgKRYezYbBkduF/JgM6cvYXK0EPssdLcy8ROGzOv/KDqdaslcbirRxBo1hUXr3xAVaZzfMED3VP7+Lacfa0P5kks=;tJIyN6iRiJ35/p9p1vltuA=="
 ---
 
