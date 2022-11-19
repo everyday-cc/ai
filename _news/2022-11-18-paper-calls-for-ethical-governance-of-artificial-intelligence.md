@@ -7,8 +7,8 @@ originalUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a3104917543
 webUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: 中国日报网
@@ -26,20 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI governance is critical for building more trustworthy, explainable AI"
-    excerpt: "AI governance is about making sure that companies are aware of what their algorithms are doing — and have the proof to back it up."
-    publishedDateTime: 2022-11-14T10:19:00Z
-    webUrl: "https://thenextweb.com/news/ai-governance-critical-trustworthy-explainable-ai"
+  - title: "In pursuit of ethical AI"
+    excerpt: "The importance of ethical AI is highlighted from not only a technical or organizational standpoint, it also takes into account individual and societal perspectives around some serious topics"
+    publishedDateTime: 2022-11-16T09:14:00Z
+    webUrl: "https://www.digit.in/features/machine-learning-and-ai/in-pursuit-of-ethical-ai-66028.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: Digit
+      domain: digit.in
+    quality: 54
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F10%2Fibm_featured_image_3.jpeg&signature=1343b80501a08ef000d3771f7fa00739"
+      - url: "https://static.digit.in/default/602a801211e3413a5367bc1facd09712ecaaf7d5.jpeg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
+  - title: "China calls for strengthening AI ethical governance at Convention on Certain Conventional Weapons"
+    excerpt: "China on Wednesday submitted a position paper on strengthening the ethical governance of artificial intelligence (AI) to the 2022 Meeting of the High Contracting Parties to the Convention on Certain Conventional Weapons held in Geneva."
+    publishedDateTime: 2022-11-17T05:17:00Z
+    webUrl: "https://www.globaltimes.cn/page/202211/1279763.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 21
 
 secured: "3bd+XwuKjm0ztcoYzFEdkZ0h5q02kXz6KWKHieRalsGhy+r/Bxv7dmUOhkSDfFummtigVME8z0diRag1bevM2LrzyTgJw/WzxdIfF60BMO/W24AKzqefX668Qf2zUdE4InwGttFmdzw79+/ZM9Yzesv436hQ5GWHxifqStr+3oTskRg5Sqjl4JrmwlkNwGEU7Ov1H1YjVF8uqUTHeMyGG/cZxcm/1ynmOgVyasyS4FUVtbay7BxfS/sapfNA13tZgkPwQil/T/OafC4nF53WzLjJxEZ8KdqI9feRkFVeCvQfZKgihvqhP2Yp1WxbtTJ2Rj12+paqrAOMuCxdH8q4eHbIxQe3q62JBBSW1op/ahKFIew+Hd2V45G3r2whtAXftWEhBD2YHDSMIPRj1BDUKZ1J7ufFluIBOt8UKPiAShcKZAdq2jAQIZpfdPAP+V+IywBZhgJZV/9i4xqyLSV9tqSxLo+Nj0Y46AVEhLikK1+eAT3v/EE8cCpGd9JI6MvezbxWvOX2q59zfqxuPL/ebA==;I4OnVTd1MxS2KdO3kcWrnQ=="
 ---

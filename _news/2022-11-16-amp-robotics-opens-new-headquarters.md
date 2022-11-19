@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Your Robotaxi Is Almost Here"
+    excerpt: "Autonomous vehicles have rolled out like a series of waves, building momentum over time. They may now be headed to roadways near you."
+    publishedDateTime: 2022-11-19T02:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 24
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/7nc1d40MYZOIdUyKww5VYk/c0c2a7fa3a5a80c5faeeee98da031b66/GettyImages-1219141234_.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "5PztQJettO3KUhYiNEkBd3iKtSMVoKpwQKNDiXqHKQjDSvav7r1O4ByVuC0fQ3H0pGdEwsCJVYlPBvWTneJKMkAc00ewVhPvA36HM5DBhlX2vvbqaaMrFN1cciwxqAAHJ22bJZm3/i55J7TVv2JQ7IK3W1ACjYs8Q2BnNnSXRkOMDaQ9yO/osnbXF0SL867qg3DaIuN/1rog1RK031fCmAr1GPdQswpp9Ah/d3C7N7+DTXnw1F6B841y4wBGFBOJAwL42k7qItQ8RpCbHFlqQ1Ck5Svi44aufmEctPEUmX4EG7RdRg2MCbM4p8UVeJinj5DRNaI+S9BiDUS9alUZpEv+s3GIDYJfT/x/MZ1hW4Q=;iDPDHwvAuWze6/2wV9MSkQ=="
 ---

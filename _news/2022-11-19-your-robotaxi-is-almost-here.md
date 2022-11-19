@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
-excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
-publishedDateTime: 2022-11-17T19:36:00Z
-originalUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
-webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
-ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
+title: "Your Robotaxi Is Almost Here"
+excerpt: "Autonomous vehicles have rolled out like a series of waves, building momentum over time. They may now be headed to roadways near you."
+publishedDateTime: 2022-11-19T02:00:00Z
+originalUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
+webUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
 type: article
-quality: 53
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Discover Magazine
+  domain: discovermagazine.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
-    width: 1200
-    height: 630
+  - url: "https://images.ctfassets.net/cnu0m8re1exe/7nc1d40MYZOIdUyKww5VYk/c0c2a7fa3a5a80c5faeeee98da031b66/GettyImages-1219141234_.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -58,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
+    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
+    publishedDateTime: 2022-11-17T19:36:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 53
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amp Robotics opens new headquarters"
     excerpt: "Amp Robotics Corp., a developer of artificial intelligence (AI), robotics and infrastructure for the recycling industry, has opened its new corporate headquarters in Louisville, Colorado. The new location unites the staff from the company’s previous offices in Louisville and Broomfield,"
     publishedDateTime: 2022-11-16T00:00:00Z
@@ -67,21 +80,7 @@ related:
       name: Recycling Today
       domain: recyclingtoday.com
     quality: 34
-  - title: "Your Robotaxi Is Almost Here"
-    excerpt: "Autonomous vehicles have rolled out like a series of waves, building momentum over time. They may now be headed to roadways near you."
-    publishedDateTime: 2022-11-19T02:00:00Z
-    webUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/7nc1d40MYZOIdUyKww5VYk/c0c2a7fa3a5a80c5faeeee98da031b66/GettyImages-1219141234_.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
-secured: "QsPP2pwjdOxlZ551P+NLILxRAN0nhNSESULJ9azRzntr5gaKN12kgi8fRrbKEiJZol1FnImooz9TEUhcOTBw/7TcCkaOwfvP6Ak0wC99yDMpNn6fbApUOeZ2E53eeAKnGfsOaxEbat7q7omV1jJ+VfIcHLI/ktbJ9DwTFRmkzJHNLvMYxhzzdTuZ6ECLdtMIQOqTuoCLuCZYXkUVy+HMFaB9ge3Ah3cm1M8EH3Le8dPMWMpIhSnVuNo9C57QGwu87FVBta2jn9Qnq+o+o4gSu6d1Gyc14wv0w0bFnrdbfOkNlP1tAPQG5IMtV+VNQXYfIVeCtuGNEuFLYfX9ujoWrKzI/Tuc7qP8yg5QddmHaNY=;hrdjMHXbL8t09CZQeGRZ5w=="
+secured: "MsKL/8TDxUx3EZYDspeW1dVURUpVkgVj6yFfawc4R+T2JHJY/C0gce6vGFsJQAfgcMb2uYctx0i5Dl0RC7tdIIEJ6fpC7FbIJO+1BjrKDf1F2a7wsQQphonazCnJemDjDp+FE2HzrIxbEEYlH1Z8vdeRG1l1U/3m8Zs8LEvVYUA6sGshZX46fNIyOjWEc+9J7riEGArNrIxn5S7PoFhA074BvPLOfdXd1JzbyqHpg5ka2G6eAYd+WCJydK6UU1Ig/2JWx/YLun2qLbCTzvW+FiMTPa4qWG3YrXaXOkFMO8WjnK3HQkTY5ijljIaED+7Xo+ZSmEj7uyH48ibfnkKPxRYVEahI03V10pWw7a42WO0=;U0T4rK8X/+6kHQvPiGQoyw=="
 ---
 

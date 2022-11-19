@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-hel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-help-understand-llms/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 792
     isCached: true
-
-related:
-  - title: "Why is AI so hard to understand?"
-    excerpt: "There's something about AI (Artificial Intelligence/Machine Learning) that seems hard to grasp. Even engineers, programmers and scientists can find it a bit baffling."
-    publishedDateTime: 2022-11-14T10:06:00Z
-    webUrl: "https://www.redsharknews.com/why-is-ai-so-hard-to-understand"
-    ampWebUrl: "https://www.redsharknews.com/why-is-ai-so-hard-to-understand?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/why-is-ai-so-hard-to-understand?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 39
 
 secured: "YWFMR375tInjRogZX+rfxYlg2QCCm7Ib/vHhvt0UvXKOiEiTpN5o0GyWVNxiEn+UD0nTJZ0r8XUIW677XXphRryFmrhKuw4JEi9iQMzfOqSQzb5h7jtuCyN33AjsCAYOcvQi+4g0cAdD5huL+E6T7LF5pRb5RSrZI3FfxunOHnCS6bTUv33w+Ueq2WPSRzynI+77HKGWK9ye6JhARqMCMaIhL8etAfoNv49HQaFhuZupWPyuAFMPuTXdQ/j02/hxKKSScKFBRR2TnfsTGgNgfj3P1/av/yZcA/lu5Pulr9vHR+/HX8aBXwhlgTDCyjxd5611Q9REc8vXqaviUrfM6t955oypB4BWfQPLVFUg2hO0a3VwzcRy26eVtxuLYwul/REgzvGGvLuwDj6yeNkvSwO9fc2HpOke7ZiVHkSefgbXuKizKuYzB1MZO991mpGM6XwX/hJZbq5gEBYPnp4HydUS69Ki/FP+oUOwhdh4e9V4ZiztpL/y9hdtYcR6DWA8O08HgvOuu6XjkRzMFD1Kwg==;HBp1rPlpuQSVot6ONKX2tg=="
 ---

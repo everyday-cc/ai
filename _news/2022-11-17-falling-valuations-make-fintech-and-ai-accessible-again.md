@@ -171,20 +171,6 @@ related:
       name: Forbes India
       domain: forbesindia.com
     quality: 24
-  - title: "India FinTech Forum Unveils 23 High Potential Fintech Startups for IFTA 2022"
-    excerpt: "India FinTech Forum, a not-for-profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high-profile jury this month."
-    publishedDateTime: 2022-11-14T09:55:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/india-fintech-forum-unveils-23-high-potential-fintech-startups-ifta-2022"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 21
-    images:
-      - url: "https://financialit.net/sites/default/files/india_fintech_forum.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "IP9sMurd+sF+7jaJLwgnl3cYdTR+rJX/RqRTSmnSjgUfxGu3fzMUU3Qt76jsU0k1NStD7LIn2Il/TY+l/OT4qaQJBgBm65O3v5FgQpkYUkLfwvORNJWpVJBHe2vSgWCG06+zljryItuIeX+NK2PFnfHi8mVDrH2nmUE5UBvC3v417uf3eWK+DhBnIJ98q3Pfi7+eTT4ikdTnZ6svV6ijMnLlixVdZoh+NWwuuqfYyagB/8F75Eh7Ltm9awmgcphHwEDlBMRdEzukqTOZKcFlf3OAn/oDRbAmyxm6kI4FAXJXkBYCcLZr9rc8c1QJoKMPKv3qVcN+wB/nZXIWjkkOP62NRWfAveA4gneWNmsk5sfS+U6ieqNrGJ6NDMp9c0rcAqkeNkJPrFtA7KH+IyPExJFQN12CaoDURFlyNq2hHIwvuVxO2fXL01vvipq09pKEg827tYL0hEZGQ3rwzN2GaHoStH3uK02Mdk6g6gES2fsPui3yiZ6aWjL0lEfQOlEV55rzgyyxN7JYi6jMFWPE4g==;/abNP77A2IpKaAiNOtYx1A=="
 ---

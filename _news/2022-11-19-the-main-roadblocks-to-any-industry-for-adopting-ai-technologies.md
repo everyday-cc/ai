@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/the-main-roadblocks-to-any-industry-for-adop
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Impacts
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How can artificial intelligence better the online gambling industry?"
-    excerpt: "One of the latest technologies that are starting to be used more and more in the online gambling industry is artificial intelligence (AI). AI can be used in a number of different ways to help improve the online gambling experience. It can be used to help ..."
-    publishedDateTime: 2022-11-14T10:02:00Z
-    webUrl: "https://www.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334"
-    ampWebUrl: "https://m.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/519160"
-        width: 640
-        height: 428
-        isCached: true
   - title: "White paper urges governance for AI school grading technologies"
     excerpt: "Automated grading technologies could soon be rolled out in Australian schools but without robust national guidelines and an independent advisory body, some schools could be left behind."
     publishedDateTime: 2022-11-16T16:28:00Z

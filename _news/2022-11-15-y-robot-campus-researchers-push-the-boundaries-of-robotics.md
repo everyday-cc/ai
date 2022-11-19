@@ -7,7 +7,7 @@ originalUrl: "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-pus
 webUrl: "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: Recycling Today
       domain: recyclingtoday.com
     quality: 34
+  - title: "Your Robotaxi Is Almost Here"
+    excerpt: "Autonomous vehicles have rolled out like a series of waves, building momentum over time. They may now be headed to roadways near you."
+    publishedDateTime: 2022-11-19T02:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 24
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/7nc1d40MYZOIdUyKww5VYk/c0c2a7fa3a5a80c5faeeee98da031b66/GettyImages-1219141234_.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "kvviYFsGvb+3XTQHYUWUw/xoBCkNbHd0u9D+sZAvtQmtD8L9TiIcWWmVNMWSjeQeYV9lqFyW0Ub6uY1sMHzCThpRZEIIuzZPmCKKkwJ+D2ILrMZ1zHL1HBNCe14XMueTVtT3jUqB6CrIBVnXdLSb+0Ya9H1HbnfS02IinVMVlPY411nIbbKa/+iK3UaL0mSVnKx50MJ1zgdCEHZFEN7X0IxZ/DpDBM1azeUkugT9Rl4aRfi8g50NTDYBrfjyfh0qwxyk9SRc6KGyDQPSrS+oHpiFVGsNd1ZKGY2dcJ5cjmGlVJl+GXs+1ZnhJiYODLX/aoyATGec+AjSX1zk69UObnXngNdVtjG02JnteJ7kzA/c0FfINdR7DeQfOb592mzg8ue4OOokbbeLFB90sCW/um8wekgtYSxEhDfIxppNN8bfgw1TLNUAj7rqagJ/j9lDR+WJqFNIB4J0aveWsLSgpmNQD7ZHRJBuNbzqMD4jeg3l/+eAXDmpVNuU1YVVpZJKcJI43NKJHpU+LpJvbZhObw==;owjd+GTftCXEAHUGoWomAw=="
 ---

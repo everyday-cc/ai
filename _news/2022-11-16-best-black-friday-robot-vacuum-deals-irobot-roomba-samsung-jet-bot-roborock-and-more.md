@@ -67,6 +67,20 @@ related:
       name: Recycling Today
       domain: recyclingtoday.com
     quality: 34
+  - title: "Your Robotaxi Is Almost Here"
+    excerpt: "Autonomous vehicles have rolled out like a series of waves, building momentum over time. They may now be headed to roadways near you."
+    publishedDateTime: 2022-11-19T02:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 24
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/7nc1d40MYZOIdUyKww5VYk/c0c2a7fa3a5a80c5faeeee98da031b66/GettyImages-1219141234_.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "PhEF6zIJvxZTP4wq9yvHckKGLsUP6Pv4l8E5ihLPtoktk7P1BwrVPvfsvAdoB72HEk8axzAwacNA2dEGr3lkg5noaD3PCuKpK8oJCR64buAy4VOvKBq2DqS8tqdppbinHrfo34GnxSIloAtUwszt1sBzrKWBTNMQtyHOSXzqkgJIz+TpyN8++QLBIPyQ12ib47vC5aT3XKIZuIiXk5PKFU20AtSBnVgX+xjQe0uKB9DBqHGTdlK0Z2Zu3p9s+0ngQjUhmi5EpMQI0sNbY0yAX3S7ouoFuJI3dRgG+Exqm8j/W8kOCxXsybP4gB7W8U6p/CPdZVwYJWK4BY47WuXJVj0H28ceS/NCr29m6aK4zHasgENw3HfsS2/TKJ3YdLdLCpommm2g/WJO40ZuQzLfAmCoMzkCSKNX3K2zF7ilWLE5Q4Yh6E9xyk/DgfO5haNfkfxLER6pktC5v0x4Ehx+8dUZSPiRjsEZrIbGnWtyWcXe/NAHVcw9l95acGWqjo8pXjrNZVCamlMGA5869a4z+A==;WPOMJXyO9R787/46DBAiEA=="
 ---

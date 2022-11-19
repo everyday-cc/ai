@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kshb.com/news/national-politics/the-race/how-artificial-
 cdnAmpWebUrl: "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

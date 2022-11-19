@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202211/1279763.shtml"
 webUrl: "https://www.globaltimes.cn/page/202211/1279763.shtml"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Paper calls for ethical governance of artificial intelligence"
+    excerpt: "China has shared its positions on the supervision, development and use of artificial intelligence, as well as on related international cooperation, in a paper that calls for strengthened ethical governance of AI,"
+    publishedDateTime: 2022-11-18T02:10:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 56
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "In pursuit of ethical AI"
+    excerpt: "The importance of ethical AI is highlighted from not only a technical or organizational standpoint, it also takes into account individual and societal perspectives around some serious topics"
+    publishedDateTime: 2022-11-16T09:14:00Z
+    webUrl: "https://www.digit.in/features/machine-learning-and-ai/in-pursuit-of-ethical-ai-66028.html"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 54
+    images:
+      - url: "https://static.digit.in/default/602a801211e3413a5367bc1facd09712ecaaf7d5.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DXAaFImCPgIshmR6CDAmMjGkA+Aq292ogi2tPeIbHXTILGM0yRcOXA18AWS/Qnw1Rc9TinK1QtdfJoaXuLtNBBAVIkJV97Vo7SUgydW8d7sWAL+KPllDzcBsKxwmXEb3f7Dp/tVxSS/MYReQ1YE43Utx8C9RPpNW5E253dZMC1+mQjK8t4SyLHYfGYFmZQqG9kgsStBCCFiXiqfhz3ccEml1TUwLRZziW/bMDCaxfyPO/Iw/eNC0pWOUsJ7QJnoaNTC+j/ogMuU94NDQwDTtYpIOHMUjwBIFQmeDUsOJYRQGi7VqI0NBb+vluckNsfTcvPoyeKUw3Jv5L2ZLMngWexY6xeNPSLtk9WYF4Lx2fPZC7si+iUSppt5GWPWf6BTS7lcCNoXUugYvkL45+F0PBGy8Xdskydieg/3bVWBkW9FO4IQG2sJ/lN8s+afzZU1McGZRGJJfeay4vR1cTQTGYx/TrCOhaKPkDNUPPWu6hz/c4OlC8amKWo548X/OnsKQvEhS6MK6RNIiDvDpPhtSlw==;wUnxTfCLRtsiVGqA+H8Veg=="
 ---

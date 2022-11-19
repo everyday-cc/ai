@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-19-the-main-roadblocks-to-any-industry-for-adopting-ai-technologies.md",
-      "title": "The Main Roadblocks to Any Industry for Adopting AI Technologies",
-      "excerpt": "In modern-day society, AI technology and systems have been applied across various industries, from robotics to automotive ... Are you prepared to start... Both Solana (SOL) and Aptos (APT) were exposed to the collapse of the FTX...",
+      "path": "_news/2022-11-18-paper-calls-for-ethical-governance-of-artificial-intelligence.md",
+      "title": "Paper calls for ethical governance of artificial intelligence",
+      "excerpt": "China has shared its positions on the supervision, development and use of artificial intelligence, as well as on related international cooperation, in a paper that calls for strengthened ethical governance of AI,",
       "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/",
-      "originalUrl": "https://techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/",
+      "webUrl": "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://techbullion.com/wp-content/uploads/2022/11/pexels-tara-winstead-8386434-1.jpg",
-          "width": 640,
-          "height": 427,
+          "url": "https://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg",
+          "width": 720,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/amp/",
-      "publishedDateTime": "2022-11-18T09:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T18:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,8 +92,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
       ]
     },
     {
@@ -738,7 +739,7 @@
       "originalUrl": "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {

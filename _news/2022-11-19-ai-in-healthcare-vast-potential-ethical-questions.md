@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-eth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
 type: article
 quality: 123
-heat: 163
+heat: 164
 published: true
 
 provider:
@@ -75,6 +75,6 @@ related:
       domain: beckershospitalreview.com
     quality: 19
 
-secured: "tt1TeTaFoTwThxXZGBHbgCMI1eLHUDIShSUev31NUnRu7LUZo+gok7VOeAovHmnr4kpZDeft28BUA7/st/n/modc3CP2BDY37SXsofpGNtXtDs6Ov5WIl7E2bhurCckbNBJKbpmzhuNzAgDx4pWOMP0wl5Sx0NUkw9oraUEdL3DH85LEXgTkgPNrdLYNT9TpCPDobIrzpofNI59kX8pZo+Z+Tfi56ehLl5jziDh0Kq+fUA0srT0sSJp43pjKX06H8Se+tBCZLwqA73eu6OP2v3ueYxRmFjXiy/Vo9ao1rhLsMg4QwvinknjFoY5+HBQQkJmki09aawR+dp0h3kYWmdFrog+xtIHh/DypwDRE94w=;ERSe0SliEmB3X6YXNiZS9g=="
+secured: "uSL0+HqUYJ20TWsPV/Um5uwEB44u99RsI2LxH+phSbc2HuAOEgdDcJRWBTZ1x2rVj6J1InIwInq5b1Q2tc7JHyPTrN0t4eTjixBIQkqs/jqrbCOp32XtusEROmePjhFa8V8A5EYBGyltNLHcdjGoofdwItu0mycPuh4pdsaiHLcDMZONud9qglmco0zGBd9aQdcTQ5s1wpPfrkW2TFGFFUt3AcRh5lkgu8JC6HiAnmmB39wWVMgB20DWWZW+4mGIWwzwh8bX7ya/+Hiz8gErKxkBwREEJPqfKgvEvkhEbxGoWa6f1Dnt2o1zt8y6jgH8sHEJMM5e9V5lIQVQFUUNfFUjpFuLXyVFGZl88Xjx54O2JbKdHCRoss75oKsUkqe0Q1lMHOariATC9C4mE0hMmO6nAD6H96Mc0ZNDbi1KQQ/mlgoooqSNyWdA3gd0GTSzlFThEoxLnuf9MEGaquNZymJ+qdsb6e/yS5jZwwnupl6lAtjnBdI40pFA2hYCohT5A0lXcdCW1Z9vkV40GBr98g==;X8XSRg1j2QICybECKOHwYw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-10-natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026.md",
+      "title": "Natural Language Processing (NLP) Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Market\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026.md",
       "title": "How COVID-19 Impacting Artificial intelligence (AI) Chips Market Globally 2022-2026?",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial intelligence (AI) Chips Market\"",
@@ -1094,57 +1146,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-anything-world-raises-75m-to-assist-content-creators-using-ai-based-animation.md",
-      "title": "Anything World raises $7.5M to assist content creators using AI-based animation",
-      "excerpt": "Anything World has raised $7.5 million in funding to create an AI-based animation system that creators can use to be more expressive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
-      "originalUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/anything-Environments_Forest_3_colour_full.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
-      "publishedDateTime": "2022-11-09T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

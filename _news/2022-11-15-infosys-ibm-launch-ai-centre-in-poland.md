@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-cent
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Indiatimes
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Infosys BPM opens AI, automation unit in Poland for global clients"
-    excerpt: "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients."
-    publishedDateTime: 2022-11-14T10:29:00Z
-    webUrl: "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/13/full/1649873871-5587.jpg?im=Resize,width=480"
-        width: 480
-        height: 359
-        isCached: true
   - title: "Infosys (INFY) BPM & IBM Launches Center of AI and Automation"
     excerpt: "The center will allow both Infosys and IBM clients to analyze workflows, design AI-infused apps with low-code tooling, assign tasks to bots, and track performance on the go. Further, they will get hands-on access to various digital solutions across the data,"
     publishedDateTime: 2022-11-15T16:38:00Z

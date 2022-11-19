@@ -753,7 +753,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1142,6 +1142,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-infosys-ibm-launch-ai-centre-in-poland.md",
+      "title": "Infosys, IBM launch AI centre in Poland",
+      "excerpt": "Infosys's business process management (BPM) arm has launched a centre of AI and automation, in collaboration with IBM, at the Infosys Business Experi",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
+      "publishedDateTime": "2022-11-14T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy.md",
       "title": "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy",
       "excerpt": "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary.",
@@ -1190,49 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-y-robot-campus-researchers-push-the-boundaries-of-robotics.md",
-      "title": "Y, Robot: Campus researchers push the boundaries of robotics",
-      "excerpt": "The Robotic Vision Lab focuses on using artificial intelligence and machine learning to achieve vision in robots. Their research spans self-driving cars, facial recognition and food inspection. Casey Sun, a Ph.D. student in the lab, explained how Robotic ...",
-      "sourceUrl": null,
-      "webUrl": "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/",
-      "originalUrl": "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://universe.byu.edu/wp-content/uploads/2022/10/2203-65-4-1920x1280.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Digital Universe",
-        "domain": "byu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

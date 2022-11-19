@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs
 webUrl: "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -26,6 +26,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Meta takes new AI system offline because Twitter users are mean"
+    excerpt: "Meta's Chief of AI wasn't shy about engaging on Twitter after outrage from users caused the company to pull its brand new \"Galactical\" AI."
+    publishedDateTime: 2022-11-19T01:44:00Z
+    webUrl: "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fyanlcharmf.jpg&signature=af8e03842656b82fe31d9be4b4e30af2"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The Download: Twitter may only last weeks, and Meta’s unforced AI error"
     excerpt: "Plus: who pays the price for climate change? This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Former Twitter employees fear the platform might only last weeks ..."
     publishedDateTime: 2022-11-18T13:30:00Z
