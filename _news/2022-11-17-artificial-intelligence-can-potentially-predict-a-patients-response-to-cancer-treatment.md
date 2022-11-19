@@ -39,14 +39,14 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine Learning Can Help Predict Patient Response to Cancer Immunotherapy"
+  - title: "Machine learning can help predict patient response to cancer immunotherapy"
     excerpt: "It uses deep learning, a form of artificial intelligence, to recognize patterns in large volumes of data. In this case, the data is the amino acid sequences of proteins called T cell receptors (TCRs). TCRs sit on the exterior of the immune system’s T ..."
-    publishedDateTime: 2022-11-16T10:00:00Z
-    webUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
+    publishedDateTime: 2022-11-16T15:44:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/971463"
     type: article
     provider:
-      name: Johns Hopkins Medicine
-      domain: hopkinsmedicine.org
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 17
   - title: "Machine learning can help predict patient response to cancer immunotherapy"
     excerpt: "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades. Now, researchers at the Johns Hopkins Kimmel Comprehensive Cancer Center and its Bloomberg~Kimmel Institute for Cancer Immunotherapy are one step closer to solving that problem."

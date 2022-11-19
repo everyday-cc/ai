@@ -1,33 +1,44 @@
 ---
 category: news
-title: "Israel’s OurCrowd to Launch AI Business in U.A.E."
-excerpt: "The venture-capital firm is partnering with Abu Dhabi entity to invest $60 million to expand its operations in the Arab country."
-publishedDateTime: 2022-11-16T04:20:00Z
-originalUrl: "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940"
-webUrl: "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940"
+title: "From artificial intelligence to business intelligence"
+excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
+publishedDateTime: 2022-11-19T22:30:00Z
+originalUrl: "https://www.businesspost.ie/commercial-reports/from-artificial-intelligence-to-business-intelligence/"
+webUrl: "https://www.businesspost.ie/commercial-reports/from-artificial-intelligence-to-business-intelligence/"
 type: article
-quality: 67
-heat: 117
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Sunday Business Post
+  domain: businesspost.ie
 
 topics:
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://images.wsj.net/im-667365/social"
-    width: 1280
-    height: 640
+  - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "Israel’s OurCrowd to Launch AI Business in U.A.E."
+    excerpt: "The venture-capital firm is partnering with Abu Dhabi entity to invest $60 million to expand its operations in the Arab country."
+    publishedDateTime: 2022-11-16T04:20:00Z
+    webUrl: "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-667365/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Is­raeli VC firm Our­Crowd will invest ­$60 million to start an A.I. busi­ness in the UAE"
     excerpt: "Is­raeli VC firm Our­Crowd will invest ­$60 million to start an AI busi­ness in the UAE. CEO John Medved speaks to CNBC for more."
     publishedDateTime: 2022-11-16T06:53:00Z
@@ -41,20 +52,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107152442-16685880061668588003-26611735275-1080pnbcnews.jpg?v=1668588781&w=1920&h=1080"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "From artificial intelligence to business intelligence"
-    excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
-    publishedDateTime: 2022-11-19T22:30:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/from-artificial-intelligence-to-business-intelligence/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
-        width: 1200
-        height: 675
         isCached: true
   - title: "OurCrowd expands Abu Dhabi investment operations and launches global AI hub"
     excerpt: "Expanded OurCrowd Arabia operations will manage emerging market deals for existing Abu Dhabi platform OurCrowd’s Abu Dhabi team to expand to approximately 60 over four years to be based at Abu Dhabi Global Market (ADGM) ABU DHABI,"
@@ -96,6 +93,6 @@ related:
       domain: benzinga.com
     quality: 12
 
-secured: "QPXhQCn4kd1ST5VcrW5ccZmwZ76VoVGjTFLCirMyoe+tpGk4eveqM+m18sNtrUcxdLtkQq7uHrfFaB7qN36ZOkAKcmBrOkWaL0ekzIYMwJMa0H6kI+QH0o7Gmi6fN7aC8YFSTWVaVATtKQ4OiDjBM79UaSs4Lg40XD8rTfYxNActA+sV1O+3VVQ6RfEP2X+nlvw9k1iEiXBkE8ETgjV+C1BGULKysQWG8j3vOyVzTrfQBE149Ri8c0vKLRW6px9ZTvUmSHBez61SNkJao2bT40iC5hJReTAH9NdldMseVTTxI8fKPtQcNGY+RY4qQrI8lNxHN7XVcyjpZwxW/npCFLZnKSNNa7UTH1vByDmcANSMOPF1uti0a7mDG98AuWePVc/rYyNHL4SbSW/pDmlQ73vt7YrmuMAvPGYr6whnMUfLbTM8hhcBnRgrLxa3G8OcMn9c6dQ/5qnBBOm99zWgXFGUOxqrYsqU7oiTDq0q2jx6zGBn6rTeJ+iLXbcuUsYgt8qEDc1QKxSqxqRH+Lfytg==;4XlwiHBLyPm6Q5f7AFHO5w=="
+secured: "YDprv4xxOzQPpgGY0faMJs3AquyyMMRfdahllh9t6J8Ovp6b0FY6azggl1FunujpHmLwtlgF5MEq21VUKH5+Dbqo2tdOxG7MF7dUmfMpHrA/mDKIkNyLqxf7gsVJDbQ0/vNlz2T7kQTTQeTkqWNP8ujOO82+eU3eUYN9mPeHyB6+f9Yvr2f/+LkSXPgQ15LpVwEZRJLCRkdU+H+RRrQHCzkzzYcmo+G2sXDnkoF0ODhXkjpIgdfhWFR1W+UlN/bnZGmCuGy+r9pyHBW/oIgSTu9+iUaxEL0ST2SwiE1UUepfLISH+Qw7W6PDzkotFbGcuc+5kYd5TUvgimhc2UnWkdaO7mnlmp1aINJ7xTnQqQc=;HAYiTrk6CEX5Dr44X0WmmA=="
 ---
 

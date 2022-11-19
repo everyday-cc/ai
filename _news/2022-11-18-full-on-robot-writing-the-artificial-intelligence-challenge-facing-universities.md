@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Explore Why AI Writing Assistant Software Market 2022 Is Thriving Worldwide by 2026?"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Writing Assistant Software Market\" Insights 2022"
-    publishedDateTime: 2022-11-15T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/explore-why-ai-writing-assistant-software-market-2022-is-thriving-worldwide-by-2026-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Notion is using AI to automatically write your blog posts, job descriptions, and poetry"
     excerpt: "Zhao thinks Notion AI can help in both cases. “For many users in this space, it solves the cold start problem. And even more than that, it saves time.” Notion AI won’t write you a publishable blog post, but it can help you skip the crappy first draft ..."
     publishedDateTime: 2022-11-16T14:28:00Z

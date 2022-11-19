@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -148,6 +148,15 @@ related:
       name: Institutional Investor
       domain: institutionalinvestor.com
     quality: 19
+  - title: "18/11 – Weekly Fintech Recap"
+    excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
+    publishedDateTime: 2022-11-19T19:48:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1811-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "nR3CXST9IPfF4CgvWJL93K3q93JSKa+ZaNhJCYXlqXWxkIc+ZppuSFvThM7dI5y3wlmXs79bV6E4IGgHFWj/dqc1cfXXa66RHLgsWeE1yb+9kQwAb5XXCVwTx4WcKAa1z69qlLLE59Ml82r+FpAu+BscjrPzQySa5FR/CMzA6I4s9v8QktQm/0sqj+4GlLXJSN2AGoa/kaAtmgkBPDUsaYUEVTxH6LuihaCO/sGsMKR2dXoCjCwRRrgj02zCYSA9OyxPb67RGlNxnitOGlNkVxnvhT40EmDcSpYR4AufPxutsAB5WFOCgszpYT4HF4zlU/j14Z1H3SHLfG24BP8sWUnEjddC3okBichWOgbf7Ln3DYoxL/nRau9OjWbK/wCmPJzEfbw3JP+oVY/as28EiQiUUFqSQpE2c5AT4HtBHu09XdTFLKIOHZpTBCJcird9BxMudpP1dKbeJF8nKDFYhkPn/ESsJVExY57OYARm9XYo4ygkEa0/73ZyLVSfACCwv30lbn862j3gkTULio8s4Q==;P6Sx5UdMULn37dJ2GdYj7g=="
 ---

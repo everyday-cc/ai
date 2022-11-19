@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-19T19:32:00Z
 originalUrl: "https://news.webindia123.com/news/articles/Science/20221119/4005404.html"
 webUrl: "https://news.webindia123.com/news/articles/Science/20221119/4005404.html"
 type: article
+quality: 9
+heat: -1
+published: false
 
 provider:
   name: Webindia 123
@@ -14,6 +17,26 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Artificial neural networks learn better when they spend time not learning at all"
+    excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility across a spectrum of research interests."
+    publishedDateTime: 2022-11-19T01:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
+  - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
+    excerpt: "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways, they have achieved superhuman performance,"
+    publishedDateTime: 2022-11-19T12:57:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 9
 
 secured: "IyitoLTFpodq4JWkgGFL1JPuKg/DTTyLOWcSv6RCVy5t29q1rg88BfAwKGQJwD9NEM8jP+u+ZFhL7u6VM4+nyZjejLbgZgbZwpgcHCCrxz7qpGnJrwDk8JyYVGi9OYHplnyqQssrRwpln/un2riePwwAgbPOKzE9IiAopsoDilQAwDvCR1+kD/4ex7WpK/BQZ7ExHgrQ7GoMyVFg1oocg5f++obS2PyT++FZ8BfahngrBXkqeq24t4dO7wo7zFm3foYEsLaeLqZO2t28s14yOzm+ITq8nB2KNzCQY0IoV/86UqZX5gF3Qrey+JFUKmMm7X/8xyCF/FSbAEwxwh8/0+BRgCA7gQz6M9ja6V+BOes=;51y134bcpUgaX3Vr1Duy4A=="
 ---

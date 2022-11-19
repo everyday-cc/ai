@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Computer says there is a 80.58% probability painting is a real Renoir"
-excerpt: "Swiss company uses algorithm to judge whether contested Portrait de femme (Gabrielle) is genuinely by French artist"
-publishedDateTime: 2022-11-19T06:00:00Z
-originalUrl: "https://www.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir?amp;amp;amp"
-webUrl: "https://www.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir?amp;amp;amp"
+excerpt: "Swiss company uses algorithm to judge whether contested Portrait de femme (Gabrielle) is genuinely by French artist Staring enigmatically at an unseen object to her right ... Earlier this month, Art Recognition, the Swiss company that developed the ..."
+publishedDateTime: 2022-11-19T21:52:00Z
+originalUrl: "https://www.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir?bingParse"
+webUrl: "https://www.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir?bingParse"
 ampWebUrl: "https://amp.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Computer says there is a 80.58% probability painting is a real Renoir"
-    excerpt: "Swiss company uses algorithm to judge whether contested Portrait de femme (Gabrielle) is genuinely by French artist Staring enigmatically at an unseen object to her right ... Earlier this month, Art Recognition, the Swiss company that developed the ..."
-    publishedDateTime: 2022-11-19T21:52:00Z
-    webUrl: "https://www.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir?bingParse"
+    excerpt: "Swiss company uses algorithm to judge whether contested Portrait de femme (Gabrielle) is genuinely by French artist"
+    publishedDateTime: 2022-11-19T06:00:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2022/nov/19/computer-says-there-is-a-8058-probability-painting-is-a-real-renoir"
     type: article
@@ -48,6 +48,6 @@ related:
         height: 850
         isCached: true
 
-secured: "S8arnQ3w4GNukTGTlV4HnonWd5f3P1xCa2rFVfQ+XPHFn1XUaHOvaovKYNvZ44uN7eHlsQa9vR50jD4LQQ2qvN3snegRdODlwacRfLbvr0G2gDdosITt09k7tFGsR4UZUzUNB3ltPjO7hDKslMnpxhAvMrmpQ5rK7c7q8cLmnYdzcLyI1Zu7YGglTRXW5x1sc9zVBZ1v/vnECHtW7fp0t97el7cC3KVuYJm8WC/ZcWvxkHhFjuXD9Vuf6pBZCMJ98ly9h4o5N6ouY0rrZvkxqa1w5/jQ3na1f03wyo1/gOSPCmS1iZI97Zwo7t++Y0F5cZkDBcKB1BlvspWvZDq/pET122vt6YccN8D0bMvW/tU=;XV25n6GkM9TwGnStcT7jPA=="
+secured: "tXo8OFPWk/zjlBsQtdevYsjMlhwnEs+P8kNSr38RqfY5PxIHYS4Nh1eXIAsweiI4OrXDpHF83Sqeb3yf9G9zLmQ+XtVnUjNkEr3piS3ohWhVQH+DW9i8vSuEd5ZMYUbxSJTJJeBs3q88amHiCPqfxGrc7/nxJ3qCTzK4+ojr7l2WgzUNUhAFQr2yfqRMPMidcie15YR19kcBqOdoaheL14MLTP828YQPOoDTD6B7le/hO4j6SWOqVx7469t/q9kYexbwIXT8gE7IesAh/xyRGUl1W8h1jjy2gnvU+clNzwOsw4w5JeusQjju14dn51WNEEsNEjFypIiYnDLkgn64wbORn06nIIiXyZeUXs+Exhc=;C+Lx7RIRWn51SNhvOH+nyg=="
 ---
 

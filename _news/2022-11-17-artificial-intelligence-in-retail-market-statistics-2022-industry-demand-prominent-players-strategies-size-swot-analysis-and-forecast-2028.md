@@ -42,15 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market 2022 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2028"
-    excerpt: "The report provides a comprehensive analysis of the key companies operating in the global Computer Vision in Healthcare market and compares their product portfolios, business overviews, geographic reach,"
-    publishedDateTime: 2022-11-15T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2022-regional-trade-company-profile-analysis-business-strategies-and-pestel-analysis-by-2028-2022-11-15"
+  - title: "Artificial Intelligence in Stadium Market 2022 Worldwide Business Growth and Consumption Status by 2028"
+    excerpt: "The report helps to gain information about the impact of the Covid-19 pandemic on the Artificial Intelligence in Stadium market. The report provides the strategies adopted by the prominent market players to cope with the effects of the Covid-19 pandemic."
+    publishedDateTime: 2022-11-15T07:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-2022-worldwide-business-growth-and-consumption-status-by-2028-2022-11-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

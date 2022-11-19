@@ -32,6 +32,15 @@ related:
       name: health.economictimes.indiatimes
       domain: indiatimes.com
     quality: 9
+  - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
+    excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility across a spectrum of research interests."
+    publishedDateTime: 2022-11-19T19:32:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20221119/4005404.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 9
 
 secured: "xvghw2IP1oL3fVcEzxWUz+Gqp8S0fLyDGWMF8bQhK0SaKoBakcm8mhWCrooR/bZNlmuQAPD7pZWRMHtP6vARiWhX6ZzKkUgSeOTOwIqCHZlfeYwE4WdrO1rN8A4bCuY23MJstNELqgCBj3756Hesg0u4W5UMrm4WQrSF4dECjW23Kk2irdpxqhOwfNvkZIXMHBx0GNQ97tTPMoW/lTcoNh2EPZ9nO49GoY5+aaCjVJoJ5f8ckUpbqzqsg2Qdj8YTwA2tB0rEp7t0mLyKyYQAlVrpY3Aeuti8lBt0Hug9dS5X+GIBV4Z2FuWvkXpmMSdEsO06pPRLcylgyhVZhukrOBiSSKXcCQZafuQdOD8KBJk=;3645A6tCzpVfEluoan+/6g=="
 ---

@@ -53,6 +53,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "From artificial intelligence to business intelligence"
+    excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
+    publishedDateTime: 2022-11-19T22:30:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/from-artificial-intelligence-to-business-intelligence/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ourcrowd Expands Abu Dhabi Investment Operations And Launches Global AI Hub, In Partnership With ADIO's Innovation Progr..."
     excerpt: "(business wire )--ourcrowd , Israel's most active venture firm, is to significantly expand its Abu Dhabi operations with a new venture capital (VC"
     publishedDateTime: 2022-11-16T12:52:00Z

@@ -143,6 +143,15 @@ related:
       name: Institutional Investor
       domain: institutionalinvestor.com
     quality: 19
+  - title: "18/11 – Weekly Fintech Recap"
+    excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
+    publishedDateTime: 2022-11-19T19:48:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1811-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "nmhZeaWNuPCjsVsczmAzx/NmU7R4TvsrKPuPbYlKGDOrJwKHjig0z+DpHl+1PYVIdSwJ9RnS3/i3KIAjJfQawSVmCd8bOcPsfIYa7ij1lW7iLi4/5x8EeKGPs5W1bo4MbExd6oHnDuex7KBv7Lop4wV4ssTs6JfrlvsdD8SFc3yqxTRvnJkWmP906lltST3c0UALY+GxDkplkHqzACeAfGQpMonHfDR81FQ0CJknSphCsrqzJHDmmhbtNvBQmTyjSUbs0y9cldcpxxPvAsYrE62C20Gwma0B8H1dQFTzXffwlIc7XkZ4Ld6hDkt5I2yH/rvq0AU1CvxbSs0JWBYYp8jEIrLeLneFlC7Vm66bLnU=;E7y1G3HBqN1/VW49Hy+2xQ=="
 ---

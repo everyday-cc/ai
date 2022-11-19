@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 671
         isCached: true
-  - title: "Artificial intelligence gaining more ground in China"
-    excerpt: "Artificial intelligence, a key technology for driving digital transformation, is playing an increasingly vital role in accelerating China's push for industrial upgrading and promoting the in-depth integration of the digital economy and real economy,"
-    publishedDateTime: 2022-11-15T06:52:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/11/15/artificial-intelligence-gaining-more-ground-in-china"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/15/1820161.jpeg"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "BDwqMIjJbZE/cpMee/KgLtYSSiMYMYOAziU5rrduT5s/q9+WiSgw5N0spKs/AczS2KNS2QY4DYIxa1pM4unonTQggkcwOzLC2H/N6+gvhuZoU25M4LJLhpFbVy4sbM+ld78B/7cSHrBCnc6Kv9vsVDAYtifk/OiV5ofjmG+BONGLw80Pj1jv5dML5+eh2bUnrsDcT965ALka3RqxqhjVolZdAuFIA+S6Pmy5t5uUojFnxIkdhR8nXikvOWZcDe21GdFmR/rjQp9twiW1vjRXVQXJVQXghsfOBgOVAzUme3lEqXc7aDkMehOZ7gsO9T4MW2DuRhBykIGn662Zqjwy5/PWoYyPEQMfEiSZsVOXHULcqn3hRVw6NLmuq3c0YFBXd+KUg8u74/AtrMyjvUwHMwwPzwOzdyYWv87Nan7S20vfKl6gvXLQ6cOU13ZUunZtJ3p0Y8gtXLOKi3SAR0L7RIakDDcc6kBIDKzTyBdjk1eZnTESHToeOkIwb2rZ68bGazytVoeBVLwnmzshfuwVCg==;SvgbvTDqZ/tgTDN37D5FDQ=="
 ---

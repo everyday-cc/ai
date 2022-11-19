@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-19T18:35:00Z
 originalUrl: "https://www.pressandguide.com/2022/11/19/a-practical-approach-for-addressing-bias-in-artificial-intelligence/"
 webUrl: "https://www.pressandguide.com/2022/11/19/a-practical-approach-for-addressing-bias-in-artificial-intelligence/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Press & Guide

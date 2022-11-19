@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T06:03:00Z
 originalUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TMCnet
@@ -16,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "KYrZJJHQnEdpwXcXi0OPC9hQosZ/M82pIhQacu7fcZT4IJfZUuBg82DTgfBkl8KIXyf1xoZCtLufAftqsnF3Dutvv5t6SUwwTjUm4Ps662NMDgBSxBhRzx3YnuL7kscLaMPQIQhfzwWIbpJOaMxZH0tCfClnTir5NjKKZvcWOu9nUfE40tClDsM6qbM0qb/FQPZkrckc6WJ8tKU1eOg3jwSUEKOAE3HMnmJOE2WaKtdVv9sNdwzMpIjtj+tpgFozabT5uPI4KusI/i0uKtFY48MBgsqB2lFUnwfxjdJi1oMVu+bdF404FEEWYpol44k9bf0YKjFu5TBKghv9pBcrdApKy6BA4bMfTChzIWB/v8uzwo09rjv28HAmk2zfJqkZBjCweqlckG//Beq4Kt6pDHG0MVMpack7ZhEI50gf5waIsV6wpKvmLhWoOy3NjoNmzml3T2AiPg2Dastdmxp8a9s1xHmQC/ZcnBqf0UzKy9FHe+toddANf5VuwwgTy3HvD6nuQz5dZiDQxxk/7cU09A==;VNVo4nlPM/bz1HoXT7wclg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "j4ZU6u0IDwZLCgD/TwHm7vIL2UHchV6gZErazeHaCVRmIc75b7Vn+lCMcvASpYAuft7xLPRsI+PDcLPMcJXzhHnp72rtWOfFptPOAzr8oyMRLD6q+3GkFBpv7V42vc4GWG0IHJzlzDTYtdY4vnJJAObqUmETGeQ3IX6I6UsN76hm68or6UAqXUFwmwWyFYffB1If0XfoNYLyzpk/KIDFeawuHLsjVg+Qk+7ANzAP2Y333DR6akmNxE9aI5J0iXhbFUbWOzo/ONlvYEbfoM4nbNj3TT9tuPwjcXnLKPFpi6fqZxhe5Fzz1zrDJqQW7oW8t/ph5TUChGuVhL5zVd8RL+28Ym3tEQAOkA59zkQSbLg=;V4DzINf0TjQvgOHXkqcNgA=="
 ---
 
