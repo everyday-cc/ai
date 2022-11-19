@@ -26,31 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "Computer vision and beyond: The future of AI in India’s insurance industry"
-    excerpt: "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ..."
-    publishedDateTime: 2022-11-14T08:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/"
+  - title: "The Main Roadblocks to Any Industry for Adopting AI Technologies"
+    excerpt: "In modern-day society, AI technology and systems have been applied across various industries, from robotics to automotive ... Are you prepared to start... Both Solana (SOL) and Aptos (APT) were exposed to the collapse of the FTX..."
+    publishedDateTime: 2022-11-18T17:16:00Z
+    webUrl: "https://techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/"
+    ampWebUrl: "https://techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 72
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg"
-        width: 753
-        height: 929
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/pexels-tara-winstead-8386434-1.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Ship.Cars Partners with Monk AI to Introduce Artificial Intelligence to the Auto-Transportation Indu"
-    excerpt: "“Artificial intelligence (AI) is getting more advanced and used in all industries,” says Eftim Eftimov, President of Ship.Cars. “We are the first in the industry to deliver this technology to auto-transport carriers to use for their loads. This AI ..."
-    publishedDateTime: 2022-11-17T00:01:00Z
-    webUrl: "https://www.dcvelocity.com/articles/56010-ship-cars-partners-with-monk-ai-to-introduce-artificial-intelligence-to-the-auto-transportation-indu"
+  - title: "White paper urges governance for AI school grading technologies"
+    excerpt: "Automated grading technologies could soon be rolled out in Australian schools but without robust national guidelines and an independent advisory body, some schools could be left behind."
+    publishedDateTime: 2022-11-16T16:28:00Z
+    webUrl: "https://phys.org/news/2022-11-white-paper-urges-ai-school.html"
+    ampWebUrl: "https://phys.org/news/2022-11-white-paper-urges-ai-school.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-white-paper-urges-ai-school.amp"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 19
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/students-in-class.jpg"
+        width: 2880
+        height: 1907
+        isCached: true
 
 secured: "UqBkc+5P/SY2sWS+wnklvWAepxbktfAoo9DpygBAKyKdoq8r13T+d/weKfvKC54KoYBuHuwe8HFSdqC1oYUy6jKK599lbw2NqfaWLf3fN81h4QngJJMq1HFbDGH2HaU1vU04IbWquenNA0t6L1DzaQADKiceHseTBJveIMhLlBVGlYqyrQrv8R9s2HIpOViZtUfMKKPqJUTgonOmerTEv1x0UFTxxz5ckNdlaScxBE4x0eEBR+5QUdO1GyKpjFaB4XoWdZlpVSQdQi5Hah6jIkAH11Trukogerm+UlGVZIUsfmG5nTo+CMNL0TdD8VDV63bDoBqjhIoUWI4UQnplaN2fkcvz7HkudQuda5Ii8+s=;IsCehXr2Oc2N0WLSFyxn3w=="
 ---

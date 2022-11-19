@@ -80,15 +80,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "Infosys BPM Launches State-of-the-art Center of AI and Automation in Poland, in Collaboration with IBM"
-    excerpt: "LODZ, Poland and BANGALORE, India, Nov. 14, 2022 /PRNewswire/ -- Infosys BPM, the business process management arm of Infosys (NSE: INFY) (BSE:"
-    publishedDateTime: 2022-11-14T08:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/infosys-bpm-launches-state-of-the-art-center-of-ai-and-automation-in-poland-in-collaboration-with-ibm-1031908943"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
   - title: "Infosys BPM opens AI, automation unit in Poland in collaboration with IBM"
     excerpt: "The announcement underscores two years of strong collaboration between Infosys BPM and IBM, delivering client success, identifying new use cases, and building solutions, to enable clients to innovate in hybrid cloud environments,"
     publishedDateTime: 2022-11-14T12:40:00Z

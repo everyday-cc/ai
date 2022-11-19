@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/news/22/11/29754092/ahead-of-paradigm-shift-me
 ampWebUrl: "https://www.benzinga.com/amp/content/29754092"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29754092"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.benzinga.com/files/images/story/2022/11/16/pexels-tara-winstead-8386440.jpg?width=1200&height=800&fit=crop"

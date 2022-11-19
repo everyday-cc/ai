@@ -66,15 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Infosys BPM Launches State-of-the-art Center of AI and Automation in Poland, in Collaboration with IBM"
-    excerpt: "LODZ, Poland and BANGALORE, India, Nov. 14, 2022 /PRNewswire/ -- Infosys BPM, the business process management arm of Infosys (NSE: INFY) (BSE:"
-    publishedDateTime: 2022-11-14T08:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/infosys-bpm-launches-state-of-the-art-center-of-ai-and-automation-in-poland-in-collaboration-with-ibm-1031908943"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
   - title: "Infosys BPM Launches State-of-the-Art Center of AI and Automation in Collaboration With IBM"
     excerpt: "Formed in collaboration with IBM, this center will showcase a growing portfolio of data and AI solutions that are designed to automate and accelerate the hybrid cloud journey of global enterprises. The center will complement Infosys BPM service offerings that are built with a design thinking approach and deep domain expertise in data and AI technologies."
     publishedDateTime: 2022-11-14T17:50:00Z

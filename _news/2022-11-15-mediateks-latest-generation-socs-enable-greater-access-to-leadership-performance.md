@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/11/15/mediateks-lates
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/15/mediateks-latest-generation-socs-enable-greater-access-to-leadership-performance/amp/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 776
     isCached: true
-
-related:
-  - title: "MediaTek's Latest Pentonic 1000 Chipset Brings Flagship 4K 120Hz TV Experiences to the Next Level."
-    excerpt: "MediaTek  launched the Pentonic 1000, its latest flagship smart TV system-on-chip (SoC) designed for 4K 120 Hz displays. Pentonic 1000 integrates Wi-Fi 6/6E support, MEMC for smoother video, a"
-    publishedDateTime: 2022-11-14T08:19:00Z
-    webUrl: "https://www.guru3d.com/news-story/mediateks-latest-pentonic-1000-chipset-brings-flagship-4k-120hz-tv-experiences-to-the-next-level.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 0
 
 secured: "hOgJ3RziIdKZgTb9zpAeLHxTClaNZFHSGy2CQDQrHfZl7Yfxnokggjd3yKyOWpP9DXTKVLu4fAdqrjBvHVp+701zUyJ4BWQLG8TnRAAyJb50/XesnOhP29tKBEFVza96FGR1aOJbhFXD+BN8fu2SgfFvqqq0PcZWj9405EAVVKtGbLmI3rgY6zVVz30BIHwjegIuM/mm+usIzOhT/jbgzagFu2oP904GPRXS/H4dDEHLLTYbUalE7HcHVXHJ2uVR+sdpKat9acZHFu2QSdOaBfFy4KLkA5JOJ1wMW/mv3+YUg4dph21+fhrwg90Kl6itoGDrqHRGhsEZHD9OemXO18ZIXbD1OPTE+S97SkmWaTkY9JML3WT7HAQJEAJN7MS6AojWyDs9ggZSs5G4tyDVrLoqXDNq1+xCq1j9YNCPnP736AAiValhKLKc7siZVxhoxQ+yo9YxO47HZuFmt3SRy5/g4v55tyrkZGItX0Xw1qluMIM2PCRRRNxnNMmc2ewfP/5FWQedsrPdwUiT6G/GwA==;E7/DM5RFXUtA81JzZ7Y5bw=="
 ---

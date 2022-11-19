@@ -42,6 +42,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "How can artificial intelligence better the online gambling industry?"
+    excerpt: "One of the latest technologies that are starting to be used more and more in the online gambling industry is artificial intelligence (AI). AI can be used in a number of different ways to help improve the online gambling experience. It can be used to help ..."
+    publishedDateTime: 2022-11-14T10:02:00Z
+    webUrl: "https://www.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334"
+    ampWebUrl: "https://m.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-can-artificial-intelligence-better-the-online-gambling-industry-722334/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/519160"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "AjwIKYSGt0AZCDeG2hHJTmbU5tztU6aExPLVmCd567ghcwyiTHanCe2jXZD0I5wez0z7jfgT2OBS5T7W+n8mK0I4rM8zu+5jxrutFh+YH6AwD4olMiZ/RRmeSBURv73GOEsuw5HdKj1fmiSJGvLFNyIHtf9OijpP4GJRmDry2YUZLtAwnlKx/tRABQN8pAlXo4b3pQ8W/gp76Vo6bLw0/uNJVkAyROiaXZOKyBHnFPRpDYYvrmyBoWN/lBgyRl4yfbA0gQlXk7lU2b+Y6CntsoNeVEpSyEymXbsR2OS1qCTLWzrSegXnvS5P6ZCrQI5BZciDIXA8Fb/jVDlA7bhcbVF+KqTQWli/QBBsnISYVRdhcO1PBsXCmZG4hfAAulT7MEc4fJ6WEOP9XEL8zEk3unDuFBB4zLoT/buN5ULOZdF8DY4Lqnm4V5kse9Cjk9lz2L68RQh5QVt47aQluckf1y3faPPJVTt2gjmMrgUGMrUFY3twfh6ux/OEnpSqLJBobKOrOgNDVChrtSS3vNIwJw==;9Q0kJEi4a4HlU2tz+vVGVA=="
 ---
