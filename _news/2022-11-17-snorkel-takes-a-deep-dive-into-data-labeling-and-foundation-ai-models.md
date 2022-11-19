@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-label
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 99
 published: true
 
 provider:

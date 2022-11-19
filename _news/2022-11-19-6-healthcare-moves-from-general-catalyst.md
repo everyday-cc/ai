@@ -58,15 +58,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 42
-  - title: "AI/ML Innovations Inc.: AI/ML Innovations Acquires Full Ownership of Digital Healthcare Company, Health Gauge Inc"
-    excerpt: "TORONTO, ON / ACCESSWIRE / November 14, 2022 / AI/ML Innovations Inc. (\"AIML\") (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learnin"
-    publishedDateTime: 2022-11-14T12:56:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57577621-ai-ml-innovations-inc-ai-ml-innovations-acquires-full-ownership-of-digital-healthcare-company-health-gauge-inc-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 30
 
 secured: "7l5XvjBNXqkIpqb9Fh/f4tdH7C5ggxIu/k89s0gYfTux5K5s8dztM6XS8ODD5FBGX75VJhALk2GchEaTdl+sXT4IopQZlMhBLhiBisbaRKoxKHPMh7sYyn69Yq3M0F1EWCc526e4EDTezc86e8nHmGA7gkE9ttMRdi94ODI7IFDrj7zlSr/DGnejbCr/qzMPuWRUTBm1w/vZb24Uwm6pt2uDZQqywKnJn/qZDc/Rojha7YXt11cf+wJuLON4iNfwsfBA9IIQMjAkyHq7gT3iV0BAKwVSliKpWGkCMLTHVN/pX/3Y6wY+EmUR9LBOAaM8Qb3rYylvZzic4j8kfFKK/GTeq/+3xXgZ+vQvaJ0nv0A=;mOX0ZMCLlEeROMQGdr6vBg=="
 ---

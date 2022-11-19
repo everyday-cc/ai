@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-15-infosys-ibm-launch-ai-centre-in-poland.md",
+      "title": "Infosys, IBM launch AI centre in Poland",
+      "excerpt": "Infosys's business process management (BPM) arm has launched a centre of AI and automation, in collaboration with IBM, at the Infosys Business Experi",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/articleshow/95519929.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms",
+      "publishedDateTime": "2022-11-14T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy.md",
+      "title": "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy",
+      "excerpt": "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/11/14/business/tesla-self-driving-flaws-promo/tesla-self-driving-flaws-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-y-robot-campus-researchers-push-the-boundaries-of-robotics.md",
       "title": "Y, Robot: Campus researchers push the boundaries of robotics",
       "excerpt": "The Robotic Vision Lab focuses on using artificial intelligence and machine learning to achieve vision in robots. Their research spans self-driving cars, facial recognition and food inspection. Casey Sun, a Ph.D. student in the lab, explained how Robotic ...",
@@ -140,7 +235,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -277,49 +372,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
-      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
-      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
-      "publishedDateTime": "2022-11-14T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-15-cat-pining-after-owner-when-shes-home-alone-breaks-hearts-made-me-cry.md",
       "title": "Cat Pining After Owner When She's Home Alone Breaks Hearts: 'Made Me Cry'",
       "excerpt": "A cat named Elie has melted hearts online after a video of her waiting by the door for her owner to come back home went viral on social media. The viral clip shared on TikTok on Sunday by the cat's owner (under the username Eliethehallwaycat) shows Elie following her owner to the door,",
@@ -368,57 +420,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapse-forbes-ai-newsletter-november-12th.md",
-      "title": "Inflation Hits Lowest Level Since Start Of 2022 And Crypto Exchange FTX Faces Collapse- Forbes AI Newsletter November 12th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63726ff6041a641baca8fb80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/14/inflation-hits-lowest-level-since-start-of-2022-and-crypto-exchange-ftx-faces-collapseforbes-ai-newsletter-november-12th/amp/",
-      "publishedDateTime": "2022-11-14T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -612,52 +613,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat.md",
-      "title": "Why Meta and Twitter’s AI and ML layoffs matter | The AI Beat",
-      "excerpt": "Gousios, who worked on the Probability team from October 2020 to February 2022, said while Facebook had a lot of developers ... According to Nantas Nardelli, senior research scientist at climate tech AI company Carbon Re, these were some of the best ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware"
       ]
     },
     {
@@ -1190,6 +1145,40 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-highway-to-autonomy-how-the-future-of-5g-will-fuel-the-driverless-revolution.md",
+      "title": "Highway to Autonomy: How the future of 5G will fuel the driverless revolution",
+      "excerpt": "This content was paid for by an advertiser and produced by the Automotive News Content Studio. Mass production and widespread use of automobiles in the early 20th century radically transformed the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/white-paper/highway-autonomy-how-future-5g-will-fuel-driverless-revolution",
+      "originalUrl": "https://www.autonews.com/white-paper/highway-autonomy-how-future-5g-will-fuel-driverless-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-12T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

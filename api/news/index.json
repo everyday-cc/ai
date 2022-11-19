@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-19-meta-takes-new-ai-system-offline-because-twitter-users-are-mean.md",
+      "title": "Meta takes new AI system offline because Twitter users are mean",
+      "excerpt": "Meta's Chief of AI wasn't shy about engaging on Twitter after outrage from users caused the company to pull its brand new \"Galactical\" AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean",
+      "originalUrl": "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fyanlcharmf.jpg&signature=af8e03842656b82fe31d9be4b4e30af2",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-easy-and-accurate-forecasting-with-autogluon-timeseries.md",
       "title": "Easy and accurate forecasting with AutoGluon-TimeSeries",
       "excerpt": "AutoGluon-TimeSeries is the latest addition to AutoGluon, which helps you easily build powerful time series forecasting models with as little as three lines of code. Time series forecasting is a common task in a wide array of industries as well as scientific domains. Having access to reliable forecasts",
@@ -62,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -316,7 +369,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -410,7 +463,7 @@
       "originalUrl": "https://www.kshb.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -556,7 +609,7 @@
       "originalUrl": "https://www.cmswire.com/customer-experience/contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1197,49 +1250,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
-      "title": "Artificial Intelligence-Aided Colonoscopy Does Not Increase Cancer Detection",
-      "excerpt": "Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html",
-      "originalUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/6/b6/6b6cf66e-5a77-5ff6-8edd-d916539921fe/63767a470ab3f.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

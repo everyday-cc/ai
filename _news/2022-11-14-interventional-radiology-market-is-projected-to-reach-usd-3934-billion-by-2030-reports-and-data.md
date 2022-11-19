@@ -67,15 +67,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Painting Robots Market Size 2022 | By Top Key Player With Production, Competitive Analysis, Revenue And Forecast To 2027"
-    excerpt: "Painting Robots Market The global painting robots market size reached US$ 2.11 Billion in 2021. By 2027, it will reach US$ 3.78 Billion,"
-    publishedDateTime: 2022-11-14T12:01:00Z
-    webUrl: "https://menafn.com/1105178107/Painting-Robots-Market-Size-2022-By-Top-Key-Player-With-Production-Competitive-Analysis-Revenue-And-Forecast-To-2027"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 9
   - title: "Global Industrial Robotics Market Size & Share Projected to Reach to USD 46.1 Billion by 2030, at 14.2% CAGR Growth: Polaris Market Research"
     excerpt: "According to the research report, the global industrial robotics market size & share was valued at USD 14.1 billion in 2021 and is expected to reach USD 46.1 Billion by 2030, growing at a CAGR of 14.2% during the forecast period."
     publishedDateTime: 2022-11-16T13:31:00Z

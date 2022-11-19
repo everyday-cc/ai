@@ -62,15 +62,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Painting Robots Market Size 2022 | By Top Key Player With Production, Competitive Analysis, Revenue And Forecast To 2027"
-    excerpt: "Painting Robots Market The global painting robots market size reached US$ 2.11 Billion in 2021. By 2027, it will reach US$ 3.78 Billion,"
-    publishedDateTime: 2022-11-14T12:01:00Z
-    webUrl: "https://menafn.com/1105178107/Painting-Robots-Market-Size-2022-By-Top-Key-Player-With-Production-Competitive-Analysis-Revenue-And-Forecast-To-2027"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 9
   - title: "Interventional Radiology Market Is Projected To Reach USD 39.34 Billion By 2030 - Reports And Data"
     excerpt: "Reports And Data The global interventional radiology market size was USD 25.10 Billion in 2021 and is expected to register a revenue CAGR"
     publishedDateTime: 2022-11-14T13:58:00Z

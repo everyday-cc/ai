@@ -2,59 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2022-10-16-deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028.md",
-      "title": "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028",
-      "excerpt": "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2022-10-16-crop-robotics-2022-beyond-the-valley-of-death.md",
       "title": "CROP ROBOTICS 2022, BEYOND THE VALLEY OF DEATH",
       "excerpt": "Western Growers Association produced an excellent report that outlined the need for robotics in agriculture. Ongoing labor challenges are, of course, a major driver, but so are rising costs, future demand,",
@@ -1224,6 +1171,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-joe-rogan-says-biden-has-dementia-clear-evidence-of-cognitive-decline.md",
+      "title": "Joe Rogan Says Biden Has Dementia: 'Clear Evidence of Cognitive Decline'",
+      "excerpt": "\"If you talk to any person who treats people with dementia and you show them what he used to be like versus what he's like now, there is clear evidence of cognitive decline.\" On an episode of \"The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926",
+      "originalUrl": "https://www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2134116/joe-rogan-joe-biden-composite.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926?amp=1",
+      "publishedDateTime": "2022-10-14T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

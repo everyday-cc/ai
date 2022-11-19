@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 671
         isCached: true
-  - title: "We Should Avoid The ‘Turing Trap’ With AI And Continue Making Humans Indispensable"
-    excerpt: "When considering AI and the workplace, it's tempting to look at automation first of all. New research argues that this is the wrong approach and means we miss out on long-term benefits from the technology."
-    publishedDateTime: 2022-11-14T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/adigaskell/2022/11/14/we-should-avoid-the-turing-trap-with-ai-and-continue-making-humans-indispensable/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
   - title: "AI gaining more ground in China"
     excerpt: "Significant progress has been made in developing China's AI industry, with technological innovation capabilities in some areas ranking among the best in the world, they said. A Stanford University report showed that China filed more than half of the world's AI patent applications last year and the nation continued to lead the world in the number of AI journals,"
     publishedDateTime: 2022-11-15T07:42:00Z

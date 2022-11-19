@@ -55,15 +55,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 42
-  - title: "AI/ML Innovations Inc.: AI/ML Innovations Acquires Full Ownership of Digital Healthcare Company, Health Gauge Inc"
-    excerpt: "TORONTO, ON / ACCESSWIRE / November 14, 2022 / AI/ML Innovations Inc. (\"AIML\") (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learnin"
-    publishedDateTime: 2022-11-14T12:56:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57577621-ai-ml-innovations-inc-ai-ml-innovations-acquires-full-ownership-of-digital-healthcare-company-health-gauge-inc-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 30
   - title: "6 healthcare moves from General Catalyst"
     excerpt: "From expanding its partnerships with more health systems, to investing in a plethora of healthcare startups, here are six recent healthcare moves from venture capital firm General Catalyst: General Catalyst partnered with its first health system outside the U."
     publishedDateTime: 2022-11-18T21:30:00Z

@@ -457,7 +457,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -739,7 +739,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028-2022-11-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -869,52 +869,6 @@
         "AI",
         "AI in Security",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat.md",
-      "title": "Why Meta and Twitter’s AI and ML layoffs matter | The AI Beat",
-      "excerpt": "Gousios, who worked on the Probability team from October 2020 to February 2022, said while Facebook had a lot of developers ... According to Nantas Nardelli, senior research scientist at climate tech AI company Carbon Re, these were some of the best ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware"
       ]
     },
     {
@@ -1448,6 +1402,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics.md",
+      "title": "Perceptron: AI that sees with sound, learns to walk and predicts seismic physics",
+      "excerpt": "This column, Perceptron, aims to collect some of the most relevant recent discoveries and papers — particularly in, but not limited to, artificial intelligence ... who warn that neural networks being used to simulate actual neural networks should ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/",
+      "originalUrl": "https://techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/esmfold-header.jpg?resize=1200,688",
+          "width": 1200,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/amp/",
+      "publishedDateTime": "2022-11-07T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
       ]
     }
   ],

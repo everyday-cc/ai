@@ -64,15 +64,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "Infosys BPM opens AI, automation unit in Poland in collaboration with IBM"
-    excerpt: "The announcement underscores two years of strong collaboration between Infosys BPM and IBM, delivering client success, identifying new use cases, and building solutions, to enable clients to innovate in hybrid cloud environments,"
-    publishedDateTime: 2022-11-14T12:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/infosys-bpm-opens-ai-automation-unit-in-poland-in-collaboration-with-ibm/article66135701.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 18
 
 secured: "J+x+NqORlQfogV0ZtaJWxIFQjsbvsJFrMbUVqkUgV9pJ0jCvin5DxqCqBz0e+1Jr4PmEsRrdLyEC3WfKefibTDY3wyMPOvjFZ7O+pLnxLGHPnuua10hg4ou6WcYx+6wpu3skcfFRnbkYQfKALxharBJu1N9YQtDIl4iF06t5I8+QYXKBBBktKKcbG9BJMuIUGtrQ2fHBDmB+em9gjWvX7F7OSjBXkEWWoprxNe5JUlajY310OZ8HLgj25Wj/J2vkobPfmuDeu6m63yi4iPOMcrwaHJF3iuAJvi2vgfPmCtJZckqGSqKWhGDpZPCpg/zgywHWIDYu6dLrZqBadmimH5NhgdIt6VVFpfByq7e1rv8=;gk74qAzqgcoxSTF7j6O0AQ=="
 ---

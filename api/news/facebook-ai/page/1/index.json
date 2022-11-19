@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-19-meta-takes-new-ai-system-offline-because-twitter-users-are-mean.md",
+      "title": "Meta takes new AI system offline because Twitter users are mean",
+      "excerpt": "Meta's Chief of AI wasn't shy about engaging on Twitter after outrage from users caused the company to pull its brand new \"Galactical\" AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean",
+      "originalUrl": "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fyanlcharmf.jpg&signature=af8e03842656b82fe31d9be4b4e30af2",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning.md",
       "title": "IBM Research helps extend PyTorch to enable open-source cloud-native machine learning",
       "excerpt": "IBM Research has contributed code to the open-source PyTorch machine learning project that could help to significantly accelerate training.",
@@ -98,52 +151,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-14-why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat.md",
-      "title": "Why Meta and Twitter’s AI and ML layoffs matter | The AI Beat",
-      "excerpt": "Gousios, who worked on the Probability team from October 2020 to February 2022, said while Facebook had a lot of developers ... According to Nantas Nardelli, senior research scientist at climate tech AI company Carbon Re, these were some of the best ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-11-10-meta-layoffs-hit-an-entire-ml-research-team-focused-on-infrastructure.md",
       "title": "Meta layoffs hit an entire ML research team focused on infrastructure",
       "excerpt": "After today's Meta layoffs, a researcher said entire team focused on applying ML across the infrastructure stack was cut.",
@@ -194,6 +201,41 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei.md",
+      "title": "OneMeta AI’s Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)",
+      "excerpt": "OneMeta AI (Ticker: ONEI) created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself as a language translation app after comparisons of Facebook turned Meta's (NASDAQ: META) product began to circulate.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1365,40 +1407,6 @@
       "provider": {
         "name": "The Australian Financial Review",
         "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-if-youre-a-facebook-user-youre-also-a-research-subject.md",
-      "title": "If you're a Facebook user, you're also a research subject",
-      "excerpt": "According to its public database of published research, Facebook's written more than 180 public papers about artificial intelligence but just one study about elections, based on an experiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.grandforksherald.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "originalUrl": "https://www.grandforksherald.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Grand Forks Herald",
-        "domain": "grandforksherald.com",
         "images": null,
         "publishers": null,
         "authors": null

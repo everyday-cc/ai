@@ -6,9 +6,9 @@ publishedDateTime: 2022-11-19T01:44:00Z
 originalUrl: "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean"
 webUrl: "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: The Next Web
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fyanlcharmf.jpg&signature=af8e03842656b82fe31d9be4b4e30af2"
@@ -38,23 +39,7 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 70
-  - title: "The Download: Twitter may only last weeks, and Meta’s unforced AI error"
-    excerpt: "Plus: who pays the price for climate change? This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Former Twitter employees fear the platform might only last weeks ..."
-    publishedDateTime: 2022-11-18T13:30:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/18/1063491/download-twitter-last-weeks-meta-unforced-ai-error/"
-    ampWebUrl: "https://www.technologyreview.com/2022/11/18/1063491/download-twitter-last-weeks-meta-unforced-ai-error/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/18/1063491/download-twitter-last-weeks-meta-unforced-ai-error/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/image.png"
-        width: 468
-        height: 263
-        isCached: true
 
-secured: "FvacDvGdH9BqbWDwrZw9FmssPuDDl/xrEoKmC+B1lauHD0pTGiZbQ0AIyx631RGwvMhhp5FOJsiNGRFRxBTqgO3v33mHCzR6TmkEgBDA+rXLYAcFoFamg1PPUbPIhCFrf/JCpOTvbiSwzqI2o/6o/l+95byVdaJWSHzXWwRSJHg/d3mBBD8lUHsPX7pMNkdQBbh99rCaSWjYbtpCKCVNs9TWehdVS+dHvrycEGSnAzI2oTojBu5LcS3iXsFeb/Six8kANaH4oXJ3ITcrxErF89QrYSY/c3HMLRQ5kxOf/SXXuyKsWrpXZ9S02Z23Si3RlAkH4HhRahEFGQJHbcVQ3szViiunBp/KPhAhJnFw7A8=;X4pvcuIGfPcNIJdJhXpF+Q=="
+secured: "mudahmGnaL73rc9IvBfgZPjG5gulyUH+DtdxUCqua/MBCWTBscCFoWjwQu/jbxnE7S66uRblZ6c3TvI8+gylhFRffMAzrBp7SmaeAvUb26J5NVKf2HuIZDg6Cmv9UCIIK/DAYFvuqwyJmTn7UtphtnOkdutnVrroJ0v5yP4GPFfkohYD43ptCvhkSKEiEChuv5AB7BsunIOyC0s/bUMwYvtN3oE4z3fSc+HfLaJ27AMc8ir/LcdcvMj9lUmVeaEJioxlzxNPLQ+VaK3YzmaxH+0Y//OM2Qw0HsQH0/2dOEpBwmTAtLEP0q1NAp+OabsZkcre7QtrGAkOHzXZiAObOkbiMjiCa+C7J7KlKiB1tsLWrDpd+pTfAnEAJfbwt0h4ODqiIRBAinTT8Q1pq/LeOzVRXknLWjuXyAZCExFiyPtQF3QNHthIa7KNvKPmMxHgEKQ8Wx2EWpJJrf3A3HTm542TJ6ky/QFoEnU3Wqzzop5Ga5uNKihK1/T7Zj1CJ6b2pc5YE2HXe8wjqxJJVzPz+w==;9RIRyXUSIw5WKQhVTAcjtg=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2022-10-26-ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware.md",
-      "title": "AI Chip Startup Axelera Receives USD 27M to Commercialize its Hardware",
-      "excerpt": "Axelera AI has announced that they secured capital from VCs including Imec’s venture arm, Imex.xpand to commercialize their chip technology",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/10/AI-Chip-Startup-Axelera-Receives-USD-27M-to-Commercialize-its-Hardware.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/",
-      "publishedDateTime": "2022-10-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-26-ai-chip-startup-simaai-raises-37-million-in-b1-round.md",
       "title": "AI chip startup SiMa.ai raises $37 million in B1 round",
       "excerpt": "The latest round, an extension of $30-million Series B round SiMa.ai closed in May, takes the total capital raised by the California-headquartered firm to $187 million",
@@ -1179,6 +1136,40 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsoft-gaming-revenue-grew-slightly-yoy-xbox-hardware-up-13-content-services-down-3.md",
+      "title": "Microsoft Gaming Revenue Grew Slightly YoY: Xbox Hardware Up 13%, Content & Services Down 3%",
+      "excerpt": "Today, Microsoft announced its financial results for the first quarter of the fiscal year 2023, related to the period between July 1, 2022, and September 30, 2022. The press release shared today ...",
+      "sourceUrl": null,
+      "webUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "originalUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

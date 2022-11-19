@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-cent
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ibm-launch-ai-centre-in-poland/amp_articleshow/95519929.cms"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Infosys BPM opens AI, automation unit in Poland in collaboration with IBM"
-    excerpt: "The announcement underscores two years of strong collaboration between Infosys BPM and IBM, delivering client success, identifying new use cases, and building solutions, to enable clients to innovate in hybrid cloud environments,"
-    publishedDateTime: 2022-11-14T12:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/infosys-bpm-opens-ai-automation-unit-in-poland-in-collaboration-with-ibm/article66135701.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 18
 
 secured: "Q2Y/2wDew/QWJaZ9n6fc1eK2WIa1QkrVW/9we6H9GDRQaXCwl0dKiVo6FgbaGqOOxjwMhGhkRx6IKVEy0jzQZr0wU9QqdRBxcM9wrSScq1AxndMgb6JzDrgECW/Oay389XM2YqQmHRA6kPNq5YsswgV4v/mPEB4UBnptiApK/7fWxzYfwqEtfkzwd4maxc6aOYGWfvSeECcNATWvEW9pB7/RQsEIKG6XCNMA2NLU86eH5oM9UZK4qh/7mH+JNzEnNX7i6IaVIo9XnrVmiA24vbjb3mNfKFrFDqDo8WmOGtjCkqLOzAux4M8MTfj/vejcFfAv8HAp/wTMqe0zsXMp/qm9c55xM9+OMJSsMfnwLRY=;WS3J7goy6Raar3KhUfTR0Q=="
 ---

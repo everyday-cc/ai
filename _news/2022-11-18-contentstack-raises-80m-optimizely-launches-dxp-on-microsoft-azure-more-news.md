@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/customer-experience/contentstack-raises-80m-
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Optimizely Launches Digital Experience Platform on Microsoft Azure Marketplace"
-    excerpt: "Optimizely customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. Optimizely DXP offers rich personalization features, powered by artificial intelligence (AI) and benefitting from ..."
-    publishedDateTime: 2022-11-14T13:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29698688/optimizely-launches-digital-experience-platform-on-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29698688"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29698688"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
 
 secured: "HMduieCW8FJOKo8WD7EG5lRWYYEkgeHY9oDb02k5F32ZZOfp79owd1kqCaaC09H6LGzfBSDBtkV+mEY35xLU/1e+uKKxFiI4sfNpIRUzntjpGXbjEr34CTvlkmZjd9oKrjptx48STKA6u6DFQqs2ZWA0RqBFTejaS325OeEyCbzDnkSFVeoz8X/sjTf/sNuq1MX3WK3S1hUBLaaLfz9Fd2+75O/90S2RTHaW2HwcLSM3WPn8w/gySgoC8lWhNipEVpLjNBr4I+8DqiG6Y6XzH6aLc2trIwlmHaFS7S3s5DYqNs0tsYhpMkd559J2oxiEhLrxk1txvNLklsaHjZyBxMiOVVoMjMnFt51ukgWgHnp/MkG/z1Yum3zD1VK647BGWgRJoI3KEPWRJ1+2wX292YUiScfVoLCLoeeFfasLbGdaes/zhIyPtdcDegh+P0jnLS7j0pW8br3gBWOJ+JZaGnfJUVC1QxSIvqkl0gVZhrpR6Tn4q8nMZ1kql+U75fPAfsuMt6+iQUtN/FhN4NuS+Q==;ZaN14IwUETuVahiIftAA5g=="
 ---
