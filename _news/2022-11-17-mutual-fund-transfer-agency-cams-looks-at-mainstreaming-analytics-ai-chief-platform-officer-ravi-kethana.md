@@ -55,20 +55,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Webinar: deploying analytics at scale in financial services"
-    excerpt: "Speakers from AWS and Teradata will come together to speak about the challenges of deploying analytics across organisations within financial services"
-    publishedDateTime: 2022-11-14T16:52:00Z
-    webUrl: "https://fintechmagazine.com/articles/webinar-deploying-analytics-at-scale-in-financial-services"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 26
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/3bde99c6e7ae57496070410ba243f8b1:67217f0a99fa019d78b17cbb145747d8/mpu-300x250.png.jpg"
-        width: 1800
-        height: 1013
-        isCached: true
 
 secured: "AZHLPu8IJGinzZcvZNGoTUhpy/VdU3ZhYmPhdOpiYITrtYSJjxKbixOb99ZTuMaL4I5xW1xJKrzcuZXSf+ZNd7MHHBJh7LKKpQo4mSyqT/oA4t+M5Ib7nSb59DPmZ2lvC8ZSAx/DQupUY6b3GAjW+8vD6yPtCUAnxRsdZ3cdMZiNkeoQgGRxA0hbAGmtusbS7g2bJ2tsXsw2HTxDQFahup1MUz2uSPr+buOqg1iD1HpGkPv9Aa7tQ+2qS24cbfPJyDdB7+3DekoJGc8s9C3Wq2iXoGODn41N7vqg2cjkpfAgGIwHKWKIZdvecUb9sDGR39AdV3HBmzpbrm0iyBJsaNZUu+VssnMyo+lupkP72fQ=;IyXkqKbxmfDJa+KBKgI70g=="
 ---

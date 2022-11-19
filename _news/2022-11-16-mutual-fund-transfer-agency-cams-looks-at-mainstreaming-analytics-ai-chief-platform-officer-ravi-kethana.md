@@ -41,20 +41,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Webinar: deploying analytics at scale in financial services"
-    excerpt: "Speakers from AWS and Teradata will come together to speak about the challenges of deploying analytics across organisations within financial services"
-    publishedDateTime: 2022-11-14T16:52:00Z
-    webUrl: "https://fintechmagazine.com/articles/webinar-deploying-analytics-at-scale-in-financial-services"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 26
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/3bde99c6e7ae57496070410ba243f8b1:67217f0a99fa019d78b17cbb145747d8/mpu-300x250.png.jpg"
-        width: 1800
-        height: 1013
-        isCached: true
   - title: "Mutual fund transfer agency CAMS looks at mainstreaming analytics, AI: Chief Platform Officer Ravi Kethana"
     excerpt: "Working towards the goal of customer ease, India's largest mutual fund transfer agency Computer Age Management Services Limited (CAMS) is looking at mainstreaming analytics, artificial intelligence and blockchain,"
     publishedDateTime: 2022-11-17T05:05:00Z

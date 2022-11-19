@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-bu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/"
 type: article
 quality: 121
-heat: 511
+heat: 501
 published: true
 
 provider:
@@ -479,20 +479,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2022/01/PNY-InsideHPC-Guide-EGX-platform-Covor-image.png"
         width: 1753
         height: 2280
-        isCached: true
-  - title: "Microsoft’s new Supply Chain Platform combines data and AI to help fix logistics and inventory problems"
-    excerpt: "Microsoft's new Supply Chain Platform combines data and AI to help fix logistics and inventory problems - SiliconANGLE"
-    publishedDateTime: 2022-11-14T15:15:00Z
-    webUrl: "https://siliconangle.com/2022/11/14/microsofts-new-supply-chain-platform-combines-data-ai-help-fix-logistics-inventory-problems/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/aerial-view-factory-trucks-parked-near-warehouse-daytime.jpg"
-        width: 2000
-        height: 1498
         isCached: true
   - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "Customers Can Seamlessly Extend Nutanix Environment to Microsoft Azure Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure,"

@@ -58,24 +58,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 34
-  - title: "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer"
-    excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5"
-    publishedDateTime: 2022-11-14T16:33:00Z
-    webUrl: "https://www.datanami.com/this-just-in/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
-  - title: "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models"
-    excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work."
-    publishedDateTime: 2022-11-14T16:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/14/9712263.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "gmBxLrxetX3dwg9XJJf/2t5Qrs1Sr6k0vLlZLKAp7avqjzUu8YyKQHaF9K9u6HI9cjpzvHGxTzvBwqHkuK2FAQDtXVzXcy8gCUoPmci9NygOLNpN6V/REf5l11p3gMREZoI+xXRhjlSQALLhkQ9S/PLb+YLzM3Om1mtGlyF969b6+P2ERCrBf9oVbW8D05Q2tfF37rKV0mF2pv3/aH6WtkZ9oS70NTzLzJAIkf5do9ufJWv7K+GqmaIRhhmGiQnwRFAMLe1tWDMvNDgzYc/STyHZZh06JvUg9jqYE2s6XgopPpRXFOIoA1AVcFqdLkOKzgYkSeX1WJ+aBA4pRL4IWv0L+8muKiEkIXIywI5Y1fJjlPbeIFUuqn0Xmh7fNrYvRIJQ7h7O1XJbcMrydpFdCnYM4/Yh1uvDmtJlPeuqzdqL84UgbBL8oklghIP+nSKYdoZwADlZnBbHP07nS1mZMjxyR0RAPfqeffhhzWWksNNJTlOYrIg3WUyGeOUuQwjhBMdMOUfZ8Fq2f2otstSnXg==;1/spGA5xrhij8hfIyuIeXw=="
 ---

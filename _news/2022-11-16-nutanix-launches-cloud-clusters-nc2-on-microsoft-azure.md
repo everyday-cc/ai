@@ -483,20 +483,6 @@ related:
         width: 1753
         height: 2280
         isCached: true
-  - title: "Microsoft’s new Supply Chain Platform combines data and AI to help fix logistics and inventory problems"
-    excerpt: "Microsoft's new Supply Chain Platform combines data and AI to help fix logistics and inventory problems - SiliconANGLE"
-    publishedDateTime: 2022-11-14T15:15:00Z
-    webUrl: "https://siliconangle.com/2022/11/14/microsofts-new-supply-chain-platform-combines-data-ai-help-fix-logistics-inventory-problems/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/aerial-view-factory-trucks-parked-near-warehouse-daytime.jpg"
-        width: 2000
-        height: 1498
-        isCached: true
   - title: "NVIDIA Teams With Microsoft to Build Massive Cloud AI Computer"
     excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s advanced supercomputing infrastructure combined with NVIDIA GPUs,"
     publishedDateTime: 2022-11-16T18:58:00Z

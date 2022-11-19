@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/best-practices-for-data-enrichment"
 webUrl: "https://www.deepmind.com/blog/best-practices-for-data-enrichment"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-related:
-  - title: "Best practices for bolstering machine learning security"
-    excerpt: "New considerations are necessary as more businesses adopt machine learning at scale. In association withCapital One Nearly 75% of the world’s largest companies have already integrated AI and machine learning (ML) into their business strategies."
-    publishedDateTime: 2022-11-14T15:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/"
-    ampWebUrl: "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 78
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/180913390_1200.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "4MrCQ9eklQYBh4zZHiAsUcMzOcb9aELzhp4H8184UN2aWqw4VrowlrU3tdYcgNI1/QunaBrFHaeEJLtIi7u7Oywt4seaTDlBv3fY8HNkPakNSbY99n8699fr9ANMZjBj7JYZjfeiXLHOKLgIhKMDMyqsaLD6VoWKNsUx/OPGYd2GnMiHpQRNYrN+K+p0CGfOokxY4h4/JGpod3rR/m0n7mMKX6to3aErVzDsyszaz52HjZ7wNim1ydfvYaXWWm/rze0Y1LwLrECzErZQTatndyxH64fB3NYWoFK0YDW7npn0K/ON/JT/TvQQboWvq+gin4NcgYuAeiIwqZt1Vl43xpOpNRluWqqlYaoTKKuPTfk=;4dSxI5YJrXotM43OaOHfvQ=="
 ---
