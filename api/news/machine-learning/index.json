@@ -492,49 +492,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-16-machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy.md",
-      "title": "Machine learning can help predict patient response to cancer immunotherapy",
-      "excerpt": "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades. Now, researchers at the Johns Hopkins Kimmel Cancer Center and its Bloomberg~Kimmel Institute for Cancer Immunotherapy are one step closer to solving that problem.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-can-h.jpg",
-          "width": 2880,
-          "height": 2052,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.amp",
-      "publishedDateTime": "2022-11-16T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
       "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
       "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
@@ -1455,6 +1412,59 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler.md",
+      "title": "Cost-effective data preparation for machine learning using SageMaker Data Wrangler",
+      "excerpt": "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg",
+          "width": 1553,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T10:16:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -63,15 +63,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Interventional Radiology Market Is Projected To Reach USD 39.34 Billion By 2030 - Reports And Data"
-    excerpt: "Reports And Data The global interventional radiology market size was USD 25.10 Billion in 2021 and is expected to register a revenue CAGR"
-    publishedDateTime: 2022-11-14T13:58:00Z
-    webUrl: "https://menafn.com/1105178308/Interventional-Radiology-Market-Is-Projected-To-Reach-USD-3934-Billion-By-2030-Reports-And-Data"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
   - title: "Global Industrial Robotics Market Size & Share Projected to Reach to USD 46.1 Billion by 2030, at 14.2% CAGR Growth: Polaris Market Research"
     excerpt: "According to the research report, the global industrial robotics market size & share was valued at USD 14.1 billion in 2021 and is expected to reach USD 46.1 Billion by 2030, growing at a CAGR of 14.2% during the forecast period."
     publishedDateTime: 2022-11-16T13:31:00Z

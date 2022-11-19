@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 782
     isCached: true
-
-related:
-  - title: "How Generative AI Is Changing Creative Work"
-    excerpt: "Generative AI models for businesses threaten to upend the world of content creation, with substantial impacts on marketing, software, design, entertainment, and interpersonal communications. These models are able to produce text and images: blog posts,"
-    publishedDateTime: 2022-11-14T13:26:00Z
-    webUrl: "https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 41
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/11/Nov22_14_1364531717.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uC7+OkEfEZEiMXJW6/9yfdtlczAf5Yl/oXDw8qQvZHOvLJnQ+tuL+rHYE98mRe1+BKSXfx5Vj43ED3W8BQxuMHISoyebGXQz6XQjMYYt+oZWBgE9YPSG9+ln8siOQd8wQT5xAJCUtVh+WdbRSht1DReN6NUmzhlI6TjnBMxj458sIK7z2cZSPkM6vhLgce2l9N9IJY7X+SNXD8ewfn5VW2hsN64ss4dYcicCgC7OsCvQmmPrX7of0DRMEHp2UVNYxeflnArgGMOcvlTlGf4KXH34pAsJNmFusByaO9DQXxL0K6tX6lSQH2hmi69hL7FnOArICLaalT+1v0wE/hNbO63Mn+J0Dtxa/FVI6OnTZT7Dj392MMyf1949y67MvpV/WoI0qCViT+Ne2FNTu1t1iADUi9UqYLDe61TrX05b2xdlVCU9N08tMK8Zx1YI9C54mH81luhlnbcrZm3OW+2SjPM/CHrHMP1YyxGYB++hKNbRmgBhmOovK+z8+I6rGZq5spdZbwHZej1MhW+L8TItXQ==;QVeXPw49GzLHd2m+P95Tlw=="
 ---

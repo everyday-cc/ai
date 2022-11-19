@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-eth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
 type: article
 quality: 123
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI/ML Innovations Acquires Full Ownership Of Digital Healthcare Company, Health Gauge Inc"
-    excerpt: "TORONTO, ON / ACCESSWIRE / November 14, 2022 /  AI/ML Innovations Inc. ('AIML') (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company co"
-    publishedDateTime: 2022-11-14T13:55:00Z
-    webUrl: "https://menafn.com/1105178366/AIML-Innovations-Acquires-Full-Ownership-Of-Digital-Healthcare-Company-Health-Gauge-Inc"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
   - title: "6 healthcare moves from General Catalyst"
     excerpt: "From expanding its partnerships with more health systems, to investing in a plethora of healthcare startups, here are six recent healthcare moves from venture capital firm General Catalyst: General Catalyst partnered with its first health system outside the U."
     publishedDateTime: 2022-11-18T21:30:00Z

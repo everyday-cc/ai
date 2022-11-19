@@ -27,7 +27,7 @@ related:
   - title: "How to Get People to Trust AI Predictions"
     excerpt: "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?"
     publishedDateTime: 2022-11-17T15:00:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=tech_featst_pos1"
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines"
     type: article
     provider:
       name: Wall Street Journal

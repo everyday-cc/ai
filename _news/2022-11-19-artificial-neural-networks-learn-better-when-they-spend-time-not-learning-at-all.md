@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Artificial neural networks learn better when they spend time not learning at all"
-excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
-publishedDateTime: 2022-11-18T22:40:00Z
-originalUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
-webUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
-ampWebUrl: "https://phys.org/news/2022-11-artificial-neural-networks.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp"
+excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility across a spectrum of research interests."
+publishedDateTime: 2022-11-19T01:37:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
 type: article
-quality: 54
-heat: 64
+quality: 44
+heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Transforming bacterial cells into living artificial neural circuits"
@@ -44,6 +40,6 @@ related:
         height: 2317
         isCached: true
 
-secured: "+/9m3fmnqxNXqsTvsbQhbRKzFHdo3LARb1rBI9YzAQJAc7APqtPfCU0qWQUnQt7LA0N3N4FUz4nJJzkSApgA093ascayhsPer/evArxoyYoS9E1l0gARW7fOb+j+rUBWiOWDrgUtBNXKt3wTc+bvFfwmT2FYMcH7800dgxfysdEp69Ii26fSZ5AaomBKMUXBkyh/XZ8l6isv9Bb14uJy9QY6qu4tTlQg90QowpBX/pCJo0wXVIWpZzhei7p5CBQ+3bLgXuexCwtDmrtMQufqdmj9iK3o5ktNucoJOYpIH9er5WqLNfK9GnFYPXZ0NpTqkWZCe/tpaviYC9Ye8kxT7I0UndYyRsGtTKVf8cZC/lg=;2Oq/Z8wsXwr1FW435zkwgQ=="
+secured: "0lx+g1tvjbEH1z5MLNkHP0JIulHQF+uSqMx0dvsibNGlHGWEItguewgZr/pz3y8I96dKdpvbmdqfJaB6Hz6yqhSP3Ae4jyWGQnXLliMtuuyUekfrHbQXM89mZ2yfqscOcniN8nNmsEyuMDGlRL9OvlEhGmDh2Ce7v/6s5GpdFpUZ/XpCA6OG0xbp2zZuYgZwCLZR196MU61uKr/LLK8H3nIu1k26GWp3H+lbAxbzmCQ+r/k3UhatEs+ARfGE9lXPpPEQwIv2uE0cBJ0EZhWYPz4wmKNrlsLZOIRJJK55OF/LrQtjqL05vt8eoLN+ZctDfRztRHNiPXzWINFkeAJ92p6IojzYckyk6Cv3jRMy2PI=;e+sFK3ca+1Y080ltogLaIw=="
 ---
 

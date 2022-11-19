@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2022-11-04-us-army-digs-deeper-to-develop-robotic-breachers.md",
-      "title": "US Army digs deeper to develop robotic breachers",
-      "excerpt": "As part of the Joint Warfighting Assessment exercise, two of the vehicles controlled by a Marine Corps unit tackled obstacles atop a desert plateau. Both robotic vehicles were controlled from a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.defensenews.com/unmanned/2022/11/03/us-army-digs-deeper-to-develop-robotic-breachers/",
-      "originalUrl": "https://www.defensenews.com/unmanned/2022/11/03/us-army-digs-deeper-to-develop-robotic-breachers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defensenews.com/resizer/Uwpm-Wm0MVv3xtPlt_6-IJ3KRpk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/7375MPBJAZHYPBNQR5NDGYYKGM.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-03-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
       "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
       "excerpt": "OpenAI's new Converge program will grant roughly ten AI startups $1 million in funding and access to Open AI resources, including AI systems.",
@@ -1125,6 +1082,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-nvidia-enters-the-speech-ai-race-joining-meta-and-google.md",
+      "title": "Nvidia enters the speech AI race, joining Meta and Google",
+      "excerpt": "Nvidia and Mozilla Common Voice have partnered to develop speech AI models that work universally for every language speaker worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
+      "publishedDateTime": "2022-11-02T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

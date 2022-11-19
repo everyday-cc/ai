@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can help predict patient response to cancer immunotherapy"
-    excerpt: "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades. Now, researchers at the Johns Hopkins Kimmel Cancer Center and its Bloomberg~Kimmel Institute for Cancer Immunotherapy are one step closer to solving that problem."
-    publishedDateTime: 2022-11-16T15:47:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-machine-patient-response-cancer-immunotherapy.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-can-h.jpg"
-        width: 2880
-        height: 2052
-        isCached: true
   - title: "Machine learning algorithm predicts a tumor’s response to immune checkpoint blockade"
     excerpt: "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades."
     publishedDateTime: 2022-11-16T16:09:00Z
@@ -55,6 +39,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning can help predict patient response to cancer immunotherapy"
+    excerpt: "It uses deep learning, a form of artificial intelligence, to recognize patterns in large volumes of data. In this case, the data is the amino acid sequences of proteins called T cell receptors (TCRs). TCRs sit on the exterior of the immune system’s T ..."
+    publishedDateTime: 2022-11-16T15:44:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/971463"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
   - title: "Machine learning can help predict patient response to cancer immunotherapy"
     excerpt: "Predicting which patients will respond well to treatment is a quandary that has plagued the field of cancer immunotherapy for more than four decades. Now, researchers at the Johns Hopkins Kimmel Comprehensive Cancer Center and its Bloomberg~Kimmel Institute for Cancer Immunotherapy are one step closer to solving that problem."
     publishedDateTime: 2022-11-17T12:59:00Z

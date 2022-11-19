@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-p
 webUrl: "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence innovation: Leading companies in collision avoidance for robots for the aerospace and defence industry"
+    excerpt: "GlobalData uncovers the leading innovators in collision avoidance for robots for the aerospace and defence industry."
+    publishedDateTime: 2022-11-18T15:29:00Z
+    webUrl: "https://www.army-technology.com/?p=271792"
+    type: article
+    provider:
+      name: army-technology.com
+      domain: army-technology.com
+    quality: 26
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/10/Aritificial-Intelligence-in-Defence-1-2-1038x720.jpg"
+        width: 1038
+        height: 720
+        isCached: true
   - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"
     excerpt: "Jeff McVeigh, corporate vice president, and general manager, Super Compute Group, Intel \"Dell Technologies and Intel are collaborating on innovative solutions in the HPC and AI space, bringing our various solutions including the Max Series GPU and 4th Gen ..."
     publishedDateTime: 2022-11-14T16:24:00Z

@@ -50,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Infosys BPM-IBM Collaboration Launches the Center of AI and Automation"
-    excerpt: "Infosys BPM, the business process management arm of Infosys INFY INFY INFY, today launched the Center of AI and Automation, in collaboration with IBM, at the Infosys Business Experience Lounge in Poland,"
-    publishedDateTime: 2022-11-14T13:05:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13401"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_13401_16684292239725005.jpg"
-        width: 350
-        height: 215
-        isCached: true
 
 secured: "J+x+NqORlQfogV0ZtaJWxIFQjsbvsJFrMbUVqkUgV9pJ0jCvin5DxqCqBz0e+1Jr4PmEsRrdLyEC3WfKefibTDY3wyMPOvjFZ7O+pLnxLGHPnuua10hg4ou6WcYx+6wpu3skcfFRnbkYQfKALxharBJu1N9YQtDIl4iF06t5I8+QYXKBBBktKKcbG9BJMuIUGtrQ2fHBDmB+em9gjWvX7F7OSjBXkEWWoprxNe5JUlajY310OZ8HLgj25Wj/J2vkobPfmuDeu6m63yi4iPOMcrwaHJF3iuAJvi2vgfPmCtJZckqGSqKWhGDpZPCpg/zgywHWIDYu6dLrZqBadmimH5NhgdIt6VVFpfByq7e1rv8=;gk74qAzqgcoxSTF7j6O0AQ=="
 ---

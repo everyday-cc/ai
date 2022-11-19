@@ -3,8 +3,8 @@ category: news
 title: "How to Get People to Trust AI Predictions"
 excerpt: "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?"
 publishedDateTime: 2022-11-17T15:00:00Z
-originalUrl: "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=tech_featst_pos1"
-webUrl: "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=tech_featst_pos1"
+originalUrl: "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines"
 type: article
 quality: 67
 heat: 87
@@ -59,6 +59,6 @@ related:
         height: 700
         isCached: true
 
-secured: "yi/St2D3a0bO2OyKBuKvMuvYjiG9NjurrtYirnNThq8qgOo6D7i0aSdF7DFE2YT2xYeGwZUm6d/iBDNQ3kismnDintGb2Cw95NRjFgUsKoc67S3yJE7UXAFT5RnASWjATVdaRPo4iFD1A+vhY0NSEYoI5apijVjM7sKlwfL020YEJeVFC0gkKGWKoWAfoRR7dw9adS4b3f16N39cT1PXV3Gip/9HBWH+n750jhb7jLLHa87kNHaR/qT7MxwFVzZK2KT2mFI2MQXAM/H4lBCXkPfTW0oaTgBgE4oHy2GGviKO0GCs6Xj4EeFMR5+WKKRbjQukID2vWu4pKVOPZ3uUl3Z82GN9iRC+eqSDDIHUYAyGFy+OkirYrf+6aje77BacMhHWAi5DJlEPLE8F4ljawthBQjgp2gp6qZ6jqVB9WzKF/K2q27JP5p+amjXoR9l8Ivk9y5YfqdnYCte/kCMG9aN0T68lNRA738SKpoM9HySE8aQRiYA12E3qH5vPUvRLKO7tKjNf59bVBTTjOBF62w==;Lg8pVVBbhIcVGCOw68iypw=="
+secured: "50F55RuZHQf4/T3m0riWsKl17FfRapHlmldova40WHh6Eeg6mtmQ0E17E/XKQXR3vYeYLzqH9JukKDrSX8Mnr6ZxVRE/Gdv7SgYkbP0OeuH5slo7VLAy+Huloxg1+usl+V+rBu9T1nTfHvasGqh7QL193o7cUb9cazAd5DINJf2iHZQ1kpiIvNzKYE9syhaOnMhUuvXmmDQSnv3TTGOxXNj8Idk3UK3Z4y36kqGF9egj1UMuspEumjULOEWIsnkeqFsGzJwRi9ir7/KBYaJecrrWMNOwVdsXnMgkV4cEuONVQ05ESJnHro4heNrXidS3IO6nGl6vtL0ukFRxbdQi0LvZue0lgRWMAZrCHB9X2rI=;87C04COEdUATYodmZuaPnQ=="
 ---
 

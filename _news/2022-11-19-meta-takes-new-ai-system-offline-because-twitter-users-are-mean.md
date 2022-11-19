@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/meta-takes-new-ai-system-offline-becau
 webUrl: "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Why Meta and Twitter’s AI and ML layoffs matter | The AI Beat"
-    excerpt: "Gousios, who worked on the Probability team from October 2020 to February 2022, said while Facebook had a lot of developers ... According to Nantas Nardelli, senior research scientist at climate tech AI company Carbon Re, these were some of the best ..."
-    publishedDateTime: 2022-11-14T14:24:00Z
-    webUrl: "https://venturebeat.com/ai/why-meta-and-twitters-ai-and-ml-layoffs-matter-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
 
 secured: "mudahmGnaL73rc9IvBfgZPjG5gulyUH+DtdxUCqua/MBCWTBscCFoWjwQu/jbxnE7S66uRblZ6c3TvI8+gylhFRffMAzrBp7SmaeAvUb26J5NVKf2HuIZDg6Cmv9UCIIK/DAYFvuqwyJmTn7UtphtnOkdutnVrroJ0v5yP4GPFfkohYD43ptCvhkSKEiEChuv5AB7BsunIOyC0s/bUMwYvtN3oE4z3fSc+HfLaJ27AMc8ir/LcdcvMj9lUmVeaEJioxlzxNPLQ+VaK3YzmaxH+0Y//OM2Qw0HsQH0/2dOEpBwmTAtLEP0q1NAp+OabsZkcre7QtrGAkOHzXZiAObOkbiMjiCa+C7J7KlKiB1tsLWrDpd+pTfAnEAJfbwt0h4ODqiIRBAinTT8Q1pq/LeOzVRXknLWjuXyAZCExFiyPtQF3QNHthIa7KNvKPmMxHgEKQ8Wx2EWpJJrf3A3HTm542TJ6ky/QFoEnU3Wqzzop5Ga5uNKihK1/T7Zj1CJ6b2pc5YE2HXe8wjqxJJVzPz+w==;9RIRyXUSIw5WKQhVTAcjtg=="
 ---

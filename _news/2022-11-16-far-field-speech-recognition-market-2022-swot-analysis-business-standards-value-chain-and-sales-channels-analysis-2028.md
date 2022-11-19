@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/far-field-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-11-15"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Autonomous Vehicles Market Size and Research Report 2022 by Production, Consumption Analysis, Product Types and Forecast to 2025"
-    excerpt: "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence (AI) software, light detection and ranging (LiDAR), and Radar sensing technology, which is further used to monitor the car and to form an active 3D map of the current ..."
-    publishedDateTime: 2022-11-14T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-autonomous-vehicles-market-size-and-research-report-2022-by-production-consumption-analysis-product-types-and-forecast-to-2025-2022-11-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 2
 
 secured: "MgImU2sksDZEHhkUnLx/dq2pCwUGJ846Icv2vcKZXnRJo94KbfBy8Vzuj6ttpOcOUPGu4vUI1e8OsOlCxmxY/xunffxxGquIL/Rq+US++0xsGnPKD2WLt27qg8QkXnys0aPb9chgfnJ5xcRLek3pvn5XAtSBY3N7yqghqkl/mGCbt36Sb1OHQ9uGQYUUp8Hb9ETrvkDM1YjI77LKrrb7jyylPTHD035KcpkJqfZ/j+uxM5hZiaEzUcQpNWCHncNDYfleUMbgOI9lMo2byYlEGzWSXlwo1vcZRJl/TFWvbTWpJMoTLtNdVrAqAaPFmlelkWjXyGHIO6YXKcGJp8C+0PD9/hPZeFwPW2NXMv2rLcA=;F2Lbhz/k0QsJYv5wrT+cjw=="
 ---

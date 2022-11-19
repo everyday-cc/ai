@@ -24,17 +24,6 @@ images:
     height: 437
     isCached: true
 
-related:
-  - title: "Camgian Partners with Taylor Machine Works to Deploy AI-Enabled Maintenance Optimization Platform"
-    excerpt: "Camgian's proprietary platform technology is built on an integrated time-series database and model-driven architecture that allows for the efficient implementation and adoption of AI and machine learning algorithms throughout an enterprise. For Taylor360 ..."
-    publishedDateTime: 2022-11-14T14:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/14/9712272.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-
 secured: "f/LpVvT56ITzJ9U+vmF77MPh8GneDQKaQlz93Qhst0cRkrPGKOaO6myBICJ7EjAq07Fh1nY+sJ6mf2Pqc8AISFSP+vYYxLuibn83HCZ/VCNuGvm68Bobvzi/hdgyK5UBGwMQXuM60iq5v6xY95Yce4KLSajuJ2OKnbQJ6lWxZN7cPuAqPsU/TVGYqAbvp3Y35NPc5io6OxeV87Vd0D0T4ULFARnb/fZPwqswI6HS9AaPxCXG5IyOcsONcMr/rCAk2YdjkeI8mDaeMPcUR5zFC0GeNoVDkTuRQtzyq1Jm0eqwTnSHHzOSNlysTCBNoRQZ6kEXuUZelto0a350k9/3j2KQopnPi4plprW2SoWi8m4=;tnXzcUKALou5x+6Q/SBDyA=="
 ---
 

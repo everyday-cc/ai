@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Autonomous Vehicles Market Size and Research Report 2022 by Production, Consumption Analysis, Product Types and Forecast to 2025"
-    excerpt: "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence (AI) software, light detection and ranging (LiDAR), and Radar sensing technology, which is further used to monitor the car and to form an active 3D map of the current ..."
-    publishedDateTime: 2022-11-14T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-autonomous-vehicles-market-size-and-research-report-2022-by-production-consumption-analysis-product-types-and-forecast-to-2025-2022-11-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 2
 
 secured: "6kWLgrVv+ZPV2fL4NNP+HjEW1FxW+xc0Jno8oBL/PdC19qDDvFEpFIlsWvqcPmq975/hA3wAZWUW3phErPsn6k1hzwXFLbmHIxr0BmHmVQ1Nxhlz6Gt9r55RwVC0e4nAPhx67KzRpS4lnzpiKM9tJVzd/vl+4ryDteObS6mSQAX6Ny1kU1mgw8/saO3CH4p7Ukny9XBcb6nz35urRYoopQcPo6lfZuiGVhw8DxJdrK3a5oyt/jh1ZDtvr89MqNN6C6x0kEX3gekaEh0V8FYrQ7FmR5+5tZG2mT3yeSI8KEiAs56G8AfmcBWt/pvzERdy0p/wBH/oy9L5S8eUaDKWKBqJW5HDoc5+gPBgNfgTMyc=;DoMEixgHTlLTAd7bA8M7EQ=="
 ---

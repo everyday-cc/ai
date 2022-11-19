@@ -67,15 +67,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Interventional Radiology Market Is Projected To Reach USD 39.34 Billion By 2030 - Reports And Data"
-    excerpt: "Reports And Data The global interventional radiology market size was USD 25.10 Billion in 2021 and is expected to register a revenue CAGR"
-    publishedDateTime: 2022-11-14T13:58:00Z
-    webUrl: "https://menafn.com/1105178308/Interventional-Radiology-Market-Is-Projected-To-Reach-USD-3934-Billion-By-2030-Reports-And-Data"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
   - title: "Last-Mile Delivery Robot Global Market Report 2022: Potential to Fill the Labor Shortage Gap Presents Lucrative Opportunities"
     excerpt: "The global last-mile delivery robot market was valued at $18.1 million in 2021, and it is estimated to reach $36.2 million by 2032 at a compound annual growth rate (CAGR) of 6.22% during the forecast period 2022-2032."
     publishedDateTime: 2022-11-16T13:50:00Z
