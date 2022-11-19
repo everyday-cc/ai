@@ -1,30 +1,20 @@
 ---
 category: news
 title: "How artificial intelligence is being used to stop retail theft"
-excerpt: "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security system sent an alert to his phone that showed a customer who ..."
-publishedDateTime: 2022-11-18T15:06:00Z
-originalUrl: "https://www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-webUrl: "https://www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-ampWebUrl: "https://www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
-cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+excerpt: "For many retailers, the holiday season is the biggest time of the year, and with increased concern about retail theft, many stores are putting in new tools to catch those who may be shoplifting."
+publishedDateTime: 2022-11-18T14:44:00Z
+originalUrl: "https://www.newschannel5.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+webUrl: "https://www.newschannel5.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
 type: article
-quality: 72
-heat: 72
-published: true
 
 provider:
-  name: WPTV-TV
-  domain: wptv.com
+  name: WTVF
+  domain: newschannel5.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "Q/bXiKD7QTYMaQkDzlxcStVfGF6VTrDR2B0qcvbmml3ifFDQMwuZv2fDUmbLmA8LX0F4ZnxfVaQ53qVFz6ISe1QkT+xfcBPJktR7m+E0hoixYvQXtYD16KAnzptylvvx2JAOmcJR0I/Z9R+ZJpqr0a5hISVJ6hExDnNSYcxMBGpVjMWXfxwVtI2Tkiu0it3G+3FVB8V+4FguLDtrFfvAaAwur8Cm6x6vPsldXkHzTYIcHh5VmAtP21mlHw7pWAeZKJY7HswE14GYXKPnNOPSxA7yJ0QMVhYSO7PMsU4oUVmC3gn9y3rDaw6AEiJ23PsBE0Hmbz3v5vG7BrsBiTcBsfpQ6/9BVxvSq7L24znY44Q=;ODHAzEBFQGdwxjD114hIWQ=="
+secured: "O1t/EKiTnkBpa47zn7ZMpWjijKhPBMG4TVkJ5sADRpvSAsivOAKXVsmW9ZLEfZw0KpGuPFLOWFw9AynXXHU6qeQp5VwoHT9KA6o1OfqUR/m3TrUuZvtD41JiPgH8r9+hC9LBk/OlHxIezKybF9R5yQXoTJczeiAFdkJP3wCbKLrjVjnnUxBqm1KhoN2XTbKXevH0nG0NsdJCznjB2cnKvmfDiywyV2kDWLkuk+xUBsLImiJ1xv9EQJJqYhk7isn4cOISTP1N9z27eOTE5rsMHHLN96EBUNNmF8BMWkfjhL8irZQL5oe0AYMe0K5Y/sXJugtCYxHhQFBCTJw3J+4D0Sf2QioQ4P1Wc9CS3akTWos=;gJ1ZD36Yw5kGv9tVyguZ2g=="
 ---
 
