@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Y, Robot: Campus researchers push the boundaries of robotics"
-    excerpt: "The Robotic Vision Lab focuses on using artificial intelligence and machine learning to achieve vision in robots. Their research spans self-driving cars, facial recognition and food inspection. Casey Sun, a Ph.D. student in the lab, explained how Robotic ..."
-    publishedDateTime: 2022-11-14T20:46:00Z
-    webUrl: "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/"
-    type: article
-    provider:
-      name: The Digital Universe
-      domain: byu.edu
-    quality: 54
-    images:
-      - url: "https://universe.byu.edu/wp-content/uploads/2022/10/2203-65-4-1920x1280.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
     excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
     publishedDateTime: 2022-11-15T20:20:00Z
@@ -58,28 +44,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amp Robotics opens new headquarters"
-    excerpt: "Amp Robotics Corp., a developer of artificial intelligence (AI), robotics and infrastructure for the recycling industry, has opened its new corporate headquarters in Louisville, Colorado. The new location unites the staff from the company’s previous offices in Louisville and Broomfield,"
-    publishedDateTime: 2022-11-16T00:00:00Z
-    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-opens-new-headquarters/"
+  - title: "Walmart Deals for Days: This $119 robot vacuum deal is one of the best we've seen this Black Friday"
+    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
+    publishedDateTime: 2022-11-18T15:56:00Z
+    webUrl: "https://www.cbsnews.com/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/walmart-deals-for-days-this-119-robot-vacuum-deals-is-one-of-the-best-weve-seen-this-black-friday/"
     type: article
     provider:
-      name: Recycling Today
-      domain: recyclingtoday.com
-    quality: 34
-  - title: "Your Robotaxi Is Almost Here"
-    excerpt: "Autonomous vehicles have rolled out like a series of waves, building momentum over time. They may now be headed to roadways near you."
-    publishedDateTime: 2022-11-19T02:00:00Z
-    webUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 24
+      name: CBS News
+      domain: cbsnews.com
+    quality: 47
     images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/7nc1d40MYZOIdUyKww5VYk/c0c2a7fa3a5a80c5faeeee98da031b66/GettyImages-1219141234_.jpg"
-        width: 1000
-        height: 667
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/18/c8502349-33f1-45e1-8dce-ae2bae7dabec/thumbnail/1200x630/c599ebe5043f0f0444d6131eda127da3/eufy-by-anker-robo-vacuum-g32-pro-119.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Best Black Friday Samsung deals this week"
+    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
+    publishedDateTime: 2022-11-17T13:24:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-black-friday-samsung-deals-this-week/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-samsung-deals-this-week/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-samsung-deals-this-week/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/17/314cdff8-4d4b-4462-bcc0-801c8bdcc9b9/thumbnail/1200x630/cddf98c21dad468fdcb823890880edab/samsung-black-friday-temp.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QsPP2pwjdOxlZ551P+NLILxRAN0nhNSESULJ9azRzntr5gaKN12kgi8fRrbKEiJZol1FnImooz9TEUhcOTBw/7TcCkaOwfvP6Ak0wC99yDMpNn6fbApUOeZ2E53eeAKnGfsOaxEbat7q7omV1jJ+VfIcHLI/ktbJ9DwTFRmkzJHNLvMYxhzzdTuZ6ECLdtMIQOqTuoCLuCZYXkUVy+HMFaB9ge3Ah3cm1M8EH3Le8dPMWMpIhSnVuNo9C57QGwu87FVBta2jn9Qnq+o+o4gSu6d1Gyc14wv0w0bFnrdbfOkNlP1tAPQG5IMtV+VNQXYfIVeCtuGNEuFLYfX9ujoWrKzI/Tuc7qP8yg5QddmHaNY=;hrdjMHXbL8t09CZQeGRZ5w=="

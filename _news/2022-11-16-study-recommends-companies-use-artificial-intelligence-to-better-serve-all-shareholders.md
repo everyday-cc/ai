@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-companies-artificial-intelligenc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-companies-artificial-intelligence-shareholders.amp"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1920
     height: 1440
     isCached: true
-
-related:
-  - title: "Dell’s newest PowerEdge servers make HPC, AI and quantum computing available to companies of all sizes"
-    excerpt: "Dell's newest PowerEdge servers make HPC, AI and quantum computing available to companies of all sizes - SiliconANGLE"
-    publishedDateTime: 2022-11-14T19:56:00Z
-    webUrl: "https://siliconangle.com/2022/11/14/dells-newest-poweredge-servers-make-hpc-ai-quantum-computing-available-companies-sizes/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 5
 
 secured: "AjtkwTUpBi1s5VQ+kB0S1KN7nykyxkaXcCh3o1PQcql3F6Hqhs9TgBV43/C+Vf35rSFbKLvSu7EZ6diDAHYXoq2uTVjiDidvllMDpf2jv8/6epC91H3SHHU0PfNQ4/ZJ4+S6Wnxt9MSULRJ43o/NLzN1FYIm+A6z67wo3gx27Gh4+zevqkOF+7fMGHsXoHDReWNHcekDOWaQnTBtST7TMcH0D6OmR8OV2ezqq6TJqDeeUt07vhL1XusXaL22lggq/KpeexsT281FGa6O281mYajBBaETtJVP84O6Q/VD+p1nGX5gbPz5PPz7iXa7BlFeR/ISuaA0fK/dG9g3bcM0sq8v0SojjLfASWj1OPwuopk=;JGtdo4lu39imvolkd9pJ8g=="
 ---

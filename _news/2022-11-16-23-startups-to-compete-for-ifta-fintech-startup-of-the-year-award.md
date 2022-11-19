@@ -82,20 +82,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "India FinTech Forum unveils 23 high potential fintech startups"
-    excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
-    publishedDateTime: 2022-11-14T20:41:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94864/india-fintech-forum-unveils-23-high-potential-fintech-startups"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "4 FinTech companies transforming the financial space in Iceland"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-11-16T11:43:00Z

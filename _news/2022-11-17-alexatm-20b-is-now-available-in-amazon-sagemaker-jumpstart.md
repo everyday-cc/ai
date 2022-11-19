@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1548
         height: 773
         isCached: true
-  - title: "Refit trained parameters on large datasets using Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler helps you understand, aggregate, transform, and prepare data for machine learning (ML) from a single visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform, and combine features without having to write any code. Data"
-    publishedDateTime: 2022-11-14T20:14:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/refit-trained-parameters-on-large-datasets-using-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
 
 secured: "92/PufyNJFmREoQqlloRkY15iyAbnvOl2pxbgyTg3uvD7l5VnqkgSN4a6jHBkEGXJHpBFm8s8KCb0YCj8jZTOkTgDZisiTmj17s7l0LiZ/PtjKoYTJOSFcJue48AsufNcyFc208zmhJMR6kA/2r83QO8LN8BWSqR5u/nEd3l0iNAvUd515bGpy5ENhoK9/i/TRBG5qBAq4lPaLqntDFGC0nBjzQvouG5gZIU1wvs1AikfzxccrhmP12k05F1/Wd+St22MtOv1lXYJPo8NC6k7hvw8tQ2RwSQt2/byvS/Mf/SXBUxnNgKftMWNbT2Hpq/U8e5e94u5afZp5NeBDay4kEX9BekZLq/VMmAKQuBxXk=;JAV7FroDqKOigUu4pIm+bA=="
 ---

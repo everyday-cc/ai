@@ -25,17 +25,6 @@ images:
     height: 1367
     isCached: true
 
-related:
-  - title: "Facial recognition deployed for G20 immigration control, security in Bali"
-    excerpt: "New facial recognition systems have been deployed for the G20 summit in Bali, Indonesia. An immigration deployment appears to feature SenseTime technology."
-    publishedDateTime: 2022-11-14T19:38:00Z
-    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-deployed-for-g20-immigration-control-security-in-bali"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-
 secured: "tnJC/+94cdIXtivSLuZn8kn4aQHX2YQR8POmIje+3aUmHD+RFGVCiaU3A45Pzrl6S4MeQUtOHys9eibzxDtxu6LqkwEYiCXuaVQb1lvORAd3xYtN3Sel3QfBlxIXUizpmDNr1uqD64bkA59Ee9IlWyA7Fxyag1CauRc2V/pY3OqEg76R1oxBRrt1gUB4pRiHRnM7/6yEMQ8g3GRDTQMTWP99zPRHftr0Zw65kILNjsdVCkX0bVLAhUAsEYdXgqT3tAV3WXRFI2k1p2nGHcUYH3otwWbAoyf9r/BgBNLN1VECPJ6oKyUDasOg5TG3pdfzsOKar6PRBuAydvfaTI8SLJQdwOh0qu3Ik8+yRbD8uyFf/98aKlYu/XGgiUxebBIVPG2lSu3IqjKjWS5pYuGZGnCMvxopo81kOtyk8jCBnNotwZs1WtXYX0tdKCtEvamT0pfyavlivxiXy9mp0wRR4ZfdYfIxRX889fn6w0LauzlufT7A5Z+661KY4aix3/p+2GHAJHqd/r9w4IJx1a/CQg==;gHGpOoPBW0R3dzMDohxDXg=="
 ---
 

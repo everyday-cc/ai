@@ -505,7 +505,7 @@
       "originalUrl": "https://www.eagletribune.com/region/amp-robotics-establishes-new-headquarters-in-louisville/article_f926f37b-8502-570b-8002-a1c364e8d945.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -632,6 +632,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-roborock-and-more.md",
+      "title": "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more",
+      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/",
+      "publishedDateTime": "2022-11-15T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1419,41 +1463,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae.md",
-      "title": "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae",
-      "excerpt": "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29641695",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695",
-      "publishedDateTime": "2022-11-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Try out AI at MOHAI’s ‘Artificial Intelligence’ exhibit"
-excerpt: "A new special exhibition at the Museum of History & Industry explores how AI developed over the years and how it has affected our lives. \"Artificial Intelligence: Your Mind and the Machine\" runs through Jan."
-publishedDateTime: 2022-11-17T12:59:00Z
-originalUrl: "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.html"
-webUrl: "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.html"
-ampWebUrl: "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.amp.html"
-cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.amp.html"
+excerpt: "“Artificial Intelligence: Your Mind and the Machine” runs ... Most of the screens are hands-on; a few play short videos. You can watch what a self-driving car “sees,” or how a robotic animal programmed with AI figures out how to deal with obstacles."
+publishedDateTime: 2022-11-17T14:00:00Z
+originalUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
+webUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/"
+ampWebUrl: "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Yakima Herald-Republic
-  domain: yakimaherald.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/1/e6/1e68e56d-d11b-5a76-b2f5-a0fd0f0adb64/63764a809e617.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
-    isCached: true
-
-secured: "IxVo8o/SX7mh/U0F+d+jvNo/tIjktV4WAtWoptuqnxPnpZQcsnPN4sXroiX5+r6V0sILwDfsF7nYlz1hYXOsW5QWhj3UhKZj41XSPyrmVTIQVp7FpbV5UjQBYQN5YJbEmLrwQy4e4pwjIMPCMquFn27I3ps3Nkg9ObiquYxoABQZhnBDjPeY5GckFsh1lH1pJ91z5bCefNsJCO5wuJVzR33kntNfBihM6GrSedkTYu1WnwS5SX2ddaUJfn2btdltgixNW88ZSGp/ha58fOX9aCOpMSjEuIB+qdA9V/kojox2PNftQoOKb+zSSfkWuZOvE30Q27gyFuK+iaZV6phNtRUdMJx+UfsnYed4GdDVExE=;r+uqTyo0RblIBV3vj0QGhg=="
+secured: "vx3MrcOsrL3oidF3g5q3vlWqYgdaZmvJ7j4jxBB5Z+xq3wezC9g8+T9at9uSWz3TL2nz55pEpBA4WN7c1RTRkYwG1xtEcDIN7MHa0gToeYagZC/8MfohzOcIi93WlZhzTTLathYImHzIhcRIXOTfXw8PGFDWdsCbuhGqP1zYtTdfq5YI2pSNKAeZU9i0xo2b6tfjYuvMBCuYPMew/Yxac2MsCanhPsFdsTqz9HY7LcwReR5nBhLWDqbLd5yTUmrPYV2a+gtPUWCcwVHZnZpUuSAMKVCyWmEmC3LAg1jgD547N5ytJEfc+YMp6O8wCT7IpgBPo5zyQ7yvHVYxh7dWzfnc26KWEOF6S3a06/cqtx0=;Wnzs63dNer8B0j8Kp+4WYw=="
 ---
 

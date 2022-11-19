@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-ml
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-mlops-features-of-amazon-sagemaker-to-scale-energy-optimization-across-their-ammonia-plants/"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,73 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Build a cross-account MLOps workflow using the Amazon SageMaker model registry"
+    excerpt: "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At"
+    publishedDateTime: 2022-11-16T21:57:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/build-an-across-account-mlops-workflow.jpg"
+        width: 1551
+        height: 775
+        isCached: true
+  - title: "Enabling hybrid ML workflows on Amazon EKS and Amazon SageMaker with one-click Kubeflow on AWS deployment"
+    excerpt: "Today, many AWS customers are building enterprise-ready machine learning (ML) platforms on Amazon Elastic Kubernetes Service (Amazon EKS) using Kubeflow on AWS (an AWS-specific distribution of Kubeflow) across many use cases, including computer vision, natural language understanding, speech translation,"
+    publishedDateTime: 2022-11-16T19:15:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enabling-hybrid-ml-workflows-on-amazon-eks-and-amazon-sagemaker-with-one-click-kubeflow-on-aws-deployment/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+  - title: "Large-scale feature engineering with sensitive data protection using AWS Glue interactive sessions and Amazon SageMaker Studio"
+    excerpt: "Organizations are using machine learning (ML) and AI services to enhance customer experience, reduce operational cost, and unlock new possibilities to improve business outcomes. Data underpins ML and AI use cases and is a strategic asset to an organization. As data is growing at an exponential rate,"
+    publishedDateTime: 2022-11-17T16:35:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-feature-engineering-with-sensitive-data-protection-using-aws-glue-interactive-sessions-and-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 76
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/large-scale-feature-engineering-glue-sagemaker.jpg"
+        width: 1550
+        height: 775
+        isCached: true
+  - title: "Detect multicollinearity, target leakage, and feature correlation with Amazon SageMaker Data Wrangler"
+    excerpt: "In machine learning (ML), data quality has direct impact on model quality. This is why data scientists and data engineers spend significant amount of time perfecting training datasets. Nevertheless, no dataset is perfect—there are trade-offs to the preprocessing techniques such as oversampling, normalization,"
+    publishedDateTime: 2022-11-15T17:29:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-multicollinearity-target-leakage-and-feature-correlation-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/15/detect-multicollinearity-sagemaker-data-wrangler.jpg"
+        width: 1549
+        height: 775
+        isCached: true
+  - title: "Get more control of your Amazon SageMaker Data Wrangler workloads with parameterized datasets and scheduled jobs"
+    excerpt: "Data is transforming every field and every business. However, with data growing faster than most companies can keep track of, collecting data and getting value out of that data is a challenging thing to do. A modern data strategy can help you create better business outcomes with data. AWS provides the"
+    publishedDateTime: 2022-11-15T17:40:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-more-control-of-your-amazon-sagemaker-data-wrangler-workloads-with-parameterized-datasets-and-scheduled-jobs/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/15/sagemaker-data-wrangler-parameterized-datasets.jpg"
+        width: 1549
+        height: 773
+        isCached: true
 
 secured: "FyRGgA9QSC6tRIzOIiwK3JefFgy2UgYQQNcyNpWmpcodRdtUIhVddya5Kj9d/2r8Q1lX8mV/v6TnQoZGe9YpW3qAQmabiGz3xoo89rlo0qtTq0tgDU0iCH4vx9aJp1RQmGv9IJ5JTKyZbZE4MKHpg+VLYVMeJm/S3xnMZYSyR9EtcrFJR52FHcr0dTI7n72eycJX2VB4Ccre585B86wBWrXhZC4h5wfRcepF6pn0pSh+tdT2vEw/zuIDR45F2LcZV+upXwlyUUinJXdMKL46qFvAciIzGQw+oqMSZGaur73ybgyqsMDI1SVVvyfMgqtNgtrKTMP+4mhk6PXPVxqXCpkcTclITuo3ZCou29bs1sU=;Rl5MIXa8cL+He0ESt0KCjw=="
 ---

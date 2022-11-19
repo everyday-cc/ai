@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-bu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/"
 type: article
 quality: 121
-heat: 491
+heat: 481
 published: true
 
 provider:
@@ -193,17 +193,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 76
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
-    publishedDateTime: 2022-11-14T19:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
   - title: "Microsoft and Nvidia collaborate to build new Azure-based AI supercomputer"
     excerpt: "Enterprises wishing to train and use sophisticated AI models at scale will be the target market. To develop the system, the duo will use the Azure cloud platform's NC-series and ND-series virtual machines, which are GPU-based instances. According to Nvidia ..."
     publishedDateTime: 2022-11-18T07:38:00Z

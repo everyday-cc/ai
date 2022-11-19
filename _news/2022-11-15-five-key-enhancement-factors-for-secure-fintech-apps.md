@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "India FinTech Forum unveils 23 high potential fintech startups"
-    excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 23 fintech startups who will give demos of their innovative products and services to a high profile jury this month."
-    publishedDateTime: 2022-11-14T20:41:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94864/india-fintech-forum-unveils-23-high-potential-fintech-startups"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
     excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
     publishedDateTime: 2022-11-16T00:56:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cerebras Builds Its Own AI Supercomputer, Andromeda"
-    excerpt: "Company stood up an AI Exaflop system in just three days! At Supercomputing ‘22 in Dallas, Texas, startup Cerebras has announced the company has created its own supercomputer, m"
-    publishedDateTime: 2022-11-14T19:56:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63727c20a310e887f861196b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 656
-        isCached: true
   - title: "Andromeda 13.5 million core AI supercomputer unveiled"
     excerpt: "Cerebras Systems has unveiled a new supercomputer this week in the form of Andromeda. A 13.5 million core AI supercomputer"
     publishedDateTime: 2022-11-15T12:21:00Z

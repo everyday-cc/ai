@@ -203,17 +203,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 76
-  - title: "Qualdo-DRX Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Qualdo.ai's data reliability product, Qualdo-DRX to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. Qualdo.ai's data ..."
-    publishedDateTime: 2022-11-14T19:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29709389/qualdo-drx-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29709389"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29709389"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
   - title: "NVIDIA announces multi-year collaboration with Microsoft to build “massive” AI computer"
     excerpt: "The U.S.-based chip designer and computing firm will be providing tens of thousands of GPUs, Quantum-2 InfiniBand, and its full stack of AI software to Azure. Microsoft and global enterprises will use the platform for rapid and cost-effective AI development and deployment, the company shared in a blog."
     publishedDateTime: 2022-11-17T07:35:00Z

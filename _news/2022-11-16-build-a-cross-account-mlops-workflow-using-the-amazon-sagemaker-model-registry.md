@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cross-accoun
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: AWS
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker"
-    excerpt: "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine"
-    publishedDateTime: 2022-11-14T20:08:39Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
   - title: "Enabling hybrid ML workflows on Amazon EKS and Amazon SageMaker with one-click Kubeflow on AWS deployment"
     excerpt: "Today, many AWS customers are building enterprise-ready machine learning (ML) platforms on Amazon Elastic Kubernetes Service (Amazon EKS) using Kubeflow on AWS (an AWS-specific distribution of Kubeflow) across many use cases, including computer vision, natural language understanding, speech translation,"
     publishedDateTime: 2022-11-16T19:15:46Z
@@ -89,6 +80,15 @@ related:
         width: 1549
         height: 773
         isCached: true
+  - title: "How Yara is using MLOps features of Amazon SageMaker to scale energy optimization across their ammonia plants"
+    excerpt: "Learn how Yara is using Amazon SageMaker features, including the model registry, Amazon SageMaker Model Monitor, and Amazon SageMaker Pipelines to streamline the machine learning (ML) lifecycle by automating and standardizing MLOps practices. We provide an overview of the setup, showcasing the process"
+    publishedDateTime: 2022-11-17T20:31:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-mlops-features-of-amazon-sagemaker-to-scale-energy-optimization-across-their-ammonia-plants/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 50
 
 secured: "0+W2HRxYRkUt1GclAFUSmLKp/6GY+AcUdrEnhSKyznno4y0WOFgtMpK2jfi3HGmLtN5Um6RrMd9HjbPdE8pQkPiDk9Byp6fBTamNXxqutmXZX4AHqJnDNStudw5+E3SgBFZGiaKMZiEgRXPqR4WH2PossccWblNNIGFi5X81UdRPPfwsEgMOOlnBwscxe/OTM8Gdw5x9RXVxXbEAF+ylXK3msmr8vOsnPVQE6F3WL8B1GJ1bujO1W9M9AVdpyMi9dwottRQC2PdUDhaPEJ1MwzSpIzTPFYlqCsYTWSeeZrqTo0PrAatiq42nbgyf4MagNMr6fmB4J3gjZUhAa6+UvUCExxHu0iid24bimqk0nW4=;n/t8esB3QNbBTvps9WYXrg=="
 ---

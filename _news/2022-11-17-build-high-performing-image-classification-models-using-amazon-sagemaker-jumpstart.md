@@ -43,15 +43,6 @@ related:
         width: 1551
         height: 774
         isCached: true
-  - title: "Refit trained parameters on large datasets using Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler helps you understand, aggregate, transform, and prepare data for machine learning (ML) from a single visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform, and combine features without having to write any code. Data"
-    publishedDateTime: 2022-11-14T20:14:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/refit-trained-parameters-on-large-datasets-using-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
 
 secured: "x1+Gv8izQPaoKpstlZTUzM5bWRLiUZTom3938dmzxbu1bx1dMZt+GkoXZyQ5gwp7V1/PRYwwSkMwAkG7HPdf2oHa1UQ1aSLFjKW6GZeRe22bsf4+F5+j5YK4MO0Ip3iNKoyVkjmgYes4rK5e48ZM57rwPwmTuuNyzNT2PzFulyyESq6ZPpxIsvctIQ02de//GAEWawwJLICGXbNI3hMQhcDztDxPxUTnUisqo5wppRv47HS5jepX7YJIZa6pwb9MVkOIczOLk8T6b9G2TY8/p7sWPWI7lxQuHJqp0HISv6/1xTzVdeLfHoumL+LBnEMSTa8BcL+oAf74fgYT0Nz70Y18v5XbFB5CB7+4aS6Hs9k=;K0vJ/HhU0ZgKO/w/cWokEQ=="
 ---

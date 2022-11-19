@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/ai-supercomputer-15-11-2022/"
 webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-15-11-2022/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras Builds Its Own AI Supercomputer, Andromeda"
-    excerpt: "Company stood up an AI Exaflop system in just three days! At Supercomputing ‘22 in Dallas, Texas, startup Cerebras has announced the company has created its own supercomputer, m"
-    publishedDateTime: 2022-11-14T19:56:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63727c20a310e887f861196b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 656
-        isCached: true
   - title: "Cerebras unveils AI supercomputer containing 16 dinner-plate-size chip"
     excerpt: "Cerebras claims that Andromeda features more cores than 1,953 Nvidia A100 GPUs and 1.6 times as many cores as the largest supercomputer in the world, Frontier, which has 8.7 million cores."
     publishedDateTime: 2022-11-16T14:00:00Z

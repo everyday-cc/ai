@@ -24,15 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker"
-    excerpt: "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine"
-    publishedDateTime: 2022-11-14T20:08:39Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
   - title: "Build a cross-account MLOps workflow using the Amazon SageMaker model registry"
     excerpt: "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At"
     publishedDateTime: 2022-11-16T21:57:47Z
@@ -89,6 +80,15 @@ related:
         width: 1549
         height: 773
         isCached: true
+  - title: "How Yara is using MLOps features of Amazon SageMaker to scale energy optimization across their ammonia plants"
+    excerpt: "Learn how Yara is using Amazon SageMaker features, including the model registry, Amazon SageMaker Model Monitor, and Amazon SageMaker Pipelines to streamline the machine learning (ML) lifecycle by automating and standardizing MLOps practices. We provide an overview of the setup, showcasing the process"
+    publishedDateTime: 2022-11-17T20:31:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-mlops-features-of-amazon-sagemaker-to-scale-energy-optimization-across-their-ammonia-plants/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 50
 
 secured: "icYU/oGUCu63eB+3o8pqeGK9S5t9IhUehh5vCSgUMxwTt9M3XVdirYv0PfK64rY915Qh9eLb3XY5Ci4Lt9zmVhcD0e498dj2QUYJ46TbODIdA/bk57Y0Dw1baC1/VMXujwGancFtFc/lEKDSPOOrPfgd+RqrTDeQo9u55IC+ASi+9uGBRoDxBmTbcelfT+j4oXUeGlf48K2QCLBePpQirQMRmk4vs6G/vB7tj5lsI+kS1nSWq32XijoDMo/Dl6Brkl4zy9x1etTCXT1CVPxA+2er9dUtgxeJEqiFyHiLEkX8iY6drZu6oPKZtHCV9ESW/3IrCA3A0YMaCtHR+4dYbOJlDipoc5RBvL1dBwHpYDE=;hNrQRNcxpxWjDIN6IW2UVw=="
 ---

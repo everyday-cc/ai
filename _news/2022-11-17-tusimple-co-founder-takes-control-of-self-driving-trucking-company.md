@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-
 webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
         width: 300
         height: 600
+        isCached: true
+  - title: "Why are Companies Reconsidering Their Autonomous Driving Investments"
+    excerpt: "Autonomous driving was among the hottest investment themes until a few months back. However, of late a lot of companies are rethinking their autonomous"
+    publishedDateTime: 2022-11-19T11:20:00Z
+    webUrl: "https://www.business2community.com/tech-news/why-are-companies-reconsidering-their-autonomous-driving-investments-02573958"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
+    images:
+      - url: "https://www.business2community.com/wp-content/uploads/2022/11/autonomous-car.png"
+        width: 1200
+        height: 714
         isCached: true
   - title: "Waabi Unveils Adaptable Autonomous Driving System for Trucking"
     excerpt: "Self-driving truck startup Waabi has unveiled its core product, the Waabi Driver, an autonomous driving system for commercial trucks designed to learn and adapt to new routes and driving scenarios at a faster pace and lower development cost. The Waabi ..."

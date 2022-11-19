@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mid-day.com/amp/technology/article/new-speech-recognitio
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
+    excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
+    publishedDateTime: 2022-11-15T04:48:00Z
+    webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?164229"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Infographic: How facial recognition and tech can make remote work more efficient"
     excerpt: "This includes anything from note-taking and timesheets to remote monitoring. Facial recognition technology can improve time tracking without distracting employees from their tasks or adding to your workload. This technology can be used anywhere and works ..."
     publishedDateTime: 2022-11-17T20:04:00Z
