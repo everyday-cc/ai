@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "labgeni_us"
   url: "https://twitter.com/labgeni_us"
-  followers: 2533
+  followers: 2534
 
 size: 11-50 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wy1AobL6x44"
 
-secured: "r9oWxAeZxoVVg9XSZg6W5nlu7Xv39jH6lC2q/Bfc8XDrqTKB4mPyelrjegk53syGyj8bCZXYLEWM8QKH9WKdNYkatqua6O1itwdg/Y+6U29UFBkL4T19DwUndtt+JcJw6SOmbUfGvlhAdo3Msjq7ES3R5nP7OpjjpMvCxhY8+PrkP2MUHUDjCofGc3LWWASVvVIIepD/ginTHzGNpseXaUxB1wPQ59nOG/sCtKCzCuBr9URpRE1hTG6KarwjRIK7lhbZurnNMbzo7EiymHZgkf3Bmkl6U2fajv6CVSZmFJPIyT2/O2omhfcNzUhK9e2hMAL/WX1JwQDZRv1cHoecWBxEcQMHlxd51l5s7JlO8bdK0FYAx6qMxFGO/tAw6F/WVYxuUT/IDYGed9QeUL9YMSGDVgjILACkdIWWQtQr4I0=;2wllVCv1osyan4pVMtuIqA=="
+secured: "/cVY2FfLQ1jhyB20xQ1EL/Lg37VtAcrkzWCkQM5zDRCUeTBpEGWK8e5amcWhA8DVEn41qPmHUzfvEQ/zCPR9NrFm6dbymYsQteDxHDxehtlYkiFg2YLh9DmN1o1S9YMP5xto5+v2Ry+dBoaboxz2OwaWpTMbJ403xN9F3CLZvjk+/IAXVEhG6fEGKs3jR61//nDaHSXyhxzlgMn2FugMYwPf4WdN6rgOPawBGj2zyALr99jma0K31+nQEErtSCQ2475OLCvENrjDbAtX7JfG7VEP+I04VqpY+cPmjr87V0WMiBOud1A+8OOLUnJIC/k5s4f4kF9PD49djW1oB1B3E8sv8t+y+VVz/uAq3tJ2rbjBsbsABzPC3lfXQc0Sw1TwGVe08TzuDu+kYY5vUNOJHuUeccBJIBCLsJkzNxwFk0k=;8lWsfYrqJlUeUnV3d/gg8Q=="
 ---
 

@@ -2,7 +2,7 @@
 name: "May Mobility"
 overview: "The most accurate AI-based medical assistant for triage, prediagnosis and decision-making support. 👨‍⚕️👩‍⚕️Web | App | Alexa | Google Assistant"
 type: "profile"
-heat: 58
+heat: 65
 
 website: https://maymobility.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "May_Mobility"
   url: "https://twitter.com/May_Mobility"
-  followers: 2711
+  followers: 2710
 
 size: 51-200 employees
 yearFounded: 2017
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "KDZTnzEu99LFlyDExt49IYb7acQ1N0RWcPuAPvDpRMThFQK8DpuMkVn6YsLDvV6eNI4q9WJzFO9lYyqzEyUQuZN8P8ePNJ+3FHUyztOy6CdLTYSGSBqqYvHU+8NB2+4M5qbalIvZv9+BZ7j/RRzvdjoPZ35TIJLlsqOg5RHVo/QZZHl8B2y0m+RQErinpyvKtLB3Rp5FLp8jrkykRQbH6KmkU0hG2oodE8dkTJJH5XGAAm+Sj+hATYtwZP4W/CZCDD4oNAc/Qcow3ColxNhH6BR4OscIzYPBpDtbeNgnOfG81IGKl/7VWToX1MKMbL8By9J5o/r4qL7vFJl2vHnPlND9h/8Rs6Gb0l6/m6wQISciU0KtrPHRw1aOwz12NLpDHZiObBBZJzeFIX+OobT/9DhGWJYKWyFg+L+boo/1auo=;WvGJzkXrSZljOu5fyvueyg=="
+secured: "BF4uz8IhyuAnk4zeGUqaZteW8syLvk1IRx7/S9w8LTEb9ZvKQq0e/FX+KLkvv5/JJLJVWkn46qxL9LbIWqqExFi5CfYsCwk9eu9Q8/GcxP0TDtP1fo/Vwmvv6u0aUSqlZ7xsR5QJJbj6ksyOtGH1DFj83lb2JrC6h1DtFx9E5DmrGofDweNO1pr6mAgwremVa52DV2aMvM8uyfT1eAryzrsfdqvVsbvN0bd8Wc9bd+PdLAQ94c629XXEKyM/iYRSbj01JvSzSo+Hb1JQN7vYJQmJLi3mU4DMJz0spt6nat0kRG3W0vyg9/WguqE92FNNCDvJJOej5Og19M6QB380HE1LHzyTNh3/bLKoRh8/maDZpS13v5eg3q7p7FoxUHgYZnD9VzCO0PCexp10gnPEtiKhr4c1hARFTJxBea6USPM=;jtXdPDqDmy0WDiCiZWKnOA=="
 ---
 

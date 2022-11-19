@@ -2,7 +2,7 @@
 name: "Anduril Industries"
 overview: "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever."
 type: "profile"
-heat: 106
+heat: 110
 
 website: https://www.anduril.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anduriltech"
   url: "https://twitter.com/anduriltech"
-  followers: 18497
+  followers: 18495
 
 size: 51-200 employees
 yearFounded: 2017
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "MA0ema8L4b3vOct17k0yYPSzZqaQewnlskwnm/tgcy576TD2vk9X53L00x9sz3HGcXA2V+gAmb4CYaYZ6tYAgRDajZkoAceM0v5ubUOZnjugBr05D29Wglxave/YMJZO4vwyzj1o/kr9YPvTNHatH8LWdJtGiwabk5WqIC5ek4ulGw3GHFWmN1EeehFy4zy+kY1jmXRGY5DlKVKHHmDJKBch888gbR/zN0BH6WE+3i6nj6oe5rWKacvSIZIUvKdIYgROqcsKX4Tor9r4v4Fv9wj7nSTsTTFVOrLTHuobFU/h/w6LBAPzpgLMg4+eqWNf6SigxQqOIrGt9vRApgvjaRkr2Lg+9akeMUa5vRTLolhi9xz/NNUQW0UhX9v53fD/SAKj2XiyJ0+fTyEByyt+yS+hGAeZxYrOLiT7wKo7Pew=;2tVWLwf8IbSkQHwupWAg6w=="
+secured: "8XIKb7vy5qzQVr6LG38i9o0Q6Bxlg/4EKYZ7rI/XFIQB4FnYSYmQWsaYhuQ4Lg5G76Y/9m/jf0B3wZOHozIB2TyKss1Z5q4Ir8KFQ9k8Oo0mYpr1FgCraOE4Kpl3b07EJEBPI6pCnhVnXqAwKQkjZr4u7h+4e1XLpsZNVtUTjMDqAGreHKQviHnr5zWQf2ufv7FAls9GgNEXv3Vmr1E2y5DWZyJhL20lzWhYdAlj0N5s1ZBlZSLGydyyBxmF6dJXw8Qgomsw1vrbnTyiX0w7kbjlmsXfH0xBdkg0YpVAncgrCP2AV0d2Vflj/o76939wIw32EYPaQXatAcqCtKmLG+9i7sM7/ltuepLKqtTfeWouVaRQi6pzUYnOxfZXOVVwFl5MBc0re0LMngllwLVgv+9FVaw0U7ic5cM6A7THFrU=;K2f0ppNmaGUain1NputTIw=="
 ---
 
