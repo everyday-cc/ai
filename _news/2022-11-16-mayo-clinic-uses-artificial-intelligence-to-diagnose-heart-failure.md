@@ -43,20 +43,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
-  - title: "AI breakthrough using a smartwatch ECG allows for remote diagnosis of weak heart pumps"
-    excerpt: "Researchers applied AI to smartwatch ECG recordings to accurately identify patients with weak heart pumps, allowing for faster diagnosis."
-    publishedDateTime: 2022-11-14T21:32:00Z
-    webUrl: "https://interestingengineering.com/health/ai-breakthrough-using-a-smartwatch-ecg-allows-for-remote-diagnosis-of-weak-heart-pumps"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 29
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/14/image/jpeg/BJ04mDo5tfuwPPc9ZepLQQIgHijaOytiulfYjuPj.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "zNe7sFm5fScLW39R01hsUHfeO6ctlU0L6v0GfZXaS1xiTCJTuNrUpB46M+4JWS7PhfTKWY0Z1BTtoO5rJxT+fsczrRhWcQA+K0VbgJUVZh9dba5WtAPVXOaGxDkjIgalBDPjl5lIVExybYR/zzxVLUmpYKEcA5+74BQb8q9bQgm/6tJyPf9sWwiBcHbIrrVIPWfB8LxpPjYdQX1Dd+nWKNIupPpvm9+3xLbNCaQujKPMF0KnuW1bY2w9FboLW1G6we9NY3T6npmWf/EmR153dAAhV5OlJmECiwbfQzeIvOrP/Shrds7KbPSX+ftQEq73oz3Krg1/mrbNd/lR37iuIRQCXZDsSbRhlnp4PZZA0g0KmXoD8drHXnr/YWdj1czKLQ+gjQ1IOXxgo7XVT896VirXpu0U2WiFS2V8kiE3ktnAiFw6n+wByXw5+xO2U+5x9a0yrw2lq9XKFKR9kd1zvU4A2hZdnYQm1QE7qOhM3B2vcQGE0iUCjEnb8WDkORUlydyutWY1FlPRQKWCYQr79A==;GK70I+/PMBPuVKEzhkzpaQ=="
 ---

@@ -38,22 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI tool predicts reduced blood flow to the heart"
-    excerpt: "Cedars-Sinai investigators and colleagues have developed an artificial intelligence (AI) tool that uses computed tomography (CT) scans to identify patients at risk of reduced blood flow to the heart. The tool is able to accurately predict reduced blood ..."
-    publishedDateTime: 2022-11-14T21:12:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-ai-tool-blood-heart.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-ai-tool-blood-heart.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-ai-tool-blood-heart.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-tool-predicts-reduc.jpg"
-        width: 2400
-        height: 1454
-        isCached: true
 
 secured: "4AnDbu+TWY90PZmJgHoUNzkGXqVDWDNCkr9bzepXfXH8ofGBZaGlzscyolJuQoGfgYjnx3i7RUfVO8ZOzDbLw7/ZYPVetpZiQ2PNmOeCUNJzfVv2u9e3Iu3SM+Mr0Bvn8vtcuN+ghWImyiuI6OusZWyGesqEbnqCVCEScqSYclbjegc6SE48ybC2rzCi4VAH0VEXDmgn6OIks3Tka8xCAEisaU1i899e3Yvgj+CweMtnvvzSllIHWMlF5WUn+k/++GPeUucTKi4gTacUVBFWydTgnLz1Z/mLHiP4Eb4LodJ6zMkcwqW/oNNWFkp7s3+1rPxeaPXVdVfhXlipndnhiMqconxP5ib6QMjcunXEdUwB0IJ2BwlrceXytRXMLlAZPWrZLDSbm8+BJG4Gqv9GzwQTUDen9g5BDpEBCNrySd1cPgEvkgsPFx04uhOuMHUsFa6PcZK26anMSvViRFlvaB0+f/tOQgPKU1s/KGmjKqOrXe79d6vT5De9vXZFSqfJ8yuylpqOuHeMnIchb0kkUw==;A0gDCf4UzErz8PTde6Cp1g=="
 ---

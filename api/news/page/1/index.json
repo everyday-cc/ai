@@ -421,7 +421,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -509,10 +509,10 @@
     {
       "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
       "title": "How artificial intelligence is being used to stop retail theft",
-      "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security system sent an alert to his phone that showed a customer who ...",
+      "excerpt": "For many retailers, the holiday season is the biggest time of the year, and with increased concern about retail theft, many stores are putting in new tools to catch those who may be shoplifting.",
       "sourceUrl": null,
-      "webUrl": "https://www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
-      "originalUrl": "https://www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "webUrl": "https://www.abc15.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "originalUrl": "https://www.abc15.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
       "featuredContent": null,
       "highlight": null,
       "heat": 72,
@@ -529,13 +529,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "publishedDateTime": "2022-11-18T07:06:00-08:00",
+      "ampWebUrl": "https://www.abc15.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "publishedDateTime": "2022-11-18T07:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WPTV-TV",
-        "domain": "wptv.com",
+        "name": "ABC15 Arizona",
+        "domain": "abc15.com",
         "images": null,
         "publishers": null,
         "authors": null

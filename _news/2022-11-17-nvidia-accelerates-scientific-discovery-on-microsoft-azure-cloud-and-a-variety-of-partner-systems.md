@@ -436,20 +436,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NVIDIA Announces Market Adoption of H100 GPUs and Quantum-2 Infiniband, including by Microsoft Azure"
-    excerpt: "NVIDIA today announced broad adoption of its next-generation H100 Tensor Core GPUs and Quantum-2 InfiniBand, including new offerings on Microsoft Azure cloud and more than 50 new partner systems for accelerating scientific discovery."
-    publishedDateTime: 2022-11-14T21:17:00Z
-    webUrl: "https://insidehpc.com/2022/11/nvidia-announces-market-adoption-of-h100-gpus-and-quantum-2-infiniband-including-by-microsoft-azure/"
+  - title: "Top 5 stories of the week: DALL-E uses, Nvidia’s digital twins, Microsoft’s AI inference, Intel detects deepfakes"
+    excerpt: "This week, news from Nvidia, Microsoft and Intel led our coverage. Here's the latest on AI, DALL-E, and how to secure the enterprise with zero-trust."
+    publishedDateTime: 2022-11-19T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-dall-e-uses-nvidias-digital-twins-microsofts-ai-inference-intel-detects-deepfakes/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/01/PNY-InsideHPC-Guide-EGX-platform-Covor-image.png"
-        width: 1753
-        height: 2280
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
   - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "Customers Can Seamlessly Extend Nutanix Environment to Microsoft Azure Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure,"
     publishedDateTime: 2022-11-15T23:53:00Z

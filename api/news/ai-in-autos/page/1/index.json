@@ -203,41 +203,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-16-the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream.md",
-      "title": "The Tiny Hurdle in the Way of Driverless Cars Going Mainstream",
-      "excerpt": "Consumers are still skeptical that self-driving cars can actually be safe enough, which to some degree makes sense. Autonomous-vehicle development has faced more obstacles than originally anticipated in the past few years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream",
-      "originalUrl": "https://www.nasdaq.com/articles/the-tiny-hurdle-in-the-way-of-driverless-cars-going-mainstream",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-11-15-reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated.md",
       "title": "Reports Of The Death Of Self-Driving Cars Are Greatly Exaggerated",
       "excerpt": "Recent weeks have seen a number of reports of the death of self-driving cars, triggered mostly by the closure of Argo.AI, the self-driving startup funded by Ford and VW. That shutdown hasn’t been the only bad news in a year of bad news for almost all of ...",
@@ -1412,6 +1377,40 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-627-million-in-federal-funding-will-help-pittsburgh-grow-its-autonomy-sector.md",
+      "title": "$62.7 million in federal funding will help Pittsburgh grow its autonomy sector",
+      "excerpt": "A $62.7 million federal grant will help accelerate advances in Southwestern Pennsylvania’s autonomous technology sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/austin/news/2022/11/04/funding-will-help-pittsburgh-grow-autonomy-sector.html",
+      "originalUrl": "https://www.bizjournals.com/austin/news/2022/11/04/funding-will-help-pittsburgh-grow-autonomy-sector.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

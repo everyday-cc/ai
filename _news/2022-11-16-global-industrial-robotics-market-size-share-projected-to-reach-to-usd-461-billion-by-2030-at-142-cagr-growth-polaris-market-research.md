@@ -56,17 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Artificial Intelligence in Healthcare Market Size Share Trends Growth Demand and Competitive Analysis Insights 2022-2029 | DataM Intelligence"
-    excerpt: "During this bear market you can follow full-time trader Chris Capre & get his options trades signals in real-time. Click Here to See His Next Trade! Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49."
-    publishedDateTime: 2022-11-14T22:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29717836/artificial-intelligence-in-healthcare-market-size-share-trends-growth-demand-and-competitive-anal"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29717836"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29717836"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
   - title: "Last-Mile Delivery Robot Global Market Report 2022: Potential to Fill the Labor Shortage Gap Presents Lucrative Opportunities"
     excerpt: "The global last-mile delivery robot market was valued at $18.1 million in 2021, and it is estimated to reach $36.2 million by 2032 at a compound annual growth rate (CAGR) of 6.22% during the forecast period 2022-2032."
     publishedDateTime: 2022-11-16T13:50:00Z

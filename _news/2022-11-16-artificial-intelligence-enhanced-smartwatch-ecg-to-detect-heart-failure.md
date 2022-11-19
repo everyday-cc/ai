@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-s
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 32
-  - title: "AI breakthrough using a smartwatch ECG allows for remote diagnosis of weak heart pumps"
-    excerpt: "Researchers applied AI to smartwatch ECG recordings to accurately identify patients with weak heart pumps, allowing for faster diagnosis."
-    publishedDateTime: 2022-11-14T21:32:00Z
-    webUrl: "https://interestingengineering.com/health/ai-breakthrough-using-a-smartwatch-ecg-allows-for-remote-diagnosis-of-weak-heart-pumps"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 29
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/14/image/jpeg/BJ04mDo5tfuwPPc9ZepLQQIgHijaOytiulfYjuPj.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "RhOYGUXMQKC1Diaf2SQ79VmP89DjgaYRgQPuwKaGm7AsNzihLCoxIMp6Pcc726urAazxxpUW6CbbjGQ3qEUPhO0NPRGjrq5R7BgLg7lJ91OwamOPxJI1Wihyt4tm458+u78ZkCaA/1axswopqwf6FhO+dyHVudC+kjPtQ7yVQPx92CbPgsN8WPWgJwLUEIl3w4ElD8lxnW4ZwOKlCE25becz15D4PwLKch0mnoPXahkmCAYHmjlWLZt43ZKb5YsvgUq47bDOzJzXYfhIAp/uTVOCL9Jscn0MXNoR4pV7VVFjpCr7NZer1mmqGrr/7C53SyB4pfT+FuhXmI8p9vt5rv8oKglOIzgQu8qZ2FyaqqShKmreU4VWwFqcgLkHbcLEH+MZ4CbhUqPUd+08YPl+yHkR7fs7eWwYN3WIfjT6fCJGlV8iudnU3LfGvEJCUCbRhj1NG/DvjDQwmiZRYG602N+zVc3bo+LvzB5fh5LeXR960mtGX42yuDItN3jfdMsIZ0oHpK6ob8culEPwzRWLmA==;Acy+otiF+hVU9I8w8kI3cg=="
 ---

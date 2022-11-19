@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-19T12:00:00Z
 originalUrl: "https://www.theguardian.com/football/2022/nov/19/saot-world-cup-ai-assisted-offside-system-var-qatar"
 webUrl: "https://www.theguardian.com/football/2022/nov/19/saot-world-cup-ai-assisted-offside-system-var-qatar"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: The Guardian

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-19T10:45:00Z
 originalUrl: "https://www.thestate.com/sports/college/university-of-south-carolina/usc-football/article268875107.html"
 webUrl: "https://www.thestate.com/sports/college/university-of-south-carolina/usc-football/article268875107.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The State

@@ -28,13 +28,13 @@ images:
 
 related:
   - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
-    excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility across a spectrum of research interests."
-    publishedDateTime: 2022-11-19T07:32:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20221119/4005404.html"
+    excerpt: "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways, they have achieved superhuman performance,"
+    publishedDateTime: 2022-11-19T12:57:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 9
 
 secured: "ioHt/+D1Q57usM3TnLvfiJ+1BiHmYKdl/h+NP21GemnqT90W+f/dtAsBBDBUOVO6XlB6wqbHlSA8wuDvprnBuz+x778a+8JyKS3nrgH2cWWjStex0mgqHrLmg39nuTW5+xBAzls3ziC2pWxYcSldLfPJdDKFA1o2UHhhbjOBppvJb/FyX51GycQOIwkgRq+AgE4k8f+yjDZDJ5LdPpQNNvGYlAvBYQcwHsNYMo1zeLQgu0LOtxFMtDde1p69j4jPglXlgAMwoOj0wXCPnf3QMgBx04IPpH57eYUT4gsOv/hgcKBShtLKB1dTBufMrOJ0VFNsZPWMJsUVOxtHaSvynEHssDJ2cgObdm0oSLWvc7Vjocy7p4h9XIhcYZhIFFJK27/xa7/Z/PVNyhUGLETbmsHExFU4xOg1nmbsGI2HzTF50koC6ag2cxM2HatFrzY4VAKLMsUO2l3eHj47b5TiBfGPqmfHKTvGirJ3kjqsUBRiVviCBlnOYnGUpvn2MKe7wpILna6WMlvwUIr1/jWuxw==;2ufxtrH8RGG2gL3BRlwpOg=="

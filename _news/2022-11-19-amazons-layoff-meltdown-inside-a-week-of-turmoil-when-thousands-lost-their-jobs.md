@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-19T13:22:00Z
 originalUrl: "https://www.businessinsider.com/amazon-layoffs-meltdown-inside-week-turmoil-thousands-lost-their-jobs-2022-11"
 webUrl: "https://www.businessinsider.com/amazon-layoffs-meltdown-inside-week-turmoil-thousands-lost-their-jobs-2022-11"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Business Insider

@@ -56,17 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Artificial Intelligence in Healthcare Market Size Share Trends Growth Demand and Competitive Analysis Insights 2022-2029 | DataM Intelligence"
-    excerpt: "During this bear market you can follow full-time trader Chris Capre & get his options trades signals in real-time. Click Here to See His Next Trade! Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49."
-    publishedDateTime: 2022-11-14T22:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29717836/artificial-intelligence-in-healthcare-market-size-share-trends-growth-demand-and-competitive-anal"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29717836"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29717836"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
   - title: "Global Industrial Robotics Market Size & Share Projected to Reach to USD 46.1 Billion by 2030, at 14.2% CAGR Growth: Polaris Market Research"
     excerpt: "According to the research report, the global industrial robotics market size & share was valued at USD 14.1 billion in 2021 and is expected to reach USD 46.1 Billion by 2030, growing at a CAGR of 14.2% during the forecast period."
     publishedDateTime: 2022-11-16T13:31:00Z

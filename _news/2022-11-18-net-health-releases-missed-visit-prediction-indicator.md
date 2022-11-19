@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T20:18:00Z
 originalUrl: "https://ptproductsonline.com/practice-management/net-health-releases-missed-visit-prediction-indicator/"
 webUrl: "https://ptproductsonline.com/practice-management/net-health-releases-missed-visit-prediction-indicator/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Physical Therapy Products

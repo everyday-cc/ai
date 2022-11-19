@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-19T13:52:00Z
 originalUrl: "https://www.power-technology.com/dashboards/filings/artificial-intelligence-mentions-power-industry-q3-2022/"
 webUrl: "https://www.power-technology.com/dashboards/filings/artificial-intelligence-mentions-power-industry-q3-2022/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: power-technology

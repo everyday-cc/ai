@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
-    excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
-    publishedDateTime: 2022-11-15T04:48:00Z
-    webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?164229"
-        width: 333
-        height: 250
-        isCached: true
 
 secured: "ZONntED1OmWJIbeeSZj4KhgHArJ58KTPUKTomDrqCg6OtdAouImjCsziPfmDgDTPRkLyNkFK1+FBd24Kq2no54lFnWLh03gnxAPuZsvjxaOm8ST+RQYzMinzN5UQWGzTFaaHQd4maWaUgCebI6tACpgdGeeMClJh6VuHqmOVPmFT+qu/mMESfhJaZfHarLcvGdrkhw73kNZyrv/BK+BFAXtlErNpgGD71vYSbjkIov/RL5ms2cxKjub+1maliw1dhRNNrQRvKIrlvECxNCsrCnwCfS8i+9nBR1EettEb1s/wkXQ/JPYVH/63yUcHKRnfXLThI7263VVkcRrej5eCYUSiim3ylIwIOMWse6Londg=;0EmyS9pGmpA8Qxh5r1gORg=="
 ---

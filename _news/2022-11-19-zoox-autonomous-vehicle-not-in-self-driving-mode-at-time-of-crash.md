@@ -27,57 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy"
-    excerpt: "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary."
-    publishedDateTime: 2022-11-14T22:45:00Z
-    webUrl: "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html"
+  - title: "Vehicle in self-driving test crashes just off Las Vegas Strip"
+    excerpt: "A vehicle that is part of a self-driving pilot program was involved in a crash Monday just off the Las Vegas Strip. A 2016 Toyota Highlander outfitted with fully autonomous driving technology and operated by California-based Zoox was traveling eastbound on ..."
+    publishedDateTime: 2022-11-16T00:29:00Z
+    webUrl: "https://www.reviewjournal.com/local/traffic/vehicle-in-self-driving-test-crashes-just-off-las-vegas-strip-2677041/"
+    ampWebUrl: "https://www.reviewjournal.com/local/traffic/vehicle-in-self-driving-test-crashes-just-off-las-vegas-strip-2677041/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/local/traffic/vehicle-in-self-driving-test-crashes-just-off-las-vegas-strip-2677041/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 68
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 44
     images:
-      - url: "https://static01.nyt.com/images/2022/11/14/business/tesla-self-driving-flaws-promo/tesla-self-driving-flaws-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2022/11/17141163_web1_IMG_4355-1-.jpg?w=1067"
+        width: 1067
+        height: 800
         isCached: true
-  - title: "Tech billionaire wages war on ‘safety’ of self-driving Teslas"
-    excerpt: "O’Dowd alleges that Tesla ’s full self-driving software is dangerous and warns that if regulators do not intervene it could lead to death and destruction on the roads. Musk, who believes technology will eventually help to eliminate road deaths ..."
-    publishedDateTime: 2022-11-18T15:06:00Z
-    webUrl: "https://www.thetimes.co.uk/article/tech-billionaire-wages-war-on-safety-of-self-driving-teslas-t2pjvnc7d"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F94037810-6711-11ed-9ccc-9d160947f622.jpg?crop=2488%2C1400%2C0%2C130&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "WATCH | Scary as self-driving Tesla malfunctioned [VIDEO]"
-    excerpt: "Ah, we all love a bit of video content, don’t we? It’s engaging, exciting and a different way of consuming content. We also love consuming as much news as we possibly can to stay in the know but we have busy lives so if we can get a taste of what’s ..."
-    publishedDateTime: 2022-11-18T09:35:00Z
-    webUrl: "https://www.thesouthafrican.com/news/watch-tesla-malfunctioned-18-november-2022-video/"
-    type: article
-    provider:
-      name: richest
-      domain: thesouthafrican.com
-    quality: 39
-    images:
-      - url: "http://www.thesouthafrican.com/wp-content/uploads/2022/11/pexels-screen-post-10029877-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Tesla tells US of new fatal crashes involving automated driving"
-    excerpt: "Tesla Inc. disclosed to US regulators two new fatal crashes involving automated driver-assist systems, bringing its total to 16 since June 2021."
-    publishedDateTime: 2022-11-16T00:10:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/11/16/tesla-tells-us-of-new-fatal-crashes-involving-automated-driving/69652409007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "cMCDk4fZxfG03Ewf4CEa1MuwwHLhwdHwLWVdfOtwOiPbivIycSF15ofhwkEbbDSP/LQQHCBsqLrjthRm4EnyqQHIwN8ZWSWBhSiwXpWV9Kkylh6L/v4cAppR4ippcBwyNsBcrAOxcP/KmzHZyLk2FI9Ft2km2J+j3/eYAXbQKuB3ZIhm9t+dYE8i15AcmGvGg10569+6XuAfh6IRx969l548GKS163IN4DmSAI/t8bSgfvLWEwkZ/IRb/Pz1F51aZx0guLaymOX0+Xno/ZlW7FizCOOmBSBnVsF21Kx1ZPQGMEEMs8U9VwHvt62EAJTIejPw5Uc+xDXZ816gJn/sBPYFHtIq07NpxOuZq428hdNTucp6pWoFBXLUY6kqMOzfJdKngSCC4eQuZyQCREvDUJR7ytqHxXGWfUFxif0BY28lrLwj7su+IN3C3B6xF/iCWD1JJPAWjp5XW/gD97CYDRqfwKC0hIGlW+ZNmgrJvKgBW1EWlC1i7xpz4Dgb/x/B5IAHhjfM5eXBY/vCwdUzvQ==;8L+e6WmdXXWys01DH9IqFw=="
 ---

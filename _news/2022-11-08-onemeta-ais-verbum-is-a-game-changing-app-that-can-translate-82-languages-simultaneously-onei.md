@@ -5,6 +5,8 @@ excerpt: "OneMeta AI ONEI created an app that is changing the language translati
 publishedDateTime: 2022-11-08T11:33:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+ampWebUrl: "https://www.benzinga.com/amp/content/29609438"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29609438"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "uuLVmpeH9pyyep7+dVPITa6yVvnLMqMHfEAa7bTgE/wVYLndXSoa3zsWFgytUi6xCLzLL8ekvxEN325mK3Jozmx95omLJgmFyi0dpS+85p070M8uvBIdJPp3diqNIkP0ImvCmXPL7wSZ80MD30qnIDB6fRWvtKUuedLPLAGxuZtVYpAuz8FrdI3e/qCZ9WjauD3vQXNrQ9I88zyLNK47VTBoKdt9c95x6U1AWfWYWIaYHQ/92KFBKYQJux0AZgUpsXl/AnZdAe718w6Wi45pDKFS/CxT/JXU7SzA3cBb4PoeoT/LVs8YRHNLa9AsQozq3vZcorXsluMbpmSL073wLoM2/EhE6K2Dig698/0KSds=;vWXwBNwuGvxo4XkcB0tl9g=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1667837662.png"
+    width: 1222
+    height: 1091
+    isCached: true
+
+secured: "Xk6obPiBbFrn5ygMDnFeRfB319jmOxuUYV6HTv44VPbsjMaKm6m/9khD/PqAWFVnvClsrT1sdTrRy4tqkJdElezk90XcX8qbiS+rghHTAW98ZWvsBeEaRIglPTI7CDuJx2EMQA1+chjAtSB+CI7hFvKzl1GSAyIVLAO8yHxWS3vUav6abtaMEsxR7wTuRzx/PSa+X4frsPExdD8Dw50GhwlFQVigroH9sUFq3cbzbEIlm/Nj2YfDur6nX7S9o1akFukPaQY8I25r+YBv4vNUkdzL0rFpN3qDlqRYcS6BX1u1kcLP/7PYKujgZ9RROtwI/GxdnB98NaVOhBlssA3b4alPO6LQIsEuqL/Vf6u43bo=;AdV7TX618StwNicyYxjUfQ=="
 ---
 
