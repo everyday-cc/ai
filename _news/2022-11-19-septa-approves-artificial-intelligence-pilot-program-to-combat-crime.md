@@ -5,9 +5,11 @@ excerpt: "Acting Transit Police Chief Charles Lawson said a six-month artificial
 publishedDateTime: 2022-11-18T18:32:00Z
 originalUrl: "https://6abc.com/septa-safety-crime-gun-violence-zeroeyes-program/12468085/"
 webUrl: "https://6abc.com/septa-safety-crime-gun-violence-zeroeyes-program/12468085/"
+ampWebUrl: "https://6abc.com/amp/septa-safety-crime-gun-violence-zeroeyes-program/12468085/"
+cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/septa-safety-crime-gun-violence-zeroeyes-program/12468085/"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/12468540_111822-wpvi-septa-ai-gun-safety-1230pm-video-CC-vid.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "SEPTA Board Approves ZeroEyes Artificial Intelligence Gun Detection Pilot Program"
@@ -28,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 42
 
-secured: "+q59B1NjmIB1ZoDdZ3EXseXcFZ+4/9Y+Nbi2YLtpRAGKJZp1E4XdQwqm/UOyAQNxOWHx8SqKpONNwlPvWFPP41bVALQgt41QChZaRFqiflckd12E6NcUOBPl8wyPjnMGMaoxUaL0761nzb+unRQ0gDAQwIh64VMbxjlDWzcw10LdhV9OgD43Gr4YC4m6aBKSu+VWKa+RM84QFpSw31pu/tBq7t8EQKBpBFikRt9b5DbhB2Q5x6UuFjhCxTD5xYrp7uLjkcH6qGPJn4mJdysps5jFuyHEn3/cXyG7QpXCe3qRWIbY+S1JLXwvNxhpRklTHDVmiPqwF5oo+eX5F1rvnxCtyzG9hC3vuinmMA6Gqmk=;YXI8NxoISpzHJAuFPYWLZA=="
+secured: "56J8IkMlrOYxn5VNXnqKU+AbpLdpttTdv7d6xpANECjUlZRg1caYVs4d0LnVLg3oRbKLuSN2sR6Z628KfyB4kBMfl2pUL6cuLaqG5btebytGqmiyv/sJNYyz5WeJJZZwOrHAHQLyTFlmBWlcbuH87v3ww31U5pqPBrJikYiJ3RwmsuV/cSOrl81h8n48X9eaQs9xHxTE/Oc1TjitwYKtnTw68uEmj+0LfFWClgBj0USfyHClghu10DP5m99Di/JV+eXUiNoSPTNOCSE5B5J3zASl28VQRweBOLKC/T8ksaVo9HDrQIqZ9MbkalYwnBWW1UBF2TGPgz14TtJvl+lZR6Zxg4eLoAXSJ2JScxdG1cw=;M0CJIOfDXMxl+wGAPY6X+Q=="
 ---
 

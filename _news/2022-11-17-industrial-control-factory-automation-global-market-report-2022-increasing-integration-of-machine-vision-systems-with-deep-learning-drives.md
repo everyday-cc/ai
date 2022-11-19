@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stem Cell Therapy Market Size Will Reach To USD 1,185.9 Million In 2030 - Reports And Data"
+    excerpt: "The Stem Cell Therapy market has been segmented into key regions ... previously incurable diseases are beginning to be treated. The use of artificial intelligence (AI) and machine-learning technologies is leading to increasing expectations for more ..."
+    publishedDateTime: 2022-11-18T13:11:00Z
+    webUrl: "https://menafn.com/1105203266/Stem-Cell-Therapy-Market-Size-Will-Reach-To-USD-11859-Million-In-2030-Reports-And-Data"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?575779"
+        width: 531
+        height: 250
+        isCached: true
   - title: "Citizen Services AI Market Size, Landscape, Industry Analysis, Business Outlook, Current and Future Growth By 2027"
     excerpt: "By vertical, healthcare segment to register highest CAGR during forecast period The citizen services AI market has been segmented based on vertical into transportation, healthcare, government and public sector,"
     publishedDateTime: 2022-11-15T12:07:00Z

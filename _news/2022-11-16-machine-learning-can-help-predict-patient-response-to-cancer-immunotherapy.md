@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Machine learning can help predict patient response to cancer immunotherapy"
+title: "Machine Learning Can Help Predict Patient Response to Cancer Immunotherapy"
 excerpt: "It uses deep learning, a form of artificial intelligence, to recognize patterns in large volumes of data. In this case, the data is the amino acid sequences of proteins called T cell receptors (TCRs). TCRs sit on the exterior of the immune system’s T ..."
-publishedDateTime: 2022-11-16T15:44:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/971463"
-webUrl: "https://www.eurekalert.org/news-releases/971463"
+publishedDateTime: 2022-11-16T10:00:00Z
+originalUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
+webUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Johns Hopkins Medicine
+  domain: hopkinsmedicine.org
 
 topics:
   - Machine Learning
@@ -57,6 +57,6 @@ related:
       domain: jhu.edu
     quality: 17
 
-secured: "AoJmBw0v62J+EJNdgrwNdhNsG65VBxXFVXovmkyAAULz3PbREUyXb8iXZ/XMhfkxZdCwJlZ/EgAzZzeyXnlbKEjbGW5N8yO0IqnhSYLRIaBiI5sIWH5ReMn5rUYACK1Y1cnSGskNk3JoWRCdOUDUy5cZd/TcvJhb+qP+BSq56f8kB+Gg3KYjM3ETjP342C12eKP9w4r+eXyqL45Re0RBM4NHGNwEEyXXJ2j8CucTnenpO13GQF2sQQSqCcqh21830MN/PiYFBWN9nDupZU+gFGn78sOtme8ghzSP95MshsXeOX2Af/mhxK9xMDjYz+EqEYG1hFfxUnFV+PioW8jtNY8u6TS4r9TsvKINfaDa51k=;IaZWx0aGwYMisOvgv1In4w=="
+secured: "aBOAVhMZJrJHVEXvqeHl9i/N/fzcFSc5xcNp8g1XRtLsbhRQbCLH1xSz0JCwOZ7m8i1nCovgxQ8Hhhuxw6DLxfvTc15EelmQUuQv1Rl19nJXCxk8qC/E0TyXcEx7KHWn0Pev7UAn97jBtcPR1yNtH74uwZ1Sehx33ksSavFOXi9oW7ncQ/eSTuWEgnpnXFHQMLoq1fYVS9sqsTul1I7xAFZJQ2AMWK5inPj6yIVtBnT6OY/oYpX76Q4lEPVIFm0aTG5dMmeVGy8v+xHRIJc/T4G2XF1aQpfWm/CtLYmAugcKqhYo0xfVHbpUiMds8pAT+nc1eDY0pFP0GDxYtEoCvYMQPAnm4KmFkpq6PvuvC4c=;s3JU9VMcsHgc1Zn2ALps8w=="
 ---
 
