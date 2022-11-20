@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thediplomat.com/wp-content/uploads/2022/11/sizes/td-story-s-2/thediplomat_2022-11-15-204722.jpg"

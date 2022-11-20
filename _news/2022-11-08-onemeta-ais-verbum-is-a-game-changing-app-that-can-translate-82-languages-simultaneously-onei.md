@@ -1,21 +1,20 @@
 ---
 category: news
-title: "OneMeta AI’s Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
-excerpt: "OneMeta AI (Ticker: ONEI) created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself as a language translation app after comparisons of Facebook turned Meta's (NASDAQ: META) product began to circulate."
-publishedDateTime: 2022-11-08T10:12:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
-webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+title: "OneMeta AI's Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
+excerpt: "OneMeta AI ONEI created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself ..."
+publishedDateTime: 2022-11-08T11:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
 type: article
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "uT6H2TSxkb2GPf+dIN5Ekm0+Kz3o0aDoJ7bUcxtRl4PH0aKaq7yvCexGhJo8iPR7h24A+p03i6/bv2ffafY2bdA7VR8nG2TGsKOoPUgApor2omxlGkUhhHtglmIKZs/3ucSrSkZxe2O/11zv42/0dNmdV4M+QYHEDXB8fmdB1C1FL/oHUsVz3LxebZJvZn9OuSZgLE0Bg9U4Id8FvQbPfGdNuTopOVWzURPNGcX8OkHLloQdLrw3EzGLx1HnJiW6HnEX3VnnkH/99Dj/pHqzWxqw5CGMgsCHqsX/fOCBbFZgd+TN071WW29a9V+9KBK8mz/ODturAbs9sTkF7mfv2kt4PlOZK2WTfV5LF1yGmXMtA/biTBaDCUIFbJ6r02lPTKHQWMf0AB3BlpedDfrceyt6luoK8HURUZHlI6hNKDTCaFaQEGSUF0/dmRugmVt14b9I0PpzuyGyqazAU3YVm/fIbTw8vEwTUI3uisNLL9G4uwVbDqH5bACw2UzI5KmeRRNoCsDh4fBz4uRtiuyr3g==;yzt9KK6AZuK4YC4tuE1RLA=="
+secured: "OX7b9GI52iedhov4LGYztTxJuAjnVNuPvAFTHPBUFlJC96U0D43TeZz59qbM2F3p8fJ5KEWzdCQQvUBgeygWBS3Cau2JHeKS2oLfuVBU0UQjT0qD+xV7pZbQUQwZ09Az3kkVd4cAwy8khwEhaQSM+CujYdLyspbTdA+DibNg2sWQMssDpcp/3t32I72oYkbaTXBYkacpzRAX4V0vbQCJF2qQOniflmJGUb/RvjaSCr83FTZhp14EJGt4CP5sIWOsfuOdmocFB8Nye6IELZLK21Yie/BEQUL8yjVodmtM6oZU9ek+MaOFqPhi2/KivC15GTlTEUBHOTTwhvR4i9tEmu94HF1rqXCmOeiZOWGGjrU=;0HJtAsMpsADqnWg/rpB6pQ=="
 ---
 

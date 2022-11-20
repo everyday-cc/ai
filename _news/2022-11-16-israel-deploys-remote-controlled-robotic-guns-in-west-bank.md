@@ -6,9 +6,6 @@ publishedDateTime: 2022-11-16T07:23:00Z
 originalUrl: "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/"
 webUrl: "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: Las Vegas Sun
@@ -19,6 +16,6 @@ topics:
   - AI
   - AI in Finance
 
-secured: "LC74LgeRF6GcgsT+ThMHJWLO43WQtCBwSE2iUEvT6MEsyQ0mjC+ONSpBpIfgaZ8CsF6L7+tz6iWxl1SWEfFkxIqhHOnN9L600cHNwqiHZnC2TQ/D+6CobT3RtwqDj7ZCI2+8gb5+jFtjfCJbuAEHvOIxtFjGYIW6E34xYpClNrzPpht+RLpmJkbe9ACD/gLZrwjKlarkUuedFx6MZRLx7H6mZgNgV7TvC9/vJgQWo8YMT6m+2HVbbSdS/b/whvybRC2X42frGOTiTtSKSlRaRRBZ8XeJ+ohy0jZnmGS9RDPBXK4YMaSOMPaObDCT0t80XHdsZiljt0gAMOiMF7GDfz3/ljBdH/xiCSAxNt1sW0c=;sOMSvkA0f+g3q9T0sX2Qpg=="
+secured: "aDK7Hp82gPwwv9gBhhYpzwO1aTzo/aZ3iWZs9EQkt8bpR8/TxTOMr2i5W+W0Zt9yhdt22PAZ4W3rFyTIjF+5e+/QzYaOfCA9SuU68r1fN6+/LF7aAR2TT/zhv/4wsSAzJYe11PJpCyjLEJ8+sYqMe4iJA02FiG2+kaaFXrQ72rM6qESEhgl8rJFGe1nY3048qXiDoWnN0mpUsCkeItMNQ8w87Foo4psr6PgNIfCwkUs0M6dsR4JFjf+zLm7WyD9Di1a5gSZoy9WjY32TWewVHmrXNl8BebE6+sQIy6NJwxa9qrRr5s/NudRQH3zKSl2CW9XFDzU2QTvfTm661nCUM9Igfr56Qo+5fZ0PxsKnQLw=;mrgJoP5lXb7NZl2k6mnrtw=="
 ---
 
