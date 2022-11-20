@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Machine learning can help predict patient response to cancer immunotherapy"
+title: "Machine Learning Can Help Predict Patient Response to Cancer Immunotherapy"
 excerpt: "It uses deep learning, a form of artificial intelligence, to recognize patterns in large volumes of data. In this case, the data is the amino acid sequences of proteins called T cell receptors (TCRs). TCRs sit on the exterior of the immune system’s T ..."
-publishedDateTime: 2022-11-16T15:44:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/971463"
-webUrl: "https://www.eurekalert.org/news-releases/971463"
+publishedDateTime: 2022-11-16T10:00:00Z
+originalUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
+webUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Johns Hopkins Medicine
+  domain: hopkinsmedicine.org
 
 topics:
   - Machine Learning
@@ -57,6 +57,6 @@ related:
       domain: jhu.edu
     quality: 17
 
-secured: "aoFpNhTQ2Q01xKrzzdmauFGEtxLwmJ0/KM3zZffHTqSvs69DLfpP8Emsk7p+4YFGCCkOJexrg7URXM59EvUqparLhD3e7WuprEJTpxxc3MDraC+l0B9+RwUB1X1A/5Hvw8mWiHP1Evb/tQnbXym/EE+GFSRckhyXyMbXdEG86nEynIt2+w2CB06PPXO0Weie5SGXmIH0J4IvuqfbSJbqLF5qB/9bkWpCPT5xz91r6NTfLUf7wS5ArFW+u1sS70oQBDRLAoMA0yfCD/hFcSVWf6QZiH+v/ukWkCNSFEvN+RsliBE7Z3WsqLpLNdbPw7I52XpvvdgGnrY3Ktq+YKPBkpcISd6/0dde0vwbFHvuO4s=;U78fu0EhGXVNPf/aBWw/oA=="
+secured: "P6f2Rl69mJjkNiWvRa7xyEDfCTnZrcH34Rhi7dYVez2kqdvswf6HmBPyXw8vCsaByV8nSZOEWJYDIJZiVyIw4Spy0Yt5zpuW/YaJSUpKXxfJWAukmR+quXuXkcDVruiQFRs/ZtLRGCZc9Kv6XHODR6+98n/Tfu0uAv9sqjWuG6qTmjIAYosArdDPJ811UgwSliiKmWK2vcbPgUBbNJOOhTnh5gW/fzs1/urapK25LjAhfJZY1KwzT0bA9Ec/YwB48wbCUK81OO7pwuC6E0HuktlLz8PHtcDQuYQgsrDi+6KplcmN/uKU93TuDSQRJ7kpVLYUSd1gqPrGJIeet7C1eQrycsrOYxXzNONEs85YJh8=;8/xNSPZ5cXcQofeB4hiWOA=="
 ---
 

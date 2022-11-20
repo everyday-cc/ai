@@ -22,6 +22,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Face Recognition Device Market 2022 : Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Face Recognition Device Market will have significant change from previous year. By the most conservative esti"
+    publishedDateTime: 2022-11-20T00:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+
 secured: "OuIF8s9H5yVmqJDASR9oGxb1OD98yWVLabak08shWJRDQAEzf7+LrjnBQyxBp01WCxT4xcTVV/u3c4O4BtbVog2HBSvx1iMvOW0s39XhpXxv3m2mAt6pjP78zx0flQYA27u0AA4g5zryHF/RTeCHJHw2ZjMKh9oUU8IKRb3aJw/umu6hiNzsXU2xIf5SdGDGKMvoz4hnZB9g+SAYrUpzIKrg80lIqMIHqqxuBKvvmc40eqEt4ufoFivBbmcxlPu2XV2O78z4iJMAlAaBbzeF/c4uCO+jhsAScfN9W0DLfG47esWR/B1NJGVURRS1tJqt/qzY9Q8tUppPn/sC7C1epHV56qUXw+PxaP78IfxcFvY=;Kt5PEYJwPPpjMFEdA1gK7w=="
 ---
 

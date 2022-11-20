@@ -24,17 +24,6 @@ images:
     height: 1707
     isCached: true
 
-related:
-  - title: "Tesla tells US of new fatal crashes involving automated driving"
-    excerpt: "Tesla Inc. disclosed to US regulators two new fatal crashes involving automated driver-assist systems, bringing its total to 16 since June 2021."
-    publishedDateTime: 2022-11-16T00:10:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/11/16/tesla-tells-us-of-new-fatal-crashes-involving-automated-driving/69652409007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
-
 secured: "kwC0dKI0bJrcNeeGwONnRvbkpwdimStrg7SdXKIOcqI6B13oCYh59Ja3xJXK74QL+HYCKcWup/1/6tKxP/WBUZ5aG7qrPjgCuzTKhqSkXiFZoBFcZRhKxT59pcgm20df5f/4qFf7y6vqsKiWorPIGI70EnriZn36+Fa3EGHNWWzbwVdCYtR0eXF+6ya+2OiLqCyjYGok/GlHVkbKE7Ps0mrncnBbGrCw1m5Wi6KAOEqwu3OD0pFUWswxswRyrboyu0/oYWE+EStg+Ui0CnNbedVRly2NZK62HFEt5fslv/N4eNbo0HBHhui5MH5Qw3+YYcHbf2Esnm4v9HiEifUuX2K47TIUmtT5R6bpteZB1uY=;8MUE4s8XEBD8N9gFU1dqfw=="
 ---
 

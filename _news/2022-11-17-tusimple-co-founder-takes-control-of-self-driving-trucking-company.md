@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-
 webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "Waabi Unveils Adaptable Autonomous Driving System for Trucking"
-    excerpt: "Self-driving truck startup Waabi has unveiled its core product, the Waabi Driver, an autonomous driving system for commercial trucks designed to learn and adapt to new routes and driving scenarios at a faster pace and lower development cost. The Waabi ..."
-    publishedDateTime: 2022-11-16T14:33:00Z
-    webUrl: "https://www.ttnews.com/articles/waabi-unveils-adaptable-autonomous-driving-system-trucking"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
 
 secured: "dExDeNsZ66KUgSrtDV1NxVddD1Dr/j6T3hs1uCu+KjMvxMhP9NTLl66+M9KjqoDApXIZtSecJucB54flsPnOFEEJodKDOwpHlLuelYyCjH6LkOtYLoN8bm2KTswu+xWlWA5ne6TYpMZa3PUFQ+6n+2xtiEptxu1IqVM4//FmzcTrhRtclCrk2y7pWaPTsA66lj1XDlOm9NhAkJqmBL7tUrgi7WLMauU+3fHb+rTm7OGDyanqSqhJcpEA/9f0fpbA2Jdj4ni0DjIJjnf1LZ99xQlZt0NLhV28MKuYusITgyfUf+QaEZ0fadBjh3pbpSEvWihmyIe+DB8FWrPt7lfeUq7BB6WMGK7vudRO0vYsc66ytp/B1XxUi90WT93xJuuRgJByRySj9RB/Ew0o+3S+75Rb8T4T+INlGhoejkor1jPlE2nIwngE/crUNviip8mkdn+FzACuQyjnuqxHLsc2EZFi/kDgQwzGMVEeqj6wCVhwBZQeujQmkYMqpUMQnmM5e/+qq1H6ggfLxGjRoZlasA==;7YTW4vXpjChHySSBCM7d+w=="
 ---

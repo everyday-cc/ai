@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-20T14:53:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-and-metaverse-have-significantly-impacted-businesses-and-industries-across-sectors/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-and-metaverse-have-significantly-impacted-businesses-and-industries-across-sectors/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Indiatimes

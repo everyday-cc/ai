@@ -19,62 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "TuSimple Co-Founder Takes Control of Self-Driving Trucking Company"
-    excerpt: "U.S. government regulators are investigating whether the self-driving trucking company TuSimple defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. WSJ tech reporter Heather Somerville joins ..."
-    publishedDateTime: 2022-11-17T02:54:00Z
-    webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
+  - title: "As Doubts Grow Over Self-Driving Vehicles, This Ambitious Upstart Rolls Out Its First Robot Trucks"
+    excerpt: "Self-driving tech startup Waabi has deployed its first robot trucks and intends ... testing with the “Waabi World” simulator CEO Urtasun developed that allows the AI-enabled system to experience nearly limitless types of road conditions."
+    publishedDateTime: 2022-11-16T14:07:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 57
     images:
-      - url: "https://images.wsj.net/im-667998/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company"
-    excerpt: "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate"
-    publishedDateTime: 2022-11-17T00:31:00Z
-    webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=mw_latestnews"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://images.mktw.net/im-315600/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Waabi launches an AI-powered self-driving software for trucking"
-    excerpt: "The Waabi Driver, combines AI-driven navigation with an array of sensors including laser-based lidar, cameras and radars to help steer trucks."
-    publishedDateTime: 2022-11-16T16:33:00Z
-    webUrl: "https://www.canadianmanufacturing.com/manufacturing/waabi-launches-an-ai-powered-self-driving-software-for-trucking-287137/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 39
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
-        isCached: true
-  - title: "Why are Companies Reconsidering Their Autonomous Driving Investments"
-    excerpt: "Autonomous driving was among the hottest investment themes until a few months back. However, of late a lot of companies are rethinking their autonomous"
-    publishedDateTime: 2022-11-19T11:20:00Z
-    webUrl: "https://www.business2community.com/tech-news/why-are-companies-reconsidering-their-autonomous-driving-investments-02573958"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
-    images:
-      - url: "https://www.business2community.com/wp-content/uploads/2022/11/autonomous-car.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63743b5c8a22f01209f59b8f/0x0.jpg?format=jpg&crop=3532,1885,x156,y113,safe&width=1200"
         width: 1200
-        height: 714
+        height: 640
         isCached: true
+  - title: "Waabi unveils its first generation self-driving truck"
+    excerpt: "Their launch signals both that Waabi is ready to verify and validate its self-driving stack and that it’s open for business. Waabi is starting out with a handful of trucks that appear to be made by Peterbuilt (although Waabi wouldn’t name its first OEM ..."
+    publishedDateTime: 2022-11-16T14:01:00Z
+    webUrl: "https://techcrunch.com/2022/11/16/waabi-unveils-its-first-generation-self-driving-truck/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
 
 secured: "SzdgCOd8o+bOcpQdcR9Y10NWnvu8x0XpzQeosS6WFbcljijIbI0QPdodRS47WC2Q+Y3KXpZeweSgmn8TIwFPkNMKQM+QA2CuYgZKmV5KoAiSzhxmmlW/SUhydQZMQDrkCZv2PZCmM5swW6KooVRIxcUOqUzN4XRKX0XWAuTaCl8WT5hd1P8kCLnPb+m0M0uETTXT8IRojJ2/aFiCXs5dYMQoX21VEfEAOYWhEm4A6Eiq1gH+XNTGYJN1jwEosmmcWPAE3GlA2m1qTPks0+gzjBT1c0AICNF5IRNRKRKMQ1Z2oH8/hxl43uYNjTZ2QehDmWSLxT7Ous4TRopltloEV/kYdZPI+5jpg+qavmc4jiGSlskRiSR0boOxwNGkwmhTNgsKgVUFlfoOs1+G08trAUrIDs74AZ1FSaf7YBQ0Ahue9aSKEZ1QrmOmKnduWU4JkFCsJ3eLBFV/gt+xu1lHItnnQbTJrY3JOnQwIo5HEkd2rcDkChWabTODo+Dm31wS+BtDwNBb4ZctxhxPPmu0rA==;M224wu9uRrzwYe3DuOHDMw=="
 ---

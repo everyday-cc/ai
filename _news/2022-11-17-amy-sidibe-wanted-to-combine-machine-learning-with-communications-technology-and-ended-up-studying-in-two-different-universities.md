@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-17T11:45:00Z
 originalUrl: "https://www.aalto.fi/en/news/amy-sidibe-wanted-to-combine-machine-learning-with-communications-technology-and-ended-up-studying"
 webUrl: "https://www.aalto.fi/en/news/amy-sidibe-wanted-to-combine-machine-learning-with-communications-technology-and-ended-up-studying"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Aalto

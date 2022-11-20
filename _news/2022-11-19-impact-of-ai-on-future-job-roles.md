@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Viz.ai partners with Illuminate to improve quality of care for aortic aneurysm patients"
-    excerpt: "Adds natural language processing to Viz.ai’s AI-powered platform to detect suspected disease earlier and monitor patients Viz.ai, the leader in AI-powered disease detection and intelligent care coordination,"
-    publishedDateTime: 2022-11-16T00:03:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-16-vizai-partners-with-illuminate-to-improve-quality-of-care-for-aortic-aneurysm-patients"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 11
 
 secured: "N0ibzir9qvH9u1A/8vo7SJmRdu8vqMNzJSWFOL2FsTUmV40viqcshcXhRLDYydiGdjjToDlxwOENBcrGAJ1tiwTxyRqZMoDjd48rHkf1M5l7gCquKALVxvQMlAUYl/t0SeBMjt/ErjtjoHIucuz9/e4R273pRVOXLdzf2Qa0HKl7ygbCP6WDotFVpWshn210N3KsBmBDNBi1e9914rofwVafAVa5PiniRJODlnTv3YMrWNh+WhlDXwLQ71/PO9ZrNMH0tA7WLf0u2LkMA469jxligFiUoWIxqOahs3xjurSRoZBgX2WfQKdpJHsGWBZYi3Iwz1KPOEXFC/i++xPJDuzqLYBd9Ox0CG0eltV/ddYHaf15D+DafB5R8BfYgkzYnMVLRQZI86buMUucn18yZ4xKDLfKY8pTUplgcqavsiWRNqCDGCEEai5bJT0ck7ItNeWSG3GSM3DtzhpGDfVLgzN40ibJrw9WyRPNMDjB4pJusodrSOhsCsVIEcHMATGbhwdd3ZWyqDg1enBiYr/0aw==;JNw2DmMxYjkdPBGP6Quiaw=="
 ---

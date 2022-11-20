@@ -288,6 +288,15 @@ related:
         width: 480
         height: 298
         isCached: true
+  - title: "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack"
+    excerpt: "The biggest news, though, was a partnership with Microsoft 's (NASDAQ: MSFT) cloud computing segment, Azure, to build a new supercomputer. Nvidia says Microsoft is the first public cloud business to adopt its full,"
+    publishedDateTime: 2022-11-20T14:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-scores-a-huge-win-microsoft-will-be-first-public-cloud-to-adopt-its-ai-stack"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 56
   - title: "NVIDIA Partners With Azure to Build Massive Cloud AI Supercomputer"
     excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build what the companies said will be one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s supercomputing infrastructure combined with NVIDIA GPUs,"
     publishedDateTime: 2022-11-16T14:57:00Z
@@ -427,15 +436,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
-    excerpt: "Customers Can Seamlessly Extend Nutanix Environment to Microsoft Azure Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure,"
-    publishedDateTime: 2022-11-15T23:53:00Z
-    webUrl: "https://www.ryt9.com/en/prg/263384"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 34
   - title: "NVIDIA Teams With Microsoft to Build Massive Cloud AI Computer"
     excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s advanced supercomputing infrastructure combined with NVIDIA GPUs,"
     publishedDateTime: 2022-11-16T18:58:00Z

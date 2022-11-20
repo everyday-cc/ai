@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pickle Robot’s unloading robots bring in $26M"
-    excerpt: "Pickle Robot Company announced that it closed a $26 million Series A funding round and it has live pilot implementations in the LA area."
-    publishedDateTime: 2022-11-15T23:02:00Z
-    webUrl: "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/11/feauted-web-pickle-robot.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Soft Robotics Secures $26M in First Close of Series C Funding"
     excerpt: "Led by CEO Jeff Beck, and COO Mark Chiappetta, Soft Robotics is an industry technology company that designs and builds automated, high-speed picking solutions using proprietary soft robotic grippers, 3D machine vision, and artificial intelligence."
     publishedDateTime: 2022-11-17T21:39:00Z

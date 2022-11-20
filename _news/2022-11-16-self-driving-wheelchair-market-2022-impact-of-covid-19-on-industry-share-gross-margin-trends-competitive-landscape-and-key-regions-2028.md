@@ -45,20 +45,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Self-driving Ships Market 2022 - Industry Size, Statistics Data, Top Operating Vendors and Forecast to 2028"
-    excerpt: "The drivers, threats, opportunities, and challenges are described in a detailed manner after a thorough analysis of the microeconomics and macroeconomic factors affecting the Self-driving Ships market."
-    publishedDateTime: 2022-11-16T00:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-2022---industry-size-statistics-data-top-operating-vendors-and-forecast-to-2028-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vPMqsEKnRu4fU+nNXH9hlp5S2mxE8p1KzlHMZFjN0TuVpSJvC77B7CDjiOai9jOHe4dHnbvkup1zvnEooPRVJ8pWpLtaT+3ebT/WdmCy4y1Fy9QWsm+4jPjUqCYSoUK3cqByH1SM3ZLDB4s2BHRLvD5zPLitfp9gW1Sz6+w8vXb7t+6QHYhVjIGe/S/vXWRADOFlwoQhBSESME4DC+1962yiDkgcdPKwOxo8Ln7Km0Y3AO5rSshS0kCs4w6I+QIa3DX+W6hINo8/wkn52wkZfH8w8hfIWnBpdn9e+wd8SC9D9z7FKSW55hmQ5xiTiMt4qRCiV7vuOXu0rv7ewYb5K+t0kUSQGR9rcRga4BV6wus=;vUArZ+SA4tis23hLwxRHjQ=="
 ---

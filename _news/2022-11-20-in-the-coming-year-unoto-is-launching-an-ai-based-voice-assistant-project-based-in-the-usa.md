@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-20T13:41:00Z
 originalUrl: "https://menafn.com/1105209035/In-The-Coming-Year-Unoto-Is-Launching-An-AI-Based-Voice-Assistant-Project-Based-In-The-USA"
 webUrl: "https://menafn.com/1105209035/In-The-Coming-Year-Unoto-Is-Launching-An-AI-Based-Voice-Assistant-Project-Based-In-The-USA"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Mena FN

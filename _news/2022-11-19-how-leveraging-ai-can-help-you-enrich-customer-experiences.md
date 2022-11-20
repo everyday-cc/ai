@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90814057/how-leveraging-ai-can-help-yo
 webUrl: "https://www.fastcompany.com/90814057/how-leveraging-ai-can-help-you-enrich-customer-experiences"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Purpose, potential and pitfalls of customer-facing voice AI"
+    excerpt: "As voice AI advances, voice assistants are becoming a necessity for businesses in many sectors for engaging with customers."
+    publishedDateTime: 2022-11-20T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/Voice.jpg?w=1200&strip=all"
+        width: 1200
+        height: 662
+        isCached: true
 
 secured: "DRH9BoJY1JvvcZL7qtK1VXrvY0WvsgKiuOjDgODpWC4qQnhSgTNUWr0IZe+v2TURRoQJh4JVyuaJytl6XlOfpz7Kb0D7PdLTHF2EFbJeu6IgqvhqMNMR3THFq56Qd8sl7waSeHGdIauMwofygLBwL2kj2O4PPpUth85ho3xNXinZ4qa2sgR65LUHW+jYLniuxuoPG6H2eYqrD9EtWJKscLQS3AveC20MLHpGu/jEsql2ZBY9SkYqd/Ks6rY52aUBHCIzPh8SYwdEDDsmlF576/oXgpdHrPeEZt8iYm41EK1WSDHAthdTqSeG/cUgMBbCRAEyadlMi4TDy+NY7lZYo9OpwKYJR3K4+iXo/W7sp8c=;NwkC6PCr+eFbnyJOy9mDCg=="
 ---

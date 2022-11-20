@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "Waabi Unveils Adaptable Autonomous Driving System for Trucking"
-    excerpt: "Self-driving truck startup Waabi has unveiled its core product, the Waabi Driver, an autonomous driving system for commercial trucks designed to learn and adapt to new routes and driving scenarios at a faster pace and lower development cost. The Waabi ..."
-    publishedDateTime: 2022-11-16T14:33:00Z
-    webUrl: "https://www.ttnews.com/articles/waabi-unveils-adaptable-autonomous-driving-system-trucking"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
 
 secured: "YARiMvx98CoRtUDRSr9dKwr+Smcs46jVx0Hehk/6AJ2K7KFKX7IMvJXXNeuCI1QZcpc0nPGJVDGPFxXZi8hvhIrFus6ULHuKW/Qtg04+cIWNbgCPdC41evl7bs2lJSwP03nid0gs8NEakf8NwE6sqWmjXp9Pw8JFOL6kMhIG+g53GUDJoAglg7F0sWedxK3CHWYVZvW4U2Aaf6L0i5CnU0k9eqFWlSBlM2c66rQz5XHGoSouG1OCRh4MmorliAP90v3UgZ9vSqKtuMjb6E2zr4eHBJhqihs1XdpjJCA4DQdV9Trvy2e7aiVPTReVkQ2GJuXbDFhY006Vkd8eUCWQZtpd1HUlrmmPjjRnwHz71yU=;8grAiz53zZkfzQF5oDJevw=="
 ---

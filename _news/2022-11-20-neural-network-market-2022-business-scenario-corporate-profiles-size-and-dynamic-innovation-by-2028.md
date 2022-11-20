@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-20T00:56:00Z
 originalUrl: "https://www.marketwatch.com/press-release/neural-network-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-11-19"
 webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-11-19"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: MarketWatch

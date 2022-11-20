@@ -5,7 +5,12 @@ excerpt: "Jackson Ryan is CNET's award-winning science editor. He used to be a s
 publishedDateTime: 2022-11-20T12:59:00Z
 originalUrl: "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
 webUrl: "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: CNET
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "obG6Rsxq7nz5kxkjfgiY8/Vtr/vaPrA89Pai1v+TN7mYMZ3+2SFq3LMacTLAn8RKJ3EmrDeVvHjDyft1dVLkgTs0bDVbxqNHLTzQZuwASCcVjD43rjw+RVjTALCA1igLhsf3xXTUHuX/un1J3kKJSUt0knv+EkyBSm40KG37OAn2ex9k8RVT3DZ4F8xZltZAYgwLC83Qb3AzaskElQQGI4SuXeHBIAyGDsJbcc4AvnLMBTZF/zl20+PX4PucjZ5EVPVSj2LQ2DuKgLH+ytIs5mXKzlock97qNids3t+SMC5/TykpeVnOXb6SJIDNEl1JeyyxwfilhQVHmLCPePHA566I1N4PRLZmyi9T0bhKqu6oW6+n4yI1MopjNtJUKR+uYglDPAhbkj/060lvlUEbGfJF+IVvvTnFKdlo5iRpZNLKo0XKrmPA8HOZMaDGhSPRuOV53GvN8LvglpPr0kuzPske202V6sOjV6eSErxyv+s05dsAaL0g8NmpwS4WlTYNsg92FTvj+KToGegs0c2D/g==;anQnCxcghOpoib/slNhrAw=="
+images:
+  - url: "https://www.cnet.com/a/img/resize/26630fc359684535ecd755882414e1366946848b/hub/2022/11/19/fbd72c6a-b611-4155-8538-8097c4de73e6/galactica.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "asnK1eZnuwBapAjt3uWhhfTNyO6jPBlYq/HfhUgp43pcXcGP0NSgpmdMrLSByYXPLWRH3+dAI1QelX1zexPMqbj/pS4dtIUIWQ4NQfnlELvesOFOG/KE1Hn9DtcErNGFAiDazF6PvQLm8Snf6wB5YMmxuWDgTlg3ygM73ePW6pd9AFJqoReKB3IcbAv4nFjg6f4kzSiMNGXuOOSG2+6aVFRmrOpH/FPSJTUyYY4UsFjeQiIRAApYdBKRbytYXni+pE8XIpzF60/hrx5e7WVTeLICEff+BaWzp10VLTDdseolTqVZ2kN67Kx2aCW9Lj5svfwM1WdynmsY/xvjmKtjrjlfJeZH5InWObDWhWPsDJ8=;Owq9FbBq2TOIAttxb+i0aA=="
 ---
 

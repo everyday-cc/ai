@@ -50,20 +50,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
-    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
-    publishedDateTime: 2022-11-16T00:56:00Z
-    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
-        width: 660
-        height: 454
-        isCached: true
   - title: "Fintech to accelerate growth after funding round"
     excerpt: "A Cardiff-based fintech behind an AI-based credit scoring service to people without a credit history or those looking to secure small loans has secured backing from a number of"
     publishedDateTime: 2022-11-16T10:21:00Z

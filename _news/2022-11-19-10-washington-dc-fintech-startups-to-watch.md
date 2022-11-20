@@ -36,20 +36,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
-    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
-    publishedDateTime: 2022-11-16T00:56:00Z
-    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
-        width: 660
-        height: 454
-        isCached: true
   - title: "4 FinTech companies transforming the financial space in Iceland"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-11-16T11:43:00Z
