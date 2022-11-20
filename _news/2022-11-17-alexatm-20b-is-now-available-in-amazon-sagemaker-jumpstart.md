@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Jodhpur, Swiggy join hands to develop facial recognition tools"
-    excerpt: "This partnership was established when Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies."
-    publishedDateTime: 2022-11-15T08:01:00Z
-    webUrl: "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/"
-    ampWebUrl: "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/11/IIT-Jodhpur-1-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "IIT Jodhpur, Swiggy tie up to develop facial recognition tool"
     excerpt: "Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies"
     publishedDateTime: 2022-11-15T09:24:00Z

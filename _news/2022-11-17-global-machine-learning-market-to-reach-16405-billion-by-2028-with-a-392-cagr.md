@@ -2,9 +2,9 @@
 category: news
 title: "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR"
 excerpt: "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028)."
-publishedDateTime: 2022-11-16T21:48:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/16/9715226.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/16/9715226.htm"
+publishedDateTime: 2022-11-16T20:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm"
 type: article
 quality: 14
 heat: -1
@@ -38,6 +38,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "WNEssaKoV0Pq9mmdoI8dLdoR7baMpcjXfj8uwobKkcjIdH6vpa4wAYZPlaIQrndRSoJ2yoOnab0iDu/2pT/WqvBT+P4v7EClt3RdwbRnx+7IKwmQT7ortFfX7NInR4qga8dU9+Rto7Cge+ASsEn3D4zcntPW+QB4glwp8raLRWwnPTah9pqmL9cqXjvo6Pre9c6djTFhwo9O9dctXnogBPz+6L2/j1//iLJM0494uiVklFNg4G2IwrFhUNw34UNR/ipE25QUCdW9ijnjEoFNJpIMUz5xzPT5XfCz0pNF4bMnuGriektAHC+ezGGHItRuCktq1H0OGyqhll9D6VDW3ex+DPYgBrbaB8NVBCPbaRU=;7M7iXel1r7OIVs9Q3zriAA=="
+secured: "5muRpNObqfVNkEAVrkaZ0k7YTB/xfPM10JbSNSMPAJKeVDs9NYZgRXqfr9chfRWB9EQI26nFRRnfwna+QXSgH7wYcSBsHlcKpInDUOTWHs687kuoX7D1jqaBQ5vsQ/XyVJVGL1eZwbTmY6Zh2jY29+9ZIILxfjuMkw2FvNJ2XxkDtRgcOMyqNUU9uA33vJaCxD+GtWwAWjVhUvhla7yuyIqbPnLOO9K/JGaqNNxb9m6PY9Cfr/yj5ikWLBdi3e3/wZqUb4sOJEafhc9c2JwZXdlp2pqWsEiaYf3cfjy1z3YbvYIbMZuyK4NGMkJYwLqcukWQ8RbqcNB2iSwb/grsQuI1Ng2182RE/Y1hJXwYQYo=;ri3ymBNu2kgSwgoDZTSKyQ=="
 ---
 

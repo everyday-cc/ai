@@ -9,7 +9,7 @@ ampWebUrl: "https://m.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to
 cdnAmpWebUrl: "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to-develop-facial-recognition-tool-32154.amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Jodhpur, Swiggy join hands to develop facial recognition tools"
-    excerpt: "This partnership was established when Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies."
-    publishedDateTime: 2022-11-15T08:01:00Z
-    webUrl: "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/"
-    ampWebUrl: "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/11/IIT-Jodhpur-1-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Swiggy collaborates with IIT Jodhpur for ‘state-of-the-art’ facial recognition technology"
     excerpt: "What’s new: On top of fighting for their labour rights, gig workers will soon have to assert their right to privacy as well, as Swiggy joins forces with IIT Jodhpur to develop facial recognition system (FRS), reported News 18. Swiggy’s Applied Research ..."
     publishedDateTime: 2022-11-16T06:37:00Z

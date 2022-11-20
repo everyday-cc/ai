@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-worl
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 671
     isCached: true
-
-related:
-  - title: "AI gaining more ground in China"
-    excerpt: "Significant progress has been made in developing China's AI industry, with technological innovation capabilities in some areas ranking among the best in the world, they said. A Stanford University report showed that China filed more than half of the world's AI patent applications last year and the nation continued to lead the world in the number of AI journals,"
-    publishedDateTime: 2022-11-15T07:42:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202211/15/WS6372d26aa310491754329abd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202211/15/6372ebe5a31049178c90b2cc.jpeg"
-        width: 720
-        height: 404
-        isCached: true
 
 secured: "bWmNRxKtycEI0AUi+jTQcaR5Tc9vmyMU+NfvsoNYvSYuq6L8v0kVvpzf8/zoW7QEnn3dg09ArITAa/w7HtWH1q2EpleyvY6A5LpHm6etPnmxIdSlzm1Bl/3VzVLxMUs+lI898EnvabQzXjlkp3DyPfIG+komI384MmcZl1hkT9LiGFYq+C9RfqgU/s7I7DWBxHx5XnON81cdHNEYtN0slqjzYRu97hDdb9as+uU4MoUrbHyBGVF4YitAA2Tt7IpUcllqzfLkjVgDeWOrQOtFcLPwPi7zKCEmh3XbIFJWZSXOIq7vgbP9Dc+stniW/kpHHRWeyj6hrbyO3s+DHdMYaBHaODyzLYy6GLLar59cn6FK7CvVyU4Nc2ifZ9VOlOuUdUBtlamngteL+0LGhjji/hV9RIeXIDjojkOqZRJf4mpKR0AfaSudNcSd7fFWVN7fXV0cEiIbRjCdjILVak/ag8MD7gIvq4M2PN+WDYDxcR56f1ykxCBOYwX8nLxfrQnN/F2yUAXFohpsFBqx4NzYvg==;YTFGIwLbAA7MZLB8r74M5A=="
 ---

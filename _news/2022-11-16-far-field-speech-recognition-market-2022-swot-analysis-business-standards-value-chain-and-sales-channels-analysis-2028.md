@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/far-field-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-11-15"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Stadium Market 2022 Worldwide Business Growth and Consumption Status by 2028"
-    excerpt: "The report helps to gain information about the impact of the Covid-19 pandemic on the Artificial Intelligence in Stadium market. The report provides the strategies adopted by the prominent market players to cope with the effects of the Covid-19 pandemic."
-    publishedDateTime: 2022-11-15T07:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-2022-worldwide-business-growth-and-consumption-status-by-2028-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Retail Market Statistics 2022 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence in Retail"
     publishedDateTime: 2022-11-17T04:08:00Z

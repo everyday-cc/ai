@@ -28,6 +28,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
+  - title: "Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
+    excerpt: "\"Off-line\" periods during AI training mitigated \"catastrophic forgetting\" in artificial neural networks, mimicking the learning benefits sleep provides in the human brain."
+    publishedDateTime: 2022-11-19T22:32:00Z
+    webUrl: "https://neurosciencenews.com/ai-ann-rest-learning-21899/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 34
+    images:
+      - url: "https://neurosciencenews.com/files/2022/11/ai-learning-rest-neurosciecnces-public.jpg"
+        width: 770
+        height: 514
+        isCached: true
   - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
     excerpt: "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways, they have achieved superhuman performance,"
     publishedDateTime: 2022-11-19T12:57:00Z

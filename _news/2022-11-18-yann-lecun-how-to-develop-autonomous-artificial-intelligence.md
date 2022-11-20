@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-18T00:39:00Z
 originalUrl: "https://www.techopedia.com/yann-lecun-how-to-develop-autonomous-artificial-intelligence/2/34812"
 webUrl: "https://www.techopedia.com/yann-lecun-how-to-develop-autonomous-artificial-intelligence/2/34812"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.techopedia.com/images/uploads/yann-lecun.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-sn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
 type: article
 quality: 106
-heat: 318
+heat: 316
 published: true
 
 provider:

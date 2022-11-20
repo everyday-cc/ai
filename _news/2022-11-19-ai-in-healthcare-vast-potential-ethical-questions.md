@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-eth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
 type: article
 quality: 123
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Can Healthcare And Alternative Medicine Safely Adopt Artificial Intelligence And Virtual Reality"
-    excerpt: "and telecommunications—have in recent years discovered the power of pairing artificial intelligence (AI) and virtual reality (VR) to help alleviate the complexities within their industries. Handout AI in healthcare A few years ago, both these innovations ..."
-    publishedDateTime: 2022-11-15T08:31:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/how-can-healthcare-and-alternative-medicine-safely-adopt/439152"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 71
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1668497972-Healthfinal.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "6 healthcare moves from General Catalyst"
     excerpt: "From expanding its partnerships with more health systems, to investing in a plethora of healthcare startups, here are six recent healthcare moves from venture capital firm General Catalyst: General Catalyst partnered with its first health system outside the U."
     publishedDateTime: 2022-11-18T21:30:00Z

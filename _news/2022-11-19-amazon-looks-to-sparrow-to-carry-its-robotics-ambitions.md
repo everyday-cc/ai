@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-it
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

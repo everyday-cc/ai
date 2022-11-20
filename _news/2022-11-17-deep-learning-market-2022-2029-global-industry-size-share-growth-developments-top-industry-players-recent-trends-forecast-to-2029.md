@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In RegTech Market by Type and by Application-Global Opportunities and Industry Analysis, Forecast, 2023-2029"
-    excerpt: "Nov 15, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 114 Pages Report\" Global"
-    publishedDateTime: 2022-11-15T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-by-type-and-by-application-global-opportunities-and-industry-analysis-forecast-2023-2029-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Stem Cell Therapy Market Size Will Reach To USD 1,185.9 Million In 2030 - Reports And Data"
     excerpt: "The Stem Cell Therapy market has been segmented into key regions ... previously incurable diseases are beginning to be treated. The use of artificial intelligence (AI) and machine-learning technologies is leading to increasing expectations for more ..."
     publishedDateTime: 2022-11-18T13:11:00Z
