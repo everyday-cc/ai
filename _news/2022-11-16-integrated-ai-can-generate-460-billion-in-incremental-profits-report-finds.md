@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anime Convention Bans All AI-Generated Art"
-    excerpt: "Animé Los Angeles, which is being held at the Long Beach Convention Center in January 2023, issued a statement earlier today “Regarding...recent discussions involving AI-generated art” While they’re leaving the door open just slightly for some highly theoretical,"
-    publishedDateTime: 2022-11-16T01:10:00Z
-    webUrl: "https://kotaku.com/ai-generated-art-ban-anime-convention-los-angeles-1849788219"
-    ampWebUrl: "https://kotaku.com/ai-generated-art-ban-anime-convention-los-angeles-1849788219/amp"
-    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/ai-generated-art-ban-anime-convention-los-angeles-1849788219/amp"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
   - title: "Over $460 billion incremental profits from better data practices, trust in AI, and business integration"
     excerpt: "Infosys research finds AI and data must join forces to deliver strategic value BANGALORE, India, Nov. 16, 2022 /PRNewswire/ --"
     publishedDateTime: 2022-11-16T10:20:00Z

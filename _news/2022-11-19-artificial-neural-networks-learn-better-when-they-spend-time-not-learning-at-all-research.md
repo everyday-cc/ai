@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Not Learning May Help Learn Better!"
+    excerpt: "Catastrophic forgetting in computing systems like artificial neural networks may be overcome by allowing them not to learn."
+    publishedDateTime: 2022-11-20T18:27:00Z
+    webUrl: "https://www.medindia.net/news/not-learning-may-help-learn-better-209333-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/not-learning-may-help-learn-better-209333-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/not-learning-may-help-learn-better-209333-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 44
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/brain-heat-sensor-remote-control-of-core-temperature.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
     excerpt: "\"Off-line\" periods during AI training mitigated \"catastrophic forgetting\" in artificial neural networks, mimicking the learning benefits sleep provides in the human brain."
     publishedDateTime: 2022-11-19T22:32:00Z

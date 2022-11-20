@@ -25,17 +25,6 @@ images:
     height: 529
     isCached: true
 
-related:
-  - title: "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence"
-    excerpt: "Artificial intelligence is everywhere. Once the domain of science fiction, it’s used in everything from virtual assistants, to facial recognition systems, to self-driving cars. But how, exactly,"
-    publishedDateTime: 2022-11-16T02:28:00Z
-    webUrl: "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 27
-
 secured: "sJ+hTHzqeeZAM3MsL1+M/EMkLECeOaUGH7jN44VSRByDdpMGIb8u6JMiMXwAGsUMKBqrwtuAVnf8JRH1narqY1jN3tvAI9zis8btkKT0XY74wUYLQ1zugzZeh0PM7SaJJPyLYF44Xk++9tfH0wEB4lqRdY/Prjvz2F4pk/RanH87ZMp92qAh6HCdjJNs5rkK9wxTniSBk+mf4LMj8a8FaRcMvzSUe6mKBLP+2zyfgrp9Jjf/GJLfcmCfgArvUUs/BD9PcSmxqAERpOyZMP5W6ixT+ILxp/EpRnPVBkqDem2DbayZooUvZlcoodx1stj+yGUY0jklkKtJY2y2rW9mVL3pQflv1fum9z8hFgKBohSdLBQlkSUs/aY5EdsTIQ+0XxWzTaoSfsv34+lHtuloo7ZvqZTkuZDVSavvGoAoZkBfa/SpeZCF0bROJ3jepkQJ+aW9TFJWn4ekBg8mTDk3gYkRJZOd4fSL7+27zNyMtz0vhxcFMP4GWcXUkapFIVoSGEa3fVbeQGGueN1gpGzCvA==;5MIlv7FRzMUIOyjpuMQA2w=="
 ---
 

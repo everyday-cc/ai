@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Anime Convention Bans All AI-Generated Art"
-    excerpt: "Animé Los Angeles, which is being held at the Long Beach Convention Center in January 2023, issued a statement earlier today “Regarding...recent discussions involving AI-generated art” While they’re leaving the door open just slightly for some highly theoretical,"
-    publishedDateTime: 2022-11-16T01:10:00Z
-    webUrl: "https://kotaku.com/ai-generated-art-ban-anime-convention-los-angeles-1849788219"
-    ampWebUrl: "https://kotaku.com/ai-generated-art-ban-anime-convention-los-angeles-1849788219/amp"
-    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/ai-generated-art-ban-anime-convention-los-angeles-1849788219/amp"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
 
 secured: "XP6A9qQ+phuN3OLe1rHKV4NtWNQvT3AdPXwLvzgRYFC3qJeotrLsxu/qWabjPgHrqAmTM2SoVojA+2rfMU3xOW/fCoRL+81Yb8FM3kEsEoeAsomOx+pe6Y15Ae1c4T/+5rvNvf2S35QTZ7dc3u8O8dPcA74vkO/f3ftxaRxubsdSkZDq4cukhQJtesPnrRzsH3mpO37zXGZklKdzPQ9BNQXeEdaBeUlrIwH1cY6SYy4awJF5+rixcSv49O9IVkQrYkS0zmn3XfNTWhlBeJeXZ96Xu7aLWcBbyPuiytgf6songrLjxpA5vd/b4HXY5YFqMyjwK0rMNx5rUvaGKiKiWuG4nXiPxOOIhas3BnbD9hjnxcOHdK9tTjBEb2WowvDrylmvo2n5TfnlWa10EwPb25soowAPPse1ESunFaE/3KfGDJxX3oGXGwP57pbV/bRlywSSpbECaWeE3tU6UaMFQTypeqECjFQZi0AgLVX8Fj7GXDDXUJWHUMYv66YoIEJ2irEQBK9ytgbksr+a8OSSjQ==;IIPnotaNNq1cZejq0mtyMw=="
 ---

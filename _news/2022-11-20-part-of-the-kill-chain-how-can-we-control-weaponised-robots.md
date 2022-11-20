@@ -3,8 +3,8 @@ category: news
 title: "‘Part of the kill chain’: how can we control weaponised robots?"
 excerpt: "From armed robot dogs to target-seeking drones, the use of artificial intelligence in warfare presents ethical dilemmas that urgently need addressing"
 publishedDateTime: 2022-11-20T15:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
-webUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
+originalUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "suPGWX1eajcqb7/wfOLdHQM9Oy+ax8lSiAEWWg3VCn80yXxJ8iug85C7yw/io8Noz4XVFNtP1RiyVQQAq8V7aCUjbtSDhZq8qz/UEq5NmXqM/6fiYUDLiyk8FzwtoXAKgsZoCpo8kyB30MFSEiY+V7+PaW0IX0QyCMOesYxMj/WwwG2hwlLgo0gMc9Q/gF5cm/8RK1o5wPf6wckvSdvNbEUGvrmnPHrF+8judfTOwZq4C3vKFqkQFyqaMPR+TP87+dGVSKZEmtGhkPsO8ltIvxRu9YLJbJqO6R8P8SyLQZ/RYIbm7QuaDc0Nirpoe9vIZyB4VM7U4Myr/Sf9EBc9bRu/n5btg2WgDW//oI/edEI=;oCQMdamXsnlcNkW8+xgogA=="
+secured: "I9gkAXN/kbWsntJZooDVNDINBgMFfIyFIsX74qJDvKoz8+8kp7pOBggdxfPZv/renHqjBbok9zCxtFvx93frSqI2slSeXcwSOcSgs2qkLg8srxA6k0caDh1H37WmmRXmySU1PWBvrZV66gKMuJ7he1OJ3Bqu3YJRn8OStvXOjsIpEi7cqTTPXxfXjjtoTlNpv+wiNiuSMgyjj2+qSsuo9MoELh2qkk8+3tOHQrnYEs7sOVtO6yOKfqsXA9NDdtkTiunFou7BQ4Qc5ljhisFqE6kMRsMt5cwvrqElfihF7PgtUoJg88UjswW8WXaouhu3SwOFNj6PJ/yWvDmh+MwADZmnkegJBiBGfmEpaZpTeLE=;6T3kPkcwD+55qWnRmvvGxg=="
 ---
 

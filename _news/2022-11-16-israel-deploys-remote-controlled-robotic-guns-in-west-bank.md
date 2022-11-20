@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Israel deploys remote-controlled robotic guns in West Bank"
-excerpt: "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ..."
-publishedDateTime: 2022-11-16T07:50:00Z
-originalUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
-webUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
+excerpt: "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ..."
+publishedDateTime: 2022-11-16T07:23:00Z
+originalUrl: "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/"
+webUrl: "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/"
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Finance
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRW2NDDFPYI63MEMHTRCEYDQLE.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
-
-secured: "bEc37HdPwtzoHmAp1zQMMqNoQ8Zg+4sg8lwDY7s7W3N/QrxQlzLPFnAJmzkTGmP4pWysbdpe9Pbe1JLYwLbSww/iYOxgB8kmQdVLEmieq+DRyfDirPMXCtANaJKV2PlXPkxV+MCBlyF8b7J80DsB6NxIqF8i4LakAsTQ3XeoPEhBlyUkT4iY+F/MtwJv/MaXIT3PZd+1QvKSEgUdtFP5Tkx+QILG2aLF2BRKgQu0pn9TlopmvHmHagF3kpYBmdj2RgCc4TqWKFddRKKpO9FVauqpjQeiMBi20JaI6mO2GtValZY6D8JwIeB7g53wvTsPSNj5e4OCtN6g2F99JEZDMjig9HVGqAPOJT2EOHiWSRo=;difXK4FlL82TjZ8DpqQEGQ=="
+secured: "LC74LgeRF6GcgsT+ThMHJWLO43WQtCBwSE2iUEvT6MEsyQ0mjC+ONSpBpIfgaZ8CsF6L7+tz6iWxl1SWEfFkxIqhHOnN9L600cHNwqiHZnC2TQ/D+6CobT3RtwqDj7ZCI2+8gb5+jFtjfCJbuAEHvOIxtFjGYIW6E34xYpClNrzPpht+RLpmJkbe9ACD/gLZrwjKlarkUuedFx6MZRLx7H6mZgNgV7TvC9/vJgQWo8YMT6m+2HVbbSdS/b/whvybRC2X42frGOTiTtSKSlRaRRBZ8XeJ+ohy0jZnmGS9RDPBXK4YMaSOMPaObDCT0t80XHdsZiljt0gAMOiMF7GDfz3/ljBdH/xiCSAxNt1sW0c=;sOMSvkA0f+g3q9T0sX2Qpg=="
 ---
 

@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "AI predicts that a dinosaur thought to be predatory may have been herbivores."

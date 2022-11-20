@@ -8,8 +8,8 @@ webUrl: "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-p
 ampWebUrl: "https://www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Google AI
 
 images:
   - url: "https://www.cnet.com/a/img/resize/26630fc359684535ecd755882414e1366946848b/hub/2022/11/19/fbd72c6a-b611-4155-8538-8097c4de73e6/galactica.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 630
     isCached: true
 
-secured: "asnK1eZnuwBapAjt3uWhhfTNyO6jPBlYq/HfhUgp43pcXcGP0NSgpmdMrLSByYXPLWRH3+dAI1QelX1zexPMqbj/pS4dtIUIWQ4NQfnlELvesOFOG/KE1Hn9DtcErNGFAiDazF6PvQLm8Snf6wB5YMmxuWDgTlg3ygM73ePW6pd9AFJqoReKB3IcbAv4nFjg6f4kzSiMNGXuOOSG2+6aVFRmrOpH/FPSJTUyYY4UsFjeQiIRAApYdBKRbytYXni+pE8XIpzF60/hrx5e7WVTeLICEff+BaWzp10VLTDdseolTqVZ2kN67Kx2aCW9Lj5svfwM1WdynmsY/xvjmKtjrjlfJeZH5InWObDWhWPsDJ8=;Owq9FbBq2TOIAttxb+i0aA=="
+secured: "7ybHnYATR/wDNGX31ZEIoI1StjmNM7RkACqm5qqIOajq9WRrb/rLdgEAbSP+tTTH3mo3VJKsGkb/5hzviprTID98PkvV/Pxew/X0/9UeDbFqTwsfUpcQrizLOL68J1EkYKy/Q8MWft7omko0JigTUMM+EVzEXbShctGonTjYV7hnoKPncrZEUgmIdmvP1vbjGZ7g1Ar3+zW1PzrVwTJdesWsU4U0yzM7MZtk4GHyblvwfVf2HEU4Bd5yQ4/HAYvpGwIO17yTREcu/XBS0dY7Fxf52oVI2tmHAajbkanpsk3KrKaLQ0wEU+/b6w1VNJwGD6aN0xlLcTANEL6+TPIhHQyTd8TL3cagtLe0Ls10jRHdTK4UOFuCy3SZ9ZfrAtNm7J13t8PdcUXLlLwGBekrBlGPpZ/9QnJiaUcQ6e+fN4qDUxtTb7yjP364PnQCu9dO3xPrOkWTX2MKwnqUkU7FssHZWGwE6Xh5l9ZuLWQ6gZw4vuQiuYXUMbTKECY/NfMkjtEqpmT1OxcmJd2lmA8uyw==;FJDFZF1CGonuoVc8gMg7/g=="
 ---
 

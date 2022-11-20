@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://images.hindustantimes.com/img/2022/11/20/1600x900/892322ba-7a18-11ec-8d96-73532ee3fb0e_1642700792041_1668945698341_1668945698341.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "India to take over chair of Global Partnership on artificial intelligence"
+    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair, India had received ..."
+    publishedDateTime: 2022-11-20T18:34:00Z
+    webUrl: "https://www.dailypioneer.com/2022/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 51
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
         isCached: true
 
 secured: "ve/1MU0ywtLsXITdnAFenwnB6W1c9PspL9ys5aLJUpxTOABCl3ATed+v2kIqPCqrjJcxJmrsigaR7IPxCFs9LXrm6BbFJpihiUTUiEp431njol9y0mGlunbX9Po9wpVubb0irHgikJFEyHKTOX/Q5tdFpUme6Y/q72OFXtpB8U35h9foNdPG0S7eDSQ5/vcnRmPZqoOHquuAb567bGFnfzQfHcc+8cUdPe+PxHFtguCTt3vKcTLLKvEFBWkkA+/DZuQAICrrIEUVLFg+wkyxHWmPfMWZIRQlDOjNNjdOitZA1CXh51VPiaGvpYWikD0Pp/+CrJZX0wIzuBwSyNmJnkHno3gy93NtKBXooqC9wI4=;yN6X4zOuiNV7CZuyDqo5/w=="

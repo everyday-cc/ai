@@ -2,6 +2,126 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-15-official-jumps-from-10th-floor-of-intelligence-agency-raws-office.md",
+      "title": "Official Jumps From 10th Floor Of Intelligence Agency R&AW's Office",
+      "excerpt": "An official of India's spy agency Research And Analysis Wing or R&AW jumped from the 10th floor of the agency's building in Delhi on Monday, said police. He died on the spot, police added. The man ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
+      "originalUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/delhi-police-generic-pti_625x300_1528917240983.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
+      "publishedDateTime": "2022-11-14T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-mcra-expands-into-anesthesia-and-critical-care-therapy-specializations-hires-fda-assistant-director.md",
+      "title": "MCRA Expands into Anesthesia and Critical Care Therapy Specializations, Hires FDA Assistant Director",
+      "excerpt": "Mr. Courtney joins MCRA from the US Food and Drug Administration (FDA), where he spent over 15 years with the Center for Devices and Radiological Health, most recently as Assistant Director of the Anesthesia Devices Team.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mcra-expands-into-anesthesia-and-critical-care-therapy-specializations-hires-fda-assistant-director-1031910979",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mcra-expands-into-anesthesia-and-critical-care-therapy-specializations-hires-fda-assistant-director-1031910979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
+      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
+      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-older-adults-suffer-from-persistent-cognitive-impairment-after-recovery-from-sars-cov-2-infection.md",
       "title": "Older adults suffer from persistent cognitive impairment after recovery from SARS-CoV-2 infection",
       "excerpt": "For some, these neurological symptoms persist, and researchers are working to understand the mechanisms by which this brain dysfunction occurs, and what that means for cognitive health long term.",
@@ -1053,144 +1173,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-highway-to-autonomy-how-the-future-of-5g-will-fuel-the-driverless-revolution.md",
-      "title": "Highway to Autonomy: How the future of 5G will fuel the driverless revolution",
-      "excerpt": "This content was paid for by an advertiser and produced by the Automotive News Content Studio. Mass production and widespread use of automobiles in the early 20th century radically transformed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/white-paper/highway-autonomy-how-future-5g-will-fuel-driverless-revolution",
-      "originalUrl": "https://www.autonews.com/white-paper/highway-autonomy-how-future-5g-will-fuel-driverless-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-12T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil.md",
-      "title": "Economists Predict England Will Win Qatar 2022 World Cup But AI Backs Brazil",
-      "excerpt": "Economists from Lloyd's have predicted that England will win the Qatar 2022 World Cup. Their prediction is based on the insurable value of players. But OPTA's artificial intelligence has Brazil as the favorites.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636f0487da07e02b86214530/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/amp/",
-      "publishedDateTime": "2022-11-12T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-amazons-latest-robot-picker-for-warehouses-uses-ai-to-identify-objects.md",
-      "title": "Amazon's latest robot picker for warehouses uses AI to identify objects",
-      "excerpt": "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
-      "originalUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg",
-          "width": 875,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

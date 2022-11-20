@@ -58,6 +58,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "India to take over chair of Global Partnership on artificial intelligence"
+    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair, India had received ..."
+    publishedDateTime: 2022-11-20T18:34:00Z
+    webUrl: "https://www.dailypioneer.com/2022/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 51
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
+        isCached: true
 
 secured: "LdbilGLkQyYaXZfZDZd2WGITdMw0sYol5WUHWVM8mu1TDANzOroNhfJS8MTSfn5Q+rQQfz0nA/preW6TcFXExjops5DuiItTzDLtb4G075fgO5+q8Gre9aSxO17UJAzLhTQ9nKp/bx/Hz3EOaXbgPkxNXgpICbI632R4Okg+a64ixQ2uPWwvk0ttom9gYlvgYW/IkDhjt1N+Ra73IruqzYmaDEqC+J3SJKTEUtCruL4UzDdLxh71baa7fj7df+BkDHO6H3yR8OmLg/w9fVOib2eIV1J2XCk+ZNaDl6WW1PW48yZHOdx1ygZyHm3rvwhgS4kz2gLyLyRoIgOseAgq0wCybk0jCUvZnEMvfuWsDVg=;fBDI1GY7vo/6OBPXl42USA=="
 ---

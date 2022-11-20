@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-16T17:24:00Z
 originalUrl: "https://timesofindia.indiatimes.com/readersblog/hs-blogs/artificial-intelligence-a-medical-boon-46685/"
 webUrl: "https://timesofindia.indiatimes.com/readersblog/hs-blogs/artificial-intelligence-a-medical-boon-46685/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/11/CBACA0EF-76D0-4D04-A449-ED38B04ADAFF.jpeg"

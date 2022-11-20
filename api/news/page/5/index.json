@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-16-boston-dynamics-suing-ghost-robotics-over-quadruped-design.md",
+      "title": "Boston Dynamics suing Ghost Robotics over quadruped design",
+      "excerpt": "Boston Dynamics claims Ghost Robotics infringed on seven patents related to Boston Dynamics' Spot quadruped robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/boston-dynamics-suing-ghost-robotics-over-quadruped-design/",
+      "originalUrl": "https://www.therobotreport.com/boston-dynamics-suing-ghost-robotics-over-quadruped-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/boston-dynamics-suing-ghost-robotics.jpg",
+          "width": 890,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-a-conversation-with-thomas-friedman-about-ai.md",
+      "title": "A conversation with Thomas Friedman about AI",
+      "excerpt": "Technology has an unmistakable impact on society — the way we work, learn and play have all changed significantly over the past decade. As SVP of Technology and Society, part of my work at Google is connecting people and ideas to help shape the future of our most ambitious technology and its impact on",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "originalUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_2.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos.md",
+      "title": "Startup Uses AI To Turn Textbooks Into Gen-Z Friendly Videos",
+      "excerpt": "Prof Jim aims to make it cheap and easy for textbook publishers to create videos narrated by famous avatars, complete with slides and pop quizzes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
+      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6373aabf337fdbfd9b61196b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-ai-driven-fashion-platform-shoptrue-constantly-learns-its-users-shopping-habits.md",
       "title": "AI-driven fashion platform Shoptrue constantly learns its users shopping habits",
       "excerpt": "The startup raised $6 million in seed funding in 2021 to help build ... Shoptrue’s launch is another example of how AI technology is transforming the e-commerce industry. In June, Pinterest acquired the AI-powered shopping platform The Yes, which ...",
@@ -1062,126 +1210,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-official-jumps-from-10th-floor-of-intelligence-agency-raws-office.md",
-      "title": "Official Jumps From 10th Floor Of Intelligence Agency R&AW's Office",
-      "excerpt": "An official of India's spy agency Research And Analysis Wing or R&AW jumped from the 10th floor of the agency's building in Delhi on Monday, said police. He died on the spot, police added. The man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "originalUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/delhi-police-generic-pti_625x300_1528917240983.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "publishedDateTime": "2022-11-14T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-mcra-expands-into-anesthesia-and-critical-care-therapy-specializations-hires-fda-assistant-director.md",
-      "title": "MCRA Expands into Anesthesia and Critical Care Therapy Specializations, Hires FDA Assistant Director",
-      "excerpt": "Mr. Courtney joins MCRA from the US Food and Drug Administration (FDA), where he spent over 15 years with the Center for Devices and Radiological Health, most recently as Assistant Director of the Anesthesia Devices Team.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mcra-expands-into-anesthesia-and-critical-care-therapy-specializations-hires-fda-assistant-director-1031910979",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mcra-expands-into-anesthesia-and-critical-care-therapy-specializations-hires-fda-assistant-director-1031910979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
-      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
-      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
