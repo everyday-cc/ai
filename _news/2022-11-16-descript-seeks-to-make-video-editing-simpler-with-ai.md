@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Descript’s generative AI makes video editing as easy as updating text"
-    excerpt: "Generative AI is a hotly-discussed topic of late ... such as summarization, rewriting, language translation and classification. And, fine-tuned diffusion models such as Dall-E 2 and Stable Diffusion are creating images from text, which can be extremely ..."
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-descripts-generative-ai-makes-video-editing-as-easy-as-updating-text/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
   - title: "AI-powered video and audio editing app Descript raises $50M"
     excerpt: "Descript was founded by former Groupon Inc. Chief Executive Andrew Mason, who told TechCrunch in an interview that the app is designed to be a simple, intuitive yet fully powered editing tool for video and audio that relies on AI to do much of the processing for users."
     publishedDateTime: 2022-11-16T01:10:00Z

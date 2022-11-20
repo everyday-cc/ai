@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-grap
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html"
 type: article
 quality: 95
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "TigerGraph brings machine learning and analytics features to the cloud"
-    excerpt: "Performing machine learning (ML) directly inside the database is becoming an essential feature for databases. In the best scenarios, it can save the time for exporting the data to a separate function, a delay that can be substantial with large datasets. “"
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/tigergraph-brings-machine-learning-and-analyticsfeatures-to-the-cloud/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "TigerGraph Develops New Analytics and ML Tools for TigerGraph Cloud"
     excerpt: "TigerGraph, provider of an advanced analytics and ML platform for connected data, is unveiling updates to TigerGraph Cloud, the native parallel graph database-as-a-service: TigerGraph Insights and ML Workbench."
     publishedDateTime: 2022-11-17T16:24:00Z
@@ -80,20 +71,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "TigerGraph Cloud gets interactive insights and advanced machine learning development tools"
-    excerpt: "TigerGraph is the developer of an industry-leading graph database that’s designed to perform certain tasks more efficiently than relational and NoSQL database systems can do. For example, there are many situations where databases are required to store not only business records,"
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://siliconangle.com/2022/11/15/tigergraph-cloud-gets-deeper-interactive-insights-advanced-ml-development-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/tigergraph.png"
-        width: 861
-        height: 483
-        isCached: true
 
 secured: "yekjRTShjFrwQGHBlu6lF3qFHhLE1Rz30HLqtJgfPAyHqDS/i0td1i2Mhn35rQ5OMMZPpOyKLVshanNhVSOzRDFhwggoJYBPuiC76rGcRVPOj8zG2vunk+0O3R4CO0dRTtHBT1e5RgOy7GDLPY5O+Zju1Q5PUv1xS8wnKDyJ+khMmjOE8hc8sYIaQcDM4iz55vQJoRvTvQJzIo2gZA6PFrUjHwDbOdhXo7U58n7fb7V0rL5Cvu90xemz942dKQtKHps6SrdojNflSzcu0Qt4sBkNDEyQ6fYAE7ynFuitRA2Swaw7NjoBz0F5hP+M1Nqg4b4A8pZJtoDFW4xMVrXRc3BioB/BIcQa72hezsPHgSIlIpGRyCpuoCBrolAW+xuovOFbbLm7C1HKAf0DFg97b3iFW7eBiaDUdTdUbfUasKDSXnGbv62ldrkql/hz+t/DqrYC2VXURH0Oz1KR0H6oq4nLam4qot+XuySAVJpj3sjUkPWMatfpoH8athc5mVfe9KSQRJcD2vlYtsPPoe5vfg==;QDXLKwOoiTRFP7LsEc7GXA=="
 ---

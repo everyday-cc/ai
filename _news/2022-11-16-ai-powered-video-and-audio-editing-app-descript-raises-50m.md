@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/11/15/ai-powered-video-audio-editing
 webUrl: "https://siliconangle.com/2022/11/15/ai-powered-video-audio-editing-app-descript-raises-50m/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Descript’s generative AI makes video editing as easy as updating text"
-    excerpt: "Generative AI is a hotly-discussed topic of late ... such as summarization, rewriting, language translation and classification. And, fine-tuned diffusion models such as Dall-E 2 and Stable Diffusion are creating images from text, which can be extremely ..."
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-descripts-generative-ai-makes-video-editing-as-easy-as-updating-text/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
   - title: "Descript Seeks to Make Video Editing Simpler with AI"
     excerpt: "Video editing is notoriously difficult and time-consuming, but a startup called Descript says it has found a way to make it as easy as creating a document or spreadsheet."
     publishedDateTime: 2022-11-15T16:57:00Z

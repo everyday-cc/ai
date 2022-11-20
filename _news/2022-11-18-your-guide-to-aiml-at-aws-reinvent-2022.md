@@ -31,14 +31,16 @@ images:
 
 related:
   - title: "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
-    excerpt: "Rackspace Technology® (NASDAQ: RXT) — a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor of AWS re:Invent 2022."
-    publishedDateTime: 2022-11-16T18:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/16/9715076.htm"
+    excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent"
+    publishedDateTime: 2022-11-16T16:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29751475"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29751475"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
   - title: "Rackspace Technology, Inc.: Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
     excerpt: "Booth attendees who play Onica by Rackspace Technology's \"Knights of AI\" game will see first-hand how key AWS services interact, including Amazon SageMaker, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS, and Amazon Simple Email ..."
     publishedDateTime: 2022-11-16T16:17:00Z

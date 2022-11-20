@@ -50,15 +50,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "TigerGraph brings machine learning and analytics features to the cloud"
-    excerpt: "Performing machine learning (ML) directly inside the database is becoming an essential feature for databases. In the best scenarios, it can save the time for exporting the data to a separate function, a delay that can be substantial with large datasets. “"
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/tigergraph-brings-machine-learning-and-analyticsfeatures-to-the-cloud/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "TigerGraph Develops New Analytics and ML Tools for TigerGraph Cloud"
     excerpt: "TigerGraph, provider of an advanced analytics and ML platform for connected data, is unveiling updates to TigerGraph Cloud, the native parallel graph database-as-a-service: TigerGraph Insights and ML Workbench."
     publishedDateTime: 2022-11-17T16:24:00Z
@@ -72,20 +63,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "TigerGraph Cloud gets interactive insights and advanced machine learning development tools"
-    excerpt: "TigerGraph is the developer of an industry-leading graph database that’s designed to perform certain tasks more efficiently than relational and NoSQL database systems can do. For example, there are many situations where databases are required to store not only business records,"
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://siliconangle.com/2022/11/15/tigergraph-cloud-gets-deeper-interactive-insights-advanced-ml-development-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/tigergraph.png"
-        width: 861
-        height: 483
         isCached: true
 
 secured: "fzUm6OuRDX+6eernvBbCJ/gEbTImC86Z9OFvWELkyEII1RQIktputUbns+CIBjGRUU70uLDSvOAhxlvlzv+dYajNWTV3IPZ891cZY0i/IoCGS9BN2SpW3XEQhXRWUSgQhFwtSSyuKhXLwoKTEwLGggT+8QxgQmOMmwewkgOa1Uhm/JwTHR6Ljas23+qV9MbQ2F368x68d2UOUB4TduGNkjaxQfgWdK8a5NETxGcocylR9LQ7a+yLiqP9HWgdbHnqPlwzm1s3QTu/2NtB1Plb7AlJr5go8aDKjJ9pfCvEK5AjypJFHihKMiBAx0uykLCLmDUounLqr8ohDuWm9QBgRYitjxzfPzpG2M1uVOtKIsQ=;lN4sBbFSvr4TXKYAXk7snQ=="

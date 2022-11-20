@@ -50,15 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "Actifai's Artificial Intelligence-powered Customer Engagement Platform Drives Groundbreaking Growth for Broadband Providers"
-    excerpt: "Today, Actifai, an AI-powered customer engagement platform for broadband providers, highlighted the significant impact its flagship product, Engage, is delivering to the industry. The pioneering customer acquisition solution delivers measurable results for its growing list of customers who have realized a 12% average revenue per user (ARPU) lift on new sales,"
-    publishedDateTime: 2022-11-15T13:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-actifais-artificial-intelligence-powered-customer-engagement-platform-drives-/2022/11/15/9713093.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "w1qkG9/5LvVu5jywIsJQ40EL+CAd2qKZxXs4/nYNkpBv+CKdlWcGYn3gPuLSdaseNatH7Uv2FpCcTvfa5PqyvlzKjeaPHOVr7pynn12+HtVFdYQfHYYUAxDwCw75Svl613Bys8H8EK6Mc49iwfLSkShTJEkw8lrqE6Mb4nv9JIiJ8IfwPpY0Pj/wEp3UkEVDiMj7bGaIUqvQlvmMgZ0enajDN20tH/wunfgQB2xg0NLGwv6be0jXPnMKPQ0azD1Jaocf1Bhsx0YrxFOXRgUwZU8SCYy8OMrZ9Tq5WXRYXq4DV7JlGbFv1EDkGMBJRVDEClhEe8GQ1s2PCtSyx+NxON44eiLGvGvvK5tz892XTKA7X0CN+cIjJurzhE1gmA20jluDOffF3Bl+4HUCIuzQAML8z+wTzLEYmIWMIFGjW9Z2eAmEoN0t7X6O0owSaOFUYrR3oZism6yEsLLk3rSjugQy95RjTi9MLlDe2GlIvGmKHEdncBBiSVl16b7G2CHu3NAxdst+pBrjKHBF1LpkVQ==;8kHyuKRYtJ9qbMlhSa7tIg=="
 ---

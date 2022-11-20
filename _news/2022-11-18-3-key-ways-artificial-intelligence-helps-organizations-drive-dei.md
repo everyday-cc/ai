@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 665
     isCached: true
-
-related:
-  - title: "Sales enablement platform deploys AI to help organizations close sales"
-    excerpt: "The Gong Assist artificial intelligence (AI) model uses machine learning (ML) training to find the best practices for sales enablement."
-    publishedDateTime: 2022-11-15T14:07:00Z
-    webUrl: "https://venturebeat.com/ai/sales-enablement-platform-deploys-ai-to-help-organizations-close-sales/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
 
 secured: "p/piwJS7l+b8Cmk1TOXQil9Nh3X/StEZED+hRwvIvsmssThSNYClxI4ZEUOF762mYfytmv7ovnWjTYgb+jWQ4yZ6h3gw0lPsKtRtagrDNhRRZbT2bzRWxkCP9kCh2tOMqsl+d2CU5DEjTCHE/ZChyyA36XDmrUhpMVnySTK0Uv4WOEEBmbBektB0ZYjmhXl4qA8ebtsBaSOHUOEOv9uGRcDGT7trgpySgOp2LW/cgSSoUwv4P6aVYJYNzsk1m9LmvDjgGSx+ZSj072N5r9xof0yNh+YVr8xBGaJENAqy81gkVjcOJXLJSnVQkLlhB7600JR8JlzPG+L5V2f8xxCIQDIO1DIE52g2CvGTmv9xSDutv4SzbX1dTlr5P4Z5Xz+AOAagDbBBsUQnl+3TSkegtAWd7BsMdqEPBjmVV1UhETTqtZFH8K8p4wFUbZqel/HytKmXI+0UVSDTdH2lYC7KR2PmSgdFqLJgCp3pWnAJN4fWBHOWb9/6jCh5XB3gyNivjsFGCuS7hqvzYKboTOyHpw==;zMX+vzaT/lWOXExo1HtDfQ=="
 ---

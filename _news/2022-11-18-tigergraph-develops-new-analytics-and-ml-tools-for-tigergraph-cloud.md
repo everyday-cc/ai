@@ -56,15 +56,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "TigerGraph brings machine learning and analytics features to the cloud"
-    excerpt: "Performing machine learning (ML) directly inside the database is becoming an essential feature for databases. In the best scenarios, it can save the time for exporting the data to a separate function, a delay that can be substantial with large datasets. “"
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/tigergraph-brings-machine-learning-and-analyticsfeatures-to-the-cloud/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Using machine learning and analytics to address healthcare labor challenges"
     excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
     publishedDateTime: 2022-11-17T22:40:00Z
@@ -74,20 +65,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "TigerGraph Cloud gets interactive insights and advanced machine learning development tools"
-    excerpt: "TigerGraph is the developer of an industry-leading graph database that’s designed to perform certain tasks more efficiently than relational and NoSQL database systems can do. For example, there are many situations where databases are required to store not only business records,"
-    publishedDateTime: 2022-11-15T14:00:00Z
-    webUrl: "https://siliconangle.com/2022/11/15/tigergraph-cloud-gets-deeper-interactive-insights-advanced-ml-development-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/tigergraph.png"
-        width: 861
-        height: 483
-        isCached: true
 
 secured: "dHRI2NdrMnERl9gODxQFADmzvSz8oPEfwxJQQ/aEt7QGy2tEoUzfoRDtcKHk8U7skyf4hU+FPCJNmtJcC5XejLUoRdcc0KYYdWldkuqOJ/P8tY5U0w1QT0rDObsU5PnTLllhxG6kgNxEsR/huWmQX2DpqyQbAnSGr0qCbZyaNLsepnbEPQ1V0JO/UAjhFy39wAZ8aV2ygd/7YESVhB5zI3vTZDkkDGxof3uvFTd1iYk/pcsSYM5Hvk00pZhNYoi8FGTMIxgoMbkbx2nj5bFesXkrd7Ety5JCjm/4gNUvSZBLTXm5jCtLTMubI/oTruyZC7izg3dtKWVzbU2+4MUB1rZBUWaj2F1CdOhohLxClko=;sr203MPCWmOI9jIcPOq84g=="
 ---

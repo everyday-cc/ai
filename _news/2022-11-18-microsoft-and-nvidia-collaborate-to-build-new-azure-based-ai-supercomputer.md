@@ -203,6 +203,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 76
+  - title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
+    excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
+    publishedDateTime: 2022-11-20T05:27:00Z
+    webUrl: "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+    ampWebUrl: "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 74
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd"
+        width: 5120
+        height: 2880
+        isCached: true
   - title: "NVIDIA announces multi-year collaboration with Microsoft to build “massive” AI computer"
     excerpt: "The U.S.-based chip designer and computing firm will be providing tens of thousands of GPUs, Quantum-2 InfiniBand, and its full stack of AI software to Azure. Microsoft and global enterprises will use the platform for rapid and cost-effective AI development and deployment, the company shared in a blog."
     publishedDateTime: 2022-11-17T07:35:00Z
@@ -219,15 +235,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
-    excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
-    publishedDateTime: 2022-11-15T13:11:00Z
-    webUrl: "https://www.zdnet.com/article/your-supply-chain-is-probably-a-mess-microsoft-says-it-has-the-answer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Nvidia, Microsoft Join Forces to Launch Artificial Intelligence Computer"
     excerpt: "By Sabela Ojea Nvidia Corp. said Wednesday that it signed a multi-year collaboration with Microsoft Corp. to create an artificial intelligence"
     publishedDateTime: 2022-11-16T13:36:00Z

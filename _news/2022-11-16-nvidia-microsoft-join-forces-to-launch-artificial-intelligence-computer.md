@@ -200,6 +200,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 76
+  - title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
+    excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
+    publishedDateTime: 2022-11-20T05:27:00Z
+    webUrl: "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+    ampWebUrl: "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 74
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd"
+        width: 5120
+        height: 2880
+        isCached: true
   - title: "Microsoft and Nvidia collaborate to build new Azure-based AI supercomputer"
     excerpt: "Enterprises wishing to train and use sophisticated AI models at scale will be the target market. To develop the system, the duo will use the Azure cloud platform's NC-series and ND-series virtual machines, which are GPU-based instances. According to Nvidia ..."
     publishedDateTime: 2022-11-18T07:38:00Z
@@ -230,15 +246,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Your supply chain is probably a mess, Microsoft says it has the answer"
-    excerpt: "Microsoft's new supply chain platform and center aim to give enterprises better visibility into supply chain disruptions."
-    publishedDateTime: 2022-11-15T13:11:00Z
-    webUrl: "https://www.zdnet.com/article/your-supply-chain-is-probably-a-mess-microsoft-says-it-has-the-answer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Nvidia and Microsoft partner to build AI supercomputer"
     excerpt: "Nvidia Corp. today announced that it’s partnering with Microsoft Corp. to build a supercomputer optimized for running artificial intelligence software. The system will be one of the most powerful AI supercomputers in the world,"
     publishedDateTime: 2022-11-16T18:20:00Z

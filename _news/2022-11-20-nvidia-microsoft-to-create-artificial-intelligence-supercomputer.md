@@ -1,22 +1,30 @@
 ---
 category: news
-title: "NVIDIA Teams With Microsoft to Build Massive Cloud AI Computer"
-excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s advanced supercomputing infrastructure combined with NVIDIA GPUs,"
-publishedDateTime: 2022-11-16T18:58:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/16/9714730.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/16/9714730.htm"
+title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
+excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
+publishedDateTime: 2022-11-20T05:27:00Z
+originalUrl: "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+webUrl: "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+ampWebUrl: "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd"
+    width: 5120
+    height: 2880
+    isCached: true
 
 related:
   - title: "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer"
@@ -196,22 +204,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 76
-  - title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
-    excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
-    publishedDateTime: 2022-11-20T05:27:00Z
-    webUrl: "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
-    ampWebUrl: "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 74
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd"
-        width: 5120
-        height: 2880
-        isCached: true
   - title: "Microsoft and Nvidia collaborate to build new Azure-based AI supercomputer"
     excerpt: "Enterprises wishing to train and use sophisticated AI models at scale will be the target market. To develop the system, the duo will use the Azure cloud platform's NC-series and ND-series virtual machines, which are GPU-based instances. According to Nvidia ..."
     publishedDateTime: 2022-11-18T07:38:00Z
@@ -469,6 +461,15 @@ related:
       name: RYT9
       domain: ryt9.com
     quality: 34
+  - title: "NVIDIA Teams With Microsoft to Build Massive Cloud AI Computer"
+    excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s advanced supercomputing infrastructure combined with NVIDIA GPUs,"
+    publishedDateTime: 2022-11-16T18:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/16/9714730.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Nvidia and Microsoft team up for ‘most powerful’ AI supercomputer"
     excerpt: "The deal will see Nvidia contribute tens of thousands of GPUs, networking technology, and its full stack of AI software to Microsoft Azure cloud’s supercomputing infrastructure, which already utilises ND and NC-series virtual machines trained to work on ..."
     publishedDateTime: 2022-11-18T12:21:00Z
@@ -497,6 +498,6 @@ related:
       domain: business-standard.com
     quality: 33
 
-secured: "miVGxfVVPx0LYdC1Wy5OR2Q0lllJIujN5cITsMfzMi31Is+3KKv9L18lb1aQj/0EtuaYLinQteDOIDsMap39xAdkv2DYZZpGP13FxBPoTAEYlQ0S2Ms7OfSVisrinddpExpOjfl9x5hgock5bMeclLFuevaZq7hGjFZm307gRdNuXmgbLmXCqCn4DQDXB45f+ZfDnoTPcyK8utVp/fxu+IgDafXFVtmd5PGiNmMF1b4TKYd3LvYg+JPCaCH1Sf7565J5cRKBALipyroqR7eqGQICNsr5wt2XCHxXNKOhq1sqtmjjEVVsF0Hrr0hQtd9CqqZsEM2sXaNVCQM/GENJ8EcG4cmgHN3F7oP0pQ9qjpU=;qK7eoFjF6E8BLtphGsRAIA=="
+secured: "hQ8Ad3AnGyqVwq9Rz85nGIf/YtqPEQq8oVnAcjGoH3hq+HFqQ5H8ImtIo/i2BC86JrYX+zHv36lEUhU8x7wRpntwu9NHh8UnMNpqAUasz1n7J/X2G2jSBxwtXJZKiXxQoD/1mdz+z9jJMDGuHH9uADt70vtF8BtgU5Gg1BuY/sHrx6k5kYhBwO0emqrl8/zueP/LB0Z/yyGryXJBVDvA8UgKG9RfFa60sgKsE0OT4EWWDiba9lTVHKwuCfDEb/UKhHI7hxzgTWfLgQKNH4m4FguWONwtQfDvn/8FmR3Ix9+C1scaFZ0tgJfe1RyzcTQXova53L3nCczH/iwuKwggKerJjWenggV6DpCribdXDss=;AV9zn9d65hzBd7FkbqrZkQ=="
 ---
 
