@@ -9,7 +9,7 @@ ampWebUrl: "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-acceler
 cdnAmpWebUrl: "https://meconstructionnews-com.cdn.ampproject.org/c/s/meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "HR Digital Transformation and the Rise of AI in the Corporate World"
+    excerpt: "In 2020, it launched StedY.io, an AI-based tool for automating the engineer recruitment process, bearing in mind that StedY itself employs engineers. IBM Watson offers useful personality analysis tools in the form of its Personality Insights and Tone ..."
+    publishedDateTime: 2022-11-17T21:06:00Z
+    webUrl: "https://www.bbntimes.com/global-economy/the-evolution-of-hrm-and-artificial-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/HR_Digital_Transformation_and_the_Rise_of_AI_in_the_Corporate_World.png"
+        width: 1920
+        height: 1003
+        isCached: true
 
 secured: "QjQW7B9xUYmSNrBX4z2anoIhTEDEukLHYMXG9FnwlUXyV6jJ5QA9+gMGs4GkOVqO2LFUIkEvqSt52+CX1lLPEHe5SDTir99CXSsawuNJbVG04CY242ceTWlXozpGCaN+GeKUnaLCIO/znUY1GjW2J8soukL6MTTE7IhpicXemFUdidndFFNrG45I1BcF+SiyINGP0qjtwwqTwQc6LjgX5FfyaZra0Ox5aZQwZLjdwWPTwbYk4UMWDu0Cxdskw99PLcJGjxJDHbXLt4s1p/a7tQYbtVeou4HZv/uidcFEQ63Axb1rntq7YbHd+IfJTi0xZ81ZP5iZe+D9ZnhzR76FyLZ6l5W2mqKqUGfit71hVbVZ/n1z400PM7cjAOpmQvpcntbTv5NtzCCUz/Rbb6s2KJU3VeI+7Zlfr7onAVKsR30ynI6uaNXzq8G6sL/O608qomfPSEoeNz7W1R3DDSnvgmabfJ0yi+9VPeTyVExoKN1+MGnsj4UNIdiLf6YgFzste+M/EHyzT+rkB/841gCpsA==;5QABUjVrCAkR46553RN+Mg=="
 ---

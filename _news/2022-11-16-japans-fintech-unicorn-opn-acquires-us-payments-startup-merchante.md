@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five Key Enhancement Factors For Secure Fintech Apps"
-    excerpt: "Automation is important, as AI/ML algorithms can help distinguish and block suspicious ... The safety of customer data must become the top concern for every business launching or maintaining a fintech app. It is always cheaper to avoid a data breach ..."
-    publishedDateTime: 2022-11-15T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63330347c1ef0850e665888b/0x0.jpg?format=jpg&crop=4274,2405,x194,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fintech has arrived, and ‘Techfin’ is on its way"
     excerpt: "Around the time when fintech picked up globally ... Newer emerging technologies in the AI/ML space would be commercially deployed for wider range of usage in digital finance. This would need regulators to adopt newer methods to regulate and supervise ..."
     publishedDateTime: 2022-11-15T15:52:00Z
@@ -82,20 +66,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
-    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
-    publishedDateTime: 2022-11-16T00:56:00Z
-    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
-        width: 660
-        height: 454
-        isCached: true
   - title: "4 FinTech companies transforming the financial space in Iceland"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-11-16T11:43:00Z

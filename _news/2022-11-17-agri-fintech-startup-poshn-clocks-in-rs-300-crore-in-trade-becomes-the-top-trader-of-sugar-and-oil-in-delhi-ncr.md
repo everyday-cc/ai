@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/agri-fintech-startup-poshn-cl
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/agri-fintech-startup-poshn-clocks-in-rs-300-crore-in-trade-becomes-the-top-trader-of-sugar-and-oil-in-delhi-ncr/1221247/?amp"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Agri-Fintech Startup Poshn Clocks in INR 300 Crore in Trade; Becomes the Top Trader of Sugar and Oil in Delhi NCR"
-    excerpt: "Agri-Fintech Startup Poshn Clocks in INR 300 Crore in Trade; Becomes the Top Trader of Sugar and Oil in Delhi NCR"
-    publishedDateTime: 2022-11-17T06:26:00Z
-    webUrl: "https://www.businesswireindia.com/agri-fintech-startup-poshn-clocks-in-inr-300-crore-in-trade-becomes-the-top-trader-of-sugar-and-oil-in-delhi-ncr-81799.html"
+  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
+    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
+    publishedDateTime: 2022-11-16T00:56:00Z
+    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 3
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_81799.jpg"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
+        width: 660
+        height: 454
         isCached: true
   - title: "Agri-Fintech Startup Poshn Clocks in Rs 300 Crore in Trade; Becomes the Top Trader of Sugar and Oil in Delhi NCR"
     excerpt: "Poshn is addressing the challenges faced by hundreds and thousands of food processing units and more than two million wholesale buyers. The platform adds a layer of trust by bringing in transparent pricing,"

@@ -1081,6 +1081,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-14-cerebras-unveils-andromeda-a-135-million-core-ai-supercomputer-that-delivers-near-perfect-linear-scaling-for-large-language-models.md",
+      "title": "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models",
+      "excerpt": "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-getting-real-about-ai-in-finance-can-ai-improve-speed-and-closing-accuracy.md",
       "title": "Getting real about AI in finance - can AI improve speed and closing accuracy?",
       "excerpt": "Artificial intelligence (AI) continues to emerge as a compelling solution for finance teams that need to close the books faster and more efficiently. AI can not only check large volumes of data for accuracy, it also can learn from data and identify ...",
@@ -1122,49 +1156,6 @@
         "Facebook AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-caixabank-robot-answers-the-most-customer-questions.md",
-      "title": "CaixaBank robot answers the most customer questions",
-      "excerpt": "The Spanish bank said the CaixaBankNow virtual assistant receives an average of 50,000 questions a day, either spoken or written, to help access services such as making payments or blocking lost cash cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
-      "originalUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
-      "publishedDateTime": "2022-11-14T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

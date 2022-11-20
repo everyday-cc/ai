@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Citizen Services AI Market Size, Landscape, Industry Analysis, Business Outlook, Current and Future Growth By 2027"
-    excerpt: "By vertical, healthcare segment to register highest CAGR during forecast period The citizen services AI market has been segmented based on vertical into transportation, healthcare, government and public sector,"
-    publishedDateTime: 2022-11-15T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/citizen-services-ai-market-size-landscape-industry-analysis-business-outlook-current-and-future-growth-by-2027-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Global Industrial Robotics Market Size & Share Projected to Reach to USD 46.1 Billion by 2030, at 14.2% CAGR Growth: Polaris Market Research"
     excerpt: "According to the research report, the global industrial robotics market size & share was valued at USD 14.1 billion in 2021 and is expected to reach USD 46.1 Billion by 2030, growing at a CAGR of 14.2% during the forecast period."
     publishedDateTime: 2022-11-16T13:31:00Z

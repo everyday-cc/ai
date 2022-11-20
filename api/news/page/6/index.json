@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-14-caixabank-robot-answers-the-most-customer-questions.md",
+      "title": "CaixaBank robot answers the most customer questions",
+      "excerpt": "The Spanish bank said the CaixaBankNow virtual assistant receives an average of 50,000 questions a day, either spoken or written, to help access services such as making payments or blocking lost cash cards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
+      "originalUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
+      "publishedDateTime": "2022-11-14T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients.md",
       "title": "Infosys BPM opens AI, automation unit in Poland for global clients",
       "excerpt": "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients.",
@@ -1165,58 +1208,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
-      "title": "How 2022 became the year of generative AI",
-      "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
-      "publishedDateTime": "2022-11-11T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

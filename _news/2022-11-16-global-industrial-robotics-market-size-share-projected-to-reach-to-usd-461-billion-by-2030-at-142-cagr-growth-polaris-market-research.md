@@ -61,15 +61,6 @@ related:
         width: 531
         height: 250
         isCached: true
-  - title: "Citizen Services AI Market Size, Landscape, Industry Analysis, Business Outlook, Current and Future Growth By 2027"
-    excerpt: "By vertical, healthcare segment to register highest CAGR during forecast period The citizen services AI market has been segmented based on vertical into transportation, healthcare, government and public sector,"
-    publishedDateTime: 2022-11-15T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/citizen-services-ai-market-size-landscape-industry-analysis-business-outlook-current-and-future-growth-by-2027-2022-11-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Last-Mile Delivery Robot Global Market Report 2022: Potential to Fill the Labor Shortage Gap Presents Lucrative Opportunities"
     excerpt: "The global last-mile delivery robot market was valued at $18.1 million in 2021, and it is estimated to reach $36.2 million by 2032 at a compound annual growth rate (CAGR) of 6.22% during the forecast period 2022-2032."
     publishedDateTime: 2022-11-16T13:50:00Z

@@ -898,6 +898,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs.md",
+      "title": "DC Child and Family Services Agency to Use Artificial Intelligence in Support of Child Welfare Programs",
+      "excerpt": "“At CFSA, we recognize the potential of artificial intelligence and believe it will be most impactful ... practices such as Motivational Interviewing and Cognitive Behavioral Therapy. With more than 54 metrics on everything from expressed empathy to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker.md",
       "title": "Artificial Intelligence Will Become An Indispensable, Trusted Enterprise Coworker",
       "excerpt": "Artificial intelligence is transforming global markets and enterprises of all sizes. Over the next year, this transformation will become a quiet revolution. Rapid progress in areas of fundamental AI research,",
@@ -1365,60 +1399,6 @@
       "topics": [
         "IBM AI",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
-      "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
-      "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1421615048.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
-      "publishedDateTime": "2022-11-04T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos",
         "AI in Healthcare"
       ]
     }

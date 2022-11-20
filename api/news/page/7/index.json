@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
+      "title": "How 2022 became the year of generative AI",
+      "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
+      "publishedDateTime": "2022-11-11T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-hucuai-joins-startup-health-perks-program-to-help-health-tech-companies-achieve-health-moonshots.md",
       "title": "Hucu.ai Joins StartUp Health Perks Program to Help Health-Tech Companies Achieve Health Moonshots",
       "excerpt": "Hucu.ai joins the StartUp Health Perks Program, alongside existing vendors including Google, Amazon, Microsoft, ADP, Twilio, Hubspot, to easily connect and partner with other StartUp Health portfolio companies.",
@@ -1126,58 +1178,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-waymo-is-one-step-closer-to-charging-for-self-driving-taxis-in-california.md",
-      "title": "Waymo is one step closer to charging for self-driving taxis in California",
-      "excerpt": "The firm already had permission to charge for self-driving taxi rides with a safety ... modest compared to what's available in China. Baidu's robotaxi service is available to the public in larger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "originalUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/25f6b130-60fd-11ed-ade3-926f5c8d40ba",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "publishedDateTime": "2022-11-10T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

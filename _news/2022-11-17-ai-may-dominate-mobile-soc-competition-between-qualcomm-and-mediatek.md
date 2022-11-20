@@ -227,34 +227,6 @@ related:
         width: 1280
         height: 761
         isCached: true
-  - title: "Qualco adds conversational AI from Webio to debt collection platform"
-    excerpt: "QUALCO, an international fintech solutions provider, has partnered with customer engagement specialists, Webio to add conversational AI to their existing collections and recoveries software offering."
-    publishedDateTime: 2022-11-15T11:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94901/qualco-adds-conversational-ai-from-webio-to-debt-collection-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "QUALCO adds Webio’s conversational AI to debt collection platform"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-11-15T12:44:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/qualco-adds-webios-conversational-ai-to-debt-collection-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/QUALCO.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Qualcomm introduces Snapdragon 8 Gen 2 chip for next-gen flagship smartphones"
     excerpt: "Qualcomm’s new Snapdragon 8 Gen 2 processor is set to bring up to 25 percent faster graphics, 35% faster CPU performance, and up to a 40 improvement in energy efficiency for next-gen flagship phones."
     publishedDateTime: 2022-11-15T22:07:00Z

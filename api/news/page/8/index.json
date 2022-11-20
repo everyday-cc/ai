@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-11-waymo-is-one-step-closer-to-charging-for-self-driving-taxis-in-california.md",
+      "title": "Waymo is one step closer to charging for self-driving taxis in California",
+      "excerpt": "The firm already had permission to charge for self-driving taxi rides with a safety ... modest compared to what's available in China. Baidu's robotaxi service is available to the public in larger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "originalUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/25f6b130-60fd-11ed-ade3-926f5c8d40ba",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "publishedDateTime": "2022-11-10T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs.md",
+      "title": "DC Child and Family Services Agency to Use Artificial Intelligence in Support of Child Welfare Programs",
+      "excerpt": "“At CFSA, we recognize the potential of artificial intelligence and believe it will be most impactful ... practices such as Motivational Interviewing and Cognitive Behavioral Therapy. With more than 54 metrics on everything from expressed empathy to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023.md",
       "title": "Cybersecurity, cloud and coding: Why these three skills will lead demand in 2023",
       "excerpt": "Simon Hepburn, CEO of the UK's Cyber Security Council, says the demand of cybersecurity skills in the UK is particularly pronounced, with an estimated 14,100 roles currently sitting unfilled. According to Hepburn,",
@@ -1093,110 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-21-results.md",
-      "title": "Nvidia and Intel show machine learning performance gains on latest MLPerf Training 2.1 results",
-      "excerpt": "Both Nvidia and Intel’s Habana Labs reported performance gains with the MLPerf 2.1 benchmark in training machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/machine-learning-challenges.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-intel-show-machine-learning-performance-gains-on-latest-mlperf-training-2-1-results/amp/",
-      "publishedDateTime": "2022-11-09T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios.md",
-      "title": "Pixel 8 hardware leaks suggest faster chip, tweaked screen ratios",
-      "excerpt": "WinFuture cites devices codenamed \"Shiba\" and \"Husky,\" both running Android 14 \"Upside Down Cake\" and sporting a new Tensor G3 system-on-a-chip developed with ... with the typical Google AI/ML improvements baked in. The Exynos 2300 was seemingly on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-8-800x488.jpg",
-          "width": 800,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/pixel-8-hardware-leaks-suggest-faster-chip-tweaked-screen-ratios/amp/",
-      "publishedDateTime": "2022-11-09T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
