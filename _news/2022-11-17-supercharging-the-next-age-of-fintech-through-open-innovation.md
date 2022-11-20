@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Fintech has arrived, and ‘Techfin’ is on its way"
-    excerpt: "Around the time when fintech picked up globally ... Newer emerging technologies in the AI/ML space would be commercially deployed for wider range of usage in digital finance. This would need regulators to adopt newer methods to regulate and supervise ..."
-    publishedDateTime: 2022-11-15T15:52:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/fintech-has-arrived-and-techfin-is-on-its-way/article66141501.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/fintech-has-arrived-and-techfin-is-on-its-way/article66141501.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/fintech-has-arrived-and-techfin-is-on-its-way/article66141501.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/pvn29z/article66141521.ece/alternates/FREE_1200/PO13_BS_stock_market.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "10 Washington, D.C. Fintech Startups To Watch"
     excerpt: "Fintech Deal Day starts at 8 a.m., Dec.8, 2022. Today, there are more than 10,000 fintech startups in the United States. They're no longer just in major hubs like New York and San Francisco. Washington, D.C. is now coming online as a major player for fintech startups."
     publishedDateTime: 2022-11-18T21:00:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/11/18/shutterstock_615464276.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "23 Startups To Compete For IFTA Fintech Startup Of The Year Award"
+    excerpt: "(MENAFN- KNN India) 23 startups to compete for IFTA Fintech Startup of the Year award . Mumbai, Nov 15 (KNN) India FinTech Forum has shortlisted 23 fintech startups for its Fintec"
+    publishedDateTime: 2022-11-16T00:56:00Z
+    webUrl: "https://menafn.com/1105187522/23-Startups-To-Compete-For-IFTA-Fintech-Startup-Of-The-Year-Award"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/15/KI_1d5c1image_story.jpg"
+        width: 660
+        height: 454
         isCached: true
   - title: "4 FinTech companies transforming the financial space in Iceland"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."

@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Prehistoric predator? Artificial intelligence says no"
-    excerpt: "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore. Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious ..."
-    publishedDateTime: 2022-11-15T17:01:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221115113742.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "AI predicts that a dinosaur thought to be predatory may have been herbivores."
     excerpt: "A research team used artificial intelligence to discover information on dinosaurs, specifically to find out if a certain dinosaur was a predator or not."
     publishedDateTime: 2022-11-15T17:47:00Z

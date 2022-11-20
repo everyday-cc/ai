@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial neural networks learn better when they spend time not learning at all: Research"
-excerpt: "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways, they have achieved superhuman performance,"
-publishedDateTime: 2022-11-19T12:57:00Z
-originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
-webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
+excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the"
+publishedDateTime: 2022-11-19T07:29:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273116951/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research"
+webUrl: "https://www.bignewsnetwork.com/news/273116951/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: health.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1668842987.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Artificial neural networks learn better when they spend time not learning at all"
@@ -52,6 +58,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "7fO6+claam+QdtNcy8ZaF3qSYwwEHhHjNI1YE5vvdSex4q5jGlXvOG4+7Lu5qiklJbzdBQfLJgx68k20fzxn9Ud5hrXUiZVN+POl2gsUzN0V/Y+cgOyfAspyUgJsEhdCJPDjGZJ6BCtwWwi7SgZTeAmMyAQajkl6qmKHUMq9GSMDJX5ZARvGt2epLJWu0AOoG8+jWdBVKVQzbA/8LAmdAKer5saJOCwOPYvvOLor0GzpyJ1sDfepn9Iv9FRcdf4dQunz8or4uo/NjywDZz/JN7Ij+UVzu+h7cXfT43r7TvYQDAhht/TEIPpGSZ0SqNXIvvMeAHF5SPtMrXCKbSnQg42Gi2m6EfaF2CxxcKdt8XRQnLlS1eYCw7ytdMQ+qYIsGwRS+UhrwV6UUpsyCTRi/tteZ4Uwj1Ch5xEUvw4EBjw0dALs7lD8J0MLikdAYl6ccfua2GkFLWvtORG9rUkhz6BLWmUh9DWuqFF6M0rkyXpR4DbN9DeuBMeWBEHgvTOT2I4VgZuwjKVoUVHyLgBp9A==;+nLRmSNaGQN4r+mJcFEpnQ=="
+secured: "TDT1hCHoimzZDfYXdPQ9UkQNjEj6QJcyxZxg0AJYqgzjXWblSF0r5qcZJBARWEhOJPn0s7DDRd2gLtUrWLBvodOQeMycxa/UOXGrHTr4wjI2R3/D/RBkfE1hUeOxx24OfX/aWiIkBO3JiBJe0hkfkK5VRIrujBTVJ4MeRZDZFx6rpwbGHmKJt8Srs57NEeO0cTwzoWbXbwEiQ+o++nF0WZjjTeTHeYn35kyUwHBKzeFWVaakcLBl2V/6K9LhF6EfbOmiWaB3oLzBV0hcvIAZEOO073mXWe+4mh2ksxFBz/a61qEcsmWd2993u1PScxyKDqv1Sm9SOwKAs0DMSs/DFIwH/FrfwCusT6TNG+3pdgs=;TbvFGJMy9jQus8y3IbMjMA=="
 ---
 

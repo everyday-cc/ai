@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Medical landscape in India is changing post Covid"
+    excerpt: "And, hospitals have embraced these with open arms, in a bid to be in tune with the evolving tech-based mode of care and treatment and also to beef up and streamline their own existing structures and processes as mandated by a post Covid world."
+    publishedDateTime: 2022-11-20T07:43:00Z
+    webUrl: "https://www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.html"
+    ampWebUrl: "https://www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 44
+    images:
+      - url: "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2022/11/17/52-A-patient-undergoes-robotic-assisted-surgery.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "Self-driving Ships Market 2022 - Industry Size, Statistics Data, Top Operating Vendors and Forecast to 2028"
     excerpt: "The drivers, threats, opportunities, and challenges are described in a detailed manner after a thorough analysis of the microeconomics and macroeconomic factors affecting the Self-driving Ships market."
     publishedDateTime: 2022-11-16T00:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/augmented-reality-coupled-with-art
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zemplee uses 5G and AI to monitor elderly people's well-being from the comfort of their home, without the need for in-person caregivers"
-    excerpt: "Aparna Pujar, founder and CEO, used to work at Yahoo and eBay. She took everything she learned from those experiences and poured it into Zemplee."
-    publishedDateTime: 2022-11-15T16:30:00Z
-    webUrl: "https://www.businessinsider.com/zemplee-monitors-elderly-people-well-being-from-their-home-5g-2022-11"
-    ampWebUrl: "https://www.businessinsider.com/zemplee-monitors-elderly-people-well-being-from-their-home-5g-2022-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zemplee-monitors-elderly-people-well-being-from-their-home-5g-2022-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/6357e2cffc29ff001a5f474f?width=1200&format=jpeg"
-        width: 1116
-        height: 558
-        isCached: true
   - title: "Vulcan Coalition helps people with disabilities train for AI jobs"
     excerpt: "The company earned a USD 25,000 grant and rewards aimed at further supporting the project’s development, including mentoring and support for an AI for Good grant application and fast-tracked listing on the Microsoft Azure Marketplace. “Without ..."
     publishedDateTime: 2022-11-17T12:35:00Z

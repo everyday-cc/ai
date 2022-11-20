@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New Microsoft partnership accelerates generative AI development"
-    excerpt: "Reinforcement learning for Microsoft's Project Bonsai is now using DIMC technology from d-Matrix to accelerate generative AI development."
-    publishedDateTime: 2022-11-15T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/new-microsoft-partnership-accelerates-generative-ai-development/"
-    ampWebUrl: "https://venturebeat.com/ai/new-microsoft-partnership-accelerates-generative-ai-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-microsoft-partnership-accelerates-generative-ai-development/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1180780724-e1668530418994.jpg?fit=800%2C422&strip=all"
-        width: 800
-        height: 422
-        isCached: true
   - title: "Nvidia and Microsoft Join Forces to Build AI Supercomputer"
     excerpt: "Chip design company Nvidia is partnering with Microsoft to construct a large-scale AI cloud computer, the firm announced on Wednesday. Described as a \"multi-year collaboration,\" the project will integrate Microsoft's Azure cloud computing system with Nvidia's A100 and H100 chips,"
     publishedDateTime: 2022-11-16T17:34:00Z
@@ -299,20 +283,6 @@ related:
         width: 480
         height: 298
         isCached: true
-  - title: "Microsoft Announces AI Supply Chain Platform"
-    excerpt: "Artificial intelligence and enhanced data use are becoming a key part of supply chain management, and Microsoft has announced the Microsoft Supply Chain Platform."
-    publishedDateTime: 2022-11-15T15:53:00Z
-    webUrl: "https://www.environmentalleader.com/2022/11/microsoft-announces-ai-supply-chain-platform/"
-    type: article
-    provider:
-      name: Environmental Leader
-      domain: environmentalleader.com
-    quality: 54
-    images:
-      - url: "https://s30148.pcdn.co/wp-content/uploads/2022/11/Screen-Shot-2022-11-14-at-5.10.16-PM-1024x707.png"
-        width: 1024
-        height: 707
-        isCached: true
   - title: "NVIDIA Partners With Azure to Build Massive Cloud AI Supercomputer"
     excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build what the companies said will be one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s supercomputing infrastructure combined with NVIDIA GPUs,"
     publishedDateTime: 2022-11-16T14:57:00Z
@@ -498,6 +468,6 @@ related:
       domain: business-standard.com
     quality: 33
 
-secured: "hQ8Ad3AnGyqVwq9Rz85nGIf/YtqPEQq8oVnAcjGoH3hq+HFqQ5H8ImtIo/i2BC86JrYX+zHv36lEUhU8x7wRpntwu9NHh8UnMNpqAUasz1n7J/X2G2jSBxwtXJZKiXxQoD/1mdz+z9jJMDGuHH9uADt70vtF8BtgU5Gg1BuY/sHrx6k5kYhBwO0emqrl8/zueP/LB0Z/yyGryXJBVDvA8UgKG9RfFa60sgKsE0OT4EWWDiba9lTVHKwuCfDEb/UKhHI7hxzgTWfLgQKNH4m4FguWONwtQfDvn/8FmR3Ix9+C1scaFZ0tgJfe1RyzcTQXova53L3nCczH/iwuKwggKerJjWenggV6DpCribdXDss=;AV9zn9d65hzBd7FkbqrZkQ=="
+secured: "itKdhDI5QsTnIyP5fAEPu/lgp6AEfEZanBqTLBp4h9IgeiwzeT77GB1hs9ciUosvn2gVxufQPKwaxNtOUOdlQeJ2TfIw8pXC1tbmbMOYGaN809vU3mzGppn1pKvyK9BKsIITwkutzuV0IRdM9hudLQoj6bOt67WEum39rEkYOA8qqKEHDzDPkNJmJse+YAwjcWGP0GuyI0jJcCoAlZAN9lX5q0k5KKtwr6JNA3orDESYkBA473Xe7hCuvzTtIce+lWX9/dc4fB/bJsfaIY1YmPmSvpOmQN8+kGesYD8qYLDJH5x9bFj3WdC0DRQH5lPeYjAtaelOdRqd/oWq585W7CXD9LHBNO2Dz5HaUW1ISPVITYxyJhQTb+OXDfxtVkYFWhdQ6tENM4hJrrosoLVpMDUasXpNWjC9ycN77G2Lg+STbsynqHPiSN1vk9KK4fMWRwBa9Nj784hpPsKrmZir6VfRyhLTb54RiH18nUoNwbz77G02FLtQq3rULB0fpDlic4F1eMdPbtjum1+5MkRuUg==;Ae/q1IxV2NfVTIdQCPvATg=="
 ---
 

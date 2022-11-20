@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Medical landscape in India is changing post Covid"
+    excerpt: "And, hospitals have embraced these with open arms, in a bid to be in tune with the evolving tech-based mode of care and treatment and also to beef up and streamline their own existing structures and processes as mandated by a post Covid world."
+    publishedDateTime: 2022-11-20T07:43:00Z
+    webUrl: "https://www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.html"
+    ampWebUrl: "https://www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 44
+    images:
+      - url: "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2022/11/17/52-A-patient-undergoes-robotic-assisted-surgery.jpg"
+        width: 760
+        height: 443
+        isCached: true
 
 secured: "Bm8WoRLqksezPjDhOHcN66P1p5Lu/64RbYLwmfX+HSqh2AKuL77FeurY9oeHpyOPdPf1M9OvvPA9RcU6/HARv19bJ+WvnNPcmzPw1DKK4TwNfYE+iZGfjgVqJJ6HSPzDiPAhhY0Z3kYR176REsYA0HGljyCvCMQUQDaOZUYhtTa2C4W20GdmUp9NMW6kMecGU5EYzNbVCkQKCSluHrhonLDvKSzE89B23KRL/lh5WQowsISn9aqNRwnRkJ+rN0yuQU6Rfa6RdkFj3nu8bFd3cA8r5KT2JhJYBcY1RGUIXNvnyTt9DkYnQzFcoD3EjgmiBwQmiw9iEX1sSodX5ct3gFEkRQIjkDvynVUTKijgQBo=;3aeqgzSyFvLjucTYPm1aiA=="
 ---

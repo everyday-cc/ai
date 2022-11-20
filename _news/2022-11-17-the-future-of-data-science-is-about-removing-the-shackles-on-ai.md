@@ -26,6 +26,22 @@ images:
     height: 623
     isCached: true
 
+related:
+  - title: "How Artificial Intelligence Is Shaping The Future Of Ecommerce"
+    excerpt: "How Artificial Intelligence is Shaping the Future of eCommerce . November 19, 2022 by mark allinson leave a comment . Artificial intelligence"
+    publishedDateTime: 2022-11-20T07:38:00Z
+    webUrl: "https://menafn.com/1105208488/How-Artificial-Intelligence-Is-Shaping-The-Future-Of-Ecommerce"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/20/R&AN_bd74aimage_story.jpg"
+        width: 800
+        height: 435
+        isCached: true
+
 secured: "/p72GHHwypekWK2zheYJ9E59OH8Hfjl5oL7uhjWLzYVAZN41Bmv22HzMgOlWzUW6yVZmM83OJ19uTmWB9UPLsXF6KwoByPTA9W5ztHmbKhUsgE9qv/74vQAtF7yRB6Ayob/tIwimmDWP4zCW5tcuLxjHL6fS1UJwQ9xAtYbhs72KR86IJ/XXgpUXdjSYbfKmEyd9zcu7wgrPIS42Eb6UnFOOE7Ism5TnyfR9BQIZbEE6dZnbdbwf5XUWlZcK8QgCdNM6xWefUmirPJSuFI2Oxr3kt5R5QcsGJWCeIF7HiT5DUTffX/47gFgS3a042k8m2R2IVXz5J/JcaaUAcIZVpVV754opJP+ItrmGTJpXpPGOrI6pXyS1OBSPdwBBmRoL2ANyPrAF+LwveQgD8Y4DJpwCkZc2xHPvM0hyNW1SYiFXQBv9OP43vvNCnr1NzL5nYv6csM+mf7ll7jyj0r9fndSs718Zp6VYt52iZ0M+jxhQRPekOkAE4d+xAaMLq/YWG9BLlpCXWPFmtykfH3l4cQ==;349QjrnstM9HeBVsG2REbw=="
 ---
 

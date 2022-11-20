@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "AI is coming for your job and you don’t even know it"
+    excerpt: "If you work in customer service, start learning about how chatbots work and how you ... Advances in AI technology will cause roles in retail services to be completely replaced with robots or other AI-powered machines. Robots have already taken over a ..."
+    publishedDateTime: 2022-11-20T08:06:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/AI-is-coming-for-your-job-and-you-don-t-even-know-it-1665569"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/959/95997926.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "/vPdXHHB2Q4QDp/2/Kxv0D8JgeVisyaOCZmLXSH4Gq1e44ZoY5xwNmYfIn0L8RPmlD1Si9K4Kq+Q8+eNBHi3zl3QYZXYT2loQTHxfEySXRPUwiKitvLyByBng3cb6hVFCPzlsDTdUMvvWPRzFJnaGscM96DOUw2r4Lic/BvzX0kV/YdE05lJFvP3/8EXHDqZSrqMrqilEy+JtPPOzNqEKvowRpgwP7gLOaXCpU6/9Xrz6MBGLevf1KmGVilA79hCH8NaRRckThX7UgA5R4CLJqsUroW9vuL9+78fB27siI7LxS2lrfnwzJg+dAjZR5m8diz2PhYqWWOQIJsYYEpzBQMdiyhjthGI7Guv683+Uv4AzPHJINPGNhgDhRbdtq2g2Xq4COGpNpEJHmLGkxdZUcMw6w1WdeBF5uTYQhAaujkN2DZsFO0rGgxIQyRjAtG3DysvlOYuvQobOWCfVM5cZmK890MEvMv6ARZ5pFmyBWBipRottSGpyX2kmwZICRhr0ovl89lKXeDNSb1XmI6RnQ==;tKZyX6GiJ8MAsWa/TRL8Uw=="
 ---
