@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-18T21:29:00Z
 originalUrl: "https://hyperallergic.com/781592/how-is-artificial-intelligence-changing-art-history/"
 webUrl: "https://hyperallergic.com/781592/how-is-artificial-intelligence-changing-art-history/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/11/Mondrian_AI_1200-copy.jpg"

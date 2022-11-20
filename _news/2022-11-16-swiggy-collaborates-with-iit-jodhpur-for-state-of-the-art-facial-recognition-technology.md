@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2022/11/223-swiggy-iit-jodhpur-collabora
 webUrl: "https://www.medianama.com/2022/11/223-swiggy-iit-jodhpur-collaboration-facial-recognition/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1280
     height: 570
     isCached: true
-
-related:
-  - title: "IIT Jodhpur, Swiggy tie up to develop facial recognition tool"
-    excerpt: "Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies"
-    publishedDateTime: 2022-11-15T09:24:00Z
-    webUrl: "https://www.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to-develop-facial-recognition-tool-32154.html"
-    ampWebUrl: "https://m.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to-develop-facial-recognition-tool-32154.amp"
-    cdnAmpWebUrl: "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/nov/15/iit-jodhpur-swiggy-tie-up-to-develop-facial-recognition-tool-32154.amp"
-    type: article
-    provider:
-      name: edexlive
-      domain: edexlive.com
-    quality: 59
-    images:
-      - url: "https://images.edexlive.com/uploads/user/imagelibrary/2022/11/15/original/s.jpg"
-        width: 3989
-        height: 2352
-        isCached: true
 
 secured: "jAlPt57hQm7IJGxB9PH07OCr2uo7Vg58KoDdSP1HhuYwOsEK5RvQXKnnDsfTN8qvqWAlyd3I+XjNgx3S5R9AWMxo3qM1+UHj64mlTsKVwnf2KqYTe4pW5tZl7AMYNDTs1cenA9K8I4bo6uFNToTPiF2Q3D/KLvB2SlDRnMAU7rEy7a1TrGclRvSwHY7dQe7bMZYQR1H7NaWiN0/No7tufbeQ0AQtEomi3YiWGqzu5qhnmAYGnATE6YiL89N5ZSrN8kH4lJkY5ZzGMPKPL8qvsa2GCL9Y7AqCYvg2P8BO89M+5gT6LkV+vzw+5woErrTCTjqqd++MA0aO9ImMnktHghXo/lVAqx2C9/VtSg4lXRGaTSEIk0QRlq9tt9iPMcs87yjT2lvQwCLpa0maAU7M8vRbn5u1YwJF7lgMi8rQsyDpj5kb0YFMnZaCTtET8MfXc/z2b/+Trsp77kPGt6oAQYhZQfKZr6VE4iEjXZ1c7H/BOX4QoexYz7yOpoEA+Nk5xUXLJN5l51RSDo6FoT8gjQ==;CRdVKvli2dW1TCIWNSGj+Q=="
 ---

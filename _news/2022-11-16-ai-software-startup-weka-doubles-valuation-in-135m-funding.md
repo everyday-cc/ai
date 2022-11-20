@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Israeli AI data platform co Weka raises $135m"
-    excerpt: "Israeli AI data platform provider for data centers Weka announced today that it has completed a $135 million Series D financing round. The company provided no valuation but sources close to the deal have told \"Globes\" that the money was raised at a valuation of $750 million."
-    publishedDateTime: 2022-11-15T10:52:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-ai-data-platform-co-weka-raises-135m-1001429913"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v1668504114/direct/LiranZvibel_-WEKA_-_CEO_plia9o.jpg"
-        width: 800
-        height: 392
-        isCached: true
 
 secured: "QWuydP8b6QoAuylapd5fASgJuoCywoEVUleUzh65K1wZO0a/qj2eCIQB788OUxmFce31ZLtzjX3Ouy+Q7SHXIggqe2h14p/CF61Z8hPdo7WwPP3Hl35KQWrULxGmuBb5JRqJpRBHRw4v8AtpehTougOIgIqUwmqTbU1tpzWo0/mv6bpUO6Vu7b1MD88MH167HOvrmZg6nH6V2mMChUgCtqr/de7Bppp85tWLjb/QUDE1Mr3yuKrcREKa826cGKmHToOyeIWT3WfwQO10vBX/VX5nX1zik0ZOKhGcQKH6pwKNDq5+/cQfnXUwJG02015qo7dEpIL9qDEKHMUqU6gMTI+nxXHs2g5Ucj8SkY917cmBn1/urAQDz89OzsfreWIGm6pQzliQkhrMVJAUVaZLglWVq64bsLkFSG6rV+muNjaveiHg9ZRIakVqqGwM+oM72ZGiIYu94CBFHnyi47TAOFo1VikQ21qxc37+I1wntYpFt6ONvFZC/Ei/4R6+7MbH1aoeQeMoHKBD0XIzD8DIlg==;lyMWO+1U+8TzdnuV5sz3Mg=="
 ---

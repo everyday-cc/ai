@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and F1® renew partnership to further drive innovation and build the fan experience of the future"
-    excerpt: "AWS and F1 share a passion for technological innovation and will work together to build the fan experience of the future"
-    publishedDateTime: 2022-11-15T09:33:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/aws-and-f1-renew-partnership-to-further-drive-innovation-and-build-the-fan-experience-of-the-future-nmxbnrg3"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:Njc2NGEzMWYtNjMxNi00:ZDU5NWUz/aws_track_dominance-png.PNG?f=3%3A2"
-        width: 757
-        height: 505
-        isCached: true
   - title: "Mouser Gives A Closer Look At Autonomous Mobile Robots In New Installment Of Empowering Innovation Together"
     excerpt: "Although AMRs have been around since the 1990s, they have since received a technological tune-up thanks to artificial intelligence, computer vision systems, and 5G communications. These technologically advanced robots have provided new levels of ..."
     publishedDateTime: 2022-11-17T20:08:00Z

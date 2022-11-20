@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29731849"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29731849"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -20,19 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "Vermillio unveils first Generative AI platform that allows creators to style, own and track their digital creations"
-    excerpt: "Vermillio empowers creators to generate digital content that can be owned and verified on blockchain, enabling AI-generated images to be properly attributed CHICAGO, Nov. 15, 2022 /PRNewswire/ -- Vermillio,"
-    publishedDateTime: 2022-11-15T18:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/15/9713911.htm"
+  - title: "Are We Ready for AI-Generated Code?"
+    excerpt: "Autocompleted code is convenient and quick, but it may expose your organization to security and compliance risks."
+    publishedDateTime: 2022-11-16T22:00:00Z
+    webUrl: "https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1947014/grafiti_man.jpg"
-        width: 400
-        height: 400
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt204ea0da35abc7e8/63752bb52dc1730f3660ddb2/codehandshake-Andriy_Popov-alamy.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "9+PQkCJK4DHUqqkcIIvbCTzhYeSv1vtnmDn/h/n+BddDXpw898oPVpneQCohO9Qxuk4PCr2dmOuvY6cN2riYzlJtAokoE2m9gqyO9Jgo41kY05JFemVGN1ecYoUiKZL1ZPto4uFmH0eijuQwPK0d2X/c0aFNytormlalLki5xLYzydyTg84WLK5gg2m2qsALdvji0JZRHBbQc7kamDvfXjuEK80WRCxQeYylzfPzakdDZbF6eG2zaaxyc/ZcUSVVajYmPoOYhccVH2KvpvARlBwmbsluBOX3Y4CAV3gVz8Sy+TuK5pWxyv58UzvbsscnQDQRupkE5pwtkZIEsey/LK7PjreZsFBmm6Sq8scd5osJx7BvyI9TWRUQ0n8TU1CV39PD8wU7wchkyj/OsTQrpZudwORMMi/pBLt1Qsjhg8PNipZfiT7Hl0HM0Rcio/Ph+rcm4maTQAA2XkT0SUSF25KEhRZr+xCHvH9hF4RZZUOc3TMq51RsF04NvJXc0qEnii8ZAdcCBkUvZxGJSZ/HPg==;93It/u3FUWsiAAGN18sIDA=="

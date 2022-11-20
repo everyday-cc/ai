@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/making-data-available-on
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/"
 type: article
 quality: 107
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli AI data platform co Weka raises $135m"
-    excerpt: "Israeli AI data platform provider for data centers Weka announced today that it has completed a $135 million Series D financing round. The company provided no valuation but sources close to the deal have told \"Globes\" that the money was raised at a valuation of $750 million."
-    publishedDateTime: 2022-11-15T10:52:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-ai-data-platform-co-weka-raises-135m-1001429913"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v1668504114/direct/LiranZvibel_-WEKA_-_CEO_plia9o.jpg"
-        width: 800
-        height: 392
-        isCached: true
   - title: "AI software startup Weka doubles valuation in $135M funding"
     excerpt: "A Campbell startup that helps to ease moving data around in artificial intelligence applications said on Tuesday that it doubled its valuation in its second large funding of 2022. WekaIO Inc. said it was valued at $750 million in a Series D funding round led by U."
     publishedDateTime: 2022-11-15T21:28:00Z

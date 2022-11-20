@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "How AI is changing scientists’ understanding of language learning"

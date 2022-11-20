@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Holding Fintech Back: Overcoming Legacy Barriers To Accelerate Innovation"
-    excerpt: "It’s no surprise that over half of financial experts report that the limitations of legacy systems are holding back banking data processes."
-    publishedDateTime: 2022-11-15T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/amp/"
+  - title: "UnionBank’s evolving ecosystem showcased at Singapore Fintech Festival 2022"
+    excerpt: "By Adrian Paul B. Conoza, Special Features and Content Editor The Philippines is proudly represented in the global financial technology (fintech) space as Union Bank of the Philippines (UnionBank) once again joined the Singapore Fintech Festival (SFF),"
+    publishedDateTime: 2022-11-16T00:00:00Z
+    webUrl: "https://www.bworldonline.com/special-features/2022/11/16/487480/unionbanks-evolving-ecosystem-showcased-at-singapore-fintech-festival-2022/"
+    ampWebUrl: "https://www.bworldonline.com/special-features/2022/11/16/487480/unionbanks-evolving-ecosystem-showcased-at-singapore-fintech-festival-2022/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-features/2022/11/16/487480/unionbanks-evolving-ecosystem-showcased-at-singapore-fintech-festival-2022/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637242d187cba7e77561196d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 37
 
 secured: "8CaLzfDwwxKLecZbFskcUpLm7fTkg4nQAgT4anm8Kki9/CT7JeMMyacExCPc7DnDRC640uV5jMWm+h0K3RoOtjHkqhhU9pQlyjWeFcJz0EJ4S6bQUubdE+UoDjOgtee70Vjzsdp18YAAtLgsyRRv2zQXp9LdM0SPLasJpJAHMG87il62HPlZRoSsgwnAHKAMh59Lwg9e3iXG8oEnb/y/uMM9KL4wGL9JOiCJS1nB3MAkFz/862nZf2yotcVeYTa9evyUZjR4JGFWYcvp87f6En5tz8wQCnWqWaSHJiNB3aDtRwg1rCRmJLSg9oA0u2GT5FaQajm6crfmb1NibPIkadhnN/rkxXMLCyISl/nRUy+8L7kbltQDWN2S4MeWKSJQR3J9CGVCyiYJRNTyhY1F76qVABL/WuZTuNPkUiRhgDuxQAv/8JNXJ4HOzPAz81AJRak4xTWoW3A2BAXnUaHqEHOsqvwI1VID2KCAUpVvDNeks4EYdOkvXwMmve9lMTgOV1QxONvhm9cMlU8fRt2A3Q==;KeAjnSKB5VNaduSzOz4YrA=="
 ---
