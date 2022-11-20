@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-20T19:46:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/automation-anywhere-automation-and-ai/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/automation-anywhere-automation-and-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

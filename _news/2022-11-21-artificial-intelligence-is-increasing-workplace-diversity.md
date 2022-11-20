@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-20T18:30:00Z
 originalUrl: "https://nocamels.com/2022/11/artificial-intelligence-is-increasing-workplace-diversity/"
 webUrl: "https://nocamels.com/2022/11/artificial-intelligence-is-increasing-workplace-diversity/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: NoCamels - Israeli Innovation News

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-11-06-recognition-of-the-rights-of-nature-a-must.md",
+      "title": "Recognition of the Rights of Nature a Must",
+      "excerpt": "The Tightens Bond to the Growing Number of Countries Pushing for the Recognition of the Rights of Nature “Typhoons Paeng and Karding are cries",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
+      "originalUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn77.pressenza.com/wp-content/uploads/2022/11/PSWS_of_Typhoon_Noru_Kardingre.jpg",
+          "width": 1920,
+          "height": 1574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-06T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PRESSENZA",
+        "domain": "pressenza.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-06-driving-the-2023-bmw-7-series-exceptional-luxury-and-creeping-featuritis.md",
       "title": "Driving The 2023 BMW 7 Series - Exceptional Luxury And Creeping Featuritis",
       "excerpt": "BMW 7 series is now available with a choice of 6 or 8 cylinder mild hybrid drivetrains or as an all electric i7 with up to 318 miles of range. It drives better than its 3-ton mass would suggest, but p",
@@ -1137,49 +1180,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom.md",
-      "title": "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com",
-      "excerpt": "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fbherald.com/business/global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and/article_eb063a00-41df-5542-9daa-f5212babb760.html",
-      "originalUrl": "https://www.fbherald.com/business/global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and/article_eb063a00-41df-5542-9daa-f5212babb760.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?resize=600%2C225",
-          "width": 600,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Bend Herald",
-        "domain": "fbherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

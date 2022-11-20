@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-20T20:45:00Z
 originalUrl: "https://www.financialexpress.com/industry/sme/boon-how-this-startup-is-making-hydration-high-tech/2865884/"
 webUrl: "https://www.financialexpress.com/industry/sme/boon-how-this-startup-is-making-hydration-high-tech/2865884/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Financial Express
