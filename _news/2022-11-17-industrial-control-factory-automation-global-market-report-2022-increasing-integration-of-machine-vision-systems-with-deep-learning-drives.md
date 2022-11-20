@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Retail Market Statistics 2022 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence in Retail"
+    publishedDateTime: 2022-11-17T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-statistics-2022-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2022-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market 2022-2029 | Global Industry Size, Share, Growth, Developments, Top Industry Players, Recent Trends, Forecast to 2029"
     excerpt: "Nov 16, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Market” Report Industry Size, Share, Current Insights and Developments Forecast 2029 The report incorporates in ..."
     publishedDateTime: 2022-11-16T16:07:00Z

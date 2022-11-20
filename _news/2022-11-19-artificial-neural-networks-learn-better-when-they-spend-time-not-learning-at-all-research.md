@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Artificial neural networks learn better when they spend time not learning at all: Research"
-excerpt: "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways, they have achieved superhuman performance,"
-publishedDateTime: 2022-11-19T12:57:00Z
-originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
-webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
-ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
-cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
+excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the"
+publishedDateTime: 2022-11-19T07:29:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273116951/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research"
+webUrl: "https://www.bignewsnetwork.com/news/273116951/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: health.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-95626126,imgsize-391820,width-1200,height-628,overlay-ethealthworld/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research.jpg"
-    width: 1200
-    height: 628
+  - url: "https://cdn.bignewsnetwork.com/ani1668842987.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -67,6 +65,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "N5wz1huATgYeIGMWaSKKeOXAf6gxcBCCKplwxvVb56NEzW+FyneHJt4l7+6lz6kXBgdhUyzQ37tsjWbo3+bIXcQv3P3asQc+bMzdnO++rLTKrWVYzx5S0+crzF3uXznD1+rX7HHyOICfxppLWxHPAYi81vLQAtyrYv99WaJMIq6xOKV3wMHtZjDX6HmpTzxFCXVnXf22Z8xDiesEya55RPbZ2QhFq0v/wbHMSbKon4q88KDGkPN1oet22LAQYsGY+CDb53w6jDX2VQ5ujHxH1TeBFNeoEA+NqfUc53EZFdkl4J3sML2F6m4DrgF0Lbam5uVu2f06SjfZALxbWPtRZsVAVcTORuGdRFDyeDtZ7m0=;W2+hiHVTTtOemHF9aK0DRg=="
+secured: "fPZ0laojsRRot3Vqz5hdSf5rkxxHXBPP+y6EYvDGxlum3QYkfmjke+GLEpCe6a+Rv3P29g1HiskgiUKBuZ9RrvLZZ2zeeixERSfLJCBnoKo6fpEx/7oNCGWUgZm0YH1490FcCXYWHhtPT4vCDY7ZIa3SnQ/rqkR2bBgwbNKbQvcLOrDDuMR7BuGGIv449lbvpQF2iG8u+JxNXw2dOdIPNzXFJu0cS7A320ngHgOSbqj024L8Ffh9TIlolTyCLXIf8ewIuZxQVjBkJGMWxdjOgvTEcdJ1TLLZj69fP50TZ9g9d4lHgTIUcoPk1bkrEwFVzXqXCNDHDjkIXd8sl8IYr8djDqpPeB/Bj4IkQbciSR4=;uRFEPEfJBE94you1Xb8+jg=="
 ---
 

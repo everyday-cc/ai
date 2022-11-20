@@ -39,17 +39,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Actifai's Artificial Intelligence-powered Customer Engagement Platform Drives Groundbreaking Growth for Broadband Providers"
-    excerpt: "The First-of-its-kind Platform Helps Broadband Service Providers Generate Higher Average Revenue per User, Increase Sales Conversions, and Enhance Customer Lifetime Value WASHINGTON, Nov. /PRNewswire/ -- Today,"
-    publishedDateTime: 2022-11-15T20:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29738225/actifais-artificial-intelligence-powered-customer-engagement-platform-drives-groundbreaking-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29738225"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29738225"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
 
 secured: "eJxlJyydmgHMmeAVyY42AvUy1IfilL1+gKrTLDCliRlGsbGjpriyANwOVEhDhxZ+iblQaA3KKrd2EMnxms+W3Pqzcu++mqCU7NY/9tsls+7FGy3M9Bve6z3js8bc1dfWhOCSXdMoVQ4JNlYHM34WAwP00NThI+BNaNAwsbLCoiFxkXn6MXln12l54tvO30y8I+q33CLZjsFceFERyFnrhM1STqQVoWJsmjwANUw6RCP5MzA4rLUXqM+ydZyBiAgobn3Oub4VA7XpsRv7tyox23OdhFpcdmJqN3mi8bIwTwvRR8avOKb71y/PrLJm9vcYY2PcORa2NOIp3+W1pSUfdnMnbf1Cd04/q+yT+vRMWqp2QSWM7EGJ0V6Tmd288CjYYFmTT7OHg6I7EmzeZIDdYbAFRXErykh+yIruDHdYN4k7yp18B0e+c11bOJGxttVdOp/xghSMEjzTSKA5pGzcYhxnWK+vCf+SrsPQkDe992CFIXYRW+t+Hp0x3zVoc/TNnrU9wmn22+XLY+/Dsa422A==;cU57+eJJqWQhjQAD93N9CQ=="
 ---

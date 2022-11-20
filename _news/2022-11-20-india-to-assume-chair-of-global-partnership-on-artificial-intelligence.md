@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
 type: article
 quality: 72
-heat: 72
+heat: 92
 published: true
 
 provider:
@@ -24,6 +24,40 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "India to take over chair of Global Partnership on Artificial Intelligence for 2022-23"
+    excerpt: "In the election to the Council Chair, India had received more than a two-thirds majority of first-preference votes while Canada and the United States of America ranked in the next two best places in the tally – so they were elected to the two additional government seats on the Steering Committee,"
+    publishedDateTime: 2022-11-20T11:32:00Z
+    webUrl: "https://www.cnbctv18.com/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence-for-2022-23-15211911.htm"
+    ampWebUrl: "https://www.cnbctv18.com/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence-for-2022-23-15211911.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence-for-2022-23-15211911.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 65
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg"
+        width: 960
+        height: 539
+        isCached: true
+  - title: "India to assume Chair of Global Partnership on AI for next year"
+    excerpt: "GPAI is a first-of-its-type initiative for evolving better understanding of challenges and opportunities around AI using the experience and diversity of participating countries."
+    publishedDateTime: 2022-11-20T12:09:00Z
+    webUrl: "https://www.hindustantimes.com/technology/india-to-assume-chair-of-global-partnership-on-ai-for-next-year-101668945544437.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/india-to-assume-chair-of-global-partnership-on-ai-for-next-year-101668945544437-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/india-to-assume-chair-of-global-partnership-on-ai-for-next-year-101668945544437-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/11/20/1600x900/892322ba-7a18-11ec-8d96-73532ee3fb0e_1642700792041_1668945698341_1668945698341.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "/wH14QRXJJiiAd/tvH5Mps3W8+9zLcUwtnxg0oSQMDTP+kB+B+XmhcjviC6QHo9hYfj1ezzREX+No4t9aEl1bwky5QvkBvlFw13jIJV9PGz4IUEBV7CbuSugmOJ7dq0088jQfnqnaMCnKBRUlkO549b4Lh7MBD0u1XHEOFiu1sQKZcCgH5kY+y8QjJzkJdRZjfJ+ki+NmwWXwmrlp4uvDGDZoJSwNqLmrmoYtcmp6U4X0nwOQLzUSDKOM74C1j3yigmei0zHq3c51YQ6uI1jODlCwsMTdimGjBgd5QOJE/+N3bdG29fEriR/awd+5bAaGXyl+B7mktQ6ZQANsHSYythSi2xvAxO4DXIIVNzt0VI=;lVAA/7e9zJIHtQyUfMBFRg=="
 ---

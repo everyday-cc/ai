@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Retail Market Statistics 2022 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence in Retail"
+    publishedDateTime: 2022-11-17T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-statistics-2022-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2022-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stem Cell Therapy Market Size Will Reach To USD 1,185.9 Million In 2030 - Reports And Data"
     excerpt: "The Stem Cell Therapy market has been segmented into key regions ... previously incurable diseases are beginning to be treated. The use of artificial intelligence (AI) and machine-learning technologies is leading to increasing expectations for more ..."
     publishedDateTime: 2022-11-18T13:11:00Z

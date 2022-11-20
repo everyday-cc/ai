@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuu
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-17/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: CBS News
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
-    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
-    publishedDateTime: 2022-11-15T20:20:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 53
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Walmart Deals for Days: This $119 robot vacuum deal is one of the best we've seen this Black Friday"
     excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
     publishedDateTime: 2022-11-18T15:56:00Z

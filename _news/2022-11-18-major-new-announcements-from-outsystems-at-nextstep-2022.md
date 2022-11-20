@@ -24,17 +24,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "OutSystems Introduces AI Mentor System to Accelerate Developer Productivity, Dramatically Improve Code Quality, and Crush Technical Debt"
-    excerpt: "OutSystems has been infusing AI across the platform and the entire software development lifecycle to help developers, tech leads, and architects create software much faster and with enterprise-grade quality."
-    publishedDateTime: 2022-11-15T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/15/9713568.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "ISI0aDPUbm6uibQlVUhgMBnYmmaT8PsLtFunqev/CeNs3uDKe3lEjrIbyqfctKVrRuKTQ7fWXJgR+RFifGDVDXIyO2EvVw7L6On7adzjXDFhYehNGpl9ko8hQfpYRg8f+vVR9kEb/291NMs3VLMqCBvYOMC5dXJNknBxH4FArZrGch3yLZR4R/EDeLeHhgx/7rCkvINlflajYq3tu3c9TflUenDKKLLk1KP/11AV5tdqenEIbmvC64Gowtj8dgx5nZ3ql/nCZ3nayDaKJdgjoEvaem9eZsHm4cJO10s8P7Wf2kwH/hkuB25dQHovOwsf+TNfSh4Dn8S7sm+PFhoeUmm/ZdzvoDAMrOUWUKCgmrI=;OATbOhG7LjZCRK3KDSe7QA=="
 ---
 

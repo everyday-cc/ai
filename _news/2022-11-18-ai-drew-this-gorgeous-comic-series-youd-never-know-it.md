@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-go
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Drew This Whole Gorgeous Comic Series. You'd Never Know It"
-    excerpt: "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving."
-    publishedDateTime: 2022-11-15T20:44:00Z
-    webUrl: "https://www.cnet.com/culture/ai-drew-this-whole-gorgeous-comic-series-youd-never-know-it/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "AI is coming for your job and you don’t even know it"
     excerpt: "If you work in customer service, start learning about how chatbots work and how you ... Advances in AI technology will cause roles in retail services to be completely replaced with robots or other AI-powered machines. Robots have already taken over a ..."
     publishedDateTime: 2022-11-20T08:06:00Z
