@@ -78,20 +78,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Japan’s FinTech unicorn Opn acquires US payments startup MerchantE"
-    excerpt: "Singapore-based AI Communis, the startup behind the platform integrating speech recognition and natural language processing technologies, announced on Monday that it has raised $1.3 million US in a seed round. Participating investors include UTokyo ..."
-    publishedDateTime: 2022-11-15T18:09:00Z
-    webUrl: "https://thebridge.jp/en/2022/11/opn-acquires-merchante"
-    type: article
-    provider:
-      name: BRIDGE
-      domain: thebridge.jp
-    quality: 24
-    images:
-      - url: "https://thebridge.jp/en/wp-content/uploads/2022/11/opn_featuredimage.jpg"
-        width: 1240
-        height: 780
-        isCached: true
   - title: "Rise of fintech 2.0 - The next phase of fintech evolution"
     excerpt: "Forbes India and AWS 'The Mavericks' keynote address imparted some insight into 'The Evolution of Fintech: The next phase' and the crucial role of technology in shaping the future of fintech"
     publishedDateTime: 2022-11-16T07:07:00Z

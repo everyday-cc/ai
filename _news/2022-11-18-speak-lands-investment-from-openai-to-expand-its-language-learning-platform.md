@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered media editing app Descript lands fresh cash from OpenAI"
-    excerpt: "Descript is the second startup to receive a cash infusion from the fund after AI note-taking app Mem, and Mason says it reflects OpenAI’s belief in the future of Descript’s AI-powered features. “I founded Descript with the idea of building a simple ..."
-    publishedDateTime: 2022-11-15T17:58:00Z
-    webUrl: "https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Expert.ai Recognizes Natural Language Apps That Encourage Positive Change"
     excerpt: "Developers were challenged with creating an app that created positive change by embedding natural language processing, word meaning disambiguation and sentiment analysis leveraging expert.ai's 'smart from the start' Knowledge Models in three domains ..."
     publishedDateTime: 2022-11-17T20:05:00Z

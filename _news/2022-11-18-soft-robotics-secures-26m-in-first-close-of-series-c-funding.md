@@ -53,15 +53,6 @@ related:
         width: 610
         height: 380
         isCached: true
-  - title: "Massachusetts startup lands $26 million backing for trailer-unloading robot"
-    excerpt: "Pickle Robot Co. says its technology addresses one of logistics’ most labor-intensive, physically demanding, and highest turnover jobs."
-    publishedDateTime: 2022-11-15T18:55:00Z
-    webUrl: "https://www.dcvelocity.com/articles/55992-massachusetts-startup-lands-26-million-backing-for-trailer-unloading-robot"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 32
 
 secured: "OqwQCywM/94w6tMgRPOnmffVUUGrQAWUhaQRj3vI3tvz3amQfob3FhQzyzmrtAwhbr9oDIL+r63qV1IsYOqmEvronBx4zHWShXLSTF+yZe1HR/hjxSPjEsMV6IRUQ1EtxAWw3N7DSeSbC5TONXmQOLvJQp/xRQtuanW+y6d7qQxaPtU7pzneBdtBTrupo0YaY9DcIRLW1W+A9Hkh+4GuzBjfWmdKGoM8qlYZJGd6RFd+k9z5ScQ2ZQaovZ090dNqKULBpC2rCowTSNSoGNNUNON0BkWJ6jN6h+8kVFxJBFhJI2gtKvcaGg+G1ErC1uuGvU8vvAYhSI1Q3Dr9Jm8fuUmoaZsKf1kZsZPMLITqgGo=;qdpzB+pSPEEFjs/fka+p2g=="
 ---

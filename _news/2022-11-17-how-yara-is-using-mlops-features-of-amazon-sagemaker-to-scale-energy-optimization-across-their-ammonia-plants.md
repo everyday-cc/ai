@@ -60,34 +60,6 @@ related:
         width: 1550
         height: 775
         isCached: true
-  - title: "Detect multicollinearity, target leakage, and feature correlation with Amazon SageMaker Data Wrangler"
-    excerpt: "In machine learning (ML), data quality has direct impact on model quality. This is why data scientists and data engineers spend significant amount of time perfecting training datasets. Nevertheless, no dataset is perfect—there are trade-offs to the preprocessing techniques such as oversampling, normalization,"
-    publishedDateTime: 2022-11-15T17:29:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-multicollinearity-target-leakage-and-feature-correlation-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/15/detect-multicollinearity-sagemaker-data-wrangler.jpg"
-        width: 1549
-        height: 775
-        isCached: true
-  - title: "Get more control of your Amazon SageMaker Data Wrangler workloads with parameterized datasets and scheduled jobs"
-    excerpt: "Data is transforming every field and every business. However, with data growing faster than most companies can keep track of, collecting data and getting value out of that data is a challenging thing to do. A modern data strategy can help you create better business outcomes with data. AWS provides the"
-    publishedDateTime: 2022-11-15T17:40:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-more-control-of-your-amazon-sagemaker-data-wrangler-workloads-with-parameterized-datasets-and-scheduled-jobs/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/15/sagemaker-data-wrangler-parameterized-datasets.jpg"
-        width: 1549
-        height: 773
-        isCached: true
 
 secured: "FyRGgA9QSC6tRIzOIiwK3JefFgy2UgYQQNcyNpWmpcodRdtUIhVddya5Kj9d/2r8Q1lX8mV/v6TnQoZGe9YpW3qAQmabiGz3xoo89rlo0qtTq0tgDU0iCH4vx9aJp1RQmGv9IJ5JTKyZbZE4MKHpg+VLYVMeJm/S3xnMZYSyR9EtcrFJR52FHcr0dTI7n72eycJX2VB4Ccre585B86wBWrXhZC4h5wfRcepF6pn0pSh+tdT2vEw/zuIDR45F2LcZV+upXwlyUUinJXdMKL46qFvAciIzGQw+oqMSZGaur73ybgyqsMDI1SVVvyfMgqtNgtrKTMP+4mhk6PXPVxqXCpkcTclITuo3ZCou29bs1sU=;Rl5MIXa8cL+He0ESt0KCjw=="
 ---

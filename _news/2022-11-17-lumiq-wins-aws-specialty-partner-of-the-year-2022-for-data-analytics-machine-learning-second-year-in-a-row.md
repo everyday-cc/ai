@@ -1,31 +1,30 @@
 ---
 category: news
 title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
-excerpt: "Bengaluru Karnataka [India] November 17 ANIPRNewswire India leading Data Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data Analytics and Machine Learning at the recent"
-publishedDateTime: 2022-11-17T07:32:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
-webUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
+excerpt: "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape."
+publishedDateTime: 2022-11-17T06:03:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 type: article
-quality: 36
-heat: 36
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AWS AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/NGE3OTI1MGMtMGU.jpg"
-    width: 630
-    height: 473
+  - url: "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "asyLYAqIO8BiG+UEJ7G92tfVelKaMElgQwUmA5JJdlRiBJ1fFBgMvYv7sYHKrSfRspqXHEGCJDRxOkxkjvUN2TpoPIwflBPMB6b+T2fzsJjrgitfSdlziCwiD/+fjCoFOxC1TX45GwIEvOp0/nGOmtwg3eCIAcq1u19xfsQGFFfIX5Gw2pk1AYzpk7guj5X7F3UOpkAySskSF1EBP3JnQgBUK9oDLHnTRfA9hc89B0nL+bk7Htvnc4T+lmRVfmjmy065YstSKwAGX8+FHxQIKd07EoZ4MiIxB/P+Zsw0ZbdffSZEFINZZKQ2EC5Uy6qiPB25TdfMKI6km3iDN1+HkVmIZZdaCqibpsVy/bLqiFE=;ON+L6MYGujeJbahcuRPzKw=="
+secured: "zuUwvEOz+nuPoMhgLk0gIhTBhdDGkVtxkoC2waJU6t8LR4pAk/joek3giAIUb4taES3jo4Onaq4R1CaZuDepgmgCMUoAsBQ/NKReTW5fuAQgkDDRD3eNBn4zSA0OlQbgDLduvTN8GiX7bieKKqzmWIw9yaULo+GHx9XW2hv0IRjDmTPiH8yrpvIgDAvztO6g8IGW5nDW+RROvKtUfq64zx2sXIT54NOaWgb3edsXmHeYfbKJnf+ElgPgM6TBheruRgfSr/UDwRK8jDItJ5nj1oW925uSffU0ZS2lpts4VgxJP0hBHhYGx955qSx6/7hNDfcRUey40vowXMOd9Tds9RqrK0g0cuW7UtxHqXMoWRk=;uu3yJKHDxoefsn4uY6Uing=="
 ---
 

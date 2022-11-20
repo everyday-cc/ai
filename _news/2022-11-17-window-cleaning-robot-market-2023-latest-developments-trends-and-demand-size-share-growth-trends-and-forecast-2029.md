@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Products Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Products Market will have significant change from previous year. By the most conserva"
+    publishedDateTime: 2022-11-20T00:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fcX3l6YH/1jNBxH0zbTaj/wGjmxFYUX2/Zot+M9fNJNO9u/ifHIQU60Ra4l/79FA2JW7ihT+djkVqWR+lOPh7uTMeMhq1hJE9+Qyi34Jc9vYm8kWsw37Z90IUCNGzsReEmQbopB5Jt+ZL9IUYDt8EJtC8SFempK1asxAF/5NIMCHml0oJYu9Z2Nh8bP0ZBEmIUtEpMeYE8vZeBaRY0er4chTaGTPWomtw2exJ2PMm5EmHSWo0T9KccEfGKbUaQ0lxazIaaSBGVtI7yNSTKKdB/v6/5usVIJs1/6WU3Eonma5DlGjjSjKcaPP+paR8LCoHhjmM3ZV1AqS08o3+K7QQr0EixnAbHuC80xWcrvIik0=;J/3s4zEshi+R+OYdj8o0ig=="
 ---
