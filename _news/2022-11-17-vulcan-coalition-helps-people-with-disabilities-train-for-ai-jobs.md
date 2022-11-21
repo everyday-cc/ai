@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/apac/features/vulcan-coalition-ai-jobs/
 webUrl: "https://news.microsoft.com/apac/features/vulcan-coalition-ai-jobs/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Augmented Reality Coupled With Artificial Intelligence can Train Caretakers for the Elderly"
-    excerpt: "Caretakers are often needed to help elderly people who are sick, disabled or injured. A new study highlights that augmented reality (AR) and artificial intelligence (AI) can merge to train caregivers for older people."
-    publishedDateTime: 2022-11-16T12:08:00Z
-    webUrl: "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 64
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/alzheimer6.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "OWM7YFbfbIsMzOS49R2mGGYSNsJfLH58uE7qlYzI3XExnNQ4lfy9dTOxHT1uv6oLxguz7WfpLG/rYnozvW1CiJ0VM/BtWkDvkuxxp36K7ER6LNkS/VpR/2sg/2i5GbCorEzfgmRnGvYeyxb54nMFpcS8pj4c1pxbxEqU7ix5aSbaR7XRcchT0X/FMHClk0y+By4ycm9U6/9m4S8NBinlQRtHd+GzrOCaQaNbUZpOECdXOTKwiL0Qua4C/7T/dqR/BFl5LvIY/Adf4A7Gs7j8MaDXxlAo/0aU4AjazoAv0uw6d34/EcQ+yYq0/4hljV258fsuJEPtIECrUOPOoFIqNIdQdNbX45J1xxFFA6SPJ2g=;QMJeLpwWOOP14oJsUdjg5g=="
 ---

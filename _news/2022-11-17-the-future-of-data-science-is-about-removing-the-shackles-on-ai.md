@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/11/16/the-future-of-data-science-is-
 webUrl: "https://www.datanami.com/2022/11/16/the-future-of-data-science-is-about-removing-the-shackles-on-ai/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Shaping The Future Of Ecommerce"
-    excerpt: "How Artificial Intelligence is Shaping the Future of eCommerce . November 19, 2022 by mark allinson leave a comment . Artificial intelligence"
-    publishedDateTime: 2022-11-20T07:38:00Z
-    webUrl: "https://menafn.com/1105208488/How-Artificial-Intelligence-Is-Shaping-The-Future-Of-Ecommerce"
+  - title: "Impact of AI on future job roles"
+    excerpt: "AI will create a distinct dividing line of jobs that are able to be mastered if they are properly trained and taught, which will override the threat to unskilled jobs. Despite the fact that many jobs have been taken over by artificial intelligence, there are still a lot of jobs you can find if you keep learning and upskilling yourself."
+    publishedDateTime: 2022-11-19T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://menafn.com/updates/pr/2022-11/20/R&AN_bd74aimage_story.jpg"
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/VL4A0115-1-1.jpg"
         width: 800
-        height: 435
+        height: 600
         isCached: true
 
 secured: "/p72GHHwypekWK2zheYJ9E59OH8Hfjl5oL7uhjWLzYVAZN41Bmv22HzMgOlWzUW6yVZmM83OJ19uTmWB9UPLsXF6KwoByPTA9W5ztHmbKhUsgE9qv/74vQAtF7yRB6Ayob/tIwimmDWP4zCW5tcuLxjHL6fS1UJwQ9xAtYbhs72KR86IJ/XXgpUXdjSYbfKmEyd9zcu7wgrPIS42Eb6UnFOOE7Ism5TnyfR9BQIZbEE6dZnbdbwf5XUWlZcK8QgCdNM6xWefUmirPJSuFI2Oxr3kt5R5QcsGJWCeIF7HiT5DUTffX/47gFgS3a042k8m2R2IVXz5J/JcaaUAcIZVpVV754opJP+ItrmGTJpXpPGOrI6pXyS1OBSPdwBBmRoL2ANyPrAF+LwveQgD8Y4DJpwCkZc2xHPvM0hyNW1SYiFXQBv9OP43vvNCnr1NzL5nYv6csM+mf7ll7jyj0r9fndSs718Zp6VYt52iZ0M+jxhQRPekOkAE4d+xAaMLq/YWG9BLlpCXWPFmtykfH3l4cQ==;349QjrnstM9HeBVsG2REbw=="

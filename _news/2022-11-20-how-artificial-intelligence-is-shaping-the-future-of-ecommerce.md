@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105208488/How-Artificial-Intelligence-Is-Shapi
 webUrl: "https://menafn.com/1105208488/How-Artificial-Intelligence-Is-Shaping-The-Future-Of-Ecommerce"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 435
     isCached: true
-
-related:
-  - title: "The Future of Data Science Is About Removing the Shackles on AI"
-    excerpt: "Before embracing his destiny as a superhero, Superman was raised on the Kent family farm in Smallville, Kansas, where his superpowers lay dormant and"
-    publishedDateTime: 2022-11-16T20:18:00Z
-    webUrl: "https://www.datanami.com/2022/11/16/the-future-of-data-science-is-about-removing-the-shackles-on-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 43
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2022/11/sun_building_shutterstock_Blue-Planet-Studio.jpg"
-        width: 1000
-        height: 623
-        isCached: true
 
 secured: "EC+xhe68Yh7pQEHW77SsjcskLGBE0lI3cpkaFG9cMIC2H5z/Lrd5FKSHHgVFUKf67Tw/QGzVvPDNII2UWUzzWfeOY8w1m/Km2bEk9ofISpRdWdae7sHj2gMPEqU0ElWv9zTbTzBMbQP8TDMuwyIwMhLVreCwpqgm9/5lNqeRmMXADIwsL7Z7vbTeefNVsYxCwhlfkT/50nGcMIv0hO5IjVpXPvwIhSarfylURJlvQZb2eToBQi77Et4zcgax0dG8MZ82Torn+XghmP+pP6w7zuqHyFg3tOWVyI9UemJ+4MoG8kjjGWsGcWt1xN5mq+wJSe3X22q7gBNTX0ebkSLPZ7vFrEgpe96G9IPMRcbhGDZzl94I5NjGgs+RBKz/yE4SsusrIs6TqEcl0Oy0x/2mjVxToR3+gXz9wFP4q1/GQIzD0oD8GptMepnJtDDyCVxJlFHO/0BsqlBv3apAuqH1r+hXTZQbqJ06swMu2s6G4RaoIB2Cvzi9myaU1UWqrGxDJvPwOPJXM94/t1EjqTicuQ==;Zc4jL7X+iz2f6HFmqCq43g=="
 ---

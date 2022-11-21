@@ -44,20 +44,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "4 FinTech companies transforming the financial space in Iceland"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-11-16T11:43:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-companies-transforming-the-financial-space-in-iceland/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "18/11 – Weekly Fintech Recap"
     excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
     publishedDateTime: 2022-11-19T19:48:00Z

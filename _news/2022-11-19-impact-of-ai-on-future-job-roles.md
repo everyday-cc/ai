@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-fut
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Improve Job Quality"
-    excerpt: "Most people experience AI through workplace technology, not automation. AI can either improve job quality or make it worse. A new study from Partnership on AI shares insights from workers on how employers can ensure that AI makes jobs better."
-    publishedDateTime: 2022-11-16T11:23:00Z
-    webUrl: "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/"
-    ampWebUrl: "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/"
+  - title: "The Future of Data Science Is About Removing the Shackles on AI"
+    excerpt: "Before embracing his destiny as a superhero, Superman was raised on the Kent family farm in Smallville, Kansas, where his superpowers lay dormant and"
+    publishedDateTime: 2022-11-16T20:18:00Z
+    webUrl: "https://www.datanami.com/2022/11/16/the-future-of-data-science-is-about-removing-the-shackles-on-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: datanami.com
+      domain: datanami.com
+    quality: 43
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/636953d143386d13e7af29b9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://www.datanami.com/wp-content/uploads/2022/11/sun_building_shutterstock_Blue-Planet-Studio.jpg"
+        width: 1000
+        height: 623
         isCached: true
 
 secured: "N0ibzir9qvH9u1A/8vo7SJmRdu8vqMNzJSWFOL2FsTUmV40viqcshcXhRLDYydiGdjjToDlxwOENBcrGAJ1tiwTxyRqZMoDjd48rHkf1M5l7gCquKALVxvQMlAUYl/t0SeBMjt/ErjtjoHIucuz9/e4R273pRVOXLdzf2Qa0HKl7ygbCP6WDotFVpWshn210N3KsBmBDNBi1e9914rofwVafAVa5PiniRJODlnTv3YMrWNh+WhlDXwLQ71/PO9ZrNMH0tA7WLf0u2LkMA469jxligFiUoWIxqOahs3xjurSRoZBgX2WfQKdpJHsGWBZYi3Iwz1KPOEXFC/i++xPJDuzqLYBd9Ox0CG0eltV/ddYHaf15D+DafB5R8BfYgkzYnMVLRQZI86buMUucn18yZ4xKDLfKY8pTUplgcqavsiWRNqCDGCEEai5bJT0ck7ItNeWSG3GSM3DtzhpGDfVLgzN40ibJrw9WyRPNMDjB4pJusodrSOhsCsVIEcHMATGbhwdd3ZWyqDg1enBiYr/0aw==;JNw2DmMxYjkdPBGP6Quiaw=="

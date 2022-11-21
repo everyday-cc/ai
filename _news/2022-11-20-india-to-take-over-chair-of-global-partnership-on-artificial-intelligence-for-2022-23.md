@@ -42,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "India To Head Global Partnership On AI (Artificial Intelligence) For 2022-23"
+    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair,"
+    publishedDateTime: 2022-11-21T04:13:00Z
+    webUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618"
+    ampWebUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://c.ndtvimg.com/2022-11/qk20estg_image_625x300_21_November_22.jpg"
+        width: 750
+        height: 472
+        isCached: true
   - title: "India to assume Chair of Global Partnership on AI for next year"
     excerpt: "GPAI is a first-of-its-type initiative for evolving better understanding of challenges and opportunities around AI using the experience and diversity of participating countries."
     publishedDateTime: 2022-11-20T12:09:00Z
@@ -71,6 +87,20 @@ related:
       - url: "https://www.dailypioneer.com/images/logo.jpg"
         width: 325
         height: 325
+        isCached: true
+  - title: "India to take over as chair of Global Partnership on Artificial Intelligence"
+    excerpt: "India will take over as the chair of the Global Partnership on Artificial Intelligence (GPAI), an international initiative to support responsible and human-centric development and use of Artificial Intelligence (AI), once it assumes G20 presidency on December 1."
+    publishedDateTime: 2022-11-21T03:29:00Z
+    webUrl: "https://www.siliconindia.com/news/general/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence-nid-220494-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 49
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/F3cKD95q.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "LdbilGLkQyYaXZfZDZd2WGITdMw0sYol5WUHWVM8mu1TDANzOroNhfJS8MTSfn5Q+rQQfz0nA/preW6TcFXExjops5DuiItTzDLtb4G075fgO5+q8Gre9aSxO17UJAzLhTQ9nKp/bx/Hz3EOaXbgPkxNXgpICbI632R4Okg+a64ixQ2uPWwvk0ttom9gYlvgYW/IkDhjt1N+Ra73IruqzYmaDEqC+J3SJKTEUtCruL4UzDdLxh71baa7fj7df+BkDHO6H3yR8OmLg/w9fVOib2eIV1J2XCk+ZNaDl6WW1PW48yZHOdx1ygZyHm3rvwhgS4kz2gLyLyRoIgOseAgq0wCybk0jCUvZnEMvfuWsDVg=;fBDI1GY7vo/6OBPXl42USA=="
