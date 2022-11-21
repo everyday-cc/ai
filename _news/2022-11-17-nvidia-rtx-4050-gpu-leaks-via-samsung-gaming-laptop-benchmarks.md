@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA H100 GPU Performance Shatters Machine Learning Benchmarks For Model Training"
+    excerpt: "Goodson, dives in as a few weeks ago, a new set of MLCommons training results were released, this time for MLPerf 2.1 Training, which the NVIDIA H100 and A100 also dominated."
+    publishedDateTime: 2022-11-21T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637ba77489c789ccd9817eec/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 605
+        isCached: true
   - title: "NVIDIA Blames Crypto Crash For Sagging GPU Sales But The Data Center Is Booming"
     excerpt: "The data center is NVIDIA's biggest earner, having brought in more than double what its gaming division did last quarter."
     publishedDateTime: 2022-11-17T14:22:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20221121pd202_files/1_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Nvidia: Data Center Growth But Gaming Profits Plummet"
-    excerpt: "Nvidia continues to be a global leader in high performance graphics cards and AI via data centers. Read more to learn more about the latest ER."
-    publishedDateTime: 2022-11-18T20:34:00Z
-    webUrl: "https://seekingalpha.com/article/4559148-nvidia-data-center-growth-but-gaming-profits-plummet"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "vu9y2aZOVDGetLUGHXmhyRta1jRY8OyQ85DS6IdSyZ6LzYUzTpUIo0fF5FdTttu01bVudYsWrfcPNCdObLuziJJ5EnG4RolM3y3giPO0VIOF2UJa8K88SLuc6gumkyIfc9Z3JU7sMgGqZHgwaStfX5jbve9AEp1OOg18dcFtPy7NeCZZ+Ctm2P/7g2ABnNhw0fkveM80YD393L/AlfOIMSWtUS/QpTDvvUKOxlmAXeW+Mf8CpRnXLCs/DnEpZXlSDDDB56QkW67q8EDlAQO6bHsAXp1UlELCK0D0fTxAynyV3LYfEYmNLr1wznN9x3zLT0KMYmVXFtKOiy6gOMvLDCQZ3MdXSA7sZWo4Wp95a6ppYy7QgmyPwJFmgqOEmskP1tyUmL8CbGnlEEdoKwFgftHipfsPbYawV8P2R0x+h7eZgRjpELsoIwo347y0VN4q1VOhpu010K8O2dh0Lvd/0DcMw0+xLdgqcZaM+NnjtBhwpOuMlZFS3wVBHsN1kdVWrwnuovfRv5YKKqrRnMZK9Q==;KDnQJRmY4u/ja+QsMzpw+A=="

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA H100 GPU Performance Shatters Machine Learning Benchmarks For Model Training"
+    excerpt: "Goodson, dives in as a few weeks ago, a new set of MLCommons training results were released, this time for MLPerf 2.1 Training, which the NVIDIA H100 and A100 also dominated."
+    publishedDateTime: 2022-11-21T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637ba77489c789ccd9817eec/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 605
+        isCached: true
   - title: "NVIDIA Blames Crypto Crash For Sagging GPU Sales But The Data Center Is Booming"
     excerpt: "The data center is NVIDIA's biggest earner, having brought in more than double what its gaming division did last quarter."
     publishedDateTime: 2022-11-17T14:22:00Z
@@ -55,20 +69,6 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/nvidia-rtx-4050-samsung-gaming-laptop-benchmarks.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Nvidia: Data Center Growth But Gaming Profits Plummet"
-    excerpt: "Nvidia continues to be a global leader in high performance graphics cards and AI via data centers. Read more to learn more about the latest ER."
-    publishedDateTime: 2022-11-18T20:34:00Z
-    webUrl: "https://seekingalpha.com/article/4559148-nvidia-data-center-growth-but-gaming-profits-plummet"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "jsuhm/ctrxk1wwjez4UzbaNV2p3t88PTAu3WR2Qy25chkFAEzfn8pVXevqWq2Qvntg+EmbeqnKZwqi8o08IgiQabfvGWc3t0RIa2sFMAZOXTikz8wChiP8bReneEtlfuF30w8iZJYDbQlcAhDOA0PfdXp/jumyqPj4WgcdiML7pRJYu2vxlZFuTvSm4wMlUZoeJSojb94M5TDTtcmc5Rp9ujUkZYKHjMb3N9FpprIqxHWJt1fKZ/s+BvEcbYbtcbzWACh3FGRGHj0Lc7WUk3vVl00PmTs0Pwe3nt9uooy+Pa95tJoV9lwHjz+vSJY7m/LVXcidBh2D6cR6Dsmotgm9sQzFP2X+iAl/wCmydJiOhbFYvLLECXqQpJlBRXA5klzccq99B3dxDXZPQK98mNZKxOYhsNTkLr4/UbB8Ej/+vwqETbDUv/a+UVQtd3w2lX40A+6/O0FuXOIx8Uy4VrB0W2ALLawM/JXSN3Bk5miwpRap6W8aeJjddCl7HKC4fVYHZeoOibio/W3KWxm5jHmQ==;XmITOSHdG+QE9s1mxD2PCw=="

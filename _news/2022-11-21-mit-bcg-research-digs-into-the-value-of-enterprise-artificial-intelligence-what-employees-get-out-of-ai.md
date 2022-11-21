@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/mit-bcg-research-digs-into-the-value-of-enterprise-artificial-intelligence-what-employees-get-out-of-ai/"
 webUrl: "https://venturebeat.com/ai/mit-bcg-research-digs-into-the-value-of-enterprise-artificial-intelligence-what-employees-get-out-of-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

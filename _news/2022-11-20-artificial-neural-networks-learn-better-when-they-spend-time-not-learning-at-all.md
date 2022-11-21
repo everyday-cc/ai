@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial neural networks learn better when they “sleep”"
+    excerpt: "Recently, artificial neural networks build upon the architecture of the human brain in order to improve various systems and technologies, from basic science to finance or social media. While in some ways they have achieved superhuman performances,"
+    publishedDateTime: 2022-11-21T14:36:00Z
+    webUrl: "https://www.earth.com/news/artificial-neural-networks-learn-better-when-they-sleep/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 39
+    images:
+      - url: "https://cff2.earth.com/uploads/2022/11/21073523/Brain-networks-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
     excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the"
     publishedDateTime: 2022-11-19T07:29:00Z

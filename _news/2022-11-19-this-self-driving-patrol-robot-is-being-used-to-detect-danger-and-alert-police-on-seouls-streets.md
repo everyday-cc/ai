@@ -27,6 +27,17 @@ images:
     height: 563
     isCached: true
 
+related:
+  - title: "WATCH: This self-driving patrol robot is being used to detect danger and alert police on Seoul’s streets"
+    excerpt: "The patrol robot, called \"Goalie,\" is South Korea’s first urban patrol robot. It’s designed to keep people safe on the streets, day and night, by communicating remotely with a"
+    publishedDateTime: 2022-11-21T16:01:00Z
+    webUrl: "https://www.iol.co.za/news/feel-good/watch-this-self-driving-patrol-robot-is-being-used-to-detect-danger-and-alert-police-on-seouls-streets-c4069e22-2278-41e8-b054-c2fec667a12e"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 4
+
 secured: "wdUgOHgJkvSzmB1c1QdQJpeIzoBZSQw8NlItw2aq+ZkKaB9FsCBwdbJifYI5hgKlr9LogP1JpcY22qmBejkoA/q1XU6zNvcFvjJjJ9keK6FzJJ28yj87aD9BabeBwYRIZ8a5r8kEGkKZdrzEzZCLRPstjVLLWUb6FSE83XhQIZwDGMudOmAuERecOzi2UBAbM54cZ9jIE8D0PQrEwl+AtXNFqrWTCkj8mxj8waBO+Bt0VftkTPa7rO6ZmujppbihHcATkJn5xXZ+HqHBPdyfjAMEo2P/MRThD1+ORSmiRFwQNNSFATaHHjz9Lt2hGQbXEc0QOQ9KYgAg0gmJTzafCVPBGXXviswfpWojDmXaLQc=;AmyE+6RAH8A8jJKsBzrW/g=="
 ---
 

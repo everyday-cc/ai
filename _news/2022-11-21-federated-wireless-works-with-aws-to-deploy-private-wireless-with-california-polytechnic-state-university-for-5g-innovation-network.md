@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T14:49:00Z
 originalUrl: "https://www.intelligentcio.com/north-america/2022/11/21/federated-wireless-works-with-aws-to-deploy-private-wireless-with-california-polytechnic-state-university-for-5g-innovation-network/"
 webUrl: "https://www.intelligentcio.com/north-america/2022/11/21/federated-wireless-works-with-aws-to-deploy-private-wireless-with-california-polytechnic-state-university-for-5g-innovation-network/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: intelligentcio

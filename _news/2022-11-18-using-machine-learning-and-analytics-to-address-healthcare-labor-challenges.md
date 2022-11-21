@@ -76,6 +76,15 @@ related:
         width: 302
         height: 301
         isCached: true
+  - title: "Can Artificial Intelligence And Big Data Help Predict The Future? Read how FiscalNote (NYSE: NOTE) Uses Predictive Analytics."
+    excerpt: "In complicated multivariable environments, there is no such thing as certainty.  Just like the outcome of a soccer game can be impacted by nearly every touch of the ball on the field, other multivariable environments,"
+    publishedDateTime: 2022-11-21T12:42:00Z
+    webUrl: "https://www.benzinga.com/markets/emerging-markets/22/11/29803511/can-artificial-intelligence-and-big-data-help-predict-the-future-read-how-fiscalnote-nys"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "fzUm6OuRDX+6eernvBbCJ/gEbTImC86Z9OFvWELkyEII1RQIktputUbns+CIBjGRUU70uLDSvOAhxlvlzv+dYajNWTV3IPZ891cZY0i/IoCGS9BN2SpW3XEQhXRWUSgQhFwtSSyuKhXLwoKTEwLGggT+8QxgQmOMmwewkgOa1Uhm/JwTHR6Ljas23+qV9MbQ2F368x68d2UOUB4TduGNkjaxQfgWdK8a5NETxGcocylR9LQ7a+yLiqP9HWgdbHnqPlwzm1s3QTu/2NtB1Plb7AlJr5go8aDKjJ9pfCvEK5AjypJFHihKMiBAx0uykLCLmDUounLqr8ohDuWm9QBgRYitjxzfPzpG2M1uVOtKIsQ=;lN4sBbFSvr4TXKYAXk7snQ=="
 ---

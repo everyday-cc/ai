@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Launches Infrastructure Region in Switzerland"
-excerpt: "AWS Europe (Zurich) Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more ..."
-publishedDateTime: 2022-11-09T13:11:00Z
-originalUrl: "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html"
-webUrl: "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html"
+excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
+publishedDateTime: 2022-11-09T08:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "16PEMAPVzRDIFZ94dP+55MRrMuoLczNSCuEZoDEWzlaETEPZWRZxoOiQ+HmLB4E2l3keSWexYjBbRGXysxtlcanhX5/Vmdbr6f1PfbzyAGhYWHA+paY8MUWngl/qJkTf8xrdMBIZumOSLe63iCY319z8ZmUkqmghxdlz7Xp4Jlffwu6Y9bpseBjas7I8WwDqEUC/is3xAo51yyozqFnragzI8pSbywulqCE2tkjMXqF/rXOG05aWftvo0AteBttzC2rz9T/Xv1el1IgQ56uSdAO0YwAZWfkY0n+3Q36jeGYobpSeBTEub1dGKvBZVD6l8RUCguXLnmSBKWwuj4yJZ9FTAVVJhpaZX8a6SbusHVQ=;5+CsZ3Q03/lJ3wZFs0OKFA=="
+secured: "WI6k4qznyTIwkbyX8gko6wygjuvDmxBM2PgwL5BbRKvOi35r8YWFootOHcj6BR0Nihi7dLg1fXBhMrgKxw0q7UClpUIiPkQHWIXV1kOAXxf+/B+lKQqeN2CwldABde0zdsNEOJk3gE+9E2IGA6OUHycA44b46CVp1Fz1B7kK11taiaskt0RfAMA1ydIjhk8q5TTDWDLJhglzl4T1nhZoNXH/BJmdxj3qRGHw7Lxbob40ZSzFWzkRmQJU9ptEYpUi8MOS1KiHjVXB4ieiyCc6yFY0Xj/GDymOqa7AtKZtZ5vuNmQpOvq5qL3EghRkRLCo7l5vlpcrIQRBHgmz4EI5yqES7GFxpTT6xdQNHjOUmMo=;ccqxc4vRYDAoDaP9X0yAKw=="
 ---
 

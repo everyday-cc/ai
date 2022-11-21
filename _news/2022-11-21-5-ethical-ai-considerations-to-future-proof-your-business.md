@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T13:40:00Z
 originalUrl: "https://www.openaccessgovernment.org/5-ethical-ai-considerations-to-future-proof-your-business/147827/"
 webUrl: "https://www.openaccessgovernment.org/5-ethical-ai-considerations-to-future-proof-your-business/147827/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: openaccessgovernment

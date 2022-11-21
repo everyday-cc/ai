@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T12:00:00Z
 originalUrl: "https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/"
 webUrl: "https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/"
 type: article
+quality: 51
+heat: 61
+published: false
 
 provider:
   name: Wired
@@ -19,6 +22,22 @@ topics:
   - Facebook AI
   - AI
   - AI Ethics
+
+related:
+  - title: "How Artificial Intelligence Is Shaping The Future Of Ecommerce"
+    excerpt: "How Artificial Intelligence is Shaping the Future of eCommerce . November 19, 2022 by mark allinson leave a comment . Artificial intelligence"
+    publishedDateTime: 2022-11-20T07:38:00Z
+    webUrl: "https://menafn.com/1105208488/How-Artificial-Intelligence-Is-Shaping-The-Future-Of-Ecommerce"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/20/R&AN_bd74aimage_story.jpg"
+        width: 800
+        height: 435
+        isCached: true
 
 secured: "QByoxhBgxg8u2qTAfG5ekUPlVVSuR+Cg1b7oyJxsW83DKxFjIKoGYFOt1KErcfRypbiUxwdirnitRX6HuFVTwLHO+Ql4lfajyF49Y4zB2WBBd5pvrFC70lZzxZf/3ZYu1mbD6NJozLHLXR706sXCaA6K4tgBXNLaRz7EOgXW2Erje+jIRz3+h4uRdT7M9Dw6b31f1srs6TUN6AQblk7SqRHuBK7vW8IyNTKAWxG3bhoTHnZThOr8JozL77eKO/arIVE5EQ0HEt8zimECkRA9oDW0TI6TZjGBJpaMzHSTkmEoa/1FOKPt+U30wxM8eRH3fTi1t9mWg+FEeRaMf8UZGNbnWkS5yJ1PMYhp8rWQD+NciKniI8BxaZr/+BM6qEcJ5RaOgw6Zr0RF4oAaT2Bag9Anf0FHoT8IQM+8rH3GqFKQPPnBY7PJXMmWb+qbQnH1CxYK09kxzk4zdFQ6b+7g5wSvyjG7TuDpTvDDWqOGHSmUChjLMANF5CAo1FERleFlqqhDFOO7T9bqCdRaB1+oYg==;Tipc8Nt6KwAwljoJ2zU97w=="
 ---

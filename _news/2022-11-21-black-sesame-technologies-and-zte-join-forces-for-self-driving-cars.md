@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,31 @@ images:
     isCached: true
 
 related:
+  - title: "Another Smart-City Utopia Proposes a Shortcut to Self-Driving Cars"
+    excerpt: "Billionaires and governments are expected to devise more than 80 smart cities by 2050, promising full self-driving and more. Might one lure you?"
+    publishedDateTime: 2022-11-21T15:50:00Z
+    webUrl: "https://www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/"
+    ampWebUrl: "https://www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
+    images:
+      - url: "https://www.motortrend.com/uploads/2022/11/VIEW-06B-View-from-Building-Terrace-Night_Update-Dec.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "This self-driving car technology stock can jump more than 25%, Goldman Sachs says"
+    excerpt: "Goldman initiated coverage of the stock with a buy rating, saying the maker of technology for self-driving cars can gain market share in a competitive market."
+    publishedDateTime: 2022-11-21T11:34:00Z
+    webUrl: "https://www.cnbc.com/2022/11/21/this-self-driving-car-technology-stock-can-jump-more-than-25percent-goldman-sachs-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 29
   - title: "Waabi’s self-driving technology set to be road-tested, Raquel Urtasun tells Globe and Mail, Forbes"
     excerpt: "The CEO and founder of Waabi told the Globe and Mail that a handful of trucks are “ready to be deployed” with human drivers and engineers on-board for safety. In Forbes magazine, Urtasun – a professor of computer science in the Faculty of Arts & Science and faculty member at the Vector Institute for Artificial Intelligence – said that Waabi will train the self-driving system to navigate any number of virtual scenarios using a simulator that harnesses the full power of AI."
     publishedDateTime: 2022-11-18T20:39:00Z

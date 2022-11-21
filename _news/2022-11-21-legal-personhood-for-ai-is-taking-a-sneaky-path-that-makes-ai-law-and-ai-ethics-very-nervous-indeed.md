@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/21/legal-personhood-for-ai-is-taking-a-sneaky-path-that-makes-ai-law-and-ai-ethics-very-nervous-indeed/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/21/legal-personhood-for-ai-is-taking-a-sneaky-path-that-makes-ai-law-and-ai-ethics-very-nervous-indeed/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Forbes

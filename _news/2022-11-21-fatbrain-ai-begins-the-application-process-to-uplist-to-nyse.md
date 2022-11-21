@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T13:39:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57642193-fatbrain-ai-begins-the-application-process-to-uplist-to-nyse-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57642193-fatbrain-ai-begins-the-application-process-to-uplist-to-nyse-200.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Finanznachrichten

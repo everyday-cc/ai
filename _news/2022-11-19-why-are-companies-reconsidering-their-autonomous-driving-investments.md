@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company"
-    excerpt: "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate"
-    publishedDateTime: 2022-11-17T00:31:00Z
-    webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=mw_latestnews"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://images.mktw.net/im-315600/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "3fg7FpvfvcQYFxobLrxgnIMzPXsPfwzkdvs3JG85OmIoEUlbEmlsbHtw332kmYzVmfhAX918K8nClWkBh8HjLauXygXOrS3ySta//fv/QJ47Hk91lF0ITx4kKaQlVlSIVKPKpAwAgDZOs7sSBUm0OfEciDuuyS5W+wiT5H8ot7eTTNP+0pu62Zm2BhT58jGmcOJSMSCAqTYMJjU6cw2kC1A9F5WC/Ntkzo6/ifClZyPEo3rhyoLP35xp7BfCEUMlXGBAWc956XNZYAwpDb0jcHP/ec1ADDmwDNdaMDNNxSfy0/TJaZnpv/+f7t15vbS1KNmlc/UrwEXyixG5hRifHqPDPiFLesAte/OiFK8tIQPtdtGWhus+Ahu9v97n9uVnd8SU3NAD2v9m8FhtpzXa6fmLoZJhZRxVLmLn+BKSkokUkG+RdGjkj+VpdIZXmwcNrcWb9XBdKFDqrLjvJiWs+8h1GnX+1rB486Zg/TCP7DVEe+BSdOHRRpXEiiOK44x2XZ5OiprzmpuKU9DY/AiRMg==;KiGuExJT4+9Zkg7+C+DvYA=="
 ---

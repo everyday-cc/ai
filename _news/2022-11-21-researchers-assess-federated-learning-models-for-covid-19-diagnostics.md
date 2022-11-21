@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/researchers-assess-federated-learning-models-for-covid-19-diagnostics"
 webUrl: "https://healthitanalytics.com/news/researchers-assess-federated-learning-models-for-covid-19-diagnostics"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics

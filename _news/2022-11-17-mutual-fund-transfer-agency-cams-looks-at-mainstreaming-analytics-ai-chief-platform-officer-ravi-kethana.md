@@ -76,6 +76,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
+  - title: "Can Artificial Intelligence And Big Data Help Predict The Future? Read how FiscalNote (NYSE: NOTE) Uses Predictive Analytics."
+    excerpt: "In complicated multivariable environments, there is no such thing as certainty.  Just like the outcome of a soccer game can be impacted by nearly every touch of the ball on the field, other multivariable environments,"
+    publishedDateTime: 2022-11-21T12:42:00Z
+    webUrl: "https://www.benzinga.com/markets/emerging-markets/22/11/29803511/can-artificial-intelligence-and-big-data-help-predict-the-future-read-how-fiscalnote-nys"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "AZHLPu8IJGinzZcvZNGoTUhpy/VdU3ZhYmPhdOpiYITrtYSJjxKbixOb99ZTuMaL4I5xW1xJKrzcuZXSf+ZNd7MHHBJh7LKKpQo4mSyqT/oA4t+M5Ib7nSb59DPmZ2lvC8ZSAx/DQupUY6b3GAjW+8vD6yPtCUAnxRsdZ3cdMZiNkeoQgGRxA0hbAGmtusbS7g2bJ2tsXsw2HTxDQFahup1MUz2uSPr+buOqg1iD1HpGkPv9Aa7tQ+2qS24cbfPJyDdB7+3DekoJGc8s9C3Wq2iXoGODn41N7vqg2cjkpfAgGIwHKWKIZdvecUb9sDGR39AdV3HBmzpbrm0iyBJsaNZUu+VssnMyo+lupkP72fQ=;IyXkqKbxmfDJa+KBKgI70g=="
 ---

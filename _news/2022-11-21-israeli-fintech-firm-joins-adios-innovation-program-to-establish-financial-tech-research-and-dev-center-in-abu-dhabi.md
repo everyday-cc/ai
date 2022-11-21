@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T12:29:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/11/198898-israeli-fintech-firm-joins-adios-innovation-program-to-establish-financial-tech-research-and-dev-center-in-abu-dhabi/"
 webUrl: "https://www.crowdfundinsider.com/2022/11/198898-israeli-fintech-firm-joins-adios-innovation-program-to-establish-financial-tech-research-and-dev-center-in-abu-dhabi/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Crowdfund Insider

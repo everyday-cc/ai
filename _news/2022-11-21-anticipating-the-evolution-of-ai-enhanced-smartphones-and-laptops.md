@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-21T12:00:00Z
 originalUrl: "https://www.technewsworld.com/story/anticipating-the-evolution-of-ai-enhanced-smartphones-and-laptops-177416.html"
 webUrl: "https://www.technewsworld.com/story/anticipating-the-evolution-of-ai-enhanced-smartphones-and-laptops-177416.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2347520-metas-galactica-ai-ca
 webUrl: "https://www.newscientist.com/article/2347520-metas-galactica-ai-can-write-scientific-papers-but-is-it-any-good/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1080
     height: 720
     isCached: true
+
+related:
+  - title: "What Meta’s Galactica missteps mean for GPT-4 | The AI Beat"
+    excerpt: "Meta’s missteps over its Galactica demo and Stanford's debut of its HELM benchmark followed weeks of rumors about OpenAI’s GPT-4."
+    publishedDateTime: 2022-11-21T15:00:00Z
+    webUrl: "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/DALL·E-2022-11-20-10.35.38-the-thinker-statue-in-a-bright-galactic-universe-.png?w=1200&strip=all"
+        width: 1199
+        height: 872
+        isCached: true
 
 secured: "bsEr7vQDLGa70GY0pkcmk8BrD9F9FiXJLO06p2YCSp9iOE37Y9swqDG182/GHEiWWczSlDkN9gE372eVoVraQSV9OBM1amD5A7gRBVKQD4ywz2RZBVZOL7QgB7S5FvpLTGLB6vNqMKtnmOt2qPLF77KCFgBJgoe/qIF7+tz8K4MixWHa9f5ozfirx0s7wGpTBTYkwpxdx/gw59PNRHvSVPo0BFwnMTUjcCdpKw0ZwgNwThnDXUfzSFzpygGVOZt3/hWV5xcQXBIn7hqCv59Z1SX3IIX5ciW8sQPTqqzs3jm1PP5gy2qBBvwQfaGl2w7if7v2jnKES5ZoYrcRiu3obd1JmLgnbXDifvRv/OCjb0gyrEeNWNHEiNXjfSW7gVv1XtE2Cmj7bwzF78LbRECgHJhoXaOb9aBRBGAaZGY7hu3B1jD6zdQdNiwq7Y10/FByJEKRSlBoy4Lt1bxO0cu+PgczOzsKpahmRhQACDqzaSUJWeg3MrAQCyTYtl3vLXOVKrrz75YW6mKnxAmrVfmGxw==;SUncc1rS6XZXEbDV48TQPw=="
 ---

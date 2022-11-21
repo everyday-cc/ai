@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Mint
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
-    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
-    publishedDateTime: 2022-11-21T08:26:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 79
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "India To Head Global Partnership On AI (Artificial Intelligence) For 2022-23"
     excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair,"
     publishedDateTime: 2022-11-21T04:13:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T13:12:00Z
 originalUrl: "https://www.embedded.com/how-augmented-reality-could-improve-cnc-machines/"
 webUrl: "https://www.embedded.com/how-augmented-reality-could-improve-cnc-machines/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Embedded

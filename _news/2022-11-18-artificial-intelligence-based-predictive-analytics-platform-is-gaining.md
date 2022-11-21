@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-pred
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 302
         height: 301
         isCached: true
+  - title: "Can Artificial Intelligence And Big Data Help Predict The Future? Read how FiscalNote (NYSE: NOTE) Uses Predictive Analytics."
+    excerpt: "In complicated multivariable environments, there is no such thing as certainty.  Just like the outcome of a soccer game can be impacted by nearly every touch of the ball on the field, other multivariable environments,"
+    publishedDateTime: 2022-11-21T12:42:00Z
+    webUrl: "https://www.benzinga.com/markets/emerging-markets/22/11/29803511/can-artificial-intelligence-and-big-data-help-predict-the-future-read-how-fiscalnote-nys"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "D2L2POFyfAHO0HJeX3nryXnt+XPD02U6iK+tlb0yWkUiYvpoXK4cqE8LjitAOJNjK44jDKczgIfVKjsTiBzMz2cxqbH6VlkGFXwWEu6so8RynoXzu4RQmbulAC+Kk35pgIZP7ha6zdCjfv9PDKXLgz22PjBu7M/DYb7SHnP3y64UdGRaKZOW0iw55vkJGIMmofBa+5eTcsslXS1U6Pv9gvHt4gHcqBJiU0ZdSTT8Sp7PPnn1xXjAD8z3hJRSwBGws++/7/JMALEq5GAlHHIyPrWc8XNgf+wzYBVBOtb/SS2/dEHr/VpDMEwCe4Mo5M2kExDsUl9sj5zTuxiHHqklVH0hKBCFx9edRIwQiVHZR7zRubHYHH024z6QLUt7+bSRNwuBPahHrtn+EXNM72ZeomAeQ4hsVbmjQOkVuuU1r3eQafL+gTchs3N0qNETJuUS3new/upNY+juxkd3/Ry3E0Fd7KA7IDsJkRoDlbURxxhSgClcWvmMTgr617AK+TpX/0K5dNnFbNdYL3pMcks+bg==;fLCfzKR7idE84dCENwx0YQ=="
 ---

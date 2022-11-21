@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseone.com/business/2022/11/defense-business-brief
 webUrl: "https://www.defenseone.com/business/2022/11/defense-business-brief-november-18-2022/379963/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, Lockheed form new cloud collaboration pact"
+    excerpt: "The world's largest defense company has both internal initiatives and work with military customers in mind for this partnership."
+    publishedDateTime: 2022-11-18T00:47:00Z
+    webUrl: "https://washingtontechnology.com/companies/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379867/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/11/17/Cloud_Computing_IOT/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Lockheed Martin, Microsoft announce landmark agreement on classified cloud, advanced technologies for Department of Defense"
+    excerpt: "Artificial Intelligence/Machine Learning (AI/ML), Modeling and Simulation Capabilities ... Digital Transformation:ï¿½Microsoft Azure will power Lockheed Martin's digital transformation journey, accelerating enterprise-wide productivity gains to deliver ..."
+    publishedDateTime: 2022-11-18T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/w29785718/lockheed-martin-microsoft-announce-landmark-agreement-on-classified-cloud-advanced-technologies-fo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29785718"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785718"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
   - title: "New classified cloud partnership to speed up Lockheed's work with DOD, company says"
     excerpt: "A new partnership between Microsoft and Lockheed Martin that gives the latter classified cloud access will ultimately allow executives to more quickly and cheaply provide solutions to Defense Department customers,"
     publishedDateTime: 2022-11-18T21:18:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T13:01:00Z
 originalUrl: "https://electrek.co/2022/11/21/tesla-massive-order-next-gen-self-driving-chips-tsmc/"
 webUrl: "https://electrek.co/2022/11/21/tesla-massive-order-next-gen-self-driving-chips-tsmc/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Electrek

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and Microsoft team up to build massive AI cloud computer"
-    excerpt: "Nvidia announced a collaboration with Microsoft to build a \"massive\" cloud computer focused on AI. It will reportedly use tens of thousands of high-end Nvidia GPUs for applications like deep learning and large language models."
-    publishedDateTime: 2022-11-16T22:24:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 106
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/nvidia_logo_hero_1-800x448.jpg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud"
     excerpt: "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ..."
     publishedDateTime: 2022-11-18T17:53:00Z
@@ -100,6 +84,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
+    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
+    publishedDateTime: 2022-11-21T08:26:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 79
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
     excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
     publishedDateTime: 2022-11-18T19:54:00Z
@@ -154,20 +152,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/cb5jam/article66147933.ece/alternates/FREE_1200/2022-11-08T001316Z_223228154_RC2BHX9HJ0XI_RTRMADP_3_USA-CHINA-CHIPS-NVIDIA.JPG"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Lockheed Martin teams up with Microsoft on classified cloud services for Pentagon"
-    excerpt: "Under the terms of an agreement announced this week, Lockheed Martin will become the first non-governmental entity to operate independently inside the Microsoft Azure Government ... artificial intelligence, machine learning, modeling and simulation ..."
-    publishedDateTime: 2022-11-16T21:48:00Z
-    webUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 64
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2022/11/221116-cloud.jpg"
-        width: 1680
-        height: 987
         isCached: true
   - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
     excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
@@ -234,15 +218,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Nvidia and Microsoft are building a supercomputer in the cloud"
-    excerpt: "NVIDIA is also set to utilize Azure’s scalable virtual machine instances to research and further advances ... Megatron Turing NLG 530B provide the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video or audio."
-    publishedDateTime: 2022-11-18T14:41:00Z
-    webUrl: "https://www.techradar.com/news/nvidia-and-microsoft-are-building-a-supercomputer-in-the-cloud"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
   - title: "NVIDIA and Microsoft team up to build an AI cloud computer that probably won't become Skynet"
     excerpt: "NVIDIA and Microsoft's AI cloud computer probably won't take over the world. What could possibly go wrong!? Well, probably nothing really (maybe?) Today, Microsoft and NVIDIA announced a multi-year partnership to develop a new type of AI cloud computer for Azure customers,"
     publishedDateTime: 2022-11-17T09:43:00Z
@@ -266,34 +241,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "Microsoft, Lockheed form new cloud collaboration pact"
-    excerpt: "The world's largest defense company has both internal initiatives and work with military customers in mind for this partnership."
-    publishedDateTime: 2022-11-18T00:47:00Z
-    webUrl: "https://washingtontechnology.com/companies/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379867/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/11/17/Cloud_Computing_IOT/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "IBM Collaboration Looks to Bring Massive AI Models to Any Cloud"
-    excerpt: "Training machine learning foundation models with sometimes billions of parameters demands serious computing power. For example, the largest version of"
-    publishedDateTime: 2022-11-18T21:45:00Z
-    webUrl: "https://www.datanami.com/2022/11/18/ibm-collaboration-looks-to-bring-massive-ai-models-to-any-cloud/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2022/03/shutterstock_1111144997.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Nvidia and Microsoft team up for ‘most powerful’ AI supercomputer"
     excerpt: "The deal will see Nvidia contribute tens of thousands of GPUs, networking technology, and its full stack of AI software to Microsoft Azure cloud’s supercomputing infrastructure, which already utilises ND and NC-series virtual machines trained to work on ..."
     publishedDateTime: 2022-11-18T12:21:00Z
@@ -330,17 +277,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Lockheed Martin, Microsoft announce landmark agreement on classified cloud, advanced technologies for Department of Defense"
-    excerpt: "Artificial Intelligence/Machine Learning (AI/ML), Modeling and Simulation Capabilities ... Digital Transformation:ï¿½Microsoft Azure will power Lockheed Martin's digital transformation journey, accelerating enterprise-wide productivity gains to deliver ..."
-    publishedDateTime: 2022-11-18T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/w29785718/lockheed-martin-microsoft-announce-landmark-agreement-on-classified-cloud-advanced-technologies-fo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29785718"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785718"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "Luaun8S5sHCpXIAtsX4ZIajdPhGCLNpVKgPm2DTjkbOKgq+Ri15wNnMOfsGTlUGjHnzTFaHTUglsxVSFpheFF/E7WGRBtgD1zYhf+V8TiYWgTtCsLGyBFL0Wwyw4MApNoGJZZ7ySjvnriAfhagGyCnB6KY6ECMBN5CLS0gPWS/sEMHMBYjWd/+/uN94sv6s+jQcRQ3r5dmwop/Lq+zstw8K9Q/wvQJDjFKBGS5ceaUfKhXDKiSCO9/uWb+GnSygj186LylvP10j5k5k7/8liwcPj/0lGIDobJgMU7MXyYY3PRbycakVSxmmKUCAieuthsC9GE6Ut1JgbM52YfRbG9If4riERsmKZnpFsMDNjhSg=;SO/g91u19dA9ARNgID/XkA=="
 ---

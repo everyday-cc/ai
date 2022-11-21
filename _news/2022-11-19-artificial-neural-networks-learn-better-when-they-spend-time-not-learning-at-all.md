@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-11-artificial-neural-networks.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/brain-heat-sensor-remote-control-of-core-temperature.jpg"
         width: 1200
         height: 1000
+        isCached: true
+  - title: "Artificial neural networks learn better when they “sleep”"
+    excerpt: "Recently, artificial neural networks build upon the architecture of the human brain in order to improve various systems and technologies, from basic science to finance or social media. While in some ways they have achieved superhuman performances,"
+    publishedDateTime: 2022-11-21T14:36:00Z
+    webUrl: "https://www.earth.com/news/artificial-neural-networks-learn-better-when-they-sleep/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 39
+    images:
+      - url: "https://cff2.earth.com/uploads/2022/11/21073523/Brain-networks-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
     excerpt: "\"Off-line\" periods during AI training mitigated \"catastrophic forgetting\" in artificial neural networks, mimicking the learning benefits sleep provides in the human brain."

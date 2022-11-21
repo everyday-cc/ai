@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T09:34:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29800270/asia-pacific-fintech-as-a-service-market-report-2022-demand-for-tailored-and-customised-financial-"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/g29800270/asia-pacific-fintech-as-a-service-market-report-2022-demand-for-tailored-and-customised-financial-"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-
 webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Wall Street Journal
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company"
-    excerpt: "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate"
-    publishedDateTime: 2022-11-17T00:31:00Z
-    webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=mw_latestnews"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://images.mktw.net/im-315600/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Why are Companies Reconsidering Their Autonomous Driving Investments"
     excerpt: "Autonomous driving was among the hottest investment themes until a few months back. However, of late a lot of companies are rethinking their autonomous"
     publishedDateTime: 2022-11-19T11:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105208488/How-Artificial-Intelligence-Is-Shapi
 webUrl: "https://menafn.com/1105208488/How-Artificial-Intelligence-Is-Shaping-The-Future-Of-Ecommerce"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 435
     isCached: true
+
+related:
+  - title: "This Copyright Lawsuit Could Shape the Future of Generative AI"
+    excerpt: "Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works."
+    publishedDateTime: 2022-11-21T12:00:00Z
+    webUrl: "https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
 
 secured: "EC+xhe68Yh7pQEHW77SsjcskLGBE0lI3cpkaFG9cMIC2H5z/Lrd5FKSHHgVFUKf67Tw/QGzVvPDNII2UWUzzWfeOY8w1m/Km2bEk9ofISpRdWdae7sHj2gMPEqU0ElWv9zTbTzBMbQP8TDMuwyIwMhLVreCwpqgm9/5lNqeRmMXADIwsL7Z7vbTeefNVsYxCwhlfkT/50nGcMIv0hO5IjVpXPvwIhSarfylURJlvQZb2eToBQi77Et4zcgax0dG8MZ82Torn+XghmP+pP6w7zuqHyFg3tOWVyI9UemJ+4MoG8kjjGWsGcWt1xN5mq+wJSe3X22q7gBNTX0ebkSLPZ7vFrEgpe96G9IPMRcbhGDZzl94I5NjGgs+RBKz/yE4SsusrIs6TqEcl0Oy0x/2mjVxToR3+gXz9wFP4q1/GQIzD0oD8GptMepnJtDDyCVxJlFHO/0BsqlBv3apAuqH1r+hXTZQbqJ06swMu2s6G4RaoIB2Cvzi9myaU1UWqrGxDJvPwOPJXM94/t1EjqTicuQ==;Zc4jL7X+iz2f6HFmqCq43g=="
 ---

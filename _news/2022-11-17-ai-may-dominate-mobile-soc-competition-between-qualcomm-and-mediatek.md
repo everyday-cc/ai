@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Qualcomm's New AR Chips Point to a New Generation of Smart Glasses"
-    excerpt: "Glasses using the AR2 Gen 1 may be a lot faster at using cameras for scanning and depth sensing: Qualcomm is promising faster AI for things like object recognition and hand tracking than even the XR2 chip found on headsets such as the Quest 2, but using ..."
-    publishedDateTime: 2022-11-16T23:15:00Z
-    webUrl: "https://www.cnet.com/tech/computing/qualcomms-new-ar-chips-point-to-a-new-generation-of-smart-glasses/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/qualcomms-new-ar-chips-point-to-a-new-generation-of-smart-glasses/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomms-new-ar-chips-point-to-a-new-generation-of-smart-glasses/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/resize/b5852af6c05e9069d8cadd8877545a0317e52a70/hub/2022/11/15/1ee0b984-9cc3-49a1-b7ac-80b7fdee942c/snapdragon-ar2-gen-1-platform-and-glasses.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Qualcomm Teases Powerful New Snapdragon Laptop CPU, Claims AI Processing Will Redefine PCs"
-    excerpt: "Qualcomm says that ARM is the future for Windows computing thanks in large part to its dedicated AI processing."
-    publishedDateTime: 2022-11-16T22:01:00Z
-    webUrl: "https://hothardware.com/news/qualcomm-claims-ai-processing-will-redefine-pcs-teases-new-laptop-cpu-core"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 29
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60136/content/Snapdragon-AI-compute.jpg"
-        width: 708
-        height: 410
-        isCached: true
   - title: "Qualcomm surrounds all platforms with AI technology; AR and PC applications receiving attention"
     excerpt: "The company has announced the S5 Gen 2 and S3 Gen 2 sound chip platforms, as well as the brand-new... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time ..."
     publishedDateTime: 2022-11-18T07:05:00Z
@@ -85,6 +55,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Snapdragon 8 Gen 2 Benchmarks: Qualcomm's New Flagship Android Platform Tested"
+    excerpt: "Finally, all of this new tech is built upon TSMC's bleeding-edge 4N chip fab process. And with that little tee-up out of the way, let's get to the benchmark numbers that you've come here for... The Snapdragon 8 Gen 2 is the new top performer in the venerable Geekbench test."
+    publishedDateTime: 2022-11-21T12:44:00Z
+    webUrl: "https://hothardware.com/reviews/qualcomm-snapdragon-8-gen-2-benchmark-preview-first-look"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 0
 
 secured: "MBINoDw/wdvCOyQq0WTowTpJf/LIayQVZ8TnOqRzk3KpnFtE6+c4O+fyQWuf2xP186l2Bb/KabABW1XkHX9yZ1BUgIWnLOFXqPTBYsdLM0nHDMtKRyA5kbBFiq/fPFNaY3UTsTNdQz9aUqvYsKMeeyN5QJ5Xs/ZORbnbFbuhQcrafPxFovDfb/ucO2I5oIeUWlDR8Pcv1TiDMG4s53Kn9isivVWTAPu/zzHI7U+WSHv3dUVA4TKY7TiLwoD00ZKmVcAbKA9uWS0wX+nzoZ87LuiepM+D8ajOnWoUartPAajrD/nYXDwJZkGU8maGxd5bXNwsn+uGR42rZvp7Z+xoQBzeTnN7KEnrsUgpcaBzY6XLjokC6IW2P8JH9a7ALNZOAPgafimliWGF6SpuYGassijJmmmpbrsHE69vXtSMoxRaJIAkz8C3b/bQN0Pc3NjZYvfRI0Is5OZl3MFME+0fZb5EeYwVNod2IE0O9nHQFV/ThUaBV0cEjB/pIDNA4N+yTJjLC/OHHIt9AVZIUEhq/Q==;loVweArfUEIt2p33rNQuBQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T13:05:00Z
 originalUrl: "https://www.chemistryworld.com/news/gigantic-database-of-building-blocks-will-help-artificial-intelligence-uncover-new-organocatalysts/4016574.article"
 webUrl: "https://www.chemistryworld.com/news/gigantic-database-of-building-blocks-will-help-artificial-intelligence-uncover-new-organocatalysts/4016574.article"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Chemistry World
