@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "Dialogflow"
   url: "https://twitter.com/Dialogflow"
-  followers: 12086
+  followers: 12085
 
 size: 11-50 employees
 yearFounded: 2010
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ADD-rvsS5z4"
 
-secured: "ZrBi1TMkKJlGpqPkG/UT6uyueFvg9qGkvwrn/nO+89jK3OxlQNxIxPvpvNq/3ctkEaoZs8j0H0sJlxTwpkY1cF9vvLlMTqz2nLpZyVE/NLW5yOS5EDidqOAYEGFqvNPIIqvUWJpFdtZzXP603B2gSjtaEYLo000AhNblorhYeJ/3b8WG7KyvtxiLT1eMjyYs+i4F3W/KXvlSc4A27ilDzQgPD0mTjj4Zvlys9MRKBNdo5xX0fwTdWfucWne5nsEdvcyb1G07lQV30m8ztEThXCBCJBHHbkBNzHSu2le7Mm6RJf3Kr7hpG7fkdCinpJrmS+K5Ns0fhj/YPMnwjbrtP4pWfXYug3BpkkVsV30kgivv5BtDj2JdLiAUtr3WgGoEJ2W5mV/x1gOh0M8X01yG1jWOcTE0Bcclpw1p0qFrdwA=;4eZEMkhjNpAlrnUKsPv+fg=="
+secured: "0ch+qu+MZQYcFWG+Q90oUcGRGpUurlOZ1cnmmBVHLXVkkc68k4vg61XYAWiKNi6TPtKSfjCWXbDJYYE9a4fK1Fla9J9vZsoYJfA8mA5MUrOV+G2gdyV9t84C9clnMIpEGegI/qigq8pp63TyHViZsDDeIsd4VDzLTYGkux8xlmoRV7SeymifN2xbnUmjYhY2XICU7noB77kM61R/jkJmFzu65Pe4r6Ab954N9tSA8I+49d3vjxoSH2DcKLaj7To4BtD8W1I9Hn1L52OUkxIiow8RxYrkW1f3jbjTCRUv9/FdM2GAdMdNslJHu3K0DYTke9XstrkNG8LgLOV4SkbQJ9pZt/hvIY86FSCcImk7XRO3c5eUuNF9YwBvMA6DQdaDMGIlVbjfFIkYiOQo+4PX+sHRSMLBplgU02/Fupse3kk=;kXqlFzup/xesYuxrqwqqiQ=="
 ---
 
