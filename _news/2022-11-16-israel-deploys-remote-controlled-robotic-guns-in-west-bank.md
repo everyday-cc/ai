@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRW2NDDFPYI63MEMHTRCEYDQLE.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
-
-secured: "Chi5bbTeFdVgl6sg0WkjUo8/QQE88WUidjtBfR+xP/k/rw6ioR7MaInIMaLH3OTlBYs23kD003OmSnkWr0RI3eQ6bVTxe+2IcCalvtvxYKAPuHs23OLo/ZJE+mhAeF4wGu9F2mplCdDCktWolVI4Bv16Eknsqn/ch8r9U/pt/yKvQ7U47E+jN0jQ9tpkfNfBbHYmkdvvq7I7RDFYH5PUdxQ5zEgEHMuXJKp6gDzqDZqi1Ea3N6GrF/x8JBERDS8WjKoQS2bDajZNciDYMr+BjvXOZppOW2H+w/veiIRJdA0HLbPiXLsAREXkLKuYu08atOBw0qL6V0veQBoyuLRECbEOfWzDrDoKNT13WdKY8Lg=;S7uMQVR7s4t5xVnqMXHErQ=="
+secured: "uwy5lcy71Rc2OdUfdiqrmrXZSRpEmkU5E/lrdTzhwywN1agZEzRk0qm+GW4sJJvxDKsrREza0u4BwMgtyyMdLEnsUWO5+UAXHDleZegp5Kyx6Fq/s/sjJRlUtpD5CAEvh7GmP4qgJlTceBR8q2txZlk2oXjbPf9nFdniCUmsWuTY4qcBj3d6t1P5QmW/UPf5x1KKdN5Q4Mi6mrU11Jl8C0Xb/EFaE77iNrUcPhLkmjqkrGtAEMPalGf+8dEsOVH/R4v6DFheKNktdoDH9ZtXOby7GQbxL+7GVGWvSRHeLsGIu7Vqk29z4A1RmkBvOJHzIbj0aBvPnseVaO/+Us275E5z1ASJBPU0CzzNpGXp04Y=;UZqf9EodbaonJG6tl2uKiA=="
 ---
 
