@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cross-accoun
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enabling hybrid ML workflows on Amazon EKS and Amazon SageMaker with one-click Kubeflow on AWS deployment"
-    excerpt: "Today, many AWS customers are building enterprise-ready machine learning (ML) platforms on Amazon Elastic Kubernetes Service (Amazon EKS) using Kubeflow on AWS (an AWS-specific distribution of Kubeflow) across many use cases, including computer vision, natural language understanding, speech translation,"
-    publishedDateTime: 2022-11-16T19:15:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enabling-hybrid-ml-workflows-on-amazon-eks-and-amazon-sagemaker-with-one-click-kubeflow-on-aws-deployment/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "Large-scale feature engineering with sensitive data protection using AWS Glue interactive sessions and Amazon SageMaker Studio"
     excerpt: "Organizations are using machine learning (ML) and AI services to enhance customer experience, reduce operational cost, and unlock new possibilities to improve business outcomes. Data underpins ML and AI use cases and is a strategic asset to an organization. As data is growing at an exponential rate,"
     publishedDateTime: 2022-11-17T16:35:20Z

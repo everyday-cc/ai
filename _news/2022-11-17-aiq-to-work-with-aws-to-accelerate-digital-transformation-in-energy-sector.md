@@ -9,7 +9,7 @@ ampWebUrl: "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-acceler
 cdnAmpWebUrl: "https://meconstructionnews-com.cdn.ampproject.org/c/s/meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "HR Digital Transformation and the Rise of AI in the Corporate World"
-    excerpt: "In 2020, it launched StedY.io, an AI-based tool for automating the engineer recruitment process, bearing in mind that StedY itself employs engineers. IBM Watson offers useful personality analysis tools in the form of its Personality Insights and Tone ..."
-    publishedDateTime: 2022-11-17T21:06:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/the-evolution-of-hrm-and-artificial-intelligence"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/HR_Digital_Transformation_and_the_Rise_of_AI_in_the_Corporate_World.png"
-        width: 1920
-        height: 1003
-        isCached: true
   - title: "3M's AI-powered speech recognition technology to accelerate digital health transformation in KSA: 2022 HIMSS"
     excerpt: "AI-powered technology will reduce administrative burden on healthcare professionals and create more time for patient care Technology uses artificial intelligence to deliver proactive nudges to clinicians,"
     publishedDateTime: 2022-11-21T08:24:00Z

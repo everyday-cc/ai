@@ -27,24 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supercharging the next age of fintech through open innovation"
-    excerpt: "The next era of fintech is coming. With the expansion of the financial services ecosystem beyond the traditional borders of banking, lending, and investment, new industries and business models are being unlocked as demand grows for both embedded services and hyper personalization."
-    publishedDateTime: 2022-11-16T20:44:00Z
-    webUrl: "https://techcrunch.com/sponsor/fis/supercharging-the-next-age-of-fintech-through-open-innovation/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-  - title: "Falling Valuations Make Fintech and AI Accessible Again"
-    excerpt: "Today’s tech era is ripe with innovations in fintech and AI, where advanced platforms and business models allow new players to enter and challenge incumbents. “We continue to see fintech as an expanding market segment. The Industrial sector has seen a ..."
-    publishedDateTime: 2022-11-16T19:12:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b20phvhjyd7mtw/Falling-Valuations-Make-Fintech-and-AI-Accessible-Again"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 19
   - title: "18/11 – Weekly Fintech Recap"
     excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
     publishedDateTime: 2022-11-19T19:48:00Z

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Nvidia says it is working with Microsoft to build 'massive' cloud AI computer"
-    excerpt: "The rapid growth of AI models such as those used for natural language processing have sharply boosted demand for faster, more powerful computing infrastructure. Nvidia said Azure would be the first public cloud to use its Quantum-2 InfiniBand networking ..."
-    publishedDateTime: 2022-11-16T20:27:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-says-it-is-working-with-microsoft-build-massive-cloud-ai-computer-2022-11-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
-    images:
-      - url: "https://www.reuters.com/resizer/T5ftYrseaMtfZ1YNXckWGXq4dZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4WEDSSQ65LGVM66ZN3DWSXLMI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Nvidia and Microsoft team up to build ‘massive’ AI supercomputer"
     excerpt: "Nvidia has announced a “multi-year collaboration” with Microsoft to build “one of the most powerful AI supercomputers in the world,” designed to handle the huge computing workloads needed to train and scale AI. The collaboration will see Nvidia ..."
     publishedDateTime: 2022-11-17T15:44:00Z
@@ -210,20 +196,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia says it is working with Microsoft to put AI in the cloud"
-    excerpt: "Nvidia declined to say how much the deal is worth, but industry sources said each A100 GPU is priced at about $10,000 to $12,000, and the H100 is far more expensive than that. “We're at that inflection point where AI is coming to the enterprise and getting those services out there that customers can use to deploy AI for business use cases is becoming real,"
-    publishedDateTime: 2022-11-16T19:41:00Z
-    webUrl: "https://www.itnews.com.au/news/nvidia-says-it-is-working-with-microsoft-to-build-massive-cloud-ai-computer-587898"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/0_0_480_1_70__News_20190812110543_CRN_690_cloud_generic_iStock-630019720.jpg"
-        width: 480
-        height: 298
-        isCached: true
   - title: "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack"
     excerpt: "The biggest news, though, was a partnership with Microsoft 's (NASDAQ: MSFT) cloud computing segment, Azure, to build a new supercomputer. Nvidia says Microsoft is the first public cloud business to adopt its full,"
     publishedDateTime: 2022-11-20T14:15:00Z
@@ -270,15 +242,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 49
-  - title: "Microsoft Ships ML.NET 2.0 and New Model Builder Version for Machine Learning"
-    excerpt: "Heading the highlights of ML.NET 2.0 are new APIs for working with text, specifically text classification in Model Builder, along with a sentence similarity API."
-    publishedDateTime: 2022-11-16T19:04:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/11/16/mlnet-2-0.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 48
   - title: "NVIDIA and Microsoft team up to build an AI cloud computer that probably won't become Skynet"
     excerpt: "NVIDIA and Microsoft's AI cloud computer probably won't take over the world. What could possibly go wrong!? Well, probably nothing really (maybe?) Today, Microsoft and NVIDIA announced a multi-year partnership to develop a new type of AI cloud computer for Azure customers,"
     publishedDateTime: 2022-11-17T09:43:00Z

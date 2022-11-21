@@ -43,15 +43,6 @@ related:
         width: 1551
         height: 775
         isCached: true
-  - title: "Enabling hybrid ML workflows on Amazon EKS and Amazon SageMaker with one-click Kubeflow on AWS deployment"
-    excerpt: "Today, many AWS customers are building enterprise-ready machine learning (ML) platforms on Amazon Elastic Kubernetes Service (Amazon EKS) using Kubeflow on AWS (an AWS-specific distribution of Kubeflow) across many use cases, including computer vision, natural language understanding, speech translation,"
-    publishedDateTime: 2022-11-16T19:15:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enabling-hybrid-ml-workflows-on-amazon-eks-and-amazon-sagemaker-with-one-click-kubeflow-on-aws-deployment/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "How Yara is using MLOps features of Amazon SageMaker to scale energy optimization across their ammonia plants"
     excerpt: "Learn how Yara is using Amazon SageMaker features, including the model registry, Amazon SageMaker Model Monitor, and Amazon SageMaker Pipelines to streamline the machine learning (ML) lifecycle by automating and standardizing MLOps practices. We provide an overview of the setup, showcasing the process"
     publishedDateTime: 2022-11-17T20:31:41Z

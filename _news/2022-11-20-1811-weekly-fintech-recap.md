@@ -35,24 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Supercharging the next age of fintech through open innovation"
-    excerpt: "The next era of fintech is coming. With the expansion of the financial services ecosystem beyond the traditional borders of banking, lending, and investment, new industries and business models are being unlocked as demand grows for both embedded services and hyper personalization."
-    publishedDateTime: 2022-11-16T20:44:00Z
-    webUrl: "https://techcrunch.com/sponsor/fis/supercharging-the-next-age-of-fintech-through-open-innovation/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-  - title: "Falling Valuations Make Fintech and AI Accessible Again"
-    excerpt: "Today’s tech era is ripe with innovations in fintech and AI, where advanced platforms and business models allow new players to enter and challenge incumbents. “We continue to see fintech as an expanding market segment. The Industrial sector has seen a ..."
-    publishedDateTime: 2022-11-16T19:12:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b20phvhjyd7mtw/Falling-Valuations-Make-Fintech-and-AI-Accessible-Again"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 19
 
 secured: "K78XKrkBrMw1UXOP9t+kC9jCEPLIOuYrI3ByE0IQN5742+5gPzz/ThX+4wBkkFv/0PG2YugYPGaYo1+Occwn5H2405d+XDJNE45jC/Ovj99X8lgS9QKJf6Fz7EkIv0hnvzNYktaW1OceRlPUmQ6QulslTtGeRXHQLd56mIjmDTskNLCLaM1l8Fx/N4tMjoYxDhmMENPnG4QUbqr3j1ydO6T0qWcF7B8b2BFN4VHeAHpvWOOl/eUBMCyFBI27QdUAaQlN8paS85kZr9STY60t/2TUMlM7ZA+gvTc/62uZEyDXWQ6HmLA5jwaO+x8ovC7J7rb9KtyChqrJlZZHvP0G1GxJRBvZdgz2mlEXb+RxzTiv/Wrjr6Xpn47p8/b2D3WIK35mrLUVI+QbX2pDqrRGPd6Os9M3kQU1qKEltmqEIc28cTPg1le+jEUIIXfkKNBBzHtI1TXRbFOeAR68SRQb0ltuLG9j60rNSe/2Id99w1yOHrjmpIcHtYGZE4v6+vVdvQpmdxMO81PE5YaC4Fwiuw==;xwn9evGhnewyRJpLzgvKCw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 531
         height: 250
         isCached: true
+  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
+    publishedDateTime: 2022-11-21T12:53:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/21/9717366.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
   - title: "Industrial Control & Factory Automation Global Market Report 2022: Increasing Integration of Machine Vision Systems with Deep Learning Drives Sector"
     excerpt: "The \"Industrial Control & Factory Automation Market by Component, Solution (SCADA, PLC, DCS, MES, Industrial Safety, PAM), Industry (Process Industry and Discrete Industry)"
     publishedDateTime: 2022-11-17T14:46:00Z

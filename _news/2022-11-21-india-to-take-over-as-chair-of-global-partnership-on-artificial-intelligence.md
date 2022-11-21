@@ -1,26 +1,28 @@
 ---
 category: news
 title: "India to take over as chair of Global Partnership on Artificial Intelligence"
-excerpt: "India will take over as the chair of the Global Partnership on Artificial Intelligence (GPAI), an international initiative to support responsible and human-centric development and use of Artificial Intelligence (AI), once it assumes G20 presidency on December 1."
-publishedDateTime: 2022-11-21T03:29:00Z
-originalUrl: "https://www.siliconindia.com/news/general/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence-nid-220494-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence-nid-220494-cid-1.html"
+excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar will represent India at the GPAI meeting to be held in Tokyo on November 21, for the symbolic takeover from France, which is the outgoing Council chair."
+publishedDateTime: 2022-11-21T10:57:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+webUrl: "https://auto.economictimes.indiatimes.com/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: ET Auto
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/F3cKD95q.jpg"
-    width: 570
-    height: 367
+  - url: "https://etimg.etb2bimg.com/thumb/msid-95661015,imgsize-52670,width-1200,height-628,overlay-etauto/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -131,6 +133,6 @@ related:
         height: 465
         isCached: true
 
-secured: "41HSYYTsoQFtV8SnnwFDpy88GuglcIYc9OLupSxIFlMLxEN/dsPt7MfvKD9W0K5z7x7mwDUiqEcmMYS2OKAEqImDsyX6ssTik5+XEp5j24zv2SRPYPwKqyR1OrEb2BdUm3fQcLTWBcLojfCYfo0LX6NXEC2QwA+KN4ne7xjulzb6Kkpxfbi7aNoLVrsWoEo9xmghkQKD9UDqqlTvk3j/rVl1k41oR6b435YjVtQvyL/p9jiUkSP4aoOpp0V3dsLL5I2NxM7Ff1oOsJAMhiyVxgaTd0Hhzf+mtipqh3sEdAunDUtp7TbNgMgFMoXUcf/pWFJiMQeRDxSfW3wasqLaCgguuKbM1rhLdIXF01iRxZnuUcwKMRFKhzNYXUpkJvPw36Xf0MlpGD8pPZShPEmOpYkoYMfBXD93fi7cg48Rt7vLHcOJqZAWyco/nWXPdO3ji0PIzSlOaiHprr2srITQkpQAryLxQFP4xWyDwAeU7OEObHuGFpuAWp3g83UKh3fXnRXSnatrFPx+G9GCqqviEw==;qbxsEhTFrzkikn832bMnXw=="
+secured: "i/JgAEIWyBReJbToZm7Axg1Or0vD3l8QR88f819camY4n6K0o+vSFUoDpVIy+8ZT5W6uBsDGxKZ5S188ngCRQ7uH440wF9rt1B45i4SwDQ9xgRxtm0XnzPYFJ8Tn5IKhjGt8CkeerE+uzNs0TI2P9Ax7RnvU9fYfSmamUm3/rhd5WuvWw86mAtaLvR5bENPs9HWsJLpkzLuLXKNMJolGKU6Ul26NYuTnWkXXmd2OUdybJvRiGpZIDIiAInFE4F10bxljdmUjRLcmARr7yg1Jf3GOJHg/2nCzcCML3zei71ROjNHOI8eg8OVrFb5z4feplBWkF9yGTItZfAyETtd6wiDo2EIbBDXyxyx+upAd/Mw=;9NcQiYusS5bwYk54JV2xyw=="
 ---
 

@@ -19,17 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Automotive Artificial Intelligence Global Market to Reach $7.78 Billion by 2026"
-    excerpt: "Key Mergers And Acquisitions In The Automotive Artificial Intelligence Market 29. Automotive Artificial Intelligence Market Future Outlook and Potential Analysis"
-    publishedDateTime: 2022-11-16T20:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/16/9715190.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-
 secured: "ro9c8tqU9kGoDjN4o0xqTuhmrXd82Yji0s24lW4NksUw4euh1Jdxj4caeua/SiPDOdui/U/6x3zkZ5Zk7luLQmsIivPMQ+pSTg7KTu0xKEuyAPruH0dx1dKYv6abM2FKiirH/2JCRRD0OxMP9YhlfkA4JAhZfZ6wu3N8DPoSc4bdbKMSxMoQDuZQ19p8lw6yFgocCE1qw5lGxiLRxFE24VtKE91tQY2sz92snN3EIgfvyQAKxGHOrtco+qjayZ4EOXy6Sid9n9M61alnJoAI+i11GInb9feeecHzbdCbgyoNX/bk5zV36aVSFkQ9cIVIHQHj2RQ5GvRHtyq6SXEt4ANG9a5kAUYueKT/l5vxC40=;KzqiD9qaNe3bfUCv+k5qyg=="
 ---
 
