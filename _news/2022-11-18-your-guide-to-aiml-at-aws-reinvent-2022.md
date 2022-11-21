@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-ml-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-ml-at-aws-reinvent-2022/"
 type: article
 quality: 121
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1548
     height: 775
     isCached: true
-
-related:
-  - title: "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
-    excerpt: "Rackspace Technology® (NASDAQ: RXT) — a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor of AWS re:Invent 2022."
-    publishedDateTime: 2022-11-16T18:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/16/9715076.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "E9tEI6K3SdbEWqpByTXG1qmXl2+vVR7z0gTeAoa+M8xqGuKxYKuCMUcB6A/auM7WsBOSdEA2ZGVBAElVCg3n2z4mcFleqhAwttBvdQCP6hjidEvWCqd1srORLZVHXVPl9aNwd0BNjDNt5BP26TzCGXvtYodWGYdo+DJ/0ZIGJUjs6GeyUufxD0yVnj31skX199DmZDw+jNYpleIh2E2ajc34sXnFWBCmKTshyjMGlWRD+QQclhpbIfEkTGwi6rFJniO3XvJQ2wPZgEX9YdjiOWe7/Z/+sEWamh98NndUyCQssRph9t+7peGbeC8ERZT/ISiG4EcE0kRmglm/rutOv4Kbdxng6Lqh3KiZXfhWEtI=;KwYV4xCDY1IGjKwHZYy8xg=="
 ---

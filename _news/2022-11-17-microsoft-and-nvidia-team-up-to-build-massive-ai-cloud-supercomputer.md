@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer"
-    excerpt: "Microsoft and Nvidia have announced a multi-year partnership to build a new AI supercomputer in the Azure cloud."
-    publishedDateTime: 2022-11-16T17:07:00Z
-    webUrl: "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/"
-    ampWebUrl: "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 121
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia and Microsoft Join Forces to Build AI Supercomputer"
-    excerpt: "Chip design company Nvidia is partnering with Microsoft to construct a large-scale AI cloud computer, the firm announced on Wednesday. Described as a \"multi-year collaboration,\" the project will integrate Microsoft's Azure cloud computing system with Nvidia's A100 and H100 chips,"
-    publishedDateTime: 2022-11-16T17:34:00Z
-    webUrl: "https://www.cnet.com/tech/computing/nvidia-and-microsoft-join-forces-to-build-ai-supercomputer/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-and-microsoft-join-forces-to-build-ai-supercomputer/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-microsoft-join-forces-to-build-ai-supercomputer/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://www.cnet.com/a/img/resize/53149eacd0f62e090e026c91d67c93f58ecebf68/hub/2022/11/16/3e3ffbbd-8fe7-4910-b21c-cdae4e2c126a/nvidia-microsoft-logo-graphic.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia and Microsoft team up to build massive AI cloud computer"
     excerpt: "Nvidia announced a collaboration with Microsoft to build a \"massive\" cloud computer focused on AI. It will reportedly use tens of thousands of high-end Nvidia GPUs for applications like deep learning and large language models."
     publishedDateTime: 2022-11-16T22:24:00Z
@@ -72,22 +40,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/nvidia_logo_hero_1-800x448.jpg"
         width: 800
         height: 448
-        isCached: true
-  - title: "Microsoft and Lockheed Martin launch deal on innovation in AI, 5G and more"
-    excerpt: "The intent behind this is to allow the DOD to test military tech in cost-efficient and immersive environments. Uniting the power of Azure and Lockheed's 5G.MIL systems will also enable communication systems' linkage with existing DOD networks, while ..."
-    publishedDateTime: 2022-11-16T17:04:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-lockheed-martin-launch-deal-on-innovation-in-ai-5g-and-more/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-lockheed-martin-launch-deal-on-innovation-in-ai-5g-and-more/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-lockheed-martin-launch-deal-on-innovation-in-ai-5g-and-more/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 102
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2022/11/1668615981_microsoft_lockheed_martin_logo_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud"
     excerpt: "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ..."
@@ -216,19 +168,19 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Nvidia and Microsoft partner to build AI supercomputer"
-    excerpt: "Nvidia Corp. today announced that it’s partnering with Microsoft Corp. to build a supercomputer optimized for running artificial intelligence software. The system will be one of the most powerful AI supercomputers in the world,"
-    publishedDateTime: 2022-11-16T18:20:00Z
-    webUrl: "https://siliconangle.com/2022/11/16/nvidia-microsoft-partner-build-ai-supercomputer/"
+  - title: "Lockheed Martin teams up with Microsoft on classified cloud services for Pentagon"
+    excerpt: "Under the terms of an agreement announced this week, Lockheed Martin will become the first non-governmental entity to operate independently inside the Microsoft Azure Government ... artificial intelligence, machine learning, modeling and simulation ..."
+    publishedDateTime: 2022-11-16T21:48:00Z
+    webUrl: "https://www.geekwire.com/2022/lockheed-martin-microsoft-classified-cloud-pentagon/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 60
+      name: GeekWire
+      domain: geekwire.com
+    quality: 64
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/nvidia.png"
-        width: 718
-        height: 400
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2022/11/221116-cloud.jpg"
+        width: 1680
+        height: 987
         isCached: true
   - title: "AI Inference Company d-Matrix Announces Collaboration with Microsoft"
     excerpt: "Matrix, a AI-compute and inference company, announced a collaboration with Microsoft using its low-code reinforcement learning (RL) platform, Project Bonsai, to enable an AI-trained compiler for d-Matrix’s  digital in-memory compute (DIMC) products."
@@ -295,34 +247,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Microsoft Bolsters Azure Integration with SQL Server 2022"
-    excerpt: "SQL Server 2022 customers will see benefits in the areas of data integration, analytics, governance, and high availability thanks to the database’s"
-    publishedDateTime: 2022-11-16T18:08:00Z
-    webUrl: "https://www.datanami.com/2022/11/16/microsoft-bolsters-azure-integration-with-sql-server-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2022/11/SQL-Server.png"
-        width: 573
-        height: 397
-        isCached: true
-  - title: "Microsoft is Building an AI Supercomputer with NVIDIA"
-    excerpt: "Microsoft is teaming up with Nvidia to create an AI supercomputer powered by Azure and tens of thousands of Nvidia GPUs."
-    publishedDateTime: 2022-11-16T17:06:00Z
-    webUrl: "https://www.thurrott.com/cloud/276021/microsoft-is-building-an-ai-supercomputer-with-nvidia"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 54
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/11/Nvidia-Microsoft-.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Microsoft and NVIDIA to work together on new cloud AI project"
     excerpt: "NVIDIA announced that it will be partnering up with Microsoft \"to build one of the most powerful AI supercomputers in the world\". The multi-year collaboration will be backed up by Microsoft Azure’s advanced supercomputing infrastructure combined with ..."
     publishedDateTime: 2022-11-18T16:25:00Z
@@ -378,29 +302,34 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "NVIDIA Accelerates Scientific Discovery on Microsoft Azure Cloud and a Variety of Partner Systems"
-    excerpt: "NVIDIA announced broad adoption of its next-generation H100 Tensor Core GPUs and Quantum-2 InfiniBand, including new offerings on Microsoft Azure cloud and more than 50 new partner systems for accelerating scientific discovery."
-    publishedDateTime: 2022-11-16T17:32:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Accelerates-Scientific-Discovery-on-Microsoft-Azure-Cloud-and-a-Variety-of-Partner-Systems-155979.aspx"
+  - title: "Microsoft, Lockheed form new cloud collaboration pact"
+    excerpt: "The world's largest defense company has both internal initiatives and work with military customers in mind for this partnership."
+    publishedDateTime: 2022-11-18T00:47:00Z
+    webUrl: "https://washingtontechnology.com/companies/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379867/"
     type: article
     provider:
-      name: dbta
-      domain: dbta.com
-    quality: 41
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 39
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/11/17/Cloud_Computing_IOT/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "NVIDIA Teams With Microsoft to Build Massive Cloud AI Computer"
-    excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s advanced supercomputing infrastructure combined with NVIDIA GPUs,"
-    publishedDateTime: 2022-11-16T18:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/16/9714730.htm"
+  - title: "IBM Collaboration Looks to Bring Massive AI Models to Any Cloud"
+    excerpt: "Training machine learning foundation models with sometimes billions of parameters demands serious computing power. For example, the largest version of"
+    publishedDateTime: 2022-11-18T21:45:00Z
+    webUrl: "https://www.datanami.com/2022/11/18/ibm-collaboration-looks-to-bring-massive-ai-models-to-any-cloud/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2022/03/shutterstock_1111144997.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Nvidia and Microsoft team up for ‘most powerful’ AI supercomputer"
     excerpt: "The deal will see Nvidia contribute tens of thousands of GPUs, networking technology, and its full stack of AI software to Microsoft Azure cloud’s supercomputing infrastructure, which already utilises ND and NC-series virtual machines trained to work on ..."
     publishedDateTime: 2022-11-18T12:21:00Z
@@ -428,6 +357,26 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 33
+  - title: "Drone Express secures exclusive drone partnership with Microsoft"
+    excerpt: "Drone Express has adopted Microsoft Azure to host its AI solutions and machine learning to train its models to detect static and dynamic obstacles. This includes a dynamic obstacle like a pet in the backyard, teaching the drone contact the homeowner or ..."
+    publishedDateTime: 2022-11-17T20:32:00Z
+    webUrl: "https://www.bizjournals.com/dayton/inno/stories/news/2022/11/17/drone-express-secures-partnership-with-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "Lockheed Martin, Microsoft announce landmark agreement on classified cloud, advanced technologies for Department of Defense"
+    excerpt: "Artificial Intelligence/Machine Learning (AI/ML), Modeling and Simulation Capabilities ... Digital Transformation:ï¿½Microsoft Azure will power Lockheed Martin's digital transformation journey, accelerating enterprise-wide productivity gains to deliver ..."
+    publishedDateTime: 2022-11-18T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/w29785718/lockheed-martin-microsoft-announce-landmark-agreement-on-classified-cloud-advanced-technologies-fo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29785718"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785718"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "0bWUqVSUNp3d2NuGHe4zNb1nxBK7hYs3whRe8CyYTJlBcjPguO+zhdMkR86msDWSOjLUy2B0TJ2chcTzlKEtkufFPdSsPGbCI3tA2S+DIK6pCSJnJRbOwRPfe7cTgwsyAzjrxIEj5nSxlPHNsg/Eky0dClchaPWqZBkL9MR/g9VSVV3bAok43mkd2kaKMr1jcwP4l1DlTsraAzLnK6WKjUs0qrYllnFhq191Isu5dzC33Fm2NWiiYtrPgLGUxwRuA7P4wN5Crr7LApwxFrW4cj5P+EB6Mb96pHsJcG3KbREDHtbk5wNbZrQ9meRnd1BQVZWc2t7jofcgeCMWbwm/5pX/rXbd3ozbvUvNg8wX+Yb5D5IaszR+hvCmBrSfUw50eOmZAvorhHM76n2ScvUMgq4ZDPeh96voegHnbHzV6D/gI66nIf4nUaeSVL8Pyb5YLFBsfnKDuSbjDw03aN9QbdKfbibVG5dqhdWnU/yGLZHcN30EIsJEyhBrDXs5+0Ftm2nTYCWps6BDaHlROj7YzQ==;QnY2wFhJjsm+ITe6NZ+4WA=="
 ---

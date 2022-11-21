@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-batt
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: HotHardware
@@ -36,15 +36,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 16
-  - title: "NVIDIA Launches GeForce RTX 4080 GPU, Latest Drivers Adds DLSS 3/Ray Tracing To Spider-Man: Miles Morales"
-    excerpt: "NVIDIA released a new GeForce Game Ready driver for the brand new GeForce RTX 4080 GPU, which is available now from NVIDIA and top add-in card providers."
-    publishedDateTime: 2022-11-16T18:30:00Z
-    webUrl: "https://worthplaying.com/article/2022/11/16/news/134734-nvidia-launches-geforce-rtx-4080-gpu-latest-drivers-adds-dlss-3ray-tracing-to-spider-man-miles-morales/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 2
 
 secured: "CKn1xmt5GSbxF5A5gBAR6SDry1F4Fg9JXZe4QPUDLWrRxg89MS+x6VAnFRphck7K8Y99FSAf28A+kHAZiX8pDhetBBBfgQKe+yLG3Hp7toXzAo4TjsqiFkpWZwORbwQwhuqE2P3XtcDwMsYz1inUnwsVBrakGCBIE1wQnwu/xvPwuXrHLXuQleVoSrlPdHh+Yb1OfXnlb8Ffmu9ClO8KRx0/PcByPpYU9lWeR+BpYPIZWBv00YIBkLK7lYxZJQzmuPJ+OL8xA7/2EbuNqeJwiaqvhGwGPTh7yDayvESQyBqdfwdvz2fI+vBWjG0E3wkNE8AVOMEMoONcRSvh0G0kSAuB+kCpPfDsV6Jal04QkU2REYf6E43BDV4OfcpPCJjp8mUAoxn2NmTHVVSWX8pUh7Smqj6BEblMmQrx7+EW0bNeihkv8ejXxdYOQcQ/AvBfir3Q4te17pPcU5rtMf8jh1CAi2eUbUoK6E0VewuR+vp83CuNWZl/A1eYC8ARA2dnfZiH9iRmDBFrc5siTC0TxA==;HO/kwuRmnRqd4RVX93WorQ=="
 ---

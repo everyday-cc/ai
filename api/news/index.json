@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-21-high-hopes-for-baidu-bidu-q3-results-ai-cloud-and-apollo-go-are-flourishing.md",
+      "title": "High Hopes for Baidu (BIDU) Q3 Results; AI Cloud and Apollo Go are Flourishing",
+      "excerpt": "Chinese internet search giant Baidu, Inc. (NASDAQ:BIDU) is scheduled to report its third quarter Fiscal 2022 results on November 22, before the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/high-hopes-for-baidu-bidu-q3-results-ai-cloud-and-apollo-go-are-flourishing-1031927806",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/high-hopes-for-baidu-bidu-q3-results-ai-cloud-and-apollo-go-are-flourishing-1031927806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2022/11/image-615.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 644,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-india-to-take-over-the-chair-of-the-global-partnership-on-artificial-intelligence.md",
       "title": "India To Take Over the Chair of the Global Partnership on Artificial Intelligence",
       "excerpt": "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting",
@@ -314,57 +366,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-20-ai-cameras-catch-590-people-without-seatbelts-in-devon-and-cornwall.md",
-      "title": "AI cameras catch 590 people without seatbelts in Devon and Cornwall",
-      "excerpt": "The cameras caught 590 people not wearing seatbelts and 40 people driving while using a mobile phone. Police have described the figures as \"alarming\". They have been released by Devon and Cornwall Police to mark the end of national road safety week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-cornwall-63682810",
-      "originalUrl": "https://www.bbc.com/news/uk-england-cornwall-63682810",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/5289/production/_127692112_aspeedcameravanoperatingindevonandcornwall.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-cornwall-63682810.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-cornwall-63682810.amp",
-      "publishedDateTime": "2022-11-20T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-19-ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare.md",
       "title": "Ripe For Disruption: Artificial Intelligence Advances Deeper Into Healthcare",
       "excerpt": "Healthcare providers now have a better understanding of what patients really want, and are getting better equipped to address their needs,",
@@ -671,49 +672,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-19-chinas-moore-threads-s80-gpu-battles-a-geforce-rtx-3060-in-benchmark-roundup.md",
-      "title": "China's Moore Threads S80 GPU Battles A GeForce RTX 3060 In Benchmark Roundup",
-      "excerpt": "The S80 is the company's first retail product, and on paper, the specifications are pretty impressive for a first effort, and in fact rather similar to both Intel's Arc Alchemist DG2-512 as well as NVIDIA's GA106.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
-      "originalUrl": "https://hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/60156/content/small_bare-gpu.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/mtt-s80-gpu-rtx-3060-benchmark-battle",
-      "publishedDateTime": "2022-11-18T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-18-your-guide-to-aiml-at-aws-reinvent-2022.md",
       "title": "Your guide to AI/ML at AWS re:Invent 2022",
       "excerpt": "AWS re:Invent season is upon us again! Just a few days to go until re:Invent takes place for the 11th year in Las Vegas, Nevada. The Artificial Intelligence and Machine Learning team at AWS has been working hard to offer amazing content, an outstanding AWS DeepRacer experience, and much more. In this",
@@ -722,7 +680,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-ml-at-aws-reinvent-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -879,7 +837,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1255,6 +1213,59 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
+      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
+      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
+          "width": 698,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

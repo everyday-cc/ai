@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI based Edge Computing Chip Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2029"
+    excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 125 Pages Report\" Global “AI"
+    publishedDateTime: 2022-11-18T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2029-2022-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lega-Tech Artificial Intelligence Market Production, Revenue and Status, Report 2023, Upcoming Trends, Demand, Regional Analysis and Forecast 2029"
+    excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 111 Pages Report\" Global"
+    publishedDateTime: 2022-11-18T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lega-tech-artificial-intelligence-market-production-revenue-and-status-report-2023-upcoming-trends-demand-regional-analysis-and-forecast-2029-2022-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stem Cell Therapy Market Size Will Reach To USD 1,185.9 Million In 2030 - Reports And Data"
     excerpt: "The Stem Cell Therapy market has been segmented into key regions ... previously incurable diseases are beginning to be treated. The use of artificial intelligence (AI) and machine-learning technologies is leading to increasing expectations for more ..."
     publishedDateTime: 2022-11-18T13:11:00Z

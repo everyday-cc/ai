@@ -35,15 +35,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "NVIDIA Launches GeForce RTX 4080 GPU, Latest Drivers Adds DLSS 3/Ray Tracing To Spider-Man: Miles Morales"
-    excerpt: "NVIDIA released a new GeForce Game Ready driver for the brand new GeForce RTX 4080 GPU, which is available now from NVIDIA and top add-in card providers."
-    publishedDateTime: 2022-11-16T18:30:00Z
-    webUrl: "https://worthplaying.com/article/2022/11/16/news/134734-nvidia-launches-geforce-rtx-4080-gpu-latest-drivers-adds-dlss-3ray-tracing-to-spider-man-miles-morales/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 2
 
 secured: "84M70joidERh0mijsmED42l5GR8NEF0nOsid/mtgGuxdaKgt9KFf1GcGOlgwWeeJ+b1zJwTDaIxzAdZt5LBq/QjdWNGVj8DxwrkeLOjKnjRJakLqhN/dLCuW8QPb6nY9PRfVclC7fx9QV8qBNELTL3hWx6mbEeNl5zyaWcJyVyiTNK4UBS+sJOH9qJuHZFjhwXAId5G/+AHbUcRFQf46FcWpjmDsjhecDJQphZYNmj3dt+qm76EDML/swHe6N4Xmmqak4LQ6NrPHQfJU1VfzQhfMr1+GViFnd0Ic0B4XdtilJHucWrmYmsr+yXM4ppuDo3xo1URBjrbZ82n/rfIu1ZHbZ09x9CJYbcg1Xu87jSw=;WUyzc4tJE4xusiKxsU8+/g=="
 ---

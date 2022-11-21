@@ -26,17 +26,6 @@ images:
     height: 802
     isCached: true
 
-related:
-  - title: "Mask-wearing can make it more difficult to recognize masked and unmasked faces of others, study finds"
-    excerpt: "Recognizing someone may be more difficult when you are wearing a face mask -- even if the person you are looking at is maskless, according to new research."
-    publishedDateTime: 2022-11-16T18:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221116113133.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 19
-
 secured: "ziFtqjBdfTGZ2VqajpDbtWEc2pnGYGI7w7D4fMfUDjK9vfW5Xshns2BP1aWEdKTNY7dnTvhlkMGtcOcI7qP6DN3mixwfEyARtUbOqEmUQRHnfzls/wREDAXXu/KCqLGEqJ6AvhXePvB2wKbjBOuP4efQHLETXCKC77Ozwcmuvwn8EIP5wkDOPmaivFWgk7siIqdByCTq3XpXo45BhBU91G4pl7GFsgUJAS/l5x/DMb1ATF6K3TlIp+kiLBSOY9D7I/6wJkxw+R7VFpqb76g8nleaaqpgVHey7+PzX5FptkvIinVGDWYra1bYtNuA8RDd0AU8cj2c2yPdVOqk8qo0Cm0i5yowLOi5YNcThNZq8Vc=;0q1422vEd8xOz9xJuTeXAQ=="
 ---
 

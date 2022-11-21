@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Qualcomm Ups The Snapgragon AI Game"
-    excerpt: "This translates to a 60% increase in performance per watt for AI inferencing. The Qualcomm AI Engine includes a Sensing Hub, the Kyro CPU, the Adreno GPU, and the Hexagon DSP ... [+] Processor. The Hexagon Processor also now supports a new innovation calle ..."
-    publishedDateTime: 2022-11-16T17:10:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/11/16/qualcomm-ups-the-snapgragon-ai-game/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/11/16/qualcomm-ups-the-snapgragon-ai-game/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/16/qualcomm-ups-the-snapgragon-ai-game/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6373edc7b96ca2bed221ad47/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 505
-        isCached: true
   - title: "Qualcomm's New AR Chips Point to a New Generation of Smart Glasses"
     excerpt: "Glasses using the AR2 Gen 1 may be a lot faster at using cameras for scanning and depth sensing: Qualcomm is promising faster AI for things like object recognition and hand tracking than even the XR2 chip found on headsets such as the Quest 2, but using ..."
     publishedDateTime: 2022-11-16T23:15:00Z
@@ -72,38 +56,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/b5852af6c05e9069d8cadd8877545a0317e52a70/hub/2022/11/15/1ee0b984-9cc3-49a1-b7ac-80b7fdee942c/snapdragon-ar2-gen-1-platform-and-glasses.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Qualcomm spotlights embedded artificial intelligence in its latest Snapdragon smartphone chip"
-    excerpt: "Qualcomm launched its latest Snapdragon processor on Tuesday for the next crop of top-tier Android smartphones—with artificial intelligence infused throughout the chip to boost photography, sound, connectivity,"
-    publishedDateTime: 2022-11-16T18:51:00Z
-    webUrl: "https://techxplore.com/news/2022-11-qualcomm-spotlights-embedded-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-11-qualcomm-spotlights-embedded-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-qualcomm-spotlights-embedded-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/snapdragon-processor.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Qualcomm Launches Snapdragon AR2 Gen 1 Chip for Augmented Reality Headsets"
-    excerpt: "Qualcomm has launched the Snapdragon AR2 Gen 1, the company's dedicated chip for Augmented Reality glasses. Check out all its details here."
-    publishedDateTime: 2022-11-16T18:15:00Z
-    webUrl: "https://beebom.com/qualcomm-snapdragon-ar2-gen-1-chip-augmented-reality/"
-    ampWebUrl: "https://beebom.com/qualcomm-snapdragon-ar2-gen-1-chip-augmented-reality/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/qualcomm-snapdragon-ar2-gen-1-chip-augmented-reality/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 57
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/11/SD-Featured.png?w=750&quality=75"
-        width: 750
-        height: 500
         isCached: true
   - title: "Qualcomm Teases Powerful New Snapdragon Laptop CPU, Claims AI Processing Will Redefine PCs"
     excerpt: "Qualcomm says that ARM is the future for Windows computing thanks in large part to its dedicated AI processing."

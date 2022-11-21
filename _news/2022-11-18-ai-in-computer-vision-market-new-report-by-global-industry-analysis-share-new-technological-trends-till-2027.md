@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18"
 type: article
 quality: 63
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI based Edge Computing Chip Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2029"
+    excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 125 Pages Report\" Global “AI"
+    publishedDateTime: 2022-11-18T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2029-2022-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Retail Market Statistics 2022 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence in Retail"
     publishedDateTime: 2022-11-17T04:08:00Z
@@ -38,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lega-Tech Artificial Intelligence Market Production, Revenue and Status, Report 2023, Upcoming Trends, Demand, Regional Analysis and Forecast 2029"
+    excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 111 Pages Report\" Global"
+    publishedDateTime: 2022-11-18T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lega-tech-artificial-intelligence-market-production-revenue-and-status-report-2023-upcoming-trends-demand-regional-analysis-and-forecast-2029-2022-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
