@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
 type: article
 quality: 72
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
+    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
+    publishedDateTime: 2022-11-21T08:26:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 79
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "India To Head Global Partnership On AI (Artificial Intelligence) For 2022-23"
     excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair,"
     publishedDateTime: 2022-11-21T04:13:00Z
@@ -101,6 +115,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/F3cKD95q.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Ahead of G20 Presidency, India Takes Over As Council Chair of Artificial Intelligence Forum"
+    excerpt: "India will chair the Global Partnership on Artificial Intelligence (GPAI) at the G20 summit during its year-long presidency, announced MeitY"
+    publishedDateTime: 2022-11-21T07:45:00Z
+    webUrl: "https://www.medianama.com/2022/11/223-g20-presidency-india-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 42
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2022/11/FiEaKjXaEAAgKxr.jpeg"
+        width: 946
+        height: 465
         isCached: true
 
 secured: "I5Z2k4Sn+spzjyVV9+Fz7GTedxVbiHwpdDUTWce7NL7zDSW2dmpxE1Ac+S+Wk3tn1B5tHuMETfF8Ic0r6L5wSR0GXaY7zi27BprwHXJ2OKwrIgeFUhYkoXrr0owz1usOSuPk5Olz2+2IRMZrTWhbFG2bGyuU4KrQAc2P9F7sMfvsikcaBlh13hxrLK+S8Wp/L6xgiGt7TmZrrg+KQOQGyawiPrcvUQJG6aO1LObXPnorA/tTHJs6AT7gTqn8MVT2TuFdGN7jLIoZ5m6NXwfaojPrh5+8vOtPjw0s9Ga3fX4XWKpzUYSgc1uTksOnwDvRjhFQdLjwMn3Lmh//VIuR+ANcgz9PMMD9N9hmv+NaztGayjPQuc2GsEOd0nsrc8kFMKCAyXkg+ENcJbtTquSgmjdjFFamuugME2oD9pAfQ5IrWlbCfaZdr6vEK0/j9R0MiE669OwihQatE4eqVi0JoddhWLN04e5i7VOE5qrZkfRIHZqYTgZDUtmW6Ghja9rnXIZZ2SWnua9zbRxyBNnQNA==;/AT86SWD48pzOKklYntzWQ=="

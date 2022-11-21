@@ -33,15 +33,6 @@ related:
         width: 1548
         height: 775
         isCached: true
-  - title: "Rackspace Technology, Inc.: Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
-    excerpt: "Booth attendees who play Onica by Rackspace Technology's \"Knights of AI\" game will see first-hand how key AWS services interact, including Amazon SageMaker, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS, and Amazon Simple Email ..."
-    publishedDateTime: 2022-11-16T16:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57606659-rackspace-technology-inc-rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and-platinum-sponsor-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "mMuSVLNmxDfFZAa9MdVdn50OEXuAqU3MdMLsZazSZjVeiqj/en+d65C7w/TDm7X6PztanZaINkYhf7NNEl7VwSgnvfF8hJahUFvW1M8/5E+XsbvgK56/maKhVXyoAMqVWnMI4ya5Eaiu4t31VUdxBDLWbT4Zac1oX1LtxRRDXkJkbRSSLMjtW5pfGsAl2Sil3eP37+RZAOJyiLX0+tzk5ZO28ISFNw1lHigW2zIbEcovR3Sl6pq5nqpCTcQePvfUdnRo3HiMmXTOOfHejSnXlG7mSAAk0JRYk2aD+InDeW9W5p/N00tD/fBeXZO5SP+CE+EjURIZqMoRSqs6LKR8MK1ARGSW5O8T/tTGC6Cl70A=;xYcsZJtoBai5KeAgo1jIkw=="
 ---

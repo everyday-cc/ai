@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stellantis acquires AI and autonomous driving start-up aiMotive"
+    excerpt: "“aiMotive’s class-leading expertise and start-up spirit will accelerate our journey to deliver our Dare Forward 2030 goals.” aiMotive’s technology product portfolio is focused on four key areas within artificial intelligence and autonomous ..."
+    publishedDateTime: 2022-11-21T08:45:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/stellantis-acquires-ai-and-autonomous-driving-start-up-aimotive"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 37
+    images:
+      - url: "https://www.newelectronics.co.uk/media/ssfaxoqz/aimotive.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stellantis Acquires Autonomous Driving Software Startup aiMotive"
     excerpt: "Stellantis, the parent company of the Jeep and Chrysler brands, is acquiring autonomous driving software startup aiMotive as the automaker looks to expand the autonomous driving and connectivity capabilities of its future vehicles."
     publishedDateTime: 2022-11-17T17:40:00Z

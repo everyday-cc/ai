@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-sn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/11/SD-Featured.png?w=750&quality=75"
         width: 750
         height: 500
-        isCached: true
-  - title: "Qualcomm Snapdragon 8 Gen 2: Everything you need to know"
-    excerpt: "Qualcomm announced its next flagship mobile processor, the Snapdragon 8 Gen 2, at its Snapdragon Tech Summit in Hawaii on November 15, 2022. It's the new"
-    publishedDateTime: 2022-11-16T16:15:00Z
-    webUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2"
-    ampWebUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-Large.jpeg"
-        width: 1280
-        height: 761
         isCached: true
   - title: "AI may dominate mobile SoC competition between Qualcomm and MediaTek"
     excerpt: "suggesting that AI computing capability will be crucial for mobile chips to go beyond limitations of existing functions... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and ..."

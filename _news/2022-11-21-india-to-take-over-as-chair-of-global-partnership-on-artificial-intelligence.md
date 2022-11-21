@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
+    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
+    publishedDateTime: 2022-11-21T08:26:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 79
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "India to assume chair of Global Partnership on Artificial Intelligence"
     excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence (GPAI), said the ministry of electronics and IT on Sunday. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting."
     publishedDateTime: 2022-11-20T10:02:00Z
@@ -102,7 +116,21 @@ related:
         width: 325
         height: 325
         isCached: true
+  - title: "Ahead of G20 Presidency, India Takes Over As Council Chair of Artificial Intelligence Forum"
+    excerpt: "India will chair the Global Partnership on Artificial Intelligence (GPAI) at the G20 summit during its year-long presidency, announced MeitY"
+    publishedDateTime: 2022-11-21T07:45:00Z
+    webUrl: "https://www.medianama.com/2022/11/223-g20-presidency-india-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 42
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2022/11/FiEaKjXaEAAgKxr.jpeg"
+        width: 946
+        height: 465
+        isCached: true
 
-secured: "+91Ar/fWYwLaTKq2KCDeQT4ymB8qfzEqWNyrhi0exyxDB0zsCR5m4CPV+8aW8qtAJDoM6Mk2T51z+mUyXi70XpAvLfPoNuBFq58IjVbHtooqtxpwY7kbyAwB/YA+cxhDiafab5xCV/APoJp1XX44b/uy1rLTDwnEkfcTuRfqbNSkN9UgV0qD5WCayQRruntk8nxa3+cblCTrtMoKA4ZLXa0z0NBNSgNzdEzBFF7bHqIA/ErWZkYaUHORunkYhuq+zekrCLScVMvYBk4w59Gh4lEy5hu4oWTqI6jGoh8gjPvrXx8xNNmMejNW64J7/9DHIaKehqP4InwPEKwZAm97w0HpU0BHjmXARb4bgqUyomI=;0IK3XlR38EMY61M7TdIw7Q=="
+secured: "41HSYYTsoQFtV8SnnwFDpy88GuglcIYc9OLupSxIFlMLxEN/dsPt7MfvKD9W0K5z7x7mwDUiqEcmMYS2OKAEqImDsyX6ssTik5+XEp5j24zv2SRPYPwKqyR1OrEb2BdUm3fQcLTWBcLojfCYfo0LX6NXEC2QwA+KN4ne7xjulzb6Kkpxfbi7aNoLVrsWoEo9xmghkQKD9UDqqlTvk3j/rVl1k41oR6b435YjVtQvyL/p9jiUkSP4aoOpp0V3dsLL5I2NxM7Ff1oOsJAMhiyVxgaTd0Hhzf+mtipqh3sEdAunDUtp7TbNgMgFMoXUcf/pWFJiMQeRDxSfW3wasqLaCgguuKbM1rhLdIXF01iRxZnuUcwKMRFKhzNYXUpkJvPw36Xf0MlpGD8pPZShPEmOpYkoYMfBXD93fi7cg48Rt7vLHcOJqZAWyco/nWXPdO3ji0PIzSlOaiHprr2srITQkpQAryLxQFP4xWyDwAeU7OEObHuGFpuAWp3g83UKh3fXnRXSnatrFPx+G9GCqqviEw==;qbxsEhTFrzkikn832bMnXw=="
 ---
 

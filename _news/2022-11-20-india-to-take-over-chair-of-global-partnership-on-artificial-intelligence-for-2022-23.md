@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
+    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
+    publishedDateTime: 2022-11-21T08:26:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 79
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "India to assume chair of Global Partnership on Artificial Intelligence"
     excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence (GPAI), said the ministry of electronics and IT on Sunday. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting."
     publishedDateTime: 2022-11-20T10:02:00Z
@@ -101,6 +115,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/F3cKD95q.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Ahead of G20 Presidency, India Takes Over As Council Chair of Artificial Intelligence Forum"
+    excerpt: "India will chair the Global Partnership on Artificial Intelligence (GPAI) at the G20 summit during its year-long presidency, announced MeitY"
+    publishedDateTime: 2022-11-21T07:45:00Z
+    webUrl: "https://www.medianama.com/2022/11/223-g20-presidency-india-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 42
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2022/11/FiEaKjXaEAAgKxr.jpeg"
+        width: 946
+        height: 465
         isCached: true
 
 secured: "LdbilGLkQyYaXZfZDZd2WGITdMw0sYol5WUHWVM8mu1TDANzOroNhfJS8MTSfn5Q+rQQfz0nA/preW6TcFXExjops5DuiItTzDLtb4G075fgO5+q8Gre9aSxO17UJAzLhTQ9nKp/bx/Hz3EOaXbgPkxNXgpICbI632R4Okg+a64ixQ2uPWwvk0ttom9gYlvgYW/IkDhjt1N+Ra73IruqzYmaDEqC+J3SJKTEUtCruL4UzDdLxh71baa7fj7df+BkDHO6H3yR8OmLg/w9fVOib2eIV1J2XCk+ZNaDl6WW1PW48yZHOdx1ygZyHm3rvwhgS4kz2gLyLyRoIgOseAgq0wCybk0jCUvZnEMvfuWsDVg=;fBDI1GY7vo/6OBPXl42USA=="

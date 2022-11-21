@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-
 webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.mktw.net/im-315600/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Waabi launches an AI-powered self-driving software for trucking"
-    excerpt: "The Waabi Driver, combines AI-driven navigation with an array of sensors including laser-based lidar, cameras and radars to help steer trucks."
-    publishedDateTime: 2022-11-16T16:33:00Z
-    webUrl: "https://www.canadianmanufacturing.com/manufacturing/waabi-launches-an-ai-powered-self-driving-software-for-trucking-287137/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 39
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
-        width: 300
-        height: 600
         isCached: true
   - title: "Why are Companies Reconsidering Their Autonomous Driving Investments"
     excerpt: "Autonomous driving was among the hottest investment themes until a few months back. However, of late a lot of companies are rethinking their autonomous"

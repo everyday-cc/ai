@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia's H100 enterprise GPU sees huge workflow performance boosts"
-    excerpt: "The reveal of a new GPU, which will come bundled with a five-year long license to Nvidia's AI Enterprise software, is part of a strategy that will put its artificial intelligence ( AI) frameworks and tools in the hands of as many businesses as possible."
-    publishedDateTime: 2022-11-16T16:28:00Z
-    webUrl: "https://www.techradar.com/news/nvidias-h100-enterprise-gpu-sees-huge-workflow-performance-boosts"
+  - title: "Nvidia set to launch lower-spec AI GPU for sales to China"
+    excerpt: "Nvidia is expected to advance the rollout of a downgraded version of its AI chips, dubbed AI 800, for shipments to Chinese clients in response to restrictions on its China-bound sales of A100 and H100 AI GPU chips series,"
+    publishedDateTime: 2022-11-21T06:30:00Z
+    webUrl: "https://www.digitimes.com/news/a20221121PD202/china-nvidia.html"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
+      name: Digi Times
+      domain: digitimes.com
+    quality: 71
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/frErA8XhPuurM7D3Lhq8mn-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.digitimes.com/newsshow/20221121pd202_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Nvidia RTX 4050 GPU leaks via Samsung gaming laptop benchmarks"
     excerpt: "A fresh benchmark leak suggests an Nvidia RTX 4050 GPU is on the cards, and the gaming laptop GPU could send the RTX 3050 to the retirement home"

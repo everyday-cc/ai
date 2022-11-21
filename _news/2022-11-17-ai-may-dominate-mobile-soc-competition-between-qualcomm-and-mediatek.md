@@ -105,22 +105,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Qualcomm Snapdragon 8 Gen 2: Everything you need to know"
-    excerpt: "Qualcomm announced its next flagship mobile processor, the Snapdragon 8 Gen 2, at its Snapdragon Tech Summit in Hawaii on November 15, 2022. It's the new"
-    publishedDateTime: 2022-11-16T16:15:00Z
-    webUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2"
-    ampWebUrl: "https://www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/qualcomm-snapdragon-8-gen-2?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-2-Large.jpeg"
-        width: 1280
-        height: 761
-        isCached: true
   - title: "Qualcomm Teases Powerful New Snapdragon Laptop CPU, Claims AI Processing Will Redefine PCs"
     excerpt: "Qualcomm says that ARM is the future for Windows computing thanks in large part to its dedicated AI processing."
     publishedDateTime: 2022-11-16T22:01:00Z

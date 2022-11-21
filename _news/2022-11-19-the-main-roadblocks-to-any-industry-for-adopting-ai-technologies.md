@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/the-main-roadblocks-to-any-industry-for-adop
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-main-roadblocks-to-any-industry-for-adopting-ai-technologies/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "White paper urges governance for AI school grading technologies"
-    excerpt: "Automated grading technologies could soon be rolled out in Australian schools but without robust national guidelines and an independent advisory body, some schools could be left behind."
-    publishedDateTime: 2022-11-16T16:28:00Z
-    webUrl: "https://phys.org/news/2022-11-white-paper-urges-ai-school.html"
-    ampWebUrl: "https://phys.org/news/2022-11-white-paper-urges-ai-school.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-white-paper-urges-ai-school.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/students-in-class.jpg"
-        width: 2880
-        height: 1907
-        isCached: true
 
 secured: "J20iv0jTP/I12hTrM4xVXdvWC9tOSBzHRSTjEG28MHlky3M+KgZ5txdHfq0PEd+kNED2imIiRlgqhdzpi/qarZdRLfeh/8s9feX4euH7ohdOz2gQ7vylreWJsU24RckvsyssXoQlahHQf3rgzOqbZqrtIWEBn6/Y3XinBW4Lf8Y9gQ6KGmEyjrmuOr/aNY7hed2ByZ5GTejSR5Xpgks5oQSvNxRl6VZYC6Nki6fr7i45VAmqVge9VyIad6ShvmjbjrdZGKM3l9Es8ZralKcsidTddKIVsWghTqVV/sTQ6MMv/9aM53ul3O+VxpSq/6PK2RjBGHuUPHm1uwLYeMTW1HOW45Sa0kq+hxX/Dkcz7dM=;QGoqrd6BWXWDuC3BlBNfeQ=="
 ---

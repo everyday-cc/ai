@@ -1,16 +1,13 @@
 ---
 category: news
 title: "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
-excerpt: "and OneMeta AI ONEI has positioned itself to prove that point. That's no overzealous presumption. It's a sentiment based on ONEI having, among other things, a proven and working language translation app separating itself from everything in the industry."
+excerpt: "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ..."
 publishedDateTime: 2022-11-14T11:28:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
 ampWebUrl: "https://www.benzinga.com/amp/content/29695590"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
   name: Benzinga.com
@@ -26,6 +23,6 @@ images:
     height: 1091
     isCached: true
 
-secured: "D+vo41bgKfzi7KFLoEcu2uuhMTRTCFqs4JHUXgSogf1NlTK1SYZ/sXvDeCJrr96N5bGlg1O0HkNY8OedvBdeeCNe7BZHWu2YEdY5118T/ZRX+3EFC4PqqSNjQCoSQeYz5x1A2Eiq3fcW/v+fAAcsM9VqWwWmEPKLsY2+Lfg9pFeTNiHpRX6vhq4aTFlxP8cDZVzwB6RbMEtxv/e7elPr0Vr/15+YiNB4ImU0mqkY7EB5ujHQe09KX+F/PcuM2EVnW15yhfcS/6ERIMEUovoUS3MthTG2nV+gbJ5NoC3T7+GtlTnQOAvsczKqRzrgUacIDUeW1LV7f4XuIccAwn2JHf8+8mRgIf1A+KflL3L0bMg=;7frSDsXdZHUpvAPLzQqdSA=="
+secured: "TLg18SW9bq7Hdl+Jfz10MTHyJsThm+D0TdFgPj7RzDs6c4p/AWB2wu86GjmEFcJjecG1L36h/I/KIN+DrTc4KqtmiWr6xz1wKMHNFvtWLrzYxxhOZn6u89WWKJKvEL6+niRTZP0GmGaaEaEeWg1woNKkg2TAo//sl3yu37BkKiR04E4IDNNh9xvLSI2OT+g8i8Lja9VJFBKyI3RnXwVA+0yf4dlsKBokgBr+nuc0Puw99PGgmMrgrvv/jENX1BpbEEsD4sbOoLjbJV0FgIDD1Ob+NdsfEdwLk9H7agdJkG70hhemzPhh5FKeOjjNh2ttr6OJR4oIzKZmZcnFjwU7vYgz8NWIcCjopGQkRGvhpMc=;BFmPmBP3PvmFcZBGKBpKVA=="
 ---
 

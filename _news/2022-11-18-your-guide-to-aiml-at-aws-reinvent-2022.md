@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-ml-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-ml-at-aws-reinvent-2022/"
 type: article
 quality: 121
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
-  - title: "Rackspace Technology, Inc.: Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
-    excerpt: "Booth attendees who play Onica by Rackspace Technology's \"Knights of AI\" game will see first-hand how key AWS services interact, including Amazon SageMaker, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS, and Amazon Simple Email ..."
-    publishedDateTime: 2022-11-16T16:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57606659-rackspace-technology-inc-rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and-platinum-sponsor-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
     quality: 0
 
 secured: "E9tEI6K3SdbEWqpByTXG1qmXl2+vVR7z0gTeAoa+M8xqGuKxYKuCMUcB6A/auM7WsBOSdEA2ZGVBAElVCg3n2z4mcFleqhAwttBvdQCP6hjidEvWCqd1srORLZVHXVPl9aNwd0BNjDNt5BP26TzCGXvtYodWGYdo+DJ/0ZIGJUjs6GeyUufxD0yVnj31skX199DmZDw+jNYpleIh2E2ajc34sXnFWBCmKTshyjMGlWRD+QQclhpbIfEkTGwi6rFJniO3XvJQ2wPZgEX9YdjiOWe7/Z/+sEWamh98NndUyCQssRph9t+7peGbeC8ERZT/ISiG4EcE0kRmglm/rutOv4Kbdxng6Lqh3KiZXfhWEtI=;KwYV4xCDY1IGjKwHZYy8xg=="

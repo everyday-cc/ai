@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/this-real-life-invisibility-cloak-wi
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/this-real-life-invisibility-cloak-will-hide-you-from-ai-cameras-3538927/amp/1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 650
     height: 400
     isCached: true
+
+related:
+  - title: "Viral video: Students create 'invisibility sweater' to hide from AI cameras, netizens say 'so ugly'"
+    excerpt: "Wearing the sweater makes the person practically \"invisible\" to AI people detectors. Despite the fact that the developers' first goal was to identify vulnerabilities in machine learning systems, they ended up with a pattern that can't be detected by AI scanners on textiles."
+    publishedDateTime: 2022-11-21T07:34:00Z
+    webUrl: "https://www.dnaindia.com/viral/report-viral-video-students-create-invisibility-sweater-to-hide-from-ai-cameras-netizens-say-so-ugly-3004124"
+    ampWebUrl: "https://www.dnaindia.com/viral/report-viral-video-students-create-invisibility-sweater-to-hide-from-ai-cameras-netizens-say-so-ugly-3004124/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/viral/report-viral-video-students-create-invisibility-sweater-to-hide-from-ai-cameras-netizens-say-so-ugly-3004124/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 45
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/11/21/2555515-viral-video-2.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "1yAbzVEkRFjlsKL6m4dk5rTJmXlNTVBCHJmW1u0RsXuWcpQviDovu3BfmArgnv+nVqkaNJ7L2PCLIUwfiEv8/i2z2c/XSPZeQaoxzTiaYap1aIMA6UD+6E0W/sC9uB4jCKTtUs9O20LzhvEJW5KnFyS2q5pl5VSIqzsH+8CujZ7tagWKRoSSn2kWGj7mIF4Mo0pqcK2Yv+bSCa0O3WUkfjJvNGdHztAnhF5G0rUWgxR55OgPf4RcuDC+wae8ezSXQFVFZ0Eb/R+2+Fo7oLCZAostKaaDYVHwzlgraiAJ34/lDwoDlpeL/6/pDE097G6LdYCO8NNz0gqq/tel1N4VCkF9Mu/RQLQkyzi8tlh23fZrVqjvDNmdAxLnsAnIpF+nkxHeylHWs6CwvCAN0NM695s7mWByGI/Wj6nOL2NHAGwBsTDpTi+9DdJOk5RowszAMVUMO+Kdh/s2ESXs9r4T0H2hhQWb8MN5MlOgCrLW/qBxMEAhF4tvQXCQSRBBofwwXW75wDO1Ulzw78cpevOGhQ==;I1ogBqrS/4Gmuvpm33RGjg=="
 ---

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stellantis acquires AI and autonomous driving start-up aiMotive"
+    excerpt: "“aiMotive’s class-leading expertise and start-up spirit will accelerate our journey to deliver our Dare Forward 2030 goals.” aiMotive’s technology product portfolio is focused on four key areas within artificial intelligence and autonomous ..."
+    publishedDateTime: 2022-11-21T08:45:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/stellantis-acquires-ai-and-autonomous-driving-start-up-aimotive"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 37
+    images:
+      - url: "https://www.newelectronics.co.uk/media/ssfaxoqz/aimotive.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stellantis Accelerates Autonomous Driving Journey with Acquisition of aiMotive, a Leading Artificial Intelligence and Autonomous Driving Start-up"
     excerpt: "Stellantis N.V. and aiMotive, a leading developer of advanced artificial intelligence and autonomous driving software, today announced that they have entered into an agreement for Stellantis to acquire aiMotive."
     publishedDateTime: 2022-11-17T12:55:00Z
