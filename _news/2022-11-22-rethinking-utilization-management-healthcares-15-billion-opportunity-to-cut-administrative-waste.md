@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T19:42:00Z
 originalUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/rethinking-utilization-management-healthcare-s-15-billion-opportunity-to-cut-administrative-waste.html"
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/rethinking-utilization-management-healthcare-s-15-billion-opportunity-to-cut-administrative-waste.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Becker's Hospital Review

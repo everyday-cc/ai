@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T20:07:00Z
 originalUrl: "https://venturebeat.com/security/forrester-offers-guidance-on-getting-zero-trust-right-and-achieving-security-goals/"
 webUrl: "https://venturebeat.com/security/forrester-offers-guidance-on-getting-zero-trust-right-and-achieving-security-goals/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: VentureBeat

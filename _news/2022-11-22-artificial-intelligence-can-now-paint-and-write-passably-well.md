@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T20:50:00Z
 originalUrl: "https://www.bostonglobe.com/2022/11/21/business/artificial-intelligence-can-now-paint-write-passably-well/"
 webUrl: "https://www.bostonglobe.com/2022/11/21/business/artificial-intelligence-can-now-paint-write-passably-well/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Boston Globe

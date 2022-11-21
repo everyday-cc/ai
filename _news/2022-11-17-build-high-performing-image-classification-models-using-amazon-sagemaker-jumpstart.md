@@ -43,6 +43,15 @@ related:
         width: 1551
         height: 774
         isCached: true
+  - title: "Identify key insights from text documents through fine-tuning and HPO with Amazon SageMaker JumpStart"
+    excerpt: "Organizations across industries such as retail, banking, finance, healthcare, manufacturing, and lending often have to deal with vast amounts of unstructured text documents coming from various sources, such as news, blogs, product reviews, customer support channels, and social media. These documents"
+    publishedDateTime: 2022-11-21T20:22:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-key-insights-from-text-documents-through-fine-tuning-and-hpo-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
 
 secured: "x1+Gv8izQPaoKpstlZTUzM5bWRLiUZTom3938dmzxbu1bx1dMZt+GkoXZyQ5gwp7V1/PRYwwSkMwAkG7HPdf2oHa1UQ1aSLFjKW6GZeRe22bsf4+F5+j5YK4MO0Ip3iNKoyVkjmgYes4rK5e48ZM57rwPwmTuuNyzNT2PzFulyyESq6ZPpxIsvctIQ02de//GAEWawwJLICGXbNI3hMQhcDztDxPxUTnUisqo5wppRv47HS5jepX7YJIZa6pwb9MVkOIczOLk8T6b9G2TY8/p7sWPWI7lxQuHJqp0HISv6/1xTzVdeLfHoumL+LBnEMSTa8BcL+oAf74fgYT0Nz70Y18v5XbFB5CB7+4aS6Hs9k=;K0vJ/HhU0ZgKO/w/cWokEQ=="
 ---

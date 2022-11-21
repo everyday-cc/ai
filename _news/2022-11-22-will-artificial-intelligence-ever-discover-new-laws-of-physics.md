@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-21T17:00:00Z
 originalUrl: "https://www.newscientist.com/article/mg25634141-200-will-artificial-intelligence-ever-discover-new-laws-of-physics/"
 webUrl: "https://www.newscientist.com/article/mg25634141-200-will-artificial-intelligence-ever-discover-new-laws-of-physics/"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/11/21112539/SEI_134176345.jpg"

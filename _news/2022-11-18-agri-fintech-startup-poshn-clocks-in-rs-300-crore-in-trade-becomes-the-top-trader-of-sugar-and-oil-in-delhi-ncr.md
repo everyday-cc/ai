@@ -35,20 +35,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Agri-Fintech Startup Poshn Clocks in INR 300 Crore in Trade; Becomes the Top Trader of Sugar and Oil in Delhi NCR"
-    excerpt: "Agri-Fintech Startup Poshn Clocks in INR 300 Crore in Trade; Becomes the Top Trader of Sugar and Oil in Delhi NCR"
-    publishedDateTime: 2022-11-17T06:26:00Z
-    webUrl: "https://www.businesswireindia.com/agri-fintech-startup-poshn-clocks-in-inr-300-crore-in-trade-becomes-the-top-trader-of-sugar-and-oil-in-delhi-ncr-81799.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 3
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_81799.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xS93T5jPyP/jweWHGnsVLh8UoztHXSvEaKqaYqW3CfnuTiIgSNagevwGzLAhS/jL3jM7EW+I0fmPgN6/aJBNGAEZZ12tXTkXBm9CIB3uPoc1t26tNpjVHqiX3FBSY2DMlr9MKjPWNrdSo6lYQSSSrbHgfL5rDd2OQGSBnygu7uzp8vx+hHwgDskwNAeFUSrPWIWNjd9hbl3gRhvxykEAxmCr7XOBJhqJjvSJSE5MZK/mGkk065uhKENGq+3ykawszwjrCUWn1lSr+iKOV8v8On18/+LISXRGbR4uKjCfVtXc2B45tdxiDE3TaDZS/1RkQMvkuW9FzkOwuWM1f3Ts7GcOQgbpohHCT/hXLq+fk5Q=;c6w0elirKn5pRiUYsfiClw=="
 ---

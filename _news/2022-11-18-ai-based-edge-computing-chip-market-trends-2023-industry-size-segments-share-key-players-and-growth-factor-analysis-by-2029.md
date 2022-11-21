@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market Statistics 2022 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence in Retail"
-    publishedDateTime: 2022-11-17T04:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-statistics-2022-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2022-11-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lega-Tech Artificial Intelligence Market Production, Revenue and Status, Report 2023, Upcoming Trends, Demand, Regional Analysis and Forecast 2029"
     excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 111 Pages Report\" Global"
     publishedDateTime: 2022-11-18T07:49:00Z
@@ -97,9 +83,9 @@ related:
       domain: benzinga.com
     quality: 0
   - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
-    excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the foreca"
-    publishedDateTime: 2022-11-21T18:40:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717846.htm"
+    excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the forecast period. Most organizations across the globe have years of stored video footage,"
+    publishedDateTime: 2022-11-21T19:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/21/9717846.htm"
     type: article
     provider:
       name: TMCnet

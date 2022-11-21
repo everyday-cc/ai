@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T20:29:00Z
 originalUrl: "https://www.computerweekly.com/ezine/CW-Asia-Pacific/CW-APAC-Trend-Watch-Artificial-intelligence-in-APAC"
 webUrl: "https://www.computerweekly.com/ezine/CW-Asia-Pacific/CW-APAC-Trend-Watch-Artificial-intelligence-in-APAC"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Computer Weekly

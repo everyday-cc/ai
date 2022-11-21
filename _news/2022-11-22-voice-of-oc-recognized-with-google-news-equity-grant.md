@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T17:47:00Z
 originalUrl: "https://voiceofoc.org/2022/11/voice-of-oc-recognized-with-google-news-equity-grant/"
 webUrl: "https://voiceofoc.org/2022/11/voice-of-oc-recognized-with-google-news-equity-grant/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Voice of OC

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/19/full-on-robot
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: The Guardian
@@ -30,33 +30,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Notion AI Wants To Be Your New Writing Assistant"
-    excerpt: "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical"
-    publishedDateTime: 2022-11-17T05:24:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6375be983ee8c63117f59b8f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "Why AI is the assistant every creative needs"
-    excerpt: "Others were at it before us. In 2018, Lexus released an advertisement completely scripted by AI. The company used IBM Watson, an AI system, to analyse 15 years of award-winning car ads. Watson managed to identify the elements of successful ads that ..."
-    publishedDateTime: 2022-11-18T01:22:00Z
-    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/why-ai-is-the-assistant-every-creative-needs/news-story/85e8564282fe2d095fdd680082dc219b"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "OjedWOMpctXcWKR19TYDhlLgAbuF4xoy/9rVoxzTaLBNcEyVskJ6sgincXxPV7x6Uxxs7yaD57/L1LDPIsj5fB6ZG/4hzB0w29cQmiTRbxzqFk3pmJwT1pQpJuQPZ6JqYCZGlHRrWabisv0CSasjRFeocxngxVJY3IWJ4i3mBdxVK3845/mXXI8Srq0SOC1pvb0aRNtrUbjbf4IrB6F5Xn8yCJ+io+CSDURmo+AidPEh2uUKJvEl5qMcmR6+nDRcUppf66PsB6ZE42JRigbr6/4KrqGCyreBfKShEjM/Tsar4kpe7nkhT3D7ONWmx/Sk8Jqqz6BuTV7oZr1rZFi0Tc66NL3mESRfrtv4H5QGrOFa6iVOSdLa4BTj0HUKu0+o9n2NMeVUeMvrRXavhHFWh0UggvElm6FSUvoBwjD9EjoEUY8RDJZA/XGBKoUM8se9PKRDAokaTOfxrNX3ESIuzM6i9SVfBvx8KH5Sx12seaszWbTWKBA0pQFOl/unZv6KW07AyRIlBSmAwwbRMFZ29w==;oyns+gyJuUTMcQ1ZP/n7SQ=="
 ---

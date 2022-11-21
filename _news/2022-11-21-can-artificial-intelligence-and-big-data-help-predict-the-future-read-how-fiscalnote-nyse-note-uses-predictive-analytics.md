@@ -69,19 +69,33 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "Mutual fund transfer agency CAMS looks at mainstreaming analytics, AI: Chief Platform Officer Ravi Kethana"
-    excerpt: "Working towards the goal of customer ease, India's largest mutual fund transfer agency Computer Age Management Services Limited (CAMS) is looking at mainstreaming analytics, artificial intelligence and blockchain,"
-    publishedDateTime: 2022-11-17T05:05:00Z
-    webUrl: "https://www.ptinews.com/news/business/459145.html"
+  - title: "Oosto Chief AI scientist tells ISC East attendees about a bold new vision for video analytics"
+    excerpt: "Historically, the AI in video analytics is usually single-threaded and purpose-built to perform a specific function (e.g., facial recognition, object detection, license plate recognition). This limits an organization’s ability to have a more complete ..."
+    publishedDateTime: 2022-11-21T21:12:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/press-release/21287938/oosto-oosto-chief-ai-scientist-tells-isc-east-attendees-about-a-bold-new-vision-for-video-analytics"
     type: article
     provider:
-      name: PTI
-      domain: ptinews.com
-    quality: 21
+      name: Security
+      domain: securityinfowatch.com
+    quality: 28
     images:
-      - url: "http://www.ptinews.com/cms/gall_content/2022/11/2022_11$large_Ravi-Kethana2.jpg"
-        width: 302
-        height: 301
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/11/Oosto_image1.637be72b99981.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "BPT Analytics Ltd Launches 'BPT20: Artificial Intelligence In Drug Discovery Productivity Index'"
+    excerpt: "BPT20: AI in Drug Discovery Productivity Index BPT20 Index includes the twenty drug design companies with some of the most advanced AI-pl"
+    publishedDateTime: 2022-11-21T19:22:00Z
+    webUrl: "https://menafn.com/1105213898/BPT-Analytics-Ltd-Launches-BPT20-Artificial-Intelligence-In-Drug-Discovery-Productivity-Index"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/21/EP_74007image_story.jpeg"
+        width: 940
+        height: 492
         isCached: true
 
 secured: "7WwuqAiQdTmbpbwfbU5x9aHfBpVEmzQHKxbpX/4YfK2163U5Av/HYoTqvSWWf652igEzp9/heOnVmwwX50j5YxZ7pn2YL6pC2Gyakm+jUqIMcRTgn1njOFk3HvNd4iPeQHzU4aRB9sdoU0XhJAYqdOTZ6zN7S22YkSueJw+0pqMOfNFBsntr89SjYP7SWHVFnOiF+08SjkPQFLPHyMa+XGqBGl2Uoc2mXMPDDcuAksI8A1O7jhm4YdAHjWjjSB0QDh5XY1v8q4J8c1b/gy0PifxGX45ElxtgTdAyYOcaCwhg5oNO3a2tT9cqltALTF/9Zq98tFXGi9GhyEEOLdS2ikiyUYsUWvZaUzw1yTJel1Q=;+uw/g6J/I+9b+HkKdQk7OA=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T17:57:00Z
 originalUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2022/11/21/justin-mortara-ensodata-ceo.html"
 webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2022/11/21/justin-mortara-ensodata-ceo.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

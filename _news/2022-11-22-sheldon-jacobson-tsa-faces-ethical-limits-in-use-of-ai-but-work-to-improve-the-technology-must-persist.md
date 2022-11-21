@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T19:59:00Z
 originalUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-tsa-airport-security-artificial-intelligence-ai-20221121-4whelldb2fa2vogfmkmtr5x36y-story.html"
 webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-tsa-airport-security-artificial-intelligence-ai-20221121-4whelldb2fa2vogfmkmtr5x36y-story.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Chicago Tribune

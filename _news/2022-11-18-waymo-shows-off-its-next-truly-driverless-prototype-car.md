@@ -39,22 +39,15 @@ related:
         width: 1638
         height: 1043
         isCached: true
-  - title: "'Driverless' Car Crashes Into Motorcycle And Injures 2, Video Shows"
-    excerpt: "It may sound rather supernatural! But a \"driverless\" car – not a self-driving vehicle –parked at a gas station in India started moving on its own and rammed into a two-wheeler, dragging its ..."
-    publishedDateTime: 2022-11-17T04:28:00Z
-    webUrl: "https://www.ibtimes.com/driverless-car-crashes-motorcycle-injures-2-video-shows-3636529"
-    ampWebUrl: "https://www.ibtimes.com/driverless-car-crashes-motorcycle-injures-2-video-shows-3636529?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/driverless-car-crashes-motorcycle-injures-2-video-shows-3636529?amp=1"
+  - title: "Fully Driverless Lyft Service Coming to Los Angeles"
+    excerpt: "The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless service in the second-largest city in the US. Following a rollout in Las Vegas, Motional's all-electric ..."
+    publishedDateTime: 2022-11-20T08:08:00Z
+    webUrl: "https://au.pcmag.com/cars-auto/97374/fully-driverless-lyft-service-coming-to-los-angeles"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/3844060/snow.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
   - title: "Lyft Aims To Alleviate Los Angeles Traffic Accidents With a New Driverless Ride-Hail Service"
     excerpt: "The rideshare company has partnered with AV automaker Motional to expand its driverless cab service. While the Lyft was previously testing out self-driving cars in Las Vegas, it has now officially ..."
     publishedDateTime: 2022-11-17T23:34:00Z
