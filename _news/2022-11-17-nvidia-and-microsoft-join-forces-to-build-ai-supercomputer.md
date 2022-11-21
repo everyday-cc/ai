@@ -64,22 +64,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Microsoft, Nvidia partner to build a massive AI supercomputer in the cloud"
-    excerpt: "The partnership makes Microsoft Azure the first public cloud to incorporate Nvidia's full AI stack – its GPUs, networking and AI software."
-    publishedDateTime: 2022-11-16T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ceedd03cba1eadb3ef14a3155671348e716ed0c8/2021/05/19/7b33da8e-a1fe-4eef-8ef1-08b606f226c6/zdnet-azure-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft and Lockheed Martin launch deal on innovation in AI, 5G and more"
     excerpt: "The intent behind this is to allow the DOD to test military tech in cost-efficient and immersive environments. Uniting the power of Azure and Lockheed's 5G.MIL systems will also enable communication systems' linkage with existing DOD networks, while ..."
     publishedDateTime: 2022-11-16T17:04:00Z
@@ -223,15 +207,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Nvidia, Microsoft Join Forces to Launch Artificial Intelligence Computer"
-    excerpt: "By Sabela Ojea Nvidia Corp. said Wednesday that it signed a multi-year collaboration with Microsoft Corp. to create an artificial intelligence"
-    publishedDateTime: 2022-11-16T13:36:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-microsoft-join-forces-to-launch-artificial-intelligence-computer-271668609379"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
   - title: "Nvidia and Microsoft partner to build AI supercomputer"
     excerpt: "Nvidia Corp. today announced that it’s partnering with Microsoft Corp. to build a supercomputer optimized for running artificial intelligence software. The system will be one of the most powerful AI supercomputers in the world,"
     publishedDateTime: 2022-11-16T18:20:00Z
@@ -297,20 +272,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "NVIDIA Partners With Azure to Build Massive Cloud AI Supercomputer"
-    excerpt: "NVIDIA today announced a multi-year collaboration with Microsoft to build what the companies said will be one of the most powerful AI supercomputers in the world, powered by Microsoft Azure’s supercomputing infrastructure combined with NVIDIA GPUs,"
-    publishedDateTime: 2022-11-16T14:57:00Z
-    webUrl: "https://insidehpc.com/2022/11/nvidia-partners-with-azure-to-build-massive-cloud-ai-supercomputer/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
-        width: 593
-        height: 290
-        isCached: true
   - title: "Microsoft and Nvidia team up to build massive AI cloud supercomputer"
     excerpt: "Microsoft and Nvidia are on a mission to build one of the most powerful AI supercomputers in the world using Azure cloud infrastructure."
     publishedDateTime: 2022-11-17T08:38:00Z

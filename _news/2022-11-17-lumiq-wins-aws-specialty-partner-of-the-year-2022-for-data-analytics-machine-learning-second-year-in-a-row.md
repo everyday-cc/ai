@@ -1,29 +1,28 @@
 ---
 category: news
 title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
-excerpt: "Bengaluru Karnataka [India] November 17 ANIPRNewswire India leading Data Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data Analytics and Machine Learning at the recent"
-publishedDateTime: 2022-11-17T07:32:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
-webUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
+excerpt: "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape."
+publishedDateTime: 2022-11-17T06:03:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AWS AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/NGE3OTI1MGMtMGU.jpg"
-    width: 630
-    height: 473
+  - url: "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -55,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EOS Data Analytics Joins AWS Partner Network"
-    excerpt: "EOS Data Analytics (EOSDA), a global provider of artificial intelligence (AI)-powered satellite imagery analytics, has joined the Amazon Web Services (AWS) Partner Network (APN), a community of AWS Partners that leverages programs,"
-    publishedDateTime: 2022-11-16T13:17:00Z
-    webUrl: "https://channelvisionmag.com/eos-data-analytics-joins-aws-partner/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 39
-    images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2022/03/cv_display_ad4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Using machine learning and analytics to address healthcare labor challenges"
     excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
     publishedDateTime: 2022-11-17T22:40:00Z
@@ -93,6 +78,6 @@ related:
         height: 301
         isCached: true
 
-secured: "cFTkbqwaEjvdDL4xo9igM/9IRcpwHKlACgtqkmVW+J+Ba7ZbL+CtJ9D4k4NIp4HtsExCknVnVshnx8oXdPFku/CLmTDIvRgsr40ERar1GEIYxU6cMUZ9Ky3ebrHgDOHLuGv6+LxvPHH9BQZyQNINDWl8tWjj+IkG1JGzOj6y648by9xkDMbfrOthWa6KK9lSEZHVFDuzhSDrxAOKnztdhuHOClchUQLAvdJCFBTJZSnMkCWOFK0R6rxVp1geCXLahGEh7A+fOp62UZXatuhPMHwV9f8QOWuo5abuPY1hS5dMDZNV65qOe1IOjdfQi1FrUy2oFJqIEOQYM1+Gm6bR7E8anZ3kRSJ4Qtm+L4rSeAM=;il3DiGMsxN94Rgurdm5rBQ=="
+secured: "HcmjrpAQPzLqw25i8X6F8agka6BsiDtlQ3kvCcg8Fe44e3JkQJ3T+ADQSMNXk4e3NWF7FMZ2S8OYB3n1ewUXmRnn79wZdqe2QT1wIvOS/SN5SipdkJSo8xgESKSSs86snOyWzLUkwgkxWNdfQRZdsUdC0PJZxB3FmMA6x2gIJzs9HllDuMCIWZ8iBb/q1Ee1Bf2nJmwuVjwiFteqxK4rKA3bHcDbsm8x/+zI7LN9B4JK2I0+KQ8tWJxfXOZpjICyzbsV+BgLbAEGhbHMEyMrzg8LB2b4dreLi8DqlXUmWtsjRO89Yq/BQTHYpMQ4Z9SKlNEkCciPL5OokpIbED4Cy3FckI8joCOtJzZvH2MwsAk=;9VODctFwJ4FTVG1tirHzmA=="
 ---
 

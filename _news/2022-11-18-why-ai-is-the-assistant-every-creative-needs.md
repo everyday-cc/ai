@@ -51,15 +51,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Notion is using AI to automatically write your blog posts, job descriptions, and poetry"
-    excerpt: "Zhao thinks Notion AI can help in both cases. “For many users in this space, it solves the cold start problem. And even more than that, it saves time.” Notion AI won’t write you a publishable blog post, but it can help you skip the crappy first draft ..."
-    publishedDateTime: 2022-11-16T14:28:00Z
-    webUrl: "https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 39
 
 secured: "HRTtf8eQEKYb/nF1u8sacCbmvBKD5p5zKrx4LwMW4aHEb5ioHQ9alkK9deX/hG+x2z/OD+UQunM8vRIqsyxHx2mvi52RnXV24sgKPajosauVv3I1jstWrU+KulnnCXlPz+fEqTMamzbSznPidw3G4BykK6ieLSh+919g95hjcd4Q1ElX9u1YRIWVyBalO9UZyWUHP2uUXLyIsYPoPjrsiOYF/2tJNzx/N4ATUVqC9ZrI+CeArZ33cqnFCf7EEhd3o1kfcfkb57OrMraGTXyIKzfM0LTzr9Ym0MEhjxC3+gptGs6ZFw2xCIhrb6CtEHrG1j0HH+7vjVqmpSgPv4AxiWyXUR0ntnzdGO4+MdH9tsY=;9c6UtFzIwa/VmHponPQx2Q=="
 ---

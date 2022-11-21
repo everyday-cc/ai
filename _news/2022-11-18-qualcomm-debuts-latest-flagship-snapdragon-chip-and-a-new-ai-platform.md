@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-sn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -154,15 +154,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Qualcomm launches its latest top-end smartphone chip"
-    excerpt: "US mobile chip giant Qualcomm has unveiled the latest iteration of its flagship SoC, which will be powering many of the most expensive devices next year."
-    publishedDateTime: 2022-11-16T13:38:00Z
-    webUrl: "https://telecoms.com/518477/qualcomm-launches-its-latest-top-end-smartphone-chip/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
 
 secured: "2aZXJFkZuj2waMwyhqd1mTViDrq+Omb97NOiBhFR+uJ27QTrt+gTpL6Mx/Y1rigXhJlJU0d2Vf2R3dH9ZYnjLudJpUqHwPNs7dC0G+IUWvwn81GiBhWcnhkgw4IxJxO892DkGLlKdgq3fRN5SpEDC8SKHTsQm9Nbebr1KBGJNcYjB37hVLEIAvgpDwOHuZGSvfkoXXi4O9s3bGHh00yfzHydnd6lg/PSGjsGUJJhfINwhdVyhvmHwjPN/ASsrCzGX09P2XdSMZZ4OUIj5eNrto5jtWUx5EBvi9fusbKaJNfpzAf04wcs+CwKCLmXN74AfakbyczDpqKhexavhN+K54fMGLWtBFXSMXJO0VWqZ44=;6PPN/rkCKU4aSZXWli0jnA=="
 ---

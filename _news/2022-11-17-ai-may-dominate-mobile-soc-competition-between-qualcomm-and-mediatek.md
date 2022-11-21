@@ -149,15 +149,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Qualcomm launches its latest top-end smartphone chip"
-    excerpt: "US mobile chip giant Qualcomm has unveiled the latest iteration of its flagship SoC, which will be powering many of the most expensive devices next year."
-    publishedDateTime: 2022-11-16T13:38:00Z
-    webUrl: "https://telecoms.com/518477/qualcomm-launches-its-latest-top-end-smartphone-chip/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
 
 secured: "MBINoDw/wdvCOyQq0WTowTpJf/LIayQVZ8TnOqRzk3KpnFtE6+c4O+fyQWuf2xP186l2Bb/KabABW1XkHX9yZ1BUgIWnLOFXqPTBYsdLM0nHDMtKRyA5kbBFiq/fPFNaY3UTsTNdQz9aUqvYsKMeeyN5QJ5Xs/ZORbnbFbuhQcrafPxFovDfb/ucO2I5oIeUWlDR8Pcv1TiDMG4s53Kn9isivVWTAPu/zzHI7U+WSHv3dUVA4TKY7TiLwoD00ZKmVcAbKA9uWS0wX+nzoZ87LuiepM+D8ajOnWoUartPAajrD/nYXDwJZkGU8maGxd5bXNwsn+uGR42rZvp7Z+xoQBzeTnN7KEnrsUgpcaBzY6XLjokC6IW2P8JH9a7ALNZOAPgafimliWGF6SpuYGassijJmmmpbrsHE69vXtSMoxRaJIAkz8C3b/bQN0Pc3NjZYvfRI0Is5OZl3MFME+0fZb5EeYwVNod2IE0O9nHQFV/ThUaBV0cEjB/pIDNA4N+yTJjLC/OHHIt9AVZIUEhq/Q==;loVweArfUEIt2p33rNQuBQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Introducing The AI-Augmented Enterprise Worker"
-    excerpt: "Similar advances have occurred in IT service management and workflow, where AI can improve services exponentially by improving customer service and helping technicians better diagnose issues. Businesses that start thinking today about how AI might augment ..."
-    publishedDateTime: 2022-11-16T14:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/16/introducing-the-ai-augmented-enterprise-worker/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "rgFMWzZIZvtSBbtnA2Qn8j5By/uzOtLN5D5avO5Z1b/KfRyzYUmsIUnVgiH7l6tt9ln9B7xlvxGe8vSMGRRGYXSGerNrb443KyFu23MivqP8T2+2eiIp8rHhktu5tyhceGJE55ajGLgaG9Vw/8X/1IW96TR4ml8prbINNjFHlQZif5NvkkLOOIzjjoodURb22YfLTbJVpGUWPbYBBvlXu7Q7Jd/KVA2DXdrt+n8aZlZpfu5jbJjYKiqqkatz9MDcFBKX488WC/ebc+C3HkSTC3u71WhhkVn+r3IxkslGltsL9RAaabIQBTissRrnjMAP7B3bmoEDSqYBbCBnDnsAAgBnjOJtar1hQxARWEu0TOJV3OLJk/waimaG+rICUlnOT4H6OymW0bzGSCbXfqQDXL02Cz9p9KEJCOhoxPgP2mLAMTTtZ6HguUQGYh8ukoF8JwvwhdPRQtZ6TvoByOc8hwN4Baya6vX2Bt1UScXyr2qFPm9oyFmKYI1yntC106zGfBGFYOsfaLP9A5+KhOMEdQ==;Cmir3GPn55ztreV5LXU16Q=="
 ---

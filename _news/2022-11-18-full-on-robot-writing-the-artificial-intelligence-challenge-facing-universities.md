@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Notion is using AI to automatically write your blog posts, job descriptions, and poetry"
-    excerpt: "Zhao thinks Notion AI can help in both cases. “For many users in this space, it solves the cold start problem. And even more than that, it saves time.” Notion AI won’t write you a publishable blog post, but it can help you skip the crappy first draft ..."
-    publishedDateTime: 2022-11-16T14:28:00Z
-    webUrl: "https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 39
   - title: "Why AI is the assistant every creative needs"
     excerpt: "Others were at it before us. In 2018, Lexus released an advertisement completely scripted by AI. The company used IBM Watson, an AI system, to analyse 15 years of award-winning car ads. Watson managed to identify the elements of successful ads that ..."
     publishedDateTime: 2022-11-18T01:22:00Z

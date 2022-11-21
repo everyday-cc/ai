@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Elon Musk's New Brain Interface Technology"
-excerpt: "Is it true that artificial intelligence will take us over ... Cohen, Ph.D., is the president of the Logic-Based Therapy and Consultation Institute and one of the principal founders of philosophical counseling in the United States."
-publishedDateTime: 2022-11-14T23:19:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology"
-webUrl: "https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp"
+excerpt: "Elon Musk has been in the news for having purchased Twitter. However, he also owns another company. I am not referring to Tesla or SpaceX. It is potentially more revolutionary than either of these. This other company,"
+publishedDateTime: 2022-11-15T03:35:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology"
+webUrl: "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Sm2jlaMQ2wsRvHzn5ZlHXZ2bpibA8qQrhdWfFYJgHrOkNvvPxxE8EV/6Hc+BBob7+4+bKOoCYsfyQjeDre6LBrw1af9wud/FBShl9WHa/AZS9EcS5ygqL93Uhs0jOcVr4PJHcNErYMdPHLgO7uzXY/ZATtxqGJUx26Y8Mh8QQPR7472TIqB/Z4YpIO96Y5mJn1mOurwA2oj8NsMVzB/N/jt5nSM0RwMvZeFYyKGiBg5qQ/KyVZi/nWKmTkkm8dSmz6apCUv6Kpl6UK4H7l8d2awKlixH7fItrcjXh2CIPB54/uYRZIswVC8ZmPABV2mE0SSmUf7PMz5lrCxUbWhY08PCkAxq8WvqvdIgydlZdiPFaW7GZBVdOq+6ZGurAsTeWBToy7moDWmqWjZceXvAJ5jZOI4CeCaCLLFi2u0wjrQ61py2Tn0x/5NQ7vS3dAPgBGOzDuy3vJBL1R5RPD+aMgdtavdtpTJ5zz8Jw8HPzNxo354dicX0yL6ORnNUjQsNQVeOjWbAf0DGBrUB6d4jyA==;n37JBUxby/ap/6RJVD9txQ=="
+secured: "sNxCN8tRiQcs4I5NgRWD/qmHkvp5BHSFEONa4/MwD4p32RVrh10l9rktdPLyE7qaPA0zMvH1aTHgLfB/Ob3SwA+msNO0vgvp5G0LALJ5c7xR9Uy9Po7/Bk2y1nUakTD5Q/JiZ87UlOSRDUV82K/UBwNDzb4i+bcfFnH0uyb1bOfnLryBUPV9ZLCCrhGrbaMVdUF7AdMQUq1e3OR3NFClYhofAqS3YTqLxbMWNCclk17EqJ990cYk2OJE8FvIhoMjIBS68BelIfIQp6NON4VyzBNtLrBgGETSi8xQT8FCRL+BfHfHcf2C86m6dY53gVn81sBm/pmnPljrccfzNRNy1sNmZzjP6YwTFu4zoBjvyCo=;U1m3h9h/q0EDFyWlFV5Rxw=="
 ---
 

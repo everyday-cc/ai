@@ -77,24 +77,6 @@ related:
         width: 531
         height: 250
         isCached: true
-  - title: "Global Industrial Robotics Market Size & Share Projected to Reach to USD 46.1 Billion by 2030, at 14.2% CAGR Growth: Polaris Market Research"
-    excerpt: "According to the research report, the global industrial robotics market size & share was valued at USD 14.1 billion in 2021 and is expected to reach USD 46.1 Billion by 2030, growing at a CAGR of 14.2% during the forecast period."
-    publishedDateTime: 2022-11-16T13:31:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/16/9714630.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Last-Mile Delivery Robot Global Market Report 2022: Potential to Fill the Labor Shortage Gap Presents Lucrative Opportunities"
-    excerpt: "The global last-mile delivery robot market was valued at $18.1 million in 2021, and it is estimated to reach $36.2 million by 2032 at a compound annual growth rate (CAGR) of 6.22% during the forecast period 2022-2032."
-    publishedDateTime: 2022-11-16T13:50:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/16/9714675.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "syzAZEJnTDUng9mroVsm6UXe3W6L6aVBh5D5j11l5qZgVPXiJPzkdRIw0QNquSYQT9enbtAmxX/wCtglTN1JZhSa3cgp0s+X3mZ9Y8KpPI2NQCOmuMNuA02kagqU2zm8O//ct4qf0fhHL9FqEdYLs4+9yr3WmKOdT+WVtItfD4WH1wOxDOv7McdDd2HSbN88oirudxDwdV5G8L7AkzupqwwYOsTALy1j6RRF3fEXoksVe9zXlr4P0vrvWR1Chi1Zo0pYdn4hrn5CmU8G9/LcLbGuR0IcH30Kap8ejZQh9BaOuJqc5VYbJ9bjWQaMaenbM709P08LBwsgtAw9vZVbAjBKf9Iz+1yqBqJquqNwp/0=;XNnQrQjUzkTAughfqfeoKg=="
 ---

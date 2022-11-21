@@ -19,17 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Global models and predictions of plant diversity based on advanced machine learning techniques"
-    excerpt: "Modern machine learning techniques and newly compiled plant distribution data were used to design the models. The resulting global maps of plant diversity provide a solid foundation for large-scale biodiversity monitoring and research on the origin of ..."
-    publishedDateTime: 2022-11-16T14:28:00Z
-    webUrl: "https://phys.org/news/2022-11-global-diversity-based-advanced-machine.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 7
-
 secured: "JdAOlxFvxALsye32J3c2Ap8gUwAbZvbB0oUvLuymsyNhraYxZdwYF++9u4tN5G0YVcbmMYEgXU2ZLusBE4/0mXuflNPUwMLk1auPye7BJwT9pQBYlQV7PTJGysxNKdkcFNvA3NIoc+r8KbdspyhUjvUETJiISBwOEKgkL+6ZSevXFOoOzbwI8R4dfDPbLAf2M63JHHQkVc82NeFr68m2FDPzrJ+u4xM0NNdS2FFzRL277ILnLijP1uPPhJ8yu7pDmZAzc1tVcA3kTfmkI6Ai4Ugp5wFBFtUsnh/ewc/fmx3sCpN+9KAdRfEgwZYCa9z32qwFPAQjC0Uta2b59aUSrCO4EAt766lX4VL89SnNY7hLdVclaC4szzjRTpZlR7qA6gaC6VtSbXPzMWMdPJFOGrN2WsTpTTpcWxXbWvPrXkpiQ6AyFOB4fUdi5/yCT6QdxNIyd4THVH8eHeLN2HoXVeNyNGk0kgWeGjPqfcrsKEyUgXg0CbRB5MRfOP7Q4tYboWXX+qv7IMhHpPvVLVzOAQ==;aZEFTM/FRnqadUiAQx4g1w=="
 ---
 
