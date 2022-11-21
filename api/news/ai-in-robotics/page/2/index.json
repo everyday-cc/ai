@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-11-11-amazon-debuts-sparrow-a-new-bin-picking-robot-arm.md",
-      "title": "Amazon debuts Sparrow, a new bin-picking robot arm",
-      "excerpt": "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "publishedDateTime": "2022-11-10T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-11-kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire.md",
       "title": "Kodiak Robotics Shows What Happens When A Robotruck Blows A Tire",
       "excerpt": "Kodiak Robotics in a statement. “We can’t control the hazards trucks will face on the open road, but we can control how the trucks behave when a critical situation occurs. By demonstrating ...",
@@ -1348,6 +1296,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-ai-company-secures-91m-for-fleet-of-automated-recycling-robots.md",
+      "title": "AI company secures $91M for fleet of automated recycling robots",
+      "excerpt": "AMP Robotics said a recent flood of funding will support the technology needed to do better with the recycling of plastics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2431667403016/2022/1/911d0aad918d0cc8241708e8274f6bcc/v1.5/AI-company-secures-91M-for-fleet-of-automated-recycling-robots.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
+      "publishedDateTime": "2022-11-02T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

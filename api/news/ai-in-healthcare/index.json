@@ -571,6 +571,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-elon-musks-new-brain-interface-technology.md",
+      "title": "Elon Musk's New Brain Interface Technology",
+      "excerpt": "Is it true that artificial intelligence will take us over ... Cohen, Ph.D., is the president of the Logic-Based Therapy and Consultation Institute and one of the principal founders of philosophical counseling in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/neuralink.jpg?itok=oTasHUsX",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
+      "publishedDateTime": "2022-11-14T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-mcra-expands-into-anesthesia-and-critical-care-therapy-specializations-hires-fda-assistant-director.md",
       "title": "MCRA Expands into Anesthesia and Critical Care Therapy Specializations, Hires FDA Assistant Director",
       "excerpt": "Mr. Courtney joins MCRA from the US Food and Drug Administration (FDA), where he spent over 15 years with the Center for Devices and Radiological Health, most recently as Assistant Director of the Anesthesia Devices Team.",
@@ -1347,50 +1390,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-artificial-intelligence-deciphers-detector-clouds-to-accelerate-materials-research.md",
-      "title": "Artificial intelligence deciphers detector 'clouds' to accelerate materials research",
-      "excerpt": "\"This new algorithm will really help.\" The speed boost offered by artificial intelligence promises to also alter the experimental process itself. Instead of making decisions after data collection ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221107135815.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221107135815.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

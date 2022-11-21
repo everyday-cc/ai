@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-11-17-artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.md",
-      "title": "Artificial neural network creates synthetic x-ray images to overcome regulatory limitations",
-      "excerpt": "Researchers at the University of Jyväskylä Digital Health Intelligence Laboratory addressed the problem and developed an artificial neural network that creates synthetic x-ray images that can fool even medical experts. A group of researchers from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Osteoarthritis-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "publishedDateTime": "2022-11-17T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-11-17-picture-limitless-creativity-at-your-fingertips.md",
       "title": "Picture Limitless Creativity at Your Fingertips",
       "excerpt": "Now picture Lee 43 years later, stumbling onto DALL-E, an artificial intelligence that generates original works ... “A huge portion of the entire usage is basically art therapy,” Holz, the Midjourney creator, tells me. “The images are not really ...",
@@ -1239,6 +1195,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript.md",
+      "title": "Nauticus Robotics, Inc. (KITT) Q3 2022 Earnings Call Transcript",
+      "excerpt": "Q3 2022 Earnings Conference Call November 14, 2022, 12:00 PM ET Company Participants Jeff Grampp - IR, Gateway Group Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

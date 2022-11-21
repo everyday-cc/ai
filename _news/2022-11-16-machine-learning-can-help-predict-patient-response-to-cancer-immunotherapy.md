@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Machine Learning Can Help Predict Patient Response to Cancer Immunotherapy"
+title: "Machine learning can help predict patient response to cancer immunotherapy"
 excerpt: "It uses deep learning, a form of artificial intelligence, to recognize patterns in large volumes of data. In this case, the data is the amino acid sequences of proteins called T cell receptors (TCRs). TCRs sit on the exterior of the immune system’s T ..."
-publishedDateTime: 2022-11-16T10:00:00Z
-originalUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
-webUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
+publishedDateTime: 2022-11-16T15:44:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/971463"
+webUrl: "https://www.eurekalert.org/news-releases/971463"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Johns Hopkins Medicine
-  domain: hopkinsmedicine.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
@@ -57,6 +57,6 @@ related:
       domain: jhu.edu
     quality: 17
 
-secured: "P6f2Rl69mJjkNiWvRa7xyEDfCTnZrcH34Rhi7dYVez2kqdvswf6HmBPyXw8vCsaByV8nSZOEWJYDIJZiVyIw4Spy0Yt5zpuW/YaJSUpKXxfJWAukmR+quXuXkcDVruiQFRs/ZtLRGCZc9Kv6XHODR6+98n/Tfu0uAv9sqjWuG6qTmjIAYosArdDPJ811UgwSliiKmWK2vcbPgUBbNJOOhTnh5gW/fzs1/urapK25LjAhfJZY1KwzT0bA9Ec/YwB48wbCUK81OO7pwuC6E0HuktlLz8PHtcDQuYQgsrDi+6KplcmN/uKU93TuDSQRJ7kpVLYUSd1gqPrGJIeet7C1eQrycsrOYxXzNONEs85YJh8=;8/xNSPZ5cXcQofeB4hiWOA=="
+secured: "GF43Jg60e1CV8iIticTHIF/u0vP6lACKbZYbraWAU9+Z/o/si/YRI6YKXJEENEUSV/LHZy4lMHWi/ZqaJNy5bJ1DHFYWSduWwY3FCgfa9HAjuu3AtRpjajm9z0FdByFGNk7kK45glKU7L23vRU1CUULk6ZVEaQ/ZWc9AUQk4+0Cx9o1j8NmhFacTeZcW1a4eBZ9c6RaM1f4EUQDWQNQIudXVAolkhLprPzLMQ5rz/iqc/DT14bykibW70jmpYRxaGcJ323E7qIMmclOPrnqlH5Btz5+9qu7jcnaQMK4gVe6DkvBDJqzUZQYLv3ufgG7HtBBLGjEj7pt1A1gTyxXi9dG81uzFTrit391oTWHNhgI=;HoKJ6Bd5JBEUnEMf5lB/Cw=="
 ---
 

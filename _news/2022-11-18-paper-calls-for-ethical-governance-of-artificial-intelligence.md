@@ -7,8 +7,8 @@ originalUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a3104917543
 webUrl: "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: 中国日报网
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "In pursuit of ethical AI"
-    excerpt: "The importance of ethical AI is highlighted from not only a technical or organizational standpoint, it also takes into account individual and societal perspectives around some serious topics"
-    publishedDateTime: 2022-11-16T09:14:00Z
-    webUrl: "https://www.digit.in/features/machine-learning-and-ai/in-pursuit-of-ethical-ai-66028.html"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 54
-    images:
-      - url: "https://static.digit.in/default/602a801211e3413a5367bc1facd09712ecaaf7d5.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "China calls for strengthening AI ethical governance at Convention on Certain Conventional Weapons"
     excerpt: "China on Wednesday submitted a position paper on strengthening the ethical governance of artificial intelligence (AI) to the 2022 Meeting of the High Contracting Parties to the Convention on Certain Conventional Weapons held in Geneva."
     publishedDateTime: 2022-11-17T05:17:00Z

@@ -106,50 +106,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-18-paper-calls-for-ethical-governance-of-artificial-intelligence.md",
-      "title": "Paper calls for ethical governance of artificial intelligence",
-      "excerpt": "China has shared its positions on the supervision, development and use of artificial intelligence, as well as on related international cooperation, in a paper that calls for strengthened ethical governance of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-11-18-best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-roborock-and-more.md",
       "title": "Best Black Friday robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more",
       "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
@@ -1422,6 +1378,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-amazon-debuts-sparrow-a-new-bin-picking-robot-arm.md",
+      "title": "Amazon debuts Sparrow, a new bin-picking robot arm",
+      "excerpt": "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
+      "originalUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
+      "publishedDateTime": "2022-11-10T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

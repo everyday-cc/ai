@@ -58,20 +58,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Fintech to accelerate growth after funding round"
-    excerpt: "A Cardiff-based fintech behind an AI-based credit scoring service to people without a credit history or those looking to secure small loans has secured backing from a number of"
-    publishedDateTime: 2022-11-16T10:21:00Z
-    webUrl: "https://www.insidermedia.com/news/wales/fintech-to-accelerate-growth-after-funding-round"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/AGAM-Shabnam-Wazed-77736-1668515720.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "18/11 – Weekly Fintech Recap"
     excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
     publishedDateTime: 2022-11-19T19:48:00Z

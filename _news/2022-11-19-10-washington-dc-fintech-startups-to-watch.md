@@ -50,20 +50,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Fintech to accelerate growth after funding round"
-    excerpt: "A Cardiff-based fintech behind an AI-based credit scoring service to people without a credit history or those looking to secure small loans has secured backing from a number of"
-    publishedDateTime: 2022-11-16T10:21:00Z
-    webUrl: "https://www.insidermedia.com/news/wales/fintech-to-accelerate-growth-after-funding-round"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/AGAM-Shabnam-Wazed-77736-1668515720.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Falling Valuations Make Fintech and AI Accessible Again"
     excerpt: "Today’s tech era is ripe with innovations in fintech and AI, where advanced platforms and business models allow new players to enter and challenge incumbents. “We continue to see fintech as an expanding market segment. The Industrial sector has seen a ..."
     publishedDateTime: 2022-11-16T19:12:00Z
