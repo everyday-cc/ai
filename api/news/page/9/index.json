@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-10-reading-drivers-set-to-face-yellow-box-junction-fines.md",
+      "title": "Reading drivers set to face yellow box junction fines",
+      "excerpt": "For the first six months drivers blocking the yellow box junctions will only be sent a warning notice by the council, as opposed to penalty charge notices, the Local Democracy Rep",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
+      "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/63E9/production/_127577552_mediaitem127577550.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-63580590.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-63580590.amp",
+      "publishedDateTime": "2022-11-10T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says.md",
+      "title": "Use of government food benefits may slow cognitive aging in eligible seniors, study says",
+      "excerpt": "Nutrition benefits could be an effective way to slow age-related cognitive decline, according to a new study.The study, published Wednesday in the journal Neurology, found that eligible seniors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "originalUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-90d814141c79d2c1ae6043eeb2472008-h-2b8641cbdfa05e06661d58c5c0f151bd-1668041453.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "publishedDateTime": "2022-11-09T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLWT",
+        "domain": "wlwt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market 2022 : Size, Share, Industry Analysis, Growth And Forecast 2028",
+      "excerpt": "Nov 10, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Healthcare Market\" research provides significant and in-depth information on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-column-music-powerful-tool-for-joy-improves-cognitive-processing-speed.md",
       "title": "Column: Music powerful tool for joy, improves cognitive processing speed",
       "excerpt": "In addition, music can help slow age-related cognitive decline by improving aging adults’ cognitive processing speed. Think about that for a moment. We are all part of the \"aging population,\" right?",
@@ -1017,145 +1164,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-ibm-quantum-computing-progress-edges-toward-eventual-utility.md",
-      "title": "IBM Quantum Computing Progress Edges Toward Eventual Utility",
-      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and writes about processors, digital photography, AI, quantum computing ... computing's long-term prospects, IBM said Wednesday it's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/d735aade6ff6f7b818ce6c04b53150e98fc491ad/hub/2022/11/09/f0493856-5ab7-4633-a64a-f011ee909111/ibm-quantum-osprey-flexi-cables.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "publishedDateTime": "2022-11-09T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
-      "title": "Honda planning self-driving electric vehicle fitted with AI",
-      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
-          "width": 660,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-cloud-giants-file-major-eu-antitrust-suit-against-microsoft.md",
-      "title": "Cloud giants file major EU antitrust suit against Microsoft",
-      "excerpt": "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\",",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
-      "originalUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

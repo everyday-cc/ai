@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-eth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
 type: article
 quality: 123
-heat: 134
+heat: 133
 published: true
 
 provider:

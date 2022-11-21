@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Integrated AI can generate $460 billion in incremental profits, report finds"
-    excerpt: "A new report from Infosys reveals $467 billion in incremental profit can be made by global organizations who optimize AI and data practices."
-    publishedDateTime: 2022-11-16T09:00:00Z
-    webUrl: "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/"
-    ampWebUrl: "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/"
+  - title: "From artificial intelligence to business intelligence"
+    excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
+    publishedDateTime: 2022-11-19T22:30:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/from-artificial-intelligence-to-business-intelligence/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars-e1668557733700.jpg?w=1200&strip=all"
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
         width: 1200
-        height: 599
+        height: 675
         isCached: true
 
 secured: "XP6A9qQ+phuN3OLe1rHKV4NtWNQvT3AdPXwLvzgRYFC3qJeotrLsxu/qWabjPgHrqAmTM2SoVojA+2rfMU3xOW/fCoRL+81Yb8FM3kEsEoeAsomOx+pe6Y15Ae1c4T/+5rvNvf2S35QTZ7dc3u8O8dPcA74vkO/f3ftxaRxubsdSkZDq4cukhQJtesPnrRzsH3mpO37zXGZklKdzPQ9BNQXeEdaBeUlrIwH1cY6SYy4awJF5+rixcSv49O9IVkQrYkS0zmn3XfNTWhlBeJeXZ96Xu7aLWcBbyPuiytgf6songrLjxpA5vd/b4HXY5YFqMyjwK0rMNx5rUvaGKiKiWuG4nXiPxOOIhas3BnbD9hjnxcOHdK9tTjBEb2WowvDrylmvo2n5TfnlWa10EwPb25soowAPPse1ESunFaE/3KfGDJxX3oGXGwP57pbV/bRlywSSpbECaWeE3tU6UaMFQTypeqECjFQZi0AgLVX8Fj7GXDDXUJWHUMYv66YoIEJ2irEQBK9ytgbksr+a8OSSjQ==;IIPnotaNNq1cZejq0mtyMw=="

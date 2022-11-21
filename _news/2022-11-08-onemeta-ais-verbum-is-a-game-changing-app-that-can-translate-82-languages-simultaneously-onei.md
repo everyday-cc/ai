@@ -1,21 +1,28 @@
 ---
 category: news
-title: "OneMeta AI’s Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
-excerpt: "OneMeta AI (Ticker: ONEI) created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself as a language translation app after comparisons of Facebook turned Meta's (NASDAQ: META) product began to circulate."
-publishedDateTime: 2022-11-08T10:12:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
-webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-8-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+title: "OneMeta AI's Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)"
+excerpt: "OneMeta AI ONEI created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself ..."
+publishedDateTime: 2022-11-08T11:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei"
+ampWebUrl: "https://www.benzinga.com/amp/content/29609438"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29609438"
 type: article
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "VIJ+VdI72SyhcauA+kDlw1OGQLlfOaeuE6SnUlXvEOQDr7Xgv7hP6tclIHUZFAuotZavEiOTMonOWJNT18392napW3RdKgLZlvmuaCzc7EZ2I5bRrvHPG7uoliTI5Qyuna3qLYCBa+2D78KKsBglekIKCq6oyXiZelcrrUyAgBO6Xlssf3+wfHaHFH346Bxflm0jf9MJAdkl3h1M/reRpU+og3PCV9VpYq3ovivKX6VIc9VMdFWm5pp87fg7L2MvqFSVexNxDeglLkM0ImtMHFY84AWpHp+Ro7HvOmZxqcnqkiz/sSRAhJTdYYzcHtPLdIkbCRJ7XGs529qjYarVBm0K1sOCQkumGtX4aHNLqNKwyOl6paFO/eTnDprxXa5T59A8gDUCt0ouv5N9G5FzgwIOSDtcIc3w3QO98h7iADzT5LxC/PKNctZozb5eaB93Q063cdAEG0FxmpWHy1kwaIK3oivAZAKAeTEitHhJ0tRd9GIdvmZZZfW1UfJGEfF1tMXm32SQ5urBR5DhGPL4vA==;/4+dznIpWDWbtRM8z+WO2Q=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1667837662.png"
+    width: 1222
+    height: 1091
+    isCached: true
+
+secured: "VeS+AiITx0SuP7F6YXTMXDhQvNAdyd3UGiTGLOm3KxQOZ5Dv94VqJrwpEJDESlNLARSKvy9jr/2RYCUHPeKTRsiVdEMOIMnCBdLS2qTWl6lnnP/R3fm5Vw1DyY5+xo2d3FgH8RiWGkVMBZJcvN3t69cFYTEW/2FQvnU1Q17IxGXB2NUsZ07txbYkY5bs2qML7KQh+HS7wsRsM1u97d3TsTbokQNWVH+/Vi2hRzw7FX/ZpB61E6tSRAizfYOZb8qmOc94i2RHyHg6pscvvbT0xh8DUWr3Ewccy0ayQGBCwvAUKCjF8lNLCCuhjyzQp7R+LddOHd4PxHNsRhPQGOQjZP14F/LqmupwfDdcP7JduDs=;/wag5zj8Bm4hk3NBnxENqQ=="
 ---
 

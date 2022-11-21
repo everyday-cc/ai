@@ -40,22 +40,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Mutual fund transfer agency CAMS looks at mainstreaming analytics, AI: Chief Platform Officer Ravi Kethana"
-    excerpt: "Financial products in an era of tech-driven consumerism should be tailored so they are simple to understand, easy to subscribe and seamlessly integrate with partners, Kethana explained in an interview to PTI."
-    publishedDateTime: 2022-11-16T07:15:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/mutual-fund-transfer-agency-cams-looks-at-mainstreaming-analytics-ai-chief-platform-officer-ravi-kethana-9545221.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/mutual-fund-transfer-agency-cams-looks-at-mainstreaming-analytics-ai-chief-platform-officer-ravi-kethana-9545221.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/mutual-fund-transfer-agency-cams-looks-at-mainstreaming-analytics-ai-chief-platform-officer-ravi-kethana-9545221.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 41
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/10/artificial-intelligence-rep.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "EOS Data Analytics Joins AWS Partner Network"
     excerpt: "EOS Data Analytics (EOSDA), a global provider of artificial intelligence (AI)-powered satellite imagery analytics, has joined the Amazon Web Services (AWS) Partner Network (APN), a community of AWS Partners that leverages programs,"
     publishedDateTime: 2022-11-16T13:17:00Z
@@ -71,18 +55,18 @@ related:
         height: 250
         isCached: true
   - title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
-    excerpt: "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape."
-    publishedDateTime: 2022-11-17T06:03:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
+    excerpt: "Bengaluru Karnataka [India] November 17 ANIPRNewswire India leading Data Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data Analytics and Machine Learning at the recent"
+    publishedDateTime: 2022-11-17T07:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 36
     images:
-      - url: "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg"
-        width: 400
-        height: 267
+      - url: "https://cdn.bignewsnetwork.com/NGE3OTI1MGMtMGU.jpg"
+        width: 630
+        height: 473
         isCached: true
   - title: "Using machine learning and analytics to address healthcare labor challenges"
     excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."

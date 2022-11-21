@@ -6,8 +6,8 @@
       "title": "‘Part of the kill chain’: how can we control weaponised robots?",
       "excerpt": "From armed robot dogs to target-seeking drones, the use of artificial intelligence in warfare presents ethical dilemmas that urgently need addressing",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com",
+      "webUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
+      "originalUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -306,7 +306,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -686,6 +686,41 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
+      "title": "Israel deploys remote-controlled robotic guns in West Bank",
+      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
+      "originalUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Sun",
+        "domain": "lasvegassun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1387,58 +1422,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-amazon-debuts-sparrow-a-new-bin-picking-robot-arm.md",
-      "title": "Amazon debuts Sparrow, a new bin-picking robot arm",
-      "excerpt": "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "publishedDateTime": "2022-11-10T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

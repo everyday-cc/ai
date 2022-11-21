@@ -64,17 +64,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Rise of fintech 2.0 - The next phase of fintech evolution"
-    excerpt: "Forbes India and AWS 'The Mavericks' keynote address imparted some insight into 'The Evolution of Fintech: The next phase' and the crucial role of technology in shaping the future of fintech"
-    publishedDateTime: 2022-11-16T07:07:00Z
-    webUrl: "https://www.forbesindia.com/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 24
   - title: "Falling Valuations Make Fintech and AI Accessible Again"
     excerpt: "Today’s tech era is ripe with innovations in fintech and AI, where advanced platforms and business models allow new players to enter and challenge incumbents. “We continue to see fintech as an expanding market segment. The Industrial sector has seen a ..."
     publishedDateTime: 2022-11-16T19:12:00Z

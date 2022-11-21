@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Over $460 billion incremental profits from better data practices, trust in AI, and business integration"
+    excerpt: "Infosys research finds AI and data must join forces to deliver strategic value BANGALORE, India, Nov. 16, 2022 /PRNewswire/ --"
+    publishedDateTime: 2022-11-16T10:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/over-460-billion-incremental-profits-from-better-data-practices-trust-in-ai-and-business-integration-1031917822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+
 secured: "It5NKkKudVT01G9DXz9Ut9QG6B8dkZu7J9twOEi/RKjBsRrzqoynZN+M5XeQeoT7hayUpc+Vz1ofCNpaj1hTJozP3dKj8IG5C3ckARjTyE12X0Q8/QVVNotcYZjqwEW5qk0TdbIDpE9BGxF/tVmnJxdThiR5lcvZDnh9zzRPwreJi2AKz7SCWdAye150A6et1fslx1shD6yRM9Rf5t1p0p1gSDXVJ/2Tcq30JbbKSlNinC2y1/f53OVk8Y0f9apO7k7ABLwjpfPEnkLWDUi58UuDkL1yi6WXhsjsfJ9fExD5rfZ9CsQS9YNf9L8bV643fL4IbbrhEPqDKaONroegGSHkiX1vORF6wi4FJvdvcHlUGHkHi2WuF7UhZPhpTRfZOaf6LgwixEYtTffV2HH28kkJNAYZLHlJBQLqkDq7PM36v6j+hSx6gI27EMHvOGWqEn9rihynvgHShl7iUvAYdL9GY6ogvB+CMVxf06RkCzyvn/NXHwjqHr0pp2YeV8IPWuM2aY1FXgaduLkAbN9y2g==;zNhG6kv7Nb7uzbEgkMnGCA=="
 ---
 

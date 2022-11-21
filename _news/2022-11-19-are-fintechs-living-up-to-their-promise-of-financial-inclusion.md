@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/are-fintechs-living-up-to-thei
 webUrl: "https://www.americanbanker.com/news/are-fintechs-living-up-to-their-promise-of-financial-inclusion"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Machine Learning Enables Inclusive Access To Financial Services"
+    excerpt: "Technology in financial services can be somewhat of a double-edged sword. On one side, new technological innovations, like artificial intelligence (AI) and machine learning (ML), are striving to make financial products and services more available by making ..."
+    publishedDateTime: 2022-11-18T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/18/machine-learning-enables-inclusive-access-to-financial-services/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
 
 secured: "8CaLzfDwwxKLecZbFskcUpLm7fTkg4nQAgT4anm8Kki9/CT7JeMMyacExCPc7DnDRC640uV5jMWm+h0K3RoOtjHkqhhU9pQlyjWeFcJz0EJ4S6bQUubdE+UoDjOgtee70Vjzsdp18YAAtLgsyRRv2zQXp9LdM0SPLasJpJAHMG87il62HPlZRoSsgwnAHKAMh59Lwg9e3iXG8oEnb/y/uMM9KL4wGL9JOiCJS1nB3MAkFz/862nZf2yotcVeYTa9evyUZjR4JGFWYcvp87f6En5tz8wQCnWqWaSHJiNB3aDtRwg1rCRmJLSg9oA0u2GT5FaQajm6crfmb1NibPIkadhnN/rkxXMLCyISl/nRUy+8L7kbltQDWN2S4MeWKSJQR3J9CGVCyiYJRNTyhY1F76qVABL/WuZTuNPkUiRhgDuxQAv/8JNXJ4HOzPAz81AJRak4xTWoW3A2BAXnUaHqEHOsqvwI1VID2KCAUpVvDNeks4EYdOkvXwMmve9lMTgOV1QxONvhm9cMlU8fRt2A3Q==;KeAjnSKB5VNaduSzOz4YrA=="
 ---

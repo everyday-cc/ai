@@ -72,17 +72,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Rise of fintech 2.0 - The next phase of fintech evolution"
-    excerpt: "Forbes India and AWS 'The Mavericks' keynote address imparted some insight into 'The Evolution of Fintech: The next phase' and the crucial role of technology in shaping the future of fintech"
-    publishedDateTime: 2022-11-16T07:07:00Z
-    webUrl: "https://www.forbesindia.com/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/the-mavericks/rise-of-fintech-20-the-next-phase-of-fintech-evolution/81243/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 24
   - title: "18/11 – Weekly Fintech Recap"
     excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
     publishedDateTime: 2022-11-19T19:48:00Z

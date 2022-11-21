@@ -2,6 +2,145 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-09-ibm-quantum-computing-progress-edges-toward-eventual-utility.md",
+      "title": "IBM Quantum Computing Progress Edges Toward Eventual Utility",
+      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and writes about processors, digital photography, AI, quantum computing ... computing's long-term prospects, IBM said Wednesday it's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/d735aade6ff6f7b818ce6c04b53150e98fc491ad/hub/2022/11/09/f0493856-5ab7-4633-a64a-f011ee909111/ibm-quantum-osprey-flexi-cables.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
+      "publishedDateTime": "2022-11-09T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
+      "title": "Honda planning self-driving electric vehicle fitted with AI",
+      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
+          "width": 660,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "朝日新聞社",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-cloud-giants-file-major-eu-antitrust-suit-against-microsoft.md",
+      "title": "Cloud giants file major EU antitrust suit against Microsoft",
+      "excerpt": "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\",",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
+      "originalUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-microsoft-365-apps-continue-to-be-the-most-exploited-cloud-services.md",
       "title": "Microsoft 365 Apps Continue to be the Most Exploited Cloud Services",
       "excerpt": "Microsoft 365 still gets the lion’s share. Attackers can choose to compromise a legitimate account and abuse multiple services to launch attacks from a trusted location, targeting that organization or even an external objective. Similarly, they can spin ...",
@@ -66,49 +205,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
-      "title": "AWS Launches Infrastructure Region in Switzerland",
-      "excerpt": "AWS Europe (Zurich) Region allows customers to run workloads and securely store data in Switzerland while serving end users with even lower latency The new AWS Region is estimated to support more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
-      "originalUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-switzerland-81666.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81666.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -420,6 +516,40 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-aws-launches-infrastructure-region-in-switzerland.md",
+      "title": "AWS Launches Infrastructure Region in Switzerland",
+      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Europe (Zurich) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-switzerland-/2022/11/09/9709024.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -992,162 +1122,6 @@
         "AI",
         "AI in Marketing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-google-and-renault-are-creating-a-software-defined-vehicle.md",
-      "title": "Google and Renault are creating a 'software defined vehicle'",
-      "excerpt": "Google partnered with Renault Group to bring Android-powered infotainment systems to cars. The two companies are now building on this partnership to design and deliver the digital architecture for a more complex concept,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "originalUrl": "https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a1ed710e73713aed5efb0ac9d693389b2af75905/2022/11/08/dcf2798d-ce78-4063-b61c-edac98daf4e2/cars-in-traffic-with-tech.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-renault-are-creating-a-software-defined-vehicle/",
-      "publishedDateTime": "2022-11-08T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-in-the-age-of-artificial-intelligence-human-skills-are-needed-more-than-ever.md",
-      "title": "In the age of artificial intelligence, human skills are needed more than ever",
-      "excerpt": "Alan Turing, widely considered to be the father of theoretical computer science and artificial intelligence, reportedly said that “once the machine thinking method had started, it would not take ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2022/11/08/bc563069-25d9-4e6d-bab5-e1f1aa801ff8_edbd8e94.jpg?itok=Ya-ASJIt&v=1667899505",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "publishedDateTime": "2022-11-08T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-id-selfie-improving-digital-identity-verification-using-aws.md",
-      "title": "“ID + Selfie” – Improving digital identity verification using AWS",
-      "excerpt": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/id-selfie-rekognition.jpg",
-          "width": 1547,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T10:55:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

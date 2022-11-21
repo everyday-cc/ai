@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-sn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm Snapdragon 8 Gen 2 Delivers More AI For Mobile"
-    excerpt: "Day 1 of the Snapdragon Tech Summit kicked off with the introduction of the latest smartphone system-on-chip (SoC) for smartphones – the Snapdragon 8 Gen 2."
-    publishedDateTime: 2022-11-16T08:41:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/11/16/qualcomm-snapdragon-8-gen-2-delivers-more-ai-for-mobile/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6374aa9e9444d36ccde85854/0x0.jpg?format=jpg&width=1200"
-        width: 663
-        height: 448
-        isCached: true
   - title: "Qualcomm Ups The Snapgragon AI Game"
     excerpt: "This translates to a 60% increase in performance per watt for AI inferencing. The Qualcomm AI Engine includes a Sensing Hub, the Kyro CPU, the Adreno GPU, and the Hexagon DSP ... [+] Processor. The Hexagon Processor also now supports a new innovation calle ..."
     publishedDateTime: 2022-11-16T17:10:00Z

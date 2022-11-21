@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-17-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript.md",
+      "title": "Nauticus Robotics, Inc. (KITT) Q3 2022 Earnings Call Transcript",
+      "excerpt": "Q3 2022 Earnings Conference Call November 14, 2022, 12:00 PM ET Company Participants Jeff Grampp - IR, Gateway Group Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail.md",
+      "title": "Fractal unveils interconnected AI platform to automate decision-making for CPG, manufacturing and retail",
+      "excerpt": "Fractal AI has developed an end-to-end AI autonomic decision-making platform, Asper AI, for CPG, manufacturing and retail businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
+      "originalUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481-e1668554800160.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
+      "publishedDateTime": "2022-11-16T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-worrying-loophole-in-italys-facial-recognition-ban-points-to-the-eus-future.md",
       "title": "Worrying loophole in Italy’s facial recognition ban points to the EU’s future",
       "excerpt": "Italy has introduced a new facial recognition ban, but it features a glaring exemption that is set to echo across the EU. “The moratorium stems from the need to regulate eligibility requirements, conditions, and guarantees relating to facial recognition ...",
@@ -440,6 +534,41 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
+      "title": "Israel deploys remote-controlled robotic guns in West Bank",
+      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
+      "originalUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Sun",
+        "domain": "lasvegassun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1072,167 +1201,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
-      "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
-      "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
-      "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/16/10/hands_type_on_keyboard_of_laptop_displaying_bar_chart_data_metrics_analytics_review_by_peopleimages_gettyimages-1179754541_2400x1600-100857891-large-100931301-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
-      "publishedDateTime": "2022-11-15T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m.md",
-      "title": "Making data available on demand for AI and ML workloads, Weka lands $135M",
-      "excerpt": "The company has partnered with leading cloud providers, including AWS, Azure, GCP and Oracle ... s first multi-cloud data platform for next-generation workloads like AI, ML and HPC,” he said. By 2026, large enterprises will triple their unstructured ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1124400900.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
-      "publishedDateTime": "2022-11-15T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-amazon-to-test-facial-recognition-technology-to-verify-seller-identity.md",
-      "title": "Amazon to test facial recognition technology to verify seller identity",
-      "excerpt": "Amazon will test facial recognition, forgery detection, and other automated technologies as a new alternative for verifying the identities of online sellers. The test will be rolled out as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
-      "originalUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/amazon-id.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

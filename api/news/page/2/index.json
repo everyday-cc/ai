@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-18-paper-calls-for-ethical-governance-of-artificial-intelligence.md",
+      "title": "Paper calls for ethical governance of artificial intelligence",
+      "excerpt": "China has shared its positions on the supervision, development and use of artificial intelligence, as well as on related international cooperation, in a paper that calls for strengthened ethical governance of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202211/18/WS6376e049a31049175432a81e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202211/18/6376e35da31049178c918cb3.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "AlexaTM 20B is now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we announce the public availability of Amazon’s state-of-the-art Alexa Teacher Model with 20 billion parameters &nbsp;(AlexaTM 20B) through Amazon SageMaker JumpStart, SageMaker’s machine learning hub. AlexaTM 20B is a multilingual large-scale sequence-to-sequence (seq2seq) language model developed",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/alexatm-sagemaker-jumpstart.jpg",
+          "width": 1551,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T15:13:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-stanford-debuts-first-ai-benchmark-to-help-understand-llms.md",
       "title": "Stanford debuts first AI benchmark to help understand LLMs",
       "excerpt": "Watch now. In the world of artificial intelligence (AI) and machine learning (ML), 2022 has arguably been the year of foundation models, or AI models trained on a massive scale. From GPT-3 to DALL-E, from BLOOM to Imagen — another day, it seems ...",
@@ -113,7 +209,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -261,7 +357,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -601,7 +697,7 @@
       "originalUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -989,7 +1085,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1134,102 +1230,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.md",
-      "title": "Artificial neural network creates synthetic x-ray images to overcome regulatory limitations",
-      "excerpt": "Researchers at the University of Jyväskylä Digital Health Intelligence Laboratory addressed the problem and developed an artificial neural network that creates synthetic x-ray images that can fool even medical experts. A group of researchers from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Osteoarthritis-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "publishedDateTime": "2022-11-17T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-picture-limitless-creativity-at-your-fingertips.md",
-      "title": "Picture Limitless Creativity at Your Fingertips",
-      "excerpt": "Now picture Lee 43 years later, stumbling onto DALL-E, an artificial intelligence that generates original works ... “A huge portion of the entire usage is basically art therapy,” Holz, the Midjourney creator, tells me. “The images are not really ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
-      "originalUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/637549891fb094c5b94def5a/master/pass/Engines-of-WOW_AI-Art.jpg",
-          "width": 4875,
-          "height": 3331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
-      "publishedDateTime": "2022-11-17T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
