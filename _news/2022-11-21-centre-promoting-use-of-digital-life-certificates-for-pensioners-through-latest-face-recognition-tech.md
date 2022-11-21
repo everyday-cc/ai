@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
-excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
-publishedDateTime: 2022-11-21T14:31:00Z
-originalUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
-webUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
+excerpt: "According to this facility, the identity of a person is established through face recognition technique using Aadhaar platform and a digital life certificate (DLC) gets generated. The minister lauded the Department of Pension and Pensioners' Welfare for creation of 25 lakh DLCs for central government pensioners in 20 days of a nationwide campaign."
+publishedDateTime: 2022-11-21T13:58:00Z
+originalUrl: "https://economictimes.indiatimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/articleshow/95666253.cms"
+webUrl: "https://economictimes.indiatimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/articleshow/95666253.cms"
+ampWebUrl: "https://m.economictimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95666253.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95666253.cms"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-815312,msid-95666301/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "25 lakh Central government pensioners avail digital life certificates using facial recognition technology"
@@ -34,6 +42,22 @@ related:
       - url: "https://th-i.thgim.com/public/news/national/bhc0io/article66165840.ece/alternates/FREE_1200/Facialrecognition.jpg"
         width: 1200
         height: 779
+        isCached: true
+  - title: "Centre promotes use of digital life certificates for pensioners through latest face recognition tech"
+    excerpt: "The minister lauded the Department of Pension and Pensioners' Welfare for creating 25 lakh DLCs for central government pensioners in 20 days of a nationwide campaign."
+    publishedDateTime: 2022-11-21T17:06:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/centre-promotes-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/articleshow/95668649.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/centre-promotes-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95668649.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/centre-promotes-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95668649.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95668649,imgsize-18924,width-800/95668649.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Italy outlaws facial recognition technology, except to fight crime"
     excerpt: "Italy prohibited the use of facial recognition and ‘smart glasses’ as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies, Reuters reports It is noted that facial recognition systems using biometric data ..."
@@ -59,6 +83,6 @@ related:
       domain: ndtv.com
     quality: 8
 
-secured: "NycQruwTLWqXeRot/x/IqMHtJnSbXzR3BTPykHpvDGIMu8YQ4mfoPN0bmuMyQl/ant3gZ1FJkqiFl9W3RGvgbxhwELgAw8C7Q0MIy1UaTfM8urCLOpdvG816pkRLf4vdCUF5g7Xd2N5PNb+uTpovwEG7Z7s4kD/xmEHGtx20smJBP935a9cF8jljMA3ug2b087uRcwFhRLBHQ42sDCpKVT6o0Szy9y6sRidDCcbZq8mrfJalnQh3Hb+EEWrchrfppekFasJ+rbQ+R//OdqRENbboeSzr1keSJL8LWDMJB51rE3tAMbbhaySIFYbB9AYayQgTR/x+hd60fIdEeKDSK7JnGI7nVlfTY26Myi8tvyE=;2NGR1Hfy41GP2FiqyE3bGg=="
+secured: "wBrIbesZOJD2mwEpOaPcFKj8bKoj39+Vh0wLiZCVBGY/6xN6JbbKzBns43BjKfPCrHMukeiJDrUp/4hyas71iT7kTGV6WCe8JhD4pcTeiD/do18q98/HsX83kHh0CwyndgBkTnZVJcUFDSvBPrl4FFQSc0/fIeqgpmqyiSIK0Q91uVYGtU7+4o4S6+V6StH9hLerodFX6ZJKOXkKpNiyHROtWhQbeDI0wzh7a7VU18z31WU0KnIOiZGvdwyIVpciF/skQUrzN1ZT2ITaEijRtIVhtQNe5DYsYDurDzTSbnWc5lxBSnAe5tJHNflbpvuQb5zvnaewEhw3j8AUgVNYyiC0/sHgC2GeEet5Pdfy3S8=;YmQ8VunxXQWtrd1S6K9xIw=="
 ---
 

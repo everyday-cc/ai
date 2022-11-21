@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-22-more-fallout-from-the-ftx-saga-and-tech-layoffs-continue-forbes-ai-newsletter-november-19th.md",
+      "title": "More Fallout From The FTX Saga And Tech Layoffs Continue - Forbes AI Newsletter November 19th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/11/21/more-fallout-from-the-ftx-saga-and-tech-layoffs-continueforbes-ai-newsletter-november-19th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/21/more-fallout-from-the-ftx-saga-and-tech-layoffs-continueforbes-ai-newsletter-november-19th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637bb412ceccb1b863817eea/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/21/more-fallout-from-the-ftx-saga-and-tech-layoffs-continueforbes-ai-newsletter-november-19th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/21/more-fallout-from-the-ftx-saga-and-tech-layoffs-continueforbes-ai-newsletter-november-19th/amp/",
+      "publishedDateTime": "2022-11-21T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-mitres-mdr-stress-test-winners-combine-human-intelligence-and-ai-for-stronger-cybersecurity.md",
+      "title": "MITRE’s MDR stress-test winners combine human intelligence and AI for stronger cybersecurity",
+      "excerpt": "MITRE ATT&CK Evaluations showed that MDR solutions that combine human and AI intelligence did best on a cybersecurity stress test.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/",
+      "originalUrl": "https://venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-e1668040608241.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/amp/",
+      "publishedDateTime": "2022-11-21T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training.md",
       "title": "NVIDIA H100 GPU Performance Shatters Machine Learning Benchmarks For Model Training",
       "excerpt": "Goodson, dives in as a few weeks ago, a new set of MLCommons training results were released, this time for MLPerf 2.1 Training, which the NVIDIA H100 and A100 also dominated.",
@@ -63,7 +165,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/25-lakh-central-government-pensioners-avail-digital-life-certificates-using-facial-recognition-technology/article66165100.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1120,7 +1222,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1144,100 +1246,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-latest-moma-exhibit-is-an-ai-generated-swirling-hallucination-of-other-museum-art.md",
-      "title": "Latest MoMA Exhibit Is an AI-Generated Swirling Hallucination of Other Museum Art",
-      "excerpt": "Unsupervised' by artist Refik Anadol first appeared online last year, and it uses a different AI model from DALL-E 2 to create its artistic representations.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994",
-      "originalUrl": "https://gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994/amp",
-      "publishedDateTime": "2022-11-18T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-how-the-dont-say-gay-law-is-affecting-florida-lgbtq-students-and-teachers.md",
-      "title": "How The “Don’t Say Gay” Law Is Affecting Florida LGBTQ Students And Teachers",
-      "excerpt": "There are many people who contributed to the formation of our country that deserve recognition,” she said ... parents have “the right to object to…materials used in classrooms based upon his or her belief regarding morality, sex, religion, or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "originalUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-07/5/12/enhanced/buzzfeed-prod-fastlane03/dateline-3772-1467735734-1.png",
-          "width": 275,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "publishedDateTime": "2022-11-18T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

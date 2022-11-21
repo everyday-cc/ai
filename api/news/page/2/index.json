@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-18-latest-moma-exhibit-is-an-ai-generated-swirling-hallucination-of-other-museum-art.md",
+      "title": "Latest MoMA Exhibit Is an AI-Generated Swirling Hallucination of Other Museum Art",
+      "excerpt": "Unsupervised' by artist Refik Anadol first appeared online last year, and it uses a different AI model from DALL-E 2 to create its artistic representations.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994",
+      "originalUrl": "https://gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/moma-art-museum-ai-ai-art-generator-refik-anadol-1849800994/amp",
+      "publishedDateTime": "2022-11-18T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-how-the-dont-say-gay-law-is-affecting-florida-lgbtq-students-and-teachers.md",
+      "title": "How The “Don’t Say Gay” Law Is Affecting Florida LGBTQ Students And Teachers",
+      "excerpt": "There are many people who contributed to the formation of our country that deserve recognition,” she said ... parents have “the right to object to…materials used in classrooms based upon his or her belief regarding morality, sex, religion, or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "originalUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-07/5/12/enhanced/buzzfeed-prod-fastlane03/dateline-3772-1467735734-1.png",
+          "width": 275,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "publishedDateTime": "2022-11-18T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzzfeednews.com",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals.md",
       "title": "AI Law And AI Ethics Are Brooding Over Those AI Alignment Tax Proposals",
       "excerpt": "Rightfully, ergo, the list of taxes would only be considered complete if we also had AI taxes. Whoa, some say, if you start taxing AI then we are potentially going to harm or maybe even kill the golden goose. AI can be used for the betterment of humanity.",
@@ -94,6 +188,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-5-jobs-that-could-be-taken-by-artificial-intelligence-in-the-next-10-years.md",
+      "title": "5 Jobs That Could Be Taken By Artificial Intelligence In The Next 10 Years",
+      "excerpt": "The thing is though, the uses of AI go much, much further than making pretty pictures. We’re seeing the use of artificial intelligence grow all the time, across all different sectors of the economy. This is likely to end up with many jobs as we know them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637652b1faac083553360160/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
+      "publishedDateTime": "2022-11-18T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
@@ -511,6 +658,49 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-waymo-shows-off-its-next-truly-driverless-prototype-car.md",
+      "title": "Waymo shows off its next truly driverless prototype car",
+      "excerpt": "So, for the second time now, Waymo is doing a ground-up design of a driverless vehicle, without any of those useless, legacy human controls. The car was originally announced in December ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "publishedDateTime": "2022-11-17T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -949,58 +1139,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-17-5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years.md",
-      "title": "5 Jobs Which Could Be Taken By Artificial Intelligence In The Next 10 Years",
-      "excerpt": "There’s no doubting the power of machine learning, particularly combined with robotics, and we’re looking at some of the jobs which are more likely than others to be taken over by AI. AI investing apps are a particularly exciting use of machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637652b1faac083553360160/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
-      "publishedDateTime": "2022-11-17T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-11-17-snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models.md",
       "title": "Snorkel takes a deep dive into data labeling and foundation AI models",
       "excerpt": "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases.",
@@ -1101,152 +1239,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-how-to-get-people-to-trust-ai-predictions.md",
-      "title": "How to Get People to Trust AI Predictions",
-      "excerpt": "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-664644/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud.md",
-      "title": "Astera Labs raises $150M for chips that deliver AI in the cloud",
-      "excerpt": "Watch now. Astera Labs provides chips for connecting AI systems in the cloud, and today it has raised $150 million at a $3.15 billion valuation. It makes sure AI processor are fed enough data. In addition to closing the fourth round of funding, Santa Clara ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare.md",
-      "title": "This Wife And Husband Duo Raised $15 Million To Expand Access To Mental Healthcare",
-      "excerpt": "Chrstine Carville and Marc Goldberg have raised a series A round to expand their mental health startup Resilience Lab, which aims to boost the number and diversity of providers in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ariannajohnson/2022/11/17/this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/ariannajohnson/2022/11/17/this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63753366aa0a1108f7f59b8f/0x0.jpg?format=jpg&crop=1063,597,x84,y0,safe&width=1200",
-          "width": 1063,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

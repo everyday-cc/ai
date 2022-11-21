@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-16-build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry.md",
+      "title": "Build a cross-account MLOps workflow using the Amazon SageMaker model registry",
+      "excerpt": "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/build-an-across-account-mlops-workflow.jpg",
+          "width": 1551,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T13:57:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-notions-latest-feature-is-an-ai-that-can-write-blog-posts-to-do-lists-and-more.md",
+      "title": "Notion's latest feature is an AI that can write blog posts, to-do lists and more",
+      "excerpt": "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
+      "originalUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/notion-ai-announced-202032305.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html",
+      "publishedDateTime": "2022-11-16T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
+      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
+      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
+      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
+      "publishedDateTime": "2022-11-16T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-malware-detection-and-classification-with-amazon-rekognition.md",
       "title": "Malware detection and classification with Amazon Rekognition",
       "excerpt": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it’s predicted to cost its victims $265 billion (USD) annually",
@@ -487,6 +642,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-toronto-startup-waabi-starts-testing-its-driverless-trucks-on-the-road-with-humans-on-board.md",
+      "title": "Toronto startup Waabi starts testing its driverless trucks on the road, with humans on board",
+      "excerpt": "Ms. Urtasun’s Waabi Innovation Inc. is officially rolling out its artificial intelligence-powered self ... guards and even to make left terms. Driverless vehicles have caused accidents resulting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
+      "originalUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/DaZsdVX0TEYEecEy34slzNbqSBU=/1200x694/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/KXNXBRKJKREWVAMLTXQLYCUSPU.jpg",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks.md",
       "title": "As Doubts Grow Over Self-Driving Vehicles, This Ambitious Upstart Rolls Out Its First Robot Trucks",
       "excerpt": "Self-driving tech startup Waabi has deployed its first robot trucks and intends ... testing with the “Waabi World” simulator CEO Urtasun developed that allows the AI-enabled system to experience nearly limitless types of road conditions.",
@@ -537,6 +735,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-aws-opens-spanish-cloud-region.md",
+      "title": "AWS opens Spanish cloud region",
+      "excerpt": "It becomes AWS' eighth infrastructure region in Europe, with this one located in Aragón. Like other regions, it will have three data centers (or availability zones). The facilities will be the company's first dedicated zones in Spain, though it currently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/AWS_Logos_Small.2e16d0ba.fill-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -738,50 +979,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
-      "title": "Israel deploys remote-controlled robotic guns in West Bank",
-      "excerpt": "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRW2NDDFPYI63MEMHTRCEYDQLE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2022-11-16-netherlands-coalition-aims-to-demystify-artificial-intelligence.md",
       "title": "Netherlands coalition aims to demystify artificial intelligence",
       "excerpt": "Dutch citizens need to learn about the impact of artificial intelligence on society and their lives, says the Netherlands AI Coalition.",
@@ -918,6 +1115,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
+      "title": "Israel deploys remote-controlled robotic guns in West Bank",
+      "excerpt": "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRW2NDDFPYI63MEMHTRCEYDQLE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
       "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
       "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
@@ -965,258 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours.md",
-      "title": "Cruise has expanded its driverless robotaxi service to daytime hours",
-      "excerpt": "Cruise is expanding its driverless ride-hailing service in San Francisco to daytime hours, Cruise CEO Kyle Vogt tweeted Wednesday. The robotaxi service is now available to employees 24 hours a day.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
-      "publishedDateTime": "2022-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-protein-programmers-get-a-helping-hand-from-cradles-generative-ai.md",
-      "title": "Protein programmers get a helping hand from Cradle’s generative AI",
-      "excerpt": "The company emerged from stealth today with a substantial seed round. AI and proteins have been in the news lately, but largely because of the efforts of research outfits like DeepMind and Baker Lab. Their machine learning models take in easily collected ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/cradle-tc.jpg?resize=1200,782",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/amp/",
-      "publishedDateTime": "2022-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-cohesity-leapfrogging-the-competition-in-data-security-and-management.md",
-      "title": "Cohesity - Leapfrogging The Competition In Data Security And Management",
-      "excerpt": "The latest member to join the Cohesity Security Advisory Council is Kelly Bissell, leader of Microsoft Security Services. I've watched this market ... Cloudera, Clumio, Cognitive Systems, CompuCom, Cradlepoint, CyberArk, Dell, Dell EMC, Dell Technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63741f3da82aacc952f59b8f/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/amp/",
-      "publishedDateTime": "2022-11-15T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-pickle-robots-unloading-robots-bring-in-26m.md",
-      "title": "Pickle Robot’s unloading robots bring in $26M",
-      "excerpt": "Pickle Robot Company announced that it closed a $26 million Series A funding round and it has live pilot implementations in the LA area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/",
-      "originalUrl": "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/feauted-web-pickle-robot.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors.md",
-      "title": "Trinamix’s face authentication optimized for Snapdragon mobile processors",
-      "excerpt": "Trinamix said that its face authentication technology has been optimized for new Qualcomm Snapdragon mobile processors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/",
-      "originalUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/trinamiX_face_authentication_demo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors/amp/",
-      "publishedDateTime": "2022-11-15T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-wr
 ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/1143a55bd5f548d54d15ed8041088b5a8bf2f82e/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=7707616aa038a0125e220cf9679ed8a0"

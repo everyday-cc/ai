@@ -1,20 +1,20 @@
 ---
 category: news
 title: "How artificial intelligence is being used to stop retail theft"
-excerpt: "For many retailers, the holiday season is the biggest time of the year, and with increased concern about retail theft, many stores are putting in new tools to catch those who may be shoplifting."
-publishedDateTime: 2022-11-18T14:44:00Z
-originalUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-webUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-ampWebUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+excerpt: "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ..."
+publishedDateTime: 2022-11-18T15:07:00Z
+originalUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+webUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+ampWebUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: fox17online
-  domain: fox17online.com
+  name: fox13now
+  domain: fox13now.com
 
 topics:
   - AI
@@ -87,6 +87,6 @@ related:
         height: 675
         isCached: true
 
-secured: "2b6reeZTE9BEdbF6rvlCIyi9iJrfX/WOvwFiANDcYfFPAZEa2mGvfmOE+ACvVPn75qXzG2PFZwzXY+hTxgHScXak5EEZ8edE/D5W7kPZSEsFXvExtbdXhDyyaFbTLk34jeD9CCQic4OJsf8BtOyPNfP8tIR+RxWQLYlnx5gNNgsACqVNJagn9YQ3bsWXaQH5hM6v/ryUfJ0uNAAquTiic9ywmvSlVQrPANxYwS+ZwJw4OId8A33AseHWBIYO6Qqol+A6SXnSk3iQ5xbVgMLcuwzs/fFCSvRjWr4ycMPsPFmfNg42fSmk91tyl2NmNc8FkpfDVY+jax4PVPtuFgJS44R/MaL2WozrpjND9N75zEU=;tFD2tCqC7dM5PfoQJeTHjw=="
+secured: "+2ajvG6M+x+JbsQZ4rW6wKKAdbIMehBw1t+W7z8I3ibMKvLdPK1h2fgNmKW2QnnTAoi7tN6k4+RaO90I/7dLPP8NOGv+smCSuXEm9n/sK9idr4tGJTeMnQBBk6hqrMa70NEVr7/mYEBF5HZDIcTfQzCStqFULipIJQ7g4T6Bu+jAWUpKndcRVDrHKMywgNMXTMozugSceD8EUchwR8UEf7OKeZawwg0K7UUZR8zljQluJyl6bL1Vth1J68XP0TiOUCYH8gIZiAsIl0eqbeR8Ex4sZy/1hVB6nPqyJxYclmvR6EMb+j+tk5oc5GG65/Yxt9KYEIDUZJXOe31UZXFxpH4nPhN4rIcf1OMmOvdkJT4=;WWYrzR1e5tumnT1j9pB/Ww=="
 ---
 

@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-17-how-to-get-people-to-trust-ai-predictions.md",
+      "title": "How to Get People to Trust AI Predictions",
+      "excerpt": "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-664644/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud.md",
+      "title": "Astera Labs raises $150M for chips that deliver AI in the cloud",
+      "excerpt": "Watch now. Astera Labs provides chips for connecting AI systems in the cloud, and today it has raised $150 million at a $3.15 billion valuation. It makes sure AI processor are fed enough data. In addition to closing the fourth round of funding, Santa Clara ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare.md",
+      "title": "This Wife And Husband Duo Raised $15 Million To Expand Access To Mental Healthcare",
+      "excerpt": "Chrstine Carville and Marc Goldberg have raised a series A round to expand their mental health startup Resilience Lab, which aims to boost the number and diversity of providers in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ariannajohnson/2022/11/17/this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/ariannajohnson/2022/11/17/this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63753366aa0a1108f7f59b8f/0x0.jpg?format=jpg&crop=1063,597,x84,y0,safe&width=1200",
+          "width": 1063,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-locus-robotics-named-to-fast-companys-second-annual-list-of-the-next-big-things-in-tech.md",
       "title": "Locus Robotics Named to Fast Company's Second Annual List of the Next Big Things in Tech",
       "excerpt": "List Recognizes Leader in Warehouse Robotics for its Innovative AMR Robotics Technology Breakthroughs That Transform the WarehouseWILMINGTON,",
@@ -1084,161 +1230,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry.md",
-      "title": "Build a cross-account MLOps workflow using the Amazon SageMaker model registry",
-      "excerpt": "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/build-an-across-account-mlops-workflow.jpg",
-          "width": 1551,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T13:57:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-notions-latest-feature-is-an-ai-that-can-write-blog-posts-to-do-lists-and-more.md",
-      "title": "Notion's latest feature is an AI that can write blog posts, to-do lists and more",
-      "excerpt": "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
-      "originalUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/notion-ai-announced-202032305.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html",
-      "publishedDateTime": "2022-11-16T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
-      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
-      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "publishedDateTime": "2022-11-16T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

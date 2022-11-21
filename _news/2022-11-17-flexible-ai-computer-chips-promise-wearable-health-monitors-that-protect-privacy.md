@@ -3,16 +3,16 @@ category: news
 title: "Flexible AI computer chips promise wearable health monitors that protect privacy"
 excerpt: "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ..."
 publishedDateTime: 2022-11-17T14:07:00Z
-originalUrl: "https://www.timesunion.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
-webUrl: "https://www.timesunion.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
+originalUrl: "https://www.ctpost.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
+webUrl: "https://www.ctpost.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
   - AI Hardware
@@ -29,6 +29,6 @@ related:
       domain: medicalxpress.com
     quality: 29
 
-secured: "10NPwWR74ss6K7UJVTz3CRoV7ZhcUTSSa5ea2J3m30ON8Ox5edHy6+RfQTxRM4vMg9QXcol7BlsFqn7DFOzkdomLC0NUxZCQQ67yb9nfmCpEbO0BAhvGX0269yHeoHkHezo2C9oI9K4s3OQyVSOFTIpZpiCUGvPdoewOGgFJ5cL7Oif8+Qxeqsn2YEKyCEcbhWkV51cQLs6Qmw550AYQ84xH/SZu64pooRvSxgfBBgafLiID5K1yvh4ZF/5sLmkiMlv6VEmEX37eM7dwZGU9IzA0r5wR+C53XyQGsJkzY7tLWDlu9fsehxssjkAZG7Pl20bCZUlfvXU7jE7L9QtJf3p0LxHtNI0yxdkA+jUi9qY=;yM5aBGAbc9sgWIiYkxoz8g=="
+secured: "Hh0WYdp6TRoswDHSyUA/xhB29z74jddupji4cNQPfCuyBhXuqckn6TQbdoDpapvn8u+gLi2G6Bg7WdDtYFfhGku5bU/ykrWgkR3i3ypsd1mM3KXkmCsV0Bbj4wV5JICXQCrj76D8Wl9uUdc9ANCjXHIXB+vYJg01YqmkQqPamVNQCUNiMgEz96j1QCGl3BYD6hIFLe9ZMRUjIzle8ZVQ2nrvMtnl/ccGuSALK9DeCxIPn3FxQgCSfThk89c67EYw16F5BLJxXJAGHApqhIYCc/sSVg00xLX90mEmO8WmEPr8pEh9LNCHnphpnl1RK0L0Gn6lNH9pJXQa8iiJSTEEKZJgboFe3QUF8DhEyviVxAo=;dJ5sM218px+jkLILU0EEBA=="
 ---
 

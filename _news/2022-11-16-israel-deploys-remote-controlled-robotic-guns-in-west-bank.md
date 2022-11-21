@@ -2,7 +2,7 @@
 category: news
 title: "Israel deploys remote-controlled robotic guns in West Bank"
 excerpt: "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ..."
-publishedDateTime: 2022-11-16T07:50:00Z
+publishedDateTime: 2022-11-16T02:16:00Z
 originalUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
 webUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 960
     isCached: true
 
-secured: "FjGeYJn+mHSUItTIDFSLdH2/8NQtEMIuOYqDiYHUCfpLYHd8iBx7ERNolWpFnqGAQyFLiPgT5J2Va6PkRufhyuTLgiy5zO1QJZdRMGJG+jJTWDSkfeHedwOeldCagfD3A2j3uMlRlgQ5gdZ+K/hiHorxz87gTt4xmAuMCm9zYCkz3Cvimx67GzLKrE5Dgd7kowPkAQAAyGca/+azVDveUfV2yywlx/eUnunycf1UGNFAvbyk6mMLLswrQMwW4yE7W4Ec/Qf5byGNpNCV4Id+N5/3bFJDZoacsQLpXZ01LBHTSwmTE5oVFDMKFcYjK7nz43kMQMq+nt71V7nmlBq4sVVlYGEAgfYrQHHQJuAJdro=;Xn21E3xD8+s2e4aGXQOKDg=="
+secured: "Chi5bbTeFdVgl6sg0WkjUo8/QQE88WUidjtBfR+xP/k/rw6ioR7MaInIMaLH3OTlBYs23kD003OmSnkWr0RI3eQ6bVTxe+2IcCalvtvxYKAPuHs23OLo/ZJE+mhAeF4wGu9F2mplCdDCktWolVI4Bv16Eknsqn/ch8r9U/pt/yKvQ7U47E+jN0jQ9tpkfNfBbHYmkdvvq7I7RDFYH5PUdxQ5zEgEHMuXJKp6gDzqDZqi1Ea3N6GrF/x8JBERDS8WjKoQS2bDajZNciDYMr+BjvXOZppOW2H+w/veiIRJdA0HLbPiXLsAREXkLKuYu08atOBw0qL6V0veQBoyuLRECbEOfWzDrDoKNT13WdKY8Lg=;S7uMQVR7s4t5xVnqMXHErQ=="
 ---
 

@@ -91,6 +91,15 @@ related:
         width: 531
         height: 250
         isCached: true
+  - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
+    excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the foreca"
+    publishedDateTime: 2022-11-21T18:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717846.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "syzAZEJnTDUng9mroVsm6UXe3W6L6aVBh5D5j11l5qZgVPXiJPzkdRIw0QNquSYQT9enbtAmxX/wCtglTN1JZhSa3cgp0s+X3mZ9Y8KpPI2NQCOmuMNuA02kagqU2zm8O//ct4qf0fhHL9FqEdYLs4+9yr3WmKOdT+WVtItfD4WH1wOxDOv7McdDd2HSbN88oirudxDwdV5G8L7AkzupqwwYOsTALy1j6RRF3fEXoksVe9zXlr4P0vrvWR1Chi1Zo0pYdn4hrn5CmU8G9/LcLbGuR0IcH30Kap8ejZQh9BaOuJqc5VYbJ9bjWQaMaenbM709P08LBwsgtAw9vZVbAjBKf9Iz+1yqBqJquqNwp/0=;XNnQrQjUzkTAughfqfeoKg=="
 ---

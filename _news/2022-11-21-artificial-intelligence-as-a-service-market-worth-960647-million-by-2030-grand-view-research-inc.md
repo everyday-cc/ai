@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/29800962"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29800962"
 type: article
-quality: 23
-heat: 23
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI in Autos
   - AI
 
 related:
@@ -33,6 +32,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "68d3GaSz2DVsCBFqBrDMEZkoOpPfHxuwIKkJTpk6zdI1ZXebmZXli8Yjf3IC6qAidwb4Gm7ZhPXgz5d6ulv30yuxlVKorGE/705C8FG3bfCMaJisYyTenP4y3R+FrnsmseXWjjpEHlazaWfAYYzZaeExHQASrd/EQozw6yESew18Jn0h4koH79R0DEnNAdzT81BkhwIv4zNTMgwizE3Dp5Ky6cXGPLu0LhdzMSMvj7sW6PdKkxv/u9aGC7c4OT22P7OJCIOaCzYs9Ae5iO2rWqkWJwYKdS2c7AAdAXg4WoneP/0eAZKTNfCJmd/X1GhkXpzYZrKMRs0jjP08OtzN6RWTCYGDOxFITRJy1puw62I=;mIHFulIYP5ViG1j5AlGyJQ=="
+secured: "aFzjjYIQaZq4JZA2JaP7QQD5zE0OTJxs44S3UfVeGdp/cNihRmkFN5ldt7lPcoxL9m1smeJmGprOe2hD2fV8eDD8H2zmnQbtTfaN2x2RXUUzwIzMUOGDsyksYQowN532mmHyxf4ukGf6eP3ptb26TkfMtQZ4jRrUgbSzHvGyZeP0TVfydvyrX5UUy3FK1Gc/3XnjxyVgfKVqyODLtHWy2xzPY57xiO3yC9EvwSTts0Hcw0mdKVBSos22QTXEuUNR0RlI3Py5v37elMoekiTJ5pbc6QiDsLYtI787dp3JviGI3NmfNsIHhoyeh7h/5XNcanExBvJ1SG3sdSGDlk1Kt9QvcEGEELOA22REri7JoYw=;VGE2Q0ZX/Z5xbs+XbADmZw=="
 ---
 

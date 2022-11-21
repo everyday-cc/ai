@@ -92,6 +92,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
+    excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the foreca"
+    publishedDateTime: 2022-11-21T18:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717846.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PTq46lWHn7U62tjfc35aHrh3+2Yxa7Y3Alxtz6D9c6j4rETQvfRpAPxIeetJOp364NhI9M895Oo8PSW5+2EsRF56SZYysiJWUB2DJXWeQS0PfIdCBIJ0cLRwrj4OUnu2u4sECGPbW8X067upEnWi0g9WF0rmpq+Y6053PXxDVDACW7MNYsrKhWwwF+9HH1BaFW/0d/6YZG5L8SO7j2zF7Yjx+RnYfL18eYMLtI3QknLpld8GbCMCU9IIzaWBHaOW0SaFpd/PNUy768PSJHigJyaMe55GBdRqgKYacV0nOMXUKDx/IgoUWOVrK9iqgWi7bFLLBfUg2H6aFRm1BPCmg5HGxPMlyvllRC+vjx6BdeI=;6uXfs8FN2X8kWAigdNJAgw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.business2community.com/tech-news/why-are-companies-rec
 webUrl: "https://www.business2community.com/tech-news/why-are-companies-reconsidering-their-autonomous-driving-investments-02573958"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 714
     isCached: true
-
-related:
-  - title: "TuSimple Co-Founder Takes Control of Self-Driving Trucking Company"
-    excerpt: "U.S. government regulators are investigating whether the self-driving trucking company TuSimple defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. WSJ tech reporter Heather Somerville joins ..."
-    publishedDateTime: 2022-11-17T02:54:00Z
-    webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-667998/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "3fg7FpvfvcQYFxobLrxgnIMzPXsPfwzkdvs3JG85OmIoEUlbEmlsbHtw332kmYzVmfhAX918K8nClWkBh8HjLauXygXOrS3ySta//fv/QJ47Hk91lF0ITx4kKaQlVlSIVKPKpAwAgDZOs7sSBUm0OfEciDuuyS5W+wiT5H8ot7eTTNP+0pu62Zm2BhT58jGmcOJSMSCAqTYMJjU6cw2kC1A9F5WC/Ntkzo6/ifClZyPEo3rhyoLP35xp7BfCEUMlXGBAWc956XNZYAwpDb0jcHP/ec1ADDmwDNdaMDNNxSfy0/TJaZnpv/+f7t15vbS1KNmlc/UrwEXyixG5hRifHqPDPiFLesAte/OiFK8tIQPtdtGWhus+Ahu9v97n9uVnd8SU3NAD2v9m8FhtpzXa6fmLoZJhZRxVLmLn+BKSkokUkG+RdGjkj+VpdIZXmwcNrcWb9XBdKFDqrLjvJiWs+8h1GnX+1rB486Zg/TCP7DVEe+BSdOHRRpXEiiOK44x2XZ5OiprzmpuKU9DY/AiRMg==;KiGuExJT4+9Zkg7+C+DvYA=="
 ---

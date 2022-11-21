@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 0
+  - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
+    excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the foreca"
+    publishedDateTime: 2022-11-21T18:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717846.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "FhHke37Vyvng+BTT89Ao1hygd0GcIc7SZtOAcOWFdq5GmvaIFggPL8jOQsoXXgFoWxMpzRFqaBSbPYfP4P2gNF7qxPuxEgbc5jYXqbSR+2X4/GiOPrDPAupwQlKEIJNkNObY6PoOavg9axmXzLDKW/09PQ39oCfPGHPElzD877Eq7hpYnRKjIwhCO6x0VVG+FxlqiRgxw7r0JNiKXtYSuvB9jKLB9RlrkNdrwVKS19D8Tv2Zc4MvWPCFhY08I8h1mhcZSUMUNJ6iUQzl5Nqy199hgnsm/FyX9k7qEkOdvIS1uWK/oyuGvro7zomBGy2RRLeoGhqygOK3qUBHt8kX02fnkpKN8BNvb2zOubbSq00=;EXgUZjMrXfyOz0847hDKwA=="

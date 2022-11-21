@@ -5,10 +5,12 @@ excerpt: "The thing is though, the uses of AI go much, much further than making 
 publishedDateTime: 2022-11-18T12:18:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/"
 webUrl: "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/"
+ampWebUrl: "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/637652b1faac083553360160/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "5 Jobs Which Could Be Taken By Artificial Intelligence In The Next 10 Years"
@@ -40,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "HMbD+2uyVbhF5aj34V6FUywfPUFpiFl23N9F23KmwjfHKZHTzYmcYygql7i4mT3eg5e+KOBFQuH5E5Z79Ji/1aOUk+LBCuhOJ7+NfqH3AsNH4oZaTQ3F5LnSrhbJpLSPzbli1a2Cjm6PY5ZumTglNXF873nHfrYT+gCsTXK4ROZhdShVXVJ7R+1VU7VaOcW3+yrz6/7/R1NiDdsBQpPXjPbfAQv3c251++r9rhJyEJkcW0+VamzmZN524V6klBNDa3oQlm+sCHK7awLtLM6rzIMR8UikvhG9pjDVLVkqS5PNbaW0cjNS1tsF4iDB9PNnuqqsQr6dPArFNgcJc00+FQe8PyTC8GAlZN8KUlu8ubfccdOIky/D93vOW65NSANhspbztC8+mTs08tx3wb9CvXUUNiMTU+b76zq3rYjpZTTbZh2jMeKBXehNoXMl4TtNRIaPu5H7yNGy5eTOHfGEdgLrQTGxMpzWxppmVxW7dvtbe4DRW0hS2ZwU3zq74g4tF0HGGVVe4DNiygmElUYsJg==;8kUHHSZck7sfJDjonyYjAw=="
+secured: "K6OJtLe8hNPOluybfc0b6YkryQBQ27nNDDNoExeZUEINr5yh8zqk1/wFBvBJaNASQhuloU1XRpwZzkMyyw+TOmNmohVYfEmV3O8C2NZli9SpdRTNKEdSUBvOT8TvZhlsnET7cecwLwi0mRU+toXHpvEnpw4vhq5r+W29A+ByziiZG+yxLjNTRj8q9ipmsNFvyt64bKbf6tmfQWlU+3vADs7szpLB2l58g5feMjF09kgkP/eF4wXbTEshRsptGb/OE0AEF4DeUf9DLjMQWkFQZdAuVO8Hpe/+VHdn4+KAcwy9D9dD3HoRQlUVhSNDfRUBJ/YmNVkbfs49nipwIav2rL5x6L0O3gJ3SsbHBLv9ORs=;sJkkenSjWX0wAs3Mfvtgfw=="
 ---
 

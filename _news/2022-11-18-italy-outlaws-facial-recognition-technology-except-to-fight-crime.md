@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 779
         isCached: true
+  - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
+    excerpt: "According to this facility, the identity of a person is established through face recognition technique using Aadhaar platform and a digital life certificate (DLC) gets generated. The minister lauded the Department of Pension and Pensioners' Welfare for creation of 25 lakh DLCs for central government pensioners in 20 days of a nationwide campaign."
+    publishedDateTime: 2022-11-21T13:58:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/articleshow/95666253.cms"
+    ampWebUrl: "https://m.economictimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95666253.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95666253.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-815312,msid-95666301/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Centre promotes use of digital life certificates for pensioners through latest face recognition tech"
+    excerpt: "The minister lauded the Department of Pension and Pensioners' Welfare for creating 25 lakh DLCs for central government pensioners in 20 days of a nationwide campaign."
+    publishedDateTime: 2022-11-21T17:06:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/centre-promotes-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/articleshow/95668649.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/centre-promotes-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95668649.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/centre-promotes-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95668649.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95668649,imgsize-18924,width-800/95668649.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Centre Promoting Digital Life Certificates For Pensioners Via Face Recognition Tech: Minister"
     excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and 'ease of usage', Union Minister Jitendra Singh said on Monday."
     publishedDateTime: 2022-11-21T14:52:00Z
@@ -50,15 +82,6 @@ related:
       name: NDTV
       domain: ndtv.com
     quality: 8
-  - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
-    excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
-    publishedDateTime: 2022-11-21T14:31:00Z
-    webUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 4
 
 secured: "7dLMVCrqEfeW/eyRqPy70g2VTTkQzbY5+Lv61rKma2riklvGSkS3tsrzhYiJU0KrQJ6Pw1bmO8oA3vtWpkHMJtYRsaNxm2ljCtw8NCe7bRX4HkfNfkoCuR+KROBICEeznATmUnwd8UvGqWp4PmAUejrLj9vNjw0uh/mBOoSJM8Oow2nDtc/QedkybJT+HJgwcCNkHvw2so2tRQIGv5HsTIf+nj85cFwUq02T50f1CkMe/6YLrcPO1C+bZ8u7IGKXd5FBCKcJHLuHsHdRl065VkOoh2rSaePY3QdYmqP2gsqsZMahsHdwAtimVy/tm5KOarY0kubcn1nr11R6Us/L6N9M+VW19dfIcmV7Aay2qO0=;XyLixhJG7JWnRteF/RK9Ag=="
 ---
