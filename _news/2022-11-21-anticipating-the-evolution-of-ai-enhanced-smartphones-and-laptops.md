@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/04/brain-on-chip-3.jpg"
@@ -24,6 +25,6 @@ images:
     height: 520
     isCached: true
 
-secured: "79aGUVaErPEDOmvtsuCwXEJJmXA6RFMhyCm7lfZIlYAxXUKaXedAkun3CKEVG8ZaODdyZxVSfaeOY3N91RLAG6VB6keJILFTfFiYGdFaLi/YcB0peGtyCsvGIZrIUx7tfIK4jNx4QU3FUli4ATYB0sNkHfYpBOacQKtv5OOtJqrksrz5f4JsMIMsv9qhRNQAnYwV1iFrs8zWwPkGCFsAQYAJAL7318+xUSG1GMuV7t99b7UtRre4BQOsQboq1l3mXwnXYDDA5kQeM7UenMAh4j4wwj+NUZ6fEeEnZdKVRCx5u3Ti2JlJSSHXd50nBYC8l5HrZMZUveZx9rmmQPfRkjuh5qaBTdqg3Mxu6mS78vM=;LDtD22Nu2sfxBmyM6Zpc9g=="
+secured: "SJIvPv2V19HRxt+w4FmMPxWkCPjh3SRCzLfL/rce8lY35dqDyjziTGFHRusFI9ijR8YQR8581rP57RaUDyY60e5LVO88Dl7uAGJP95J/vK7KoGuWxXjpV0U36YnBn8BUI1XvL26YYTFRXr2/I0vyIUrlNguAAua4FMk8cQBRreFhFreQPmw/3W+pj5ffeFgYKVRi78Qh2GRovreAJJlQBZlDxHJcJYb4iQAmIbWWqRea/MEh/9VeVlcqI39+zwT2we4cMCJdYZds6MqJkOb1IzGw3ljy/+KIzbjYFqd1qVJh9zjppWNG9WkgmIzile/FEJREStXjoS53rvSCaOw72YJmT7oLdBz2YhoPQvEIllBV65+BW21yC1ZhG0Vk+aMBt1TC04LRlBvNwSER1/4L4Phfzg4FIu57+aWZiv6VFyKH2j3RNHuEQRqCEeC0dCMzTnZoou6u63G9iqnpjWGCk5SraDNi4yD7b5AZMNXgwPxHTCLpdSR9wdefO8/4EzCBLI4a9ONFvO2yLf/kjoUIvA==;Nm+ak0dU+O2NQdCQBil6sg=="
 ---
 
