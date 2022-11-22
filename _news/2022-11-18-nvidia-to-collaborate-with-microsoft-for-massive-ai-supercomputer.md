@@ -143,15 +143,6 @@ related:
       name: Mozilla
       domain: techcentral.ie
     quality: 34
-  - title: "Drone Express secures exclusive drone partnership with Microsoft"
-    excerpt: "Drone Express has adopted Microsoft Azure to host its AI solutions and machine learning to train its models to detect static and dynamic obstacles. This includes a dynamic obstacle like a pet in the backyard, teaching the drone contact the homeowner or ..."
-    publishedDateTime: 2022-11-17T20:32:00Z
-    webUrl: "https://www.bizjournals.com/dayton/inno/stories/news/2022/11/17/drone-express-secures-partnership-with-microsoft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "YVn+64sSgNhF+u3HZQDb6O7hsEBVqyriyEqG48okPjVSimoNWT5H1ka1NpOjpWfSFMZ+imRUtTJAQKPGssgLkNkzGU/bTDZ0CWoPwKbg7NBuhG3Jtt0H9r9AkyRsOd6Xivk0tVhwMOv0/Ex+bwrFl/xgNzdkwagF7/Mm8JoC+0p1Fzf4Ir8GEqIc2rr/2YlIDEop7AB7G/tbowcC4WMFr0SoRBDbiJnN0WJ9vz5S+bSEy+FbiorK7iMfsu2nszHSM8ygqtDTApKHkEuzlCUpYONOLUKBi4OFXl8NbElanr5zoDmPNn9MAmA6HmUzfxQppl1U9MzB+vutwbTn6Vjeql8jSJDvTUTac8mnjV8PBeI=;gSBVHMoPRZKBed69zpGVBg=="
 ---

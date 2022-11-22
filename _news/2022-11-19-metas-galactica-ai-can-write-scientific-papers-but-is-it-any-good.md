@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 872
         isCached: true
+  - title: "Meta fires Galactica AI over controversial life choices"
+    excerpt: "Left to itself, Galactica became as balanced as a Kayne West Twitter post  Meta has been forced to \"pause\" a public AI experiment after it started spewing misinformation and offensive comments. The Galactica project was meant to solve \"information overload in science\""
+    publishedDateTime: 2022-11-22T11:10:00Z
+    webUrl: "https://fudzilla.com/news/ai/55864-meta-fires-galactica-ai-over-controversial-life-choices"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/268db6dd61eb36ef4e4bd0806358c3f0_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "bsEr7vQDLGa70GY0pkcmk8BrD9F9FiXJLO06p2YCSp9iOE37Y9swqDG182/GHEiWWczSlDkN9gE372eVoVraQSV9OBM1amD5A7gRBVKQD4ywz2RZBVZOL7QgB7S5FvpLTGLB6vNqMKtnmOt2qPLF77KCFgBJgoe/qIF7+tz8K4MixWHa9f5ozfirx0s7wGpTBTYkwpxdx/gw59PNRHvSVPo0BFwnMTUjcCdpKw0ZwgNwThnDXUfzSFzpygGVOZt3/hWV5xcQXBIn7hqCv59Z1SX3IIX5ciW8sQPTqqzs3jm1PP5gy2qBBvwQfaGl2w7if7v2jnKES5ZoYrcRiu3obd1JmLgnbXDifvRv/OCjb0gyrEeNWNHEiNXjfSW7gVv1XtE2Cmj7bwzF78LbRECgHJhoXaOb9aBRBGAaZGY7hu3B1jD6zdQdNiwq7Y10/FByJEKRSlBoy4Lt1bxO0cu+PgczOzsKpahmRhQACDqzaSUJWeg3MrAQCyTYtl3vLXOVKrrz75YW6mKnxAmrVfmGxw==;SUncc1rS6XZXEbDV48TQPw=="
 ---

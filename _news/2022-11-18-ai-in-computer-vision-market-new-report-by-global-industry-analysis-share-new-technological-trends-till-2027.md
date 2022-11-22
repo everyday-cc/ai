@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18"
 type: article
 quality: 63
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -29,48 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI based Edge Computing Chip Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2029"
-    excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 125 Pages Report\" Global “AI"
-    publishedDateTime: 2022-11-18T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2029-2022-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Software Market Global Industry Analysis, Size, Share, Demand, Growth, Trends, And Forecast, 2023 To 2029"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 115 Pages Report\" Global"
-    publishedDateTime: 2022-11-21T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-global-industry-analysis-size-share-demand-growth-trends-and-forecast-2023-to-2029-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market 2023 : Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2029"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 102 Pages Report\" Global"
-    publishedDateTime: 2022-11-21T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-global-industry-analysis-size-share-growth-trends-and-forecast-2029-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lega-Tech Artificial Intelligence Market Production, Revenue and Status, Report 2023, Upcoming Trends, Demand, Regional Analysis and Forecast 2029"
     excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 111 Pages Report\" Global"
     publishedDateTime: 2022-11-18T07:49:00Z
@@ -97,6 +55,20 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?575779"
         width: 531
+        height: 250
+        isCached: true
+  - title: "Global Audio AI Recognition Market To Surpass Valuation Of US$ 14,070.7 Million By 2030 Astute Analytica"
+    excerpt: "Audio recognition is a rapidly growing field within AI, as technology becomes more and more accurate at understanding and transcribing human speech. This demand is being driven by the increasing use of voice-activated assistants such as Siri,"
+    publishedDateTime: 2022-11-22T12:18:00Z
+    webUrl: "https://menafn.com/1105218087/Global-Audio-AI-Recognition-Market-To-Surpass-Valuation-Of-US-140707-Million-By-2030-Astute-Analytica"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?414041"
+        width: 373
         height: 250
         isCached: true
   - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."

@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-11-kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire.md",
+      "title": "Kodiak Robotics Shows What Happens When A Robotruck Blows A Tire",
+      "excerpt": "Kodiak Robotics in a statement. “We can’t control the hazards trucks will face on the open road, but we can control how the trucks behave when a critical situation occurs. By demonstrating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636bc184f5ccfe2dcfaf29b7/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/amp/",
+      "publishedDateTime": "2022-11-10T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry.md",
+      "title": "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry",
+      "excerpt": "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas.md",
       "title": "Identifying and avoiding common data issues while building no code ML models with Amazon SageMaker Canvas",
       "excerpt": "Business analysts work with data and like to analyze, explore, and understand data to achieve effective business outcomes. To address business problems, they often rely on machine learning (ML) practitioners such as data scientists to assist with techniques such as utilizing ML to build models using",
@@ -107,40 +193,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs.md",
-      "title": "DC Child and Family Services Agency to Use Artificial Intelligence in Support of Child Welfare Programs",
-      "excerpt": "“At CFSA, we recognize the potential of artificial intelligence and believe it will be most impactful ... practices such as Motivational Interviewing and Cognitive Behavioral Therapy. With more than 54 metrics on everything from expressed empathy to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-10-cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023.md",
       "title": "Cybersecurity, cloud and coding: Why these three skills will lead demand in 2023",
       "excerpt": "Simon Hepburn, CEO of the UK's Cyber Security Council, says the demand of cybersecurity skills in the UK is particularly pronounced, with an estimated 14,100 roles currently sitting unfilled. According to Hepburn,",
@@ -232,6 +284,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs.md",
+      "title": "DC Child and Family Services Agency to Use Artificial Intelligence in Support of Child Welfare Programs",
+      "excerpt": "Lyssn.io platform will help expand the use of evidence-based practices for staff and community-based partners. The District of Columbia Child and Family Services Agency (CFSA) today announced that they have signed on to use Lyssn’s unique Artificial Intelligence platform to expand the use of Motivational Interviewing in the programs it delivers and funds.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1096,92 +1182,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-amazons-new-robot-should-strike-fear-into-its-hundreds-of-thousands-of-warehouse-workers.md",
-      "title": "Amazon's new robot should strike fear into its hundreds of thousands of warehouse workers",
-      "excerpt": "What do you call a robotic arm that relies on computer vision, artificial intelligence, and suction cups to pick up items? In Amazon's world, it's called a \"Sparrow.\" The tech giant unveiled a robot on Thursday that's capable of identifying individual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
-      "originalUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/636d9d4ef5877200181c683a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
-      "publishedDateTime": "2022-11-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-captis-facial-recognition-technology-integrated-with-immix-central-monitoring-software.md",
-      "title": "Captis facial recognition technology integrated with Immix central monitoring software",
-      "excerpt": "Enables professional monitoring agents the ability to scan surveillance face-images across the exclusive Captis database of over 85 million criminals",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/alarms-monitoring/central-station-alarm-monitoring/press-release/21286699/immix-immix-signs-global-technology-agreement-with-captis-intelligence",
-      "originalUrl": "https://www.securityinfowatch.com/alarms-monitoring/central-station-alarm-monitoring/press-release/21286699/immix-immix-signs-global-technology-agreement-with-captis-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

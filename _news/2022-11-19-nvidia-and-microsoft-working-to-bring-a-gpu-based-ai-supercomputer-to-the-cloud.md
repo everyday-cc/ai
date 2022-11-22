@@ -148,15 +148,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Drone Express secures exclusive drone partnership with Microsoft"
-    excerpt: "Drone Express has adopted Microsoft Azure to host its AI solutions and machine learning to train its models to detect static and dynamic obstacles. This includes a dynamic obstacle like a pet in the backyard, teaching the drone contact the homeowner or ..."
-    publishedDateTime: 2022-11-17T20:32:00Z
-    webUrl: "https://www.bizjournals.com/dayton/inno/stories/news/2022/11/17/drone-express-secures-partnership-with-microsoft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "bh9aNlPbUGld9ajqsj9bLnRSThlaCYlo9202SeVTedITawC/eso69VwRMPIgEtEDf40y8O+PpsO3b9BUo2t2XaDxmzvU2PM7DQMu1jZ0ZuN4SgTOs850a56qD07golRDVvBfk1wesGCXzZmVzYlko5mCJM4mOOtpMObQt7y9vLIergHrUb4rimCccAEkXMOYFSdLx9ol463nslk4MbmgcFIrxm/XapTjKGa1rteW4vr3zpTP7b1u5XFkjZVKwpyAUmCQT7FQGsxdIOgvQDDzdJOMZbmezh1bSKTp9fOcpVsJRS3O7lCkrx0El5M8wXZaeA2YhoL5m822j5znzlD5UndrqbdrqtRbb/X5ZOhTWrAipMHN5CfYPQSwAWkcvbligdbACKWG37y4ZwhsLSTYtOxOfpWjaksjDP2ED1W49+prUnBdgldzkZatKs1OrYD7vMx4GnLTcnd2ATlEZ9UVLQvonAvlc0//HlPIvFsHvughMDeUGg3Z3i9HuybxB9qbxF91cuiS20cDBgPblpz03w==;PlbDdeHPFZduNgbuBhBctw=="
 ---

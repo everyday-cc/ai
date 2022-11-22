@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20221121VL201/qualcomm-startup.htm
 webUrl: "https://www.digitimes.com/news/a20221121VL201/qualcomm-startup.html"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform"
-    excerpt: "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ..."
-    publishedDateTime: 2022-11-17T20:01:00Z
-    webUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/"
-    ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
+  - title: "Responsible AI’ Foundation Vital For New Zealand Organisations As Global Legislation Ramps Up"
+    excerpt: "New Zealand businesses should be aware of, and be responding to, increasing Artificial Intelligence regulations around the world. That’s according to a recent Accenture report that reveals a number of countries are about to introduce legislation defining when and how AI data and information can be used and stored."
+    publishedDateTime: 2022-11-21T22:25:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1179422887.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 28
   - title: "Qualcomm surrounds all platforms with AI technology; AR and PC applications receiving attention"
     excerpt: "The company has announced the S5 Gen 2 and S3 Gen 2 sound chip platforms, as well as the brand-new... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time ..."
     publishedDateTime: 2022-11-18T07:05:00Z
@@ -54,15 +49,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Snapdragon 8 Gen 2 Benchmarks: Qualcomm's New Flagship Android Platform Tested"
-    excerpt: "Finally, all of this new tech is built upon TSMC's bleeding-edge 4N chip fab process. And with that little tee-up out of the way, let's get to the benchmark numbers that you've come here for... The Snapdragon 8 Gen 2 is the new top performer in the venerable Geekbench test."
-    publishedDateTime: 2022-11-21T12:44:00Z
-    webUrl: "https://hothardware.com/reviews/qualcomm-snapdragon-8-gen-2-benchmark-preview-first-look"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 0
 
 secured: "eigVSKyx+NPa4rRvWkRTKNv9pLO0HPJLkvHAVsC51QvSv7xUiXlXwbeavhOJZgTbVkpCriXhtKF1HE5m/rkmvt4mk5ZBya8XstyKFqu2rxdWmd1mTxP5S6CUn2X0oDMd2uSK2OTuYpP3r1ehR/quzJy443yADpeQHWzWRKRK+G++qqLW7mf9Wa1dG19RNPZjWzYvVc8MZkLWoDxedwtBXsn/slLEk6y7Kq0IysHLRFnFdtPu+OnYAHVt52WlPh19BHiUPMW7mUQgml7uK355rX2OL/9nHYMMFfclIjgd1cf+OEDSv7quPlaCT347P458IuAwjk3QCDZ4COzUnF9mSiy1ooG2dEhrUMXVLxw++A9frvHPy68C24HByaaXgt8PC8IkyqSjV9AiphLOuCEUD5ty+bjn+1cI1CS0X7rwg3RXj1YQAx+wZ0DaIeTz2o3LHI/WpZ1aZAGjvpKXAMmjnKoyi4cx7BUlpyS+UWAxBnLpWGa21sCZJdV7T52WJsH+4URjjae9VMLAwndh78PStw==;Ter2iA/7H1IYPHQmsI3mjQ=="
 ---

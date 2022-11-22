@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-18-waymo-shows-off-its-next-truly-driverless-prototype-car.md",
+      "title": "Waymo shows off its next truly driverless prototype car",
+      "excerpt": "So, for the second time now, Waymo is doing a ground-up design of a driverless vehicle, without any of those useless, legacy human controls. The car was originally announced in December ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "publishedDateTime": "2022-11-17T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-ai-drew-this-gorgeous-comic-series-youd-never-know-it.md",
+      "title": "AI Drew This Gorgeous Comic Series. You'd Never Know It",
+      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving. Leslie Katz leads a team that explores the intersection of tech and culture, plus all manner of awe-inspiring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "originalUrl": "https://www.cnet.com/culture/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "publishedDateTime": "2022-11-17T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-artificial-intelligence-based-predictive-analytics-platform-is-gaining.md",
       "title": "Artificial Intelligence Based Predictive Analytics Platform Is Gaining",
       "excerpt": "Increasing focus on Artificial Intelligence (AI)-based predictive analytics platforms is gaining popularity in the healthcare predictive analytics market trends. Players in the healthcare predictive analytics market are focusing on the launch of AI-based predictive analytics platforms to sustain their position in the market.",
@@ -1120,102 +1214,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-4-times-when-mathematics-made-huge-breakthroughs-in-ai.md",
-      "title": "4 Times When Mathematics Made Huge Breakthroughs in AI",
-      "excerpt": "Although some discoveries offered compelling answers, others promised avenues of explorations for the future generations.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
-      "originalUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/math.png",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022.md",
-      "title": "The Information Names Shanghai Bangbang Robotics as One of the Top 50 Most Promising Startups 2022",
-      "excerpt": "BangBang Robotics has a current company valuation of approximately $83 million and is on track to triple its revenue in 2022. With its pioneering development of artificial intelligence (AI) enabled electric wheelchairs, the company has been included in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1949937/The_Information_IT50_Shanghai_Bangbang_Robotics_A_Wheelchair_Maker.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

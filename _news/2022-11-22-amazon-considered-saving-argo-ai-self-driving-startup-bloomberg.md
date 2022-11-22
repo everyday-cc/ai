@@ -24,6 +24,22 @@ images:
     height: 503
     isCached: true
 
+related:
+  - title: "Amazon backed out of taking a stake in Argo. Then the self-driving startup folded"
+    excerpt: "The online retailer was prepared to invest several hundred million dollars into Argo last spring, sources told Bloomberg. Amazon planned to use Argo’s self-driving technology to automate some of the electric delivery vans."
+    publishedDateTime: 2022-11-22T11:25:00Z
+    webUrl: "https://www.autonews.com/mobility-report/missed-opportunity-why-amazon-backed-out-argo-investment"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Ford%20Argo%20test%20drive_DSC0230_C1-main_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "UCBqXkER8itsQ+HrmoEpSgZZdN99h/d/hBadkAFCfLuNtdWO1v+VxAYVKqDGD1uRihyAFGpD7FbQDI43OMgSMqojhkyJT+5JC6TXoVYTwQUGNV0JP3SSLNqAXhYxaAMjV65jv0JdBCvzDdzRKNufp989rPENAhi45OEme1NilOV0+0ri4iSk4Bh5QB/Av5EPNEN1C2k7ar7druKPxXdSxpH7VQasl7fYZBWxWHamAMiWhGCWqNDiPCvHjk7H2QissVtbgkpQcFZ3n/y90dzYjpeLjbRKyBoHXZtucTi9q6qAgCyZ14K8hU/6iVlPss/tMkTdlC0W3x8DAP31MPbQbbISveHKXjxhrPwzcxJ4gCIuWZ4mbWZvP/QwUVkZc0qCqWE/tFNpfJxqREj1doiMOQyAM15G9xqAPgmuVi7TGEs09o9b1Tbz23U/It2XrjxTXQjotJgAa8vxL+n1ZV8jSHfBJxvReU9XplBgbJ1L+O7DW5eCPntfBE2IH3hsipIrGTfMY3L4rntVC6M/PXTm+A==;6Clv+kZbvAGDQtQrZypw0Q=="
 ---
 

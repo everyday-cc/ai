@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/11/17170759/SEI_134032657.jpg"
         width: 1080
         height: 720
+        isCached: true
+  - title: "Meta fires Galactica AI over controversial life choices"
+    excerpt: "Left to itself, Galactica became as balanced as a Kayne West Twitter post  Meta has been forced to \"pause\" a public AI experiment after it started spewing misinformation and offensive comments. The Galactica project was meant to solve \"information overload in science\""
+    publishedDateTime: 2022-11-22T11:10:00Z
+    webUrl: "https://fudzilla.com/news/ai/55864-meta-fires-galactica-ai-over-controversial-life-choices"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/268db6dd61eb36ef4e4bd0806358c3f0_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "r8SzEamuZlU/HtdCzDFehxvqpMZ23RBtSzqJ7IMy5bSo69O1dBOdElGm85QThk/fCCeJrB3gQvJrhMwx5G1VX6yVLC7tnZymGSOvLm8XIBnWlT4BV+E4zbmIZ7hw6QLB6a2eaksU4v3/IpgJS5QE8wibQbetaID7NGBZWmjW+k7ivENsY/2LyfvUGE71EyH4rLRmQwCua5xGqvy4pN/GyUrSR6jqLQkf67ol5oWQ8kF4adhOHBNWJVWVUZE1N/Owv2jEEI/+sSgHBXCO1nOecoMGbGrb0DT8YRyaexjIr4TNvBgTJR9KL/lJyJp/HEC7S5L8apzVa5HAlrAj7HioEQepT0dxTywsZmx1Rt9Ji7uT54r4Xi8IDIEnEG5TK4vQh0LilA2uMHVTdQc7tvB4Tysrl6pzdkgxe5LHSFeRH5B8WavjX6rxdJ+JHxGHCOjpgf5E7cKpT3SsW+CkoZpoBCTA+VMmfh3H/3NZJES4lUPcvfcAXJA/NT9uY0FwqtCaQkj7TJ5pmHSXVX/cA/jWZA==;WtcRwy9jKA5avHgZ0Gob4Q=="

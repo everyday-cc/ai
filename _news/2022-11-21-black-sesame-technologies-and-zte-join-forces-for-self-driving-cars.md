@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 29
+  - title: "Autonomous driving: Everything you need to know about self-driving cars"
+    excerpt: "Autonomous driving is the new goal of the automaking industry. Many companies have started their research on different levels of autonomous driving. Typically, the term \"autonomous driving\" refers to self-driving cars or other transportation systems that operate with varying levels of assistance from a human driver,"
+    publishedDateTime: 2022-11-22T11:53:00Z
+    webUrl: "https://interestingengineering.com/transportation/autonomous-self-driving-cars-tesla"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 24
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/22/image/jpeg/Un568E5NizfTYGfPLjF4NsSiU1OpmQKYKgUAHx5y.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Waabi’s self-driving technology set to be road-tested, Raquel Urtasun tells Globe and Mail, Forbes"
     excerpt: "The CEO and founder of Waabi told the Globe and Mail that a handful of trucks are “ready to be deployed” with human drivers and engineers on-board for safety. In Forbes magazine, Urtasun – a professor of computer science in the Faculty of Arts & Science and faculty member at the Vector Institute for Artificial Intelligence – said that Waabi will train the self-driving system to navigate any number of virtual scenarios using a simulator that harnesses the full power of AI."
     publishedDateTime: 2022-11-18T20:39:00Z
