@@ -7,7 +7,7 @@ originalUrl: "https://www.ghanaweb.com/GhanaHomePage/business/AI-is-coming-for-y
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/AI-is-coming-for-your-job-and-you-don-t-even-know-it-1665569"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AI Drew This Gorgeous Comic Series. You'd Never Know It"
-    excerpt: "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving. Leslie Katz leads a team that explores the intersection of tech and culture, plus all manner of awe-inspiring ..."
-    publishedDateTime: 2022-11-17T18:34:00Z
-    webUrl: "https://www.cnet.com/culture/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "O4Ir53+9XttzdALxHeRiz58q2Ee0opaYJpexinH+ON6gtb6a3ShL9OpRpp/FpfVy5c1lMzjqG3cn3xbJNhYh+jjenEEtkgHlFhOZybYr0DrnnDO8skVnTr0fPvpBLQ68eDP1W63M7jmpPH5S51i6P5PVuJ/a/pkVLS24iv1kyntZhIyQK/1iskGXEf2UrDxH+2IaAhte9Szf6OhWo5SrkJrOfIvjrCneJsD/jeHF3kuw/J2L4lsT96JF278qmxMedf+cy1xONkGFODd6d9xpAqXfz3MubZ7MPBbSEMyLuJjSICOlizG3q68Gc1m7xZ76qJSNAKhaZwc2ayo2n4VDCCznOh0oziMNvgEq07kJpAJOOfDdju0o2E3UwBpN23Pj93RvkNHdkFq+/6V0XfFjj0Q3TZMuEQowyFJtRPkMK1ZIZPSsLh7mIPzXZBUk4jtH2k9aqo+UkOIWeAMAVlZUDTGVU+6mqHiHIMue4sl02gr2kTVIOTrb2dJzxUOLqD9cmqq7XBsVRih6LDulJjxnUw==;dFXhGLV47WIfMdXBSkjQ9Q=="
 ---

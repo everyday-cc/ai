@@ -33,6 +33,29 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "ThetaRay AI to monitor remittance transactions into Africa for Zeepay"
+    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced that Zeepay, a fast-growing Ghanian mobile financial services company, has selected ThetaRay’s advanced SONAR SaaS anti-money laundering solution to detect financial crime for its remittance transactions."
+    publishedDateTime: 2022-11-22T10:18:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94992/thetaray-ai-to-monitor-remittance-transactions-into-africa-for-zeepay"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "ThetaRay AI Tech to Monitor Remittance Transactions Into Africa for Zeepay"
+    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced that Zeepay, a fast-growing Ghanian mobile financial services company, has selected ThetaRay’s advanced SONAR SaaS anti-money laundering solution to detect financial crime for its remittance transactions."
+    publishedDateTime: 2022-11-22T08:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20221122005167/en/ThetaRay-AI-Tech-to-Monitor-Remittance-Transactions-Into-Africa-for-Zeepay"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
 
 secured: "EpuHihxPES+U1kUWOoTxT9RmH4NzLQCGz6PSeG49TdBz8k/CWc9MFrabeczqiJ7NuSbuVzdYnOyePqzfNNGX0XO/oFYCSqnWbwtJr4KTEAaFNnZJhoXVOOjxYhg+0DRE1HMOv6Z8lHdXXanoZJWun+ea+E6VkmS0bkiTPpiiW2hCzk0lgdVXVBXdK4PluqKVSDbSuuo8U/sWWnP2qPKRAocK6PRExPVl/wipX87kD+tgIQd0mFG/+/7oG/vYEnJxGA2QHQkTKj4r6yF15qePix5GT1xHUlEEaltw4vWCCNqbsBcSNhHJbxGhkh8v3XXP5L4G5vh3D8iu2smyT8w9ll4U4Qrb74fdRprD9Y5dSHU=;iOHwhpPMIGyi9t50xVQ0gg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-21T13:30:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI in Computer Vision Market New Report by Global Industry Analysis - Share & New Technological Trends till 2027"
@@ -105,8 +106,8 @@ related:
         isCached: true
   - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
     excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the forecast period. Most organizations across the globe have years of stored video footage,"
-    publishedDateTime: 2022-11-21T19:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/21/9717846.htm"
+    publishedDateTime: 2022-11-21T19:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/21/9717846.htm"
     type: article
     provider:
       name: TMCnet

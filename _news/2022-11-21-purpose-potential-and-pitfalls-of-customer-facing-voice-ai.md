@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-custome
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI and Machine Learning potential advantages"
+    excerpt: "AI and Machine Learning are helping businesses to remain competitive in their respective industries FREMONT, CA: As we progress into"
+    publishedDateTime: 2022-11-22T09:57:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/khmjzc2io450-308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "How leveraging AI can help you enrich customer experiences"
     excerpt: "With customers’ increasing demand for personalization and engaging experiences, I’ve noticed many businesses are turning to artificial intelligence (AI) for help. AI can provide the data-driven insights needed to deliver more relevant and ..."
     publishedDateTime: 2022-11-18T17:00:00Z

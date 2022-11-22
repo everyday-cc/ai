@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 588
         isCached: true
+  - title: "Application of AI in healthcare is bringing a silent revolution in the health sector in Europe"
+    excerpt: "Rajat Khare’s artificial intelligence investments are ushering in the application of AI in healthcare which has the potential to introduce new technology in hospitals across Europe European Healthcare Artificial Intelligence (AI) market size surpassed USD 700 million in 2020 and is expected to register a growth rate of 43."
+    publishedDateTime: 2022-11-22T09:46:00Z
+    webUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/"
+    ampWebUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 62
+    images:
+      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
 
 secured: "7l5XvjBNXqkIpqb9Fh/f4tdH7C5ggxIu/k89s0gYfTux5K5s8dztM6XS8ODD5FBGX75VJhALk2GchEaTdl+sXT4IopQZlMhBLhiBisbaRKoxKHPMh7sYyn69Yq3M0F1EWCc526e4EDTezc86e8nHmGA7gkE9ttMRdi94ODI7IFDrj7zlSr/DGnejbCr/qzMPuWRUTBm1w/vZb24Uwm6pt2uDZQqywKnJn/qZDc/Rojha7YXt11cf+wJuLON4iNfwsfBA9IIQMjAkyHq7gT3iV0BAKwVSliKpWGkCMLTHVN/pX/3Y6wY+EmUR9LBOAaM8Qb3rYylvZzic4j8kfFKK/GTeq/+3xXgZ+vQvaJ0nv0A=;mOX0ZMCLlEeROMQGdr6vBg=="
 ---

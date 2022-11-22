@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build high performing image classification models using Amazon SageMaker JumpStart"
-    excerpt: "Image classification is a computer vision-based machine learning (ML) technique that allows you to classify images. Some well-known examples of image classification include classifying handwritten digits, medical image classification, and facial recognition. Image classification is a useful technique"
-    publishedDateTime: 2022-11-17T18:00:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-high-performing-image-classification-models-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/high-performing-image-classification-models-sagemaker.jpg"
-        width: 1548
-        height: 773
-        isCached: true
   - title: "Identify key insights from text documents through fine-tuning and HPO with Amazon SageMaker JumpStart"
     excerpt: "Organizations across industries such as retail, banking, finance, healthcare, manufacturing, and lending often have to deal with vast amounts of unstructured text documents coming from various sources, such as news, blogs, product reviews, customer support channels, and social media. These documents"
     publishedDateTime: 2022-11-21T20:22:46Z

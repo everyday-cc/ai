@@ -35,15 +35,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 45
-  - title: "Stellantis Acquires Autonomous Driving Software Startup aiMotive"
-    excerpt: "Stellantis, the parent company of the Jeep and Chrysler brands, is acquiring autonomous driving software startup aiMotive as the automaker looks to expand the autonomous driving and connectivity capabilities of its future vehicles."
-    publishedDateTime: 2022-11-17T17:40:00Z
-    webUrl: "https://www.futurecar.com/5605/Stellantis-Acquires-Autonomous-Driving-Software-Startup-aiMotive"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 19
 
 secured: "rAUE635bItwlmmElyxUTPvFDY0g0+rTu89ClNK4sUhOsdBV/m4mASchpdf82nolZyBQRiW5cz7dKwKJVHDUmoO5drC4Be/l3IBvbBe7J4vj2nX4zshI00elUwrWvbbaHuKGN/z3avLaH+iemveikO0ILIpVd8SutKoOMDv1W29Qt/qBBvx1CDcxynybimygMDY7ftoNw1cZjgp8E2r9kViWjeuVYcpp29VhapuJt6icBGkNOejzZeJ5wZ6DJiUxdYnHPKrA/+379bi6B/LbAGySsVQA3blOyrNPKLrshM6NBhPfChr1CR8WTAZUAEEdOwDpxZOOv/Yyige4ihjMC+sXW/4h1dB7P5moyPuJV32GZ72/CXSAlrMxPlWrHsONCi2TSHQaA0BybGxDNrSPSkAKKxZPJ8Ibro7/l2bOqdjyGS0C5Q67+69bcxcClmaijTU1EPkxA79vcLwqS4CZJ/lpvvadjhLWOaq3FIF+bO/CfcPSM0pvVDQKdITlGuS0knUVCdDxGe6aAVMb+WI2AXQ==;cBx2Jl5K1QJfDN6kK5x4xQ=="
 ---

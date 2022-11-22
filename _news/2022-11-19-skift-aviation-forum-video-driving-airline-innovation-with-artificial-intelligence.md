@@ -8,8 +8,8 @@ webUrl: "https://skift.com/2022/11/18/skift-aviation-forum-video-driving-airline
 ampWebUrl: "https://skift.com/2022/11/18/skift-aviation-forum-video-driving-airline-innovation-with-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/11/18/skift-aviation-forum-video-driving-airline-innovation-with-artificial-intelligence/amp/"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://skift.com/wp-content/uploads/2022/11/FLYR-SAF22-Brand-Talk-Hero-Images.png"
