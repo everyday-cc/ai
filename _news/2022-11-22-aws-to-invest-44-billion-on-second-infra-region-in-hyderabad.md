@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-bill
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Line
@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches second infrastructure region in India, to support 48,000 jobs"
-    excerpt: "Region is also estimated to add approximately $7.6 billion (Rs 63,600 crore) to India's gross domestic product by 2030"
-    publishedDateTime: 2022-11-22T04:45:00Z
-    webUrl: "https://www.business-standard.com/article/companies/aws-launches-second-infrastructure-region-in-india-to-support-48-000-jobs-122112200334_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/aws-launches-second-infrastructure-region-in-india-to-support-48-000-jobs-122112200334_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/aws-launches-second-infrastructure-region-in-india-to-support-48-000-jobs-122112200334_1.html"
+  - title: "Amazon Web Services launches AWS Asia Pacific (Hyderabad) Region"
+    excerpt: "Cloud service provider Amazon Web Services, Inc. has launched AWS Asia Pacific (Hyderabad) Region, its second such facility to augment services to customers in India."
+    publishedDateTime: 2022-11-22T06:20:00Z
+    webUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece"
+    ampWebUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/ajfcx3/article66168232.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS launches 2nd Cloud infrastructure region in Hyderabad, to support 48K jobs annually"
     excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more"
     publishedDateTime: 2022-11-22T04:39:00Z
@@ -62,6 +67,6 @@ related:
       domain: buffalonews.com
     quality: 19
 
-secured: "GQXYRMsXLNEjago8ra+A8jvzetnYPCYMhYKEHrc5gVuDkYhp+LC9cLz4p/Jd7QmaLfavIDfvHQXzxrgwogd1kdeYl0zBX22xjLiDshSKKLQaor+zDKoHiqBj2k9rxAJ43qK6rDQF4bbz6quQNX+6nZY5yENzTjPmfQkby28BxA/30pI9LmttUGTzxkKq4btJHtmgKHOEb+PyxnEQAXT8aMoaQR1tmQe4HOe9TPmr2/i5bpXkIX6nar3hTvNiYlGo8+74vTPlEFNiKbRDUBMCqTesyWntLs6lV/dqoqWRYUe85pe7KoDmkRugrvYJ3Fr0NhOeMUQ5eQrLavy0eBOx1BlqvFLIBbMmrLDPUOvEy+k=;zQ6fstx99cADB3cT7mV8jg=="
+secured: "izhZ9azeD3pgDIELz9VsB7qt4FUDoCAdcxPXJSQqla7Elj0rfnssEvwdlZkURqC4jeZpWxDuG04tZ+YiiTkoZijR1XQ/WPUNl4vzXWTGoPeaiULpo+J3EvRGMEqTl2sFkzP/aHl03ZHbGofSVQIk+T7bhqyXdeeaLwbzYM2YdKJu0/Psq4WG5zdiB6IY+ApUxsVix1Z1BkCz0S+itV5MexU0a9aGIwZukslChJq5ZtkOB4OyP6x0KPYrWst9DZS/lZ4t8iyaB8Y3kdVU8zLFnuN3p7Ie6c2acU03imvN/nHHGiTtF5z7TCBh5rpFeez7sHF6XWmdVYtc7CLlehWoVZIJmycYYvAYfSr6undkJcS9+gMx8e7sTfrbYvupZ9j0IVxPAOB2dF8pjM3i4oeyILPubPMjNZOvdYT+u/30uv45J6sSnIuwZTlQX+6j79runQf2E3k9LgmAIHAygI3H0li6PRBq9N17B66Oq2Cqpck3wIfGoQrSbutH0iAjgjpqHXZmm1THmEpU8pOVR71gMQ==;GfzedKreKGwh292iHvkoJg=="
 ---
 

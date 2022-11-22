@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29807178"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807178"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,17 @@ topics:
   - AI
 
 related:
-  - title: "AI In Fintech Market is expected to grow at a compound annual growth rate of 16.5% to reach US$ 54 Billion-FMI"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022 according to a report published by ESOMAR-certified Future Market Insights. The market is anticipated to garner US$ 54 ..."
-    publishedDateTime: 2022-11-21T10:27:00Z
-    webUrl: "https://www.fmiblog.com/2022/11/21/ai-in-fintech-market-is-expected-to-grow-at-a-compound-annual-growth-rate-of-16-5-to-reach-us-54-billion-fmi/"
+  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The"
+    publishedDateTime: 2022-11-21T10:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29800962"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29800962"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
 
 secured: "of2UeeFMEOIGkWAu9TSgToQPzLcAZ8ILjZ5jiibuJTfM7DPjZDw9rXFVIWy+DnGDDXTsaC6PqY0Tv2Y2FT07oQHChW+5wCw8gMdS+jcUwZjfGjauxKom0brXL8clIMCChuDKom6Wm8qRDgxaSLoylcWQ+vwAevqHIKpuigJVTaTm+536xUuIey4UMeO1lBTU45ARRvyb9EL6UtS8hwi4dmY6oDqH6DdbCtNmfr6ASIAk5ncPlfVSE8K7XLTEjQmLopYklDyi76njcECWhxOHbgx1F/yqR5xTPU/8+c3jNsJoiDOuSztlf52EwwEWw9ShQ0zDgesHtqLp6meGSiii8GwyER5mQSg41RipOnWy0S8=;Wc+Yn2Q1nuAEVt7zHXivsQ=="
 ---

@@ -185,15 +185,6 @@ related:
       name: Mozilla
       domain: techcentral.ie
     quality: 34
-  - title: "Nvidia, Microsoft team up to build one of most powerful AI supercomputers"
-    excerpt: "Nvidia has announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world. \"AI technology advances as well as industry adoption are accelerating."
-    publishedDateTime: 2022-11-17T14:18:00Z
-    webUrl: "https://www.business-standard.com/article/technology/nvidia-microsoft-team-up-to-build-one-of-most-powerful-ai-supercomputers-122111701023_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
   - title: "Drone Express secures exclusive drone partnership with Microsoft"
     excerpt: "Drone Express has adopted Microsoft Azure to host its AI solutions and machine learning to train its models to detect static and dynamic obstacles. This includes a dynamic obstacle like a pet in the backyard, teaching the drone contact the homeowner or ..."
     publishedDateTime: 2022-11-17T20:32:00Z

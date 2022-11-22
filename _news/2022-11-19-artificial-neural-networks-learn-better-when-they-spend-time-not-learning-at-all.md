@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Artificial neural networks learn better when they spend time not learning at all"
-excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility across a spectrum of research interests."
-publishedDateTime: 2022-11-19T01:37:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
+excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
+publishedDateTime: 2022-11-18T22:40:00Z
+originalUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
+webUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
+ampWebUrl: "https://phys.org/news/2022-11-artificial-neural-networks.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 54
+heat: 104
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Not Learning May Help Learn Better!"
@@ -91,6 +95,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "veA4gLoELfAek5wZLPki633Ybe0KrWt9TTCT2MqtmB8X/lpA1FwQKb9rVcbIdXb6XmD3bDM6yXb3CowfrFxxwkG14iQokJ46ow+8SDqHHcsCFpR6YYn4C7OnDdIxWYUPQ1bFxuQSWdeV7wzl0/lwr2KDr8zFxto9Tvo+4dUOCClqdXLLQ4+OEjjnfQoZP0kctWwM1uQyAKs6tMKgNbhbN0gE5WPyeG1hEmMaqsCQ0OfPdstBIdYJm5sNtU6kvOwLwgJj03HA0c9SPvm8VkVZTyxC78Eq7O1Jmk9ih3kIfjdQUZQ/iSdL6YSG8UM5n88dxbwa5NZsAleR2CmeeXkZsMl4hKk0xGy4XIxlDNmCVOE=;u+jm1Owish/aEko2XqWQ/Q=="
+secured: "hBu0Dt3A0wkA6I4+oSh+N9Pl80TldNx5Wco1wqOLMPbLmn478TG/A+gPicRpaefL9sukhAmxxDQZ7AQZKtKE5vRSnDy1UHQYPjXngf5SRkqXI9r+d6STqsViBgAHKmC3Pw11/B3pTiZrwe860/NZOBDFhQVcBMPeUQCbjjJuzaeof1oWUJg+IDjVHENm6ylXX0qgPmQK5nE3FXqjBCs+G9vhdsslz52QgXDpb0SobfxLaYBpVr2lQe4bNMGfpAmB0CpvBOoaADsEbg+82XATdHmjSIo6rLn5nrhOKqm22A4SsRIUfq6IOecXcHzoACAENOBgA8LQNhTgapGFSbmFR/4kfOLDjAIkjbTYAmWQC4o=;EOhg5Ni/kP5gtoXsjkqLPg=="
 ---
 

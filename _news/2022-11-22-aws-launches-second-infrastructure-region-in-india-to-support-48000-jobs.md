@@ -21,45 +21,38 @@ topics:
   - AI
 
 related:
-  - title: "AWS to invest $4.4 billion on second infra region in Hyderabad"
-    excerpt: "It is estimated to support over 48,000 full-time jobs annually at external businesses during the investment period"
-    publishedDateTime: 2022-11-22T04:37:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece/amp/"
+  - title: "AWS launches second infrastructure region in India, to invest $4.4 billion by 2030"
+    excerpt: "The investment is also estimated to create an average of more than 48,000 full-time jobs annually, which will be part of the AWS supply chain in India including construction, facility maintenance, engineering,"
+    publishedDateTime: 2022-11-22T06:00:00Z
+    webUrl: "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/"
+    ampWebUrl: "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
     images:
-      - url: "https://bl-i.thgim.com/public/incoming/4lf7r6/article66167987.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/11/AWS.jpg"
         width: 1200
-        height: 800
+        height: 667
         isCached: true
-  - title: "AWS launches 2nd Cloud infrastructure region in Hyderabad, to support 48K jobs annually"
-    excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more"
-    publishedDateTime: 2022-11-22T04:39:00Z
-    webUrl: "https://telanganatoday.com/aws-launches-2nd-cloud-infrastructure-region-in-hyderabad-to-support-48k-jobs-annually"
+  - title: "Medical landscape in India is changing post Covid"
+    excerpt: "And, hospitals have embraced these with open arms, in a bid to be in tune with the evolving tech-based mode of care and treatment and also to beef up and streamline their own existing structures and processes as mandated by a post Covid world."
+    publishedDateTime: 2022-11-20T07:43:00Z
+    webUrl: "https://www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.html"
+    ampWebUrl: "https://www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2022/11/17/medical-innovations-and-technologies-post-covid.amp.html"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 31
+      name: The Week
+      domain: theweek.in
+    quality: 44
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/11/AMAZON-Web-services.jpg"
-        width: 1280
-        height: 750
+      - url: "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2022/11/17/52-A-patient-undergoes-robotic-assisted-surgery.jpg"
+        width: 760
+        height: 443
         isCached: true
-  - title: "AWS Launches Second Infrastructure Region in India"
-    excerpt: "Second AWS Region in India provides customers with more options to run workloads with even greater resilience and availability, securely store data in India, and serve end users with even lower latency The new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
-    publishedDateTime: 2022-11-21T17:43:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-22-aws-launches-second-infrastructure-region-in-india"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 19
 
 secured: "ymluUIZCykFSHTPuMT3mF4kb+c4WkNE39/w0on/j4tkwqpIPUBfR9mYFcYwdm63+mqScXRVgGw+skAX5ma92zO5+y8VbgIVvKzB83Zl5No0nRR7k4utf+4kV+VbasmNiw5a2SDtSaoFN+wvXhOWlIKEkD6O1pCNkLKzoA67llIwQhafsPlRFijiZir/zB+pBvDJNmW5suI8MVFcu7vfAutonWQKKBctuy8yaIPszEXxgjuwfF1sIE5brM92awNefztw4TM1TQWqVJO3ImJENVZbwX7YN7+EW1HNqaQ60FSV5NjA/AyvG3kqBkIuI8cqm71tAPYAU4nXzuCemz+q4dCvoNiT9+xFQxIo/jJvqGr1UcJ0x6piyFyA+//VZ21GcXI1MOPonrQFWAG9dR/NJ+NsQta1XTkugIshLZ+ypQEQ5upBOBs1ewrX/ruTygbcK86UJ3CYdqADQHKwdG10Dz2nd8gZ1Tkfjhl48cHGDrfigavhM0BAEtbcs6ztNcj8wJIboP47kYEPW5948CmkQNg==;J2WrD4jj/YrRH3zGOwCLGA=="
 ---

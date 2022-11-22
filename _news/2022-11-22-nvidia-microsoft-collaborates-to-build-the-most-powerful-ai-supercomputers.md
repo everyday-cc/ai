@@ -186,15 +186,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Nvidia, Microsoft team up to build one of most powerful AI supercomputers"
-    excerpt: "Nvidia has announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world. \"AI technology advances as well as industry adoption are accelerating."
-    publishedDateTime: 2022-11-17T14:18:00Z
-    webUrl: "https://www.business-standard.com/article/technology/nvidia-microsoft-team-up-to-build-one-of-most-powerful-ai-supercomputers-122111701023_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
   - title: "Drone Express secures exclusive drone partnership with Microsoft"
     excerpt: "Drone Express has adopted Microsoft Azure to host its AI solutions and machine learning to train its models to detect static and dynamic obstacles. This includes a dynamic obstacle like a pet in the backyard, teaching the drone contact the homeowner or ..."
     publishedDateTime: 2022-11-17T20:32:00Z
@@ -205,6 +196,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "BmKqg3achFRFhzSQCEEebHxMVrKCGLoEVFWcvB8XF50tow4RSYPcCyKO6aI/qptmAfCPok5r2jbOZ9OKgznfl5U4N1GgDjqc3KDtQuNYQ71zqCudsWlHdch1PjSZ56GiQ36kLQdEWcKLlhSRwSHX5nRWmQH8XGD7WMB3gGQFD/zBOazHZJr+QkLpoHKG/CO+X3ahJ9eByGoX7fBeeZWoo84drtJe1nN/npY3CqJUeNSjFQYL9E5tSLD66FSwVgo5n32gmuGYXQFqLb4TsrwUM6OT9E0E70uVFIp1TKwvuhxHYh1LCxhPlpBSyhl6keF5Eg3hM/U7CaYYxedwbShhmjDGMIgRttLmMksyud1pfrs=;qZzVMOKom4dp++rYaFqGDA=="
+secured: "ZNUNuST3kjdu/59XqVlYMjrsJI98Dm/KqPG3dP2pCIVE8Az1uMgSGORTygqeYNw2cidYGI/+rBpjCd2uenDhdf4QtbFTr4OhgNic+k8nwca8xblQS7ubGaubg6UODE/llbs1DDDNw4CURQ+U6yGPu7KE0r5PSZHO/q30MVhaMIQNV3ZJDvtDnKNjjmQvIlTskN6cFx29dUo++2mwPthGL+ip6U8nMGmQLYvBATR0AfUrYFMaks5v+MBh5ghO09HvBsbf3XJSMmjGYkRQLX7My0YjnNKauVDwou2xQhewKAPZqk8OlqPihj0Ym6rPDFYpD9aGphwEvR3zNPEaDSeKSVU3ghuS3HSprnm7N6EkVnUFTiQ++dWgWvnY4l8S9/+rlkyERrQAQ9nCzHRYcdCtKSEaVqiUjm0dkWLIePBgAE86S8YuGbKL3F9sWVEevuPZaBodjnOTQFV6B6qBVxxVR5q2vURacMlE0FV1XNuy7ondtHWQ1d7dFOs3f0MiVPkSaCRzcm3S0+218eTWpiBSyQ==;dSZlyBRDySrRoRKOPUMDFw=="
 ---
 

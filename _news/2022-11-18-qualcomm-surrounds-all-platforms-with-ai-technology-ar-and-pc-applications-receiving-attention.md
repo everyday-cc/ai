@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Qualcomm startup competition winners leverage AI for diverse applications"
+    excerpt: "They all use artificial intelligence (AI) to develop innovative solutions. According to Qualcomm, the annual startup program has been running for four years. Ten finalists that leverage AI and 5G technology participated in the incubation process for six ..."
+    publishedDateTime: 2022-11-21T14:23:00Z
+    webUrl: "https://www.digitimes.com/news/a20221121VL201/qualcomm-startup.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221121vl201_files/4_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Snapdragon 8 Gen 2 Benchmarks: Qualcomm's New Flagship Android Platform Tested"
     excerpt: "Finally, all of this new tech is built upon TSMC's bleeding-edge 4N chip fab process. And with that little tee-up out of the way, let's get to the benchmark numbers that you've come here for... The Snapdragon 8 Gen 2 is the new top performer in the venerable Geekbench test."
     publishedDateTime: 2022-11-21T12:44:00Z

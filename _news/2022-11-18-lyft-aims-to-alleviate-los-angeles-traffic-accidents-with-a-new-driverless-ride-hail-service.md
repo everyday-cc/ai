@@ -36,20 +36,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 84
-  - title: "Lyft and Motional to offer driverless taxi rides in Los Angeles"
-    excerpt: "Lyft and Motional have announced plans to launch a driverless ride-hailing service in Los Angeles using Ioniq 5 EV Level 4 robotaxis. Los Angeles will be the second city serviced by the two ..."
-    publishedDateTime: 2022-11-17T13:53:00Z
-    webUrl: "https://www.engadget.com/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/64534d50-666e-11ed-b7f6-cedf47c3a338"
-        width: 1638
-        height: 1043
-        isCached: true
   - title: "Fully Driverless Lyft Service Coming to Los Angeles"
     excerpt: "The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless service in the second-largest city in the US. Following a rollout in Las Vegas, Motional's all-electric ..."
     publishedDateTime: 2022-11-20T08:08:00Z

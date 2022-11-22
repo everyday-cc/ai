@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-g
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Blames Crypto Crash For Sagging GPU Sales But The Data Center Is Booming"
-    excerpt: "The data center is NVIDIA's biggest earner, having brought in more than double what its gaming division did last quarter."
-    publishedDateTime: 2022-11-17T14:22:00Z
-    webUrl: "https://hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-crypto-crash-sagging-gpu-sales-data-center-booming"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 72
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60141/content/NVIDIA_Voyager_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "Nvidia set to launch lower-spec AI GPU for sales to China"
     excerpt: "Nvidia is expected to advance the rollout of a downgraded version of its AI chips, dubbed AI 800, for shipments to Chinese clients in response to restrictions on its China-bound sales of A100 and H100 AI GPU chips series,"
     publishedDateTime: 2022-11-21T06:30:00Z

@@ -1,25 +1,23 @@
 ---
 category: news
 title: "How artificial intelligence is being used to stop retail theft"
-excerpt: "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ..."
-publishedDateTime: 2022-11-18T15:07:00Z
-originalUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-webUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-ampWebUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
-cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+excerpt: "For many retailers, the holiday season is the biggest time of the year, and with increased concern about retail theft, many stores are putting in new tools to catch those who may be shoplifting."
+publishedDateTime: 2022-11-18T14:44:00Z
+originalUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+webUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+ampWebUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
 type: article
-quality: 76
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: fox13now
-  domain: fox13now.com
+  name: fox17online
+  domain: fox17online.com
 
 topics:
   - AI
-  - AI in Autos
-  - AI in Healthcare
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png"
@@ -89,6 +87,6 @@ related:
         height: 675
         isCached: true
 
-secured: "f9jfS36OxzLrawN3fMZ1QdiD6XuoZqWoUu+0x7j9bFdgWhSTdOeNoPsr6tWZLaBlgy8izE45eRz8Qn0ecq4bMKSXcXgsQjzbRBykKc3gRYQ9mLADtT1XRIysZwoLyk9eBs9MXWvcnfbJtPPjVxmMBa90aWlYu7mddjFVYp8b3xCPNQceXA1mT/tsShJEfu10g6O7qDdLbEwyA0FLNFjE7bc0HaFVNBBFvw9A9mRk4udzofa06vm9Cx1nOaXs8g6WhS7FWGSGSpmxuszKlfRHJWAvAMUPvmbzG5Z/NAw8K1A0hDJSeL0WHpGV64PIieRsnl6iRzwf9r/vF5R1fclnhmxNVqcScXlJ37C7RIQV8T4=;Jf7TikmBnwELCtfxvJl4tQ=="
+secured: "mJb/LkUhT9UIf3chTu2G22k/2CbT3z7gzX7fjLCwUDDZt0QgGb2kgzo94UNztmwQgVfxraURjJXzvLDjQ2dm1sZArfvyodZHgHQH3ElUU4RjUVBZcvBT0Zp4tRR9RJBjLQ+H8qEKq9Vose0Z+D9Mlu/ko9Z+S6U7loRqAdYQunri0QHx3m+78TmFLnZw79y4P7HOoobIOFNPEow759kd/JbTbNpV06oK87Dz1YjWzQG9+vo8cyMWARkDaS9Kjrt/W/eyMQNQpVcVPfm8FRqa1UBOnr+5S47+FfIYYxnsflv+8OYPw/9ZB3rSlkiQu9T40QGmp5mPXZtoexOAHX+2occbiwiytnalnoUpB8F98Gw=;sbhmoCoEB/mDQz0VIM8Piw=="
 ---
 

@@ -194,15 +194,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Nvidia, Microsoft team up to build one of most powerful AI supercomputers"
-    excerpt: "Nvidia has announced a multi-year collaboration with Microsoft to build one of the most powerful AI supercomputers in the world. \"AI technology advances as well as industry adoption are accelerating."
-    publishedDateTime: 2022-11-17T14:18:00Z
-    webUrl: "https://www.business-standard.com/article/technology/nvidia-microsoft-team-up-to-build-one-of-most-powerful-ai-supercomputers-122111701023_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
 
 secured: "gStQQdZWscY3XmD53RIT4I+C4P9WhBSD9DVkayyeZ3Gcm/F6m689UymIkGahcuOfXTFdVelnAqz5EiRlF4gqmmMK2OWl9jC0SMaX+fhCaQOFoKokvxsplMWTsX08MtPhGUVmO/z8o5L0ikYhhwEfudK+rkoc1sXuhGw/1H4xdfowntuEEj+1nNT8faWvw8wKJBYtZRKTka+AAKK4KRKAa02CuWNaw3CtPnm7IvmmtQkr2hari2Vn7XiJ3jIkQJ4kYyASTs4yfTIyg1+hmpbkgJMbnsICisKvprf+ut9bTCgOpM0TLHt/8uwWmStnWJurXglCG1j6zLXrUI0dUOIEzAFW3mLnNGv0dFvQ5O41qWowMwKJSpGw4OvG4c1RaO1qkDzRRZP/9NJiN3y6yM1osIDPMlxcUhq7cK2INvMnX/muxqCS1BoPvKc8iTZUJ2M+aJeZCE6xtfVCriuFs32qR8V3/SmNjVO2CQ39QLhvfi5TyXqE2GpnbElNth2MbPgn9glpoxK9N3nBoctj7+b3UQ==;ftSp3SW5OV+777NXAJMA2A=="
 ---
