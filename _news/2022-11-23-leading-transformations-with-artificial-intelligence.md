@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-22T16:19:00Z
 originalUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
 webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
@@ -88,6 +89,6 @@ related:
         height: 675
         isCached: true
 
-secured: "tk5JwP1lljd8fnqJ6ECEHr4c1Gh66DNLljj4DMj7USq1DxqJ6+O0tbh/ulmZpucMmIdfEIriymRTxMsUgZSgIJ+7Ovthq6SETfAn1A4bDTAJeD4up2zhnOqnJN6vx2h1FM7OYRyeLyWvJhxWwTCFcFvZX6Ae5Jw+FCD4UJioIsKnC79760kf+z7Qcy0VMvykPujirRYQf2K6rPOo5QToUiqr8nNcIfRh2trfPUZ/tbQWhRuaoJ4ePFSYUd77+FRVtfmLYq8Wrk3pEYvqx8+7TNPLauQiE5kq1BzGicLVL5zQBSxTw0YITj1cBuv7tgg88qS2PkdmFeL7CWlfA3TF0cNgbe5ZQhLRp3mMf3WWGpY=;M8G3tipsgbLqf9cAC1Vmyw=="
+secured: "+UFONHhZz5rucJZq+HYq2nBP5Jo8jZewfnJox6oplhax5IKzoiR9JxPLlvupphR72r8EMmrh8iKcYao8vgwdeJa6+SjZNszMVfKbOTLqdxFlJJNsOBEdohPWb1IIpgBaYQvaaU1H4la0EkemQq2MTGQcSO5aVYD5vDcTSMZYgSt2360HGxLuP1IZXgKxDhheEVycQ13ENEozn4d6/FbIBYSPrORAm3vtScrAYWJU3by4CXxdySt/1JoplCUdnzuT8StUEGCdWYznAE1PIMN5ToQxv738DW+ICdEYZVaPx4KpQ5BGkc9KMSrXrdExkZoByOrXIMo8e7aTMtjGYlgiXaPN3uugNqPZnCbJO9NB+mIp1FrquZDv81Me496NOoM871nDWma3gcUdmQgswqUz7Z3Fc22zgoNd1KwWioK3c9VMnEqLGVrE5V0fxjQo7l4WkLRu5tJq9Xc6O/t0ZPhAL5HsZXHrWOsQ+80FjiH0GcbeyUuU4CAkqMd/J64pLSm7jk9NPHAqxUgREsBhi0jy0A==;UjEO52nJMMb2RMIezWPd+w=="
 ---
 

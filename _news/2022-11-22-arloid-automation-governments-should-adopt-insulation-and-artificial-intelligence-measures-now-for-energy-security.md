@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Arloid Automation: Governments Should Adopt Insulation and Artificial Intelligence Measures Now for Energy Security"
-excerpt: "A substantial reduction in energy use is needed now with insulation and artificial intelligence measures essential for a more energy secure future. Blackouts 1 in the UK may have been averted this year 2 but next year supply concerns are real."
-publishedDateTime: 2022-11-22T15:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-arloid-automation-governments-should-adopt-insulation-artificial-intelligence-/2022/11/22/9718397.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-arloid-automation-governments-should-adopt-insulation-artificial-intelligence-/2022/11/22/9718397.htm"
+excerpt: "A substantial reduction in energy use is needed now with insulation and artificial intelligence measures essential for a more energy secure future. Blackouts1 in the UK may have been"
+publishedDateTime: 2022-11-22T12:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29821265/arloid-automation-governments-should-adopt-insulation-and-artificial-intelligence-measures-now-for"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29821265/arloid-automation-governments-should-adopt-insulation-and-artificial-intelligence-measures-now-for"
+ampWebUrl: "https://www.benzinga.com/amp/content/29821265"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29821265"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "qAnaw3g7OjXhAamNWt6Z3Sro/F5x2PrTAyARRhIYm9/b9InW6d+hqfTsKo+fea5it6V5bNF6s4ZqOmg67hUbmQMj4tUiytag8uGVIXRV5UFbVXeH2mgwmx2u5gI/n3AErGi6iWK1vsWqyrI4vy/auu5U9pcKk/QNq+yoObXURXfJWSWgh2C9vyF5NCHO13T1wQWlTKCfnZWEBQ4TcCvAVUWR7dZlanBataFP//0VV3SF4eceF81YPOmPrlyAXui5wHCbHGswPVzT603Jbum/NWuHhXR4vhXS9ySb7FDnOU7Ju/n/3iPk/ldasYSOsiIzOzqR0iB0XB8CrCJAOXVz71nbAVZKg43Uh3Lt84IZzpk=;KnBXIpIf5GUcIPqWoXepcQ=="
+secured: "dDzKa2ABzdslZnwz9puZjr1iYiqmii68WkMUc/zSbww2FjllzqOSvNSTKU4JYM7mUq6VRlFGe55EiLj3ylaH2lUkSGZHUWdOnabcFAsiOji9UewqBNRg/BGCG6vri6lQT9p7ZagTWFp8LXAdZBzyp+/Ksu35RtASkWxMpSj8Gd+IlXl/lymdtl/QcN7SlBeFmOVKPoi3fRCOlhPoCFp0+Vd2he+80tX/aZcjPojpMipqVXO6fTjIhIuHnG/fSY9Vz6aEL1SS9SjAluB9QVsYcljzkBhk7V4tG6RXsVW+ZkqGNRZyALg78L1+PzjfDAl8V6nsBYXgHQ+1gwv81pcxYzgdzQRl956dizo3HwvEqkE=;Nkm2qNUW7A+0BNrWqLGH5Q=="
 ---
 

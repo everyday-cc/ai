@@ -81,7 +81,7 @@ related:
     provider:
       name: IMD business school
       domain: imd.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
         width: 758

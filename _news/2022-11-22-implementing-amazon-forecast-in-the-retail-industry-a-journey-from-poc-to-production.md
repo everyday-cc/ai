@@ -1,0 +1,63 @@
+---
+category: news
+title: "Implementing Amazon Forecast in the retail industry: A journey from POC to production"
+excerpt: "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved"
+publishedDateTime: 2022-11-22T18:35:18Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/"
+type: article
+quality: 97
+heat: 117
+published: true
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg"
+    width: 1564
+    height: 780
+    isCached: true
+
+related:
+  - title: "Generate cold start forecasts for products with no historical data using Amazon Forecast, now up to 45% more accurate"
+    excerpt: "Now with Amazon Forecast, you can generate up to 45% more accurate forecasts for products with no historical data. Forecast is a managed service that uses machine learning (ML) to generate accurate demand forecasts, without requiring any ML experience. Accurate forecasting is the foundation for inventory"
+    publishedDateTime: 2022-11-22T01:02:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-cold-start-forecasts-for-products-with-no-historical-data-using-amazon-forecast-now-up-to-45-more-accurate/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 66
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/generate-cold-start-forecasts.jpg"
+        width: 1550
+        height: 771
+        isCached: true
+  - title: "An AI and deep learning-based malware detection system for the Industrial Internet of Things"
+    excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity. Powered by wireless 5G connectivity and artificial intelligence (AI), IIoT holds the ability to analyze critical problems and provide solutions that can improve the operational performance of industries ranging from manufacturing to healthcare."
+    publishedDateTime: 2022-11-22T10:23:00Z
+    webUrl: "https://www.continuitycentral.com/index.php/news/technology/7946-an-ai-and-deep-learning-based-malware-detection-system-for-the-industrial-internet-of-things"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 43
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "VpJg6Ykq/iKWRw3cKRPeWxuRDspJNdZrWDjLf+Jsxa4pX3me4jLaJF+zgKZIuve0u+6/UUMONCXnvFOk0917Kd54eHiJNbe9Xd6PnfAAY0WyUa6bY5pnoMohqCn9lK/lvq7p7hUrYgl2/IUEVtdVlkITCHlojDByiwG0plVI27PljKD7Fhaua1PpUa+r6VIxAJIuKAgwzzp724krbyExxV+6ga5n1g5Hkl3ZMy3i1OcZQ9nREzNXdxmsvt1tmC4+67BWloyv9MbuTN4394zbvsZufQ8g3Lz+rwRFHcpln02JRTL+vAAcQqg2bFaLThhMs0aPP2x1P4nBz/IZgWRk383ROt14mSxMZnpUcL9lVhw=;MgJWDQeXEh6FAAhyBA3Jpw=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
 type: article
 quality: 72
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -147,6 +147,20 @@ related:
       - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
+    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar also spoke about taking up collaborative research projects including establishing Centres of Excellence (COEs) in member nations to be able to work together in building the future of AI."
+    publishedDateTime: 2022-11-22T18:01:00Z
+    webUrl: "https://www.cnbctv18.com/technology/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence-15233301.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 31
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/07/Meity-1019x573.jpeg"
+        width: 1019
+        height: 573
         isCached: true
 
 secured: "I5Z2k4Sn+spzjyVV9+Fz7GTedxVbiHwpdDUTWce7NL7zDSW2dmpxE1Ac+S+Wk3tn1B5tHuMETfF8Ic0r6L5wSR0GXaY7zi27BprwHXJ2OKwrIgeFUhYkoXrr0owz1usOSuPk5Olz2+2IRMZrTWhbFG2bGyuU4KrQAc2P9F7sMfvsikcaBlh13hxrLK+S8Wp/L6xgiGt7TmZrrg+KQOQGyawiPrcvUQJG6aO1LObXPnorA/tTHJs6AT7gTqn8MVT2TuFdGN7jLIoZ5m6NXwfaojPrh5+8vOtPjw0s9Ga3fX4XWKpzUYSgc1uTksOnwDvRjhFQdLjwMn3Lmh//VIuR+ANcgz9PMMD9N9hmv+NaztGayjPQuc2GsEOd0nsrc8kFMKCAyXkg+ENcJbtTquSgmjdjFFamuugME2oD9pAfQ5IrWlbCfaZdr6vEK0/j9R0MiE669OwihQatE4eqVi0JoddhWLN04e5i7VOE5qrZkfRIHZqYTgZDUtmW6Ghja9rnXIZZ2SWnua9zbRxyBNnQNA==;/AT86SWD48pzOKklYntzWQ=="

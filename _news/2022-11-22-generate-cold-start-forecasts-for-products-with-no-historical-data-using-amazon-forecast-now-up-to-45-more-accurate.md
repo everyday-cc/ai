@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/generate-cold-start-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-cold-start-forecasts-for-products-with-no-historical-data-using-amazon-forecast-now-up-to-45-more-accurate/"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     width: 1550
     height: 771
     isCached: true
+
+related:
+  - title: "Implementing Amazon Forecast in the retail industry: A journey from POC to production"
+    excerpt: "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved"
+    publishedDateTime: 2022-11-22T18:35:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 97
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg"
+        width: 1564
+        height: 780
+        isCached: true
+  - title: "An AI and deep learning-based malware detection system for the Industrial Internet of Things"
+    excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity. Powered by wireless 5G connectivity and artificial intelligence (AI), IIoT holds the ability to analyze critical problems and provide solutions that can improve the operational performance of industries ranging from manufacturing to healthcare."
+    publishedDateTime: 2022-11-22T10:23:00Z
+    webUrl: "https://www.continuitycentral.com/index.php/news/technology/7946-an-ai-and-deep-learning-based-malware-detection-system-for-the-industrial-internet-of-things"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 43
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "f1rjSmVt0T9w99GR7q1RNgO0XkEOVmxW3oL3R9qKi0uVPv/lthm6Lr7VABm4GKgmoVg6mGDEKOUc7+sKCWKfE+jdC0m1lnHe5wgL5s18zRleGhs+A+ZLec26es6UUL++BTc+o7a6RDKJcK/YM1xTtIBBOM+o+gBAaU1QkHDjDObu/vf7mSMqXxPef56JOok2rJFeSV0YtHnLHKWEkc1N5WCffoMHAGdBGoMPIvaKZW1V4v6kd34WGPi0EJJ+UnY85ARHa24UgMmDwBdbHPqfATDX/4JAPSYI+JQd7q67wQ5S25Nx63lyKu/jYRdrZyKs6Um0XnTBE7LjOaaxtSKhDzp6e/0KGDU3cOVBnW57hHM=;6ozvzCYkAkzI6fe3WFZaLg=="
 ---

@@ -148,6 +148,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
+    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar also spoke about taking up collaborative research projects including establishing Centres of Excellence (COEs) in member nations to be able to work together in building the future of AI."
+    publishedDateTime: 2022-11-22T18:01:00Z
+    webUrl: "https://www.cnbctv18.com/technology/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence-15233301.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 31
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/07/Meity-1019x573.jpeg"
+        width: 1019
+        height: 573
+        isCached: true
 
 secured: "tNTrFzh/fj9EbxPeIJtEFe7kZC7hdf/ePAuNaKpE8WPjWHkBOPBODeu2UTSJu1KHlvvFb3R8WPOrPmBitblkiPHWqFXhWE4QnEweioOrOeL0EYXf+lj70+Y5nV/HcYzjscBqCnB5mjLjl3yJMX8Phi+nJw2H3CnYnFeNVsRVSuNXf/jIkgVA+y5r+A7p0g3/tLVuRLoFlJ4lKtX/3O/QtLTk0g1R7C+VEYgjXQCy4n2AgDgLHYUu0U3zshCos/El2TpuvYls6OUQ0kpCH7eQBsCdx5p5lQ5Mlb+FGyi/pnb1RWGE5pKNfMsiHqxw9tbc/vjvmaoOvUrojQNZcbhp+sxglmHKO9M2CaflH5xKuhU=;yfKvEJsJM1gSYZ+z6olZOQ=="
 ---

@@ -60,6 +60,20 @@ related:
         width: 1024
         height: 787
         isCached: true
+  - title: "Leading transformations with artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
+    publishedDateTime: 2022-11-22T16:19:00Z
+    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: IMD business school
+      domain: imd.org
+    quality: 41
+    images:
+      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
+        width: 758
+        height: 334
+        isCached: true
   - title: "From artificial intelligence to business intelligence"
     excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
     publishedDateTime: 2022-11-19T22:30:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Leading transformations with artificial intelligence"
-    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
-    publishedDateTime: 2022-11-22T16:19:00Z
-    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IMD business school
-      domain: imd.org
-    quality: 39
-    images:
-      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
-        width: 758
-        height: 334
         isCached: true
 
 secured: "q0+EoJ9aA6miLJNVE3UCdDTFhMoIqrtTvfmcig/S96PWVZ1BT7GinoZfeVCEpmttuf0o7f74Np1SD2q+ofv+rqx0O/yLORmHyqBhXRSMrzLf7+Q5FZBijO6LcSXnlNW4b6ofwcX9cQhDuSAwlimidPmn5fKnu++88h+XFU7flr7TTyB0O/k+x2QHANy1yI+UuExncPGqSFaO/z+amZe2aI2E1H8RnZhI2dpGtu7sdZ9QXDT3omcC9NaYBSe+VGSrWjV+bmOSTJtvAkSxVPdbrTS0wTc77dR86By10a9Em+M7od2Xxdqw3xhu5InkXoaj5WFqmc9dRXLxlQFur407MoiJbX2u+ho/OWYGmQ6uDIw=;Y03cNs+5/3myWLR1DffwoQ=="

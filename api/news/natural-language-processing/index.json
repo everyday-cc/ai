@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-22-accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate.md",
+      "title": "Accelerate multilingual workflows with a customizable translation solution built with Amazon Translate",
+      "excerpt": "Enterprises often need to communicate effectively to a large base of customers, partners, and stakeholders across several different languages. They need to translate and localize content such as marketing materials, product content assets, operational manuals, and legal documents. Each business unit",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/accelerate-multilingual-workflows-translate.jpg",
+          "width": 1560,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T10:28:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-the-speech-jfk-never-gave.md",
       "title": "The Speech JFK Never Gave",
       "excerpt": "While the bulk of the speech is no longer timely – budget spending, politics, issues of the day, and so forth – his main ideas and philosophies most certainly are, especially in our current political and social environment.",
@@ -704,6 +757,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei.md",
+      "title": "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)",
+      "excerpt": "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1668104872.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29695590",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590",
+      "publishedDateTime": "2022-11-14T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-groq-reimagining-high-performance-computing.md",
       "title": "Groq – Reimagining High Performance Computing",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead sits down with the CEO and founder of Groq, Jonathan Ross, and discusses the next generation of computational AI.",
@@ -1330,92 +1426,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m.md",
-      "title": "How AI and NLP accelerate contract lifecycle management (CLM), Icertis raises $150M",
-      "excerpt": "Icertis, specializing in contract lifecycle management (CLM) and manager of over 10 million contracts, has raised $150M in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
-      "publishedDateTime": "2022-10-31T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies.md",
-      "title": "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies",
-      "excerpt": "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies",
-      "originalUrl": "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

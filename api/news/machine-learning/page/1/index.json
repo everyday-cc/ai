@@ -738,6 +738,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy.md",
+      "title": "Machine Learning Can Help Predict Patient Response to Cancer Immunotherapy",
+      "excerpt": "Algorithm gives insights into the biology behind an effective response Machine learning algorithm predicted, in hindsight, which patients with melanoma would respond to treatment and which would not respond. Credit: Adobe stock Predicting which patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy",
+      "originalUrl": "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Johns Hopkins Medicine",
+        "domain": "hopkinsmedicine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence.md",
       "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
       "excerpt": "Artificial intelligence is everywhere. Once the domain of science fiction, it’s used in everything from virtual assistants, to facial recognition systems, to self-driving cars. But how, exactly,",
@@ -1387,49 +1421,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
-      "title": "Massachusetts Institute of Technology: Study urges caution when comparing neural networks to the brain",
-      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such speech recognition, computer vision,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
-      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg?fit=600%2C400&ssl=1",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
-      "publishedDateTime": "2022-11-08T20:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
         "images": null,
         "publishers": null,
         "authors": null

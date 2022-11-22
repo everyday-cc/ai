@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2348152-metas-board-game-play
 webUrl: "https://www.newscientist.com/article/2348152-metas-board-game-playing-ai-can-pass-as-a-human-in-game-negotiations/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 800
     isCached: true
 
-secured: "ry+aj6CVBA6oSXhyKwkkkKUAU/kp9q+WUiZr0TsNKwyXDLQYvo4/KZwKGNMRmb5lgZQWAJFiSytlY1TUP+P3rKisWfWweHpPFnzW723psYRIjpML2jcmeIT6arIKXgQDVjBXMCkwdKglRSnFsjC8SH90Ue0jp5bA4pzZGkMnV0cArmYgm2HxCO4bw9x6wb9l1NEaXCk8OGd6JauCcgbFsncX03sugSX8MiZtYPd+mZh2d+3M24t2CnDh6MsIwNgHYolqbdg1MhmZQqArSNB80s7IK5knqhtgHLWjThlK6IrA4Y/RirsgK6ehQrdb9pJIEiBq89wivU7Ii4e9QmmO/8d1+xDSEJwujXRaFgrT04g=;F7MqMFpR+xq2MWEzAbM2pg=="
+related:
+  - title: "Meta's Latest AI Can Play Diplomacy Better Than Most Humans"
+    excerpt: "CICERO can negotiate, offer advice, share information, and make agreements with other players, but also knows when they are bluffing."
+    publishedDateTime: 2022-11-22T17:20:00Z
+    webUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03xnvbPFTJ6SQUEglxTgRy5-1.fit_lim.size_1200x630.v1669136459.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+
+secured: "eZL2QCSPHw2D3jonGCuBkqNFksh8V7wYQXQCkChPivP3PXULyNXIV2bQjqNeZTSTlsysyEaCaCTG5sYSfL1OhTwY3MsOwZZr+bnxVWc36NTCpSCH+Rpwv173TpActHonC8RWQvH1V4zDFvVAwXSs/Pp9w+4QRU+rjCUawukd9y8i+TmXrYYk+PGgSYNv3G+icAj5ugQL6l0jH9L0+M9fff7KleU0vBWqxYxWaSzVpyveIARaiIfN/STh+odPP6hA64zTWB77Tn63fv/WYkGbiz4G0mRqnbRQ2C9Yffk2mQyQZq0Fl0NkbgrJblkr0FZ34WzhuZFEksfccXjjyLFfX18it7RghDxOL8WR16yqLXZEKaxwhAL7Y7J4OVBmOxid1JEQyZ0CvDFGi0/qbly33LQZeNL2OrR1s3sBfmI/Ej0DiOxGGq6goKYx8/bO7zTeKliIEz8Ruw7WcS/sppa6fsUit3m3xbWF8JdHlSWpOHJq4ZixNO5RGK8MTPfrWe+mjI1iNdCJjS9JvpGS3TP8jQ==;NzfEQ502nVPlY/jJpwTL4A=="
 ---
 

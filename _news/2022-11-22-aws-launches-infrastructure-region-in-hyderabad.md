@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS to invest $4.4 bn in Hyderabad data centre"
+    excerpt: "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India."
+    publishedDateTime: 2022-11-22T18:41:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/11/22/1321759-aws.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "AWS plans $4.4 bn investment in India through new Hyderabad region service"
     excerpt: "Customers will have access to advanced AWS technologies to drive innovation including data analytics, security, machine learning, and artificial intelligence (AI). Further, the company is planning to invest an estimated $4.4 billion in India by 2030 ..."
     publishedDateTime: 2022-11-22T09:56:00Z

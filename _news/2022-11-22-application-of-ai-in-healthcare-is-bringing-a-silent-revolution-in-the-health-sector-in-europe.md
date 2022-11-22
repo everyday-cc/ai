@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 588
         isCached: true
+  - title: "Advancing Healthcare Innovation through AI Adoption"
+    excerpt: "Leading health providers are implementing AI to improve patient and staff safety and quality, allowing them to accomplish their technological innovation goals for better use of resources, with higher satisfaction."
+    publishedDateTime: 2022-11-22T18:24:00Z
+    webUrl: "https://www.managedhealthcareexecutive.com/view/advancing-healthcare-innovation-through-ai-adoption"
+    type: article
+    provider:
+      name: Managed Healthcare Executive
+      domain: managedhealthcareexecutive.com
+    quality: 54
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/ee249d1c756ebffaddd275da9cb262220ef22e85-1000x676.png?fit=crop&auto=format"
+        width: 1000
+        height: 676
+        isCached: true
   - title: "6 healthcare moves from General Catalyst"
     excerpt: "From expanding its partnerships with more health systems, to investing in a plethora of healthcare startups, here are six recent healthcare moves from venture capital firm General Catalyst: General Catalyst partnered with its first health system outside the U."
     publishedDateTime: 2022-11-18T21:30:00Z

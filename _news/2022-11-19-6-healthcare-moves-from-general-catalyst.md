@@ -51,6 +51,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Advancing Healthcare Innovation through AI Adoption"
+    excerpt: "Leading health providers are implementing AI to improve patient and staff safety and quality, allowing them to accomplish their technological innovation goals for better use of resources, with higher satisfaction."
+    publishedDateTime: 2022-11-22T18:24:00Z
+    webUrl: "https://www.managedhealthcareexecutive.com/view/advancing-healthcare-innovation-through-ai-adoption"
+    type: article
+    provider:
+      name: Managed Healthcare Executive
+      domain: managedhealthcareexecutive.com
+    quality: 54
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/ee249d1c756ebffaddd275da9cb262220ef22e85-1000x676.png?fit=crop&auto=format"
+        width: 1000
+        height: 676
+        isCached: true
 
 secured: "7l5XvjBNXqkIpqb9Fh/f4tdH7C5ggxIu/k89s0gYfTux5K5s8dztM6XS8ODD5FBGX75VJhALk2GchEaTdl+sXT4IopQZlMhBLhiBisbaRKoxKHPMh7sYyn69Yq3M0F1EWCc526e4EDTezc86e8nHmGA7gkE9ttMRdi94ODI7IFDrj7zlSr/DGnejbCr/qzMPuWRUTBm1w/vZb24Uwm6pt2uDZQqywKnJn/qZDc/Rojha7YXt11cf+wJuLON4iNfwsfBA9IIQMjAkyHq7gT3iV0BAKwVSliKpWGkCMLTHVN/pX/3Y6wY+EmUR9LBOAaM8Qb3rYylvZzic4j8kfFKK/GTeq/+3xXgZ+vQvaJ0nv0A=;mOX0ZMCLlEeROMQGdr6vBg=="
 ---

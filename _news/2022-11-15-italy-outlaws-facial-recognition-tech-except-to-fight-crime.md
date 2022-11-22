@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Italy outlaws facial recognition tech, except to fight crime"
-excerpt: "REUTERS/Guglielmo Mangiapane/File Photo MILAN, Nov 14 (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies."
-publishedDateTime: 2022-11-14T20:53:00Z
-originalUrl: "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/"
-webUrl: "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/"
+title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
+excerpt: "MILAN (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies."
+publishedDateTime: 2022-11-14T18:42:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime"
+webUrl: "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/edLPTHHNyD8EmVEPl-Rmun3k-ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZUEIO4HAIVJHRFNQU5QWPF3VUY.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "PRmp9dikd7h1VIvIyb89WQTv366alpX5WUzC2LYZpCPIVAjfuTf0Gf6gHJQScd0GYo4wduA5LHKLrxU/XpNp+W1yXZLqjVbtH9vCGWpEQHuEvcY4YHAcYnZ1yzLLEGjW3pgY8Vx7IuguyPNfXpvN6Al5F+zzviej4lt5EFxnMoOPy9fcOXiVi8ZN5d9LD1bD8cqeVNuBqgii2+SLH/rUpc5IVzWSfnWWU7sVso/chCaf5/PdGbobaZxzu13zm7Kg9zhyUlotdgqSCpbgb7S1v0c8QZyUEjxd0/Mcb7H8hA7NSvmsMDEwqn0TpU+GRpQgEfTJZQzUdBuCehZj0upTuhCz8+c1JuGfkjEaSesKjDo=;SG2wpnxlihhG60YrSqXZrw=="
+secured: "hsx7OxFD64V5FRFRcPQO+2uCtAylyLAO118iKuVbY25sI+Ae0f8ub4xlEd4gSGelsCN95BC3J4a8OtydlRHT0+ubklshWw+WIOEM7RG0dbC8oGJZLKKLO6bWSxGB13U3L1ODbZ6TcseZgnb0fDZxjFI/mJip6XL+RQnO+UPY0BmIEB8j3PUlqakFBEDKDasurNXN3gUEo8olKHtXEV2Odi+CvpQ6nIYRow3ZIYU/N0d4TtlwSEZxsHjFHt6t5KhedlfD4l6svAZqOajS3KH78+zinLmmcCpgLNfnfrZGoGS3NF1o2O/0gx2XdyTMz0Z4p9a8YC2UsRBGN+JPOijeRq1X2bmwjc+V79jIe5NivGM=;Q3zoccTuKEQx+PAHOANqXw=="
 ---
 
