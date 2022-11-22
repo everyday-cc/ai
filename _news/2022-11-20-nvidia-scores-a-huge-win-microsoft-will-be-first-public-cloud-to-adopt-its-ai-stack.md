@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia and Microsoft team up to build 'most powerful' AI supercomputer"
-    excerpt: "The firms seek to accelerate the training of AI models using Azure's supercomputer infrastructure and Nvidia GPUs"
-    publishedDateTime: 2022-11-17T11:27:00Z
-    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/369532/nvidia-and-microsoft-team-up-to-build-most"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1668681671/itpro/Nvidia-Microsoft-169.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Nvidia Is Building an AI Supercomputer With Microsoft"
     excerpt: "Nvidia and Microsoft are teaming up to build \"one of the most powerful AI supercomputers in the world.\" Microsoft is set to provide the infrastructure using Azure, and Nvidia will of course provide the performance through its data center GPUs,"
     publishedDateTime: 2022-11-17T15:16:00Z
@@ -144,20 +130,6 @@ related:
         width: 643
         height: 898
         isCached: true
-  - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
-    excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
-    publishedDateTime: 2022-11-17T12:15:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-microsoft-partner-to-build-huge-cloud-based-ai-supercomputer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 56
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft and NVIDIA to work together on new cloud AI project"
     excerpt: "NVIDIA announced that it will be partnering up with Microsoft \"to build one of the most powerful AI supercomputers in the world\". The multi-year collaboration will be backed up by Microsoft Azure’s advanced supercomputing infrastructure combined with ..."
     publishedDateTime: 2022-11-18T16:25:00Z
@@ -171,6 +143,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2022/08/office-engineer-pexels.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Nvidia, Microsoft collaborates to build the “most powerful AI supercomputers”"
+    excerpt: "Basically, Nvidia is bringing tens of thousands of its GPUs, Quantum-2 InfiniBand and full stack of its AI Software to Microsoft Azure’s advanced"
+    publishedDateTime: 2022-11-22T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/11/nvidia-microsoft-collaborates-to-build-the-most-powerful-ai-supercomputers/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 51
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/mwcla-microsoft-jensen-huang.jpg"
+        width: 1280
+        height: 680
         isCached: true
   - title: "Top 5 stories of the week: DALL-E uses, Nvidia’s digital twins, Microsoft’s AI inference, Intel detects deepfakes"
     excerpt: "This week, news from Nvidia, Microsoft and Intel led our coverage. Here's the latest on AI, DALL-E, and how to secure the enterprise with zero-trust."

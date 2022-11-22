@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-pred
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm"
 type: article
 quality: 56
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-11/21/EP_74007image_story.jpeg"
         width: 940
         height: 492
+        isCached: true
+  - title: "Contextual analytics helps achieve holistic understanding of video in real time — Oosto"
+    excerpt: "Semantic segmentation can enable contextual analytics to gain a holistic understanding of real time video footage, improving AI performance in video analytics."
+    publishedDateTime: 2022-11-22T02:55:00Z
+    webUrl: "https://www.biometricupdate.com/202211/contextual-analytics-helps-achieve-holistic-understanding-of-video-in-real-time-oosto"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
         isCached: true
   - title: "Can Artificial Intelligence And Big Data Help Predict The Future? Read how FiscalNote (NYSE: NOTE) Uses Predictive Analytics."
     excerpt: "In complicated multivariable environments, there is no such thing as certainty.  Just like the outcome of a soccer game can be impacted by nearly every touch of the ball on the field, other multivariable environments,"

@@ -28,21 +28,14 @@ images:
 
 related:
   - title: "Artificial neural networks learn better when they spend time not learning at all"
-    excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
-    publishedDateTime: 2022-11-18T22:40:00Z
-    webUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
-    ampWebUrl: "https://phys.org/news/2022-11-artificial-neural-networks.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp"
+    excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility across a spectrum of research interests."
+    publishedDateTime: 2022-11-19T01:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
   - title: "Artificial neural networks learn better when they “sleep”"
     excerpt: "Recently, artificial neural networks build upon the architecture of the human brain in order to improve various systems and technologies, from basic science to finance or social media. While in some ways they have achieved superhuman performances,"
     publishedDateTime: 2022-11-21T14:36:00Z

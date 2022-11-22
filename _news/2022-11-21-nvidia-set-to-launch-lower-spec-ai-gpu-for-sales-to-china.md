@@ -56,20 +56,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Nvidia RTX 4050 GPU leaks via Samsung gaming laptop benchmarks"
-    excerpt: "A fresh benchmark leak suggests an Nvidia RTX 4050 GPU is on the cards, and the gaming laptop GPU could send the RTX 3050 to the retirement home"
-    publishedDateTime: 2022-11-17T11:13:00Z
-    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4050-samsung-gaming-laptop-benchmarks"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 39
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/nvidia-rtx-4050-samsung-gaming-laptop-benchmarks.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "jsuhm/ctrxk1wwjez4UzbaNV2p3t88PTAu3WR2Qy25chkFAEzfn8pVXevqWq2Qvntg+EmbeqnKZwqi8o08IgiQabfvGWc3t0RIa2sFMAZOXTikz8wChiP8bReneEtlfuF30w8iZJYDbQlcAhDOA0PfdXp/jumyqPj4WgcdiML7pRJYu2vxlZFuTvSm4wMlUZoeJSojb94M5TDTtcmc5Rp9ujUkZYKHjMb3N9FpprIqxHWJt1fKZ/s+BvEcbYbtcbzWACh3FGRGHj0Lc7WUk3vVl00PmTs0Pwe3nt9uooy+Pa95tJoV9lwHjz+vSJY7m/LVXcidBh2D6cR6Dsmotgm9sQzFP2X+iAl/wCmydJiOhbFYvLLECXqQpJlBRXA5klzccq99B3dxDXZPQK98mNZKxOYhsNTkLr4/UbB8Ej/+vwqETbDUv/a+UVQtd3w2lX40A+6/O0FuXOIx8Uy4VrB0W2ALLawM/JXSN3Bk5miwpRap6W8aeJjddCl7HKC4fVYHZeoOibio/W3KWxm5jHmQ==;XmITOSHdG+QE9s1mxD2PCw=="
 ---

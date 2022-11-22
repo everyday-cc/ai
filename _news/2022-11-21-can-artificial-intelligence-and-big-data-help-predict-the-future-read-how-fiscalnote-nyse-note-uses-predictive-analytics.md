@@ -83,6 +83,20 @@ related:
         width: 940
         height: 492
         isCached: true
+  - title: "Contextual analytics helps achieve holistic understanding of video in real time — Oosto"
+    excerpt: "Semantic segmentation can enable contextual analytics to gain a holistic understanding of real time video footage, improving AI performance in video analytics."
+    publishedDateTime: 2022-11-22T02:55:00Z
+    webUrl: "https://www.biometricupdate.com/202211/contextual-analytics-helps-achieve-holistic-understanding-of-video-in-real-time-oosto"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
 
 secured: "7WwuqAiQdTmbpbwfbU5x9aHfBpVEmzQHKxbpX/4YfK2163U5Av/HYoTqvSWWf652igEzp9/heOnVmwwX50j5YxZ7pn2YL6pC2Gyakm+jUqIMcRTgn1njOFk3HvNd4iPeQHzU4aRB9sdoU0XhJAYqdOTZ6zN7S22YkSueJw+0pqMOfNFBsntr89SjYP7SWHVFnOiF+08SjkPQFLPHyMa+XGqBGl2Uoc2mXMPDDcuAksI8A1O7jhm4YdAHjWjjSB0QDh5XY1v8q4J8c1b/gy0PifxGX45ElxtgTdAyYOcaCwhg5oNO3a2tT9cqltALTF/9Zq98tFXGi9GhyEEOLdS2ikiyUYsUWvZaUzw1yTJel1Q=;+uw/g6J/I+9b+HkKdQk7OA=="
 ---

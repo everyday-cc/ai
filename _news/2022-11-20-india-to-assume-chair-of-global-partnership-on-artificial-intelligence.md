@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
 type: article
 quality: 72
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "India assumes chair of the global partnership on artificial intelligence"
+    excerpt: "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place"
+    publishedDateTime: 2022-11-22T02:49:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 71
+    images:
+      - url: "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "India To Head Global Partnership On AI (Artificial Intelligence) For 2022-23"
     excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair,"
     publishedDateTime: 2022-11-21T04:13:00Z

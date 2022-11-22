@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.adsttc.com/doodles/flat/logo-animation.gif"

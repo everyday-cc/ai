@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-22-aws-to-invest-44-billion-on-second-infra-region-in-hyderabad.md",
+      "title": "AWS to invest $4.4 billion on second infra region in Hyderabad",
+      "excerpt": "It is estimated to support over 48,000 full-time jobs annually at external businesses during the investment period",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/4lf7r6/article66167987.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece/amp/",
+      "publishedDateTime": "2022-11-21T20:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-amazon-rekognition-labels-adds-600-new-labels-including-landmarks-and-now-detects-dominant-colors.md",
       "title": "Amazon Rekognition Labels adds 600 new labels, including landmarks, and now detects dominant colors",
       "excerpt": "Amazon Rekognition offers pre-trained and customizable computer vision capabilities to extract information and insights from images and videos. One such capability is Amazon Rekognition Labels, which detects objects, scenes, actions, and concepts in images. Customers such as Synchronoss, Shutterstock,",
@@ -260,7 +303,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -822,7 +865,7 @@
       "originalUrl": "https://www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence-11668938096495.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1009,49 +1052,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
-      "title": "Artificial neural networks learn better when they spend time not learning at all",
-      "excerpt": "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
-      "originalUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-artificial-neural-networks.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp",
-      "publishedDateTime": "2022-11-18T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

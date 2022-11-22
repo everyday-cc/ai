@@ -544,6 +544,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-16-qualcomms-snapdragon-8-gen-2-gives-us-a-glimpse-of-2023s-android-flagships.md",
+      "title": "Qualcomm’s Snapdragon 8 Gen 2 gives us a glimpse of 2023’s Android flagships",
+      "excerpt": "Likewise, the Adreno GPU is up to 25 percent faster with 45 percent ... all throughout the Hexagon processor for up to 4.35x faster AI performance. Qualcomm also claims it’s able to handle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/11/15/23458241/qualcomm-snapdragon-8-gen-2-chipset-processor-x70-5g-dynamic-spatial-audio",
+      "originalUrl": "https://www.theverge.com/2022/11/15/23458241/qualcomm-snapdragon-8-gen-2-chipset-processor-x70-5g-dynamic-spatial-audio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/u5kOs0J8-UB5HWsYPgq29Mj9TVI=/0x0:1650x1100/1200x628/filters:focal(825x550:826x551)/cdn.vox-cdn.com/uploads/chorus_asset/file/24196785/Snapdragon_8_Gen_2_QRD_Indoor_Setting.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T15:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-pickle-robots-unloading-robots-bring-in-26m.md",
       "title": "Pickle Robot’s unloading robots bring in $26M",
       "excerpt": "Pickle Robot Company announced that it closed a $26 million Series A funding round and it has live pilot implementations in the LA area.",
@@ -1170,59 +1222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos.md",
-      "title": "Startup Uses AI To Turn Textbooks Into Gen-Z Friendly Videos",
-      "excerpt": "Prof Jim aims to make it cheap and easy for textbook publishers to create videos narrated by famous avatars, complete with slides and pop quizzes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
-      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6373aabf337fdbfd9b61196b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

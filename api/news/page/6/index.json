@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-16-startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos.md",
+      "title": "Startup Uses AI To Turn Textbooks Into Gen-Z Friendly Videos",
+      "excerpt": "Prof Jim aims to make it cheap and easy for textbook publishers to create videos narrated by famous avatars, complete with slides and pop quizzes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
+      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6373aabf337fdbfd9b61196b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-ai-driven-fashion-platform-shoptrue-constantly-learns-its-users-shopping-habits.md",
       "title": "AI-driven fashion platform Shoptrue constantly learns its users shopping habits",
       "excerpt": "The startup raised $6 million in seed funding in 2021 to help build ... Shoptrue’s launch is another example of how AI technology is transforming the e-commerce industry. In June, Pinterest acquired the AI-powered shopping platform The Yes, which ...",
@@ -1139,49 +1192,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-official-jumps-from-10th-floor-of-intelligence-agency-raws-office.md",
-      "title": "Official Jumps From 10th Floor Of Intelligence Agency R&AW's Office",
-      "excerpt": "An official of India's spy agency Research And Analysis Wing or R&AW jumped from the 10th floor of the agency's building in Delhi on Monday, said police. He died on the spot, police added. The man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "originalUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/delhi-police-generic-pti_625x300_1528917240983.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "publishedDateTime": "2022-11-14T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

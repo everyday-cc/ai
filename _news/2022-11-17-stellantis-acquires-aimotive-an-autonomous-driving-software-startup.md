@@ -59,20 +59,6 @@ related:
       name: futurecar
       domain: futurecar.com
     quality: 19
-  - title: "Stellantis Accelerates Autonomous Driving Journey with Acquisition of aiMotive, a Leading Artificial Intelligence and Autonomous Driving Start-up"
-    excerpt: "Stellantis N.V. and aiMotive, a leading developer of advanced artificial intelligence and autonomous driving software, today announced that they have entered into an agreement for Stellantis to acquire aiMotive."
-    publishedDateTime: 2022-11-17T12:55:00Z
-    webUrl: "https://www.design-reuse.com/news/53038/stellantis-aimotive-acquisition.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 15
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage53038/Stellantis_aiMotive_1200x750px.jpg"
-        width: 900
-        height: 562
-        isCached: true
 
 secured: "z2vvZQKJbheNhHZQyxpAJ2caqcrAFVs5s8a1hgIkBDEaBUefDb1WT+tbN1PmqUaq8JU20DomSjTSZ7q/q8Bi/K9EfLd2BtEqbTsq/zr+4ZRu7IvDwcCZ3JJ1dd6ZyO31BEUmCfTh2GhaMlr7NQ/SGDJ1ipNhOonIX7q15N4JXqyqTYM9Few0vds3Qd+gYFXFlloVYI0lCnNWAmhjI2XbD0JLQWUnLmiRvY/2kyqQit95Fb+K6/Yze2t5PfNYAnKTiBs8LicQTW1TYVNUP0TWoL+OGIr1bFL6+0I4T8MziuveAsjA687nmCb4ITWTrhjGvkbHYSpyKILKFwPP4nTsAngiWFCjaWdypvfayYXPEJuclqIc0e93s1XqNesvGTWXgPdJCwk/t97zTbXqK7QITwmqrQGCDgj+b79iQpLGs1sy5U83oFBNyRe0SXaYUdYwZJYl5aeNZCa3pxJu/3lG2HnTvNeb7zjEv8nn6oj+o7FdYEIWavOmZEEO1i5s7llVQuPP9wNSCbHE30RV7eO37A==;QwE+QpCz4pDz/TshOhhhGw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-g
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/"
 type: article
 quality: 95
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20221121pd202_files/1_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Nvidia RTX 4050 GPU leaks via Samsung gaming laptop benchmarks"
-    excerpt: "A fresh benchmark leak suggests an Nvidia RTX 4050 GPU is on the cards, and the gaming laptop GPU could send the RTX 3050 to the retirement home"
-    publishedDateTime: 2022-11-17T11:13:00Z
-    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4050-samsung-gaming-laptop-benchmarks"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 39
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/nvidia-rtx-4050-samsung-gaming-laptop-benchmarks.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "jb21kvob/mWdxzhFXG8G4PRgaNDqUgVopET4WgwKZcR6G3ZHuLT8OsW9SqO6ZrPbnH4kPHNt4OlztZDy/iOeRzTVXPU0ea9upbzsccW5radpGo2ZoKhpLcYyvscisyezGyDiFPK8qn0GED2iB/kwoUtfg2nd+XcJdibS1OHS375zA3GBSFKJSFgk4m1rIg5eUV45LEz7G9/DbPFmanW8uVwa9VWvMyhI7+4W5Njtd7wpxVgFBMCrA7jyUlYJ128b1VjSElyS2i14cNdGzwOzujI8Pxqqkfc2SQqrwK1G40fYJMcbnyRLFq9fyuvDzrEv4ysJF7uk+g6ajXlN26Yr1yehDvQ6zxkByggH2df0Vp19r6sJ48TmUYqzvQNWM5c2gdNi4qFOUaIkI6K9N3CXjpMJEYeUWS0H+Ule/j3y/I157CQ2CsQS/HBb9DlE1fFBI2kCOjFFCeGQcUE4eG9GOrCn6V89vHZwaQqX4dEZ9XL9SipuHqGMkFQ5/yIgU28LbLRk/6s4bHzO3uhBsKU25g==;wSlb4u1mVQ1xQa5hJZDKcQ=="
