@@ -8,7 +8,7 @@ webUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial
 ampWebUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
 cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
 type: article
-quality: 74
+quality: 72
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: fox13now.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -88,6 +87,6 @@ related:
         height: 675
         isCached: true
 
-secured: "6tNu7eui75j/K2yLwYJ5map+yORI8qJEW7EqpO47V1JFJYT4z3vUcXdM4FljKpM9gPnVhUUxR3rImhi6e+Yjc4645vHS3F93Ypms1vyYsP1Ie4PBfbxKg36t2kGlmIp5enx2AyU0B4q5jGgJJxbU+pj9XSDkb/MOB7P56DF/IPpmAspgUBnGec1KA1Q1MxdM+PvW05vLbNLMAo6Rwjx6gnn1K5kv9oPuQb8vI7DvcW9r1RcjzffBKaOJMxNj4o/2TMT24UTFHOug3D7A/JuBARJq0+CyZiE7YA3GP2wEw2+L81nkFJp0uGT96sHGwU5g/4y2OYo4L8NBcuAUjh0xuvjDgdjDQEsoFVPJieAafnM=;p6/GCzwXnUWICfPZe0m5mA=="
+secured: "f9jfS36OxzLrawN3fMZ1QdiD6XuoZqWoUu+0x7j9bFdgWhSTdOeNoPsr6tWZLaBlgy8izE45eRz8Qn0ecq4bMKSXcXgsQjzbRBykKc3gRYQ9mLADtT1XRIysZwoLyk9eBs9MXWvcnfbJtPPjVxmMBa90aWlYu7mddjFVYp8b3xCPNQceXA1mT/tsShJEfu10g6O7qDdLbEwyA0FLNFjE7bc0HaFVNBBFvw9A9mRk4udzofa06vm9Cx1nOaXs8g6WhS7FWGSGSpmxuszKlfRHJWAvAMUPvmbzG5Z/NAw8K1A0hDJSeL0WHpGV64PIieRsnl6iRzwf9r/vF5R1fclnhmxNVqcScXlJ37C7RIQV8T4=;Jf7TikmBnwELCtfxvJl4tQ=="
 ---
 

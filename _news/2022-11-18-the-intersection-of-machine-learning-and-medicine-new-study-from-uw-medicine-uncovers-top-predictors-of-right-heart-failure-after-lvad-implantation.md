@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Pinpoint Predictive Launches the First Deep-Learning Powered Prediction of Individual Customer Profitability Available at Top-of-Funnel"
-    excerpt: "By focusing the solution on the top-of-funnel, and prior to filed rating, underwriting, or any outcome determination, Pinpoint provides insurers with unprecedented flexibility in creating relevant customer journeys to better manage their book of business."
-    publishedDateTime: 2022-11-17T10:26:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/pinpoint-predictive-launches-the-first-deep-learning-powered-prediction-of-individual-customer-profitability-available-at/article_1ade8de1-fa4c-5b26-bff5-c58779a5dc9c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 0
-
 secured: "WB2UaNZrlPVOiovCe97CKMAI87Wp+iZK8MZiMT//I+zmy1nJem4lBQYsXlMnB17MBx/LGLQcdsgGXZnzRQ6Vbh603dcOlUpZaC5QfnrZHo1OzRP2aWEnfZ5Ma/qV4J9FTK1qkcnT8+A0Wt1oyRvhxWrkajY4B3XLJU81a4VvtVCY28uJ+nkG9Dpw3YUJOeoY82QwNlo+9zFbXW2q7KEHve0bN7rqzrFbGXm1u3M/sYfFhdTwwglKJBzg3n9rRX6dQ7yPI99Mgo7Ya9RBEFEj4bpE7P38L8I5q1urtk5C1CuI+btDV9IYq5r5PxzUNUZW045McFUUYk/oemaPQ3sBzlNgYPCwztfJs0rBb8Z3Jx2FscB4lyTHoZyRlMfMIkzbfOCOzkbuhybLzhTza8v0QDp1qQyhdiSIA/PXCTRSKouBYV8xWjgHuOw32J9u9cZbEATyQpeMFJTq2M+fRAvKeSkqhdDLw//wene8SxXqtxBesiuZEEqhRY8MeOAJYhjWMNMhGp/CKKgrmMhNDa20Yg==;WVtwU4TBaO+i0Zsy8yaWEA=="
 ---
 

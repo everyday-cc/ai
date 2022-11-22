@@ -159,20 +159,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "Microsoft and Nvidia team up to develop AI-based cloud"
-    excerpt: "I, for one, welcome our Skynet overlordsIn a move that shows that executives from Microsoft and NVIDIA have never seen any science fiction, the pair have teamed up to build a new type of AI cloud computer for Azure customers."
-    publishedDateTime: 2022-11-17T10:33:00Z
-    webUrl: "https://fudzilla.com/news/ai/55838-microsoft-and-nvidia-team-up-to-develop-ai-based-cloud"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://fudzilla.com/media/k2/items/cache/fa135545d2412b7ede314e3e87f84a23_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Microsoft and NVIDIA to work together on new cloud AI project"
     excerpt: "NVIDIA announced that it will be partnering up with Microsoft \"to build one of the most powerful AI supercomputers in the world\". The multi-year collaboration will be backed up by Microsoft Azure’s advanced supercomputing infrastructure combined with ..."
     publishedDateTime: 2022-11-18T16:25:00Z
@@ -186,20 +172,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2022/08/office-engineer-pexels.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "NVIDIA and Microsoft team up to build an AI cloud computer that probably won't become Skynet"
-    excerpt: "NVIDIA and Microsoft's AI cloud computer probably won't take over the world. What could possibly go wrong!? Well, probably nothing really (maybe?) Today, Microsoft and NVIDIA announced a multi-year partnership to develop a new type of AI cloud computer for Azure customers,"
-    publishedDateTime: 2022-11-17T09:43:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/nvidia-and-microsoft-team-up-to-build-an-ai-cloud-computer-that-probably-wont-become-skynet"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 43
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Dk4vmuSsdEo9AhfCqHHRCo-1200-80.jpg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Top 5 stories of the week: DALL-E uses, Nvidia’s digital twins, Microsoft’s AI inference, Intel detects deepfakes"
     excerpt: "This week, news from Nvidia, Microsoft and Intel led our coverage. Here's the latest on AI, DALL-E, and how to secure the enterprise with zero-trust."

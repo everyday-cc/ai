@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
-excerpt: "According to this facility, the identity of a person is established through face recognition technique using Aadhaar platform and a digital life certificate (DLC) gets generated. The minister lauded the Department of Pension and Pensioners' Welfare for creation of 25 lakh DLCs for central government pensioners in 20 days of a nationwide campaign."
-publishedDateTime: 2022-11-21T13:58:00Z
-originalUrl: "https://economictimes.indiatimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/articleshow/95666253.cms"
-webUrl: "https://economictimes.indiatimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/articleshow/95666253.cms"
-ampWebUrl: "https://m.economictimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95666253.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/amp_articleshow/95666253.cms"
+excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
+publishedDateTime: 2022-11-21T14:31:00Z
+originalUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
+webUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
+ampWebUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-815312,msid-95666301/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "25 lakh Central government pensioners avail digital life certificates using facial recognition technology"
@@ -83,6 +77,6 @@ related:
       domain: ndtv.com
     quality: 8
 
-secured: "1CnkG+azrcNsAVKiBc+/y48wMC/2LcyuTmntW9nqXYKUwtG//FDqYDzwkcfXg0scP2dRXhQjNqRprXEf8LWSuBJsRF+Z6lubY4QwpN3QVi3tA5PnbAvOUrB8RIzOZgFqwx/UZz4PaeH+MukKvhKMcRgHvA5PYdIAntNryZk5xLX68aCBN9ctFJajV8mJqVVq0k4rf0DYWJcHm0HL0EfJkM+i/3Fo9w4Mte7xBGE5OjxihnjGj4ATBy6iMfUL+mjDK2bZyl5v53IJDvxjQAeDHJ7cjvhUto1Z9Gffo1qDOecy8+sjHLrwLoRI6f/hoPW5VtqWIwEbpazbVvLVaNnWDObfe822j94gjmAY+GECfF/V1zgKddpErXjU90ga+pZu0QWgjr0ZxZxjQmq3Tsj5qEesGQK2WV2beSOwEvU5SfxFhq2WBjQzBAsSupJdcp0gr3jpnowN/kyXxukyK5WWNrfTtQtKElfEV5I//zlIZRt3yZEOXpJmhvbkHw/KrccK5EWwUR5Y4sZ8dxpnvW81Rw==;X9jHDu1yEWcCrvrDaDc+yg=="
+secured: "Aoz5CyiWxWmWapwH1jToEzDDdtv7xCSEzTUveG7LrTimEZ5URpZEYlO4/PCwEgnv6pxOkExlCOk3b/k0johnPYSGr5pjVDg5Kg9tRsD9tb/wzNKNjycjOu+2xsUz9FF3Ah7u18Tdu7ux4ZrgjwmXkKtS4u5ndQybT3DNA+Z4bfQBNbzqWTe/0Okmx3nc1JDiX5Jx1R68ujmRrOLIAapfRYcuxwEiQu7/w8KrR0gH0kkLr4tFpCVFKYWayDlx/H5dP0sY3q5mdnSSX5kywRYVHzmgjajK/maByAtHkR5NaMsYjTAzCWFCbxZPu2DBAVIpHkPUVLmQXmSZBeDN+C5E2VcYlS6vUVXZkI4SZJrNXgk=;WzaNlG185zxgIIq4xgmPQw=="
 ---
 

@@ -3,16 +3,16 @@ category: news
 title: "Flexible AI computer chips promise wearable health monitors that protect privacy"
 excerpt: "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ..."
 publishedDateTime: 2022-11-17T14:07:00Z
-originalUrl: "https://www.ctpost.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
-webUrl: "https://www.ctpost.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
+originalUrl: "https://www.chron.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
+webUrl: "https://www.chron.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI Hardware
@@ -29,6 +29,6 @@ related:
       domain: medicalxpress.com
     quality: 29
 
-secured: "Hh0WYdp6TRoswDHSyUA/xhB29z74jddupji4cNQPfCuyBhXuqckn6TQbdoDpapvn8u+gLi2G6Bg7WdDtYFfhGku5bU/ykrWgkR3i3ypsd1mM3KXkmCsV0Bbj4wV5JICXQCrj76D8Wl9uUdc9ANCjXHIXB+vYJg01YqmkQqPamVNQCUNiMgEz96j1QCGl3BYD6hIFLe9ZMRUjIzle8ZVQ2nrvMtnl/ccGuSALK9DeCxIPn3FxQgCSfThk89c67EYw16F5BLJxXJAGHApqhIYCc/sSVg00xLX90mEmO8WmEPr8pEh9LNCHnphpnl1RK0L0Gn6lNH9pJXQa8iiJSTEEKZJgboFe3QUF8DhEyviVxAo=;dJ5sM218px+jkLILU0EEBA=="
+secured: "PntXRIthu0vtBCgsiu8mII3wl4TynhWiIqtU7blgB5y1RK7ZXAtKiE3/kEUh+XmwsMJaELKW7oMzOlVBM47VGJ9H35QIPLJDUPMJDcWQb/HscXYdBFxz2WBYPZQEXObOx/Yh9NR4x94zz+X2m2l0HCSGLdo54IRBS9cxydHRx0WTKLvTaZWAHVF6bXWGm1sHsAm/0NbU0d/RW7hnGNcDjJsPt6KFtmxB7ELNV5p8TzePD4ZNMcuSYZw0gV4Db52qh0kGhN5WdZFyE+H4uQRlAKEtkWp9suHyBe2IAkmaueXMQxnkso+CK7yl5sN7mfIavoD1Mw39HtGjbhgL80ZjMLD5rpYoi+zx3G1Zrs11+v4=;mYVj+MweZQIQ46Xo8Bqsrg=="
 ---
 

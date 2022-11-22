@@ -26,6 +26,17 @@ images:
     height: 443
     isCached: true
 
+related:
+  - title: "AWS Launches Second Infrastructure Region in India"
+    excerpt: "Second AWS Region in India provides customers with more options to run workloads with even greater resilience and availability, securely store data in India, and serve end users with even lower latency The new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
+    publishedDateTime: 2022-11-21T17:43:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-22-aws-launches-second-infrastructure-region-in-india"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 19
+
 secured: "U2lHuY6V4FNwZmFJr9JFI27diMBEHnZCtqH7TRZHiP9b8AyphE0PPRszIWKzx1np8p+xJlIgHIonTgBJeRqh/C0Z8sJTSrvp3BwFCIJgY+HzPZBM7sygvDQfA1jto0CRhXaRXw3GkvLNweYtKIjChf0zmFmA3aKeyxJaQ5gxbpmOCaalXywU9fUEeOB3B4FXe6S9859SYIe/U1jqU7Vs0RT1pqfObIcRpjj4dclewel+dQ59QDd2DCRmba6XAx9HV5ew+dSMg36ehMSmEIs20N8hqQkNEF1N4tni9fClFUza6n5jAhZX3Y/CuIZlglNE34nlgsucCuPKLwUdZ3OdDsczmrddtasnHUo4BB40q7BW/bWzhHV0vNaah+G8Wk3cxrvwsethj6h9W3Ahn3mpeG3rck9OwCQDRglJpUhIo9q4DHY9+maXKgcUnmPxdNOyt84gxiyiJGQPw5veEoGYwZf6ndcz5mlN4Qt1pNfjGVE+70S4yyferCnQhm18SCC2VehLVEN7TeuIGb3BBsxqHA==;YKCnGuoBpD75iGhcz8v8fQ=="
 ---
 
