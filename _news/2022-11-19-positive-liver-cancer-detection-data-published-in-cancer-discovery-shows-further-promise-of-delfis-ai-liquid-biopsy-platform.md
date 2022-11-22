@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/positive-liver-can
 webUrl: "https://markets.businessinsider.com/news/stocks/positive-liver-cancer-detection-data-published-in-cancer-discovery-shows-further-promise-of-delfi-s-ai-liquid-biopsy-platform-1031925851"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence-Aided Colonoscopy Does Not Increase Cancer Detection"
-    excerpt: "THURSDAY, Nov. 17, 2022 (HealthDay News) — Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November issue of The American Journal of Gastroenterology."
-    publishedDateTime: 2022-11-18T05:49:00Z
-    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/"
+  - title: "New artificial intelligence blood test technology to detect liver cancer"
+    excerpt: "A new artificial intelligence blood testing technology developed and used by researchers of Johns Hopkins Kimmel Cancer Center to successfully detect lung cancer in a 2021 study has now detected more than 80 per cent of liver cancers in a new study of 724 people."
+    publishedDateTime: 2022-11-21T10:27:00Z
+    webUrl: "https://www.tribuneindia.com/news/health/new-artificial-intelligence-blood-test-technology-to-detect-liver-cancer-453225"
     type: article
     provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 49
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 36
     images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/11/image1668750544.jpg"
-        width: 800
-        height: 600
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/11/2022_11$largeimg_1353732715.JPG"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "ThNHRMUBQzLt4SZNFUUiSWcF3EjCwZXWGqo+h4zKqNHdZ4Qy+4tmt43kcbBnqv5oUxMsqlqbM5QDwpvUfr7SWshoAJOEb86nP0rW3Bms6v6KQLrySzHEAOwytXIOQZyCjr5cU4HdDptE11i6/EIDtrVgou41lzD88D6wkpMQN6D8j5uZYaJZFpE5efL+tR6LKBVGSa0nCoRyxOzg3yTUoTMV7GIQJOBkUch/Qd9wiMLPMK8+W517ixmWd6VRzFcn5YQa7sKTiff7RFhLudeZooY6zrNfMIA9dydAsAM65mJarKiN2iMj1HjEiObhjTVKv8E8vXiraT5qvXxrn4Xvt9mgtGrBHOcA9zT8qlGaZk0=;jU8W7TUDeftJLnkPERawUQ=="

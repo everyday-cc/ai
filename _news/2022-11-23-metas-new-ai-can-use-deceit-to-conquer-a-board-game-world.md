@@ -5,7 +5,12 @@ excerpt: "AI has learned to compete against humans in games like chess and Go. B
 publishedDateTime: 2022-11-22T20:00:00Z
 originalUrl: "https://www.popsci.com/technology/meta-ai-bot-diplomacy/"
 webUrl: "https://www.popsci.com/technology/meta-ai-bot-diplomacy/"
+ampWebUrl: "https://www.popsci.com/technology/meta-ai-bot-diplomacy/?amp"
+cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-bot-diplomacy/?amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Popular Science
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "2F/8tb+dYxr01Oh1WonlUfkpkfdUO65lAiP++jLNpaEYLz6l2nbsaUqiNNjcMHMgaFcZJ7fLQDaO3ZDUmamNTvIz+P7R74bpo01JwSI6TNQFW2SyTNB9GQRduNsyPuvQNGJtoepgTzZ05scOltd+4z5WUr6JrafUWIVGs9kN07bLNTFxydROSq/EIF7ckt87DmFpZRdiZ4xqVsn9uYSk//wBhsqeqVfnNcufRlU8R3AkdekNfNeY5NSsnrHdZhItCeTZdW4ZgnRiZfuGDzc9eXhH4a1WKzFN8YhJtG9gwiIm4VjXcBELUDZEPGqx3ed6EcEZah/nOranN/4yFF6jF3ocJPjlXfSuXbUYU68lPrIwr7k4zU30OLT3oWXkNB7AsPsq8yxieDbDklydHn4Wn/pDLbltG8m11ZGhVqzjI5JOwWbwq0esmfPmn857cBFvR2tCkKN7uE4eKXty5bXDbh24kFrtMm026i0/vOPQj38xrLozbtSZG7V7MB7mNTnWFKxsdlANWnkF8MEgNqxnAA==;CZ0V79oCQuDFWvg1r/hqcg=="
+images:
+  - url: "https://www.popsci.com/uploads/2022/11/22/asli-yilmaz-u1PX1Q26Kpo-unsplash-scaled.jpg?auto=webp"
+    width: 2560
+    height: 1596
+    isCached: true
+
+secured: "H1QjGRLVR9nue6/4crGqePuZJm7lhv63XWGIU+L56pT13rTSz8o4HGTC3zzOKSGMzqAn7lKuDqU6koy8vkTBx8FQf9wrJcFi/mA6ECCvpESJhHTRzm8EDkb3du1ECsKvY8ymNhQ4Dps1TcxlD56FyMsCWUZdPW3m+cRuTmYhalXPJMmVx1p/sVN8krHkFHU3b9HJ4ET6IYrN+sPUQ4iyS3Wo/YKHXRrFBw5mLS/YaOjxIxYWXN5OUHBJo1L78qo2qfs2AJaD+zPY2IwmKnRUNSJ45gG9/j2yBeogNohxk11mT7BSKvRG2aTb/Xc/NsmvaqY2McPdoPfbeWxQGVkz5nvb82lewgCsd1qjEqnH9PM=;TO1C+uhas9HFvoPsHnspPQ=="
 ---
 

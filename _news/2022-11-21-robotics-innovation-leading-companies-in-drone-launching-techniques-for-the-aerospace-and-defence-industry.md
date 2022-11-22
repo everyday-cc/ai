@@ -7,7 +7,7 @@ originalUrl: "https://www.army-technology.com/data-insights/innovators-drone-lau
 webUrl: "https://www.army-technology.com/data-insights/innovators-drone-launching-techniques-aerospace-defence-2/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "CES 2023 robotics Innovation Award winners announced"
+    excerpt: "A quick look at the 2023 CES Innovation award winners in the robotics category covers a broad range of solutions that impact consumers."
+    publishedDateTime: 2022-11-22T20:37:00Z
+    webUrl: "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/11/Tonework-CES-2023-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Dreametech L10s Ultra Robot Vacuum Honored at the CES 2023 Innovation Awards"
+    excerpt: "Dreametech, a global leader in smart home consumer products, announced today that the company has been selected"
+    publishedDateTime: 2022-11-22T14:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/dreametech-l10s-ultra-robot-vacuum-honored-at-the-ces-2023-innovation-awards-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robotics innovation: Leading companies in collision avoidance for robots for the aerospace and defence industry"
     excerpt: "GlobalData uncovers the leading innovators in collision avoidance for robots for the aerospace and defence industry."
     publishedDateTime: 2022-11-18T15:28:00Z
@@ -52,20 +80,6 @@ related:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/10/Aritificial-Intelligence-in-Defence-1-2-1038x720.jpg"
         width: 1038
         height: 720
-        isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in neural networks for Radar/LiDAR for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in neural networks for radar/LiDAR for the aerospace and defence industry."
-    publishedDateTime: 2022-11-19T13:49:00Z
-    webUrl: "https://www.airforce-technology.com/data-insights/innovators-neural-networks-for-radar-lidar-aerospace-defence/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 26
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/11/shutterstock_592921421.jpg"
-        width: 2000
-        height: 1500
         isCached: true
 
 secured: "mcTrmDtKi8Pd8ETEe25dbRNjZ0d6m0wjfzddTFdGofJWjI51ob/0c1P+TUrRngOCBsEQWsNXi9MYDe9MfEZI9pMkNsxn+gAD94J9IxrlGVUswiA04mOdd2Q3LxE6a5VRl/Ozz/qp65X4LytfFkxv5EPB/WwJ7CzMD9ywcLJRc9mq/yhlMJi5zLerKH1vEaOzFBnVwNE8XGIrtJVWxM7m8U0eig7PgbKVJGI6nv4veNB32UIszI/10B2tD+Ne5Xvlga3ine/FVM613Oox2jMv3Or9oj8+mO9XUn+A+eDbcDyxSYpJahHqcQD9ReOfbycfkQcSko1tZzHSKCR1zdpBlRTWrmP7mwBPP0QSw8oa0g8=;m3kKlrrMQ2ykw4UCx3ErlA=="

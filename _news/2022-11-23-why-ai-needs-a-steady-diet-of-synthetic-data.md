@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T20:00:00Z
 originalUrl: "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/"
 webUrl: "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

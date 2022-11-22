@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T20:03:00Z
 originalUrl: "https://singularityhub.com/2022/11/22/this-ai-supercomputer-has-13-5-million-cores-and-was-built-in-just-three-days/"
 webUrl: "https://singularityhub.com/2022/11/22/this-ai-supercomputer-has-13-5-million-cores-and-was-built-in-just-three-days/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Singularity Hub

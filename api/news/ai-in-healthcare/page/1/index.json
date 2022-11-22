@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-23-om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai.md",
+      "title": "OM1 Aims To Improve Healthcare Outcomes Through Big Data And AI",
+      "excerpt": "Dr. Richard Gliklich has been working to improve the management of chronic conditions by analysing health outcomes data since 1999. He is the founder and CEO of OM1, a health outcomes and registries company focused on the measurement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637d3d820a7dd6c1d9817ef0/0x0.jpg?format=jpg&crop=2091,1176,x0,y282,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/amp/",
+      "publishedDateTime": "2022-11-22T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-how-artificial-intelligence-is-helping-improve-medical-processes.md",
       "title": "How Artificial Intelligence Is Helping Improve Medical Processes",
       "excerpt": "Every health center should consider the use of AI for the benefit of its processes so it can adapt to the modern world and its accelerated pace.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1084,10 +1136,10 @@
     {
       "path": "_news/2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs.md",
       "title": "DC Child and Family Services Agency to Use Artificial Intelligence in Support of Child Welfare Programs",
-      "excerpt": "“At CFSA, we recognize the potential of artificial intelligence and believe it will be most impactful ... practices such as Motivational Interviewing and Cognitive Behavioral Therapy. With more than 54 metrics on everything from expressed empathy to ...",
+      "excerpt": "Lyssn.io platform will help expand the use of evidence-based practices for staff and community-based partners. The District of Columbia Child and Family Services Agency (CFSA) today announced that they have signed on to use Lyssn’s unique Artificial Intelligence platform to expand the use of Motivational Interviewing in the programs it delivers and funds.",
       "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/",
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1097,11 +1149,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T07:00:00-08:00",
+      "publishedDateTime": "2022-11-10T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1366,49 +1418,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million-us-seniors-age-in-place.md",
-      "title": "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place",
-      "excerpt": "On the heels of its successful General Availability launch of KamiCare, an artificial intelligence (AI) fall management solution for senior living communities, Kami Vision has announced Fall Detect by KamiCare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/cc/fccec21e-85c9-57d3-87f1-a92213eda6ca/636976b40edaf.image.jpg?resize=271%2C500",
-          "width": 271,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

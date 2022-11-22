@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Can Use Your Voice to Detect Depression"
-    excerpt: "Current depression screenings tend to be subjective. AI can be a useful tool to screen depression by recognizing biomarkers in the human voice. AI might be more accurate than human screenings, although it raises concerns about privacy and ethics."
-    publishedDateTime: 2022-11-21T21:51:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/different-kind-therapy/202211/ai-can-use-your-voice-detect-depression"
+  - title: "Positive Liver Cancer Detection Data Published in Cancer Discovery Shows Further Promise of Delfi's AI Liquid Biopsy Platform"
+    excerpt: "Findings to be Presented at AACR Precision Prevention, Early Detection and Interception of Cancer Conference BALTIMORE and PALO ALTO, Calif., Nov. 18, 2022 /PRNewswire/ -- Positive liver cancer detection data published in Cancer Discovery 1 demonstrates ..."
+    publishedDateTime: 2022-11-18T16:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/positive-liver-cancer-detection-data-published-in-cancer-discovery-shows-further-promise-of-delfi-s-ai-liquid-biopsy-platform-1031925851"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-11/istock-1138451088.jpg?itok=OXkVv547"
-        width: 1528
-        height: 800
+      - url: "https://mma.prnewswire.com/media/1950933/Delfi_Diagnostics_Liver_Cancer.jpg"
+        width: 300
+        height: 400
         isCached: true
 
 secured: "Tr6s/fFsTGkD1ENK9g+ZX5kYJZejfa0G5OxiLVluG+h45gx6uoBArAhsQmGbm79NHFtdIW/wt1HCAgO9SxX/RW7kRK5/1ZejuIo5rCKXep7ZLnvJAtDlF/h7Kfc5fO6jKeq1VKVCMU1d4H173palKHeKYaf3jFfJs6Wc478yj2AhbInvjCxGPFCBdOdQK1v3gRdeuiTzO34oodspjvILCBtv+J29H5FK8KMyFjztn2ag9o5IXN3YKiBaQSFq+9K1co7IBpNoErgHc6po1ghg3mbFKOCTXBguvrfuFemBYS8kwpoRtm49VpT2/G/MoAWo+egWn/+DbuHQRXRnmwPr/fpuy4X4qV+MmaucbcJkv2o5rO53UXVXpM4rAjze7P+5jmzmBFIB4s4V1xWDK2OU2LClOYRZiKHBl90l4788vjlBuAght8ZmhFukncLDy87U1OpzLY19NFj1kpSW53eo4g3EpVY/HEHhCrwkMg9boYzS8K6gb32/YHgvOslpcDOf41wQWTyiOPuRGflla51aww==;zuXA+CMeLLWLzCjHlblvvg=="

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-11-the-rise-of-the-robots-and-the-impact-on-dubais-economy.md",
+      "title": "The rise of the robots and the impact on Dubai's economy",
+      "excerpt": "Experts have noted that increased efficiency means a serious addition to the economy, while reports suggest AI could add up to 13 trillion Euros to the global economy by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/17/42/50/1000x563_cmsv2_693a1a49-5f55-5ad8-b104-0ea65f309f3c-7174250.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "publishedDateTime": "2022-11-11T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-amazons-new-robot-can-handle-most-items-in-the-everything-store.md",
       "title": "Amazon’s New Robot Can Handle Most Items in the Everything Store",
       "excerpt": "Sparrow could shift the balance between humans and machines in the company’s warehouses, using machine learning algorithms and a custom gripper.",
@@ -1305,49 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-louisvilles-amp-robotics-raises-91m-in-series-c-funding-round.md",
-      "title": "Louisville’s AMP Robotics raises $91M in Series C funding round",
-      "excerpt": "Louisville’s AMP Robotics Corp. has raised $91 million in a Series C equity funding round, with the company planning to scale its business while continuing international expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
-      "originalUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/11/02/louisvilles-amp-robotics-raises-91m-in-series-c-funding-round/amp/",
-      "publishedDateTime": "2022-11-02T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Camera",
-        "domain": "dailycamera.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

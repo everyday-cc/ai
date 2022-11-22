@@ -134,15 +134,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "Nvidia to collaborate with Microsoft for 'massive' AI supercomputer"
-    excerpt: "According to The Verge, as part of the partnership, Nvidia will make use of Microsoft's scalable virtual machine instances to accelerate the development of generative AI models like DALL-E. The AI supercomputer will make use of thousands of Nvidia's powerful H100 and A100 data centre GPUs as well as its Quantum-2 InfiniBand networking architecture,"
-    publishedDateTime: 2022-11-18T04:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20221117/4004829.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "atGHRAml4RFZGc8rg5KGVNNtTnCnUPandD1Qy7Jd0tN+0QZACkjr+MHKQjl6n8uCNghtRiGaRyBZsWkrnGuW6cMWTylsGttL9yhAO8a2ApE8kTWZbyvUlo56heBd7VTFWBe/UrPw2+eFNniTpbis9SJeJgK8YWp80h7hA3WIN0zhxYpbkPEucB4s6dlVYhMAW4Cd8+COS0vpF+fXwT8VzDogg3TaxPGP4z4VCes/95AcSzasKBwT8j/UCNYKlyLdAg1tWndZoGVtjudRqyxnBvTS5dIXFOp7udkOjvDuw4OR3fWR6A36f/DKTpaZ2GnliJe3dq+CTB3gokVe92tmS750GL/jMPn9s31yj2VLUKg=;qq0nnXzPaxeZKa7EqCoHoA=="
 ---

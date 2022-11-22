@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-15-a-conversation-with-thomas-friedman-about-ai.md",
+      "title": "A conversation with Thomas Friedman about AI",
+      "excerpt": "Technology has an unmistakable impact on society — the way we work, learn and play have all changed significantly over the past decade. As SVP of Technology and Society, part of my work at Google is connecting people and ideas to help shape the future of our most ambitious technology and its impact on",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "originalUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_2.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-ai-startup-prof-jim-auto-converts-textbooks-into-cinematic-lessons.md",
+      "title": "AI startup Prof Jim auto-converts textbooks into cinematic lessons",
+      "excerpt": "Students can learn from avatars like Jane Austen, Aristotle, or their own teacher with dynamic visuals created by generative AI A whopping 85 percent of Gen-Z students watch short form online ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/ai-startup-prof-jim-auto-converts-textbooks-into-cinematic-lessons/article_b135af15-a98b-55d4-a631-4b01132f6122.html",
+      "originalUrl": "https://www.news-journal.com/ai-startup-prof-jim-auto-converts-textbooks-into-cinematic-lessons/article_b135af15-a98b-55d4-a631-4b01132f6122.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/0f/30f33a22-7cd3-5459-a097-1d9b87e473cc/6373bb508bf1a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos.md",
+      "title": "Startup Uses AI To Turn Textbooks Into Gen-Z Friendly Videos",
+      "excerpt": "Prof Jim aims to make it cheap and easy for textbook publishers to create videos narrated by famous avatars, complete with slides and pop quizzes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
+      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6373aabf337fdbfd9b61196b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-ai-driven-fashion-platform-shoptrue-constantly-learns-its-users-shopping-habits.md",
       "title": "AI-driven fashion platform Shoptrue constantly learns its users shopping habits",
       "excerpt": "The startup raised $6 million in seed funding in 2021 to help build ... Shoptrue’s launch is another example of how AI technology is transforming the e-commerce industry. In June, Pinterest acquired the AI-powered shopping platform The Yes, which ...",
@@ -772,6 +919,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-italy-outlaws-facial-recognition-tech-except-to-fight-crime.md",
+      "title": "Italy outlaws facial recognition tech, except to fight crime",
+      "excerpt": "REUTERS/Guglielmo Mangiapane/File Photo MILAN, Nov 14 (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/",
+      "originalUrl": "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-y-robot-campus-researchers-push-the-boundaries-of-robotics.md",
       "title": "Y, Robot: Campus researchers push the boundaries of robotics",
       "excerpt": "The Robotic Vision Lab focuses on using artificial intelligence and machine learning to achieve vision in robots. Their research spans self-driving cars, facial recognition and food inspection. Casey Sun, a Ph.D. student in the lab, explained how Robotic ...",
@@ -953,49 +1143,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-15-italy-outlaws-facial-recognition-tech-except-to-fight-crime.md",
-      "title": "Italy Outlaws Facial Recognition Tech, Except to Fight Crime",
-      "excerpt": "MILAN (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime",
-      "originalUrl": "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-15-ai-drew-this-gorgeous-comic-series-can-you-tell.md",
       "title": "AI Drew This Gorgeous Comic Series. Can You Tell?",
       "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving.",
@@ -1043,135 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-google-epic-partnering-to-allow-epic-hospital-clients-to-run-ehrs-on-google-cloud.md",
-      "title": "Google, Epic partnering to allow Epic hospital clients to run EHRs on Google Cloud",
-      "excerpt": "Instead, Cerner elected to go with AWS, despite being offered about $250 million in ... center Mayo Clinic and for-profit behemoth HCA, and building up its artificial intelligence and machine-learning offerings. For example, Google Cloud announced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
-      "originalUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/Od7194B5yckvKHMTZrM1r_6AnOc1BJC1kBAy2vLsaII/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUwODAwMzc2LmpwZw.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-were-getting-a-better-idea-of-ais-true-carbon-footprint.md",
-      "title": "We’re getting a better idea of AI’s true carbon footprint",
-      "excerpt": "AI startup Hugging Face has undertaken the tech sector’s first attempt to estimate the broader carbon footprint of a large language model. Large language models (LLMs) have a dirty secret: they require vast amounts of energy to train and run. What’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/nuclear-power-BLOOMa.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
-      "publishedDateTime": "2022-11-14T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-official-jumps-from-10th-floor-of-intelligence-agency-raws-office.md",
-      "title": "Official Jumps From 10th Floor Of Intelligence Agency R&AW's Office",
-      "excerpt": "An official of India's spy agency Research And Analysis Wing or R&AW jumped from the 10th floor of the agency's building in Delhi on Monday, said police. He died on the spot, police added. The man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "originalUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/delhi-police-generic-pti_625x300_1528917240983.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "publishedDateTime": "2022-11-14T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

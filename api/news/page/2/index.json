@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-21-3m-launches-ai-powered-speech-recognition-technology.md",
+      "title": "3M launches AI-powered speech recognition technology",
+      "excerpt": "This technology, which focuses on accelerating digital health transformation in the kingdom, will help clinicians in all care settings to capture the complete and accurate patient story while simultan",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
+      "originalUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:OWM2ODExYzgtODIyZi00:YjE3ODI2/200423074653iqcn-jpg.jpg?f=3%3A2",
+          "width": 724,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-21-ambient-computing-is-at-the-heart-of-the-frictionless-economy.md",
+      "title": "Ambient Computing Is At The Heart Of The Frictionless Economy",
+      "excerpt": "The aim is to remove the friction in using technology and, in particular, to help users move away from screens and scanning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "publishedDateTime": "2022-11-21T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
       "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
       "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
@@ -114,7 +209,7 @@
       "originalUrl": "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -723,7 +818,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -1163,110 +1258,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
-      "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
-      "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/gesture-floating-window.jpg?p=1",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
-      "publishedDateTime": "2022-11-18T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-diverse-teams-are-needed-to-save-the-planet.md",
-      "title": "Diverse Teams Are Needed to Save the Planet",
-      "excerpt": "For Lila Ibrahim, chief operating officer at DeepMind, and Hayaatun Sillem, CEO of the Royal Academy of Engineering, being both female and people of color meant the odds were stacked against them in their industry. But for Sillem, who is the first woman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
-      "originalUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6376afe5aed231a201071873/master/pass/0393_WIREDImpact.JPG",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wired-impact-diversity-inclusion/amp",
-      "publishedDateTime": "2022-11-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

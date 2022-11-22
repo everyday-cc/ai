@@ -84,15 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market 2022 Size, Share Global Key Leaders Analysis, Growth, Gross Margin, Demands by Regional Forecast to 2028"
-    excerpt: "Speech and Voice Recognition Market Research Report Covers the Present Status and the Future Prospects of the Market"
-    publishedDateTime: 2022-11-18T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2022-size-share-global-key-leaders-analysis-growth-gross-margin-demands-by-regional-forecast-to-2028-2022-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "16oOJc31c/xpwXvGT4+C2O5//pi+3dy0KvR6OW6KO4z2zAo/4LJPatTPu/z3gq8o/0KvIT2qon0H7O68jVFUW7xup9f1+lWz3y4xouh3ov/+ms9pcLgdhlI6Dh4lWWnZ2NgFtwCA6WWjtx+DxmyK02iwDRxlJJW1zwgBCj8GSxsCut7XJ5WH1kGtw+yFRsx0w+K2UXhlymz984A3vP5kSFQgA2XBwcVXGsZgeqHNawTAZUwypulWOCLMMaaJrC7ssIpHbON/FkU2KT3bi86aVapy1M3P3Ynl6HQ10H/Q73Lrho+SUXukXHqQOwj2VcrobEK2oTyU/XH2n2gKjkhajMYxdMxnVvvwJ2E91GjV484=;yQ3f0QVKtzYAMlSbXaKV6w=="
 ---

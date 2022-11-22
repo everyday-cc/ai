@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/content/news/stellantis-acquires-
 webUrl: "https://www.newelectronics.co.uk/content/news/stellantis-acquires-ai-and-autonomous-driving-start-up-aimotive"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stellantis acquires artificial intelligence and autonomous driving startup, aiMotive"
-    excerpt: "Stellantis has acquired aiMotive, a developer of advanced artificial intelligence and autonomous driving software. This acquisition enhances Stellantis’ artificial intelligence and autonomous driving core technology, expands its global talent pool and ..."
-    publishedDateTime: 2022-11-18T06:35:00Z
-    webUrl: "https://www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/"
-    ampWebUrl: "https://www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/stellantis-acquires-artificial-intelligence-and-autonomous-driving-startup-aimotive/2839794/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 45
   - title: "Autonomous-Truck Startup Unveils AI-First Waabi Driver"
     excerpt: "Waabi says its approach is different from other companies with its focus on artificial intelligence. The Waabi Driver uses an 'AI-first autonomy stack,' allowing it to learn from an advanced driving simulator the company developed."
     publishedDateTime: 2022-11-22T18:03:00Z

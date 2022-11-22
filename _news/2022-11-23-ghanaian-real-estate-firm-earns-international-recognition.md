@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T19:10:00Z
 originalUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghanaian-real-estate-firm-earns-international-recognition-1667126"
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghanaian-real-estate-firm-earns-international-recognition-1667126"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Ghanaweb.com

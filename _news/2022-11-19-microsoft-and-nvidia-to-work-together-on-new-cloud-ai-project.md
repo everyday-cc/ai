@@ -135,15 +135,6 @@ related:
       name: Mozilla
       domain: techcentral.ie
     quality: 34
-  - title: "Nvidia to collaborate with Microsoft for 'massive' AI supercomputer"
-    excerpt: "According to The Verge, as part of the partnership, Nvidia will make use of Microsoft's scalable virtual machine instances to accelerate the development of generative AI models like DALL-E. The AI supercomputer will make use of thousands of Nvidia's powerful H100 and A100 data centre GPUs as well as its Quantum-2 InfiniBand networking architecture,"
-    publishedDateTime: 2022-11-18T04:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20221117/4004829.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "ZU5wl1n2ZrUUvwWqTr3tf1qsSPgXm7aWSmEfvKhIrn828dl39RE7DL2QMNVQvpeMwYIpJ7JqRxYjWRjuxM1heOtMsCr3pIevZCA9b6v1NG2mm62OQ0iojxOaShKiJxEPjM32iqf6u9qG0yuvWtD8TnbgdPuUt55TgL1+xbGVvE3TLhK/MoJCuioXpXCGv/8zlgRxmnrM7Y/I8uuWgOPxUN7+BSu7W3SOsVgYHB2WUO9SiR3xxtcwQptGyDep8iwX5C1udT+985Ux41qpePppMKD6je+0gGVptNXkhDtFo/Fn75zO4G0vA1ahEphA1lE6hU3i2k1jPzlSQSVNB0K84IO5Apiyh0kbls3eSRmlaXLy7cnxMHrMNplQWX4PYhnQ4uxCtpin8shdMZPdQSdP6NTwkhtvc2VU0I+ysUP1nXKFPlrxvpPAVk5fzaveApat1BPPeLw7WDP2fmwdLs5S8CGxZT/NZ3E0LN+VEne/NYEkebDEotJ6XGGJgv/nFzOxMCLr6V6fmRklfDK61tpwWA==;o1j53y2s9wuymeNB2IsKIQ=="
 ---

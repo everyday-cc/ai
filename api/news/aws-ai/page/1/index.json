@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-22-identifying-landmarks-with-amazon-rekognition-custom-labels.md",
+      "title": "Identifying landmarks with Amazon Rekognition Custom Labels",
+      "excerpt": "Amazon Rekognition is a computer vision service that makes it simple to add image and video analysis to your applications using proven, highly scalable, deep learning technology that does not require machine learning (ML) expertise. With Amazon Rekognition, you can identify objects, people, text, scenes,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/09/ML-3632-image001.jpg",
+          "width": 1192,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T13:04:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production.md",
       "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
       "excerpt": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved",
@@ -242,59 +295,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-amazon-rekognition-labels-adds-600-new-labels-including-landmarks-and-now-detects-dominant-colors.md",
-      "title": "Amazon Rekognition Labels adds 600 new labels, including landmarks, and now detects dominant colors",
-      "excerpt": "Amazon Rekognition offers pre-trained and customizable computer vision capabilities to extract information and insights from images and videos. One such capability is Amazon Rekognition Labels, which detects objects, scenes, actions, and concepts in images. Customers such as Synchronoss, Shutterstock,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-labels-adds-600-new-labels-including-landmarks-and-now-detects-dominant-colors/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-labels-adds-600-new-labels-including-landmarks-and-now-detects-dominant-colors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/21/ml12347-rekognition-labels-2.jpg",
-          "width": 1493,
-          "height": 884,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T18:05:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     },
     {
@@ -754,10 +754,10 @@
     {
       "path": "_news/2022-11-17-rackspace-technology-celebrates-11-years-of-aws-reinvent-as-an-aws-premier-consulting-partner-and-platinum-sponsor.md",
       "title": "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor",
-      "excerpt": "GameDay is a collaborative learning exercise that tests skills in implementing AWS solutions to solve real-world problems in a gamified, risk-free environment. This is a completely hands-on opportunity for technical professionals to explore AWS services, architecture patterns, best practices, and group cooperation.",
+      "excerpt": "Rackspace Technology® (NASDAQ: RXT) — a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor of AWS re:Invent 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and",
+      "webUrl": "https://it.tmcnet.com/news/2022/11/16/9715076.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/16/9715076.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -765,13 +765,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29751475",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29751475",
-      "publishedDateTime": "2022-11-16T08:13:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T10:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,20 +1,38 @@
 ---
 category: news
 title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
-publishedDateTime: 2022-11-21T13:30:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
+excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The"
+publishedDateTime: 2022-11-21T10:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
+ampWebUrl: "https://www.benzinga.com/amp/content/29800962"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29800962"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-secured: "AWAckOLUTK8/9YdOcDYv/qoh2SpTN2HPL1pG+VG2QSY8c7Xv1Wfnqs9NY2NRBVSb0sohJ/f5NB26ckF2Z6wrkczwVX8u5KNOhbKVHmqjvjQtcJksnfQEQaDBQFUFY3Ko2Hb7D0bWcvDeVibJFawWgMz73LJaDYhnKVwt0Oj3fNTckNLXQt0oPKsJ4JqZn/cJiaR4ImwpGNloH1HYkzPjgoJOwWxqol6de76f/urJHbeupaUDqcuY4mjLWIJYAXJkilN3N8lm6EmcNDdQrLVqm2CB9qB/TDTLVYUyj5wd0PQenqP6itUQUqasqaA4xXGsVxDIGY4lB7Dp0AncSY2r9U0ALM93vBUPnKqu4fG4ziw=;0hzc+rMlQLnIOAa8Wb4W4w=="
+related:
+  - title: "Artificial Intelligence in Construction Market is Expected to Generate $8.6 Billion by 2031: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global artificial intelligence in construction market garnered $496.4 million in 2021, and is estimated"
+    publishedDateTime: 2022-11-21T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29807178/artificial-intelligence-in-construction-market-is-expected-to-generate-8-6-billion-by-2031-allied-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29807178"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807178"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
+
+secured: "N7drtIckkAPdo5b2wQig2x2gBAILjAmaC6CKgZ4S6bnzewRpf+yIFdkvnqBmSOb0mUEzxvf1y8ixOcmY3s4ifAYLk5PnpsHnN50qXVQclgr4sViFr1hb9l620MpbFDOdkDJvRcQ0xAKgVJ714Nl15uI2Xo5pUPI9FziUSIDRrx6gF+6S+ELKOZ+xBICyIRIV78Vr3ml9JAXJg4b83WaMT+V9juP9gWvhBqcra3+0jZGr8m9dZGXjbjWrBK4GlqeKuBVO+wQqfkbbjmu7Ur2WiF3xRo2BU/oz7jRdkeoAlDzOql2cGY6SVJ0CB6Ny2rXJJCEXo7QtDSrX6tIDylsYA156+yQsCdM0JsVVK3AL/iw=;gGP4CzVTbKLWEVAmxxY2eg=="
 ---
 

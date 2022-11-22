@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/11/
 webUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/11/21/what-an-ai-powered-world-cup-obscures-00070345"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Dell Advances HPC and AI with Dell PowerEdge Servers"
-    excerpt: "The server combines two upcoming 4th Gen Intel Xeon Scalable processors and eight NVIDIA GPUs, to help deliver maximum performance for AI workloads. PowerEdge XE9640 – Next-generation 2U performance optimised 4x GPU PowerEdge server, combining Intel Xeon ..."
-    publishedDateTime: 2022-11-18T04:56:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/28987-dell-advances-hpc-and-ai-with-dell-poweredge-servers"
+  - title: "SAOT ain’t slow: how does the World Cup’s AI-assisted offside system work?"
+    excerpt: "Technology to assist VAR is designed to ensure offside calls in Qatar are quicker and more accurate – but it is not without flaws"
+    publishedDateTime: 2022-11-19T12:00:00Z
+    webUrl: "https://www.theguardian.com/football/2022/nov/19/saot-world-cup-ai-assisted-offside-system-var-qatar"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/160c9d3b1e0090d7ce281cb7b9ae01a5.jpg?t=20221118_045459"
-        width: 752
-        height: 408
-        isCached: true
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
 
 secured: "iVGLlboCSBCzHDQmFS9j8Vf1Tx7aLjaf17QWuLeBAtuxVAAhvIbkdvrp2RdT8a05BNMM2rwGbHxjJNSdqx/gza1xksM+DVkGpVjBx6raS2dfrs+V103TqIv7ojks4VlHRfKahSl0yYPQF/PVVV4U5spzzDWhVFf71efxVtb9beuhia8yS1U1WJxxnFasWVl3vulAe0KaXHyW3Tn/bJf9rKIOvzqdFwS9FaEmZPQvdWckr57CWglpQsaQwf3JNwSzWLYr+/JYJ9AmiYkeSwdfGWCWExWm4lUOeU7qqc+o91fEmwsfMAXFINXOWH8gCCvfPGLH+aJREMFObcQQ91PEnTGUotPympftQoF/06huKqNAheCddBXRxFUZrB+Tuu4m3Y6vl+24Qsai8nv81l0gz1zEjyadiof5uua5YogLRlxh1bitXMvXlQpoEKpLKQev52N6UweLFmJSRHCjZB9J+fq7uLPj6VQ6ZpHZYKXWF8sXQyrKUTNh5GRwzqEbICdBEggILTtH7cHGcF4eHR7oDw==;jm7YeCo284F/HZzPGjRzCA=="
 ---

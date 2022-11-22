@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-23-ces-2023-robotics-innovation-award-winners-announced.md",
+      "title": "CES 2023 robotics Innovation Award winners announced",
+      "excerpt": "A quick look at the 2023 CES Innovation award winners in the robotics category covers a broad range of solutions that impact consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
+      "originalUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Tonework-CES-2023-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-part-of-the-kill-chain-how-can-we-control-weaponised-robots.md",
       "title": "‘Part of the kill chain’: how can we control weaponised robots?",
       "excerpt": "From armed robot dogs to target-seeking drones, the use of artificial intelligence in warfare presents ethical dilemmas that urgently need addressing",
@@ -735,33 +778,24 @@
     {
       "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
       "title": "Israel deploys remote-controlled robotic guns in West Bank",
-      "excerpt": "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ...",
+      "excerpt": "In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at Palestinian protesters AL-AROUB REFUGEE ...",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
+      "webUrl": "https://abcnews.go.com/International/wireStory/israel-deploys-remote-controlled-robotic-guns-west-bank-93392154",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/israel-deploys-remote-controlled-robotic-guns-west-bank-93392154",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRW2NDDFPYI63MEMHTRCEYDQLE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T18:16:00-08:00",
+      "publishedDateTime": "2022-11-16T04:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1387,49 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-the-rise-of-the-robots-and-the-impact-on-dubais-economy.md",
-      "title": "The rise of the robots and the impact on Dubai's economy",
-      "excerpt": "Experts have noted that increased efficiency means a serious addition to the economy, while reports suggest AI could add up to 13 trillion Euros to the global economy by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/17/42/50/1000x563_cmsv2_693a1a49-5f55-5ad8-b104-0ea65f309f3c-7174250.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "publishedDateTime": "2022-11-11T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

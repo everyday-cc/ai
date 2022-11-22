@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-bett
 webUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta develops AI system capable of playing Diplomacy"
+    excerpt: "Meta Platforms Inc. today detailed that it has developed an artificial intelligence system capable of playing the popular Diplomacy board game. Until now, Diplomacy was considered too difficult to be played by an AI system."
+    publishedDateTime: 2022-11-22T20:12:00Z
+    webUrl: "https://siliconangle.com/2022/11/22/meta-develops-ai-system-capable-playing-diplomacy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/meta-4.png"
+        width: 850
+        height: 480
+        isCached: true
   - title: "Meta's board game-playing AI can pass as a human in game negotiations"
     excerpt: "An AI developed by researchers at Meta convincingly negotiated with humans while playing an online version of the board game Diplomacy. It was also ranked in the top 10 per cent of players"
     publishedDateTime: 2022-11-22T15:33:00Z

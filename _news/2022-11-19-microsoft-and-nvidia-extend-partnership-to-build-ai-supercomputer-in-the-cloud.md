@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
 type: article
 quality: 100
-heat: 200
+heat: 190
 published: true
 
 provider:
@@ -138,15 +138,6 @@ related:
     provider:
       name: Mozilla
       domain: techcentral.ie
-    quality: 34
-  - title: "Nvidia to collaborate with Microsoft for 'massive' AI supercomputer"
-    excerpt: "According to The Verge, as part of the partnership, Nvidia will make use of Microsoft's scalable virtual machine instances to accelerate the development of generative AI models like DALL-E. The AI supercomputer will make use of thousands of Nvidia's powerful H100 and A100 data centre GPUs as well as its Quantum-2 InfiniBand networking architecture,"
-    publishedDateTime: 2022-11-18T04:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20221117/4004829.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 34
 
 secured: "JYorPCKuQa7hn6gyyJ3zS1S4Nm/L4l+k+CdmIMCWeVHrP3Xlz5PzV3pPEIS/GWBUT1kzywQkfrihL7dh22saxJNSEKFHQmqC95JQ3dSw5aHt6tZ12OENkf2nu9HSB4G6wDWPktZ90L1fsSxN3SOEbc8cRPBzLxcKnynzSycsucQ2r9drR1f1m8P43ps+SQC9F1pNuzMXSTEy7dEmfBZjlkKvQ/UzKP1bkHUY6HdeU4Is5sT++LzzTA9axVL174MXAjYOo75vttwUHkZRP9BbB14M62T64wcCMG4mOEzFwUpFHqKAGM68mxWkEZ/tcCk/+snHIlQb8TnoFHXpuRpzqD8Z3WTesqpFxothLfHXxgBhIu5qH6Y92Ys0gexjvyGsRXNnQts2kio4Px4pzRh6I/oxyLFGYZ3HdbyW7guUHQQIy1pwci4vcZ8SccJU+jEcBeAJfCxetNrR7GC7/P+6yAI/WeZoVCyvyzw3GnUuH1+CPPO+g6cj4DibjUyahXB/ipWN/8iOwKL4Rc24j59ggg==;vB3x66iGkn9WE6uecJFQmA=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T18:46:00Z
 originalUrl: "https://www.biometricupdate.com/202211/apple-patent-hints-at-identifying-people-like-puzzle-pieces"
 webUrl: "https://www.biometricupdate.com/202211/apple-patent-hints-at-identifying-people-like-puzzle-pieces"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Biometric Companies
