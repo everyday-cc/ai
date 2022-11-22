@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Machine Learning Can Help Predict Patient Response to Cancer Immunotherapy"
-excerpt: "Algorithm gives insights into the biology behind an effective response Machine learning algorithm predicted, in hindsight, which patients with melanoma would respond to treatment and which would not respond. Credit: Adobe stock Predicting which patients ..."
-publishedDateTime: 2022-11-16T10:00:00Z
-originalUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
-webUrl: "https://www.hopkinsmedicine.org/news/newsroom/news-releases/machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy"
+title: "Machine learning can help predict patient response to cancer immunotherapy"
+excerpt: "In a small study, they successfully trained a machine learning algorithm to predict, in hindsight, which patients with melanoma would respond to treatment and which would not respond. The open-source program, DeepTCR, proved valuable as a predictive ..."
+publishedDateTime: 2022-11-16T15:44:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/971463"
+webUrl: "https://www.eurekalert.org/news-releases/971463"
 type: article
 
 provider:
-  name: Johns Hopkins Medicine
-  domain: hopkinsmedicine.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "CL9m3PxNddcsR/8wWgE3+thdt0khdbGLQgxyMNIcAmBUVvK006xdAtXCDRVeuF/0O1LR6EAacremhLvpLuI4KXcpnlOT1/USEzTJe95ja6/K+QLc4OYWqPyi+I/ZzIewtE1IcVGPngxelLbyDAFalrLLswKPes6MW+QKXunP1XOQe+ZB8aQHvHZd7RdEDURgRrvHTWnPtiP0lRStwm3HxRGS6K7OkgvV3iP9dLMdWbEUsrAOsegHGXEO/w20uSy7ne/tXteBznfPHBUX5cbn8ssI/gWl0kYJCsAyrEUVsIpua0OlJO9BwYn+xmDwMpwRBt14PsDFw/WIdQRXLPLilR685uAseBkET8vkAbDsgfU=;X+uAb3tkrKhoWIxD90OH6A=="
+secured: "CcMDUJI9YqFOUBcaeapRg5N8CMxa0TbJA4dynGGuH70xzypCdZ44fWqPTThU+ZSX1yPa6c4XSux2PN+pHdhCqfEGl2a445Uv+ucM1lFmO5uhlx9QgQEHBd3s+0JtmwJXCxDEGhz3MxqAA2e8cJEmB0547HMzO8dpnmtr2WStgMB0RXBWHPm1x0WwGNPFDDQ9guJNxwzBlnRxRu0DIPmLaAIHJ/Do27YKWdB0+zUAPvSUtmSpptyZrz3Hj89vedKdUCNstMcs/G5ILreEOkC3Tm1wQUMIVXT0/8a3bNefX00Yr2U+W9rVbZ8QrwC9KEpIO9P4AoHx2xW7aQuQXAZ2caLoyw6+3lEOOcwtoeW3EOA=;E/xNbw1HiWLC6sCn8BV3uQ=="
 ---
 

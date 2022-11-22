@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Italy Outlaws Facial Recognition Tech, Except to Fight Crime"
-excerpt: "MILAN (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies."
-publishedDateTime: 2022-11-14T18:42:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime"
-webUrl: "https://www.usnews.com/news/world/articles/2022-11-14/italy-outlaws-facial-recognition-tech-except-to-fight-crime"
+title: "Italy outlaws facial recognition tech, except to fight crime"
+excerpt: "REUTERS/Guglielmo Mangiapane/File Photo MILAN, Nov 14 (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies."
+publishedDateTime: 2022-11-14T20:53:00Z
+originalUrl: "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/"
+webUrl: "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "hsx7OxFD64V5FRFRcPQO+2uCtAylyLAO118iKuVbY25sI+Ae0f8ub4xlEd4gSGelsCN95BC3J4a8OtydlRHT0+ubklshWw+WIOEM7RG0dbC8oGJZLKKLO6bWSxGB13U3L1ODbZ6TcseZgnb0fDZxjFI/mJip6XL+RQnO+UPY0BmIEB8j3PUlqakFBEDKDasurNXN3gUEo8olKHtXEV2Odi+CvpQ6nIYRow3ZIYU/N0d4TtlwSEZxsHjFHt6t5KhedlfD4l6svAZqOajS3KH78+zinLmmcCpgLNfnfrZGoGS3NF1o2O/0gx2XdyTMz0Z4p9a8YC2UsRBGN+JPOijeRq1X2bmwjc+V79jIe5NivGM=;Q3zoccTuKEQx+PAHOANqXw=="
+secured: "C1bvzJOJNuxQeQt7H1m0kECDh2gpDa/aixJ4KAzvmwhCGmj5e9yrnVIvvwALuUmy8qh1FBMyilpDlN5ZGB0OYiO5F9XfKHNQErrOMo7MCx1VmGVeVD2SLHh4ZdmwbIJRsR9A9ogpQlz4LFzsSTjpts0zAV2bDz0O3L8r0JcB4lHo2k/2QTxISBplXFVy86L+GULqKZZlQ+X4CrzpyyeG8sCeP5fzFEb1OYPu0/PpwZ7cqZvlvll7dpiQe90j443FhMaIQ4mmQPwBLR+WvuY7ygIYSlHEOO4F61is+u/75GlkBsJrGjnBSs2kslHKnncuzftxDejyE8TGgosvGg8WR4OAUuDl1UZueXh9R/FWGXk=;EzFibpadUio+RcerGYLBCw=="
 ---
 
