@@ -40,20 +40,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
-    excerpt: "Bengaluru Karnataka [India] November 17 ANIPRNewswire India leading Data Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data Analytics and Machine Learning at the recent"
-    publishedDateTime: 2022-11-17T07:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://cdn.bignewsnetwork.com/NGE3OTI1MGMtMGU.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Using machine learning and analytics to address healthcare labor challenges"
     excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
     publishedDateTime: 2022-11-17T22:40:00Z

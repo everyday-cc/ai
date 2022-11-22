@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-sn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may dominate mobile SoC competition between Qualcomm and MediaTek"
-    excerpt: "suggesting that AI computing capability will be crucial for mobile chips to go beyond limitations of existing functions... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and ..."
-    publishedDateTime: 2022-11-17T08:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20221117PD201/ai-qualcomm-snapdragon.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221117pd201_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Qualcomm surrounds all platforms with AI technology; AR and PC applications receiving attention"
     excerpt: "The company has announced the S5 Gen 2 and S3 Gen 2 sound chip platforms, as well as the brand-new... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time ..."
     publishedDateTime: 2022-11-18T07:05:00Z

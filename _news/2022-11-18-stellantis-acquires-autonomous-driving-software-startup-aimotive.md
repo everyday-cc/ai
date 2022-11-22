@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Stellantis to buy software developer aiMotive in autonomous driving push"
-    excerpt: "The acquisition helps Stellantis expand its global talent pool and boosts the mid-term development of its all-new STLA AutoDrive platform."
-    publishedDateTime: 2022-11-17T08:56:00Z
-    webUrl: "https://europe.autonews.com/suppliers/stellantis-buy-startup-aimotive-self-driving-push"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 38
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Stellantis%20Yves-Bonnefont-and-Laszlo-Kishonti-Signature-aiMotive-Stellantis%20web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Stellantis acquires AI and autonomous driving start-up aiMotive"
     excerpt: "“aiMotive’s class-leading expertise and start-up spirit will accelerate our journey to deliver our Dare Forward 2030 goals.” aiMotive’s technology product portfolio is focused on four key areas within artificial intelligence and autonomous ..."
     publishedDateTime: 2022-11-21T08:45:00Z

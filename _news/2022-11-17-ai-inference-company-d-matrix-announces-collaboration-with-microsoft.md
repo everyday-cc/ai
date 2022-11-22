@@ -137,22 +137,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "NVIDIA announces multi-year collaboration with Microsoft to build “massive” AI computer"
-    excerpt: "The U.S.-based chip designer and computing firm will be providing tens of thousands of GPUs, Quantum-2 InfiniBand, and its full stack of AI software to Azure. Microsoft and global enterprises will use the platform for rapid and cost-effective AI development and deployment, the company shared in a blog."
-    publishedDateTime: 2022-11-17T07:35:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-announces-multi-year-collaboration-with-microsoft-to-build-massive-ai-computer/article66147916.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 66
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/cb5jam/article66147933.ece/alternates/FREE_1200/2022-11-08T001316Z_223228154_RC2BHX9HJ0XI_RTRMADP_3_USA-CHINA-CHIPS-NVIDIA.JPG"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Nvidia and Microsoft partner to build huge cloud-based AI supercomputer"
     excerpt: "\"As part of the collaboration, Nvidia will utilize Azure’s scalable virtual machine instances to research and further ... Megatron Turing NLG 530B are the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video ..."
     publishedDateTime: 2022-11-17T12:15:00Z
@@ -176,20 +160,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "Microsoft and Nvidia team up to build massive AI cloud supercomputer"
-    excerpt: "Microsoft and Nvidia are on a mission to build one of the most powerful AI supercomputers in the world using Azure cloud infrastructure."
-    publishedDateTime: 2022-11-17T08:38:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/microsoft-and-nvidia-team-up-to-build-massive-ai-cloud-supercomputer"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/AdobeStock_303718045.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft and Nvidia team up to develop AI-based cloud"
     excerpt: "I, for one, welcome our Skynet overlordsIn a move that shows that executives from Microsoft and NVIDIA have never seen any science fiction, the pair have teamed up to build a new type of AI cloud computer for Azure customers."
     publishedDateTime: 2022-11-17T10:33:00Z

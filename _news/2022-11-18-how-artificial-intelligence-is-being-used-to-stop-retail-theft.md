@@ -1,22 +1,23 @@
 ---
 category: news
 title: "How artificial intelligence is being used to stop retail theft"
-excerpt: "For many retailers, the holiday season is the biggest time of the year, and with increased concern about retail theft, many stores are putting in new tools to catch those who may be shoplifting."
-publishedDateTime: 2022-11-18T14:44:00Z
-originalUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-webUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-ampWebUrl: "https://www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+excerpt: "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ..."
+publishedDateTime: 2022-11-18T15:07:00Z
+originalUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+webUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+ampWebUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: fox17online
-  domain: fox17online.com
+  name: fox13now
+  domain: fox13now.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -87,6 +88,6 @@ related:
         height: 675
         isCached: true
 
-secured: "UjSiTxdccq8ST2rUHQGQWh17s1dQjONsiUbevJPu75BFGekI8sNSGMwpC1iTvKHIPc0lqouIsTIMl5vK4W69amTtn4wmxkBI2plDYFUO7jEyTvcR/EMEAt3oyrWR0v+UN+XXolq0yWNpHCyC/6VtLOlWoboS4yBKkyjUMr35lH7cFUpJ9dBtpXz6lr3HuUPeAvjlMU/Hxuay4oTJasxItH6XumYfl4pfnU3hI+hA0U+4nbuDX6zob08n/X2m5AE7QDPY6ipKxRZcAhQZRgN/yUbbRsWorpij9M6Jq+uO4bopg7lwdbXW0R5H0jUTFgcy1uy3eRCpaJQS+2GZd53cilpISvGAjccYboiCF1QezBA=;EVdgkNPZdB025bX0GqCU/A=="
+secured: "6tNu7eui75j/K2yLwYJ5map+yORI8qJEW7EqpO47V1JFJYT4z3vUcXdM4FljKpM9gPnVhUUxR3rImhi6e+Yjc4645vHS3F93Ypms1vyYsP1Ie4PBfbxKg36t2kGlmIp5enx2AyU0B4q5jGgJJxbU+pj9XSDkb/MOB7P56DF/IPpmAspgUBnGec1KA1Q1MxdM+PvW05vLbNLMAo6Rwjx6gnn1K5kv9oPuQb8vI7DvcW9r1RcjzffBKaOJMxNj4o/2TMT24UTFHOug3D7A/JuBARJq0+CyZiE7YA3GP2wEw2+L81nkFJp0uGT96sHGwU5g/4y2OYo4L8NBcuAUjh0xuvjDgdjDQEsoFVPJieAafnM=;p6/GCzwXnUWICfPZe0m5mA=="
 ---
 

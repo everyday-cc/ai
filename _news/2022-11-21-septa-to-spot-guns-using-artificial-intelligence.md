@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to study 12 years of representation in TV"
-    excerpt: "A new report from the Geena Davis Institute, Google Research and USC uses AI to analyze representation in media."
-    publishedDateTime: 2022-11-18T20:00:00Z
-    webUrl: "https://blog.google/technology/ai/using-ai-to-study-12-years-of-representation-in-tv/"
+  - title: "How Spotify trained an AI to transcribe music"
+    excerpt: "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file."
+    publishedDateTime: 2022-11-21T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/spotify-basic-pitch/"
+    ampWebUrl: "https://www.popsci.com/technology/spotify-basic-pitch/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
+      name: Popular Science
+      domain: popsci.com
+    quality: 74
+    images:
+      - url: "https://www.popsci.com/uploads/2022/11/21/parsoa-khorsand-OhHPxRrhBIM-unsplash-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1755
+        isCached: true
 
 secured: "cjHgRLS7WrmVyJwyCJoa62S7xFDlCsrveXOuy7PQ4s0uKVv9Am1GKufZd4EAcpD0mfFvwdveYEKvu5JhNwj8jInMqasDueKwFtsVHJOxhAJDW8p33+QoaLnZ+HMCGth7+YgWVU+OYwXLieJReW8kWkkh/E9uuAdi7Mx9ntIpe6SuKanQVH6kJHgh9kPsRLLL6CFqw8oNrcP8E9DDrBytLfEoetw9BdbUn4olhy7cmKCFL0AwW7pRm0t+wHvh5pcMZOfmrtMneRWnZABEwLIx1FEqUZ1qG1crPCt70gVJDPlI6aKbAqMCO/RWGkd7u3hUgjUoNPEHqRByQXR86CTgeHwEAYlLVyVjIALE/Z9Et9rQvxI1j2K3XGQfsY/6jKjGx1WRu/O1AcYei8LKx2TG8DmX/4OLlwYozjEexyKnGXD+gEck0IBnc3tsBCA0fiKux+hpuKPDeydoldz6IUbDMVk8n3XntsI7RxKdxehiaCXJwHkGsyGluQQeTjjYU8bdkJRe8KLA1WRGCT51dwKh2Q==;1CcU0UDpnAqMtgMrE6r2FQ=="
 ---

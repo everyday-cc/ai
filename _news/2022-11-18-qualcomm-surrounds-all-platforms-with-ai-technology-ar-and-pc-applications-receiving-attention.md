@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI may dominate mobile SoC competition between Qualcomm and MediaTek"
-    excerpt: "suggesting that AI computing capability will be crucial for mobile chips to go beyond limitations of existing functions... Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and ..."
-    publishedDateTime: 2022-11-17T08:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20221117PD201/ai-qualcomm-snapdragon.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221117pd201_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Snapdragon 8 Gen 2 Benchmarks: Qualcomm's New Flagship Android Platform Tested"
     excerpt: "Finally, all of this new tech is built upon TSMC's bleeding-edge 4N chip fab process. And with that little tee-up out of the way, let's get to the benchmark numbers that you've come here for... The Snapdragon 8 Gen 2 is the new top performer in the venerable Geekbench test."
     publishedDateTime: 2022-11-21T12:44:00Z

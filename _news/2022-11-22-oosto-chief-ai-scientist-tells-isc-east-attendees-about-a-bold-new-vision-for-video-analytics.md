@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
-    excerpt: "Bengaluru Karnataka [India] November 17 ANIPRNewswire India leading Data Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data Analytics and Machine Learning at the recent"
-    publishedDateTime: 2022-11-17T07:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://cdn.bignewsnetwork.com/NGE3OTI1MGMtMGU.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Using machine learning and analytics to address healthcare labor challenges"
     excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
     publishedDateTime: 2022-11-17T22:40:00Z
@@ -100,6 +86,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "FHJRl4tMPibKyezWmSbE1bHIL0b6Vt9iJlJEtXUX+ZX7MnA3Egz7sIslGVlhwehFLBgLZqeZZAy62kh/9CVZ9OM7OD68hRrOZ7dGgHFfuq+Lq9Qkwgv+8zYyfqoBLjPRji6TuQ59qXK8EnQe0i1WRXyHqOE5PumLlq1HfVDtYH6Hf+wLOcV0dqTCBnQjIkS5hPO77qnSjAQgCP34y5f5Jnif2y9Q6bBR2HtYv9iB8ccYXnhFRFC22Wg2zxavvRaoJ7RDyA+G542XPISw2xp5O28zU6vtKv/GoN6Jy5G9tBU95F4FmwiQojuQkMd9XXJBCDRzrAQmFnQmjwsRNaM7NpWfhWH0P6dm68Y0bt81GgM=;HJ5st5DCLeqylHR62n/uTQ=="
+secured: "TycT0hYbtWyxxsg94Rx4xfFqBqnx6h//CnZYfUFVDkxVIQ6FQSgGGqt92ntE5fHSVwnoz/1ccYS4F8gr9uijyyYv7FUWRGAor7w5M+GzOHBen9jJtqBryRjZWnxyv+0l5nybsDy8a/DRmRXPsEL68I7Vd4zXk2pSniMpCiAQOugg1bo6MCGYhjWIt5j+KH39Y/bjc5hKVlwbItN1cRfbzYkDtWzT2RH38wyLyzrrYE9eAFQOzU175nk+SFO06lLghQ9j2eM6IIXGddCD01vbUeqkncD95BntQw2yzcIS9ZHLSN/GZLMoHuAANCul8x1KEvbDUDVzQ4jafhxhYWS+ZuDc1wRaz+m2ApboGclcl5fajGWzXsVtXcq3gA6XKKZczkfhxDsAJpLFM63tIPiDBG+KH4J3bJFMU3dfQwp3AcrCxuILeb0byPrqoWZ/BVEtRd7viCBGFWmdDfz5D8hZDtjflS5k/gUPcllmddABPeHUk9752pDG9TSK+/HlzMYfripTeDWHzInoTrlicMImyw==;KhM0ECOUqYs+ajw5Boi8zg=="
 ---
 

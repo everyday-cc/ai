@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
-    excerpt: "Bengaluru Karnataka [India] November 17 ANIPRNewswire India leading Data Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data Analytics and Machine Learning at the recent"
-    publishedDateTime: 2022-11-17T07:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273106604/lumiq-wins-aws-specialty-partner-of-the-year-2022---for-data-analytics--machine-learning---second-year-in-a-row"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://cdn.bignewsnetwork.com/NGE3OTI1MGMtMGU.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Oosto Chief AI scientist tells ISC East attendees about a bold new vision for video analytics"
     excerpt: "Historically, the AI in video analytics is usually single-threaded and purpose-built to perform a specific function (e.g., facial recognition, object detection, license plate recognition). This limits an organization’s ability to have a more complete ..."
     publishedDateTime: 2022-11-21T21:12:00Z
