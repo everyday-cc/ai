@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T13:30:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/ai-venture-cybersecurity-health-care-series-launch/"
 webUrl: "https://news.crunchbase.com/ai-robotics/ai-venture-cybersecurity-health-care-series-launch/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: news.crunchbase
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Finance
 
-secured: "3b5u6CFHxKQa0n93V8HKj+Guj0wB4hCCc0ebHHSY5wGjUmix7VqR7JQyFjRTLgoemUAQvxOHmrCcxekTGNIEMz8qc76HDcDNSsVVrX1/H6FDbrftZR4+T+BDA4Zrv3XOqg8VFYHKHfs8ySXEYWgIGzbiyIhLfmgn9x/DLWqgYB71RCVP12BOrBQyDWVTnCzPjzjF87xfDFzWVItEvot8CsLVczuNuMuyPr+7CGU5XmClZqBLtgQE4i6RYR23feqO2c8YmdCdPkV+cOihKq4+LMI8ckRj4xlBqlXljSvmLbcmt1sxMzFGyJl/SLaDIul6pceWwdDIDGwmc5lkLory4pFSypiTNyg1487+rSS56/beVdgWBRPQnjXPh1Z/275ruwfg4yACEpXEok8yHfbSw4NcynZNzTxI92WDrutc0Y9n5pVsIHApCZOHhKJRIJZoNgLs7g5z0PSsaxMFbswiLhOr1rdRajthp8Vz8XcWeViylR2gBBcbmoPrV5jub0uroYy85IrvcTg5Br4N41I9LA==;VI7gk7Trvw4ZRPfnUZW37w=="
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+    width: 900
+    height: 506
+    isCached: true
+
+secured: "2jjt472k3EuJ4Zel56L+QwlUp1pihbDwkpLbEiP129AfwhMPFF5GKLqXar87lyqcYcVsx+odxOJNNIsRgqzQOJ9RTYgVuFQR4Cepu2moXzUUOiof629gy8wDREnx9drIaOC2MWy+ATa1QOXNeIgJejkRTx94DgFM3hZg2xGNkqXPwRL1922GEYtXYjJsPreyKbcSrTplaTP64GcRpvpMOtk5aXl/tGVwYbU7lTS8jKyVikjoeB4T+QqRg4gpzo8ZbjlrUHeKTwcporCYjGoxxZigH1kqAfE0C1e2RTQvSW4wToyGQoB9psrMqpYllGEIsS3c8i3UfFPoVpnmZXZVkJXt4IJ7JZOz78+eYIy82Jw=;rtXlFO13aa1xveE/tRFKhw=="
 ---
 

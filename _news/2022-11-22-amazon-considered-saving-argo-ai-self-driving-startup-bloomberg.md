@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Argo AI Folded After a Lifeline From Amazon Never Arrived: Report"
+    excerpt: "The retail giant was reportedly interested in joining Ford and Volkswagen in funding the startup, but in the end, nothing came to fruition."
+    publishedDateTime: 2022-11-22T16:55:00Z
+    webUrl: "https://www.thedrive.com/news/argo-ai-folded-after-a-lifeline-from-amazon-never-arrived-report"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 37
+    images:
+      - url: "https://www.thedrive.com/uploads/2022/11/22/argo-ai-news-amazon-investment-lead.jpg?auto=webp"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon backed out of taking a stake in Argo. Then the self-driving startup folded"
     excerpt: "The online retailer was prepared to invest several hundred million dollars into Argo last spring, sources told Bloomberg. Amazon planned to use Argo’s self-driving technology to automate some of the electric delivery vans."
     publishedDateTime: 2022-11-22T11:25:00Z
@@ -39,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Amazon's self-driving-car deal with Argo fell through"
+    excerpt: "The online retailer was prepared to invest several hundred million dollars into Argo last spring, sources told Bloomberg. Amazon planned to use Argo’s self-driving technology to automate some of the electric delivery vans."
+    publishedDateTime: 2022-11-22T10:22:00Z
+    webUrl: "https://europe.autonews.com/automakers/missed-opportunity-why-amazon-backed-out-argo-investment"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 4
 
 secured: "UCBqXkER8itsQ+HrmoEpSgZZdN99h/d/hBadkAFCfLuNtdWO1v+VxAYVKqDGD1uRihyAFGpD7FbQDI43OMgSMqojhkyJT+5JC6TXoVYTwQUGNV0JP3SSLNqAXhYxaAMjV65jv0JdBCvzDdzRKNufp989rPENAhi45OEme1NilOV0+0ri4iSk4Bh5QB/Av5EPNEN1C2k7ar7druKPxXdSxpH7VQasl7fYZBWxWHamAMiWhGCWqNDiPCvHjk7H2QissVtbgkpQcFZ3n/y90dzYjpeLjbRKyBoHXZtucTi9q6qAgCyZ14K8hU/6iVlPss/tMkTdlC0W3x8DAP31MPbQbbISveHKXjxhrPwzcxJ4gCIuWZ4mbWZvP/QwUVkZc0qCqWE/tFNpfJxqREj1doiMOQyAM15G9xqAPgmuVi7TGEs09o9b1Tbz23U/It2XrjxTXQjotJgAa8vxL+n1ZV8jSHfBJxvReU9XplBgbJ1L+O7DW5eCPntfBE2IH3hsipIrGTfMY3L4rntVC6M/PXTm+A==;6Clv+kZbvAGDQtQrZypw0Q=="
 ---

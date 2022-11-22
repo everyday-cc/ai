@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/video-surveillance/video-analyti
 webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/press-release/21287938/oosto-oosto-chief-ai-scientist-tells-isc-east-attendees-about-a-bold-new-vision-for-video-analytics"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using machine learning and analytics to address healthcare labor challenges"
-    excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
-    publishedDateTime: 2022-11-17T22:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/using-machine-learning-and-analytics-to-address-healthcare-labor-challenges.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Contextual analytics helps achieve holistic understanding of video in real time — Oosto"
     excerpt: "Semantic segmentation can enable contextual analytics to gain a holistic understanding of real time video footage, improving AI performance in video analytics."
     publishedDateTime: 2022-11-22T02:55:00Z

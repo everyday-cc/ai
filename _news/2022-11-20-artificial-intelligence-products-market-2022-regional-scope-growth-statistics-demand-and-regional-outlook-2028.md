@@ -52,6 +52,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
+  - title: "Insights on the Federated Learning Global Market to 2028 - Enhanced Data Privacy in Numerous Applications is Driving Growth"
+    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\""
+    publishedDateTime: 2022-11-22T12:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820369/insights-on-the-federated-learning-global-market-to-2028-enhanced-data-privacy-in-numerous-applica"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "HLCdDTty1UK5M+jQbhl3hf07oRGOGkfrDxAMSFceP1XqMsFQdYJKKk7ylwiZHGMB1buTqvuBmgepmEUK61u0cfKD5cFRzBhIHLD4jZ1zoI5y/AE1EITc+UvK8uP+HLSRnFNJ42VV9ezcVj+smw40hg4q4o2pkzvpZx0HSIDrdysVqpHzjqwTd1FdT2W4MjDeqP5gk04xrq1fAKi62gitEg228zJ6CpYEoPN/XqWENB8lIWtLZr9EYjFrnzuBlEsnGblata5cIaFHXnx9CqlXw3lK1B2U9cD7D/RB4yWe2Q5PdSx+rp0AglHtqJHELjCl++kisuqvwtWOynOE1RCPEwV9zxEs8UGgdwVkzysooAQ=;Thqwsg2re8/Js5MobVrtkg=="
 ---

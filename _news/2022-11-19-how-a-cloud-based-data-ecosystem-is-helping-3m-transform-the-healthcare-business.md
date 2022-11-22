@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "HR Digital Transformation and the Rise of AI in the Corporate World"
-    excerpt: "In 2020, it launched StedY.io, an AI-based tool for automating the engineer recruitment process, bearing in mind that StedY itself employs engineers. IBM Watson offers useful personality analysis tools in the form of its Personality Insights and Tone ..."
-    publishedDateTime: 2022-11-17T21:06:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/the-evolution-of-hrm-and-artificial-intelligence"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/HR_Digital_Transformation_and_the_Rise_of_AI_in_the_Corporate_World.png"
-        width: 1920
-        height: 1003
-        isCached: true
   - title: "From artificial intelligence to business intelligence"
     excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
     publishedDateTime: 2022-11-19T22:30:00Z
@@ -87,6 +73,20 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Leading transformations with artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
+    publishedDateTime: 2022-11-22T16:19:00Z
+    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: IMD business school
+      domain: imd.org
+    quality: 39
+    images:
+      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
+        width: 758
+        height: 334
         isCached: true
 
 secured: "NiZY2IshEdH5EEjXfTZYGjrpiXK54Hsa1k50q0Gyd4VrfLt3PR2nyO6ariRuqLLegKBaCwjsuz7nYSGrSrucN/HtB2ELXkGpJAgTxUQIf2xEteGwQ5tni/2rZ75VJeq4kSpDEOq+97JyTflzZFy3cDULKhXW+/W798X1hmJwPKRzppPV3JltozD/iYmIs3ZNKMTgXeKFKvQvmJ/6xaOoxDBbZWNie0Yt/pquHbEaGFRHGwhKI455ijuhUYRxcNv0Dhace3uwPsHrmyeMAE+1L0nBhrVN/rpVifhI3mpR6MW8dRjPzf/tP9UfrbHRkYeSgUcVzoevxCjNNFF9k/878oJ+k1+PGz7dU1zNtNmKK+Y=;VcW91p9h1ewa8zeXC7jtXQ=="

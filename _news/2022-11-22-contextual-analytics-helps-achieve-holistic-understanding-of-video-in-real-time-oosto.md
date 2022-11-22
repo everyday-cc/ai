@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using machine learning and analytics to address healthcare labor challenges"
-    excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
-    publishedDateTime: 2022-11-17T22:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/using-machine-learning-and-analytics-to-address-healthcare-labor-challenges.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Oosto Chief AI scientist tells ISC East attendees about a bold new vision for video analytics"
     excerpt: "Historically, the AI in video analytics is usually single-threaded and purpose-built to perform a specific function (e.g., facial recognition, object detection, license plate recognition). This limits an organization’s ability to have a more complete ..."
     publishedDateTime: 2022-11-21T21:12:00Z

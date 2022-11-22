@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launc
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "AWS launches infrastructure region in Hyderabad"
+    excerpt: "Hyderabad: Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company has announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region."
+    publishedDateTime: 2022-11-22T06:14:00Z
+    webUrl: "https://www.deccanchronicle.com/business/companies/221122/aws-launches-infrastructure-region-in-hyderabad.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 19
   - title: "AWS Launches Second Infrastructure Region in India"
     excerpt: "Second AWS Region in India provides customers with more options to run workloads with even greater resilience and availability, securely store data in India, and serve end users with even lower latency The new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
     publishedDateTime: 2022-11-21T17:43:00Z

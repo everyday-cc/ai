@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T09:34:00Z
 originalUrl: "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-market-movers-stocks-seeing-action-on-tuesday-and-why-121/"
 webUrl: "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-market-movers-stocks-seeing-action-on-tuesday-and-why-121/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Globe and Mail

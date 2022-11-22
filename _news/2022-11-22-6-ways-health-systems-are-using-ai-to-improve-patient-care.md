@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "How mental health apps are breaching barriers through AI"
-    excerpt: "You are helping me hold on to myself, thank you.” This was a turning point for the mental health platform, which decided to focus on perfecting its chatbot- an AI-based emotionally intelligent ‘pocket penguin’ named the Wysa AI Coach."
-    publishedDateTime: 2022-11-22T12:07:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece/amp/"
+  - title: "How Artificial Intelligence Is Helping Improve Medical Processes"
+    excerpt: "Every health center should consider the use of AI for the benefit of its processes so it can adapt to the modern world and its accelerated pace."
+    publishedDateTime: 2022-11-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://bl-i.thgim.com/public/incoming/p9m9fj/article66169458.ece/alternates/FREE_1200/CCI_UDHindu_KSL_UCQ2VHUSA_R1512233381_0_5aaf3fc8-db7a-48d1-a516-3ae8a2141321.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637b9754ce792833b41a9f16/0x0.jpg?format=jpg&crop=5700,3207,x0,y206,safe&width=1200"
         width: 1200
-        height: 573
+        height: 675
         isCached: true
 
 secured: "Xbq7HzhIMgbbBsNYcu8K0nAHmHEX+TUicCVvcNF28hgCa2fXb75byirJIgJcnRPa4ctPj3nfsjFJ4dnHf971gUv5mNc2EMtXOfnBWfylLMvCAyuEPo2I4XHa5ak4jvoxDc6Rk+H7RRD2zeiwYeRAccjnTS21xdzXg2LaDoMx0Ow8c55HtoVsL9xHPtelx1JdveKCdCUDLr4sArx7ARXtzLpe7uh0BfOwIfZjHPZfk+D6C8/Y42JbhJS6praBsSF/VsZ4yCu8E63jOCqyzQa7bbCm/8UoQGq3L+ObQw7Fns694h/wOVPYeeyXQPjkjelsYhWKDWMpTHqQnJX2wOwZeyflKD8+6b74lPRpCPoJFRk=;Lt2C87nZbinAdcSFz23UMg=="

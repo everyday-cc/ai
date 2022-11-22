@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T12:16:00Z
 originalUrl: "https://www.lawfareblog.com/composite-violent-extremism-radicalization-pattern-changing-face-terrorism"
 webUrl: "https://www.lawfareblog.com/composite-violent-extremism-radicalization-pattern-changing-face-terrorism"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Lawfare

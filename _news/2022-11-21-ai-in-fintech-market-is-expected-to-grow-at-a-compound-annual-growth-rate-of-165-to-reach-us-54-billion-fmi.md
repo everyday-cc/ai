@@ -30,6 +30,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The"
+    publishedDateTime: 2022-11-21T10:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
 
 secured: "JCB0O1S8FfVj0EV0F1MgL17XTvUMjOcevGBmJm/xOjb/eqGMMlP9fmVbNlQktZjDyLyDBAFBg2/xfPpCMCIsMKmCoO0SbRxjYXLHocXPHPxXN3siJR43ESgimNdlY5bmlpSuvr6fTO5TGUyn9bzNV2vAHWTtUyDNjBg89Wesetr/7RGtcMP3ke9EHaK6cKq1ha+ZyXanvdCw2xRp2Zw9PwxVnhNMLKn7LJYpe57xPIMINSKFMTShuyQpsOjK995wTQ4/pWR+8O2dbgTpYhTvv1gOHeKrUhxlyFZaanY9IDuTbCm/4GI2tUa83gyq3LLjnrlB495/6cw4g1djY7AWQNaQuZzMdXiQf3IJpZjffo4=;Hcdg2F0wZpKFy6ZG8e52Fw=="
 ---

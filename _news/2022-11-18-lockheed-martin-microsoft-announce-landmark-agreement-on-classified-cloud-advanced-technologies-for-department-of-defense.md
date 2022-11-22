@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29785718"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785718"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft, Lockheed form new cloud collaboration pact"
-    excerpt: "The world's largest defense company has both internal initiatives and work with military customers in mind for this partnership."
-    publishedDateTime: 2022-11-18T00:47:00Z
-    webUrl: "https://washingtontechnology.com/companies/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379867/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/11/17/Cloud_Computing_IOT/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Defense Business Brief: Lockheed, Microsoft in ‘landmark’ partnership; Army restocks rockets; USAF funds hypersonic tests; and more."
     excerpt: "The companies billed the partnership as a “landmark expansion of their strategic relationship to help power the next generation of technology for the Department of Defense.” Lockheed hopes access to the Microsoft cloud will allow it to move quicker on programs."
     publishedDateTime: 2022-11-18T21:37:00Z

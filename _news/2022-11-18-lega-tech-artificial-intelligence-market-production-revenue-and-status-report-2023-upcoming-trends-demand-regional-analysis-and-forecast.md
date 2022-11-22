@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Facial Recognition Devices Market will have significant change from previous year. By the most conservative e"
+    publishedDateTime: 2022-11-22T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Stem Cell Therapy Market Size Will Reach To USD 1,185.9 Million In 2030 - Reports And Data"
     excerpt: "The Stem Cell Therapy market has been segmented into key regions ... previously incurable diseases are beginning to be treated. The use of artificial intelligence (AI) and machine-learning technologies is leading to increasing expectations for more ..."
     publishedDateTime: 2022-11-18T13:11:00Z
@@ -70,19 +79,19 @@ related:
         width: 373
         height: 250
         isCached: true
-  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
-    publishedDateTime: 2022-11-21T13:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
+  - title: "Global Artificial Intelligence in Manufacturing Market Report 2022 to 2028: Players Include Google, Micron Technology, Siemens and General Electric"
+    excerpt: "The \"Global Artificial Intelligence in Manufacturing Market Size, Share & Industry Trends Analysis Report by Offering, Application, Technology, Industry, Regional"
+    publishedDateTime: 2022-11-22T12:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820241/global-artificial-intelligence-in-manufacturing-market-report-2022-to-2028-players-include-google-"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
   - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
     excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the forecast period. Most organizations across the globe have years of stored video footage,"
-    publishedDateTime: 2022-11-21T19:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/21/9717846.htm"
+    publishedDateTime: 2022-11-21T19:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/21/9717846.htm"
     type: article
     provider:
       name: TMCnet

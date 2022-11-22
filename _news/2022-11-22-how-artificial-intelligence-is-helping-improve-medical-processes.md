@@ -5,7 +5,12 @@ excerpt: "Every health center should consider the use of AI for the benefit of i
 publishedDateTime: 2022-11-22T13:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/"
 type: article
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: Forbes
@@ -18,7 +23,25 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
-secured: "bJhDhORxhy1kTsUSM0Wo4N339y8Rzvvn4dkVgROsATFwA9JKxWqMimHjUp+aXcenfUjQ1rCGj3iHiTkU8XFnLJClyTnuUIzlU7ryy31BX3bVUkKukLXJndTHrouvxse04dRJM4F6tgWcqvtdkUjLsTX777zEpLEBxHEvFEoHOmblM4alWKyYkpcQR1kR8dtM9bc6pBI7bxvu5CUf6jGW9+KckY4sZ/edPqatE6/7//oAGH3qUSjCn+IhOEujxa8je81mNK8iGC58WOtn0mk+ESS/TUkMR2cpR2g1nMghz5bWo74y8CZjSnpDhyJ8dgV+kcDx3FKSWJj90zZ9HZJveeXi0irr5qPjoaskK65jwsDwYmR1CthWno9Tyw/iBajpjrqC1tZeN1nWT2XELogDkoOju8CP+/MB1XTOiZl+A42BWlgjgihaTpN8wYkJd91l8HJB0193SfRIURjffnCJPGO8UeYoM5UL6OKx3hZhfOQPSLJGf8h+CJGF5ukx+dVtf15trlr0wL4s6smvnaltUA==;Kq2Xq8BAcAqibdSRZp3ZAA=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/637b9754ce792833b41a9f16/0x0.jpg?format=jpg&crop=5700,3207,x0,y206,safe&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "6 ways health systems are using AI to improve patient care"
+    excerpt: "Hospitals are using AI to improve health outcomes, produce predictive clinical insights and improve patient care. Here are six artificial intelligence projects health systems have recently created and deployed,"
+    publishedDateTime: 2022-11-21T22:30:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/6-ways-health-systems-are-using-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
+
+secured: "FYGzBD4XDXDusqs1QDK8Ll75t+PP/5qRLSCfkPxmzYp8J0DvNvjz8apYm3MRRI96hKw4T/GK4Bp4Wl/ZLoyT/1ppSTcXCi5W+KPXrgEwCrdntJ/QrGxKWAevsAU8oEOl8OCyZfTM6xQlQujer1OrrBJ/3Pnc7lW/g1lXm6LgoYRm2fEdauigGOyherB7OJYip194v2PCvdfaPUarE+1F+aaHUx4HR+QXWutOzg6WlRscD53oOojjLLrSREYID7asgbKb7klH5UfBxgzabjQVfJ/legfFnmmbxYoIVTSVcsMyAK7KD8GZO/dVr9R9/UwC+1Crca9w0eXVFKYyTDjBwVUJUHhhtVioT8H1UajdM7s=;+65D4yubKgV0HU4ZkVNyCA=="
 ---
 

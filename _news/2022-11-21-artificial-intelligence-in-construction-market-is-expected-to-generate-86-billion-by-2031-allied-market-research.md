@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The"
+    publishedDateTime: 2022-11-21T10:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
   - title: "AI In Fintech Market is expected to grow at a compound annual growth rate of 16.5% to reach US$ 54 Billion-FMI"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022 according to a report published by ESOMAR-certified Future Market Insights. The market is anticipated to garner US$ 54 ..."
     publishedDateTime: 2022-11-21T10:27:00Z

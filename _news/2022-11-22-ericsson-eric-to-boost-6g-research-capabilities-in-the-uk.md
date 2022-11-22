@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T12:08:00Z
 originalUrl: "https://www.nasdaq.com/articles/ericsson-eric-to-boost-6g-research-capabilities-in-the-uk"
 webUrl: "https://www.nasdaq.com/articles/ericsson-eric-to-boost-6g-research-capabilities-in-the-uk"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

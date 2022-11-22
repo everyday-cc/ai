@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T14:17:00Z
 originalUrl: "https://scitechdaily.com/huge-potential-new-ai-material-learns-behaviors-and-adapts-to-changing-conditions/"
 webUrl: "https://scitechdaily.com/huge-potential-new-ai-material-learns-behaviors-and-adapts-to-changing-conditions/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: SciTech Daily
@@ -14,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "SEPTA turns to artificial intelligence to scan passengers for potential shooters"
+    excerpt: "The new software is designed to quickly identify when someone draws a weapon gun on the transit system and notify police immediately."
+    publishedDateTime: 2022-11-18T20:14:00Z
+    webUrl: "https://whyy.org/articles/septa-artificial-intelligence-scan-guns-zero-eyes/"
+    type: article
+    provider:
+      name: WHYY
+      domain: whyy.org
+    quality: 12
 
 secured: "ageXmgIPWnD/bKdgNFOuoFwDmicQgjB5HTNq/tuky0UJWd4PeCRkTwcoRmdE2/B/R4PJLTnY9oJbwoVdgx/dQl+slCx5uQCU/yW2U/9DsvhWZFYnnsUmXkQu7IlKgZ5Y4+yg8LOVKqR57jIJb5pvieansiPvJH35wYnAkqRXIfUzTb8UzInEhxgaHyywGumT0Z176nX4SI3UJ6N18GRaqj1bnGoxkiRwIFp7OcjrI/xg7C7rTHG76FIp4QCevJFaUoisd2O8pVKAMq17njr3cYjQWiwfgF2fe9/oU2dZu9S5k3Q024GD1Flzp3yFpvOXTIlBRF0FgNXxgt7B2SzgrgOyuYec1suOsh3Mn4Irad0UwBuUCt/39kBNgJBIe0oY5Imnx4Ej6pAlJBhglZzOKMLabRfaj6JxPlGZlAT+GHig+nyAhDTp7UXNDRUjAnVYXZWNEl6eD0qafLpLmARlhR36cbmyVFejvE68JActfyDEACPF1UcI6eRNYnUsNRzjQU1xtAx0aWdQBiZatdZ48A==;rOId+ywmUlr3crymQZmT/w=="
 ---

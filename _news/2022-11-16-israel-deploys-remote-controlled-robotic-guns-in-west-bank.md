@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Israel deploys remote-controlled robotic guns in West Bank"
-excerpt: "In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at Palestinian protesters AL-AROUB REFUGEE ..."
-publishedDateTime: 2022-11-16T12:35:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/israel-deploys-remote-controlled-robotic-guns-west-bank-93392154"
-webUrl: "https://abcnews.go.com/International/wireStory/israel-deploys-remote-controlled-robotic-guns-west-bank-93392154"
+excerpt: "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ..."
+publishedDateTime: 2022-11-16T02:16:00Z
+originalUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
+webUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
 type: article
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Robotics
@@ -17,11 +17,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_f4956b42fcb44de391a8a473d9bae614_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRW2NDDFPYI63MEMHTRCEYDQLE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
-secured: "tUH93W6dygxWA56Sz6msou94wu8drid7yRpvnYNh+jFBlA04yOejhEkUYj2EONGC3tF9CULlIwMBWik476sTtDLaId+EJzxiuggpXml3vX0gEZjJPBMawJfErDPjcy8YRVuVUaJ6EleMUZoN20mauPSoDz9/udeefq3gw7ewr5WIjrnc+javrC3kH8B+9u9M4gNfznXXJHCrDmA3E1GP35l+lHZezV25A5PpBehSDkRyyR8z/XzZHo3yCUJHArw9d360elG2xbCzm9ua+znKGWjoa4wBZgJL4xZFl92lk2/B2ZTvsCglPFjfzbty6ju+Rjqbst76kn4OqU1YOEQDvMPf0kx9QKBmpvBn7LiiVlI=;3V0eeZi+73CgJN0zQVH5CQ=="
+secured: "IA2MGgPsJHC6nlQZviDA8L9Y2DNyvI0MpGhylr+j5blFEZVLnTU9UfSDdq+74snQNyx7bG4Ndfz+5621grOAy1daL0G7Kkizw2unFggX1RHXptTWFpi9mkFo8nfSps4JBYcAbzfylRGU6uuJuK2+wPc0+ZJEsNJojMUF7PHLJ2/cGmXsHf6Gx2+5Ol2G3jHczS6PHFaMxpqoGkgcSL5vS2ukvERNAeTGfrSw89oUps+cvSQesgHvxh4N01gA7tYeUiXiqbG45SMlZcLfUi+skEzf7MUQesnrvOFMZMOzNaK1tZJsBpm/pZeWX8on9Dx5KfVbRF41Cyd1nFJp51Ud8KjkpUXwcQ0m2j6FcObtgnc=;D0FiJ3z9hRKJFY/e6iPITg=="
 ---
 

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, Lockheed form new cloud collaboration pact"
-    excerpt: "The world's largest defense company has both internal initiatives and work with military customers in mind for this partnership."
-    publishedDateTime: 2022-11-18T00:47:00Z
-    webUrl: "https://washingtontechnology.com/companies/2022/11/microsoft-lockheed-form-new-cloud-collaboration-pact/379867/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/11/17/Cloud_Computing_IOT/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Lockheed Martin, Microsoft announce landmark agreement on classified cloud, advanced technologies for Department of Defense"
     excerpt: "Artificial Intelligence/Machine Learning (AI/ML), Modeling and Simulation Capabilities ... Digital Transformation:ï¿½Microsoft Azure will power Lockheed Martin's digital transformation journey, accelerating enterprise-wide productivity gains to deliver ..."
     publishedDateTime: 2022-11-18T08:03:00Z

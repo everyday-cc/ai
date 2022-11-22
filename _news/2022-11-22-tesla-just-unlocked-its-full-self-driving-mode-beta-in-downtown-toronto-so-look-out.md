@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T13:14:00Z
 originalUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
 webUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: blogTO

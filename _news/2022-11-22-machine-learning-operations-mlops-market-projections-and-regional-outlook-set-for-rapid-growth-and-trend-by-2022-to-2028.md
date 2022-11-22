@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-operati
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
+  - title: "Insights on the Federated Learning Global Market to 2028 - Enhanced Data Privacy in Numerous Applications is Driving Growth"
+    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\""
+    publishedDateTime: 2022-11-22T12:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820369/insights-on-the-federated-learning-global-market-to-2028-enhanced-data-privacy-in-numerous-applica"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "6DmLyWCZqDHPjRdMrBvsU3wzbP0fP2yKiBFfMKD7qx+vLO8CeVJLFt/GfxFEPGZGMngFCzNcoPFbEsX5HfwJPoYCfnKvJcGrq9j3ujNkSoly9ha/+ORe6UYHZ5NnAo2YVkNehZF5uKUEHT3UixzluhS4TG4XSMydIblSn/bx2QeDKu5D6kSK8tyzXctMVrrmkgPjpSRO5gt1uN56favylvUEhLTN6Io3tIQFA/ib5mxrgcRXiItFl0mYNp58fLT/a8dPzVUiJj3/HDyVUJjKZKrNvskgEtslmKfAACPSLXwFmsuYNrswNz/sfRZPi3dVGAt169fKyEVyB78/23Qn0QwVPZl/eXrciy6L9zYYRu4=;wUm+vFC0LKJW931F2itcyQ=="
 ---

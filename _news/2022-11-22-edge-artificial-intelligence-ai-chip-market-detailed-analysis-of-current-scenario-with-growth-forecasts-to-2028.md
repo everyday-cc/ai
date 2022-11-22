@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market 2022 Size, Share Global Key Leaders Analysis, Growth, Gross Margin, Demands by Regional Forecast to 2028"
+    excerpt: "Speech and Voice Recognition Market Research Report Covers the Present Status and the Future Prospects of the Market"
+    publishedDateTime: 2022-11-18T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2022-size-share-global-key-leaders-analysis-growth-gross-margin-demands-by-regional-forecast-to-2028-2022-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "WYpGrksrMv1QJbP3kVhg+fd9xGLk907qJdxGQggzhgYOmUWsAgg2jFDlGsonRblE/1nLW41rDVxgauvP2SxcMTh7E1T8NynQcDSqiT84wuuU4uaqexMn7HB/KjaZ29YufPSHbACtyNl8OkRhsqJ+2zHDXR45XTQYWxgUDwyJev+j/IGUZXgMftVhBQ3gZvm4hSHVflI5u0eR6tYBhW15YtJfBn9xYaEiPkEWsnX2bVmVDs/jhfaks7QykxNvWnnH3ESDbAWrG8DQhIPTLiPU3dVGhYLZ6OBTr9/VJb2epJKED9thTxJJmqUTed095ruesveIMzazj1VRw8sjBmFpPP4SlXalLIOtzkvRt0rJQXc=;n6sK8ys2peZjJZlJDlnIxQ=="
 ---

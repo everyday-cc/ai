@@ -5,6 +5,8 @@ excerpt: "Nutrition benefits could be an effective way to slow age-related cogni
 publishedDateTime: 2022-11-10T07:52:00Z
 originalUrl: "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
 webUrl: "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+ampWebUrl: "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "nmoOfCPBEpYZgzlwK9b2YhumF2PDlGna+CjuY1PxrLF9ZXO/34DBl+5eCt27wJsKTl9hy3Tnn7I/3btxpaMYSaUhb0iKtrY21jAS8RpHjfNahqL/B41T06kU7pp/vNBd5cdqp8/6nMyCr58hTbhZejdc34ivmNIqBdCx7dgt86LHqO3dUwZzAXg2TJ9WevV2mmoV/m8uvOjtxWcp/kIORWIrU6n69luTj/UuiBxRNbrm0yPCWrBctwToVQqohbzFT/B/jhn4mSsNeNkIwD9lh3sC4HIHhmFKiwwu194vS2tTOddZB7zXhRsU0B+RI28ZFW58aLi2gtiVYUA7I3lyLDwkIG4SZx6uX2IF4+o7mCU=;wNL3OQzXapOLI6DMKVsG9g=="
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-90d814141c79d2c1ae6043eeb2472008-h-2b8641cbdfa05e06661d58c5c0f151bd-1668041453.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*"
+    width: 1200
+    height: 677
+    isCached: true
+
+secured: "wf1pQ9qW2fl82YVPWgZHCBa0rE/FwG3+HJOVO3oMIN/6DSbQbEwwsAS0x2Wxy6oiEhlKRpi6+Krw1oy9ZLHW9/mY8Eqht98R1ifvXlgSaWaaDl73koDtKjEREjPTK58RKyEGJkz+w2C6RfLQSh7DXK9LBg0hqVf32sI5vwCJPuLKxl62L2Ub0xLmLDc7iku8oh9t/MMW+6nFIEK7s+sjagnZaEYWaqR65LA3RYaP5H1MvDq8jn8HAXiZIYdvz1R8FEp47wkSGVNjyaNeIYbtvpxuWB/n1eaOwXKTIqkEsoP6d3v6fCdd/KieHQS+v7lwfHIyiQ1zIlw5OiIGhxUTmaFRXboXqHrOsd1eK380lKs=;ChHnUaDaoMINaws3lPHPmg=="
 ---
 

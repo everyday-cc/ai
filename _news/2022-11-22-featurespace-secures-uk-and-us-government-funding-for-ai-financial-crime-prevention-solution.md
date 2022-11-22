@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T14:04:00Z
 originalUrl: "https://financialit.net/news/cybersecurity/featurespace-secures-uk-and-us-government-funding-ai-financial-crime-prevention"
 webUrl: "https://financialit.net/news/cybersecurity/featurespace-secures-uk-and-us-government-funding-ai-financial-crime-prevention"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Financial IT

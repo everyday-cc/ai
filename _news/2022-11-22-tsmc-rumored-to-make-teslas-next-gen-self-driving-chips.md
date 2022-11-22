@@ -34,6 +34,15 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 45
+  - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
+    excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
+    publishedDateTime: 2022-11-22T14:58:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "lWEFNOgBB4Y0xSVF966H0aQjSB+3HFI+Su1rfJQ+K/a8Jh/zOW6yKU8gkGg0qdNu/t5JJndZkgldy75cLyaGoor87sF4c57yba9JPEVDxMTfyBdfiV6sgz0eR7qFR8pAWyEv0yQB9JalEbYP+USJX9ie/rTm/wfp7Ror5ZiE8LX8EUdIe8RM6+0cNPvQn/FJ6Vmc5eDMjMLoYVsAH3WmPSf1sjxYvc0LOEfoQqjh82PFhrnJI4uFHUKVuC38t1Aby7vGSNp0KphYAoqWVnepUp7ubU85TsHC1V0tBSLE6xFddmCjYjzTnrhOHf9Dj6ktXgbQcRgzyz3VOekbAOUa5dxG7NIRbB22zcPOIoFh0KDxxU3+ZzxQV0y5xhEuypRBeOzwXxoC/UJTS8lJ6v4NfrdcvOwJ/vYvYrJrzESN8O0EcFzd2Bibrn9Uq8IB/YnC1YONpw4DOjqKxHo6uCp4ZkUtVhKea9Gl/cW6ZkqmTiUFAv12Y1EmuK54UIc5rrn9oQLUJ7F2RipOXNZilUTYjQ==;162MGcfAl4nxRlZnPT+yWg=="
 ---

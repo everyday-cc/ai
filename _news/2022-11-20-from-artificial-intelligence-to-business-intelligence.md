@@ -73,19 +73,19 @@ related:
         width: 1024
         height: 787
         isCached: true
-  - title: "HR Digital Transformation and the Rise of AI in the Corporate World"
-    excerpt: "In 2020, it launched StedY.io, an AI-based tool for automating the engineer recruitment process, bearing in mind that StedY itself employs engineers. IBM Watson offers useful personality analysis tools in the form of its Personality Insights and Tone ..."
-    publishedDateTime: 2022-11-17T21:06:00Z
-    webUrl: "https://www.bbntimes.com/global-economy/the-evolution-of-hrm-and-artificial-intelligence"
+  - title: "Leading transformations with artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
+    publishedDateTime: 2022-11-22T16:19:00Z
+    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
+      name: IMD business school
+      domain: imd.org
     quality: 39
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/HR_Digital_Transformation_and_the_Rise_of_AI_in_the_Corporate_World.png"
-        width: 1920
-        height: 1003
+      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
+        width: 758
+        height: 334
         isCached: true
 
 secured: "It5NKkKudVT01G9DXz9Ut9QG6B8dkZu7J9twOEi/RKjBsRrzqoynZN+M5XeQeoT7hayUpc+Vz1ofCNpaj1hTJozP3dKj8IG5C3ckARjTyE12X0Q8/QVVNotcYZjqwEW5qk0TdbIDpE9BGxF/tVmnJxdThiR5lcvZDnh9zzRPwreJi2AKz7SCWdAye150A6et1fslx1shD6yRM9Rf5t1p0p1gSDXVJ/2Tcq30JbbKSlNinC2y1/f53OVk8Y0f9apO7k7ABLwjpfPEnkLWDUi58UuDkL1yi6WXhsjsfJ9fExD5rfZ9CsQS9YNf9L8bV643fL4IbbrhEPqDKaONroegGSHkiX1vORF6wi4FJvdvcHlUGHkHi2WuF7UhZPhpTRfZOaf6LgwixEYtTffV2HH28kkJNAYZLHlJBQLqkDq7PM36v6j+hSx6gI27EMHvOGWqEn9rihynvgHShl7iUvAYdL9GY6ogvB+CMVxf06RkCzyvn/NXHwjqHr0pp2YeV8IPWuM2aY1FXgaduLkAbN9y2g==;zNhG6kv7Nb7uzbEgkMnGCA=="

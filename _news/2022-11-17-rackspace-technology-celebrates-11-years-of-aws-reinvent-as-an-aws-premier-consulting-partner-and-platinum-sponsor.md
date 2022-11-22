@@ -1,39 +1,22 @@
 ---
 category: news
 title: "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor"
-excerpt: "Rackspace Technology® (NASDAQ: RXT) — a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor of AWS re:Invent 2022."
-publishedDateTime: 2022-11-16T18:40:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/16/9715076.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/16/9715076.htm"
+excerpt: "GameDay is a collaborative learning exercise that tests skills in implementing AWS solutions to solve real-world problems in a gamified, risk-free environment. This is a completely hands-on opportunity for technical professionals to explore AWS services, architecture patterns, best practices, and group cooperation."
+publishedDateTime: 2022-11-16T16:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and"
+ampWebUrl: "https://www.benzinga.com/amp/content/29751475"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29751475"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Your guide to AI/ML at AWS re:Invent 2022"
-    excerpt: "AWS re:Invent season is upon us again! Just a few days to go until re:Invent takes place for the 11th year in Las Vegas, Nevada. The Artificial Intelligence and Machine Learning team at AWS has been working hard to offer amazing content, an outstanding AWS DeepRacer experience, and much more. In this"
-    publishedDateTime: 2022-11-18T18:56:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-ml-at-aws-reinvent-2022/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/your-guide-to-aiml-reinvent2022.jpg"
-        width: 1548
-        height: 775
-        isCached: true
-
-secured: "mMuSVLNmxDfFZAa9MdVdn50OEXuAqU3MdMLsZazSZjVeiqj/en+d65C7w/TDm7X6PztanZaINkYhf7NNEl7VwSgnvfF8hJahUFvW1M8/5E+XsbvgK56/maKhVXyoAMqVWnMI4ya5Eaiu4t31VUdxBDLWbT4Zac1oX1LtxRRDXkJkbRSSLMjtW5pfGsAl2Sil3eP37+RZAOJyiLX0+tzk5ZO28ISFNw1lHigW2zIbEcovR3Sl6pq5nqpCTcQePvfUdnRo3HiMmXTOOfHejSnXlG7mSAAk0JRYk2aD+InDeW9W5p/N00tD/fBeXZO5SP+CE+EjURIZqMoRSqs6LKR8MK1ARGSW5O8T/tTGC6Cl70A=;xYcsZJtoBai5KeAgo1jIkw=="
+secured: "w7NQaW88Oyh0ge31WZjRsc3u1NzAYeAFI7OFTFqLpRoZEQmG4I1F97golhWK4mu6YazlkcSSeP/YiNPXQVQSigvfLlKs4pEZxPj5N8YTSAaqyt7J1Nl39cSajqsImACm0LO1TSI0/3i702PZB037kIGp2IpIX2CogrdgryT/UoKjvXISS/82Wr0Ag9wTjsTyH+BzGoKbu9SPawlFVf7U01zLgMKbFCye/zXwgiZlhFQ8fwVgoeBIgo+6c+jN2F0avTEKQghNtE2J2zkSH1uP0xRpHKn1p8OSjVw/wK/AGoCb0E2knl0rP+NRURshLAI2on3Ddxcz9y9LrraMUuKWSGyHjCUb0rrqZe76bxrqyns=;wGh/m33tWahjjCW9EPw3zg=="
 ---
 

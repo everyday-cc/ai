@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-21T21:51:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/different-kind-therapy/202211/ai-can-use-your-voice-detect-depression"
 webUrl: "https://www.psychologytoday.com/us/blog/different-kind-therapy/202211/ai-can-use-your-voice-detect-depression"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

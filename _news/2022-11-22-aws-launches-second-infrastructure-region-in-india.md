@@ -103,6 +103,15 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "AWS launches infrastructure region in Hyderabad"
+    excerpt: "Hyderabad: Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company has announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region."
+    publishedDateTime: 2022-11-22T06:14:00Z
+    webUrl: "https://www.deccanchronicle.com/business/companies/221122/aws-launches-infrastructure-region-in-hyderabad.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 19
 
 secured: "kFDzXveflfbz2xEx25+9YZGQJ4ufi9a7p+nJxw43fmZmNlukhB9L8hNvI+PZLlSjctl9XG1N0IRj8HdZRO0HjgUakiqOltNFS4MkyFVvTsShPbxDe7t/aXMMxQS3AVopNqe+zDltiftCD0IDygDetHIl5HHdZUDnrVPw1IQerA9rcD70lXxA8Ls7uNdtaciaTHsHvrRvzu2IKDm35oZzrKc2NB3P3jqlIqbHi2F/z539ojBPYfTwdkca3c0T0pzgkA4kujKZKQJxZRS4tIa4WalTVDBG3jQCidCWpBmZbWuyt2C+w0iay7901Ao2J59w/L6aeaidd+MgEyppOhZNPREykw52L2hX3CvkQ5m1O+M=;9UiaK+fJl9zGRtTjaMJjCw=="
 ---

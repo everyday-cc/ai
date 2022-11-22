@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Insights on the Federated Learning Global Market to 2028 - Enhanced Data Privacy in Numerous Applications is Driving Growth"
+    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\""
+    publishedDateTime: 2022-11-22T12:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820369/insights-on-the-federated-learning-global-market-to-2028-enhanced-data-privacy-in-numerous-applica"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "y3GF9DlCLKnBPwG3HcmUc3Vf6myFwavywIuv0DCsigFqxh5X9Oys9bO+CrJl+p76oZJjcBjF8NKGhYj1G+R57ENeMi975n77sPkvE+fFAW/raiiNcHb2op/MyUx/GLT7p3nixFHCDc2rWcC4CUgJSFFrELey6R0oR+/clMmv79SYWbHftnf8imTTcqXDs0Ng+v81LsYQITdo7qmOiLpXuOSfCmzjaB0JJCcyAJPRArZ/l7evsN4KUI8NbsTsKOlWGqaIBvVU8wG3+roRnht09db38/9QxFhTK0ycd21lU9ykAhSy+Ldx9KyG6B3fo8rHNZ55U9KDdlUv+nJMtav7eQZrDA2hIzGmWHuLTOs0gvs=;Sj8fomr60kICvnteghATSg=="
 ---

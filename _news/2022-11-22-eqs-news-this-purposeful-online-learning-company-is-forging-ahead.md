@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T14:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-this-purposeful-online-learning-company-is-forging-ahead-1031931467"
 webUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-this-purposeful-online-learning-company-is-forging-ahead-1031931467"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider
