@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com"
-excerpt: "The \"Automotive Artificial Intelligence Global Market Report 2022, By Type, By Process, By Technology, By Application\" report has been added to ResearchAndMarkets.com's offering. The global automotive artificial intelligence market is expected to grow from $1."
-publishedDateTime: 2022-11-09T14:52:00Z
-originalUrl: "https://www.fbherald.com/business/automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-/article_c890a21f-85b2-5cb9-b314-5dfbd99947a3.html"
-webUrl: "https://www.fbherald.com/business/automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-/article_c890a21f-85b2-5cb9-b314-5dfbd99947a3.html"
+excerpt: "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,"
+publishedDateTime: 2022-11-09T15:51:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom"
 type: article
 
 provider:
-  name: Fort Bend Herald
-  domain: fbherald.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?resize=600%2C225"
-    width: 600
-    height: 225
-    isCached: true
-
-secured: "mVlo04mfoREozwkcvR0f3pXb6vKqhjmOWQzW0HwIamSFrCRZYG0cz9ycCYLUSsRiUgUCuLtgVjQHRAjEtH0LWcGZaoGcWL0Wre3907YcoZKO14/29jVxZClC9ANzIVgZ2bffLaO531hLyX/Tpn6K1pSdFj9TxlPimb3V++CMmn732Uuau3VRvmQsEgQk4lwCL4KhNhqB9CDiu0wAbWlCTyfoUDwrl0v4lQu9ugHtQD6+ECAyWEWXMdhAuFvL74G0QAwi+mtDeieL6MD+wJx2ewa3gX+rt+5AwX60HnNX7BrtMVqnyAYJHr0PXWqmk0UhE80cjzXNDpOPSZGwR8KK3zQtmv+Hk5bFF4bkGcBEdEc=;/JcbaU1bL1keRKCwF0wcgA=="
+secured: "91xdZcc2MjOtAlhujpujbbVJkj4oygjZz6H1UY0C03OBPgyJLo7JwoUIA0Z3qNZirYiAzanMgYK7AuYGVR4hb7D67OzB5NgxI+J7n34SX3eOM6+Q+8YWU4aRvmpUis99wzaNxDeathKyo6nmMQeaN16ALYtdDQ78zDwBR8XqHM6GygpFebCK59OVrz5lk5tspR0HiWGEQ9vyEVy9/O5RgO7lvuqlQ5DYjra7pjgZ7XW7CuymHyZlnUEysYFPjn0XPZlo9t3r/448YG/9QShLpiRdfKpYjnecGFa6ihwpu912PNKJOqiJ5cOSUu7NIrCtbsgSoITgdGe1bV4x2ZkokawlnXKx0J1xrs7wERaidrE=;xKq9piHeDnlC3qFhNz5YQg=="
 ---
 
