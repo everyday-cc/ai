@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
 type: article
 quality: 72
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2022/11/FiEaKjXaEAAgKxr.jpeg"
         width: 946
         height: 465
+        isCached: true
+  - title: "World's Longest-Running AI Show Series Arrives in India"
+    excerpt: "By bringing together some of the brightest minds from the AI and ML landscape to discuss their applications and their scope in the future in India's new normal, the 39 th global e"
+    publishedDateTime: 2022-11-22T08:32:00Z
+    webUrl: "https://www.jcnnewswire.com/pressrelease/79361/2/Worlds-Longest-Running-AI-Show-Series-Arrives-in-India"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "I5Z2k4Sn+spzjyVV9+Fz7GTedxVbiHwpdDUTWce7NL7zDSW2dmpxE1Ac+S+Wk3tn1B5tHuMETfF8Ic0r6L5wSR0GXaY7zi27BprwHXJ2OKwrIgeFUhYkoXrr0owz1usOSuPk5Olz2+2IRMZrTWhbFG2bGyuU4KrQAc2P9F7sMfvsikcaBlh13hxrLK+S8Wp/L6xgiGt7TmZrrg+KQOQGyawiPrcvUQJG6aO1LObXPnorA/tTHJs6AT7gTqn8MVT2TuFdGN7jLIoZ5m6NXwfaojPrh5+8vOtPjw0s9Ga3fX4XWKpzUYSgc1uTksOnwDvRjhFQdLjwMn3Lmh//VIuR+ANcgz9PMMD9N9hmv+NaztGayjPQuc2GsEOd0nsrc8kFMKCAyXkg+ENcJbtTquSgmjdjFFamuugME2oD9pAfQ5IrWlbCfaZdr6vEK0/j9R0MiE669OwihQatE4eqVi0JoddhWLN04e5i7VOE5qrZkfRIHZqYTgZDUtmW6Ghja9rnXIZZ2SWnua9zbRxyBNnQNA==;/AT86SWD48pzOKklYntzWQ=="

@@ -103,6 +103,15 @@ related:
         width: 531
         height: 250
         isCached: true
+  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
+    publishedDateTime: 2022-11-21T13:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "tdSzrcAidm3ebrwukb3quXMbgktlCX88FkUmWiLvZrIKF26Ya8LBCStMCwp2dwVS8nHxbCyjMo4w3ZYeCndFPzLKf48wj41zFQ/dgLrBCgP3KKHjGXp08MK1FO+HEnv//RYqKILvexBW0JpKlK5YJp3SLF1mwhgem/Byu3ORUQX7NoIB8ssLW+WArGp+vreZhwnvzX6pNST6SwcKkNnT5YCvS5yzxbfNgmTr4tQlx2Vm+8UiDmYCGTmkRqDQXTYcQvItGKXObraArh7qMld/ZaRMZBHqjRbPII4VtHkNio1VuschBmBeTdeXlpYTbnsgTWO0io16nIHfCgOoZ2OftXTHIYu+CsOUYSFJgOGWEVA=;Yz0JB/JjPAp/BkQgLom6nQ=="
 ---

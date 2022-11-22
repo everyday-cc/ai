@@ -53,6 +53,20 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "AWS set up 2nd Cloud infrastructure region in India"
+    excerpt: "AWS set up 2nd Cloud infrastructure region in India - Amazon Web Services (AWS) announced the launch of its second AWS infrastructure Region in India in Hyderabad"
+    publishedDateTime: 2022-11-22T08:28:00Z
+    webUrl: "https://www.siliconindia.com/news/general/aws-set-up-2nd-cloud-infrastructure-region-in-india-nid-220515-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/ew1zTfM4.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "ymluUIZCykFSHTPuMT3mF4kb+c4WkNE39/w0on/j4tkwqpIPUBfR9mYFcYwdm63+mqScXRVgGw+skAX5ma92zO5+y8VbgIVvKzB83Zl5No0nRR7k4utf+4kV+VbasmNiw5a2SDtSaoFN+wvXhOWlIKEkD6O1pCNkLKzoA67llIwQhafsPlRFijiZir/zB+pBvDJNmW5suI8MVFcu7vfAutonWQKKBctuy8yaIPszEXxgjuwfF1sIE5brM92awNefztw4TM1TQWqVJO3ImJENVZbwX7YN7+EW1HNqaQ60FSV5NjA/AyvG3kqBkIuI8cqm71tAPYAU4nXzuCemz+q4dCvoNiT9+xFQxIo/jJvqGr1UcJ0x6piyFyA+//VZ21GcXI1MOPonrQFWAG9dR/NJ+NsQta1XTkugIshLZ+ypQEQ5upBOBs1ewrX/ruTygbcK86UJ3CYdqADQHKwdG10Dz2nd8gZ1Tkfjhl48cHGDrfigavhM0BAEtbcs6ztNcj8wJIboP47kYEPW5948CmkQNg==;J2WrD4jj/YrRH3zGOwCLGA=="
 ---

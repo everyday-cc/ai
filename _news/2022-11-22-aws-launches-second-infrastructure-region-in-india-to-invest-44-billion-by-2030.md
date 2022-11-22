@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/aws-launches-second-infras
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "AWS set up 2nd Cloud infrastructure region in India"
+    excerpt: "AWS set up 2nd Cloud infrastructure region in India - Amazon Web Services (AWS) announced the launch of its second AWS infrastructure Region in India in Hyderabad"
+    publishedDateTime: 2022-11-22T08:28:00Z
+    webUrl: "https://www.siliconindia.com/news/general/aws-set-up-2nd-cloud-infrastructure-region-in-india-nid-220515-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/ew1zTfM4.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AWS launches second infrastructure region in India, to support 48,000 jobs"
     excerpt: "Region is also estimated to add approximately $7.6 billion (Rs 63,600 crore) to India's gross domestic product by 2030"
     publishedDateTime: 2022-11-22T04:45:00Z
@@ -55,6 +69,6 @@ related:
       domain: business-standard.com
     quality: 37
 
-secured: "QNvH4i184rustHHIEWl1QoPESguM/NnmB9NApKWWJ45V/pgHMvlzhmi1W//hy2h/98Zoe/dbci2z+TwrD7Rw1XfzDVznKsTON9f124i4t08mcYIG73KIq+cKi/MBvIV994r+iMw3DXIlSUAmuD1GkRWInFGr1lp2TLh55NzExIQVIM1hd91/Ts395NwOuiIjserFSi6SdGS/5CxQzD4q83rDCwG34vG1MCOOatWcQ7y8VyafnO1D31AtPoWaVLlGEalR8L7N737Vjc5/Yl0Fg6NsNzNxsgtQzLd9Ue75eiGcGcaOiqlXN+kT9YJXby3rE+iugEM35GNQTmYaS7uwOYmtOAYr/OiA5a3loOU8LRY=;j+o8HOeOOuR3NBFexSRprw=="
+secured: "VhqRGn88eCAgptU1/Up0wHQd6jtS59Kgm27wbxH5L0buWStof6sRCvv74RWpD4q/4IkzsqVLhbme0istDZ9t4vwvChargReFM1UKBWf/TbiZQZOjorc4pp2MLxOxmdGo1cjYAwL3vKVT6IVUytPs6InykZEwxUTcur0ILAXtUOTPyg2q37yfS9FpE29q2T1uGhwj7OIIrJ4/Xz4h92vPvBZCofvvyINMpwUKn/BxtPwETdr5lUq+smVBM42JhzKTI3Fd19F/1kcnsdcwqSSMqXIjhMygSLvuFBVIt+RQin3ObPwX74+irrAV0VCyu6o+iGyC3Rn2r6qGLWDhKB4m0GGsMJZaf/7VDoQNc578ZSN4rBleEcLdxlVZ+eCv8DNz4ZsD2aoVUoph0c/gid0WcHzZ8fvEweKtKaRkngJPt0SbsleAkyxxgqzCULujuzXV4L4mz0NonAYZPqgfg3UA/GSOtEsirPSFvMGkL7LeORJdSwfJaMq1NhoMVoMoYaKpMj/iqxmu7blqqWTIGOUENA==;A+XlvRH9jo4LVDoUZ1smjg=="
 ---
 

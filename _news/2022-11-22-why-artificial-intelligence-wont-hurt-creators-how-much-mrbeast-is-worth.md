@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-21T21:59:00Z
 originalUrl: "https://www.theinformation.com/articles/why-artificial-intelligence-won-t-hurt-creators-how-much-mrbeast-is-worth"
 webUrl: "https://www.theinformation.com/articles/why-artificial-intelligence-won-t-hurt-creators-how-much-mrbeast-is-worth"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://tii.imgix.net/production/articles/9209/b7fdf69e-982b-47f6-aca1-b2ee8851e95b-s43sBH.png?fm=jpg&auto=compress&w=1200&frame=0"

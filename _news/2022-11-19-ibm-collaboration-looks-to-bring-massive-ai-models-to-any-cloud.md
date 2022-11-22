@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/11/18/ibm-collaboration-looks-to-bri
 webUrl: "https://www.datanami.com/2022/11/18/ibm-collaboration-looks-to-bring-massive-ai-models-to-any-cloud/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Snorkel takes a deep dive into data labeling and foundation AI models"
-    excerpt: "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases."
-    publishedDateTime: 2022-11-17T15:23:00Z
-    webUrl: "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/"
-    ampWebUrl: "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
 
 secured: "Lx5MJZpf5p5REg62cF6ej+FhYIfqEJbobZhsafI3WZkWt55ywyfuBgLaE1FUyvuV+h/kWHb1HVRqqBA6n5V0EztbSPD8xKnGVIFnS+mnDCqJj1jQl8PoGJakMOyNCwjnT9v2MVYVtPA33mTNSBR2j3hkPakWmDcPRxMNIgbhohcJBLySiOGUgbWvHCtZQd8X9lCUI44wCuUBg55/IbaLcx46wxNsDwqbyI92Hf+m8QzguYe60ta4mRP3xzB8mwRO1W9vHFXrEqjoeeyWYxuXCpDAocKTLbAU8EFVEGHOYVxZKt8E0jtl3OZjG+dkqlrsl6W1HZBQzdMsgN7xfFL979ILKyid4JehQQSeoHSKZj+ggGHF01crM+W3LwC8JWb2lfpgYDYU19fQXm8ZRtmrsTixSMp4scQX28oCIu6r0cCQdgxq02/WM1SseejKPyypJgHrXzY0Ymiu0yZi9g408n9pD1CpXuHyOZ3LMXEgiPed6+1wEK43mRtpB4NEgJqH8vf7/LjZ/zPyE4iMGbsshg==;eRqH6e8Poaq/uXeSQP93JQ=="
 ---

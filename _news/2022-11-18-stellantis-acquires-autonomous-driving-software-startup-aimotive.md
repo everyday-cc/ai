@@ -30,20 +30,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 45
-  - title: "Stellantis acquires AiMotive, an autonomous driving software startup"
-    excerpt: "It's a move, Stellantis NV said in a news release, to accelerate the development of its STLA AutoDrive platform announced last year."
-    publishedDateTime: 2022-11-17T15:04:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2022/11/17/stellantis-acquires-aimotive-autonomous-driving-software-startup/69656551007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/11/17/PDTN/57dd4e24-b47f-4b61-bb9e-6207dab8a6b9-Yves-Bonnefont-and-Laszlo-Kishonti-Signature-aiMotive-Stellantis.jpg?auto=webp&crop=1383,778,x58,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Stellantis acquires AI and autonomous driving start-up aiMotive"
     excerpt: "“aiMotive’s class-leading expertise and start-up spirit will accelerate our journey to deliver our Dare Forward 2030 goals.” aiMotive’s technology product portfolio is focused on four key areas within artificial intelligence and autonomous ..."
     publishedDateTime: 2022-11-21T08:45:00Z

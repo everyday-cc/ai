@@ -34,20 +34,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "TigerGraph Develops New Analytics and ML Tools for TigerGraph Cloud"
-    excerpt: "TigerGraph, provider of an advanced analytics and ML platform for connected data, is unveiling updates to TigerGraph Cloud, the native parallel graph database-as-a-service: TigerGraph Insights and ML Workbench."
-    publishedDateTime: 2022-11-17T16:24:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraph-Develops-New-Analytics-and-ML-Tools-for-TigerGraph-Cloud-155993.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 41
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Oosto Chief AI scientist tells ISC East attendees about a bold new vision for video analytics"
     excerpt: "Historically, the AI in video analytics is usually single-threaded and purpose-built to perform a specific function (e.g., facial recognition, object detection, license plate recognition). This limits an organization’s ability to have a more complete ..."
     publishedDateTime: 2022-11-21T21:12:00Z

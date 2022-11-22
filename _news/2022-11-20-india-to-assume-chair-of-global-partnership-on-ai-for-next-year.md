@@ -135,6 +135,20 @@ related:
         width: 946
         height: 465
         isCached: true
+  - title: "World's Longest-Running AI Show Series Arrives in India"
+    excerpt: "By bringing together some of the brightest minds from the AI and ML landscape to discuss their applications and their scope in the future in India's new normal, the 39 th global e"
+    publishedDateTime: 2022-11-22T08:32:00Z
+    webUrl: "https://www.jcnnewswire.com/pressrelease/79361/2/Worlds-Longest-Running-AI-Show-Series-Arrives-in-India"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "KclQEkQwfMZfETfXvmU2B4Wd+rkRkF3yMTKCBABeKRtVq+PKl4AQMy8PZt1ryEyCxke4mwQpfxKG1GgUG9B3cDuWx39K+jDmC4nm5t41yKDEeGh+vYugm196lIqUL5inHUJ5snZUBByP+90yJRkrOBdNu2fx/zpM9/FYmfnKuBtJIARHw5OA0FKgcaK4uFBNbhY3+vt8Dqwf3q97vOD+8oWnqWPigfLVNazbXSzoqTNYKUseiodkGAg89dQTmFSzx+Xi8rurptNDvdDPhISdutz99ZdOBD8Tpez9y4zPZH5UxOvw7cookHtxgAlIYQ7/PRbUYUSlj3B2jg29QJj7dMEd6K1eMwMQTjhx6uH0R7U=;dKIoHCd2WYWu8HmEF/AAxw=="
 ---

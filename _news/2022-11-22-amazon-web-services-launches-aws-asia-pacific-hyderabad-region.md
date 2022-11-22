@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launc
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
+    excerpt: "Amazon Web Services (AWS) will invest nearly $4.4 billion in India by 2030 and support more than 48,000 jobs annually through a new regional service launched Tuesday, said the on-demand cloud computing company."
+    publishedDateTime: 2022-11-22T08:35:00Z
+    webUrl: "https://www.business-standard.com/article/companies/aws-to-invest-4-4-bn-in-india-by-2030-through-new-hyderabad-region-service-122112200661_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/aws-to-invest-4-4-bn-in-india-by-2030-through-new-hyderabad-region-service-122112200661_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/aws-to-invest-4-4-bn-in-india-by-2030-through-new-hyderabad-region-service-122112200661_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
   - title: "AWS launches 2nd Cloud infrastructure region in Hyderabad, to support 48K jobs annually"
     excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more"
     publishedDateTime: 2022-11-22T04:39:00Z
@@ -67,6 +78,6 @@ related:
       domain: buffalonews.com
     quality: 19
 
-secured: "xHZDHn8zjPFBChZggE0iDbOrTBDlH9kFZmzEscn5glJr2iW8uPKOGVEXbuHopkv/8KC0M7OPo+HPoBWMA7DxN4wKwISCDwtsfYC+X5fJNY+1PdDjtPbxZCrD88KPipf0iuYl6iHrNlE4K3Z7dSI4Zz2PRbK+xhQQyLXCuO+DTJzCv4tuwSel1/lYKLbJKszAuHTM0OsaHVS2okgnttQILrNg04PqpMuLULSXpTfGTwpIjFUb77VtH2iOzavDiP3SXGi6iLGt3p3MWmxHZP7hEAwZjPHpxKYe0Ob9gBs8b+49T8XrPmCmydgEvYkHubk0XiYtfb2c8nZfHM2ZCirATblopJQsKU5kYg1lupFwUC4=;N9lPzoM8obQGwOCU1WbyFA=="
+secured: "mG5+pCYGRHlmhnKk9gy+QwZ2eP79g2bDxq8ymMMCP6KI1o2BRJoYDF+du8Nw21eU/Z5wMSeH7OdMXvN+5pGdI0OvHsxHgxdQZTt3fmrAXiTuluJ9gECCvq4zWisxxRpF6XCSvG2xTw2qUfBxb4vVlHIhsvzd6BnwuQGkU7bcZV3YA8n6FlOpHUaPkmGJVCP4X4lmx1IbmThSBTNvjxnqkRODFLibeV6PH+rX2NXL2Jk9k0OlMMBXdQT0dOmQ4B4U/588t+L1gLqwu6/QZeJBIPWDtsz36gJoHtv+mCTgjTA18+262GLX9GyAUimvSwn603La6UpkMqAnO7nBKYMePgD/dtLAJAgMucd+JTbp8t4v8mc+fRMlvrPmUiQ8UiP3jnJ2Psp88OstbmZz/A/3rq7AalBK6QuYgO3o4y8YdnlUAEQX+DSaKW7y8RthiNmZliXu0vZel8RPKoMzvaZ4p+L0iA0VzSUA1KnVWHqd2w5+Paeo9BaHXkCGLRvjOW2ltOgHYpehTfEdIp5W1EGLUg==;Q839jqHWtGc05RMnoBvgcw=="
 ---
 

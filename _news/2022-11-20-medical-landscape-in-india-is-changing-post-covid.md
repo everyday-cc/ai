@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "AWS set up 2nd Cloud infrastructure region in India"
+    excerpt: "AWS set up 2nd Cloud infrastructure region in India - Amazon Web Services (AWS) announced the launch of its second AWS infrastructure Region in India in Hyderabad"
+    publishedDateTime: 2022-11-22T08:28:00Z
+    webUrl: "https://www.siliconindia.com/news/general/aws-set-up-2nd-cloud-infrastructure-region-in-india-nid-220515-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/ew1zTfM4.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AWS launches second infrastructure region in India, to support 48,000 jobs"
     excerpt: "Region is also estimated to add approximately $7.6 billion (Rs 63,600 crore) to India's gross domestic product by 2030"
     publishedDateTime: 2022-11-22T04:45:00Z

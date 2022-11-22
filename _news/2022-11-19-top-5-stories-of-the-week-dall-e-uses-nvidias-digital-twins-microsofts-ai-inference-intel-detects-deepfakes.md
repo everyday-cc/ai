@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Nvidia and Microsoft team up to build ‘massive’ AI supercomputer"
-    excerpt: "Nvidia has announced a “multi-year collaboration” with Microsoft to build “one of the most powerful AI supercomputers in the world,” designed to handle the huge computing workloads needed to train and scale AI. The collaboration will see Nvidia ..."
-    publishedDateTime: 2022-11-17T15:44:00Z
-    webUrl: "https://www.theverge.com/2022/11/17/23464001/nvidia-microsoft-ai-supercomputer-announcement"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/2aF5ZzkRINDNvP8NgKASlsyrIAM=/0x0:3200x2300/1200x628/filters:focal(1600x1150:1601x1151)/cdn.vox-cdn.com/uploads/chorus_asset/file/24205193/Microsoft_Nvidia_Supercomputer.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nvidia Is Building an AI Supercomputer With Microsoft"
-    excerpt: "Nvidia and Microsoft are teaming up to build \"one of the most powerful AI supercomputers in the world.\" Microsoft is set to provide the infrastructure using Azure, and Nvidia will of course provide the performance through its data center GPUs,"
-    publishedDateTime: 2022-11-17T15:16:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-is-building-an-ai-supercomputer-with-microsoft"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02kY6ljyCNzOEcGjDxjcFgo-1.fit_lim.size_1200x630.v1668697582.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
     excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
     publishedDateTime: 2022-11-21T08:26:00Z
@@ -119,20 +91,6 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/30f8a17/7f265084-11c2-4e5b-ad90-78ab96c8ebc1/2/NVIDIA-Microsoft-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "AI Inference Company d-Matrix Announces Collaboration with Microsoft"
-    excerpt: "Matrix, a AI-compute and inference company, announced a collaboration with Microsoft using its low-code reinforcement learning (RL) platform, Project Bonsai, to enable an AI-trained compiler for d-Matrix’s  digital in-memory compute (DIMC) products."
-    publishedDateTime: 2022-11-17T15:12:00Z
-    webUrl: "https://insidehpc.com/2022/11/ai-inference-company-d-matrix-announces-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 56
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Future-of-Data-visualisation-Cover-Image.jpg"
-        width: 643
-        height: 898
         isCached: true
   - title: "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack"
     excerpt: "The biggest news, though, was a partnership with Microsoft 's (NASDAQ: MSFT) cloud computing segment, Azure, to build a new supercomputer. Nvidia says Microsoft is the first public cloud business to adopt its full,"

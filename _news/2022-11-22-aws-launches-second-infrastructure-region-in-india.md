@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
+    excerpt: "Amazon Web Services (AWS) will invest nearly $4.4 billion in India by 2030 and support more than 48,000 jobs annually through a new regional service launched Tuesday, said the on-demand cloud computing company."
+    publishedDateTime: 2022-11-22T08:35:00Z
+    webUrl: "https://www.business-standard.com/article/companies/aws-to-invest-4-4-bn-in-india-by-2030-through-new-hyderabad-region-service-122112200661_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/aws-to-invest-4-4-bn-in-india-by-2030-through-new-hyderabad-region-service-122112200661_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/aws-to-invest-4-4-bn-in-india-by-2030-through-new-hyderabad-region-service-122112200661_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
   - title: "AWS launches 2nd Cloud infrastructure region in Hyderabad, to support 48K jobs annually"
     excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more"
     publishedDateTime: 2022-11-22T04:39:00Z

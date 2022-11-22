@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-ml
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-mlops-features-of-amazon-sagemaker-to-scale-energy-optimization-across-their-ammonia-plants/"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-related:
-  - title: "Large-scale feature engineering with sensitive data protection using AWS Glue interactive sessions and Amazon SageMaker Studio"
-    excerpt: "Organizations are using machine learning (ML) and AI services to enhance customer experience, reduce operational cost, and unlock new possibilities to improve business outcomes. Data underpins ML and AI use cases and is a strategic asset to an organization. As data is growing at an exponential rate,"
-    publishedDateTime: 2022-11-17T16:35:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-feature-engineering-with-sensitive-data-protection-using-aws-glue-interactive-sessions-and-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/large-scale-feature-engineering-glue-sagemaker.jpg"
-        width: 1550
-        height: 775
-        isCached: true
 
 secured: "FyRGgA9QSC6tRIzOIiwK3JefFgy2UgYQQNcyNpWmpcodRdtUIhVddya5Kj9d/2r8Q1lX8mV/v6TnQoZGe9YpW3qAQmabiGz3xoo89rlo0qtTq0tgDU0iCH4vx9aJp1RQmGv9IJ5JTKyZbZE4MKHpg+VLYVMeJm/S3xnMZYSyR9EtcrFJR52FHcr0dTI7n72eycJX2VB4Ccre585B86wBWrXhZC4h5wfRcepF6pn0pSh+tdT2vEw/zuIDR45F2LcZV+upXwlyUUinJXdMKL46qFvAciIzGQw+oqMSZGaur73ybgyqsMDI1SVVvyfMgqtNgtrKTMP+4mhk6PXPVxqXCpkcTclITuo3ZCou29bs1sU=;Rl5MIXa8cL+He0ESt0KCjw=="
 ---

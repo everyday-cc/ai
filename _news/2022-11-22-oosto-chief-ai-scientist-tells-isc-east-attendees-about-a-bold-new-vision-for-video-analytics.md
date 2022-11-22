@@ -39,20 +39,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "TigerGraph Develops New Analytics and ML Tools for TigerGraph Cloud"
-    excerpt: "TigerGraph, provider of an advanced analytics and ML platform for connected data, is unveiling updates to TigerGraph Cloud, the native parallel graph database-as-a-service: TigerGraph Insights and ML Workbench."
-    publishedDateTime: 2022-11-17T16:24:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraph-Develops-New-Analytics-and-ML-Tools-for-TigerGraph-Cloud-155993.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 41
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Using machine learning and analytics to address healthcare labor challenges"
     excerpt: "Syntellis IQ, the underlying machine learning framework of the Syntellis solution, uses detailed, extensive data to map and categorize attributes of departments with similar operational profiles. This unique categorization results in more accurate market ..."
     publishedDateTime: 2022-11-17T22:40:00Z
