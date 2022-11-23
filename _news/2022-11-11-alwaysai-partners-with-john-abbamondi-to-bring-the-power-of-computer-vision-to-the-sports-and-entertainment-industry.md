@@ -1,20 +1,26 @@
 ---
 category: news
 title: "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry"
-excerpt: "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,"
-publishedDateTime: 2022-11-10T17:07:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
+excerpt: "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ..."
+publishedDateTime: 2022-11-10T17:38:00Z
+originalUrl: "https://www.wavy.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
+webUrl: "https://www.wavy.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WAVY-TV
+  domain: wavy.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ftBckYrjdylZU48KxWsIdIOP5qML5IGPo7W6SK0hA7B4xA+/uHLuGxcstq+5gUllm+o9RkC51f+boBZEdG4p7eyO8YE+Vb/GL159F/ptWe9q1dCzB612mydHBXudCqKcLEDHPQ7u2oLbwi3azSzNQAL7MdmmJU1jkRyaR1qR45Q49KcT2kW0IndfGSc5CgzKfXbitbIjiexEiAT6pMEnBmhGzuT9pJOUaT8pZcMMg2rdAXKv1jPWGRFdS4BXXsVS1ayKJ7jOlbzbuC0u0qrf76+hbo5derkXSAvlLdWK2FeoFHOEx8O3vXxq0jVMp8gutMt9AO9khAWtbrCyk+uM7iHJCVaIcRW3jHBf7EhVjeM=;w/dSq9GSG++nFU/x9DrQuQ=="
+images:
+  - url: "https://i0.wp.com/www.wavy.com/wp-content/uploads/sites/3/2022/11/Pink-Energy-Car.jpg?w=2000&#038;ssl=1"
+    width: 856
+    height: 459
+    isCached: true
+
+secured: "O6GxoFydbAkUfFoQH2d4gKJJmQDyrNB6CM7FTlDbcXEuAKEvtvQgCnUQzOhmLiyYagTjDsORtppWp5TnrMFpPi9w2vgMf02krGJ8gkwpqHil22iszNuTFmR1Q3snMJgK406/Zm+uhZys9onLNge7pLf45Rhe9HxlABc8bVyrQ1px8UJOs3Bj4X5/3tbuYuujlpboSVy0FPOol3lVZ7wsNgpFncsKBzVgB+YzlUcJmxWHq2gWRaz6dEE3N0Q9VTKbY1AviOWnPukrTCEjwaPn8B4yWr1Epw9wjNDM0uL5A5FQF5t3gW17R15hD5dUlUlDul99j+mRy4yQEFD/6E6c0Q95nu1totXzEOkJvGFazik=;deIEe8Opm0SB2E93mZBBDA=="
 ---
 

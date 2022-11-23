@@ -48,20 +48,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Stem Cell Therapy Market Size Will Reach To USD 1,185.9 Million In 2030 - Reports And Data"
-    excerpt: "The Stem Cell Therapy market has been segmented into key regions ... previously incurable diseases are beginning to be treated. The use of artificial intelligence (AI) and machine-learning technologies is leading to increasing expectations for more ..."
-    publishedDateTime: 2022-11-18T13:11:00Z
-    webUrl: "https://menafn.com/1105203266/Stem-Cell-Therapy-Market-Size-Will-Reach-To-USD-11859-Million-In-2030-Reports-And-Data"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?575779"
-        width: 531
-        height: 250
-        isCached: true
   - title: "Global Artificial Intelligence in Manufacturing Market Report 2022 to 2028: Players Include Google, Micron Technology, Siemens and General Electric"
     excerpt: "The \"Global Artificial Intelligence in Manufacturing Market Size, Share & Industry Trends Analysis Report by Offering, Application, Technology, Industry, Regional"
     publishedDateTime: 2022-11-22T12:04:00Z

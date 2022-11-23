@@ -8,8 +8,8 @@ webUrl: "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-
 ampWebUrl: "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp"
 cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Facebook Takes Down AI That Churns Out Fake Academic Papers After Widespread Criticism"

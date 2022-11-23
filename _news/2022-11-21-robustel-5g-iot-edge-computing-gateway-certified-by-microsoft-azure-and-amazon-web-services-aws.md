@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/robustel-5g-iot-ed
 webUrl: "https://markets.businessinsider.com/news/stocks/robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws-1031927105"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 400
     height: 222
     isCached: true
-
-related:
-  - title: "Nvidia and Microsoft are building a supercomputer in the cloud"
-    excerpt: "NVIDIA is also set to utilize Azure’s scalable virtual machine instances to research and further advances ... Megatron Turing NLG 530B provide the basis for unsupervised, self-learning algorithms to create new text, code, digital images, video or audio."
-    publishedDateTime: 2022-11-18T14:41:00Z
-    webUrl: "https://www.techradar.com/news/nvidia-and-microsoft-are-building-a-supercomputer-in-the-cloud"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
 
 secured: "0kCaGCWy1wxS+1tHoP0NMUH9aX3CVRi1jRyokYc8jqIySuiwlbXjXQMGpZY161bY51xTTLc/lEZPtpenHeNjyq8jo0EHNluz/AWyNSSb5oEDvybFKTVW98Cq0H3v1vsG1o4I/XN5xiSawOynfXfrScSw4DVYsqM6JRkVnkHrSVJKjDCJYPwwYvrsz2rVq4wd5V52YQcnrvIVDlSAMH5/9/zk3tjCF28QrSRtK86MkzwdEbucuZCdxA9FMsaD52xz0j/tNUbqUCe+4FJr2+LkV2LZx1clS33K65Ap8DjNlI/NkeBNpbFhWsdkQfuiL6ghW1CD3lNj/+lJnpYWsptJ6xZCRNiBKW6YBbOWpPu5EB+wseOT1w+/qaWQnAy2yq1CnOtDbcCA+9lVwozQd+Ek88Ozz1IEVlAZZjvA/vQpteKZrHd4UoTsbkR/doY+jn0YH75RxlUd44t4BAl9z4Dud2tqm1TVOpq/LbsItFeU0a8iEURPBuELfJbxHkcqxM92A0xCihw8/v6iInjgRH09fQ==;0eyb1oRh0XDyNUNCMrdFFQ=="
 ---

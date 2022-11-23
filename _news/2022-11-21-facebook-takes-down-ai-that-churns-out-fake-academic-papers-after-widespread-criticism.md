@@ -35,7 +35,7 @@ related:
     provider:
       name: Kotaku
       domain: kotaku.com
-    quality: 37
+    quality: 39
 
 secured: "5RPuyp1FLSHx0Gp/4dG5OjdaXgenZjSmIc6dhoxbbT7fnFxGEdcL71Nk+S2PFw4RBAuWShDk8/rGgY9kLRXPBdqcenTuCQtoV2d9T8a0+9fR+9JXbLp7wrqthsJUdeyLsVnKkdnhXL8bm8BpJxGDbX8arztEmI4YqTAw/4FYWqfTtpzeRJuwYDtiG06ZdZAtetm43dCOKtQIxF71LtHarMXID/rzDoccUQ5xhtl4ojHXuHEgI6uPXlGXy15jpf/u2A1yLvvUc0rBQ/QWdtuGITswnIFKvvX589oKiTVs4WMEPKJ05Ca2Qw2LslFgSv9X07quiDg1QW6vBiZp3pxTjUdq1o5upY5F5RInLsmlKpo=;O+HGoyvEhoYGo3AYbE+H6A=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Profet AI Selected in \"Aichi Landing Pad\" - Program of Accelerate Aichi by 500"
-excerpt: "Profet AI Technology Co., Ltd. (Profet AI) announced today that it has been selected as one of the 17 international startups to participate in"
-publishedDateTime: 2022-11-23T03:01:00Z
-originalUrl: "https://www.asiaone.com/business/profet-ai-selected-aichi-landing-pad-program-accelerate-aichi-500"
-webUrl: "https://www.asiaone.com/business/profet-ai-selected-aichi-landing-pad-program-accelerate-aichi-500"
+excerpt: "Profet AI Technology Co., Ltd. (Profet AI) announced today that it has been selected as one of the 17 international startups to participate in the \"Aichi Landing Pad''. The Pad is part of the programs run in collaboration with 500 Global and the Aichi Prefectural Government to develop and build up the startup ecosystem within Aichi County of Japan."
+publishedDateTime: 2022-11-22T17:02:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/22/9718620.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/22/9718620.htm"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/02_en.jpg?h=d09b6c17&itok=dpKM1koK"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/1953462/02_en.jpg"
+    width: 400
+    height: 210
     isCached: true
 
-secured: "VOmeUYQHW2MWrGirIY1mKgcrFdzF17eCARfdoHIvdhjFaIt2XBlIrmdByFlW7Ym/eW5GBfHeqCoMxhZYDQZuIkfjsQveDbATUHTWthjmgxV0uVAs7U5a9o11Esj3TvkF4Eo4Ip7fSVAa0xAjSJerTvyo8C7OCmUXJgjZVdhoyuFR9MlXY467f4A4u9uSYvbnextODLl2jolyBW4hhohY1v9oPs+93+96ybGVmv4rUrYZPxY99lKVzsnJDMHaZvdpjq/wxu7d98xIH+QcUhUSygJhGGqhLS0KSXCOj51yBVxA789osWYxBR6ZevgyiWW7QriG20XislvIc45E7ae050i6F2rAZ0pCM5OUh2edzDw=;CNo9g5vXmJGykqJ6Sn7fsQ=="
+secured: "q1DlEBqgBL9ABsX5rCSaAXkonrzLpnWA3oOBIfPn9DUX6WzmMPEqZs1+rQ/NbNQVKstuvj4sFUibw9ofKB8AryRFDG1eoExbVuJD1AuBEqG0XDTyLML7DakituQxwD9dpZuqtdbt722mUuL3hUQ5QNBY1XWDMWNoK2Ber425Laaod7f3TaWaUJttD3tTw44CRbLdSg6N6hqcuh5/qTo3B+wBiynzC/YGcre291U3aElzcqV4jdZftNVZj+rfwHScyHcSK+b8hNQA4HRAMcKZQNBPNikhJS27DKHt//N5i4mpnH5hH9Pk5i4AK4PtpgDBzbmRja86WiK+dz/1aXepXhjWmnnYwdN2rgpZzVGHRDE=;dwVBaR0smfhKfZl5HaF3AA=="
 ---
 

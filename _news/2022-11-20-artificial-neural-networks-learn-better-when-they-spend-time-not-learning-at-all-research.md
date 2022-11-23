@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UC San Diego: Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
+    excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
+    publishedDateTime: 2022-11-23T00:03:00Z
+    webUrl: "https://indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
+    ampWebUrl: "https://indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-University_of_California_San_Diego_seal.svg_.png?fit=1024%2C1024&ssl=1"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Not Learning May Help Learn Better!"
     excerpt: "Catastrophic forgetting in computing systems like artificial neural networks may be overcome by allowing them not to learn."
     publishedDateTime: 2022-11-20T18:27:00Z
