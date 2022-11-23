@@ -298,6 +298,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-18-after-tufts-denied-request-for-union-recognition-heres-whats-next-for-ras.md",
+      "title": "After Tufts denied request for union recognition, here’s what’s next for RAs",
+      "excerpt": "Voluntary recognition from the university would have allowed ULTRA ... The RAs’ email did result in the formation of an RA Council, where RAs can voice concerns to the university. However, according to Francois, the RA Council has been ineffective ...",
+      "sourceUrl": null,
+      "webUrl": "https://tuftsdaily.com/news/2022/11/17/after-tufts-denied-request-for-union-recognition-heres-whats-next-for-ras/",
+      "originalUrl": "https://tuftsdaily.com/news/2022/11/17/after-tufts-denied-request-for-union-recognition-heres-whats-next-for-ras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.tuftsdaily.com/2022/11/compressed.png",
+          "width": 1938,
+          "height": 1292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tufts Daily",
+        "domain": "tuftsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform.md",
       "title": "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform",
       "excerpt": "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ...",
@@ -698,6 +741,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-ceva-introduces-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.md",
+      "title": "CEVA Introduces Voice User Interface Solution for TI SimpleLink™ Wi-Fi® Wireless MCUs",
+      "excerpt": "ROCKVILLE, Md., Nov. 15, 2022 -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced today the availability of its WhisPro™ speech recognition and control software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html",
+      "originalUrl": "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage53020/cevb.jpg",
+          "width": 1074,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-new-speech-recognition-tech-set-to-transcribe-mouthed-words-using-facial-movements.md",
       "title": "New speech recognition tech set to transcribe mouthed words using facial movements",
       "excerpt": "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ...",
@@ -739,6 +825,40 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-vuckovich-earns-leadership-recognition.md",
+      "title": "Vuckovich earns leadership recognition",
+      "excerpt": "Indiana Area School District Superintendent Mr. Michael Vuckovich, has been recognized as an outstanding leader in education by the Pennsylvania Association of School Administrators. Mr. Vuckovich ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.citizensvoice.com/news/state/vuckovich-earns-leadership-recognition/article_ca19fc9f-1a27-5959-863b-eb0075a001fd.html",
+      "originalUrl": "https://www.citizensvoice.com/news/state/vuckovich-earns-leadership-recognition/article_ca19fc9f-1a27-5959-863b-eb0075a001fd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Citizen's Voice",
+        "domain": "citizensvoice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -819,26 +939,35 @@
       ]
     },
     {
-      "path": "_news/2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei.md",
-      "title": "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)",
-      "excerpt": "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ...",
+      "path": "_news/2022-11-11-parallex-bank-gets-recognition.md",
+      "title": "Parallex Bank gets recognition",
+      "excerpt": "In his acceptance speech, the Managing Director and Chief Executive Officer, Parallex Bank, Mr Olufemi Bakre, described the award as a further testament that the lender is on the right path.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
+      "webUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
+      "originalUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2022/11/11041857/Parallex-bak.png",
+          "width": 500,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T03:28:00-08:00",
+      "ampWebUrl": "https://punchng.com/parallex-bank-gets-recognition-2/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/parallex-bank-gets-recognition-2/?amp",
+      "publishedDateTime": "2022-11-11T00:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -849,7 +978,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1278,154 +1408,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-nvidia-enters-the-speech-ai-race-joining-meta-and-google.md",
-      "title": "Nvidia enters the speech AI race, joining Meta and Google",
-      "excerpt": "Nvidia and Mozilla Common Voice have partnered to develop speech AI models that work universally for every language speaker worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-enters-the-speech-ai-race-joining-meta-and-google/amp/",
-      "publishedDateTime": "2022-11-02T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-google-makes-massive-commitment-to-support-more-languages-using-ai.md",
-      "title": "Google makes massive commitment to support more languages using AI",
-      "excerpt": "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "publishedDateTime": "2022-11-02T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-google-wants-ai-in-one-thousand-languages.md",
-      "title": "Google wants AI in one thousand languages",
-      "excerpt": "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp",
-      "publishedDateTime": "2022-11-02T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -1,23 +1,26 @@
 ---
 category: news
 title: "CEVA Introduces Voice User Interface Solution for TI SimpleLink™ Wi-Fi® Wireless MCUs"
-excerpt: "(NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced today the availability of its WhisPro™ speech recognition and control software to support designs using the Texas Instruments (TI) SimpleLink™ Wi-Fi® CC3235x wireless MCU family."
-publishedDateTime: 2022-11-15T13:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ceva-introduces-voice-user-interface-solution-ti-simplelinktrade-/2022/11/15/9713068.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ceva-introduces-voice-user-interface-solution-ti-simplelinktrade-/2022/11/15/9713068.htm"
+excerpt: "ROCKVILLE, Md., Nov. 15, 2022 -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced today the availability of its WhisPro™ speech recognition and control software ..."
+publishedDateTime: 2022-11-15T12:49:00Z
+originalUrl: "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html"
+webUrl: "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "f9IhfV8/GjO9ukrshM7S19Jqmf5SMXAhOrDaUStf5ijeCjlJf7wehBOWGzZrXsYPSbp0cdyv67C7Ljtd7G35o+ZqP/UVj5mwVfO6/qh+M5P1Gn/0LaNu+qmZUo/am6fsWu99IEYYcZs4O1cm479BqB0SLcObb1Mg+rOdWoLOHTCEKu7he+tTc4ikMvhn/YSSFdnt9o10fDGpGdvUbd3vnKhjXr0SnU17279GBpoqyFAVIARz42R2NVAbqf0552xKIzarToOA4lNPMWtyDPXI6OQiI3R4qtrCsf0Hlv09vDn5ibIc5vLUetForrMU+1QzZc4IQB7SdMoSefj0enD0B49J8LK4XXJY/DIgVpprKRs=;9jkL0qA/h6j67XPE5iMvhg=="
+images:
+  - url: "https://www.design-reuse.com/news_img2/homepage53020/cevb.jpg"
+    width: 1074
+    height: 444
+    isCached: true
+
+secured: "jg9B3Sw3mma1k3u89YCfHkeUljCYQXwhzSmoH38Rj9fOY+LsXLmHM0dnwVF4t8LYLfRUkpcGGzMiG6y84t0EJDaMwbXEHpZMEqkAIu0ZxBHP7zysD/b74bqai/7CXATyH6mm1/kZY4T9xyeFmILwjzGUwllDt2/8F6yPSP4HQhWczmJnMSBz6Lybr23HoK91+SegS+bwg4B2wdl34taZRDD5JKVU5ARZP53wmUkrZTCx8PUcei18LyqegID9f9uYSyozKM373k71qTBFQhjdNfRe5GNy9KTiSqW/ar6AJEiLCW6o3o31VkhtXhDIbsWtJKJZZp+Wqw1pIrjp9DD1IeaBMxIe+P5RdXVuW4NhgP8=;V/HYwLPXhAabWqk/aF5MdQ=="
 ---
 

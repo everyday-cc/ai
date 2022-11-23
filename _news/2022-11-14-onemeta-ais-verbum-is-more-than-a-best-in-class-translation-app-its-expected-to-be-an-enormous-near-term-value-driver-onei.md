@@ -1,20 +1,20 @@
 ---
 category: news
-title: "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
-excerpt: "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ..."
-publishedDateTime: 2022-11-14T11:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
+title: "OneMeta AI’s Verbum Is More Than A Best-In-Class Translation App, It’s Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
+excerpt: "Having transformative technology and assets can quickly turn smallcaps into large caps, and OneMeta AI (Ticker: ONEI) has positioned itself to prove that point. That's no overzealous presumption. It's a sentiment based on ONEI having,"
+publishedDateTime: 2022-11-14T10:18:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
+webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
-secured: "z3CDl2/ozAnDu743yVdTa4g6wIQzWmP8r95WZaWCxjgPR2kSFrQIaBXsJ7y31h3yTs0y7dpPABcGGX3Tdy38wm5WmKxkPAbjVpX517CcrzqgsCzvg89li9zZG3V+brlXgD9xOqjcYgbykafFrrQqKaqKqw4q9V+J1vKb3ncKw2j8QdiXAQJSqjCokkqGxaYyTb3HKkxR/ysU/CTZyK74zxMrmCAccqh2kyxK4dBLyxas/fry6oCT3vgUcmsQmu08xgZzOpyRZkSX311G27ktCmGAiSl3zhjwj6Xa1Dm5FzfY7XGpKXi5/AW4m3pQVmYP+77TRmZ8WSb87ATJtFO/EsT2B9CHdAeeF/KpH4xAagU=;3m7slN985wDqHRUYfA11Ig=="
+secured: "bWO+j73Sb0Db3Ft1PnF5Q43H2m5hjpColtQ6sZdSZhKYJY7+w9FJVav6EfM87FPzHg+56pZHDXO0aDswZP2M6pgjOfNrIjeF7WuRdpie5PnPMJjLI5i2Yr3C07M1cALZ6vE86DXZkQAH/E5RsvW7tFOKiP5uTCVV0sW+dhjzTbzSBcM1upejYg3uEDbR+swRxWojRft1ZEa3zzMYWuBQy4W3kLV3Lk0TthPdTJZhO9WRqC1Vy8d1gL2o+E7EOvYaG3IjAjrlV3AYvgOvoUlbVOx6xXKwt0Ot64G67deTpQwYun3tmRlNuns9Zo7KDnEgBSRwuC1ZNTUWUEZfPhTj5FYVOys8HXvlNV+kZd5Slol2X+PlWPIfiXNAzwxBADLfIRMsubo1Olz1BCKtFilPOI0d3/QxCNF3jCO3NFy4twF44qNkQAeiAHdfy02GvNa35RkC3LRJdDKalgrL5hix7H4O3JT/veHAu6BW01peet5l9FxMqb0ogNDdtCxbKx9544+SLEvbS/26j6reiXFqyQ==;/eKI+BOiczLW8F8ugQX7fw=="
 ---
 

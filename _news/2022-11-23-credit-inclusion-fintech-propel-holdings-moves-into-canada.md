@@ -36,6 +36,17 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 4
+  - title: "Artificial Intelligence in Fintech Market Report 2022: Benefits Including Higher Profitability and Spending Effectiveness Fuels Adoption"
+    excerpt: "Dublin, Nov. 23, 2022 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-11-23T13:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29839066/artificial-intelligence-in-fintech-market-report-2022-benefits-including-higher-profitability-and-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29839066"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29839066"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
   - title: "Israeli Fintech Firm Joins ADIO’s Innovation Program to Establish Financial Tech Research and Dev Center in Abu Dhabi"
     excerpt: "Innovation Program is partnering with Fintech company Liquidity Group, the “first” Israeli company “to join the AED 2 billion (USD 545 million) program.” The partnership will “support Liquidity Group’s establishment of an R&D center in Abu Dhabi to develop its proprietary technology-enabled underwriting algorithm and other financial solutions."
     publishedDateTime: 2022-11-21T12:29:00Z

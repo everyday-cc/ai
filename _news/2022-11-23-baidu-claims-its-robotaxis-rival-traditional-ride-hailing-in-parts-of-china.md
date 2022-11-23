@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.axios.com/sDZU0wT6SeO87X7RgnGMWgQDZ58=/0x0:1920x1080/1366x768/2022/11/22/1669122813931.png"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Your Robotaxi Is Almost Here"
-    excerpt: "Autonomous vehicles have rolled out like a series of waves, building momentum over time. They may now be headed to roadways near you."
-    publishedDateTime: 2022-11-19T02:00:00Z
-    webUrl: "https://www.discovermagazine.com/technology/your-robotaxi-is-almost-here"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/7nc1d40MYZOIdUyKww5VYk/c0c2a7fa3a5a80c5faeeee98da031b66/GettyImages-1219141234_.jpg"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "BpclLW+3UYmxC71j6CX53QYV0ngPfigiQ1qwL0iIcPYQDRL2yNbcMwTy5Ayv5Xp5SfxO+/WRBUGZIk8xIdKDLjPPaRfTrjhVh0uKgXdyf7A9heny5YuAaChGZUVoodO1C4jXPebLwcbWo+/4TTsHAt3we4OM0CHEmP5jVa1CvhNxlcRGXvv6r+gZqZXllbthnMs7pZ9X4Jmw/VFKaX2Y9uWoLqllBShLae93xyQGqu573E+MY5RZxdPiPBZH+nouKVqd9omj9XDGRcAYACMqCAdTGciY4hkf7QZaEB2F4fYq1UctvyxBMDrbqt+2iYcQlI/nd59V1cBDUq278U7VmsJj0HwCFtVslu913t/+uJA1SKetbipqDMPI9KL5+jC2DRyDI/0mRED57exdVc5UAi+vLIh1SNWaiyR3EUCgcYH8p1zyu2qC/Gex2ik4R7Uf7RkMU4I1tdfyJItCUagqnMD6th03+gChGltMHzbl3ro5qXbkVHk1aShQ1uoiG6qf8U5Lm+B0/7WDqzCBjgOrlg==;nC7J8WWXLYgY/08SE/Eikw=="
