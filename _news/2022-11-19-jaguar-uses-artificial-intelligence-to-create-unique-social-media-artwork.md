@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.carscoops.com/wp-content/uploads/2022/11/Jaguar-Artificial-Intelligence-1a-1024x555.jpg"
