@@ -4,6 +4,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_companies/argo.ai.md",
+      "title": "Argo AI",
+      "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/argo.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/argo.ai/",
+      "type": "profile",
+      "name": "Argo AI",
+      "overview": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "website": "https://argo.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/argo-ai/",
+        "followers": 23051
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/argo-ai"
+      },
+      "twitter": {
+        "username": "argoai",
+        "url": "https://twitter.com/argoai",
+        "followers": 9647
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Pittsburgh, PA",
+        "Pittsburgh, Pennsylvania"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 32,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1544700066421669890/64L__ovp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Argo AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/navya.tech.md",
       "title": "NAVYA",
       "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
@@ -39,7 +86,7 @@
           "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
         }
       ],
-      "heat": 0,
+      "heat": 20,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -49,6 +96,44 @@
           "width": 400,
           "height": 400,
           "title": "NAVYA",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aptiv/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 18120
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 6,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
           "isCached": true
         }
       ],
@@ -90,7 +175,7 @@
         "AI in Robotics",
         "AI in Autos"
       ],
-      "heat": 0,
+      "heat": 6,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1486731900655849476/xkDeH-iH_400x400.jpg",
@@ -101,62 +186,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_200_200/0?e=1594857600&v=beta&t=7BXWvzxajwGYusLrhXJnBwisK8JNKlwAsnakP8ngDr0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tusimple.ai.md",
-      "title": "TuSimple",
-      "excerpt": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tusimple.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tusimple.ai/",
-      "type": "profile",
-      "name": "TuSimple",
-      "otherNames": [
-        "图森未来"
-      ],
-      "overview": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "website": "https://www.tusimple.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/tusimple/",
-        "followers": 7150
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tusimple-llc"
-      },
-      "twitter": {
-        "username": "tusimpleai",
-        "url": "https://twitter.com/tusimpleai",
-        "followers": 5638
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Diego , CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1461090067867312133/0KghKTjM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "TuSimple",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF-VIgl-KH5PA/company-logo_200_200/0?e=1594857600&v=beta&t=7aG6NWFcE1juXhHrC_Qdr9ban8BibSUdqUUJEj6IVss",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -181,7 +210,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1087234
+        "followers": 1087228
       },
       "yearFounded": 0,
       "locations": [
@@ -223,7 +252,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 10278
+        "followers": 10277
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -253,62 +282,6 @@
           "height": 400,
           "title": "Voyage",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/wayve.ai.md",
-      "title": "Wayve",
-      "excerpt": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wayve.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/wayve.ai/",
-      "type": "profile",
-      "name": "Wayve",
-      "overview": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "website": "https://wayve.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/wayve-technologies/",
-        "followers": 1777
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/wayve-9739"
-      },
-      "twitter": {
-        "username": "wayve_ai",
-        "url": "https://twitter.com/wayve_ai",
-        "followers": 3896
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Cambridge, United Kingdom"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 0,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/969232018109292544/nRtAcIv0_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Wayve",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYCX2Cqc8QVA/company-logo_200_200/0?e=1594857600&v=beta&t=dM19s3wgkc5aaj2Llif0yHl9BJiizO8R1Zb-0z51yu8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

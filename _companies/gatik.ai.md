@@ -2,7 +2,7 @@
 name: "Gatik"
 overview: "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations."
 type: "profile"
-heat: 32
+heat: 42
 
 website: http://www.gatik.ai/
 
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "Gatik"
 
-secured: "jKUeadao2Qo7t1T8ZqerS8tSHR7XFKZvsSqbl2Y4eEpqq8vThkXwEgXORSgO4FFY1e6/usNPFWMU/mWtQjj4pbRGOhfvXDkieD/H5owAOTyNmLdNR6DSB2qOHO20qxGO103rIGxyMVW7D+NaEPAWEkXxNHNHvEFfNR2vqblqY4UYcSVsl9xl7M7e6ww/qDlHgyy9ZQ28JG5u7PLG9l3Iz4PYNHVJ7cLsJKZO2+5VwZwriZrOhFnZ4QmOE7NmTZEmO/NtqXUAedTjEGhKrTIrs+PwuLN4NFQAipYbMRbq2caCmbDZ2MXjWTxZ1oyQx/7dqrcL8bZfnzFlsabyDtXyZGC5UPthYLLnmTT7bUrK59BKYPCl9S+3iFG/QrdF1LRDylAoAx4JWqwz7Rw9g5Wpi2Unip5HL7ggRn/1RkN/ybQ=;p0cmX62xnLMs4olByw+ivw=="
+secured: "Sft5kx16X3ziRq5j/CIoWYuyF5y+ivOPY4PAf4wYKX4svZomMqas8QPEGPZD8AE9b9qH8XljbFdRlp8zRM4jIyK73eAOC8n/in4G1jFdQdxHe0MFJQlUvAv3lyi477ge3ofYcFwv0c3DyYBrsUTWd4eWDMw7POawixHAx8F4lAQA97taa05+Zvaa2+JUf4+9p/nwfiQXAE/hv0lTCH4vZNzirPeTjnZ5rvokgiMyRH+wA3+qnPINrM10uOVgHbazrC6LnHshHTOF8f3Y78ajZqF8xOSZGkhjfYJP9GlGlFRtJ66tp1A6/EYRnGvVHnR1vKms3NkjPxTeRH/r5MGiKlzYuXzO2Sa3lRnRL1rIxplPD3h1+usJCU0etOJw52LzEdJSyWqGrj1/iVmf5Q5ARqGXZiGAw2yPL6wtBSfzAmU=;ydVHBGid/qpFCtOHBBvBhQ=="
 ---
 

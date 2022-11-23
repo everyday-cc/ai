@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 1081
+  followers: 1080
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "995SusEtbyst9DtzyUgR/xbXEOn3fcEZ0a5VSl+3TwmknNKMqyrFqtTS73pOLvdrIbvCZjXtNVrx150G0/z8XAlfAMLJCsRy832u+OB4mzT3eqiS1pZcu5HfoyRJFgstPAKhXbU38kCcIr3NYBsrSDPlnkuYCz426F+JawrUu2kit0pRuMlaZ19bXTo6XoMtfBLdiEqZSa0/cLAhA4tb7VJnduqGpycamtcY0c5ZcgGgtg6x4zEY+ohr389EcyLNfm+ugNboKgoFfFP3phH2dXJ/9Jbc15hxEwGcfVpi68UJ95aFtRFUT9UEVZVUeBc7sUxwmXGyuBVruYwc9XAYfC2xn0unYGyEcQjI5gesQbXCwaCqz5UTvvJ2HEjf/x5jVMJaHS8D0C7xG2WPt5QJnD+uQ65dQXwblZBvFnlpuPc=;utSGca3QJvJi/MV/YEW+OQ=="
+secured: "l42s8pVbJEW7YTJFwSUhPpJeKWCpXSwQEo7FDQAii9MATd7KEYPjk2qshbkYgff8YbyCEQUEgnYPMUqY5CV76TQaXn8xsPSfFYRax9gGw4DFytcEFW9rCW9/ybguPMh3NWzk474nPmVsNRrfSR3IdH03IcopNNGwadOGmtanSa34zgwdMM0vxMYws++ZQTH4iKVTfkyiX59nNQnfdjdI5/mzPg8AKM4CTbkXDdrFgQyuW0c2eftc6ey/kg/2cwao9dW8QrPJW8A8mnR3/fmQio04/wj8nJ0YATESR7orGD2RvNYO47FihagJ3e1Wl5u38M4Ov5FqTqs0sruaylHs/bJNAyWwzmfBxiwAlx+kSB1O4UiWkRtwRudVh/1g+8wig/WIkrY1RFik9GJKXg+Vc3uJU4dWRYCwnRZH7W+W5pQ=;3uSAMe76vi9g2yEPZVNq3A=="
 ---
 

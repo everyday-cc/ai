@@ -2,7 +2,7 @@
 name: "Conversica"
 overview: "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ"
 type: "profile"
-heat: 0
+heat: 6
 
 website: https://www.conversica.com
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
 
-secured: "FTWwOP8g9kJgfY+IaKLE75AP0gFeYjAYWe/Mnk027xRZup6fOaNndGXxMMcHfNyx7wdXgBXlP4uWGgYQuI/R4pXC+mE1vB3/M+Ir2IsgHm3Y7WgT31pCoBVqdRji8UP3CQH9+FwHrkaOrdtZBPylc3upgauP+mhrEIbg0aQHFYSLHtpEvQbxBJpimTUH3ktBrTQUWtoN/ja/+yYwnyj//oJFs3BFbLCHAcwO3JztKwaRA1kvt3d3n7cLGCk3I4posSTvyo/22m+4VHhSiqpNDIAXsTjqSAEEGmaKdw/HxKtdB98Xeg+QQtxodF7dUKVyIHBMcY/yBSY1+0EL6FqSbKm/PcPAj8MxUs3e6LAT8J8KrMDbLV7XL9TqqeeI4CIGeNkW3svBgYjn2Y4ASOk/bVrtFDfBQAwZqT4sDsKwUS8=;y0isKJyFqrgYajiXv10ZzQ=="
+secured: "TpfOOINxErMImHL2gdBnkkqTyD8m2Bk3ME/9/m2JIotCsU8a7Wk9gzVGweire2FwwaLJmOlkLKGpTwu79i2caMjEba68ICjVqD/M4NO0L80ADxrjOtlRBAHEK0lQqi4pkI3Km/H7LbCspkKCDK6uBl1gyusUTsxFRT68BOTCauIU/vmxmk8ds10qh/1wXkhjniimMUsaFW+FwA2mSBIVcx5g3AQtC6x84CGi1rfJUYILfh+xxcZ4/JKkyW1VH57BshJW1G3lrBktLTeK2yS0zFfu1UE7wKOxO62iRTHpTgl1fkvfsyk/niSkmIsPwTakDRqGIr28URSjQn4p+Z39O4lZRh0jA5ojLMX1tkJW5hdaaJRShplcd4EruufLHfgDC5B73nmiq1LFPh2Pq0mYrylg8/KdEDWehpAXULlW6R0=;WVoM4WAqolkDB2s6e+sSNQ=="
 ---
 
