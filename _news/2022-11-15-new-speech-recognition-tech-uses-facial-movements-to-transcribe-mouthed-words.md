@@ -1,20 +1,20 @@
 ---
 category: news
-title: "New speech recognition tech uses facial movements to transcribe mouthed words"
-excerpt: "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise."
-publishedDateTime: 2022-11-14T17:24:00Z
-originalUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
-webUrl: "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms"
+title: "New Speech Recognition Tech Uses Facial Movements To Transcribe Mouthed Words"
+excerpt: "South Korean researchers have developed a silent speech recognition system that can identify words by tracking facial moveme"
+publishedDateTime: 2022-11-15T04:48:00Z
+originalUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
+webUrl: "https://menafn.com/1105180281/New-Speech-Recognition-Tech-Uses-Facial-Movements-To-Transcribe-Mouthed-Words"
 type: article
 
 provider:
-  name: Gadgets Now
-  domain: gadgetsnow.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "GrTOLEPatVNh6/miMR7PXpzA/IBAd6c7zHpw6OcoVCVaID8+zfdWn3WPQ0Q5GnjiTMKJxhzFuaRqG5jphh0NMfzElhtOkmDJZaDz3nYlBJdo0erEgBAtCn+dYndGOakNZdF0evltYc4UUNsjttJRbILekKbir/jtLFdiB1XKUo73FAMeDvm8FsECvO+oM2FpoQj2v9x0tKAVQSIZSgnOKFthCOoeQIqlw5ofz83/Y94G/IVRBWqdntZt+hgetJ2B/396Tsg5dgwaUarOAcHdsgN1NA/snFBhGXCoV+nT8jSbaP4NMjwgDWpE6sLVCnVWwgg0MRh249kJEJ4u0mv7aCmg8k8IPSAqT8Yxl25hRYhdQMrt5et8oHCkFbE5guX7APJAB/M5QGz34kyCD3H7JqWQ0BW6jqaRFwhjQGAKjv32itgWXrmIE3ULPO+dGNdJGTnv3O6Q3Zz/nBoUpeBm2Ug9ydvrsn3B4N+E16AAGJlcx+2929WX5XYBLXfW98jnj3CJ64O5Re7LYZv4vF+ACw==;+FwanoDg9y74e9MY9L7rbA=="
+secured: "YZwD/e658y+F/4/soWLbFRSRtYG6kuhcNxcZNo9Zh4+P6jAbmB9rQFtE3Fjm2txqSdzuyVlR0ir6x/svzihrvoX7UKy5aRCb7g+WNPAsnQPySD82gjPvkmQu/P8Wu+QcaR/Dlqt+Zj6y+C5sLaCtqAdV2XChJ2yunpYO3rGskCDxuJwJEmIOEb4B3pSNJblBJAN/n6gsmuTEqLPtPxsm/hktpGmPxdwJGSsEbMusjakec2N1GiLUoZdc3zzIHB7j+2y7RmiUW+Z6nrxsMZOBO9rjq/7u9ylAbchVaTBV2v/Z7KjyXyA5e7CNeqwzHVeD9V5EY8txN2sFArblc30AiGGU2UxIAu8vNOyJXenvAUA=;r89BtZyeGxvgl14PJH4y4w=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "DC Child and Family Services Agency to Use Artificial Intelligence in Support of Child Welfare Programs"
-excerpt: "“At CFSA, we recognize the potential of artificial intelligence and believe it will be most impactful ... practices such as Motivational Interviewing and Cognitive Behavioral Therapy. With more than 54 metrics on everything from expressed empathy to ..."
-publishedDateTime: 2022-11-10T15:00:00Z
-originalUrl: "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/"
-webUrl: "https://www.channelbiz.co.uk/press-release/dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs/"
+excerpt: "Lyssn.io platform will help expand the use of evidence-based practices for staff and community-based partners. The District of Columbia Child and Family Services Agency (CFSA) today announced that they have signed on to use Lyssn’s unique Artificial Intelligence platform to expand the use of Motivational Interviewing in the programs it delivers and funds."
+publishedDateTime: 2022-11-10T14:00:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs"
 type: article
 
 provider:
-  name: Channel Biz
-  domain: channelbiz.co.uk
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ulcXD1q1+uoxbA5c/zSuvQSUdFeTJJT6NRv+KhO1++9uvOAhnXaA/Mgyb/nHWXUNQEmx7/eIUskFJRFlgoDuMK+fwSEc0SRsgd+s4CSW9aD19IPkSA1RlA3yPFqKYApYsGecVtuDPQmXc6QO8uieOe500QBt/N1TyPfDDcWbOQ/yfN+W7VS074S/89oENSCCh0fa07jhezg28Ojq2tkBVpJiThh348MOMJyOA/vRG5JS/jHR9qmt3qA74Au0kgYUX3ZCByCQHt9ifXRghOlQDyWGiuAYcPHUzRhrS5MkGKOuKT0CpTM/oxqF/CFmka/6/WcwoCMRS0fQsDZhV3/92eIKlDSaHLXVA1LcsF9QAc8=;DefO6pWC6eL0+dwV4Pyhmg=="
+secured: "G8wgueIWZqcjqkzPANCswSDHd98eM+ZNdBCHlfLEBkvq8sVfyHj3kP47HTU3xrS2VlKHAhaXQOgVbOppgvtfedTihvlNqugVwxotDjV7Fpm/ol5Az7kDsHfDJm8df7t2s6gja1gP5M3HigyoBtX2ptnfhB31Py2q9ejOQ4BxrwKYBY+tJqevInYYe88+H4/kyj9nEyOThk4o+deavrdZOgXmGfmZuXLcBgPf+d4PVhQgz44cBqM2YoZFtlhJLbrgg6Znp169e02P98eJgDv/V1xLf0e+rWyFYaox1f/8DFAp84oy1DcEmn6o74puTee9B230JFegfWyAGn8XwzuUEBHEOtagRCDZNLmB5dQxHE0=;nN7C+layCs0ZVqoGsXawqA=="
 ---
 

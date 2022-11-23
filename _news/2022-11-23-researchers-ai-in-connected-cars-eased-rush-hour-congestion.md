@@ -6,9 +6,6 @@ publishedDateTime: 2022-11-23T07:08:00Z
 originalUrl: "https://omaha.com/lifestyles/technology/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_ad65554c-4a23-567a-a719-dfeb429e82d9.html"
 webUrl: "https://omaha.com/lifestyles/technology/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_ad65554c-4a23-567a-a719-dfeb429e82d9.html"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Omaha.com
@@ -17,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/fa/1fa87b71-fd6c-536a-86fb-721dd6393d7f/637dda1501015.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "CCDxwVh/tF8yC3Od9onzWI55HcmRkPypcOhTnlW4EXjJCuworWYHk7rB8owoY802wstlljOygwJOWueV4cPTY8WV2dPh/j3D65NOElSAqvO8JxhlZTzWLYO4Ei+SJM1TFJrt4votV17mEpOco20Vgf2i40IuWj1OCJDWdH6EOKclFGkkOSdYeaz/FriFp2KWeVzRyJsuXE+QcPxvF9z2MiQ7C9P6rHLUK6GiV1cOhJU5Br3tVssuUAtJchcmClG4w2faFRZOSaZcVlPtKlrfZQohu3UP0ngMsUx6NT/psj0Ty1T9td/6MMHV75Kxtf6v1h6wvbioiGkBuShGhsKgiSvYUX5YHQCadbQ3/lZ2EfA=;n2JUAJ9pvloxyLEPHElgtQ=="
+secured: "k4C1HV5l/FdbfFhbxkvJaEZhPrzAVB/gEg5QhIqnHiKqCI0Z1Z5R5EHoCtBgX3oajnyEH3zrP+Kz7xw/afoiXZhuZJyXeKwz2PX2fIWxrClbFdLe5Yo/eF/JGxT465l7QiHUmAEJhd1K5ODLUF4nCh5ICUKhhiHX4d6OkV6hxAgAExX0MvlRtnSa+wn6Kym8fPgij2fKXZCFYKDfjrx9t4bSDogGDz3VlHsAZs9mYGnb4WScUmKsLkUVeBvhIC7BGm4BLXmrdg7VTU8lJuSyc1UvtHkSNb0LLQwEMs5FnTm36DqmxJcsRcj4R+YHqvJLRH5QOpkCF5DyZxCrB7SVxP62ca0k2cZqxrSE2MG/bl+QRkZHglsFkW5oMXfgYHPjVbidLC40M6vwY7fOXykWSAI5QCq8071PIH44ZkHQ2N+ElRZ58ty2W/X0ZdS3eGsxH+eP52bHsGD4jMfe9iu3908LP3xZuCvZBUHYvByl61SmA1oqfN941yrNcPSyV+DG+IuaI3yqZNWMv4O/XUQQmA==;NiBcERn0naF9e8YdNtNTpw=="
 ---
 
