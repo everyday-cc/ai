@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/baidu-posts-65-increase-number
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 2362
     height: 1417
     isCached: true
-
-related:
-  - title: "Fully Driverless Lyft Service Coming to Los Angeles"
-    excerpt: "The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless service in the second-largest city in the US. Following a rollout in Las Vegas, Motional's all-electric ..."
-    publishedDateTime: 2022-11-20T08:08:00Z
-    webUrl: "https://au.pcmag.com/cars-auto/97374/fully-driverless-lyft-service-coming-to-los-angeles"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
 
 secured: "2pTY84bx30/ypEIqcAKUESzHE1shPPHUlNphHMekVbZa273C6d3iloZZJbeZyuA5uhTMBzGfHA/Rpz54GRSpTfil95KnS+dYmJ2l6GQiQAd5VbDV11IDYSuHZuOi9ov7rtuKo100x62fmU2o8/PlsHxWeBOf/NuN6Z8jO+bA4KkZqNNiSVjf4HlDuIzDqqyQAqAlNmuD0EKHWfFPjA1FaHzJYqxtww8nwWryeB9XoIwoihqy/tuVNVwO0YJOtuSNNkPem1rjnheq8KEemw/C/Pi1F5r7SsNr/Ejls+g4UBHaLYOH9xUJ3ug/SuSBq5CvJ88I/6aABaS63k+rPs2LkQqu85Q6A3iOpDE/MTkNsIAMlp6UiK1VjnpEybYHSsFZPrC7A6zSzlYbEogVglLhWvwTsocZJT6kUUSF1LZpD2xyFahBo7yRW8vS+v+keZoxC+9CdObOTp+br9GkWmiOUaa8V4tmOiKSnsY28VgMgeJh2Y1bV/eFZ/QMrdRm+QDwVv0pwn+PPrppINPzpn1MTw==;upjVud7yvF+FWnK3/o8j3g=="
 ---

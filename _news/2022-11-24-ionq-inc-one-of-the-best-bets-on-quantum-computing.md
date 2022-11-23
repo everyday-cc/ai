@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T17:52:00Z
 originalUrl: "https://seekingalpha.com/article/4560198-ionq-inc-one-of-the-best-bets-on-quantum-computing"
 webUrl: "https://seekingalpha.com/article/4560198-ionq-inc-one-of-the-best-bets-on-quantum-computing"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Seeking Alpha

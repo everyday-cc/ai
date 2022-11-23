@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T19:39:00Z
 originalUrl: "https://www.itnews.com.au/news/nab-breaks-cover-with-new-data-platform-ada-587772"
 webUrl: "https://www.itnews.com.au/news/nab-breaks-cover-with-new-data-platform-ada-587772"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: IT News For Australia Business

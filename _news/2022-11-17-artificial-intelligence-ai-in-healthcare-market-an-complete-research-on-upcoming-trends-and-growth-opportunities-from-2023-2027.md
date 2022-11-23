@@ -21,6 +21,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Face Recognition Device Market 2022 : Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028"

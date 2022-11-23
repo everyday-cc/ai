@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T20:46:53Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-cloud-technology-for-near-real-time-cardiac-anomaly-detection-using-data-from-wearable-devices/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-cloud-technology-for-near-real-time-cardiac-anomaly-detection-using-data-from-wearable-devices/"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: AWS

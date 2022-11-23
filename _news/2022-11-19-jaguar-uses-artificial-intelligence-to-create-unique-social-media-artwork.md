@@ -8,8 +8,8 @@ webUrl: "https://www.carscoops.com/2022/11/jaguar-uses-artificial-intelligence-t
 ampWebUrl: "https://www.carscoops.com/2022/11/jaguar-uses-artificial-intelligence-to-create-unique-social-media-artwork/amp/"
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/jaguar-uses-artificial-intelligence-to-create-unique-social-media-artwork/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/"
 type: article
 quality: 92
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
       name: electronicsforu
       domain: electronicsforu.com
     quality: 34
+  - title: "The Artificial Intelligence and Data Act needs a reset"
+    excerpt: "Have you recently been rejected when applying for a job or a loan, but can’t get a satisfactory reason? The best you’re told is that the decision was automated using “artificial intelligence.” Maybe you’re among the many people who find that social media platforms claiming to use AI recommender systems attuned to your interests push inflammatory but hard-to-resist material?"
+    publishedDateTime: 2022-11-23T19:14:00Z
+    webUrl: "https://www.hilltimes.com/story/2022/11/23/the-ai-and-data-act-needs-a-reset/356482/"
+    type: article
+    provider:
+      name: The Hill Times
+      domain: hilltimes.com
+    quality: 17
 
 secured: "GT1qZQC9oiZV8x2+R6vgRRZwcdbhy90rJu5kvD3exXhlXdAEtXtMNN9KSCtejTlvnibABRNKycrnMtZVW9UfEJLCILbQ33yYhO8oOeyf8pAkSk+k7HxZC0GGhUbGCOgSCC/iselcepEbEN7rE5aASho/2eV8pzBCNg9seypVW0XfXXz1fOg27VHiAsRha8Aj5seey5T0ustNPGSdOsLjaW9is8zDkSYNOXAvPJN0hcV+/diuOjXf6wmHIEhrH184oFQuEuDkWDNnobLxmdT6lqjqiWt5HJ5fZV08i4KIiLgzgRFsDoAOPP4xcJj4+L+OtRdRyDQ7m0e9f2tRVy6rk7f5aX7dgrvhNk3mo59l/Sdw+Cz1bMX5gfcA+o96uefapoXNTlOim0St5PTOlxx0ZuDcusDoyC70HvD7UGy948rDg7yiV57pIv7GCjwPZd3wgcJLIP9m4Ooun1dG3mu7NzD6M8+euLI4IyplCU2SKLc+Sh1Sg4iq/c1bTfv0ZQFuz+W0ZxmjwuN7IPBXw4ZRvg==;Di2ojEhNiu3pRGhaLfarog=="
 ---

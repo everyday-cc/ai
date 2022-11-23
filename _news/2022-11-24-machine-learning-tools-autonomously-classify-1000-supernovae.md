@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T20:46:00Z
 originalUrl: "https://phys.org/news/2022-11-machine-tools-autonomously-supernovae.html"
 webUrl: "https://phys.org/news/2022-11-machine-tools-autonomously-supernovae.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

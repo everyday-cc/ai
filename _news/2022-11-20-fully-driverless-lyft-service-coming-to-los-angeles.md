@@ -23,21 +23,49 @@ topics:
   - AI
 
 related:
-  - title: "Baidu posts 65% increase in number of driverless taxi services"
-    excerpt: "With no one at the wheel, self-driving taxis developed by tech giant Baidu rolls down the streets of major Chinese cities. When its sensors spot the corner of a delivery cart jutt"
-    publishedDateTime: 2022-11-23T06:04:00Z
-    webUrl: "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695"
-    ampWebUrl: "https://www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695"
+  - title: "Waymo can now provide fully driverless rides in San Francisco"
+    excerpt: "Waymo can now provide driverless rides to passengers in San Francisco. On Friday, the California Public Utilities Commission (CPUC) said it granted the Alphabet-owned Waymo a permit to participate ..."
+    publishedDateTime: 2022-11-19T18:24:00Z
+    webUrl: "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/nKYxlCmZtKON5e89PGJxO0QiW0w=/0x0:5154x3372/1200x628/filters:focal(2717x1815:2718x1816)/cdn.vox-cdn.com/uploads/chorus_asset/file/24211424/1390904981.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Waymo will soon offer fully driverless rides to the public in San Francisco"
+    excerpt: "Waymo is one step closer to charging passengers for fully driverless rides in San Francisco. The California Public Utilities Commission (CPUC) has granted the company a Driverless Pilot permit ..."
+    publishedDateTime: 2022-11-19T10:52:00Z
+    webUrl: "https://www.engadget.com/waymo-fully-driverless-rides-san-francisco-094718022.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 82
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/29341dd0-67e0-11ed-a3bf-be91ce1aa894"
+        width: 1600
+        height: 1001
+        isCached: true
+  - title: "Waymo Will Offer Driverless Rides To Public Soon"
+    excerpt: "The latest reports prove that driverless rides are not safe. At least, at this stage, none of the major carmakers is able to provide a safe autopilot feature. However, everything is changing in ..."
+    publishedDateTime: 2022-11-20T07:56:00Z
+    webUrl: "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/"
+    ampWebUrl: "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
     quality: 74
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_530358448.jpg?itok=77pXLNpo"
-        width: 2362
-        height: 1417
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/11/Waymo-One-Offering-Driverless-Taxi-Service-in-Phoenix.jpeg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "pHsYV7O8oXQ8FvtuRn0e2+QfJMW4aAYyZSBELH7e/Ix76B0qhmnrzxe1THUuWKKA7RgITFODPzFShsRqoFTdKos4OiuZyEm34yqtzHfHN1KGuGxAJh1shI8CsQmt2UtZJGd77VCQ2QBtC0Yhtlk3ZzGaoHUI4X7bmWR+JE6Wlle+WWHdo13zjW4cOA3ZB22yMe3Qx+u8Ln3R+pi5FhWGRuOodDCgmNQ/cRRjTtl1QnVkLEDiY3P1wD9R+msFA7iA3JEMrUhdtlInMSj+Rx7qpoNIINK91nY2JmyVfYB6t0He78xtaO+NI7/+UKqvYd+YovtXZpXDLpApGjvot4emvqJpSux/u1izgYYKcyRqETI=;2skTVWfPAalhDK48Z/vrQg=="

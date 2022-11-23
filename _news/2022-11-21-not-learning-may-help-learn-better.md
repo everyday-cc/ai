@@ -58,27 +58,22 @@ related:
         height: 514
         isCached: true
   - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
-    excerpt: "\"In other projects, we use computer models to develop optimal strategies to apply stimulation during sleep, such as auditory tones, that enhance sleep rhythms and improve learning. This may be particularly important when memory is non-optimal, such as when memory declines in aging or in some conditions like Alzheimer's disease.\" (ANI)"
-    publishedDateTime: 2022-11-19T07:29:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273116951/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 29
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1668842987.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
-    excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility across a spectrum of research interests."
-    publishedDateTime: 2022-11-19T19:32:00Z
+    excerpt: "Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter, boosting their utility ..."
+    publishedDateTime: 2022-11-19T07:38:00Z
     webUrl: "https://news.webindia123.com/news/articles/Science/20221119/4005404.html"
     type: article
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 9
+  - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
+    excerpt: "Washington (US): Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter ..."
+    publishedDateTime: 2022-11-19T18:12:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 9
 
 secured: "iWtyiH3WhWEee+9jAkBAPgUF7e3+24cajWr3Z84psCvLCC/JKc88h4joknBMtjmcalrGn2ZGKzB6Z9JUcLOufTGkSbStYJrVL98vC48o4Kv0RcaF94Oywy2NY65aYB/il+Kzoib7p0J17gSA49Re0YR65KXLseNeUtHsEblaOO0cOkBNM+g8NuOmxYuNdPsRP7vBiS0WbawRkbyMmpFMkKQrvpDBviAuoUEJC1PwO8/EV2jqCYsBS9AhIXyo73wYayUGYKHR4T+iQjMOhdjK9dGYvfZq0NygsHkDT4jevS+7VRxiPl++oxwyoWSvSh0gvXR+73hfDl2lAPo2tgS+WpZxlE9XEpNJ3fcle07+Op0fa81KuE1TnVWxKmylCAIjpY4ZhUZGD1+xbVNLPSTgLmPQgocHkIhblg1jXYioIq7b0dbzvqaHafdJoDW+UB4g5fH31vcH/mIDWtrcQPWQz+XAHs2/CYEiuf115ujBtERY1uh63vT1yGNvOjiLXF2ImiOtPuqr2RqXkpTLHLW+bQ==;VIhZzNhbiZSsiuUGLH0Piw=="

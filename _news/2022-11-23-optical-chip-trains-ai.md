@@ -81,6 +81,15 @@ related:
         width: 620
         height: 414
         isCached: true
+  - title: "The Artificial Intelligence and Data Act needs a reset"
+    excerpt: "Have you recently been rejected when applying for a job or a loan, but can’t get a satisfactory reason? The best you’re told is that the decision was automated using “artificial intelligence.” Maybe you’re among the many people who find that social media platforms claiming to use AI recommender systems attuned to your interests push inflammatory but hard-to-resist material?"
+    publishedDateTime: 2022-11-23T19:14:00Z
+    webUrl: "https://www.hilltimes.com/story/2022/11/23/the-ai-and-data-act-needs-a-reset/356482/"
+    type: article
+    provider:
+      name: The Hill Times
+      domain: hilltimes.com
+    quality: 17
 
 secured: "3A6zvU1Bi3qfmMDq+WGZHtOGCz9iqvyZeZjzzN20VPUwxAiyB3RdvhnFycGVKKh2APN/2Vqm1jl3SEW+3dSbqV56SgQ88fEsLsNmx9Bl45VWxZBlQg3zqsqQcnltdUo5hF++zCZyrYCJbsGyodCuktxdykItVkzuJWKLy4w3DboDx8td0zCtNhKkvU5QtzE26TZvPBSlUDv2TX1R6tMk4LYxRRCV/ffbf3mZ4t5fQpsRmVqZE33P7uvzhiSWLInHncxpP10Q/ZgCI5zl1zTbBEoRoUAAK5F+PTtp5kp41TaPKm+sUIdFMXouITTG+X3cmzmi1F77KSuiCUvEGU7AGyKgnS5z+zv9etb1VVPPWxPLCwAkigdc/0aituYPzuaHTwondbSdoByGkFJ1SwSHJMZsoPbqmVASsNgbdzVW0KAPsdUA2s1b//Fyc60NHiI0DuO4TKker3Tnb36RLI7XWAniS9zzR5ylwOoLzfJU6hx9k08eQlouqdPivGnc6bhtDSr6UnEZ0tPCHlYE/IesYA==;7eybR7heKvJdOIuPHlX7kw=="
 ---

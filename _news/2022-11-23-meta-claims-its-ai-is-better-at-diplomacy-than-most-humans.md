@@ -82,6 +82,15 @@ related:
       name: electronicsforu
       domain: electronicsforu.com
     quality: 34
+  - title: "The Artificial Intelligence and Data Act needs a reset"
+    excerpt: "Have you recently been rejected when applying for a job or a loan, but can’t get a satisfactory reason? The best you’re told is that the decision was automated using “artificial intelligence.” Maybe you’re among the many people who find that social media platforms claiming to use AI recommender systems attuned to your interests push inflammatory but hard-to-resist material?"
+    publishedDateTime: 2022-11-23T19:14:00Z
+    webUrl: "https://www.hilltimes.com/story/2022/11/23/the-ai-and-data-act-needs-a-reset/356482/"
+    type: article
+    provider:
+      name: The Hill Times
+      domain: hilltimes.com
+    quality: 17
 
 secured: "43WP1DhG+96ho9MfMWPSHC9uYhZCdArspkyzg7PStqys2uLeT331wX9KsCIzGitIDPQn0PBDQz1fgiK/GNj6LbniYyLgGN1KDb6DN4MBFExjwpLpiO0iPr6e2u46ipVmvfOxCUzkI1Yie1ChxrrSdMOiDWsSiO96rLTEaOFmV8l1qLgq0rZ+jHyF9z0uIXfXiVZLnk02ecpat5neq4A5zGEfkxuEfKdwu/Kl/WldygdpYRFoW4SDJWqnBH1bP/2L7Rqjn33Tsx8nWXqjKFYG8r9K3aqxuK3YaIcr+Jhiy4VIOCZl8niWwxTpw+5ocJaETtbGvG+zx+4QqpzYTh1uOmBWKbyY6FcF9HJtMP33nw+52DgS8CdYs7zog7SCTPklarfc2gbGyH3FzpDGtwqGYcBdsQzxj0g4lB57FCw6eNHKoRduQpogPf8nSf3lau+Gk7vw89ZCB3SSxDLbk7uQcPiZZr8wOuznBIhNYKmxlUC+rH+Ybp04XJl7z2gAnJuJPxl5amEX7ozRKUc0EwYlZw==;WbvjWw82gQxKDWWRpKTAvw=="
 ---

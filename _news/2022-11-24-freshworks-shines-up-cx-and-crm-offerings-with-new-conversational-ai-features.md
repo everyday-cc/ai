@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T20:07:00Z
 originalUrl: "https://venturebeat.com/ai/freshworks-freshens-cx-crm-offerings-new-conversational-ai-features/"
 webUrl: "https://venturebeat.com/ai/freshworks-freshens-cx-crm-offerings-new-conversational-ai-features/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: VentureBeat

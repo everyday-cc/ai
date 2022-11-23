@@ -1,20 +1,47 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
-publishedDateTime: 2022-11-23T08:08:00Z
-originalUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-webUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+publishedDateTime: 2022-11-22T17:08:00Z
+originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
 type: article
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
-secured: "3nwUcp1hTzwJIzhLUUw0mCHRpao6lR6wYTCzHuU+xkcW71ajgIWqPllQTjLSmy/++sEmb/j/tPpAWUIxYORMkMxEpzB4c5mBIJKIxdhTa6i29JbJJimDB6gXHS5Tx/kBABkTsWX4S9XIGKjmM5ZJ3Ee4Zj202mJS1b7yDubyeuTLrpXcAZu/swcEBuIV21JkgQgEh/utpvmRru//fxCAd61GfCPTcU1H+UdXwoLIs8bqPsF4PU908N7256+sKWUSFlGx0m0aYehl5z4O7Y5ulj60Fx7U1IKC9l5QK60omUnp3P8mG3m6dDFi+N8XZ7lsVm8p+9o+vZ/Bi94ZBZQd5Oi3NXyUGlbAgTOLYhJxZTA=;dv/Mg9nWjUVqGhdlWub7kw=="
+images:
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+related:
+  - title: "Researchers: AI In Connected Cars Eased Rush Hour Congestion"
+    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
+    publishedDateTime: 2022-11-23T16:40:00Z
+    webUrl: "https://www.post-journal.com/news/latest-news/2022/11/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 37
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2022/11/23093507/Phantom_Traffic_Jams_15218-750x500.jpg"
+        width: 750
+        height: 500
+        isCached: true
+
+secured: "5ynHMFKmM0E99iVZ8MJT0a2jfk66Sj9/f7ja1elWw2/FZjcjh1SZTysWcFpHlBVY0Nr0pfqJMWMEHTuHpljd4SvmCyNMA5SPR0QQ7Ykg13lsMwWWWFpBt+4VXXNS0nJI2dsi4791Pg65h21tC+eDPQE5j4sD5L2CGi7FiYqoZ/rIBFc4LNGpQ8O4uw5LUxYmlexkAyqeBeVXINe6ezUZfhrO7TPmoOxJ5GfbwYBMCtcWloy+ScbcdVUFul1xa2yWt7ykfI66MGBOnF9Orlk/7QQJsvpVbDArM7Dekl+NHlqBEzQrHMOCdhkkabMQhY0eMtKHb60dYUikarYku6cRxbujbTLADbJyIC+YfihoHQ8=;jk91s3in2mSMhhWURM5D5Q=="
 ---
 

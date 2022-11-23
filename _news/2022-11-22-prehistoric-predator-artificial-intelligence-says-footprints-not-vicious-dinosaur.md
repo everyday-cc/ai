@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T06:16:00Z
 originalUrl: "https://scitechdaily.com/prehistoric-predator-artificial-intelligence-says-footprints-not-vicious-dinosaur/"
 webUrl: "https://scitechdaily.com/prehistoric-predator-artificial-intelligence-says-footprints-not-vicious-dinosaur/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: SciTech Daily
