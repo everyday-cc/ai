@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "How a cloud-based data ecosystem is helping 3M transform the healthcare business"
-    excerpt: "A bold rethinking of front-line physician workflows and back-office processes is streamlining operations and improving providers’ ability to deliver patient care."
-    publishedDateTime: 2022-11-18T21:01:00Z
-    webUrl: "https://www.cio.com/article/408048/how-a-cloud-based-data-ecosystem-is-helping-3m-transform-the-healthcare-business.html"
-    ampWebUrl: "https://www.cio.com/article/408048/how-a-cloud-based-data-ecosystem-is-helping-3m-transform-the-healthcare-business.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408048/how-a-cloud-based-data-ecosystem-is-helping-3m-transform-the-healthcare-business.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/11/iStock-1373659740-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 787
-        isCached: true
   - title: "From artificial intelligence to business intelligence"
     excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
     publishedDateTime: 2022-11-19T22:30:00Z

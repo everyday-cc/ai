@@ -23,51 +23,53 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Operations (MLOps) Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Research Report gives detailed facts with consideration to market size,"
-    publishedDateTime: 2022-11-21T18:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21"
+  - title: "AI Accelerator Chip Market Size Related To Time and Cost Is Expected To Grow the Industry in Upcoming Years to 2028"
+    excerpt: "Report Pages] AI Accelerator Chip Market Analysis 2022 (Pre and Post Covid is covered and Report Customization"
+    publishedDateTime: 2022-11-23T07:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2028-2022-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Products Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Products Market will have significant change from previous year. By the most conserva"
-    publishedDateTime: 2022-11-20T00:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-11-19"
+  - title: "AI At The IoT Edge Is Disrupting The Industrial Market"
+    excerpt: "Transforming data at the source of collection minimizes latency and enables optimized processing for time-critical applications."
+    publishedDateTime: 2022-11-22T08:02:00Z
+    webUrl: "https://semiengineering.com/ai-at-the-iot-edge-is-disrupting-the-industrial-market/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-At-The-IoT-Edge-Is-Disrupting-The-Industrial-Market-fig1.jpg?fit=900%2C524&ssl=1"
+        width: 900
+        height: 524
         isCached: true
-  - title: "Face Recognition Device Market 2022 : Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Face Recognition Device Market will have significant change from previous year. By the most conservative esti"
-    publishedDateTime: 2022-11-20T00:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-  - title: "Insights on the Federated Learning Global Market to 2028 - Enhanced Data Privacy in Numerous Applications is Driving Growth"
-    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\""
-    publishedDateTime: 2022-11-22T12:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820369/insights-on-the-federated-learning-global-market-to-2028-enhanced-data-privacy-in-numerous-applica"
+  - title: "Artificial Intelligence in Construction Market is Expected to Generate $8.6 Billion by 2031: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global artificial intelligence in construction market garnered $496.4 million in 2021, and is estimated"
+    publishedDateTime: 2022-11-21T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29807178/artificial-intelligence-in-construction-market-is-expected-to-generate-8-6-billion-by-2031-allied-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29807178"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807178"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 17
+  - title: "AI In Fintech Market is expected to grow at a compound annual growth rate of 16.5% to reach US$ 54 Billion-FMI"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022 according to a report published by ESOMAR-certified Future Market Insights. The market is anticipated to garner US$ 54 ..."
+    publishedDateTime: 2022-11-21T10:27:00Z
+    webUrl: "https://www.fmiblog.com/2022/11/21/ai-in-fintech-market-is-expected-to-grow-at-a-compound-annual-growth-rate-of-16-5-to-reach-us-54-billion-fmi/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
     quality: 0
 
 secured: "TdWlNOeuP0TQy8+tRz1MmKlO/VwMq37kXdfJDQQ2fz0wupavqNzLCTx69AkmToQegfLHyMvE6yQUnKtgP9Ws1T9w17LrUC0i0S3ZMLc0pTRARdWyP9I2DgJAElHDT/Dy7f4J+lM5LzmSaxKkbAsQNrP0ya+4jJRGRWmM0tcSk36bmYUbT7DNe68nW+wzo5tWc4BlNhtV3qJ0g2UH5N1HPhWwIqQDVLf1wTPYrZ4h2zsZ5KeOQ85xUE5519pLZZuKLKdIQY7nqBIHmTQNF2S7qkEqplO140djNjeGHSt0pWxWc5CV0WbuJuv/2Ma6SW0S7+Q8tbuZ+8G0A93PwtrMVtEA6n0qHKaDaB0kRLF8TQI=;hxmHOT0iA7IHFluNXVbJGA=="

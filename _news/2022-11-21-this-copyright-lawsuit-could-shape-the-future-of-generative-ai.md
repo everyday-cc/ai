@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/this-copyright-lawsuit-could-shape-the
 webUrl: "https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ topics:
   - AI Ethics
 
 related:
+  - title: "AI And The Future Of Government Work"
+    excerpt: "AI in the workplace has been met with strong opposition as well as support; either way, automation and AI technologies are here to stay."
+    publishedDateTime: 2022-11-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ff85abc2fdfc402f0f5abfc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Impact of AI on future job roles"
+    excerpt: "AI will create a distinct dividing line of jobs that are able to be mastered if they are properly trained and taught, which will override the threat to unskilled jobs. Despite the fact that many jobs have been taken over by artificial intelligence, there are still a lot of jobs you can find if you keep learning and upskilling yourself."
+    publishedDateTime: 2022-11-19T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/VL4A0115-1-1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How Artificial Intelligence Is Shaping The Future Of Ecommerce"
     excerpt: "How Artificial Intelligence is Shaping the Future of eCommerce . November 19, 2022 by mark allinson leave a comment . Artificial intelligence"
     publishedDateTime: 2022-11-20T07:38:00Z
@@ -38,6 +70,15 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Featurespace Secures UK and US Government Funding for AI Financial Crime Prevention Solution"
+    excerpt: "Featurespace, the world leader in machine learning fraud and financial crime prevention technology, has secured funding from UK and US governments to build a new type of artificial intelligence (AI) system to help banks and payments service providers (PSPs) detect financial crime – whilst protecting data privacy."
+    publishedDateTime: 2022-11-22T14:04:00Z
+    webUrl: "https://financialit.net/news/cybersecurity/featurespace-secures-uk-and-us-government-funding-ai-financial-crime-prevention"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 8
 
 secured: "QByoxhBgxg8u2qTAfG5ekUPlVVSuR+Cg1b7oyJxsW83DKxFjIKoGYFOt1KErcfRypbiUxwdirnitRX6HuFVTwLHO+Ql4lfajyF49Y4zB2WBBd5pvrFC70lZzxZf/3ZYu1mbD6NJozLHLXR706sXCaA6K4tgBXNLaRz7EOgXW2Erje+jIRz3+h4uRdT7M9Dw6b31f1srs6TUN6AQblk7SqRHuBK7vW8IyNTKAWxG3bhoTHnZThOr8JozL77eKO/arIVE5EQ0HEt8zimECkRA9oDW0TI6TZjGBJpaMzHSTkmEoa/1FOKPt+U30wxM8eRH3fTi1t9mWg+FEeRaMf8UZGNbnWkS5yJ1PMYhp8rWQD+NciKniI8BxaZr/+BM6qEcJ5RaOgw6Zr0RF4oAaT2Bag9Anf0FHoT8IQM+8rH3GqFKQPPnBY7PJXMmWb+qbQnH1CxYK09kxzk4zdFQ6b+7g5wSvyjG7TuDpTvDDWqOGHSmUChjLMANF5CAo1FERleFlqqhDFOO7T9bqCdRaB1+oYg==;Tipc8Nt6KwAwljoJ2zU97w=="
 ---

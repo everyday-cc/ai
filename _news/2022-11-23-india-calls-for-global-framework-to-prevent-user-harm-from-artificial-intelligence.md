@@ -1,26 +1,28 @@
 ---
 category: news
 title: "India calls for global framework to prevent user harm from Artificial Intelligence"
-excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar also spoke about taking up collaborative research projects including establishing Centres of Excellence (COEs) in member nations to be able to work together in building the future of AI."
-publishedDateTime: 2022-11-22T18:01:00Z
-originalUrl: "https://www.cnbctv18.com/technology/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence-15233301.htm"
-webUrl: "https://www.cnbctv18.com/technology/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence-15233301.htm"
+excerpt: "India assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI) at a summit held in Tokyo."
+publishedDateTime: 2022-11-23T12:41:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: cnbctv18
-  domain: cnbctv18.com
+  name: brandequity.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.cnbctv18.com/wp-content/uploads/2022/07/Meity-1019x573.jpeg"
-    width: 1019
-    height: 573
+  - url: "https://etimg.etb2bimg.com/thumb/msid-95709258,imgsize-269812,width-1200,height=765,overlay-etbrandequity/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
@@ -134,6 +136,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Health-tech startup Redbrick AI raises $4.6 million funding from Sequoia India, Surge"
+    excerpt: "The startup, which provides AI solutions for medical imagery, also attracted investments from Y Combinator and angel investors."
+    publishedDateTime: 2022-11-23T11:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/articleshow/95715661.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-741027,msid-95715660/redbrick.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "India to take over chair of Global Partnership on artificial intelligence"
     excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair, India had received ..."
     publishedDateTime: 2022-11-20T18:34:00Z
@@ -177,6 +195,6 @@ related:
         height: 340
         isCached: true
 
-secured: "9Ef/vcfP0USxC3xToFV8kjFNVmrFhLvE7M/liS5pIlD6pvTPdf90pRwOmdWGb321NMe3uYhL5CQ2oC67o3a7JJ0o6DVP1YtKcA/mo55pLOK2ErizncCQILYqqYAlxtLPdj01VE4ziRXjM4pACTtFRcAxjiGUMJdOCTGoXlgSA/jB9xwXCaPoe5UVHNzGpglnfVk2pvNUTHztOzHLvmk0W41OmXcHau5f3LbeIIXBuHVILwPcSdQeB2L3105Rqps17PUKZiFW65rjW76DmduzViZ2BHEeCB7QCcGXIze8N8FDxv/cWyDMMgewNkGFb6WexClq7ibYsvo8y3LBVs59nZVt1gjR/QWes3ColmVQeUNrUYGI4yobGHyLJcCw+rr93ISvV3wdTZ+ORZSqVO6YiC5g6qgcplHDqQcWJaOrxDjJZH/WAXd+3+UoSgh8akDTdjmZ8Ww5CH+zVB+eKWdHJft3rVfYMSeyhHyVJFdQYCawjI5oklsQF3JdaqpCo3km0NCCJ2N+M54hEpAJV9YgrA==;iRCDckqkIvhyXeYm2tMrLw=="
+secured: "0hICSw6A+rwCQK+Yt8aQRWZnf/7sCp8Ma8t+dUnowvzGHJK4L6ITJiSb9LpBGZPyMi2LlFbTdCfdZpubuL3N7V486BUNZRvBIKXBKziDSF4QTTIQv+y6ESi7KH4uHG638n2+2di9Zge2I6RaMa1AdMX+/D9IzahVWPcv422qzUFmBAZ2Y3kbrcCIJkxUhtB2Gxp2OKPgeQUhD0GDfJMv/BB7VX+GG0Jl1eykg1j3g6p1F1KAvpPa4BefWyQDtIuvlvvtLZbsnwvWzNuLnEYkQYvL5WFNkLui9oLENqaEu6sHbH/trNUkDy8qn9Rz7NgG2SWLy9MLuJ/gD7umd8y6OLNJHlyBJMNyrg+G96xirCs=;9woxEz30KzUYF7SWXMst9w=="
 ---
 

@@ -51,6 +51,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Next Steps of Facial Recognition Technology"
+    excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
+    publishedDateTime: 2022-11-23T11:48:00Z
+    webUrl: "https://www.ft.com/partnercontent/incode/the-next-steps-of-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/incode/img/3/hero.jpg"
+        width: 1920
+        height: 870
+        isCached: true
   - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
     excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
     publishedDateTime: 2022-11-21T14:31:00Z

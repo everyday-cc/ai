@@ -23,15 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
-    excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
-    publishedDateTime: 2022-11-18T19:54:00Z
-    webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 76
   - title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
     excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
     publishedDateTime: 2022-11-20T05:27:00Z
@@ -71,6 +62,15 @@ related:
         width: 1280
         height: 680
         isCached: true
+  - title: "Nvidia: Goodbye Crypto, Hello AI"
+    excerpt: "While Nvidia's revenue prospects from the crypto mining sector seem to have been left behind, AI shows great promise. Read why I see NVDA as a buy at current levels."
+    publishedDateTime: 2022-11-22T18:57:00Z
+    webUrl: "https://seekingalpha.com/article/4559930-nvidia-nvda-stock-goodbye-crypto-hello-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "XP2RE2YtCHqv6wt4y7YZlgmbm8k7uByLdippaIIH0zXrQfL3CdxCEPTSorEYvvPMssd1NMc8l3GRz9ql4Cdt3w9MtFX32ILyOCuokcaLKoFZQJ+CO3l8Cahi72lMYMVf+5gsnUbSM1bbg6Qe19zSX8E1OBAXdjgy1/28Rn3+mjB4pQvzmBCNZgvxRz8n/XxHhIUlNp18Jnviru6qxCBXBMi1TQ7F+/erYj+A6GiGKVT5AM3VRqhh9ua2IDS1Bv/nUUxXHiZNxtCPIX3pUIAZKwX/auya3Ld2ebQsHetm5kgNIFDujwjA++ewUCu3YqMGfjMbfpHo7eA4Jf+UjA3VV8jgi7nO3CIOQZJAuGWjYRNAoH/QjRTS2iboNsLIQqYWMYlw0Q7atgRa76BYqBDKZz7aXeWUWyO/YKYQ/b0UDbTpvwYaszaVt8BbWPRk6R9K2rB2MGKL3FQrKOSpefjiunBoOlgIFPF3iOQD/dQyZUV+whIklOl2+9uVl+4qiPxOJcQtMuNS0EsqSLAqclLzlw==;3fp8f+VuZoawF2cQNudnAw=="
 ---

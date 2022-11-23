@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In-vehicle AI Robot Market 2022 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2028"
+    excerpt: "In-vehicle AI Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-11-23T03:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/in-vehicle-ai-robot-market-2022-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2028-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

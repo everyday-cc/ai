@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artifi
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Al Bawaba News
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
-    excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
-    publishedDateTime: 2022-11-18T19:54:00Z
-    webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 76
   - title: "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack"
     excerpt: "The biggest news, though, was a partnership with Microsoft 's (NASDAQ: MSFT) cloud computing segment, Azure, to build a new supercomputer. Nvidia says Microsoft is the first public cloud business to adopt its full,"
     publishedDateTime: 2022-11-20T14:15:00Z
@@ -68,6 +59,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Nvidia: Goodbye Crypto, Hello AI"
+    excerpt: "While Nvidia's revenue prospects from the crypto mining sector seem to have been left behind, AI shows great promise. Read why I see NVDA as a buy at current levels."
+    publishedDateTime: 2022-11-22T18:57:00Z
+    webUrl: "https://seekingalpha.com/article/4559930-nvidia-nvda-stock-goodbye-crypto-hello-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "itKdhDI5QsTnIyP5fAEPu/lgp6AEfEZanBqTLBp4h9IgeiwzeT77GB1hs9ciUosvn2gVxufQPKwaxNtOUOdlQeJ2TfIw8pXC1tbmbMOYGaN809vU3mzGppn1pKvyK9BKsIITwkutzuV0IRdM9hudLQoj6bOt67WEum39rEkYOA8qqKEHDzDPkNJmJse+YAwjcWGP0GuyI0jJcCoAlZAN9lX5q0k5KKtwr6JNA3orDESYkBA473Xe7hCuvzTtIce+lWX9/dc4fB/bJsfaIY1YmPmSvpOmQN8+kGesYD8qYLDJH5x9bFj3WdC0DRQH5lPeYjAtaelOdRqd/oWq585W7CXD9LHBNO2Dz5HaUW1ISPVITYxyJhQTb+OXDfxtVkYFWhdQ6tENM4hJrrosoLVpMDUasXpNWjC9ycN77G2Lg+STbsynqHPiSN1vk9KK4fMWRwBa9Nj784hpPsKrmZir6VfRyhLTb54RiH18nUoNwbz77G02FLtQq3rULB0fpDlic4F1eMdPbtjum1+5MkRuUg==;Ae/q1IxV2NfVTIdQCPvATg=="
 ---

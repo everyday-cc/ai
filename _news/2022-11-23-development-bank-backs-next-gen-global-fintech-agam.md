@@ -24,17 +24,6 @@ images:
     height: 700
     isCached: true
 
-related:
-  - title: "Israeli Fintech Firm Joins ADIO’s Innovation Program to Establish Financial Tech Research and Dev Center in Abu Dhabi"
-    excerpt: "Innovation Program is partnering with Fintech company Liquidity Group, the “first” Israeli company “to join the AED 2 billion (USD 545 million) program.” The partnership will “support Liquidity Group’s establishment of an R&D center in Abu Dhabi to develop its proprietary technology-enabled underwriting algorithm and other financial solutions."
-    publishedDateTime: 2022-11-21T12:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/11/198898-israeli-fintech-firm-joins-adios-innovation-program-to-establish-financial-tech-research-and-dev-center-in-abu-dhabi/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
-
 secured: "1mgWqOMdVMLNgXieZLpVR/S9pXGoEULN/yEUeDJujQDKjaxueCqVGkra61NeRGpWX2z5RrRfqqSWjuJFnjbATpIQY3UBem88KRkCOhMvRvmNdm37Fyq/QTF2IMJVcMSHFSFBtIZiP27aLsLEXuT3pAzEe8KaN1/eb4/+xl0CUZquydDcGiDRR2H9TWfluHZmsFGwNcRxTlLe+4NYWFubkb/k/x0AnV7O8fKdDEqDUGAV5Xb3Xxh7jGvcEP3bIVGAJgbIckW9ZQ1vm6n4d/xVDMC3Cmp7ALPZMaivRUANevjmNpOOpARoXoUNqnvOGlRO5LVHQ9v6785lGD52SZBPQoETCNsBuV/0S227ZGkWvxc=;n2nwsLMU46mE7sD3iOqL3Q=="
 ---
 

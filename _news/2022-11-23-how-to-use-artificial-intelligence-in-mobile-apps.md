@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-23T10:03:00Z
 originalUrl: "https://timesofindia.indiatimes.com/readersblog/idea-usher/how-to-use-artificial-intelligence-in-mobile-apps-46926/"
 webUrl: "https://timesofindia.indiatimes.com/readersblog/idea-usher/how-to-use-artificial-intelligence-in-mobile-apps-46926/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://static.toiimg.com/photo/75476733.cms"

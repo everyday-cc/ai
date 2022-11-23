@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
-    excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
-    publishedDateTime: 2022-11-18T19:54:00Z
-    webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 76
   - title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
     excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
     publishedDateTime: 2022-11-20T05:27:00Z
@@ -67,6 +58,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Nvidia: Goodbye Crypto, Hello AI"
+    excerpt: "While Nvidia's revenue prospects from the crypto mining sector seem to have been left behind, AI shows great promise. Read why I see NVDA as a buy at current levels."
+    publishedDateTime: 2022-11-22T18:57:00Z
+    webUrl: "https://seekingalpha.com/article/4559930-nvidia-nvda-stock-goodbye-crypto-hello-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "q+ttUIxd1IAxfnBtA7jJtkM6brh5XWocwAoSzDRnLhZkJ1nfoSiLwOFWizWRRCLwUPt6uwsuVKRk0myqDfCUyTIVVowCNtjyqhfIOsRb2l4SGRVvPZT3ELnD5VBo4ZHCxvcqNrkDPjxirR2hFatkCpt6w333CWSO3G8oOZ4SdSWaEh32npHtaGSxZii/WZyIUFQfGNjQ8rvptGnXzVMsl8lQjVcVuDUAiK1UrUgPfTwQzUKhc1OrIn/PYz8ReQoFH+ybrG+/Uj1QKecNq54BROTg3wQpr5TVcKiLlSTu+v0PYXUeKtBaLYaKtWJNKWJ0xlyUyvZJywoy7yM4t7GFYswJ6kxFLtcGw9Erk20QG7U=;8W7UJ8BhHE+LEqdaC1d2PQ=="
 ---

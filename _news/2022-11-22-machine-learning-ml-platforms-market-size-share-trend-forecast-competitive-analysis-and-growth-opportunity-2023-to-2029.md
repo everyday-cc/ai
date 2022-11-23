@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In-vehicle AI Robot Market 2022 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2028"
+    excerpt: "In-vehicle AI Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-11-23T03:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/in-vehicle-ai-robot-market-2022-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2028-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence of Things (AIoT) Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
     excerpt: "Nov 21, 2022 (The Expresswire) -- \"Artificial Intelligence of Things (AIoT) Market\" Research Report gives detailed facts with consideration to market"
     publishedDateTime: 2022-11-21T17:44:00Z

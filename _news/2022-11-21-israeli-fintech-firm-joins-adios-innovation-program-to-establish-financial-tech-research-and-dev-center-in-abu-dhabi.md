@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Development Bank backs next-gen global fintech AGAM"
-    excerpt: "The Development Bank of Wales was among a number of global backers which supported international fintech startup AGAM in a recently-closed funding round."
-    publishedDateTime: 2022-11-23T08:51:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/development-bank-backs-next-gen-global-fintech-agam/"
+  - title: "Credit Inclusion Fintech Propel Holdings Moves into Canada"
+    excerpt: "Propel Holdings Inc. (TSX: PRL), a Fintech company dedicated to credit inclusion, announced that it has entered the Canadian market."
+    publishedDateTime: 2022-11-23T02:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/amp/"
     type: article
     provider:
-      name: angelnews.co.uk
-      domain: angelnews.co.uk
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://www.angelnews.co.uk/an2017/images/AGAM.png"
-        width: 920
-        height: 700
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Canada-Flag.jpg"
+        width: 1000
+        height: 750
         isCached: true
+  - title: "18/11 – Weekly Fintech Recap"
+    excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
+    publishedDateTime: 2022-11-19T19:48:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1811-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "XalygaNDREpxpAFng0puI9Vt1lpZeuO0xXCadhrjMQIM8LuVh8t4AzyLPw1xlDgK/+pHlxB2ogdbwxGXRjoIxwJo2LnMRSR2ui+vKmcX1GOpM2SaBQeFfPCW3odjDlBqzX3/AdqOxQFJD+VCNMIltVK3ZkQ6GQlezSXwJcXbVuErJ4TVNqH2BtForwVYVo1LF+oUzV5yakSqt2cPotoFpI3xry0Zn9tpwoktkBNSC3ID9aAbAQE61/8+fMriZCW/ijNfGj5UMdMsnDo/XMyzUoK45ifrTKgYUED4O7bHOBOkKwj15ezQgBiVoqAEJoCntSxzGFREau7UsAYGWuMh7vvXSpvbHGG7xpHi3bUV0T2Y5XCnzXbdFfJgmL1wGIJ/09mhcs2nJNChyuqz0XV6rs1EBWq+bVws9w50uK0BoW6FqQkgoklji6OFDU7BCBpzmkwAg3HpXKSusWYT8BTgyCeUFxfSsdKP/itJ6c9BzeQrhaTSAGcceEUeusNU+icBpU863dm8GA7KzAenoKvz9Q==;q0BxIK3IacMeLppPziZgbQ=="
 ---

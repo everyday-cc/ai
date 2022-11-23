@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Devices Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Facial Recognition Devices Market will have significant change from previous year. By the most conservative e"
-    publishedDateTime: 2022-11-22T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "Insights on the Federated Learning Global Market to 2028 - Enhanced Data Privacy in Numerous Applications is Driving Growth"
     excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\""
     publishedDateTime: 2022-11-22T12:08:00Z

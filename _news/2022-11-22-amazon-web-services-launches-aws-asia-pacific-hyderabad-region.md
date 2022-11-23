@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launc
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/11/AMAZON-Web-services.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "AWS plans to invest over USD 4.4 bn in India by 2030, launches infra region in Hyderabad"
+    excerpt: "Amazon Web Services, Inc. (AWS), on Tuesday announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region, A press release from the tech major said the new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
+    publishedDateTime: 2022-11-22T19:00:00Z
+    webUrl: "https://www.dailyexcelsior.com/aws-plans-to-invest-over-usd-4-4-bn-in-india-by-2030-launches-infra-region-in-hyderabad/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 30
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "AWS launches infrastructure region in Hyderabad"
     excerpt: "Hyderabad: Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company has announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region."

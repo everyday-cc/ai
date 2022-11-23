@@ -28,8 +28,8 @@ images:
 related:
   - title: "China’s Baidu Sees Little Impact From U.S. Chip Controls"
     excerpt: "A company executive says the search-engine giant’s AI and cloud businesses don’t rely heavily on chips restricted by the U.S."
-    publishedDateTime: 2022-11-22T22:05:00Z
-    webUrl: "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120?mod=newsviewer_click"
+    publishedDateTime: 2022-11-22T23:38:00Z
+    webUrl: "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120"
     type: article
     provider:
       name: Wall Street Journal

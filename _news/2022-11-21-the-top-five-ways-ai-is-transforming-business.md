@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63761d470b4db37722365091/0x0.jpg?format=jpg&crop=1807,847,x0,y582,safe&width=1200"
         width: 1200
         height: 562
-        isCached: true
-  - title: "How a cloud-based data ecosystem is helping 3M transform the healthcare business"
-    excerpt: "A bold rethinking of front-line physician workflows and back-office processes is streamlining operations and improving providers’ ability to deliver patient care."
-    publishedDateTime: 2022-11-18T21:01:00Z
-    webUrl: "https://www.cio.com/article/408048/how-a-cloud-based-data-ecosystem-is-helping-3m-transform-the-healthcare-business.html"
-    ampWebUrl: "https://www.cio.com/article/408048/how-a-cloud-based-data-ecosystem-is-helping-3m-transform-the-healthcare-business.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408048/how-a-cloud-based-data-ecosystem-is-helping-3m-transform-the-healthcare-business.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/11/iStock-1373659740-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 787
         isCached: true
   - title: "Leading transformations with artificial intelligence"
     excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"

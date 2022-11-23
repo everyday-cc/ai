@@ -120,6 +120,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Health-tech startup Redbrick AI raises $4.6 million funding from Sequoia India, Surge"
+    excerpt: "The startup, which provides AI solutions for medical imagery, also attracted investments from Y Combinator and angel investors."
+    publishedDateTime: 2022-11-23T11:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/articleshow/95715661.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-741027,msid-95715660/redbrick.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "India to take over chair of Global Partnership on artificial intelligence"
     excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair, India had received ..."
     publishedDateTime: 2022-11-20T18:34:00Z
@@ -133,6 +149,22 @@ related:
       - url: "https://www.dailypioneer.com/images/logo.jpg"
         width: 325
         height: 325
+        isCached: true
+  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
+    excerpt: "India assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI) at a summit held in Tokyo."
+    publishedDateTime: 2022-11-23T12:41:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95709258,imgsize-269812,width-1200,height=765,overlay-etbrandequity/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Ahead of G20 Presidency, India Takes Over As Council Chair of Artificial Intelligence Forum"
     excerpt: "India will chair the Global Partnership on Artificial Intelligence (GPAI) at the G20 summit during its year-long presidency, announced MeitY"
@@ -161,20 +193,6 @@ related:
       - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
         width: 650
         height: 340
-        isCached: true
-  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
-    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar also spoke about taking up collaborative research projects including establishing Centres of Excellence (COEs) in member nations to be able to work together in building the future of AI."
-    publishedDateTime: 2022-11-22T18:01:00Z
-    webUrl: "https://www.cnbctv18.com/technology/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence-15233301.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 31
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/07/Meity-1019x573.jpeg"
-        width: 1019
-        height: 573
         isCached: true
 
 secured: "4DNgCxzexVuza0GXCma2lPOsJgQFIW/JjOWpySEc38sBoec2OWQrhaHWyXB8Y3u6154npFwQ84zBB4W78kCmHP/sOd/h6O1ZUPNKcVqxopjE+2uidacM63E40LH2y0VjuLwAfpjJmjdWm9Ty/dfGfSg8VGf+CUT96B1VpE8Ngho3tZyAkeOZ/B5Okt5zVSORFtGX8rphJJzkJFS+KKDUfqVyrSpmwyGWaOWSMGLhghcUZV8X/XIPz+pkDhiIzLTpSQ1hQOgB4smjr/G0YPyC4pxFkCsmwCuCl2pM3CF9QUKOM1EF8ABz9afE4mCaIEA6vgognEoilfqb6dWSVbQmm++HPCKfqVo8VFkzBxNzQc3SW+4QuGTj5pGNJ197QOoHvume7/Onum1KM1GNSdqt6Ay1uXYYBfPvP5CEYm/NhPMOdK2omqm+Hs0Rg/RcYXNtdGp3jT8U9K8Z+AKvwZ0ZG3sxJeRRfG/y1hA1P9UBj26JVOspjzWDSjc+PMA/iK4GNRd6TZZA6XN5tg+3ESThzA==;cS5nVHGrmGYbRNBEcKnNRA=="

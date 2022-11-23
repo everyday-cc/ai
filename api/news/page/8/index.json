@@ -2,6 +2,242 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-15-new-speech-recognition-tech-set-to-transcribe-mouthed-words-using-facial-movements.md",
+      "title": "New speech recognition tech set to transcribe mouthed words using facial movements",
+      "excerpt": "The new device can track and translate these facial motions into words using a deep learning algorithm, according to the report A team of South Korean researchers have developed a silent speech recognition system that is said to identify words by tracking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "originalUrl": "https://www.mid-day.com/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2022/nov/Twitter-we_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words-23255594",
+      "publishedDateTime": "2022-11-15T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
+      "title": "Prehistoric predator? Artificial intelligence says no",
+      "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "publishedDateTime": "2022-11-15T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools.md",
+      "title": "IIT Jodhpur, Swiggy join hands to develop facial recognition tools",
+      "excerpt": "This partnership was established when Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "originalUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/11/IIT-Jodhpur-1-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "publishedDateTime": "2022-11-15T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028.md",
+      "title": "Deep Learning System Market Is Dazzling Worldwide | Size, Share, Demand and Analysis by 2028",
+      "excerpt": "Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 90 Pages Report Global “Deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028-2022-11-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028-2022-11-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-italy-outlaws-facial-recognition-tech-except-to-fight-crime.md",
+      "title": "Italy outlaws facial recognition tech, except to fight crime",
+      "excerpt": "REUTERS/Guglielmo Mangiapane/File Photo MILAN, Nov 14 (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/",
+      "originalUrl": "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/edLPTHHNyD8EmVEPl-Rmun3k-ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZUEIO4HAIVJHRFNQU5QWPF3VUY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T22:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market 2022 to Eyewitness Massive Growth by 2026",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Computer Vision in Artificial Intelligence",
@@ -921,222 +1157,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer.md",
-      "title": "Silicon Valley chip startup Cerebras unveils AI supercomputer",
-      "excerpt": "Nov 14(Reuters) - Silicon Valley startup Cerebras Systems, known in the industry for its dinner plate-sized chip made for artificial intelligence work, on Monday unveiled its AI supercomputer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
-      "originalUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/X6BvTKg1qgtNP1KK2SsEO00zaJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYSQLIVVLRILDAPGVO3O6B37DI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-cerebras-unveils-andromeda-a-135-million-core-ai-supercomputer-that-delivers-near-perfect-linear-scaling-for-large-language-models.md",
-      "title": "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models",
-      "excerpt": "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-getting-real-about-ai-in-finance-can-ai-improve-speed-and-closing-accuracy.md",
-      "title": "Getting real about AI in finance - can AI improve speed and closing accuracy?",
-      "excerpt": "Artificial intelligence (AI) continues to emerge as a compelling solution for finance teams that need to close the books faster and more efficiently. AI can not only check large volumes of data for accuracy, it also can learn from data and identify ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy",
-      "originalUrl": "https://diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_1068480284.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy?amp",
-      "publishedDateTime": "2022-11-14T03:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-caixabank-robot-answers-the-most-customer-questions.md",
-      "title": "CaixaBank robot answers the most customer questions",
-      "excerpt": "The Spanish bank said the CaixaBankNow virtual assistant receives an average of 50,000 questions a day, either spoken or written, to help access services such as making payments or blocking lost cash cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
-      "originalUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
-      "publishedDateTime": "2022-11-14T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients.md",
-      "title": "Infosys BPM opens AI, automation unit in Poland for global clients",
-      "excerpt": "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/13/full/1649873871-5587.jpg?im=Resize,width=480",
-          "width": 480,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "publishedDateTime": "2022-11-14T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

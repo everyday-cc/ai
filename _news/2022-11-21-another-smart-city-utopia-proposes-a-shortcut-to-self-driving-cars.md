@@ -66,15 +66,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Waabi’s self-driving technology set to be road-tested, Raquel Urtasun tells Globe and Mail, Forbes"
-    excerpt: "The CEO and founder of Waabi told the Globe and Mail that a handful of trucks are “ready to be deployed” with human drivers and engineers on-board for safety. In Forbes magazine, Urtasun – a professor of computer science in the Faculty of Arts & Science and faculty member at the Vector Institute for Artificial Intelligence – said that Waabi will train the self-driving system to navigate any number of virtual scenarios using a simulator that harnesses the full power of AI."
-    publishedDateTime: 2022-11-18T20:39:00Z
-    webUrl: "https://www.utoronto.ca/news/waabi-s-self-driving-technology-set-be-road-tested-raquel-urtasun-tells-globe-and-mail-forbes"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 5
 
 secured: "6vJQA9ympNYbEcEGhD9Q2+WtLjHtXfZ16w6cNXezRA9o/o7z0ZrsqneIgt08K4MQvYIo6M27eWFbpjgcH/ZmVx1v+jO5/Qw0kw0LTLysVT5LHmbeOo8yjdD0Zyy1Z63tFEO5PHw9iYz7EiPb+2WhHKid3llqUiS/mmK6siW0HOzKvzZ/OHRsmcpAizftogYculKK7a4JlNdcA0Apa1qgn2J6fVg6WoSssyWXQ7ATqppI3b2jOP+g1HyPOxfOmEVJe2zqix/T7U9CZJj0X5UYZ6ywkATAjq5gjbFor6s9OFf5LhZ0O/lgIcPVP7hiab40PgeOrEq8TCHLYkNH8H2vRhDB2Xb2nRHHIlWC9KvCFzSVqPrLx9CRTQkpwH92Sk+VXaRi0XQDeeUZ5tX7eiK7mRgHxp1m9iKIIG+fUjWHqh+WJ+q9xeTQkpMrwMMasIKUW+dFo+P/+mOsvZ9zSkxlpyLbDmlMIhHuoxrAanKYQtJqdFWvqwzrnxceR7d6uRcLxnkn+jt6DM3paiEFZe24PA==;cvTfXnZkwOdusGf256GUXQ=="
 ---

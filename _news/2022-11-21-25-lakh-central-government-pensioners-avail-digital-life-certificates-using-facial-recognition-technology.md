@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/25-lakh-central-government-pe
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/25-lakh-central-government-pensioners-avail-digital-life-certificates-using-facial-recognition-technology/article66165100.ece/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-95668649,imgsize-18924,width-800/95668649.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "The Next Steps of Facial Recognition Technology"
+    excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
+    publishedDateTime: 2022-11-23T11:48:00Z
+    webUrl: "https://www.ft.com/partnercontent/incode/the-next-steps-of-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/incode/img/3/hero.jpg"
+        width: 1920
+        height: 870
         isCached: true
   - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
     excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
