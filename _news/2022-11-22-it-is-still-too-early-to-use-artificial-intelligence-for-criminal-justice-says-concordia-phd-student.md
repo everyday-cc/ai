@@ -34,7 +34,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 62
+    quality: 64
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-justice.jpg"
         width: 1920

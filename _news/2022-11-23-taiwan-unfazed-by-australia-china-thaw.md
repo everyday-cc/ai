@@ -24,22 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "This AI Just Identified Dino Tracks From Australia’s ‘Jurassic Park’"
-    excerpt: "Now’s Your Chance to Buy a Real T. Rex Skeleton A New Kind of Dinosaur is Discovered in Germany This May Be the Largest Dino Ever Found in Europe Then, 36 new tracks were given to both the AI and human researchers. While Romilio could only identify ..."
-    publishedDateTime: 2022-11-18T18:57:00Z
-    webUrl: "https://www.popularmechanics.com/science/archaeology/a42004546/ai-identifies-dino-tracks/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 37
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2022-11-18-at-12-13-02-pm-1668791593.png?crop=1xw:0.9136904761904762xh;center,top&resize=1200:*"
-        width: 614
-        height: 307
-        isCached: true
-
 secured: "4JuALH4d7XA8wrZIzUBoUYjNHEQ5+Uy86UJZZvduagVlFbcggzI3ZksMTHpbYWdaiBhZkGhXKv8NCbmav4Cagr9WgMk4bVxaX5d4JPDXbpin39g4YvZkvqjNeg4EEakngGE+kwq3Nfeew/40CemXASE6SVxRlw47urd3CHOgBWqzLt1mdSgNC00pIGsaqPXTnhY8fYjvFQZ7fNesxwDoHnI0xbbIKOQtjRs+0FmMq/G1p+JBVWKwnHZP1WQ4br0RC4yVCVEqE4qiR0rzrFTMip7xm+KnQRQy191kMpy/xn9f8g2McTlYuliaIdeZSXhbfLcgAdmRcbvtee2WIHh/qfSVHf04rHoMXZs2icmI3w0=;KQczlznmyciWd1uOC7hMsA=="
 ---
 

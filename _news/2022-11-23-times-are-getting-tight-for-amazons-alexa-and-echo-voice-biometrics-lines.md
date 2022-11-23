@@ -34,20 +34,6 @@ related:
       name: Travel News
       domain: breakingtravelnews.com
     quality: 19
-  - title: "Tech5 unveils integration of ID R&D voice biometrics with decentralized digital ID platform"
-    excerpt: "IDVoice has topped several prominent benchmarks for effective voice recognition and spoof detection. “We are proud to have such a strong business relationship with TECH5, and eager to jointly pursue opportunities for their ground-breaking solution ..."
-    publishedDateTime: 2022-11-18T17:26:00Z
-    webUrl: "https://www.biometricupdate.com/202211/tech5-unveils-integration-of-id-rd-voice-biometrics-with-decentralized-digital-id-platform"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Visa, FIFA, PopID bring face biometrics payment to the World Cup"
     excerpt: "Visa partners with FIFA and PopID to deliver contactless biometric payments at World Cup venues including eight stadiums and the FIFA Fan Festival."
     publishedDateTime: 2022-11-22T19:02:00Z

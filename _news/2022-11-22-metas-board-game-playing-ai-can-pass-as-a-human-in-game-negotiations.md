@@ -38,6 +38,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Meta claims its AI is better at diplomacy than most humans"
+    excerpt: "Trust Zuckerburg to sort out the world Meta claims that its AI is better at playing strategy game Diplomacy than most tiny mortals. Diplomacy is a game that involves players cooperating by sharing motivations and points of view to construct plans and alliances."
+    publishedDateTime: 2022-11-23T10:56:00Z
+    webUrl: "https://fudzilla.com/news/ai/55874-meta-claims-its-ai-is-better-at-diplomacy-than-most-humans"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/e10ec18d9285e5e85413480f6f82bba9_L.jpg"
+        width: 620
+        height: 414
+        isCached: true
   - title: "Meta develops AI system capable of playing Diplomacy"
     excerpt: "Meta Platforms Inc. today detailed that it has developed an artificial intelligence system capable of playing the popular Diplomacy board game. Until now, Diplomacy was considered too difficult to be played by an AI system."
     publishedDateTime: 2022-11-22T20:12:00Z

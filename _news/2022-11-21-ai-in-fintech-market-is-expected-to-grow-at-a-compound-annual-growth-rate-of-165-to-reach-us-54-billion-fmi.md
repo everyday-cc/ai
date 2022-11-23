@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/11/21/ai-in-fintech-market-is-expecte
 webUrl: "https://www.fmiblog.com/2022/11/21/ai-in-fintech-market-is-expected-to-grow-at-a-compound-annual-growth-rate-of-16-5-to-reach-us-54-billion-fmi/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
-    publishedDateTime: 2022-11-21T13:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "JCB0O1S8FfVj0EV0F1MgL17XTvUMjOcevGBmJm/xOjb/eqGMMlP9fmVbNlQktZjDyLyDBAFBg2/xfPpCMCIsMKmCoO0SbRxjYXLHocXPHPxXN3siJR43ESgimNdlY5bmlpSuvr6fTO5TGUyn9bzNV2vAHWTtUyDNjBg89Wesetr/7RGtcMP3ke9EHaK6cKq1ha+ZyXanvdCw2xRp2Zw9PwxVnhNMLKn7LJYpe57xPIMINSKFMTShuyQpsOjK995wTQ4/pWR+8O2dbgTpYhTvv1gOHeKrUhxlyFZaanY9IDuTbCm/4GI2tUa83gyq3LLjnrlB495/6cw4g1djY7AWQNaQuZzMdXiQf3IJpZjffo4=;Hcdg2F0wZpKFy6ZG8e52Fw=="
 ---

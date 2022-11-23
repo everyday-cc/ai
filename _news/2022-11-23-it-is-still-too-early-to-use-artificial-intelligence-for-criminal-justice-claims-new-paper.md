@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-11-early-artificial-intelligence-criminal-ju
 ampWebUrl: "https://phys.org/news/2022-11-early-artificial-intelligence-criminal-justice.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-early-artificial-intelligence-criminal-justice.amp"
 type: article
-quality: 62
-heat: 72
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-justice.jpg"

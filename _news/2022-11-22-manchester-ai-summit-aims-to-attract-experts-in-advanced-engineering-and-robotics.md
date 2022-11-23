@@ -20,6 +20,22 @@ topics:
 
 related:
   - title: "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI"
+    excerpt: "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ..."
+    publishedDateTime: 2022-11-23T09:36:00Z
+    webUrl: "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html"
+    ampWebUrl: "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp"
+    cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp"
+    type: article
+    provider:
+      name: sciencex
+      domain: sciencex.com
+    quality: 71
+    images:
+      - url: "https://scx1.b-cdn.net/csz/news/800/2022/experts-from-across-th.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI"
     excerpt: "Experts ranging from advanced engineers to avant-garde philosophers are set to come together and follow in the footsteps of AI pioneer Alan Turing to design the super smart machines of the future at a new multi-disciplinary robotics centre based at The University of Manchester."
     publishedDateTime: 2022-11-22T00:00:00Z
     webUrl: "https://www.eurekalert.org/news-releases/972176"

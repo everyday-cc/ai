@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "The experiment is a project of the CIRCLES consortium, a group that includes several automakers and the U.S. Energy and Transportation departments. Other lead researchers are based at the University of California, Berkeley; Temple University; and Rutgers University-Camden."
-publishedDateTime: 2022-11-23T08:08:00Z
-originalUrl: "https://www.click2houston.com/news/politics/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-webUrl: "https://www.click2houston.com/news/politics/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+publishedDateTime: 2022-11-22T17:08:00Z
+originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2GAG4X6LAREYREEQINC3D25YDQ.jpg?_a=ATO2Bfe0"
-    width: 700
-    height: 467
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -37,6 +39,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "7wHtECgdbus+2+/4YyRsKOik1T+9ODfyAv5TEuFTEyoZna9Jos6XxezOAC4kXjBCWiB2O+t0uclg01YpjGRu3FGl0jAHvX6SqDF3jr+76K6jChK6q/69KiO6w1hSpfuPWJIZayw7S7/Eh0ZsrZ1LgzcT1FEW/BeKG9iSowVHtKFRXqwEo9jGLPtT6ciAYKDHtxeD4PeIF3Erdll5Z+1W5wKDjIMUAnLJsgIxwFZqSLDl1b7MSsbcNQtALqhQtxcpt0mP8u1A0IOUw8q9dBVsizzqwJW/ZiaTVJj9mG83gf+zOUadMxDElokwywaXg/8DiOd4+KS3a52HCTZqSQ0S+0EluCf91vZDAttzf8cTzjk=;kAS41yh18dXleIvH3hr3OQ=="
+secured: "xI2Rda9s/tXi4pfk2+w6Cao1ulzm57oEhJV8Fh2TNPvHzwyVCgzJiaje8NTg0FNbyMdpFscn0/vK6PCX/9hy5EJL1t+6RiRNWdqNAb7/JTf9RkG6ZDCkGJ0Zh/JWXhkCCosZ/sahKzMqtrRV3hyMTGzTbz7Essxknp5WAaFusO7OeOkitWaa5dkCuJirfAEZjtkbZ5zYF0EAIm7HYKQ9FayC8Kk/eQptuRRPFh5KWyMS36netFYFZPF3nr9f17XpnRVSCk9wvxXGbQsaLRMiVvHVVsrr0m7a3NkxsQIKqzVY3JHT7aqp57Ab5TEscopUxJVz+bd2+eDHQYynBH9O2jEyQ4S8KRrsUVOnnWJTRpM=;HSZLxzVssL+Kz9vyvzDmWg=="
 ---
 

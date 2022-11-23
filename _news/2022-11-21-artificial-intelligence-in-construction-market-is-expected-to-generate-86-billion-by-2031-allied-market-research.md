@@ -22,18 +22,20 @@ topics:
 
 related:
   - title: "Researchers: AI in connected cars eased rush hour congestion"
-    excerpt: "The experiment is a project of the CIRCLES consortium, a group that includes several automakers and the U.S. Energy and Transportation departments. Other lead researchers are based at the University of California, Berkeley; Temple University; and Rutgers University-Camden."
-    publishedDateTime: 2022-11-23T08:08:00Z
-    webUrl: "https://www.click2houston.com/news/politics/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+    publishedDateTime: 2022-11-22T17:08:00Z
+    webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 39
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2GAG4X6LAREYREEQINC3D25YDQ.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 467
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "of2UeeFMEOIGkWAu9TSgToQPzLcAZ8ILjZ5jiibuJTfM7DPjZDw9rXFVIWy+DnGDDXTsaC6PqY0Tv2Y2FT07oQHChW+5wCw8gMdS+jcUwZjfGjauxKom0brXL8clIMCChuDKom6Wm8qRDgxaSLoylcWQ+vwAevqHIKpuigJVTaTm+536xUuIey4UMeO1lBTU45ARRvyb9EL6UtS8hwi4dmY6oDqH6DdbCtNmfr6ASIAk5ncPlfVSE8K7XLTEjQmLopYklDyi76njcECWhxOHbgx1F/yqR5xTPU/8+c3jNsJoiDOuSztlf52EwwEWw9ShQ0zDgesHtqLp6meGSiii8GwyER5mQSg41RipOnWy0S8=;Wc+Yn2Q1nuAEVt7zHXivsQ=="

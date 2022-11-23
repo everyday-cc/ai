@@ -1,0 +1,57 @@
+---
+category: news
+title: "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI"
+excerpt: "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ..."
+publishedDateTime: 2022-11-23T09:36:00Z
+originalUrl: "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html"
+webUrl: "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html"
+ampWebUrl: "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp"
+cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp"
+type: article
+quality: 71
+heat: 91
+published: true
+
+provider:
+  name: sciencex
+  domain: sciencex.com
+
+topics:
+  - AI in Robotics
+  - AI
+  - AI Ethics
+
+images:
+  - url: "https://scx1.b-cdn.net/csz/news/800/2022/experts-from-across-th.jpg"
+    width: 800
+    height: 480
+    isCached: true
+
+related:
+  - title: "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI"
+    excerpt: "Experts ranging from advanced engineers to avant-garde philosophers are set to come together and follow in the footsteps of AI pioneer Alan Turing to design the super smart machines of the future at a new multi-disciplinary robotics centre based at The University of Manchester."
+    publishedDateTime: 2022-11-22T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/972176"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 49
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6de36144-50e8-4a43-a5d2-105755c4e78e/Rendition/low-res/Content/Public"
+        width: 700
+        height: 465
+        isCached: true
+  - title: "Manchester AI summit aims to attract experts in advanced engineering and robotics"
+    excerpt: "The Manchester Centre for Robotics and AI will be based at the engineering and materials facilities at The University of Manchester which will provide a state-of-the-art home for industry-leading research in AI-powered devices and be an “interface between robotics,"
+    publishedDateTime: 2022-11-22T13:22:00Z
+    webUrl: "https://www.manchester.ac.uk/discover/news/manchester-ai-summit-aims-to-attract-experts-in-advanced-engineering-and-robotics/"
+    type: article
+    provider:
+      name: University of Manchester
+      domain: manchester.ac.uk
+    quality: 44
+
+secured: "KcmtkiEdBTCIdCDy2cmRgK5O1aXXz+bAgMwdLbrvNXdWfmzBuECaObM3KfmTnuAupyuo3EINrsSWd3H9yEcShIRSQAAB9EfOGAHh7qiy7b+zDmJaXBS1DFPSuFX9EynHumZn63WF7yZ3t98HcVhml6IK3yNGXxs0Iu4SdIbJYA6SxJR2JuXMwPx+yk68o7I/HnG3HTbAtrNcDBOMzFqWFmtUVXumUHkh3lI/u9NxxBTykgg2fMjA8ytvgxc+BVr/0q4gs2Aup7vBMwu0qqhffXG/OnAd3Pp877WA5eAV8rXMF9Wofs9IFbIhM4GlXFWe4qwc0DfeGKMa2uruZKnB7T3BsI2e/2nWP+5vGrkpsLI=;3CnOTOQ06VMhxujdTRY9vg=="
+---
+

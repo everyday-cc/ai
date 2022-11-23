@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-o
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,79 +29,158 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud"
-    excerpt: "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ..."
-    publishedDateTime: 2022-11-18T17:53:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
+  - title: "India to assume chair of Global Partnership on Artificial Intelligence"
+    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence (GPAI), said the ministry of electronics and IT on Sunday. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting."
+    publishedDateTime: 2022-11-20T10:02:00Z
+    webUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence-11668938096495.html"
+    ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
+      name: Mint
+      domain: livemint.com
+    quality: 72
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all"
+      - url: "https://images.livemint.com/img/2022/11/20/600x338/Chandrasekhar_1647282460609_1668938232646_1668938232646.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "India assumes chair of the global partnership on artificial intelligence"
+    excerpt: "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place"
+    publishedDateTime: 2022-11-22T02:49:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 71
+    images:
+      - url: "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "India To Head Global Partnership On AI (Artificial Intelligence) For 2022-23"
+    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair,"
+    publishedDateTime: 2022-11-21T04:13:00Z
+    webUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618"
+    ampWebUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://c.ndtvimg.com/2022-11/qk20estg_image_625x300_21_November_22.jpg"
+        width: 750
+        height: 472
+        isCached: true
+  - title: "India to take over as chair of Global Partnership on Artificial Intelligence"
+    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar will represent India at the GPAI meeting to be held in Tokyo on November 21, for the symbolic takeover from France, which is the outgoing Council chair."
+    publishedDateTime: 2022-11-21T10:57:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95661015,imgsize-52670,width-1200,height-628,overlay-etauto/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence.jpg"
         width: 1200
-        height: 601
+        height: 628
         isCached: true
-  - title: "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud"
-    excerpt: "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public"
-    publishedDateTime: 2022-11-18T19:54:00Z
-    webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
+  - title: "India to take over chair of Global Partnership on Artificial Intelligence for 2022-23"
+    excerpt: "In the election to the Council Chair, India had received more than a two-thirds majority of first-preference votes while Canada and the United States of America ranked in the next two best places in the tally – so they were elected to the two additional government seats on the Steering Committee,"
+    publishedDateTime: 2022-11-20T11:32:00Z
+    webUrl: "https://www.cnbctv18.com/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence-for-2022-23-15211911.htm"
+    ampWebUrl: "https://www.cnbctv18.com/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence-for-2022-23-15211911.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence-for-2022-23-15211911.htm/amp"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 76
-  - title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
-    excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
-    publishedDateTime: 2022-11-20T05:27:00Z
-    webUrl: "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
-    ampWebUrl: "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 74
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 65
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd"
-        width: 5120
-        height: 2880
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg"
+        width: 960
+        height: 539
         isCached: true
-  - title: "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack"
-    excerpt: "The biggest news, though, was a partnership with Microsoft 's (NASDAQ: MSFT) cloud computing segment, Azure, to build a new supercomputer. Nvidia says Microsoft is the first public cloud business to adopt its full,"
-    publishedDateTime: 2022-11-20T14:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-scores-a-huge-win-microsoft-will-be-first-public-cloud-to-adopt-its-ai-stack"
+  - title: "India to assume Chair of Global Partnership on AI for next year"
+    excerpt: "GPAI is a first-of-its-type initiative for evolving better understanding of challenges and opportunities around AI using the experience and diversity of participating countries."
+    publishedDateTime: 2022-11-20T12:09:00Z
+    webUrl: "https://www.hindustantimes.com/technology/india-to-assume-chair-of-global-partnership-on-ai-for-next-year-101668945544437.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/india-to-assume-chair-of-global-partnership-on-ai-for-next-year-101668945544437-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/india-to-assume-chair-of-global-partnership-on-ai-for-next-year-101668945544437-amp.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 56
-  - title: "Nvidia, Microsoft collaborates to build the “most powerful AI supercomputers”"
-    excerpt: "Basically, Nvidia is bringing tens of thousands of its GPUs, Quantum-2 InfiniBand and full stack of its AI Software to Microsoft Azure’s advanced"
-    publishedDateTime: 2022-11-22T04:00:00Z
-    webUrl: "https://techwireasia.com/2022/11/nvidia-microsoft-collaborates-to-build-the-most-powerful-ai-supercomputers/"
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/11/20/1600x900/892322ba-7a18-11ec-8d96-73532ee3fb0e_1642700792041_1668945698341_1668945698341.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "India to take over chair of Global Partnership on artificial intelligence"
+    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair, India had received ..."
+    publishedDateTime: 2022-11-20T18:34:00Z
+    webUrl: "https://www.dailypioneer.com/2022/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence.html"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 51
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/11/mwcla-microsoft-jensen-huang.jpg"
-        width: 1280
-        height: 680
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
         isCached: true
-  - title: "Top 5 stories of the week: DALL-E uses, Nvidia’s digital twins, Microsoft’s AI inference, Intel detects deepfakes"
-    excerpt: "This week, news from Nvidia, Microsoft and Intel led our coverage. Here's the latest on AI, DALL-E, and how to secure the enterprise with zero-trust."
-    publishedDateTime: 2022-11-19T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-dall-e-uses-nvidias-digital-twins-microsofts-ai-inference-intel-detects-deepfakes/"
+  - title: "Ahead of G20 Presidency, India Takes Over As Council Chair of Artificial Intelligence Forum"
+    excerpt: "India will chair the Global Partnership on Artificial Intelligence (GPAI) at the G20 summit during its year-long presidency, announced MeitY"
+    publishedDateTime: 2022-11-21T07:45:00Z
+    webUrl: "https://www.medianama.com/2022/11/223-g20-presidency-india-artificial-intelligence-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
+      name: MediaNama
+      domain: medianama.com
+    quality: 42
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2022/11/FiEaKjXaEAAgKxr.jpeg"
+        width: 946
+        height: 465
+        isCached: true
+  - title: "World's Longest-Running AI Show Series Arrives in India"
+    excerpt: "By bringing together some of the brightest minds from the AI and ML landscape to discuss their applications and their scope in the future in India's new normal, the 39 th global e"
+    publishedDateTime: 2022-11-22T08:32:00Z
+    webUrl: "https://www.jcnnewswire.com/pressrelease/79361/2/Worlds-Longest-Running-AI-Show-Series-Arrives-in-India"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
+    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar also spoke about taking up collaborative research projects including establishing Centres of Excellence (COEs) in member nations to be able to work together in building the future of AI."
+    publishedDateTime: 2022-11-22T18:01:00Z
+    webUrl: "https://www.cnbctv18.com/technology/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence-15233301.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 31
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/07/Meity-1019x573.jpeg"
+        width: 1019
+        height: 573
+        isCached: true
 
 secured: "xSbhTczsolN3R8L1hHOPnTh/mIHhy2VY2+lv3BBj1f/CPvw/b3kIDPbEFMxixdp7tqp3ERR0GGPJFgucirwNncnh7EvMasTo0IsETbpQvrD2p2axpdUcQxA4Agkm1RjIbJvkBFe9BbmjdV3HBpCygKsmp+9LwPyeygOsj3ljFa0/t3KiQkwzx8iUBlfrGpyN6V6C/YsRfDrymOwPs+avIk5GMfLNfvY10dyMWxmOK90JZec+Eq1zy0UazBestBTbijpryfTYdKJi2AI23vWn/8IAexh38JoAdhYNKPNZlt+1K0jjlUYCWPWEe0ODcQPBOJi8wkrUdmRTIKq4bG2ql51HoRte4HkJsRKPpXNbq38=;ceoUaIf8gpNucKE+VBVgPg=="
 ---

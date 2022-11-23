@@ -24,22 +24,6 @@ images:
     height: 550
     isCached: true
 
-related:
-  - title: "Are fintechs living up to their promise of financial inclusion?"
-    excerpt: "Machine learning and automation could be pivotal in helping consumers and small businesses outside the mainstream access credit and other basic banking services, several panelists said at the Financial Technology Association's inaugural Fintech Summit."
-    publishedDateTime: 2022-11-18T18:22:00Z
-    webUrl: "https://www.americanbanker.com/news/are-fintechs-living-up-to-their-promise-of-financial-inclusion"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/6162fd7/2147483647/strip/true/crop/768x403+0+51/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F91%2F4b%2Fd91c537c40a0802774732c34cb81%2Fadrienne-harris-crop.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "EQ2X1jsnud5zmcS9SFmAhlTQP6xkzyW0QiOtuYhaUtQ9Mrw+9A/k90kBdOrb195jJ1Wu0zPMIaz6NoAb2a5DJ8/iSR3X+hnyUokHff69RyWJw7jicUb25LCUr/T9waBB6YSb8+QlddLZDASHxlMVwYmFC1Kp/dM1ZZ3mbQ6pyoiQ1lhSXo9gjnVzU5oKnViz0P+W64W8ajKBl15mNPeHnnOL1e6g5Y7/lblRlF6Uazd17LZe4Mq5x+jWmATs25rISeZOju07PrN7REFiQ+OppMhHx1obXnEw+jFdQOhIRk1X4/525pABO4Jq43+JgtyHVvNIJMpoWGuV3ct01kGxFquvkHuomPmEvwSpR4ZDTNzImvu1gt1WCt8NR3oDukQXdlKqn2/gQ4CJIRfnkePlngFS8cGPFPp6TALpP7Z0IrX0e64e6oqzjSjGMJP3mY07XJ93dt7t18khjTnPCdUoxtG1PAvWp6son8q6px5KkXAB9gX/2KOGzy71z4pQ5gkeJ6CVsac/GAgIForJTAvm3Q==;iUhNY1C9rpZQpz2FPAZpJQ=="
 ---
 

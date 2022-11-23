@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring
 webUrl: "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: TechSpot
@@ -24,36 +24,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud"
-    excerpt: "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ..."
-    publishedDateTime: 2022-11-18T17:53:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
-  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
-    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
-    publishedDateTime: 2022-11-21T08:26:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 79
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Nvidia, Microsoft to create artificial intelligence supercomputer"
     excerpt: "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be"
     publishedDateTime: 2022-11-20T05:27:00Z

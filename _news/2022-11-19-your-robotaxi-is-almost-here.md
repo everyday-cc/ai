@@ -41,6 +41,20 @@ related:
         width: 3996
         height: 2664
         isCached: true
+  - title: "Cruise, Waymo push robotaxis amid doubts about self-driving tech"
+    excerpt: "Cruise and Waymo are plowing ahead with plans to bring robotaxis to more cities, despite growing disillusionment among investors and automakers about the timeline for self-driving cars. Why it matters: The two companies already operate driverless taxis in San Francisco and Phoenix."
+    publishedDateTime: 2022-11-23T10:31:00Z
+    webUrl: "https://www.axios.com/2022/11/23/cruise-waymo-robotaxis-ford-gm-autonomous-vehicles"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/sDZU0wT6SeO87X7RgnGMWgQDZ58=/0x0:1920x1080/1366x768/2022/11/22/1669122813931.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "fIxYyNSPmWRnjdJMKK0+gUrDiqmYVy4pIu0m5M9MOYKWANpMD6fFqmJmCw9xcWihcVv+fEXvHkkFZgbrM0DUfi2buQQVdASmX8RFpqAEcFwfHiGLTrU5ofNxU2/bLAhmYAEBRxfkgGIZ4kNnhz5ZVZTeGi61MwxIc+V0f+zfRxOgzauustU7yszWF/g/tv3h6fH3bTN3CkaaiYlu06JDY2rfxRLaB+MwVz0NKyAgH2aoKh4tNF8eKRMLjnHHPy9o7QlMxmA2t1VcvpkV9s49J2kOU+G7q7kjdeiMUUkTOw4ix1lDxfsI55/pisNMPRvdygQI+VmmeX5xc4k1jiMLfRiO1unu17nDaAZ2KJPGjcVLugU4e4ca1KwQmGGPfxsCAuFSltzhumXnJJSY0r/pEKnGAN5/xhmDz2QNg9x7Kz1DpDL7LuQKGaT5Ui283umAXTigjwLznYNBKESv1T6jWdjoWCHJU8FAlUopteH4APkk/vQ6j0+0QdfHeQBqCWOIcDjsYa6U7Q8OTz9epkDbXQ==;nlObMfNWOrmMQLxhw5G08A=="
 ---
