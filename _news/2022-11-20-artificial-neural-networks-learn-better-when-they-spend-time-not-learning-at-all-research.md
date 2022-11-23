@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial neural networks learn better when they spend time not learning at all"
-    excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
-    publishedDateTime: 2022-11-18T22:40:00Z
-    webUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
-    ampWebUrl: "https://phys.org/news/2022-11-artificial-neural-networks.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "UC San Diego: Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
     excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
     publishedDateTime: 2022-11-23T00:03:00Z
@@ -66,20 +50,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/brain-heat-sensor-remote-control-of-core-temperature.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "Artificial neural networks learn better when they “sleep”"
-    excerpt: "Recently, artificial neural networks build upon the architecture of the human brain in order to improve various systems and technologies, from basic science to finance or social media. While in some ways they have achieved superhuman performances,"
-    publishedDateTime: 2022-11-21T14:36:00Z
-    webUrl: "https://www.earth.com/news/artificial-neural-networks-learn-better-when-they-sleep/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 39
-    images:
-      - url: "https://cff2.earth.com/uploads/2022/11/21073523/Brain-networks-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
     excerpt: "\"Off-line\" periods during AI training mitigated \"catastrophic forgetting\" in artificial neural networks, mimicking the learning benefits sleep provides in the human brain."

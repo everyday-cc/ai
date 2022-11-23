@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T13:09:00Z
 originalUrl: "https://www.fmiblog.com/2022/11/23/wearable-medical-devices-market-share-size-trends-2032-fmi/"
 webUrl: "https://www.fmiblog.com/2022/11/23/wearable-medical-devices-market-share-size-trends-2032-fmi/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Future Market Insights

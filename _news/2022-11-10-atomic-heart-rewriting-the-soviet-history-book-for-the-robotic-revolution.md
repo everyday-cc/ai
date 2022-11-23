@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Atomic Heart: Rewriting the Soviet History Book For the Robotic Revolution"
-excerpt: "IGN First takes a look at the alternate Soviet history backstory behind Atomic Heart, the upcoming chaotic FPS from developer Mundfish."
-publishedDateTime: 2022-11-09T17:29:00Z
-originalUrl: "https://www.ign.com/articles/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution"
-webUrl: "https://www.ign.com/articles/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution"
+excerpt: "The year is 1936. Dmitry Sergeevich Sechenov, a professor at the Soviet Academy of Medical Sciences, has created a unique electronic storage device. Little does he know that his invention is the first step in a series of events that will result in a robotic massacre."
+publishedDateTime: 2022-11-09T17:21:00Z
+originalUrl: "https://me.ign.com/en/xbox-series-x/203091/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution"
+webUrl: "https://me.ign.com/en/xbox-series-x/203091/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: IGN
@@ -19,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2022/11/08/ignfirst-atomicheart-blogroll-02-jpeg-1667922613455.jpg?width=1280"
+  - url: "https://sm.ign.com/t/ign_me/preview/a/atomic-hea/atomic-heart-rewriting-the-soviet-history-book-for-the-robot_y5f8.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "7wYKyvm0+b4pp84sud8DX1lUlm9CUKybQytS610b7efojK2YGOzy2hdTyrpUXezTE56j5PRQNdxskx2q69eXHhSX1SzPSVvlenOcl7Ak7f2+leBagxSVEkux1CqZiYXRcGzLMDMAh72YV43g6IDp7hhQLQMGYf4y5Ul41VsCzBOcX27peQnnFJArz8aXnjKXkqHDvBji45iG8pnrh6fOtWwvxa8a5MQSSpICYuYpjqOs7oz/6rsJUOsVooI8NQP7wtAcMefJyd3zywSnbb3K9oGtpR0DcOmSliqw5+o+EZkBaC7sQpLtRSrIrXTWgRc8Dt77lWBfBIa3/cLD91QV1bVBr4X8yVJ9RKA7DnKnssyIPFktmHaf1vav9UVsz+TntKWjFBnHfjlmxA5EX9AiUYZCvVzEhfWEOhfFDr43V1V2Kmpr/H8zzAPFD8X1nwmSKnvFo4E7+ImPrM3X6JzWTU9cBkdmEmTv7XNUxWWRI6Oo6YkYCdOrzmLaXoTU/mvDh/WNY5jjhGrvH8eCOEm4NA==;C9IoD+uXgErQdGUHT/mNPQ=="
+secured: "WyZ7GR2NzPsOLnnzf/Tvm4IevhoHTe3ntwyWePtDv+M0JxgGGiUbxnDxnx3iI+C0oav5dvdxMjBFVgMBg+cPt5LCPb4pqG5UpItfyUQ0OKhdzqAxEQDomXE+p+wPeqqN3CyXxL2MlrWSB5ztcb01GyOw0gcuIiOkTq+wgolqNubsXAt23ZWfI/DSnisa42vNEMykj+gMk0AlS+rXHBg+vYMGD7inItFX1uU7Cshac0VE9zo7M9csJ3JQviw3R6yPFRmyc6u+vZYePBpCcLAKms4TrT7pN2VZE6yq6LM44vbmozFr72rsx6g+U9JTC66VxCYxfMwyan6UoslGHcnKZxC6t1U9sYgNYpWIwCcg7fA=;oFiSPK8s9TqVAz7uECuZaQ=="
 ---
 

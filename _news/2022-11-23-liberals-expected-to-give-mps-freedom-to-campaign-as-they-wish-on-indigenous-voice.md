@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T13:00:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/nov/24/liberals-expected-to-give-mps-freedom-to-campaign-as-they-wish-on-indigenous-voice"
 webUrl: "https://www.theguardian.com/australia-news/2022/nov/24/liberals-expected-to-give-mps-freedom-to-campaign-as-they-wish-on-indigenous-voice"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Guardian

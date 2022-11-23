@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launc
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -173,6 +173,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 19
+  - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
+    excerpt: "The Hyderabad region will give customers access to AWS technologies for data analytics, security, machine learning, and artificial intelligence. AWS has previously invested $3.71 billion in local infrastructure and jobs across India. The new investment ..."
+    publishedDateTime: 2022-11-23T13:09:00Z
+    webUrl: "https://www.rediff.com/business/report/aws-to-invest-44-bn-in-india-by-2030-through-new-hyderabad-region-service/20221123.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 17
 
 secured: "mG5+pCYGRHlmhnKk9gy+QwZ2eP79g2bDxq8ymMMCP6KI1o2BRJoYDF+du8Nw21eU/Z5wMSeH7OdMXvN+5pGdI0OvHsxHgxdQZTt3fmrAXiTuluJ9gECCvq4zWisxxRpF6XCSvG2xTw2qUfBxb4vVlHIhsvzd6BnwuQGkU7bcZV3YA8n6FlOpHUaPkmGJVCP4X4lmx1IbmThSBTNvjxnqkRODFLibeV6PH+rX2NXL2Jk9k0OlMMBXdQT0dOmQ4B4U/588t+L1gLqwu6/QZeJBIPWDtsz36gJoHtv+mCTgjTA18+262GLX9GyAUimvSwn603La6UpkMqAnO7nBKYMePgD/dtLAJAgMucd+JTbp8t4v8mc+fRMlvrPmUiQ8UiP3jnJ2Psp88OstbmZz/A/3rq7AalBK6QuYgO3o4y8YdnlUAEQX+DSaKW7y8RthiNmZliXu0vZel8RPKoMzvaZ4p+L0iA0VzSUA1KnVWHqd2w5+Paeo9BaHXkCGLRvjOW2ltOgHYpehTfEdIp5W1EGLUg==;Q839jqHWtGc05RMnoBvgcw=="
 ---

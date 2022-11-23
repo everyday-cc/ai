@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China could lead the way in self-driving cars - UBS"
+    excerpt: "China has the potential to replicate success it has enjoyed in EV manufacturing in the field of advanced driver assistance systems, according to UBS."
+    publishedDateTime: 2022-11-23T15:39:00Z
+    webUrl: "https://seekingalpha.com/news/3911086-china-could-lead-the-way-in-self-driving-cars-ubs"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1439528054/image_1439528054.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "b7HNRp1ltWf+svVMf0j103jSsRfvavCB3yMwsyhEeEhUMxCB99C2An5FyHiytfuk2oKm6NHASHP0PABPyf1NDr7rIiaEUamgV0LLUkM97MnHhFrVgfXFF79st8Ms5Yz126L+HV6iY6MktBTtHci7Vdby29m0hTW2fyas0Grws3COgIV6GTjXoYhKx571z0+3Wqv9Y4r7sGOviybUduzQHFdhvSPTrq3OPSX5QIGkXjPHe7bB3nD3ZW7eZhYk2ohagu0n5tCq82EvY49VF8UXuWsqWmaik2kLVo3h2erKXIrr+FEwPx8N7Lqn0JIROao6sxyRrNTYDJW8O7SFm6eOGkIcpJNHRpPAHhjSqP+j1ayd2RDgiQk1JodW4YDQgXD4H9kqlrtwb2xf5u3K9hlGBvY8DUsZh0qG4xBNfRyBz7EmYUg6ToOdFTo5QeJRoVC98Yr2UoKe6xKENbWc+B2hHd3rhtxj7M3lwE0Eom5giwdyvQ3Gq2t3TZeia/QntKC6KN2wBiFvtMZMkZu+Xk/jCw==;BAqZNMwR3jqHwhwA7gkQ3A=="
 ---

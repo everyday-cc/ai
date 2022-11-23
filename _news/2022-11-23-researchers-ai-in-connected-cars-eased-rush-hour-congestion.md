@@ -1,19 +1,47 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "Researchers in Tennessee say they have successfully used artificial intelligence in a group of wirelessly connected cars to help ease rush hour traffic on Interstate 24. In the experiment, 100"
-publishedDateTime: 2022-11-23T07:08:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_ad65554c-4a23-567a-a719-dfeb429e82d9.html"
-webUrl: "https://omaha.com/lifestyles/technology/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_ad65554c-4a23-567a-a719-dfeb429e82d9.html"
+excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+publishedDateTime: 2022-11-22T17:08:00Z
+originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
 type: article
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "k4C1HV5l/FdbfFhbxkvJaEZhPrzAVB/gEg5QhIqnHiKqCI0Z1Z5R5EHoCtBgX3oajnyEH3zrP+Kz7xw/afoiXZhuZJyXeKwz2PX2fIWxrClbFdLe5Yo/eF/JGxT465l7QiHUmAEJhd1K5ODLUF4nCh5ICUKhhiHX4d6OkV6hxAgAExX0MvlRtnSa+wn6Kym8fPgij2fKXZCFYKDfjrx9t4bSDogGDz3VlHsAZs9mYGnb4WScUmKsLkUVeBvhIC7BGm4BLXmrdg7VTU8lJuSyc1UvtHkSNb0LLQwEMs5FnTm36DqmxJcsRcj4R+YHqvJLRH5QOpkCF5DyZxCrB7SVxP62ca0k2cZqxrSE2MG/bl+QRkZHglsFkW5oMXfgYHPjVbidLC40M6vwY7fOXykWSAI5QCq8071PIH44ZkHQ2N+ElRZ58ty2W/X0ZdS3eGsxH+eP52bHsGD4jMfe9iu3908LP3xZuCvZBUHYvByl61SmA1oqfN941yrNcPSyV+DG+IuaI3yqZNWMv4O/XUQQmA==;NiBcERn0naF9e8YdNtNTpw=="
+images:
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+related:
+  - title: "Researchers: AI In Connected Cars Eased Rush Hour Congestion"
+    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
+    publishedDateTime: 2022-11-23T16:40:00Z
+    webUrl: "https://www.post-journal.com/news/latest-news/2022/11/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 37
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2022/11/23093507/Phantom_Traffic_Jams_15218-750x500.jpg"
+        width: 750
+        height: 500
+        isCached: true
+
+secured: "aM9O7dX4fWdW+jByUGhKU2ggktjdDBR8WP6DRLkMNzqlP6TofI5/rOGP2AiG/LGIOZwzdyNb5bdvc884why0yZhJqd7RBvWdjMYEOjSwy3PeOD07ZE4Ia3RSbMDl3YQa9he3K6m2hSL2enJ6KGXcA5xp3okILAbgH85tCAre9koRSslzRXw/fSd0eMvmmu89XPsDYZ5rwoCjBnkn/qTfYYyiZtetGu+ZvTq1HswF8T9wEjwolF/FgpDxVJ6pPHX8zXpR/DSYh7PlZ269EW3D8tIrV7gsgpLhlyPRMVqfVVTDipeGTPieJe3jKgq/fEJQ1zzkqG9Px02m02MkDVG4b37fJuvIN4Ad71/jkDvGPXw=;8Ipz0QFP5AGCbi3zjK8Gdg=="
 ---
 

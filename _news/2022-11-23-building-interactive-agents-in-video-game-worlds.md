@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/building-interactive-agents-in-video-game-worlds"
 webUrl: "https://www.deepmind.com/blog/building-interactive-agents-in-video-game-worlds"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

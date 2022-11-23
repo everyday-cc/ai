@@ -51,6 +51,15 @@ related:
         width: 900
         height: 524
         isCached: true
+  - title: "Artificial Intelligence Systems in Healthcare Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Systems in Healthcare Market will have significant change from previous year. By the"
+    publishedDateTime: 2022-11-23T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-size-2023-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "Artificial Intelligence in Construction Market is Expected to Generate $8.6 Billion by 2031: Allied Market Research"
     excerpt: "According to the report published by Allied Market Research, the global artificial intelligence in construction market garnered $496.4 million in 2021, and is estimated"
     publishedDateTime: 2022-11-21T14:40:00Z

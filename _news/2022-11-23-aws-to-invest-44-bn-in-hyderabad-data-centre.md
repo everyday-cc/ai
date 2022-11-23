@@ -173,6 +173,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 19
+  - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
+    excerpt: "The Hyderabad region will give customers access to AWS technologies for data analytics, security, machine learning, and artificial intelligence. AWS has previously invested $3.71 billion in local infrastructure and jobs across India. The new investment ..."
+    publishedDateTime: 2022-11-23T13:09:00Z
+    webUrl: "https://www.rediff.com/business/report/aws-to-invest-44-bn-in-india-by-2030-through-new-hyderabad-region-service/20221123.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 17
 
 secured: "kB7+LgnAo07+F2mpOaAY/mtapNhC8EZaRyOh7jRgy/Rv3AEiuM77Cauwmr0SgFtiN7nV2NlgfpMI9ztvx9UE86ixcnOZ9rkNLiYuMPKIHpAHWEcuY/S79vD0BWkSDXimHbPNvay8OjmT2SygnC8zaiB08o6ksSLR3hMuT00ACk5DcRgsvqslIa0UEvbDJAXvJrDxhh6GCku7XT+gauK2lbK4pPuEJwUpaoC1gGqSZR4IPUzgmhSTQOusKIymzZPRVBLhdVWWG9BEQwuYUyHwMLRg91TnRhEAqM06Eoix+CjnjXvNT7WjdeKCo66C8sjCHy8oI7OJek0zrlboCaJsG8uuKF+ncukmK5eqJN0W71UurnYM1iDaUufMDSRgZN9wl59lbe/KcfWE7dSMzS0kTBb5TEetWWIwKfOqP8FOvcPZUXd0D/FfYOa6mxS4GqITQVPP1u8eStRTO5t0d6aQhztqUJrJwK0Tx/bs4iP1A92Rf6eUzGdwbnTmfK2AjlyQEI30C5w7cZLsGEokFvE8TQ==;Yv/x47sSp2vc89wniNs2/g=="
 ---

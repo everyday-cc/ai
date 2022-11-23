@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-22-innovation-showdown-crypto-and-meta-vs-industry-40.md",
+      "title": "Innovation Showdown: Crypto And Meta Vs. Industry 4.0",
+      "excerpt": "Digital-industrial applications did not completely escape the hype, of course, and have triggered their share of disappointments. The reality of self-driving cars, for example, lags far behind the promise of a fully driver-less future — a future that ten years ago might have sounded almost within reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637bebf143f2b4ffba1a9f12/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "publishedDateTime": "2022-11-21T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-amazon-web-services-launches-aws-asia-pacific-hyderabad-region.md",
+      "title": "Amazon Web Services launches AWS Asia Pacific (Hyderabad) Region",
+      "excerpt": "Cloud service provider Amazon Web Services, Inc. has launched AWS Asia Pacific (Hyderabad) Region, its second such facility to augment services to customers in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
+      "originalUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/ajfcx3/article66168232.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
+      "publishedDateTime": "2022-11-21T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-aws-launches-second-infrastructure-region-in-india-to-invest-44-billion-by-2030.md",
+      "title": "AWS launches second infrastructure region in India, to invest $4.4 billion by 2030",
+      "excerpt": "The investment is also estimated to create an average of more than 48,000 full-time jobs annually, which will be part of the AWS supply chain in India including construction, facility maintenance, engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
+      "originalUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/AWS.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
+      "publishedDateTime": "2022-11-21T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-the-speech-jfk-never-gave.md",
+      "title": "The Speech JFK Never Gave",
+      "excerpt": "While the bulk of the speech is no longer timely – budget spending, politics, issues of the day, and so forth – his main ideas and philosophies most certainly are, especially in our current political and social environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63715fb816756bee83fa64ef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 970,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
+      "publishedDateTime": "2022-11-21T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-how-spotify-trained-an-ai-to-transcribe-music.md",
       "title": "How Spotify trained an AI to transcribe music",
       "excerpt": "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file.",
@@ -459,7 +649,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1054,207 +1244,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-super-computing-and-storage-on-earth-and-in-space.md",
-      "title": "Super Computing And Storage On Earth And In Space",
-      "excerpt": "DDN announced enhancements to its DDN Insights monitoring interface. Panasas announced data management and analytics tools for high performance computing applications as part of its PanFS software suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6378183b6faf13fd0b1a9f12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
-      "publishedDateTime": "2022-11-18T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
-      "title": "Artificial neural networks learn better when they spend time not learning at all",
-      "excerpt": "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
-      "originalUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-artificial-neural-networks.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp",
-      "publishedDateTime": "2022-11-18T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-easy-and-accurate-forecasting-with-autogluon-timeseries.md",
-      "title": "Easy and accurate forecasting with AutoGluon-TimeSeries",
-      "excerpt": "AutoGluon-TimeSeries is the latest addition to AutoGluon, which helps you easily build powerful time series forecasting models with as little as three lines of code. Time series forecasting is a common task in a wide array of industries as well as scientific domains. Having access to reliable forecasts",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/forecasting-autogluon-timeseries.jpg",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T14:01:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-ai-in-healthcare-vast-potential-ethical-questions.md",
-      "title": "AI in healthcare: Vast potential, ethical questions",
-      "excerpt": "They’re also able to see more patients, which improves access to care. On the pharmaceutical side, you’ll find AlphaFold, an AI system developed by Google’s DeepMind. Using this AI tool helps scientists better predict the structure of protein folding ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/",
-      "originalUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/",
-      "publishedDateTime": "2022-11-18T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
       ]
     }
   ],

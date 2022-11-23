@@ -27,54 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI in healthcare: Vast potential, ethical questions"
-    excerpt: "They’re also able to see more patients, which improves access to care. On the pharmaceutical side, you’ll find AlphaFold, an AI system developed by Google’s DeepMind. Using this AI tool helps scientists better predict the structure of protein folding ..."
-    publishedDateTime: 2022-11-18T21:34:00Z
-    webUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/"
-    ampWebUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
+  - title: "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare"
+    excerpt: "(File) RedBrick AI, a Health-tech AI platform, on Wednesday announced that it raised $4.6 million in a seed funding round to accelerate the development and adoption of artificial intelligence ... about 90 percent of all healthcare data AI systems can ..."
+    publishedDateTime: 2022-11-23T10:42:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/"
+    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 123
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/09/ai1.jpg"
         width: 1200
-        height: 588
+        height: 675
         isCached: true
-  - title: "Advancing Healthcare Innovation through AI Adoption"
-    excerpt: "Leading health providers are implementing AI to improve patient and staff safety and quality, allowing them to accomplish their technological innovation goals for better use of resources, with higher satisfaction."
-    publishedDateTime: 2022-11-22T18:24:00Z
-    webUrl: "https://www.managedhealthcareexecutive.com/view/advancing-healthcare-innovation-through-ai-adoption"
+  - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
+    excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
+    publishedDateTime: 2022-11-23T13:03:00Z
+    webUrl: "https://yourstory.com/2022/11/healthtech-ai-startup-redbrick-ai-sequoia-surge-y-combinator-funding"
     type: article
     provider:
-      name: Managed Healthcare Executive
-      domain: managedhealthcareexecutive.com
-    quality: 54
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/ee249d1c756ebffaddd275da9cb262220ef22e85-1000x676.png?fit=crop&auto=format"
-        width: 1000
-        height: 676
-        isCached: true
-  - title: "5 recent healthcare AI updates"
-    excerpt: "Perimeter Medical Imaging is installing AI imaging tools at some Nashville, Tenn.-based HCA Healthcare hospitals in Texas. Capitol, a company that uses AI to help health insurance companies make decisions,"
-    publishedDateTime: 2022-11-22T22:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/5-recent-healthcare-ai-updates.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-  - title: "6 healthcare moves from General Catalyst"
-    excerpt: "From expanding its partnerships with more health systems, to investing in a plethora of healthcare startups, here are six recent healthcare moves from venture capital firm General Catalyst: General Catalyst partnered with its first health system outside the U."
-    publishedDateTime: 2022-11-18T21:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/6-healthcare-moves-from-general-catalyst.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
+      name: Your Story
+      domain: yourstory.com
+    quality: 17
 
 secured: "5pjEjwFrkkF7CyzN9HDNGkIl1oztDeNykbW74gA6Ur5chE85ahwuD/x6O1wYQixlWpS+akkiFlWz9KHuIJVDxe25Zrd/YWpQ5hCx/PGxAvWDcxUTzwWwimcntXf8uyI6lfCAVmGgOYFG0lxoKas3BSsBvWl+p6rIDlA+vmjJIbdbpQoizJLNgmLRs5mErb7NS5733xgIWxwIcuwWhN3NtxSvQsvopTNbrDLCQRZc4NpSkaIycwfQF0Zrq2os/YRICwtczxDLSB7EyYAxgGbliKLb4aXBJIFdQuoEvODbuaRojdQwmdS9OGckXJ+4Idg/DzBuoR/qy4/w1vF4+rfvI37XITfJjJHnpEDUHgTGM7Q3fvP8pQErCOh+GFwcU29GFFIxKz34tn+WE++Ud3ANYXvaa/4dVpysSCnehiJihW8HHp5oa2FrwfGyB9z7lLzU7aEDhAygz0Qqluqefb0xgQRPUOkgbICDHo02W5k5xC8HWob10MNBvjzyCGtFEqrngbTasUoRAYzyEvWBXLZJ2Q==;RjQC+jGmVTPGPntlT54zeA=="
 ---

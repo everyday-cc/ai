@@ -51,6 +51,29 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Advancing Healthcare Innovation through AI Adoption"
+    excerpt: "Leading health providers are implementing AI to improve patient and staff safety and quality, allowing them to accomplish their technological innovation goals for better use of resources, with higher satisfaction."
+    publishedDateTime: 2022-11-22T18:24:00Z
+    webUrl: "https://www.managedhealthcareexecutive.com/view/advancing-healthcare-innovation-through-ai-adoption"
+    type: article
+    provider:
+      name: Managed Healthcare Executive
+      domain: managedhealthcareexecutive.com
+    quality: 54
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/ee249d1c756ebffaddd275da9cb262220ef22e85-1000x676.png?fit=crop&auto=format"
+        width: 1000
+        height: 676
+        isCached: true
+  - title: "5 recent healthcare AI updates"
+    excerpt: "Perimeter Medical Imaging is installing AI imaging tools at some Nashville, Tenn.-based HCA Healthcare hospitals in Texas. Capitol, a company that uses AI to help health insurance companies make decisions,"
+    publishedDateTime: 2022-11-22T22:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/5-recent-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "Xbq7HzhIMgbbBsNYcu8K0nAHmHEX+TUicCVvcNF28hgCa2fXb75byirJIgJcnRPa4ctPj3nfsjFJ4dnHf971gUv5mNc2EMtXOfnBWfylLMvCAyuEPo2I4XHa5ak4jvoxDc6Rk+H7RRD2zeiwYeRAccjnTS21xdzXg2LaDoMx0Ow8c55HtoVsL9xHPtelx1JdveKCdCUDLr4sArx7ARXtzLpe7uh0BfOwIfZjHPZfk+D6C8/Y42JbhJS6praBsSF/VsZ4yCu8E63jOCqyzQa7bbCm/8UoQGq3L+ObQw7Fns694h/wOVPYeeyXQPjkjelsYhWKDWMpTHqQnJX2wOwZeyflKD8+6b74lPRpCPoJFRk=;Lt2C87nZbinAdcSFz23UMg=="
 ---

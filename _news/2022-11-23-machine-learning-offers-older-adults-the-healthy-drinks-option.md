@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T14:30:00Z
 originalUrl: "https://medicalxpress.com/news/2022-11-machine-older-adults-healthy-option.html"
 webUrl: "https://medicalxpress.com/news/2022-11-machine-older-adults-healthy-option.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/johns-hopkins-artificial-intelligence-based-blood-test-detects-liver-cancer"
 webUrl: "https://healthitanalytics.com/news/johns-hopkins-artificial-intelligence-based-blood-test-detects-liver-cancer"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Analytics

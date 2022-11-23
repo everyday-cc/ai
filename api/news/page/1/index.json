@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-24-2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader.md",
+      "title": "2023 will be year of ‘hope and focus’ for AI, says PepsiCo transformation leader",
+      "excerpt": "The year in AI has been aspirational but ultimately unsuccessful, says PepsiCo's Athina Kanioura. But she has high hopes for 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/",
+      "originalUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/PepsiCo-Products.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/",
+      "publishedDateTime": "2022-11-23T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff.md",
+      "title": "Meta AI Unveils AI-Infused Diplomatic Charmer Which Stirs AI Ethics And AI Law Into Indelicate Tiff",
+      "excerpt": "Meta AI has released a fascinating AI-infused diplomacy acting app that plays the famous board game known as Diplomacy, doing so to a level seemingly on par with human players. We take a close look and assess the AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637dd91f8792833e25c808cc/0x0.jpg?format=jpg&crop=2117,1410,x20,y37,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
+      "publishedDateTime": "2022-11-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet.md",
       "title": "This startup tried to use AI to help developers write code. But it says the tech is just not ready yet",
       "excerpt": "The CEO of code completion tool Kite says state-of-the-art machine learning (ML) for code synthesis isn't there yet, and says it is stopping work.",
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -101,6 +205,101 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-redbrick-ai-raises-46-million-to-accelerate-the-development-of-ai-in-healthcare.md",
+      "title": "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare",
+      "excerpt": "(File) RedBrick AI, a Health-tech AI platform, on Wednesday announced that it raised $4.6 million in a seed funding round to accelerate the development and adoption of artificial intelligence ... about 90 percent of all healthcare data AI systems can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/",
+      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/09/ai1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/",
+      "publishedDateTime": "2022-11-23T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-lawsuit-takes-aim-at-the-way-ai-is-built.md",
+      "title": "Lawsuit Takes Aim at the Way A.I. Is Built",
+      "excerpt": "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html",
+      "originalUrl": "https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.amp.html",
+      "publishedDateTime": "2022-11-23T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -252,7 +451,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2028-2022-11-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -599,7 +798,7 @@
       "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1007,7 +1206,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1048,196 +1247,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-innovation-showdown-crypto-and-meta-vs-industry-40.md",
-      "title": "Innovation Showdown: Crypto And Meta Vs. Industry 4.0",
-      "excerpt": "Digital-industrial applications did not completely escape the hype, of course, and have triggered their share of disappointments. The reality of self-driving cars, for example, lags far behind the promise of a fully driver-less future — a future that ten years ago might have sounded almost within reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637bebf143f2b4ffba1a9f12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
-      "publishedDateTime": "2022-11-21T23:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-amazon-web-services-launches-aws-asia-pacific-hyderabad-region.md",
-      "title": "Amazon Web Services launches AWS Asia Pacific (Hyderabad) Region",
-      "excerpt": "Cloud service provider Amazon Web Services, Inc. has launched AWS Asia Pacific (Hyderabad) Region, its second such facility to augment services to customers in India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
-      "originalUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/ajfcx3/article66168232.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
-      "publishedDateTime": "2022-11-21T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-aws-launches-second-infrastructure-region-in-india-to-invest-44-billion-by-2030.md",
-      "title": "AWS launches second infrastructure region in India, to invest $4.4 billion by 2030",
-      "excerpt": "The investment is also estimated to create an average of more than 48,000 full-time jobs annually, which will be part of the AWS supply chain in India including construction, facility maintenance, engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
-      "originalUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/AWS.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
-      "publishedDateTime": "2022-11-21T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-the-speech-jfk-never-gave.md",
-      "title": "The Speech JFK Never Gave",
-      "excerpt": "While the bulk of the speech is no longer timely – budget spending, politics, issues of the day, and so forth – his main ideas and philosophies most certainly are, especially in our current political and social environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63715fb816756bee83fa64ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
-      "publishedDateTime": "2022-11-21T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

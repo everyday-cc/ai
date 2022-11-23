@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China could lead the way in self-driving cars - UBS"
+    excerpt: "China has the potential to replicate success it has enjoyed in EV manufacturing in the field of advanced driver assistance systems, according to UBS."
+    publishedDateTime: 2022-11-23T15:39:00Z
+    webUrl: "https://seekingalpha.com/news/3911086-china-could-lead-the-way-in-self-driving-cars-ubs"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1439528054/image_1439528054.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Analysts Like Mobileye Stock even as Outlook for Autonomous Driving Sours"
     excerpt: "Intel listed Mobileye (NYSE: MBLY), its autonomous driving business. The stock had a strong listing despite the slump in growth stocks. Wall"
     publishedDateTime: 2022-11-21T14:49:00Z

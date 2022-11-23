@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T06:13:00Z
 originalUrl: "https://www.marketwatch.com/press-release/car-voice-recognition-industry-2023-market-growth-size-demand-trends-insights-and-forecast-2028-2022-11-21"
 webUrl: "https://www.marketwatch.com/press-release/car-voice-recognition-industry-2023-market-growth-size-demand-trends-insights-and-forecast-2028-2022-11-21"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: MarketWatch

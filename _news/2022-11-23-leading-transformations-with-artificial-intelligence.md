@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Speeding Up The Use Of AI In Health With Redbrick AI’s Training Tools"
-    excerpt: "AI is remarkably effective in doing diagnoses; using AI, you can automate 40% of breast cancer diagnoses, for example,” explains RedBrick AI CEO and co-founder Shivam Sharma. “However, there is real challenge: these systems are not straightforward to build and healthcare in particular poses unique problems."
-    publishedDateTime: 2022-11-23T05:30:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2022/11/23/speeding-up-the-use-of-ai-in-health-with-redbrick-ais-training-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2022/11/23/speeding-up-the-use-of-ai-in-health-with-redbrick-ais-training-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/11/23/speeding-up-the-use-of-ai-in-health-with-redbrick-ais-training-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63761d470b4db37722365091/0x0.jpg?format=jpg&crop=1807,847,x0,y582,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
   - title: "From artificial intelligence to business intelligence"
     excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
     publishedDateTime: 2022-11-19T22:30:00Z

@@ -172,6 +172,15 @@ related:
       name: Deccan Chronicle
       domain: deccanchronicle.com
     quality: 19
+  - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
+    excerpt: "The Hyderabad region will give customers access to AWS technologies for data analytics, security, machine learning, and artificial intelligence. AWS has previously invested $3.71 billion in local infrastructure and jobs across India. The new investment ..."
+    publishedDateTime: 2022-11-23T13:09:00Z
+    webUrl: "https://www.rediff.com/business/report/aws-to-invest-44-bn-in-india-by-2030-through-new-hyderabad-region-service/20221123.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 17
 
 secured: "kFDzXveflfbz2xEx25+9YZGQJ4ufi9a7p+nJxw43fmZmNlukhB9L8hNvI+PZLlSjctl9XG1N0IRj8HdZRO0HjgUakiqOltNFS4MkyFVvTsShPbxDe7t/aXMMxQS3AVopNqe+zDltiftCD0IDygDetHIl5HHdZUDnrVPw1IQerA9rcD70lXxA8Ls7uNdtaciaTHsHvrRvzu2IKDm35oZzrKc2NB3P3jqlIqbHi2F/z539ojBPYfTwdkca3c0T0pzgkA4kujKZKQJxZRS4tIa4WalTVDBG3jQCidCWpBmZbWuyt2C+w0iay7901Ao2J59w/L6aeaidd+MgEyppOhZNPREykw52L2hX3CvkQ5m1O+M=;9UiaK+fJl9zGRtTjaMJjCw=="
 ---

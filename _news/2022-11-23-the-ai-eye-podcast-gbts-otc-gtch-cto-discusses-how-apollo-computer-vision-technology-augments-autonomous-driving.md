@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T14:31:00Z
 originalUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/11231GTCH-Apollo-Computer-Vision.asp"
 webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/11231GTCH-Apollo-Computer-Vision.asp"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Investor ideas

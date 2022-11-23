@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T14:13:00Z
 originalUrl: "https://www.miningweekly.com/article/ai-can-help-mining-companies-keep-up-with-modern-demands-2022-11-23"
 webUrl: "https://www.miningweekly.com/article/ai-can-help-mining-companies-keep-up-with-modern-demands-2022-11-23"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Mining Weekly

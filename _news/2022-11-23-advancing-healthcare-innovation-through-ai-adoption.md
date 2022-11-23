@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI in healthcare: Vast potential, ethical questions"
-    excerpt: "They’re also able to see more patients, which improves access to care. On the pharmaceutical side, you’ll find AlphaFold, an AI system developed by Google’s DeepMind. Using this AI tool helps scientists better predict the structure of protein folding ..."
-    publishedDateTime: 2022-11-18T21:34:00Z
-    webUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/"
-    ampWebUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
+  - title: "OM1 Aims To Improve Healthcare Outcomes Through Big Data And AI"
+    excerpt: "Dr. Richard Gliklich has been working to improve the management of chronic conditions by analysing health outcomes data since 1999. He is the founder and CEO of OM1, a health outcomes and registries company focused on the measurement,"
+    publishedDateTime: 2022-11-22T20:42:00Z
+    webUrl: "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 123
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637d3d820a7dd6c1d9817ef0/0x0.jpg?format=jpg&crop=2091,1176,x0,y282,safe&width=1200"
         width: 1200
-        height: 588
+        height: 675
         isCached: true
-  - title: "Application of AI in healthcare is bringing a silent revolution in the health sector in Europe"
-    excerpt: "Rajat Khare’s artificial intelligence investments are ushering in the application of AI in healthcare which has the potential to introduce new technology in hospitals across Europe European Healthcare Artificial Intelligence (AI) market size surpassed USD 700 million in 2020 and is expected to register a growth rate of 43."
-    publishedDateTime: 2022-11-22T09:46:00Z
-    webUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/"
-    ampWebUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
+  - title: "How mental health apps are breaching barriers through AI"
+    excerpt: "You are helping me hold on to myself, thank you.” This was a turning point for the mental health platform, which decided to focus on perfecting its chatbot- an AI-based emotionally intelligent ‘pocket penguin’ named the Wysa AI Coach."
+    publishedDateTime: 2022-11-22T12:07:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 62
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://bl-i.thgim.com/public/incoming/p9m9fj/article66169458.ece/alternates/FREE_1200/CCI_UDHindu_KSL_UCQ2VHUSA_R1512233381_0_5aaf3fc8-db7a-48d1-a516-3ae8a2141321.jpg"
+        width: 1200
+        height: 573
         isCached: true
   - title: "5 recent healthcare AI updates"
     excerpt: "Perimeter Medical Imaging is installing AI imaging tools at some Nashville, Tenn.-based HCA Healthcare hospitals in Texas. Capitol, a company that uses AI to help health insurance companies make decisions,"
@@ -66,10 +66,10 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "6 healthcare moves from General Catalyst"
-    excerpt: "From expanding its partnerships with more health systems, to investing in a plethora of healthcare startups, here are six recent healthcare moves from venture capital firm General Catalyst: General Catalyst partnered with its first health system outside the U."
-    publishedDateTime: 2022-11-18T21:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/6-healthcare-moves-from-general-catalyst.html"
+  - title: "6 ways health systems are using AI to improve patient care"
+    excerpt: "Hospitals are using AI to improve health outcomes, produce predictive clinical insights and improve patient care. Here are six artificial intelligence projects health systems have recently created and deployed,"
+    publishedDateTime: 2022-11-21T22:30:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/6-ways-health-systems-are-using-ai-to-improve-patient-care.html"
     type: article
     provider:
       name: Becker's Hospital Review

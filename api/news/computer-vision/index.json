@@ -358,6 +358,92 @@
       ]
     },
     {
+      "path": "_news/2022-11-18-another-opinion-facial-recognition-use-must-be-accurate-fair.md",
+      "title": "ANOTHER OPINION: Facial recognition use must be accurate, fair",
+      "excerpt": "The action requires a facial recognition system using biometrics, which generally use body measurements to match a photo with a person. Those systems are not as reliable as Batman or Jason Bourne ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
+      "originalUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/custom/image/b3e2ff74-9933-11e5-a144-bfe0ad02fa0b.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Goshen News",
+        "domain": "goshennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-crime-and-public-safety.md",
+      "title": "Crime and Public Safety",
+      "excerpt": "The case in Aurora is one of hundreds of times Colorado law enforcement in the past few years have accessed facial recognition software through the DMV or by using a program more than 80 Colorado ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/",
+      "originalUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/07/TDP-L-J_ELIJAHRALLY_RE_18.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/",
+      "publishedDateTime": "2022-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-house-dems-say-facial-recognition-company-made-baseless-claims.md",
       "title": "House Dems say facial recognition company made 'baseless claims'",
       "excerpt": "ID.me uses facial recognition provided by third-party services to help authenticate people who apply for government resources like unemployment benefits. In February, the IRS dropped its plans to use ID.me for taxpayer verification because of a backlash ...",
@@ -387,6 +473,40 @@
       "provider": {
         "name": "Politico",
         "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-new-under-screen-facial-recognition-tech-scans-for-real-skin.md",
+      "title": "New under-screen facial recognition tech scans for real skin",
+      "excerpt": "Under-display cameras struggle to gain adoption in smartphones due to poor facial recognition. But that could change soon.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/new-under-screen-facial-recognition-tech-scans-for-real-skin/",
+      "originalUrl": "https://knowtechie.com/new-under-screen-facial-recognition-tech-scans-for-real-skin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1026,6 +1146,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-15-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
+      "title": "In Apple's shadow, Google takes new route to face recognition on Pixel phones",
+      "excerpt": "(Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/10/07/in-apple039s-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/10/07/in-apple039s-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/10/07/1766845.jpg",
+          "width": 800,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-cat-pining-after-owner-when-shes-home-alone-breaks-hearts-made-me-cry.md",
       "title": "Cat Pining After Owner When She's Home Alone Breaks Hearts: 'Made Me Cry'",
       "excerpt": "A cat named Elie has melted hearts online after a video of her waiting by the door for her owner to come back home went viral on social media. The viral clip shared on TikTok on Sunday by the cat's owner (under the username Eliethehallwaycat) shows Elie following her owner to the door,",
@@ -1237,189 +1400,6 @@
       "provider": {
         "name": "Europe PMC",
         "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset.md",
-      "title": "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset",
-      "excerpt": "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1942241/MediaTek_Pentonic_1000_1022.jpg",
-          "width": 400,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-how-prodege-saved-15-million-in-annual-human-review-costs-using-low-code-computer-vision-ai.md",
-      "title": "How Prodege saved $1.5 million in annual human review costs using low-code computer vision AI",
-      "excerpt": "This post was co-authored by Arun Gupta, the Director of Business Intelligence at Prodege, LLC. Prodege is a data-driven marketing and consumer insights platform comprised of consumer brands—Swagbucks, MyPoints, Tada, ySense, InboxDollars, InboxPounds, DailyRewards, PollFish, and Upromise—along with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T12:51:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry.md",
-      "title": "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry",
-      "excerpt": "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/10/9710937.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

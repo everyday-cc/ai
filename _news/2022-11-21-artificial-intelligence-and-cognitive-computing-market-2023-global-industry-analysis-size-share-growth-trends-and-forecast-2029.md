@@ -112,6 +112,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Lock Market - Global Industry Analysis and Forecast to 2022 to 2030 | By -Dessmann, Kaadas, MI"
+    excerpt: "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Face Recognition Lock Market research report 2022-2030 The Global Face Recognition Lock Market investigation report is segmented by Types ( Black,"
+    publishedDateTime: 2022-11-23T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-lock-market---global-industry-analysis-and-forecast-to-2022-to-2030-by--dessmann-kaadas-mi-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "RwrMmUshQcfliPl22KwjQ0/6u8ov7dncaaOhzqrE79KF0flodDeZthJ1H9GXb6Zcn2VEFLCZDwAl8WDKSCHJ/fpsPJ2Rz3QrQd63qIN0uwVD8tYeTga4D+y6p+JSu1xzIFpWzIUzo7rfRbSCzJ24yXgMDQROiZENZ/WVTxzfDJsIx1FxIqEIeMJ2na9lt7p1rFCCnZcIO7Ww52GzFLGwM16V3H2bmWE1vfarVMeb6eDMvevyNVmrgf5s81jbrLJ7Hppx4zbkjIsXt/Jv/Di1cFAAeDH9o94uhXO98Zb4MGrnxWUvFddTeShxo0FcBCDg7oZYXe1F7o/WEZuSmzM9cU1GM0igyfOsCQUXdM4aBss=;mvlR1QzFVLhYfdigO5OPzA=="
 ---

@@ -70,6 +70,24 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Rise of the robots, AI, and the human partnership"
+    excerpt: "How will America successfully bring manufacturing and production back to its shores at the very moment our working population is in decline?"
+    publishedDateTime: 2022-11-23T08:00:00Z
+    webUrl: "https://www.fastcompany.com/90814605/rise-of-the-robots-ai-and-the-human-partnership"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+  - title: "The State of Artificial Intelligence at the Manufacturing Edge"
+    excerpt: "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge."
+    publishedDateTime: 2022-11-23T14:27:00Z
+    webUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
   - title: "Featurespace Secures UK and US Government Funding for AI Financial Crime Prevention Solution"
     excerpt: "Featurespace, the world leader in machine learning fraud and financial crime prevention technology, has secured funding from UK and US governments to build a new type of artificial intelligence (AI) system to help banks and payments service providers (PSPs) detect financial crime – whilst protecting data privacy."
     publishedDateTime: 2022-11-22T14:04:00Z

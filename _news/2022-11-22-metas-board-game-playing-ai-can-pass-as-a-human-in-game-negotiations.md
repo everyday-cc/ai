@@ -38,20 +38,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Meta claims its AI is better at diplomacy than most humans"
-    excerpt: "Trust Zuckerburg to sort out the world Meta claims that its AI is better at playing strategy game Diplomacy than most tiny mortals. Diplomacy is a game that involves players cooperating by sharing motivations and points of view to construct plans and alliances."
-    publishedDateTime: 2022-11-23T10:56:00Z
-    webUrl: "https://fudzilla.com/news/ai/55874-meta-claims-its-ai-is-better-at-diplomacy-than-most-humans"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://fudzilla.com/media/k2/items/cache/e10ec18d9285e5e85413480f6f82bba9_L.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Meta develops AI system capable of playing Diplomacy"
     excerpt: "Meta Platforms Inc. today detailed that it has developed an artificial intelligence system capable of playing the popular Diplomacy board game. Until now, Diplomacy was considered too difficult to be played by an AI system."
     publishedDateTime: 2022-11-22T20:12:00Z
@@ -66,6 +52,15 @@ related:
         width: 850
         height: 480
         isCached: true
+  - title: "Meta’s game-playing AI can make and break alliances like a human"
+    excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
+    publishedDateTime: 2022-11-23T13:52:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "eZL2QCSPHw2D3jonGCuBkqNFksh8V7wYQXQCkChPivP3PXULyNXIV2bQjqNeZTSTlsysyEaCaCTG5sYSfL1OhTwY3MsOwZZr+bnxVWc36NTCpSCH+Rpwv173TpActHonC8RWQvH1V4zDFvVAwXSs/Pp9w+4QRU+rjCUawukd9y8i+TmXrYYk+PGgSYNv3G+icAj5ugQL6l0jH9L0+M9fff7KleU0vBWqxYxWaSzVpyveIARaiIfN/STh+odPP6hA64zTWB77Tn63fv/WYkGbiz4G0mRqnbRQ2C9Yffk2mQyQZq0Fl0NkbgrJblkr0FZ34WzhuZFEksfccXjjyLFfX18it7RghDxOL8WR16yqLXZEKaxwhAL7Y7J4OVBmOxid1JEQyZ0CvDFGi0/qbly33LQZeNL2OrR1s3sBfmI/Ej0DiOxGGq6goKYx8/bO7zTeKliIEz8Ruw7WcS/sppa6fsUit3m3xbWF8JdHlSWpOHJq4ZixNO5RGK8MTPfrWe+mjI1iNdCJjS9JvpGS3TP8jQ==;NzfEQ502nVPlY/jJpwTL4A=="
 ---

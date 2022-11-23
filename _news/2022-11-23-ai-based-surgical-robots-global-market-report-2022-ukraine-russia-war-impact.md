@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-23T14:34:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-global-market-report-2022-/2022/11/23/9719025.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-global-market-report-2022-/2022/11/23/9719025.htm"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: TMCnet

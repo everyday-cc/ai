@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Lock Market - Global Industry Analysis and Forecast to 2022 to 2030 | By -Dessmann, Kaadas, MI"
+    excerpt: "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Face Recognition Lock Market research report 2022-2030 The Global Face Recognition Lock Market investigation report is segmented by Types ( Black,"
+    publishedDateTime: 2022-11-23T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-lock-market---global-industry-analysis-and-forecast-to-2022-to-2030-by--dessmann-kaadas-mi-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "WYpGrksrMv1QJbP3kVhg+fd9xGLk907qJdxGQggzhgYOmUWsAgg2jFDlGsonRblE/1nLW41rDVxgauvP2SxcMTh7E1T8NynQcDSqiT84wuuU4uaqexMn7HB/KjaZ29YufPSHbACtyNl8OkRhsqJ+2zHDXR45XTQYWxgUDwyJev+j/IGUZXgMftVhBQ3gZvm4hSHVflI5u0eR6tYBhW15YtJfBn9xYaEiPkEWsnX2bVmVDs/jhfaks7QykxNvWnnH3ESDbAWrG8DQhIPTLiPU3dVGhYLZ6OBTr9/VJb2epJKED9thTxJJmqUTed095ruesveIMzazj1VRw8sjBmFpPP4SlXalLIOtzkvRt0rJQXc=;n6sK8ys2peZjJZlJDlnIxQ=="
 ---

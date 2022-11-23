@@ -357,6 +357,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-10-atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution.md",
+      "title": "Atomic Heart: Rewriting the Soviet History Book For the Robotic Revolution",
+      "excerpt": "The year is 1936. Dmitry Sergeevich Sechenov, a professor at the Soviet Academy of Medical Sciences, has created a unique electronic storage device. Little does he know that his invention is the first step in a series of events that will result in a robotic massacre.",
+      "sourceUrl": null,
+      "webUrl": "https://me.ign.com/en/xbox-series-x/203091/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution",
+      "originalUrl": "https://me.ign.com/en/xbox-series-x/203091/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_me/preview/a/atomic-hea/atomic-heart-rewriting-the-soviet-history-book-for-the-robot_y5f8.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae.md",
       "title": "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae",
       "excerpt": "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled",
@@ -1304,49 +1347,6 @@
       "provider": {
         "name": "Marine Link",
         "domain": "marinelink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-this-indiana-company-is-mixing-straw-mud-limestone-and-robots-to-build-homes.md",
-      "title": "This Indiana company is mixing straw, mud, limestone and robots to build homes",
-      "excerpt": "The AI-controlled robot has pincher-type arms that can scoop ... such as Loren Wood Builders and Bailey Weiler Design. Costs will start to come down once the AI automation technology is refined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
-      "originalUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/11/01/NHEN/2acf12fe-d13d-45c4-809f-7f83c857706c-TR-Habitat_renders-3.jpg?auto=webp&crop=3823,2151,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
         "images": null,
         "publishers": null,
         "authors": null
