@@ -73,34 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Robotics innovation: Leading companies in collision avoidance for robots for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in collision avoidance for robots for the aerospace and defence industry."
-    publishedDateTime: 2022-11-18T15:28:00Z
-    webUrl: "https://www.army-technology.com/?p=271964"
-    type: article
-    provider:
-      name: army-technology.com
-      domain: army-technology.com
-    quality: 34
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/10/Robotics-in-Defence-1-2-1038x720.jpg"
-        width: 1038
-        height: 720
-        isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in collision avoidance for robots for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in collision avoidance for robots for the aerospace and defence industry."
-    publishedDateTime: 2022-11-18T15:29:00Z
-    webUrl: "https://www.army-technology.com/?p=271792"
-    type: article
-    provider:
-      name: army-technology.com
-      domain: army-technology.com
-    quality: 26
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/10/Aritificial-Intelligence-in-Defence-1-2-1038x720.jpg"
-        width: 1038
-        height: 720
-        isCached: true
 
 secured: "jQU7DvOJ3+gFWt9nZIHCGRy4EM8OvwLb8aeikZS0sUv1Y+ghWxvJxsr6DTcMZksbPjSIJ+rk6mPBoJIem6x/FVSsOLgMz9FOnspb9A0a1z2mlBGr7noRD2p09NpEzPiuP9a5qID8zpOXk/yGu1yzKzrppfCZBUYRid9EeMDM5upqlg1e6iPW/5GkuHy6j9knT8iE5vtdUbB1ziXP4fXcOPfJDgTFXUOCBgIXRGmTVjqHrAP5Ri6J+QvJi/1Nb9VYihERzgbtSQFVvb5J8vZvlFS6V1ywBKG2JlE2EGBGZVXvgPISJdJwSA4LLoO5xpFB1ATMo5oZtKh9C8Ks/xXB7yzq0VFpXjDmDttSdkyeLbQ=;TvFEwx4+KsvAbA6Wqz3K6Q=="
 ---

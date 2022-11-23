@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/ces-2023-robotics-innovation-award-
 webUrl: "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/"
 type: article
 quality: 84
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -67,34 +67,6 @@ related:
     images:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Drone-launching-techniques-in-Defence.jpg"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Robotics innovation: Leading companies in collision avoidance for robots for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in collision avoidance for robots for the aerospace and defence industry."
-    publishedDateTime: 2022-11-18T15:28:00Z
-    webUrl: "https://www.army-technology.com/?p=271964"
-    type: article
-    provider:
-      name: army-technology.com
-      domain: army-technology.com
-    quality: 34
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/10/Robotics-in-Defence-1-2-1038x720.jpg"
-        width: 1038
-        height: 720
-        isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in collision avoidance for robots for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in collision avoidance for robots for the aerospace and defence industry."
-    publishedDateTime: 2022-11-18T15:29:00Z
-    webUrl: "https://www.army-technology.com/?p=271792"
-    type: article
-    provider:
-      name: army-technology.com
-      domain: army-technology.com
-    quality: 26
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/10/Aritificial-Intelligence-in-Defence-1-2-1038x720.jpg"
-        width: 1038
         height: 720
         isCached: true
 

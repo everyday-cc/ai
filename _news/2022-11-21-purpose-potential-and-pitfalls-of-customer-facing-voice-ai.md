@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-custome
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "How leveraging AI can help you enrich customer experiences"
-    excerpt: "With customers’ increasing demand for personalization and engaging experiences, I’ve noticed many businesses are turning to artificial intelligence (AI) for help. AI can provide the data-driven insights needed to deliver more relevant and ..."
-    publishedDateTime: 2022-11-18T17:00:00Z
-    webUrl: "https://www.fastcompany.com/90814057/how-leveraging-ai-can-help-you-enrich-customer-experiences"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "BED8+1LBeI29nTWkn0kZOtpUV39rhTJOSz//k5Chj8hhrkAFL1uSp2k523ng2eakKPg1Jgj43LostPjXzNA4qp0jMhngKDhszHe5NvMY0lMJgu1hFtfiWvTHymC0SgpqfEvAt82EvmzKYPtw2unrMXxXwBmeIN4IX5NrwStFgrc4fFSLXM2kzH4gOUOeoyWAtrSARE8ogneVqcbZ/VP/ccrM19wwNTQd2NGmHElOZ7LstTcesRZ7UzIHKPi88AL2hapg1JfP4Dl2XpZNKr5QMeZa62ZxLyouCjqt5O2/OeWisBVHVpGNZaotOcq1fIeCQGhZSwJVaXFwH0w1Np61o4o1fSh3dcK9AIhUGfulzr6DtnHbI0g3UHTfEH0DH0pvPyMQNEifToRh+gsYzOUxvYudqCIpBKpjk9n9/vAae35XPf465k4QP/6T47/lV4jXQacfAZ83eNOI3K0G+HIfLTkzXSI69WY3YfykoZa1Uf8Gnf+o0+QaT85TQh//HTfoUJgHDyS6wpigCBTpfO9IoA==;KwPu7IskaN/mu+Js/9XN8w=="
 ---

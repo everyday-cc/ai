@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's Galactica AI can write scientific papers, but is it any good?"
-    excerpt: "Facebook’s parent company, Meta, has released an AI model called Galactica that is designed to write essays or scientific papers summarising the state of the art on a given topic, complete with citations, as well as detailed Wikipedia articles."
-    publishedDateTime: 2022-11-18T16:24:00Z
-    webUrl: "https://www.newscientist.com/article/2347520-metas-galactica-ai-can-write-scientific-papers-but-is-it-any-good/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/11/17170759/SEI_134032657.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Meta fires Galactica AI over controversial life choices"
     excerpt: "Left to itself, Galactica became as balanced as a Kayne West Twitter post  Meta has been forced to \"pause\" a public AI experiment after it started spewing misinformation and offensive comments. The Galactica project was meant to solve \"information overload in science\""
     publishedDateTime: 2022-11-22T11:10:00Z

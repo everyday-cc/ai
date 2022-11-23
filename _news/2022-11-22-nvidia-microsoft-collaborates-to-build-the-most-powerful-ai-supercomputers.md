@@ -89,20 +89,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
-  - title: "Microsoft and NVIDIA to work together on new cloud AI project"
-    excerpt: "NVIDIA announced that it will be partnering up with Microsoft \"to build one of the most powerful AI supercomputers in the world\". The multi-year collaboration will be backed up by Microsoft Azure’s advanced supercomputing infrastructure combined with ..."
-    publishedDateTime: 2022-11-18T16:25:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-and-nvidia-to-work-together-on-new-cloud-ai-project"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/08/office-engineer-pexels.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Top 5 stories of the week: DALL-E uses, Nvidia’s digital twins, Microsoft’s AI inference, Intel detects deepfakes"
     excerpt: "This week, news from Nvidia, Microsoft and Intel led our coverage. Here's the latest on AI, DALL-E, and how to secure the enterprise with zero-trust."
     publishedDateTime: 2022-11-19T13:00:00Z

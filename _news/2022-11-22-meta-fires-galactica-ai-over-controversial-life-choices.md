@@ -41,20 +41,6 @@ related:
         width: 1199
         height: 872
         isCached: true
-  - title: "Meta's Galactica AI can write scientific papers, but is it any good?"
-    excerpt: "Facebook’s parent company, Meta, has released an AI model called Galactica that is designed to write essays or scientific papers summarising the state of the art on a given topic, complete with citations, as well as detailed Wikipedia articles."
-    publishedDateTime: 2022-11-18T16:24:00Z
-    webUrl: "https://www.newscientist.com/article/2347520-metas-galactica-ai-can-write-scientific-papers-but-is-it-any-good/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/11/17170759/SEI_134032657.jpg"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "B9J0tdbJCs18dqwh9oAGlEOnc+ehOjj3sc+C0RP9Q0HlTlV5y0SwYg4PyvbYbH6a3IuFNQg0xTCiPfce3I/wbwRE6syk7D/OW3w6fS+Uha+gxJSxf71JRWaVtSal1aq/q1JzqbAfrfU0oVwZZwz0IMcGpDVAATMwCamxEk0EWUKqiwy56Ky2N4JIkZX2rAo+8G24z7j9aUEJrCyo4TUWTtNtmPFTeBl1B4LHXQlefM0Z855b0IDQlHpZK0OU6/0/Dg+GU9yLaoNWZ6NyCFmCL5ZxhtY65U+uWWVTUurBE1go16aSYArfqB9EMq+4pS3qD0SuBghIdLODwnMnnJlclnyyO0e++42l9XNESTkRk13qdOodmVyK+g/Ccq2uhQGeoU+MTonyjmrO0mtjUDjIE4IkO2UhYqYrEgxA0cnvTriSWTEnzCWJt0k+heqLh/+p/4KujCZC0kulhr9hTl5nVroC5FHQ4n6xypZFyJowNrA2fii1OvCM2bti9LTch2OzB8IsEvTTz8RuLXQa6vIMwg==;k6Ad3g231Tnyre6Wd0LV0w=="
 ---

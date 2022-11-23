@@ -1,26 +1,20 @@
 ---
 category: news
 title: "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry"
-excerpt: "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ..."
-publishedDateTime: 2022-11-10T17:38:00Z
-originalUrl: "https://www.wavy.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
-webUrl: "https://www.wavy.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
+excerpt: "The sports and entertainment industry is seeking new ways to increase fan engagement and provide world-class stadium experiences drawing fans from their homes and into live sports action. Today’s sports fans want to avoid long lines (upon entrance,"
+publishedDateTime: 2022-11-10T17:07:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/10/9710937.htm"
 type: article
 
 provider:
-  name: WAVY-TV
-  domain: wavy.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.wavy.com/wp-content/uploads/sites/3/2022/11/Pink-Energy-Car.jpg?w=2000&#038;ssl=1"
-    width: 856
-    height: 459
-    isCached: true
-
-secured: "O6GxoFydbAkUfFoQH2d4gKJJmQDyrNB6CM7FTlDbcXEuAKEvtvQgCnUQzOhmLiyYagTjDsORtppWp5TnrMFpPi9w2vgMf02krGJ8gkwpqHil22iszNuTFmR1Q3snMJgK406/Zm+uhZys9onLNge7pLf45Rhe9HxlABc8bVyrQ1px8UJOs3Bj4X5/3tbuYuujlpboSVy0FPOol3lVZ7wsNgpFncsKBzVgB+YzlUcJmxWHq2gWRaz6dEE3N0Q9VTKbY1AviOWnPukrTCEjwaPn8B4yWr1Epw9wjNDM0uL5A5FQF5t3gW17R15hD5dUlUlDul99j+mRy4yQEFD/6E6c0Q95nu1totXzEOkJvGFazik=;deIEe8Opm0SB2E93mZBBDA=="
+secured: "KO/jERpPxCXvmIvLs1j2NmXT6xu8BHnxULHTjP5wrEMvKbGw1E8JBOZyGKPN80Xk4cc/xHMyvnbYqJp/ceMApOoXIGAeGbkwJ+nuShkkvRpqeie6Rx1vxyTyDQionW0iwwGS+u+Ir2NGjuuOVkyMgP8IpBGtXDDl4XDHWAE5dY3bRwPyZ5WUZLP0hSACmi7O1vu5PJsHs5HXseipr81Zlr/scVl4FkfRpQx4A8jny8YWDQW02V9+wAwY4iHfDL7UD34DudDGlOi+p6q0daQIFUZpXq8KoF7zi8/z+OdQ0smI1wbR01ARAZovFIdDYKEUUnaD9Lp46QP0z82qGBZ0UIms7WVs5Jq1qZue05mtb1w=;cdNmF9IDHv4sKSpCFROk9g=="
 ---
 

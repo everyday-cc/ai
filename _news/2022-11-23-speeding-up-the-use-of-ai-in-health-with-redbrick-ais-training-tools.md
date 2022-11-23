@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How artificial intelligence is being used to stop retail theft"
-    excerpt: "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ..."
-    publishedDateTime: 2022-11-18T15:07:00Z
-    webUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-    ampWebUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
-    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
-    type: article
-    provider:
-      name: fox13now
-      domain: fox13now.com
-    quality: 76
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How a cloud-based data ecosystem is helping 3M transform the healthcare business"
     excerpt: "A bold rethinking of front-line physician workflows and back-office processes is streamlining operations and improving providers’ ability to deliver patient care."
     publishedDateTime: 2022-11-18T21:01:00Z
@@ -107,6 +91,6 @@ related:
         height: 675
         isCached: true
 
-secured: "yLlaaxCOkvqjgkQSoPVNtfmWsWMhfENKYNauaXJDngRetTd3PCoPYI5dXpA9WIddH75KBgfETOZKNLa3QmcAIsS2sRbaBe+PDaVz4gP59WaZrxeoGXTreEG9+Q89ZOK5XHFLgqRckf9eBEvS1WAr8kMHVgrSIc3ySAE6640o/LxWA8EKLRYeB/rrZIhmLbwfuLx4Qtg1xiHy/VvnZmzcFQoDu2kFEDua+qPSmDIBhetnWuc0VDavpNZZHwkzCRkYFrAUJkfTvTLJEQdppJ13Py33v+XBVNBTilTFqrhdH+kz+FmwScKEcFGOExv8pmL1dnGxXvSnyGtxn9jj3f+/Pre5GpbhNhWDES9T88Des2Q=;+X+qGZKqpCXtxkpKnY0v1Q=="
+secured: "ZrGqPi9tMPyGfNqRta8u1TbRXL3IUX+OHLCzDSonpppd0j4pNp4pjvbq65YnzC1kdY8o2Yt43b4IzIY04fX4bl9i1AklN1CZQivpisgw+YFOwBEyVwuf/6Ex1t7n/eWCFE2y7fiH5AYRbzQYvxSARyfSGE+7EeDC7qDLwUwauclNvbNrE2R4Av48EyEF6IJEAjuj9l/kcuSQovkPzCR1oGlbfsLemqNbzMhPFD/mdg1H9C296Nv6Ap3wrbPRyr2iBp2f4X88g0JYEo0QgzZoHLMD079fYsLwSLH5gPNyEFacF56s0hLFMxK7vePJpA+lb09lM7NlzKxm78MZ4Mec8XVcLBPMETOncLZTjxlYIFSci0A05Z/zdoFSvhAQEcHapBQ5c2m4DxDyU8WajhMH9/YqM9vNwIbShHuGiM98FulBQOAindGhBVKIdj8+A4jo8bM83fxxlR2pkwhQDxDNrOFadxJm70DY8lWt7Oip24+6ZLHv8Hgd/WpZesvkoQ85C9MlXEFSXXaUL064Ryf4CQ==;kbZAJ1HIvfdQ/a+TpKKBMg=="
 ---
 

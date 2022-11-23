@@ -3,12 +3,9 @@ category: news
 title: "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company"
 excerpt: "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate"
 publishedDateTime: 2022-11-17T00:31:00Z
-originalUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=mw_latestnews"
-webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=mw_latestnews"
+originalUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26"
+webUrl: "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26"
 type: article
-quality: 44
-heat: -1
-published: false
 
 provider:
   name: MarketWatch
@@ -28,36 +25,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "TuSimple Co-Founder Takes Control of Self-Driving Trucking Company"
-    excerpt: "U.S. government regulators are investigating whether the self-driving trucking company TuSimple defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. WSJ tech reporter Heather Somerville joins ..."
-    publishedDateTime: 2022-11-17T02:54:00Z
-    webUrl: "https://www.wsj.com/articles/tusimple-co-founder-takes-control-of-self-driving-trucking-company-11668642086"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-667998/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Why are Companies Reconsidering Their Autonomous Driving Investments"
-    excerpt: "Autonomous driving was among the hottest investment themes until a few months back. However, of late a lot of companies are rethinking their autonomous"
-    publishedDateTime: 2022-11-19T11:20:00Z
-    webUrl: "https://www.business2community.com/tech-news/why-are-companies-reconsidering-their-autonomous-driving-investments-02573958"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
-    images:
-      - url: "https://www.business2community.com/wp-content/uploads/2022/11/autonomous-car.png"
-        width: 1200
-        height: 714
-        isCached: true
-
-secured: "uVqX5ewylT+jdCSinzAWjoEx9urtlI8cBBqayjOHTAIuOhD3pmzRwTUDaCwi1KHJZ3nXVavqquplYAUEwFpVKBtiJrJM1/ztAXAd6hofZcqubGJdWbOgsWtn+mkdINOh9OOH+NLIPG8bf60GUtLwHC+GdCg+TC6nHVD8Y8Jre1FJIjH9Yz8b75YsbsovdapEI6BHgffV64Jda5jnhhBojrxJQd5+ETpq8PhLLuzDzrMBvyK3eu8VjeQI+OPOkSEt74poA0DPg863jxKyu56e4SqJ4nzMAjEIuTdXpV0zbVDIDpaq6MDPr1r6voj01J05nciOBeikrVIP6n3eFHxMkPRhhxFXReujA3RA6wAIKJvyl3Cn7/gqX21rWtH4N4yo+vkTWD2DVBGKhawz+EVy8tPR3DNq9OPGmZ6odSp+GJ+gTNnFb+dYAToTEZe2xkp6lr2eTu/6OwUU5mA0YrPSKuwAqM1kHnONQN+pT2UKEqItGTXtiuQhRzG0hYRQbWDFk8szFjlUXKW99H8AGg076w==;xUh54w7yXeYDnarV8uo8VA=="
+secured: "zwzMJowTjOu0VP0adLl5VpSElIQ1wC4I0w/JA93hU0l7Rqq+N/YSAvnlbaBqvU1rYP2i+IBoJ39Ke8kV3vRiO9HAZXtTbwyIT2oy7M4iMYviIy5BqQ1HR7FyGRrDZyNFYGaYibnBUEZISrK185KKx8A730tvTz7llFWSGl1v2GkE6srv4eJ5jTq68kRS3NRafWNG7laKICwwbtA7ZN3Cy/XOTLjX8RhqmK7zLoIPS2NDZFBhLrtkYqtzFbmtyRtcurN+4gdWqO/93Iqmt+LQnY2Y4LSzISindclUsldARHIy8zupLbvUOsKhtgG35IvNyLnIuR3k/dwimVEBjKKEMUm/SWxsoixDv8FivE2Anac=;gKYj72iTYIzqVU4ev4MmCQ=="
 ---
 

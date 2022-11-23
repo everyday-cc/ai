@@ -1,28 +1,20 @@
 ---
 category: news
-title: "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
-excerpt: "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ..."
-publishedDateTime: 2022-11-14T11:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
-ampWebUrl: "https://www.benzinga.com/amp/content/29695590"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590"
+title: "OneMeta AI’s Verbum Is More Than A Best-In-Class Translation App, It’s Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
+excerpt: "Having transformative technology and assets can quickly turn smallcaps into large caps, and OneMeta AI (Ticker: ONEI) has positioned itself to prove that point. That's no overzealous presumption. It's a sentiment based on ONEI having,"
+publishedDateTime: 2022-11-14T10:18:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
+webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1668104872.png"
-    width: 1222
-    height: 1091
-    isCached: true
-
-secured: "gGJIpJt+9JrURMjOmCqDuGfU8CtCAW6ai9rrlzQ7+bevjc1FMoPzSBRQZMERxJ8z8jDm32A9rzpQ3+7aBGYJ7Gff0Qh3VCj4zUP1RoWcnXs5hmGBJkFdhE1C09W8ZlmfMk9WBQEUIj+elVwQ3DGdLQQXV5BTYimw5poH9vA0dLYHq65xrMMJUDup3plBeBYUgGLp3d+UJ9SFy2doEeDUyl2f3bVYYSb5ruzPgIK8pQsdIxgJB886npiz4425VVz5WyCfOBFarVooYeSgufXCcrgyBI3P23rJKc2uawelvQaa1a+tKKmdFqZ6lkqYCN/3uV+MDIEJeYNerrUnhPTJeZcVP5xzsGSfNDagCdWP5dM=;UaUJfxb9xxJoLLE9d2w+gQ=="
+secured: "G6YY3/gFqNn97sZg9vD3j7NQ/n/P3HQJ59pAJ6jnEPBgLdENdJia6WTDf16bTE4AqBMhC5Kcp0dK24YnoB67jg5uA7fCUVtFNKCP0PZwxidGxpfFqInOQdqioQ5iVyFmDxSCBunE4CnMHuUajh7cxfP3gRluHuLWgK9aLBmpzqOfwrWvZSKfwjwaNg+X1O7E1yqX0Ik4nwtQYfp85ptJVuSKgVaUU8prkKLbLFjU6MxR1ElDamaDkawGj1Gr2M2BbnqiQ6OSsSq0my4HBVK//SmrMHe0MTQlqB9wf2+C07JHUIOC9ZHnwu8QeYmSx753r4ya+Nf6TmG8NgpZknjHJzo/uFG9q4jjnw1UZMdy1tojS/lS+hjs5hdjk6J/Jzfwt4xZRuHfRR4Z/xytWLiRBPyEgokaRcWc8wUcuXRtKjJjXdzs2IHuUFcjRpHXgFKIyUd818o6H8U7YrevmEjlfiTH9nU7ODtIvlMTgFrZF4Rsv0/3vwXjOVxS8tzPuEHxwngdlg/RjFMhUhD85eTK/A==;h8gVrwR1TCq0eWD0YpGACw=="
 ---
 

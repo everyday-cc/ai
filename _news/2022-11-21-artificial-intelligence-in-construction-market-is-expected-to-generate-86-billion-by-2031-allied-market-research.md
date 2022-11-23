@@ -21,17 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The"
-    publishedDateTime: 2022-11-21T10:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29800962"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29800962"
+  - title: "Researchers: AI in connected cars eased rush hour congestion"
+    excerpt: "The experiment is a project of the CIRCLES consortium, a group that includes several automakers and the U.S. Energy and Transportation departments. Other lead researchers are based at the University of California, Berkeley; Temple University; and Rutgers University-Camden."
+    publishedDateTime: 2022-11-23T08:08:00Z
+    webUrl: "https://www.click2houston.com/news/politics/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2GAG4X6LAREYREEQINC3D25YDQ.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "of2UeeFMEOIGkWAu9TSgToQPzLcAZ8ILjZ5jiibuJTfM7DPjZDw9rXFVIWy+DnGDDXTsaC6PqY0Tv2Y2FT07oQHChW+5wCw8gMdS+jcUwZjfGjauxKom0brXL8clIMCChuDKom6Wm8qRDgxaSLoylcWQ+vwAevqHIKpuigJVTaTm+536xUuIey4UMeO1lBTU45ARRvyb9EL6UtS8hwi4dmY6oDqH6DdbCtNmfr6ASIAk5ncPlfVSE8K7XLTEjQmLopYklDyi76njcECWhxOHbgx1F/yqR5xTPU/8+c3jNsJoiDOuSztlf52EwwEWw9ShQ0zDgesHtqLp6meGSiii8GwyER5mQSg41RipOnWy0S8=;Wc+Yn2Q1nuAEVt7zHXivsQ=="
 ---
