@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Credit Inclusion Fintech Propel Holdings Moves into Canada"
+    excerpt: "Propel Holdings Inc. (TSX: PRL), a Fintech company dedicated to credit inclusion, announced that it has entered the Canadian market."
+    publishedDateTime: 2022-11-23T02:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Canada-Flag.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "18/11 – Weekly Fintech Recap"
     excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
     publishedDateTime: 2022-11-19T19:48:00Z

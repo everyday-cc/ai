@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning (ML) Platforms Market Size, Share, Trend, Forecast, Competitive Analysis, and Growth Opportunity : 2023 to 2029"
+    excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 116 Pages Report\" Global"
+    publishedDateTime: 2022-11-22T06:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-share-trend-forecast-competitive-analysis-and-growth-opportunity-2023-to-2029-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Software Market Global Industry Analysis, Size, Share, Demand, Growth, Trends, And Forecast, 2023 To 2029"
     excerpt: "Nov 21, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 115 Pages Report\" Global"
     publishedDateTime: 2022-11-21T06:50:00Z
@@ -51,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cleaning Robot Market Size, Share, Growth, Trends, Demand, Development Status, Future Growth, Business Strategy, Forecast 2023 to 2029"
+    excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 108 Pages Report\" Global"
+    publishedDateTime: 2022-11-22T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-size-share-growth-trends-demand-development-status-future-growth-business-strategy-forecast-2023-to-2029-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

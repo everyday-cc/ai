@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Credit Inclusion Fintech Propel Holdings Moves into Canada"
+    excerpt: "Propel Holdings Inc. (TSX: PRL), a Fintech company dedicated to credit inclusion, announced that it has entered the Canadian market."
+    publishedDateTime: 2022-11-23T02:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/198951-credit-inclusion-fintech-propel-holdings-moves-into-canada/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Canada-Flag.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "K78XKrkBrMw1UXOP9t+kC9jCEPLIOuYrI3ByE0IQN5742+5gPzz/ThX+4wBkkFv/0PG2YugYPGaYo1+Occwn5H2405d+XDJNE45jC/Ovj99X8lgS9QKJf6Fz7EkIv0hnvzNYktaW1OceRlPUmQ6QulslTtGeRXHQLd56mIjmDTskNLCLaM1l8Fx/N4tMjoYxDhmMENPnG4QUbqr3j1ydO6T0qWcF7B8b2BFN4VHeAHpvWOOl/eUBMCyFBI27QdUAaQlN8paS85kZr9STY60t/2TUMlM7ZA+gvTc/62uZEyDXWQ6HmLA5jwaO+x8ovC7J7rb9KtyChqrJlZZHvP0G1GxJRBvZdgz2mlEXb+RxzTiv/Wrjr6Xpn47p8/b2D3WIK35mrLUVI+QbX2pDqrRGPd6Os9M3kQU1qKEltmqEIc28cTPg1le+jEUIIXfkKNBBzHtI1TXRbFOeAR68SRQb0ltuLG9j60rNSe/2Id99w1yOHrjmpIcHtYGZE4v6+vVdvQpmdxMO81PE5YaC4Fwiuw==;xwn9evGhnewyRJpLzgvKCw=="
 ---

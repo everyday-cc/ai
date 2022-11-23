@@ -24,22 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "An artificial polariton neuron as a step towards photonic system that mimics the operation of the human brain"
-    excerpt: "i.e. the basic element of the future photonic neural network processor. The so-called neuromorphic devices, i.e. systems that imitate the behaviour of the biological brain, which researchers are working on, are the future of artificial intelligence ..."
-    publishedDateTime: 2022-11-18T12:31:00Z
-    webUrl: "https://naukawpolsce.pap.pl/en/news/news%2C94391%2Cartificial-polariton-neuron-step-towards-photonic-system-mimics-operation-human"
-    type: article
-    provider:
-      name: naukawpolsce.pap
-      domain: naukawpolsce.pap.pl
-    quality: 20
-    images:
-      - url: "https://naukawpolsce.pap.pl/sites/default/files/styles/new_720_x_405/public/202211/43980852_43980837.jpg?h=871dd13f&itok=ZBA6hxIf"
-        width: 720
-        height: 405
-        isCached: true
-
-secured: "1XXCHivpzICiFtDnKOZvY4R2qF8ZywehFxxzPn2sRA4FdBb9aWO/51vJpQTXUjccQo0rhb5kzdjSOs6Gtv8/nYUsz0vXDT9si/jTkngekOJQhkVyDgVEON/A1d+8p8pKSpKQO1BQIfqoCNF8WZyG6em90QYNXnvA3mjN1IqdXq5yt1Ud2+IycDM6atPckilNac2rddeoSgqk1mRYzIo54aSaIppgNHxsgS4y4Tpln0p9abKmSUDOSqPapiFtW8lQduc+8bVCzJJ2oQEXBSycLiBzHgMRz+ZeI+I6lD9iS7J1CRM6GFozshXjyfTZIw8nKentdPo8tJEB5opxqoNaYY8NfyKrS1JSJQRc8oWUad8=;jOa/FOrsHGRX7bVZyjShAQ=="
+secured: "qJRkgQTW1LAXFaXl03RBFV1NPk8C/RB5EYeT6vKetlPPxFI1tuSXwRWgH6gA8HBD7IdW+muYm8WT4cxnaXz9PMKUWE4rYn4Z7rO81X7oYv0+njTD0zbGpaov3q6VD9/Y45UisQRNeajHU7El0sSitvJDuac1pdP+2Y5ngHrIhZ1XOrsuKxsaltJByOXsSxHKKKAsp5Db0IoIFWV02Iyc/VnQH/ABW/vHSQrKl5XxyfQQYiVaFcz+WsAawE+dQ3pbXpfQARwHY0zR/qK6o520JZiavhxzNotd3KuapqYxUDsP/TvOZYN51t7JFuPYRiTUBIYGOTJVOd96uhn7jg+VR0jbGdWpr3YuvJPoln0r/c68+gcfsdlO3mIQh1/aDI+ovUFFysFo4SC8qJdaHwJXAMx642jbEpnHMTpd5C9U8chUcBr7Taa49IyGG6cl6qqIxG0tIH4CM1DrU8ZU7XMEntvCfxcJrtjbkLHppikSs/yKa4uE3vTEUDS6oDmlt2cgRWvuBvzZLLv3fgiyjv9/fA==;Yvn9ZP9Oq95Sg6TVMAi/AQ=="
 ---
 

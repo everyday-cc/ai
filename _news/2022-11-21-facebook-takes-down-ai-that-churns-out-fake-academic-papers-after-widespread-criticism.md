@@ -7,7 +7,7 @@ originalUrl: "https://futurism.com/the-byte/facebook-takes-down-galactica-ai"
 webUrl: "https://futurism.com/the-byte/facebook-takes-down-galactica-ai"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1200
     height: 692
     isCached: true
+
+related:
+  - title: "Facebook Says It Has Created A 'Human-Level' Board Game AI"
+    excerpt: "If you’ve never played Diplomacy, and so are maybe wondering what the big deal is, it’s a board game first released in the 1950s that is played mostly by people just sitting around a table (or breaking off into rooms) and negotiating stuff."
+    publishedDateTime: 2022-11-23T03:29:00Z
+    webUrl: "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368"
+    ampWebUrl: "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp"
+    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
 
 secured: "5RPuyp1FLSHx0Gp/4dG5OjdaXgenZjSmIc6dhoxbbT7fnFxGEdcL71Nk+S2PFw4RBAuWShDk8/rGgY9kLRXPBdqcenTuCQtoV2d9T8a0+9fR+9JXbLp7wrqthsJUdeyLsVnKkdnhXL8bm8BpJxGDbX8arztEmI4YqTAw/4FYWqfTtpzeRJuwYDtiG06ZdZAtetm43dCOKtQIxF71LtHarMXID/rzDoccUQ5xhtl4ojHXuHEgI6uPXlGXy15jpf/u2A1yLvvUc0rBQ/QWdtuGITswnIFKvvX589oKiTVs4WMEPKJ05Ca2Qw2LslFgSv9X07quiDg1QW6vBiZp3pxTjUdq1o5upY5F5RInLsmlKpo=;O+HGoyvEhoYGo3AYbE+H6A=="
 ---

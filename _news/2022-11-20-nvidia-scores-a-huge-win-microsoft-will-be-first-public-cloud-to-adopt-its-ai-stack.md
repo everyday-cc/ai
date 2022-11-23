@@ -111,15 +111,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "Nvidia and Microsoft team up for ‘most powerful’ AI supercomputer"
-    excerpt: "The deal will see Nvidia contribute tens of thousands of GPUs, networking technology, and its full stack of AI software to Microsoft Azure cloud’s supercomputing infrastructure, which already utilises ND and NC-series virtual machines trained to work on ..."
-    publishedDateTime: 2022-11-18T12:21:00Z
-    webUrl: "https://www.techcentral.ie/nvidia-and-microsoft-team-up-to-build-most-powerful-ai-supercomputer/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 34
 
 secured: "q+ttUIxd1IAxfnBtA7jJtkM6brh5XWocwAoSzDRnLhZkJ1nfoSiLwOFWizWRRCLwUPt6uwsuVKRk0myqDfCUyTIVVowCNtjyqhfIOsRb2l4SGRVvPZT3ELnD5VBo4ZHCxvcqNrkDPjxirR2hFatkCpt6w333CWSO3G8oOZ4SdSWaEh32npHtaGSxZii/WZyIUFQfGNjQ8rvptGnXzVMsl8lQjVcVuDUAiK1UrUgPfTwQzUKhc1OrIn/PYz8ReQoFH+ybrG+/Uj1QKecNq54BROTg3wQpr5TVcKiLlSTu+v0PYXUeKtBaLYaKtWJNKWJ0xlyUyvZJywoy7yM4t7GFYswJ6kxFLtcGw9Erk20QG7U=;8W7UJ8BhHE+LEqdaC1d2PQ=="
 ---

@@ -127,6 +127,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 37
+  - title: "AWS to invest US$ 4.4 billion in India by 2030 through new Hyderabad region service"
+    excerpt: "Amazon Web Services (AWS) announced it would invest about US$ 4.4 billion in India by 2030 through a new regional service and support more than 48,000 jobs yearly."
+    publishedDateTime: 2022-11-23T04:48:00Z
+    webUrl: "https://www.ibef.org/news/aws-to-invest-us-4-4-billion-in-india-by-2030-through-new-hyderabad-region-service"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 33
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
   - title: "AWS launches infrastructure region in Hyderabad"
     excerpt: "Hyderabad: Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company has announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region."
     publishedDateTime: 2022-11-22T06:14:00Z
