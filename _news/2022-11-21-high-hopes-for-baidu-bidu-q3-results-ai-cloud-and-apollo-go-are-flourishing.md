@@ -19,24 +19,10 @@ topics:
   - AI
 
 related:
-  - title: "China's Baidu beats Q3 revenue estimates as ad sales recover"
-    excerpt: "Baidu Inc's third-quarter revenue beat Wall Street estimates on Tuesday, as China's search engine giant benefited from a recovery in online advertising sales and growth in its cloud and artificial intelligence (AI) business."
-    publishedDateTime: 2022-11-22T10:18:00Z
-    webUrl: "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 56
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--lD1uZzJ0--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-22t090727z_1_lynxmpeial09f_rtroptp_3_china-tech.jpg?itok=VYk1kTUw"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Baidu Announces Third Quarter 2022 Results"
-    excerpt: "(NASDAQ: BIDU and HKEX: 9888) (\"Baidu\" or the \"Company\"), a leading AI company with strong Internet foundation, today announced its unaudited financial results for the third quarter ended September 30,"
-    publishedDateTime: 2022-11-22T09:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-third-quarter-2022-results-1031930388"
+  - title: "Baidu’s (NASDAQ:BIDU) Q3 Catalysts: AI Cloud and Apollo Go"
+    excerpt: "Chinese internet search giant Baidu, Inc. (NASDAQ:BIDU) is scheduled to report its third quarter Fiscal 2022 results on November 22, before the"
+    publishedDateTime: 2022-11-21T09:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-nasdaq-bidu-q3-catalysts-ai-cloud-and-apollo-go-1031927806"
     type: article
     provider:
       name: Business Insider

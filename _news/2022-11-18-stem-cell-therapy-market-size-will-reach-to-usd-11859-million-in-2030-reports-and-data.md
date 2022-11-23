@@ -48,20 +48,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Lega-Tech Artificial Intelligence Market Production, Revenue and Status, Report 2023, Upcoming Trends, Demand, Regional Analysis and Forecast 2029"
-    excerpt: "Nov 18, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 111 Pages Report\" Global"
-    publishedDateTime: 2022-11-18T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lega-tech-artificial-intelligence-market-production-revenue-and-status-report-2023-upcoming-trends-demand-regional-analysis-and-forecast-2029-2022-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Audio AI Recognition Market To Surpass Valuation Of US$ 14,070.7 Million By 2030 Astute Analytica"
     excerpt: "Audio recognition is a rapidly growing field within AI, as technology becomes more and more accurate at understanding and transcribing human speech. This demand is being driven by the increasing use of voice-activated assistants such as Siri,"
     publishedDateTime: 2022-11-22T12:18:00Z
@@ -76,6 +62,15 @@ related:
         width: 373
         height: 250
         isCached: true
+  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
+    publishedDateTime: 2022-11-21T13:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
   - title: "Global Artificial Intelligence in Manufacturing Market Report 2022 to 2028: Players Include Google, Micron Technology, Siemens and General Electric"
     excerpt: "The \"Global Artificial Intelligence in Manufacturing Market Size, Share & Industry Trends Analysis Report by Offering, Application, Technology, Industry, Regional"
     publishedDateTime: 2022-11-22T12:04:00Z

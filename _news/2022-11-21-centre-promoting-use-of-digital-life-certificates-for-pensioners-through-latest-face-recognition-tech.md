@@ -53,20 +53,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Italy outlaws facial recognition technology, except to fight crime"
-    excerpt: "Italy prohibited the use of facial recognition and ‘smart glasses’ as its Data Protection Agency issued a rebuke to two municipalities experimenting with the technologies, Reuters reports It is noted that facial recognition systems using biometric data ..."
-    publishedDateTime: 2022-11-18T08:39:00Z
-    webUrl: "https://www.sb.by/en/italy-outlaws-facial-recognition-technology-except-to-fight-crime.html"
-    type: article
-    provider:
-      name: sb.by
-      domain: www.sb.by
-    quality: 39
-    images:
-      - url: "https://www.sb.by/upload/content/og_image.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Centre Promoting Digital Life Certificates For Pensioners Via Face Recognition Tech: Minister"
     excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and 'ease of usage', Union Minister Jitendra Singh said on Monday."
     publishedDateTime: 2022-11-21T14:52:00Z

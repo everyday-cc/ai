@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/"
 type: article
 quality: 100
-heat: 190
+heat: 180
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd"
         width: 5120
         height: 2880
-        isCached: true
-  - title: "Microsoft and Nvidia collaborate to build new Azure-based AI supercomputer"
-    excerpt: "Enterprises wishing to train and use sophisticated AI models at scale will be the target market. To develop the system, the duo will use the Azure cloud platform's NC-series and ND-series virtual machines, which are GPU-based instances. According to Nvidia ..."
-    publishedDateTime: 2022-11-18T07:38:00Z
-    webUrl: "https://www.computing.co.uk/news/4060415/microsoft-nvidia-collaborate-build-azure-ai-supercomputer"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 69
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/30f8a17/7f265084-11c2-4e5b-ad90-78ab96c8ebc1/2/NVIDIA-Microsoft-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
   - title: "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack"
     excerpt: "The biggest news, though, was a partnership with Microsoft 's (NASDAQ: MSFT) cloud computing segment, Azure, to build a new supercomputer. Nvidia says Microsoft is the first public cloud business to adopt its full,"

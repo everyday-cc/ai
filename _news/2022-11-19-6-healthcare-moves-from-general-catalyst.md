@@ -65,6 +65,15 @@ related:
         width: 1000
         height: 676
         isCached: true
+  - title: "5 recent healthcare AI updates"
+    excerpt: "Perimeter Medical Imaging is installing AI imaging tools at some Nashville, Tenn.-based HCA Healthcare hospitals in Texas. Capitol, a company that uses AI to help health insurance companies make decisions,"
+    publishedDateTime: 2022-11-22T22:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/5-recent-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "7l5XvjBNXqkIpqb9Fh/f4tdH7C5ggxIu/k89s0gYfTux5K5s8dztM6XS8ODD5FBGX75VJhALk2GchEaTdl+sXT4IopQZlMhBLhiBisbaRKoxKHPMh7sYyn69Yq3M0F1EWCc526e4EDTezc86e8nHmGA7gkE9ttMRdi94ODI7IFDrj7zlSr/DGnejbCr/qzMPuWRUTBm1w/vZb24Uwm6pt2uDZQqywKnJn/qZDc/Rojha7YXt11cf+wJuLON4iNfwsfBA9IIQMjAkyHq7gT3iV0BAKwVSliKpWGkCMLTHVN/pX/3Y6wY+EmUR9LBOAaM8Qb3rYylvZzic4j8kfFKK/GTeq/+3xXgZ+vQvaJ0nv0A=;mOX0ZMCLlEeROMQGdr6vBg=="
 ---

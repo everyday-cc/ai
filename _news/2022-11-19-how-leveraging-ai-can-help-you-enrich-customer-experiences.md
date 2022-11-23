@@ -48,20 +48,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Conversational AI Is Making Customers and Employees Happier. Here’s How."
-    excerpt: "Conversational AI is becoming increasingly popular as companies try to provide better customer service and reduce response times. Conversational AI refers to technologies that allow machines to have human-like conversations."
-    publishedDateTime: 2022-11-22T21:26:00Z
-    webUrl: "https://www.unite.ai/conversational-ai-is-making-customers-and-employees-happier-heres-how/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 38
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2022/11/ezgif.com-gif-maker-918x600.png"
-        width: 918
-        height: 600
-        isCached: true
 
 secured: "DRH9BoJY1JvvcZL7qtK1VXrvY0WvsgKiuOjDgODpWC4qQnhSgTNUWr0IZe+v2TURRoQJh4JVyuaJytl6XlOfpz7Kb0D7PdLTHF2EFbJeu6IgqvhqMNMR3THFq56Qd8sl7waSeHGdIauMwofygLBwL2kj2O4PPpUth85ho3xNXinZ4qa2sgR65LUHW+jYLniuxuoPG6H2eYqrD9EtWJKscLQS3AveC20MLHpGu/jEsql2ZBY9SkYqd/Ks6rY52aUBHCIzPh8SYwdEDDsmlF576/oXgpdHrPeEZt8iYm41EK1WSDHAthdTqSeG/cUgMBbCRAEyadlMi4TDy+NY7lZYo9OpwKYJR3K4+iXo/W7sp8c=;NwkC6PCr+eFbnyJOy9mDCg=="
 ---

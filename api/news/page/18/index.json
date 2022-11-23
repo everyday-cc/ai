@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-11-03-driverless-cars-will-they-be-on-boston-roads-any-time-soon.md",
+      "title": "Driverless cars: Will they be on Boston roads any time soon?",
+      "excerpt": "Do you ever wonder what happened to driverless cars? In this week's edition of Tech Talk, Boston Globe's Hiawatha Bray shares what some of the setbacks have been with the technology and when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
+      "originalUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wbur.org/wp/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-ai-ethics-four-essentials-cios-must-know.md",
       "title": "AI Ethics: Four Essentials CIOs Must Know",
       "excerpt": "All CIOs are under immense pressure to adopt AI-based technologies, and this demand will definitely continue to grow",
@@ -1117,49 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-google-wants-ai-in-one-thousand-languages.md",
-      "title": "Google wants AI in one thousand languages",
-      "excerpt": "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp",
-      "publishedDateTime": "2022-11-02T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

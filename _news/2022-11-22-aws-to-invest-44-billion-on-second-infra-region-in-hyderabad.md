@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AWS to invest Rs 36,000 crore for new Hyderabad region service"
+    excerpt: "HYDERABAD: Amazon Web Services (AWS) is planning to invest an estimated $4.4 billion (Rs 36,300 crore) in India by 2030 through the new AWS Asia Pacific (Hyderabad) Region. The construction and operation of the AWS Asia Pacific (Hyderabad) Region is estimated to add approximately $7.6 billion to India’s gross domestic product (GDP) by 2030."
+    publishedDateTime: 2022-11-22T23:56:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2022/nov/23/aws-to-invest-rs-36000-crore-for-new-hyd-region-service-2521126.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/nov/23/aws-to-invest-rs-36000-crore-for-new-hyd-region-service-2521126.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/nov/23/aws-to-invest-rs-36000-crore-for-new-hyd-region-service-2521126.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/11/17/w600X390/Amazon1.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "AWS plans $4.4 bn investment in India through new Hyderabad region service"
     excerpt: "Customers will have access to advanced AWS technologies to drive innovation including data analytics, security, machine learning, and artificial intelligence (AI). Further, the company is planning to invest an estimated $4.4 billion in India by 2030 ..."
     publishedDateTime: 2022-11-22T09:56:00Z

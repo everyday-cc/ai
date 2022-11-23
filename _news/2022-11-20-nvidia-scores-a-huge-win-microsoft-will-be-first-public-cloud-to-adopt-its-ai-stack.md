@@ -74,20 +74,6 @@ related:
         width: 5120
         height: 2880
         isCached: true
-  - title: "Microsoft and Nvidia collaborate to build new Azure-based AI supercomputer"
-    excerpt: "Enterprises wishing to train and use sophisticated AI models at scale will be the target market. To develop the system, the duo will use the Azure cloud platform's NC-series and ND-series virtual machines, which are GPU-based instances. According to Nvidia ..."
-    publishedDateTime: 2022-11-18T07:38:00Z
-    webUrl: "https://www.computing.co.uk/news/4060415/microsoft-nvidia-collaborate-build-azure-ai-supercomputer"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 69
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/30f8a17/7f265084-11c2-4e5b-ad90-78ab96c8ebc1/2/NVIDIA-Microsoft-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Microsoft and NVIDIA to work together on new cloud AI project"
     excerpt: "NVIDIA announced that it will be partnering up with Microsoft \"to build one of the most powerful AI supercomputers in the world\". The multi-year collaboration will be backed up by Microsoft Azure’s advanced supercomputing infrastructure combined with ..."
     publishedDateTime: 2022-11-18T16:25:00Z

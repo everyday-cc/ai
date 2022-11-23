@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/ai-in-healthcare-vast-potential-eth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/"
 type: article
 quality: 123
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1000
         height: 676
         isCached: true
+  - title: "5 recent healthcare AI updates"
+    excerpt: "Perimeter Medical Imaging is installing AI imaging tools at some Nashville, Tenn.-based HCA Healthcare hospitals in Texas. Capitol, a company that uses AI to help health insurance companies make decisions,"
+    publishedDateTime: 2022-11-22T22:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/5-recent-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "6 healthcare moves from General Catalyst"
     excerpt: "From expanding its partnerships with more health systems, to investing in a plethora of healthcare startups, here are six recent healthcare moves from venture capital firm General Catalyst: General Catalyst partnered with its first health system outside the U."
     publishedDateTime: 2022-11-18T21:30:00Z
