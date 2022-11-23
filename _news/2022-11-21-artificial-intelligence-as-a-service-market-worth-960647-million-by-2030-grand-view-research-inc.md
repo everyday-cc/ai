@@ -1,94 +1,38 @@
 ---
 category: news
 title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
-publishedDateTime: 2022-11-21T13:30:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
+excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The"
+publishedDateTime: 2022-11-21T10:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
+ampWebUrl: "https://www.benzinga.com/amp/content/29800962"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29800962"
 type: article
-quality: 3
-heat: -1
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 related:
-  - title: "AI in Computer Vision Market New Report by Global Industry Analysis - Share & New Technological Trends till 2027"
-    excerpt: "The global AI in Computer Vision market size was valued at USD 3571.46 million in 2022 and is expected to expand at a CAGR of 22.07% during the forecast period, reaching USD 11818.3 million by 2027. The report combines extensive quantitative analysis and ..."
-    publishedDateTime: 2022-11-18T15:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Devices Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Facial Recognition Devices Market will have significant change from previous year. By the most conservative e"
-    publishedDateTime: 2022-11-22T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "Stem Cell Therapy Market Size Will Reach To USD 1,185.9 Million In 2030 - Reports And Data"
-    excerpt: "The Stem Cell Therapy market has been segmented into key regions ... previously incurable diseases are beginning to be treated. The use of artificial intelligence (AI) and machine-learning technologies is leading to increasing expectations for more ..."
-    publishedDateTime: 2022-11-18T13:11:00Z
-    webUrl: "https://menafn.com/1105203266/Stem-Cell-Therapy-Market-Size-Will-Reach-To-USD-11859-Million-In-2030-Reports-And-Data"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?575779"
-        width: 531
-        height: 250
-        isCached: true
-  - title: "Global Audio AI Recognition Market To Surpass Valuation Of US$ 14,070.7 Million By 2030 Astute Analytica"
-    excerpt: "Audio recognition is a rapidly growing field within AI, as technology becomes more and more accurate at understanding and transcribing human speech. This demand is being driven by the increasing use of voice-activated assistants such as Siri,"
-    publishedDateTime: 2022-11-22T12:18:00Z
-    webUrl: "https://menafn.com/1105218087/Global-Audio-AI-Recognition-Market-To-Surpass-Valuation-Of-US-140707-Million-By-2030-Astute-Analytica"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?414041"
-        width: 373
-        height: 250
-        isCached: true
-  - title: "Global Artificial Intelligence in Manufacturing Market Report 2022 to 2028: Players Include Google, Micron Technology, Siemens and General Electric"
-    excerpt: "The \"Global Artificial Intelligence in Manufacturing Market Size, Share & Industry Trends Analysis Report by Offering, Application, Technology, Industry, Regional"
-    publishedDateTime: 2022-11-22T12:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820241/global-artificial-intelligence-in-manufacturing-market-report-2022-to-2028-players-include-google-"
+  - title: "Artificial Intelligence in Construction Market is Expected to Generate $8.6 Billion by 2031: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global artificial intelligence in construction market garnered $496.4 million in 2021, and is estimated"
+    publishedDateTime: 2022-11-21T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29807178/artificial-intelligence-in-construction-market-is-expected-to-generate-8-6-billion-by-2031-allied-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29807178"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807178"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
-  - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
-    excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the forecast period. Most organizations across the globe have years of stored video footage,"
-    publishedDateTime: 2022-11-21T19:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/21/9717846.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+    quality: 17
 
-secured: "BZyHJ7b6dT/nzsWnt426oLO+/fVWGjF9ksvx8JeQVXPa/t0OoClQPiJXx7oVbeJB7GeexC1hBtDPnyz8vPITq7yhK0i3Wc/F2MJa6euZDLnFpp0Mn/5z+1i8dwGQMseRSFQjB7rs3x3h+VbzTgONvkC6NRjouDJS/Rxjynm9P2v/aB+HaioUgAIdA+dfssXGBMgnWQGD0TMSwD2417UzjzBjo7ZhsNVY1kNrWbZ7HZaaWYv+HyLG1IQP7SQcJ0azfuG9WFd1DHwSUbjOqIB+r8Ra7SkKqiLUAm4nejewdpx/TarJT+jce9MajAzuYN6refuJqQgM4xA++Kzhr9T8NXf1rgSorRix2v0W75Vv1Ls=;0dtmOZBa90b41kpUOXOgfg=="
+secured: "hf4nuIcSaSu6nf1AEXXQvSNB2IkfWSdiNo6l0Dkm1UG89z0GSxxRRgWp6B9zpsahvKlEbwwLzKR9lUVc2pU4UYRkjZ4fQkyNfJodt6k4v4b49ACAtwerrKO9cqR8YNwTAr/SeFmtKRRORslh5+hCM/IS64agPv3quOjEuiKSDV6B/tSN8wWm1GteqkHxZUGr+6qbb4Bg8f7fLpyjopWIgjESWm8mKCIgWL5PthqoIhlYOXRSEbH+zgk/t1rXKOG3DDVG/l/6sDFykuNbCiUWLiCk6dIJfHR2/xWzJCKzOqogv0y9nlzmD9tM+4beCRfi/gbsW2Z+ctCVTax3fajeI4RuAQy5fnOvlNvqDq/86ZI=;4cdP01nLCn0dOFBUhm7ldw=="
 ---
 

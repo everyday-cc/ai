@@ -1,10 +1,10 @@
 ---
 category: news
-title: "China’s Baidu Sees Little Impact from U.S. Chip Controls"
+title: "China’s Baidu Sees Little Impact From U.S. Chip Controls"
 excerpt: "A company executive says the search-engine giant’s AI and cloud businesses don’t rely heavily on chips restricted by the U.S."
-publishedDateTime: 2022-11-22T22:02:00Z
-originalUrl: "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120"
-webUrl: "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120"
+publishedDateTime: 2022-11-22T22:05:00Z
+originalUrl: "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120?mod=newsviewer_click"
 type: article
 quality: 84
 heat: 94
@@ -44,6 +44,6 @@ related:
         height: 676
         isCached: true
 
-secured: "p2E67vGutodIW6x5o0LWycpIRUwkl+6ZcolXwxoWMjRBCT8QbW35mti/Up0ijqF9/uVIJ41zjy0vPdF+/brdPEdZ4RUaPhp1+o6leVz/KoLMdcayMeO34iEpLZQ8IjWAMoqUYZhsKRPTPApLfOkYnc3UAlHm5WGOFjUEP8nmgXLN3WQBdAAqKifLFwK155VcHgLANRoGyMKNgwaq/L4FRKG8azZm1cLkfZGtNJMk/7VfYp0Syg+htVDOHxTaMxhfaE/W+jzX4lPxjL8L16K9JEY1vtUV/txWRqreJEhRKfCTjhHbRcIqM1BEMHrAudj8SV9if15HiZaP6cOJdfH9iR00HiVcmFm995o4w33Ww1E=;BmbEvDJSkV3HDBxBpnIgKg=="
+secured: "eSijlUm1ReU6rmfxaTUUrkNBCRvuOyJh1PgrgXAfOCISjQNFYaV9/fIKMxcK73BppKU5CpY3uxTMGwQFr2qidooE3zVShMYknj6SK4n56t2YbT5EDaykkuv0H7tfSinV1WCkIIzrFzFS6uGAK78cBmrbJuOd6WTk/bty6G7qPFzMqCNJ8daT86Mm20/t7RCwflPch9kyYg5ePpmEjmLFBNP9sxSFYrvPbt76dIu+S1c2PNec6cDMbbFdeuS1L4rIcsFkbwVQJCadHU7Yi9EYWpbocOAk/rm5fVswlJvZg0IiqxT8uCZgbOu4rPgNYgCwtwR6XBe3fZa3rw2lTc7/OsMGn73hxjcllXbDjd78TsA=;G5CkBh7EYEhboOWan7PS5A=="
 ---
 
