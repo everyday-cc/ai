@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-bett
 webUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/meta-4.png"
         width: 850
         height: 480
+        isCached: true
+  - title: "Meta launches Cicero, an AI that can play Hasbro’s ‘Diplomacy’"
+    excerpt: "The AI agent uses natural language to achieve diplomatic resolutions among human players. Meta AI this week announced the development of Cicero, which it"
+    publishedDateTime: 2022-11-24T10:12:00Z
+    webUrl: "https://www.techzine.eu/news/applications/95237/meta-launches-cicero-an-ai-that-can-play-hasbros-diplomacy/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/shutterstock_678583375-7.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Meta's board game-playing AI can pass as a human in game negotiations"
     excerpt: "An AI developed by researchers at Meta convincingly negotiated with humans while playing an online version of the board game Diplomacy. It was also ranked in the top 10 per cent of players"

@@ -38,6 +38,20 @@ related:
         width: 750
         height: 503
         isCached: true
+  - title: "Papercup’s Bloomberg Win Highlights Growing Adoption of Synthetic Voices, AI Dubbing"
+    excerpt: "Papercup just landed a two-year contract with Bloomberg Media — signaling that a broader swath of clients is growing more comfortable with synthetic voices."
+    publishedDateTime: 2022-11-24T08:25:00Z
+    webUrl: "https://slator.com/papercups-bloomberg-win-highlights-growing-adoption-of-synthetic-voices-ai-dubbing/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 32
+    images:
+      - url: "https://slator.com/assets/2022/11/Bloomberg-Papercup-Machine-Dubbing.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Amazon backed out of taking a stake in Argo. Then the self-driving startup folded"
     excerpt: "The online retailer was prepared to invest several hundred million dollars into Argo last spring, sources told Bloomberg. Amazon planned to use Argo’s self-driving technology to automate some of the electric delivery vans."
     publishedDateTime: 2022-11-22T11:25:00Z

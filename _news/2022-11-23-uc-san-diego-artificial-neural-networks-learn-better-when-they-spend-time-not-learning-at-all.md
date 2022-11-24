@@ -57,15 +57,6 @@ related:
         width: 770
         height: 514
         isCached: true
-  - title: "Artificial neural networks learn better when they spend time not learning at all: Research"
-    excerpt: "Washington (US): Researchers discuss how mimicking sleep patterns of the human brain in artificial neural networks may help mitigate the threat of catastrophic forgetting in the latter ..."
-    publishedDateTime: 2022-11-19T18:12:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-research/95626126"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 9
 
 secured: "Rmh3kUU6hjKNv154oISx/HhzfLz2V5HENsimIEGuMBhm2jXnsqB+6jLbH2JkOJzhWuvbIqqMGhuDf/99kvLGe6sRUcQbY72/UUcE6d1bxH3kEYaSo01Kl+cTWuw8mDtVWYE3I/5kDfcxTDTArOc+dJMrZruZRRTllTpmWDfUi2Ad+nco5a3ngWLSirjWYT6t8EiUSERNHFdpd8EYm5nsicDCmntmRoohHbhscItqb/q5dHQcp5swBa1l2OfGvicv/sgWq3I/I5CR7vPoCCvEf+TGfoFc5p4P2Dcgoq4yfXF0mlaKsVICzeXuIr3/RAGn/AesuX38bDc7A6DV3fviO/kTzFP7HD5TLadO8cekE15pSjfyMqM8p5CLtDpB+CqjPHBXphSmclDiQHLRnJRkCNBsGNH7NDIZqpacPwkpRvysa1IZrJozWVWBhQcKZuA989zSM03fqCsdAXqlCnb7Pxa05Oeq95xv3rmQxnYtfPEMFhHIGJFtzBir5biKQxIG7znPj/WnX2rdAL7Y5eHbGA==;dF4xqbzghNDQQmW1KlntqA=="
 ---

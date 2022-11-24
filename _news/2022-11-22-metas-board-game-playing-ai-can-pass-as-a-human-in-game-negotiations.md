@@ -52,6 +52,20 @@ related:
         width: 850
         height: 480
         isCached: true
+  - title: "Meta launches Cicero, an AI that can play Hasbro’s ‘Diplomacy’"
+    excerpt: "The AI agent uses natural language to achieve diplomatic resolutions among human players. Meta AI this week announced the development of Cicero, which it"
+    publishedDateTime: 2022-11-24T10:12:00Z
+    webUrl: "https://www.techzine.eu/news/applications/95237/meta-launches-cicero-an-ai-that-can-play-hasbros-diplomacy/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/shutterstock_678583375-7.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Meta’s game-playing AI can make and break alliances like a human"
     excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
     publishedDateTime: 2022-11-23T13:52:00Z

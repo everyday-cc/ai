@@ -7,7 +7,7 @@ originalUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-po
 webUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-police-want-to-use-robots-to-kill-criminal-suspects/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 480
     height: 267
     isCached: true
-
-related:
-  - title: "Waymo can now provide fully driverless rides in San Francisco"
-    excerpt: "Waymo can now provide driverless rides to passengers in San Francisco. On Friday, the California Public Utilities Commission (CPUC) said it granted the Alphabet-owned Waymo a permit to participate ..."
-    publishedDateTime: 2022-11-19T18:24:00Z
-    webUrl: "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/nKYxlCmZtKON5e89PGJxO0QiW0w=/0x0:5154x3372/1200x628/filters:focal(2717x1815:2718x1816)/cdn.vox-cdn.com/uploads/chorus_asset/file/24211424/1390904981.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Waymo Will Offer Driverless Rides To Public Soon"
-    excerpt: "The latest reports prove that driverless rides are not safe. At least, at this stage, none of the major carmakers is able to provide a safe autopilot feature. However, everything is changing in ..."
-    publishedDateTime: 2022-11-20T07:56:00Z
-    webUrl: "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/"
-    ampWebUrl: "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 74
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/11/Waymo-One-Offering-Driverless-Taxi-Service-in-Phoenix.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Fully Driverless Lyft Service Coming to Los Angeles"
-    excerpt: "The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless service in the second-largest city in the US. Following a rollout in Las Vegas, Motional's all-electric ..."
-    publishedDateTime: 2022-11-20T08:08:00Z
-    webUrl: "https://au.pcmag.com/cars-auto/97374/fully-driverless-lyft-service-coming-to-los-angeles"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
 
 secured: "5mgoI8er2QN+G8It6OZVRUqnU8qUC3DZWU2ElESp58JsX9df11tJYH5wXHuubyygy+ebtiaCuNnTZa8fRnn4Qzy6D3jCAUJIPd6wWN5isKtlbZpE1yAszdgEHqSrClLPdo8S8N7D0qmD88rJ81FtGH4SD3fCH8rOaUK2WhIIjqYQpxN7XQ1wdcgKyhomCNqPrDnyP3INFufBi6RWFa/zoLfyTYjJvKY1pgJDSNThJWZxkbkPFtwFCkfCUhLv9DEaa9IXwBqqQpwT39toFMH7WNfLjyfoccnV2nhFicYX+FkhAxAExftoqhdw8UJGkfLmI6X7mz/WmhCYe0TW6onowDIoHYpi7NzPpc4079Ri1s67CVV7cPAVP3zCNTyWuVeus8b6rBizLJHnWcgM+mNR1F5Dxe7MPLdhEYSxncMBKli4/Wgl+Vm0gSbPuGsgv/uADj+K2yzx8lFCBtnLVfDi3dCu3er+raopsT2NN84bdvBLKYU9yE9FIa5kE1E7Y1uTPk5GhzwG/ERiCsiMQcwZ1Q==;oHwTv49wCipswtS2Pkt6AA=="
 ---

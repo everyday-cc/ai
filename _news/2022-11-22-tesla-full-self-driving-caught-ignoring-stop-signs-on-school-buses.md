@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Tesla reportedly places massive order of next-gen self-driving chips with TSMC"
-    excerpt: "Tesla has reportedly placed a massive order of chips for its next-gen Full Self-Driving (FSD) computer with Taiwan’s TSMC. The order is so large that it might make Tesla one of TSMC’s biggest customers. Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon."
-    publishedDateTime: 2022-11-21T13:01:00Z
-    webUrl: "https://electrek.co/2022/11/21/tesla-massive-order-next-gen-self-driving-chips-tsmc/"
+  - title: "Tesla Full Self-Driving beta now available: Musk"
+    excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
+    publishedDateTime: 2022-11-24T10:30:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/tesla-full-self-driving-beta-now-available-musk-770531"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 45
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/11/24/1321986-tesla.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "TSMC rumored to make Tesla's next-gen self-driving chips"
     excerpt: "EV maker Tesla is rumored to have placed a massive order with TSMC to manufacture its next-generation Full Self-Driving (FSD) chips, potentially making it one of the Taiwan-based foundry's largest customers,"
     publishedDateTime: 2022-11-22T04:42:00Z
@@ -42,6 +47,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Tesla just unlocked its full self-driving mode beta in downtown Toronto so look out"
+    excerpt: "Today in things that might not end well for Toronto pedestrians, Tesla just lifted a geofence that, until now, prohibited drivers from using Full"
+    publishedDateTime: 2022-11-22T13:14:00Z
+    webUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
+    type: article
+    provider:
+      name: blogTO
+      domain: blogto.com
+    quality: 13
 
 secured: "jKP+qFn3tJapplOPlai/u4W1Z184UhOF9/rCY4ZRnWp8V3ZQaFYqTQdUxBL4/uvVcKVh3iVsW0wFslZvCr1LQp3T6IrX7N8F47Xk+fUmQx3mqJFiQ/sS6wRPTzZ9m+Whau3Qs5MB8wgOLM/GWLF35fakXzQQWbmnrqkgpy8UpP0BRBFF/U8B6kSa30MZVOLC2eNuRhShBxnR/dkoPas5+0phVxhaOwReX12rK7Gi79gxw/zGRjgPa+Fhzj6HBcqDmoahxMSlzQ5jAXed+aweXpzsAuzQumTobvqOouqg9c3cWCBHB1V9U7umExOwIK8us5KNlfN09Empe5O1aMsd2PkCbAWA1VfvEuOy+NbDozKHU6/DABcLLeq+FPG0McvOzff6Q+vEde/QEE+fQXPq0/1gzXSW8IZW5kpsFwtF+qMnHoqqr3EscluNQ8cby1rra2KdnZjJpyWe9jApmwmJ3n/C12m+lbtoVD+3K/WlNMcvstQDnCvRFAi+y8eNS0jcsVI3o1NHLl6ZOK5VBoVJpw==;CmyvsjdchkeAPTirurAEDg=="
 ---

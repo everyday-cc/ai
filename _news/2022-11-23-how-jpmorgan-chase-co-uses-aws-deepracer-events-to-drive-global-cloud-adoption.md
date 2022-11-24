@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-c
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/"
 type: article
 quality: 116
-heat: 116
+heat: 117
 published: true
 
 provider:
