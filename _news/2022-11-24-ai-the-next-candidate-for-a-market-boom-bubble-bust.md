@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "FbN79bqjXBQxy2t7OiD8Ao1szzr92gscpV4C01HJi/xfsFxbVClY3sFa/nfPQlgKII2BUF206CTZ9V8KWXfUxyUZWCnNouXl4j6MDnko99To8V8JmXoN2aEk6Prjc2ZJPZWEFXm9kR3zHRYSWuQ0fmEH07OoJkKYW8miEhY9qvLlyUslPifSyWAlGLcU47gxuta4UdYBTBn8Cg3cmF0GOep0f6LgQm/GCC29Unxbw9Y0xnbBDsGb1Zs8bZBpPnFqynZCqwnEL5v6vJXT7zUX8FBtrwizpI5k7NkDSVOFoMNPrwjqlYPbZDtzohSNBNX0CQYjFBqrutx7BmFMqWoFckomNr6IwJwM5kqaxlwvIBo=;RSuogjzV2MEFDeZ4RqLA2Q=="
+secured: "Z35LFc19ekZNxEYGMD4S9Tjp0u2erwOXAXivArFSPm21JF4C5hXyLxaV8EqSgLc1KKjHdArT+NAMPPYEXjMmZzdcZNBc/xMSsNHzNTu5L6xIJnzRGKJtXjXMmYJvqbotBi8RBzAeSkrXE5mNCIwlj0lTUGAYRxtEmrkZ+JzgcQLQJLqRHpMJhAUk1Bl4FbxtgnvWZ4O5NRPcLBpOqtSqjnENfMDsXU1AoIyen0kUAYpRsh20+UYEBaT6oQO+Y4glrqoB4Ham1KMunBrwpfNYg3CYptzeotYUxBRRIcLwu+87X5P6RBiRPnZ491gb0AWTI01npsZUEc2gVNvuNSEKtj9uJSaZQIm6b6sieaFoAzy0JInAGYu+MnuXZOqVOJyguipnvnV3t3f4eJLnxQU8NlGc47rKN7qSbI1DSfHUVJ3WuZEMgCm18Tpk8iSm8Qj2zmghB/Jos5YEJ6ZxdFCbWTYZHty+Eir2ViKfovXaoiwOQ3VTd8LfaSZMHcmy+EuNAbayu/YqlRFU7E44TNeoSQ==;194dm0hjeqypNkXAkFQXGQ=="
 ---
 

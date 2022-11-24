@@ -1,45 +1,20 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
-publishedDateTime: 2022-11-23T08:08:00Z
-originalUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-webUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+publishedDateTime: 2022-11-22T17:08:00Z
+originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://kesq.b-cdn.net/2021/06/kesq.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Researchers: AI In Connected Cars Eased Rush Hour Congestion"
-    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
-    publishedDateTime: 2022-11-23T16:40:00Z
-    webUrl: "https://www.post-journal.com/news/latest-news/2022/11/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-    type: article
-    provider:
-      name: The Post-Journal
-      domain: post-journal.com
-    quality: 37
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2022/11/23093507/Phantom_Traffic_Jams_15218-750x500.jpg"
-        width: 750
-        height: 500
-        isCached: true
-
-secured: "UYFOPKAomMlY2PNXAZCeP+2fuXNoCkWSpPcUCNLHVH1NU2w8nzJrD1tolrE79B7w4BREQoy0lFOADFOEzgEIVsg80OzzxtFfA7MC8zi0mVQC6sa/Vo0Sk40N+M2C8eTv4OIBI1vh6vIsKt6Wz0YeelgvpnWsNlDFMieDibrvd6yzvQ0xZWso4aE+VBIW3gDKAsgnWPgub96dgtxnb7arHGk/l+T2sfHKlxxKrpqAGDMLHS/FiAKu5uqDTK5kuQbrzCLv2BqgFYtWIHgf8ShS+tBrEG/Vm5GqqoK12xTI3CbSg4MbcfgTI6+snvKkD7QdRDkBCeB1/UV4D3C0Yub8DYV1j5PhRb3bV3kB+GEzrI0=;SARHkO2tq/Vcw/Nni6COHw=="
+secured: "CIkR12LlSYDcrd2DhjIDShQUdbmYsFqFAojhUlVX6n/os8r0fbDAD7rjb3pbdQeO9yrUFA1QiuROwidfTgo9I5tBzIcjwNjkKGZbOmC/ul6EsoILhBGgaMA7Y6hsp7WZK+N2TTYxeFkMONELPOtHiMdcqr3YqVuCHQ2+HQ/OqJ2kRGisNbKLCjKr00dmnR4r93xNO97P854BgZBQUb3XjFuly0/5ZYmKcX5CjS/fi5/8vgrXEW/drHlTVEe7Al9eH5ywQwvXOYLv6x5/T1c7xR7BK722QAZ9GtOHPWe2LQi3UV1Db79fvO8t8RR+tmDQSiFPaY+SlEC3SSdMO3a8wWzBVJMDi9AnWqIKRkesfJo=;IOYPzzxyaIAhOlxDZwTNFQ=="
 ---
 
