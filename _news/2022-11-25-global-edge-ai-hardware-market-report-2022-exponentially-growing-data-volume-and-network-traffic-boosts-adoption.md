@@ -1,20 +1,36 @@
 ---
 category: news
 title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
-excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period. The major opportunities for the edge AI hardware market include the growing demand for IoT-based edge computing solutions and the rising adoption of 5G networks to bring IT and telecom together and dedicated AI processors for on-device image analytics."
-publishedDateTime: 2022-11-24T20:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-global-edge-ai-hardware-market-report-2022-exponentially-/2022/11/24/9719518.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-global-edge-ai-hardware-market-report-2022-exponentially-/2022/11/24/9719518.htm"
+excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
+publishedDateTime: 2022-11-24T18:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
+ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
 type: article
+quality: 18
+heat: -1
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "TP7uUhUdeurKrf7K0X2rTsrMAocv3L8+ZVFlvDX5uWXSUG/Cn/ysnZdER5eV0k6M2jPl1Q8oMtd2D+ukwZaNCL9ggzHyp6AlqMkPux+iV/i7euvYiTyfqLT83jFUtIjCwzd2CnZawP7/vUJZB0X93UZm30VKNEmlVZygqzk8vUr76p2d4GNmFGowbWpiesLnjN2BaybqNRuP4H7Uaq56ZdH5XwkJyd0GlUnfC+EWY+z1c2IgDnyVuWE+fipO8AKctJL/tP0weiqiKqhx5h9HootMJpxpStu+Mr7i6P10AUa2NPiSivbwAIeVNlebzRqn8DJhPSYPTA+DoqwxS/iwj7KtA3GoPNRogpt+fBNwQNQ=;3nHIyJgLaLHjdRQzNMBrxw=="
+related:
+  - title: "AI-based Surgical Robots Global Market Report 2022: Ukraine-Russia War Impact"
+    excerpt: "Major players in the ai-based surgical robots market are Accuray Incorporated, Intuitive Surgical Inc, Medtronic plc, Medrobotics Corporation, Zimmer Biomet, Stereotaxis Inc, TransEnterix Inc , Stryker Corporation,"
+    publishedDateTime: 2022-11-23T14:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-global-market-report-2022-/2022/11/23/9719025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+
+secured: "iiNwj3Jf2vRlHIB4KMZhrP57QvxwO5qOHr64OFVuia8F1/r6S+sf2EA0nZzdE9nz+Obagt7yZMaHGoi3BB7f3Uvci5p3wnEK5DQmK1nBs/ASlyEnqLSqeytJzMc0t5JhNjl0LpZ6twdvHjdGE2r6iIliVhQjCT6xAhwexKD6jlZxZG78HwpNB5kbUyEbf9NeLmTxbhJ//nmHeUDUav79FQGlwVCwy2CZ7X+slAcOmuHpKITFj0X3BDmWuFJoNsgArGXZeuUiz8XFybUQ0MYpfbkLiUg77py3GAUbtmOENRjJQNOQSV/s4eTFD7uQyVcYjyqUESpBs84t37gED9tFdLoRLbnD0nsxJWoi9arLMTw=;JstWmM0nBAC/g9iyI4wNgw=="
 ---
 

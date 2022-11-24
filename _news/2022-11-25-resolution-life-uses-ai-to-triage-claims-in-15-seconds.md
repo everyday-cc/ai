@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T19:31:00Z
 originalUrl: "https://www.itnews.com.au/news/resolution-life-uses-ai-to-triage-claims-in-15-seconds-587940"
 webUrl: "https://www.itnews.com.au/news/resolution-life-uses-ai-to-triage-claims-in-15-seconds-587940"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IT News For Australia Business

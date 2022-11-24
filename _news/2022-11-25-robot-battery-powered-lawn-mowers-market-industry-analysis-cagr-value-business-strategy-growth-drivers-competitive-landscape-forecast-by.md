@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T19:22:00Z
 originalUrl: "https://www.marketwatch.com/press-release/robot-battery-powered-lawn-mowers-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-11-24"
 webUrl: "https://www.marketwatch.com/press-release/robot-battery-powered-lawn-mowers-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-11-24"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: MarketWatch

@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition can help conserve seals, scientists say: here’s how"
+    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
+    publishedDateTime: 2022-11-24T19:35:00Z
+    webUrl: "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/"
+    ampWebUrl: "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 59
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/11/AP22321559652379.jpeg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Scientists believe facial recognition technology is useful in the quest to save the seals"
+    excerpt: "Scientists at SealNet have created a database of seal faces using facial recognition technology. The tool used to identify the seals is close to 100% accurate."
+    publishedDateTime: 2022-11-23T17:59:00Z
+    webUrl: "https://www.foxnews.com/us/scientists-believe-facial-recognition-technology-useful-quest-save-seals"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 40
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
     publishedDateTime: 2022-11-23T14:05:00Z

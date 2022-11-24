@@ -113,6 +113,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Tesla opens floodgates for owners to test out automated driving"
+    excerpt: "Chief Executive Officer Elon Musk tweeted that the system Tesla calls Full Self-Driving Beta is now available to anyone in North America who’s bought the option and requests it from their car screen."
+    publishedDateTime: 2022-11-24T21:03:00Z
+    webUrl: "https://www.chron.com/business/technology/article/tesla-full-self-driving-beta-17609158.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/41/15/23204675/3/rawImage.jpg"
+        width: 2048
+        height: 1324
+        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ Beta available for all in North America: Elon Musk"
     excerpt: "The feature was gradually rolling out since 2020 for select customers and required drivers to touch a minimum safety threshold with Tesla’s built-in Safety Score feature and covering 100 miles applying the Autopilot."
     publishedDateTime: 2022-11-24T14:30:00Z

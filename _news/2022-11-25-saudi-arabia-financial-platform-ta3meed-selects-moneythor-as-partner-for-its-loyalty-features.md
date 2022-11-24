@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T18:26:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/11/199042-saudi-arabia-financial-platform-ta3meed-selects-moneythor-as-partner-for-its-loyalty-features/"
 webUrl: "https://www.crowdfundinsider.com/2022/11/199042-saudi-arabia-financial-platform-ta3meed-selects-moneythor-as-partner-for-its-loyalty-features/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Crowdfund Insider

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 779
         isCached: true
-  - title: "Scientists believe facial recognition technology is useful in the quest to save the seals"
-    excerpt: "Scientists at SealNet have created a database of seal faces using facial recognition technology. The tool used to identify the seals is close to 100% accurate."
-    publishedDateTime: 2022-11-23T17:59:00Z
-    webUrl: "https://www.foxnews.com/us/scientists-believe-facial-recognition-technology-useful-quest-save-seals"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 40
   - title: "The Next Steps of Facial Recognition Technology"
     excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
     publishedDateTime: 2022-11-23T11:48:00Z

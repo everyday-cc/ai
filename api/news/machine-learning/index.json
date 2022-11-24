@@ -280,49 +280,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-19-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
-      "title": "Artificial neural networks learn better when they spend time not learning at all",
-      "excerpt": "Artificial neural networks learn better when they spend time not learning at all Periods off-line during training mitigated 'catastrophic forgetting' in computing systems Date: November 18, 2022 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221118160305.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221118160305.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-19-deep-learning-ai-is-getting-better-but-can-regular-users-pay.md",
       "title": "Deep Learning & AI is getting better but can regular users pay?",
       "excerpt": "In this article, we will look at the development of AI and the field of deep learning. Deep learning originated in the era of vacuum tube computers. In 1958, Frank Rosenblatt of Cornell University ...",
@@ -343,6 +300,49 @@
       "provider": {
         "name": "GizChina",
         "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
+      "title": "Artificial neural networks learn better when they spend time not learning at all",
+      "excerpt": "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
+      "originalUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-artificial-neural-networks.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp",
+      "publishedDateTime": "2022-11-18T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -608,6 +608,40 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-pinpoint-predictive-launches-the-first-deep-learning-powered-prediction-of-individual-customer-profitability-available-at-top-of-funnel.md",
+      "title": "Pinpoint Predictive Launches the First Deep-Learning Powered Prediction of Individual Customer Profitability Available at Top-of-Funnel",
+      "excerpt": "This is the first commercial solution powered by deep-learning, built on trillions of behavioral data points, and includes predictions for claims frequency, severity, and loss cost. By focusing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20221117005030/en/Pinpoint-Predictive-Launches-the-First-Deep-Learning-Powered-Prediction-of-Individual-Customer-Profitability-Available-at-Top-of-Funnel",
+      "originalUrl": "https://www.businesswire.com/news/home/20221117005030/en/Pinpoint-Predictive-Launches-the-First-Deep-Learning-Powered-Prediction-of-Individual-Customer-Profitability-Available-at-Top-of-Funnel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1347,51 +1381,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-best-practices-for-bolstering-machine-learning-security.md",
-      "title": "Best practices for bolstering machine learning security",
-      "excerpt": "New considerations are necessary as more businesses adopt machine learning at scale. In association withCapital One Nearly 75% of the world’s largest companies have already integrated AI and machine learning (ML) into their business strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/180913390_1200.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/",
-      "publishedDateTime": "2022-11-14T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "AI in Finance"
       ]
     }
   ],

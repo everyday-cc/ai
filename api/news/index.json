@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-25-facial-recognition-can-help-conserve-seals-scientists-say-heres-how.md",
+      "title": "Facial recognition can help conserve seals, scientists say: here’s how",
+      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/",
+      "originalUrl": "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/11/AP22321559652379.jpeg?w=1280",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/",
+      "publishedDateTime": "2022-11-24T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-ai-the-next-candidate-for-a-market-boom-bubble-bust.md",
       "title": "AI: The Next Candidate For A Market Boom, Bubble, Bust",
       "excerpt": "The prices of Bitcoin BTC -2.3% and Ethereum ETH 0.0% have been in free fall, and the total market capitalization of all cryptocurrencies has shrunk from over $830 billion to less than $330 billion. This represents a loss of over 60% from the peak.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -616,7 +659,7 @@
       "originalUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1202,59 +1245,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-identifying-landmarks-with-amazon-rekognition-custom-labels.md",
-      "title": "Identifying landmarks with Amazon Rekognition Custom Labels",
-      "excerpt": "Amazon Rekognition is a computer vision service that makes it simple to add image and video analysis to your applications using proven, highly scalable, deep learning technology that does not require machine learning (ML) expertise. With Amazon Rekognition, you can identify objects, people, text, scenes,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/09/ML-3632-image001.jpg",
-          "width": 1192,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T13:04:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
+    excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."
+    publishedDateTime: 2022-11-24T21:49:00Z
+    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-trials-initiated-to-fight-crime-at-nz-grocery-stores"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+        width: 1454
+        height: 800
+        isCached: true
   - title: "Supermarket violence: Foodstuffs trialling facial recognition technology to combat theft, assaults on staff"
     excerpt: "Supermarkets giant Foodstuffs is trialling facial recognition technology across its North Island stores as the rates of theft, burglary, robbery and other crimes continue to soar. The chain said the move was an attempt \"to proactively reduce serious incidents in stores and meet our safety responsibilities to customers and team\"."
     publishedDateTime: 2022-11-23T01:42:00Z

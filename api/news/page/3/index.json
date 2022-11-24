@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-21-3m-launches-ai-powered-speech-recognition-technology.md",
+      "title": "3M launches AI-powered speech recognition technology",
+      "excerpt": "This technology, which focuses on accelerating digital health transformation in the kingdom, will help clinicians in all care settings to capture the complete and accurate patient story while simultan",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
+      "originalUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:OWM2ODExYzgtODIyZi00:YjE3ODI2/200423074653iqcn-jpg.jpg?f=3%3A2",
+          "width": 724,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-ambient-computing-is-at-the-heart-of-the-frictionless-economy.md",
       "title": "Ambient Computing Is At The Heart Of The Frictionless Economy",
       "excerpt": "The aim is to remove the friction in using technology and, in particular, to help users move away from screens and scanning.",
@@ -643,49 +686,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-19-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
-      "title": "Artificial neural networks learn better when they spend time not learning at all",
-      "excerpt": "Artificial neural networks learn better when they spend time not learning at all Periods off-line during training mitigated 'catastrophic forgetting' in computing systems Date: November 18, 2022 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221118160305.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221118160305.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-19-deep-learning-ai-is-getting-better-but-can-regular-users-pay.md",
       "title": "Deep Learning & AI is getting better but can regular users pay?",
       "excerpt": "In this article, we will look at the development of AI and the field of deep learning. Deep learning originated in the era of vacuum tube computers. In 1958, Frank Rosenblatt of Cornell University ...",
@@ -768,6 +768,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
+      "title": "Artificial neural networks learn better when they spend time not learning at all",
+      "excerpt": "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
+      "originalUrl": "https://phys.org/news/2022-11-artificial-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-artificial-neural-networks.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp",
+      "publishedDateTime": "2022-11-18T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1171,58 +1214,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech.md",
-      "title": "Spot AI raises $40M to build smarter CCTV security camera tech",
-      "excerpt": "CCTV cameras have a strong Big Brother vibe, but that may be because we don't really know how the footage they pick up ever gets used.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
-      "originalUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/spot-ai.jpg?resize=1200,814",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
-      "publishedDateTime": "2022-11-18T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

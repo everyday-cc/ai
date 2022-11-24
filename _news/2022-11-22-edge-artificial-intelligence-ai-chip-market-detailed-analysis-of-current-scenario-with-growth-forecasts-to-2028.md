@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -99,6 +99,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The US Employment Screening Market Report 2022: Leveraging Artificial Intelligence (AI) and Machine Learning Crucial for Continued Growth"
+    excerpt: "Analysis By Service, By Industry Vertical, Size & Forecast with Impact Analysis of COVID-19 and Forecast up to 2027\" report has"
+    publishedDateTime: 2022-11-24T17:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852782/the-us-employment-screening-market-report-2022-leveraging-artificial-intelligence-ai-and-machine-l"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29852782"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852782"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
   - title: "Cleaning Robot Market Size, Share, Growth, Trends, Demand, Development Status, Future Growth, Business Strategy, Forecast 2023 to 2029"
     excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 108 Pages Report\" Global"
     publishedDateTime: 2022-11-22T06:27:00Z

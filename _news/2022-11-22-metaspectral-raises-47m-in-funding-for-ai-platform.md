@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T00:00:00Z
 originalUrl: "https://www.recyclingtoday.com/article/metaspectral-raises-funds-hyperspectral-imagery-technology-recycling/"
 webUrl: "https://www.recyclingtoday.com/article/metaspectral-raises-funds-hyperspectral-imagery-technology-recycling/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Recycling Today

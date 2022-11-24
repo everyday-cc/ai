@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The"
-publishedDateTime: 2022-11-21T10:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29800962/artificial-intelligence-as-a-service-market-worth-96-064-7-million-by-2030-grand-view-research-inc"
-ampWebUrl: "https://www.benzinga.com/amp/content/29800962"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29800962"
+excerpt: "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ..."
+publishedDateTime: 2022-11-21T12:34:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Autos
   - AI
 
-secured: "odS9YpWeN7yO953oopRIAu/rSTcFLezezuwBkzh5b0INwwwKVNkOwG8iQSsFSU/bLAkISolJfuLJeoKwN1Y25QPKqJcUWJngE4Dk5nbHCo7cTLv7F51nMg6aMbZf4ss6OV5wVeJ38Qi/Avbc4nw30UnhTskkBBeA5d/xpvzQwytMER8ikUdlY+y+4Uj0RTE4zA0KMlYWh3jiCXZa554QSjgC8ZgV94xgmMwGhpSDW51/Fi5YCB9TIXg+nnlu7JSiTHSLTaWFsn9dYKqYR8NH47giWQMZRIZGT/q93UTfe2MFgzX/IwuJ9hyNAQM6w3cvT6QjxcRe0lHllxJ/TkJKsRYKFnRp6xRPULP2UDhU5mw=;ujMdG7OgYuRAgqL+vT864Q=="
+secured: "VEPdc/pW3m7+6Cm0RQNMp2eTIT/PFG1mMndcRAjLKPg5RXmPDq+KVzW7wJLNVNMoethIu7JAKCy/pN/nR2X0Xg9pmfuxyiJdpmKWXlaLs7QoyHqyC9WN12QKjA50OvjtKydW4Aj9MFyy4+EutFQ4vstH0TYB+A6XBIH8tdZSJCLpK19c8lCoFeuCCApU8Q6OuY/CPMxltZVS9jHzJKHdN2VqU6izIeygEUNmz5lA4OgcXTPI+6DkfsGIts0998XPdXap3NK4qYIl39Fl0Y/jV/i8A5J4g96XK+Nk9J6qocBjQMK3fmZOFw8FujycLTpf+t+U9c6Co+jicvACic5oLqVIKyBEtWCB6T9E347C3LQ=;Rlsl5xa66q3kjB/1kn8OfA=="
 ---
 

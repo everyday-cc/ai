@@ -39,6 +39,20 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
+    excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."
+    publishedDateTime: 2022-11-24T21:49:00Z
+    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-trials-initiated-to-fight-crime-at-nz-grocery-stores"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+        width: 1454
+        height: 800
+        isCached: true
 
 secured: "BGOtEBiHCg9Vkwe6R3HtlNveBLTz7PDAkintrHwnxiC2Zt6bQ4C0ETAuYSVsLbj78zJgGz+1v/JnQ74x667z9lZdFXmYR4+E9WGptmQPPl2R7wza8S1+t+WGQuBSHdZHnY+WFmkoyp+KsHxKoPj7n/bCOh4KfcIPZtNxYXUclBtvmJhXfgvIDc/h+2dNfzvrwhe8vMcpNY81CDjLIqHbIhSSHJK+YaFWjXmhM9xuzuu2k6yzkANpmYGd+C7XS5QsMAwhcL3gUVlZsYYHxXneGl/kXB8FdjaneA9lEE/Ep3yG1n26Z5WsYZP6qiPruqvIfxYEUKwGyu1VcuoXxMdHlaF7TciTifByQsjlEKeO52ky1xRoHgej+CBmnIqglb4SsvQaZFFAlQoGHyCWyv/fhE6pJoqFaNK8u+yhjlbcSaZPx1rDoOK2HZNTOe9RYqMh+voZKxN4VpxkQMokZtZwjBQcuUwlgZX8UzWVVb8jLlR0ivDtjS1LMXS0rRWpiFHxA3pZKlgP3h/zV8ZAjEo+cQ==;yjud/4R0bajDtn0AJRv/pw=="
 ---

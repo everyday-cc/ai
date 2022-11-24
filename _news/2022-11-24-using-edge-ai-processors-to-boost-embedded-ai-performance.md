@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-24T13:27:00Z
 originalUrl: "https://www.embedded.com/using-edge-ai-processors-to-boost-embedded-ai-performance/"
 webUrl: "https://www.embedded.com/using-edge-ai-processors-to-boost-embedded-ai-performance/"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:

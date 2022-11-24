@@ -57,15 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Scientists believe facial recognition technology is useful in the quest to save the seals"
-    excerpt: "Scientists at SealNet have created a database of seal faces using facial recognition technology. The tool used to identify the seals is close to 100% accurate."
-    publishedDateTime: 2022-11-23T17:59:00Z
-    webUrl: "https://www.foxnews.com/us/scientists-believe-facial-recognition-technology-useful-quest-save-seals"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 40
   - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
     excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
     publishedDateTime: 2022-11-21T14:31:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie
 ampWebUrl: "https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.amp.html"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
