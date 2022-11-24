@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-11-07-artificial-intelligence-could-help-ease-strain-on-hospitals.md",
+      "title": "Artificial intelligence could help ease strain on hospitals",
+      "excerpt": "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
+      "publishedDateTime": "2022-11-07T01:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million-us-seniors-age-in-place.md",
       "title": "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place",
       "excerpt": "On the heels of its successful General Availability launch of KamiCare, an artificial intelligence (AI) fall management solution for senior living communities, Kami Vision has announced Fall Detect by KamiCare,",
@@ -1116,49 +1160,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy.md",
-      "title": "GitHub, Microsoft, and OpenAI Sued Over AI Tool’s ‘Unprecedented Scale’ of Software Piracy",
-      "excerpt": "A civil suit filed in the Northern District of California by two anonymous software developers on behalf of a class claims that GitHub, Microsoft, and",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/",
-      "originalUrl": "https://lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2019/11/microsoft-1024x711.jpg",
-          "width": 1024,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/amp/",
-      "publishedDateTime": "2022-11-04T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

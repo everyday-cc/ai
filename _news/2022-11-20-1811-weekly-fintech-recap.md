@@ -45,7 +45,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 4
+    quality: 6
   - title: "Israeli Fintech Firm Joins ADIO’s Innovation Program to Establish Financial Tech Research and Dev Center in Abu Dhabi"
     excerpt: "Innovation Program is partnering with Fintech company Liquidity Group, the “first” Israeli company “to join the AED 2 billion (USD 545 million) program.” The partnership will “support Liquidity Group’s establishment of an R&D center in Abu Dhabi to develop its proprietary technology-enabled underwriting algorithm and other financial solutions."
     publishedDateTime: 2022-11-21T12:29:00Z

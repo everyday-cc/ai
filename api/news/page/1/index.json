@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-24-harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai.md",
+      "title": "Harvey, which uses AI to answer legal questions, lands cash from OpenAI",
+      "excerpt": "Harvey, a startup using AI to answer legal questions, has secured an investment from OpenAI as well as Google AI head Jeff Dean.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/",
+      "originalUrl": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1136679354.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/amp/",
+      "publishedDateTime": "2022-11-23T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-its-time-to-talk-about-killer-robots.md",
       "title": "It’s time to talk about killer robots",
       "excerpt": "Okay, let’s talk about killer robots. It’s a concept that long ago leapt from the pages of science fiction to reality, depending on how loose a definition you use for “robot.” Military drones abandoned Asimov’s First Law of Robotics — “A robot may not injure a human being or,",
@@ -477,7 +529,7 @@
       "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1194,58 +1246,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production.md",
-      "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
-      "excerpt": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg",
-          "width": 1564,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:35:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

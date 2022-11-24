@@ -2,6 +2,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-14-cerebras-unveils-andromeda-a-135-million-core-ai-supercomputer-that-delivers-near-perfect-linear-scaling-for-large-language-models.md",
+      "title": "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models",
+      "excerpt": "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei.md",
+      "title": "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)",
+      "excerpt": "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1668104872.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29695590",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590",
+      "publishedDateTime": "2022-11-14T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-getting-real-about-ai-in-finance-can-ai-improve-speed-and-closing-accuracy.md",
       "title": "Getting real about AI in finance - can AI improve speed and closing accuracy?",
       "excerpt": "Artificial intelligence (AI) continues to emerge as a compelling solution for finance teams that need to close the books faster and more efficiently. AI can not only check large volumes of data for accuracy, it also can learn from data and identify ...",
@@ -182,40 +259,6 @@
         "AI Ethics",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei.md",
-      "title": "OneMeta AI’s Verbum Is More Than A Best-In-Class Translation App, It’s Expected To Be An Enormous Near-Term Value Driver ($ONEI)",
-      "excerpt": "Having transformative technology and assets can quickly turn smallcaps into large caps, and OneMeta AI (Ticker: ONEI) has positioned itself to prove that point. That's no overzealous presumption. It's a sentiment based on ONEI having,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1097,58 +1140,6 @@
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com&amp",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com&amp",
-      "publishedDateTime": "2022-11-11T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup.md",
-      "title": "DeviantArt upsets artists with its new AI art generator, DreamUp",
-      "excerpt": "Also, DeviantArt will let artists opt out of letting their images train DreamUp in the future, but each artist must fill out a form that requires human review first. This policy h",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dreamup_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/amp/",
       "publishedDateTime": "2022-11-11T14:46:00-08:00",
       "updatedDateTime": null,
       "provider": {

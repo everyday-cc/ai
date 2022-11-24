@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/g29839066/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/29839066"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29839066"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "Credit Inclusion Fintech Propel Holdings Moves into Canada"
