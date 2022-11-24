@@ -67,6 +67,17 @@ related:
         width: 1080
         height: 1748
         isCached: true
+  - title: "RedBrick AI raises US$4.6M to accelerate the development of healthcare AI"
+    excerpt: "Health-tech AI platform RedBrick AI is announcing a US$4.6M seed funding round to accelerate the development and adoption of artificial intelligence in clinical settings, through rapid"
+    publishedDateTime: 2022-11-24T06:45:00Z
+    webUrl: "https://www.sourcesecurity.com/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 53
   - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
     excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
     publishedDateTime: 2022-11-23T13:03:00Z

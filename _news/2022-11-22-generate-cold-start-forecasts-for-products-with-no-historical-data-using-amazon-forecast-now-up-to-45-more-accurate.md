@@ -43,6 +43,20 @@ related:
         width: 1564
         height: 780
         isCached: true
+  - title: "How Is Robotics Shaping Up To Impact The Car Manufacturing Industry?"
+    excerpt: "How is Robotics Shaping Up to Impact the Car Manufacturing Industry? November 23, 2022 by mark allinson leave a comment . The world of car man"
+    publishedDateTime: 2022-11-24T06:35:00Z
+    webUrl: "https://menafn.com/1105226434/How-Is-Robotics-Shaping-Up-To-Impact-The-Car-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "An AI and deep learning-based malware detection system for the Industrial Internet of Things"
     excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity. Powered by wireless 5G connectivity and artificial intelligence (AI), IIoT holds the ability to analyze critical problems and provide solutions that can improve the operational performance of industries ranging from manufacturing to healthcare."
     publishedDateTime: 2022-11-22T10:23:00Z

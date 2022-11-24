@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/"
 type: article
 quality: 97
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/generate-cold-start-forecasts.jpg"
         width: 1550
         height: 771
+        isCached: true
+  - title: "How Is Robotics Shaping Up To Impact The Car Manufacturing Industry?"
+    excerpt: "How is Robotics Shaping Up to Impact the Car Manufacturing Industry? November 23, 2022 by mark allinson leave a comment . The world of car man"
+    publishedDateTime: 2022-11-24T06:35:00Z
+    webUrl: "https://menafn.com/1105226434/How-Is-Robotics-Shaping-Up-To-Impact-The-Car-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "An AI and deep learning-based malware detection system for the Industrial Internet of Things"
     excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity. Powered by wireless 5G connectivity and artificial intelligence (AI), IIoT holds the ability to analyze critical problems and provide solutions that can improve the operational performance of industries ranging from manufacturing to healthcare."

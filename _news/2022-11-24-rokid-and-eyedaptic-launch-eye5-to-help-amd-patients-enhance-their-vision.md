@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/n29848814/rokid-and-eyedap
 ampWebUrl: "https://www.benzinga.com/amp/content/29848814"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29848814"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 secured: "UmDeZQ8n03ifxPo3/OAz+OMeT/FQkZkG/alHtFxc7MX/NoHqFvdZC4CW/UFhAlqwdWTxPUeYNEf67+3QzPvtuu+EZ1UAM3m+4nBDbid/mF8ErxOo6rFoLyJntGisTchDmMG0+8vzBxHa+mAgi/laH3h8XmqrX09IsKFfzJXJfNYnVauCjKAeLehxqPjA1RL/MJLz+qzYPFl5cgFTLKwLBXC0aEqe3tkdVY3vg1VHxnFbkbmx4oQebhgof4xyuvKsw30Q3ii98DRC85awAzFfSx/DUe4510zBB2PhrknjLxnLCBwg4Vf+UDLXpHXHe3bU+2iG0XRTQvDWNUsDURhUwfJjuDMwlU/c/g1ofFXWqII=;BCgkUUMAz4/209vNPiMhkA=="
 ---

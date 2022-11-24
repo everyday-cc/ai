@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology and deep learning models: Empowering the modern-day industries"
-    excerpt: "Facial recognition tech is a foolproof approach for ID verification. With deep learning models, It can support all industries in achieving their milestones."
-    publishedDateTime: 2022-11-19T13:34:00Z
-    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-technology-and-deep-learning-models-empowering-the-modern-day-industries"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
   - title: "Supermarket violence: Foodstuffs trialling facial recognition technology to combat theft, assaults on staff"
     excerpt: "Supermarkets giant Foodstuffs is trialling facial recognition technology across its North Island stores as the rates of theft, burglary, robbery and other crimes continue to soar. The chain said the move was an attempt \"to proactively reduce serious incidents in stores and meet our safety responsibilities to customers and team\"."
     publishedDateTime: 2022-11-23T01:42:00Z

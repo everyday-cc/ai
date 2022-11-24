@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launc
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://images.livemint.com/img/2022/11/22/600x338/amazon_1668711033265_1669110458455_1669110458455.JPG"
         width: 600
         height: 337
+        isCached: true
+  - title: "AWS launches cloud infrastructure region in Hyderabad, its second in India"
+    excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more than 48,000 full-time jobs annually through a planned investment of more than $4."
+    publishedDateTime: 2022-11-24T06:10:00Z
+    webUrl: "https://www.thenewsminute.com/article/aws-launches-cloud-infrastructure-region-hyderabad-its-second-india-170248"
+    ampWebUrl: "https://www.thenewsminute.com/article/aws-launches-cloud-infrastructure-region-hyderabad-its-second-india-170248?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-launches-cloud-infrastructure-region-hyderabad-its-second-india-170248?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 57
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/AWS_231122_ians_1200.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AWS to invest USD 4.4 bn in Hyderabad data centre"
     excerpt: "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India. Amazon.com Inc company,"

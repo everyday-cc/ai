@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-24-its-time-to-talk-about-killer-robots.md",
+      "title": "It’s time to talk about killer robots",
+      "excerpt": "Okay, let’s talk about killer robots. It’s a concept that long ago leapt from the pages of science fiction to reality, depending on how loose a definition you use for “robot.” Military drones abandoned Asimov’s First Law of Robotics — “A robot may not injure a human being or,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter",
+      "originalUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/04/gettyimages-167263495.jpg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
+      "publishedDateTime": "2022-11-23T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-experts-from-across-the-disciplines-come-together-at-new-center-to-push-the-boundaries-of-smart-robotics-and-ai.md",
       "title": "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI",
       "excerpt": "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ...",
@@ -1377,52 +1429,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
-      "title": "Artificial intelligence goes vegan",
-      "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "publishedDateTime": "2022-11-11T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AWS AI",
-        "AI in Healthcare"
       ]
     }
   ],

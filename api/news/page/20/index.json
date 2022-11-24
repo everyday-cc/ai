@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-11-03-machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030.md",
+      "title": "Machine learning Market Analytical Overview and Size (Value and Volume) by 2030",
+      "excerpt": "financial services and insurance (BFSI), automotive, healthcare, government and others. The trend of using machine learning techniques in the healthcare sector, financial sector and retail sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/caeb17642ba63e541976d733a2d5bd53ec7092bd-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-if-youre-a-facebook-user-youre-also-a-research-subject.md",
       "title": "If you're a Facebook user, you're also a research subject",
       "excerpt": "According to its public database of published research, Facebook's written more than 180 public papers about artificial intelligence but just one study about elections, based on an experiment ...",
@@ -509,6 +553,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
+      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
+      "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
+      "originalUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
+      "publishedDateTime": "2022-11-02T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1063,92 +1150,6 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-waymos-driverless-service-expanding-from-downtown-phoenix-to-sky-harbor-airport.md",
-      "title": "Waymo's driverless service expanding from downtown Phoenix to Sky Harbor airport",
-      "excerpt": "PHOENIX — Waymo has been offering its “rider-only” ride-hailing service in downtown Phoenix since August of this year, and now users of the service can soon catch a driverless ride from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc15.com/news/business/waymos-driverless-service-expanding-from-downtown-phoenix-to-sky-harbor-airport",
-      "originalUrl": "https://www.abc15.com/news/business/waymos-driverless-service-expanding-from-downtown-phoenix-to-sky-harbor-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/385/5c3d34b8b29a45469a86c02775b7a2cf/3859de6403eb41e8a222f595aeaaf79d/poster_696c5515fdf2434eb6a59f91daad29a9.png",
-          "width": 576,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc15.com/news/business/waymos-driverless-service-expanding-from-downtown-phoenix-to-sky-harbor-airport?_amp=true",
-      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/business/waymos-driverless-service-expanding-from-downtown-phoenix-to-sky-harbor-airport?_amp=true",
-      "publishedDateTime": "2022-11-02T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC15 Arizona",
-        "domain": "abc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
-      "title": "Researchers show how network pruning can skew deep learning models",
-      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
-      "publishedDateTime": "2022-11-02T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

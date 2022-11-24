@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-17-senior-suffering-cognitive-decline-surrenders-72-dogs-in-cabazon.md",
+      "title": "Senior Suffering Cognitive Decline Surrenders 72 Dogs in Cabazon",
+      "excerpt": "A Cabazon senior suffering cognitive decline surrendered more than 70 canines to the Riverside County Department of Animal Services Wednesday. A Cabazon senior suffering cognitive decline ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbclosangeles.com/news/local/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3035872/",
+      "originalUrl": "https://www.nbclosangeles.com/news/local/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3035872/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-toyota-bz-suv-concept-is-a-muscular-ev-powered-by-ai-assistant.md",
       "title": "Toyota bZ SUV Concept Is a Muscular EV Powered by AI Assistant",
       "excerpt": "This aggressive \"Beyond Zero\" EV showcases Toyota's sustainable design and brings the brand's conceptual AI assistant, Yui, along for the ride.",
@@ -1122,58 +1156,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-woman-revealing-why-she-shows-only-half-her-face-on-work-calls-melts-hearts.md",
-      "title": "Woman Revealing Why She Shows Only Half Her Face on Work Calls Melts Hearts",
-      "excerpt": "A woman melted hearts online after revealing the reason she shows only half her face on work calls ... This kind of non-detailed phonetic recognition is also the way babies process speech up to the age of about 14 months and goes some way toward explaining ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "originalUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2150294/dog-attending-work-meeting-melts-hearts.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "publishedDateTime": "2022-11-16T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

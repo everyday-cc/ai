@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-24-its-time-to-talk-about-killer-robots.md",
+      "title": "It’s time to talk about killer robots",
+      "excerpt": "Okay, let’s talk about killer robots. It’s a concept that long ago leapt from the pages of science fiction to reality, depending on how loose a definition you use for “robot.” Military drones abandoned Asimov’s First Law of Robotics — “A robot may not injure a human being or,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter",
+      "originalUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/04/gettyimages-167263495.jpg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
+      "publishedDateTime": "2022-11-23T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption.md",
       "title": "How JPMorgan Chase & Co. uses AWS DeepRacer events to drive global cloud adoption",
       "excerpt": "This is a guest post by Stephen Carrad, Vice President at JP Morgan Chase &amp; Co. JPMorgan &amp; Chase Co. started its cloud journey four years ago, building the integrations required to deploy cloud-native applications into the cloud in a resilient and secure manner. In the first year, three applications",
@@ -425,7 +477,7 @@
       "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1153,7 +1205,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1194,59 +1246,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate.md",
-      "title": "Accelerate multilingual workflows with a customizable translation solution built with Amazon Translate",
-      "excerpt": "Enterprises often need to communicate effectively to a large base of customers, partners, and stakeholders across several different languages. They need to translate and localize content such as marketing materials, product content assets, operational manuals, and legal documents. Each business unit",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/accelerate-multilingual-workflows-translate.jpg",
-          "width": 1560,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:28:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

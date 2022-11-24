@@ -101,6 +101,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AWS launches cloud infrastructure region in Hyderabad, its second in India"
+    excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more than 48,000 full-time jobs annually through a planned investment of more than $4."
+    publishedDateTime: 2022-11-24T06:10:00Z
+    webUrl: "https://www.thenewsminute.com/article/aws-launches-cloud-infrastructure-region-hyderabad-its-second-india-170248"
+    ampWebUrl: "https://www.thenewsminute.com/article/aws-launches-cloud-infrastructure-region-hyderabad-its-second-india-170248?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-launches-cloud-infrastructure-region-hyderabad-its-second-india-170248?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 57
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/AWS_231122_ians_1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
     excerpt: "Amazon Web Services (AWS) will invest nearly $4.4 billion in India by 2030 and support more than 48,000 jobs annually through a new regional service launched Tuesday, said the on-demand cloud computing company."
     publishedDateTime: 2022-11-22T08:35:00Z

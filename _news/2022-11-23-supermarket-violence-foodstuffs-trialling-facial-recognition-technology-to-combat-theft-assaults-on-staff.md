@@ -39,15 +39,6 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "Facial recognition technology and deep learning models: Empowering the modern-day industries"
-    excerpt: "Facial recognition tech is a foolproof approach for ID verification. With deep learning models, It can support all industries in achieving their milestones."
-    publishedDateTime: 2022-11-19T13:34:00Z
-    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-technology-and-deep-learning-models-empowering-the-modern-day-industries"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
 
 secured: "BGOtEBiHCg9Vkwe6R3HtlNveBLTz7PDAkintrHwnxiC2Zt6bQ4C0ETAuYSVsLbj78zJgGz+1v/JnQ74x667z9lZdFXmYR4+E9WGptmQPPl2R7wza8S1+t+WGQuBSHdZHnY+WFmkoyp+KsHxKoPj7n/bCOh4KfcIPZtNxYXUclBtvmJhXfgvIDc/h+2dNfzvrwhe8vMcpNY81CDjLIqHbIhSSHJK+YaFWjXmhM9xuzuu2k6yzkANpmYGd+C7XS5QsMAwhcL3gUVlZsYYHxXneGl/kXB8FdjaneA9lEE/Ep3yG1n26Z5WsYZP6qiPruqvIfxYEUKwGyu1VcuoXxMdHlaF7TciTifByQsjlEKeO52ky1xRoHgej+CBmnIqglb4SsvQaZFFAlQoGHyCWyv/fhE6pJoqFaNK8u+yhjlbcSaZPx1rDoOK2HZNTOe9RYqMh+voZKxN4VpxkQMokZtZwjBQcuUwlgZX8UzWVVb8jLlR0ivDtjS1LMXS0rRWpiFHxA3pZKlgP3h/zV8ZAjEo+cQ==;yjud/4R0bajDtn0AJRv/pw=="
 ---

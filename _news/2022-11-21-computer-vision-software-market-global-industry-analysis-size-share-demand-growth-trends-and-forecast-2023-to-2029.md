@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2022 (The Expresswire) -- \"Face Recognition Device Market\" research provides significant and in-depth information on the global market. This research provides an in ..."
+    publishedDateTime: 2022-11-24T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cleaning Robot Market Size, Share, Growth, Trends, Demand, Development Status, Future Growth, Business Strategy, Forecast 2023 to 2029"
     excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 108 Pages Report\" Global"
     publishedDateTime: 2022-11-22T06:27:00Z
