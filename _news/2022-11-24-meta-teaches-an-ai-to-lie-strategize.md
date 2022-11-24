@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2019/08/globe_of_lights_centered_on_europe_by_imaginima_gettyimages-1002859304_2400x1600-100807130-large.jpg?auto=webp&quality=85,70"
@@ -26,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "U+IAKXQgI1ZBbo8VRbdyfo45fI4XnwGTR2YB4SCueN+s6lasQ5lvyqjdAPLK88uD0j4SOnigMQEREsYdKk6/go9mTcdwrK2KWgHp6BsPY+775RNo36l5969C3ItIU/268Godok2PBHMAjuHe9qZpLoMvBHcgQ+vV1vNZXGWTz5ITzUuT5tDvW+0xPt89Dc3StTsmUg7D2a7/v13N3szpCztrpF1UTv1ionFJhhnEnxmhPbRUMaxE7hsZhN3IHbynFHQH7wDDBsyttt+GyjW9B4JksisBTFJEQ0D+jIwLxSKFiKsinwBQ0xndpHx54PgoFzS2Dr6vlZCZZZPgsBtWT0yqOpgEXrqiobkxTn25qb8=;86KizERNp4iRoIt50Hke0g=="
+secured: "/HJqBUs2t5QdWoOGuXbxSFlw/CEKDEbAn+offjeGZAs38x0x9vekCAdOzEnpW6XGb+voZcMU/zHinPwoo2mMvP9hIiLjTQnqD+lkaePOJQISYBrLXyL5Un/Hp96bE4IrB5T51LGx5ABAnDSaeYQoLgYhiU2ClTRLJ3kFk1UnBiypH6ihxPpuau3pNXXyHmIjozULGrMSmPW2WDssMGVufL0sCaK0GBunsbcKSuW8xNBfcrkByiwOESHifJIp4KL/bLfMtDl2PTO60Hvsb5ORyU51n9kh0uBzfehTAXe4sDRvqR97d7o6775qXFQ3H80gW5ifA6FGcB1YZEzsZogc7iNoeIGXXAf01Yr+uv1/2HjU2Zo+LNbUVNBPESmHvOBn3HVdoCiXabmSzhKcq+hNRrRydTj5kCU7hgyjdUOCtfm9Xsb+uQwA6AeHCwE1uJW8f43LRytOFOf/yINF6rSu5GdEO+hhEiYtNElHZWe0Qzo0K+REgpsdQiTYjsMuk/8JVNOWWeZeGfUhWIPJuVA0tA==;/+5ELt08RTEfjzYNFfwmMg=="
 ---
 
