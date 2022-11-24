@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 secured: "cxKoMTeIpswILul+v1cRKEC76qe2lvo5WZLzSEgq7Ev4J2v8DCTDJbaqqPK8h+yMPVhR+hMdoDCPkUgf6TghH79vCSXwKUFB53SJWEzKKT2tBbTVnihu39sIk5WePMKdtjHI6T7WpW4V4kgAdU6XyBz2hl8GiEU9u17o9ygQBHlXWwjI+8Gg9hOL22f6LgWSYHZSwbiLv27OcN7POjDgTAYugb8qsegOow6ZdJgyfmE/TTvv4zAnAIGDakpqmwm18u7XIaGLkZDZtZC1Bw1Q2s0IbKZEkqBJgEENF5eur4w3n2gQ7IpkDQxiI7k9LjZ7EFZvsxwWayKVhg2Oe43bHU62fHV9Up7iFE8i8oE3sgs=;Xg4PELEHmQZKzzozdKI8vQ=="
 ---

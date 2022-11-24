@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:
