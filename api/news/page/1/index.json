@@ -62,7 +62,7 @@
       "originalUrl": "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -304,7 +304,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -350,13 +350,13 @@
     {
       "path": "_news/2022-11-24-its-time-to-talk-about-killer-robots.md",
       "title": "It’s time to talk about killer robots",
-      "excerpt": "Okay, let’s talk about killer robots. It’s a concept that long ago leapt from the pages of science fiction to reality, depending on how loose a definition you use for “robot.” Military drones abandoned Asimov’s First Law of Robotics — “A robot may not injure a human being or,",
+      "excerpt": "The topic has been simmering again of late due to the increasing prospect of killer robots in domestic law enforcement. One of the era’s best known robot makers, Boston Dynamics, raised some public policy red flags when it showcased footage of its Spot robot being deployed as part of Massachusetts State Police training exercises on our stage back in 2019.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter",
-      "originalUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter",
+      "webUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/",
+      "originalUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -375,7 +375,7 @@
       "publishedDateTime": "2022-11-23T17:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
+        "name": "YAHOO!News",
         "domain": "techcrunch.com",
         "images": [
           {

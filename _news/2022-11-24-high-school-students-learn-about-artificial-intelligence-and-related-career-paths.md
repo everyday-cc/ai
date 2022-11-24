@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-24T14:25:00Z
 originalUrl: "https://cronkitenews.azpbs.org/2022/11/24/artificial-intelligence-careers-mark-cuban-foundation-drivetime-boot-camp/"
 webUrl: "https://cronkitenews.azpbs.org/2022/11/24/artificial-intelligence-careers-mark-cuban-foundation-drivetime-boot-camp/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://cronkitenews.azpbs.org/wp-content/uploads/2022/11/AI-3-1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "FH1Z8JCdKT+mK1GXbojSQNL7T7Gfa9Thwp4vC6OVuPYUTz/9oNdXyALehi2XkiTLbSIMbLUFvnH3msExDoP9VAtG2DfycVV1p+TrvgEvaeaUJWw9lICBagMk67F5S3Rk6oLc6S5Lm471zu317BI9hal93CZh/AKjMS/8AbVrUKQEJJmJqR/xUDS7Vwn0dSWboVuc6mIPyQpukgzofGIuClGWmK3HFsc2Buz5zvEBL40yFREc80GqzBOUAqECHgIOEaFTpT/ruxRWHRA7cE5iqlmraW6sTyL9HS9a1aYvHT+SbqCwJCcXhN4dyiDJ0p76IDwWM+PDPUPZxLkTrxqYNZm4CUIQDSX48u3/Z4akll4=;31L4rwy7S2N09Fgw8Znn/Q=="
+secured: "gUEcnGJuDTeRdV+4Px5H7iY2zf2s8hdgfZEVcxMRf06QoLcvlulyYzB5NrecLNPuC+y7x/PGC+mhw8CrCt1bMB+GqcYqEOZam8WV9jlTLDKa15uA5MMoEo0fGaGNh4VaBQUFJaskMRXghM6+CxPAOfnAWf9UFZuRMzIs2B9GvP/Qs+LQVX6tEOklyEqw5nYt4GolJyOKrvmCIhMpZxdwEIG+tk7B4RKtWoWphvmseOZkKv7XoKf6kV4FXigLubd5b8jQZKpe2XzZ9tuCzMXWmHrvcBELAvokSkZ83NQERG3z7ylQJAtda0tSn2j6LxIiy8+op9GXhoA/DE0VkJIxTb+7EA6K49G6VsYslwxD8LqT0LYqeMnvxHD7kicFkPi606Hy4n08kP9HAmogRn0m6cggKG8n8LY5dfyRS+nZH8MAyBL6zhZY42YHARC9+Xmjq4UeAazBSPkTPzLUa0UpZHGELE6gOJxwG7zbE7KwS9tarTeO1qxfRUOKuFKqz9tJg+XpwsWNKiERxWJi5M0b/Q==;JvPhRb6ITT65pS3npwoJoQ=="
 ---
 

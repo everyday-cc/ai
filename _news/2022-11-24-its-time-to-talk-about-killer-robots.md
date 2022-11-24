@@ -1,19 +1,19 @@
 ---
 category: news
 title: "It’s time to talk about killer robots"
-excerpt: "Okay, let’s talk about killer robots. It’s a concept that long ago leapt from the pages of science fiction to reality, depending on how loose a definition you use for “robot.” Military drones abandoned Asimov’s First Law of Robotics — “A robot may not injure a human being or,"
+excerpt: "The topic has been simmering again of late due to the increasing prospect of killer robots in domestic law enforcement. One of the era’s best known robot makers, Boston Dynamics, raised some public policy red flags when it showcased footage of its Spot robot being deployed as part of Massachusetts State Police training exercises on our stage back in 2019."
 publishedDateTime: 2022-11-24T01:27:00Z
-originalUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter"
-webUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/?tpcc=tcplustwitter"
+originalUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/"
+webUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/"
 ampWebUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 109
 published: true
 
 provider:
-  name: TechCrunch
+  name: YAHOO!News
   domain: techcrunch.com
   images:
     - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
@@ -45,7 +45,21 @@ related:
         width: 1134
         height: 765
         isCached: true
+  - title: "San Francisco Police Want To Use Robots to Kill Criminal Suspects"
+    excerpt: "The San Francisco Police Department has struck out a line stating, “Robots shall not be used as a Use of Force against any person.\""
+    publishedDateTime: 2022-11-23T20:32:00Z
+    webUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-police-want-to-use-robots-to-kill-criminal-suspects/"
+    type: article
+    provider:
+      name: The New Civil Rights Movement
+      domain: thenewcivilrightsmovement.com
+    quality: 39
+    images:
+      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2022/11/killer-robot-san-fransisco-police.jpg"
+        width: 480
+        height: 267
+        isCached: true
 
-secured: "SM5tSLh+nqzHj0kG64thit2E4O0w4zeXra9/jG+bAD7KNhxBX57M0i/1LfUswQXJPZmRiaOyxMM/gcxYnBTrcR21cDEusuLqzDI/wCge95LQq88LM7BdkcsGs8fHuqA2tzPjnYa/x0xMxvLxtz2AZrpPaMCyHJa70MndCZGvhDF1f3ZdXyotKuTjmsOcaCCKFcH+6AoZm+gRP0FUs13Qn9KtFvTEnKg8JAh9SCPVy7Z9CeFhGUUt2WuaTU7jzqHgXmBSkItmWpta52hZFWH8QpkHo9EQ3KecfKm3XzjIemwSggeL25NU6/RxzHIcr5/mrj6S7G3Tb469QpvB6zpYHP0kksrMs2A/eYxXOVf1nBtJYGiNqwqltO7rtvSiMqdEY73hNGRxtcNw6+Z3Ouxvq4M3g9hLE9tKgghoRIsh7JnO3ZBERh6YK0LgFweTfac8OJi620zqvz1VkguM3xw/NMJE5xx/waBp1c9ScaAOCZf7LHZuuWSS7vgk6K0wDnVlTXQ4141YyyHYq5KKDQZ5mQ==;NsEkLh/4ljUAsdHiX7Txqg=="
+secured: "ilwQsE7Z2ewr7PcYMpXEk3S3pyP4J2eYmp3V3K3AvY3O+c+2bw5GqHpIfxrQG/TZMexhUdyxyhoHHUEZyVipCKno89QZYhxxnb97yvmG0plCF42YXBybudw2SgY1NAL7BlZ9nCDnSjJRpyiGhJWTyXirsLsBWk+Dg0tf7jh0wl3RXwI+64TrCI95NFpJNry3a0TppB1J6+9BJdwP/if8dfHpEyVtkFMhL2mag/fZvGymA+bdvzJZhfgC9sS0VTCDq9HnfM7GkwtSSDZ1GVExfc6gubad0h1UQ5LU0fZpgufgiSokDR2979Wb2dY1NEXw8TjnmeK6tQK5S+AmTiHW7WWZ4n57Td5cyUOSn9vGTm8=;pvv3HYYTW2yhRYSnz0L6IA=="
 ---
 

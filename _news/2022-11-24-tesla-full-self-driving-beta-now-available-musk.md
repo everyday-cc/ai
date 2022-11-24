@@ -55,6 +55,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Tesla opens Full Self-Driving beta to all, safety score be damned"
+    excerpt: "Tesla is now allowing everyone in North America to sign up for its Full Self-Driving beta, no matter what their safety score might be."
+    publishedDateTime: 2022-11-24T16:45:00Z
+    webUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned"
+    ampWebUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 59
+    images:
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/163600-cars-news-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned-image1-1gbivsackn.jpg"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Tesla full self-driving beta now available in N America, says Musk"
     excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
     publishedDateTime: 2022-11-24T12:00:00Z
@@ -149,6 +165,6 @@ related:
       domain: blogto.com
     quality: 13
 
-secured: "iJVuleL9CYIwGWfj3oA87gGImKQFV9n9Zuzizar30//D5VBrPp/WL8tljvzGHAs6agf8XZ5rjFpkgK8N81lQnT6mAUMA31nQnkUwx1Q6tEx+03SsP95n48dUJS4HzbtQOtnjyMvZV5l8zHejLN0BhzUacJ9FUhy2381JSwl8yaBaUIgC+6FdRRiethKqGWcvONSixl6XM57BYiDLoHEZ1QuhL3VrUorx29yLOsRgdbX7H+QkuS5u+Kep8FEKfhcj/3tG7qudowieZuImDRTCXVJZ4E+V6WwTJYWC3VDNkWKj/8bFOxHeNXcx0kforrqr/0Y/axCv5FT8L0Uv/OL10VWADPid/gjoJ5nWRtWYu/A=;TR7ZP+tSLTejgjuCy+2V7g=="
+secured: "Vl7OYpPU6/CkdaBfe9hebOJxOEFilkE5PQCK25JxXgOH8SN9+FeGThG7fmQioo2ReMzQCLcNuOlSx+vJHPQ+Ff8QDYABwo6IOj0vYN3qufOYqORuTnR+PhhiOBiRWT/yCfNIR4DSdshbHzjgIXGpkckNdFt94NoHHLWmfbfcEXwuwkir+5C/Aihckhs8JNO7n7UAkJ3+rTpyiWamyD03WwG7IlHVW2q9U4+ci6nBBGPssHHNBm3iE3CchPPP/BMd99dA1KMQF57wIWivqGLanHnkE4zxZOVzGIk1qexmXYpu6Vpqs98BeUwUAfZWHTg3vhR4MSvUyjfnKPFAdRJH35TC+D7+FUZiLTL2rF/vnxH/PYPAAv8Sf/61K9gzvLOC90Iwp9k/jfqHhHyTNV/FaD+9ga7KRDiYz4InTAD392aTqVPsNNd7HQB0M1FUFjcIj2KeG82BfJSpP9L8V+mptnnIfX4R4gsGcH5kE+ihekMjk7251oOijt3LdpaTSWeYQmmNPoMYnuT8+9jlmrJ7LA==;pnxAnid0fXaie6BYwOdguQ=="
 ---
 

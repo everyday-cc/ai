@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla opens Full Self-Driving beta to all, safety score be damned"
+    excerpt: "Tesla is now allowing everyone in North America to sign up for its Full Self-Driving beta, no matter what their safety score might be."
+    publishedDateTime: 2022-11-24T16:45:00Z
+    webUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned"
+    ampWebUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 59
+    images:
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/163600-cars-news-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned-image1-1gbivsackn.jpg"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Tesla full self-driving beta now available in N America, says Musk"
     excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
     publishedDateTime: 2022-11-24T12:00:00Z

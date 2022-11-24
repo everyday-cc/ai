@@ -1,27 +1,29 @@
 ---
 category: news
-title: "TSMC rumored to make Tesla's next-gen self-driving chips"
-excerpt: "EV maker Tesla is rumored to have placed a massive order with TSMC to manufacture its next-generation Full Self-Driving (FSD) chips, potentially making it one of the Taiwan-based foundry's largest customers,"
-publishedDateTime: 2022-11-22T04:42:00Z
-originalUrl: "https://www.digitimes.com/news/a20221122VL204/5nm-samsung-tesla-tsmc.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20221122VL204/5nm-samsung-tesla-tsmc.html?chid=13"
+title: "Tesla opens Full Self-Driving beta to all, safety score be damned"
+excerpt: "Tesla is now allowing everyone in North America to sign up for its Full Self-Driving beta, no matter what their safety score might be."
+publishedDateTime: 2022-11-24T16:45:00Z
+originalUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned"
+webUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned"
+ampWebUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
+cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: Pocket-lint
+  domain: pocket-lint.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.digitimes.com/newsshow/20221122vl204_files/2_b.jpg"
-    width: 640
-    height: 427
+  - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/163600-cars-news-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned-image1-1gbivsackn.jpg"
+    width: 945
+    height: 630
     isCached: true
 
 related:
@@ -54,22 +56,6 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/09/elon-musk.jpg?quality=100&strip=all"
         width: 1000
         height: 750
-        isCached: true
-  - title: "Tesla opens Full Self-Driving beta to all, safety score be damned"
-    excerpt: "Tesla is now allowing everyone in North America to sign up for its Full Self-Driving beta, no matter what their safety score might be."
-    publishedDateTime: 2022-11-24T16:45:00Z
-    webUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned"
-    ampWebUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/163600-cars-news-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned-image1-1gbivsackn.jpg"
-        width: 945
-        height: 630
         isCached: true
   - title: "Tesla full self-driving beta now available in N America, says Musk"
     excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
@@ -105,6 +91,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "TSMC rumored to make Tesla's next-gen self-driving chips"
+    excerpt: "EV maker Tesla is rumored to have placed a massive order with TSMC to manufacture its next-generation Full Self-Driving (FSD) chips, potentially making it one of the Taiwan-based foundry's largest customers,"
+    publishedDateTime: 2022-11-22T04:42:00Z
+    webUrl: "https://www.digitimes.com/news/a20221122VL204/5nm-samsung-tesla-tsmc.html?chid=13"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221122vl204_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Tesla's full self-driving beta now available: Elon Musk"
     excerpt: "Musk had come under heavy scrutiny in August over the controversial Autopilot advanced driver assistance system that has allegedly killed many."
     publishedDateTime: 2022-11-24T14:21:00Z
@@ -165,6 +165,6 @@ related:
       domain: blogto.com
     quality: 13
 
-secured: "lWEFNOgBB4Y0xSVF966H0aQjSB+3HFI+Su1rfJQ+K/a8Jh/zOW6yKU8gkGg0qdNu/t5JJndZkgldy75cLyaGoor87sF4c57yba9JPEVDxMTfyBdfiV6sgz0eR7qFR8pAWyEv0yQB9JalEbYP+USJX9ie/rTm/wfp7Ror5ZiE8LX8EUdIe8RM6+0cNPvQn/FJ6Vmc5eDMjMLoYVsAH3WmPSf1sjxYvc0LOEfoQqjh82PFhrnJI4uFHUKVuC38t1Aby7vGSNp0KphYAoqWVnepUp7ubU85TsHC1V0tBSLE6xFddmCjYjzTnrhOHf9Dj6ktXgbQcRgzyz3VOekbAOUa5dxG7NIRbB22zcPOIoFh0KDxxU3+ZzxQV0y5xhEuypRBeOzwXxoC/UJTS8lJ6v4NfrdcvOwJ/vYvYrJrzESN8O0EcFzd2Bibrn9Uq8IB/YnC1YONpw4DOjqKxHo6uCp4ZkUtVhKea9Gl/cW6ZkqmTiUFAv12Y1EmuK54UIc5rrn9oQLUJ7F2RipOXNZilUTYjQ==;162MGcfAl4nxRlZnPT+yWg=="
+secured: "GdpT3ib2HmjArAiLEnVAtmkTxfd8ujcSEsaSK8c7AJG7SDhPdd+MrPJab2j89a6zmr9N/c75KktO4uqh4sZszI8ClyUAxuUPaAVLweNrsFeKTHx4pSAzAnY2LJROSw7Z1KvHZiBpOkLDZJUbJPSpZ3YAlhX2RxeR55PLHLhao4V32eRt9qmGYz9sXcgsOjQM3jN9st/2/Ibxwp+piVnN543hd+p/4UL6EW3QzyqZGQm7kDnN8K9ACntuyc4zuMJANomBh8bvWT9AdEpSsY3PjGun7kxjZm+mYZ9B85kd/DCH2iB4QHC0y9hqsI6Zly3O1di7oSM8BFQ3ZdM81jFZ9jtIan48jh+g8lraZuTZLZg=;2jzBIoELk+gcbJPe9/pcnQ=="
 ---
 
