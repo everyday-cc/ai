@@ -4,6 +4,201 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/jean-liu.md",
+      "title": "Jean Liu",
+      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
+      "type": "profile",
+      "name": "Jean Liu",
+      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "location": "Beijing, China",
+      "twitter": {
+        "username": "jeanliuqing",
+        "url": "https://twitter.com/jeanliuqing",
+        "followers": 1420
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/u/2209030102",
+        "followers": 1906714
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jean Liu",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/laurence-moroney.md",
+      "title": "Laurence Moroney",
+      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
+      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
+      "type": "profile",
+      "name": "Laurence Moroney",
+      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "location": "Sammamish, WA",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "lmoroney",
+        "url": "https://twitter.com/lmoroney",
+        "followers": 28039
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/laurence-moroney/"
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Laurence Moroney",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sonja-betschart.md",
+      "title": "Sonja Betschart",
+      "excerpt": "Passionate about using technology to make the world a better place and create new businesses and experiences",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sonja-betschart/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sonja-betschart/",
+      "type": "profile",
+      "name": "Sonja Betschart",
+      "bio": "Passionate about using technology to make the world a better place and create new businesses and experiences",
+      "location": "Geneva, Switzerland",
+      "twitter": {
+        "username": "sobetschart",
+        "url": "https://twitter.com/sobetschart",
+        "followers": 420
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sonjabetschart/"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/722006548713771008/EVgIvepe_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sonja Betschart",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alex-smola.md",
+      "title": "Alex Smola",
+      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
+      "type": "profile",
+      "name": "Alex Smola",
+      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "location": "Palo Alto, CA",
+      "website": "http://alex.smola.org/",
+      "twitter": {
+        "username": "smolix",
+        "url": "https://twitter.com/smolix",
+        "followers": 19843
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
+        "citations": 151656
+      },
+      "affiliation": {
+        "path": "",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alex Smola",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/andrew-zisserman.md",
+      "title": "Andrew Zisserman",
+      "excerpt": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-zisserman/index.json",
+      "webUrl": "https://everyday.cc/ai/people/andrew-zisserman/",
+      "type": "profile",
+      "name": "Andrew Zisserman",
+      "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
+        "citations": 327225
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "University of Oxford",
+        "domain": "ox.ac.uk"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Andrew Zisserman",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/anil-k-jain.md",
       "title": "Anil K. Jain",
       "excerpt": "Michigan State University",
@@ -315,6 +510,49 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/jacob-searcy.md",
+      "title": "Jacob Searcy",
+      "excerpt": "Jake Searcy joined UO's Data Science Initiative from Michigan where he worked for Ford Motor Company, developing novel AI methods in their Global Data Insight and Analytics department. He began his data science career as a University of Michigan particle physicist, building data pipelines and applying machine learning techniques to the vast datasets produced at CERN's Large Hadron Collider. He currently collaborates with researchers across campus to implement AI solutions for emerging research problems and is the Associate Director of AI for UO's Research Advanced Computing Services. Searcy received his PhD from the University of Oregon in 2012.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jacob-searcy/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jacob-searcy/",
+      "type": "profile",
+      "name": "Jacob Searcy",
+      "bio": "Jake Searcy joined UO's Data Science Initiative from Michigan where he worked for Ford Motor Company, developing novel AI methods in their Global Data Insight and Analytics department. He began his data science career as a University of Michigan particle physicist, building data pipelines and applying machine learning techniques to the vast datasets produced at CERN's Large Hadron Collider. He currently collaborates with researchers across campus to implement AI solutions for emerging research problems and is the Associate Director of AI for UO's Research Advanced Computing Services. Searcy received his PhD from the University of Oregon in 2012.",
+      "location": "Eugene, OR",
+      "website": "https://datascience.uoregon.edu/jake-searcy",
+      "twitter": {
+        "username": "jakesearcy",
+        "url": "https://twitter.com/jakesearcy",
+        "followers": 88
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/jacob-searcy-28819b51/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=Bgzrdc8AAAAJ",
+        "citations": 173638
+      },
+      "affiliation": {
+        "path": "",
+        "name": "uoregon.edu",
+        "domain": "uoregon.edu"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1520505410939015169/gH_5xVeY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jacob Searcy",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/james-peng.md",
       "title": "James Peng",
       "excerpt": "Founder and CEO at Pony.ai. Expert in self-driving, large-scale distributed systems, large-scale data processing and storage, database pipeline optimization, and performance tuning.",
@@ -344,44 +582,6 @@
           "height": 120,
           "title": "James Peng",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jean-liu.md",
-      "title": "Jean Liu",
-      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
-      "type": "profile",
-      "name": "Jean Liu",
-      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "location": "Beijing, China",
-      "twitter": {
-        "username": "jeanliuqing",
-        "url": "https://twitter.com/jeanliuqing",
-        "followers": 1420
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/u/2209030102",
-        "followers": 1906714
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -920,186 +1120,6 @@
           "width": 122,
           "height": 126,
           "title": "Maurizio Pierini",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/mherubahsan-161-15-726.md",
-      "title": "Mherubahsan 161-15-726",
-      "excerpt": "student of computer science",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mherubahsan-161-15-726/index.json",
-      "webUrl": "https://everyday.cc/ai/people/mherubahsan-161-15-726/",
-      "type": "profile",
-      "name": "Mherubahsan 161-15-726",
-      "bio": "student of computer science",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=uVsDGTUAAAAJ",
-        "citations": 295075
-      },
-      "affiliation": {
-        "path": "",
-        "name": "diu.edu.bd",
-        "domain": "diu.edu.bd"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=uVsDGTUAAAAJ&citpid=1",
-          "width": 128,
-          "height": 100,
-          "title": "Mherubahsan 161-15-726",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/michael-i-jordan.md",
-      "title": "Michael I. Jordan",
-      "excerpt": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/michael-i-jordan/index.json",
-      "webUrl": "https://everyday.cc/ai/people/michael-i-jordan/",
-      "type": "profile",
-      "name": "Michael I. Jordan",
-      "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 245863
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=yxUduqMAAAAJ&citpid=3",
-          "width": 85,
-          "height": 128,
-          "title": "Michael I. Jordan",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/nick-bostrom.md",
-      "title": "Nick Bostrom",
-      "excerpt": "Professor at University of Oxford; Director of Future of Humanity Institute; Director of Governance of AI program",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nick-bostrom/index.json",
-      "webUrl": "https://everyday.cc/ai/people/nick-bostrom/",
-      "type": "profile",
-      "name": "Nick Bostrom",
-      "bio": "Professor at University of Oxford; Director of Future of Humanity Institute; Director of Governance of AI program",
-      "website": "https://nickbostrom.com/",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=oQwpz3QAAAAJ",
-        "citations": 23452
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Nick_Bostrom"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=oQwpz3QAAAAJ&citpid=3",
-          "width": 249,
-          "height": 250,
-          "title": "Nick Bostrom",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/oren-etzioni.md",
-      "title": "Oren Etzioni",
-      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
-      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
-      "type": "profile",
-      "name": "Oren Etzioni",
-      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "location": "Seattle",
-      "website": "https://allenai.org/team/orene/",
-      "twitter": {
-        "username": "etzioni",
-        "url": "https://twitter.com/etzioni",
-        "followers": 26541
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 43058
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Allen Institute for AI (AI2)",
-        "domain": "allenai.org"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Oren Etzioni",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/ray-kurzweil.md",
-      "title": "Ray Kurzweil",
-      "excerpt": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ray-kurzweil/index.json",
-      "webUrl": "https://everyday.cc/ai/people/ray-kurzweil/",
-      "type": "profile",
-      "name": "Ray Kurzweil",
-      "bio": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ray_Kurzweil"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Raymond_Kurzweil_Fantastic_Voyage.jpg/440px-Raymond_Kurzweil_Fantastic_Voyage.jpg",
-          "width": 440,
-          "height": 546,
-          "title": "Ray Kurzweil",
           "isCached": false
         }
       ],

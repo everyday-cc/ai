@@ -3,7 +3,7 @@ name: "Rosalind Picard"
 bio: "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica."
 location: Cambridge, MA
 type: "profile"
-heat: 50
+heat: 65
 
 affiliation:
   name: MIT
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Rosalind Picard"
 
-secured: "fF93hvwnqqQ7DDPKzwEQUezYU6ZVYDSG6gUIV3/b4Ez8WPQdNdTPuBugcpPn/eg2fsebnxWQMlX4XOA3SVK+kUtmK+X8N8XdpB5sCth2YyzaIFrDX8RZ84c9kWQoXSlpWI26jmTdpVb1bmcobc7bK7TtPtUvzVhiE3t0XuTgeiqni+KgYAHPoIIYBqrK+iu+ZCR85AulgfS6ZsPd9oRBfKwRoTj6nzwKIVqjLt24+yGOz0fcCY+aextWW2NTFblxJtqyfgBmP0XGKiea9Un/42CfzU9GS7WIjPXSz9J0mMMQIS5R4GZ188rFW99+dd2fzmtRy6IrTsHGBA4hm+DPEEQXRj+VZqIf/Jr3sOC7ZgH/Jqeh73Uy0DaSk//+DCxesRj7K/Yxqlwp+f2ZK2iw8TEUw8lKhHoFr9jlfWW9Sm0=;XgppouxAuIvJa17f2gYrDQ=="
+secured: "GCwBKLHxm/wV2/fuieo/Q8Zsatff3VJ44xyx0m0YR+a9vRqrSLraKjrGX08hDqm1uJ3x3XIusxxGJI1HfChOOyVgMPOGomicmvoVdcK/eqDDadHM8rKd70V/+9VbLZQpy12PweI6gGKls5ewYIbHVPR2pPZEF4fTkf1f4uZLda+ePfA2XGoNRhB2tejC3Xd6P2+vpwbEIQe8bTecuvcJaY4o+1A/RhbaVXELE+r8U2l87dZNx2iGJUyfcjJv3pkofkfe6LGIAm9Mxghh/bqX81o+/j/vdtVrl9/hwmMmceRpwDl4ubfXR1r7LemjcAuYMxqXq3EWrSFaX2GRan1W6wRPg7Y4qbwhHrW3+AX0OoMIfSZ4q5qOW2guA8fWd5y9gkLaIA0LimJXSs58OrE2Y6m6lHqjRTypMABbKzw8QzQ=;17eLzT3RPhF0Qm4f1rxuSg=="
 ---
 
