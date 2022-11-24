@@ -92,8 +92,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -346,7 +347,8 @@
       "topics": [
         "AI",
         "AI in Robotics",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {

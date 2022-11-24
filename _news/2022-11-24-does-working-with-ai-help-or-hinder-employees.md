@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/adigaskell/2022/11/24/does-working-with-ai-help-or-hinder-employees/"
 webUrl: "https://www.forbes.com/sites/adigaskell/2022/11/24/does-working-with-ai-help-or-hinder-employees/"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "DeepMind’s New AI Framework Helps Machines Understand Humans Better"
+    excerpt: "DeepMind recently released a framework that will enable the creation of AI agents that can understand human instructions and perform actions."
+    publishedDateTime: 2022-11-24T10:42:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-new-ai-framework-helps-machines-understand-humans-better/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/deepmind-neuro.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "vPxS13l+IRmt8fpLqmQSQoxOVA8fdaMwEgW0/wA6wbpK1MxCWs0ogGejyMs5Ixj4hfhFgTzUy6P9rQDH23DV+os1CvVhTRzSOstsHihUSueCuphXdQ/N1Xm/wh19R3aYhFxQzCviX3wJgHAfxYfRc5z5FuTDqIw5qz8d1zuVqppiUNclZxdkCYyDpOqfdrNVUMDl/VwNFcrYdir+M8/8OGIHewKa/tVvlL8ozfjw9KooTh6vd8hsohrK2VyE2gKi9i7yfQsiwWWN08FOpogbmfMArEz3nNCGPlqaAS/1w/HSyO/tbx99jZSYK9MmAkNq4cJy/w4V/uTGadZ69+zwVaM5H7GwWFVAku/GXn90g759EmppHu0n6jpoYZaslnUVGjFtx0yv6AjRZgp1qywjL9Sft1jv4CarbTMZPM2M3aXGH5vBqp3PLWr/tp43YjFr+/n0esZ6vxVt6+DaKqauUHPjx/mwog5/e73+P8frmTVfYgXlaFcYM0mr022VfgNs6JTn8dpthyPeDyWBP6jUBQ==;0nqzll2aj+Ev6CA+HNm4pA=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
-    excerpt: "\"Off-line\" periods during AI training mitigated \"catastrophic forgetting\" in artificial neural networks, mimicking the learning benefits sleep provides in the human brain."
-    publishedDateTime: 2022-11-19T22:32:00Z
-    webUrl: "https://neurosciencenews.com/ai-ann-rest-learning-21899/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 34
-    images:
-      - url: "https://neurosciencenews.com/files/2022/11/ai-learning-rest-neurosciecnces-public.jpg"
-        width: 770
-        height: 514
-        isCached: true
 
 secured: "iWtyiH3WhWEee+9jAkBAPgUF7e3+24cajWr3Z84psCvLCC/JKc88h4joknBMtjmcalrGn2ZGKzB6Z9JUcLOufTGkSbStYJrVL98vC48o4Kv0RcaF94Oywy2NY65aYB/il+Kzoib7p0J17gSA49Re0YR65KXLseNeUtHsEblaOO0cOkBNM+g8NuOmxYuNdPsRP7vBiS0WbawRkbyMmpFMkKQrvpDBviAuoUEJC1PwO8/EV2jqCYsBS9AhIXyo73wYayUGYKHR4T+iQjMOhdjK9dGYvfZq0NygsHkDT4jevS+7VRxiPl++oxwyoWSvSh0gvXR+73hfDl2lAPo2tgS+WpZxlE9XEpNJ3fcle07+Op0fa81KuE1TnVWxKmylCAIjpY4ZhUZGD1+xbVNLPSTgLmPQgocHkIhblg1jXYioIq7b0dbzvqaHafdJoDW+UB4g5fH31vcH/mIDWtrcQPWQz+XAHs2/CYEiuf115ujBtERY1uh63vT1yGNvOjiLXF2ImiOtPuqr2RqXkpTLHLW+bQ==;VIhZzNhbiZSsiuUGLH0Piw=="
 ---

@@ -6,16 +6,24 @@ publishedDateTime: 2022-11-24T14:25:00Z
 originalUrl: "https://www.design-reuse.com/articles/53076/using-edge-ai-processors-to-boost-embedded-ai-performance.html"
 webUrl: "https://www.design-reuse.com/articles/53076/using-edge-ai-processors-to-boost-embedded-ai-performance.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Design-Reuse
   domain: design-reuse.com
 
 topics:
-  - Computer Vision
-  - AI
   - Machine Learning
+  - AI
 
-secured: "pNbU0H6GPfZlbi878Tt8i+LdjAAZr9bdRBa6ffja/da2ceLRWWEpZpB0qWhZBmMfyt6O+Nhko4XlsUpyb/8Vcr7Cot4ofZ0gK9Mm73+Vjidu/6QcaX+oiq5w7QdMwO3FUelStm+wOFEFcOnIEBpQJKnTup8Nw+ZFzGNPl9yB/IJfOimYK0efpQNdFUurNJ0surR8d4umNHfG7mI/aa8bnQaBWLAlzutvzvLIR82DTJ7W4fSa3aLIrxEoBhnQSnvjcepezzAgbDwzRha9vz34VQhp5WyhdRVezShhXoJnbBu5Ju5b7HulW/jtspwHPmWeePhff3LlvUqXuOwtpJrs9NKs0Vb760USDD5+5o3uyOt4xry1U2MU7pAllFaAnSNUY2mMQQ+fS6J0McPybGD+sQhn/hQxAOCBkGIoCU8N7I1JVcr8YKINogo57Y1Q+KSAa5M/4MY4+OfjCCH4UcY8pM5ZPFGKIJszvUkTUEH9iM1M1vnQW0eaYxIdP0xJ0kfOo+tcHdI3z+Uv76n4pZLMYw==;6rCLJ/zB0hyYg65KHo/MYw=="
+images:
+  - url: "https://www.design-reuse.com/news_img2/homepage53076/Smart-Camera-Graphic1.jpg"
+    width: 900
+    height: 445
+    isCached: true
+
+secured: "LqzPlG0bEE5tiBx7T6MXP6SyrvdLv8pCmok11g839PQj7ogIXXTSUEOFrBxdCVmXTakmac0vXz02cC1ZI6dxX3U5nzLqJ/Ijgbtmvv5DQkHDs4ZHxnwBhjszq6dBigagYmSMlQ2XKMa6Wf9WLIjDiLp/8li6jdXQ8LzllQD4YRmhYOkeCUJKBMEFBDzj76D1FNzS7creX5KxW2bjnt8jWt/uCbftDKbsPThG09mSKcLe7YIJapqZtUxo0fA2UwmamesPPR9aFHh3DPwv5YqGBCSOo+MFiA1OPuhN8oQiOWg99LLdg15Qla9+YLq81D0heP2ZQtLq3yNsLp67Di9LkNYZGhpp/j1dBQ5rdEvtfvk=;vaAzPerErRyf8m+5I4VCEA=="
 ---
 

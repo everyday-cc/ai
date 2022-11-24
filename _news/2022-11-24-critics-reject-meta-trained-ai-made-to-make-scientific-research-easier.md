@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T13:12:00Z
 originalUrl: "https://www.thenews.com.pk/latest/1012971-critics-reject-meta-trained-ai-made-to-make-scientific-research-easier"
 webUrl: "https://www.thenews.com.pk/latest/1012971-critics-reject-meta-trained-ai-made-to-make-scientific-research-easier"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The News International

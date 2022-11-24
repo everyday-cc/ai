@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Envision Physician Services and Qure.ai Sponsor AI After Dark – An Artificial Intelligence Symposium Featuring Renowned International Radiologists"

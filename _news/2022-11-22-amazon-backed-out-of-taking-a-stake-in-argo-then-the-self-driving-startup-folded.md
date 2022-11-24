@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-22T11:25:00Z
 originalUrl: "https://www.autonews.com/mobility-report/missed-opportunity-why-amazon-backed-out-argo-investment"
 webUrl: "https://www.autonews.com/mobility-report/missed-opportunity-why-amazon-backed-out-argo-investment"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Ford%20Argo%20test%20drive_DSC0230_C1-main_i.jpg"

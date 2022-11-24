@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

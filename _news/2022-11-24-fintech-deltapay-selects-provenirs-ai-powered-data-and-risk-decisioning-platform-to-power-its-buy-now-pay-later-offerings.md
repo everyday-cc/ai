@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T13:22:00Z
 originalUrl: "https://financialit.net/news/risk-management/fintech-deltapay-selects-provenirs-ai-powered-data-and-risk-decisioning"
 webUrl: "https://financialit.net/news/risk-management/fintech-deltapay-selects-provenirs-ai-powered-data-and-risk-decisioning"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Financial IT

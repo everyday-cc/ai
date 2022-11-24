@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-22T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/benchmarking-the-next-generation-of-never-ending-learners"
 webUrl: "https://www.deepmind.com/blog/benchmarking-the-next-generation-of-never-ending-learners"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

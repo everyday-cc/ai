@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
+  - title: "AI works on artificial DNA for future drug development"
+    excerpt: "With the help of AI, researchers in Sweden have succeeded in designing synthetic DNA that controls the cells' protein production."
+    publishedDateTime: 2022-11-24T14:06:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/ai-artificial-dna-future-drug-development/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 41
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2022/11/shutterstock-1803136597.jpg"
+        width: 1000
+        height: 446
+        isCached: true
   - title: "How Artificial Intelligence Is Shaping The Future Of Ecommerce"
     excerpt: "How Artificial Intelligence is Shaping the Future of eCommerce . November 19, 2022 by mark allinson leave a comment . Artificial intelligence"
     publishedDateTime: 2022-11-20T07:38:00Z

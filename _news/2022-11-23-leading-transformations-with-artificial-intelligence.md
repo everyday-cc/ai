@@ -42,19 +42,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "From artificial intelligence to business intelligence"
-    excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
-    publishedDateTime: 2022-11-19T22:30:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/from-artificial-intelligence-to-business-intelligence/"
+  - title: "Meet the start-up using robotics, AI, and ‘per plant farming’ to transform crop cultivation"
+    excerpt: "Next-generation technology is required to make better decisions in crop agriculture, according to UK start-up The Small Robot Company."
+    publishedDateTime: 2022-11-24T16:20:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2022/11/24/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 59
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
-        width: 1200
-        height: 675
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "+UFONHhZz5rucJZq+HYq2nBP5Jo8jZewfnJox6oplhax5IKzoiR9JxPLlvupphR72r8EMmrh8iKcYao8vgwdeJa6+SjZNszMVfKbOTLqdxFlJJNsOBEdohPWb1IIpgBaYQvaaU1H4la0EkemQq2MTGQcSO5aVYD5vDcTSMZYgSt2360HGxLuP1IZXgKxDhheEVycQ13ENEozn4d6/FbIBYSPrORAm3vtScrAYWJU3by4CXxdySt/1JoplCUdnzuT8StUEGCdWYznAE1PIMN5ToQxv738DW+ICdEYZVaPx4KpQ5BGkc9KMSrXrdExkZoByOrXIMo8e7aTMtjGYlgiXaPN3uugNqPZnCbJO9NB+mIp1FrquZDv81Me496NOoM871nDWma3gcUdmQgswqUz7Z3Fc22zgoNd1KwWioK3c9VMnEqLGVrE5V0fxjQo7l4WkLRu5tJq9Xc6O/t0ZPhAL5HsZXHrWOsQ+80FjiH0GcbeyUuU4CAkqMd/J64pLSm7jk9NPHAqxUgREsBhi0jy0A==;UjEO52nJMMb2RMIezWPd+w=="

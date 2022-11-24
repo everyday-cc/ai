@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -324,7 +324,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -605,8 +605,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -712,7 +713,8 @@
       "topics": [
         "AI",
         "AI in Robotics",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {

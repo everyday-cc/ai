@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T13:01:00Z
 originalUrl: "https://www.detroitnews.com/story/business/2022/11/24/sams-clubs-ai-knows-how-much-pumpkin-pie-youll-eat-this-holiday-tdn/69675613007/"
 webUrl: "https://www.detroitnews.com/story/business/2022/11/24/sams-clubs-ai-knows-how-much-pumpkin-pie-youll-eat-this-holiday-tdn/69675613007/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Detroit News

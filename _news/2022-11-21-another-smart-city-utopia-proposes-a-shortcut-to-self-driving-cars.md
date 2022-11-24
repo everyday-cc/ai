@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Stellantis buys aiMotive for self driving cars"
+    excerpt: "Stellantis has announced that it is purchasing aiMotive, a company that specializes in technology for self-driving vehicles. The company owns a wide range"
+    publishedDateTime: 2022-11-24T14:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/stellantis-buys-aimotive-for-self-driving-cars-24-11-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/Alfa-Romeo-Tonale3.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "This self-driving car technology stock can jump more than 25%, Goldman Sachs says"
     excerpt: "Goldman initiated coverage of the stock with a buy rating, saying the maker of technology for self-driving cars can gain market share in a competitive market."
     publishedDateTime: 2022-11-21T11:34:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T13:45:00Z
 originalUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-pleo-appoints-former-healx-cto-to-leadership-team"
 webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-pleo-appoints-former-healx-cto-to-leadership-team"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: fintechmagazine

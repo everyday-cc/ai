@@ -35,22 +35,45 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Full Self-Driving beta now available: Musk"
-    excerpt: "The rollout of FSD comes at a time when Tesla faces a criminal investigation from the US Department of Justice over potentially false claims related to Autopilot, the company's advanced driver assistance system."
-    publishedDateTime: 2022-11-24T10:05:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/tesla-full-self-driving-beta-now-available-musk/95738196"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/tesla-full-self-driving-beta-now-available-musk/95738196"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/tesla-full-self-driving-beta-now-available-musk/95738196"
+  - title: "Tesla's Full Self-Driving Beta now available to all in North America, Musk says"
+    excerpt: "Tesla’s Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight. We apologize, but this video has ..."
+    publishedDateTime: 2022-11-24T16:06:00Z
+    webUrl: "https://torontosun.com/news/world/teslas-full-self-driving-beta-now-available-to-all-in-north-america-musk-says"
+    ampWebUrl: "https://torontosun.com/news/world/teslas-full-self-driving-beta-now-available-to-all-in-north-america-musk-says/wcm/989123ec-4e77-4514-85ad-b377ff2fd7aa/amp/"
+    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/world/teslas-full-self-driving-beta-now-available-to-all-in-north-america-musk-says/wcm/989123ec-4e77-4514-85ad-b377ff2fd7aa/amp/"
     type: article
     provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 74
+      name: Toronto Sun
+      domain: torontosun.com
+    quality: 70
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95738196,imgsize-47886,width-1200,height-628,overlay-etauto/tesla-full-self-driving-beta-now-available-musk.jpg"
-        width: 1200
-        height: 628
+      - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/09/elon-musk.jpg?quality=100&strip=all"
+        width: 1000
+        height: 750
         isCached: true
+  - title: "Tesla Full Self-Driving beta now available: Musk"
+    excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
+    publishedDateTime: 2022-11-24T15:59:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/tesla-full-self-driving-beta-now-available-musk-770531"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/11/24/1321986-tesla.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Tesla Opens Floodgates for Owners to Test Out Automated Driving"
+    excerpt: "Tesla Inc. is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
+    publishedDateTime: 2022-11-24T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-11-24/tesla-opens-floodgates-for-owners-to-test-out-automated-driving"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "TSMC rumored to make Tesla's next-gen self-driving chips"
     excerpt: "EV maker Tesla is rumored to have placed a massive order with TSMC to manufacture its next-generation Full Self-Driving (FSD) chips, potentially making it one of the Taiwan-based foundry's largest customers,"
     publishedDateTime: 2022-11-22T04:42:00Z
@@ -65,6 +88,33 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Tesla's full self-driving beta now available: Elon Musk"
+    excerpt: "Musk had come under heavy scrutiny in August over the controversial Autopilot advanced driver assistance system that has allegedly killed many."
+    publishedDateTime: 2022-11-24T14:21:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/nov/24/teslas-full-self-driving-beta-now-available-elon-musk-2521725.html"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 34
+  - title: "Tesla’s ‘Full Self-Driving’ Beta available for all in North America: Elon Musk"
+    excerpt: "The feature was gradually rolling out since 2020 for select customers and required drivers to touch a minimum safety threshold with Tesla’s built-in Safety Score feature and covering 100 miles applying the Autopilot."
+    publishedDateTime: 2022-11-24T14:30:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/teslas-full-self-driving-beta-available-for-all-in-north-america-elon-musk-101669290879773.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 30
+  - title: "Tesla makes full self-driving beta software available to everyone in North America"
+    excerpt: "Tesla is making its full self-driving (FSD) beta software available “to anyone in North America who requests it,” CEO Elon Musk has tweeted. FSD is the most high-tech option of Tesla’s advanced driver assistance features."
+    publishedDateTime: 2022-11-24T13:48:00Z
+    webUrl: "https://www.standard.co.uk/tech/tesla-full-self-driving-beta-software-update-expansion-b1042297.html?amp"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 28
   - title: "Autonomous driving: Everything you need to know about self-driving cars"
     excerpt: "Autonomous driving is the new goal of the automaking industry. Many companies have started their research on different levels of autonomous driving. Typically, the term \"autonomous driving\" refers to self-driving cars or other transportation systems that operate with varying levels of assistance from a human driver,"
     publishedDateTime: 2022-11-22T11:53:00Z

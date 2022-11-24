@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-startup-tried-to-use-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/"
 type: article
 quality: 73
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI Startups to Watch this 2023"
-    excerpt: "Artificial intelligence (AI) is one of the biggest breakthroughs of the 21st century. From positioning companies as powerful players in the global scene to exploring uncharted goldmines that organizations sit on,"
-    publishedDateTime: 2022-11-22T15:45:00Z
-    webUrl: "https://techbullion.com/5-ai-startups-to-watch-this-2023/"
-    ampWebUrl: "https://techbullion.com/5-ai-startups-to-watch-this-2023/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ai-startups-to-watch-this-2023/amp/"
+  - title: "Using AI to help write code? The tech just isn't there yet, says a company that tried"
+    excerpt: "The CEO of code completion tool Kite says state-of-the-art machine learning (ML) for code synthesis isn't there yet, and says it is stopping work."
+    publishedDateTime: 2022-11-24T10:58:00Z
+    webUrl: "https://www.zdnet.com/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/5-AI-Startups-to-Watch-this-2023.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/8afe96ebc5cae01d0037d47efb01e067aaef824b/2022/03/30/93dfb7e9-9e6e-404e-be0e-87d0d1d88aa7/tech-workers-digital-jobs-team-programmer-developer-deisgn-hinterhaus.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
 
 secured: "f2mGn/30mkea4q8B6DY0J0FSHMXCC8BugN8aiGDq2ebElPzJiXYn8wLMY73h9kW7VQW5qU5OOjUaE/XAZcc+twfLsvTZZVzJM+SSmaLx8c0YHM/2hUY1VuAeB2Qc553i67gg0d55LpESBlkIL8lpWz90OtwFgzvbq2Zc0iUVLLaqWH9E3oWYz8PFBBmgMh0xtG1s4FBdGFGTXeWlDjHZULnKVf9WmorVlfcaFr/pTDAWomyg9LELifScpnpsbj0iGlrICDtgjCVSiLrGeyj9EUv03xFZVWiYDCOVZNwR349E6IhYEkikp49wKQx4Ebc7/tsdWldo/7LaFPkdYP0nz6z09LhCKJbD2nA4FUmjotofpnRWP/s97TNoFMLLgeDqcPMpWVOWPqd1OR4mTTovdfizImT9Qp5mM4CT0z6Sqfuxo8iDvmMHuvnFf3gkUySPvIh6SZ3Am2g1ZILq2tm1ijGmWNtSctYBm8KwE1LAJdGzY91OBBeieoRk13mdSKliWoYTOD9anih53YB4Dfj29Q==;q8R+QVZmfLNeiNJbYBbMkg=="

@@ -69,7 +69,7 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 17
+    quality: 19
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Ford%20Argo%20test%20drive_DSC0230_C1-main_i.jpg"
         width: 1200

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-23-this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet.md",
-      "title": "This startup tried to use AI to help developers write code. But it says the tech is just not ready yet",
+      "path": "_news/2022-11-24-using-ai-to-help-write-code-the-tech-just-isnt-there-yet-says-a-company-that-tried.md",
+      "title": "Using AI to help write code? The tech just isn't there yet, says a company that tried",
       "excerpt": "The CEO of code completion tool Kite says state-of-the-art machine learning (ML) for code synthesis isn't there yet, and says it is stopping work.",
       "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
       "originalUrl": "https://www.zdnet.com/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/4c426b806ef12fa298f2c7b687e4070ee842cc9d/2022/03/30/93dfb7e9-9e6e-404e-be0e-87d0d1d88aa7/tech-workers-digital-jobs-team-programmer-developer-deisgn-hinterhaus.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 512,
+          "url": "https://www.zdnet.com/a/img/resize/8afe96ebc5cae01d0037d47efb01e067aaef824b/2022/03/30/93dfb7e9-9e6e-404e-be0e-87d0d1d88aa7/tech-workers-digital-jobs-team-programmer-developer-deisgn-hinterhaus.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
-      "publishedDateTime": "2022-11-23T04:00:00-08:00",
+      "publishedDateTime": "2022-11-24T02:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",

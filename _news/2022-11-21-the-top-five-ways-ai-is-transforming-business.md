@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the start-up using robotics, AI, and ‘per plant farming’ to transform crop cultivation"
+    excerpt: "Next-generation technology is required to make better decisions in crop agriculture, according to UK start-up The Small Robot Company."
+    publishedDateTime: 2022-11-24T16:20:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2022/11/24/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation"
+    type: article
+    provider:
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 59
+    images:
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Leading transformations with artificial intelligence"
     excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
     publishedDateTime: 2022-11-22T16:19:00Z
@@ -43,20 +57,6 @@ related:
       - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
         width: 758
         height: 334
-        isCached: true
-  - title: "From artificial intelligence to business intelligence"
-    excerpt: "The Kainos AICON event, to be held next month in Belfast, will explore how artificial intelligence is already having an impact on business and government"
-    publishedDateTime: 2022-11-19T22:30:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/from-artificial-intelligence-to-business-intelligence/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=0c0bca6b-627e-592f-a93d-e6a83623c586&function=cropresize&type=preview&source=false&q=75&crop_w=0.96&crop_h=0.43452&width=1200&height=675&x=0.04&y=0.03472"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "lYh1nILmTplQcpuL2xGTSTsOgsqUnaekkxisMGPp89SNKqbsvuO7teRyfOhKL2Vl4Rq/tinWaU3qwUSFB4lRlccK8H5/1W7S0987y90dkriMJa7uFZpwqX8pTxa36TgwoAnso0JxqDfniCP3rEPOYb8ORgY86pgaEFccVi4BGFwSTS7fBuv97tXocv66VfsuZGFndoiigQS6OT4MJJGRaG2n9tS+2ANmWxPva5lInasxS2s4mIaKvrVs5flddTYmvEWJz9te1PZXV20+FI/EOA0V86FVu5cT35/zj46S1J6HmBsIBz2KxXF1RaQ11KoYHkn6C6cNx7Qrm55+UiL/GL6WmF3hTLXWb74phWshevkXkXt9msv/Shao53MZSp3uQTa7oqBIqmSh+N3CMErySzAhahww+SatlACwYgWQqcoUGglfv3VW/ZYD/klHBmKQrn5pHbdy/z4x2G2wunl5r9f92OtI+Wux9irGKUdn7oPu2d2yZWBcn5T/jqBX0nrSAHOsmqxCz67+EsHxI6zeVg==;YmnXvKKk67WRgHH/5xAp5Q=="

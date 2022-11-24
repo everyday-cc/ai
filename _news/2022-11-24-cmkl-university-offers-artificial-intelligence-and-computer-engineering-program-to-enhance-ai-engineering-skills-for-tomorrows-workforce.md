@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-24T02:22:00Z
 originalUrl: "https://www.ryt9.com/en/iqml/263644"
 webUrl: "https://www.ryt9.com/en/iqml/263644"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: RYT9
