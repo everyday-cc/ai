@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 41
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "vrd3EHBCBPBtG/ru9Mu7a+gNkatT+GuxRbIzXPhnIJKoHqJTIyBENBkCNPDV5GFOeSf9nveOeDDGOflFupAH76mqG7dW/NcgmnO2g3G6K0uDeGFbgTUDX/X3MKTngnSIS/bJYXAOI/+m4wliAcLqxTInY5crT88wPCdzZ5Urd//Vy3dtEpX9Bv62RilIqgTvdRGBzJJy0EXGOTg6rHQ4OPNJkFC6kqQbQE0WjPioEjLP2DFZjJzrRN2vtxLJ8zulf3G9vwhGFYq7PV7PcqotvKatDICBjB9qCCn8d2iCed8skQT74qZJXwsAvX/Dr85Zb935h0UcfIhGvTUAQJu7JH2jt3gy7pmIt1VGBuIYhO7+19mauewuQniLssNCujcElH6pKU94eVC+UdrUIjqvN2bIDUz1O0xHM0T7ztSr3oo=;cR7wLXPL6eoDv4oanO3G7g=="
+secured: "86G0FbbxjGbDiWKt40fC7vxlVRv0FGh/3kOigv/5brsebTnKCP4wDgrD7jY9iWbOZnZhbLEHVyEpIkxq9DRubeJrIuq8Aube+8+LEmhKjc/OvCoo6q5j9xTcAADizTqMUqc9+W3b3joWGhU6FWm5pn1BaMUGwdw8rBE/gaT5HA8SE+a3P9m/4EXTa9N0+nc3U1IZZSBA+hNOvp97KqslRbaCtMUAzokOrm2C1akUqj5uQC1SQxVZ/MKTzOA6i5wVtTpqb1MCtACwQ+LK0umIGfM9zXaQzdmTAtfwivG37MhcRkHDrMdc1cLR+SV7ZqlML45Adglv9duHcGfy4g4tCNMGTV2w13XeaPZhlVJaS+4q4EnUmQrANjrL/UtWXAMubyReB4qkqKwndGDnTL/dRWwIAQb2to8Cm9FXkXAExiU=;3NCA4ap7Q4p7z2wu/IDctw=="
 ---
 
