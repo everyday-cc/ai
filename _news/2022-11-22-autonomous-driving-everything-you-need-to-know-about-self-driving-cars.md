@@ -25,47 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Black Sesame Technologies and ZTE Join Forces for Self-Driving Cars"
-    excerpt: "Black Sesame Technologies and ZTE Join forces for self-driving car technologies. This made BST the first driving chip partner of ZTE"
-    publishedDateTime: 2022-11-21T12:06:00Z
-    webUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/"
-    ampWebUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
+  - title: "Tesla Full Self-Driving Beta is now available to all owners in North America"
+    excerpt: "Beta is now available to all owners who ordered the Full Self-Driving package in North America. It’s no longer limited to drivers with a high safety score. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-11-24T11:10:00Z
+    webUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
+      name: Electrek
+      domain: electrek.co
+    quality: 81
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla Full Self-Driving beta now available: Musk"
+    excerpt: "The rollout of FSD comes at a time when Tesla faces a criminal investigation from the US Department of Justice over potentially false claims related to Autopilot, the company's advanced driver assistance system."
+    publishedDateTime: 2022-11-24T10:05:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/tesla-full-self-driving-beta-now-available-musk/95738196"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/tesla-full-self-driving-beta-now-available-musk/95738196"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/tesla-full-self-driving-beta-now-available-musk/95738196"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/11/black-sesame-technologies-zte-self-driving-cars-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95738196,imgsize-47886,width-1200,height-628,overlay-etauto/tesla-full-self-driving-beta-now-available-musk.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Another Smart-City Utopia Proposes a Shortcut to Self-Driving Cars"
-    excerpt: "Billionaires and governments are expected to devise more than 80 smart cities by 2050, promising full self-driving and more. Might one lure you?"
-    publishedDateTime: 2022-11-21T15:50:00Z
-    webUrl: "https://www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/"
-    ampWebUrl: "https://www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/amp/"
+  - title: "Tesla full self-driving beta now available in N America, says Musk"
+    excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
+    publishedDateTime: 2022-11-24T12:00:00Z
+    webUrl: "https://www.business-standard.com/article/international/tesla-full-self-driving-beta-now-available-in-n-america-says-musk-122112400702_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/tesla-full-self-driving-beta-now-available-in-n-america-says-musk-122112400702_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/tesla-full-self-driving-beta-now-available-in-n-america-says-musk-122112400702_1.html"
     type: article
     provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 44
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
+  - title: "TSMC rumored to make Tesla's next-gen self-driving chips"
+    excerpt: "EV maker Tesla is rumored to have placed a massive order with TSMC to manufacture its next-generation Full Self-Driving (FSD) chips, potentially making it one of the Taiwan-based foundry's largest customers,"
+    publishedDateTime: 2022-11-22T04:42:00Z
+    webUrl: "https://www.digitimes.com/news/a20221122VL204/5nm-samsung-tesla-tsmc.html?chid=13"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://www.motortrend.com/uploads/2022/11/VIEW-06B-View-from-Building-Terrace-Night_Update-Dec.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img.digitimes.com/newsshow/20221122vl204_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "This self-driving car technology stock can jump more than 25%, Goldman Sachs says"
-    excerpt: "Goldman initiated coverage of the stock with a buy rating, saying the maker of technology for self-driving cars can gain market share in a competitive market."
-    publishedDateTime: 2022-11-21T11:34:00Z
-    webUrl: "https://www.cnbc.com/2022/11/21/this-self-driving-car-technology-stock-can-jump-more-than-25percent-goldman-sachs-says.html"
+  - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
+    excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
+    publishedDateTime: 2022-11-22T14:58:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 29
+      name: Futurism
+      domain: futurism.com
+    quality: 19
+  - title: "Tesla just unlocked its full self-driving mode beta in downtown Toronto so look out"
+    excerpt: "Today in things that might not end well for Toronto pedestrians, Tesla just lifted a geofence that, until now, prohibited drivers from using Full"
+    publishedDateTime: 2022-11-22T13:14:00Z
+    webUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
+    type: article
+    provider:
+      name: blogTO
+      domain: blogto.com
+    quality: 13
 
 secured: "E2Ufl8RW8QrqmyCwurEq6paGHORjHWqkgM6dzSri4w4IN6mYI8M0amxvXCZWa5XE30twknb1ONgh/hKK8sYNjLrZ0p6s7gM2xspj40MRC2Lci6PKy3X+XwRBzqj632bZQAnHzHrEQoTIkhZJpu2VcHerfSjo2CW7cXW3/fxAhDu86/PFiWirt+lcS+OO1j1h4SR56N+dGlVgGa4SrzifjgsvACOupU/Ksl29dacg0K6eJ2bYO2JBWAPPpt5VW+3XQwXaKqrEmtiDVlcwnQ46wb0w0Y3qM8V8KvobV8kbwKB8h9WD+pC+bCE+j+LfNpo84tnUhlglPay75abN9a+ATKFH+hrvZ1iNt4hBSZnTlTkMuJ8XUl6vslhRjZP+FQjN6YAYNhCk42LmHKnRM+JDvzwtxnI8TE7o2UgAm+pyd8+f6ycAueQg2zLDin9CDl6kY8awScFmgnt5zdQENRcaTXQWRc4cf6rOB7aMKfLu8nPUrb5TqSJ3FDyGt/GoBC1KBOhooLU7AG2pMNwPbl/8kg==;QtuxypsqyJyc25HxGnFrVQ=="
 ---

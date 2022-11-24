@@ -37,15 +37,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "18/11 – Weekly Fintech Recap"
-    excerpt: "Partnerships HSBC and Wells Fargo Expand DLT Solution to Include Offshore Yuan HSBC Bank and Wells Fargo & Company announced that the blockchain-based solution they are using for bilateral FX settlements is expanding to include the offshore Yuan (CNH)."
-    publishedDateTime: 2022-11-19T19:48:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/1811-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 4
   - title: "Israeli Fintech Firm Joins ADIO’s Innovation Program to Establish Financial Tech Research and Dev Center in Abu Dhabi"
     excerpt: "Innovation Program is partnering with Fintech company Liquidity Group, the “first” Israeli company “to join the AED 2 billion (USD 545 million) program.” The partnership will “support Liquidity Group’s establishment of an R&D center in Abu Dhabi to develop its proprietary technology-enabled underwriting algorithm and other financial solutions."
     publishedDateTime: 2022-11-21T12:29:00Z

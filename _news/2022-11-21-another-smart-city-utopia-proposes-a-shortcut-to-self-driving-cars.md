@@ -52,20 +52,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 29
-  - title: "Autonomous driving: Everything you need to know about self-driving cars"
-    excerpt: "Autonomous driving is the new goal of the automaking industry. Many companies have started their research on different levels of autonomous driving. Typically, the term \"autonomous driving\" refers to self-driving cars or other transportation systems that operate with varying levels of assistance from a human driver,"
-    publishedDateTime: 2022-11-22T11:53:00Z
-    webUrl: "https://interestingengineering.com/transportation/autonomous-self-driving-cars-tesla"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 24
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/22/image/jpeg/Un568E5NizfTYGfPLjF4NsSiU1OpmQKYKgUAHx5y.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "6vJQA9ympNYbEcEGhD9Q2+WtLjHtXfZ16w6cNXezRA9o/o7z0ZrsqneIgt08K4MQvYIo6M27eWFbpjgcH/ZmVx1v+jO5/Qw0kw0LTLysVT5LHmbeOo8yjdD0Zyy1Z63tFEO5PHw9iYz7EiPb+2WhHKid3llqUiS/mmK6siW0HOzKvzZ/OHRsmcpAizftogYculKK7a4JlNdcA0Apa1qgn2J6fVg6WoSssyWXQ7ATqppI3b2jOP+g1HyPOxfOmEVJe2zqix/T7U9CZJj0X5UYZ6ywkATAjq5gjbFor6s9OFf5LhZ0O/lgIcPVP7hiab40PgeOrEq8TCHLYkNH8H2vRhDB2Xb2nRHHIlWC9KvCFzSVqPrLx9CRTQkpwH92Sk+VXaRi0XQDeeUZ5tX7eiK7mRgHxp1m9iKIIG+fUjWHqh+WJ+q9xeTQkpMrwMMasIKUW+dFo+P/+mOsvZ9zSkxlpyLbDmlMIhHuoxrAanKYQtJqdFWvqwzrnxceR7d6uRcLxnkn+jt6DM3paiEFZe24PA==;cvTfXnZkwOdusGf256GUXQ=="
 ---

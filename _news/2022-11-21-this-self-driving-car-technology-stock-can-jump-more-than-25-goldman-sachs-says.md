@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Autonomous driving: Everything you need to know about self-driving cars"
-    excerpt: "Autonomous driving is the new goal of the automaking industry. Many companies have started their research on different levels of autonomous driving. Typically, the term \"autonomous driving\" refers to self-driving cars or other transportation systems that operate with varying levels of assistance from a human driver,"
-    publishedDateTime: 2022-11-22T11:53:00Z
-    webUrl: "https://interestingengineering.com/transportation/autonomous-self-driving-cars-tesla"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 24
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/22/image/jpeg/Un568E5NizfTYGfPLjF4NsSiU1OpmQKYKgUAHx5y.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "m8sDtYLn1f+PDTwRpMsnePTlzqzc7LbeRg40udGsOmgeeoapRmI8w7NuGvK/ZHviSULW6KyT9Vxh41IzxbGmNDZO69X+4q3c2VH9904mwK06bq23Qve4rBA0tM+wj6LywV5OP8ZNq0NtX8X+z2W4HJlbQrJsENGz3hCmUMiSxOv8NW6aFW7Zv1X2zHGzrbJbdCJ7eKJ0gwuv1AzbT3o3vy+pqMkjUQXsn6UG6Zrl7QkT5NmUU7nvC4mlQMswaMIqeEcvQABdyenj8fXQJGC4aReB3vUWxPMqt00rkkL3p3pAs9VI9qqrmu4sKciPo8ewwLksU7XuEEikBI1MqrO+VCJswoiLdOkxJXrRhd7UDVcbTs8En9Sc064cJYc4UUJ9zxIMpb/ql6+ivcIQS8n0jy/aTE40v2B1bmL7EOAAdaPiABvqQ+jiUv+Cd++2u1GPdSW0yXwdeIp6BkrM4clVHcxhGpP8aY8y9AC1CwksHLsUkLmo18nbRrciEW+pMV6NowPIU6Uc+ySw8ArIEsouFw==;G08/UdCJ5jqq6eryGFVQAQ=="
 ---

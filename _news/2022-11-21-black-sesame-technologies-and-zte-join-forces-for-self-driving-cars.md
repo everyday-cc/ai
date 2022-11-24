@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 29
-  - title: "Autonomous driving: Everything you need to know about self-driving cars"
-    excerpt: "Autonomous driving is the new goal of the automaking industry. Many companies have started their research on different levels of autonomous driving. Typically, the term \"autonomous driving\" refers to self-driving cars or other transportation systems that operate with varying levels of assistance from a human driver,"
-    publishedDateTime: 2022-11-22T11:53:00Z
-    webUrl: "https://interestingengineering.com/transportation/autonomous-self-driving-cars-tesla"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 24
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/22/image/jpeg/Un568E5NizfTYGfPLjF4NsSiU1OpmQKYKgUAHx5y.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "J5k82vDfqj51odzeI0C/Ps3WQu1R6Dnid2YX9aFA6b4dX3MxBCnwZczYrpB5duFxpSMAsuX69252Ubhasi/sYikogFM0m3/mBcENbh3NiIEuJbQjAyMVFqY3XHwpQxXEUnTSgu27jziKDa+2u4izG5au6CSOG0Nhv+gGgt2j1ympH+X4eVPIsnBhENeWeCvRj0hawfHJhlBMZdnRiqLyyKdS6tS/Q53cenpLfk3BtlXLdP6aenQbamXbYRyFlnkVkMdwq6EHJ4cipZZ1qXoT9cAgVJeFUqNYU1Ctv9HKDitXIshmmUMaBzzHm7/iTUTh22mmautUe1EhxoV5XMQ3LbpwTZgLMMrZkkCGO7G5uf3SZNyoVCm4yoVZzD4gNcS4uePUvnAQDqDvKpQkf5POxCoE0x7uij7IXal0JuvPW2XbX16UIMtYFVNdjUz2KzdQHsEoNn11HYyDThXRoF4xC91JozhrPyzPIyaCccMDoESQ1yT2yJ4LLiLUKj2QQP4S3wQACj3Z99dC+nzjQCuBrw==;e+8qGbcSYt4lbXSkjC98Tg=="
 ---

@@ -62,6 +62,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "TSA faces ethical limits in use of AI"
+    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of innovation that has the potential to change our lives."
+    publishedDateTime: 2022-11-24T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 54
   - title: "Meta claims its AI is better at diplomacy than most humans"
     excerpt: "Trust Zuckerburg to sort out the world Meta claims that its AI is better at playing strategy game Diplomacy than most tiny mortals. Diplomacy is a game that involves players cooperating by sharing motivations and points of view to construct plans and alliances."
     publishedDateTime: 2022-11-23T10:56:00Z
