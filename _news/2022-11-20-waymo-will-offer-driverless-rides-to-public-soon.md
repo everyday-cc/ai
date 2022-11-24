@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Waymo will soon offer fully driverless rides to the public in San Francisco"
-    excerpt: "Waymo is one step closer to charging passengers for fully driverless rides in San Francisco. The California Public Utilities Commission (CPUC) has granted the company a Driverless Pilot permit ..."
-    publishedDateTime: 2022-11-19T10:52:00Z
-    webUrl: "https://www.engadget.com/waymo-fully-driverless-rides-san-francisco-094718022.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 82
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/29341dd0-67e0-11ed-a3bf-be91ce1aa894"
-        width: 1600
-        height: 1001
-        isCached: true
   - title: "Fully Driverless Lyft Service Coming to Los Angeles"
     excerpt: "The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless service in the second-largest city in the US. Following a rollout in Las Vegas, Motional's all-electric ..."
     publishedDateTime: 2022-11-20T08:08:00Z
@@ -64,6 +50,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 49
+  - title: "San Francisco Police Want To Use Robots to Kill Criminal Suspects"
+    excerpt: "The San Francisco Police Department has struck out a line stating, “Robots shall not be used as a Use of Force against any person.\""
+    publishedDateTime: 2022-11-23T20:32:00Z
+    webUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-police-want-to-use-robots-to-kill-criminal-suspects/"
+    type: article
+    provider:
+      name: The New Civil Rights Movement
+      domain: thenewcivilrightsmovement.com
+    quality: 39
+    images:
+      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2022/11/killer-robot-san-fransisco-police.jpg"
+        width: 480
+        height: 267
+        isCached: true
 
 secured: "mKI1qOrjEjcBo+SAd6Te9feCcFu2cohFGu1m9vopQvPldNle2b0eXmWX1irgzPEACqzJWmV+y4fsnBupj3XLfFOPgL/F4veC+8RgsKPy4x6g7aI/xDzVBkdjBaEZcjvQhQODXQy7eMknOB+z3scF7lfawk6vRNZSZKC8TvheuhUy6vP+pA4zQDBAe58NFCxazDvwQjZvpt3vdGbB1dptzyiVULf44ihgPBGG6lZddQd8Ea7h3rt+Pu/5ct8irn9dBsehrXjCyQfHeFnL0V8HIzfzDjH7huaSJq94X9bqDNagY/CENkjEiL1Szyshhdx1tRa8Z7JJlc4E9Z8CqlNUW8uwEnqkPUwasscAX5bMVyo=;vEDJ9Lsa0Z5bPTePTChonw=="
 ---

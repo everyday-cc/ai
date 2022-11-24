@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Impact of AI on future job roles"
-    excerpt: "AI will create a distinct dividing line of jobs that are able to be mastered if they are properly trained and taught, which will override the threat to unskilled jobs. Despite the fact that many jobs have been taken over by artificial intelligence, there are still a lot of jobs you can find if you keep learning and upskilling yourself."
-    publishedDateTime: 2022-11-19T10:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-ai-on-future-job-roles/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/VL4A0115-1-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "This Copyright Lawsuit Could Shape the Future of Generative AI"
     excerpt: "Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works."
     publishedDateTime: 2022-11-21T12:00:00Z

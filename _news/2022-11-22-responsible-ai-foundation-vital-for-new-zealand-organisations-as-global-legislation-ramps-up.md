@@ -35,6 +35,15 @@ related:
         width: 627
         height: 418
         isCached: true
+  - title: "Conversational AI Poised to Be Major Disrupter"
+    excerpt: "Chatbots and conversational AI systems got an extended tryout during COVID as companies scrambled for ways to keep their operations running amid"
+    publishedDateTime: 2022-11-21T19:26:00Z
+    webUrl: "https://www.datanami.com/2022/11/21/conversational-ai-poised-to-be-major-disrupter/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
   - title: "Public sector drives strong demand for conversational AI, with 222K+ users served on the Yellow.ai platform"
     excerpt: "The Yellow.ai platform has recorded over 13M messages exchanged between its Dynamic AI agents and end-users in over 233K sessions in the last two quarters Raghu Ravinutala, CEO & Co-founder, Yellow.ai said,"
     publishedDateTime: 2022-11-23T06:24:00Z

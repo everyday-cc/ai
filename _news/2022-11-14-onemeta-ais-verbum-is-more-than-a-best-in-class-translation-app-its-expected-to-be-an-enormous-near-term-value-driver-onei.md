@@ -1,20 +1,28 @@
 ---
 category: news
-title: "OneMeta AI’s Verbum Is More Than A Best-In-Class Translation App, It’s Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
-excerpt: "Having transformative technology and assets can quickly turn smallcaps into large caps, and OneMeta AI (Ticker: ONEI) has positioned itself to prove that point. That's no overzealous presumption. It's a sentiment based on ONEI having,"
-publishedDateTime: 2022-11-14T10:18:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
-webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei"
+title: "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)"
+excerpt: "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ..."
+publishedDateTime: 2022-11-14T11:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne"
+ampWebUrl: "https://www.benzinga.com/amp/content/29695590"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590"
 type: article
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
-secured: "mg5iEBG2m4zMFZfAuGrYvy5xzgaf+HJBjyRqLaOK6WO0lu7WBKAR38J3/kOsLQfFwDJ54SuJzpDiqT0e5w9bJGpuJqlQDBByzaipk5qSnrq62LkBuRnct6f4ulBJHHd6vSugM7xDkgToMiad0P7ZnkeA+RblVmTqtzyo4owCi0LCIwS4wGARRwWNzYskx+r7tMJFofQq23Ywsrde7wj0XjF45+Uaq7JgrIO3kaocgOFRUV6qPfKeym9i6DDudICaIajgK8kgA7r+SAWetyHCTL+m3mH5TF3CMCOE4Ww3J4RqBk4E9IwPlSSwK1Bz/pMfH7Eb4mwW21D7IZUPX2FtkazhgxXctvWUca11L9N/yTMstDLerVYmOhyO3fLmwEpQEuZqCF2MWZXTtY21aPzv1GcKz3UeVvboCJwphlX4oG6w5i8NVQLbDrbzREUlR6KRCU84N8++rPlFZMtiMV/svsFg+Dm+MaoI0yNwAlovevT+HvK9zNahL5wmA8Kvm7axYX8TMv5JHoluxr4R5S4+tw==;1+HKpjl/mPR2coGifRHrmQ=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1668104872.png"
+    width: 1222
+    height: 1091
+    isCached: true
+
+secured: "pUJpZBlM/9fwPoL+2zH3F0TByqnkPZGstIUG2Ev4hBA9XVXtxkmx76AnAh54Qay1SKaYB9yQ5/xGFObEr+bZITKUluLvqZq2js/p9us4DtKnfEaF6UN3nMkFcD0iT7pspOc1EhnqvOcL+XyJHyGfgDfqKfUD7O4nGuuHRJ/6DUKxWXlCkr8D7HiM4xmbESpDNgb6NYDK7pjircZ6EaNLJrtJFQnogo+/3PzcKLx8BlNzptHMD1ARTnazj84XRSe4UCSKQlmpsC3ahFJGxKYCgWzNwMlJKZq+6C14buXI726wZCW/LngKKJuM8mpW7oA0pUG9mW6X9AjQg2Hp2v8nCTqD0H5lPZ2iOpJF3Z4PvWg=;WEDPhOEJpBRQUJIbNxc68A=="
 ---
 

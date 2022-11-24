@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Fully Driverless Lyft Service Coming to Los Angeles"
-excerpt: "The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless service in the second-largest city in the US. Following a rollout in Las Vegas, Motional's all-electric ..."
-publishedDateTime: 2022-11-20T08:08:00Z
-originalUrl: "https://au.pcmag.com/cars-auto/97374/fully-driverless-lyft-service-coming-to-los-angeles"
-webUrl: "https://au.pcmag.com/cars-auto/97374/fully-driverless-lyft-service-coming-to-los-angeles"
+title: "San Francisco Police Want To Use Robots to Kill Criminal Suspects"
+excerpt: "The San Francisco Police Department has struck out a line stating, “Robots shall not be used as a Use of Force against any person.\""
+publishedDateTime: 2022-11-23T20:32:00Z
+originalUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-police-want-to-use-robots-to-kill-criminal-suspects/"
+webUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-police-want-to-use-robots-to-kill-criminal-suspects/"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PC Magazine
-  domain: pcmag.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The New Civil Rights Movement
+  domain: thenewcivilrightsmovement.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2022/11/killer-robot-san-fransisco-police.jpg"
+    width: 480
+    height: 267
+    isCached: true
 
 related:
   - title: "Waymo can now provide fully driverless rides in San Francisco"
@@ -53,21 +55,16 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "San Francisco Police Want To Use Robots to Kill Criminal Suspects"
-    excerpt: "The San Francisco Police Department has struck out a line stating, “Robots shall not be used as a Use of Force against any person.\""
-    publishedDateTime: 2022-11-23T20:32:00Z
-    webUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-police-want-to-use-robots-to-kill-criminal-suspects/"
+  - title: "Fully Driverless Lyft Service Coming to Los Angeles"
+    excerpt: "The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless service in the second-largest city in the US. Following a rollout in Las Vegas, Motional's all-electric ..."
+    publishedDateTime: 2022-11-20T08:08:00Z
+    webUrl: "https://au.pcmag.com/cars-auto/97374/fully-driverless-lyft-service-coming-to-los-angeles"
     type: article
     provider:
-      name: The New Civil Rights Movement
-      domain: thenewcivilrightsmovement.com
-    quality: 39
-    images:
-      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2022/11/killer-robot-san-fransisco-police.jpg"
-        width: 480
-        height: 267
-        isCached: true
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
 
-secured: "pHsYV7O8oXQ8FvtuRn0e2+QfJMW4aAYyZSBELH7e/Ix76B0qhmnrzxe1THUuWKKA7RgITFODPzFShsRqoFTdKos4OiuZyEm34yqtzHfHN1KGuGxAJh1shI8CsQmt2UtZJGd77VCQ2QBtC0Yhtlk3ZzGaoHUI4X7bmWR+JE6Wlle+WWHdo13zjW4cOA3ZB22yMe3Qx+u8Ln3R+pi5FhWGRuOodDCgmNQ/cRRjTtl1QnVkLEDiY3P1wD9R+msFA7iA3JEMrUhdtlInMSj+Rx7qpoNIINK91nY2JmyVfYB6t0He78xtaO+NI7/+UKqvYd+YovtXZpXDLpApGjvot4emvqJpSux/u1izgYYKcyRqETI=;2skTVWfPAalhDK48Z/vrQg=="
+secured: "e49hNs1KqU/+621DZysSx/hMQ485biiJu90GMQquTJDdANuVwS0cc2U7htv4j4e/J+iec68dtbuZcNbRuPEJTVTI70uwWaHZg+yicnTOiHkWibtEjM2scrrKNaGI5zaWCLs2D5ZqAMLcjJSyk1k6iZ5lPNBklS4zGuI/2q1CDeUvoC7VGypRenVxHAJkUg+swinX0ZhO9ptaAawXF9//N0209ilNflZ4UxZYBNAdenJUE4Bv0Y8XaQP89XKk/UUqaoDXVEdLDtpTqLrKoLcpH1yvDuQLIWDtAaHn5Pk3/roXOF6ewOju3arr3KcZze8ka17XJ36l+k8AWYtCoX9VKdCkhAh4uV5NxXM4r/Py8sk=;CSCF8/XWZHOS+IGNb8LmLQ=="
 ---
 

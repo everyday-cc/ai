@@ -21,15 +21,15 @@ topics:
 related:
   - title: "Facial recognition project in Casco Bay can help conserve seals, scientists say"
     excerpt: "Researchers found the tool's accuracy in identifying the marine mammals is close to 100%, which is no small accomplishment in an ecosystem home to thousands of seals."
-    publishedDateTime: 2022-11-23T17:15:00Z
-    webUrl: "https://www.pressherald.com/2022/11/23/facial-recognition-project-in-casco-bay-can-help-conserve-seals-scientists-say/"
+    publishedDateTime: 2022-11-23T17:35:00Z
+    webUrl: "https://www.centralmaine.com/2022/11/23/facial-recognition-project-in-casco-bay-can-help-conserve-seals-scientists-say/"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: Kennebec Journal
+      domain: centralmaine.com
     quality: 35
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/11/Seal_Facial_Recognition_52379-1669223730.jpg"
+      - url: "https://multifiles.pressherald.com/uploads/sites/2/2022/11/Seal_Facial_Recognition_52379-1669225001.jpg"
         width: 1000
         height: 667
         isCached: true

@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-22T10:00:00Z
 originalUrl: "https://www.archdaily.com/992386/new-worlds-artificial-intelligence-and-ecology-a-story-about-rooftops-airships-robots-and-inflatables"
 webUrl: "https://www.archdaily.com/992386/new-worlds-artificial-intelligence-and-ecology-a-story-about-rooftops-airships-robots-and-inflatables"
 type: article
-quality: 52
-heat: 52
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://images.adsttc.com/media/images/6373/9997/bd52/ae7d/bdd7/874c/large_jpg/nuevos-mundos-inteligencia-artificial-y-ecologia-una-historia-sobre-tejados-aeronaves-robots-e-inflables_8.jpg?1668520372"

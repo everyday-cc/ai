@@ -5,10 +5,12 @@ excerpt: "Experts say AI itself is starving — and needs to change its diet. On
 publishedDateTime: 2022-11-22T20:00:00Z
 originalUrl: "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/"
 webUrl: "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/"
+ampWebUrl: "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "pkbdR+jla3Bz6jPA4Z3om+SUnAOkagKeQFK9qplWoDrTzeKKaBAHpW2morzK6+VYqa1NJtx/wdLbDZAy57lAVKccijzD+KLwy5EgLbSkIDa0ySWB/TJfsSc8n+rqXbCkhsVb9tW2n1MNdlGDzoMN7qhz0ZS+84I3yu+PkqUBr6aLjDTWLm4EOXPTBWsi780oOiEHvkqlr0CATxTPfeyj3eCNQIa6iFWAdzi8rjLBudflkIE384kn32+WIRv8fuSsPjxvDbItuI3BrX3Tn6GgCdMMVLYR8kKW8eovwuzDLxVsKdRL+bWSVScS/Y50+vxl1gt+/anvgji2X2vZLujnodD6daXCFohnl3jONIsE++1Fw/BJw/JzBZdzEqSNxdoJ6jszBk9UjcZC/5Hp5Fi4L1pPgGP50I4a5mfaLbVP5gZ1FdrUW1gOkbmX6ykS+h/Xzt0s0htt1ewia6IhpB6W02ak3OuVcWD4fNZSu0dMFGoG7dyG5dfcRXHUcwQwL/iBfj4mecWDC1Ifyc5nXZ6HjA==;gd+5nUZHCM9hfEaz510erA=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/11/Pic-3.png?fit=800%2C449&strip=all"
+    width: 799
+    height: 449
+    isCached: true
+
+secured: "I8Xc9LiAhQKRjxern6zjkZppkNbqRv7fF/igz3sM98aVtYy+1O2DXxTl0WzyFJoYoR8jeeT+Kx9eCekX4ERYt/92y/GcZ22PwEU7t2KpIUn/M9FwsXtVX8+WULgqTT1rBtsZs3JvpoA6rOLE8AVcnHJXXvlPjm6hP10rqxTj7ZAugj7RY/Hto4l2GOwjb+1oQrEwcnhxJ2FPeULdYBknt1QlFUtPkh+tUq1oUVwFCNh0O/9mva1plvXs5GiitFTRw57sc8zgDquehqqijbNtP1NW2pSsVpe9jDr2dZ71hAcn8wqpKAWoxhIdffd+7K+8g8Xc1hJtJrvqa8iAwpKcE9KteDLGAsxt3VyMJjjN/FE=;Tin6FpSc8jyZhbCXXcNs1Q=="
 ---
 
