@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Top 5 stories of the week: DALL-E uses, Nvidia’s digital twins, Microsoft’s AI inference, Intel detects deepfakes"
-    excerpt: "This week, news from Nvidia, Microsoft and Intel led our coverage. Here's the latest on AI, DALL-E, and how to secure the enterprise with zero-trust."
-    publishedDateTime: 2022-11-19T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-dall-e-uses-nvidias-digital-twins-microsofts-ai-inference-intel-detects-deepfakes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
 
 secured: "d9LqxHPPX/bEcG4pK89FRB2F/6Arx4T272CgeC8fOV8vH17jOCzDqjsttC1Coqv4E1ZYMugpfylwFd9xBb3jOa9oQkYhhc6CctdSaBUEqdmoYj+1A/+hqlDMUr/wjIEjU9OlCUJrFit6A5RqrMTw2ceRltNt4+so4dMpbBSHVrGs9vRGM0DtdwXHgr8UvZe93a3QXZIiaBwwWR33yJxcatN27HqPPTQsRjTkNcoOr2ZyxTmfbiECZ0cZA8okH1h2i65whqnOXvnUNdw4N5ucJjx12NymCUYB3RAI7HoGTJ7tQ5FB/2mdRAZ4b7a9ENA2Ptwi++HWbX+nOqLTH4+iITFlhza/YetWzC8N1A+gWNG5pjSCmCkz8osDeWMg5Go2xiDAkJcauiZG9mxGLQd0ar9aZikdgUq6DZnktifcucJ3Dv09NvHOVQks7aVrsWy6s7kL7o000bP6mQGeMTxB7BQvcA7GM4vc0GVoa3wtZMpKVpVDWfrUjsaXc64Y/mQn1TqJ5GCHKkU2UvBpLIAKbA==;bBP22P8uBmGaJjDZoHZjzQ=="
 ---

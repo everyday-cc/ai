@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
@@ -42,6 +43,6 @@ related:
         height: 801
         isCached: true
 
-secured: "8t1ytyQswKUILXnnpM7emlFbf5mkJeNKBKeVCgjY1vMI+vOg/y8MFeH5ZQCd+B5n5tXkkQMJ/JUYMKQrQjpDmDnOYN3AIpvCxb0SD4LH01o2lFX+e/iiEoyrmApng5E3GHnJSi2004IVTHRf2b9HNHS5ZaU/r9/4/WVtymlAKlBrqyUnHucHhMqL88MWKqze4Le24xmjUE5jr9xuMX1TYvSVdyX853upTvRGqSi0MNPvcE/REmvRrPEtQQs6i80xntwuGdRdSGSka8ZCdUyCxRqsIhP2N7PzteQsufzlHC+wRoAug3gJLYzZ3OFi8jbXWJD8PDArRBVwWyoSMm8/2NHyr9fdlyJsaSaCkQABQSU=;znsM9aQp5qyPHqzZScdO8g=="
+secured: "Gh3FzawWnbSkEI/LPkmhW4zASmsWdWTM14aOIM3ObF3nHYQbNQqTkg8erhOmwKTI+BeHqNTDA22y3wuY7p6hfbWIH9KDKR+e2ZjHPC3dLRq7+JXcklrIt+a11+0UMk+mQ3K3Lgg4sD5zIkOe9bnTkUiecAtTah5rB2ksVokpPjQnyIANtMGJJCGS30tQPKTGHSveUqPStOnR3uHUVEHequkCTZnU7jZmLRTnn0rJjvQlWCzcFRoPKpx4d/dqUdsYyqr7ACxBOtHHAhwecS23pHK1By4yv8mz6nr39JZ2OOyhwl/ftjhw5fC1cOpf9W3o0Ml+mIanft8D/PhFg4DqzaV0IRaIaEeCv7kCwLU5AwCR3FeuGNYEpmkh1seDSMg6O8jG6+nN+lYt1Au+Q9K/w9umvxXErJxxxt0LujopYreEeFZHPj9ABwJvWgZkJksSSLj32fg7L/MES+Vy0UR1RMU3ZM8/RqjcTeoZx/2qdgR/bsDvXj7rbGLAztu0z3DdwLZSEBtF6SyMDAJYeRPAwg==;JtSMvBY6b5sA42DCtWYqfg=="
 ---
 

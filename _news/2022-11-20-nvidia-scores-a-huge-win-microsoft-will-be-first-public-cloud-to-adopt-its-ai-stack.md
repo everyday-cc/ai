@@ -49,15 +49,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Top 5 stories of the week: DALL-E uses, Nvidia’s digital twins, Microsoft’s AI inference, Intel detects deepfakes"
-    excerpt: "This week, news from Nvidia, Microsoft and Intel led our coverage. Here's the latest on AI, DALL-E, and how to secure the enterprise with zero-trust."
-    publishedDateTime: 2022-11-19T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-dall-e-uses-nvidias-digital-twins-microsofts-ai-inference-intel-detects-deepfakes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
   - title: "Nvidia: Goodbye Crypto, Hello AI"
     excerpt: "While Nvidia's revenue prospects from the crypto mining sector seem to have been left behind, AI shows great promise. Read why I see NVDA as a buy at current levels."
     publishedDateTime: 2022-11-22T18:57:00Z

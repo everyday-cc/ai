@@ -35,7 +35,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
         width: 1200

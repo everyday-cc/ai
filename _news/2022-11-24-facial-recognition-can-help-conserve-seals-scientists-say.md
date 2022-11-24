@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
+    publishedDateTime: 2022-11-23T14:05:00Z
+    webUrl: "https://www.chron.com/news/article/Facial-recognition-can-help-conserve-seals-17606526.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/40/07/23200247/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Facial recognition project in Casco Bay can help conserve seals, scientists say"
     excerpt: "Researchers found the tool's accuracy in identifying the marine mammals is close to 100%, which is no small accomplishment in an ecosystem home to thousands of seals."
     publishedDateTime: 2022-11-23T17:35:00Z

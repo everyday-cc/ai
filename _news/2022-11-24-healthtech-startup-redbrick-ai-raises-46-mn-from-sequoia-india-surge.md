@@ -1,22 +1,29 @@
 ---
 category: news
-title: "RedBrick AI raises $4.6M to ease AI development in the healthcare sector"
-excerpt: "RedBrick AI announced the funding round today. The lead investor in the round was Surge, a joint venture between Sequoia India and Sequoia Southeast Asia that provides startups with funding along with other resources such as access to business workshops."
-publishedDateTime: 2022-11-23T19:01:00Z
-originalUrl: "https://siliconangle.com/2022/11/23/redbrick-ai-raises-4-6m-ease-ai-development-healthcare-sector/"
-webUrl: "https://siliconangle.com/2022/11/23/redbrick-ai-raises-4-6m-ease-ai-development-healthcare-sector/"
+title: "Healthtech startup RedBrick AI raises $4.6 mn from Sequoia India, Surge"
+excerpt: "US-headquartered healthtech startup, RedBrick AI, has secured $4.6 million in a seed funding round led by Sequoia India and Southeast Asia's Surge. The funding round also saw participation from Y Combinator and angel investors."
+publishedDateTime: 2022-11-24T04:46:00Z
+originalUrl: "https://inshorts.com/en/news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
+webUrl: "https://inshorts.com/en/news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
+ampWebUrl: "https://inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
+cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
 type: article
-quality: 33
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Inshorts
+  domain: inshorts.com
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/11_nov/24_thu/img_1669259804612_688.jpg?"
+    width: 1080
+    height: 1748
+    isCached: true
 
 related:
   - title: "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare"
@@ -51,22 +58,15 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Healthtech startup RedBrick AI raises $4.6 mn from Sequoia India, Surge"
-    excerpt: "US-headquartered healthtech startup, RedBrick AI, has secured $4.6 million in a seed funding round led by Sequoia India and Southeast Asia's Surge. The funding round also saw participation from Y Combinator and angel investors."
-    publishedDateTime: 2022-11-24T04:46:00Z
-    webUrl: "https://inshorts.com/en/news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
+  - title: "RedBrick AI raises $4.6M to ease AI development in the healthcare sector"
+    excerpt: "RedBrick AI announced the funding round today. The lead investor in the round was Surge, a joint venture between Sequoia India and Sequoia Southeast Asia that provides startups with funding along with other resources such as access to business workshops."
+    publishedDateTime: 2022-11-23T19:01:00Z
+    webUrl: "https://siliconangle.com/2022/11/23/redbrick-ai-raises-4-6m-ease-ai-development-healthcare-sector/"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/11_nov/24_thu/img_1669259804612_688.jpg?"
-        width: 1080
-        height: 1748
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
   - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
     excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
     publishedDateTime: 2022-11-23T13:03:00Z
@@ -77,6 +77,6 @@ related:
       domain: yourstory.com
     quality: 17
 
-secured: "IjFZ2psmIn6RVPNB2OUvQNOgQYRs3uwIv5z80QMtReP3kPO0C4Yfao2ppS+GLT7rqw5Mm1YvVyK6WuIcQDr/cbAVp9X4WPsNLz8tUKH4LGFeYzIUDOXTuZCGm9pzEhDUicZTdG6DseaxMEEnP/OcbffdarpnkejUZ9sr3UYX1z5xvwEW74ZRrdtzF/SpI/LqhFB5VHA7qPybEJtH/o1xuKDEqXQyG8ag15yfROLsznYDOv9gzzaPnK9e8mYk6m/B6+0HX7/LWc7Q/B9vVPsJBftB4NbINr72S22V+UbSScoIq6oDLqDemLI1+2KH63f8KAvkwzmVZX/frLKxzoY26pahnp7z8wlRSymErCA+a8g=;IbBILJSmIvqmHQm+qCKk4Q=="
+secured: "h3BmnOL1juMo1VLUhsql6S+y1dwHXQo0vQs6J98JWjCm1n2y2dvreU2/9Bb4LtIF9V33VywTyDdvWZYjgVaIhKn6ht0Jl7j9pCoM0GFm0LFN/bGzKS5HPLNwF2PxUnME1EapoJvMilJ9LFEml4ZpG1G9BlN0uKuwWpk4wpayQrMDYw2nylCvpHN/MR7LT3Zuky2n0HIcqs7RnV1f/N7lKmcWImprZEd79BtsCBCkzy/H3Z1Z6SrHat0NyXJ9Doog7jIIiyqWzIJe0sHfwPQcW0Rw/RFYzHzpzeJkOzhzHeRRFuWdwOE0mkvH8hp0pHgRCFaH4LJsM+Zz181uPKUaIsLXGSDicWxIQIgYC54RDF4=;24tEAEJbKYIND17j1CkcyQ=="
 ---
 
