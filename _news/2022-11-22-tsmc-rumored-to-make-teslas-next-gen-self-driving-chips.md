@@ -133,6 +133,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "Tesla’s Full Self Driving Beta Now Available To All Tesla Owners"
+    excerpt: "Full self-driving for all, decreed Elon Musk. Despite being mired in controversy, Twitter, SpaceX, and Tesla owner Elon Musk still took the time to announce a big milestone for the EV brand; full-self driving is now available for all compatible North American Teslas."
+    publishedDateTime: 2022-11-25T17:52:00Z
+    webUrl: "https://www.autoguide.com/auto-news/2022/11/teslas-full-self-driving-beta-now-available-to-all-tesla-owners.html"
+    type: article
+    provider:
+      name: AutoGuide
+      domain: autoguide.com
+    quality: 49
   - title: "Tesla opens floodgates for owners to test out automated driving"
     excerpt: "Chief Executive Officer Elon Musk tweeted that the system Tesla calls Full Self-Driving Beta is now available to anyone in North America who’s bought the option and requests it from their car screen."
     publishedDateTime: 2022-11-24T21:03:00Z

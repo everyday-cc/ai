@@ -59,14 +59,14 @@ related:
   - title: "AI in connected cars eased rush hour congestion, researchers say"
     excerpt: "Human drivers don't do a good job of navigating dense traffic, researchers say, but an experiment using AI means help could be on the way."
     publishedDateTime: 2022-11-23T17:31:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/autos/ai-in-connected-cars-eased-rush-hour-congestion-researchers-say/article_1293c347-b2c3-59da-b031-d665964647eb.html"
+    webUrl: "https://herald-review.com/lifestyles/autos/ai-in-connected-cars-eased-rush-hour-congestion-researchers-say/article_0fb1ac61-81b3-5cfe-8a0d-282eb8126299.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Herald & Review
+      domain: herald-review.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/29/1293c347-b2c3-59da-b031-d665964647eb/637e51466bdfb.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/0/fb/0fb1ac61-81b3-5cfe-8a0d-282eb8126299/637e5142b63c4.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

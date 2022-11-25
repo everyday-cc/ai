@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-19-deep-learning-ai-is-getting-better-but-can-regular-users-pay.md",
+      "title": "Deep Learning & AI is getting better but can regular users pay?",
+      "excerpt": "In this article, we will look at the development of AI and the field of deep learning. Deep learning originated in the era of vacuum tube computers. In 1958, Frank Rosenblatt of Cornell University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/11/19/deep-learning-ai-is-getting-better-but-can-regular-users-pay/",
+      "originalUrl": "https://www.gizchina.com/2022/11/19/deep-learning-ai-is-getting-better-but-can-regular-users-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-super-computing-and-storage-on-earth-and-in-space.md",
       "title": "Super Computing And Storage On Earth And In Space",
       "excerpt": "DDN announced enhancements to its DDN Insights monitoring interface. Panasas announced data management and analytics tools for high performance computing applications as part of its PanFS software suite.",
@@ -1183,59 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
-      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
-      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
-          "width": 698,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

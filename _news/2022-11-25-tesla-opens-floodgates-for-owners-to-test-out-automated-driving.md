@@ -133,6 +133,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "Tesla’s Full Self Driving Beta Now Available To All Tesla Owners"
+    excerpt: "Full self-driving for all, decreed Elon Musk. Despite being mired in controversy, Twitter, SpaceX, and Tesla owner Elon Musk still took the time to announce a big milestone for the EV brand; full-self driving is now available for all compatible North American Teslas."
+    publishedDateTime: 2022-11-25T17:52:00Z
+    webUrl: "https://www.autoguide.com/auto-news/2022/11/teslas-full-self-driving-beta-now-available-to-all-tesla-owners.html"
+    type: article
+    provider:
+      name: AutoGuide
+      domain: autoguide.com
+    quality: 49
   - title: "TSMC rumored to make Tesla's next-gen self-driving chips"
     excerpt: "EV maker Tesla is rumored to have placed a massive order with TSMC to manufacture its next-generation Full Self-Driving (FSD) chips, potentially making it one of the Taiwan-based foundry's largest customers,"
     publishedDateTime: 2022-11-22T04:42:00Z
