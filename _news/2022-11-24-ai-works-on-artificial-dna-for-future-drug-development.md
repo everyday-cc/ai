@@ -51,6 +51,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
+  - title: "The morphing world of Artificial Intelligence"
+    excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
+    publishedDateTime: 2022-11-25T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 41
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Rise of the robots, AI, and the human partnership"
     excerpt: "How will America successfully bring manufacturing and production back to its shores at the very moment our working population is in decline?"
     publishedDateTime: 2022-11-23T08:00:00Z

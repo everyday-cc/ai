@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-availa
 webUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/"
 type: article
 quality: 81
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/09/elon-musk.jpg?quality=100&strip=all"
         width: 1000
         height: 750
+        isCached: true
+  - title: "Tesla full self driving Beta software now available in North America"
+    excerpt: "Tesla's full self-driving Beta software is now available to everyone in North America. The automaker meanwhile awaits approvals."
+    publishedDateTime: 2022-11-25T04:12:00Z
+    webUrl: "https://techstory.in/tesla-full-self-driving-beta-software-now-available-in-north-america/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 69
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/11/tesla-full-self-driving-bildquelle-https-insideevs.com-news-518958-tesla-fsd-beta-9-launch.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla opens Full Self-Driving beta to all, safety score be damned"
     excerpt: "Tesla is now allowing everyone in North America to sign up for its Full Self-Driving beta, no matter what their safety score might be."

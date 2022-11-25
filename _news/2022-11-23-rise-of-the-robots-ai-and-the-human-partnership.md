@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 446
         isCached: true
+  - title: "The morphing world of Artificial Intelligence"
+    excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
+    publishedDateTime: 2022-11-25T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 41
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "The State of Artificial Intelligence at the Manufacturing Edge"
     excerpt: "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge."
     publishedDateTime: 2022-11-23T14:27:00Z

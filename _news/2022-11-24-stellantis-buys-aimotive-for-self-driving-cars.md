@@ -66,6 +66,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 29
+  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-11-24T03:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "V+KLIkLE6EwyWsaBmSe1/xrEMm2C41kDCqsRsybym2CE8PPyUYwhCu+NuzvCCsElXiI0FPj/FuHHh2RtJgpatdKLstOkNz/pzZ6eDmbORv+hkFMzUXU/R2DLmePvRXl3XjmV9VfptaFlzi5b2bY/XhcieQJeRdpB5/GhXnmnRF0HfYWs5bLnjuBKqWI2QQi0zj2N8n3uocgrUl5R3d2yC2PVdjP8seGJzAH2vZcqV9X4foh0v9lLxD1geO63hWbegmUl/AyNIZvC8LQCyeZTDmL2XKk/k9mnG26x6ObAS1u7gkKyOhQK6PN4SuUyUg6icOUN/b7wPLxYKIMtXWTV0wJlElp9H6JzQpsmx7yMVZijNeqeCezUZbtV/TtPNkY01FdmKMu6mvCHFT3JqLbzV4ibucUH2EzoEt3+bkIWnv42UFLfd3mPdyFODs+CEe3KEp6FjYHKyGiWwFcS5kHGzOm9noSoepqlChbNpdMfIPq9XsLjFKuoaFO7oAgXuWBa/jDI7nilZ+anauihVdYaSQ==;f2t+4EzJ5/2nnnt7D1lOqQ=="
 ---

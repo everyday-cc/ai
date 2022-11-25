@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-24T13:27:00Z
 originalUrl: "https://financialit.net/news/fintech-startups/fintech-connect-2022-unveils-startup-launch-pad-fintech-good-documentary"
 webUrl: "https://financialit.net/news/fintech-startups/fintech-connect-2022-unveils-startup-launch-pad-fintech-good-documentary"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://financialit.net/sites/default/files/fintech_connect_2.png"
+    width: 1366
+    height: 768
+    isCached: true
 
 related:
   - title: "Fintech startup Galgal raises $1 million in seed funding"
@@ -51,7 +57,21 @@ related:
         width: 1280
         height: 906
         isCached: true
+  - title: "Fintech startup Galgal raises US$ 1 million in seed funding"
+    excerpt: "Galgal Money, a fintech startup, has received US$ 1 million in seed funding from angel investors. The firm was able to launch the app quickly and increase customer acquisition thanks to the funding. The company further plans to invest in product development to quickly improve customer experience and concentrate on providing features that can improve the neo-banking experience for Indian youth."
+    publishedDateTime: 2022-11-25T04:11:00Z
+    webUrl: "https://www.ibef.org/news/fintech-startup-galgal-raises-us-1-million-in-seed-funding"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 39
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
 
-secured: "LuA2Y9yKf333Nw+GsT1lTEjIyx1dCueTnWffWxen/hbtiJYxGIfeJ+6PHnkPE+SQufLTflkCoQui3o2J28qxskjmClxs0DgBl4iZoU6DMl4dog3RWomRKcTeEL9OuRuLYHBIS1xsXGiOVEE+6GA5K1Hwu0OFo0MXaH/ojref+Pf+vzb3y3OG1rIpqNpsOQlSur55BcDHhR+QHCtfuRz+X0JWmCX9hBXn5ND37DMAfYiViiZKRT57HvReIGp5qJEV8BGau4NE391J+4APWUCgvbtSh0bfudzscnGtyIoOdyR50UcNO6VLePbon8uSNzEA/VJpnmw7NUwfj+zx8y46MSP05/2l8UTovenyptbz+nM=;guDTmcwtM2mAvVeoWd/wKw=="
+secured: "7G8Hpv8cXOc/kg7Y/XDvz+Yki7oc8xUszGWtAFHnfo9zv9K5l/d2wrM5/RK3NzHPQJX83OLozNtCD9PLQQl7xfkpmVB0BNwrgdPDOhuFumkT6HcIBFlm4YGJSKvLVTgSdwxqXaCf845dt5vvoZ4V4vrbjb9tcU8Jqovs1wEB+S+Y5JTq0WY12ZMDB6JNnYg3yfbkmUiP4xMa4fUc3TPH4WaW4nWZwpxm7xjOtdMAcNSgwh3KKhF1x+dYTWYwXfSb2nCGfTYgQXrUFy82RUttGe2bL+avzrAc0aplQTa9UkSSFNsuu2TB4B98VLNL4yiOzOCNsnPltc/E9fOfnpJ7fnhKCaEKzjEdmO836Orazow=;R9dz6k8k16to4x9CEgjXyw=="
 ---
 

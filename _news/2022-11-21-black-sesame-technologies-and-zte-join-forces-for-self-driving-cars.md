@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 29
+  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-11-24T03:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "J5k82vDfqj51odzeI0C/Ps3WQu1R6Dnid2YX9aFA6b4dX3MxBCnwZczYrpB5duFxpSMAsuX69252Ubhasi/sYikogFM0m3/mBcENbh3NiIEuJbQjAyMVFqY3XHwpQxXEUnTSgu27jziKDa+2u4izG5au6CSOG0Nhv+gGgt2j1ympH+X4eVPIsnBhENeWeCvRj0hawfHJhlBMZdnRiqLyyKdS6tS/Q53cenpLfk3BtlXLdP6aenQbamXbYRyFlnkVkMdwq6EHJ4cipZZ1qXoT9cAgVJeFUqNYU1Ctv9HKDitXIshmmUMaBzzHm7/iTUTh22mmautUe1EhxoV5XMQ3LbpwTZgLMMrZkkCGO7G5uf3SZNyoVCm4yoVZzD4gNcS4uePUvnAQDqDvKpQkf5POxCoE0x7uij7IXal0JuvPW2XbX16UIMtYFVNdjUz2KzdQHsEoNn11HYyDThXRoF4xC91JozhrPyzPIyaCccMDoESQ1yT2yJ4LLiLUKj2QQP4S3wQACj3Z99dC+nzjQCuBrw==;e+8qGbcSYt4lbXSkjC98Tg=="
 ---

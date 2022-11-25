@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Tesla full self driving Beta software now available in North America"
+    excerpt: "Tesla's full self-driving Beta software is now available to everyone in North America. The automaker meanwhile awaits approvals."
+    publishedDateTime: 2022-11-25T04:12:00Z
+    webUrl: "https://techstory.in/tesla-full-self-driving-beta-software-now-available-in-north-america/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 69
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/11/tesla-full-self-driving-bildquelle-https-insideevs.com-news-518958-tesla-fsd-beta-9-launch.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla full self-driving beta now available in N America, says Musk"
     excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
     publishedDateTime: 2022-11-24T12:00:00Z

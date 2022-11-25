@@ -51,6 +51,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Tesla full self driving Beta software now available in North America"
+    excerpt: "Tesla's full self-driving Beta software is now available to everyone in North America. The automaker meanwhile awaits approvals."
+    publishedDateTime: 2022-11-25T04:12:00Z
+    webUrl: "https://techstory.in/tesla-full-self-driving-beta-software-now-available-in-north-america/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 69
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/11/tesla-full-self-driving-bildquelle-https-insideevs.com-news-518958-tesla-fsd-beta-9-launch.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla opens Full Self-Driving beta to all, safety score be damned"
     excerpt: "Tesla is now allowing everyone in North America to sign up for its Full Self-Driving beta, no matter what their safety score might be."
     publishedDateTime: 2022-11-24T16:45:00Z

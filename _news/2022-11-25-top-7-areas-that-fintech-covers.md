@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Fintech startup Galgal raises US$ 1 million in seed funding"
+    excerpt: "Galgal Money, a fintech startup, has received US$ 1 million in seed funding from angel investors. The firm was able to launch the app quickly and increase customer acquisition thanks to the funding. The company further plans to invest in product development to quickly improve customer experience and concentrate on providing features that can improve the neo-banking experience for Indian youth."
+    publishedDateTime: 2022-11-25T04:11:00Z
+    webUrl: "https://www.ibef.org/news/fintech-startup-galgal-raises-us-1-million-in-seed-funding"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 39
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
   - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
     excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"
     publishedDateTime: 2022-11-24T13:27:00Z
@@ -51,7 +65,12 @@ related:
     provider:
       name: Financial IT
       domain: financialit.net
-    quality: 0
+    quality: 19
+    images:
+      - url: "https://financialit.net/sites/default/files/fintech_connect_2.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "YcVl1/+lHpyO59se25DxB0skzT2yP7V8Db2MvQCHFnt40gFXW5XPavXFPOSsw//yPcmGgSFmxWqPfjcpgVkGvflKvamTziYSVa1WXUHwn4PXHZLVPToeI/r2WDz98A9QxXvFf6ZuzB+O2896O2PHmCEWS0cZaiMvozzbsvmI7GNBFUycCRmNu+bXjQXLeQM/wtI7wbRN6ZjwUsw0I9reVcwjPL3wKOIUzgAGYc/pjyZbNIGAz4PyR4UjCwIr/8cYMxgIxLUUixQoK6SxtNyUcZ6KSnpPVif9cD4HbTTTG+zV4f+PDRsqHd3nihLDszTb5UIKuj9ENG3fMCtwMk+y1JjkTYxtsZaWyDMiRfFcehFhEuqNNfb5dupsyai9SXR40KpOJ88P45rtc67nT9SGehaMs0vhqbnfyJwA2rfp9DBkfcbq422+LLMyYTO2GaZOjpMeDEeUrLkce/awus7qqINet+9306MAbLA+e5S3h5Dx5i7n/F0KNS5ayuI/W5Rt2EjOhptrfcEdNXsoEFpk1A==;bsthV/Im15yRnAPAAoqz9w=="
 ---

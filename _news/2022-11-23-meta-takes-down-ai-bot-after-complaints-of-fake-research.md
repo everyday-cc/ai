@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,22 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Trained an AI on 48M Science Papers. It Was Shut Down After 2 Days"
-    excerpt: "Jackson Ryan is CNET's award-winning science editor. He used to be a scientist but he realized he was not very happy sitting at a lab bench all day. Now he has the best job in the world, telling stories about space,"
-    publishedDateTime: 2022-11-20T12:59:00Z
-    webUrl: "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/"
+  - title: "Facebook Takes Down AI That Churns Out Fake Academic Papers After Widespread Criticism"
+    excerpt: "Meta pulled the plug on its Galactica AI after three days of experts and random social media users dunking on the scientific paper-trained Large Language Model (LLM) over its penchant to spit out made up nonsense."
+    publishedDateTime: 2022-11-20T17:10:00Z
+    webUrl: "https://futurism.com/the-byte/facebook-takes-down-galactica-ai"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
+      name: Futurism
+      domain: futurism.com
+    quality: 31
     images:
-      - url: "https://www.cnet.com/a/img/resize/26630fc359684535ecd755882414e1366946848b/hub/2022/11/19/fbd72c6a-b611-4155-8538-8097c4de73e6/galactica.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://wp-assets.futurism.com/2022/11/facebook-academic-ai.jpg"
         width: 1200
-        height: 630
+        height: 692
         isCached: true
+  - title: "Critics reject Meta-trained AI made to make scientific research easier"
+    excerpt: "Galactica, formerly known as Facebook Artificial Intelligence Research is an artificially intelligent tool developed by Meta that was rejected by scientists as soon as it came to"
+    publishedDateTime: 2022-11-24T13:12:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1012971-critics-reject-meta-trained-ai-made-to-make-scientific-research-easier"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 19
 
 secured: "DeKQoQ6X4Zh3XTZGmLzl7gaJEAZjmoOWaaPpu8/LVFvTH19TEnUrgzLBjOwGD8E5d3/isa7uQluTH0GMoXt4PPKvx3PLj+1yX4v5uWWl9C+6Y+NKdPQKdgMgVpc9YKzO8W7Id+rlfOPKv/lAnKXamZnk75/3+6Zsj1SXridhzNL926Yq8tZDdwewGB6sFiWeMekld8urhcop5B9S4q53MuK1ZU56d/Fjot4Bd78tD0560HhPGuYQJ4hGW0ZPQgQePL8iYAtG+GduNJvSo/U5cBHESC07Wtmlgdoz65ys/Q+XZW/CewDP0iFxTs6VxI8Cm13S+RJCNbokOFpd1AAdV/+DjtHL5IoZokDq8BDNMiLW2xz3sKBGE1SBO6wYX9yZacj/tLM8NKWgpbBnUhD4zQ2TESaeb8Oai/jA9q/fwkst8IpgV/hWzS99atuyoVwftI/sXOMrFLBTrgfzdy8BKu7pjTMYoZk9rhG5py1vpQCIHUVhwZYjH/8yJ/KFVfBBvbPs+Cje++ia/p2GiqRujA==;pyHqs1zQz0PujbBSa6w7vQ=="
 ---

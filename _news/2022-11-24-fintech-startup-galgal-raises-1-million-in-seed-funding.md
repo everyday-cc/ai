@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 906
         isCached: true
+  - title: "Fintech startup Galgal raises US$ 1 million in seed funding"
+    excerpt: "Galgal Money, a fintech startup, has received US$ 1 million in seed funding from angel investors. The firm was able to launch the app quickly and increase customer acquisition thanks to the funding. The company further plans to invest in product development to quickly improve customer experience and concentrate on providing features that can improve the neo-banking experience for Indian youth."
+    publishedDateTime: 2022-11-25T04:11:00Z
+    webUrl: "https://www.ibef.org/news/fintech-startup-galgal-raises-us-1-million-in-seed-funding"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 39
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
   - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
     excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"
     publishedDateTime: 2022-11-24T13:27:00Z
@@ -51,7 +65,12 @@ related:
     provider:
       name: Financial IT
       domain: financialit.net
-    quality: 0
+    quality: 19
+    images:
+      - url: "https://financialit.net/sites/default/files/fintech_connect_2.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "bEyT8rQJW0wgG76mQW3031Ax7vlSRFVF3NsIMinT+Cu8kVmVRWrrQf+0oQmm3B8bU8CP/oq9G8MCZNa2e2gY+Iit4388jiZCFYLe1OrcmRFgk+JHwwrwPCjhKiNZUvGEFGEuB7WqRtevIsnjGBlmDFH7CbezBxaxPAJT+YZ3fDvgKCxmqBfIYtlSb885v2qN/c+CmeWxKK/dbpgdylqg0IOn/TNShdJQvZM0U2gYTtnfygvb42QNDDmtvXnPoCjvCAP3eXKc8ACQFFlDNhLaN1XHlY+v/NInokAp01jGHy6Yzxnu6o2uEYt1T2MpL9gwFvYssPszZnyAm56x0Ql1TPJcWWJCcaysW2CpxHAls5OJnDPGb/msnA4HLe51D21yQjedPY13K6bPY4n2CUYJcfUJGZtbl2vX1RhYAv4j7dbAaixhFsBa9OP3sygqGJjMt7BbkLkV/UXG0F4mfcGcve9OvK9ownU42xCnP0FFZGrltq7328e024XC0qi77DKowFq8ATMRdYGWWTA1SG428g==;UmeAM8RjdDt/RiuSmLJY1g=="
 ---

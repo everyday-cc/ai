@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-11-24T03:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "m8sDtYLn1f+PDTwRpMsnePTlzqzc7LbeRg40udGsOmgeeoapRmI8w7NuGvK/ZHviSULW6KyT9Vxh41IzxbGmNDZO69X+4q3c2VH9904mwK06bq23Qve4rBA0tM+wj6LywV5OP8ZNq0NtX8X+z2W4HJlbQrJsENGz3hCmUMiSxOv8NW6aFW7Zv1X2zHGzrbJbdCJ7eKJ0gwuv1AzbT3o3vy+pqMkjUQXsn6UG6Zrl7QkT5NmUU7nvC4mlQMswaMIqeEcvQABdyenj8fXQJGC4aReB3vUWxPMqt00rkkL3p3pAs9VI9qqrmu4sKciPo8ewwLksU7XuEEikBI1MqrO+VCJswoiLdOkxJXrRhd7UDVcbTs8En9Sc064cJYc4UUJ9zxIMpb/ql6+ivcIQS8n0jy/aTE40v2B1bmL7EOAAdaPiABvqQ+jiUv+Cd++2u1GPdSW0yXwdeIp6BkrM4clVHcxhGpP8aY8y9AC1CwksHLsUkLmo18nbRrciEW+pMV6NowPIU6Uc+ySw8ArIEsouFw==;G08/UdCJ5jqq6eryGFVQAQ=="
 ---
