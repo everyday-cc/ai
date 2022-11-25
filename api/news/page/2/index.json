@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-11-23-ai-accelerator-chip-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2028.md",
-      "title": "AI Accelerator Chip Market Size Related To Time and Cost Is Expected To Grow the Industry in Upcoming Years to 2028",
-      "excerpt": "Report Pages] AI Accelerator Chip Market Analysis 2022 (Pre and Post Covid is covered and Report Customization",
+      "path": "_news/2022-11-23-when-and-how-to-introduce-ai-into-your-contact-center.md",
+      "title": "When (And How) To Introduce AI Into Your Contact Center",
+      "excerpt": "Chatbots have a way of turning on the company by alienating customers—unless you do it right. Remember these simple rules.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2028-2022-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2028-2022-11-23",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637cbf6da46c3a084c1e21d8/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 734,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T23:38:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/amp/",
+      "publishedDateTime": "2022-11-23T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,95 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-experts-from-across-the-disciplines-come-together-at-new-center-to-push-the-boundaries-of-smart-robotics-and-ai.md",
+      "title": "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI",
+      "excerpt": "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ...",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "originalUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/experts-from-across-th.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "publishedDateTime": "2022-11-23T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-an-optical-chip-that-can-train-machine-learning-hardware.md",
+      "title": "An optical chip that can train machine learning hardware",
+      "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Their research is published today in Optica.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/teaching-photonic-chip.jpg",
+          "width": 1944,
+          "height": 1944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
+      "publishedDateTime": "2022-11-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -652,49 +739,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
-      "title": "Researchers: AI in connected cars eased rush hour congestion",
-      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
-      "originalUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/",
-      "publishedDateTime": "2022-11-22T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-22-real-time-analysis-of-customer-sentiment-using-aws.md",
       "title": "Real-time analysis of customer sentiment using AWS",
       "excerpt": "Companies that sell products or services online need to constantly monitor customer reviews left on their website after purchasing a product. The company’s marketing and customer service departments analyze these reviews to understand customer sentiment. For example, marketing could use this data to",
@@ -860,7 +904,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -1186,59 +1230,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028.md",
-      "title": "Machine Learning Operations (MLOps) Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028",
-      "excerpt": "Nov 21, 2022 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Research Report gives detailed facts with consideration to market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-25-automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028.md",
+      "title": "Automated Machine Learning (AutoML) Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Automated Machine Learning (AutoML)",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-massive-traffic-experiment-pits-machine-learning-against-phantom-jams.md",
       "title": "Massive traffic experiment pits machine learning against 'phantom' jams",
       "excerpt": "Many traffic jams are caused by human behavior: a slight tap on the brakes can ripple through a line of cars, triggering a slowdown—or complete gridlock—for no apparent reason.",
@@ -201,7 +254,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1338,58 +1391,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028.md",
-      "title": "Deep Learning System Market Is Dazzling Worldwide | Size, Share, Demand and Analysis by 2028",
-      "excerpt": "Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 90 Pages Report Global “Deep",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028-2022-11-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028-2022-11-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T22:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

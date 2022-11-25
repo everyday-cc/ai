@@ -1,29 +1,46 @@
 ---
 category: news
 title: "AI in connected cars eased rush hour congestion, researchers say"
-excerpt: "Researchers say the problem is you. Human drivers just don't do a good job of navigating dense traffic conditions, but an experiment using artificial intelligence in Nashville last week means help could be on the way. In the experiment, specially equipped ..."
-publishedDateTime: 2022-11-23T18:36:00Z
-originalUrl: "https://heraldcourier.com/lifestyles/autos/ai-in-connected-cars-eased-rush-hour-congestion-researchers-say/article_150504e0-8056-58f5-b14b-c5fbacf5f2da.html"
-webUrl: "https://heraldcourier.com/lifestyles/autos/ai-in-connected-cars-eased-rush-hour-congestion-researchers-say/article_150504e0-8056-58f5-b14b-c5fbacf5f2da.html"
+excerpt: "Human drivers don't do a good job of navigating dense traffic, researchers say, but an experiment using AI means help could be on the way."
+publishedDateTime: 2022-11-23T17:31:00Z
+originalUrl: "https://www.stltoday.com/lifestyles/autos/ai-in-connected-cars-eased-rush-hour-congestion-researchers-say/article_1293c347-b2c3-59da-b031-d665964647eb.html"
+webUrl: "https://www.stltoday.com/lifestyles/autos/ai-in-connected-cars-eased-rush-hour-congestion-researchers-say/article_1293c347-b2c3-59da-b031-d665964647eb.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bristol Herald Courier
-  domain: heraldcourier.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/1/50/150504e0-8056-58f5-b14b-c5fbacf5f2da/637e5143170d3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/29/1293c347-b2c3-59da-b031-d665964647eb/637e51466bdfb.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
 related:
+  - title: "Can AI help ease traffic congestion? Researchers say yes"
+    excerpt: "Do you ever wonder why traffic comes to a standstill for no apparent reason? Researchers say the problem is you."
+    publishedDateTime: 2022-11-23T16:55:00Z
+    webUrl: "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee"
+    ampWebUrl: "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 61
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/11/932/470/GettyImages-1244994996.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Researchers: AI in connected cars eased rush hour congestion"
     excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
     publishedDateTime: 2022-11-22T17:08:00Z
@@ -40,22 +57,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Can AI help ease traffic congestion? Researchers say yes"
-    excerpt: "Do you ever wonder why traffic comes to a standstill for no apparent reason? Researchers say the problem is you."
-    publishedDateTime: 2022-11-23T16:55:00Z
-    webUrl: "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee"
-    ampWebUrl: "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/11/932/470/GettyImages-1244994996.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Researchers: AI In Connected Cars Eased Rush Hour Congestion"
     excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
     publishedDateTime: 2022-11-23T16:40:00Z
@@ -71,6 +72,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5VKjbgOXyaVgkHJ6OYL7zU71L/HITf5tzoWTQrxMJ9aFupZ+YWJZtMhDPkr9QzZ4LAllLEJj4UwbcpauqyYLaMcZQNxEbe/lwwmTxcaVyQ47exGkH2g9cH8BsnZbuNIueZzmm5TY1etNrg8csLHMZujD7ZHUuw1o1DEOVPHtCDad5r9lZBSIwBPBrw28SqMxh4RmmDolXvcZ4Os6D24MpUcfD5eMPAVsAwPHPbs/H7VvixP/EKJJ45XopD/W33xCzhf/vrIaERf+HyqsveEkgZ/dPK82kaKlj5zqz1WdCaLXqTA+GeMdTCPo3J7X2g4/aZ9pQ9eDtTc/QDVK+ShIuampxKF8hQDIzy3qmwtFtWk=;AJAzOTwFQ+H9lEPejeHEog=="
+secured: "LQ/57KptlaVhnmktuOlxzJ8grl4l19hBqo7FsBr6ny9dXmN5jaV/qQLCyBC+aL+Gzy28TLXTll/67ya6eTOvv8V3CcoSUorksGjIR4jxtWmGFHkCuDIWs6wRqLw+2JTfmt2q1ZvTu8Z97ECfEllHR5/ylmM+FfO0cwugxB4DtNFEwUuZbk++IC/jdyL8mBppXKK3uXgDopkIned5A/ekF4DTnd5q6Tub9RDYAIQgtBJUUwzy+itpefATS10C49A6d/NsQlusNI7Uc2lmIRvMMIiGrg283TJ5dRiFEllJokGZdqyPxNP/BECeqafu0O+mFucnBLz3sqopHsn1FtYXRRD67jlZLWsczwkpF/gdEHs=;Y6UjHcI8vCVJQo1ShitgHg=="
 ---
 

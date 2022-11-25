@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Facial Recognition Devices Market will have significant change from previous year. By the most conservative e"
+    publishedDateTime: 2022-11-22T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
 
 secured: "HijH9jv/iNjW2M7yTFdezRnOC72iOGu5qA43CGwXD2nRua+ZU9/eWDK+dobmOKzSqK7bEPD2zBKmE9ejCtcMQ2oXC+fEF6DV4cxpaPmDSZ/OQQKZ81c1qZiQvyClxcp2MA7Y4zfBycMnzxnF+6avORqG7oYKvOKEtR3i27hWgy2tIRBJbg8nsjpf/SdtpXqtkq5LNMXKzX1PVXy0QD7n+HMjVDk9P/bDRp5xGGT3qgW+5Ntxq5EFrtfyQ0sxVjhlrWBjXdVO5XuEeagU6JTy3EyGSAjgDK5XtI44VhA1LjuyHnlfA8uHibBR+bH1/gL3s7NSqvxyZBujMiPkQJ8nZyYntqdsGyMdjjTroEuzaTE=;whHV8IrexQyICuHN3UrBfQ=="
 ---

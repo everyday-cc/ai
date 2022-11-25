@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-data-access-controls-with-aws-lake-formation-and-amazon-emr-from-amazon-sagemaker-studio/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Optimize hyperparameters with Amazon SageMaker Automatic Model Tuning"
+    excerpt: "Machine learning (ML) models are taking the world by storm. Their performance relies on using the right training data and choosing the right model and algorithm. But it doesn’t end here. Typically, algorithms defer some design decisions to the ML practitioner to adopt for their specific data and task."
+    publishedDateTime: 2022-11-25T16:16:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/25/optimize-hyperparameters-sagemaker.jpg"
+        width: 1556
+        height: 776
+        isCached: true
   - title: "Identify key insights from text documents through fine-tuning and HPO with Amazon SageMaker JumpStart"
     excerpt: "Organizations across industries such as retail, banking, finance, healthcare, manufacturing, and lending often have to deal with vast amounts of unstructured text documents coming from various sources, such as news, blogs, product reviews, customer support channels, and social media. These documents"
     publishedDateTime: 2022-11-21T20:22:46Z

@@ -120,6 +120,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Insurance Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \" Artificial Intelligence in Insurance Market \" Insights 2022 - By Applications (Chatbots and Virtual Assistants, Fraud Detection,"
+    publishedDateTime: 2022-11-25T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
   - title: "Cleaning Robot Market Size, Share, Growth, Trends, Demand, Development Status, Future Growth, Business Strategy, Forecast 2023 to 2029"
     excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 108 Pages Report\" Global"
     publishedDateTime: 2022-11-22T06:27:00Z

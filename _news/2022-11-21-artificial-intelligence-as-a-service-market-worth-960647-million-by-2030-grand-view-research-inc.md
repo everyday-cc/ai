@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-21T12:34:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Finanznachrichten
@@ -15,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
-secured: "cBQhr3diHA9tBTjWz9x2/VIwXSedO50JSAKAShLjs0LJdbQnerkmr2L1HFjDuQ+RJZ0ad3U5xPg8nrrU+Umnxrmi/Ign0alHvH/XQTvajFrXZkLBInca77aO9FKlSC5NhIiMV6TSvbIDudd3yuKX6l6/qj7+y09tqru6eZAVMxYxd6xlD03ZJGoVI7q9TBzwdslzCfQPK1fOvdCan8tzmd7NOUvzq7IkCsM7rNFJ3h3isWk+NDJr9y27tC0HLjb03yefxSQbQl4jP+A8/LMSetJmsLiaBNd8eRzNp2Rm96xHtE7CmCbZUFpzLYazETBVoN29n9Fak6CW0+PagyMLIcEi4crZkkoInCbbsoBLoCM=;h04fLWi4tAXcuDRlepm6+g=="
+related:
+  - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
+    publishedDateTime: 2022-11-25T15:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "vYLnKXzkbbuXmiTXEWBb9SgDD14OUPsySkF9W2oRXBpK1Iji6710qgMykjzeMkKn8dVYQ0QzUpA+R7VxFA4ihBM5V77w4rDAR6f2z2VvvxyyFTVWIpavUSiUnlNBRJETMdZPY1j1oY+OiwN7FgwGmi2EDr8QUlH7ffRPgd9BHf2G4oLMjPmTiccFwBW3eX2Vf1t1m8W3tYJbMm+XINXYa2PbUkXrkT2O0pC+YWm3c5/hFj/p7C6gPyL7WCGkGqAl+LdqTAgKeMQi1agfZclBb4uBdm9fD6vHMUcJJoIFtOtAdjN6abhRHAfhl4dIcEEHtId6ItfICP4Fxtsg8CogNGXiMkWEFmGbfctiGReMxZ8=;699GRd4UCVsr39iF/hfKBA=="
 ---
 

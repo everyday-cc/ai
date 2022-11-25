@@ -298,6 +298,41 @@
       ]
     },
     {
+      "path": "_news/2022-11-18-cognitive-stimulation-therapy-cst-and-icst.md",
+      "title": "Cognitive Stimulation Therapy (CST) and iCST",
+      "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers Cognitive Stimulation Therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "originalUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news.md",
       "title": "Contentstack Raises $80M, Optimizely Launches DXP on Microsoft Azure, More News",
       "excerpt": "According to company officials, Optimizely DXP provides personalization features powered by artificial intelligence (AI). “We’re pleased to welcome Optimizely to the Microsoft Azure Marketplace which gives our partners great exposure to cloud customers ...",
@@ -1344,58 +1379,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
-      "title": "How 2022 became the year of generative AI",
-      "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
-      "publishedDateTime": "2022-11-11T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T13:33:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2022/11/25/history-of-ai-in-33-breakthroughs-digital-storage/"
 webUrl: "https://www.forbes.com/sites/gilpress/2022/11/25/history-of-ai-in-33-breakthroughs-digital-storage/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

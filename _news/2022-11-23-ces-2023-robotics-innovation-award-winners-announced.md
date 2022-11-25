@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
-    excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-    publishedDateTime: 2022-11-21T16:54:00Z
-    webUrl: "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
-    type: article
-    provider:
-      name: Wane
-      domain: wane.com
-    quality: 49
-    images:
-      - url: "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png"
-        width: 608
-        height: 342
-        isCached: true
   - title: "Robotics innovation: Leading companies in drone launching techniques for the aerospace and defence industry"
     excerpt: "GlobalData uncovers the leading innovators in drone launching techniques for the aerospace and defence industry."
     publishedDateTime: 2022-11-21T06:06:00Z
@@ -83,6 +69,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
+    excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
+    publishedDateTime: 2022-11-21T16:47:00Z
+    webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 29
 
 secured: "TH4/Z0LHucpZaYeheNEU+fqqMstIMSM8TAztob6hKb4W1UkfoYlli/BdNgVNkx0x1Hup3nlqIIC6X4RTwf6+balnMa4MI3h9E6TtZwDV+ZWzuIa0Lsqa53zXLpTfzFcwSPky8HuTzC745wGbBvUoEHofNJ1qfOhCmd4f3hnvnR/vbad7VIVOBaHeL9/IPCUUa+GiyMOYzNSrLQ++qPwXLR2493odOXWKY7ItcMg/E6oG+Uqhlwq4cGHy7gWqyz/EF3/4JmIF1nL9v/a2e8pc51NltkHjwCyk85UaP6vZeVoFrC6AJUzgFLEPHL1D4ZQIs4O3D/XMSCs+4anR3w/Zc4ZMkmXg8vQnZBjMbOoRZC1JekGMO0QyjTIj9NZ2hs9PAQRpDkIQJFIyZjIIIQb/PXUc4hO9/LvrD4qiNd46kbaVNlTW2RgXmdpCm9w1/AR352qex3lqQIyCJT8YU8FQ4y/FSBSXe2kxDCsUsnyNXvJSw+TiM6dg2mBg+uvXDnsRx5toavOrAJQIUAZVaL/mTQ==;RTuoipImfJ3nzbjooDT24A=="
 ---

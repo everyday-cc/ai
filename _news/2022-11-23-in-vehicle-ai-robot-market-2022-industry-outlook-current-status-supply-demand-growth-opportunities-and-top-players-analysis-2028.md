@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Insurance Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \" Artificial Intelligence in Insurance Market \" Insights 2022 - By Applications (Chatbots and Virtual Assistants, Fraud Detection,"
+    publishedDateTime: 2022-11-25T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
   - title: "The US Employment Screening Market Report 2022: Leveraging Artificial Intelligence (AI) and Machine Learning Crucial for Continued Growth"
     excerpt: "Analysis By Service, By Industry Vertical, Size & Forecast with Impact Analysis of COVID-19 and Forecast up to 2027\" report has"
     publishedDateTime: 2022-11-24T17:30:00Z

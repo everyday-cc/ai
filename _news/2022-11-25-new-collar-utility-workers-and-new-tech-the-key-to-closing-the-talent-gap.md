@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T13:00:00Z
 originalUrl: "https://www.power-grid.com/smart-grid/new-collar-utility-workers-and-new-tech-the-key-to-closing-the-talent-gap/"
 webUrl: "https://www.power-grid.com/smart-grid/new-collar-utility-workers-and-new-tech-the-key-to-closing-the-talent-gap/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: power-grid

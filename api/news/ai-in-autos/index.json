@@ -107,6 +107,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-24-can-ai-help-ease-traffic-congestion-researchers-say-yes.md",
+      "title": "Can AI help ease traffic congestion? Researchers say yes",
+      "excerpt": "Do you ever wonder why traffic comes to a standstill for no apparent reason? Researchers say the problem is you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee",
+      "originalUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/11/932/470/GettyImages-1244994996.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp",
+      "cdnAmpWebUrl": "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp",
+      "publishedDateTime": "2022-11-23T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJBK",
+        "domain": "fox2detroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-lawsuit-takes-aim-at-the-way-ai-is-built.md",
       "title": "Lawsuit Takes Aim at the Way A.I. Is Built",
       "excerpt": "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.",
@@ -986,6 +1030,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-18-lyft-and-motional-to-offer-driverless-taxi-rides-in-los-angeles.md",
+      "title": "Lyft and Motional to offer driverless taxi rides in Los Angeles",
+      "excerpt": "Lyft and Motional have announced plans to launch a driverless ride-hailing service in Los Angeles using Ioniq 5 EV Level 4 robotaxis. Los Angeles will be the second city serviced by the two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
+      "originalUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/WqGKETyQotWJMl6624QBSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/64534d50-666e-11ed-b7f6-cedf47c3a338",
+          "width": 1200,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-artificial-intelligence-ai-in-construction-market-overview-2022-to-2030-future-trends-and-forecast-by-autodesk-ibm-microsoft.md",
       "title": "Artificial Intelligence (AI) in Construction Market Overview 2022 to 2030, Future Trends and Forecast | By -Autodesk, IBM, Microsoft",
       "excerpt": "The assessment offers a thorough assessment of the Artificial Intelligence (AI) in Construction Market and helps market players to procure a footing in the business. It highlights fundamental market components like drivers,",
@@ -1355,103 +1442,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated.md",
-      "title": "Reports Of The Death Of Self-Driving Cars Are Greatly Exaggerated",
-      "excerpt": "Recent weeks have seen a number of reports of the death of self-driving cars, triggered mostly by the closure of Argo.AI, the self-driving startup funded by Ford and VW. That shutdown hasn’t been the only bad news in a year of bad news for almost all of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6372c490cf0161db04611970/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
-      "publishedDateTime": "2022-11-15T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
-      "title": "Prehistoric predator? Artificial intelligence says no",
-      "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
-      "publishedDateTime": "2022-11-15T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI in Healthcare",
         "AI in Autos"

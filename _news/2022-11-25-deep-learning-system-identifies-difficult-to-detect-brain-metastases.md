@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T14:00:00Z
 originalUrl: "https://physicsworld.com/a/deep-learning-system-identifies-difficult-to-detect-brain-metastases/"
 webUrl: "https://physicsworld.com/a/deep-learning-system-identifies-difficult-to-detect-brain-metastases/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Physics World

@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-10-survey-majority-of-pennsylvanians-not-comfortable-sharing-road-with-driverless-cars.md",
+      "title": "Survey: Majority of Pennsylvanians not comfortable sharing road with driverless cars",
+      "excerpt": "PITTSBURGH (KDKA) — A new survey shows a majority of Pennsylvanians are not comfortable sharing the road with driverless cars. A bipartisan polling firm found more than half of respondents said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2018/11/13/2090d1a1-84ad-4e28-a6b6-955429a72c73/thumbnail/1200x630/8d226a809d4524bfc474efea5f88a7f8/self-driving.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "publishedDateTime": "2022-09-09T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
+      "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
+      "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
+      "originalUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1213704893.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
+      "publishedDateTime": "2022-09-09T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
       "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
       "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-19-super-computing-and-storage-on-earth-and-in-space.md",
+      "title": "Super Computing And Storage On Earth And In Space",
+      "excerpt": "DDN announced enhancements to its DDN Insights monitoring interface. Panasas announced data management and analytics tools for high performance computing applications as part of its PanFS software suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6378183b6faf13fd0b1a9f12/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
+      "publishedDateTime": "2022-11-18T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
       "title": "Artificial neural networks learn better when they spend time not learning at all",
       "excerpt": "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways ...",
@@ -699,6 +751,41 @@
       ]
     },
     {
+      "path": "_news/2022-11-18-cognitive-stimulation-therapy-cst-and-icst.md",
+      "title": "Cognitive Stimulation Therapy (CST) and iCST",
+      "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers Cognitive Stimulation Therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "originalUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals.md",
       "title": "AI Law And AI Ethics Are Brooding Over Those AI Alignment Tax Proposals",
       "excerpt": "Rightfully, ergo, the list of taxes would only be considered complete if we also had AI taxes. Whoa, some say, if you start taxing AI then we are potentially going to harm or maybe even kill the golden goose. AI can be used for the betterment of humanity.",
@@ -1149,101 +1236,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-the-mystic-of-mar-a-lago.md",
-      "title": "The Mystic of Mar-a-Lago",
-      "excerpt": "A fetish object, as identified by these biased Europeans who struggled ... to bring forth leaders who can see America in its totality. There must be lasting recognition of the young voters and the communities laboring nonstop to send Mr. Trump and his ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.html",
-      "originalUrl": "https://www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/11/18/opinion/sunday/18ghansah-1NEW2/18ghansah-1NEW2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.amp.html",
-      "publishedDateTime": "2022-11-18T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-another-opinion-facial-recognition-use-must-be-accurate-fair.md",
-      "title": "ANOTHER OPINION: Facial recognition use must be accurate, fair",
-      "excerpt": "The action requires a facial recognition system using biometrics, which generally use body measurements to match a photo with a person. Those systems are not as reliable as Batman or Jason Bourne ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
-      "originalUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/custom/image/b3e2ff74-9933-11e5-a144-bfe0ad02fa0b.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T21:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Goshen News",
-        "domain": "goshennews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -23,62 +23,42 @@ topics:
   - AI
 
 related:
-  - title: "AI Accelerator Chip Market Size Related To Time and Cost Is Expected To Grow the Industry in Upcoming Years to 2028"
-    excerpt: "Report Pages] AI Accelerator Chip Market Analysis 2022 (Pre and Post Covid is covered and Report Customization"
-    publishedDateTime: 2022-11-23T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2028-2022-11-23"
+  - title: "Machine Learning Operations (MLOps) Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028"
+    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Research Report gives detailed facts with consideration to market size,"
+    publishedDateTime: 2022-11-21T18:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI At The IoT Edge Is Disrupting The Industrial Market"
-    excerpt: "Transforming data at the source of collection minimizes latency and enables optimized processing for time-critical applications."
-    publishedDateTime: 2022-11-22T08:02:00Z
-    webUrl: "https://semiengineering.com/ai-at-the-iot-edge-is-disrupting-the-industrial-market/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-At-The-IoT-Edge-Is-Disrupting-The-Industrial-Market-fig1.jpg?fit=900%2C524&ssl=1"
-        width: 900
-        height: 524
-        isCached: true
-  - title: "Artificial Intelligence Systems in Healthcare Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Systems in Healthcare Market will have significant change from previous year. By the"
-    publishedDateTime: 2022-11-23T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-size-2023-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-11-23"
+  - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
+    publishedDateTime: 2022-11-25T07:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
-  - title: "Artificial Intelligence in Construction Market is Expected to Generate $8.6 Billion by 2031: Allied Market Research"
-    excerpt: "According to the report published by Allied Market Research, the global artificial intelligence in construction market garnered $496.4 million in 2021, and is estimated"
-    publishedDateTime: 2022-11-21T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29807178/artificial-intelligence-in-construction-market-is-expected-to-generate-8-6-billion-by-2031-allied-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29807178"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807178"
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Insights on the Federated Learning Global Market to 2028 - Enhanced Data Privacy in Numerous Applications is Driving Growth"
+    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\""
+    publishedDateTime: 2022-11-22T12:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820369/insights-on-the-federated-learning-global-market-to-2028-enhanced-data-privacy-in-numerous-applica"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 17
-  - title: "AI In Fintech Market is expected to grow at a compound annual growth rate of 16.5% to reach US$ 54 Billion-FMI"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022 according to a report published by ESOMAR-certified Future Market Insights. The market is anticipated to garner US$ 54 ..."
-    publishedDateTime: 2022-11-21T10:27:00Z
-    webUrl: "https://www.fmiblog.com/2022/11/21/ai-in-fintech-market-is-expected-to-grow-at-a-compound-annual-growth-rate-of-16-5-to-reach-us-54-billion-fmi/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
     quality: 0
 
 secured: "TdWlNOeuP0TQy8+tRz1MmKlO/VwMq37kXdfJDQQ2fz0wupavqNzLCTx69AkmToQegfLHyMvE6yQUnKtgP9Ws1T9w17LrUC0i0S3ZMLc0pTRARdWyP9I2DgJAElHDT/Dy7f4J+lM5LzmSaxKkbAsQNrP0ya+4jJRGRWmM0tcSk36bmYUbT7DNe68nW+wzo5tWc4BlNhtV3qJ0g2UH5N1HPhWwIqQDVLf1wTPYrZ4h2zsZ5KeOQ85xUE5519pLZZuKLKdIQY7nqBIHmTQNF2S7qkEqplO140djNjeGHSt0pWxWc5CV0WbuJuv/2Ma6SW0S7+Q8tbuZ+8G0A93PwtrMVtEA6n0qHKaDaB0kRLF8TQI=;hxmHOT0iA7IHFluNXVbJGA=="

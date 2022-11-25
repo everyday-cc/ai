@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Artificial neural networks learn better when they spend time not learning at all"
-excerpt: "Artificial neural networks learn better when they spend time not learning at all Periods off-line during training mitigated 'catastrophic forgetting' in computing systems Date: November 18, 2022 ..."
-publishedDateTime: 2022-11-19T01:29:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
+excerpt: "Artificial neural networks leverage the architecture of the human brain to improve numerous technologies and systems, from basic science and medicine to finance and social media. In some ways ..."
+publishedDateTime: 2022-11-18T22:42:00Z
+originalUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
+webUrl: "https://phys.org/news/2022-11-artificial-neural-networks.html"
+ampWebUrl: "https://phys.org/news/2022-11-artificial-neural-networks.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-neural-networks.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "ei8rTNRhzFR+hxDisNwbB7uP4q41DzbL9Q3BAhebK4bmGeJT5k4lGYdMBbhxHzFbC1yBMMtNiOOSeXhZJn3kgDJCuVgPPH+s1F9udb+xMOtJbcJvPT8lY8pf3xdZEi5Qf/AhDOHIeSiLYX32ycGo3E3voDgTMm79SZKV2x7c7uJxI4+5mJ1EVm0ZYI8C7jyRnCsYMLkWDcOEQ5SA+pVTQoCagn72r2C/WRPRr4Ve6IU+9oL6opehK4wqObCrYe7hxf+/kso4aqO6bR3gtpObRX6ncVu2aRWPkZdStLQXkOjQRDNcBxKbrJz7lISjHBuKuT77cDL/x0ivhaV0bEnqJbk9hbzaEJ1gshYeZf0stJA=;TdKzxzOONaWBqTVCASiYpg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-neural-netw.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "WRVDXx76K5TOebR9FMNomb7DHDLoGbOP/LZRzrfIQ8sLoHqCkRhFT9EkBKiUHL/ma0Qw2NkB+hSBHuHqWnGOrUuz8t6zefgNBZZXoZxuZ80oAXDWv/20ZBELxmcfxtX5US/meNQ90pCg8cphjqnt13b/P4sysDpYB9sXHzWevPsB61yl9GbVR77+4ptRPlUJe0xsVxBKV23b6M00HzcBcEFxsE/kgvLXTJsnBFQQDK/xUlUYF6jTUY2S6J6ZYe40mX7V3bdmeo77QVmu/2l04gFslVZVYxOb9SIk6cX9kW6AKi8KROOP6d8RXzJGuKvKDY6/Dg2/CWQgvGWIxsSO/feC3JAnrlC3eZEOX4PXU/A=;Ari/fPaG2TRpjdizj9Q1uA=="
 ---
 

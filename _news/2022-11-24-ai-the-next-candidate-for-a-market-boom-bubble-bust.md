@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-
 ampWebUrl: "https://www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/amp/"
 type: article
-quality: 89
-heat: 90
+quality: 91
+heat: 92
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - Google AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&width=1200"

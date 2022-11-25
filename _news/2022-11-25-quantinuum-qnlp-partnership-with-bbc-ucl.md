@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T13:11:00Z
 originalUrl: "https://advanced-television.com/2022/11/25/quantinuum-qnlp-partnership-with-bbc-ucl/"
 webUrl: "https://advanced-television.com/2022/11/25/quantinuum-qnlp-partnership-with-bbc-ucl/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Advanced Television

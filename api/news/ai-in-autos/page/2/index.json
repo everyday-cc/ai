@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-15-reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated.md",
+      "title": "Reports Of The Death Of Self-Driving Cars Are Greatly Exaggerated",
+      "excerpt": "Recent weeks have seen a number of reports of the death of self-driving cars, triggered mostly by the closure of Argo.AI, the self-driving startup funded by Ford and VW. That shutdown hasn’t been the only bad news in a year of bad news for almost all of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6372c490cf0161db04611970/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
+      "publishedDateTime": "2022-11-15T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
+      "title": "Prehistoric predator? Artificial intelligence says no",
+      "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "publishedDateTime": "2022-11-15T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy.md",
       "title": "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy",
       "excerpt": "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary.",
@@ -1277,94 +1374,6 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-627-million-in-federal-funding-will-help-pittsburgh-grow-its-autonomy-sector.md",
-      "title": "$62.7 million in federal funding will help Pittsburgh grow its autonomy sector",
-      "excerpt": "A $62.7 million federal grant will help accelerate advances in Southwestern Pennsylvania’s autonomous technology sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/news/2022/11/04/funding-will-help-pittsburgh-grow-autonomy-sector.html",
-      "originalUrl": "https://www.bizjournals.com/austin/news/2022/11/04/funding-will-help-pittsburgh-grow-autonomy-sector.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
-      "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
-      "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1421615048.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
-      "publishedDateTime": "2022-11-04T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos",
         "AI in Healthcare"
       ]
     }

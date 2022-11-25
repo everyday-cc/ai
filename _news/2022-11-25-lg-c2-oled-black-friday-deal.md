@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The best Black Friday robot vacuum and smart home deals"
+    excerpt: "Going from zero to a fully outfitted smart home is a huge undertaking — and it can get expensive fast. While we don't recommend grabbing every possible smart home device in one go, Black Friday makes smartening up areas of your home a lot easier on your wallet."
+    publishedDateTime: 2022-11-25T16:47:00Z
+    webUrl: "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
+    ampWebUrl: "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b8640800-6abd-11ed-bfee-1c74ea8ab846"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "This $99 Black Friday robot vacuum deal is absolutely bonkers, so get it while you can"
     excerpt: "The Anker Eufy 25c robot vacuum doesn't skimp on features -- it connects to your home Wi-Fi and can be controlled through an app or through your home's smart speaker. It has 1,500 Pa of suction, three-layer filtration and a slim profile that helps it get under furniture to clean."
     publishedDateTime: 2022-11-25T05:40:00Z
@@ -56,6 +72,34 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "LG C2 OLED Black Friday deals: big discounts on the best value OLED TV"
+    excerpt: "The LG C2 OLED is rightly incredibly popular and you can make big savings on the set thanks to the Black Friday TV deals"
+    publishedDateTime: 2022-11-24T23:12:00Z
+    webUrl: "https://www.whathifi.com/news/lg-c2-oled-black-friday-deals-big-discounts-on-the-best-value-oled-tv"
+    type: article
+    provider:
+      name: What Hi-Fi?
+      domain: whathifi.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/BxXc3duBRcNUXq3YS5pXaM-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Incredible Black Friday deal: 48-inch LG C2 for just £849 with this voucher code"
+    excerpt: "Fancy a discount on a discount? Now's your chance. LG's stellar 48-inch C2 OLED TV has dropped to just £849 thanks to a Black Friday voucher code. Head to Sevenoaks (opens in new tab), enter 'GDSAVE100' when prompted at the checkout screen, and hey presto ..."
+    publishedDateTime: 2022-11-21T17:06:00Z
+    webUrl: "https://www.whathifi.com/news/incredible-black-friday-deal-48-inch-lg-c2-for-just-pound849-with-this-voucher-code"
+    type: article
+    provider:
+      name: What Hi-Fi?
+      domain: whathifi.com
+    quality: 19
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/4cENTtWpXs2DCsJitNXnhK-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9GIGVC3n7Ej8oKPhYwKACKlzvdL5kjPiMw8IVemIL0FPuogtcZ1ftDhyvbszdNfOor8jAIXtW8nrIaPEgYbTj0Y9BwRhGudzWlxg+w2Kayj5Pp2e78i5EOXrZ+4dWo/qQ1FDEF2egkYfn9lFEa+q2bpe9PqwJlOn/iv8nb3WpdUI8FoMhILPmgKp9COMt1G2wmjo4Ki4VhKqiPCSebUoIXI9xYhDRkWc/ew68C5iIUc23cmV8+ClkWmNcRtB1KRGqz6JARoEbcPqXL4KBgymviJy/C8QcB0IrsJFceUUVhMe4+dkj7eMN6vpySr/1f7zMnsK+STsvpptppAyAC6/2k6M0Ka7zdferH026TV0GR0=;TIdv8r92GWsWtyxOJvWgew=="

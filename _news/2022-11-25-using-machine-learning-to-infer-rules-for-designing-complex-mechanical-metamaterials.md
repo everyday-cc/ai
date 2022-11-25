@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T14:30:00Z
 originalUrl: "https://phys.org/news/2022-11-machine-infer-complex-mechanical-metamaterials.html"
 webUrl: "https://phys.org/news/2022-11-machine-infer-complex-mechanical-metamaterials.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Phys.org
