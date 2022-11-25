@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuu
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Best robot vacuums for 2022 tested and rated"
-    excerpt: "It would suit households without pets who value convenience above all, and don’t mind paying ... a \"smart\" robot vacuum, the S11 does come with a remote, which made it easy to control."
-    publishedDateTime: 2022-11-20T23:31:00Z
-    webUrl: "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html"
+  - title: "This $99 Black Friday robot vacuum deal is absolutely bonkers, so get it while you can"
+    excerpt: "The Anker Eufy 25c robot vacuum doesn't skimp on features -- it connects to your home Wi-Fi and can be controlled through an app or through your home's smart speaker. It has 1,500 Pa of suction, three-layer filtration and a slim profile that helps it get under furniture to clean."
+    publishedDateTime: 2022-11-25T05:40:00Z
+    webUrl: "https://www.cbsnews.com/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 51
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/its2Ps4RMjDGBkHtngK9S7-1200-80.jpg"
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/25/1ff2a733-6569-42de-89d7-34483fd143dd/thumbnail/1200x630/8b50c3306d81bd7ee8e20e548a0c7b05/anker-eufy-25c-robot-vacuum-header.jpg"
         width: 1200
-        height: 801
+        height: 630
         isCached: true
 
 secured: "Gh3FzawWnbSkEI/LPkmhW4zASmsWdWTM14aOIM3ObF3nHYQbNQqTkg8erhOmwKTI+BeHqNTDA22y3wuY7p6hfbWIH9KDKR+e2ZjHPC3dLRq7+JXcklrIt+a11+0UMk+mQ3K3Lgg4sD5zIkOe9bnTkUiecAtTah5rB2ksVokpPjQnyIANtMGJJCGS30tQPKTGHSveUqPStOnR3uHUVEHequkCTZnU7jZmLRTnn0rJjvQlWCzcFRoPKpx4d/dqUdsYyqr7ACxBOtHHAhwecS23pHK1By4yv8mz6nr39JZ2OOyhwl/ftjhw5fC1cOpf9W3o0Ml+mIanft8D/PhFg4DqzaV0IRaIaEeCv7kCwLU5AwCR3FeuGNYEpmkh1seDSMg6O8jG6+nN+lYt1Au+Q9K/w9umvxXErJxxxt0LujopYreEeFZHPj9ABwJvWgZkJksSSLj32fg7L/MES+Vy0UR1RMU3ZM8/RqjcTeoZx/2qdgR/bsDvXj7rbGLAztu0z3DdwLZSEBtF6SyMDAJYeRPAwg==;JtSMvBY6b5sA42DCtWYqfg=="
