@@ -2,9 +2,9 @@
 category: news
 title: "Buy Mobileye Stock, Says Wall Street. There Is a Future in Self-Driving Cars."
 excerpt: "Self-driving dreams aren’t dead just yet. Wall Street has a new favorite company–and stock–to play the trend. Mobileye (ticker: MBLY) is the firm. It develops vision systems for vehicles that enable advanced driver assistance features such as adaptive cruise control and lane keeping assistance."
-publishedDateTime: 2022-11-21T16:38:00Z
-originalUrl: "https://www.barrons.com/articles/buy-mobileye-stock-price-self-driving-cars-51669032755"
-webUrl: "https://www.barrons.com/articles/buy-mobileye-stock-price-self-driving-cars-51669032755"
+publishedDateTime: 2022-11-21T20:39:00Z
+originalUrl: "https://www.barrons.com/articles/buy-mobileye-stock-price-self-driving-cars-51669032755?siteid=yhoof2"
+webUrl: "https://www.barrons.com/articles/buy-mobileye-stock-price-self-driving-cars-51669032755?siteid=yhoof2"
 ampWebUrl: "https://www.barrons.com/amp/articles/buy-mobileye-stock-price-self-driving-cars-51669032755"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/buy-mobileye-stock-price-self-driving-cars-51669032755"
 type: article
@@ -72,6 +72,6 @@ related:
         height: 631
         isCached: true
 
-secured: "LpUon0wtwBjlscxGJORP7Ypv0fe+zGu1wVXXMLKpKQ9+q8R2bg5zqr2WM8BDeCvI7VTtsWRP4qvLsmLAAPNXF4JW54bog2aOlcVmAYd9suHCFMaBMnfMFBBatmVcEDCrH+LyDYiVNokNunqx5pa9dvT1/S+zNJadJySuTVRtnXpJ3m+dbNha6/g/eCRrO3NyYozxuG/kdgaD44hL78lFJtx3/b41DNguZhkENjh4E92D8Yj7UwYkbiyu8qXqpHnLrhVtleCMhfi0YJRW3zLPXK9uePpJ5ZGRPx4hvgBOYBkrjDZmjRWZOZW0uGQdqOk6mo7uWTTGxxSrThdLS4ua2EXTRyXvtTeJ5fEzvgQQeJyXrwrXiESW4OyITtPfBzZsdsLmiNoaejcuRdPgJlDe6ptlI8m3K4jRQ0Xp66k1mrh7v7MBsOM8/nXPNDci17gVWrxu/qYULkzFyxWkrMEjtp3pX4SK5LhzV31bX60lmEppe2YQytMwo65o8phxFKTBaQUjuY5yEJRDLsteRs6jQg==;U2WpvtrQLiE81FfbdA/16A=="
+secured: "RgXO6WkS1lZWh38Z5NJ0vxsLSCb8XKwYL5G/gIosSortRA2AM7e+LDxR5rEVdDZFfNOuawGmxPx6twb2hQpHPovgsIJHqL/vSS7Li+lublHTca78yYrLUVuxJkUpxdrDYZlZOqzorxE+6oRCUFU+wzR2DhHbOdVQiFIaKT4XHyhCVlAkdG9MWg8TgMo983yYLNTVJq/ZaDh2wm6pT1uLEBcwKrONtFsbX4qoxR11rDSmHdH75KZMZ+MZ55TmbrD/EaZhF1Y9Z57vJ2Zz2mWIVW3t82mIhhNLOkAd4m7oN6nFmNQ61K8IYPHaCquYwkTWnnn1KkvqyeWzaAwyWK2jevpaaFqDmBBMbFF2tDxA9Gg=;dhD608Mo0g1L44mFxiqDhA=="
 ---
 

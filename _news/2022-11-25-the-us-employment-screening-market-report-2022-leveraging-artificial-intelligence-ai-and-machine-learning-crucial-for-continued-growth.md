@@ -148,6 +148,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market : The research and development scale segment is estimated to witness significant CAGR over the forecast period 2022-2028"
+    excerpt: "Nov 23, 2022 (The Expresswire) -- \"Facial Recognition Market\" research provides significant and in-depth information on the global market. This"
+    publishedDateTime: 2022-11-23T05:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-the-research-and-development-scale-segment-is-estimated-to-witness-significant-cagr-over-the-forecast-period-2022-2028-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Lock Market - Global Industry Analysis and Forecast to 2022 to 2030 | By -Dessmann, Kaadas, MI"
     excerpt: "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Face Recognition Lock Market research report 2022-2030 The Global Face Recognition Lock Market investigation report is segmented by Types ( Black,"
     publishedDateTime: 2022-11-23T05:25:00Z

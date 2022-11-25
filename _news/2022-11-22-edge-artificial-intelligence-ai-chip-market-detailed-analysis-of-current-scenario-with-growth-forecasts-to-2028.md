@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -147,6 +147,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market : The research and development scale segment is estimated to witness significant CAGR over the forecast period 2022-2028"
+    excerpt: "Nov 23, 2022 (The Expresswire) -- \"Facial Recognition Market\" research provides significant and in-depth information on the global market. This"
+    publishedDateTime: 2022-11-23T05:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-the-research-and-development-scale-segment-is-estimated-to-witness-significant-cagr-over-the-forecast-period-2022-2028-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

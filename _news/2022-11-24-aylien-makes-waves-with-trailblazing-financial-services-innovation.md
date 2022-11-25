@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/risk-management/aylien-makes-waves-tr
 webUrl: "https://financialit.net/news/risk-management/aylien-makes-waves-trailblazing-financial-services-innovation"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1366
     height: 768
     isCached: true
+
+related:
+  - title: "Digital Transformation in Banking and Financial Services"
+    excerpt: "The BFSI industry is currently amidst a profound transformation as it prepares to embrace the new stage of taking its services in a digital-first era. The challenges are significant as competition is stiff."
+    publishedDateTime: 2022-11-25T08:18:00Z
+    webUrl: "https://techbullion.com/digital-transformation-in-banking-and-financial-services/"
+    ampWebUrl: "https://techbullion.com/digital-transformation-in-banking-and-financial-services/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/digital-transformation-in-banking-and-financial-services/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/financial-sector.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "v3PIfwVZhxuRhzPzLgoYGBbrqZu7yT/BPLiR267g4sOsQl3fdW0IqGqSi9IUUOzk/bDqOuj1u4KiXwAenNnlu2YK4CYP3wCUlVI3Y3ccGbWMviC7PHiA50udwR5Rm3gS+0mmale4hRtOa9kTkU2+cHpPYExRFrhQRZx84s3zSVXWnlNtIUC0+eVcucQFraOMQ8KHE78PBuwq0hka9qRFHqd5+LGhXydUL3fKYjBAKdRS0umTSQ537c9PvxyHR9o6mt+hTwykh792T89JOuqIh5T7ea4HUjLXgvlK3biKq2NDYzmG/JCUON2Mekz3+9FxVZllpspN+GeTqmfuOpH7z9qCQ6Yuv36bKLhSy5LUeIo=;Fl5MuJ3FHFvq546Pwo0ouA=="
 ---

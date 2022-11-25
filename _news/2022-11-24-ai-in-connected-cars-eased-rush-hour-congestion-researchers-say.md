@@ -25,18 +25,36 @@ images:
 
 related:
   - title: "Researchers: AI in connected cars eased rush hour congestion"
-    excerpt: "In the experiment, specially equipped cars were able to ease rush hour congestion on Interstate-24, researcher Daniel Work said on Tuesday. In addition to lessening driver frustration, Work said less stop-and-go driving means fuel savings and,"
-    publishedDateTime: 2022-11-23T10:51:00Z
-    webUrl: "https://www.chron.com/news/article/Researchers-AI-in-connected-cars-eased-rush-hour-17605745.php"
+    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+    publishedDateTime: 2022-11-22T17:08:00Z
+    webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
     images:
-      - url: "https://s.hdnux.com/photos/01/30/37/71/23199349/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Can AI help ease traffic congestion? Researchers say yes"
+    excerpt: "Do you ever wonder why traffic comes to a standstill for no apparent reason? Researchers say the problem is you."
+    publishedDateTime: 2022-11-23T16:55:00Z
+    webUrl: "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee"
+    ampWebUrl: "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/11/932/470/GettyImages-1244994996.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Researchers: AI In Connected Cars Eased Rush Hour Congestion"
     excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
