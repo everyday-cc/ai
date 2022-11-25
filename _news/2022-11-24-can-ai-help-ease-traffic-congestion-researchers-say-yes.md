@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/11/932/470/GettyImages-1244994996.jpg?ve=1&tl=1"
@@ -72,6 +73,6 @@ related:
         height: 500
         isCached: true
 
-secured: "qJ6mJzRayPX/H5ia+gvItvuEAinAwhsJDIybvGh+9/tKKkdblPDei6Azq9DBvI9hAvYKD9UwNFroi93fmeI5zEttH0Pl+JDv9O5bkd219rjVk21qOT+lBPcGOXOTJRUnJWZIpYOANikyr13oR2JyKISgEDW7LHOiyoV5GOZ7XZNbn+mrFP+aKGXG4e21kQfbTgcKgzP7IKnWctLUDxvkIdEOBV5a+NR9/oUPBpcbDJ58R/4trUc4rPDAZ+LReTZmOYZbqhpaIc7Sh3qD5w6qgn8PwKNyJ19qhwRBz/rmBtXbl2o9tOIhA0zRdATnaoqX0XuDJHP4gevEw+9+pAVKoBLbn78UCcJQg1jCy0McA14=;Y6gGNE6ZdlAIURIYf1pH8Q=="
+secured: "RNzKE4M29lzsjsNXORtvk6HI5VR5x+s+rirDuB88gNr86RZrVXGAc3xVrJPwOV1YNyXlN6I7A7bJDmNircb5vydfevxlJ4hn0brqPSDm3Ve2OTyYIVQol+o7QPpK5BqgcfZEZrcAZd+jcfUvxb19lLyZLMJsX22vxfj6Xmc7VQ4qY7D4EBNV97/HF7DvHEhqQ1+TW9Fdc42yjpSIMmnAwTQThCnaSilX//7bVvvaHFHc+1ZXA9LVWQONYCgxyCtHrtF2xYsSWPZKiaUUzO67PoRfPFwNUJQeGn5jEbJqXWbwIMuNtS/hBcBAKvCFRP89IVsRHNA9jKlTw8ckELhwK958hj9Pt92ioS3hSCyqWEM1D17eMfBMhUy2inUG9D5HylfV3VNDuRvwt5TUL2VFINCPOGhQdryxh4zmnDmtxQTSsR0LqBhhMrVwi43PhFfXjszIZdHOERhtVscD28iBlk00+j6zuoTrouI5J0A0QnKRPl/JTlG9qdV+peopU6B7HP5DGMeiHWCYKCeY+ZTJXA==;61+LrFhV7Hx4+D+NoxmV2A=="
 ---
 
