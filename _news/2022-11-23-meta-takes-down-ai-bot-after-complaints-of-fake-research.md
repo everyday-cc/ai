@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: moneycontrol.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Takes Down AI That Churns Out Fake Academic Papers After Widespread Criticism"
-    excerpt: "Meta pulled the plug on its Galactica AI after three days of experts and random social media users dunking on the scientific paper-trained Large Language Model (LLM) over its penchant to spit out made up nonsense."
-    publishedDateTime: 2022-11-20T17:10:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-takes-down-galactica-ai"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 31
-    images:
-      - url: "https://wp-assets.futurism.com/2022/11/facebook-academic-ai.jpg"
-        width: 1200
-        height: 692
-        isCached: true
   - title: "Critics reject Meta-trained AI made to make scientific research easier"
     excerpt: "Galactica, formerly known as Facebook Artificial Intelligence Research is an artificially intelligent tool developed by Meta that was rejected by scientists as soon as it came to"
     publishedDateTime: 2022-11-24T13:12:00Z

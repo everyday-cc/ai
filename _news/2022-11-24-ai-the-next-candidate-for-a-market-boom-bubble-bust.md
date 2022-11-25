@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2022/11/24/ai-the-next-candida
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

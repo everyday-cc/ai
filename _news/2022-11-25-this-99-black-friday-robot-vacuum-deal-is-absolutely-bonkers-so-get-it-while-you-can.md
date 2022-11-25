@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/this-99-black-friday-robot-va
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: CBS News
@@ -42,6 +42,20 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "LG C2 OLED Black Friday deal"
+    excerpt: "Just how good is the LG C2? The 65-inch model won our coveted Best TV Award this year. And it wasn't a one off – the 42-inch version also won the Best TV in its size category as well as Best Gaming TV gongs. It also excels at the jumbo size, with the 77 ..."
+    publishedDateTime: 2022-11-25T10:01:00Z
+    webUrl: "https://www.whathifi.com/news/big-screen-big-saving-lg-c2-oled-black-friday-deal-slashes-55in-model-to-under-pound1000-for-first-time"
+    type: article
+    provider:
+      name: What Hi-Fi?
+      domain: whathifi.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2U6UayHsc2UoSQyej7BdA7-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "+nGKxa4d3cnlWO8TyXfg+iF3D+4hhjxSZg6E23F4nBHUDRNxSzxemDdsQucG7FXypVj8cvcgXchfGzAsBE9AS0qemGBiIeyHElv2ipdvcbfv+9t9jOoppmLw70zPIMFvfttrKvMLoQdnzEk16Ir1sIQqaMpV7z90Y827+mtl7XamDfj7XqqPn5E5yw2Y7ZXUvhZCYHVtEcMeyiEeav8UB5E3rRoWyw62VbJwGOGTnMZw4VR45XMPkPeYiwKtcDPe8w0O7nbUI3qyD0exIMJrRvx7fNscfAWSQlnmk3Cah1Amikfe3fTBbWa3alPox/gCOXSLluclajK62pfV0xqZFk/eHiR0wSkWF1Sa4DTNnDg=;04mYT4zsTvpLe6IwFr8Mqw=="

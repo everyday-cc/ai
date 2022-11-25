@@ -2,24 +2,24 @@
 category: news
 title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
 excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-publishedDateTime: 2022-11-21T18:09:00Z
-originalUrl: "https://menafn.com/1105213840/ABR-Time-Series-Processor-TSP-AI-Chip-Named-CES-2023-INNOVATION-AWARDS-HONOREE"
-webUrl: "https://menafn.com/1105213840/ABR-Time-Series-Processor-TSP-AI-Chip-Named-CES-2023-INNOVATION-AWARDS-HONOREE"
+publishedDateTime: 2022-11-21T16:47:00Z
+originalUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-11/21/GN_0e24c4cb-5_Image_In_Body.png"
+  - url: "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png"
     width: 608
     height: 342
     isCached: true
@@ -84,6 +84,6 @@ related:
         height: 720
         isCached: true
 
-secured: "YAzsKaVUi37KUpGCRuwUMGxD4HIwbveGYWQabPsDUj8e4HdCWiZMvdRCKeQ8QDovgoJKuQSXts5A+2XSqeVYLdTTBpAB57DrUpnrY6FVs2MlWhOgs9pQzjvm1HUe1yo722k3MqXX84mSIGwTOQZRe5dDxDv91ZEiBZSFKJZEEl8p3ijy/aQ2Yz+iR607WQh+sRg3sEVLmRN4zj11zQEs3KIJA0fpMBzWRXc1j0N22kNzu0FoHGavI3KFuho3urpOu/ArA9jKBoaB0UiOaQYll8yr1BywOngX9KOH4h2xq8y69Ra57Bgt/SvWl8Fisb00dWFd+GX/k//OLXVn/OD49Hc/kcziDFmtHgbELPwTYUA=;Nt4b3ywRqGCTjXu7nw28Fg=="
+secured: "Opzarmnh0ZGyqMMh/rC8HaLxJR9XJf3PPqf+Zeb2pEPRMh8zbTUOji8CYN9daRgYa5CpSHfZrw5mf4BKQKqysDb7Wr9f+H+YZRkQYqv00s4NTsgKCiHodx3l1MQGYv1GNtv9fScfoOsDuUp2YFOmaKtCcrwGL6ZGuwRMrNb33PCu+amdVRZB/CgBpJedc1Ac2ym/11waMpGOCZVO07ZaLTUDUhJN7y0n/aJZ5AfHTYIy0MTj2gUqVbhqqCqJ5nxfgYtvk9AWSXRZZqolzvjEEgt7f6+gT2xXY4/rwu3POhBqz5zOx+Zh1DodnnUebW2sJXxrPrvRK+1tsFWRoEov0RMnv4BEn9X+J2yG1NlH9TQ=;p0BGTIj5ORh6mVPV2GVezA=="
 ---
 

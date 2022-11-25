@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-25-artificial-intelligence-robotics-can-transform-healthcare-sector-in-collaboration-with-humans.md",
-      "title": "Artificial Intelligence & robotics can transform healthcare sector in collaboration with humans",
-      "excerpt": "Robots have the potential to perform more efficiently in various fields including healthcare sector. Artificial Intelligence (AI) and robotics can play a major role in bringing greater good for the humanity,",
+      "path": "_news/2022-11-25-this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can.md",
+      "title": "This $99 Black Friday robot vacuum deal is absolutely bonkers, so get it while you can",
+      "excerpt": "The Anker Eufy 25c robot vacuum doesn't skimp on features -- it connects to your home Wi-Fi and can be controlled through an app or through your home's smart speaker. It has 1,500 Pa of suction, three-layer filtration and a slim profile that helps it get under furniture to clean.",
       "sourceUrl": null,
-      "webUrl": "https://newsonair.com/2022/11/25/artificial-intelligence-robotics-can-transform-healthcare-sector-in-collaboration-with-humans/",
-      "originalUrl": "https://newsonair.com/2022/11/25/artificial-intelligence-robotics-can-transform-healthcare-sector-in-collaboration-with-humans/",
+      "webUrl": "https://www.cbsnews.com/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/",
+      "originalUrl": "https://www.cbsnews.com/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://newsonair.com/wp-content/uploads/2022/11/Robot.jpg",
-          "width": 586,
-          "height": 364,
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/25/1ff2a733-6569-42de-89d7-34483fd143dd/thumbnail/1200x630/8b50c3306d81bd7ee8e20e548a0c7b05/anker-eufy-25c-robot-vacuum-header.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T23:06:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/",
+      "publishedDateTime": "2022-11-24T21:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NEWS ON AIR",
-        "domain": "newsonair.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,8 +41,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -193,7 +192,7 @@
       "originalUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {

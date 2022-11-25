@@ -9,7 +9,7 @@ ampWebUrl: "https://sciencex.com/wire-news/430637571/experts-from-across-the-dis
 cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp"
 type: article
 quality: 71
-heat: 91
+heat: 92
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-o
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
 type: article
 quality: 79
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-741027,msid-95715660/redbrick.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "India to take over chair of Global Partnership on artificial intelligence"
-    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair, India had received ..."
-    publishedDateTime: 2022-11-20T18:34:00Z
-    webUrl: "https://www.dailypioneer.com/2022/india/india-to-take-over-chair-of-global-partnership-on-artificial-intelligence.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 51
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
         isCached: true
   - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
     excerpt: "India assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI) at a summit held in Tokyo."

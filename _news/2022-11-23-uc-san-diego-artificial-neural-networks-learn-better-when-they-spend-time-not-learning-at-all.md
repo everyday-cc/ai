@@ -26,24 +26,6 @@ images:
     height: 1024
     isCached: true
 
-related:
-  - title: "Not Learning May Help Learn Better!"
-    excerpt: "Catastrophic forgetting in computing systems like artificial neural networks may be overcome by allowing them not to learn."
-    publishedDateTime: 2022-11-20T18:27:00Z
-    webUrl: "https://www.medindia.net/news/not-learning-may-help-learn-better-209333-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/not-learning-may-help-learn-better-209333-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/not-learning-may-help-learn-better-209333-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 44
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/brain-heat-sensor-remote-control-of-core-temperature.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-
 secured: "Rmh3kUU6hjKNv154oISx/HhzfLz2V5HENsimIEGuMBhm2jXnsqB+6jLbH2JkOJzhWuvbIqqMGhuDf/99kvLGe6sRUcQbY72/UUcE6d1bxH3kEYaSo01Kl+cTWuw8mDtVWYE3I/5kDfcxTDTArOc+dJMrZruZRRTllTpmWDfUi2Ad+nco5a3ngWLSirjWYT6t8EiUSERNHFdpd8EYm5nsicDCmntmRoohHbhscItqb/q5dHQcp5swBa1l2OfGvicv/sgWq3I/I5CR7vPoCCvEf+TGfoFc5p4P2Dcgoq4yfXF0mlaKsVICzeXuIr3/RAGn/AesuX38bDc7A6DV3fviO/kTzFP7HD5TLadO8cekE15pSjfyMqM8p5CLtDpB+CqjPHBXphSmclDiQHLRnJRkCNBsGNH7NDIZqpacPwkpRvysa1IZrJozWVWBhQcKZuA989zSM03fqCsdAXqlCnb7Pxa05Oeq95xv3rmQxnYtfPEMFhHIGJFtzBir5biKQxIG7znPj/WnX2rdAL7Y5eHbGA==;dF4xqbzghNDQQmW1KlntqA=="
 ---
 

@@ -57,15 +57,15 @@ related:
         isCached: true
   - title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
     excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-    publishedDateTime: 2022-11-21T18:09:00Z
-    webUrl: "https://menafn.com/1105213840/ABR-Time-Series-Processor-TSP-AI-Chip-Named-CES-2023-INNOVATION-AWARDS-HONOREE"
+    publishedDateTime: 2022-11-21T16:47:00Z
+    webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: KTLA
+      domain: ktla.com
     quality: 49
     images:
-      - url: "https://menafn.com/updates/pr/2022-11/21/GN_0e24c4cb-5_Image_In_Body.png"
+      - url: "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png"
         width: 608
         height: 342
         isCached: true
