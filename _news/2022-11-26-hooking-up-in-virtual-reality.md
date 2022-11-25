@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T16:14:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-intimacy/202211/hooking-in-virtual-reality"
 webUrl: "https://www.psychologytoday.com/intl/blog/the-future-intimacy/202211/hooking-in-virtual-reality"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Psychology Today

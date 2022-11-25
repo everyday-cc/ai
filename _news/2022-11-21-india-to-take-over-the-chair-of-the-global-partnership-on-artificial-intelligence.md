@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-o
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
 type: article
 quality: 79
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "India To Head Global Partnership On AI (Artificial Intelligence) For 2022-23"
-    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair,"
-    publishedDateTime: 2022-11-21T04:13:00Z
-    webUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618"
-    ampWebUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 69
-    images:
-      - url: "https://c.ndtvimg.com/2022-11/qk20estg_image_625x300_21_November_22.jpg"
-        width: 750
-        height: 472
         isCached: true
   - title: "India to take over as chair of Global Partnership on Artificial Intelligence"
     excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar will represent India at the GPAI meeting to be held in Tokyo on November 21, for the symbolic takeover from France, which is the outgoing Council chair."

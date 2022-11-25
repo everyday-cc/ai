@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T19:05:00Z
 originalUrl: "https://www.reuters.com/legal/litigation/us-judge-warns-law-firms-clearview-ai-lawsuit-over-disarray-2022-11-25/"
 webUrl: "https://www.reuters.com/legal/litigation/us-judge-warns-law-firms-clearview-ai-lawsuit-over-disarray-2022-11-25/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Reuters

@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Software Market Global Industry Analysis, Size, Share, Demand, Growth, Trends, And Forecast, 2023 To 2029"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 115 Pages Report\" Global"
-    publishedDateTime: 2022-11-21T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-global-industry-analysis-size-share-demand-growth-trends-and-forecast-2023-to-2029-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The US Employment Screening Market Report 2022: Leveraging Artificial Intelligence (AI) and Machine Learning Crucial for Continued Growth"
     excerpt: "Analysis By Service, By Industry Vertical, Size & Forecast with Impact Analysis of COVID-19 and Forecast up to 2027\" report has"
     publishedDateTime: 2022-11-24T17:30:00Z
@@ -141,20 +127,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market 2023 : Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2029"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 102 Pages Report\" Global"
-    publishedDateTime: 2022-11-21T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-global-industry-analysis-size-share-growth-trends-and-forecast-2029-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -47,15 +47,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Car Voice Recognition Industry 2023 Market Growth, Size, Demand, Trends, Insights and Forecast 2028"
-    excerpt: "The global Car Voice Recognition Market size, revenue, distinct categories, drivers of development, sources of"
-    publishedDateTime: 2022-11-21T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/car-voice-recognition-industry-2023-market-growth-size-demand-trends-insights-and-forecast-2028-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
 
 secured: "VT0HzrCruEMyxt7BV2LFCEltU6rafd+GJBTZB+4IsqSMMoUPk+yLO4UTWDzv9UUK+20hsC/PGOP1r8/wuk1FBOZS9+txYyeU6SwrxSaKB6wX+dyQAbvX2sld+8iKScJQIUp2FDRiZvF7oliUExoWMipwGCr2bMYcaKK96eqLF8eXyibailEy2B/99RZbajyPd1TrIt5qtptqH9ThN/qVr9/bWu3c1cxxdwZBHVmlbt6blvipC2jUly3W9VukDz9PZ3GJElYQRiZhJ1XzG/TRBudIbsU6nIIL5GrodaytCEih9BWY+38mXCaqH+MWc0kw7S5Eg5XK6pHlcF1SwebUaG5voBL6n1HTAhovcQyKAYU=;AZt2UNIzuMbXIurt61MWEQ=="
 ---

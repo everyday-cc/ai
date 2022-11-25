@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics innovation: Leading companies in drone launching techniques for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in drone launching techniques for the aerospace and defence industry."
-    publishedDateTime: 2022-11-21T06:06:00Z
-    webUrl: "https://www.army-technology.com/data-insights/innovators-drone-launching-techniques-aerospace-defence-2/"
-    type: article
-    provider:
-      name: army-technology.com
-      domain: army-technology.com
-    quality: 36
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Drone-launching-techniques-in-Defence.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "idDNsehhvONitIpppjCd5fML+remAtEowtc9sp9vHJgHY4++tJQTmGb+Da0VBzu/iHDW7Mwpii78t7Y/xOWxSGcoBsWdvpK4kqAG2LJHpxPimIwN6sNM+RtuChB5Zy3dcE+bK/ULpWY9QR3vvFFYq4JUtaoTdaqx6wDQmHm2cvCM21Z/ktk+ABKRpFKtnl9e3fwwcDb4jXGkZ1hXAaD4k4exhVR2lMfvOCx+D699DhH9taII/4xIu3t7+R+ofL2x5LMgdQ48W4aDgSBMqXxP2B97lCusD4+3MAt+3leReXmpDPDDicqUmqpgsWKNyhtRA8irZt+KBms6DHSCpY7B2GOrnkVDOnAT6g37al/D5Fc=;LKGHv22hKJCAZdD0jLDnBQ=="
 ---

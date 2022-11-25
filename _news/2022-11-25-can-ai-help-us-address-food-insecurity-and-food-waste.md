@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/can-ai-help-us-address-food-insecurity-and-food-
 ampWebUrl: "https://diginomica.com/can-ai-help-us-address-food-insecurity-and-food-waste?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-ai-help-us-address-food-insecurity-and-food-waste?amp"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

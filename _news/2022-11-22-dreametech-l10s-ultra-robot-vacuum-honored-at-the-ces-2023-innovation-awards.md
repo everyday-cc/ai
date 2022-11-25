@@ -59,20 +59,6 @@ related:
         width: 608
         height: 342
         isCached: true
-  - title: "Robotics innovation: Leading companies in drone launching techniques for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in drone launching techniques for the aerospace and defence industry."
-    publishedDateTime: 2022-11-21T06:06:00Z
-    webUrl: "https://www.army-technology.com/data-insights/innovators-drone-launching-techniques-aerospace-defence-2/"
-    type: article
-    provider:
-      name: army-technology.com
-      domain: army-technology.com
-    quality: 36
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Drone-launching-techniques-in-Defence.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
     excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
     publishedDateTime: 2022-11-21T16:47:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T19:00:00Z
 originalUrl: "https://tucson.com/news/local/business/program-opens-doors-to-ai-careers-for-arizona-teens/article_6a10002e-6cdd-11ed-b659-0776086a9f77.html"
 webUrl: "https://tucson.com/news/local/business/program-opens-doors-to-ai-careers-for-arizona-teens/article_6a10002e-6cdd-11ed-b659-0776086a9f77.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Arizona Daily Star

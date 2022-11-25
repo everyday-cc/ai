@@ -30,6 +30,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 31
+  - title: "Global Mobile Learning Market Research Report 2022: Augmented"
+    excerpt: "The global mobile learning market is expected to grow from $42.16 billion in 2021 to $54.36 billion in 2022 at a compound annual growth rate (CAGR) of 28.94%. The mobile learning market is expected to reach $155."
+    publishedDateTime: 2022-11-25T20:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-mobile-learning-market-research-report-2022-augmented-/2022/11/25/9719706.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "iiNwj3Jf2vRlHIB4KMZhrP57QvxwO5qOHr64OFVuia8F1/r6S+sf2EA0nZzdE9nz+Obagt7yZMaHGoi3BB7f3Uvci5p3wnEK5DQmK1nBs/ASlyEnqLSqeytJzMc0t5JhNjl0LpZ6twdvHjdGE2r6iIliVhQjCT6xAhwexKD6jlZxZG78HwpNB5kbUyEbf9NeLmTxbhJ//nmHeUDUav79FQGlwVCwy2CZ7X+slAcOmuHpKITFj0X3BDmWuFJoNsgArGXZeuUiz8XFybUQ0MYpfbkLiUg77py3GAUbtmOENRjJQNOQSV/s4eTFD7uQyVcYjyqUESpBs84t37gED9tFdLoRLbnD0nsxJWoi9arLMTw=;JstWmM0nBAC/g9iyI4wNgw=="
 ---

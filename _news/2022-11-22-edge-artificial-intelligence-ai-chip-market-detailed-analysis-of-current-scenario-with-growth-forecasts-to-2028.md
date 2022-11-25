@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 198
+heat: 178
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Software Market Global Industry Analysis, Size, Share, Demand, Growth, Trends, And Forecast, 2023 To 2029"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 115 Pages Report\" Global"
-    publishedDateTime: 2022-11-21T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-global-industry-analysis-size-share-demand-growth-trends-and-forecast-2023-to-2029-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Insurance Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \" Artificial Intelligence in Insurance Market \" Insights 2022 - By Applications (Chatbots and Virtual Assistants, Fraud Detection,"
     publishedDateTime: 2022-11-25T11:54:00Z
@@ -142,20 +128,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market 2023 : Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2029"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 102 Pages Report\" Global"
-    publishedDateTime: 2022-11-21T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2023-global-industry-analysis-size-share-growth-trends-and-forecast-2029-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

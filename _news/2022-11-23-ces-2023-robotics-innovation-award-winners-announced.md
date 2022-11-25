@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/ces-2023-robotics-innovation-award-
 webUrl: "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Robotics innovation: Leading companies in drone launching techniques for the aerospace and defence industry"
-    excerpt: "GlobalData uncovers the leading innovators in drone launching techniques for the aerospace and defence industry."
-    publishedDateTime: 2022-11-21T06:06:00Z
-    webUrl: "https://www.army-technology.com/data-insights/innovators-drone-launching-techniques-aerospace-defence-2/"
-    type: article
-    provider:
-      name: army-technology.com
-      domain: army-technology.com
-    quality: 36
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Drone-launching-techniques-in-Defence.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
     excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."

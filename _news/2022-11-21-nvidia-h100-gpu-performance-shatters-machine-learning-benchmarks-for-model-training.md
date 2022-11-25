@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-g
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 605
     isCached: true
-
-related:
-  - title: "Nvidia set to launch lower-spec AI GPU for sales to China"
-    excerpt: "Nvidia is expected to advance the rollout of a downgraded version of its AI chips, dubbed AI 800, for shipments to Chinese clients in response to restrictions on its China-bound sales of A100 and H100 AI GPU chips series,"
-    publishedDateTime: 2022-11-21T06:30:00Z
-    webUrl: "https://www.digitimes.com/news/a20221121PD202/china-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 71
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221121pd202_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "jb21kvob/mWdxzhFXG8G4PRgaNDqUgVopET4WgwKZcR6G3ZHuLT8OsW9SqO6ZrPbnH4kPHNt4OlztZDy/iOeRzTVXPU0ea9upbzsccW5radpGo2ZoKhpLcYyvscisyezGyDiFPK8qn0GED2iB/kwoUtfg2nd+XcJdibS1OHS375zA3GBSFKJSFgk4m1rIg5eUV45LEz7G9/DbPFmanW8uVwa9VWvMyhI7+4W5Njtd7wpxVgFBMCrA7jyUlYJ128b1VjSElyS2i14cNdGzwOzujI8Pxqqkfc2SQqrwK1G40fYJMcbnyRLFq9fyuvDzrEv4ysJF7uk+g6ajXlN26Yr1yehDvQ6zxkByggH2df0Vp19r6sJ48TmUYqzvQNWM5c2gdNi4qFOUaIkI6K9N3CXjpMJEYeUWS0H+Ule/j3y/I157CQ2CsQS/HBb9DlE1fFBI2kCOjFFCeGQcUE4eG9GOrCn6V89vHZwaQqX4dEZ9XL9SipuHqGMkFQ5/yIgU28LbLRk/6s4bHzO3uhBsKU25g==;wSlb4u1mVQ1xQa5hJZDKcQ=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "India To Head Global Partnership On AI (Artificial Intelligence) For 2022-23"
-    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence for 2022-23 at a meeting of the body in Tokyo on November 21, the Ministry of Electronics and IT said on Sunday. In the election to the Council Chair,"
-    publishedDateTime: 2022-11-21T04:13:00Z
-    webUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618"
-    ampWebUrl: "https://www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/india-to-head-global-partnership-on-ai-artificial-intelligence-for-2022-23-3537618/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 69
-    images:
-      - url: "https://c.ndtvimg.com/2022-11/qk20estg_image_625x300_21_November_22.jpg"
-        width: 750
-        height: 472
-        isCached: true
   - title: "India to take over as chair of Global Partnership on Artificial Intelligence"
     excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar will represent India at the GPAI meeting to be held in Tokyo on November 21, for the symbolic takeover from France, which is the outgoing Council chair."
     publishedDateTime: 2022-11-21T10:57:00Z
