@@ -3,8 +3,8 @@ category: news
 title: "China could lead the way in self-driving cars - UBS"
 excerpt: "China has the potential to replicate success it has enjoyed in EV manufacturing in the field of advanced driver assistance systems, according to UBS."
 publishedDateTime: 2022-11-23T15:39:00Z
-originalUrl: "https://seekingalpha.com/news/3911086-china-could-lead-the-way-in-self-driving-cars-ubs"
-webUrl: "https://seekingalpha.com/news/3911086-china-could-lead-the-way-in-self-driving-cars-ubs"
+originalUrl: "https://seekingalpha.com/news/3911086-china-could-lead-the-way-in-self-driving-cars-ubs?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain"
+webUrl: "https://seekingalpha.com/news/3911086-china-could-lead-the-way-in-self-driving-cars-ubs?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain"
 type: article
 quality: 24
 heat: -1
@@ -72,6 +72,6 @@ related:
         height: 631
         isCached: true
 
-secured: "V9M3uz7f+2D/pIbduPiVJX1zUmVYgArYyGbqTNwxEwoUowSxIguEq3ah5joJPjLypfcXmDe/c/ZImq8kTdFY2WVa6mHyJFVg6hBa6jQ8tRbAgY0FlAloP0i44WMY20wwI1FtS/J1JvmzK5d4LimS5eHJjeNIcmgywmtMpDmkXjbqVTeF7DYqEFAJ8KuJ5cYqrT6BIRf9hTue1V9YT1fEFizfg0lVBvD+ezXiDA3gXs9kyoEixnicstrhs99RE4Q7mMEuA/cNc9VSuvDjWmCsBCr05R+iPeJdH9QcHiszaBiozkJBhcUOdpfzSHcr2P+oEZqmPb3CPeGWdcsCbvcD5IE05HHTf31G4BvFWfsAL4nTUkPNky/uF1Bx2aU3ZFUi7QuXKibnBqdSv8Z14FOvj+AEB2SkkaVz6RF7itV0GK0rMg9g10yZ07d1mITdzYCr1KXhkFPq8k2hrYnwux/6smyJT+HHJprtXtT0NCfXdJd5FqP/Khce/3zccOKx8nWaRdAdD0gYo91LtyowZg+0jA==;h0I7RWlznb/UtjEXPXu0fA=="
+secured: "eVQduQ7NwWBy0mLQMR8qVDILvjnXMH33MlBdOusT7YFk/ddi7ziKaRTsHtzKeonFXe+QeB0XVG7RCLOdPWWddFcNAhq04Bt9RYpbLeXaZmzPAIyG04TwiMOE9DPcEXXF7+iVP4vd+R2XPE7ewefGOBLxDI4UVpqoYMd7EP7wQKhNsMpfmGoUXgR9QSofanxkrDQILRVaIhZAYsmoi9kMRwsswW5R4kP5P7rRPKdtCH2sBf5ZiheV0qklX1pMuSU3eKkGW6dnfjZjqBlHCO5bpsr7WMYptVrIZtRvRnr7rPOYrfJ9GZtHsaW3FlORLb4UQFPOyFrrHlTiaF2FGhFVblnLEDtU/i3CuP1ggzglsis=;OVAU+Aykga9Cqp4qwI5/Xg=="
 ---
 

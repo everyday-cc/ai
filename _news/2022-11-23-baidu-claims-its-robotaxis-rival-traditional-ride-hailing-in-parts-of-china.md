@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

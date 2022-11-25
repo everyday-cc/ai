@@ -8,8 +8,8 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-tool-predicts-dec
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-tool-predicts-decreased-blood-flow-to-the-heart-209339-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-tool-predicts-decreased-blood-flow-to-the-heart-209339-1.htm"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/organ-donation-heart.jpg"

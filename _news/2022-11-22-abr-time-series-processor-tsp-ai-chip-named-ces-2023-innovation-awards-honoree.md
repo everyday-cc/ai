@@ -2,17 +2,17 @@
 category: news
 title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
 excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-publishedDateTime: 2022-11-21T16:54:00Z
-originalUrl: "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
-webUrl: "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+publishedDateTime: 2022-11-21T16:47:00Z
+originalUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Wane
-  domain: wane.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI Hardware
@@ -84,6 +84,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4OORAaJ6icP0RoI57szJSCOmIKwsq5/Qmd3VTfj9bB4prF6AK5yWrQ8AwwxBm3cnsT9LU8AZc7piPX/mSkhA7aksrdDmZpVau6xOdKbntYIcw4M3MCRWxff2xGsAR2qz8zR8CHJH03zYWMbowCUnFDBi3LBpUWwRPf3VrvEyiwNNJpwtqc2KPdW9LeEbZ0HP6lz+c9kl77KII3m0c2vXmBBLgIYyYBZPReFK4kwUtGFWSqDV+u7YgkD0JkiLebSSiz66GYM6cr0XhOolRat5A4ZCIBns/yqbgEq+5w9W86P9MOlRIuD4U/sjU9e0mncwyCL7bMyBydQ+0MYi/X60t6/6Z/LPfLxgyHqyyPixYg8=;ZJHjyE6iFDde/7xQrR1F7Q=="
+secured: "ztKRPPZBCO0CmiYyCkTlw8Cl3ZyjDALavLoumVM1DVWmSCVZRsBGJ/mg8x88KCCcNQORd2DPfe0HUtqiBj3GwH4v9A1bsWwlsqSh716h6ruM1PrSTmi6Q3n4rszB+B737fd/Cb0lVR1huwrPMpMm2sFgntFxzHwW0bfV0n0NrU4uvHN2+334PNiVBn1cEOGRdZ9nWZI+jF9d0LRaxT2PDdxTsUBcn7cgoL+bGJg//BhT2UP7JcLLR0vDMt/7jdtSr/qmgz5zGq2+DJXs9GGRitu+hj6c7A6ZUlkAAq/6CKGhLuaKUHNbjYdeHGkjir0A1qFSfMtYeafSZy+WvsotOvzaE5evkffjtriegqy5KG8=;xBITvusSltZ8e+7FSLnQCQ=="
 ---
 
