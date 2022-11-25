@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/ai-and-machine-learning-poten
 webUrl: "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Purpose, potential and pitfalls of customer-facing voice AI"
-    excerpt: "As voice AI advances, voice assistants are becoming a necessity for businesses in many sectors for engaging with customers."
-    publishedDateTime: 2022-11-20T16:20:00Z
-    webUrl: "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/"
+  - title: "Huge Potential – New AI Material Learns Behaviors and Adapts to Changing Conditions"
+    excerpt: "University of California, Los Angeles engineers have developed a new class of material. University of California, Los Angeles mechanical engineers have created a new class of material that can learn behaviors over time and develop a \"muscle memory\" of its own,"
+    publishedDateTime: 2022-11-22T14:17:00Z
+    webUrl: "https://scitechdaily.com/huge-potential-new-ai-material-learns-behaviors-and-adapts-to-changing-conditions/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/Voice.jpg?w=1200&strip=all"
-        width: 1200
-        height: 662
-        isCached: true
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 13
 
 secured: "vriYGQsBKON6j7QPIowJzXNxEw83MgVUoBMb59yIymjhgIhvJf6lHyf/F8twkMXgcp8prCYLvrduXGKkB4BKZh2CP9X+vi54LJ3NkvcI6OzgYheSOBBAkitle7QGZmu145VyCyf6sGgSrEw8dh+YbeMDR1ZQNQbTqo80zztxx0rLIwo+hib9Fre9SedHq72ABwZLRes1xZunw9M3f0nnowOLFCM5oZ7pFKxU8EECdHbaWRkGiyPKomtHcBARQhpeNc9WlBtkYAzwwH+QvkoLNcNMPFQjHuaT+smIlm0InmnFyznyqk/ai/g/s3RVbsw+7rGAEUH0N4LTbjVzNuIStIn+t6iaxPm9kMqq9/I/XMQUPMfemnpMpXVN5kJGV1SM8XPGmQnkuxmGLoP7uYtRCkzB8LAce+gtkoIC1hULxurehe2Ul751p77iLGHMkbTSc3XmBLj4h+lDKc9Oz16/KBVezXumSY5IO/fnrxdLDTYPJm17Piaw4m/NGF8YaMlEHmaUzIu9MCd7PpCAxQD1ZA==;7eJLGsisFXnLPEa1V1VHWw=="
 ---

@@ -25,18 +25,20 @@ images:
 
 related:
   - title: "Researchers: AI in connected cars eased rush hour congestion"
-    excerpt: "Researchers in Tennessee say they have successfully used artificial intelligence in a group of wirelessly connected cars to help ease rush hour traffic on Interstate 24. In the experiment, 100"
-    publishedDateTime: 2022-11-23T07:08:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_ad65554c-4a23-567a-a719-dfeb429e82d9.html"
+    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+    publishedDateTime: 2022-11-22T17:08:00Z
+    webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 37
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/fa/1fa87b71-fd6c-536a-86fb-721dd6393d7f/637dda1501015.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "zj/KRBUpB5WUDY2AMky3dmXBjZqlQGqyp7kAjv+z8SrRBm6k41wIEFnRR26Uhy4JClfG7aCtUsxTGLMSci/a1JlAlEKfEzlK/I4eprr3aic61d/h8kIKE+KKwlK3wYVgjAmRMMtEEK4VfV+MyptpzA0TuAwO5D4mMsOe9/Ab0loKmpxacVpoBHXiHAB6PdiIE0i17BOKx0Txnb2W7gIRzc6XfMPIZ0hNtrsV0HPKxqm4WPPlO/D5AqRL8BHcVFLL+G4dVnzN+JXLK+7PNmmvvheZ/8kJCvph+CsB+g0u0B4QsZ2tKTZTAvx824EFTRQEAidgZXRYQJV3Sdt4ZI/BH1EnzWMre890pwnqaKTkNRw=;kBOWPm4JOp1JwIVCw55Q0w=="

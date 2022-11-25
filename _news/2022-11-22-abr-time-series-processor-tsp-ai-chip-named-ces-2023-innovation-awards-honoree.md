@@ -2,24 +2,24 @@
 category: news
 title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
 excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-publishedDateTime: 2022-11-21T16:47:00Z
-originalUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
-webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+publishedDateTime: 2022-11-21T18:09:00Z
+originalUrl: "https://menafn.com/1105213840/ABR-Time-Series-Processor-TSP-AI-Chip-Named-CES-2023-INNOVATION-AWARDS-HONOREE"
+webUrl: "https://menafn.com/1105213840/ABR-Time-Series-Processor-TSP-AI-Chip-Named-CES-2023-INNOVATION-AWARDS-HONOREE"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png"
+  - url: "https://menafn.com/updates/pr/2022-11/21/GN_0e24c4cb-5_Image_In_Body.png"
     width: 608
     height: 342
     isCached: true
@@ -84,6 +84,6 @@ related:
         height: 720
         isCached: true
 
-secured: "phGGs7fCVTb718t9/hnO2GkVPiKc0MIvnBDrYVAuZnQ24mAjLWLvcFOUbnGWhwXJ0kDjjyMtcu7lXW51VlfCHYDMmGknQFhimEN9WoAwNCZg8mY0zaOz/QrhLmrBhOdTfzAJ7aD0te81yyDn7hB1UgyNvjPJKKRk9/1IteN1G6ao8AG9T60I38D5i2HeRZKcFuUrULyO8MDRo7F0kFd4fRVBDJbDpvX1zurYmz688doEZGBb7M6qlDk6Asx1DSVc43wT+77V2F19+sG8yV9fFjBaW1qWDlbCJTAqaKtPnkJwrAVFBcFLLBMdhPLUsWg//uJa5RrF3S6hQalHhSPjWQj2pOe3go8ZRIBJh4MdLrw=;GKpwNx7vNbWsYrESeLYstw=="
+secured: "YAzsKaVUi37KUpGCRuwUMGxD4HIwbveGYWQabPsDUj8e4HdCWiZMvdRCKeQ8QDovgoJKuQSXts5A+2XSqeVYLdTTBpAB57DrUpnrY6FVs2MlWhOgs9pQzjvm1HUe1yo722k3MqXX84mSIGwTOQZRe5dDxDv91ZEiBZSFKJZEEl8p3ijy/aQ2Yz+iR607WQh+sRg3sEVLmRN4zj11zQEs3KIJA0fpMBzWRXc1j0N22kNzu0FoHGavI3KFuho3urpOu/ArA9jKBoaB0UiOaQYll8yr1BywOngX9KOH4h2xq8y69Ra57Bgt/SvWl8Fisb00dWFd+GX/k//OLXVn/OD49Hc/kcziDFmtHgbELPwTYUA=;Nt4b3ywRqGCTjXu7nw28Fg=="
 ---
 

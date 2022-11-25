@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta now available to all in North America"
+    excerpt: "Musk to provide an update to Full Self Driving in 2023 to prove that it is much safer than average human driver Tesla Inc's Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker ..."
+    publishedDateTime: 2022-11-25T07:27:00Z
+    webUrl: "https://tribune.com.pk/story/2388102/teslas-full-self-driving-beta-now-available-to-all-in-north-america"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 54
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Tesla221629456872-0/Tesla221629456872-0.jpg"
+        width: 728
+        height: 424
+        isCached: true
   - title: "Tesla Opens Floodgates for Owners to Test Out Automated Driving"
     excerpt: "Tesla Inc. is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
     publishedDateTime: 2022-11-24T13:00:00Z

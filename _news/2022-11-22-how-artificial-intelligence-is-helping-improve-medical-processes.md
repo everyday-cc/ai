@@ -42,7 +42,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://techbullion.com/wp-content/uploads/2022/11/20161005111439-Robots.jpeg"
         width: 2000

@@ -8,7 +8,7 @@ webUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/"
 ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 type: article
-quality: 59
+quality: 63
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/11/20161005111439-Robots.jpeg"
@@ -44,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "rhzya4Ntg/0fVR3qrjn81CZQWCYc5emSgRDXKF13X7w5eKqVa8mlQ7IsbkLzVdEH6PL9lPM8fu9Q+TF2O6akFwCzkNmG7vfO5qBFhcwiYEBShSIWoi91l3riSlZkqXA75Y5Zxc+oM3ivA6iuhyJVUWdd3dzKeIBF2lnFbEreMiW9ydesoaHLgDoda9cuqUNxrDem+G2Lem8wyj4kQPvWbxLMeijcfS8UGE7J7ZpZBLlEEFN9RbGGw7Cck+QzqNDZ3+yEp++kc9x9TZ65QlRU06d44gyPia9pkzBEeqqDCwsWaCoZZtgmMRu09u0JLs/ci9GEGDD6X19eyl2id4Fgkvjit8P5CvbVXVelKLzt7Ow=;n1tllx7h5iUd8++GUTu1VQ=="
+secured: "JXnqirqgYpJnx5GBo7VrpWPb15YJhIr6UmSU/gGd8gDSrECfL/nMDKCOULijcpsr9SXWS0TLhrBMNeZwZKCRcLpFTiFBCJYLtM6dRHKUDjuwsxf2KTsHp9mtZqcre7n3uX+coquKDNgWi/utTQgH3jSFPN+zh+TAM9SuauA7Pale/WJATv5gRo4BC/8lKQYWWUX/iNtQA5doAUolIkGmU9dl6eG2lePiBPosnTB084vPXoxjokj/hZ4w7tmBBV9ldCqHL9BzgeWemROg5j+aQ+Ft9MPcWl8T8eJyNeUnCpBGoW8DR6QriCqW2F0ixQNq/5/ZVqzylSIee0hrdZTZu+y38qtTWd6XzFQEslRm/TojfJwVu06Xlh2vMbpCuhBCWhLsuORfrS8S5cNeIrk3IwE0ve2juEvJDSlRPWSRUUyLDXGpHmEYSj7BHUfMtqzuLNjOsCAn7+CFKYPjql2jwH80L/wjb77iweFR3EDso+dFX4tCkAUazSaMCemIsGAx+AqLDICVTBiss0XeSr6V5g==;r6iOg20STrae3hCfgTXb4A=="
 ---
 

@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "Researchers in Tennessee say they have successfully used artificial intelligence in a group of wirelessly connected cars to help ease rush hour traffic on Interstate 24. In the experiment, 100"
-publishedDateTime: 2022-11-23T07:08:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_ad65554c-4a23-567a-a719-dfeb429e82d9.html"
-webUrl: "https://omaha.com/lifestyles/technology/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_ad65554c-4a23-567a-a719-dfeb429e82d9.html"
+excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+publishedDateTime: 2022-11-22T17:08:00Z
+originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/fa/1fa87b71-fd6c-536a-86fb-721dd6393d7f/637dda1501015.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -39,6 +42,6 @@ related:
         height: 500
         isCached: true
 
-secured: "rA/k9krBTXE/zC8JMHPmgKcbDYs7nl6CjZyGgxYevvq+fOpaC1Zh7MyqGZ7OKwDan45lJGIR+qMZgUF52yJ11gSCxoO89RSJXD6EutqqcH977oJJ+W2MLEDTkr/O94nC7/3+p9DYb5E3l5Cs5aHCue2fJ4k1gxIM1XosNap8Vh6T9autcshlV3pgPgk7jzOEWAN3iRfkb5WkUX9yl6xYFdWUDrHCmjC+JgJ7Eq865YTvcGhfuAwUHcgVUs30rUaJh5H0lV6J2l1+iHraezH7RislJLvemd3N6MEN5SJs7AoQMj9OQBKLD6jNxhMMWMoAIYGTGB7csGM1IebqtA9Yd7illdrI1/MZLxhvQOhlWLI=;MOAf+f6TZ71MuXeXP/5nqQ=="
+secured: "37yY8q6JNqMnE2DLv+19FPjsD7fD3pERKF0TX7D4wbn3xJ0wpegJsyqEvl+CZ3UKLjdapLxQn/4vwOkjnG11WSJMFAts33kRz6hFy+1bbuhnySAls7VStxc1OGlnKSPi5y/NWN6yDPRej8EULPm6nuLjLEfgfLLuZFLrtoCNfMMeBRcSjupYlArF1pSGz72wUTORIAxA45ksYG1MpCvlDmYpWwBdz4IHWb3hqbgFBrvsqKncqgsx8wF396vI8ajzUyijBxNtaRFmYwivEv1yT6yOrMSHBXBWGVlRuSitsJW1te4HYUeR5V9aC7whcMieRzT7+hmwijGKq9MRZsI/OeVLkG7eXO8YHy/ZspMVWN0=;NCb9S2hYp2zL0iVDBPoDDw=="
 ---
 
