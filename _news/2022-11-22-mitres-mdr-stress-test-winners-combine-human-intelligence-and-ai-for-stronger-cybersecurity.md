@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/mitre-mdr-stress-test-winners-combi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Special Series Part 2: Billions Of Dollars Roll Into AI-Enhanced Cybersecurity"
+    excerpt: "The use of AI by cybersecurity startups isn't new, but as applications for the technology in the sector have grown, so has investor interest."
+    publishedDateTime: 2022-11-23T13:30:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-cybersecurity-series/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 33
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Capgemini Government Solutions’ Bill Webner on Military Uses for AI, Cybersecurity Best Practices"
     excerpt: "Over the last eight-plus years, Bill Webner has helped information technology services and consulting company Capgemini better serve federal customers in the national security, defense, civil and health sectors."
     publishedDateTime: 2022-11-23T10:37:00Z

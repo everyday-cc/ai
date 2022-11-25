@@ -38,22 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "India to assume chair of Global Partnership on Artificial Intelligence"
-    excerpt: "India will take over the chair of the Global Partnership on Artificial Intelligence (GPAI), said the ministry of electronics and IT on Sunday. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting."
-    publishedDateTime: 2022-11-20T10:02:00Z
-    webUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence-11668938096495.html"
-    ampWebUrl: "https://www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-to-assume-chair-of-global-partnership-on-artificial-intelligence/amp-11668938096495.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 72
-    images:
-      - url: "https://images.livemint.com/img/2022/11/20/600x338/Chandrasekhar_1647282460609_1668938232646_1668938232646.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "India assumes chair of the global partnership on artificial intelligence"
     excerpt: "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place"
     publishedDateTime: 2022-11-22T02:49:00Z

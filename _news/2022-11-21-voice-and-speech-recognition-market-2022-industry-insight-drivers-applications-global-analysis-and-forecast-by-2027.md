@@ -1,40 +1,32 @@
 ---
 category: news
-title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-excerpt: "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ..."
-publishedDateTime: 2022-11-21T12:34:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
+title: "Voice and Speech Recognition Market 2022: Industry Insight, Drivers, Applications, Global Analysis and Forecast by 2027"
+excerpt: "Voice and speech recognition is a technology used in various devices such as smartphones, cars, and computers to receive and interpret the human voice and carry out spoken commands. Voice and ..."
+publishedDateTime: 2022-11-21T14:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/ab29804928/voice-and-speech-recognition-market-2022-industry-insight-drivers-applications-global-analysis-an"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29804928/voice-and-speech-recognition-market-2022-industry-insight-drivers-applications-global-analysis-an"
+ampWebUrl: "https://www.benzinga.com/amp/content/29804928"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29804928"
 type: article
-quality: 3
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Autos
+  - Natural Language Processing
   - AI
 
+images:
+  - url: "https://www.abnewswire.com/uploads/1669016019.jpeg"
+    width: 1000
+    height: 550
+    isCached: true
+
 related:
-  - title: "Voice and Speech Recognition Market 2022: Industry Insight, Drivers, Applications, Global Analysis and Forecast by 2027"
-    excerpt: "Voice and speech recognition is a technology used in various devices such as smartphones, cars, and computers to receive and interpret the human voice and carry out spoken commands. Voice and ..."
-    publishedDateTime: 2022-11-21T14:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29804928/voice-and-speech-recognition-market-2022-industry-insight-drivers-applications-global-analysis-an"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29804928"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29804928"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.abnewswire.com/uploads/1669016019.jpeg"
-        width: 1000
-        height: 550
-        isCached: true
   - title: "Global Audio AI Recognition Market To Surpass Valuation Of US$ 14,070.7 Million By 2030 Astute Analytica"
     excerpt: "Audio recognition is a rapidly growing field within AI, as technology becomes more and more accurate at understanding and transcribing human speech. This demand is being driven by the increasing use of voice-activated assistants such as Siri,"
     publishedDateTime: 2022-11-22T12:18:00Z
@@ -78,6 +70,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
+  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
+    excerpt: "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ..."
+    publishedDateTime: 2022-11-21T12:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 3
   - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: Demand for Tailored and Customised Financial Advice Drives Sector"
     excerpt: "The \"Asia Pacific Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use,"
     publishedDateTime: 2022-11-21T09:34:00Z
@@ -106,6 +107,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "ehUEOa+eQ2xKOyXELb3TS3jfwz2uUvtdh0BuJ37lptZBsKTRE/v946Bv40CJNyG+9r48C5QbzcHcG8TKAGNCU4g1Ruj0deIwGRDprwZa7HwsbFGtQgdpUgBLfW6Hgm4a4rzAKYJiY54CbOL3+Kl7YJ+iaW6Eww0I2ir9+DKzlpS7fiK86N75+HqfIF7teW5qj7CPZMb+9ClLXOsq4S1rvrw5THjT2VVhbOIjOLDPTu9vHnzu1FTdy9rMgBTkfKyGWpU/X5hOA2ru0jQ0WoHaGf7d6KAm+zLH86H/gQlwbmXWJCM0bmdsdvywX8u26juRsbZzhQs2Xsj3yjOGNCuk+EygB25ZciOGqhvv652iwH0=;IcfRi0NGxZvSFlBf/W4Znw=="
+secured: "jsSZDCAU1MCev5zC/zuGuSCyik9LJXWlr425wSnXvVusjzosxxTlXbjR6viAx7xD1tzGDhTRbbPyDylyJomKdu9bBKfiF+GNhEP58+UHfp4X2/pWz+h9imCH80MT40JwtjmYjBjmRTQtU7z/Z3sshtWUmTqCOJGY6HJG17FTqYysvJF1V542HvkISmHUxX22iQKKlbX0W5KfHRGuEWouRYJh3VbhWeWnb9UOyqhT5tOfVxwwaY4nm1y5twGyHm0xjklcr4NDsYdBZ9cYt5nbvuHriqEMbAKVtuKZWVIlOV2Cy3sJRsodY5V8Mc8xq7tqCvHErqavXsoIxrRv8qaU68117Jy2sB//IZ1jCmDXqog=;2qEnC5TcMoM6r8JDdPdegg=="
 ---
 

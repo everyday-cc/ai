@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Special Series Part 2: Billions Of Dollars Roll Into AI-Enhanced Cybersecurity"
+    excerpt: "The use of AI by cybersecurity startups isn't new, but as applications for the technology in the sector have grown, so has investor interest."
+    publishedDateTime: 2022-11-23T13:30:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-cybersecurity-series/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 33
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "njvrCR4nbWWx2re/IKRaGkC7XlqxS105XXJ4jPqp9cRgwh8VbMhghedzY91VVkG7kOm9U8fY9M861kfgyW2+Ze4WEIVQ0IVK6vKElzjhuHUJvioJW/So4W5BPVRWOwZ+zlQsunm0SpQyBG/7crEhBoLTyaEaqT0M2PtM8CdLC9hW0iAwIgvEiWc9aAl1MAUzZpylc8WFVMP4SyCLOB0rFnDbSxN5dS3Rt6UnW8ydj6/xWEQJrD33cuBst1vd7C05kVxgmO6QonGsfKDXLnujHZ5BsXoZhzAaKxaJ9tRoA7yJNaNKfFhAgmDShXvryU1kGpDxNBI6htKiMvyvNFrfK56fu5BlDG7HGk5XcPDR9xU=;Mlnyt+IeoqJITtOKLXV5lQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.israel21c.org/self-driving-buses-to-be-tested-in-israe
 webUrl: "https://www.israel21c.org/self-driving-buses-to-be-tested-in-israel/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1600
     height: 898
     isCached: true
-
-related:
-  - title: "Cancer patients trialing world’s first ‘nano-robot’ antibodies, made in Israel"
-    excerpt: "Computer-designed antibodies can be programmed to do much more when designed from scratch than when based on animal/human antibodies, says inventor"
-    publishedDateTime: 2022-11-20T09:27:00Z
-    webUrl: "https://www.timesofisrael.com/cancer-patients-trialing-worlds-first-nano-robot-antibodies-made-in-israel/"
-    ampWebUrl: "https://www.timesofisrael.com/cancer-patients-trialing-worlds-first-nano-robot-antibodies-made-in-israel/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/cancer-patients-trialing-worlds-first-nano-robot-antibodies-made-in-israel/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 55
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/11/iStock-1013103082-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
 
 secured: "/FPI5VAQdCE7r/rc9SdpRVAxejecB0mCOlwpNqLLriPsVxxOcOphd5LZZHT4ZLMuZYga3HgAuLF4YYU7osMbZky4CGWbO+S3+S60X2GXKErXvYSpigjR12ov6AMzQvSbxMqul5sL9TthT0hbH5XiWU0TgtcglyH6jfBrCSb5gLFowIBnkjlLIg77aGAeaviltNAcnVOuIH1pk+yxPfU9g7rv+v3k8z3CDq9lykCsYJxPtLi1LvcWAXw1nwplEKXO3/il5by2R43amGUfOMtFCsQ9qs0uZUgA5CKspZPSryZO1y9FDqDQuB5nZI58dYcVXDUjfxqcVrrGq/gx/Y/Bw3kSaMpA+XXRtOXLeC3pCOPjCBJ+ERhJFwd/lF/+Gzo1uUz34HW/RNuqR4vlO5Zpu0AqDDayKAICTkrfqMjYhN1o0aCxS5R5tjCJt9VR1QAZ0jN6vhUrkWNuPE6ZyGLVZ+6IyprCx6+SZdAo3SfxA7aW7XurPiPzddjqQJSWN+KPvdKfBtDEb9HrZYyQqB9F1A==;Ew2ikD8StMR8+n+Vx6u2Aw=="
 ---
