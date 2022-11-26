@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learni
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Manufacturing Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Machine Learning in Manufacturing"
+    publishedDateTime: 2022-11-26T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

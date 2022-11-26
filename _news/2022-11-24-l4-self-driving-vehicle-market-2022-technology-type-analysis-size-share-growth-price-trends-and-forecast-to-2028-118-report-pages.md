@@ -29,61 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "Black Sesame Technologies and ZTE Join Forces for Self-Driving Cars"
-    excerpt: "Black Sesame Technologies and ZTE Join forces for self-driving car technologies. This made BST the first driving chip partner of ZTE"
-    publishedDateTime: 2022-11-21T12:06:00Z
-    webUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/"
-    ampWebUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
+  - title: "Intelligent Voice Assistant Market Size, Global Insights and Trends, Forecasts to 2028"
+    excerpt: "\" Intelligent Voice Assistant Market \" Insights 2022 - By Applications (Automotive Industry, Smart Home, Education Industry, Medical Industry, Consumer Electronicss), By Types (Text-Based, Text-To-Speech,"
+    publishedDateTime: 2022-11-25T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-voice-assistant-market-size-global-insights-and-trends-forecasts-to-2028-2022-11-25"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/11/black-sesame-technologies-zte-self-driving-cars-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Stellantis buys aiMotive for self driving cars"
-    excerpt: "Stellantis has announced that it is purchasing aiMotive, a company that specializes in technology for self-driving vehicles. The company owns a wide range"
-    publishedDateTime: 2022-11-24T14:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/stellantis-buys-aimotive-for-self-driving-cars-24-11-2022/"
+  - title: "Voice and Speech Recognition Market 2022: Industry Insight, Drivers, Applications, Global Analysis and Forecast by 2027"
+    excerpt: "Voice and speech recognition is a technology used in various devices such as smartphones, cars, and computers to receive and interpret the human voice and carry out spoken commands. Voice and ..."
+    publishedDateTime: 2022-11-21T14:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29804928/voice-and-speech-recognition-market-2022-industry-insight-drivers-applications-global-analysis-an"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29804928"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29804928"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/Alfa-Romeo-Tonale3.jpg"
-        width: 700
-        height: 467
+      - url: "https://www.abnewswire.com/uploads/1669016019.jpeg"
+        width: 1000
+        height: 550
         isCached: true
-  - title: "Another Smart-City Utopia Proposes a Shortcut to Self-Driving Cars"
-    excerpt: "Billionaires and governments are expected to devise more than 80 smart cities by 2050, promising full self-driving and more. Might one lure you?"
-    publishedDateTime: 2022-11-21T15:50:00Z
-    webUrl: "https://www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/"
-    ampWebUrl: "https://www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 44
-    images:
-      - url: "https://www.motortrend.com/uploads/2022/11/VIEW-06B-View-from-Building-Terrace-Night_Update-Dec.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "This self-driving car technology stock can jump more than 25%, Goldman Sachs says"
-    excerpt: "Goldman initiated coverage of the stock with a buy rating, saying the maker of technology for self-driving cars can gain market share in a competitive market."
-    publishedDateTime: 2022-11-21T11:34:00Z
-    webUrl: "https://www.cnbc.com/2022/11/21/this-self-driving-car-technology-stock-can-jump-more-than-25percent-goldman-sachs-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 29
 
 secured: "S/VuEDxtfufJF4UdFI7TDMAeJgHa0VNEaeqDvuedgEdcgBAS6klv5AW4ozOcf6TQ4i4SV7UJYa0234RzE0Nm7V4OswBCqyXYxDnBgevkvJrAU/M9ltSNzPVIR3MO+2Ojwinj3nyAvlauTfWNxEAWmdZH3Iow/cYd/8Wl7GgkkMSL8K4XkMfrhov8+HuFef8w8XvNtLwobO1HgUY7ejI9Wd/sAQ06s72ZHDRMXh1JhcIdLGu5MDbjd6K0q7QlLEWYyN1VAWwCIY3l2SeXn2EXs0D93tmxIv1k1NEJ+PvagJhTeJ9H1xUV7jLAnrtMKLgUla5VGaTkHfPxJ7Awf5yyPA7djN6iZU21Wyd/iJjgP9g=;TbLflBDNtxfU8D3fJRX3Vg=="
 ---

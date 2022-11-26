@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-    excerpt: "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ..."
-    publishedDateTime: 2022-11-21T12:34:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
+  - title: "Video Analytics Global Market Report 2022: Government Initiatives to Enhance Public Safety Infrastructure Boosting Sector"
+    excerpt: "The global video analytics market is projected to grow from USD 7.1 billion in 2022 to USD 20.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 23.4% during the forecast period. Most organizations across the globe have years of stored video footage,"
+    publishedDateTime: 2022-11-21T19:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/21/9717846.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 3
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "HHLVgbvy/h0spyUhCjSpaa52v0MqNtUWjvw5PfQ9/uVSNh6Sz+uYYTT4efJv/oeeLytCEMOBid0dguZ2GwroHwcU1DleoQjeGIusrAUAZP4IvnHOlVon3XCu0vCJ5vAGOMZoIQCWUzMlqox5j0y1gnvJ/2F+5fU9OG484K2kg1GYgkHJ5JrWmyphx5GRnTzj4PFjEmyr/sgSCgDr3GeI1YHkyCW2vwebfgPPgr8NhVOFftYxGlOjplxg4c4+TLz2CBDkKB2X8VT0wZ1+wblJZcPHHlw69v5ujFLoTTbvTC/DWROOtiwAoqXxDCHZ3GgIQRi2jmedXTuh1up/y6isrIG1s5Xsce6U8CyyGWvyXa8=;Ho9x8edPXrNi/JST2vjCtQ=="
 ---

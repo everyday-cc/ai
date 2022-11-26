@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Machine Learning in Manufacturing"
+    publishedDateTime: 2022-11-26T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Fintech Market\" Insights 2022 -"
     publishedDateTime: 2022-11-25T11:54:00Z

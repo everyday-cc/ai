@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "This Copyright Lawsuit Could Shape the Future of Generative AI"
-    excerpt: "Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works."
-    publishedDateTime: 2022-11-21T12:00:00Z
-    webUrl: "https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 51
   - title: "AI works on artificial DNA for future drug development"
     excerpt: "With the help of AI, researchers in Sweden have succeeded in designing synthetic DNA that controls the cells' protein production."
     publishedDateTime: 2022-11-24T14:06:00Z

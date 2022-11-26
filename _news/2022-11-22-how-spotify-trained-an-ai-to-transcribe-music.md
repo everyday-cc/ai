@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/spotify-basic-pitch/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SEPTA to spot guns using artificial intelligence"
-    excerpt: "SEPTA is the U.S.’s first major transit system to test out the AI technology, known as ZeroEyes. It’s been deployed by the Pentagon as well as public schools, universities and Fortune 500 companies in more than 30 states,"
-    publishedDateTime: 2022-11-21T11:26:00Z
-    webUrl: "https://www.axios.com/local/philadelphia/2022/11/21/guns-septa-artificial-intelligence-zero-eyes"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/XEMuq9PcG59IU2eWKdzO6EYOc_4=/0x0:4387x2468/1366x768/2022/11/18/1668804354445.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Using artificial intelligence to spot breast cancer"
     excerpt: "An Indian company has developed a cheap, non-invasive test for breast cancer that uses thermal imaging and AI."
     publishedDateTime: 2022-11-26T00:28:00Z

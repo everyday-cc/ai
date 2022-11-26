@@ -9,7 +9,7 @@ ampWebUrl: "https://www.motortrend.com/features/telosa-mark-lore-self-driving-ca
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/telosa-mark-lore-self-driving-car-future-smart-city-autonomy/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,58 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Black Sesame Technologies and ZTE Join Forces for Self-Driving Cars"
-    excerpt: "Black Sesame Technologies and ZTE Join forces for self-driving car technologies. This made BST the first driving chip partner of ZTE"
-    publishedDateTime: 2022-11-21T12:06:00Z
-    webUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/"
-    ampWebUrl: "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1"
+  - title: "5 Best Self Driving Car Stocks To Buy Now"
+    excerpt: "In this piece, we’ll take a look at the 5 best self driving car stocks to buy now. For more stocks and our analysis of the autonomous car industry, head on to 15 Best Self Driving Car Stocks To Buy Now."
+    publishedDateTime: 2022-11-25T11:39:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-self-driving-car-stocks-to-buy-now-1090353/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/11/black-sesame-technologies-zte-self-driving-cars-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Stellantis buys aiMotive for self driving cars"
-    excerpt: "Stellantis has announced that it is purchasing aiMotive, a company that specializes in technology for self-driving vehicles. The company owns a wide range"
-    publishedDateTime: 2022-11-24T14:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/stellantis-buys-aimotive-for-self-driving-cars-24-11-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/11/Alfa-Romeo-Tonale3.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "This self-driving car technology stock can jump more than 25%, Goldman Sachs says"
-    excerpt: "Goldman initiated coverage of the stock with a buy rating, saying the maker of technology for self-driving cars can gain market share in a competitive market."
-    publishedDateTime: 2022-11-21T11:34:00Z
-    webUrl: "https://www.cnbc.com/2022/11/21/this-self-driving-car-technology-stock-can-jump-more-than-25percent-goldman-sachs-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 29
-  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
-    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
-    publishedDateTime: 2022-11-24T03:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2022/11/14093926/Lake-Pontchartrain.jpg"
+        width: 829
+        height: 555
         isCached: true
 
 secured: "6vJQA9ympNYbEcEGhD9Q2+WtLjHtXfZ16w6cNXezRA9o/o7z0ZrsqneIgt08K4MQvYIo6M27eWFbpjgcH/ZmVx1v+jO5/Qw0kw0LTLysVT5LHmbeOo8yjdD0Zyy1Z63tFEO5PHw9iYz7EiPb+2WhHKid3llqUiS/mmK6siW0HOzKvzZ/OHRsmcpAizftogYculKK7a4JlNdcA0Apa1qgn2J6fVg6WoSssyWXQ7ATqppI3b2jOP+g1HyPOxfOmEVJe2zqix/T7U9CZJj0X5UYZ6ywkATAjq5gjbFor6s9OFf5LhZ0O/lgIcPVP7hiab40PgeOrEq8TCHLYkNH8H2vRhDB2Xb2nRHHIlWC9KvCFzSVqPrLx9CRTQkpwH92Sk+VXaRi0XQDeeUZ5tX7eiK7mRgHxp1m9iKIIG+fUjWHqh+WJ+q9xeTQkpMrwMMasIKUW+dFo+P/+mOsvZ9zSkxlpyLbDmlMIhHuoxrAanKYQtJqdFWvqwzrnxceR7d6uRcLxnkn+jt6DM3paiEFZe24PA==;cvTfXnZkwOdusGf256GUXQ=="

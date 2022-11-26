@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/3ms-ai-powered-speech-recog
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/3ms-ai-powered-speech-recognition-technology-accelerate-digital-health-transformation"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "3M launches AI-powered speech recognition technology"
-    excerpt: "This technology, which focuses on accelerating digital health transformation in the kingdom, will help clinicians in all care settings to capture the complete and accurate patient story while simultan"
-    publishedDateTime: 2022-11-21T11:04:00Z
-    webUrl: "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:OWM2ODExYzgtODIyZi00:YjE3ODI2/200423074653iqcn-jpg.jpg?f=3%3A2"
-        width: 724
-        height: 482
-        isCached: true
 
 secured: "/A0cXP6BLP0tzYMBStu4PqJMFEjZW4OAr6AWZRJHv1gbzhMyBPKBpzP+C5tgdxSCXARtKAiHCjdt2nlY4yW7dLHWiq7XF5hc4NBhEJmSNykXcVsYJm3qVHqy6r5K2+GSnYeZBtfiKEJ++WSoXo46nokKM2V5mNMXeeBw1vdHL7iTJmQrLcmAEJKcpHrDgMwd8OCKUazX+nRdI6OTnQcHYBqeuug5DwLICfxIudg5+wXQB3IqY7MnjEdGGY1dPnahyPO5UtINrnjHWipUV/oOXJ+Aq1Ryh4/FMtdKU3xhMVVnFnLfX8M6fjha28ixHlgPbr7w0IpEziqvm7PYjyc4DLoElLj3Ca6AQJS2M/eEDmamJiXZqSCPBpTOVFpt1iJXbxdg0tZvNJl0/EL0KyBmQp4cqcgGACxGPz9iqtK09DmxDtWX3ygfmyAXq1Mv6fWmnm/J9ai4BuZcxkM/i1m0C0b0AJvKWV9sIh/T6Y/buexSp5911j7A9pXe/3QS+zqmhudUGDsOBn04cUlQ7fhQdQ==;XN6yR+QHJtKY2kcB75a+bw=="
 ---

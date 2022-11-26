@@ -40,21 +40,7 @@ related:
         width: 2560
         height: 1755
         isCached: true
-  - title: "SEPTA to spot guns using artificial intelligence"
-    excerpt: "SEPTA is the U.S.’s first major transit system to test out the AI technology, known as ZeroEyes. It’s been deployed by the Pentagon as well as public schools, universities and Fortune 500 companies in more than 30 states,"
-    publishedDateTime: 2022-11-21T11:26:00Z
-    webUrl: "https://www.axios.com/local/philadelphia/2022/11/21/guns-septa-artificial-intelligence-zero-eyes"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/XEMuq9PcG59IU2eWKdzO6EYOc_4=/0x0:4387x2468/1366x768/2022/11/18/1668804354445.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
-secured: "AYf0C6m0Q2H0x9HCii+rmC40qZq4XpcDxY1ZyakLHPHz69qcGGRxZMVXgCh7cONL4yEKPve4mcp5iCfhK8lKA1UQwZfUeeXm8Bvj4U13HZvL8uaQbJSMWj3ixQbLpfTo0Sq4+v/CT1dAKMarqRkLZa6Y1jNJt3qvAlxlQLFJlOsTc7ZW9f1yxlVey0lzHgiiHjZxkOIQgcIhCrEos1i1j+kbXz7TGHa/FfkvFwFeKXpMzrrLeGvak5E7O/HW2RcYWNj8PYA9HpT0D9Gcx1N0QWsWs0gkToFoV6mTY4qcasZpuDAu9P28Ke7osTiaJWZYXaf83HoEdERJQgvtx9l2RvIF54ayjcJfSwLCHnGV3do=;MRpN2zuGToQMWYx8Yx4uig=="
+secured: "NZ2G14eub9Sgn2gFPMX2A4PLED+HozQyulvlukSnF2u2bx/cl6l62SO229qbwlQL0qiGxFy3rAzYwvbZQYA36Qf2v1f7QvwQtrasDuiYhW1b7wrDm4TZDliS1W+X0EUf8uITFA5ENO35wY505KyFRSpZdu/iqQ1+B/DFInJ2BHRrERi22I/kvv4hEGxmNXVlqfQaJrY+lNYhsSEJl8kYevCisO2hG1zzVzJ/y91p9v94Z0MeJz1ri2Yr9vvfkVt3hbIAvMcxl6ZxoH00aWWiJBbSZtwZDp1EmPbX67lPeRLe7qwwiuNRndBq/nW8GTnqoCUdy/u7PzEW7TfTmmzhM5dmJuDJQdr/E8/Lz9WCmyFVvAXHObf5+7FCneJbhGaYIgSr9xXHXqLhxAb1lHHuAioSMiZOWb2MzIbquqDIp03cSOFu9wJ6aesp63jZUH/o1yHiv1dcKwl7Fz7vHaIMLADlLjRqDLNdoMoHaP1g7se/PUoemRlIIC9hXlTfQ3Qx33kN7lh+2DMNsnhCjCeB2g==;VBalnSehKEpmYc6JmNyW/g=="
 ---
 

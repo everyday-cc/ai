@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
+      "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
+      "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/gesture-floating-window.jpg?p=1",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
+      "publishedDateTime": "2022-11-18T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-diverse-teams-are-needed-to-save-the-planet.md",
+      "title": "Diverse Teams Are Needed to Save the Planet",
+      "excerpt": "For Lila Ibrahim, chief operating officer at DeepMind, and Hayaatun Sillem, CEO of the Royal Academy of Engineering, being both female and people of color meant the odds were stacked against them in their industry. But for Sillem, who is the first woman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
+      "originalUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6376afe5aed231a201071873/master/pass/0393_WIREDImpact.JPG",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wired-impact-diversity-inclusion/amp",
+      "publishedDateTime": "2022-11-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-smiledirectclub-announces-launch-of-innovative-smilemaker-platform.md",
+      "title": "SmileDirectClub Announces Launch of Innovative SmileMaker Platform",
+      "excerpt": "SmileDirectClub, Inc. (Nasdaq: SDC), the next generation oral care company with the first medtech platform for teeth straightening, today announced the launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-deep-tech-startup-neuralgarage-raises-145-million-in-seed-funding.md",
       "title": "Deep Tech Startup NeuralGarage Raises $1.45 Million In Seed Funding",
       "excerpt": "Deep tech startup NeuralGarage raises $1.45 million in Seed round led ... NeuralGarage leverages the power of complex AI and computer vision algorithms to significantly improve content consumption, delivery and creation.",
@@ -1046,135 +1193,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-lyft-and-motional-to-offer-driverless-taxi-rides-in-los-angeles.md",
-      "title": "Lyft and Motional to offer driverless taxi rides in Los Angeles",
-      "excerpt": "Lyft and Motional have announced plans to launch a driverless ride-hailing service in Los Angeles using Ioniq 5 EV Level 4 robotaxis. Los Angeles will be the second city serviced by the two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
-      "originalUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/WqGKETyQotWJMl6624QBSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/64534d50-666e-11ed-b7f6-cedf47c3a338",
-          "width": 1200,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
-      "title": "Artificial Intelligence-Aided Colonoscopy Does Not Increase Cancer Detection",
-      "excerpt": "Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html",
-      "originalUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/6/b6/6b6cf66e-5a77-5ff6-8edd-d916539921fe/63767a470ab3f.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline.md",
-      "title": "Brain’s memory center flags autistic adults at risk for cognitive decline",
-      "excerpt": "Braden and her team have been scanning the brains of autistic people aged 40 and older and administering a battery of cognitive tests every two years. “We collect lots of data,” she says. Relatively little research has looked into how autistic adults ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "originalUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2022/11/17100905/844-autism-memory-cognitive-decline-aging.jpg",
-          "width": 844,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search"
+    publishedDateTime: 2022-11-23T19:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

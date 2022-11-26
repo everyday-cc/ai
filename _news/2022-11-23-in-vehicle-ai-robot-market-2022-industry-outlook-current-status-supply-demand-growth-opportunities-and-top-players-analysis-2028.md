@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search"
+    publishedDateTime: 2022-11-23T19:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence of Things (AIoT) Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
     excerpt: "Nov 21, 2022 (The Expresswire) -- \"Artificial Intelligence of Things (AIoT) Market\" Research Report gives detailed facts with consideration to market"
     publishedDateTime: 2022-11-21T17:44:00Z

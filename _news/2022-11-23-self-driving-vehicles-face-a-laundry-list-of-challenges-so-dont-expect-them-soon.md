@@ -7,7 +7,7 @@ originalUrl: "https://canada.autonews.com/opinion/self-driving-vehicles-face-lau
 webUrl: "https://canada.autonews.com/opinion/self-driving-vehicles-face-laundry-list-challenges-so-dont-expect-them-soon"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Looking to Ride the Self-Driving Boom? Analysts Suggest 2 Stocks to Buy"
+    excerpt: "None of this would be possible, however, without a major change in the sensor systems that make self-driving cars possible. These systems, called LiDAR, as recently as 10 years ago could cost more than the entire rest of the car – but in recent years ..."
+    publishedDateTime: 2022-11-22T10:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/looking-to-ride-the-self-driving-boom-analysts-suggest-2-stocks-to-buy"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "Tz5TBj2ISvr9XUwF95xPe2D5CgilgDJBerSpB+Ak/HRK6f6wg+hWObR1aLrShcKbLxb3l1JGV7/bazpQBoVzzyZ7w+enThTa2W8X4Bo8Z/8XRnJOhkWLzFEtRt6+lG9QALsoNhi3RDNpJwKptMTSGCkZ//tDvDYFzU20hMzYmOJk9QOox/DuVtby8iQdKuKh2G6Owa9F4MbkqDpIjCMZY/C7r4sjLuJ2ivltbJmOnpDcyYwDo2X8CIaA20f5Ikop9zTKw/RV1SNS9ZJZzyyTXxYVgtfpZ4IGzWe4El+0rRPux68bu7Rw9Mq6x8Jfec+VrOLg6LIu8RVgxc/yzzrjqxrAMLBMpxjTvv29thwGogw9lBK77/eg/1s2Jc39SNtnBm5VDv8imdWBJK73efKdWpnZZJ9iKSoiIGPGJrxqNb2ZysfUb2jNFp7eVyp6urMq8TPP2H+QELPyaK3FTHZkR2OXAjER1tmeYomkxNHiltMsaG29G8D3evMCQHh3eK/q+rcTJR2XSnJnkB9HqdvV4A==;NSRryK/iJXLgjdQ1hbDnJA=="
 ---

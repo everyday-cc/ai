@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Leading clinical trials companies in the artificial intelligence theme"
+    excerpt: "The future of the pharma industry will be shaped by a range of disruptive themes, with artificial intelligence (AI) being one of the themes that will have a significant impact on clinical trials companies."
+    publishedDateTime: 2022-11-26T04:12:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/data-insights/leading-clinical-trials-companies-in-the-artificial-intelligence-theme/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 37
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/11/Artificial-Intelligence-in-Clinical-Trials-1038x720.jpg"
+        width: 1038
+        height: 720
+        isCached: true
 
 secured: "f2mGn/30mkea4q8B6DY0J0FSHMXCC8BugN8aiGDq2ebElPzJiXYn8wLMY73h9kW7VQW5qU5OOjUaE/XAZcc+twfLsvTZZVzJM+SSmaLx8c0YHM/2hUY1VuAeB2Qc553i67gg0d55LpESBlkIL8lpWz90OtwFgzvbq2Zc0iUVLLaqWH9E3oWYz8PFBBmgMh0xtG1s4FBdGFGTXeWlDjHZULnKVf9WmorVlfcaFr/pTDAWomyg9LELifScpnpsbj0iGlrICDtgjCVSiLrGeyj9EUv03xFZVWiYDCOVZNwR349E6IhYEkikp49wKQx4Ebc7/tsdWldo/7LaFPkdYP0nz6z09LhCKJbD2nA4FUmjotofpnRWP/s97TNoFMLLgeDqcPMpWVOWPqd1OR4mTTovdfizImT9Qp5mM4CT0z6Sqfuxo8iDvmMHuvnFf3gkUySPvIh6SZ3Am2g1ZILq2tm1ijGmWNtSctYBm8KwE1LAJdGzY91OBBeieoRk13mdSKliWoYTOD9anih53YB4Dfj29Q==;q8R+QVZmfLNeiNJbYBbMkg=="
 ---

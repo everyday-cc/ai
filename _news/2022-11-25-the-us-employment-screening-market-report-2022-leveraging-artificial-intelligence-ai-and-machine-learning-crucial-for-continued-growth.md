@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search"
+    publishedDateTime: 2022-11-23T19:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In-vehicle AI Robot Market 2022 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2028"
     excerpt: "In-vehicle AI Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
     publishedDateTime: 2022-11-23T03:49:00Z

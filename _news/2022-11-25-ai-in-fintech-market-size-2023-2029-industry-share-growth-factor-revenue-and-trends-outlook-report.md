@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Machine Learning in Manufacturing"
+    publishedDateTime: 2022-11-26T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market : Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook and Global Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Face Recognition Systems Market\""
     publishedDateTime: 2022-11-25T23:33:00Z

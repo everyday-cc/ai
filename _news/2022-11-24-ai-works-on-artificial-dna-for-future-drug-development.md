@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "This Copyright Lawsuit Could Shape the Future of Generative AI"
-    excerpt: "Algorithms that create art, text, and code are spreading fast—but legal challenges could throw a wrench in the works."
-    publishedDateTime: 2022-11-21T12:00:00Z
-    webUrl: "https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 51
   - title: "The morphing world of Artificial Intelligence"
     excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
     publishedDateTime: 2022-11-25T04:00:00Z
