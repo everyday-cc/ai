@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.thestar.com/content/dam/thestar/business/opinion/2022/11/26/sell-the-razor-for-little-make-it-up-on-the-blades-approach-not-working-for-amazons-alexa-line/echo_dot.jpg.size.custom.crop.640x360.jpg"
