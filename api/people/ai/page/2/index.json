@@ -16,7 +16,7 @@
       "twitter": {
         "username": "jeanliuqing",
         "url": "https://twitter.com/jeanliuqing",
-        "followers": 1419
+        "followers": 1420
       },
       "weibo": {
         "url": "https://www.weibo.com/u/2209030102",
@@ -55,7 +55,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 28029
+        "followers": 28031
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -129,7 +129,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 151656
+        "citations": 151704
       },
       "affiliation": {
         "path": "",
@@ -331,7 +331,7 @@
       "twitter": {
         "username": "DBonacorsi",
         "url": "https://twitter.com/DBonacorsi",
-        "followers": 744
+        "followers": 746
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
@@ -413,7 +413,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
-        "citations": 362780
+        "citations": 362820
       },
       "affiliation": {
         "path": "",
@@ -486,7 +486,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 325156
+        "citations": 325215
       },
       "affiliation": {
         "path": "",
@@ -658,7 +658,7 @@
       "bio": "Queen Mary University of London",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1DS8DjgAAAAJ",
-        "citations": 256607
+        "citations": 256640
       },
       "affiliation": {
         "path": "",
@@ -778,7 +778,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
-        "citations": 19128
+        "citations": 18996
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
@@ -815,7 +815,7 @@
       "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 219497
+        "citations": 219675
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
@@ -853,7 +853,7 @@
       "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
-        "citations": 208494
+        "citations": 208517
       },
       "affiliation": {
         "path": "",
@@ -887,7 +887,7 @@
       "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 229216
+        "citations": 229251
       },
       "affiliation": {
         "path": "",
@@ -921,7 +921,7 @@
       "bio": "Professor Emeritus, EECS, UC Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=S6H-0RAAAAAJ",
-        "citations": 235255
+        "citations": 235105
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lotfi_A._Zadeh"
@@ -1033,7 +1033,7 @@
       "twitter": {
         "username": "madelinegannon",
         "url": "https://twitter.com/madelinegannon",
-        "followers": 3111
+        "followers": 3110
       },
       "topics": [
         "AI",
