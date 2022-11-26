@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insideedition.com/media/videos/company-creates-smart-gla
 cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/media/videos/company-creates-smart-glasses-to-caption-and-translate-conversations-in-real-time?amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,19 @@ images:
     height: 720
     isCached: true
 
-secured: "MJ3ZUb5sk3yd6nIEeluAaibmqK/9hPjOxjp1Mw+Bx7Ts+Z1FkZICM+LsGq3SxpZNVLH0qqmO1d58/v+wZsbKV6sgAVls5DzaRVyHUeGe14jNg67GlXN3yf0AOa//LJphWXUmDHHSxyaYFqiL3n8hcOPucSPlwFllQpi++n8rjm5lTlY19a1GXmVBoZaKXIV7G6Rs7n4lGZAv1jMoGwIe8XHFtUjLnqnM/USRMLhI+9rHFnY8CPiTlo/EJgH3vyY1620Ag4s4mdqUAiKxlwwLDfDWhFbu+PxQY1X1g/9gZjPuVo33qxRq8Myxw7K8pbuAp3+0836rJhFoQ+eBCT2hipgA/VVCpaSGVnVCEcqSnsc=;O7TZOBi/d7oTWI60uCZl+g=="
+related:
+  - title: "These Glasses Caption and Translate Conversations in Real-Time"
+    excerpt: "The inspiration for the XRAI Glass began when one of the founders observed a family member who was hard of hearing."
+    publishedDateTime: 2022-11-26T18:11:00Z
+    webUrl: "https://www.insideedition.com/ai-powered-smart-glasses-caption-and-translate-conversations-in-real-time-78181"
+    ampWebUrl: "https://www.insideedition.com/ai-powered-smart-glasses-caption-and-translate-conversations-in-real-time-78181?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/ai-powered-smart-glasses-caption-and-translate-conversations-in-real-time-78181?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 39
+
+secured: "HwjoTGk7kQhVBs87CihPbqPEwfNKdrRm3yy38AdzuJuNsEMGlxoIpYiVNJBHr3jIRjFEnhHeZ6M0DZtxtwNKkncdIhT8NXaA9r3dPhJBCWBoJxZFBKBBIwPdI7GkjSFnzEkllYxggH85gJbFce0wd9Im0Jg5Oxehv4FmsAmqTuhtgB2t8WUQzycvLCLZvYnXy9qFO+e1Wm0Tw+zOgbKjNDfUJXSumP4P7Dbmk6sofMJtDN4xCbbBfMczfqwK22Zx2Pu3y5PGB9CB2R/8Sta1zKJhpKUk/Rf755OWehFfCap5U1YjpsdPYTAyZ7G9lmyMjFAy3JsY60WcF77TjJmx1P61qMKRVMMcpRGRPaT3CKP5SyB58oFoDHNMpjN+1itUFlfPbH2IIuJlin1EZFGoRvwFLQ5RweT1V9bG9DrzDKM0ZjdvC7Lub8rh46th5CRcOzLFR+0/JTN4HcK+pm5r9RBmBHPw31hnsYqRkqkwlRHiIOwMt6mbIm33smFWg3OXnFUajjADyN9lKMqXSRw2CQ==;qIT/mYxDXmP3CP28CIhMhQ=="
 ---
 

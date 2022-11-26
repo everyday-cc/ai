@@ -27,66 +27,74 @@ images:
     isCached: true
 
 related:
-  - title: "India assumes chair of the global partnership on artificial intelligence"
-    excerpt: "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place"
-    publishedDateTime: 2022-11-22T02:49:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
+  - title: "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare"
+    excerpt: "(File) RedBrick AI, a Health-tech AI platform, on Wednesday announced that it raised $4.6 million in a seed funding round to accelerate the development and adoption of artificial intelligence ... about 90 percent of all healthcare data AI systems can ..."
+    publishedDateTime: 2022-11-23T10:42:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/"
+    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 71
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 69
     images:
-      - url: "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
-    excerpt: "India assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI) at a summit held in Tokyo."
-    publishedDateTime: 2022-11-23T12:41:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95709258,imgsize-269812,width-1200,height=765,overlay-etbrandequity/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/09/ai1.jpg"
         width: 1200
-        height: 765
+        height: 675
         isCached: true
-  - title: "World's Longest-Running AI Show Series Arrives in India"
-    excerpt: "By bringing together some of the brightest minds from the AI and ML landscape to discuss their applications and their scope in the future in India's new normal, the 39 th global e"
-    publishedDateTime: 2022-11-22T08:32:00Z
-    webUrl: "https://www.jcnnewswire.com/pressrelease/79361/2/Worlds-Longest-Running-AI-Show-Series-Arrives-in-India"
+  - title: "Application of AI in healthcare is bringing a silent revolution in the health sector in Europe"
+    excerpt: "Rajat Khare’s artificial intelligence investments are ushering in the application of AI in healthcare which has the potential to introduce new technology in hospitals across Europe European Healthcare Artificial Intelligence (AI) market size surpassed USD 700 million in 2020 and is expected to register a growth rate of 43."
+    publishedDateTime: 2022-11-22T09:46:00Z
+    webUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/"
+    ampWebUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
     type: article
     provider:
-      name: JCN Newswire
-      domain: jcnnewswire.com
-    quality: 39
+      name: Impacts
+      domain: techbullion.com
+    quality: 62
     images:
-      - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
-        width: 650
-        height: 340
+      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "How serious is India about Artificial Intelligence?"
-    excerpt: "A weekly newsletter on all things tech. Similarly for Twitter, etc."
-    publishedDateTime: 2022-11-25T07:02:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk25112022.html"
+  - title: "Healthtech startup RedBrick AI raises $4.6 mn from Sequoia India, Surge"
+    excerpt: "US-headquartered healthtech startup, RedBrick AI, has secured $4.6 million in a seed funding round led by Sequoia India and Southeast Asia's Surge. The funding round also saw participation from Y Combinator and angel investors."
+    publishedDateTime: 2022-11-24T04:46:00Z
+    webUrl: "https://inshorts.com/en/news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
     images:
-      - url: "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/11_nov/24_thu/img_1669259804612_688.jpg?"
+        width: 1080
+        height: 1748
         isCached: true
+  - title: "RedBrick AI raises US$4.6M to accelerate the development of healthcare AI"
+    excerpt: "Health-tech AI platform RedBrick AI is announcing a US$4.6M seed funding round to accelerate the development and adoption of artificial intelligence in clinical settings, through rapid"
+    publishedDateTime: 2022-11-24T06:45:00Z
+    webUrl: "https://www.sourcesecurity.com/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 53
+  - title: "RedBrick AI raises $4.6M to ease AI development in the healthcare sector"
+    excerpt: "RedBrick AI announced the funding round today. The lead investor in the round was Surge, a joint venture between Sequoia India and Sequoia Southeast Asia that provides startups with funding along with other resources such as access to business workshops."
+    publishedDateTime: 2022-11-23T19:01:00Z
+    webUrl: "https://siliconangle.com/2022/11/23/redbrick-ai-raises-4-6m-ease-ai-development-healthcare-sector/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
   - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
     excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
     publishedDateTime: 2022-11-24T07:45:00Z
@@ -101,6 +109,15 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
+    excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
+    publishedDateTime: 2022-11-23T13:03:00Z
+    webUrl: "https://yourstory.com/2022/11/healthtech-ai-startup-redbrick-ai-sequoia-surge-y-combinator-funding"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 17
 
 secured: "3TCEFh75qJ8M6f24wPJ4LoIKVvWx8GYjQSjhp62NDUmQb1ZoLxDnPn3XP6PaCzxZ1z4KrVV1i7UI4SWuAhfXw2PxFvTzHRnoTEHChbFmiEBpUmPiOPgXWT04KLkTlLN0EZML8F7w6xUmDbnjcBwhdFxrrCi7mN5XQgvCC6qdPTeDj4/58NeOjPJKhFruyDmWqaX3cvcH8PBldIwgNVyEf3582ukWm/R0bzR6PGR5C0po9yFj0Q377U+DYsorzyhztO6E8se9RKKmuL0md6Wawca8cFdclJ7FrMAL8M/mg8Yej6g9XZF+mbOkq1v2thxxUH6egpaACI/qE5KJnxcVnv25twuh8J5GjYJdQJrqhmTwX/QUcxIK8Yu+7TEHYTj5suGJrWBlp0Qj7jkP+EchzpkTWG7tmZMHUY8odFd5KvXsRR2IETiK+HPZWqSROOIbb+V4yj7X0ogPHqdOMumNdJTN1fjeX/eN3p8nxoeyu5Lwk0VfnLkv1TfSUnAGdV1CWzeWLE5cnrLgz3DOd79k8A==;teOu1m+jEBOYiUUzv0UZnQ=="
 ---

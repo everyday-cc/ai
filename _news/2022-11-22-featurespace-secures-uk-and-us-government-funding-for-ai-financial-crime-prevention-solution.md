@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "The State of Artificial Intelligence at the Manufacturing Edge"
+    excerpt: "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge."
+    publishedDateTime: 2022-11-23T14:27:00Z
+    webUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html"
+    ampWebUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI works on artificial DNA for future drug development"
     excerpt: "With the help of AI, researchers in Sweden have succeeded in designing synthetic DNA that controls the cells' protein production."
     publishedDateTime: 2022-11-24T14:06:00Z
@@ -71,15 +87,6 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 17
-  - title: "The State of Artificial Intelligence at the Manufacturing Edge"
-    excerpt: "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge."
-    publishedDateTime: 2022-11-23T14:27:00Z
-    webUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
     quality: 17
 
 secured: "zdOp1S3HMW7Qqbjv9uwrhXDZrApnjnbhLx65TFox2t1uOnTwv8wj4kw/wVQgvz62EQSiq0XzO1Ir59vpXAmrfg8YXK8it8kzOdufHBFzRWPEsWfMfi+z9+Yj+yxSTb+1Q2r0i5z3YAwKTgOLExc0qazSp+QsZRccuVuFwBGxUkoZmWtHHNYRltTM+ws02kUp2Qe3jXEvJYxc195QHOzeF/XpMsG7+FRFIFGDx+eCyyGAu5kvo6za2P8ldkBVctX58KO05ohBR8DpJqizY7TxXR6cVgNg1bsJev7MAT6yS5J7k/d7Zjvjp7pnVx1W4EQQ39sq+xYx6KoxkSD4XnUe54OXc2Y+rkxOTdCTbxC77Uk=;+QM6FOTdCZooY2Ouf/0cpg=="

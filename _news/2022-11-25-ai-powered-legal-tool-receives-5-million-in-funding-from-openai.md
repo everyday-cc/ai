@@ -28,7 +28,7 @@ related:
     provider:
       name: YAHOO!Finance
       domain: techcrunch.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1136679354.jpg?resize=1200,675"
         width: 1200

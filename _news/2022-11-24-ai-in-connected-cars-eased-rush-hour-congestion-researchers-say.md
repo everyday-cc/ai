@@ -42,20 +42,18 @@ related:
         height: 470
         isCached: true
   - title: "Researchers: AI in connected cars eased rush hour congestion"
-    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
-    publishedDateTime: 2022-11-22T17:08:00Z
-    webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-    ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+    excerpt: "Researchers in Tennessee say they have successfully used artificial intelligence in a group of wirelessly connected cars to help ease rush hour traffic on Interstate 24. In the experiment, 100"
+    publishedDateTime: 2022-11-23T08:08:00Z
+    webUrl: "https://scnow.com/ap/business/researchers-ai-in-connected-cars-eased-rush-hour-congestion/article_38d43bfa-796f-56a4-b616-9a19b1acaeb9.html"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
+      name: SCNow
+      domain: scnow.com
+    quality: 37
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
-        width: 1280
-        height: 853
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/a/86/a864b822-58eb-5e6e-91e3-2ba35fc9dd61/637dd6bfa8b32.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Researchers: AI In Connected Cars Eased Rush Hour Congestion"
     excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."

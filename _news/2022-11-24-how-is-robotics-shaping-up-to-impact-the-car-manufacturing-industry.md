@@ -39,20 +39,6 @@ related:
         width: 1564
         height: 780
         isCached: true
-  - title: "Generate cold start forecasts for products with no historical data using Amazon Forecast, now up to 45% more accurate"
-    excerpt: "Now with Amazon Forecast, you can generate up to 45% more accurate forecasts for products with no historical data. Forecast is a managed service that uses machine learning (ML) to generate accurate demand forecasts, without requiring any ML experience. Accurate forecasting is the foundation for inventory"
-    publishedDateTime: 2022-11-22T01:02:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-cold-start-forecasts-for-products-with-no-historical-data-using-amazon-forecast-now-up-to-45-more-accurate/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 66
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/generate-cold-start-forecasts.jpg"
-        width: 1550
-        height: 771
-        isCached: true
   - title: "An AI and deep learning-based malware detection system for the Industrial Internet of Things"
     excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity. Powered by wireless 5G connectivity and artificial intelligence (AI), IIoT holds the ability to analyze critical problems and provide solutions that can improve the operational performance of industries ranging from manufacturing to healthcare."
     publishedDateTime: 2022-11-22T10:23:00Z

@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The State of Artificial Intelligence at the Manufacturing Edge"
+    excerpt: "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge."
+    publishedDateTime: 2022-11-23T14:27:00Z
+    webUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html"
+    ampWebUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI works on artificial DNA for future drug development"
     excerpt: "With the help of AI, researchers in Sweden have succeeded in designing synthetic DNA that controls the cells' protein production."
     publishedDateTime: 2022-11-24T14:06:00Z
@@ -66,15 +82,6 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 17
-  - title: "The State of Artificial Intelligence at the Manufacturing Edge"
-    excerpt: "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge."
-    publishedDateTime: 2022-11-23T14:27:00Z
-    webUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
     quality: 17
   - title: "Featurespace Secures UK and US Government Funding for AI Financial Crime Prevention Solution"
     excerpt: "Featurespace, the world leader in machine learning fraud and financial crime prevention technology, has secured funding from UK and US governments to build a new type of artificial intelligence (AI) system to help banks and payments service providers (PSPs) detect financial crime – whilst protecting data privacy."

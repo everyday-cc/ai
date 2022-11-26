@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generate cold start forecasts for products with no historical data using Amazon Forecast, now up to 45% more accurate"
-    excerpt: "Now with Amazon Forecast, you can generate up to 45% more accurate forecasts for products with no historical data. Forecast is a managed service that uses machine learning (ML) to generate accurate demand forecasts, without requiring any ML experience. Accurate forecasting is the foundation for inventory"
-    publishedDateTime: 2022-11-22T01:02:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-cold-start-forecasts-for-products-with-no-historical-data-using-amazon-forecast-now-up-to-45-more-accurate/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 66
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/generate-cold-start-forecasts.jpg"
-        width: 1550
-        height: 771
-        isCached: true
   - title: "How Is Robotics Shaping Up To Impact The Car Manufacturing Industry?"
     excerpt: "How is Robotics Shaping Up to Impact the Car Manufacturing Industry? November 23, 2022 by mark allinson leave a comment . The world of car man"
     publishedDateTime: 2022-11-24T06:35:00Z

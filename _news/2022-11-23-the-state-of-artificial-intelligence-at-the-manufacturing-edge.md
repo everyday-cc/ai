@@ -5,8 +5,10 @@ excerpt: "The WZL is focused on a holistic approach to production engineering, c
 publishedDateTime: 2022-11-23T14:27:00Z
 originalUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html"
 webUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html"
+ampWebUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
 type: article
-quality: 17
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "AI And The Future Of Government Work"
@@ -81,6 +90,6 @@ related:
       domain: financialit.net
     quality: 8
 
-secured: "XwYwtvCzEhGyMLgVlJtwODd2bVpemTB2pW0M7PdB8MRYGeFJheNYDPKnaKtwbxirwPkm+jbGusaOU58Cx46kISTn3HFtipkNZx35iMZqPjDJo/MvUmefuC61KSTqMbZm9fDxirhTlU968XOLDzWIdTnueyFGmNMG3urmLBjGQhCESBtHbX9sx7Qqfq0TXMNGOPwNwCVv9+3OAEr8FgP3HgIqo6tAuk2bAUwRfSfPyCEiDwHOiKhRQr72LyW6WXtdnO12ki03JiQ5RD081tbXr6E8rFCXv/eaZEYnZveApXCghwlkdyKO81seRHx+8rdfs5sJNC3cIgLsDqTkrDtfvN+cuMm+a3i41qim7wqERcydemukShzlpi17yu/9IUnQX4LUdmE5wLOtg+ujYe3oxVNXY1AhoJm4P18K5RaQzK5S4j1QpX/yDlAdhDOV7dE4cbBr86lBw/vLq7ZjvrfshO+cSRmj16WmNl7V9A8cXCB803DIkXEIcJkrv8j6EXSdRbyVS7IoXCsB8id7pchDsA==;48F9THJfok6Rm8irAC91WQ=="
+secured: "Vjlp4my4rY4JYu2K0biKMgAu4GeekQEKjv733xg7jlULSEVEnnbHA9m9yVC0EwcchpIRTkgZtTpGmZ1cYWUqJOOoRY8+KfZbStKX5piqgaTo1wnTdmczZEWj1TnDWoJ9KRlmOq1LN1UoD0BiTCKBpjwJbi4M/iAiNWqLqOjDqLt/Jw6sV/Ohrdx1fqzSUeeCuOaKcZt4saPccs4PWuG2ZFeZ3BeJf8x2FhiAuC1jIeSK2bkBbVj8lRpz1leF5pc8MTg7+5CYAZA/D+y8+WWriMyAAEEPYmIIu9K0swaoXm4eTj6wbgS87c7UFNd+YTPhMGzHsewaF9LvVcN5raL8Z34t/m9f7sSqvIndnyX6Y4o=;j/GRezkuai8ODwT2jmVbUQ=="
 ---
 
