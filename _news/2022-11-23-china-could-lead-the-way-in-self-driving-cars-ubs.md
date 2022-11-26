@@ -25,23 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Buy Mobileye Stock, Says Wall Street. There Is a Future in Self-Driving Cars."
-    excerpt: "Self-driving dreams aren’t dead just yet. Wall Street has a new favorite company–and stock–to play the trend. Mobileye (ticker: MBLY) is the firm. It develops vision systems for vehicles that enable advanced driver assistance features such as adaptive cruise control and lane keeping assistance."
-    publishedDateTime: 2022-11-21T20:39:00Z
-    webUrl: "https://www.barrons.com/articles/buy-mobileye-stock-price-self-driving-cars-51669032755?siteid=yhoof2"
-    ampWebUrl: "https://www.barrons.com/amp/articles/buy-mobileye-stock-price-self-driving-cars-51669032755"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/buy-mobileye-stock-price-self-driving-cars-51669032755"
+  - title: "UBS says self-driving cars could become a $100 billion market in China — and names stocks to play it"
+    excerpt: "Autonomous driving will be a \"more significant\" megatrend than electric vehicles, UBS says, and names several stocks to play it."
+    publishedDateTime: 2022-11-22T23:24:00Z
+    webUrl: "https://www.cnbc.com/2022/11/23/ubs-names-stocks-to-buy-to-play-autonomous-driving-boom-in-china-.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 41
+      name: CNBC
+      domain: cnbc.com
+    quality: 39
     images:
-      - url: "https://images.barrons.com/im-646158/social"
-        width: 1280
-        height: 640
+      - url: "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1669166665&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "huzJZ931sqfX7VtxhR0/4A3Lrcd9EDwqvIZQSiqoe2m9pQoEx0gGWrCfSezWGy0aBCoak2/dqFh2RogfO0dKsUiym9SSqpyAGMygPef1Rv+3R4g7tnMi3R/lKEWA1HxnvbD4m90Msq7JTJCRJGdc6uzpPeJmtCW2tWcoXsPZCctKGgSb4S5mrpw1Jpg/paQ7m57MiyvzjHIlFz4LuzWmDSfxtkAWs+TQ8Or0PNNzB1zx6ODvprGPYQ28G3wUHcKfYhxRcPnD0B3FwZGacvDo8Z1exUD8EV89q73Xq5Mim1AcL4D2F0xLKjp+xK1Y++aYIhhp/pSj52APNz3FVy79j36PPgGBInQY6Klhq7RRSds=;AfcFlfYFNofW1XZvc6KieA=="
+secured: "icNPlJqNQFyTljT2GQ83WYUflF5133iwQsmnwJRHLsr3G+qBedH/IfNJ/+0iWVGB0HihGFOPV7lhuTsyN0G46IXaEspD2dH56VwSp2FOLs2Gw4QfrEgjnqAeKVh49c7TTIVYXyCk9+ECZVeLOI8eRB2+F2eDxWPp9MiNfoeSwDah2mtBBHtslvVWLatuMKGpYViLbe0e6WZ9mKPTy/hg7Z4/mjVb3E7EyhXKzdFhNUEqFrgGSWB0PjCIUZqGFrAfiGKZcKjKTMUWGTbwinsG2jYCiWPrWcR3xswEPDEb8RUQj4NsHZsGwcsTTp3gqmMrPJuoICOYp7MkzlSomdHJbcPnDok/oxFIJnJKgcIQZJXL7P4L2bE8BYOdT+/9h7rNIGFpsgNTevuVrYE31Wuxh7kDhxP3obq6mdPUcHKQ8OPtp8Vw6BIBPUnuudgYdlsdkH6sZhYexBG/QKKlPXgw7+AgmhGbj6xvNpM27qvWJSR1Mzkn1Sngb8D3em7E2yzLuaEySU+kfAI6I1MW+zAmDg==;Rake9VonqeXB7wGhAGGn2w=="
 ---
 

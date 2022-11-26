@@ -44,15 +44,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 28
-  - title: "Conversational AI Poised to Be Major Disrupter"
-    excerpt: "Chatbots and conversational AI systems got an extended tryout during COVID as companies scrambled for ways to keep their operations running amid"
-    publishedDateTime: 2022-11-21T19:26:00Z
-    webUrl: "https://www.datanami.com/2022/11/21/conversational-ai-poised-to-be-major-disrupter/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
 
 secured: "d33JDhNPav3roiSPdQLfp0PsGwC9ntIriBEYaBF2AwZ9OsrMvm75EdKY1UY/894Fth1FMCcjUOFUhbVLubW6fYn9paNxnhOBLPdjFpQq6P6gsXEiYHqzdn5D9PwrM2qNNrL0IMwIfun6GnnEGjlvMjQBB1QEcZFBkP7WQDvQTx4R54tyzqauNUHMyEUQQaRYcaPfMFxgCrAkSd3yKcGj0YS3nZ1ngqFsikLjfC6HlYdhLhVCx8pQszvIgNgkgCltpBw7C+f2PKVGkIa+1mkSZN7J39Czghv4imb8TtL5Ka7H9zsqiAR6LHsJZpw3gIQDjBU51WRwpF21Ha5kyDs2Mro+fbhcHL7MFdeZ7mxuezo=;4luequF6KUXOrMpxZPwjfg=="
 ---

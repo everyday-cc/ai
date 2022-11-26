@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/news/ai-and-machine-learning-poten
 webUrl: "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CIO Applications
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI Learn Better without Learning Anything at All?"
+    excerpt: "What if machines could also meditate or do nothing for a day or two—to learn better? As absurd as it may sound, a group of researchers have now discovered how artificial neural networks can mimic sleep patterns of the human brain,"
+    publishedDateTime: 2022-11-26T10:29:00Z
+    webUrl: "https://analyticsindiamag.com/can-ai-learn-better-without-learning-anything-at-all/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/Ind-art-b_11zon.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Huge Potential – New AI Material Learns Behaviors and Adapts to Changing Conditions"
     excerpt: "University of California, Los Angeles engineers have developed a new class of material. University of California, Los Angeles mechanical engineers have created a new class of material that can learn behaviors over time and develop a \"muscle memory\" of its own,"
     publishedDateTime: 2022-11-22T14:17:00Z

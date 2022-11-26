@@ -2,21 +2,17 @@
 category: news
 title: "Using artificial intelligence to spot breast cancer"
 excerpt: "An Indian company has developed a cheap, non-invasive test for breast cancer that uses thermal imaging and AI."
-publishedDateTime: 2022-11-26T00:58:00Z
-originalUrl: "https://www.bbc.com/news/stories-63755128"
-webUrl: "https://www.bbc.com/news/stories-63755128"
+publishedDateTime: 2022-11-26T00:28:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/stories-63755128"
+webUrl: "https://www.bbc.co.uk/news/av/stories-63755128"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -45,6 +41,6 @@ related:
         height: 1755
         isCached: true
 
-secured: "SdxZHkM97bSsURi5To/ekLtVyKoVCU8UvNKZrerXdWvYKwIn3jRylL8Yrrh1ts5Gk840E66BKsSTUrgOKvv/ui+LmvZWzG1dFJFbhove0kIBpKIRYkqp+zdWu7h/Ghcx97Mm3sKjTyFRShoUjRPqasSYjZvRmd6s4ukNjgtsuMvWCEyh9OygppXUOIkSvGopCYMPSu8KW/4/FLRY1/Gtg6nCZ1SW5FZkKjGSw5Xu07aFvRyK2FIxh29q6ALW9duU8j4oq/w2qRDd2+WeqlDW98vc1EUIUPcQpVJPt2a+PfS5MI4Naek9MSgSqgs3s4xMP7B8+OfkIDAZaR/H2/utxaG192hnNKQRpXybWqkMkWp2OLzZ1YQJCy+92Uae4t+9UdgD39eo/275oHzYCfu6qQL78YZ3471USt3ms9Dk3m+32sgEDbcmcdDIkD55lGXYf98V00uiFpnzWcpD1uiC3jolQmr3D43DO3Mph8ZZPMyTAlQ0hx8qyf00P6BUzuNQtb6k6zs1tIt1VyX/miLPOg==;ETsvWbHyEW4HGdid9GLkTg=="
+secured: "yRdTAybSqd1C/L2cB+UqZ82swqRTHyCnrJQs2JnFbYtqqanen/1Xn0srk0kDnX/dIEyPe9x6xV64HLChYOPm/kwq9itu5ME9F0nHtShVaOJY3dAmfIKuyYkKpL+Eg8Gw2VA3WGrzVHNymjPzSkfnTBO8CnTYuwwyonkaLcGUgQMJ988BcXhfRE/M287P/IIiz3rQMGXRU+5yTlgBzsj+h/IAyFw65COK8+KMbDuoRbriY1U9QJGM0iN+2hWfzRnnLijyOuwaZJulgIeoXvxUxNIUw82QuXl+zpOauUkzWoRtD4LXVuXUiAs4koFhDNLQtqsnKRdph7d4z+/wUajtKQz+2ZkBcdMxMr5aJ8mlj5M=;D4ma0hROQkO0N5YFJv5KSA=="
 ---
 

@@ -29,18 +29,20 @@ images:
 
 related:
   - title: "Researchers: AI in connected cars eased rush hour congestion"
-    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
-    publishedDateTime: 2022-11-23T08:08:00Z
-    webUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+    publishedDateTime: 2022-11-22T17:08:00Z
+    webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 39
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
     images:
-      - url: "https://kesq.b-cdn.net/2021/06/kesq.jpg"
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
         width: 1280
-        height: 720
+        height: 853
         isCached: true
   - title: "AI in connected cars eased rush hour congestion, researchers say"
     excerpt: "Human drivers don't do a good job of navigating dense traffic, researchers say, but an experiment using AI means help could be on the way."
