@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Face Recognition Systems Market : Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook and Global Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Face Recognition Systems Market\""
+    publishedDateTime: 2022-11-25T23:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-and-global-forecast-to-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iEFTQ6R2nYiGQHw/9Rsk0B8Rk62ZulIVfXeUseSkIWsMBrlKCuJTaUauBYJJ5vtqXVYuaeEywQycl0eFI7wdlt2SMAzuwTEMdfL2/EHzMJMWClbIfYDssCj9yb/cRFQ/5dmQ80M+K9boNtqiOpCrMnbieniUh+Efvxj1pVJaEgDNnKdjdWiczKuqfvF7T3mH5BMnvlZC+jinZgrIGATTlva66GHJDIOJM4OM5x1V1GCzMPPxuSdvCvcC3bCRX8lrEAWs27xWjt/RWnxJogsexihI9LfZtiNJwuGo7bclShIP3Yuv8ewlESOMYXzvaIjRc/K6sWpiYrCYvk98fpsq9wDlTCyzTYQrTzkNMnlAv18=;LTnPWLpi0W6v0asJ4un11A=="
 ---

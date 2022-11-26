@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learni
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Face Recognition Systems Market : Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook and Global Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Face Recognition Systems Market\""
+    publishedDateTime: 2022-11-25T23:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-and-global-forecast-to-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Passenger Vehicle Voice Recognition Market 2023 : Projected to Deliver Greater Revenues during the Forecast Period 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Passenger Vehicle Voice Recognition"
     publishedDateTime: 2022-11-25T12:51:00Z

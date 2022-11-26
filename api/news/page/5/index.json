@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-18-deep-tech-startup-neuralgarage-raises-145-million-in-seed-funding.md",
+      "title": "Deep Tech Startup NeuralGarage Raises $1.45 Million In Seed Funding",
+      "excerpt": "Deep tech startup NeuralGarage raises $1.45 million in Seed round led ... NeuralGarage leverages the power of complex AI and computer vision algorithms to significantly improve content consumption, delivery and creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/deep-tech-startup-neuralgarage-raises-145-million-in-seed/439468",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/deep-tech-startup-neuralgarage-raises-145-million-in-seed/439468",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668768315-Untitleddesign-2022-11-18T160933668.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
       "title": "Azure ML vs. Databricks: Machine Learning Comparison",
       "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
@@ -1123,57 +1174,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models.md",
-      "title": "Snorkel takes a deep dive into data labeling and foundation AI models",
-      "excerpt": "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "publishedDateTime": "2022-11-17T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

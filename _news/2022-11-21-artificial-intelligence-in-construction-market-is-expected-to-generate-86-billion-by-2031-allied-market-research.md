@@ -20,17 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "AI In Fintech Market is expected to grow at a compound annual growth rate of 16.5% to reach US$ 54 Billion-FMI"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022 according to a report published by ESOMAR-certified Future Market Insights. The market is anticipated to garner US$ 54 ..."
-    publishedDateTime: 2022-11-21T10:27:00Z
-    webUrl: "https://www.fmiblog.com/2022/11/21/ai-in-fintech-market-is-expected-to-grow-at-a-compound-annual-growth-rate-of-16-5-to-reach-us-54-billion-fmi/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
-
 secured: "of2UeeFMEOIGkWAu9TSgToQPzLcAZ8ILjZ5jiibuJTfM7DPjZDw9rXFVIWy+DnGDDXTsaC6PqY0Tv2Y2FT07oQHChW+5wCw8gMdS+jcUwZjfGjauxKom0brXL8clIMCChuDKom6Wm8qRDgxaSLoylcWQ+vwAevqHIKpuigJVTaTm+536xUuIey4UMeO1lBTU45ARRvyb9EL6UtS8hwi4dmY6oDqH6DdbCtNmfr6ASIAk5ncPlfVSE8K7XLTEjQmLopYklDyi76njcECWhxOHbgx1F/yqR5xTPU/8+c3jNsJoiDOuSztlf52EwwEWw9ShQ0zDgesHtqLp6meGSiii8GwyER5mQSg41RipOnWy0S8=;Wc+Yn2Q1nuAEVt7zHXivsQ=="
 ---
 

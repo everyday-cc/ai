@@ -43,22 +43,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "India to take over as chair of Global Partnership on Artificial Intelligence"
-    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar will represent India at the GPAI meeting to be held in Tokyo on November 21, for the symbolic takeover from France, which is the outgoing Council chair."
-    publishedDateTime: 2022-11-21T10:57:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95661015,imgsize-52670,width-1200,height-628,overlay-etauto/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
     excerpt: "India assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI) at a summit held in Tokyo."
     publishedDateTime: 2022-11-23T12:41:00Z

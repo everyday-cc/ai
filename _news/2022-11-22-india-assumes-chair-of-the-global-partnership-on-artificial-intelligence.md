@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "India to take over as chair of Global Partnership on Artificial Intelligence"
-    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar will represent India at the GPAI meeting to be held in Tokyo on November 21, for the symbolic takeover from France, which is the outgoing Council chair."
-    publishedDateTime: 2022-11-21T10:57:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95661015,imgsize-52670,width-1200,height-628,overlay-etauto/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Health-tech startup Redbrick AI raises $4.6 million funding from Sequoia India, Surge"
     excerpt: "The startup, which provides AI solutions for medical imagery, also attracted investments from Y Combinator and angel investors."
     publishedDateTime: 2022-11-23T11:35:00Z

@@ -24,22 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "New artificial intelligence blood test technology to detect liver cancer"
-    excerpt: "A new artificial intelligence blood testing technology developed and used by researchers of Johns Hopkins Kimmel Cancer Center to successfully detect lung cancer in a 2021 study has now detected more than 80 per cent of liver cancers in a new study of 724 people."
-    publishedDateTime: 2022-11-21T10:27:00Z
-    webUrl: "https://www.tribuneindia.com/news/health/new-artificial-intelligence-blood-test-technology-to-detect-liver-cancer-453225"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 36
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/11/2022_11$largeimg_1353732715.JPG"
-        width: 600
-        height: 450
-        isCached: true
-
 secured: "YdZS1pMpRw8jtXaHEsVFk4btLTVxeO56Yi9i3EMrRVLh3IdIfVZY55xfAjPGZeDj4tsrGe4OYY2sSI46A58Trrs44ZVMuOLS+Dh1UXj4pky379l8mMOCFu9knwEH9o/6JND60evUq2XvVgZ71NoIErgNXOjhW/48DHAGi23ViZAuL3Cas0dgLtAowmFXZmUzuJEEMLe5v5pjvrqUybrGOLgFTeS464XFbM5mE/jz1CmWINyAi8RyqBroAzAli5DILArPOXTNbb1/ETnzZMzjaD3dscHxicvPkwFmj9YoRzT/6sNga8hE+ja97V1Tg/b6taoYUV8wwT28BBfLH4pIp71aMrv/t+DUkKbAYqKuNDXMNWoAJxEZvtPu2sJwkUcJVR2maSomwuatgMR7m2bajpP2iEwLlH7DFuMwjkK9refyizBc3HLrRpTEkc2aeOuFahq8zCBZj+hx7zQfRb+pqMY2VEByMPEGNeTkrhATHCVozS81iM7cTmeAQ4rg518bTPMS3UpeG2ujmf0CnGb2vg==;Onh1REaSSZS/ClXT3ilgdg=="
 ---
 
