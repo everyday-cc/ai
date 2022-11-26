@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "In A First, Self-Driving Bus Experiment Begins In South Korea Capital"
-    excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment that engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
-    publishedDateTime: 2022-11-26T04:33:00Z
-    webUrl: "https://www.ndtv.com/world-news/in-a-first-self-driving-bus-experiment-begins-in-south-koreas-seoul-3554753"
-    ampWebUrl: "https://www.ndtv.com/world-news/in-a-first-self-driving-bus-experiment-begins-in-south-koreas-seoul-3554753/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/in-a-first-self-driving-bus-experiment-begins-in-south-koreas-seoul-3554753/amp/1"
+    excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment that engineers said aims to make people feel more comfortable with driverless vehicles on the roads. The new vehicle does not look like a regular bus and has rounded edges as well as large windows that make it appear more like a toy than a technological breakthrough."
+    publishedDateTime: 2022-11-26T06:51:00Z
+    webUrl: "https://www.daily-sun.com/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
+      name: Daily Sun
+      domain: daily-sun.com
     quality: 44
     images:
-      - url: "https://c.ndtvimg.com/2022-11/0817k60g_driverless-busessouth-korea-_625x300_26_November_22.jpg"
+      - url: "https://www.daily-sun.com/assets/news_images/2022/11/26/Seoul-ds.jpg"
         width: 650
         height: 400
         isCached: true

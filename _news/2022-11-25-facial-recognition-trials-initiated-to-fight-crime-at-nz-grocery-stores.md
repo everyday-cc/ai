@@ -39,6 +39,20 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "The Next Steps of Facial Recognition Technology"
+    excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
+    publishedDateTime: 2022-11-23T11:48:00Z
+    webUrl: "https://www.ft.com/partnercontent/incode/the-next-steps-of-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/incode/img/3/hero.jpg"
+        width: 1920
+        height: 870
+        isCached: true
   - title: "Supermarket violence: Foodstuffs trialling facial recognition technology to combat theft, assaults on staff"
     excerpt: "Supermarkets giant Foodstuffs is trialling facial recognition technology across its North Island stores as the rates of theft, burglary, robbery and other crimes continue to soar. The chain said the move was an attempt \"to proactively reduce serious incidents in stores and meet our safety responsibilities to customers and team\"."
     publishedDateTime: 2022-11-23T01:42:00Z

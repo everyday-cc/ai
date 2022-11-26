@@ -1,27 +1,27 @@
 ---
 category: news
 title: "In A First, Self-Driving Bus Experiment Begins In South Korea Capital"
-excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment that engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
-publishedDateTime: 2022-11-26T04:33:00Z
-originalUrl: "https://www.ndtv.com/world-news/in-a-first-self-driving-bus-experiment-begins-in-south-koreas-seoul-3554753"
-webUrl: "https://www.ndtv.com/world-news/in-a-first-self-driving-bus-experiment-begins-in-south-koreas-seoul-3554753"
-ampWebUrl: "https://www.ndtv.com/world-news/in-a-first-self-driving-bus-experiment-begins-in-south-koreas-seoul-3554753/amp/1"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/in-a-first-self-driving-bus-experiment-begins-in-south-koreas-seoul-3554753/amp/1"
+excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment that engineers said aims to make people feel more comfortable with driverless vehicles on the roads. The new vehicle does not look like a regular bus and has rounded edges as well as large windows that make it appear more like a toy than a technological breakthrough."
+publishedDateTime: 2022-11-26T06:51:00Z
+originalUrl: "https://www.daily-sun.com/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+webUrl: "https://www.daily-sun.com/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+ampWebUrl: "https://www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://c.ndtvimg.com/2022-11/0817k60g_driverless-busessouth-korea-_625x300_26_November_22.jpg"
+  - url: "https://www.daily-sun.com/assets/news_images/2022/11/26/Seoul-ds.jpg"
     width: 650
     height: 400
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 512
         isCached: true
 
-secured: "/j+jjKF3PRLHSwQjjX3mmCFY+9ME8071Ndh4EJcWVgGmA13lWxOf+/rzU5wy+yw/EG7nXTsOsMLtn2lkzPlxvuArGBcQG+eI3qkdMfp/qso2hqJldeBoP7eVMwvTDpMyswwYbc3mWmJQLrpT2q0oIpLCbHiDOR/5Ljx3gEPzj4XD+YEtmD8zjXxtqJs69ceXtSQr7GS0qWEWqfNHOdFhbEYu3+8zZeFLCJbipG2UWh0Y9zNDLJFPZVfIAtYHb7y5iJtX97FYQzveMw5igYikxfCun2LF6TyyMSiBdMaIHKec18ajk6F7u7KxltlMaqgUoYPa39+AJOqR/KXYJVk2dj9COncWx+4BddKuJx3wo1G7wqUyLH/HEk9ayqmM87f1HrElX4mZK+EDUN0VriwHIbHi9TePg7RWS4coCvFYBFM79DnHWHqpJXU4fegQxk6TFpVmf1XgqWySB0nwlIdITK0wIwP20wje40pHMTNzZDMr9oposMWQPz72dfXp5DfnNxLrT/HC8V1uId2fNrIUVQ==;9zupp+3T8bTD/nWEM77g3A=="
+secured: "lbqe1kHKrm6VUxjpdZqtrLSph8RDhSQLWRouI9goAwCpxXsqNFBve4lyX7n+s2YY5Ya6vkjPgGWpcAuJD8l84pAjXhBRS+JKaa5dzvNjZ/TpXlvTGwX+2DgosVWDDMehhwc2nZcFzoCRaofZaj4+MU+O1zBnD9g3GT/0fIG8rF737oKUmRa4efBNaWOKUO2czxZrxtu279fmcVg6gAW76xAJG2dSNeGur9VTbokfslMjsufK9j4PElPt+4N9Zt4Ga2RPP/LAsgKWpuGX9sKE9U524AFKHVTvmp5NCXW5blLu2QtlPgWemWSKfa+uWRnKUEcO0sgA+RdizT4FxtQ7zeZ1gupjd3FqKh4coDKCnik=;ntTR1cxhr67YwKTcZMRuCg=="
 ---
 
