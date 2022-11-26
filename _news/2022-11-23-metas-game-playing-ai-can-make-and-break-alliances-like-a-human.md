@@ -60,6 +60,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI Named Cicero Just Beat Humans At Diplomacy"
+    excerpt: "DeepMind's Go-playing AI is, for example, a“go god,” according to the Chinese grandmaster Ke Jie. Even the human go world champion would now lose 100-0 to the computer. Diplomacy is a simplified and abstract game, involving rival armies and navies ..."
+    publishedDateTime: 2022-11-26T06:24:00Z
+    webUrl: "https://menafn.com/1105235125/AI-Named-Cicero-Just-Beat-Humans-At-Diplomacy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/26/AT_94cf3image_story.jpg"
+        width: 600
+        height: 403
+        isCached: true
   - title: "Meta's board game-playing AI can pass as a human in game negotiations"
     excerpt: "An AI developed by researchers at Meta convincingly negotiated with humans while playing an online version of the board game Diplomacy. It was also ranked in the top 10 per cent of players"
     publishedDateTime: 2022-11-22T15:33:00Z

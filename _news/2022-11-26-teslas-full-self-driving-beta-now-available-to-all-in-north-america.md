@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
-excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
-publishedDateTime: 2022-11-22T14:58:00Z
-originalUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
-webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
+title: "Tesla's full self-driving beta now available to all in North America"
+excerpt: "Tesla Inc's Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight."
+publishedDateTime: 2022-11-26T06:44:00Z
+originalUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314"
+webUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314"
+ampWebUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
+cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
 type: article
-quality: 19
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: tbsnews
+  domain: tbsnews.net
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/11/26/bloomberg.jpg"
+    width: 600
+    height: 314
+    isCached: true
 
 related:
   - title: "Tesla Full Self-Driving Beta is now available to all owners in North America"
@@ -32,22 +40,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla's full self-driving beta now available to all in North America"
-    excerpt: "Tesla Inc's Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight."
-    publishedDateTime: 2022-11-26T06:44:00Z
-    webUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314"
-    ampWebUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/11/26/bloomberg.jpg"
-        width: 600
-        height: 314
         isCached: true
   - title: "Tesla's Full Self-Driving Beta now available to all in North America, Musk says"
     excerpt: "Tesla’s Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight. We apologize, but this video has ..."
@@ -221,6 +213,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
+    excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
+    publishedDateTime: 2022-11-22T14:58:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
   - title: "Tesla just unlocked its full self-driving mode beta in downtown Toronto so look out"
     excerpt: "Today in things that might not end well for Toronto pedestrians, Tesla just lifted a geofence that, until now, prohibited drivers from using Full"
     publishedDateTime: 2022-11-22T13:14:00Z
@@ -231,6 +232,6 @@ related:
       domain: blogto.com
     quality: 13
 
-secured: "jKP+qFn3tJapplOPlai/u4W1Z184UhOF9/rCY4ZRnWp8V3ZQaFYqTQdUxBL4/uvVcKVh3iVsW0wFslZvCr1LQp3T6IrX7N8F47Xk+fUmQx3mqJFiQ/sS6wRPTzZ9m+Whau3Qs5MB8wgOLM/GWLF35fakXzQQWbmnrqkgpy8UpP0BRBFF/U8B6kSa30MZVOLC2eNuRhShBxnR/dkoPas5+0phVxhaOwReX12rK7Gi79gxw/zGRjgPa+Fhzj6HBcqDmoahxMSlzQ5jAXed+aweXpzsAuzQumTobvqOouqg9c3cWCBHB1V9U7umExOwIK8us5KNlfN09Empe5O1aMsd2PkCbAWA1VfvEuOy+NbDozKHU6/DABcLLeq+FPG0McvOzff6Q+vEde/QEE+fQXPq0/1gzXSW8IZW5kpsFwtF+qMnHoqqr3EscluNQ8cby1rra2KdnZjJpyWe9jApmwmJ3n/C12m+lbtoVD+3K/WlNMcvstQDnCvRFAi+y8eNS0jcsVI3o1NHLl6ZOK5VBoVJpw==;CmyvsjdchkeAPTirurAEDg=="
+secured: "Fl73zuHBSzI9CAmKlt36WGOv4cqJ2Hqxy/DTuFj9JTPEM1guGfIipeqDC4CFpDrfEYLCzRqdgn/ElmlmhwZc3MGhcG8tW18bY/gqYJqeXzNAsKk8Bi85BUyqCqOEmD+Y87TcEizmayXh9XFUO2nN06e6jjU9J8D+7z8gSX+OG+iklFjQCrwtZY6Bs7fC6T1RajdSNTTlta1SJxLl3e63xEPyjEZBQSCvVGLtlmOg7kC2tdRY70f2sf9QA2Bb2gU0995hP3lMQPg7pp8+0Ghf7r0fn5l0VHXtfn2SyrEq29I/IQ8L/Trj/zczr3xpHWQkQqpfiB8lXJ4F4cU3bq7MepIt6RoTZluM+5ybilwcSOI=;ODTIzIpsFDWDlTF6tcBkYw=="
 ---
 

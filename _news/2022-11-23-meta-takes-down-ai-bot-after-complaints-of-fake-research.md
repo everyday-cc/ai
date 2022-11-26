@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta pauses AI bot Galactica demo after complaints of fake research"
+    excerpt: "Facebook's parent company Meta shut down its artificial intelligence (AI) bot Galactica following complaints from users that it was faking research papers. Galactica was introduced as a bot that can \"summarise academic literature,"
+    publishedDateTime: 2022-11-23T16:51:00Z
+    webUrl: "https://inshorts.com/en/news/meta-pauses-ai-bot-galactica-demo-after-complaints-of-fake-research-1669222341001"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/meta-pauses-ai-bot-galactica-demo-after-complaints-of-fake-research-1669222341001"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-pauses-ai-bot-galactica-demo-after-complaints-of-fake-research-1669222341001"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/11_nov/23_wed/img_1669219929214_951.jpg?"
+        width: 1080
+        height: 717
+        isCached: true
   - title: "Critics reject Meta-trained AI made to make scientific research easier"
     excerpt: "Galactica, formerly known as Facebook Artificial Intelligence Research is an artificially intelligent tool developed by Meta that was rejected by scientists as soon as it came to"
     publishedDateTime: 2022-11-24T13:12:00Z

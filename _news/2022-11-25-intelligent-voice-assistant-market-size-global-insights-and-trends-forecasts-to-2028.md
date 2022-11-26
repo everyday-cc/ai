@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market 2022: Industry Insight, Drivers, Applications, Global Analysis and Forecast by 2027"
-    excerpt: "Voice and speech recognition is a technology used in various devices such as smartphones, cars, and computers to receive and interpret the human voice and carry out spoken commands. Voice and ..."
-    publishedDateTime: 2022-11-21T14:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29804928/voice-and-speech-recognition-market-2022-industry-insight-drivers-applications-global-analysis-an"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29804928"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29804928"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.abnewswire.com/uploads/1669016019.jpeg"
-        width: 1000
-        height: 550
-        isCached: true
   - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
     excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
     publishedDateTime: 2022-11-24T03:27:00Z

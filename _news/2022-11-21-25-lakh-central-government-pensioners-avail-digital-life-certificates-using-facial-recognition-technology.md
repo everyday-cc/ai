@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/25-lakh-central-government-pe
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/25-lakh-central-government-pensioners-avail-digital-life-certificates-using-facial-recognition-technology/article66165100.ece/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -57,26 +57,6 @@ related:
         width: 1920
         height: 870
         isCached: true
-  - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
-    excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
-    publishedDateTime: 2022-11-21T14:31:00Z
-    webUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
-    ampWebUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 24
-  - title: "Centre Promoting Digital Life Certificates For Pensioners Via Face Recognition Tech: Minister"
-    excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and 'ease of usage', Union Minister Jitendra Singh said on Monday."
-    publishedDateTime: 2022-11-21T14:52:00Z
-    webUrl: "https://www.ndtv.com/india-news/centre-promoting-digital-life-certificates-for-pensioners-via-face-recognition-tech-minister-3540928"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 8
 
 secured: "hDdc2w5YqhJ0VwbZlrXLDtYLeOisHS9oB4OToEi9Lb2bAFudVoDFsCqMvStbTEeX8/ZE7eipNu2KuIHEoulONaFhFCShHFLO5V396Q7W4Ie3Syw2Ea9epUM/rMSxoOFZfLLpZ0OQTawLP22f8ZtUdVe+S9CMcPSU521bCWMPqBAhio2mOWy9lyYtO7K3siIqlkM5HJKD5sRia9I7nCkyyCcs5tDqDxt7Vwbi/Bg6rkxIM1JvevfzcY3W0kPiF5TjJfYFFKkPlt3f86cW+CeFfVhRxhJg6xMx3wCXOI15ooc9nZENDbC90il2s0amYTuyduS5FhnSjwn23xQErJi+tDuDL7d7dKe79DtcnrDzDIthTecaozSbZEFMzPscq6urXAeeVzhDh/pBsGVV6cuK9ggxoj/VUuJnJl5xAUNXIx2C5hfx4Cots+64PEKP1J5eO0apTiiVQVN4bMW2j1+MA+/OI+VF/sD8lVlp9NAwdWsapv6vc2r3Hnfh9ozSl8N3mb3ZI4QPJe2WGsAkIbAsZg==;y92TbtRakeRtwbEMTe7SOw=="
 ---

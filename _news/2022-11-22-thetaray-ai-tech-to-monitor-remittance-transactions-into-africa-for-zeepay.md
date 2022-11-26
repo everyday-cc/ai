@@ -47,15 +47,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "ThetaRay AI Tech Continues Global Awards Sweep"
-    excerpt: "It marks the second regional award for ThetaRay this year after recognition from the UAE financial community as AML Solution Provider of the Year, in addition to previous awards in Europe and Asia. The CrossTech World 2022 event brought together international financial services companies - as well as new sectors that are changing the face of the industry,"
-    publishedDateTime: 2022-11-21T13:30:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717509.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "6AuCXGzZPj8OqrRM2hSHYakRlD8kgOiIT2w5WSI7s67I3fK9XP22W/isJQF7krfc9tba5FbAZpihgUjnleANDpLTseKR8HKoaZLEGtxyLBr5MEzcXPHlljMwhKzoimZSsEozTcrsIGxVKKqsW+OxjSDPbMXrHk9pSh/8A9UJXJPBqvz3lrTReqrnrh/DQ2wRvfmayOG7qzy9pLvOcYh29EP5OcjLgC5yAGX8QeT81wuMmz7YpmLAhk3DjEYXpe/yW/R3ulwJYT90MS5t0J2EHgvVR2gEAfTj+VJyICzEZ+qx/XESR6cBpeJ/Kz3hSxm6hK7Ni2+/e/D9OggAuBvpEw/TxtauddfjaMoIXOZQyuUrNwn0ofLSEw0fXxdA8vxQOtrbb7aZS/kWc0/cV4CD3O89D+8pZHdmRToyy9J2CusHG4JEFgWhHGUKJpwX9aOnJj5yIMFrRtL/qiY5f0mphGK+9qimmtezjpSsOqVfkSdFn+SiZc6uRsnI7ftH8FmYSt/XyUFKlg1uWjsfvM43nw==;0KBUQ8cuDIZ1tMKhEQEO7g=="
 ---

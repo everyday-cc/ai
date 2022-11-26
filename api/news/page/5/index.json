@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-18-5-jobs-that-could-be-taken-by-artificial-intelligence-in-the-next-10-years.md",
+      "title": "5 Jobs That Could Be Taken By Artificial Intelligence In The Next 10 Years",
+      "excerpt": "The thing is though, the uses of AI go much, much further than making pretty pictures. We’re seeing the use of artificial intelligence grow all the time, across all different sectors of the economy. This is likely to end up with many jobs as we know them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637652b1faac083553360160/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
+      "publishedDateTime": "2022-11-18T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
       "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
       "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
@@ -1140,59 +1194,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-speak-lands-investment-from-openai-to-expand-its-language-learning-platform.md",
-      "title": "Speak lands investment from OpenAI to expand its language learning platform",
-      "excerpt": "Prior to starting Speak, the two spent a year studying and researching machine learning and developing accent detection algorithms using YouTube videos as training data. “Most language learning software can help with the beginning part of learning basic ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/",
-      "originalUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/image_Wifi3R_2022Q1_22H024x007_007_Chatham.max-1000x1000-1.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/",
-      "publishedDateTime": "2022-11-17T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

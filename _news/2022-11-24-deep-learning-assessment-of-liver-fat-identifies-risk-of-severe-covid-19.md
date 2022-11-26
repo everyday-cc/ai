@@ -26,17 +26,6 @@ images:
     height: 278
     isCached: true
 
-related:
-  - title: "Researchers Assess Federated Learning Models for COVID-19 Diagnostics"
-    excerpt: "Researchers from the University of Minnesota are evaluating how federated learning models may be used for COVID-19 diagnosis through chest X-rays."
-    publishedDateTime: 2022-11-21T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/researchers-assess-federated-learning-models-for-covid-19-diagnostics"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 4
-
 secured: "/JG/zyNOWcOPqf/euVIALos8S+qNvEHbTWar70SsuK7pgyBOJUvveelVZoNvyxSPSLW+tTuRLHVGbecAVa3ebuGS1WxHrlfa1i0+vYKQpbJF6fhptLika7rwOVEm766++Dns9mZM6aGGeqrR91+GqsE50fTANwu1SYCOFrvg/Pm+E/xgEgRRgEkqHlx/4uTWXhrC1IeJIpOuaQ23bFwU6rYUh2KnIe2SxwzhxdSwHNZSOxBlFZRbbrBOQ1xq/kkGV5w7bWqXzN+/12Ve+BqFF1idh0/hMtDIzkbcgBwEGLfiFXCWYJr+1VwA+7cykiEkdceFgDXcBzzh1+FS7yyEZLPomOTNMQIJsuEAoRsMBYqqByyzMRwqhQoMp/LfyV0oFceHxglIKTM3wdqtDc+5OkCzX06XSjBo23BOZoFiNjkDY/wRbULsTZxq33x4blNOcCTyT9Vh2bHfqE2BAWSxkq31LJfghGeWNNCWUWiAG/vcut5K75k33vIN3lU842PSwDfPvCPTOKJOQ/XhiIDfgQ==;TiQH6FFG+/c0b6k8QkBPJQ=="
 ---
 

@@ -57,26 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
-    excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
-    publishedDateTime: 2022-11-21T14:31:00Z
-    webUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
-    ampWebUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 24
-  - title: "Centre Promoting Digital Life Certificates For Pensioners Via Face Recognition Tech: Minister"
-    excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and 'ease of usage', Union Minister Jitendra Singh said on Monday."
-    publishedDateTime: 2022-11-21T14:52:00Z
-    webUrl: "https://www.ndtv.com/india-news/centre-promoting-digital-life-certificates-for-pensioners-via-face-recognition-tech-minister-3540928"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 8
 
 secured: "YZ4wL/Yzf7BgQ35CYQt2m0z7ExRgUSITr5stTt/+Vqunja7/ZDOhxWO1ZZQZqsNVjE7q2BDoQgWonwrjrgD5kau3UbWfzbmFJF6OA9ia/XiZ5m1EZrEzXSGMf3OvhC//QZsF0TfHqX/lRWHHGud0LJEHzoYZQpH35VagvVVKixyKCAZzNolS++vtV2zRyLwiplnNo0uJ77/480Aud7KyJHu0ONSA1e8x2Vcrkla+im3tCEmTWKrJmSuh4qb4GNa9ygpNqBHlcI7CfBMXb8T6A26FLqveD9fT345xPH/bUkzzA2sAOrGc6FoFz5jmRx2KzRE8g9dD/ToA77olux1KC8Hqt6vXQPIPhNCVyXPEPqs=;IapYc/4BQMJCBQL7K9ZoWw=="
 ---

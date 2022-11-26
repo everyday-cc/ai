@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's full self-driving beta now available to all in North America"
+    excerpt: "Tesla Inc's Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight."
+    publishedDateTime: 2022-11-26T06:44:00Z
+    webUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314"
+    ampWebUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 74
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/11/26/bloomberg.jpg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta now available to all in North America, Musk says"
     excerpt: "Tesla’s Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight. We apologize, but this video has ..."
     publishedDateTime: 2022-11-24T16:06:00Z

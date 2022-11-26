@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market 2022: Industry Insight, Drivers, Applications, Global Analysis and Forecast by 2027"
-    excerpt: "Voice and speech recognition is a technology used in various devices such as smartphones, cars, and computers to receive and interpret the human voice and carry out spoken commands. Voice and ..."
-    publishedDateTime: 2022-11-21T14:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/ab29804928/voice-and-speech-recognition-market-2022-industry-insight-drivers-applications-global-analysis-an"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29804928"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29804928"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.abnewswire.com/uploads/1669016019.jpeg"
-        width: 1000
-        height: 550
-        isCached: true
 
 secured: "S/VuEDxtfufJF4UdFI7TDMAeJgHa0VNEaeqDvuedgEdcgBAS6klv5AW4ozOcf6TQ4i4SV7UJYa0234RzE0Nm7V4OswBCqyXYxDnBgevkvJrAU/M9ltSNzPVIR3MO+2Ojwinj3nyAvlauTfWNxEAWmdZH3Iow/cYd/8Wl7GgkkMSL8K4XkMfrhov8+HuFef8w8XvNtLwobO1HgUY7ejI9Wd/sAQ06s72ZHDRMXh1JhcIdLGu5MDbjd6K0q7QlLEWYyN1VAWwCIY3l2SeXn2EXs0D93tmxIv1k1NEJ+PvagJhTeJ9H1xUV7jLAnrtMKLgUla5VGaTkHfPxJ7Awf5yyPA7djN6iZU21Wyd/iJjgP9g=;TbLflBDNtxfU8D3fJRX3Vg=="
 ---

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-22-the-speech-jfk-never-gave.md",
+      "title": "The Speech JFK Never Gave",
+      "excerpt": "While the bulk of the speech is no longer timely – budget spending, politics, issues of the day, and so forth – his main ideas and philosophies most certainly are, especially in our current political and social environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63715fb816756bee83fa64ef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 970,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
+      "publishedDateTime": "2022-11-21T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-india-assumes-chair-of-the-global-partnership-on-artificial-intelligence.md",
       "title": "India assumes chair of the global partnership on artificial intelligence",
       "excerpt": "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place",
@@ -355,7 +407,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/25-lakh-central-government-pensioners-avail-digital-life-certificates-using-facial-recognition-technology/article66165100.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1162,58 +1214,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-waymo-can-now-provide-fully-driverless-rides-in-san-francisco.md",
-      "title": "Waymo can now provide fully driverless rides in San Francisco",
-      "excerpt": "Waymo can now provide driverless rides to passengers in San Francisco. On Friday, the California Public Utilities Commission (CPUC) said it granted the Alphabet-owned Waymo a permit to participate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california",
-      "originalUrl": "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/nKYxlCmZtKON5e89PGJxO0QiW0w=/0x0:5154x3372/1200x628/filters:focal(2717x1815:2718x1816)/cdn.vox-cdn.com/uploads/chorus_asset/file/24211424/1390904981.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-19T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

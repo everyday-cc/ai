@@ -39,15 +39,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "ThetaRay AI Tech Continues Global Awards Sweep"
-    excerpt: "It marks the second regional award for ThetaRay this year after recognition from the UAE financial community as AML Solution Provider of the Year, in addition to previous awards in Europe and Asia. The CrossTech World 2022 event brought together international financial services companies - as well as new sectors that are changing the face of the industry,"
-    publishedDateTime: 2022-11-21T13:30:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717509.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "ThetaRay AI Tech to Monitor Remittance Transactions Into Africa for Zeepay"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced that Zeepay, a fast-growing Ghanian mobile financial services company, has selected ThetaRay’s advanced SONAR SaaS anti-money laundering solution to detect financial crime for its remittance transactions."
     publishedDateTime: 2022-11-22T08:00:00Z

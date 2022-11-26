@@ -57,26 +57,6 @@ related:
         width: 1920
         height: 870
         isCached: true
-  - title: "Centre promoting use of digital life certificates for pensioners through latest face recognition tech"
-    excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and ‘ease of usage’, Union Minister Jitendra Singh said on Monday."
-    publishedDateTime: 2022-11-21T14:31:00Z
-    webUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/"
-    ampWebUrl: "https://theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/centre-promoting-use-of-digital-life-certificates-for-pensioners-through-latest-face-recognition-tech/1228398/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 24
-  - title: "Centre Promoting Digital Life Certificates For Pensioners Via Face Recognition Tech: Minister"
-    excerpt: "The Centre has been promoting the use of digital life certificates for pensioners through the latest face recognition technology to ensure transparency and 'ease of usage', Union Minister Jitendra Singh said on Monday."
-    publishedDateTime: 2022-11-21T14:52:00Z
-    webUrl: "https://www.ndtv.com/india-news/centre-promoting-digital-life-certificates-for-pensioners-via-face-recognition-tech-minister-3540928"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 8
 
 secured: "ULJeMnwDWfqAAnFD4cA3viOWw7EUBFNJjJS+qLfMu40Ba0WoiiytDaqAnlPh2lfOOR1rL8VI9zTfyWyzM6WRmoStutQ9ZMFvTzCfDiJ28rlg1Gel3eX6n2WpiNtDeQoTb2ZHgNHMkO1ckN/uyVRg8yLpcC5PH2MhhCxsD4woOjyvhaxwnqANtikPrsz1pHw1tw7sxNvYfEDcKSYhXewCcCFGuzR86U+zON5eqMWHiByqIUjFd8K0GpqhH1Hv+9y6HUnJg6szW9L9yFamUg8YNnDLSpln5Q9i7RIAiPLhHA6WUNqVQ34s64hcA80bKYbCRB/RC+cWrouIUzb0rmzOXrNs0fRYHmKq1dLfwJgM5gP0m+a5MvM8Bz6o1Cqw5001Uy/Sf71qQ/IKk9upFWgOeklYe5C3KMN6QPORdMSlkuCnviWO2TFCp+/BMWxuBuyFpxyV4CcKp2jjz/JNjpQgaShba6Y5dl42CotVyPhVGkP4DDZh+pbVrt4nn3xaQJNqiZvoK1X2TuOewJ7avN3Q6Q==;rBf4QC9iE2kbV9t9Rb8NvQ=="
 ---

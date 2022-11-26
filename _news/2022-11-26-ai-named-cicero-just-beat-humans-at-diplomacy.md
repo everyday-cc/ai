@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Meta launches Cicero, an AI that can play Hasbro’s ‘Diplomacy’"
-excerpt: "The AI agent uses natural language to achieve diplomatic resolutions among human players. Meta AI this week announced the development of Cicero, which it"
-publishedDateTime: 2022-11-24T10:12:00Z
-originalUrl: "https://www.techzine.eu/news/applications/95237/meta-launches-cicero-an-ai-that-can-play-hasbros-diplomacy/"
-webUrl: "https://www.techzine.eu/news/applications/95237/meta-launches-cicero-an-ai-that-can-play-hasbros-diplomacy/"
+title: "AI Named Cicero Just Beat Humans At Diplomacy"
+excerpt: "DeepMind's Go-playing AI is, for example, a“go god,” according to the Chinese grandmaster Ke Jie. Even the human go world champion would now lose 100-0 to the computer. Diplomacy is a simplified and abstract game, involving rival armies and navies ..."
+publishedDateTime: 2022-11-26T06:24:00Z
+originalUrl: "https://menafn.com/1105235125/AI-Named-Cicero-Just-Beat-Humans-At-Diplomacy"
+webUrl: "https://menafn.com/1105235125/AI-Named-Cicero-Just-Beat-Humans-At-Diplomacy"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: techzine
-  domain: techzine.eu
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - Natural Language Processing
+  - Google AI
   - AI
 
 images:
-  - url: "https://www.techzine.eu/wp-content/uploads/2019/09/shutterstock_678583375-7.jpg"
-    width: 1000
-    height: 667
+  - url: "https://menafn.com/updates/pr/2022-11/26/AT_94cf3image_story.jpg"
+    width: 600
+    height: 403
     isCached: true
 
 related:
@@ -53,19 +53,19 @@ related:
         width: 850
         height: 480
         isCached: true
-  - title: "AI Named Cicero Just Beat Humans At Diplomacy"
-    excerpt: "DeepMind's Go-playing AI is, for example, a“go god,” according to the Chinese grandmaster Ke Jie. Even the human go world champion would now lose 100-0 to the computer. Diplomacy is a simplified and abstract game, involving rival armies and navies ..."
-    publishedDateTime: 2022-11-26T06:24:00Z
-    webUrl: "https://menafn.com/1105235125/AI-Named-Cicero-Just-Beat-Humans-At-Diplomacy"
+  - title: "Meta launches Cicero, an AI that can play Hasbro’s ‘Diplomacy’"
+    excerpt: "The AI agent uses natural language to achieve diplomatic resolutions among human players. Meta AI this week announced the development of Cicero, which it"
+    publishedDateTime: 2022-11-24T10:12:00Z
+    webUrl: "https://www.techzine.eu/news/applications/95237/meta-launches-cicero-an-ai-that-can-play-hasbros-diplomacy/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: techzine
+      domain: techzine.eu
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2022-11/26/AT_94cf3image_story.jpg"
-        width: 600
-        height: 403
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/shutterstock_678583375-7.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Meta's board game-playing AI can pass as a human in game negotiations"
     excerpt: "An AI developed by researchers at Meta convincingly negotiated with humans while playing an online version of the board game Diplomacy. It was also ranked in the top 10 per cent of players"
@@ -91,6 +91,6 @@ related:
       domain: technologyreview.com
     quality: 17
 
-secured: "VQGky4pCKRQ0WR0yaESwfRjBeprjOa0vNDPbIAW8e9onjMPNwqdjUAgPht0o57DGYkGG81IRNU1skGAW2lkDKhmH/Mnc6jwNmcw/yVDyuvf+s8564kdzr2pXXQjcZnkkzFAnkx9QCQZYyeLnLbw36XyObTNdf1iTSVu8QHOZIh0klqAuttpbVGs4Gmk6aMNHogTP5uIlRFYpeCM8UY4OPmawDXAmBd3D8sXSVNDO83iiODNJcMHQrdzyKBbUxNDngk1V5WWN3ydkSki2urt58s6Ei0VUDn8RvDbC0HJqJ9l/rEw5Jcjv+791yqW6xmRNIIa0Gz7q0Oo7O6cxzogaTU1aI3fUr9jd4IjWCf+EIWWo4a2mWhC7SdRU69K27qRDRGprME59oNAidDO4OVUJDvOqJ9bgo+kCr7tGGv6aZqex8tQW//B1BfJ9qSxkYhRvoJfljQ3qbxhv9FKmB1Wlbb39LOKi7GFUMhnH3PAU6tNxbflxwrSiQXtFPkE/KT1EfIl+zoJLF9KUbdwGwXj8ng==;YJc8UzPNP0loLoxxnsp8hw=="
+secured: "rfQF9AhZwS89mpCL1mAD7qACqKXoGMsuCTem0T0s2T8a75zSH7y3d/izsRREgbNYjQLI4enyDgPyUsoa+XeoJsDXjTtStEmuH3mAJdTDZcK8Tkf+l1S1QMSbAeKNjFgCLL27zaGd0i7l5O+2g5e9TMSLvJqmrkRIxVPdkVFYb7DT5eqKYFo7fzi8j8SnAjky6IfOdZTTioMb5hasaujomD43eB69O4eiSTouso1vAXW1kmg9nR9QjCYHzDHAvnTW1BTHnEPD1AtugFhfg93k3HALkEQYcz6MObdjBeytd6tT3T2flbZR48Mjc+Il1YCQmJ3GmeUmY9Mm/Zg0x8WzvWCffppfX/58BKpqINpJ6jw=;AcOU8yoAx+JSBAQxNoeDsg=="
 ---
 

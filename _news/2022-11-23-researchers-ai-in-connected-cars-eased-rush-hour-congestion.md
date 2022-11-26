@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
-publishedDateTime: 2022-11-22T17:08:00Z
-originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
-cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+excerpt: "In the experiment, specially equipped cars were able to ease rush hour congestion on Interstate-24, researcher Daniel Work said on Tuesday. In addition to lessening driver frustration, Work said less stop-and-go driving means fuel savings and,"
+publishedDateTime: 2022-11-23T10:51:00Z
+originalUrl: "https://www.chron.com/news/article/Researchers-AI-in-connected-cars-eased-rush-hour-17605745.php"
+webUrl: "https://www.chron.com/news/article/Researchers-AI-in-connected-cars-eased-rush-hour-17605745.php"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
-    width: 1280
-    height: 853
+  - url: "https://s.hdnux.com/photos/01/30/37/71/23199349/3/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -72,6 +69,6 @@ related:
         height: 500
         isCached: true
 
-secured: "YLFJ7XCVF+ZdGVtl3XauRgA81UHDE9pYhwbSFYlBeu8ByLJzROAgStHzBk6PqaNT2o3ucNamh44uyhxVyFCq8ik1Z6XxNhJ53W677gLCW/4RrRloWj1/G6jevr07WY1QCIxucv8tgyZK9Wrsbbseip6HnHSlVrSbYSZEgS/SydJQUaYpuuyR7GGLmp6veNEAp6qk9s/QH0W2xxHLP9a/4H7MeP1V2jE9mNEa3BQas1/akbWsvxA3+kWbOPweInQFHIGusA75FbX2nPwJg1pdf3VtmOV8CAB7xgrCVNTlNGFEwnJCPYfgarPknnVZHM3vD/LPE0i36Nq8+E72VPzBEj9KLoGsXRPA/vhQopMML60=;KqKTrF3Q3ePWytqy3MfQrg=="
+secured: "6RZRfQ0+wRX0+EFP7ihnSaYnIMf1LCFTxn7FqXxTqb+qAyWM/Ne2i+ho+efrYogDpNpT0Ev5Fkrbunmw728KtFdM9O4pkmijkixcTvK0uh/U76k/Qe7ZXRAI/FrAxF5K6zT4Ur1RLsG2Qd0nKJV43fAcLsSlHaf/oGZcK8Q/gfErGhEMK/AL0KwgRxj2Tf6ixPHEksguO/ZwJsl+Swzn2jtr7aFDBrc9m9lP379UmU/PDdqDEcUfDV3zJx6obpBum48/FQPS+Ue2Pj9bvndtBvCdF0Ewrko9Oc85nif66jIL5N89FmeQOBdZJ75QtEd6vShZJxpEMpyX3vW+yZSovLjnQVFLnOARHnRcp+1fU7k=;pSxch7myAvZDglkUzXXfjQ=="
 ---
 

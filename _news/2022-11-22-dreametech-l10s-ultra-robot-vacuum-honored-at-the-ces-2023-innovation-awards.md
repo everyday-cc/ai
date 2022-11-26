@@ -44,22 +44,6 @@ related:
         height: 500
         isCached: true
   - title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
-    excerpt: "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip."
-    publishedDateTime: 2022-11-21T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29807523/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29807523"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807523"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png"
-        width: 608
-        height: 342
-        isCached: true
-  - title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
     excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
     publishedDateTime: 2022-11-21T16:54:00Z
     webUrl: "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"

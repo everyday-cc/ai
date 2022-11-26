@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-18-speak-lands-investment-from-openai-to-expand-its-language-learning-platform.md",
+      "title": "Speak lands investment from OpenAI to expand its language learning platform",
+      "excerpt": "Prior to starting Speak, the two spent a year studying and researching machine learning and developing accent detection algorithms using YouTube videos as training data. “Most language learning software can help with the beginning part of learning basic ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/image_Wifi3R_2022Q1_22H024x007_007_Chatham.max-1000x1000-1.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/",
+      "publishedDateTime": "2022-11-17T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-lyft-and-motional-to-offer-driverless-taxi-rides-in-los-angeles.md",
       "title": "Lyft and Motional to offer driverless taxi rides in Los Angeles",
       "excerpt": "Lyft and Motional have announced plans to launch a driverless ride-hailing service in Los Angeles using Ioniq 5 EV Level 4 robotaxis. Los Angeles will be the second city serviced by the two ...",
@@ -1116,58 +1169,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022.md",
-      "title": "The Information Names Shanghai Bangbang Robotics as One of the Top 50 Most Promising Startups 2022",
-      "excerpt": "BangBang Robotics has a current company valuation of approximately $83 million and is on track to triple its revenue in 2022. With its pioneering development of artificial intelligence (AI) enabled electric wheelchairs, the company has been included in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1949937/The_Information_IT50_Shanghai_Bangbang_Robotics_A_Wheelchair_Maker.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://fudzilla.com/news/ai/55864-meta-fires-galactica-ai-over-co
 webUrl: "https://fudzilla.com/news/ai/55864-meta-fires-galactica-ai-over-controversial-life-choices"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Meta’s Galactica missteps mean for GPT-4 | The AI Beat"
-    excerpt: "Meta’s missteps over its Galactica demo and Stanford's debut of its HELM benchmark followed weeks of rumors about OpenAI’s GPT-4."
-    publishedDateTime: 2022-11-21T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/DALL·E-2022-11-20-10.35.38-the-thinker-statue-in-a-bright-galactic-universe-.png?w=1200&strip=all"
-        width: 1199
-        height: 872
-        isCached: true
-  - title: "Meta pauses AI bot Galactica demo after complaints of fake research"
-    excerpt: "Facebook's parent company Meta shut down its artificial intelligence (AI) bot Galactica following complaints from users that it was faking research papers. Galactica was introduced as a bot that can \"summarise academic literature,"
-    publishedDateTime: 2022-11-23T16:51:00Z
-    webUrl: "https://inshorts.com/en/news/meta-pauses-ai-bot-galactica-demo-after-complaints-of-fake-research-1669222341001"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/meta-pauses-ai-bot-galactica-demo-after-complaints-of-fake-research-1669222341001"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-pauses-ai-bot-galactica-demo-after-complaints-of-fake-research-1669222341001"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/11_nov/23_wed/img_1669219929214_951.jpg?"
-        width: 1080
-        height: 717
-        isCached: true
   - title: "Meta Shuts Down Public Test Of Galactica, Its ‘AI For Science’"
     excerpt: "Science took a usual and unprecedented advancement like the speed of light during the pandemic's first year. In the first"
     publishedDateTime: 2022-11-23T16:59:00Z
