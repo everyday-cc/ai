@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T16:05:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-neural-cloud-latest-chapter-the-girls-frontline-universe-/2022/11/25/9719663.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-neural-cloud-latest-chapter-the-girls-frontline-universe-/2022/11/25/9719663.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

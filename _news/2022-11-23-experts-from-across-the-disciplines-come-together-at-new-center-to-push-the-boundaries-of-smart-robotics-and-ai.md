@@ -9,7 +9,7 @@ ampWebUrl: "https://sciencex.com/wire-news/430637571/experts-from-across-the-dis
 cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp"
 type: article
 quality: 71
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI"
-    excerpt: "Experts ranging from advanced engineers to avant-garde philosophers are set to come together and follow in the footsteps of AI pioneer Alan Turing to design the super smart machines of the future at a new multi-disciplinary robotics centre based at The University of Manchester."
-    publishedDateTime: 2022-11-22T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/972176"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 49
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6de36144-50e8-4a43-a5d2-105755c4e78e/Rendition/low-res/Content/Public"
-        width: 700
-        height: 465
-        isCached: true
   - title: "Manchester AI summit aims to attract experts in advanced engineering and robotics"
     excerpt: "The Manchester Centre for Robotics and AI will be based at the engineering and materials facilities at The University of Manchester which will provide a state-of-the-art home for industry-leading research in AI-powered devices and be an “interface between robotics,"
     publishedDateTime: 2022-11-22T13:22:00Z

@@ -66,15 +66,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "6 ways health systems are using AI to improve patient care"
-    excerpt: "Hospitals are using AI to improve health outcomes, produce predictive clinical insights and improve patient care. Here are six artificial intelligence projects health systems have recently created and deployed,"
-    publishedDateTime: 2022-11-21T22:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/6-ways-health-systems-are-using-ai-to-improve-patient-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "ip5zXJxTeRcxgP1rFVTo5GU2Q+KwQrL1dx15BiHalR6D7noC4YIQMpFlu2mBZb2r26LOPdKrSULVPTMaThmbn0QjMf9y/IQX8Bh0ueV2Mmp+BwFtAR2ywLaI0B36yBx4caCJ0XcAdW2ax16lOtyjso9fMOycejIngbweRLMoDi/IaYmfeLIGvjaEOT+bM/ecEn2UuWNuaZiZJcmge2HXXLdQ4VGzdcxCq6xNJadXb2uM5D4YD3IDlorUHF49XBrRLErTRG3Mzb9v6XuFycvhzIi23zbMpyRtzohSRO8vrjWysj7daDdvOkSoJ4ORKrZrybH6m9i/dbpWbU8nEHKUMak8PwTKjIaMbLEz3u2eycB7qiRRF/rTzGRDErJkTyRbVVfmuOCFGYQ5bgl/DYglOKGzwxxeuvLRxgt3BewL6hT6CujppEl61m8fe0kHBUqvDQ+4m8i6wNMoQi5NM2uHSPVxy7xqQUtJL41AvzRZaAhwuQiP17xhV2hBag41xV0ePsvxCdroBkxxNYTyHeUsqw==;3J0WoKnq3/uvD4MeRg8Y0Q=="
 ---

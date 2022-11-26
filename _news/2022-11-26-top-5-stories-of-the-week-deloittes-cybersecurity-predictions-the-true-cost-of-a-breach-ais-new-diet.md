@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-26T13:00:00Z
 originalUrl: "https://venturebeat.com/security/top-5-stories-of-the-week-deloittes-cybersecurity-predictions-the-true-cost-of-a-breach-ais-new-diet/"
 webUrl: "https://venturebeat.com/security/top-5-stories-of-the-week-deloittes-cybersecurity-predictions-the-true-cost-of-a-breach-ais-new-diet/"
 type: article
+quality: 30
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Special Series Part 2: Billions Of Dollars Roll Into AI-Enhanced Cybersecurity"
+    excerpt: "The use of AI by cybersecurity startups isn't new, but as applications for the technology in the sector have grown, so has investor interest."
+    publishedDateTime: 2022-11-23T13:30:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-cybersecurity-series/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 33
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "kVkyD3S34kFLyXHswUVUhFcAlpo5YhArIWQUR+OU+WFlx8jiiu4oeBuZayGU3jDiVVkyni248L2GbdYln5DZ9a0fYcOwbl/opep/v55XTI1t3nInfVC8ITVZgUREDaQiHPLK4Psgiu6weX2Q2HebzbFRiYDntNnhev/YZJ7XJQwsfC915u07lD9U2fkE6Rcha1H6eqbZPUG70tPEqbzGzal65z5HlE93QFJVhJ4q3rbfEKd7radcHCTqoohHGC8qk+vR91dpOOLLl104C0ziH7x4vQZtY/Z0PQwuQ6dYdhevACn+etOmR5WsxJtirgKWREvcFgmyM6vAizwetkzCcSTNpdAC9ySTjv3DeHsp+bYkjvC1Fdsmii46siDSBepFOqlTjtWA0kiFCpGInlZjyr8HVm7Y4gVLe5sb1/8ejRIAHYmCCadzSM1UXmaYmhoaIHyisWbJapQd/Q5styLqB+qHB5VbB2pO+96gGT7v1kARRNt5+C7dMRAda2UyydlBKTEPRnRdP0BMVIFtIJqrkg==;hb76C19rzE64YeKOXq3k2A=="
 ---

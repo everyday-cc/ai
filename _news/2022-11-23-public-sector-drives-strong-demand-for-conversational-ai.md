@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Responsible AI’ Foundation Vital For New Zealand Organisations As Global Legislation Ramps Up"
-    excerpt: "New Zealand businesses should be aware of, and be responding to, increasing Artificial Intelligence regulations around the world. That’s according to a recent Accenture report that reveals a number of countries are about to introduce legislation defining when and how AI data and information can be used and stored."
-    publishedDateTime: 2022-11-21T22:25:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 28
   - title: "Public sector drives strong demand for conversational AI, with 222K+ users served on the Yellow.ai platform"
     excerpt: "The Yellow.ai platform has recorded over 13M messages exchanged between its Dynamic AI agents and end-users in over 233K sessions in the last two quarters Raghu Ravinutala, CEO & Co-founder, Yellow.ai said,"
     publishedDateTime: 2022-11-23T06:24:00Z

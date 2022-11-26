@@ -89,49 +89,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-23-it-is-still-too-early-to-use-artificial-intelligence-for-criminal-justice-claims-new-paper.md",
-      "title": "It is still too early to use artificial intelligence for criminal justice, claims new paper",
-      "excerpt": "Artificial intelligence is poised to reshape our world in countless ways and in almost every field. This includes the criminal justice system. Algorithm-based, data-driven decision-making is being increasingly used in pre-trial risk assessments in the United States as a tool to calculate a defendant's risk of reoffending.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-early-artificial-intelligence-criminal-justice.html",
-      "originalUrl": "https://phys.org/news/2022-11-early-artificial-intelligence-criminal-justice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-justice.jpg",
-          "width": 1920,
-          "height": 1893,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-early-artificial-intelligence-criminal-justice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-early-artificial-intelligence-criminal-justice.amp",
-      "publishedDateTime": "2022-11-22T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-11-23-om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai.md",
       "title": "OM1 Aims To Improve Healthcare Outcomes Through Big Data And AI",
       "excerpt": "Dr. Richard Gliklich has been working to improve the management of chronic conditions by analysing health outcomes data since 1999. He is the founder and CEO of OM1, a health outcomes and registries company focused on the measurement,",
@@ -140,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1395,6 +1352,49 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-artificial-intelligence-in-healthcare-market-to-witness-huge-growth-by-2026-report-spread-across-96-pages.md",
+      "title": "Artificial Intelligence in Healthcare Market to Witness Huge Growth by 2026- Report Spread across 96 Pages",
+      "excerpt": "[Report Pages No 96] In 2022, What is “Artificial Intelligence in Healthcare Market” Insights? In 2022, the growth of Artificial Intelligence in Healthcare Market is projected to reach Multi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-to-witness-huge-growth-by-2026-report-spread-across-96-pages",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-to-witness-huge-growth-by-2026-report-spread-across-96-pages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/COP27-climate-talks-Globe-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

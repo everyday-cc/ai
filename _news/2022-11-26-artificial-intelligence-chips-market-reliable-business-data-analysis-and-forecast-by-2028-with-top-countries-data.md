@@ -1,12 +1,12 @@
 ---
 category: news
-title: "In-vehicle AI Robot Market 2022 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2028"
-excerpt: "In-vehicle AI Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
-publishedDateTime: 2022-11-23T03:49:00Z
-originalUrl: "https://www.marketwatch.com/press-release/in-vehicle-ai-robot-market-2022-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2028-2022-11-22"
-webUrl: "https://www.marketwatch.com/press-release/in-vehicle-ai-robot-market-2022-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2028-2022-11-22"
+title: "Artificial Intelligence Chips Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Chips Market \" Insights 2022 - By Applications (HPC AI Chips, Terminal AI Chips,"
+publishedDateTime: 2022-11-26T12:47:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-26"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-26"
 type: article
-quality: 54
+quality: 62
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
 images:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chips Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Chips Market \" Insights 2022 - By Applications (HPC AI Chips, Terminal AI Chips,"
-    publishedDateTime: 2022-11-26T12:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -80,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In-vehicle AI Robot Market 2022 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2028"
+    excerpt: "In-vehicle AI Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-11-23T03:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/in-vehicle-ai-robot-market-2022-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2028-2022-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -171,6 +171,6 @@ related:
       domain: marketwatch.com
     quality: 29
 
-secured: "+zNH5lkrFxSUOUMtZTzL53liXjm7LLAuZculxAwtV1dh2y945hiHPijjI3Nt3xQoKkWYJBRoYzHtfBLKnDtVjjRWk0j0EDpBWT+LbAxbmFtHtwcxj6Xa8QPmyVEsyO5Hy+ngJtWlO6ZiBjbAZo5zHpC149cC5XHff4nbNCCykXljBwLlfu+KPhJFXIe9yhGONQIP+cwXd4exi/WQMyV22B77x1lYV79pl8sZYCs8aTY1vRl+/XaWmRqxdadcawQQTD0KyZoKwyRXyDhoTHQiZ7uJ9e+XwB4SJmL6QDKvt1e51P/OXVdvidsImTlGUqQJLvfnXtzwwWS3ZdV8qeALLiSAUEUUqX3lEsBTSS3qQ94=;JE0unTHuXn/3ndPVyAZ+NQ=="
+secured: "oYiqaVbNIffmSUZvL6jUC3nPe6yXr29E0J2MVzcxneVgWBneM1DPC2MGE3MzTVX5Dem19SCfqoWPYvvvSLtHnCYqJQGTWx/BfZyhbYL3kYFskobUcHflocIlI5sbiPA1JbWGMJ608ltoUc0O253DjnyrInsNA75htpDxxzk8Amn7XWapwMBueUDDCn5pTEkhLM79Fr+T9GINThBV+T0NMX1PCa1M8p/DXEpeF5nzrZhRRN+Np3+qJZf5yW5rsaYJvo+STpvixL3/Pry7Oi+tFGidMePKqwp5Rq5GJiisXEm266qW6db7grkWslCSOPXVc7Um0nLlmf/xbdRuyksn+ApFHJeLm4awqLJ6svnBPvM=;DpjD9Pi7etuKX7NPVTJJkg=="
 ---
 

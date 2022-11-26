@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oosto Chief AI scientist tells ISC East attendees about a bold new vision for video analytics"
-    excerpt: "Historically, the AI in video analytics is usually single-threaded and purpose-built to perform a specific function (e.g., facial recognition, object detection, license plate recognition). This limits an organization’s ability to have a more complete ..."
-    publishedDateTime: 2022-11-21T21:12:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/press-release/21287938/oosto-oosto-chief-ai-scientist-tells-isc-east-attendees-about-a-bold-new-vision-for-video-analytics"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 28
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/11/Oosto_image1.637be72b99981.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Contextual analytics helps achieve holistic understanding of video in real time — Oosto"
     excerpt: "Semantic segmentation can enable contextual analytics to gain a holistic understanding of real time video footage, improving AI performance in video analytics."
     publishedDateTime: 2022-11-22T02:55:00Z

@@ -33,17 +33,6 @@ related:
         width: 627
         height: 418
         isCached: true
-  - title: "Responsible AI’ Foundation Vital For New Zealand Organisations As Global Legislation Ramps Up"
-    excerpt: "New Zealand businesses should be aware of, and be responding to, increasing Artificial Intelligence regulations around the world. That’s according to a recent Accenture report that reveals a number of countries are about to introduce legislation defining when and how AI data and information can be used and stored."
-    publishedDateTime: 2022-11-21T22:25:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2211/S00340/responsible-ai-foundation-vital-for-new-zealand-organisations-as-global-legislation-ramps-up.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 28
 
 secured: "d33JDhNPav3roiSPdQLfp0PsGwC9ntIriBEYaBF2AwZ9OsrMvm75EdKY1UY/894Fth1FMCcjUOFUhbVLubW6fYn9paNxnhOBLPdjFpQq6P6gsXEiYHqzdn5D9PwrM2qNNrL0IMwIfun6GnnEGjlvMjQBB1QEcZFBkP7WQDvQTx4R54tyzqauNUHMyEUQQaRYcaPfMFxgCrAkSd3yKcGj0YS3nZ1ngqFsikLjfC6HlYdhLhVCx8pQszvIgNgkgCltpBw7C+f2PKVGkIa+1mkSZN7J39Czghv4imb8TtL5Ka7H9zsqiAR6LHsJZpw3gIQDjBU51WRwpF21Ha5kyDs2Mro+fbhcHL7MFdeZ7mxuezo=;4luequF6KUXOrMpxZPwjfg=="
 ---

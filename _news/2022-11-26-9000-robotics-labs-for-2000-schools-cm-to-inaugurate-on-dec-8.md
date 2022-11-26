@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-26T13:59:00Z
 originalUrl: "https://www.thehindu.com/news/national/kerala/9000-robotics-labs-for-2000-schools-cm-to-inaugurate-on-dec-8/article66187783.ece"
 webUrl: "https://www.thehindu.com/news/national/kerala/9000-robotics-labs-for-2000-schools-cm-to-inaugurate-on-dec-8/article66187783.ece"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Hindu

@@ -8,8 +8,8 @@ webUrl: "https://www.thestar.com/business/2022/11/26/surprise-emergence-of-a-uni
 ampWebUrl: "https://www.thestar.com/amp/business/2022/11/26/surprise-emergence-of-a-unicorn-startup-in-newfoundland-provides-a-clue-about-ais-near-future-in-business.html"
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/11/26/surprise-emergence-of-a-unicorn-startup-in-newfoundland-provides-a-clue-about-ais-near-future-in-business.html"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
