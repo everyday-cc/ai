@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-25-facial-recognition-can-help-conserve-seals-scientists-say-heres-how.md",
-      "title": "Facial recognition can help conserve seals, scientists say: here’s how",
-      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving",
+      "path": "_news/2022-11-27-seal-conservation-efforts-aided-by-new-facial-recognition-technology.md",
+      "title": "Seal conservation efforts aided by new facial recognition technology",
+      "excerpt": "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts.",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/",
-      "originalUrl": "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/",
+      "webUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
+      "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/11/AP22321559652379.jpeg?w=1280",
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024",
           "width": 1024,
-          "height": 683,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/",
-      "publishedDateTime": "2022-11-24T11:35:00-08:00",
+      "ampWebUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "publishedDateTime": "2022-11-26T13:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
+        "name": "New York Post",
+        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services launches AWS Asia Pacific (Hyderabad) Region"
-    excerpt: "Cloud service provider Amazon Web Services, Inc. has launched AWS Asia Pacific (Hyderabad) Region, its second such facility to augment services to customers in India."
-    publishedDateTime: 2022-11-22T06:20:00Z
-    webUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece"
-    ampWebUrl: "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/ajfcx3/article66168232.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AWS to invest $4.4 billion on second infra region in Hyderabad"
-    excerpt: "It is estimated to support over 48,000 full-time jobs annually at external businesses during the investment period"
-    publishedDateTime: 2022-11-22T04:37:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/aws-to-invest-44-billion-on-second-infra-region-in-hyderabad/article66167957.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/4lf7r6/article66167987.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AWS to invest $4.4 bn in Hyderabad data centre"
     excerpt: "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India."
     publishedDateTime: 2022-11-22T18:41:00Z
@@ -121,6 +89,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS’ New Data Center in Hyderabad to Create 48,000 Jobs"
+    excerpt: "The new facility will open its doors for over 48,000 full-time employment opportunities annually with a proposed investment of $4.4 billion (INR 36,300 crore) in India by 2030. Together with the AWS Asia Pacific (Mumbai) Region,"
+    publishedDateTime: 2022-11-22T11:51:00Z
+    webUrl: "https://analyticsindiamag.com/aws-new-data-center-in-hyderabad-to-create-48000-jobs/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/aws.jpeg"
+        width: 1536
+        height: 864
+        isCached: true
+  - title: "AWS set up 2nd Cloud infrastructure region in India"
+    excerpt: "AWS set up 2nd Cloud infrastructure region in India - Amazon Web Services (AWS) announced the launch of its second AWS infrastructure Region in India in Hyderabad"
+    publishedDateTime: 2022-11-22T08:28:00Z
+    webUrl: "https://www.siliconindia.com/news/general/aws-set-up-2nd-cloud-infrastructure-region-in-india-nid-220515-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/ew1zTfM4.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AWS to invest USD 4.4 bn in Hyderabad data centre"
     excerpt: "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India. Amazon.com Inc company,"
     publishedDateTime: 2022-11-22T10:31:00Z
@@ -143,20 +139,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 37
-  - title: "AWS launches 2nd Cloud infrastructure region in Hyderabad, to support 48K jobs annually"
-    excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more"
-    publishedDateTime: 2022-11-22T04:39:00Z
-    webUrl: "https://telanganatoday.com/aws-launches-2nd-cloud-infrastructure-region-in-hyderabad-to-support-48k-jobs-annually"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 31
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/11/AMAZON-Web-services.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "AWS plans to invest over USD 4.4 bn in India by 2030, launches infra region in Hyderabad"
     excerpt: "Amazon Web Services, Inc. (AWS), on Tuesday announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region, A press release from the tech major said the new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
     publishedDateTime: 2022-11-22T19:00:00Z
@@ -171,15 +153,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS launches infrastructure region in Hyderabad"
-    excerpt: "Hyderabad: Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company has announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region."
-    publishedDateTime: 2022-11-22T06:14:00Z
-    webUrl: "https://www.deccanchronicle.com/business/companies/221122/aws-launches-infrastructure-region-in-hyderabad.html"
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 19
   - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
     excerpt: "The Hyderabad region will give customers access to AWS technologies for data analytics, security, machine learning, and artificial intelligence. AWS has previously invested $3.71 billion in local infrastructure and jobs across India. The new investment ..."
     publishedDateTime: 2022-11-23T13:09:00Z

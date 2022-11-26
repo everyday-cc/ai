@@ -28,16 +28,14 @@ related:
       domain: tmcnet.com
     quality: 31
   - title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
-    excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
-    publishedDateTime: 2022-11-24T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
+    excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period. The major opportunities for the edge AI hardware market include the growing demand for IoT-based edge computing solutions and the rising adoption of 5G networks to bring IT and telecom together and dedicated AI processors for on-device image analytics."
+    publishedDateTime: 2022-11-24T20:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-edge-ai-hardware-market-report-2022-exponentially-/2022/11/24/9719518.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "WD/x6Kof9OQY4hvrHTOuq9BrDL587MVbuHMOTe4+xshH4uuSQRM2bUoim137srPutmVkJcnUdu+J7IXW59l0g55TFZDEJ3Sb3xzUjs/aJRK0bda/rS9dfZvUyFFCY5rnYeFCoimPllT1fpJNcPRn/hJfdmPwYLbf1Q/dHUWyR8QsFp+RPD+TeIObSvVZiaLS1sTZ6+4BSjbhjJH8Gg5KPwXgrY1LPy9L2vOwWL8ZKQlWfrULOBG/POyh5WQh6QmvTFcn6c3rPxRmESfi/5EogpuVzrVE0HeNoMu59sAmlqsYfVNM+/IsXC4CGcnB/CjjlNrcHtG82O7zHemhgF3AMoOwYCK1BPcRPayt1nYHFTY=;mXaU32273UbUTEbgnzOlWw=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning (ML) Platforms Market Size, Share, Trend, Forecast, Competitive Analysis, and Growth Opportunity : 2023 to 2029"
-    excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 116 Pages Report\" Global"
-    publishedDateTime: 2022-11-22T06:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-share-trend-forecast-competitive-analysis-and-growth-opportunity-2023-to-2029-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
     excerpt: "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search"
     publishedDateTime: 2022-11-23T19:34:00Z
@@ -147,20 +133,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
-  - title: "Cleaning Robot Market Size, Share, Growth, Trends, Demand, Development Status, Future Growth, Business Strategy, Forecast 2023 to 2029"
-    excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 108 Pages Report\" Global"
-    publishedDateTime: 2022-11-22T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-size-share-growth-trends-demand-development-status-future-growth-business-strategy-forecast-2023-to-2029-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Lock Market - Global Industry Analysis and Forecast to 2022 to 2030 | By -Dessmann, Kaadas, MI"
     excerpt: "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Face Recognition Lock Market research report 2022-2030 The Global Face Recognition Lock Market investigation report is segmented by Types ( Black,"
     publishedDateTime: 2022-11-23T05:25:00Z

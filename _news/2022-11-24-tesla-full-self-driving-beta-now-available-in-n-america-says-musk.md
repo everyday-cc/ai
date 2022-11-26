@@ -143,20 +143,6 @@ related:
       name: AutoGuide
       domain: autoguide.com
     quality: 49
-  - title: "TSMC rumored to make Tesla's next-gen self-driving chips"
-    excerpt: "EV maker Tesla is rumored to have placed a massive order with TSMC to manufacture its next-generation Full Self-Driving (FSD) chips, potentially making it one of the Taiwan-based foundry's largest customers,"
-    publishedDateTime: 2022-11-22T04:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20221122VL204/5nm-samsung-tesla-tsmc.html?chid=13"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221122vl204_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Tesla opens floodgates for owners to test out automated driving"
     excerpt: "Chief Executive Officer Elon Musk tweeted that the system Tesla calls Full Self-Driving Beta is now available to anyone in North America who’s bought the option and requests it from their car screen."
     publishedDateTime: 2022-11-24T21:03:00Z

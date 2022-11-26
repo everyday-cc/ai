@@ -1,46 +1,32 @@
 ---
 category: news
-title: "Supermarket giant to trial facial recognition tech amid soaring crime"
-excerpt: "Supermarket giant Foodstuffs is trialling facial recognition technology across its North Island stores as the rates of theft, burglary, robbery and other c"
-publishedDateTime: 2022-11-23T04:34:00Z
-originalUrl: "https://www.newstalkzb.co.nz/news/business/supermarket-violence-foodstuffs-trialling-facial-recognition-technology-to-combat-theft-assaults-on-staff/"
-webUrl: "https://www.newstalkzb.co.nz/news/business/supermarket-violence-foodstuffs-trialling-facial-recognition-technology-to-combat-theft-assaults-on-staff/"
+title: "Seal conservation efforts aided by new facial recognition technology"
+excerpt: "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts."
+publishedDateTime: 2022-11-26T21:35:00Z
+originalUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/"
+webUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/"
+ampWebUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 74
+heat: 164
+published: true
 
 provider:
-  name: Newstalk ZB
-  domain: newstalkzb.co.nz
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.newstalkzb.co.nz/media/0zmdigd1/foodstuffs-will-be-trialling-facial-recognition-technology-at-about-30-stores-across-the-north-island.jpg?rmode=crop&rnd=133136955029000000&height=395&width=635&quality=95&scale=both"
-    width: 635
-    height: 395
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
-  - title: "Seal conservation efforts aided by new facial recognition technology"
-    excerpt: "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts."
-    publishedDateTime: 2022-11-26T21:35:00Z
-    webUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/"
-    ampWebUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facial recognition can help conserve seals, scientists say: here’s how"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
     publishedDateTime: 2022-11-24T19:35:00Z
@@ -96,6 +82,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Supermarket giant to trial facial recognition tech amid soaring crime"
+    excerpt: "Supermarket giant Foodstuffs is trialling facial recognition technology across its North Island stores as the rates of theft, burglary, robbery and other c"
+    publishedDateTime: 2022-11-23T04:34:00Z
+    webUrl: "https://www.newstalkzb.co.nz/news/business/supermarket-violence-foodstuffs-trialling-facial-recognition-technology-to-combat-theft-assaults-on-staff/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 39
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/0zmdigd1/foodstuffs-will-be-trialling-facial-recognition-technology-at-about-30-stores-across-the-north-island.jpg?rmode=crop&rnd=133136955029000000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
+        isCached: true
   - title: "The Next Steps of Facial Recognition Technology"
     excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
     publishedDateTime: 2022-11-23T11:48:00Z
@@ -143,6 +143,6 @@ related:
       domain: wpri.com
     quality: 19
 
-secured: "FjtKdriUtcW5rZ8w+RJIeTzU/x0L6GNRbVqRdps/9GHs8tQCyV2Fxixvo/k0enLFolNgFb7B66qMQzhWq7dQoY3KhSXIeRXCCg+HLkbh/uTEeWE9KWUpZg8zmD0qMZEEj2dmlTAoa00LZ+OM8nVlDE5SbJCNEudvxDX9rGQxvgTm1/jCw8gj0GosgSHJv4eSuub79LXsMQByzwQ4U2Bw8POH/ADHHsWS3jEKUZj/pVdY5CVEZGFPj2DoQiDkkXUHDftVtT8mg7GOECEULFoPJCMSKAj8DObPt6Fe8EsFLkFSrX2tQnDwYg6Pue2q+iZj/Wrg+KqztC+aMYvn/UVm3qvQnB8FOtOmaqgbAWtpXPUYBJiodzdFZPk6IxC0N9CRaOFNDTMPJA4HcIoNTX2K+/4B9Ip9V71xcH4AjeE0KMpkPaWBCxCYD9uAIEtkfJUYGMs0SYIcU780aJ0YeyBLK4wa4XryvSSX6aC//PyU6Rd1KUgPkXBd8IRSlHUDWt3lbxHBU9zRUYME7tPnEr7wUQ==;1dJ4d4/qmaK/Hr+2qntfeA=="
+secured: "tEu4bKaPVEbW2gSU5APYF8hH74TrHuFt/ij6KK4NmaTPoC5r70vfJ00VtoUcgrfUQ7dYb/f6mJjBaeReWfmqohJXyKpX7vkx/to4/knIFADuVj5n+wQmsDx1X8ZLnBgleNHAGzmShgeaQ6XridftSxNvF2imcVOmWFPfFS4laToQvI1BlkOHsSVY9GF/HV+Tv/qCewHEPUhzxJKbEX7hRnUz5wlb+gfedc45vwgXfmyEXE+sLH4DyDwsdNLRSozhDdbz4YKblJxz08lpHOROtVNEvK5MMJeRmA1bdxVXp3fQTj7Xhtq576MUxdq7dVFTYlVUOWUQIguvMhVW6Pkm2DTKtqJwPyTlwV31qL2P0s8=;Sukaj3rcLAirIlBMrFIQIg=="
 ---
 

@@ -25,47 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches second infrastructure region in India, to invest $4.4 billion by 2030"
-    excerpt: "The investment is also estimated to create an average of more than 48,000 full-time jobs annually, which will be part of the AWS supply chain in India including construction, facility maintenance, engineering,"
-    publishedDateTime: 2022-11-22T06:00:00Z
-    webUrl: "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/"
-    ampWebUrl: "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/"
+  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
+    excerpt: "India assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI) at a summit held in Tokyo."
+    publishedDateTime: 2022-11-23T12:41:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 51
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/11/AWS.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95709258,imgsize-269812,width-1200,height=765,overlay-etbrandequity/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence.jpg"
         width: 1200
-        height: 667
+        height: 765
         isCached: true
-  - title: "AWS set up 2nd Cloud infrastructure region in India"
-    excerpt: "AWS set up 2nd Cloud infrastructure region in India - Amazon Web Services (AWS) announced the launch of its second AWS infrastructure Region in India in Hyderabad"
-    publishedDateTime: 2022-11-22T08:28:00Z
-    webUrl: "https://www.siliconindia.com/news/general/aws-set-up-2nd-cloud-infrastructure-region-in-india-nid-220515-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/ew1zTfM4.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "AWS launches second infrastructure region in India, to support 48,000 jobs"
-    excerpt: "Region is also estimated to add approximately $7.6 billion (Rs 63,600 crore) to India's gross domestic product by 2030"
-    publishedDateTime: 2022-11-22T04:45:00Z
-    webUrl: "https://www.business-standard.com/article/companies/aws-launches-second-infrastructure-region-in-india-to-support-48-000-jobs-122112200334_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/aws-launches-second-infrastructure-region-in-india-to-support-48-000-jobs-122112200334_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/aws-launches-second-infrastructure-region-in-india-to-support-48-000-jobs-122112200334_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
 
 secured: "YKcgKj+/sNfViEnIQLXPICmo31k7gSEPppfC9I416EMDHyP8xucXqEnfURi/62GvgEYrxDGLa+fgVOk2/UiYCu3eYjb1hAWulNK0LZDaWuzCWZvkyWEL5cUnYRgoGiVIZA5qbb2TOVcwzwrR5M4BycKbvzXCp75DhS/Z+9l8Apn/7dsXjEIpUwHP8ozYEzJSBrGAJPMgPypsrIFZB81tDmMJzZoZF+ebT+24Yzg74O+yb6WGWjm4lcx7KEsqtTSMW0lLOpCZOevfCulWsuLEyE0aMKw/9ihwsrV7RPoStqQMdbJqHaf0Jt435duwIzCfaMKcxmkPUbdplS0rMEJHS0wufqBBzXW+mkDiOaPfevE=;ZIYWFyHBD5Ta33NF3bKHVQ=="
 ---

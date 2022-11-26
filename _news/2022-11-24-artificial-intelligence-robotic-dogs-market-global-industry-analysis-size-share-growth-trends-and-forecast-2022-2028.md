@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning (ML) Platforms Market Size, Share, Trend, Forecast, Competitive Analysis, and Growth Opportunity : 2023 to 2029"
-    excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 116 Pages Report\" Global"
-    publishedDateTime: 2022-11-22T06:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-share-trend-forecast-competitive-analysis-and-growth-opportunity-2023-to-2029-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "In-vehicle AI Robot Market 2022 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2028"
     excerpt: "In-vehicle AI Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
     publishedDateTime: 2022-11-23T03:49:00Z
@@ -133,20 +119,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
-  - title: "Cleaning Robot Market Size, Share, Growth, Trends, Demand, Development Status, Future Growth, Business Strategy, Forecast 2023 to 2029"
-    excerpt: "Nov 22, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 108 Pages Report\" Global"
-    publishedDateTime: 2022-11-22T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-size-share-growth-trends-demand-development-status-future-growth-business-strategy-forecast-2023-to-2029-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market : The research and development scale segment is estimated to witness significant CAGR over the forecast period 2022-2028"
     excerpt: "Nov 23, 2022 (The Expresswire) -- \"Facial Recognition Market\" research provides significant and in-depth information on the global market. This"
     publishedDateTime: 2022-11-23T05:52:00Z
