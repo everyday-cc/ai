@@ -1190,21 +1190,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-22-how-spotify-trained-an-ai-to-transcribe-music.md",
-      "title": "How Spotify trained an AI to transcribe music",
-      "excerpt": "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file.",
+      "path": "_news/2022-11-22-india-assumes-chair-of-the-global-partnership-on-artificial-intelligence.md",
+      "title": "India assumes chair of the global partnership on artificial intelligence",
+      "excerpt": "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place",
       "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
-      "originalUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "webUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://www.popsci.com/uploads/2022/11/21/parsoa-khorsand-OhHPxRrhBIM-unsplash-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1755,
+          "url": "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1212,13 +1212,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/spotify-basic-pitch/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp",
-      "publishedDateTime": "2022-11-21T15:00:00-08:00",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html",
+      "publishedDateTime": "2022-11-21T18:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1228,8 +1228,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     }
   ],

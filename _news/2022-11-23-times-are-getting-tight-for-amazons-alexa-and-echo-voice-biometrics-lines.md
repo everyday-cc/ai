@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Goodbye boarding passes, hello biometric facial recognition"
-    excerpt: "Last week, Air New Zealand customers were some of the first to experience biometric verification at the boarding gate after a successful trial at Los Angeles Airport. It’s all part of Air New Zealand’s plan to take the friction out of travel and to ..."
-    publishedDateTime: 2022-11-21T08:14:00Z
-    webUrl: "https://www.breakingtravelnews.com/news/article/goodbye-boarding-passes-hello-biometric-facial-recognition/"
-    type: article
-    provider:
-      name: Travel News
-      domain: breakingtravelnews.com
-    quality: 19
   - title: "Visa, FIFA, PopID bring face biometrics payment to the World Cup"
     excerpt: "Visa partners with FIFA and PopID to deliver contactless biometric payments at World Cup venues including eight stadiums and the FIFA Fan Festival."
     publishedDateTime: 2022-11-22T19:02:00Z

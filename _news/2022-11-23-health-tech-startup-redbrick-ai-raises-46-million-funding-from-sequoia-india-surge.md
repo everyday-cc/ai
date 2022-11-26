@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
-    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
-    publishedDateTime: 2022-11-21T08:26:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 79
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "India assumes chair of the global partnership on artificial intelligence"
     excerpt: "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place"
     publishedDateTime: 2022-11-22T02:49:00Z
@@ -89,20 +75,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Ahead of G20 Presidency, India Takes Over As Council Chair of Artificial Intelligence Forum"
-    excerpt: "India will chair the Global Partnership on Artificial Intelligence (GPAI) at the G20 summit during its year-long presidency, announced MeitY"
-    publishedDateTime: 2022-11-21T07:45:00Z
-    webUrl: "https://www.medianama.com/2022/11/223-g20-presidency-india-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 42
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2022/11/FiEaKjXaEAAgKxr.jpeg"
-        width: 946
-        height: 465
-        isCached: true
   - title: "World's Longest-Running AI Show Series Arrives in India"
     excerpt: "By bringing together some of the brightest minds from the AI and ML landscape to discuss their applications and their scope in the future in India's new normal, the 39 th global e"
     publishedDateTime: 2022-11-22T08:32:00Z
@@ -116,6 +88,34 @@ related:
       - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "How serious is India about Artificial Intelligence?"
+    excerpt: "A weekly newsletter on all things tech. Similarly for Twitter, etc."
+    publishedDateTime: 2022-11-25T07:02:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk25112022.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
+    excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
+    publishedDateTime: 2022-11-24T07:45:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/health-tech-ai-startup-redbrick-ai-raises-46-million-in-sequoia-india-led-funding-36146"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
+        width: 990
+        height: 550
         isCached: true
 
 secured: "3TCEFh75qJ8M6f24wPJ4LoIKVvWx8GYjQSjhp62NDUmQb1ZoLxDnPn3XP6PaCzxZ1z4KrVV1i7UI4SWuAhfXw2PxFvTzHRnoTEHChbFmiEBpUmPiOPgXWT04KLkTlLN0EZML8F7w6xUmDbnjcBwhdFxrrCi7mN5XQgvCC6qdPTeDj4/58NeOjPJKhFruyDmWqaX3cvcH8PBldIwgNVyEf3582ukWm/R0bzR6PGR5C0po9yFj0Q377U+DYsorzyhztO6E8se9RKKmuL0md6Wawca8cFdclJ7FrMAL8M/mg8Yej6g9XZF+mbOkq1v2thxxUH6egpaACI/qE5KJnxcVnv25twuh8J5GjYJdQJrqhmTwX/QUcxIK8Yu+7TEHYTj5suGJrWBlp0Qj7jkP+EchzpkTWG7tmZMHUY8odFd5KvXsRR2IETiK+HPZWqSROOIbb+V4yj7X0ogPHqdOMumNdJTN1fjeX/eN3p8nxoeyu5Lwk0VfnLkv1TfSUnAGdV1CWzeWLE5cnrLgz3DOd79k8A==;teOu1m+jEBOYiUUzv0UZnQ=="

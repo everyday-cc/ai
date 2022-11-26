@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "India To Take Over the Chair of the Global Partnership on Artificial Intelligence"
-    excerpt: "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting"
-    publishedDateTime: 2022-11-21T08:26:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 79
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "India assumes chair of the global partnership on artificial intelligence"
     excerpt: "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place"
     publishedDateTime: 2022-11-22T02:49:00Z
@@ -103,19 +89,33 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Ahead of G20 Presidency, India Takes Over As Council Chair of Artificial Intelligence Forum"
-    excerpt: "India will chair the Global Partnership on Artificial Intelligence (GPAI) at the G20 summit during its year-long presidency, announced MeitY"
-    publishedDateTime: 2022-11-21T07:45:00Z
-    webUrl: "https://www.medianama.com/2022/11/223-g20-presidency-india-artificial-intelligence-ai/"
+  - title: "How serious is India about Artificial Intelligence?"
+    excerpt: "A weekly newsletter on all things tech. Similarly for Twitter, etc."
+    publishedDateTime: 2022-11-25T07:02:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk25112022.html"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 42
+      name: Mint
+      domain: livemint.com
+    quality: 39
     images:
-      - url: "https://www.medianama.com/wp-content/uploads/2022/11/FiEaKjXaEAAgKxr.jpeg"
-        width: 946
-        height: 465
+      - url: "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
+    excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
+    publishedDateTime: 2022-11-24T07:45:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/health-tech-ai-startup-redbrick-ai-raises-46-million-in-sequoia-india-led-funding-36146"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
+        width: 990
+        height: 550
         isCached: true
 
 secured: "YKcgKj+/sNfViEnIQLXPICmo31k7gSEPppfC9I416EMDHyP8xucXqEnfURi/62GvgEYrxDGLa+fgVOk2/UiYCu3eYjb1hAWulNK0LZDaWuzCWZvkyWEL5cUnYRgoGiVIZA5qbb2TOVcwzwrR5M4BycKbvzXCp75DhS/Z+9l8Apn/7dsXjEIpUwHP8ozYEzJSBrGAJPMgPypsrIFZB81tDmMJzZoZF+ebT+24Yzg74O+yb6WGWjm4lcx7KEsqtTSMW0lLOpCZOevfCulWsuLEyE0aMKw/9ihwsrV7RPoStqQMdbJqHaf0Jt435duwIzCfaMKcxmkPUbdplS0rMEJHS0wufqBBzXW+mkDiOaPfevE=;ZIYWFyHBD5Ta33NF3bKHVQ=="

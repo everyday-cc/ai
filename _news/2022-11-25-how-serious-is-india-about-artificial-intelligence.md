@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/mint-top-newsletter/techtalk25112022.html
 webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk25112022.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,100 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "India assumes chair of the global partnership on artificial intelligence"
+    excerpt: "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place"
+    publishedDateTime: 2022-11-22T02:49:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 71
+    images:
+      - url: "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "India to take over as chair of Global Partnership on Artificial Intelligence"
+    excerpt: "Minister of State for Electronics and IT Rajeev Chandrasekhar will represent India at the GPAI meeting to be held in Tokyo on November 21, for the symbolic takeover from France, which is the outgoing Council chair."
+    publishedDateTime: 2022-11-21T10:57:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence/95661015"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95661015,imgsize-52670,width-1200,height-628,overlay-etauto/india-to-take-over-as-chair-of-global-partnership-on-artificial-intelligence.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Health-tech startup Redbrick AI raises $4.6 million funding from Sequoia India, Surge"
+    excerpt: "The startup, which provides AI solutions for medical imagery, also attracted investments from Y Combinator and angel investors."
+    publishedDateTime: 2022-11-23T11:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/articleshow/95715661.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-741027,msid-95715660/redbrick.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "India calls for global framework to prevent user harm from Artificial Intelligence"
+    excerpt: "India assumed the Chair of the Global Partnership on Artificial Intelligence (GPAI) at a summit held in Tokyo."
+    publishedDateTime: 2022-11-23T12:41:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95709258,imgsize-269812,width-1200,height=765,overlay-etbrandequity/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "World's Longest-Running AI Show Series Arrives in India"
+    excerpt: "By bringing together some of the brightest minds from the AI and ML landscape to discuss their applications and their scope in the future in India's new normal, the 39 th global e"
+    publishedDateTime: 2022-11-22T08:32:00Z
+    webUrl: "https://www.jcnnewswire.com/pressrelease/79361/2/Worlds-Longest-Running-AI-Show-Series-Arrives-in-India"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
+    excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
+    publishedDateTime: 2022-11-24T07:45:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/health-tech-ai-startup-redbrick-ai-raises-46-million-in-sequoia-india-led-funding-36146"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
+        width: 990
+        height: 550
+        isCached: true
 
 secured: "aG/hk5tMgB/gjMnGhRrB+6jks78KKNrapw71wZXSOuWluhb+aAMmuY2NoPk/0+aBYHGQsumSkykt0vbR94J7ydG+Sl8GaXjTciO3+H2TmrCHBOdw40Qf6vX4NEkqK9a4EPcvRbcwuTxXfh5wV+dLdUk2trErp7cUc21DlWPtWq8FlhMq6tB+0knmLpJ8iSygSc/lnT7dNhpXv66FLSytXg0jErCQG+hBG151UAAWeBdByIaEFS+9eZ02xJrO73zPi/MPzGk4dpLyQnEnXJ6nXvn2pEAyXC6jNBKiWxxJBu7vyYgiWEGj4GSEEhvP5SmSSWcyWHX6hXbtxGI9k9Aq7gMUjDRKPg9NrKfWmZ3W6eVE8vI8N4ICxd26Ii2txdT5SzQx0N/wy1cj4kv7YxJ/ZD/aZ4MDaPEMuGJEklKQhoPw4Cvob6wb8paCx3fAgp3D7TkyVtLrS0cBHIBoTtmgZ5eUSEYlRHr+V+f8pDQvwMgVOD1pLPpvV7DQvYycip8LUiMif+rMjL12xthE611WLQ==;LIUoulbNJxGWsLyf1Aa9Rw=="
 ---

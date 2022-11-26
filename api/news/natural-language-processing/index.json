@@ -168,7 +168,7 @@
       "originalUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -252,49 +252,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-3m-launches-ai-powered-speech-recognition-technology.md",
-      "title": "3M launches AI-powered speech recognition technology",
-      "excerpt": "This technology, which focuses on accelerating digital health transformation in the kingdom, will help clinicians in all care settings to capture the complete and accurate patient story while simultan",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
-      "originalUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:OWM2ODExYzgtODIyZi00:YjE3ODI2/200423074653iqcn-jpg.jpg?f=3%3A2",
-          "width": 724,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1397,6 +1354,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-google-wants-ai-in-one-thousand-languages.md",
+      "title": "Google wants AI in one thousand languages",
+      "excerpt": "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ...",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-05T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

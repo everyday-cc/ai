@@ -86,20 +86,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
-  - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
-    excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
-    publishedDateTime: 2022-11-24T07:45:00Z
-    webUrl: "https://www.peoplematters.in/news/funding-investment/health-tech-ai-startup-redbrick-ai-raises-46-million-in-sequoia-india-led-funding-36146"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 28
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
-        width: 990
-        height: 550
-        isCached: true
 
 secured: "nrjg1jZ/k1wvOIveHF97wU4idFR2eGhRBETzMGcbwQIYZAKTZ/urqpAANnHYJiKL/lwoDAlogAFNoqjmFgSWu4FLSFUpbKsTxHYse1Qx8jKIaIW+vZZz7dprMYshQwR83GHGfHGpUq88kp52oFCxEm8RBq5diVU8FIYaf3tcIHJA6uuFdoCx87/X1qk5gPvIqXr0HlvPMzwttfwNzYzMG/kbQ4BYXmrkMMy93+sWjJc02KCnRTtECumSDWCQ94qXulnzQGiR9neLJbeJ2qal28HCdgJOAu2bIpVehKPahnURkj97BDLDdHCjeo1hl2s28viMDltZ+mHPXx1TVfnmUR1AFAdMqWdFLWilBAMm1gVE8IaEVSJ08uueVgthHZZL0mbm1Pgz2n/Cc81nfqfFprF6Y66DonhHvC+sJJmlzgs+M8BnLyzloBzsLblZqIs2INX8q9fScmczAwYbV8RHku3Mt4UH0lcTOaH41HCpcJ6L7OOzK5D31ze9ygWACZPcrParjIr8d6OQvmgxYzfDGg==;wOQ6JUaxA3qzoIyeMlYM1Q=="
 ---

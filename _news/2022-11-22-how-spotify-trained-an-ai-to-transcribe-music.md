@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/spotify-basic-pitch/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using artificial intelligence to spot breast cancer"
+    excerpt: "An Indian company has developed a cheap, non-invasive test for breast cancer that uses thermal imaging and AI."
+    publishedDateTime: 2022-11-26T00:58:00Z
+    webUrl: "https://www.bbc.com/news/stories-63755128"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/770D/production/_127777403_p0djqfvy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "SEPTA to spot guns using artificial intelligence"
     excerpt: "SEPTA is the U.S.’s first major transit system to test out the AI technology, known as ZeroEyes. It’s been deployed by the Pentagon as well as public schools, universities and Fortune 500 companies in more than 30 states,"
     publishedDateTime: 2022-11-21T11:26:00Z

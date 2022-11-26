@@ -1,31 +1,29 @@
 ---
 category: news
-title: "South Korean Capital Launches Self-driving Bus Experiment"
+title: "South Korean capital launches self-driving bus experiment"
 excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment which engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
-publishedDateTime: 2022-11-25T08:51:00Z
-originalUrl: "https://www.barrons.com/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
-webUrl: "https://www.barrons.com/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
-ampWebUrl: "https://www.barrons.com/amp/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
+publishedDateTime: 2022-11-25T12:03:00Z
+originalUrl: "https://www.macaubusiness.com/south-korean-capital-launches-self-driving-bus-experiment/"
+webUrl: "https://www.macaubusiness.com/south-korean-capital-launches-self-driving-bus-experiment/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP5816948334682653633411215260991052816010---1.jpg"
-    width: 768
-    height: 512
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/11/Event_MGM-Lion-Dance-Championship-2022__e-banner_OP-800x480.jpg"
+    width: 800
+    height: 480
     isCached: true
 
-secured: "X8V9RfBm6go0kVKyE0RrhhjKgMw2vn5UoI6KI1W5vSZrRLms/MbdJvEXdhOXbCrNS1/nuDAf4zRcnYyljzlaqfuBWhYvugxisovnrXOn6LdH9ynjoC1jHK29IjX3LXrb0KXfxflaJlF3hDcUtOr//T5+uD5f5uhQ/I8QJ6j2+NBf3xoQwLnx5k1A1HLHztMTIvYghhmWwHE0lhsB47sCZ29ESZxr+3OPixycR1yrb9/h3VZyt+HCSlpNr7sTKYtVHQ+jiSRUuD/cyuslzdCcRmePpf4DDEjhS9Yy0zwslGeoOARzFrcV6p5ocgKU6chjevRuD0ljms/l6j3ubN3aLO4TWEq43yBRNcikLkP/eVaTEGoB/ut1ioY1KfO+8uUR0PLf0a8whePix/RziJWodNpfdpmjWhZsOmaCQTTlsZvitTFTE39cLmHq3E48dZohLb2KOQItC+SQRdaGMbIJdyZxDIFxLhAuFBEfrKMhhz5f9kW7c/ijLMh3ShG6ut+cDe/xfqLmaF8GnSdQcu1VJA==;dXIPZJHrzExCjlHr8ZohdQ=="
+secured: "JkJbG1qObYvss3pHzOZ/FcbSrOv/HgRKB97Joh/kQXTAPWs9Y7Qo2/w7284fU3zeaUo2iFeyfxOLJXDbtUoADdIFKq4bVf1hulDr9vBZo5kDYpoUbn3mfO7MLPvawyxvadKX/o8hMKE2Dzw29NQnPFIl0vrdUPu39sqUTNalDu4U3ExkZy952B/OnTCCk+zh4tvaU/olqb8Wy+EI5LDbCkK8dzu0a4W5+xs92+/SYQ86Q5yAlA0at2os+ZBxeS0VJVb9bJ3cGnz/96ER+QV9ATKKl8l9Ja3YlgimCDZfMswH4FHWqvJGxaRnvYD62hs6AGebLziP2TZOsPRFhRX93vfIu1bbXeGJ+fK3TIuZWHM=;23vCqo3eqjJb+s0KaG+zMg=="
 ---
 

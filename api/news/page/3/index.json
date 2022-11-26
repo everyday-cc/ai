@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-22-how-spotify-trained-an-ai-to-transcribe-music.md",
+      "title": "How Spotify trained an AI to transcribe music",
+      "excerpt": "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "originalUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/11/21/parsoa-khorsand-OhHPxRrhBIM-unsplash-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "publishedDateTime": "2022-11-21T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-beyond-the-banhammer-how-ai-is-changing-content-moderation.md",
       "title": "Beyond the banhammer: How AI is changing content moderation",
       "excerpt": "NLP can help manage player-generated content at scale to increase retention, promote positivity, and build a fun game community.",
@@ -455,49 +498,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-3m-launches-ai-powered-speech-recognition-technology.md",
-      "title": "3M launches AI-powered speech recognition technology",
-      "excerpt": "This technology, which focuses on accelerating digital health transformation in the kingdom, will help clinicians in all care settings to capture the complete and accurate patient story while simultan",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
-      "originalUrl": "https://www.zawya.com/en/business/healthcare/3m-launches-ai-powered-speech-recognition-technology-x7or3mtq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:OWM2ODExYzgtODIyZi00:YjE3ODI2/200423074653iqcn-jpg.jpg?f=3%3A2",
-          "width": 724,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },

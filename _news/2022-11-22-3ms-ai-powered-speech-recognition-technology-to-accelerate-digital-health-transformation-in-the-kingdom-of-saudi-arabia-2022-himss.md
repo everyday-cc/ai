@@ -41,34 +41,6 @@ related:
         width: 724
         height: 482
         isCached: true
-  - title: "3M's AI-powered speech recognition technology to accelerate digital health transformation in KSA: 2022 HIMSS"
-    excerpt: "AI-powered technology will reduce administrative burden on healthcare professionals and create more time for patient care Technology uses artificial intelligence to deliver proactive nudges to clinicians,"
-    publishedDateTime: 2022-11-21T08:24:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/3ms-ai-powered-speech-recognition-technology-to-accelerate-digital-health-transformation-in-ksa-2022-himss-asokur0s"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 35
-    images:
-      - url: "https://static.zawya.com/version/c:OGNkNmYwOTEtZjAzYy00:NzAxM2Y5/healthtransformationinksa-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "AWS launches Accelerator 3.0 to help startups scale up the development of clean energy technologies"
-    excerpt: "Clean Energy Accelerator 3.0 will feature two additional cohorts and international exchange sprints to create tech innovation centres across the world, including one in the UAE in collaboration with M"
-    publishedDateTime: 2022-11-21T08:00:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/aws-launches-accelerator-30-to-help-startups-scale-up-the-development-of-clean-energy-technologies-gga8iok4"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-    images:
-      - url: "https://static.zawya.com/version/c:N2ZmMmM1NTAtMmYyNi00:ZGFkOWRj/image-jpeg.jpeg?f=3%3A2"
-        width: 898
-        height: 599
-        isCached: true
 
 secured: "/A0cXP6BLP0tzYMBStu4PqJMFEjZW4OAr6AWZRJHv1gbzhMyBPKBpzP+C5tgdxSCXARtKAiHCjdt2nlY4yW7dLHWiq7XF5hc4NBhEJmSNykXcVsYJm3qVHqy6r5K2+GSnYeZBtfiKEJ++WSoXo46nokKM2V5mNMXeeBw1vdHL7iTJmQrLcmAEJKcpHrDgMwd8OCKUazX+nRdI6OTnQcHYBqeuug5DwLICfxIudg5+wXQB3IqY7MnjEdGGY1dPnahyPO5UtINrnjHWipUV/oOXJ+Aq1Ryh4/FMtdKU3xhMVVnFnLfX8M6fjha28ixHlgPbr7w0IpEziqvm7PYjyc4DLoElLj3Ca6AQJS2M/eEDmamJiXZqSCPBpTOVFpt1iJXbxdg0tZvNJl0/EL0KyBmQp4cqcgGACxGPz9iqtK09DmxDtWX3ygfmyAXq1Mv6fWmnm/J9ai4BuZcxkM/i1m0C0b0AJvKWV9sIh/T6Y/buexSp5911j7A9pXe/3QS+zqmhudUGDsOBn04cUlQ7fhQdQ==;XN6yR+QHJtKY2kcB75a+bw=="
 ---

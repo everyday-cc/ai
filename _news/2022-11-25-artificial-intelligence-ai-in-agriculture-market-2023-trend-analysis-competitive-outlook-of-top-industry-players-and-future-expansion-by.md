@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Medical Artificial Intelligence Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Medical Artificial Intelligence"
+    publishedDateTime: 2022-11-25T18:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems in Healthcare Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Systems in Healthcare Market will have significant change from previous year. By the"
     publishedDateTime: 2022-11-23T12:09:00Z

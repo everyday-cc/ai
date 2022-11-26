@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-r
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
-  - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
-    excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
-    publishedDateTime: 2022-11-24T07:45:00Z
-    webUrl: "https://www.peoplematters.in/news/funding-investment/health-tech-ai-startup-redbrick-ai-raises-46-million-in-sequoia-india-led-funding-36146"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 28
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
-        width: 990
-        height: 550
-        isCached: true
   - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
     excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
     publishedDateTime: 2022-11-23T13:03:00Z
