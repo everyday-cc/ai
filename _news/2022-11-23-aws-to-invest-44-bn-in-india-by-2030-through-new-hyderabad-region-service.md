@@ -188,15 +188,6 @@ related:
       name: Deccan Chronicle
       domain: deccanchronicle.com
     quality: 19
-  - title: "AWS Launches Second Infrastructure Region in India"
-    excerpt: "Second AWS Region in India provides customers with more options to run workloads with even greater resilience and availability, securely store data in India, and serve end users with even lower latency The new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
-    publishedDateTime: 2022-11-21T17:43:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-22-aws-launches-second-infrastructure-region-in-india"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 19
 
 secured: "9JM6JFHeOSph6VE465atmmk8Roavi/2tPDlptcpxbWPcGLG7bDBp8wAEgcVB1Qzr7XrJnKdkqI+JMr8kOf5cgU8lrgRMlMaXSLkYHnwQYPoR5miLq9f+OoosiX6uSVkkx0nXZnKdcWAtXZ6qWckGWVNZkMzwm+U0A0yzGCHfozlqY/H00bBUgziu7Zsvb9HQB5x3R+VOWeBjTAr6Zozu5eurlsbawVarcjvn04F5d+6kqpKiZQlICcRsdQtXIxFyw0N79JtdP9PevhKJQAvPzP24CeCuVIbqc9BU5KyBByi9KrqN2fc4SgPUY1GfeJiMvH1NIiQBnvr8xWuO3v7zp3B5Yz4A+IfijTtrB4JOUkwKeW9d5qsWKUf909dSeBZF8oA0/Cxrh061pknHRkgAMwbBUFmJqAL/0i+TnVGvMy1NTWK7mvobKQ7Gy54LlOjKhoxvFrjCufENprBTSsOhdloDKkNyl4JW1pWVpKSPgvrpNg9KI9L091cuo/6VW1U0V97AGxAf/WrQlw0CA59mWw==;Zy1G0SM9jTvBTjLxYndPew=="
 ---

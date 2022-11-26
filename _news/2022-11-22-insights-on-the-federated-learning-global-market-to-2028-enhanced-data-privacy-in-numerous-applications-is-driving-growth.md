@@ -20,43 +20,34 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Machine Learning Operations (MLOps) Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Research Report gives detailed facts with consideration to market size,"
-    publishedDateTime: 2022-11-21T18:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21"
+  - title: "Intelligent Voice Assistant Market Size, Global Insights and Trends, Forecasts to 2028"
+    excerpt: "\" Intelligent Voice Assistant Market \" Insights 2022 - By Applications (Automotive Industry, Smart Home, Education Industry, Medical Industry, Consumer Electronicss), By Types (Text-Based, Text-To-Speech,"
+    publishedDateTime: 2022-11-25T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-voice-assistant-market-size-global-insights-and-trends-forecasts-to-2028-2022-11-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
-    publishedDateTime: 2022-11-25T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24"
+  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-11-24T03:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Devices Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Facial Recognition Devices Market will have significant change from previous year. By the most conservative e"
-    publishedDateTime: 2022-11-22T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
 
 secured: "HijH9jv/iNjW2M7yTFdezRnOC72iOGu5qA43CGwXD2nRua+ZU9/eWDK+dobmOKzSqK7bEPD2zBKmE9ejCtcMQ2oXC+fEF6DV4cxpaPmDSZ/OQQKZ81c1qZiQvyClxcp2MA7Y4zfBycMnzxnF+6avORqG7oYKvOKEtR3i27hWgy2tIRBJbg8nsjpf/SdtpXqtkq5LNMXKzX1PVXy0QD7n+HMjVDk9P/bDRp5xGGT3qgW+5Ntxq5EFrtfyQ0sxVjhlrWBjXdVO5XuEeagU6JTy3EyGSAjgDK5XtI44VhA1LjuyHnlfA8uHibBR+bH1/gL3s7NSqvxyZBujMiPkQJ8nZyYntqdsGyMdjjTroEuzaTE=;whHV8IrexQyICuHN3UrBfQ=="
 ---

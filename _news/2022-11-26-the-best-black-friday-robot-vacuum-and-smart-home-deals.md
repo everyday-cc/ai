@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
 type: article
 quality: 89
-heat: 139
+heat: 131
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
     quality: 24
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/BxXc3duBRcNUXq3YS5pXaM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Incredible Black Friday deal: 48-inch LG C2 for just £849 with this voucher code"
-    excerpt: "Fancy a discount on a discount? Now's your chance. LG's stellar 48-inch C2 OLED TV has dropped to just £849 thanks to a Black Friday voucher code. Head to Sevenoaks (opens in new tab), enter 'GDSAVE100' when prompted at the checkout screen, and hey presto ..."
-    publishedDateTime: 2022-11-21T17:06:00Z
-    webUrl: "https://www.whathifi.com/news/incredible-black-friday-deal-48-inch-lg-c2-for-just-pound849-with-this-voucher-code"
-    type: article
-    provider:
-      name: What Hi-Fi?
-      domain: whathifi.com
-    quality: 19
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4cENTtWpXs2DCsJitNXnhK-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true

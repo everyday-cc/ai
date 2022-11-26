@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence of Things (AIoT) Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Artificial Intelligence of Things (AIoT) Market\" Research Report gives detailed facts with consideration to market"
-    publishedDateTime: 2022-11-21T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market 2022 Research Methodology, merging Technologies, Value Chain Analysis, and Forecast by 2028"
     excerpt: "Global Artificial Intelligence in Diabetes Management Market by MarketsandResearch.biz gives the perception of"
     publishedDateTime: 2022-11-24T05:58:00Z

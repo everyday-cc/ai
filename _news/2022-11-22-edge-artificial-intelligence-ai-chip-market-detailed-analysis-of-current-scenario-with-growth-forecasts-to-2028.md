@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22"
 type: article
 quality: 78
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence of Things (AIoT) Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Artificial Intelligence of Things (AIoT) Market\" Research Report gives detailed facts with consideration to market"
-    publishedDateTime: 2022-11-21T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

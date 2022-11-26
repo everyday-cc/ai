@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence of Things (AIoT) Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "Nov 21, 2022 (The Expresswire) -- \"Artificial Intelligence of Things (AIoT) Market\" Research Report gives detailed facts with consideration to market"
-    publishedDateTime: 2022-11-21T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Device Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2022 (The Expresswire) -- \"Face Recognition Device Market\" research provides significant and in-depth information on the global market. This research provides an in ..."
     publishedDateTime: 2022-11-24T05:39:00Z

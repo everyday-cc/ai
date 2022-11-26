@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Incredible Black Friday deal: 48-inch LG C2 for just £849 with this voucher code"
-    excerpt: "Fancy a discount on a discount? Now's your chance. LG's stellar 48-inch C2 OLED TV has dropped to just £849 thanks to a Black Friday voucher code. Head to Sevenoaks (opens in new tab), enter 'GDSAVE100' when prompted at the checkout screen, and hey presto ..."
-    publishedDateTime: 2022-11-21T17:06:00Z
-    webUrl: "https://www.whathifi.com/news/incredible-black-friday-deal-48-inch-lg-c2-for-just-pound849-with-this-voucher-code"
-    type: article
-    provider:
-      name: What Hi-Fi?
-      domain: whathifi.com
-    quality: 19
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4cENTtWpXs2DCsJitNXnhK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9GIGVC3n7Ej8oKPhYwKACKlzvdL5kjPiMw8IVemIL0FPuogtcZ1ftDhyvbszdNfOor8jAIXtW8nrIaPEgYbTj0Y9BwRhGudzWlxg+w2Kayj5Pp2e78i5EOXrZ+4dWo/qQ1FDEF2egkYfn9lFEa+q2bpe9PqwJlOn/iv8nb3WpdUI8FoMhILPmgKp9COMt1G2wmjo4Ki4VhKqiPCSebUoIXI9xYhDRkWc/ew68C5iIUc23cmV8+ClkWmNcRtB1KRGqz6JARoEbcPqXL4KBgymviJy/C8QcB0IrsJFceUUVhMe4+dkj7eMN6vpySr/1f7zMnsK+STsvpptppAyAC6/2k6M0Ka7zdferH026TV0GR0=;TIdv8r92GWsWtyxOJvWgew=="
 ---

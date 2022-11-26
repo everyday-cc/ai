@@ -3,8 +3,8 @@ category: news
 title: "UAM hosts speech confab"
 excerpt: "The Arkansas Philological Association held its 2022 annual conference October 27-29 at the University of Arkansas at Monticello with attendees that included teachers and scholars who share an interest in words,"
 publishedDateTime: 2022-11-26T08:51:00Z
-originalUrl: "https://www.arkansasonline.com/news/2022/nov/26/uam-hosts-speech-confab/"
-webUrl: "https://www.arkansasonline.com/news/2022/nov/26/uam-hosts-speech-confab/"
+originalUrl: "https://www.arkansasonline.com/news/2022/nov/26/uam-hosts-speech-confab/?latest"
+webUrl: "https://www.arkansasonline.com/news/2022/nov/26/uam-hosts-speech-confab/?latest"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "6YwUzIoYWwHcFrztEJU4p2n02Q1G+Bw0c8+uP4KIkiJT0h1w+wVvHTM4LhPU9fBI4EVH5zYw0zpg8J9ETUoI4beGMFxSGPvZhStkJrF8FITxKEFzwCatgHlqESSeZBae+PYQw5uXSmCNVx2sxRfJOEpv+GJdAJ5/urODQ9fCOm/+a6a6mOPuW5y6Mf3A62IkIHWyovahFLZV3Q8G69dNNAYG5S1+nsK+g0bEFdW9Wea08iOeqh/ymgh35dCpIGaYQn78CNhqUjV7TMaibdZDS2ST7KK19PazOVNv4ckG7pVH5RCrIv1lgUGY7BXI/6K+uFGuMukt0qt2BwspPxxMBNiN7FIWvqkNejJAHt3IQv4=;5Jx9SrQ/LtXfrSOLb4UMIg=="
+secured: "+GrFDoC2iY1FOoLXnHXe0JfO1hWoimOFcRxRXW3EeQEVbhj20tXZLR2BCGgLCJQy/KFzUzpVSmUnvHxasD2PR7ix2k5I0y3SIF7UufLYKuxB1GEwbpVg8IU5U/EsThUEx2Pw+f/C69fgtGolb/KndAAXabA7Ydg1YcFL2P15UUVfUvZzgtAvTrrYjrxxVSGIEOGxfwTNIO3WxgJ/yxARYoG3yFtYh6NMH2vKaC+QeDYfDo55H6h5wWoMixMMkcjZHKJH+e35FkfFonzY5iwbK9jMoswJqSR/c1eviy8LS/3vr4SVxVJ7eqXOHpBTgA7VXAcLgNTZydfTPNGMWQY/lEaus0Tnoe20vr3+tHxL3ew=;1gWiLIc6bisFuQyVuT761A=="
 ---
 

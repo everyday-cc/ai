@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-11-14-intel-unveils-prototype-neuromorphic-chip-for-ai-on-the-edge.md",
+      "title": "Intel Unveils Prototype Neuromorphic Chip for AI on the Edge",
+      "excerpt": "For example, a common fruit fly, an insect studied for AI research, has about 250,000 neurons and 10 million synapses. “This has been a major research effort by Intel and today we have a fully functioning neuromorphic research chip,” Intel CEO Brian ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
+      "originalUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Intel-Neuromorphic-chip-Loihi-2.jpg",
+          "width": 1709,
+          "height": 1722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-deviantart-launches-ai-art-generator.md",
       "title": "DeviantArt Launches AI Art Generator",
       "excerpt": "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t",
@@ -1111,50 +1154,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-artificial-intelligence-the-latest-architecture-and-news.md",
-      "title": "Artificial Intelligence: The Latest Architecture and News",
-      "excerpt": "The promise of the metaverse, this new type of three-dimensional and immersive digital space, is proving to become more and more appealing to architects eager to explore the new realm of virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.adsttc.com/doodles/flat/logo-animation.gif",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

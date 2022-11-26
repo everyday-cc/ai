@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundan
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:
