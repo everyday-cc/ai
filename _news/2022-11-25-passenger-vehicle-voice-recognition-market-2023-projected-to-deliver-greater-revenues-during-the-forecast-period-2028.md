@@ -184,20 +184,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market : The research and development scale segment is estimated to witness significant CAGR over the forecast period 2022-2028"
-    excerpt: "Nov 23, 2022 (The Expresswire) -- \"Facial Recognition Market\" research provides significant and in-depth information on the global market. This"
-    publishedDateTime: 2022-11-23T05:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-the-research-and-development-scale-segment-is-estimated-to-witness-significant-cagr-over-the-forecast-period-2022-2028-2022-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "iEFTQ6R2nYiGQHw/9Rsk0B8Rk62ZulIVfXeUseSkIWsMBrlKCuJTaUauBYJJ5vtqXVYuaeEywQycl0eFI7wdlt2SMAzuwTEMdfL2/EHzMJMWClbIfYDssCj9yb/cRFQ/5dmQ80M+K9boNtqiOpCrMnbieniUh+Efvxj1pVJaEgDNnKdjdWiczKuqfvF7T3mH5BMnvlZC+jinZgrIGATTlva66GHJDIOJM4OM5x1V1GCzMPPxuSdvCvcC3bCRX8lrEAWs27xWjt/RWnxJogsexihI9LfZtiNJwuGo7bclShIP3Yuv8ewlESOMYXzvaIjRc/K6sWpiYrCYvk98fpsq9wDlTCyzTYQrTzkNMnlAv18=;LTnPWLpi0W6v0asJ4un11A=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-27T18:00:00Z
 originalUrl: "https://www.afr.com/companies/financial-services/westpac-backs-unsw-project-on-ai-guardrails-to-widen-deployment-20221122-p5c0bu"
 webUrl: "https://www.afr.com/companies/financial-services/westpac-backs-unsw-project-on-ai-guardrails-to-widen-deployment-20221122-p5c0bu"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

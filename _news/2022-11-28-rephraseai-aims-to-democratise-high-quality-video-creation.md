@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-27T18:33:00Z
 originalUrl: "https://www.forbes.com/sites/brucerogers/2022/11/27/rephraseai-aims-to-democratise-high-quality-video-creation/"
 webUrl: "https://www.forbes.com/sites/brucerogers/2022/11/27/rephraseai-aims-to-democratise-high-quality-video-creation/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

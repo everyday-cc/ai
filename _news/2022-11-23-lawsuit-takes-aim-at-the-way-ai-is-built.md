@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-l
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lawsuit against Microsoft takes aim at the way AI is built"
+    excerpt: "In late June, Microsoft released a new kind of artificial intelligence (AI) technology that could generate its own computer code. Called Copilot, the tool was designed to speed the work of professional programmers by suggesting ready-made blocks of ..."
+    publishedDateTime: 2022-11-27T22:20:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/28/2022-10-25T164310Z1765510562RC2F8X9WTDTERTRMADP3MICROSOFT-RESULTS.JPG?VersionId=P3lWCc0kvg0vrlClt6QeCU7PbA1p1NPl"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Lawsuit takes aim at the way AI is built"
     excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
     publishedDateTime: 2022-11-24T14:00:00Z

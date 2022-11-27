@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-23T20:43:00Z
 originalUrl: "https://www.smithsonianmag.com/smart-news/would-you-put-your-thanksgiving-dinner-in-the-hands-of-artificial-intelligence-180981151/"
 webUrl: "https://www.smithsonianmag.com/smart-news/would-you-put-your-thanksgiving-dinner-in-the-hands-of-artificial-intelligence-180981151/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

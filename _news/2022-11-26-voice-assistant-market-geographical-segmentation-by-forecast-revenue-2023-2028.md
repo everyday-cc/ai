@@ -170,20 +170,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market : The research and development scale segment is estimated to witness significant CAGR over the forecast period 2022-2028"
-    excerpt: "Nov 23, 2022 (The Expresswire) -- \"Facial Recognition Market\" research provides significant and in-depth information on the global market. This"
-    publishedDateTime: 2022-11-23T05:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-the-research-and-development-scale-segment-is-estimated-to-witness-significant-cagr-over-the-forecast-period-2022-2028-2022-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Passenger Vehicle Voice Recognition Market 2023 : Projected to Deliver Greater Revenues during the Forecast Period 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Passenger Vehicle Voice Recognition"
     publishedDateTime: 2022-11-25T12:51:00Z

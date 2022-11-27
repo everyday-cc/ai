@@ -24,6 +24,17 @@ images:
     height: 2993
     isCached: true
 
+related:
+  - title: "AWS CEO Adam Selipsky: The cloud is about to reinvent corporate cultures"
+    excerpt: "The event is always a relentlessly upbeat gathering, but this year Amazon.com Inc.’s cloud computing unit is facing, well, a lot of storm clouds. Although some companies might envy the 27% revenue growth AWS reported in the third quarter,"
+    publishedDateTime: 2022-11-27T19:00:00Z
+    webUrl: "https://siliconangle.com/2022/11/27/aws-ceo-adam-selipsky-cloud-reinvent-corporate-cultures/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+
 secured: "TLqQW06EyTlyc1c9nVpYTo64WXlsj2o3ZREQevWk+ldaJVZX+RHDzo2LHn6wvwalcGzlONX0yvpIklXWCIQ0EBp+2ZMfJwMsTjKjHSuak3mpn/nkmAYj6Vu353yWPmIY3XAm4XMs945h08A422fDntnmtuHhSN567cjGNT0J/L24soWDsnCIZrX8JFKaFTFNvGd679L/DQl7ra/Sj74wZI+DSOhxT/mYt/aEWH80LU2+CTVisTLSMPCly9+Fh1V2TQOSBJKu0rhyri98K1/zJZZjYcaFYrvLOMoU4jWYStv3aeqeVn110hfhdJll5WOV5x+tX38ucXy8lZ9b920zJLnDSz+WUvVMSFqDfd4yC7FWpwtV69AieCApjri0+46Ec4itPODB2USB6RW+++1r8YPcsvnUeLdcmnFAZ4B0obXLQ0ZeclLS7hBWrHyzn7sdlw3v/YP26oKiMmhsjNU+lraBZfp6m/pCQXlKosrvfDPx8himu88w49dlk7KRcz203STUay1grjCGpYX4RAaVGQ==;8UbkMNUYMKjj3FVg/jJlFg=="
 ---
 

@@ -101,20 +101,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Supermarket giant to trial facial recognition tech amid soaring crime"
-    excerpt: "Supermarket giant Foodstuffs is trialling facial recognition technology across its North Island stores as the rates of theft, burglary, robbery and other c"
-    publishedDateTime: 2022-11-23T04:34:00Z
-    webUrl: "https://www.newstalkzb.co.nz/news/business/supermarket-violence-foodstuffs-trialling-facial-recognition-technology-to-combat-theft-assaults-on-staff/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/0zmdigd1/foodstuffs-will-be-trialling-facial-recognition-technology-at-about-30-stores-across-the-north-island.jpg?rmode=crop&rnd=133136955029000000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "The Next Steps of Facial Recognition Technology"
     excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
     publishedDateTime: 2022-11-23T11:48:00Z

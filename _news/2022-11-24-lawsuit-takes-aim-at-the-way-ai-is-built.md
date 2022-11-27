@@ -38,6 +38,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Lawsuit against Microsoft takes aim at the way AI is built"
+    excerpt: "In late June, Microsoft released a new kind of artificial intelligence (AI) technology that could generate its own computer code. Called Copilot, the tool was designed to speed the work of professional programmers by suggesting ready-made blocks of ..."
+    publishedDateTime: 2022-11-27T22:20:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/28/2022-10-25T164310Z1765510562RC2F8X9WTDTERTRMADP3MICROSOFT-RESULTS.JPG?VersionId=P3lWCc0kvg0vrlClt6QeCU7PbA1p1NPl"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "vBPa0JbCAPlo/2EA8eUVDVRsEgLkP5Yhd6ayNaD9fTv9YX6xyg2lGrvvBWF87j3L08ZyzbqkYrkUm29vc/1z0y9NR2MgM9qv8KPnWbJLaN7PC3uetHklroaDqOoGJekOryNdCMq2/+IN3CvjW6ZVRY3+pQOQIe8Z1YhdjIYjidTEziwScKzfM5xCPZgoyKUFpMGq8YbyijLbCxEb6E72w4v3sU7etnMwg/qFMBf2z+PPzGVzy+o0vEoE9j9ZY8ii9D9xSOIkt4tIQR+P2iB1olrXPOo9PkVxMP7NZzMU33Q5P/I4jv0KPN/2s47tmBVLAeizpXQyQcTHinaOssNzzGBZdjVnCrRgQOmWpYg4r3tngzvC9tEvhHIxC0zTYEA5MkmPeq20S9AvJhdIXDLOGK4dCcq5X7YtLQ6XaBOY2N8GUfxaDB+oIKVGh0faGKiudujo7n3soQiqm0IIFC0VVsHMPeQ+SvB14iLIl8Oao8KlU9XRCzp0au1P4ybti+rWhT1Vp2V/iR9PcT7YivM0aA==;Taq3h002r6aCN7ib7D6+FA=="
 ---

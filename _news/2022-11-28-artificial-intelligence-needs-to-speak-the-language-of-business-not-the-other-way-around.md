@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intell
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 84
+heat: 84
 published: true
 
 provider:

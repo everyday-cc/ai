@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/2022/11/23/cruise-waymo-robotaxis-ford-gm-au
 webUrl: "https://www.axios.com/2022/11/23/cruise-waymo-robotaxis-ford-gm-autonomous-vehicles"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1366
     height: 768
     isCached: true
-
-related:
-  - title: "Baidu claims its robotaxis rival traditional ride-hailing in parts of China"
-    excerpt: "Chinese tech company Baidu said its robotaxi business in large cities is close to gaining the same traction with locals as traditional ride-hailing services."
-    publishedDateTime: 2022-11-23T06:35:00Z
-    webUrl: "https://www.cnbc.com/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107156081-1669181908288-gettyimages-1355764501-vcg111359334663.jpeg?v=1669192547"
-        width: 3996
-        height: 2664
-        isCached: true
 
 secured: "YkwRO/EMrKg23Knn2XOM49m2PbLPt4MgrX6nTdkzkiG/ROxXaLTQ4hF8QsdWz9g/Q+A7YNyiqH65hdrm7ohuXuYcjMipFf8n8rFHMckbgU1vZoN/vPRKa83StMHY2TbDvnESn4Qh6cfg3majcyHljCRlFxngHDy7wjm7kMdJpw2vEkHr/7Cl10GgnhSmYwc1bEDjRHcut+1e2i3Wl50xb1neZ6OhaQlGjWbrzxwnTZeOUL6ykNUojUGhZIUiDZv00aB46hbtysH1+md1QXMpKGlA5kzVXYD81BE2UmTMhVEo+GRhuy5A9GiclRlihWps9dF9sFKlmTzBuUaRMGvEJAGh7ODd4PKqtvZBkr0dbGg=;QXVeFTdHYOPHFI2Zuo47OA=="
 ---

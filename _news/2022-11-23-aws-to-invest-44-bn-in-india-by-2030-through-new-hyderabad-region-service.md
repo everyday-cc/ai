@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS to invest US$ 4.4 billion in India by 2030 through new Hyderabad region service"
-    excerpt: "Amazon Web Services (AWS) announced it would invest about US$ 4.4 billion in India by 2030 through a new regional service and support more than 48,000 jobs yearly."
-    publishedDateTime: 2022-11-23T04:48:00Z
-    webUrl: "https://www.ibef.org/news/aws-to-invest-us-4-4-billion-in-india-by-2030-through-new-hyderabad-region-service"
-    type: article
-    provider:
-      name: IBEF
-      domain: ibef.org
-    quality: 33
-    images:
-      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
-        width: 500
-        height: 665
-        isCached: true
 
 secured: "9JM6JFHeOSph6VE465atmmk8Roavi/2tPDlptcpxbWPcGLG7bDBp8wAEgcVB1Qzr7XrJnKdkqI+JMr8kOf5cgU8lrgRMlMaXSLkYHnwQYPoR5miLq9f+OoosiX6uSVkkx0nXZnKdcWAtXZ6qWckGWVNZkMzwm+U0A0yzGCHfozlqY/H00bBUgziu7Zsvb9HQB5x3R+VOWeBjTAr6Zozu5eurlsbawVarcjvn04F5d+6kqpKiZQlICcRsdQtXIxFyw0N79JtdP9PevhKJQAvPzP24CeCuVIbqc9BU5KyBByi9KrqN2fc4SgPUY1GfeJiMvH1NIiQBnvr8xWuO3v7zp3B5Yz4A+IfijTtrB4JOUkwKeW9d5qsWKUf909dSeBZF8oA0/Cxrh061pknHRkgAMwbBUFmJqAL/0i+TnVGvMy1NTWK7mvobKQ7Gy54LlOjKhoxvFrjCufENprBTSsOhdloDKkNyl4JW1pWVpKSPgvrpNg9KI9L091cuo/6VW1U0V97AGxAf/WrQlw0CA59mWw==;Zy1G0SM9jTvBTjLxYndPew=="
 ---

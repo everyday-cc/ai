@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/"
 type: article
 quality: 92
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speeding Up The Use Of AI In Health With Redbrick AI’s Training Tools"
-    excerpt: "AI is remarkably effective in doing diagnoses; using AI, you can automate 40% of breast cancer diagnoses, for example,” explains RedBrick AI CEO and co-founder Shivam Sharma. “However, there is real challenge: these systems are not straightforward to build and healthcare in particular poses unique problems."
-    publishedDateTime: 2022-11-23T05:30:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2022/11/23/speeding-up-the-use-of-ai-in-health-with-redbrick-ais-training-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2022/11/23/speeding-up-the-use-of-ai-in-health-with-redbrick-ais-training-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/11/23/speeding-up-the-use-of-ai-in-health-with-redbrick-ais-training-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63761d470b4db37722365091/0x0.jpg?format=jpg&crop=1807,847,x0,y582,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
   - title: "The Download: Meta’s diplomatic AI, and China’s online comment censorship"
     excerpt: "Meta’s game-playing AI can make and break alliances like a human Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map."
     publishedDateTime: 2022-11-23T15:50:00Z

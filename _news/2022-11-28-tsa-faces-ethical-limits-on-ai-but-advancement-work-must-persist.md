@@ -44,6 +44,15 @@ related:
         width: 1024
         height: 686
         isCached: true
+  - title: "Sheldon H. Jacobson: TSA faces ethical limits in use of AI, but improvements must persist"
+    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, elicit ing visions of innovation that has the potential to change our lives."
+    publishedDateTime: 2022-11-27T18:00:00Z
+    webUrl: "https://triblive.com/opinion/sheldon-h-jacobson-tsa-faces-ethical-limits-in-use-of-ai-but-improvements-must-persist/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 27
 
 secured: "q8mRbHsJkOqlAialkq5QQ84yhj71rX6XKA1gKgW9LU19xbu0RG0CDEcYvlfgLZiVz4rP9/sLOIdd9ha7yaVK+RVAyuPExpeVMY6ve6aT9f3L1MVffTAfNdg9LpnzultXZvUX4+/MOVZZcKOCE+dgVIY90uav+U2ufQOyldf6nK+HE3EVO4USgXTCVSieXgZz2h5Vej1C03ldX5KBqEhvYgZkO7dLJI+q7SFqVoACU4k/pKVEAi3oD0+M8lA7oN9jYgojPzJt3kEJcs4/l1cRiGmeALQxKARzimIC614TBLzCGIyO5hDewcmbLw3T4zf8hUExC777C1aaSlrDVYuk0CCqHTzSNz66W+n4lAoMPwYGoBg2sIDGnJloRPmPJCkqxu3ONDFdWBwTA0uLCAOwdt0zEThyOuqRkB7iJbRGXJ/+GX7ELlTlm2sI8T1btYwq7nmh67G3D9EM7RiVVE3IrgFaNpfPfoeu2I6cNQxK0e8irby3+q5xbM7+rJyl0b1vujNUYvV9cg+0V8aDp14WQg==;hmQg0BauOc/mEwrnOv4NAA=="
 ---

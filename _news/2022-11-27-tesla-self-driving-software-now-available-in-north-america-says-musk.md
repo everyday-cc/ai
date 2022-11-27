@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America"
+    excerpt: "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week."
+    publishedDateTime: 2022-11-27T22:20:00Z
+    webUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 81
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Tesla's full self-driving beta now available to all in North America"
     excerpt: "Tesla Inc's Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight."
     publishedDateTime: 2022-11-26T06:44:00Z
@@ -139,6 +153,20 @@ related:
       - url: "https://i.tribune.com.pk/media/images/Tesla221629456872-0/Tesla221629456872-0.jpg"
         width: 728
         height: 424
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' beta is now available to everyone in the U.S."
+    excerpt: "Tesla's Full Self-Driving set of features is now available to all Tesla drivers in North America, Elon Musk announced on Thursday. There are a couple of caveats, though. FSD is only available in Teslas which have the required hardware,"
+    publishedDateTime: 2022-11-24T09:18:00Z
+    webUrl: "https://www.aol.com/news/teslas-full-self-driving-beta-101829769.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 53
+    images:
+      - url: "https://media.zenfs.com/en/aol_mashable_370/29f18c7c18e2acae76ec69bad0163c6f"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Tesla Opens Floodgates for Owners to Test Out Automated Driving"
     excerpt: "Tesla Inc. is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."

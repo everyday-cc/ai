@@ -9,7 +9,7 @@ ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-li
 cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "Sheldon H. Jacobson: TSA faces ethical limits in use of AI, but improvements must persist"
+    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, elicit ing visions of innovation that has the potential to change our lives."
+    publishedDateTime: 2022-11-27T18:00:00Z
+    webUrl: "https://triblive.com/opinion/sheldon-h-jacobson-tsa-faces-ethical-limits-in-use-of-ai-but-improvements-must-persist/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 27
 
 secured: "mgBed27kQChLW+UWUHtBU2OREsDYMxAX1iXCH0CdpUaDokqL2Emb7IuOs4rLs1BKuTXN7cZPkW/Da0QVwKhf8/guTaFU8emWdMVr68OiWP4E71CM/jVFtgkjKW2YtGouwrdLO9z0jEgo+0RkM9L6Guqih4aTRMZzNP5XDVymxENFjd/PWv6x5XUh8E8xX+B05yTDe2gDckHKS2Y6CR83ZIOZJRdpRiOVZw9DkfqkkCbwVc1kjQGNIXpLZsbBiaAKLtx8jCa5EwU8LYckHjMoxmLIlkQm9ntD+pNdhyBfj7Z+At4W6DpTlZS//VIG4WAxP8XdaXGMGV4Yc3Ud0dFJWdnTM2/id9VDST++mVJyAWMtYTrVWeVbs0wkG4RVqicO8ubSn9IgGoKmfJk0KLkab1eeH7XItU8suWvJcUAuB6F0ZAZrKixxz9MzM0jAJU5Mvvtyoekihz1XwM3ezC2o+R+F9UclE8LfGh6P9uaM67t2KI5iQOKl2Ktbv0NvovnJ9lzm7eRidwPC6RCG0s7aIQ==;/IriQCKXX4yGsdpGGjbjAQ=="
 ---

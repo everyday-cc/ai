@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu posts 65% increase in number of driverless taxi services"
-    excerpt: "With no one at the wheel, self-driving taxis developed by tech giant Baidu rolls down the streets of major Chinese cities. When its sensors spot the corner of a delivery cart jutt"
-    publishedDateTime: 2022-11-23T06:04:00Z
-    webUrl: "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695"
-    ampWebUrl: "https://www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695"
+  - title: "Tech & Science Daily podcast: Driverless EVs roaming London | Plug It In"
+    excerpt: "As part of the Evening Standard’s #PlugItIn campaign, Tech & Science daily has spoken with autonomous vehicle company Wayve about the future of EVs in the city."
+    publishedDateTime: 2022-11-23T13:22:00Z
+    webUrl: "https://www.standard.co.uk/tech/uk-london-driverless-evs-roaming-b1042057.html"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 74
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 53
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_530358448.jpg?itok=77pXLNpo"
-        width: 2362
-        height: 1417
+      - url: "https://static.standard.co.uk/2022/11/23/11/Wayve%20in%20London.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "zCnKAA1fDYT3hOM8/5qcSnCUnGd+M/TUzYDe5QENOv2/T1+oLdCNu6sfkm/ev/+TqKEzWjlEsVUB3/xSb2/0DiKLSZpaeeiLN7j3vu2X1gkMLQO0notrwAm1Rxt7ezyqqJoI0GeR3GV1DwCHdgV0903LB9FC7p9b0PVwm698sSBr5wy4cEykD+c8yFwi75o6hAkfd2fLPxMOhp8KbW1uIJ4p3kE0C/OgYMGDBhgf2Pc+jX4JQkcRetSIi0ea7cJXOIHr5o6OwaCoIGy9ORKIUINQ6+Qcy8E5Cd4DiPG2gM5Gro+IKzNRucokMzWUDvMiHnVcFnD/Nimg/an3PUUDgbA0YFDTJ3Y5mFQ2187/VApx77wODKOa+Pj7blhGWkZlTeQNZAQUtRblAotmlxCE9pB12VussUtzUDNTRatevw5pY7WYgphbP2Aubu+M0eNoQ7Smq8FfYrN5dLqPx6q+/T8AD8yVXfCXAygdh1vPdikFNr0Jw3nUZWDjhSZY1fVEAyM+xhe6UJToiZ6ftxf8gQ==;nfrN3l5zXPr2zEfkO9blrg=="
