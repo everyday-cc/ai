@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "brainomix"
   url: "https://www.twitter.com/brainomix"
-  followers: 1147
+  followers: 1148
 
 size: 11-50 employees
 yearFounded: 2010
