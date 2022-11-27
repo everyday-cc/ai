@@ -1,0 +1,20 @@
+---
+category: news
+title: "Is ‘artificial intelligence art’ really art? Yes, says this California gallery"
+excerpt: "As artificial intelligence becomes increasingly popular for generating images, a question has roiled the art world: Can AI create art? Let's discuss the issue."
+publishedDateTime: 2022-11-27T14:00:00Z
+originalUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/"
+webUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/"
+type: article
+
+provider:
+  name: WRAL TechWire
+  domain: wraltechwire.com
+
+topics:
+  - AI in Autos
+  - AI
+
+secured: "edffMADUvFUuqF8nTZ6VIyuUA4tXLMSknH3REIQr/WewPuA0wgn927cotUZwu9jh7WKmfwI3uZKqGPk6KdFCQZAPKCRHjFiph6si0JhlFA4+6wmzl9wHj7Uu5X4oQL3nsVmi+E8UIhUNRC3DgO5OtcQB9uGvGqzAxWHZ4AhtwyvJGvq/ww7lIr6TT3gcyAIj2n60xcitcjpLD0UnIPaVQ2MnY7+r2Rmmc4LLBWMw+1HSqESyjodkSxucAH08iuxAd4FdMfPN1Awg3xSsz0g8/XMmjwTehkQbs4oI4Bf0VRpQ/tkT336JgvAkpaPGa0S+K5HFSAhWI+G3FsvsmkGp+Br6EeOq5OYRBvV+Gh2XQ9I=;gaNdkOqg9M8Ce57lfuSVnA=="
+---
+

@@ -1,24 +1,19 @@
 ---
 category: news
 title: "How Bitcoin And Artificial Intelligence Will Free Your Time"
-excerpt: "Will robots surpass our intelligence and replace us altogether? Will we combine with machines in some symbiotic merge that creates a new super being? Or are machines merely tools that will allow our more fundamental nature to thrive?"
-publishedDateTime: 2022-11-27T02:59:00Z
-originalUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
-webUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
+excerpt: "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet."
+publishedDateTime: 2022-11-27T04:00:00Z
+originalUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+webUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Bitcoin Magazine
+  domain: bitcoinmagazine.com
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Healthcare
 
-secured: "eq31hVl+8rYcpExaylbSzM/Uv3jeUY36bzJ0wzYcyM0/bJDcYqDWW5A75qGnEsHnCEY1EQ6ONcngg4Hz9/otSiXJkK9JG5Dwd0LtEZZOJ2rALiPkhKJsby8KLxpL1ZS0Gb3obTfjUU/J/BczxajWF4G1N93ToIlwh71/xnNl+J8BdEQdNZBINFkn7ouzQADp4fsjFaY8m2N1Px99bbfmWsq4604gUxpyJGTtPE/iiwVbyrcDynIbJ5ESe1LsmrDP8+96VG66YdZok2Zm+iwyb7hYinarOiJS8oX1Om5btUQemR+Zi76xMZzi5o5JcagPiaz52qGwomiSFczIFxU/W5NzPXUJrJRaTSUlZ5moHt9N3ToANEVVdQ57p7va/WCr3hw7F8GI0wj4TeqQC7yLpHQnz7gyyZ14/OBqOjkkFsyQeFYRq4x/Eyo0GN9XCEC/xxJTK1ETtRar+lZnQAVSawX7mpos+bJMzY4rpWKsiexSOheDjapn3LXqAMe+tf+NPaNO+4YJkSlGd61ndrtHaw==;mgV8SfbaCznkYoqOohHZFQ=="
+secured: "xPR1JxZe44U2MYmnu+THenqu3ARUQsYZda7ZXp9KS6UednHsbqN4EkbJt/UvQEFaAPlJJgG5TMFkANtU1ASLKiYO3+BUDKJ/SvRNXKcbYTzhShBZMl2mH+lpZop6fR8/0ZI7ZlokEMn1pBnVYBCgl0D4u9HMoL5KKAqYVUw6LjGj3JhefOtGwi2UasNtIOIA5PSsDimT0Uk4Za8U/kAjl6S+37hEvtAQygmOZzApUjBUpkN58leE3Qmf/nGCCUhAdNJwph8FdimXzsAfyEBiqqg2/dWxM3FlwnN3ZEhsY5skESAm/nqJxDpKVWTUBNcNjjaIOo07EnUQRtj9ThzoW+f14I32gv3/ttTUji0RicIa0mR5yNxufnlmKLi4HgpQzTECOxXB8zW3NB8m8fdeG1ncto1rxAGN5CgTWqEpHxe+W1u56xkfmtomojF6dxFJNuuJy9vQm0b6sfUZA58CysAP+rxLcZ9qTt0k3camfhWo2rKpO8s3iSwzGSjRr5v4muRwGGu37v1aIsma4f+TwA==;Zf+Qx0uMF4UH07N9Nw3OLA=="
 ---
 
