@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learni
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25"
 type: article
 quality: 63
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
+  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
+    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
+    publishedDateTime: 2022-11-27T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Fintech Market\" Insights 2022 -"
     publishedDateTime: 2022-11-25T11:54:00Z

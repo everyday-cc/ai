@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
-publishedDateTime: 2022-11-23T08:08:00Z
-originalUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-webUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+publishedDateTime: 2022-11-22T17:08:00Z
+originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
 type: article
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
-secured: "n4BF1EaTi2Fvg9oZKxpzGzn6qZuECFyTVf5COMDct8SNR+/cP+8f1BxHFi46RXOmppLUHw0rBzc4ZUQaplHSemAZpl7Ar4+mScmCcjHV1J1GWVtEUrZSeAU7v/KTKCGGrA8myUogBRDNq2MBmEtc9/KaQU/APcjFB6ybEuVWKICgtJyaFWzQUskDAmWoMWDCqsm/R99MZylzvUYhZcUWuRBYJ6l2cYVKH/jaZSoQ5G5uqscD7hRz0e9UGnDkE5Kj6ZNqJsJZmF9vlYN9D1qykCogrAKDkHqW8AqC4eKs9zV3uzA2qSkog1EhJLDfNGomQy8e/9+65RNZPIP2YKwst1K/dEQQ1IrTfIAUicKaZmU=;FQ/7AP2gQb9llVfLWeLh6A=="
+images:
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "vqwULIRK7hMHqNOgnWxjrYfrDfYRaN7JlOH6vlF1WtIEKD0LWbG6oN+fl/v0JgfNq5zXf/1XUMAie9XILImF9mCXKxQN7aUATDjoO6FtiJpfAysyy/3Rss920Cgtvip9TRxPmCt9WHXzTTkRsNgHp1WY9mV84mjOoFnUZ48/BSoJeotBseG8fbg4Ol+Sr5fb0MIWh47vOvz5m+Bu3e198IQdSz03BsAFPNqrSEtN6N4dUWhXo0koMI4mKA2UDi+YsSuA666US/D4rgiBgSM3ggcoLKVTyjapRazoJJbUMaDT8+ZSMyFz6jpDbbzwn8DtsvDbwBOcIOKaZucFHzXWyqsfESKx6efzOszoe/u3fgw=;BQgU90rakEnwJr6iTcAluA=="
 ---
 

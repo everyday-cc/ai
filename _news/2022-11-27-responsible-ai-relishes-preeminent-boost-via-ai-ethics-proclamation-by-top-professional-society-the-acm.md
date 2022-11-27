@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-27T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/27/responsible-ai-relishes-mighty-boost-via-ai-ethics-proclamation-rolled-out-by-esteemed-computing-profession-association-the-acm/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/27/responsible-ai-relishes-mighty-boost-via-ai-ethics-proclamation-rolled-out-by-esteemed-computing-profession-association-the-acm/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Forbes

@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Can AI Learn Better without Learning Anything at All?"
+    excerpt: "What if machines could also meditate or do nothing for a day or two—to learn better? As absurd as it may sound, a group of researchers have now discovered how artificial neural networks can mimic sleep patterns of the human brain,"
+    publishedDateTime: 2022-11-26T10:29:00Z
+    webUrl: "https://analyticsindiamag.com/can-ai-learn-better-without-learning-anything-at-all/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/Ind-art-b_11zon.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "mEOiz4Y4XSPGW1eWxLhCHkiRvQQsM4FsiEavXdTKfhs4nGm7hAUDVk8LfaNCUy0KbulEM4kBO9jyGdj4H1QZygVccj7JV5Y6LNI6ZP55GwaJIBMgi/zj06+SQ1Nd7acxbYtrosZkOFT53RSEYUhccrRhgTG+D/9enudZnn79Jzw8nIuptLr9nlMu3sUkHzHsOeDFXPmPS1u/EsFb6xzcNC+xZnXmI33clXSppIp4fxfkwdsUpAx8vYNIgVFmHHtijmCQaG+lueQV/qymRuoFLaivSazoHvwvkpqEAXaTQXAmDTOUuGPmOEWruAYYZuZl6eUrX0zLZiaDJAF13duDJmdd/GqJrpSsG0hQaUkcMjc/k82Is7AHbCzCwcVrsb79cxW0ntcRLmaYg05ReqIDmYwnaD1lAHRHJV4mUtwBmrey0uugn86+BMarIt3yHPIM3+fESqE2qWbKAox0oHq3rx0StuJjVmCpAhp4LxGgt7nTzILoeE2CqUOhZ7vWq9zw9YVCPw1KoM5YJZJxNthMMQ==;TnqrAOo5oebtNCTeSbm9Uw=="
 ---

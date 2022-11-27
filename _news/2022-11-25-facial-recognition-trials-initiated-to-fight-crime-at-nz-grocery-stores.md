@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals. A research team at Colgate ..."
+    publishedDateTime: 2022-11-23T16:05:00Z
+    webUrl: "https://wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/"
+    ampWebUrl: "https://wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/amp/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 59
+    images:
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/11/bc66e5432b204e289959913158659136.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Facial recognition can help conserve seals, scientists say: here’s how"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
     publishedDateTime: 2022-11-24T19:35:00Z
@@ -124,20 +140,6 @@ related:
         width: 1920
         height: 870
         isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "A research team at Colgate University has developed SealNet, a facial recognition database of seal faces created by taking pictures of dozens of harbor seals in Maine. (AP Photo/Robert F."
-    publishedDateTime: 2022-11-24T06:46:00Z
-    webUrl: "https://www.ksat.com/tech/2022/11/23/facial-recognition-can-help-conserve-seals-scientists-say/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/HABD6G4GYZER3LED3DPIVN5VNU.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Scientists: Facial recognition could conserve seals"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
     publishedDateTime: 2022-11-23T18:36:00Z
@@ -146,6 +148,15 @@ related:
     provider:
       name: WPRI 12
       domain: wpri.com
+    quality: 19
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
+    publishedDateTime: 2022-11-27T13:31:00Z
+    webUrl: "https://omaha.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_cfb3361a-d395-5065-a8c1-e71cd3fa8b9e.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
     quality: 19
 
 secured: "53SUt7nfPA89FL1KRLPE7uy/y6ahK/0GfuVSiIF8IjRoFJJDwkXlaT3YF+vJgQZ8N22HtHB2enOFL82IsiZ4w5QYxj+avahsCz9TfkhZDYIcZc6AGfl3e4TP0lcux1OiYhsg/imuzHbaOAABlLOcGEW8iLzSfPIwvLRBsdF/bt46zLjOzGf+EiYhXbkZNSAI/tXED+eqYLE2+Nmp+gHCHh/9VMBvhV/9ajLKnOSOKgo9a3qAdLi6yJ1fVVyHINiGO3n4t5Kmt/D3UZs38J872e+KFnLteYaBBi6rYFlBHZYuNuqeyrs4obGMDnB/yihSzQ0yu4EwDquDq8fvgRCfkhYi9IldSDqlghfIXDn3+IeKGWVVP3eaDvCgBEODCxoOq6i9dk0G9Oit4CsJyY9RL0vV8fDGhR/u+upSUNXsPVrjor9j3TZnUR23rxcxVOFDxajK3kSAaa1RXnsaw3oOwgftQ01BP0v8iTGgTTOwR+WILOnHe6MbXUDv1Dws4JdheFJ2w4di3YUBWNC3z7/x2w==;NS8l8pv2uX/57ZSH9/qoDQ=="

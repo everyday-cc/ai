@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LegalTech Artificial Intelligence Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"LegalTech"
+    publishedDateTime: 2022-11-27T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-11-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Lock Market - Global Industry Analysis and Forecast to 2022 to 2030 | By -Dessmann, Kaadas, MI"
     excerpt: "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Face Recognition Lock Market research report 2022-2030 The Global Face Recognition Lock Market investigation report is segmented by Types ( Black,"
     publishedDateTime: 2022-11-23T05:25:00Z

@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "UC San Diego: Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
-    excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
-    publishedDateTime: 2022-11-23T00:03:00Z
-    webUrl: "https://indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
-    ampWebUrl: "https://indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
+  - title: "Neural Networks Learn Better by Mimicking Human Sleep Patterns"
+    excerpt: "San Diego is exploring how artificial neural networks could mimic sleep patterns of the human brain to mitigate the problem of catastrophic forgetting.  The research was published in PLOS Computational Biology."
+    publishedDateTime: 2022-11-24T15:55:00Z
+    webUrl: "https://www.unite.ai/neural-networks-learn-better-by-mimicking-human-sleep-patterns/"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 47
+      name: unite
+      domain: unite.ai
+    quality: 39
     images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-University_of_California_San_Diego_seal.svg_.png?fit=1024%2C1024&ssl=1"
-        width: 1024
-        height: 1024
+      - url: "https://ml8ygptwlcsq.i.optimole.com/cb:QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/11/mpho-mojapelo-I84vGUYGUtQ-unsplash.jpg"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "Like a human? Artificial neural networks need to sleep to learn better"
+    excerpt: "According to a recent study by the University of California, San Diego, neural networks can imitate the sleep patterns of the human brain in order to tackle catastrophic forgetting. \"The brain is very busy when we sleep,"
+    publishedDateTime: 2022-11-25T11:42:00Z
+    webUrl: "https://interestingengineering.com/innovation/artificial-neural-networks-need-sleep"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/25/image/jpeg/xhdJXBIAhqGYGhRyXwbDQObolFtnQL531GXOM7UT.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "8c44dGvidtu3f+Xl9yuBURwtlfgyGzvP1V8KE9ChXJWornNXIhl57pScRKQHcDJ9I4gXR17ggJA4DbysIrjQtVuAqPuotgRsct9E5p1R81qEkrbcaSu8eG/lJ/XmJPxaBN82YzkWb0Q9rrjIth/UroXBNdyyKQRVaqUyKTfDwvXvNVyr23i3kwtNR9gCPPEdsv9rw6uGvX90RxuUq7HfZnc0SRbEEiYl8h29RQoGRp5m2CqJr/OqEiOi+kLKvc93a1osdLVdL4P1ZQHgQb2ScGED+azDvDoHQ6yVMbkcSunDKjq+y9C6gDiNaHPrc+pY3u+nXMVZAiXzStRsd+s/X+ADZlrNgUwSpOt5sVPxXGE=;zwnqmYlgx33VrB2yzrl1tQ=="

@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LegalTech Artificial Intelligence Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"LegalTech"
+    publishedDateTime: 2022-11-27T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-11-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems in Healthcare Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Systems in Healthcare Market will have significant change from previous year. By the"
     publishedDateTime: 2022-11-23T12:09:00Z

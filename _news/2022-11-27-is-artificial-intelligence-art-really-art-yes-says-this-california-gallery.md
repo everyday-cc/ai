@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-27T14:00:00Z
 originalUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/"
 webUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: WRAL TechWire

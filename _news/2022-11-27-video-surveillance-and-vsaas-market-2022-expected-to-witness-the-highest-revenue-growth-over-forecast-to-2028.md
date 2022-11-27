@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Passenger Vehicle Voice Recognition Market 2023 : Projected to Deliver Greater Revenues during the Forecast Period 2028"
-excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Passenger Vehicle Voice Recognition"
-publishedDateTime: 2022-11-25T12:51:00Z
-originalUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2023-projected-to-deliver-greater-revenues-during-the-forecast-period-2028-2022-11-25"
-webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2023-projected-to-deliver-greater-revenues-during-the-forecast-period-2028-2022-11-25"
+title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
+excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
+publishedDateTime: 2022-11-27T13:09:00Z
+originalUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
+webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
 type: article
-quality: 30
+quality: 35
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 images:
@@ -147,20 +147,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
-  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
-    publishedDateTime: 2022-11-27T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Fintech Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Fintech Market\" Insights 2022 -"
     publishedDateTime: 2022-11-25T11:54:00Z
@@ -198,7 +184,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Passenger Vehicle Voice Recognition Market 2023 : Projected to Deliver Greater Revenues during the Forecast Period 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Passenger Vehicle Voice Recognition"
+    publishedDateTime: 2022-11-25T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2023-projected-to-deliver-greater-revenues-during-the-forecast-period-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "iEFTQ6R2nYiGQHw/9Rsk0B8Rk62ZulIVfXeUseSkIWsMBrlKCuJTaUauBYJJ5vtqXVYuaeEywQycl0eFI7wdlt2SMAzuwTEMdfL2/EHzMJMWClbIfYDssCj9yb/cRFQ/5dmQ80M+K9boNtqiOpCrMnbieniUh+Efvxj1pVJaEgDNnKdjdWiczKuqfvF7T3mH5BMnvlZC+jinZgrIGATTlva66GHJDIOJM4OM5x1V1GCzMPPxuSdvCvcC3bCRX8lrEAWs27xWjt/RWnxJogsexihI9LfZtiNJwuGo7bclShIP3Yuv8ewlESOMYXzvaIjRc/K6sWpiYrCYvk98fpsq9wDlTCyzTYQrTzkNMnlAv18=;LTnPWLpi0W6v0asJ4un11A=="
+secured: "re+FXQooZOOVpg84gYvew50ckqFlWf0cXZ/aZIlDos3kMrIPrlf4G36DKpoU0pgzCi+nRxb5OxtNywegJKxxJ+9XD2LN7neWKBnXJj0THrw3kSFYnBkRi2AMzFoW36iXByXMqLCW8fHV42orJZ+Ptyp3zeEFlD2ZOKCXMffb3CRucucEcKR5h0Boj6Jlp2Z5WMH41dJI4i5Ye+DlXIXRWd2XIuu7tk8bbM1gKya5ODB1F1hdZtloulJXvHv7BoaJiPVMNmgO7o8TgytRUEt4Qk7GDQn9FWcdl6rI22RMgsmfLxGX8Ze4cXE2Lw12NMkmrVEIrhw5yrk29T/4O+Yhh+AyhuTn5VeGL2ha0IEatJo=;Qd4WqPc0OyJVLocFxvMG7w=="
 ---
 

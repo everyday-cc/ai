@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-lim
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 5813
     height: 3868
     isCached: true
-
-related:
-  - title: "China’s Baidu Sees Little Impact From U.S. Chip Controls"
-    excerpt: "A company executive says the search-engine giant’s AI and cloud businesses don’t rely heavily on chips restricted by the U.S."
-    publishedDateTime: 2022-11-22T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-672192/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "RkuXq5g6jdKnS9M7g/fbku0AlDOzrsiEUFnGUDobNE7BBnusoy+Ln0Nu/QNofS6gHVKUHNTqL/7daBdvVkGDrQi6q7cLfyTUaBtMRRI9rX6hovvfcxVFNBCQJxKq1mynAC5cFhtmScbF0aTWfuvQRCbp1CnV7ARnpojhE3QTxFbkKNHDt1539p0rFvbxVQyfcowR9I8lLoy9aba4mcziq5zUE8A6k0wcvKabjWlbxMD9GOvXj2dquK8CxJtECcYOxm57CUW4D84cDKzZt0nKQj/c8oMfjnu73mrt4izOEeZ9hUUObA3eNhol6HDUpmvfiHFQIPy9YNFuDQ4waDJT0t76vI5Qzoc/YC9EU+oLr30=;t1LCR3xcUQTbVL9U+90aeQ=="
 ---
