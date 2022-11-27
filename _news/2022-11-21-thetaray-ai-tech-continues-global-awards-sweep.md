@@ -1,62 +1,26 @@
 ---
 category: news
 title: "ThetaRay AI Tech Continues Global Awards Sweep"
-excerpt: "It marks the second regional award for ThetaRay this year after recognition from the UAE financial community as AML Solution Provider of the Year, in addition to previous awards in Europe and Asia. The CrossTech World 2022 event brought together international financial services companies - as well as new sectors that are changing the face of the industry,"
-publishedDateTime: 2022-11-21T13:30:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/21/9717509.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717509.htm"
+excerpt: "CrossTech Compliance Solution of the Year award goes to ThetaRay (Photo: Business Wire) The Compliance Solution of the Year award from CrossTech 2022 in Miami last week recognizes"
+publishedDateTime: 2022-11-21T12:03:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/thetaray-ai-tech-continues-global-awards-sweep/article_8b9acfd1-ddfd-52bf-be0b-3ce9bf6e2d85.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/thetaray-ai-tech-continues-global-awards-sweep/article_8b9acfd1-ddfd-52bf-be0b-3ce9bf6e2d85.html"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "ThetaRay AI Tech continues global awards sweep"
-    excerpt: "Compliance Solution of the Year’ prize from the Americas fintech community at CrossTech 2022 in Miami is the latest recognition"
-    publishedDateTime: 2022-11-22T08:13:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/thetaray-ai-tech-continues-global-awards-sweep-mae5dhso"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:YTdkNzY1NWMtMWJjNS00:ODdkOTcz/mark_gazit_ceo_thetaray-jpg.jpg?f=3%3A2"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "ThetaRay AI to monitor remittance transactions into Africa for Zeepay"
-    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced that Zeepay, a fast-growing Ghanian mobile financial services company, has selected ThetaRay’s advanced SONAR SaaS anti-money laundering solution to detect financial crime for its remittance transactions."
-    publishedDateTime: 2022-11-22T10:18:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94992/thetaray-ai-to-monitor-remittance-transactions-into-africa-for-zeepay"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "ThetaRay AI Tech to Monitor Remittance Transactions Into Africa for Zeepay"
-    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced that Zeepay, a fast-growing Ghanian mobile financial services company, has selected ThetaRay’s advanced SONAR SaaS anti-money laundering solution to detect financial crime for its remittance transactions."
-    publishedDateTime: 2022-11-22T08:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20221122005167/en/ThetaRay-AI-Tech-to-Monitor-Remittance-Transactions-Into-Africa-for-Zeepay"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 17
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/d3/dd3af79d-c181-5035-bdea-ba0d600154ab/637b778ce566e.image.jpg?crop=900%2C473%2C0%2C393&resize=900%2C473&order=crop%2Cresize"
+    width: 900
+    height: 473
+    isCached: true
 
-secured: "EpuHihxPES+U1kUWOoTxT9RmH4NzLQCGz6PSeG49TdBz8k/CWc9MFrabeczqiJ7NuSbuVzdYnOyePqzfNNGX0XO/oFYCSqnWbwtJr4KTEAaFNnZJhoXVOOjxYhg+0DRE1HMOv6Z8lHdXXanoZJWun+ea+E6VkmS0bkiTPpiiW2hCzk0lgdVXVBXdK4PluqKVSDbSuuo8U/sWWnP2qPKRAocK6PRExPVl/wipX87kD+tgIQd0mFG/+/7oG/vYEnJxGA2QHQkTKj4r6yF15qePix5GT1xHUlEEaltw4vWCCNqbsBcSNhHJbxGhkh8v3XXP5L4G5vh3D8iu2smyT8w9ll4U4Qrb74fdRprD9Y5dSHU=;iOHwhpPMIGyi9t50xVQ0gg=="
+secured: "2ud3ZR5H8TU4V3gCwB20F7xg7b0I+kjtgd9VW3uAywa8mqblrKP/xv9F/ocile2DiL09hrgk8rpaNGNxfa0dsPqvj11AR3V5s+hYYi2BH9J8N6/W4kTS4Ev301FozKozSIq2p4cTjpU1gaE4XPEOO7CaieuxMUerKBPegqzETcXSquHQxzBti/8ljvviUw8kBFepsCrTHysMF896XJF8m52b2RPstW+y+7937lscGfc0IOgjVOiYRuz038boCdSsKH2xgrIx0O1/BOsI6+b8ziyN0/2TIkVOZ0RHHhxoLjEny91dYZmW22dE5QgdQJYs5W7aYGefIT5jmLnyPpGgA6gsxTqcKR+hkBpaWTmAeU0=;PtB2QOBKWoTci++uU3Hhyw=="
 ---
 

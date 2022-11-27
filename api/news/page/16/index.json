@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-11-09-dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse.md",
+      "title": "dentsu and Microsoft collaborate to build a path to the Metaverse",
+      "excerpt": "Microsoft have united to build a space in the metaverse.The announcement:dentsu International today announced it has collaborated with Microsoft to build a unique collaboration space in the metaverse,",
+      "sourceUrl": null,
+      "webUrl": "https://mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441",
+      "originalUrl": "https://mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mumbrella.com.au/wp-content/uploads/2022/11/thumbnail_Dentsu-NXT-Space-e1668049852492.png",
+          "width": 1032,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441/amp",
+      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441/amp",
+      "publishedDateTime": "2022-11-09T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mumbrella",
+        "domain": "mumbrella.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-ibm-quantum-computing-progress-edges-toward-eventual-utility.md",
       "title": "IBM Quantum Computing Progress Edges Toward Eventual Utility",
       "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and writes about processors, digital photography, AI, quantum computing ... computing's long-term prospects, IBM said Wednesday it's ...",
@@ -1069,58 +1112,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-waymo-can-now-charge-for-fully-driverless-services-in-san-francisco.md",
-      "title": "Waymo can now charge for fully driverless services in San Francisco",
-      "excerpt": "The California Department of Motor Vehicles approved an amendment to Waymo’s existing deployment permit Wednesday to include driverless, as well as drivered, operations. Now, Waymo will be able ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
-      "originalUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
-      "publishedDateTime": "2022-11-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
-excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period. The major opportunities for the edge AI hardware market include the growing demand for IoT-based edge computing solutions and the rising adoption of 5G networks to bring IT and telecom together and dedicated AI processors for on-device image analytics."
-publishedDateTime: 2022-11-24T20:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-global-edge-ai-hardware-market-report-2022-exponentially-/2022/11/24/9719518.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-global-edge-ai-hardware-market-report-2022-exponentially-/2022/11/24/9719518.htm"
+excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
+publishedDateTime: 2022-11-24T18:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
+ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -38,6 +40,6 @@ related:
       domain: tmcnet.com
     quality: 2
 
-secured: "91YKM9eTeg7QmxjBvx2D0XhR/cfZ9gJ/8Mez+KmNagY2Y4eIUX/n4bSFCYp0ZqI7TtQRhAsLHeXL6fWPiAX53BKU08SVjz1nEXdCsw3I3XdPpMBY/2X1A1qZp/3kfAtrrVz9CXYWgiAo5ouYtJzMLmwUI6sthXKXk2HHGovSqMJwCJByUbgMXC3jxzRuCumf1iyc3BZzntR/s/d/uADIu++/t2iZe2HN+TMRmwSezxIWy7buBzodYR5SgmAuAq70XqfpNN1a9PXWfI2caepjm1aBOxsfi4luXYJlkYz9ce/zx71UH7CmS8nX8p/Y4E9fNanjdzeoWD1d0F2SN+Jq0NMopxQmJXLp8eW0ykUuvvM=;+pH+NV4+AZJov/cUuLbOYw=="
+secured: "nmz0A/VzdJ5tWbGobcLGbluyrrzPPiP3ZLe6yyqGLxH4jeHCZdN6rgb8UiGmnpskJCt2/CrmdBTX6szZixHfIz6mueAKoERAtAUrM+3whFMYiuEF2enUb8aOJPxo4RTkXXv1st00L9R+EJ8uWnQUZAT+WKEzNHRCyA+hhXm/ZnuyAYzpqdZGq+nn+TXeuDBqotBD9H4xJQCiPH1no5KH/mjeZfwyJ7NKNdFaKZftUo6J2H6AqdK6xox4lbfPFiuuMT7NmICiirxfEWn/CH0cGy0bUn3u4amDj4bFh0/h1YXMcLMmOXP/eeU8eibC8bmHxuJme6ukceqXPMOjjSWfh1dYVtfjYV9CCHI2NdDeX5s=;ICh48yAzW8PpN3lwnEFazA=="
 ---
 

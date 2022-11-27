@@ -97,57 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-26-using-artificial-intelligence-to-spot-breast-cancer.md",
-      "title": "Using artificial intelligence to spot breast cancer",
-      "excerpt": "An Indian company has developed a cheap, non-invasive test for breast cancer that uses thermal imaging and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/stories-63755128",
-      "originalUrl": "https://www.bbc.com/news/av/stories-63755128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/770D/production/_127777403_p0djqfvy.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T16:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-26-artificial-intelligence-tailors-dna-for-drug-development.md",
       "title": "Artificial Intelligence Tailors DNA For Drug Development",
       "excerpt": "Using AI, scientists have succeeded in designing our own DNA that contains the exact instructions to control the quantity of a specific protein.",
@@ -156,7 +105,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -303,7 +252,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -399,7 +348,7 @@
       "originalUrl": "https://createdigital.org.au/qut-master-robotics-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -587,7 +536,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1143,7 +1092,7 @@
       "originalUrl": "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1228,6 +1177,57 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader.md",
+      "title": "2023 will be year of ‘hope and focus’ for AI, says PepsiCo transformation leader",
+      "excerpt": "The year in AI has been aspirational but ultimately unsuccessful, says PepsiCo's Athina Kanioura. But she has high hopes for 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/",
+      "originalUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/PepsiCo-Products.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/",
+      "publishedDateTime": "2022-11-23T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

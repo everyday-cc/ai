@@ -9,7 +9,7 @@ ampWebUrl: "https://createdigital.org.au/qut-master-robotics-artificial-intellig
 cdnAmpWebUrl: "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/qut-master-robotics-artificial-intelligence/?utm_source=ExactTarget&utm_medium=email&utm_campaign=EDM-20221124-Members&amp"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

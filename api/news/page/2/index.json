@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-11-24-2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader.md",
-      "title": "2023 will be year of ‘hope and focus’ for AI, says PepsiCo transformation leader",
-      "excerpt": "The year in AI has been aspirational but ultimately unsuccessful, says PepsiCo's Athina Kanioura. But she has high hopes for 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/",
-      "originalUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/PepsiCo-Products.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/",
-      "publishedDateTime": "2022-11-23T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-23-meta-takes-down-ai-bot-after-complaints-of-fake-research.md",
       "title": "Meta takes down AI bot after complaints of fake research",
       "excerpt": "In a statement released to The Daily Beast, the Meta AI team said that the bot was trained using \"106 billion tokens of open-access scientific text and data. This includes papers, textbooks, scientific websites,",
@@ -354,7 +303,7 @@
       "originalUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -841,7 +790,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -989,7 +938,7 @@
       "originalUrl": "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1238,6 +1187,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-ai-and-machine-learning-potential-advantages.md",
+      "title": "AI and Machine Learning potential advantages",
+      "excerpt": "AI and Machine Learning are helping businesses to remain competitive in their respective industries FREMONT, CA: As we progress into",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
+      "originalUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/khmjzc2io450-308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

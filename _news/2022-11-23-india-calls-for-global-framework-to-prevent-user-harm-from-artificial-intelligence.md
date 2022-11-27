@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/in
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/india-calls-for-global-framework-to-prevent-user-harm-from-artificial-intelligence/95709258"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "World's Longest-Running AI Show Series Arrives in India"
-    excerpt: "By bringing together some of the brightest minds from the AI and ML landscape to discuss their applications and their scope in the future in India's new normal, the 39 th global e"
-    publishedDateTime: 2022-11-22T08:32:00Z
-    webUrl: "https://www.jcnnewswire.com/pressrelease/79361/2/Worlds-Longest-Running-AI-Show-Series-Arrives-in-India"
-    type: article
-    provider:
-      name: JCN Newswire
-      domain: jcnnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.acnnewswire.com/docs/Multimedia/Low_wais-22-india-PR-banner.jpg"
-        width: 650
-        height: 340
-        isCached: true
 
 secured: "TtUGSb26HQ2Te1cCdbDBByxRNLclyNARw1ufgnAOT6427FNghVXZOimiTgVg1b1wx8YRjn8I7KxHsRrtpcskUZSlY6AMHU02hv5ZL232OizLso6rRj06hbP2Js+afJlbw59eNbmuF/iwer1unvgx6CDI+ajaOgSbT1xZrCRFe080kvxlg52em7IGWuDsXIizFJTptIM48omUtaGuYUvjWZqJtxRqzuxyQ8oNlqBg7hxc27lNjKilwOfr+yydqQ+e+frZKfl+um/LubJgB4EzR6ivHSnKOFxIRCIEBwbBRNuVMLZjiEp9CYMQFuCsAzsoZmTZ10ruisP5f2qYVc/lH43MPM1DvYw455qtfKcb1hxeRzhnU2oAElqSiR5vTXCJEishdPPeWHBSAElUVNAb+d5y0Dx76Mm/E3NGhKN36kigAEj4MY7yAD1cueJ+bH8A+DewkZAmEiQV45fE1gRJMkaRE11k7pgqpE/el7PdQ6nd8vcg/GABcM0m5l+M+iSR80FKnYCk3+ba81pHkKGeTA==;Pl0wIRQxD4u/thDpu9mAdg=="
 ---

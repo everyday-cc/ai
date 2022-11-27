@@ -151,6 +151,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-21-thetaray-ai-tech-continues-global-awards-sweep.md",
+      "title": "ThetaRay AI Tech Continues Global Awards Sweep",
+      "excerpt": "CrossTech Compliance Solution of the Year award goes to ThetaRay (Photo: Business Wire) The Compliance Solution of the Year award from CrossTech 2022 in Miami last week recognizes",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/thetaray-ai-tech-continues-global-awards-sweep/article_8b9acfd1-ddfd-52bf-be0b-3ce9bf6e2d85.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/thetaray-ai-tech-continues-global-awards-sweep/article_8b9acfd1-ddfd-52bf-be0b-3ce9bf6e2d85.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/d3/dd3af79d-c181-5035-bdea-ba0d600154ab/637b778ce566e.image.jpg?crop=900%2C473%2C0%2C393&resize=900%2C473&order=crop%2Cresize",
+          "width": 900,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vital-for-sector-expansion.md",
       "title": "FinTech Investment, Innovation, Ideology and Technology: Swift Growth in New Technology Such as AI Vital for Sector Expansion",
       "excerpt": "Dublin, Nov. 17, 2022 (GLOBE NEWSWIRE) -- The \"FinTech: Investment, Innovation, Ideology and Technology\" report has been added to ResearchAndMarkets.com's offering. The fintech sector includes ...",
@@ -449,19 +492,19 @@
     {
       "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
       "title": "Israel deploys remote-controlled robotic guns in West Bank",
-      "excerpt": "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ...",
+      "excerpt": "Two robotic guns sit atop a guard tower bristling with surveillance cameras pointed at the Aroub refugee camp in the West Bank, Thursday, Oct. 6, 2022. Israel has installed robotic weapons that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html",
+      "webUrl": "https://omaha.com/lifestyles/technology/israel-deploys-remote-controlled-robotic-guns-in-west-bank/article_d36d72af-cf97-5a6e-9ba5-8b0f3598b048.html",
+      "originalUrl": "https://omaha.com/lifestyles/technology/israel-deploys-remote-controlled-robotic-guns-in-west-bank/article_d36d72af-cf97-5a6e-9ba5-8b0f3598b048.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRW2NDDFPYI63MEMHTRCEYDQLE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/8f/18fc4a2b-723c-5e81-b0e3-5f5c0a6ccdbb/6374918d6550e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -471,11 +514,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T18:16:00-08:00",
+      "publishedDateTime": "2022-11-15T23:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Omaha.com",
+        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1343,49 +1386,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022.md",
-      "title": "AI Spera to Showcase CTI Search Engine at Singapore Fintech Festival 2022",
-      "excerpt": "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, is currently attending the Singapore Fintech Festival 2022, showcasing their newest and most advanced solutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
-      "originalUrl": "https://www.eagletribune.com/region/ai-spera-to-showcase-cti-search-engine-at-singapore-fintech-festival-2022/article_38f1a692-3692-5419-ac5d-939260c5f262.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/c9/3c94ed0a-6c17-5fec-8ce9-4cd34d6bd131/63633fddb13d3.image.jpg?crop=1703%2C894%2C0%2C160&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T21:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

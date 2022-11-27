@@ -2,21 +2,17 @@
 category: news
 title: "Using artificial intelligence to spot breast cancer"
 excerpt: "An Indian company has developed a cheap, non-invasive test for breast cancer that uses thermal imaging and AI."
-publishedDateTime: 2022-11-26T00:58:00Z
-originalUrl: "https://www.bbc.com/news/av/stories-63755128"
-webUrl: "https://www.bbc.com/news/av/stories-63755128"
+publishedDateTime: 2022-11-26T00:28:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/stories-63755128"
+webUrl: "https://www.bbc.co.uk/news/av/stories-63755128"
 type: article
-quality: 67
-heat: 87
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -42,16 +38,7 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Using edge AI processors to boost embedded AI performance"
-    excerpt: "A look at Kinara's accelerator and NXP processors which combine to deliver edge AI performance capable of delivering smart camera designs"
-    publishedDateTime: 2022-11-24T13:27:00Z
-    webUrl: "https://www.embedded.com/using-edge-ai-processors-to-boost-embedded-ai-performance/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 23
 
-secured: "Q5xatadtjZdnug91yW7jt3d5QHSc9xg0OMmZEL1F2DF0bryy3RyOdLZJ/RRM9CZG2rbdi1/oUjxBGy84jq9KBIETVB+GcOk1ojPYjikJ+8Ztgov0O5g2PajBvwxMGexl7sPT/HsBhiAW4W0ObJHfrY9mbfj3Sz6Glh7X5NjnG+4sSjAK+dFqFlO5B+toIoM5qan8tUT6uLPfaKdHycADxVxbj63kJNn/jQCZAsXWGb4Ga9YMbgH1nPprsCH890bkoLjyeFI2UIzCim/vwcfawAV1ORa29hm8I5Qy0mpIcuUZS/FLf7m/FPcygiqMZtyaC4PF8lp1fuDSb6VbKfh9qyDiYwBl3jepgufmaz8VkHc=;OrOpoRI3FwkOWt3OFdmnLA=="
+secured: "xIoel/WONZA2gFw5PAi1OV7Zw3v6SNWmeKx9/126iW5YCCQ8r6FC3xjQfWEsRWCBNAoAHpJUto9n/K+Zdvm2Y271oR7f7fwR3nF3HnkT7RxbY4nOxSoOzwqiLgzN1av+9JCa/7lKWcY9fMn1E2Ka1mq/e6yUb5V/6ViATnzssxALALZptI2pa0ZVIwgsso7vsCH3ZARCuJ/1iER3HYJBOZ21+UVMc0rTBoEFTLEeS2+j76Iza5O93UHwlIGuOoY7iVAx4uzwG5lD+c5jFK/XgX/D/lCDio4hZQezucH+J4qWTurvtSljJJUTlTYSOKNvk2qc3Ll4NM2uZgmax3UZyxTaAbcZEzYnaU1o8WH8y54=;9OQVIYkFfkRK96xCR/K2sQ=="
 ---
 

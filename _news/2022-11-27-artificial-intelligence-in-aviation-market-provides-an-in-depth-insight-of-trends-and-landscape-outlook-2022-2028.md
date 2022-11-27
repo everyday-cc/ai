@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
-excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
-publishedDateTime: 2022-11-25T15:57:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
+title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
+excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
+publishedDateTime: 2022-11-26T17:46:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
 type: article
-quality: 0
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
@@ -42,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
-    excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
-    publishedDateTime: 2022-11-26T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -108,7 +104,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
+    publishedDateTime: 2022-11-25T15:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "HHLVgbvy/h0spyUhCjSpaa52v0MqNtUWjvw5PfQ9/uVSNh6Sz+uYYTT4efJv/oeeLytCEMOBid0dguZ2GwroHwcU1DleoQjeGIusrAUAZP4IvnHOlVon3XCu0vCJ5vAGOMZoIQCWUzMlqox5j0y1gnvJ/2F+5fU9OG484K2kg1GYgkHJ5JrWmyphx5GRnTzj4PFjEmyr/sgSCgDr3GeI1YHkyCW2vwebfgPPgr8NhVOFftYxGlOjplxg4c4+TLz2CBDkKB2X8VT0wZ1+wblJZcPHHlw69v5ujFLoTTbvTC/DWROOtiwAoqXxDCHZ3GgIQRi2jmedXTuh1up/y6isrIG1s5Xsce6U8CyyGWvyXa8=;Ho9x8edPXrNi/JST2vjCtQ=="
+secured: "8m/8/i4RqSYlkKsKO+59iHY+yn0Uj7Tp92O/DND9WyPXehtIVpxw60ZFRKiO1DlgxKluX1YvaG1Rnxv7iowuMbzlQ0lvDq9spM2+icnxNA/IguYkEvL1ziZTgdlXoC9I2AUO2/GpaKMziIEEotdMubC7AM8E3RGshX2Pu7H2+dwtKTGcV1wJ2FGWRJ/n2pYdQ5sn7/htEJqv81QvtBgpbCczsg0aiDXmBswP1XigaEI8kzvp6A2thZecypyD8ZIICrn48JdwuTKfyXg1SFaZBD4MPoe+DWy5VzeNUXt4uN4EIkWoN4+Gfd5f/IZwrAMezKvTcqIEz7srCUpvsfz7FsTXq750ZIDI5jXIukFSC9I=;0d8br0V6BOaXgcPwbcbrkw=="
 ---
 
