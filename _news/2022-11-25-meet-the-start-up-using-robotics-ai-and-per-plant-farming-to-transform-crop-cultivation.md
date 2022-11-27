@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "Leading transformations with artificial intelligence"
-    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
-    publishedDateTime: 2022-11-22T16:19:00Z
-    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IMD business school
-      domain: imd.org
-    quality: 41
-    images:
-      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
-        width: 758
-        height: 334
-        isCached: true
   - title: "SIX fintech sectors transforming the financial industry"
     excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
     publishedDateTime: 2022-11-25T09:00:00Z

@@ -96,20 +96,6 @@ related:
         width: 600
         height: 403
         isCached: true
-  - title: "Meta's board game-playing AI can pass as a human in game negotiations"
-    excerpt: "An AI developed by researchers at Meta convincingly negotiated with humans while playing an online version of the board game Diplomacy. It was also ranked in the top 10 per cent of players"
-    publishedDateTime: 2022-11-22T15:33:00Z
-    webUrl: "https://www.newscientist.com/article/2348152-metas-board-game-playing-ai-can-pass-as-a-human-in-game-negotiations/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/11/22141704/SEI_134731744.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meta’s game-playing AI can make and break alliances like a human"
     excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
     publishedDateTime: 2022-11-23T13:52:00Z

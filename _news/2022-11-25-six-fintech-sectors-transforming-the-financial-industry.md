@@ -55,20 +55,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Leading transformations with artificial intelligence"
-    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
-    publishedDateTime: 2022-11-22T16:19:00Z
-    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IMD business school
-      domain: imd.org
-    quality: 41
-    images:
-      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
-        width: 758
-        height: 334
-        isCached: true
 
 secured: "eqhVDdf8+IUkJeFeTS6jx7Af8ZKB3rxvWDmneST20cLeoQn4C0VV6SSnn5Shq3IN3UqJkuWKjZrMhyK05IF3B79qW7JN5ZRv7rhBKTkIhgRkuLIOLrZ6OMYk9zYMy2h8v3wx5pQ1xvE4jbKxdgLpURVZCvE5iPn9tBYWDOs+DvFNFBVT3bOgWI3XatOMsywTnvyhT846VDrEFVTCCpq2y3HSnwmd3/Ox3HBWHMLWgCWhGb1R37eSgtV1BV/jjiG/S8J16/1AI4B8/Hf9VXUUtAQk2b7Z7/ogtxT+GWDAMKJ/BQrpkKS81sILwayhdJZlpdzbSGdg74x8woLd7rQ35OjVSa/SuZSS9rO7CRRJ+0jnC/IPW3pA7jI2hyrF3sMG6MGfXtNm6y96P8u5fJ3z8jEOV4TTD+Kw0JK/opylu8ZkwoGTWwF+t5yi7UZgTR5RxJjCAhAuMTaXRU53BcqhkCsPKI0GC3BzbdwwMQa02vbnHYzYsU0ve3ENdotQ/j1lSA31Cays6iH887eDQ6BJCA==;qk5PqxSqVG52aBWSUj9vCg=="
 ---

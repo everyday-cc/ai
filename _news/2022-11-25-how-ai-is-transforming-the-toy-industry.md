@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Leading transformations with artificial intelligence"
-    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
-    publishedDateTime: 2022-11-22T16:19:00Z
-    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IMD business school
-      domain: imd.org
-    quality: 41
-    images:
-      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
-        width: 758
-        height: 334
         isCached: true
   - title: "SIX fintech sectors transforming the financial industry"
     excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
