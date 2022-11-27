@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://static.ffx.io/images/$zoom_0.2295%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_69%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/166abff04765744edd56a4571b380d614cc85a63"
@@ -24,6 +25,6 @@ images:
     height: 628
     isCached: true
 
-secured: "K3FArHSKortImIbaFEE2mfOYAORux9icwr1zGtN8U6Hpwl9gzM4VpiJBaNfUJ4hAh9ifA5tvVll1ey3heLnzKY38YU04JdCYPy5jSI2GhUfpsYXkFRzkQTkbKKFY+9cT/xKkk0New3+tdlL4SktWCZTvVoCJwn7VdK3zNI1c4o+vZXQtTZkgsfqoqYCgSeUIdbK0+PqkDVKn6/dQtvMFNFoQxiLhKDdtke9tZ+/gfBKonBycAyy5LrtgUzpUgadZHeMVK73lnjB/bQI59HM8Nbkufoq0PDpG+7ui9UjiSHwdvA78PGsfFuQyOHSEOIm0zHwwk8FByJCGXipD2jicw9hzDecRr8pqQonPCWeG1nY=;r6X5HsBwhsGHmyRBDeglrw=="
+secured: "TfphyLXahSB4YzOtnfuNPpT9tJdLirtvNt2xb9AE4CiPsY/+5Wy6SGXocm87Gzl7Eq2X0Tmkc+XyqFh6ydqQ/PRWy7fBV5ZLYgaT9/3DdWdTUr3uztKyOKmjse7bdvuYFppDgsUV6zAOAwICFjwt2Swb+ixxTQFTOJpogR5D8lU4QYVj5MtnRqIGrJTuPIeLG/3HPEqPjjfegSUIG7GCMRUhmgpYjniKXegyD7bTornIdymw1MnFUw4V7uoaJ+TwLXwZvEgig1AYHazPY0N5qpquB/+mK5gbs16xW/IxE0VqWCnfs3ylsVU9Wbg4GroUq22NyezzPnrv4PD+9cnuyCMJAUaa2WvrSgtvYoZ1wcAQFSQzaHEGlahDf7GrEpLHl8G498fYTn9XRLdrEUX/Io7Z8Y2Ags1NuU7zHcEguJ1hByNvA12geFZB0lI8PuP6/gKjWIOoTArcXE+k5R4f1bNXjPsLeX0eNQhZqmlmLo1d4rEQDHXqCVj/wzQPHTHt9Ak7KhN0rMCiCCHWBS8Opw==;Zilq0jp5CS6JQnbJi2MS9g=="
 ---
 

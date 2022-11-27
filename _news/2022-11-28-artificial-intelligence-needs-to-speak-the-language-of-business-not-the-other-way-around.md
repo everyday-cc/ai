@@ -23,6 +23,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6383aa64488fd33f44459798/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +32,6 @@ images:
     height: 622
     isCached: true
 
-secured: "CF7T6UqmsUbd7feNPvLfUBCh7sgGniIcFuyn7u4e63UVRvozjKWIG5+/tbQqkx0PV2tPXa09RulgKRIcCOhUTw1FpmVBWlyWNrrVWlWZ0M7pTX3otl7zVljpGvUT9BB7P09Z52/S4nvUtM9kxXLvzWt0mHg0jheelxp4J+xmj8WB2VNHMCSkezVUWgyVUkZOMMCM/WsCRx3oKhiJnPGQd18DWGNU+NKlD1DD18eKAuS5lJkVeJp/+nIvkuYYkLX3pg6Muitb85m1ZNW85WmCm6vA0rWFMqXywNgJsDuGw0mRnfy2cU/pjAAf11nxO7P28o1l36s2+Lrf2aMpM/+04c/FWI2Bi/7z6o9aVV92sDE=;Y+jXY8onPpnpDXWcnkImvg=="
+secured: "Hu1wqG2ActSUioMFljDY8faL5YEqNyVZk+proJGXtvswdbKZvd+3a/pctibAttrzj1VvhDSsf1E23A95zoPD8RRPoOe30/bwek6yRd7AJTiKoQV0cSNmuvcLkwvQ5wTqIrizLfNW91viwyC/YOwvo/4UT77Z2yGxZD8KwUP0lO+ZB9MZ0CQrflM3km/ehlEau2UFoaDBf+I87ewYg9IeaNSbflXxq4V/6s/DhVHvksR+ZaK92x+F0ug+iGWbPSFnpeYHyrEk7mzvZXv+JtHPny/B+gdZ2V03LM+wGJjjuFct1FZIIEeVjrE1N1AaHIv1+rxgldrXf/aFy9bgYLB6RtwZawEHBY5w0PMuCFtiJ+KiU40Dzp6dM49pPSPqTQf3FcqycdPDeGVdPAkhCdibpIhUHkh5/A784/rs0Uv1pToSc2ZRVeDF/DUI1licoLM3hHfpfHDbz10rRkQADBJyimV1exDsxUUCfAbn9NzkBUeQexcW+kkF66zUXDxOOgnL8MhaG6xNPvp91ZXyJEdjzQ==;xqmg1ypxChu27CecA91vdw=="
 ---
 

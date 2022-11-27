@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://th-thumbnailer.cdn-si-edu.com/Yj8MsNWRZfHoOmyamloye-OBz10=/fit-in/1600x0/filters:focal(2800x1893:2801x1894)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/4a/444ad61c-7750-4af1-8ae8-ed798a30efc6/gettyimages-1345177105.jpg"
