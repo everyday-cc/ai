@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-bett
 webUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/11/22141704/SEI_134731744.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Meta's new AI can beat human players at Diplomacy"
+    excerpt: "Meta have revealed an impressive AI that can beat human players at Diplomacy, all without \"intentionally\" lying."
+    publishedDateTime: 2022-11-25T22:05:00Z
+    webUrl: "https://www.rockpapershotgun.com/metas-new-ai-can-beat-human-players-at-diplomacy"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 37
+    images:
+      - url: "https://assets2.rockpapershotgun.com/CiceoAIdiplomacy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/CiceoAIdiplomacy.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Meta’s game-playing AI can make and break alliances like a human"
     excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"

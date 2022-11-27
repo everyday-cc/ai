@@ -78,15 +78,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Featurespace Secures UK and US Government Funding for AI Financial Crime Prevention Solution"
-    excerpt: "Featurespace, the world leader in machine learning fraud and financial crime prevention technology, has secured funding from UK and US governments to build a new type of artificial intelligence (AI) system to help banks and payments service providers (PSPs) detect financial crime – whilst protecting data privacy."
-    publishedDateTime: 2022-11-22T14:04:00Z
-    webUrl: "https://financialit.net/news/cybersecurity/featurespace-secures-uk-and-us-government-funding-ai-financial-crime-prevention"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
 
 secured: "yAIeIS/g11Il7h8nn2csXv03yW8Vd+VK73k5piZwvX2+avC1FR9K8qSq08SRdQMk/Opc/2R8kSSuXSMXcxS4cuHUcyJMKjJB/Ol7KFRkQ5uBIPxNFlh/JXrsYIG93ZwLZ7PDA82bxonL3esJJATy/Hml8okgdCwshEVhK60f/jSxuAdD7uUwdjf4aHLPNiN57dYkSkdGD/UH4hK/ficeJf+bJKTnFaIAqli40StF84cExgKw1RSP3RMhhFcpUE74zkFrNXDLXxxTdREsN/khttjlDN0dsMbYT9+L6rWdlVjNRvMeMT5q4UPYpCK0klSbAt4QnQbR5Ewj7iP1cAx/KRrm4u4ExV7zVfnNpmpK/ECHNHVV9N/6Btb5eHpDmdoYDvMrLQgRSq/0BPhXrIeR9w0TGxLGywoiK5xtfvtNBHjy85xaPJwDfLkaKc75yNC1rnMxkxa9FBbbGUwxjjnDPzAlKnjwG0A3AN48pkUhRSZv2OCKL0pkP1bygYtWo/Lktn3d7UEzGhSgysXAAxmMIw==;+LczZWHkXCGs/CD9F+s/UQ=="
 ---

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Assistant Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Voice Assistant Market\" Insights 2022 -"
+    publishedDateTime: 2022-11-25T23:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Insurance Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \" Artificial Intelligence in Insurance Market \" Insights 2022 - By Applications (Chatbots and Virtual Assistants, Fraud Detection,"
     publishedDateTime: 2022-11-25T11:54:00Z

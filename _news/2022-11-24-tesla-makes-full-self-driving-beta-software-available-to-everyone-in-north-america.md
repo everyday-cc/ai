@@ -198,24 +198,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 30
-  - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
-    excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
-    publishedDateTime: 2022-11-22T14:58:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
-  - title: "Tesla just unlocked its full self-driving mode beta in downtown Toronto so look out"
-    excerpt: "Today in things that might not end well for Toronto pedestrians, Tesla just lifted a geofence that, until now, prohibited drivers from using Full"
-    publishedDateTime: 2022-11-22T13:14:00Z
-    webUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 13
 
 secured: "BFHD/ov2u9091ROlrXsOV4BZLRulp/FRlyq6w2Ap30MXt23LR27WrvKhqORiJ261njys1A2dag9PPutPewZzlIe5ObwH813zebEcYzZ6ch7WCRY4cz1YT2W3R1zJodbD6s2M2Md/EIZoFbjm5dvFsyXr1Nuclf5AiFoIXOA2kpm5sWFcOy0JYQXmQ9dUKT2LHNIo2Gg0X91uvZ7c30zAVofkh2WWSx7k6t23sPM1VJh4EELT7zJNBi5WGbCuu8E8+vu+b6zVCBSCOv4PXzVX87oUD9SSVaZhhV7sUZI40G3ODfmXanWok/x7Uglfj1bo8geTD9DxHp8Ov9cG7T6KLKY4qx7/Wssr1gZJw+fs7W62uVaUTvyGcEfP0cshvf9x6RduxZNpYTgUI8yrNIC61Wh2Ii6vQgq0ZWQMkcaO35ElRp2BIXqpXk7XvqQpL2CSOwOLvuoaYl55i1V7x58biH2mw9xZRYE1Hv+dmt5wcJUViEU3S86DIk8LA7W4Dov7kFMOBO/eTj7UaK7IOJx3nw==;GUeDh3zQtO6aYCvSraOj0g=="
 ---

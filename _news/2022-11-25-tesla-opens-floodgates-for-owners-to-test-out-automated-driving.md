@@ -199,24 +199,6 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 28
-  - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
-    excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
-    publishedDateTime: 2022-11-22T14:58:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
-  - title: "Tesla just unlocked its full self-driving mode beta in downtown Toronto so look out"
-    excerpt: "Today in things that might not end well for Toronto pedestrians, Tesla just lifted a geofence that, until now, prohibited drivers from using Full"
-    publishedDateTime: 2022-11-22T13:14:00Z
-    webUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 13
 
 secured: "x3+wXoYf+ZUAwysI1qtnA3IrqbEO2i8nqbJ/09Ymlhgf6baJ/8hpDL1QKs0QnCp57Df5PuwgR2maM/vqhfBCmlAYwIGhmLVSgg6vl/dEPrEKMEGkuxtYP7mc6wyL0Yh64yeRprnOJdfxzFFscbte4jynvjolfEDaewt5cc8E//2bNF9MnUxmWjMLV+iB1sp916IFiI1OyrA7IEiNiXGHYfY7W853ZkNzdW8ebylHo4VBfrIRLej6nkmG+hXAUNlcHIxlgPTLixpdR9SyHvqGVElfkXzWcxWU+hYb6SPEV9qbz6ErllEhBN7wdzqneUjvdolWw4VxyfOOVJVdcP75Ej3ySfbvflL8E/8Z+W4ImJKP7J8kAzNbVZu76NmPYMA+2bAVxn9Yhahu6gaO7TzcMF1ItOq4av4mcyxKwhmtBH6a0yRgHEgNEcWOX6yOtvChl/FUoNJ0dHFLzLBDJV2qTKYeU5A9ABty5s1IpEP50SQkKhKJer1k9oo9mcdchmr2e2xId3gOKbaE3cphGYOUrw==;B2y9+sX5MQv8VzGE+FyVdw=="
 ---

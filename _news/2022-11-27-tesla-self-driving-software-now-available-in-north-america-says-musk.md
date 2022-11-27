@@ -199,25 +199,7 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 28
-  - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
-    excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
-    publishedDateTime: 2022-11-22T14:58:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
-  - title: "Tesla just unlocked its full self-driving mode beta in downtown Toronto so look out"
-    excerpt: "Today in things that might not end well for Toronto pedestrians, Tesla just lifted a geofence that, until now, prohibited drivers from using Full"
-    publishedDateTime: 2022-11-22T13:14:00Z
-    webUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 13
 
-secured: "P3qoABcLXvKvjGA1zrgJSjEt5GymkEUYaTOdmi9bRCgPN8+4+AgwKI4t/PAhY+uU0kGD0M9uHHZKseBTv5Q7qVgkAo6OvkD7ou0hu3WJYE0HIYZmVmMpSCpzi5zLE8zWWy6uSJARaaeWJS2ozb/g1mI1EWMIi5DSnw8PW8N44kOjPJxasiPK4q1/j1wQNSgkHyNJ5ai6RDjwZA+BAO46RxgvgztJcqc/doiZxibqBSQF1VZa/P/rv1z61mQJ8fkNDrK9W1f2I0RSf4d9ucF/LHlp3djb/PNL5gksOmZpFVFd3e2HIJNKoyZXIbo1RFNdsCZUsGUcVyjt4nENnSJdRhO8+X442rYaxbCLBfake+4=;rv0Z/hlF75p7ORqhASYFfA=="
+secured: "C5vYBGs2HnH5+kg8VeOqfu68DcC//vo5hNHuZMpFsfhKNr9FMEp3IepSvg9+2cKgTLZKSYhFeuxDG89PVFEt1a+avzkwCLiGmiWGCFGPxdh3kXAaBl+gGLhPWFudDMxlghB/DSi05d7hidK6SeQAoes8322sdJngvkNAlPeocV54SgQ5FNe3eapTaGFJKMniCE8Y9Wtp3CNwgaZFOHiOK1jZ3ujZgmFscxmJPTLgqKlFf8vGUN3nLjZuMDicBaomHJducsQwxsb9ZVOerODjoIE85AhGhJVqE3CmKfNG2DRdA6rfZnWqnM7MofeBkES7/oRw2xn16RFPZZZLAdPNuNsDy+FiYfr1gFJImrMZZXocLPOstSNvNbpRP9LRE+SRwkcCoHkz8WqpVCbrpAYI1uZr7YshcrwhWQzazrgSCrfArZ56iNsKyXycWDbxY/caaDFh3yaCaavNXFUcyh5yEykfKwYlLixCo/Mg8jBnSQiNXnpgp6VNHetKPLKgtDOfL7VD/w34HaGH1kQVJcyomw==;GJBsWAzgOrxjmh/QH6hGwA=="
 ---
 

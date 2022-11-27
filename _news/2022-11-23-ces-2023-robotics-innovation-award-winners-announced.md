@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/ces-2023-robotics-innovation-award-
 webUrl: "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 500
     isCached: true
-
-related:
-  - title: "Dreametech L10s Ultra Robot Vacuum Honored at the CES 2023 Innovation Awards"
-    excerpt: "Dreametech, a global leader in smart home consumer products, announced today that the company has been selected"
-    publishedDateTime: 2022-11-22T14:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/dreametech-l10s-ultra-robot-vacuum-honored-at-the-ces-2023-innovation-awards-2022-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TH4/Z0LHucpZaYeheNEU+fqqMstIMSM8TAztob6hKb4W1UkfoYlli/BdNgVNkx0x1Hup3nlqIIC6X4RTwf6+balnMa4MI3h9E6TtZwDV+ZWzuIa0Lsqa53zXLpTfzFcwSPky8HuTzC745wGbBvUoEHofNJ1qfOhCmd4f3hnvnR/vbad7VIVOBaHeL9/IPCUUa+GiyMOYzNSrLQ++qPwXLR2493odOXWKY7ItcMg/E6oG+Uqhlwq4cGHy7gWqyz/EF3/4JmIF1nL9v/a2e8pc51NltkHjwCyk85UaP6vZeVoFrC6AJUzgFLEPHL1D4ZQIs4O3D/XMSCs+4anR3w/Zc4ZMkmXg8vQnZBjMbOoRZC1JekGMO0QyjTIj9NZ2hs9PAQRpDkIQJFIyZjIIIQb/PXUc4hO9/LvrD4qiNd46kbaVNlTW2RgXmdpCm9w1/AR352qex3lqQIyCJT8YU8FQ4y/FSBSXe2kxDCsUsnyNXvJSw+TiM6dg2mBg+uvXDnsRx5toavOrAJQIUAZVaL/mTQ==;RTuoipImfJ3nzbjooDT24A=="
 ---

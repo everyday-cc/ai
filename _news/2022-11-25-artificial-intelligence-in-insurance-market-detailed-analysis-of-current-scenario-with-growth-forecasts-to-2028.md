@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Assistant Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Voice Assistant Market\" Insights 2022 -"
+    publishedDateTime: 2022-11-25T23:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The US Employment Screening Market Report 2022: Leveraging Artificial Intelligence (AI) and Machine Learning Crucial for Continued Growth"
     excerpt: "Analysis By Service, By Industry Vertical, Size & Forecast with Impact Analysis of COVID-19 and Forecast up to 2027\" report has"
     publishedDateTime: 2022-11-24T17:30:00Z

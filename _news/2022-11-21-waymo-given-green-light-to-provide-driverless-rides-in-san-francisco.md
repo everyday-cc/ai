@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Waymo Given Green Light to Provide Driverless Rides in San Francisco"
-excerpt: "Waymo can now provide driverless rides in San Francisco. The California Public Utilities Commission (CPUC) gave the green light(Opens in a new window) to the Alphabet ..."
-publishedDateTime: 2022-11-20T17:06:00Z
-originalUrl: "https://www.pcmag.com/news/waymo-given-green-light-to-provide-driverless-rides-in-san-francisco"
-webUrl: "https://www.pcmag.com/news/waymo-given-green-light-to-provide-driverless-rides-in-san-francisco"
+excerpt: "Waymo can now provide driverless rides in San Francisco. The California Public Utilities Commission (CPUC) gave the green light to the Alphabet-owned autonomous driving company, on Friday."
+publishedDateTime: 2022-11-20T20:46:00Z
+originalUrl: "https://uk.pcmag.com/cars-auto/143945/waymo-given-green-light-to-provide-driverless-rides-in-san-francisco"
+webUrl: "https://uk.pcmag.com/cars-auto/143945/waymo-given-green-light-to-provide-driverless-rides-in-san-francisco"
 type: article
-quality: 84
-heat: 84
-published: true
 
 provider:
   name: PC Magazine
@@ -23,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/056COxXdLFARliBLuI11lHz-1.fit_lim.size_1200x630.v1668958191.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/waymo-give/waymo-given-green-light-to-provide-driverless-rides-in-san-f_61k6.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "vTEGuH5jg7VPHSceHgGtDQphW8h6LesrmL3k0lsUtxjaOFMxeRRoHv7CU1EnzM8KI5Q3ueQ7pMUIE8Np9eqKWVCWelYV/SeiPyBoNAYeey46jMbuYWxcbLLEB/lLoDlXUM7zL8NmGKL+LdqjL+m2NDh7gicWVQ0xOmxnusBxrYvKY+/UhklarCBhYiLwTZNWAAr2U6q4nC8vSV7xOCh85XK+8+JDZodB/sdyZG0WX0EnvAFmGuEAbsTUSWfTVf2kRDxvA/zK0ZFah/0pHerTe62fJ9kXAhCwn0jVNZGctvqOvSJnTE7auiHD5t2rvrYLIbUIH63ZfM1kreqc8ohATpenMvSqRKC84xtv2g93Z7o=;Po2qqApqkgM/HoD3OxVZSw=="
+secured: "e+Gz3eSBv6xlEmHJUg8cNsEYBsPoMaZr7HcZ7Ca4UscbQu625VImg1lx2SLSs/s+3HpbmIAkt1umlFn/li5J4rp4ljJ3Rx9KY7Okf50gVS0yNAfACnL3JdusTALqmzQCdlbk4pJCqz2aWo+eInvl30l94G1UADECLpANUhQyld8HQLd839dyzlPg0laSMCOKFp6d9bjS2gfj7p+oqV/t2AzUg+3/SsFXLFybMEYG62WWMB6KNqMSosCByBtw+V+RgoM9Nz3chW/9qE1n0jLGrsPIQX5Rm1hbSO1gEsCn2E7/4IIifu2S3BluSBwVHfQ+XXnwUpY/YEpuoZs9NMWp+4NwMNMUpnmRE5gTNsjOXR8=;Up+Ve1s549rkiKa1wK8Eew=="
 ---
 

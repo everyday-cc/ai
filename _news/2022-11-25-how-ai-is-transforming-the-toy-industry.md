@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Impacts
@@ -29,21 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Helping Improve Medical Processes"
-    excerpt: "Every health center should consider the use of AI for the benefit of its processes so it can adapt to the modern world and its accelerated pace."
-    publishedDateTime: 2022-11-22T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/"
+  - title: "Meet the start-up using robotics, AI, and ‘per plant farming’ to transform crop cultivation"
+    excerpt: "Next-generation technology is required to make better decisions in crop agriculture, according to UK start-up The Small Robot Company."
+    publishedDateTime: 2022-11-24T16:20:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2022/11/24/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637b9754ce792833b41a9f16/0x0.jpg?format=jpg&crop=5700,3207,x0,y206,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Leading transformations with artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
+    publishedDateTime: 2022-11-22T16:19:00Z
+    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: IMD business school
+      domain: imd.org
+    quality: 41
+    images:
+      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
+        width: 758
+        height: 334
+        isCached: true
+  - title: "SIX fintech sectors transforming the financial industry"
+    excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
+    publishedDateTime: 2022-11-25T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/six-fintech-sectors-transforming-the-financial-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/320/a4fba8725189c23bc1c4e561a5e0713d:dc71820e8649a101a4d0de5ee1719096/gettyimages-1381334525.jpg"
+        width: 319
+        height: 241
         isCached: true
 
 secured: "JXnqirqgYpJnx5GBo7VrpWPb15YJhIr6UmSU/gGd8gDSrECfL/nMDKCOULijcpsr9SXWS0TLhrBMNeZwZKCRcLpFTiFBCJYLtM6dRHKUDjuwsxf2KTsHp9mtZqcre7n3uX+coquKDNgWi/utTQgH3jSFPN+zh+TAM9SuauA7Pale/WJATv5gRo4BC/8lKQYWWUX/iNtQA5doAUolIkGmU9dl6eG2lePiBPosnTB084vPXoxjokj/hZ4w7tmBBV9ldCqHL9BzgeWemROg5j+aQ+Ft9MPcWl8T8eJyNeUnCpBGoW8DR6QriCqW2F0ixQNq/5/ZVqzylSIee0hrdZTZu+y38qtTWd6XzFQEslRm/TojfJwVu06Xlh2vMbpCuhBCWhLsuORfrS8S5cNeIrk3IwE0ve2juEvJDSlRPWSRUUyLDXGpHmEYSj7BHUfMtqzuLNjOsCAn7+CFKYPjql2jwH80L/wjb77iweFR3EDso+dFX4tCkAUazSaMCemIsGAx+AqLDICVTBiss0XeSr6V5g==;r6iOg20STrae3hCfgTXb4A=="

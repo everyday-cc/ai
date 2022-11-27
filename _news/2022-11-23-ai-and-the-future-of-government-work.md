@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
-  - title: "Featurespace Secures UK and US Government Funding for AI Financial Crime Prevention Solution"
-    excerpt: "Featurespace, the world leader in machine learning fraud and financial crime prevention technology, has secured funding from UK and US governments to build a new type of artificial intelligence (AI) system to help banks and payments service providers (PSPs) detect financial crime – whilst protecting data privacy."
-    publishedDateTime: 2022-11-22T14:04:00Z
-    webUrl: "https://financialit.net/news/cybersecurity/featurespace-secures-uk-and-us-government-funding-ai-financial-crime-prevention"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
 
 secured: "Wkv2UBw7Rcd3cl5e2jsP02MOCk8np6DhlMGcrPxGKQt+QqvlZmK9DqD1JoASc+1pG8GWQaecR/IKt9eCi8KaYGDrCIJ5u1QeYRJq6u/GqxcWDJYMCCVkc3qNuQQQjrjCfvRp2Yr2V7zYL4yYaRTpPxUQVxV+8X71+zlr0zozb6fM/Nkwy+yBfKFIrIDekKrqMa/KINf3zRqQ/7B4dQ4/7JK6HnTs/WAQWmkUwOYhAbwecoSEKy/QgLCkALPtUq7KTp/QmCpGAA26gRrDklmtabQkfcmhbe6QVYyE8CiYwkMe8QH7aTs6arcYMcGF0DpH5KXzpYczthjOMhz/29r4w9HLpXVva8S/WQDo8dKk+D8JIPTPTILBFh2ZmVwBvCee8FVyCyK5m5YIujVjIPncnVhzy514zwCi/w/hqyIMCv5SP7YCyiYhxa6ReTMlmbbRsy2R615S3LBgJdTpajsbCMfFz3A7ryv8K79a6kreEXyAzXG+9/rx7FBeF6XI8dZruK+lx5B8H6bxyd8rhBN5Rg==;KdIDFWIANp2O1u61tM9Kew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-availa
 webUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/"
 type: article
 quality: 81
-heat: 241
+heat: 221
 published: true
 
 provider:
@@ -203,24 +203,6 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 28
-  - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
-    excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
-    publishedDateTime: 2022-11-22T14:58:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-self-driving-stop-signs-school-buses"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
-  - title: "Tesla just unlocked its full self-driving mode beta in downtown Toronto so look out"
-    excerpt: "Today in things that might not end well for Toronto pedestrians, Tesla just lifted a geofence that, until now, prohibited drivers from using Full"
-    publishedDateTime: 2022-11-22T13:14:00Z
-    webUrl: "https://www.blogto.com/tech/2022/11/tesla-unlock-fsd-toronto-full-self-driving-downtown/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 13
 
 secured: "OuuT18j7WLvsgg1h8ggCMixV5pp8qELjFJqwLK6LgZ/4cdq/cI0vZLqSfazNBu68bFRvW5+2yH4IKAyBaDPgoVp78U168jiGePqAoeCSNwm6EU3m84HBvT/USqxOB0EwQadaCO4IM0rBDs4iLjRDezwR5lA1oEQXixInw47765Ob/M5H92KQFZIx/G3w/POvQ7zS9c3gQaQy/FOK/gFBc26WNynnoTJX3K0fVYJ1zOk1HIeP6Jc6U17GKI+kczzTTB5OHHTfcvM1jzl7hneiRiD5YcQ0CVFH99erfa3JV9PfBankfzMh5sBjE72z/YKajA/TTfeCaKZswk164vgLDyncwrmLnPJW33hi1bQJc1RaHCUK2ORaeEOAR+X8/PhGK7Glg7f0slLQpbwNCroiGerrvj1g6d50o3t/gJRDg5qE28+d7i/HPaGB+H5bXr7aCtlyNnoh7R4uY9xqQl6aOxKhAGFau5a2gBShJbkC4QkO+1fBqULFzJ6g+iUsFtGcOwChhwgMzv+v/SKx8lcixQ==;CHa2+QWZp5ShdKv6X3cnPw=="
 ---

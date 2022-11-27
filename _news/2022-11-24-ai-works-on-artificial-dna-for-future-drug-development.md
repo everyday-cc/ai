@@ -81,15 +81,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
-  - title: "Featurespace Secures UK and US Government Funding for AI Financial Crime Prevention Solution"
-    excerpt: "Featurespace, the world leader in machine learning fraud and financial crime prevention technology, has secured funding from UK and US governments to build a new type of artificial intelligence (AI) system to help banks and payments service providers (PSPs) detect financial crime – whilst protecting data privacy."
-    publishedDateTime: 2022-11-22T14:04:00Z
-    webUrl: "https://financialit.net/news/cybersecurity/featurespace-secures-uk-and-us-government-funding-ai-financial-crime-prevention"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
 
 secured: "dbCrlmUbZyzbSr7I0N+3zCWRE3e56K6wz4igVcl9t19anGjyNMdL+JUd5ooT1w8uuAuW7vgxFmryJftB+/54SCohQNZ0Wfd9+1b0xFHirxpkJWnN19rKSTsVdKKcX10I1J2C0X0fRai7q7kRkqcDM8zM1qv8dDnKCsS/1zng0TufVlzjoq49Lp6GE9F987gZoRm8/kiJVQ05pdgw6Nk0+j23Thh5FJNqJO5XaUo6dWD+95jNeULBpKxuduJAU/Pmd5qpJwJvjhw013hLaEvQqF2LSqcJBLiom7S1Ioxbi82Mhk6vLgY7Ibj5IGf4Q8/Db04ZdU3EQA9S/Jp/7UTWfPmy7AELxCYSKsXRg7XPcNPvY8UkCydf0HCS7jQiF2xs8KXFw9mcSARAsnLJB5vjXlvGE7vx0hUor+bMw7xV3jgVEwbr7dTHvk0zTpv8/FXAQsuwoDu6ubaZqshUArS5nvR8T/G4fDm0iwwgZILHUlz7PRY2ObR+HbGAJ9KUHQ2lV07HToBCPMSduoN2fTAEWQ==;RieUQiaaZBVpjIAHzreQSA=="
 ---

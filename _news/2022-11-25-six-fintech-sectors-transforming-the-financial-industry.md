@@ -25,65 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech startup Galgal raises $1 million in seed funding"
-    excerpt: "Galgal Money is a new-age Mumbai-based fintech start-up that focuses on bringing efficient banking solutions to the youth, with the purpose to simplify money management and make savings as stress-free as possible. Through its AI system, the Galgal app is ..."
-    publishedDateTime: 2022-11-24T08:46:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/11/24/600x338/ddd54600-6bd3-11ed-a20b-ccf96773636d_1669279558141.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Top 7 Areas That FinTech Covers"
-    excerpt: "According to FinSMEs, the whole FinTech industry will reach $320 billion in 2022. This explosive growth is partly due to the increasing demand by consumers and businesses for more efficient, cost-effective,"
-    publishedDateTime: 2022-11-24T16:08:00Z
-    webUrl: "https://techbullion.com/top-7-areas-that-fintech-covers/"
-    ampWebUrl: "https://techbullion.com/top-7-areas-that-fintech-covers/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-7-areas-that-fintech-covers/amp/"
+  - title: "How AI is transforming the Toy Industry"
+    excerpt: "The Internet of things, often known as IoT, is a platform that allows all physical items globally to be linked to the Internet. Thanks to computer chips and other wireless networks, it is now quite simple to transform a massively inefficient thing into a high-tech machine with all of the capabilities necessary to assist in"
+    publishedDateTime: 2022-11-25T05:25:00Z
+    webUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/"
+    ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 44
+    quality: 63
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/money-transfer-3588301_1280.jpg"
-        width: 1280
-        height: 906
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/20161005111439-Robots.jpeg"
+        width: 2000
+        height: 1334
         isCached: true
-  - title: "Fintech startup Galgal raises US$ 1 million in seed funding"
-    excerpt: "Galgal Money, a fintech startup, has received US$ 1 million in seed funding from angel investors. The firm was able to launch the app quickly and increase customer acquisition thanks to the funding. The company further plans to invest in product development to quickly improve customer experience and concentrate on providing features that can improve the neo-banking experience for Indian youth."
-    publishedDateTime: 2022-11-25T04:11:00Z
-    webUrl: "https://www.ibef.org/news/fintech-startup-galgal-raises-us-1-million-in-seed-funding"
+  - title: "Meet the start-up using robotics, AI, and ‘per plant farming’ to transform crop cultivation"
+    excerpt: "Next-generation technology is required to make better decisions in crop agriculture, according to UK start-up The Small Robot Company."
+    publishedDateTime: 2022-11-24T16:20:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2022/11/24/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation"
     type: article
     provider:
-      name: IBEF
-      domain: ibef.org
-    quality: 39
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 59
     images:
-      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
-        width: 500
-        height: 665
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
-    excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"
-    publishedDateTime: 2022-11-24T13:27:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/fintech-connect-2022-unveils-startup-launch-pad-fintech-good-documentary"
+  - title: "Leading transformations with artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is affecting every aspect of our lives, from how we build our homes, grow our food, how we get medical advice to our relationships. In her keynote speech, Ayesha Khanna, co-founder and CEO of Addo,"
+    publishedDateTime: 2022-11-22T16:19:00Z
+    webUrl: "https://www.imd.org/news/leading-transformations-with-artificial-intelligence/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 19
+      name: IMD business school
+      domain: imd.org
+    quality: 41
     images:
-      - url: "https://financialit.net/sites/default/files/fintech_connect_2.png"
-        width: 1366
-        height: 768
+      - url: "https://www.imd.org/wp-content/uploads/2022/11/OWP-Singapore2022-NewsStories-AyeshaKhanna-imd.org-TopBanner-Big-758x334-1.jpg"
+        width: 758
+        height: 334
         isCached: true
 
 secured: "eqhVDdf8+IUkJeFeTS6jx7Af8ZKB3rxvWDmneST20cLeoQn4C0VV6SSnn5Shq3IN3UqJkuWKjZrMhyK05IF3B79qW7JN5ZRv7rhBKTkIhgRkuLIOLrZ6OMYk9zYMy2h8v3wx5pQ1xvE4jbKxdgLpURVZCvE5iPn9tBYWDOs+DvFNFBVT3bOgWI3XatOMsywTnvyhT846VDrEFVTCCpq2y3HSnwmd3/Ox3HBWHMLWgCWhGb1R37eSgtV1BV/jjiG/S8J16/1AI4B8/Hf9VXUUtAQk2b7Z7/ogtxT+GWDAMKJ/BQrpkKS81sILwayhdJZlpdzbSGdg74x8woLd7rQ35OjVSa/SuZSS9rO7CRRJ+0jnC/IPW3pA7jI2hyrF3sMG6MGfXtNm6y96P8u5fJ3z8jEOV4TTD+Kw0JK/opylu8ZkwoGTWwF+t5yi7UZgTR5RxJjCAhAuMTaXRU53BcqhkCsPKI0GC3BzbdwwMQa02vbnHYzYsU0ve3ENdotQ/j1lSA31Cays6iH887eDQ6BJCA==;qk5PqxSqVG52aBWSUj9vCg=="
