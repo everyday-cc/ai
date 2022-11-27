@@ -40,6 +40,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Researchers: AI in connected cars eased rush hour congestion"
+    excerpt: "Researchers in Tennessee say they have successfully used artificial intelligence in a group of wirelessly connected cars to help ease rush hour traffic on Interstate 24."
+    publishedDateTime: 2022-11-23T12:08:00Z
+    webUrl: "https://www.news4jax.com/news/politics/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+    type: article
+    provider:
+      name: News4Jax
+      domain: news4jax.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2GAG4X6LAREYREEQINC3D25YDQ.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "AI in connected cars eased rush hour congestion, researchers say"
     excerpt: "Human drivers don't do a good job of navigating dense traffic, researchers say, but an experiment using AI means help could be on the way."
     publishedDateTime: 2022-11-23T17:31:00Z
