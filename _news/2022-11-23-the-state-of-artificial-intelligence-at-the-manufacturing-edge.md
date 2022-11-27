@@ -8,7 +8,7 @@ webUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence
 ampWebUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024"

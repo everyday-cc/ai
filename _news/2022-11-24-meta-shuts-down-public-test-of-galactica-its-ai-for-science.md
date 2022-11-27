@@ -7,7 +7,7 @@ originalUrl: "https://www.techbooky.com/meta-shuts-down-public-test-of-galactica
 webUrl: "https://www.techbooky.com/meta-shuts-down-public-test-of-galactica-its-ai-for-science/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1566
     height: 881
     isCached: true
-
-related:
-  - title: "Meta fires Galactica AI over controversial life choices"
-    excerpt: "Left to itself, Galactica became as balanced as a Kayne West Twitter post  Meta has been forced to \"pause\" a public AI experiment after it started spewing misinformation and offensive comments. The Galactica project was meant to solve \"information overload in science\""
-    publishedDateTime: 2022-11-22T11:10:00Z
-    webUrl: "https://fudzilla.com/news/ai/55864-meta-fires-galactica-ai-over-controversial-life-choices"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://fudzilla.com/media/k2/items/cache/268db6dd61eb36ef4e4bd0806358c3f0_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "bBW5iYtumZzLOK9R00TsRBIWR/orvIQ2pIFLiTPEiCbc7vx4qbEfKmLOHOvfTJNXp3N2lw0Na8Kk6EVaxutIQV3XKzIr4BmWY9KI0ct/2lVYMHbMWJiFggF27hu2qVzTE13wILRZz6Sa8DZz3kJvV/xRS+h526NNJjEqmobp283LRTRAAqp5U7fpmrx3/jTbgo6SFrF1hBruJ/zezWkYbOhVdFCVVA1U3CcIz31eKSQw77TwpCgwCTP1wzV7PCwRTkNJBL39RJPDXXniPiuj/ta0rTJuYejHCuCUjcgZrx1okqnUwhhjgWLumoEPUVgJRMkLJWvPzP1yGJMMn9Q4trU02gShGhgWebfkMIduGnKkT+C9RVHrtx/yQmffstBFmsia0/67hYIVtqF4kHuVmsSyWX1ObjZRJbmJXYkTJgxL0q2kt/O6+NE+rbjPfkvck2PlEEwL436dO2EgSoZQOIbwuLCrjQp9Bgm4Lz3Hy84Nl1hs8mai3FOU7o7OgJqZNxkvRHqgL/AqMe3JeK9pYg==;a1TiEUWOBovBzr69axfQVw=="
 ---

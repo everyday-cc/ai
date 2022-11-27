@@ -113,6 +113,20 @@ related:
         width: 1920
         height: 870
         isCached: true
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "A research team at Colgate University has developed SealNet, a facial recognition database of seal faces created by taking pictures of dozens of harbor seals in Maine. FREEPORT, Maine (AP ..."
+    publishedDateTime: 2022-11-23T16:25:00Z
+    webUrl: "https://www.channel3000.com/i/facial-recognition-can-help-conserve-seals-scientists-say/"
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/11/h/y/fc3ad20d28ed3b334e2829e15068e50ca28b6081.jpg"
+        width: 1763
+        height: 1175
+        isCached: true
   - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
     excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."
     publishedDateTime: 2022-11-24T21:49:00Z
@@ -127,15 +141,6 @@ related:
         width: 1454
         height: 800
         isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it—saving seals."
-    publishedDateTime: 2022-11-23T18:21:00Z
-    webUrl: "https://phys.org/news/2022-11-facial-recognition-scientists.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
   - title: "Scientists: Facial recognition could conserve seals"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
     publishedDateTime: 2022-11-23T18:36:00Z

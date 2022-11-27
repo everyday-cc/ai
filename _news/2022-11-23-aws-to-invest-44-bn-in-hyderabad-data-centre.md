@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/AWS_231122_ians_1200.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AWS’ New Data Center in Hyderabad to Create 48,000 Jobs"
-    excerpt: "The new facility will open its doors for over 48,000 full-time employment opportunities annually with a proposed investment of $4.4 billion (INR 36,300 crore) in India by 2030. Together with the AWS Asia Pacific (Mumbai) Region,"
-    publishedDateTime: 2022-11-22T11:51:00Z
-    webUrl: "https://analyticsindiamag.com/aws-new-data-center-in-hyderabad-to-create-48000-jobs/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/aws.jpeg"
-        width: 1536
-        height: 864
         isCached: true
   - title: "AWS to invest US$ 4.4 billion in India by 2030 through new Hyderabad region service"
     excerpt: "Amazon Web Services (AWS) announced it would invest about US$ 4.4 billion in India by 2030 through a new regional service and support more than 48,000 jobs yearly."

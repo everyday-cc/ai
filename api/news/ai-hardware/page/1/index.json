@@ -98,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-23-chinas-baidu-sees-little-impact-from-us-chip-controls.md",
-      "title": "China’s Baidu Sees Little Impact From U.S. Chip Controls",
-      "excerpt": "A company executive says the search-engine giant’s AI and cloud businesses don’t rely heavily on chips restricted by the U.S.",
+      "path": "_news/2022-11-23-chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.md",
+      "title": "China's Baidu says it expects 'limited' impact from U.S. chip curbs",
+      "excerpt": "\"A large portion of our AI Cloud business and even wider AI business does not rely too much on the highly advanced chips,\" said Shen. Baidu also runs a robotaxi business, Apollo Go, which has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120",
-      "originalUrl": "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120",
+      "webUrl": "https://www.cnbc.com/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-672192/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://image.cnbcfm.com/api/v1/image/107156082-1669182526947-gettyimages-1242981201-AFP_32HR3QZ.jpeg?v=1669191019",
+          "width": 5813,
+          "height": 3868,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,16 +120,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T15:38:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "publishedDateTime": "2022-11-23T00:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

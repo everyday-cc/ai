@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it—saving seals."
-publishedDateTime: 2022-11-23T18:21:00Z
-originalUrl: "https://phys.org/news/2022-11-facial-recognition-scientists.html"
-webUrl: "https://phys.org/news/2022-11-facial-recognition-scientists.html"
+excerpt: "A research team at Colgate University has developed SealNet, a facial recognition database of seal faces created by taking pictures of dozens of harbor seals in Maine. FREEPORT, Maine (AP ..."
+publishedDateTime: 2022-11-23T16:25:00Z
+originalUrl: "https://www.channel3000.com/i/facial-recognition-can-help-conserve-seals-scientists-say/"
+webUrl: "https://www.channel3000.com/i/facial-recognition-can-help-conserve-seals-scientists-say/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Channel 3000
+  domain: channel3000.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/11/h/y/fc3ad20d28ed3b334e2829e15068e50ca28b6081.jpg"
+    width: 1763
+    height: 1175
+    isCached: true
 
 related:
   - title: "Seal conservation efforts aided by new facial recognition technology"
@@ -142,6 +148,6 @@ related:
       domain: wpri.com
     quality: 19
 
-secured: "DezU0quImw4Mh9DlX5UZ1e4aJt9JJ9sCIQXHU2gdpMg+W7+RVBzznzsFA8SA7pDXlPRpnUTv0cDHMXDwvQCQ93s5B7Dm9oTC1ugLIaWQ1Z5M3zShlTH7zC7FSNAgbU91lxESzgfysfi01LLUkyja4PP1rJVD8qW54B98fMjOYcTb4XUUKVTcziFt1LOql2Ir7Pq1t1rM4gI4OtLGtkOw5MMdz3DcYqAyCKeyg3c2vFek5UzReD6IehFq0fPLuIKg4SexP33L3XDQkjtgh8nLIwh0I1N3t0yDL7cEUUSxeMV8WqhvimsF6+8tKHrVXbB5C3uQIujU0gt8OkIBhpHwARQGhO6lhr862CRzxRYRAyByFwItY26Zi9q+e3Ov5Sxis2FFOjzlg8NwAPLqR17nqSGrIMZq9SE2oM7qICiAiThMC6WzQk6hiMYL5A0HP6bZ9BXRDHHZ1IVwvKR2Nu0cGg0IeR79plXeve6m22UyfcnsoaZzkJ41JTAzgtuI5fHTrXV7CqKxpFsjaM+u1otFuA==;fHG5CxsJ+yy5FgwZ3oW4Gw=="
+secured: "65fZh4piaoB2Nlr+so/Dzeu/lP9B2jOOpzZkvVYFHcIjE6SDiUHhVBG5zH3kDhNFVEndNK14uVgQ0RQlhtZuQDNXy2MnYBIgfxG4OIEbEN1o1ez1Al5NWemp6P4nSPngKR1aNWxJCfrgzpw6nw8+29ZlEmEFBDDNQzIrN2PFjeuB1ckBAB6W/7mJe5OpgUm/m4BabhXgkYFoHRbcAckET8zOD3Eaj+2kJSZD9Hokn3esE73breHvNF0c0gKn2UH/+13H5pGTE9cRmWwI8uwB8RfUZOqIXBK2C6NfNNkg5dgtNF43h99HysdCl725ob9JhA/kP6bv/pqI0rpdhW0ND2LGjcxYs/wHpzKZJ9R66o4=;CP/3x0O+Q6eMEbKomeOKRQ=="
 ---
 

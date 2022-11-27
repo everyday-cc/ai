@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Researchers: AI in connected cars eased rush hour congestion"
-excerpt: "Researchers in Tennessee say they have successfully used artificial intelligence in a group of wirelessly connected cars to help ease rush hour traffic on Interstate 24."
-publishedDateTime: 2022-11-23T13:08:00Z
-originalUrl: "https://www.click2houston.com/news/politics/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-webUrl: "https://www.click2houston.com/news/politics/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no"
+publishedDateTime: 2022-11-22T17:08:00Z
+originalUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+webUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
+ampWebUrl: "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2GAG4X6LAREYREEQINC3D25YDQ.jpg?_a=ATO2Bfe0"
-    width: 700
-    height: 467
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -70,6 +72,6 @@ related:
         height: 500
         isCached: true
 
-secured: "yrqVVZfIR7s44wmK+q5cnZaW9NiDlzRZrVm1/Our4AVi+eZ1IGiu8WwxnTa/mWcpjJdUZcvHYmdpIy/lUHCgI9eNBzz7rzZ+x3cm8xHOxw3XImy4L8WNeMaENs1vZM4SdL3GW2m54SWiNw1wmkZVDw0KA/oVlf7gDYVX/xDvkuw1tUI8RC1RlTyobLVWjrW4ltw4fEvOivY++wcdudOvoX4nMIJiUr1Je4qTy/fNfc7tthSE3NuG1FOnX3/FmOf3/EkZwkxO2zwZFUv9E5sylB2annEZweGnu8MKU4opVaw+jhE/wqxW8ya1boQCC1qFo/3PfBjN/v1DeFUKdnyhSULiDgNUQylYrMfgeMU3vvQ=;5TO7Q4bFu0x/SSJXZs7mUg=="
+secured: "dfeIoZGgRw6biND5KWO+UESPAA8CRuCRbf/U066DKVXCCJCaXKoM+GNqOs53Xn6m8amRqO50I1wB9pYQPvWrU9KcMgehm0UhdZSESlDVHHTC3maaOiaekW3CaLCxQBzJmm9VvtFA6x7C6/k3fj7hbDFzo9BWQlnxcLnDtAGZzaswfrjni6ZKDNwXH1ObvW1D46m0hPGdgoa3AR3r1Mzfd+aAFsKUcOKOusiTISQfkVPNTXIiapruHX+1Dd+DADsbmCRKbnDWFMsTa5J3bMs3XPicxfLGqVlLQAcryCsYbpgov2ASxDYadJT4zyag4M2eyQaPg/4dQVRIn9jkJroxQu/fzDvH5voqNy1YWOviAbo=;M1qGzppBk7W4g6g6dKgWkQ=="
 ---
 

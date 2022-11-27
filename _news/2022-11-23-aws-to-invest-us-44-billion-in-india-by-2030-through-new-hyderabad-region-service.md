@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS’ New Data Center in Hyderabad to Create 48,000 Jobs"
-    excerpt: "The new facility will open its doors for over 48,000 full-time employment opportunities annually with a proposed investment of $4.4 billion (INR 36,300 crore) in India by 2030. Together with the AWS Asia Pacific (Mumbai) Region,"
-    publishedDateTime: 2022-11-22T11:51:00Z
-    webUrl: "https://analyticsindiamag.com/aws-new-data-center-in-hyderabad-to-create-48000-jobs/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/aws.jpeg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "AWS plans to invest over USD 4.4 bn in India by 2030, launches infra region in Hyderabad"
     excerpt: "Amazon Web Services, Inc. (AWS), on Tuesday announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region, A press release from the tech major said the new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
     publishedDateTime: 2022-11-22T19:00:00Z

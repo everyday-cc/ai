@@ -44,7 +44,7 @@ related:
     provider:
       name: CIO
       domain: cio.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024"
         width: 1024

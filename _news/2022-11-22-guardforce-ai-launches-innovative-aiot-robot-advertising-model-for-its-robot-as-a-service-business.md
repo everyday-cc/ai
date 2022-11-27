@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-guardforce-ai-launches-innovative-
 webUrl: "https://www.tmcnet.com/usubmit/-guardforce-ai-launches-innovative-aiot-robot-advertising-model-/2022/11/22/9718194.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Guardforce AI launches AIoT robot advertising model for its Robot-as-a-Service business"
-    excerpt: "We believe this new advertising model opens up more opportunities for robotic services, thereby having a positive impact on both our top"
-    publishedDateTime: 2022-11-22T12:15:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/999099/guardforce-ai-launches-aiot-robot-advertising-model-for-its-robot-as-a-service-business-999099.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 26
 
 secured: "i6uwajiMDyyVSyh3iymS4pf1V/+jdjCDCUqBClssZQZUvoIodJPzsqXZ1vscCfOdkMTA4r5AMTJvQ8ofqQiFQgtJgRHS9BDDpGsGnl7nf5ePFH4OERwB6rRk9gHRFNv3/yA1ddPh3QAv8whuwlBcryZod6BtJXdwxPN9YSbdqq/fjDZliZZ7as6pAo46qbtndtJFt3HgHkQEDyTCBbznVyVYAUU8diHD/rmcsRqAioNQFdrWCmaa0SujffSKuTz11CbgniaDRebBLLm86JtcdhiE4IJrJokmsPQM5ha2utvNzA6m+aFFLYs7hcWjh9mQ5LEX44ggFXu71zxhTffktGNUph7ZzX5hQci5HAS08Vw=;a0XCm6/iXrmSCdNxcXoEFQ=="
 ---

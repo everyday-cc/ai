@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
-    excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
-    publishedDateTime: 2022-11-24T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
   - title: "Global Mobile Learning Market Research Report 2022: Augmented"
     excerpt: "The global mobile learning market is expected to grow from $42.16 billion in 2021 to $54.36 billion in 2022 at a compound annual growth rate (CAGR) of 28.94%. The mobile learning market is expected to reach $155."
     publishedDateTime: 2022-11-25T20:34:00Z

@@ -29,29 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
-    publishedDateTime: 2022-11-25T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24"
+  - title: "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search"
+    publishedDateTime: 2022-11-23T19:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
-    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
-    publishedDateTime: 2022-11-27T02:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
+  - title: "In-vehicle AI Robot Market 2022 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2028"
+    excerpt: "In-vehicle AI Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-11-23T03:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/in-vehicle-ai-robot-market-2022-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2028-2022-11-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,29 +71,66 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
-    excerpt: "\" Artificial Intelligence in Precision Farming Market \" Insights 2022 - By Applications (Experimental Study, Farm Management, Private Planting), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
-    publishedDateTime: 2022-11-27T00:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-11-26"
+  - title: "Face Recognition Device Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2022 (The Expresswire) -- \"Face Recognition Device Market\" research provides significant and in-depth information on the global market. This research provides an in ..."
+    publishedDateTime: 2022-11-24T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Devices Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Facial Recognition Devices Market will have significant change from previous year. By the most conservative e"
-    publishedDateTime: 2022-11-22T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2022-11-22"
+  - title: "Intelligent Voice Assistant Market Size, Global Insights and Trends, Forecasts to 2028"
+    excerpt: "\" Intelligent Voice Assistant Market \" Insights 2022 - By Applications (Automotive Industry, Smart Home, Education Industry, Medical Industry, Consumer Electronicss), By Types (Text-Based, Text-To-Speech,"
+    publishedDateTime: 2022-11-25T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-voice-assistant-market-size-global-insights-and-trends-forecasts-to-2028-2022-11-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market 2022 Research Methodology, merging Technologies, Value Chain Analysis, and Forecast by 2028"
+    excerpt: "Global Artificial Intelligence in Diabetes Management Market by MarketsandResearch.biz gives the perception of"
+    publishedDateTime: 2022-11-24T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-research-methodology-merging-technologies-value-chain-analysis-and-forecast-by-2028-2022-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Systems in Healthcare Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Systems in Healthcare Market will have significant change from previous year. By the"
+    publishedDateTime: 2022-11-23T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-size-2023-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Face Recognition Lock Market - Global Industry Analysis and Forecast to 2022 to 2030 | By -Dessmann, Kaadas, MI"
+    excerpt: "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Face Recognition Lock Market research report 2022-2030 The Global Face Recognition Lock Market investigation report is segmented by Types ( Black,"
+    publishedDateTime: 2022-11-23T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-lock-market---global-industry-analysis-and-forecast-to-2022-to-2030-by--dessmann-kaadas-mi-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
   - title: "Artificial Intelligence (AI) in Agriculture Market 2023 : Trend Analysis, Competitive Outlook of Top Industry Players and Future Expansion by 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence (AI) in"
     publishedDateTime: 2022-11-25T12:45:00Z
@@ -103,6 +140,31 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-11-24T03:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
+    excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
+    publishedDateTime: 2022-11-24T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
   - title: "Robot Battery Powered Lawn Mowers Market Industry Analysis, CAGR Value, Business Strategy, Growth drivers, competitive landscape, Forecast by 2029"
     excerpt: "Global Robot Battery Powered Lawn Mowers Market Segmentation ... is processed using powerful artificial intelligence approaches to present prediction crowd flow models and customer preference patterns. On the Basis of the End-User/Applications, this ..."
     publishedDateTime: 2022-11-24T19:22:00Z
@@ -123,24 +185,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 6
-  - title: "Global Artificial Intelligence in Manufacturing Market Report 2022 to 2028: Players Include Google, Micron Technology, Siemens and General Electric"
-    excerpt: "The \"Global Artificial Intelligence in Manufacturing Market Size, Share & Industry Trends Analysis Report by Offering, Application, Technology, Industry, Regional"
-    publishedDateTime: 2022-11-22T12:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29820241/global-artificial-intelligence-in-manufacturing-market-report-2022-to-2028-players-include-google-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
-    excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
-    publishedDateTime: 2022-11-25T15:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "VT0HzrCruEMyxt7BV2LFCEltU6rafd+GJBTZB+4IsqSMMoUPk+yLO4UTWDzv9UUK+20hsC/PGOP1r8/wuk1FBOZS9+txYyeU6SwrxSaKB6wX+dyQAbvX2sld+8iKScJQIUp2FDRiZvF7oliUExoWMipwGCr2bMYcaKK96eqLF8eXyibailEy2B/99RZbajyPd1TrIt5qtptqH9ThN/qVr9/bWu3c1cxxdwZBHVmlbt6blvipC2jUly3W9VukDz9PZ3GJElYQRiZhJ1XzG/TRBudIbsU6nIIL5GrodaytCEih9BWY+38mXCaqH+MWc0kw7S5Eg5XK6pHlcF1SwebUaG5voBL6n1HTAhovcQyKAYU=;AZt2UNIzuMbXIurt61MWEQ=="
 ---

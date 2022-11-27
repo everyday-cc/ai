@@ -126,6 +126,20 @@ related:
         width: 728
         height: 424
         isCached: true
+  - title: "Tesla self-driving software now available in North America, says Musk"
+    excerpt: "Last month, Musk said Tesla's advanced driver assistant software would not gain regulatory approval in 2022. On Twitter, Musk wrote, \"Tesla Full Self-Driving Beta is now available to anyone in North America who requests it from the car screen,"
+    publishedDateTime: 2022-11-27T03:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273133323/tesla-self-driving-software-now-available-in-north-america-says-musk"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1669397710178.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Tesla Opens Floodgates for Owners to Test Out Automated Driving"
     excerpt: "Tesla Inc. is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
     publishedDateTime: 2022-11-24T13:00:00Z
@@ -185,20 +199,6 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 28
-  - title: "Autonomous driving: Everything you need to know about self-driving cars"
-    excerpt: "Autonomous driving is the new goal of the automaking industry. Many companies have started their research on different levels of autonomous driving. Typically, the term \"autonomous driving\" refers to self-driving cars or other transportation systems that operate with varying levels of assistance from a human driver,"
-    publishedDateTime: 2022-11-22T11:53:00Z
-    webUrl: "https://interestingengineering.com/transportation/autonomous-self-driving-cars-tesla"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 24
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/22/image/jpeg/Un568E5NizfTYGfPLjF4NsSiU1OpmQKYKgUAHx5y.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla Full Self-Driving Caught Ignoring Stop Signs on School Buses"
     excerpt: "Testing captured on video reveal multiple instances of a Tesla using full self-driving failing to stop for school buses and ignored school speed limits."
     publishedDateTime: 2022-11-22T14:58:00Z

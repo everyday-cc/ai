@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How mental health apps are breaching barriers through AI"
-    excerpt: "You are helping me hold on to myself, thank you.” This was a turning point for the mental health platform, which decided to focus on perfecting its chatbot- an AI-based emotionally intelligent ‘pocket penguin’ named the Wysa AI Coach."
-    publishedDateTime: 2022-11-22T12:07:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/variety/how-mental-health-apps-are-breaching-barriers-through-ai/article66169451.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/p9m9fj/article66169458.ece/alternates/FREE_1200/CCI_UDHindu_KSL_UCQ2VHUSA_R1512233381_0_5aaf3fc8-db7a-48d1-a516-3ae8a2141321.jpg"
-        width: 1200
-        height: 573
-        isCached: true
   - title: "Advancing Healthcare Innovation through AI Adoption"
     excerpt: "Leading health providers are implementing AI to improve patient and staff safety and quality, allowing them to accomplish their technological innovation goals for better use of resources, with higher satisfaction."
     publishedDateTime: 2022-11-22T18:24:00Z

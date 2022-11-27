@@ -6,8 +6,8 @@
       "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
       "excerpt": "While we use AI more and more, the artificial intelligence research community doesn’t necessarily have a complete understanding of what neural networks are doing; they give us good results, but we don’t always know how or why. And that is what we’re ...",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
-      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -32,8 +32,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {

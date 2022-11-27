@@ -41,6 +41,22 @@ related:
         width: 2362
         height: 1417
         isCached: true
+  - title: "Baidu posts 65% increase in the number of driverless taxi services"
+    excerpt: "That came 18 months after Waymo started driverless ride-hailing service ... Baidu has expanded into artificial intelligence, processor chips and other technology. It says its autonomous vehicles ..."
+    publishedDateTime: 2022-11-23T00:41:00Z
+    webUrl: "https://gulfnews.com/business/baidu-posts-65-increase-in-the-number-of-driverless-taxi-services-1.1669163097879"
+    ampWebUrl: "https://gulfnews.com/amp/business/baidu-posts-65-increase-in-the-number-of-driverless-taxi-services-1.1669163097879"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/baidu-posts-65-increase-in-the-number-of-driverless-taxi-services-1.1669163097879"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/11/23/Baidu-Apollo-Robotaxis_184a1f16cc3_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
 
 secured: "zCnKAA1fDYT3hOM8/5qcSnCUnGd+M/TUzYDe5QENOv2/T1+oLdCNu6sfkm/ev/+TqKEzWjlEsVUB3/xSb2/0DiKLSZpaeeiLN7j3vu2X1gkMLQO0notrwAm1Rxt7ezyqqJoI0GeR3GV1DwCHdgV0903LB9FC7p9b0PVwm698sSBr5wy4cEykD+c8yFwi75o6hAkfd2fLPxMOhp8KbW1uIJ4p3kE0C/OgYMGDBhgf2Pc+jX4JQkcRetSIi0ea7cJXOIHr5o6OwaCoIGy9ORKIUINQ6+Qcy8E5Cd4DiPG2gM5Gro+IKzNRucokMzWUDvMiHnVcFnD/Nimg/an3PUUDgbA0YFDTJ3Y5mFQ2187/VApx77wODKOa+Pj7blhGWkZlTeQNZAQUtRblAotmlxCE9pB12VussUtzUDNTRatevw5pY7WYgphbP2Aubu+M0eNoQ7Smq8FfYrN5dLqPx6q+/T8AD8yVXfCXAygdh1vPdikFNr0Jw3nUZWDjhSZY1fVEAyM+xhe6UJToiZ6ftxf8gQ==;nfrN3l5zXPr2zEfkO9blrg=="
 ---
