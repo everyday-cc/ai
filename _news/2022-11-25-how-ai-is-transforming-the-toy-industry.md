@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     images:
       - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
         width: 750
+        height: 500
+        isCached: true
+  - title: "How Is Robotics Shaping Up To Impact The Car Manufacturing Industry?"
+    excerpt: "How is Robotics Shaping Up to Impact the Car Manufacturing Industry? November 23, 2022 by mark allinson leave a comment . The world of car man"
+    publishedDateTime: 2022-11-24T06:35:00Z
+    webUrl: "https://menafn.com/1105226434/How-Is-Robotics-Shaping-Up-To-Impact-The-Car-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
+        width: 800
         height: 500
         isCached: true
   - title: "SIX fintech sectors transforming the financial industry"

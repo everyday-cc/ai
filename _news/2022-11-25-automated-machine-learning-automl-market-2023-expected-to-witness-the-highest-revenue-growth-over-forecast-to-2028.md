@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learni
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25"
 type: article
 quality: 63
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Pharmaceutical Market : Competitive Strategy Analysis and Forecast Values 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Pharmaceutical Market\" Insights"
+    publishedDateTime: 2022-11-26T12:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-competitive-strategy-analysis-and-forecast-values-2023-2028-2022-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

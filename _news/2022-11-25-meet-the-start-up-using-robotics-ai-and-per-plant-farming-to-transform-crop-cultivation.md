@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "How Is Robotics Shaping Up To Impact The Car Manufacturing Industry?"
+    excerpt: "How is Robotics Shaping Up to Impact the Car Manufacturing Industry? November 23, 2022 by mark allinson leave a comment . The world of car man"
+    publishedDateTime: 2022-11-24T06:35:00Z
+    webUrl: "https://menafn.com/1105226434/How-Is-Robotics-Shaping-Up-To-Impact-The-Car-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "SIX fintech sectors transforming the financial industry"
     excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
     publishedDateTime: 2022-11-25T09:00:00Z

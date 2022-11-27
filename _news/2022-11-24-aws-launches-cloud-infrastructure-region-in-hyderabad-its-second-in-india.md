@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS to invest $4.4 bn in Hyderabad data centre"
-    excerpt: "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India."
-    publishedDateTime: 2022-11-22T18:41:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/11/22/1321759-aws.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "AWS to invest Rs 36,000 crore for new Hyderabad region service"
     excerpt: "HYDERABAD: Amazon Web Services (AWS) is planning to invest an estimated $4.4 billion (Rs 36,300 crore) in India by 2030 through the new AWS Asia Pacific (Hyderabad) Region. The construction and operation of the AWS Asia Pacific (Hyderabad) Region is estimated to add approximately $7.6 billion to India’s gross domestic product (GDP) by 2030."
     publishedDateTime: 2022-11-22T23:56:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://www.ibef.org/assets/images/loginImg.jpg"
         width: 500
         height: 665
-        isCached: true
-  - title: "AWS plans to invest over USD 4.4 bn in India by 2030, launches infra region in Hyderabad"
-    excerpt: "Amazon Web Services, Inc. (AWS), on Tuesday announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region, A press release from the tech major said the new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
-    publishedDateTime: 2022-11-22T19:00:00Z
-    webUrl: "https://www.dailyexcelsior.com/aws-plans-to-invest-over-usd-4-4-bn-in-india-by-2030-launches-infra-region-in-hyderabad/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 30
-    images:
-      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
     excerpt: "The Hyderabad region will give customers access to AWS technologies for data analytics, security, machine learning, and artificial intelligence. AWS has previously invested $3.71 billion in local infrastructure and jobs across India. The new investment ..."

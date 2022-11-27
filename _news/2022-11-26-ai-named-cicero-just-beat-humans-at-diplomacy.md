@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's Latest AI Can Play Diplomacy Better Than Most Humans"
-    excerpt: "CICERO can negotiate, offer advice, share information, and make agreements with other players, but also knows when they are bluffing."
-    publishedDateTime: 2022-11-22T17:20:00Z
-    webUrl: "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03xnvbPFTJ6SQUEglxTgRy5-1.fit_lim.size_1200x630.v1669136459.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "An AI Named Cicero Can Beat Humans in Diplomacy, a Complex Alliance-Building Game, That’s a Big Deal"
     excerpt: "In a rare piece of good news from Meta, artificial intelligence researchers at the company have just announced a"
     publishedDateTime: 2022-11-26T13:30:00Z
@@ -55,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta develops AI system capable of playing Diplomacy"
-    excerpt: "Meta Platforms Inc. today detailed that it has developed an artificial intelligence system capable of playing the popular Diplomacy board game. Until now, Diplomacy was considered too difficult to be played by an AI system."
-    publishedDateTime: 2022-11-22T20:12:00Z
-    webUrl: "https://siliconangle.com/2022/11/22/meta-develops-ai-system-capable-playing-diplomacy/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/meta-4.png"
-        width: 850
-        height: 480
-        isCached: true
   - title: "Meta launches Cicero, an AI that can play Hasbro’s ‘Diplomacy’"
     excerpt: "The AI agent uses natural language to achieve diplomatic resolutions among human players. Meta AI this week announced the development of Cicero, which it"
     publishedDateTime: 2022-11-24T10:12:00Z
@@ -83,29 +55,20 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Meta's new AI can beat human players at Diplomacy"
-    excerpt: "Meta have revealed an impressive AI that can beat human players at Diplomacy, all without \"intentionally\" lying."
-    publishedDateTime: 2022-11-25T22:05:00Z
-    webUrl: "https://www.rockpapershotgun.com/metas-new-ai-can-beat-human-players-at-diplomacy"
+  - title: "Cicero is the first AI to beat humans in strategy game Diplomacy"
+    excerpt: "Training AI to imitate human language, thinking patterns and communication, especially in interactive environments has proven difficult in the past, but we"
+    publishedDateTime: 2022-11-27T10:27:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-joel-rindelaub-uoa-resarch-fellow-on-the-first-ai-to-beat-humans-in-a-strategy-board-game/"
     type: article
     provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
     quality: 37
     images:
-      - url: "https://assets2.rockpapershotgun.com/CiceoAIdiplomacy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/CiceoAIdiplomacy.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.newstalkzb.co.nz/media/5l2bdgjh/catan-gives-you-a-strategy-buzz-but-in-a-much-more-user-friendly-time-span-of-45-minutes-writes-matt-heath.jpg?rmode=crop&rnd=133140251196670000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
         isCached: true
-  - title: "Meta’s game-playing AI can make and break alliances like a human"
-    excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
-    publishedDateTime: 2022-11-23T13:52:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "AKVCoicnThcZdlDlHFVdzpu/Zv9LJt8SNYYmpaSmLyq6HNqTbof7LSlrOztICFAzrBCRVQLC1O0EnQTQhndF8/RpwY0ARSmNvDcQDh0P/zqtObXPSz1RuEQLkPJbajDpPTYN+URERyu9QCnMfufwI8DoiNSgYfej6TP0bU1fXTjekIoBZKkDFe8bOzEGGfxr4/VXpaG58FXznk8M8/8cW5LwUVFEbMsxhi6Eq+xPwu4y7umk4EXAypl3ggHfPC2twwKqggv69wVPOu/PPXlVkW0lvWey+KRED2eHZpdeL2m0M7TxTY+m2FwV2FEA5cpvrLA0aPhDEgIt+qKIpa5yYqSMyVqH46RGm4c2aopZO06U1ilf44m/bXeaOaIYIxZ9ag4cjUE7Y4JCwct5nfa182IP8QPArqlxrNRwoc7hh8M3pPNSVePbPRNnu31s8Ho2pob9na3mZKezvlXs2BZH01lBlWmdwLWqT5MyMUfg128mSa7/XcZq4lxYAFfxYJ/b56TJG+tsv239Bx27b4VfNA==;hdNoiMnYDOue3ZjYrkA3kw=="
 ---

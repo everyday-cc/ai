@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Machine Learning in Manufacturing Market Geographical Segmentation By Forecast Revenue 2023-2028"
-excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Machine Learning in Manufacturing"
-publishedDateTime: 2022-11-26T00:19:00Z
-originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
-webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+title: "AI in Pharmaceutical Market : Competitive Strategy Analysis and Forecast Values 2023-2028"
+excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Pharmaceutical Market\" Insights"
+publishedDateTime: 2022-11-26T12:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-competitive-strategy-analysis-and-forecast-values-2023-2028-2022-11-26"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-competitive-strategy-analysis-and-forecast-values-2023-2028-2022-11-26"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -85,15 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Pharmaceutical Market : Competitive Strategy Analysis and Forecast Values 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Pharmaceutical Market\" Insights"
-    publishedDateTime: 2022-11-26T12:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-competitive-strategy-analysis-and-forecast-values-2023-2028-2022-11-26"
+  - title: "Machine Learning in Manufacturing Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Machine Learning in Manufacturing"
+    publishedDateTime: 2022-11-26T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -185,6 +184,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oLHko68aOZ9enwAN1AQCvhB9CM0GvNGNfGGGHzs0qSpHqxvpY76/UVcVU+cRTiKazq8DVfyTOuxabcTP6ITX5nuOA62W8jXlCgEQf67ffctQeL6Lj4uzHBb9O3CXfF+rPV2Gn0TrTcij0FQ0me1poyPAQUtp+uctvzrLCAHQqpPPghEGUzir5i3V16tQRDoFj+QPdZ8l0ABgJKoc8veE97fB4mEPU5JtKyDkcHjE2OlbtmhOpTBOILF0e1BNi+j9rWoGpkbaTfKHSek7Js34Tid26/qXBuiMBZfbYPYKtCV7C1jVndEIS9hGa2hKjHL4G4l6hA6729RL6TRo8y7lyswhYHNbBt2wgW35iKy4zyM=;ZeC0c+p/tcG6DPhC+gBobQ=="
+secured: "iN+UFWSG1jMS6A5ADDex2PSB3LQW+0OYa8C4oXu+a9TddwRMWDEwNglxG3vEqTz+gIle+lbOEUgEv+gLhCBHyGftLQHn725J9iA3EDnhJ7U+DgVey2ytqbfuq+E6oza2pJrxgBWObPIw7vUcSl7y6UuuIVU4rCXWTaGgXQymxRZcwNcfWCzNABcW1yPUh503SwXlc4H1uxVOhyaBuc2wVh3RLzOHhVhAbEqoH0eCD7bf6coabHF+ROJ9mtlYHVtlxS7C5NEloCnKiX1oGrYgmgMKghdlrY3Z8jbg5damPyhqimXPqxAaOygx7Jra7gGeFYmO9E73Rs5YsfJp+Hx/raHOpHhHHU5fkxBWJywsRM4=;TYx1ceM0TsY0cZHKxqRBtw=="
 ---
 
