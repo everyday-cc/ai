@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-16-toronto-startup-waabi-starts-testing-its-driverless-trucks-on-the-road-with-humans-on-board.md",
+      "title": "Toronto startup Waabi starts testing its driverless trucks on the road, with humans on board",
+      "excerpt": "Ms. Urtasun’s Waabi Innovation Inc. is officially rolling out its artificial intelligence-powered self ... guards and even to make left terms. Driverless vehicles have caused accidents resulting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
+      "originalUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/DaZsdVX0TEYEecEy34slzNbqSBU=/1200x694/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/KXNXBRKJKREWVAMLTXQLYCUSPU.jpg",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks.md",
       "title": "As Doubts Grow Over Self-Driving Vehicles, This Ambitious Upstart Rolls Out Its First Robot Trucks",
       "excerpt": "Self-driving tech startup Waabi has deployed its first robot trucks and intends ... testing with the “Waabi World” simulator CEO Urtasun developed that allows the AI-enabled system to experience nearly limitless types of road conditions.",
@@ -50,6 +93,41 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence.md",
+      "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
+      "excerpt": "While we use AI more and more, the artificial intelligence research community doesn’t necessarily have a complete understanding of what neural networks are doing; they give us good results, but we don’t always know how or why. And that is what we’re ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI",
         "AI in Autos"
       ]
@@ -1270,110 +1348,6 @@
         "name": "The Business Journals",
         "domain": "bizjournals.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-israel-to-start-self-driving-public-bus-pilot-programme.md",
-      "title": "Israel to start self-driving public bus pilot programme",
-      "excerpt": "Israel has launched a two-year pilot programme in which four companies will operate self-driving public buses in a bid to ease road congestion, the country's Innovation Authority said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
-      "originalUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=119",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-why-self-driving-vehicles-will-still-need-a-human-minder.md",
-      "title": "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder",
-      "excerpt": "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
-      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-650671/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

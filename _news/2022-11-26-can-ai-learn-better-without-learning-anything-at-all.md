@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Machine Learning potential advantages"
-    excerpt: "AI and Machine Learning are helping businesses to remain competitive in their respective industries FREMONT, CA: As we progress into"
-    publishedDateTime: 2022-11-22T09:57:00Z
-    webUrl: "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html"
+  - title: "UC San Diego: Artificial Neural Networks Learn Better When They Spend Time Not Learning at All"
+    excerpt: "Depending on age, humans need 7 to 13 hours of sleep per 24 hours. During this time, a lot happens: Heart rate, breathing and metabolism ebb and flow; hormone levels adjust; the body relaxes. Not so much in the brain."
+    publishedDateTime: 2022-11-23T00:03:00Z
+    webUrl: "https://indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
+    ampWebUrl: "https://indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/uc-san-diego-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 47
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/khmjzc2io450-308.jpg"
-        width: 450
-        height: 308
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-University_of_California_San_Diego_seal.svg_.png?fit=1024%2C1024&ssl=1"
+        width: 1024
+        height: 1024
         isCached: true
-  - title: "Huge Potential – New AI Material Learns Behaviors and Adapts to Changing Conditions"
-    excerpt: "University of California, Los Angeles engineers have developed a new class of material. University of California, Los Angeles mechanical engineers have created a new class of material that can learn behaviors over time and develop a \"muscle memory\" of its own,"
-    publishedDateTime: 2022-11-22T14:17:00Z
-    webUrl: "https://scitechdaily.com/huge-potential-new-ai-material-learns-behaviors-and-adapts-to-changing-conditions/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 13
 
 secured: "8c44dGvidtu3f+Xl9yuBURwtlfgyGzvP1V8KE9ChXJWornNXIhl57pScRKQHcDJ9I4gXR17ggJA4DbysIrjQtVuAqPuotgRsct9E5p1R81qEkrbcaSu8eG/lJ/XmJPxaBN82YzkWb0Q9rrjIth/UroXBNdyyKQRVaqUyKTfDwvXvNVyr23i3kwtNR9gCPPEdsv9rw6uGvX90RxuUq7HfZnc0SRbEEiYl8h29RQoGRp5m2CqJr/OqEiOi+kLKvc93a1osdLVdL4P1ZQHgQb2ScGED+azDvDoHQ6yVMbkcSunDKjq+y9C6gDiNaHPrc+pY3u+nXMVZAiXzStRsd+s/X+ADZlrNgUwSpOt5sVPxXGE=;zwnqmYlgx33VrB2yzrl1tQ=="
 ---

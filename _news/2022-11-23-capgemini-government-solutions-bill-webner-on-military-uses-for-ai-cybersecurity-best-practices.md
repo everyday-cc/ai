@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Capgemini develops new AI solution to advance the treatment of River Blindness"
-    excerpt: "A team of experts at Capgemini, in collaboration with University Hospital Bonn and Amazon Web Services, has developed an artificial intelligence (AI) model that will accelerate the speed of clinical t"
-    publishedDateTime: 2022-11-22T10:38:00Z
-    webUrl: "https://indiaeducationdiary.in/capgemini-develops-new-ai-solution-to-advance-the-treatment-of-river-blindness/"
-    ampWebUrl: "https://indiaeducationdiary.in/capgemini-develops-new-ai-solution-to-advance-the-treatment-of-river-blindness/amp/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/capgemini-develops-new-ai-solution-to-advance-the-treatment-of-river-blindness/amp/"
+  - title: "Special Series Part 2: Billions Of Dollars Roll Into AI-Enhanced Cybersecurity"
+    excerpt: "The use of AI by cybersecurity startups isn't new, but as applications for the technology in the sector have grown, so has investor interest."
+    publishedDateTime: 2022-11-23T13:30:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-cybersecurity-series/"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 55
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 33
     images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
-        width: 534
-        height: 462
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Cybersecurity.jpg"
+        width: 900
+        height: 506
         isCached: true
+  - title: "Top 5 stories of the week: Deloitte’s cybersecurity predictions, the true cost of a breach, AI’s new diet"
+    excerpt: "Just as a new report published this week highlighted that enterprises pay on average about $1,200 per employee each year for breach mitigation, Deloitte shared 10 cybersecurity predictions to better secure the enterprise in 2023."
+    publishedDateTime: 2022-11-26T13:00:00Z
+    webUrl: "https://venturebeat.com/security/top-5-stories-of-the-week-deloittes-cybersecurity-predictions-the-true-cost-of-a-breach-ais-new-diet/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 30
 
 secured: "njvrCR4nbWWx2re/IKRaGkC7XlqxS105XXJ4jPqp9cRgwh8VbMhghedzY91VVkG7kOm9U8fY9M861kfgyW2+Ze4WEIVQ0IVK6vKElzjhuHUJvioJW/So4W5BPVRWOwZ+zlQsunm0SpQyBG/7crEhBoLTyaEaqT0M2PtM8CdLC9hW0iAwIgvEiWc9aAl1MAUzZpylc8WFVMP4SyCLOB0rFnDbSxN5dS3Rt6UnW8ydj6/xWEQJrD33cuBst1vd7C05kVxgmO6QonGsfKDXLnujHZ5BsXoZhzAaKxaJ9tRoA7yJNaNKfFhAgmDShXvryU1kGpDxNBI6htKiMvyvNFrfK56fu5BlDG7HGk5XcPDR9xU=;Mlnyt+IeoqJITtOKLXV5lQ=="
 ---

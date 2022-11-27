@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Looking to Ride the Self-Driving Boom? Analysts Suggest 2 Stocks to Buy"
-    excerpt: "None of this would be possible, however, without a major change in the sensor systems that make self-driving cars possible. These systems, called LiDAR, as recently as 10 years ago could cost more than the entire rest of the car – but in recent years ..."
-    publishedDateTime: 2022-11-22T10:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/looking-to-ride-the-self-driving-boom-analysts-suggest-2-stocks-to-buy"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Self-driving buses to be tested in Israel"
     excerpt: "Vision is to turn Israel into a world leader in autonomous public transport pilots enabling Israeli companies to become global leaders in this sector."
     publishedDateTime: 2022-11-23T07:34:00Z

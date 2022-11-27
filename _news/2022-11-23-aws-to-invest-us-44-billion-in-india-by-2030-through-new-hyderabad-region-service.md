@@ -57,22 +57,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "AWS plans $4.4 bn investment in India through new Hyderabad region service"
-    excerpt: "Customers will have access to advanced AWS technologies to drive innovation including data analytics, security, machine learning, and artificial intelligence (AI). Further, the company is planning to invest an estimated $4.4 billion in India by 2030 ..."
-    publishedDateTime: 2022-11-22T09:56:00Z
-    webUrl: "https://www.livemint.com/companies/news/aws-plans-4-4-bn-investment-in-india-through-new-hyderabad-region-service-11669109541708.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/aws-plans-4-4-bn-investment-in-india-through-new-hyderabad-region-service/amp-11669109541708.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/aws-plans-4-4-bn-investment-in-india-through-new-hyderabad-region-service/amp-11669109541708.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/11/22/600x338/amazon_1668711033265_1669110458455_1669110458455.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AWS launches cloud infrastructure region in Hyderabad, its second in India"
     excerpt: "Amazon Web Services (AWS) on Tuesday announced the launch of its second AWS infrastructure Region in India in Hyderabad that will support more than 48,000 full-time jobs annually through a planned investment of more than $4."
     publishedDateTime: 2022-11-24T06:10:00Z
@@ -103,17 +87,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "AWS to invest USD 4.4 bn in Hyderabad data centre"
-    excerpt: "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India. Amazon.com Inc company,"
-    publishedDateTime: 2022-11-22T10:31:00Z
-    webUrl: "https://theprint.in/economy/aws-to-invest-usd-4-4-bn-in-hyderabad-data-centre/1229810/"
-    ampWebUrl: "https://theprint.in/economy/aws-to-invest-usd-4-4-bn-in-hyderabad-data-centre/1229810/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/economy/aws-to-invest-usd-4-4-bn-in-hyderabad-data-centre/1229810/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 39
   - title: "AWS plans to invest over USD 4.4 bn in India by 2030, launches infra region in Hyderabad"
     excerpt: "Amazon Web Services, Inc. (AWS), on Tuesday announced the launch of its second AWS infrastructure Region in India—the AWS Asia Pacific (Hyderabad) Region, A press release from the tech major said the new AWS Asia Pacific (Hyderabad) Region is estimated to support an average of more than 48,"
     publishedDateTime: 2022-11-22T19:00:00Z

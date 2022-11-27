@@ -257,6 +257,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-17-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
+      "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
+      "excerpt": "Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday. \"When asked what regulations need to be in place,\" she said, \"I say the number one thing that would safeguard us from unsafe uses of AI is curbing the power ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "originalUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/11/30/GettyImages-1028811892-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "publishedDateTime": "2022-11-17T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds.md",
       "title": "Integrated AI can generate $460 billion in incremental profits, report finds",
       "excerpt": "A new report from Infosys reveals $467 billion in incremental profit can be made by global organizations who optimize AI and data practices.",
@@ -1379,58 +1422,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds.md",
-      "title": "Bumble Releases Dick-Pic-Fighting AI Into the Open-Source Wilds",
-      "excerpt": "No dating app can stop cyberflashers all by itself. So Bumble is sharing its software to help stop sexual harassment across the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2213c38769a7ec9c5f6ceee918340cd920557932/hub/2022/10/25/d6c6b6d0-fd12-4047-bc3d-0e6e171be888/dall-e-2022-10-25-16-44-48-contented-female-commander-with-closed-eyes-deploys-her-army-of-robot-bees-to-attack-digital-art.png?auto=webp&fit=bounds&height=630&precrop=1024,538,x0,y0&width=1200",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
-      "publishedDateTime": "2022-10-26T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

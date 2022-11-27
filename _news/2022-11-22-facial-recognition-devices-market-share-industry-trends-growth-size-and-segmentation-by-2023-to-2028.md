@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
+    publishedDateTime: 2022-11-27T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chatbots Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence Chatbots"
     publishedDateTime: 2022-11-25T12:45:00Z
@@ -60,6 +74,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Precision Farming Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "\" Artificial Intelligence in Precision Farming Market \" Insights 2022 - By Applications (Experimental Study, Farm Management, Private Planting), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
+    publishedDateTime: 2022-11-27T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

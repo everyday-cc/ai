@@ -106,7 +106,7 @@
       "originalUrl": "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -206,22 +206,31 @@
       "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
       "excerpt": "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ...",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
-      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "webUrl": "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "originalUrl": "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png",
+          "width": 608,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T08:47:00-08:00",
+      "publishedDateTime": "2022-11-21T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
+        "name": "FOX31 Denver",
+        "domain": "kdvr.com",
         "images": null,
         "publishers": null,
         "authors": null

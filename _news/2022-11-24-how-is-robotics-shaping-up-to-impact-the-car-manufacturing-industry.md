@@ -39,20 +39,6 @@ related:
         width: 1564
         height: 780
         isCached: true
-  - title: "An AI and deep learning-based malware detection system for the Industrial Internet of Things"
-    excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity. Powered by wireless 5G connectivity and artificial intelligence (AI), IIoT holds the ability to analyze critical problems and provide solutions that can improve the operational performance of industries ranging from manufacturing to healthcare."
-    publishedDateTime: 2022-11-22T10:23:00Z
-    webUrl: "https://www.continuitycentral.com/index.php/news/technology/7946-an-ai-and-deep-learning-based-malware-detection-system-for-the-industrial-internet-of-things"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 43
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "MPu6gs+QvF4LEfUst0k4H+efzfiM8gvK0O41ISeqP0xSi12IPmnUqf5FFXqjqFmI3/08+P2G8qVv9doPLD31XvUzF3hiX5tAfT5MJw2Tan1DLr1Q68oKv6tBkXW8JmCZkWrwvyipBfbgNeEVRzhyoknv7H87xnBy+JxcHd3g8nvF99WBXqrY7lOrVrgDf6xh3Y/pGKCeaKxk79Yb5JNP0x5EWdSYpZd7lH2zn5jXnWbAflNqfsXl8wcm+d/kAoFNyfvo0AsQC9lwaPziSlWaVDKOVIGbp+gCuhST48AJ2BARmiT+n1xvJ+2/gxdTd9kWMsdZ/bVfTsX4HnCBK0f0lgGgSMktPOO9fMeq6XQH8DQ=;wEk+tSS6JfIlAWcUy7BsFg=="
 ---

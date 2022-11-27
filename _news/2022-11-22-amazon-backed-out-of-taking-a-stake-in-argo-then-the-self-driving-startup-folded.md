@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Amazon's self-driving-car deal with Argo fell through"
-    excerpt: "The online retailer was prepared to invest several hundred million dollars into Argo last spring, sources told Bloomberg. Amazon planned to use Argo’s self-driving technology to automate some of the electric delivery vans."
-    publishedDateTime: 2022-11-22T10:22:00Z
-    webUrl: "https://europe.autonews.com/automakers/missed-opportunity-why-amazon-backed-out-argo-investment"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
 secured: "45WufSILbVUPsOFtIHjcJWOIjDVq5NdfoNxWHEaWVq05yaM6nPTPyHRLXz6Wkwr8avPhFuABHbVO9qbenwwzVHm8OvIqn2AA+x2d9ZBUP5S/y5k4A7OOL/uQUbuRZk423B8tClCTJ8DNEeTfD65k2jlQZzCnSY3WWt9awS9pk6YMENv+6cWyF1GJoxhoDd8WtTH8NtcK6sU3zEGs5VFiuVVNsc3o6HKJwt1agEuJdHVR//xi9SMc+eOqOMLzecfKMAe2N98PkKi1e8LPBPJhqr58B5HRVnLw5jJmDB+FH7ezsCTonWPsPMUHLDb9fd4/nze4ejd9rNOts16SVOH/aQ/P0og8fkUjr60b1P+W11C4RKIUgSYYcxNwH15wFrzpPW/NM5deyWHJEIFkeK3Ky0n4i7Eq68tvpYOheMNUHnA1HPcOIIkEC+Ms/eZ2WRlX4Go8INrVfRKXbtwoqLID9RqTe75n0AJKdLU3CtI+WMc7Li0eY765wb1x9ClGpXIMye6o1NsfX6EnqZvzmo8ooQ==;Q6prdufQ3z8BQ6LSeVUVIQ=="
 ---

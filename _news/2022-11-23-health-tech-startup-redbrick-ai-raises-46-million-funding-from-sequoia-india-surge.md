@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Application of AI in healthcare is bringing a silent revolution in the health sector in Europe"
-    excerpt: "Rajat Khare’s artificial intelligence investments are ushering in the application of AI in healthcare which has the potential to introduce new technology in hospitals across Europe European Healthcare Artificial Intelligence (AI) market size surpassed USD 700 million in 2020 and is expected to register a growth rate of 43."
-    publishedDateTime: 2022-11-22T09:46:00Z
-    webUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/"
-    ampWebUrl: "https://techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/application-of-ai-in-healthcare-is-bringing-a-silent-revolution-in-the-health-sector-in-europe/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 62
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Healthtech startup RedBrick AI raises $4.6 mn from Sequoia India, Surge"
     excerpt: "US-headquartered healthtech startup, RedBrick AI, has secured $4.6 million in a seed funding round led by Sequoia India and Southeast Asia's Surge. The funding round also saw participation from Y Combinator and angel investors."
     publishedDateTime: 2022-11-24T04:46:00Z

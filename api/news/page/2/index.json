@@ -157,7 +157,7 @@
       "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -538,7 +538,7 @@
       "originalUrl": "https://www.wsj.com/articles/chinas-baidu-sees-little-impact-from-u-s-chip-controls-11669158120",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -790,7 +790,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -833,7 +833,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1190,21 +1190,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-22-ai-and-machine-learning-potential-advantages.md",
-      "title": "AI and Machine Learning potential advantages",
-      "excerpt": "AI and Machine Learning are helping businesses to remain competitive in their respective industries FREMONT, CA: As we progress into",
+      "path": "_news/2022-11-22-baidu-beats-revenue-expectations-despite-continued-covid-worries.md",
+      "title": "Baidu Beats Revenue Expectations Despite Continued Covid Worries",
+      "excerpt": "Baidu on Tuesday became the latest Chinese technology company to report a return to annual growth, as it beat expectations for its third-quarter revenue. Baidu (ticker: BIDU)—often referred to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
-      "originalUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
+      "webUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
+      "originalUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cioapplications.com/newstransfer/upload/khmjzc2io450-308.jpg",
-          "width": 450,
-          "height": 308,
+          "url": "https://images.barrons.com/im-317647/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1212,13 +1212,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T01:57:00-08:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
+      "publishedDateTime": "2022-11-22T02:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1228,7 +1228,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI"
       ]
     }

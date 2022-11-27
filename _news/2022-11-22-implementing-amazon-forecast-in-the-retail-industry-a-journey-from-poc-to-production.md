@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "An AI and deep learning-based malware detection system for the Industrial Internet of Things"
-    excerpt: "The Industrial Internet of Things, or IIoT, has recently gained popularity. Powered by wireless 5G connectivity and artificial intelligence (AI), IIoT holds the ability to analyze critical problems and provide solutions that can improve the operational performance of industries ranging from manufacturing to healthcare."
-    publishedDateTime: 2022-11-22T10:23:00Z
-    webUrl: "https://www.continuitycentral.com/index.php/news/technology/7946-an-ai-and-deep-learning-based-malware-detection-system-for-the-industrial-internet-of-things"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 43
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "VpJg6Ykq/iKWRw3cKRPeWxuRDspJNdZrWDjLf+Jsxa4pX3me4jLaJF+zgKZIuve0u+6/UUMONCXnvFOk0917Kd54eHiJNbe9Xd6PnfAAY0WyUa6bY5pnoMohqCn9lK/lvq7p7hUrYgl2/IUEVtdVlkITCHlojDByiwG0plVI27PljKD7Fhaua1PpUa+r6VIxAJIuKAgwzzp724krbyExxV+6ga5n1g5Hkl3ZMy3i1OcZQ9nREzNXdxmsvt1tmC4+67BWloyv9MbuTN4394zbvsZufQ8g3Lz+rwRFHcpln02JRTL+vAAcQqg2bFaLThhMs0aPP2x1P4nBz/IZgWRk383ROt14mSxMZnpUcL9lVhw=;MgJWDQeXEh6FAAhyBA3Jpw=="
