@@ -55,6 +55,20 @@ related:
         width: 600
         height: 403
         isCached: true
+  - title: "Meta's new AI can beat human players at Diplomacy"
+    excerpt: "Meta have revealed an impressive AI that can beat human players at Diplomacy, all without \"intentionally\" lying."
+    publishedDateTime: 2022-11-25T22:05:00Z
+    webUrl: "https://www.rockpapershotgun.com/metas-new-ai-can-beat-human-players-at-diplomacy"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 37
+    images:
+      - url: "https://assets2.rockpapershotgun.com/CiceoAIdiplomacy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/CiceoAIdiplomacy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Cicero is the first AI to beat humans in strategy game Diplomacy"
     excerpt: "Training AI to imitate human language, thinking patterns and communication, especially in interactive environments has proven difficult in the past, but we"
     publishedDateTime: 2022-11-27T10:27:00Z
@@ -69,6 +83,15 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Meta’s game-playing AI can make and break alliances like a human"
+    excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
+    publishedDateTime: 2022-11-23T13:52:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "el7ZzQ7IdIbGl0lL2YOpyAMKXVpwVm3gei8aD04qWik/ESTY02PqSZ4LKxw4K6bTj7tLEyVBcmy0oL7nBJILUNrNTc8zK3cyOJgIJ14Mv4ZhOoRkbXfi2dAVc4RAL5DxwxgIZdpDww7E+6GUpKaVatQEJY7I3H6zEQXQTp4s//yV8H+6/w0WNv2YUA3N0MfLB3Jcx5fLBb8zHHW38HdrVlKdA/pRxEJyDM1y2tMOjmbe823vJpJuLKhDVM9tJcIq5zrCn+erzdjl0ogeVeLiKmeVek0fHYFMjl8PWKp+yXvmQ2vYTKW9BO0o6ozBRYOeB3vg8QebyMp3z7ugvZcihpUGmyjjVT8lc3spGhjg+h8=;icL1N9OZufsQm9QCpODasg=="
 ---

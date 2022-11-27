@@ -24,17 +24,6 @@ images:
     height: 1365
     isCached: true
 
-related:
-  - title: "Visa, FIFA, PopID bring face biometrics payment to the World Cup"
-    excerpt: "Visa partners with FIFA and PopID to deliver contactless biometric payments at World Cup venues including eight stadiums and the FIFA Fan Festival."
-    publishedDateTime: 2022-11-22T19:02:00Z
-    webUrl: "https://www.biometricupdate.com/202211/visa-fifa-popid-bring-face-biometrics-payment-to-the-world-cup"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 4
-
 secured: "Jn1stBeA4miw0RL4WWiT5kCwL+STz1CGR7d7BHzLYhtk5Vii+Ve5fVJj38aQidMp1xcQYzqFrnhPGBQtjHA9C2SHyH4avHgJr0vF3IqOU7oFke0ljRrETYQv1/dtdgrJ1MVUhOEwXZAU0DGlv+1TytJMzR8uC9ov7w8DwE/WsIyW5h8N0ZFLFmG9gwlAqh/bJRA5zSK8N0kwP6QagQOQx0ZHO7UnkywOdLsJyLtSHc1ZHGeV7qx/YiLWRnqiGmMxq4NkSdCI9+gc68/I/qgJ9Z/H/1vuSu+uJRGk89KzkmbNsoHmKBveNZjkVfklpUpJ44GvksX1yaKDeMJCXiVs1fkcPNoOvU1optkOrwFnqeUjTexcjI3eTn1V9jafS77bO+QuwxcgCYIFEB3FhTpvAz4wqHGMYzTASZmDsTSPWdvmBQfDWlC9izzSVhKV3NNvvtDei998NZRhqZ3vHBLRPcnXKvzOzvGzPrsiFnYr9r6CwytIPqh53kEUhlw1COescUKtHUbHhYBQbWS0wLENFQ==;W1soG3DAiIAR6qNbHoO98w=="
 ---
 

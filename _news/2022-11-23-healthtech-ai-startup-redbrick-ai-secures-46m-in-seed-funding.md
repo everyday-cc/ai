@@ -77,6 +77,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "5 recent healthcare AI updates"
+    excerpt: "Perimeter Medical Imaging is installing AI imaging tools at some Nashville, Tenn.-based HCA Healthcare hospitals in Texas. Capitol, a company that uses AI to help health insurance companies make decisions,"
+    publishedDateTime: 2022-11-22T22:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/5-recent-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "RedBrick AI raises $4.6M to ease AI development in the healthcare sector"
     excerpt: "RedBrick AI announced the funding round today. The lead investor in the round was Surge, a joint venture between Sequoia India and Sequoia Southeast Asia that provides startups with funding along with other resources such as access to business workshops."
     publishedDateTime: 2022-11-23T19:01:00Z

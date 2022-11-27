@@ -55,6 +55,20 @@ related:
         width: 600
         height: 403
         isCached: true
+  - title: "Meta's new AI can beat human players at Diplomacy"
+    excerpt: "Meta have revealed an impressive AI that can beat human players at Diplomacy, all without \"intentionally\" lying."
+    publishedDateTime: 2022-11-25T22:05:00Z
+    webUrl: "https://www.rockpapershotgun.com/metas-new-ai-can-beat-human-players-at-diplomacy"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 37
+    images:
+      - url: "https://assets2.rockpapershotgun.com/CiceoAIdiplomacy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/CiceoAIdiplomacy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Cicero is the first AI to beat humans in strategy game Diplomacy"
     excerpt: "Training AI to imitate human language, thinking patterns and communication, especially in interactive environments has proven difficult in the past, but we"
     publishedDateTime: 2022-11-27T10:27:00Z
@@ -69,6 +83,15 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Meta’s game-playing AI can make and break alliances like a human"
+    excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
+    publishedDateTime: 2022-11-23T13:52:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "VQGky4pCKRQ0WR0yaESwfRjBeprjOa0vNDPbIAW8e9onjMPNwqdjUAgPht0o57DGYkGG81IRNU1skGAW2lkDKhmH/Mnc6jwNmcw/yVDyuvf+s8564kdzr2pXXQjcZnkkzFAnkx9QCQZYyeLnLbw36XyObTNdf1iTSVu8QHOZIh0klqAuttpbVGs4Gmk6aMNHogTP5uIlRFYpeCM8UY4OPmawDXAmBd3D8sXSVNDO83iiODNJcMHQrdzyKBbUxNDngk1V5WWN3ydkSki2urt58s6Ei0VUDn8RvDbC0HJqJ9l/rEw5Jcjv+791yqW6xmRNIIa0Gz7q0Oo7O6cxzogaTU1aI3fUr9jd4IjWCf+EIWWo4a2mWhC7SdRU69K27qRDRGprME59oNAidDO4OVUJDvOqJ9bgo+kCr7tGGv6aZqex8tQW//B1BfJ9qSxkYhRvoJfljQ3qbxhv9FKmB1Wlbb39LOKi7GFUMhnH3PAU6tNxbflxwrSiQXtFPkE/KT1EfIl+zoJLF9KUbdwGwXj8ng==;YJc8UzPNP0loLoxxnsp8hw=="
 ---

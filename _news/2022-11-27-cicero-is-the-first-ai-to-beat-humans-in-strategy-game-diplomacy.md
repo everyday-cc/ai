@@ -68,6 +68,29 @@ related:
         width: 600
         height: 403
         isCached: true
+  - title: "Meta's new AI can beat human players at Diplomacy"
+    excerpt: "Meta have revealed an impressive AI that can beat human players at Diplomacy, all without \"intentionally\" lying."
+    publishedDateTime: 2022-11-25T22:05:00Z
+    webUrl: "https://www.rockpapershotgun.com/metas-new-ai-can-beat-human-players-at-diplomacy"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 37
+    images:
+      - url: "https://assets2.rockpapershotgun.com/CiceoAIdiplomacy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/CiceoAIdiplomacy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Meta’s game-playing AI can make and break alliances like a human"
+    excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
+    publishedDateTime: 2022-11-23T13:52:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "7Tx8hqAtuWRhYegAnNGBEBY4XI3fzQMoB9GMTVmAA3uCyO8Oc1myWafeJ/tIAmSB5+NrIs0zy7jcqnYw6WHMXRFTr5Jxwm9/aICKLRI7NA27JxK2y22iStkMNv/Zoxn01+eHjr0vXOMg9NY3u0jLKCFCnLWL3xMeU5P8fV6yidh05/wn02AgWQQtko8sTOI9ImzwAbPzl3RwaY25sEVrqDrhaLRR9etSVkaXT+wdFRY1NUQhQgfGRp/Vye6HkINTSmwUWj2924gMxepEUEa9dt44DUjNzcMjJ9cJ6fx5Yz8mrApJFqrmOlmU8S8WExV7aRdFy2gJKJmSz5OHkMMnc4NxPPhklPcrLvdEKnc7MXk=;f/bNEMPYXLbNeevp1aQ69Q=="
 ---

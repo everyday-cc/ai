@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-te
 cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp"
 type: article
 quality: 61
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers: AI in connected cars eased rush hour congestion"
-    excerpt: "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you."
-    publishedDateTime: 2022-11-23T08:08:00Z
-    webUrl: "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 39
-    images:
-      - url: "https://kesq.b-cdn.net/2021/06/kesq.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI in connected cars eased rush hour congestion, researchers say"
     excerpt: "Human drivers don't do a good job of navigating dense traffic, researchers say, but an experiment using AI means help could be on the way."
     publishedDateTime: 2022-11-23T17:31:00Z

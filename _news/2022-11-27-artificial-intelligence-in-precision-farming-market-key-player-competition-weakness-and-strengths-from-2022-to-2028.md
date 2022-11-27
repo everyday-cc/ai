@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT"
+    publishedDateTime: 2022-11-26T17:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
     publishedDateTime: 2022-11-25T07:50:00Z
@@ -44,29 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
-    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
-    publishedDateTime: 2022-11-27T02:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
+  - title: "Medical Artificial Intelligence Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Medical Artificial Intelligence"
+    publishedDateTime: 2022-11-25T18:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
-    excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
-    publishedDateTime: 2022-11-25T15:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "nVWuca55ZKXhbEHU7GmVcghdsVS3clBppX6bRA6XAmILM88GaPD6CunZEHX3RKlRauNHjobwwil1QAjFbA7QPR3XKe0C75iNCwzbBjUYB3Egv6ueNdwThSfjoBvxTtKuE9qcg+ndhk3XUmdOUex1njmNoNIOlTjmp1yhvKH42BSZiq2lceALqnCp32iIH2a0Odv8dY0cKiuTLD7mSt2oAw2oBSS+zgFo+KBwPmx1jlNPXB6V+R1idRYDoGELDIuInjuxFPCgiA3IwBE7XbRX7bwcBNJuyfjPnAryU5ES1xVztxHZV9/v5ENM/iPsgXafbzQY2YE0oOz/tR3mm6o8y+p3d+B9T07auqPHhg+uuUg=;gY8eiZKH2j2+hO6hBV0ILw=="
 ---

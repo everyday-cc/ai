@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "AI-based Surgical Robots Global Market Report 2022: Ukraine-Russia War Impact"
-    excerpt: "Major players in the ai-based surgical robots market are Accuray Incorporated, Intuitive Surgical Inc, Medtronic plc, Medrobotics Corporation, Zimmer Biomet, Stereotaxis Inc, TransEnterix Inc , Stryker Corporation,"
-    publishedDateTime: 2022-11-23T14:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-global-market-report-2022-/2022/11/23/9719025.htm"
+  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
+    publishedDateTime: 2022-11-27T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WD/x6Kof9OQY4hvrHTOuq9BrDL587MVbuHMOTe4+xshH4uuSQRM2bUoim137srPutmVkJcnUdu+J7IXW59l0g55TFZDEJ3Sb3xzUjs/aJRK0bda/rS9dfZvUyFFCY5rnYeFCoimPllT1fpJNcPRn/hJfdmPwYLbf1Q/dHUWyR8QsFp+RPD+TeIObSvVZiaLS1sTZ6+4BSjbhjJH8Gg5KPwXgrY1LPy9L2vOwWL8ZKQlWfrULOBG/POyh5WQh6QmvTFcn6c3rPxRmESfi/5EogpuVzrVE0HeNoMu59sAmlqsYfVNM+/IsXC4CGcnB/CjjlNrcHtG82O7zHemhgF3AMoOwYCK1BPcRPayt1nYHFTY=;mXaU32273UbUTEbgnzOlWw=="
 ---
