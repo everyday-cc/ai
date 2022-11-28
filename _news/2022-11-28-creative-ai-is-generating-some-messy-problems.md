@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2022-11-28/creative-art
 webUrl: "https://www.bloomberg.com/opinion/articles/2022-11-28/creative-artificial-intelligence-is-generating-some-messy-problems"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -34,6 +34,20 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
+  - title: "DeepMind's new chatbot uses Google Search, humans to give better answers"
+    excerpt: "DeepMind, owned by Alphabet, has unveiled a new AI chatbot called Sparrow, trained on DeepMind’s large language model Chinchilla. The bot can talk to humans and answer questions using Google Search for information, which is rated by humans on usefulness ..."
+    publishedDateTime: 2022-11-28T07:11:00Z
+    webUrl: "https://tribune.com.pk/story/2388564/deepminds-new-chatbot-uses-google-search-humans-to-give-better-answers"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 38
+    images:
+      - url: "https://i.tribune.com.pk/media/images/RETRO-71669621625-0/RETRO-71669621625-0.jpg"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "dYe0/AiR4ukzFF3hMBkI/bsFk/WWNC7YA1wf9DHX2Ns7C9mPktq6P0tC4hFRbGTaBxYD04spei5USe9O/2AixKPNr9aR3LNHhNuWo0hHhvro2iVPBJACul3hMeg+VAZV70bOjoqFQ+tGkP3SmWNSKFr8NDiPppxwibfBM0VcLSMYpJ7VGM8sRkQzozTTmRXSbVCS8sUit6+NY/8K+z3d6wjRVqhMv80JSzXSEQu8V03kIaOJ9PsubToaNQ2cbrDysy0XIRopFuL7+k+dynaD7PC2e1vhQvsQNlM7n0VvE8AcQTeiByB2n5GwO41xmLTU11451s9mk/w6G4tunwlfBux1MBDdsyUZNUhqyurqLEhXQnU7H4aEc73SpcdxtTVD8BP0SpY2vYkqTyULW1OKhK3dX+egl+TpEbOGtUF5MO2fsbj5mbmNoIKeIHCST1hdYPaZ+YcFYjgQnWGOQNCRctDqk4wlur7yhm6HnuX4Jr8rgEyPHUCVBS+q4mk3u8MnzgVPtimBsGYb1cg8xZ5WXA==;B9+pAy/Ep6nIzogDIbMoKw=="
 ---

@@ -37,15 +37,6 @@ related:
         width: 1080
         height: 1748
         isCached: true
-  - title: "RedBrick AI raises $4.6M to ease AI development in the healthcare sector"
-    excerpt: "RedBrick AI announced the funding round today. The lead investor in the round was Surge, a joint venture between Sequoia India and Sequoia Southeast Asia that provides startups with funding along with other resources such as access to business workshops."
-    publishedDateTime: 2022-11-23T19:01:00Z
-    webUrl: "https://siliconangle.com/2022/11/23/redbrick-ai-raises-4-6m-ease-ai-development-healthcare-sector/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
 
 secured: "t1hAx9iOWKRJmVFBRiVDCDfsKldXLlYm3nmaMTZUtX24V4BROXRbPVZiJkRXRsHDFZiSzhfII0jXoTAuVMjI/8vu0QvySkYXfnzVgc1kCoV+1ERZLVZO3aV2+twBW03c2mBXYl9lgBKkmtedWr3hWjpwzSyrxYEMvQrfQDHOvpMQmKPaW55hBjbTTDTV7vO3oO7e5V5qdUdKMwiftANnkG2oenA67kdKy8QWle3TQNxf0DoRSwHMqIZpYzIydwJIG7GFXpkKB0yegZD+GEJ/mE2VFNrApU7lHAyESWJamrtwQRxEyUgOeWjXjJ+DOhJdv+h1FmLi1eMdMjtm9MKhjg98QPeaFwhLLbJZHrsLCtuOAIZkSgOgqwmzq+PvPogc4Y81ko8gjOzvqUw7zLx8Pg7UQxQsaO1Qqazs6tqyPmGd1Ts9VbZyiiSxzdd7KcEfqEU9txepLj6lXknv4/W/qRXL8qN/iuLLV1Icnjs5eLdCdnrrXoild7m8ttriSJBNcptCdfgJPZcddUjLY4yrmg==;bL3Wvpz7EJcHU8kErgRhwg=="
 ---

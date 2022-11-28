@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nationals vote to silence talk of one Indigenous voice to parliament"
+    excerpt: "Anthony Albaneses hopes of securing bipartisan support for a constitutionally enshrined Indigenous voice to parliament have been dashed after the Nationals said they would oppose the proposal in a country-wide vote."
+    publishedDateTime: 2022-11-28T09:27:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/nationals-vote-tosilence-talkofone-indigenous-voice-to-parliament/news-story/195c0213f6573b4ecfda09e2f9aefb14"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "7QQAPFnu/dHN9X175F8XKGm4Qa3g18MX3m1APzGSrTKyAVdNUCEaWAEYhVhbDRll3uyA9ZhdX/5JMotUrGy+rycN5IFqcgTz78DBH6+Nrm+FAoeqkhBicqfGrFN/I1CNXatzlYIRRjlDkTB00qiaHFPs25cThhMHz8xSviqxVcEXfk9BFy2eef3hyFplQ09d8B/sprj/FiFQ3Ko3FIB5XomUBnuF3NcIlkWlp2KJcYWOkj3jG9pSMoXqLXOcoh1ByWUOOQp2cBvkvW6Qlsdy6MTkRz9Ax5ZNdnn9iEQIa5RkQcbXjC0v/ryLyGgz9IpkqzMNXLxzUn0Ln1WbD9+LdDFv1CqTP3BGd3kGIq34EWM=;aExi4TtXabAj4zBBAftIcA=="
 ---

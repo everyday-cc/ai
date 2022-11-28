@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dyslexia Screener Incubated at Boston Children's Hospital Leverages Speech Recognition to Help Educators Identify Reading Challenges, Sooner"
-excerpt: "In its first year, EarlyBird Education has helped thousands of educators assess over 20,000 students; new partnership with speech recognition technology pioneer SoapBox Labs makes it easier to ..."
-publishedDateTime: 2022-11-17T07:01:00Z
-originalUrl: "https://www.news-journal.com/dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading/article_0f49acc0-4183-58a6-b905-db131c421be4.html"
-webUrl: "https://www.news-journal.com/dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading/article_0f49acc0-4183-58a6-b905-db131c421be4.html"
+excerpt: "SoapBox Labs' kid-specific speech technology caters to the idiosyncrasies and unique speech patterns of children that adult-focused speech technology finds hard to decode. Education companies like ..."
+publishedDateTime: 2022-11-17T14:18:00Z
+originalUrl: "https://www.victoriaadvocate.com/dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading/article_bc9c0f66-bac7-5991-8d35-ffa23dfbb188.html"
+webUrl: "https://www.victoriaadvocate.com/dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading/article_bc9c0f66-bac7-5991-8d35-ffa23dfbb188.html"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/8b/d8b7c652-91d6-502f-8e41-be197f8c4273/637633f9ae17c.image.jpg?crop=1844%2C968%2C0%2C77&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/d/c4/dc48765b-d44a-50cf-b581-fd98c6389be4/63763402de22a.image.jpg?crop=1844%2C968%2C0%2C77&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "ISkRVM1qKCd+1ujQ5XgmjSVQjTJAGM9Mjd4H51CjHkKnkLodo93FJDkyICumHk3zaVTO+t+8MHQZWFHiOqo7mjy3fXkrqxc3+k8pqRfH9VHRFllVdsdXrUMfFwn0hednTnvBdbkl7zX/DStJcXku1VKoN4UtDo3LvsVo6BLKXPR/R4NNsy9hVRFMU7WrTcJk893naJImZqUmPu+w/rktYq5HBz3uF2MQZ0JWt4p6JZF6+Nc3g3nrR/n7bu+80Sz7WEAYiCiBS681bvoKTW1+xB/1w6Zx2o3X9CeJOr8xtH30R1D+qSvUhLL2E9BUz2cpU073DFd+/xDjhRkCKi4aqm/rWlOV3DWTVRoWBdUV0eA=;ItaCJhSJtvO17G0phODwcQ=="
+secured: "cf9QNlkIJ+XMLSuQs+2smC76yDnAEVjP3RZG/+IKYzCReU6razvEL+gbp1AVfy85CC2UittTO2RMxzfygM5XQE8dMrqdqMQiLKeO8H6xsFQIgCcH8TUgD6ZqWjlYf0PeJ50pooqh4+VVHSfxWZOPDIjZgHuiYT/ab+c3FgwfLdiZgSOZGnyhvn7wQ15E/JwJBrwgJhgbJ4+yZLdMREiOLMTaJiGfsAcvDabDtBR9r0spRCHfBX6SptZ62Ew7yjgc0Nya+7hUZ+1EWFJe7/Jo5E5Ez+tiZ9tT1jU6ufrzQtibbmi7xr06JuB0jHh3deOlx1nbW60t6zlXgIK0XdtJ+m5SIPzD42EID1rEGSsKWHU=;/P62JKV7Gklmg4UoZMKrUw=="
 ---
 

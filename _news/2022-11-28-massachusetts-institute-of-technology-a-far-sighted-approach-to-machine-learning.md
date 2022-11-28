@@ -8,8 +8,8 @@ webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-a-
 ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-a-far-sighted-approach-to-machine-learning/amp/"
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-a-far-sighted-approach-to-machine-learning/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg?fit=600%2C400&ssl=1"
