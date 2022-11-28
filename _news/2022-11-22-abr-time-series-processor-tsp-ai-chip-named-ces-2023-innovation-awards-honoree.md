@@ -15,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png"
-    width: 608
-    height: 342
-    isCached: true
-
-secured: "OVD/S65dK9VRCkbdPJkvTrqFE8rc4uUR4rQ1AsZ8UY3fTW1wrVdFCh8s08zsbrzhFFmxPCjLEhFYkNw2o4CVfGIme0g7F0ADJQgp1B5RLNVIyI81WPlwKNdtUTx3X3nOYwddBXgAN1D1ueiwuVXrP+3xCtarmx5/GTbU1EE1gnonWwS9oauBDuae+mZ6+8lD6hLZbjD3DsdcLOk3p+pufe4c+f4zlvsUBkSEPXgiodeY8OcRo8m+6oeEBUkhUsKlQSpUXNu4npLNcQN+CRhjQ+aRqkFqIXcVjGx2GotDgdO/bax/NEilwYbrYyWzbW/Rjcb9uADS8NGsr/Bx7SaphL7qrikleNCrdWwPPlSmMJY=;CHo91y3PyNvA6Nh5eou5kQ=="
+secured: "3EGNIB0rIaDmn5EA8QVXI89S9M4Mo+J759zWZBLgAhBivkM7O7xolMEyjYxMVaihGei5xgMNGAKRwb5plAURlnxn3I8y7Wk8f95EkGhk/1fKmmHVUw2sXaSmnVeuOuB5XoOmYw0JkYBnCAu5z41fdKTLdFlEcXfbTuq0U38jCnJqcSDJsvJAsZeBgU4FGw5TZFeL5MFIgzAedfg+bQuvTolqn8ni9OWQfZa2hV3O1hkf3Vbw3uVAejBIXTgwB0Bi12VrD0BHUD9TEnGmI4u4Zouzq1/CMRI6WJBw71aUWUi1dnwxzas7rxWtZcdVhIU9ZIc9kqTgppt079oV+IuTUuea+aJ1mcaFjofeHM1ncw0=;X+w8Cqzen7dtQ4gvxycf7Q=="
 ---
 

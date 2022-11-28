@@ -1,48 +1,20 @@
 ---
 category: news
 title: "How Bitcoin And Artificial Intelligence Will Free Your Time"
-excerpt: "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet."
-publishedDateTime: 2022-11-27T04:00:00Z
-originalUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
-webUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
-ampWebUrl: "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
-cdnAmpWebUrl: "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+excerpt: "Will robots surpass our intelligence and replace us altogether? Will we combine with machines in some symbiotic merge that creates a new super being? Or are machines merely tools that will allow our more fundamental nature to thrive?"
+publishedDateTime: 2022-11-27T02:59:00Z
+originalUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
+webUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
-  name: Bitcoin Magazine
-  domain: bitcoinmagazine.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Robotics
   - AI
 
-images:
-  - url: "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png"
-    width: 620
-    height: 409
-    isCached: true
-
-related:
-  - title: "This AI-Driven Ad Optimization Tool Will Increase Your ROI"
-    excerpt: "The main benefit of investing in automation for ad spending optimization is that marketing and growth teams get to eradicate assumptions and subjectivity in implementing strategies and tactics"
-    publishedDateTime: 2022-11-28T08:42:00Z
-    webUrl: "https://www.ibtimes.sg/this-ai-driven-ad-optimization-tool-will-increase-your-roi-67909"
-    ampWebUrl: "https://amp.ibtimes.sg/this-ai-driven-ad-optimization-tool-will-increase-your-roi-67909"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/this-ai-driven-ad-optimization-tool-will-increase-your-roi-67909"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 59
-    images:
-      - url: "https://data.ibtimes.sg/en/full/63538/voyantis.jpg"
-        width: 512
-        height: 307
-        isCached: true
-
-secured: "C39eLsZE0u4U4vnCr39JH3Vw4yiDeZ/6wWUmRrWjLbhLajD0jNRITU+gHhucamQ0lu2s5/NNRiOq0FBTjrJtSdaqk3bPLzgH/kHbgA8tWPBi0wP2FIlZPqWs0C3C8qqx1giRQavC86ca9SPWn+bbHvn8bPn2xd9tj4w4QznPLqE7AnRB8299sTfFODMQ8y/YWVi1LmuZIQVaRh2caxwdV0tblhP1XkqGsAvIBDWz5u95h17QpGh0q/9TrgWKqcrHN68wbatPqvMUhG9S9sqL/m6FGZ4YfVZ4cOEJwla+Wty7SMlo/FzVqWd+jddqwM1SEH5w5TPzY/OAb7fNfmGLPekWr/sc53haVJpTmZyK3nI=;S5ZvZiIptcQv047fhCqp+w=="
+secured: "0EEXwIPMjGsAOUvoZepzA04mMMLacsrz6gHki0cZ34iR+fAceJkhf0euortrwCXaJFAL14CJ0FOjYB1zTVgFgVgCQwL4pE/dsKdVfBkfuoRI8x4GoYzZX6wjvCjOgMS1izVyM7QJPE/F1CtlZ0jteuPwDpOUTRLYbheMkFI3LYSJx6aUzm1SvTw39cBHD2kpIanxwNxYcq0vgafGa6hkviZXyqNzYWbowqRo8maNJY0HI60qI7ZHCaMXOwmM3069Tymup3hoFZ6nXMhJEew1tIS6bWJpCoRlG6Ci4accdv5MNVt+2ssh34nxeCtxQeExJp4FyX3lO3S8z+9AeDjOoDmCP//riXJUESUpSUtRdSLuVzgLGPTPqQE7OIwcwrMMHLfwKzVkUuyP0VvmRsgq8CWAAmH4XMYw5U8R409nXU4ph1KfJ1Qme3uNlyZ23hWt8yQtYKZtTBGbQVgmJQoABchV6ZmKiQZrUjLBhT2E7NlaYT891GiBo8+AMnCc5ys3zdvV3yD4uXS8/yhWcVyDug==;bFU/KnLcu7qYgri2vI13tg=="
 ---
 

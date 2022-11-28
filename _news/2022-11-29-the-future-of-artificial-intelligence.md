@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
@@ -57,6 +58,6 @@ related:
         height: 816
         isCached: true
 
-secured: "cdMu2BFINfzfJvGvCP0SUz65l0z4h3RJw3sUVDpZPho+sHIXbx2vfSw6bxjtOAPa4iuZXSFpTGsD9dYRkspUxF3OOJIhmhRb8CMBxjRUmQ82RyFdWqw3LkY8VKnwGpHbsnw798kaB4+xdYuiQG7gi4OGMGGugJFPXvdUVpAqhcZEmedfzJPzC3uvvXgFeRGUxTQNTmHb64bUD96ABfWh8EHC6CilVeZaeCfoKV8ls4HCM6K7b2m9U3Axs1wK/23W4eeQKdZI+XXYCzrzrTZJy/HrJFj7s/zLjzYmhCvy7nHc+RGp8s107YJ6rqbAowNDldG+dGdpokywXNImPSeryvBnKus1GrUf6aOkD+3c69Y=;0iP0Jj9zWKP2BviTNu4+bQ=="
+secured: "FR3D4l3h3q7bfCcR0D0pL21DKmX5nL2TtY5uwBGq8mz5kQFjZZW1HIP4N7jjWcz61T6/GRqXgHuS1LbLFXo8GinJbYsm86F14XsnZ30vgz8DZrdAd/oqBkpXwnnNuVWanRwlrmPCZiR4WK+jetSc7awuaPoYMGdjXGkuXUDLd4cNDHPSYYMX4PoSiX+ixqFEuDcomPeEeRCdv4MymED0fKZZYAFb2CN/dfDoO6iTy8EDFyEtGuhGxhpNAcRho8SvS99wkG64cC1+JR1ttBLd0tAT7i+aXAuBiGpDNMXPDeT/VCIqwNvmQE/nru9yUADutVCPgJZzkc/easOdvp8ycLCUiKwgg6N0p/t0/H5cE77HnClFsSdTleBxfC1p1Lbcdqi1Yv/wlH7E709366A4CXuu+YSfc0/ABOTCeElBpqP0x4R+AWjoQjx23F7T8MIZ8+f2+DWbTvrvJuYfFUVPjKr+hh2Qmg49cE5xwDfsfnEUWcjzCVlYB0Bj7U/8cqBx4XdrG4hyJOGlGYHgwwhnfg==;oc71J+UYPS/hFD1GUveXww=="
 ---
 
