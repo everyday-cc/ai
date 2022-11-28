@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-23-baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.md",
+      "title": "Baidu claims its robotaxis rival traditional ride-hailing in parts of China",
+      "excerpt": "Chinese tech company Baidu said its robotaxi business in large cities is close to gaining the same traction with locals as traditional ride-hailing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107156081-1669181908288-gettyimages-1355764501-vcg111359334663.jpeg?v=1669192547",
+          "width": 3996,
+          "height": 2664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/baidu-claims-its-robotaxis-rival-traditional-ride-hailing-in-parts-of-china.html",
+      "publishedDateTime": "2022-11-22T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-baidu-posts-65-increase-in-number-of-driverless-taxi-services.md",
+      "title": "Baidu posts 65% increase in number of driverless taxi services",
+      "excerpt": "With no one at the wheel, self-driving taxis developed by tech giant Baidu rolls down the streets of major Chinese cities. When its sensors spot the corner of a delivery cart jutt",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "originalUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_530358448.jpg?itok=77pXLNpo",
+          "width": 2362,
+          "height": 1417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "publishedDateTime": "2022-11-22T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking.md",
       "title": "How WaFd embraced Amazon Lex’s conversational AI to improve and speed up telephone banking",
       "excerpt": "WaFd, formerly known as Washington Federal, is now using the Amazon Lex conversational AI technology to revolutionize its phone banking.",
@@ -461,6 +556,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-23-cognitive-scores-lower-for-children-with-iron-deficiency.md",
+      "title": "Cognitive scores lower for children with iron deficiency",
+      "excerpt": "Children with chronic iron deficiency have lower cognitive scores even at four and 12 months after an intervention, according to a study published online Nov. 22 in Pediatrics. Argie Gingoyon ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-scores-lower.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "publishedDateTime": "2022-11-22T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-aws-to-invest-44-bn-in-hyderabad-data-centre.md",
       "title": "AWS to invest $4.4 bn in Hyderabad data centre",
       "excerpt": "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India.",
@@ -699,6 +837,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
+      "title": "Researchers: AI in connected cars eased rush hour congestion",
+      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "originalUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/",
+      "publishedDateTime": "2022-11-22T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -985,188 +1166,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 22, 2022 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" research provides significant and in-depth information on the global market. This research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-aws-researchers-propose-a-method-that-predicts-bias-in-face-recognition-models-using-unlabeled-data.md",
-      "title": "AWS Researchers Propose a Method That Predicts Bias in Face Recognition Models Using Unlabeled Data",
-      "excerpt": "Subscribe for free. AWS researchers presented a novel method for evaluating bias in face recognition algorithms at this year's European Conference on Computer Vision (ECCV), which does not require ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/11/aws-bias-face-recognition/",
-      "originalUrl": "https://www.infoq.com/news/2022/11/aws-bias-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/11/aws-bias-face-recognition/en/headerimage/generatedHeaderImage-1668807034658.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-baidu-beats-revenue-expectations-despite-continued-covid-worries.md",
-      "title": "Baidu Beats Revenue Expectations Despite Continued Covid Worries",
-      "excerpt": "Baidu on Tuesday became the latest Chinese technology company to report a return to annual growth, as it beat expectations for its third-quarter revenue. Baidu (ticker: BIDU)—often referred to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
-      "originalUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-317647/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
-      "publishedDateTime": "2022-11-22T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-ai-and-machine-learning-potential-advantages.md",
-      "title": "AI and Machine Learning potential advantages",
-      "excerpt": "AI and Machine Learning are helping businesses to remain competitive in their respective industries FREMONT, CA: As we progress into",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
-      "originalUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/khmjzc2io450-308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

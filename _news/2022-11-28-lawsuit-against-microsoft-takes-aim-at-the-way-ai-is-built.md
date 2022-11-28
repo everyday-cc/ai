@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-micros
 webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 860
     height: 573
     isCached: true
+
+related:
+  - title: "Microsoft Azure Goes Beyond Cloud, Launches New Space SDK"
+    excerpt: "India. From a spacecraft manufacturing facility being built in Bengaluru, to a successful liftoff of ISRO’s Vyommitra, India has been a hotbed of technology advancements in the space sector."
+    publishedDateTime: 2022-11-28T12:07:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-azure-is-going-beyond-the-clouds-with-their-new-space-sdk/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/nasa-7Cz6bWjdlDs-unsplash-1-scaled.jpg"
+        width: 2560
+        height: 1696
+        isCached: true
 
 secured: "5CDAGMx2VkJMcywRbdHcK8GrqtJ0nCLUl4Qg0c7OPVmrUh+3elwTjDQi52EYxqIZt/j5bd2+mM0b/rIcI6HL46y0F3XSghuhEgrCR2ONND9QabcBf1UnjCixqelfTMYlf6MKC5RvHoIjdzAVjKjo9HJZlHg6Bz6kZoS6v/LUz00YigI2CsxaN4SsqjR2+pocFamiVFyEr+R3kenuaI3zW2LU/v+ouL4AZT9MrEVKAoVD+0bd3AnDEkAqnYlQr+nDttmw2sSXfd3Cq8HS/dBQPOsYoGHplGaRdx+SOMvtBkVX6j1Dxj0R3qiS2m64NBJ7QF6EWOyjiK1YMZVcuNSdk7f6W9P+WLd9flqWDvejjcg=;+gD4LxsFg+0vk2pwNNt0UQ=="
 ---

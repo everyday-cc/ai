@@ -2,6 +2,196 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-18-the-birth-of-ai-powered-fastsaas.md",
+      "title": "The Birth of AI-powered FastSaaS",
+      "excerpt": "Led by investment from OpenAI Startup Fund, Mem was the first to introduce an AI-powered workspace organisation tool, with its product, Mem X. Notion’s reinvention of its platform may have been a direct effect of the shift in tide towards many of the AI application tools.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/the-birth-of-ai-powered-fastsaas/",
+      "originalUrl": "https://analyticsindiamag.com/the-birth-of-ai-powered-fastsaas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/fast-saas.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-smiledirectclub-announces-launch-of-innovative-smilemaker-platform.md",
+      "title": "SmileDirectClub Announces Launch of Innovative SmileMaker Platform",
+      "excerpt": "SmileDirectClub, Inc. (Nasdaq: SDC), the next generation oral care company with the first medtech platform for teeth straightening, today announced the launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-deep-tech-startup-neuralgarage-raises-145-million-in-seed-funding.md",
+      "title": "Deep Tech Startup NeuralGarage Raises $1.45 Million In Seed Funding",
+      "excerpt": "Deep tech startup NeuralGarage raises $1.45 million in Seed round led ... NeuralGarage leverages the power of complex AI and computer vision algorithms to significantly improve content consumption, delivery and creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/deep-tech-startup-neuralgarage-raises-145-million-in-seed/439468",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/deep-tech-startup-neuralgarage-raises-145-million-in-seed/439468",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668768315-Untitleddesign-2022-11-18T160933668.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
+      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
+      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
+          "width": 698,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-the-mystic-of-mar-a-lago.md",
       "title": "The Mystic of Mar-a-Lago",
       "excerpt": "A fetish object, as identified by these biased Europeans who struggled ... to bring forth leaders who can see America in its totality. There must be lasting recognition of the young voters and the communities laboring nonstop to send Mr. Trump and his ...",
@@ -984,186 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
-      "title": "Artificial Intelligence-Aided Colonoscopy Does Not Increase Cancer Detection",
-      "excerpt": "Adenoma and polyp detection rates (ADR/PDR) are lower with use of artificial intelligence-aided colonoscopy (AIAC), according to a study published in the November",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html",
-      "originalUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection/article_20f25612-585c-5565-b1d7-c16d4a0256a8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/6/b6/6b6cf66e-5a77-5ff6-8edd-d916539921fe/63767a470ab3f.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-adludio-adds-deep-learning-to-its-ad-platform.md",
-      "title": "Adludio Adds Deep Learning to Its Ad Platform",
-      "excerpt": "Adludio, providers of an artificial intelligence powered interactive mobile advertising platform, has added deep learning to its platform to give users additional measurement and actionable insights. Using Adludio's platform, clients can input desired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline.md",
-      "title": "Brain’s memory center flags autistic adults at risk for cognitive decline",
-      "excerpt": "Braden and her team have been scanning the brains of autistic people aged 40 and older and administering a battery of cognitive tests every two years. “We collect lots of data,” she says. Relatively little research has looked into how autistic adults ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "originalUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2022/11/17100905/844-autism-memory-cognitive-decline-aging.jpg",
-          "width": 844,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models.md",
-      "title": "Snorkel takes a deep dive into data labeling and foundation AI models",
-      "excerpt": "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "publishedDateTime": "2022-11-17T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

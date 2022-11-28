@@ -7,7 +7,7 @@ originalUrl: "https://www.whichcar.com.au/news/volkswagen-autonomous-commercial-
 webUrl: "https://www.whichcar.com.au/news/volkswagen-autonomous-commercial-vehicles-coming-2030"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Who’s Who in Self-Driving Truck Development"
-    excerpt: "The process of developing, validating and ultimately commercializing fully autonomous trucks has proven to be a long and arduous journey, but there is no shortage of software developers and technologists dedicated to accomplishing that mission."
-    publishedDateTime: 2022-11-23T19:59:00Z
-    webUrl: "https://www.ttnews.com/articles/whos-who-self-driving-truck-development"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/images/articles/collage2.jpg"
-        width: 1200
-        height: 667
-        isCached: true
 
 secured: "oN0hiYMBN5cWOqgwyYfJw2pyMwXT8HJF549Z+TtQtihJsBNgO6H4oD91H622dqG+XfBgdrTJTNDVQt1BUMAadrd3rFtQMxfbQxTleglL7n8DD0+WaFiNhp7RBB58WxfpoP/ZyQrU2oR7yeMbWRhpSGMXkSpJKtFrgeDb2g/uIKUCuK2VyUL+4nIXUTX+nEgQdzrmxgiwivqDUXYiwyL9P1Al3eYoWuiIWhazBzIc9VWsg5EB59D07rLDWXFebvYkW0OiYd4yLw9TFQ6IIdw2XtOEyf1ijGpVVleejYXSIRFIomP8gnjmwigmYijQYxZDDj9vKEBFGIibas3kBB+xf37mUa9vTJI6Lw3Rqg8E/pvvKfMpOpgD2SAni0AOKHUnNI2bA8JhcUkRYFWCRfmXCJCFinLCb6wOzisrrD6kjhG16nc1qn/IFj4uD+LLDpydo4peDWli4gcWdkidwSAycJl24XobGbVi8GN3E31H3wwBHgim/e9FZPGlzki8Mszhb3kJYbxJNRYe3PPKk3zU8Q==;dSlgYVXDh/uhS8s6r23Ldw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "How AI-drawn illustrations are teaching kids to read"
+    excerpt: "That's the breakthrough idea from Daniel Cohen, the Denver-based entrepreneur behind the startup Story Co. How it works: The company creates personalized alphabet and numbers books that include realistic drawings of the family pet on each page."
+    publishedDateTime: 2022-11-28T11:59:00Z
+    webUrl: "https://www.axios.com/local/denver/2022/11/28/two-tails-childrens-book-pet-dog-ai-drawing"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/Hl54hnGjYpisZZCtJri7eROHxbI=/0x2311:5700x5517/1366x768/2022/11/22/1669139139989.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "SIX fintech sectors transforming the financial industry"
     excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"

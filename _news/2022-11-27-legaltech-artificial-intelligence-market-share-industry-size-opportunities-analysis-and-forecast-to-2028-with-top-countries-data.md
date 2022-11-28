@@ -30,15 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search"
-    publishedDateTime: 2022-11-23T19:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23"
+  - title: "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT"
+    publishedDateTime: 2022-11-26T17:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
+    publishedDateTime: 2022-11-25T07:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -72,10 +86,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2022 (The Expresswire) -- \"Face Recognition Device Market\" research provides significant and in-depth information on the global market. This research provides an in ..."
-    publishedDateTime: 2022-11-24T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-11-23"
+  - title: "Artificial Intelligence in Precision Farming Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "\" Artificial Intelligence in Precision Farming Market \" Insights 2022 - By Applications (Experimental Study, Farm Management, Private Planting), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
+    publishedDateTime: 2022-11-27T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-11-26"
     type: article
     provider:
       name: MarketWatch
@@ -86,29 +100,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intelligent Voice Assistant Market Size, Global Insights and Trends, Forecasts to 2028"
-    excerpt: "\" Intelligent Voice Assistant Market \" Insights 2022 - By Applications (Automotive Industry, Smart Home, Education Industry, Medical Industry, Consumer Electronicss), By Types (Text-Based, Text-To-Speech,"
-    publishedDateTime: 2022-11-25T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-voice-assistant-market-size-global-insights-and-trends-forecasts-to-2028-2022-11-25"
+  - title: "Medical Artificial Intelligence Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Medical Artificial Intelligence"
+    publishedDateTime: 2022-11-25T18:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market 2022 Research Methodology, merging Technologies, Value Chain Analysis, and Forecast by 2028"
-    excerpt: "Global Artificial Intelligence in Diabetes Management Market by MarketsandResearch.biz gives the perception of"
-    publishedDateTime: 2022-11-24T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-research-methodology-merging-technologies-value-chain-analysis-and-forecast-by-2028-2022-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -123,40 +123,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
-    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
-    publishedDateTime: 2022-11-24T03:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
-    excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
-    publishedDateTime: 2022-11-24T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-  - title: "Robot Battery Powered Lawn Mowers Market Industry Analysis, CAGR Value, Business Strategy, Growth drivers, competitive landscape, Forecast by 2029"
-    excerpt: "Global Robot Battery Powered Lawn Mowers Market Segmentation ... is processed using powerful artificial intelligence approaches to present prediction crowd flow models and customer preference patterns. On the Basis of the End-User/Applications, this ..."
-    publishedDateTime: 2022-11-24T19:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-battery-powered-lawn-mowers-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
 
 secured: "Iuw2iO3Qfq8G4eA+WspY/Oo9N10MtMDtQPCp9zGIyW2mfEnJgjsVnOSESIqMevTuMUffDXI6rHbT8MPBysXxKoUPGp5IBSS4zovUAfTz0dp6hJt2BDrTzs0Jsi0lb25icxxgZSivov/l5OgxeFbNIZk36es952gUKhPCAT5gC/8aG/d2iDGTudnajgUAZrsaB5ZjSADb/fFK0R54N8D07665428n8Ak0rpgm1DGrkZFqc2FxSVKYAo6bqpDbL5MGLhHkvocFYsHV7CuF0ZqWzq0wHikOJlHOCp1sGJqatsIyqUJqeiaNl6uezyPgVsCcfS0MxuJqTswINt69ENnrvHsVCZ5ZUwB4+oD2ryLcKnU=;J6sz96XTlWtVi4D1gy2DVg=="
 ---

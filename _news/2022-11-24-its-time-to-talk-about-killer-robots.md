@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "San Francisco Police Want To Use Robots to Kill Criminal Suspects"
-    excerpt: "The San Francisco Police Department has struck out a line stating, “Robots shall not be used as a Use of Force against any person.\""
-    publishedDateTime: 2022-11-23T20:32:00Z
-    webUrl: "https://www.thenewcivilrightsmovement.com/2022/11/san-francisco-police-want-to-use-robots-to-kill-criminal-suspects/"
-    type: article
-    provider:
-      name: The New Civil Rights Movement
-      domain: thenewcivilrightsmovement.com
-    quality: 39
-    images:
-      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2022/11/killer-robot-san-fransisco-police.jpg"
-        width: 480
-        height: 267
-        isCached: true
 
 secured: "ryhiZAujNj4JFoxbO7DcjDTvanoy+SZuKlpPtzEQMzl2tW2ue+7TlNGfgTpYCOIQKZkURRshR7Jz/mdX+PY7UJGLoD6G9SEP+aM6uhxCYryMNSaBosk9Tfj7kr2ED507J4bhB5KxDhzMUCErXsszhZpHOb71+94rLxWI14TtiCYgkIWCchEwEF4ZNbwzmd1t7P8uDsi7SfZT08O6r+HfY3rpzlAaGE/ul0AxL9vN68MiM2TGqY3J0mU8f9pDGDJmIyM8u4HHdFP1YhGAgvAF4Zm0EeHfe8EYcdZXZYaleL/3c6AQCe6KSWidiUdBHFdcTq9xiR7Hh0IQOx3QOo0RJXSZRmWjye+GKzL3eBbs0FH9mIvZVgm+Z8Rg+kFUGeY8WuOD17iqKQzhn7lsLwAN4y0drvi/UDfG25YWyY212+unNnJiFeydqt6Idv3B+ZmTvgkCXmSte4SndU5VtICa4EwthYlTU9kSmz8gBRMTe+wV7Wntw1DQS0N/bcapI4TnpEchovf57rG6Q97tWdmuFA==;p6pgDIOYWg7phqmDkln8ZA=="
 ---

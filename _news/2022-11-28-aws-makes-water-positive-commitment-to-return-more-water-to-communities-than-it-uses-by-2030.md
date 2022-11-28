@@ -1,25 +1,29 @@
 ---
 category: news
 title: "AWS Makes Water Positive Commitment to Return More Water to Communities Than It Uses by 2030"
-excerpt: "World's leading cloud provider announces new replenishment projects in India, the United Kingdom, and the United States to bring much needed clean water to communities around the world Today at AWS re:Invent,"
-publishedDateTime: 2022-11-28T07:35:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29866104/aws-makes-water-positive-commitment-to-return-more-water-to-communities-than-it-uses-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29866104/aws-makes-water-positive-commitment-to-return-more-water-to-communities-than-it-uses-by-2030"
-ampWebUrl: "https://www.benzinga.com/amp/content/29866104"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29866104"
+excerpt: "World’s leading cloud provider announces new replenishment projects in India, the United Kingdom, and the United States to bring much needed clean water to communities around the world HONG KONG SAR - Media OutReach - 28 November 2022 - Today"
+publishedDateTime: 2022-11-28T10:21:00Z
+originalUrl: "https://www.asiaone.com/business/aws-makes-water-positive-commitment-return-more-water-communities-it-uses-2030"
+webUrl: "https://www.asiaone.com/business/aws-makes-water-positive-commitment-return-more-water-communities-it-uses-2030"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "nQ3R9Df48jzbymMLFoCZphT5emxHvRFZ6sId8oAV3knSTRYpPblr9scMEau+aQc4dFjik9WrqU9SJGG83IdxALAyoalWfGxTMFCdmpeaKOoU620IV0+D5Z1UvwAw1SPDzWOAK+jKxlyw1AJCFcb4dscx/KCR4GKNP6vvp10u04E5KVpAXSMwryy/nUcYJLBM7zQqg+Ge+SP7Q2muye6pNgkgBPBreQ8ZZ8F//45BbY7xfObxXbp5Zo/YLfu5Ns+T1TGjbt9/sREWkMaWMiann2+XQD0sqhsRYNS8uQkoTgga/BKX59i1qWm+SJGLwRQ3G4DeQ199i4IQP1vS/gRsnNnOUSSs+63I3clJuMQqZ7E=;Kdwme684lDlK9EF02SGuVQ=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/AWS_2.jpg?h=bde28bee&itok=b3OeXaf-"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "cuB3bGE3n6TEUsCOwALxylEtXJcT7/V1FM0gl6VVOWElBZQYnQRWKkeTHeNTzgqE4ar6rsgXfaQWi4zAKRKQCLVB5sJHJpLHv4SFXllYKADnF6mObTLX/PWIHn3fBmBPd0e8gvzP5XxPW88KrVJv6R4aV/I6YepQXc1ptQZK+dbT2YG8BSlAdI/JW9ZLHUxXt8CBqJhrHOvtEUrJT00EU7tf5ITdbBQ06QeTTrgwirXbeTa8h6TNwwvdzGtbVIrv+b74QBgjlDk/WcaNdUnVl4GZv1yvirASRf3ecoGSHq22Ocb/3XPtcuY2sSZ/SbakIIsbOTp8UWFBqaSCBKwHKRRdPJT+JS/m8fHs8Z1baWc=;Xsu6j2Qz6TPBE6o+J+OsvQ=="
 ---
 

@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-23-cognitive-scores-lower-for-children-with-iron-deficiency.md",
+      "title": "Cognitive scores lower for children with iron deficiency",
+      "excerpt": "Children with chronic iron deficiency have lower cognitive scores even at four and 12 months after an intervention, according to a study published online Nov. 22 in Pediatrics. Argie Gingoyon ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-scores-lower.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "publishedDateTime": "2022-11-22T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.md",
       "title": "Unexpected declines in cognitive performance after epilepsy surgery",
       "excerpt": "While neuropsychological performance can recover in the long term after successful surgery, on rare occasions, unexpected declines in cognitive performance occur. Researchers at the University of ...",
@@ -1323,49 +1366,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-feinberg-superager-program-examines-exceptional-cognitive-aging.md",
-      "title": "Feinberg SuperAger program examines exceptional cognitive aging",
-      "excerpt": "But an initiative from the Mesulam Center for Cognitive Neurology and Alzheimer’s Disease at the Feinberg School of Medicine is taking the opposite approach. The program studies “SuperAgers ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
-      "originalUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailynorthwestern.com/wp-content/uploads/2022/11/Feinberg-pic.jpg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Northwestern",
-        "domain": "dailynorthwestern.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

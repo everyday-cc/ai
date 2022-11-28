@@ -29,43 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search"
-    publishedDateTime: 2022-11-23T19:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23"
+  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
+    publishedDateTime: 2022-11-27T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chatbots Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence Chatbots"
-    publishedDateTime: 2022-11-25T12:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2023-2028-2022-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
-    excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
-    publishedDateTime: 2022-11-26T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,63 +71,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market 2022 Research Methodology, merging Technologies, Value Chain Analysis, and Forecast by 2028"
-    excerpt: "Global Artificial Intelligence in Diabetes Management Market by MarketsandResearch.biz gives the perception of"
-    publishedDateTime: 2022-11-24T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-research-methodology-merging-technologies-value-chain-analysis-and-forecast-by-2028-2022-11-24"
+  - title: "Machine Learning Recommendation Algorithm Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "\"Machine Learning Recommendation Algorithm Market\" Insights 2022 - By Applications (Entertainment, Retail, Others), By Types (Service, Solution), By Segmentation analysis, Regions and Forecast to 2028. The Global Machine Learning Recommendation Algorithm ..."
+    publishedDateTime: 2022-11-27T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-11-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "LegalTech Artificial Intelligence Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"LegalTech"
-    publishedDateTime: 2022-11-27T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-11-27"
+  - title: "Global Mobile Learning Market Research Report 2022: Augmented"
+    excerpt: "The global mobile learning market is expected to grow from $42.16 billion in 2021 to $54.36 billion in 2022 at a compound annual growth rate (CAGR) of 28.94%. The mobile learning market is expected to reach $155."
+    publishedDateTime: 2022-11-25T20:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-mobile-learning-market-research-report-2022-augmented-/2022/11/25/9719706.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market 2023 : Trend Analysis, Competitive Outlook of Top Industry Players and Future Expansion by 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence (AI) in"
-    publishedDateTime: 2022-11-25T12:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2023-trend-analysis-competitive-outlook-of-top-industry-players-and-future-expansion-by-2028-2022-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
-    excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
-    publishedDateTime: 2022-11-24T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-  - title: "Robot Battery Powered Lawn Mowers Market Industry Analysis, CAGR Value, Business Strategy, Growth drivers, competitive landscape, Forecast by 2029"
-    excerpt: "Global Robot Battery Powered Lawn Mowers Market Segmentation ... is processed using powerful artificial intelligence approaches to present prediction crowd flow models and customer preference patterns. On the Basis of the End-User/Applications, this ..."
-    publishedDateTime: 2022-11-24T19:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-battery-powered-lawn-mowers-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "S/VuEDxtfufJF4UdFI7TDMAeJgHa0VNEaeqDvuedgEdcgBAS6klv5AW4ozOcf6TQ4i4SV7UJYa0234RzE0Nm7V4OswBCqyXYxDnBgevkvJrAU/M9ltSNzPVIR3MO+2Ojwinj3nyAvlauTfWNxEAWmdZH3Iow/cYd/8Wl7GgkkMSL8K4XkMfrhov8+HuFef8w8XvNtLwobO1HgUY7ejI9Wd/sAQ06s72ZHDRMXh1JhcIdLGu5MDbjd6K0q7QlLEWYyN1VAWwCIY3l2SeXn2EXs0D93tmxIv1k1NEJ+PvagJhTeJ9H1xUV7jLAnrtMKLgUla5VGaTkHfPxJ7Awf5yyPA7djN6iZU21Wyd/iJjgP9g=;TbLflBDNtxfU8D3fJRX3Vg=="
 ---

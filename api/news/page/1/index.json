@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-28-5-risks-of-ai-and-machine-learning-that-modelops-remediates.md",
+      "title": "5 risks of AI and machine learning that modelops remediates",
+      "excerpt": "Modelops improves machine learning model development, testing, deployment, and monitoring. Follow these tips to keep model risks in check and increase the efficiency and usefulness of your ML initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "originalUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior.md",
+      "title": "As AI Gets Smarter, Creatives Must Continue To Predict Its Behavior",
+      "excerpt": "Predicting and influencing human behavior is as old as human beings themselves, but now we’re entering a new territory—one that has never been possible until the advent of AI. Artificial intelligence helped me write the end of that last sentence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637e2d8f5e5b4ed672588243/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-needed-more-worker-involvement-in-artificial-intelligence-initiatives.md",
+      "title": "Needed: More Worker Involvement In Artificial Intelligence Initiatives",
+      "excerpt": "Something very important is missing from the AI picture: the involvement of the employees who will be charged with making AI and data-driven enterprises work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63842abe661ca5e9043cf512/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/amp/",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-whats-next-for-baidu-after-q3-earnings-beat.md",
       "title": "What’s Next For Baidu After Q3 Earnings Beat?",
       "excerpt": "Total revenue rose 2% year-over-year to 32.54 billion yuan ($4.55 billion), with adjusted net income rising by about 15% to 5.89 billion yuan ($828 million).",
@@ -313,7 +468,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -408,7 +563,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -658,7 +813,7 @@
       "originalUrl": "https://techbullion.com/how-ai-is-transforming-the-toy-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1081,144 +1236,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-what-nvidias-new-text-to-3d-means-for-engineering-product-design.md",
-      "title": "What Nvidia’s New Text-To-3D Means For Engineering & Product Design",
-      "excerpt": "Magic3D is reportedly over twice as fast as DreamFusion, published less than 2 months prior. The rapid changes in Generative AI have huge implications for engineering and manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/",
-      "originalUrl": "https://www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637f5288847cbf8aada0e34c/0x0.png?format=png&crop=2570,1445,x0,y51,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/amp/",
-      "publishedDateTime": "2022-11-24T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-massive-traffic-experiment-pits-machine-learning-against-phantom-jams.md",
-      "title": "Massive traffic experiment pits machine learning against 'phantom' jams",
-      "excerpt": "Many traffic jams are caused by human behavior: a slight tap on the brakes can ripple through a line of cars, triggering a slowdown—or complete gridlock—for no apparent reason.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/massive-traffic-experi.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
-      "publishedDateTime": "2022-11-24T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-fintech-startup-galgal-raises-1-million-in-seed-funding.md",
-      "title": "Fintech startup Galgal raises $1 million in seed funding",
-      "excerpt": "Galgal Money is a new-age Mumbai-based fintech start-up that focuses on bringing efficient banking solutions to the youth, with the purpose to simplify money management and make savings as stress-free as possible. Through its AI system, the Galgal app is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/11/24/600x338/ddd54600-6bd3-11ed-a20b-ccf96773636d_1669279558141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html",
-      "publishedDateTime": "2022-11-24T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
