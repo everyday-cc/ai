@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-22-india-assumes-chair-of-the-global-partnership-on-artificial-intelligence.md",
+      "title": "India assumes chair of the global partnership on artificial intelligence",
+      "excerpt": "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html",
+      "publishedDateTime": "2022-11-21T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-how-spotify-trained-an-ai-to-transcribe-music.md",
+      "title": "How Spotify trained an AI to transcribe music",
+      "excerpt": "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "originalUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/11/21/parsoa-khorsand-OhHPxRrhBIM-unsplash-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "publishedDateTime": "2022-11-21T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-beyond-the-banhammer-how-ai-is-changing-content-moderation.md",
       "title": "Beyond the banhammer: How AI is changing content moderation",
       "excerpt": "NLP can help manage player-generated content at scale to increase retention, promote positivity, and build a fun game community.",
@@ -213,8 +298,8 @@
       "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
       "excerpt": "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
-      "originalUrl": "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -233,11 +318,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T08:54:00-08:00",
+      "publishedDateTime": "2022-11-21T08:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
+        "name": "KTLA",
+        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1094,109 +1179,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-purpose-potential-and-pitfalls-of-customer-facing-voice-ai.md",
-      "title": "Purpose, potential and pitfalls of customer-facing voice AI",
-      "excerpt": "As voice AI advances, voice assistants are becoming a necessity for businesses in many sectors for engaging with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/",
-      "originalUrl": "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/Voice.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/purpose-potential-and-pitfalls-of-customer-facing-voice-ai/amp/",
-      "publishedDateTime": "2022-11-20T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-part-of-the-kill-chain-how-can-we-control-weaponised-robots.md",
-      "title": "‘Part of the kill chain’: how can we control weaponised robots?",
-      "excerpt": "From armed robot dogs to target-seeking drones, the use of artificial intelligence in warfare presents ethical dilemmas that urgently need addressing",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
-      "originalUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/41042fab075372f0412b4435f5752b40f3442018/0_413_6192_3715/master/6192.jpg?width=620&quality=85&auto=format&fit=max&s=fcd8c7aabee9c95bf41e074059108611",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
-      "publishedDateTime": "2022-11-20T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

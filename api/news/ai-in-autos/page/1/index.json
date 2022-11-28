@@ -116,7 +116,7 @@
       "originalUrl": "https://techbullion.com/how-ai-is-transforming-the-toy-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -161,7 +161,7 @@
       "originalUrl": "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -299,6 +299,50 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-the-state-of-artificial-intelligence-at-the-manufacturing-edge.md",
+      "title": "The State of Artificial Intelligence at the Manufacturing Edge",
+      "excerpt": "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html",
+      "originalUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/",
+      "publishedDateTime": "2022-11-23T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1366,49 +1410,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-lyft-and-motional-to-offer-driverless-taxi-rides-in-los-angeles.md",
-      "title": "Lyft and Motional to offer driverless taxi rides in Los Angeles",
-      "excerpt": "Lyft and Motional have announced plans to launch a driverless ride-hailing service in Los Angeles using Ioniq 5 EV Level 4 robotaxis. Los Angeles will be the second city serviced by the two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
-      "originalUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/WqGKETyQotWJMl6624QBSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/64534d50-666e-11ed-b7f6-cedf47c3a338",
-          "width": 1200,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

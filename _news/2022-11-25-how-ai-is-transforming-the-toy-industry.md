@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -56,6 +56,31 @@ related:
       - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "Lawsuit takes aim at the way AI is built"
+    excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
+    publishedDateTime: 2022-11-24T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
+  - title: "The morphing world of Artificial Intelligence"
+    excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
+    publishedDateTime: 2022-11-25T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 41
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "SIX fintech sectors transforming the financial industry"
     excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"

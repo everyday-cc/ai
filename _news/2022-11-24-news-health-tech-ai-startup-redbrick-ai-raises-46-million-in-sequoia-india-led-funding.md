@@ -24,83 +24,66 @@ images:
     isCached: true
 
 related:
-  - title: "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare"
-    excerpt: "(File) RedBrick AI, a Health-tech AI platform, on Wednesday announced that it raised $4.6 million in a seed funding round to accelerate the development and adoption of artificial intelligence ... about 90 percent of all healthcare data AI systems can ..."
-    publishedDateTime: 2022-11-23T10:42:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/"
-    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
+  - title: "Fintech startup Galgal raises $1 million in seed funding"
+    excerpt: "Galgal Money is a new-age Mumbai-based fintech start-up that focuses on bringing efficient banking solutions to the youth, with the purpose to simplify money management and make savings as stress-free as possible. Through its AI system, the Galgal app is ..."
+    publishedDateTime: 2022-11-24T08:46:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 69
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/09/ai1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Healthtech startup RedBrick AI raises $4.6 mn from Sequoia India, Surge"
-    excerpt: "US-headquartered healthtech startup, RedBrick AI, has secured $4.6 million in a seed funding round led by Sequoia India and Southeast Asia's Surge. The funding round also saw participation from Y Combinator and angel investors."
-    publishedDateTime: 2022-11-24T04:46:00Z
-    webUrl: "https://inshorts.com/en/news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/11_nov/24_thu/img_1669259804612_688.jpg?"
-        width: 1080
-        height: 1748
-        isCached: true
-  - title: "RedBrick AI raises US$4.6M to accelerate the development of healthcare AI"
-    excerpt: "Health-tech AI platform RedBrick AI is announcing a US$4.6M seed funding round to accelerate the development and adoption of artificial intelligence in clinical settings, through rapid"
-    publishedDateTime: 2022-11-24T06:45:00Z
-    webUrl: "https://www.sourcesecurity.com/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/redbrick-ai-raises-4-6m-accelerate-co-1669263487-ga.1669262665.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 53
-  - title: "Health-tech startup Redbrick AI raises $4.6 million funding from Sequoia India, Surge"
-    excerpt: "The startup, which provides AI solutions for medical imagery, also attracted investments from Y Combinator and angel investors."
-    publishedDateTime: 2022-11-23T11:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/articleshow/95715661.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-741027,msid-95715660/redbrick.jpg"
+      - url: "https://images.livemint.com/img/2022/11/24/600x338/ddd54600-6bd3-11ed-a20b-ccf96773636d_1669279558141.jpg"
         width: 600
-        height: 450
+        height: 338
         isCached: true
-  - title: "RedBrick AI raises $4.6M to ease AI development in the healthcare sector"
-    excerpt: "RedBrick AI announced the funding round today. The lead investor in the round was Surge, a joint venture between Sequoia India and Sequoia Southeast Asia that provides startups with funding along with other resources such as access to business workshops."
-    publishedDateTime: 2022-11-23T19:01:00Z
-    webUrl: "https://siliconangle.com/2022/11/23/redbrick-ai-raises-4-6m-ease-ai-development-healthcare-sector/"
+  - title: "Top 7 Areas That FinTech Covers"
+    excerpt: "According to FinSMEs, the whole FinTech industry will reach $320 billion in 2022. This explosive growth is partly due to the increasing demand by consumers and businesses for more efficient, cost-effective,"
+    publishedDateTime: 2022-11-24T16:08:00Z
+    webUrl: "https://techbullion.com/top-7-areas-that-fintech-covers/"
+    ampWebUrl: "https://techbullion.com/top-7-areas-that-fintech-covers/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-7-areas-that-fintech-covers/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-  - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
-    excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
-    publishedDateTime: 2022-11-23T13:03:00Z
-    webUrl: "https://yourstory.com/2022/11/healthtech-ai-startup-redbrick-ai-sequoia-surge-y-combinator-funding"
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/money-transfer-3588301_1280.jpg"
+        width: 1280
+        height: 906
+        isCached: true
+  - title: "Fintech startup Galgal raises US$ 1 million in seed funding"
+    excerpt: "Galgal Money, a fintech startup, has received US$ 1 million in seed funding from angel investors. The firm was able to launch the app quickly and increase customer acquisition thanks to the funding. The company further plans to invest in product development to quickly improve customer experience and concentrate on providing features that can improve the neo-banking experience for Indian youth."
+    publishedDateTime: 2022-11-25T04:11:00Z
+    webUrl: "https://www.ibef.org/news/fintech-startup-galgal-raises-us-1-million-in-seed-funding"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 17
+      name: IBEF
+      domain: ibef.org
+    quality: 39
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
+  - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
+    excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"
+    publishedDateTime: 2022-11-24T13:27:00Z
+    webUrl: "https://financialit.net/news/fintech-startups/fintech-connect-2022-unveils-startup-launch-pad-fintech-good-documentary"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 19
+    images:
+      - url: "https://financialit.net/sites/default/files/fintech_connect_2.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "YT8Idyeege1lWhbE9d4NlLF1I8iHBNpiu1yEcfKBLP7TsW8/qH+f24lF9IX9FHPgOxrlFyIe2Ruc+WTU5wJsPgiOuIL9WwtmsS5SbiY9NUMo6rozcjERCQxhemRG01hlotB4MB657/oQwbMsn9Bns8eRM4xpGA/HDfNTCPBZekONalPA4w4jw2URbgrc1D012ZO0oaEsZ8/4ixl6rq6eIIteVRBJ9Id6+VpwctAt2pTi5xnciOPXYd5gOyxBSMGP1LHwYK214sgLzR/p/dxOWoBUczY8uuxU9gu5M7H1D2BT7g9RbxRNjW9ORS9yXF9nJYGRpHWaF+SZi7RP7lomr1abS38+OpuX/NQqg6JQl8qqbiQd2OJESwsBptL/+Uprlhe5gxEyzKT4h4Trce9rBt7j83dU3Gc+ZjZMkAMoyqxMnfMIt24mVxi4jxkPMNhJahHNL4v9I2Xc0EhNmNtlWTR2seP9GR9o6RzEbCWyjqDW4Vc9rg69GxcrzzV1jf0zjFG98pS7OpEWzLSYKTwlEw==;pPQgL9DAH/XnGQyYhkIUcw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/413064/the-state-of-artificial-intellige
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: CIO
@@ -28,49 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI And The Future Of Government Work"
-    excerpt: "AI in the workplace has been met with strong opposition as well as support; either way, automation and AI technologies are here to stay."
-    publishedDateTime: 2022-11-23T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/"
+  - title: "Making the most of quite little: Improving AI training for edge sensor time series"
+    excerpt: "Engineers at the Tokyo Institute of Technology (Tokyo Tech) have demonstrated a simple computational approach for improving the way artificial intelligence classifiers, such as neural networks, can be trained based on limited amounts of sensor data."
+    publishedDateTime: 2022-11-25T18:28:00Z
+    webUrl: "https://techxplore.com/news/2022-11-ai-edge-sensor-series.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-ai-edge-sensor-series.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-ai-edge-sensor-series.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ff85abc2fdfc402f0f5abfc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/making-the-most-of-qui.jpg"
+        width: 710
+        height: 710
         isCached: true
-  - title: "AI works on artificial DNA for future drug development"
-    excerpt: "With the help of AI, researchers in Sweden have succeeded in designing synthetic DNA that controls the cells' protein production."
-    publishedDateTime: 2022-11-24T14:06:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/ai-artificial-dna-future-drug-development/"
+  - title: "Human Vs. AI Drone Racing At The University Of Zurich"
+    excerpt: "Thomas Bitmatta] and two other champion drone pilots visited the Robotics and Perception Group at the University of Zurich. The human pilots accepting the challenge to race drones against"
+    publishedDateTime: 2022-11-27T06:00:00Z
+    webUrl: "https://hackaday.com/2022/11/26/human-vs-ai-drone-racing-at-the-university-of-zurich/"
     type: article
     provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 41
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
     images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2022/11/shutterstock-1803136597.jpg"
-        width: 1000
-        height: 446
-        isCached: true
-  - title: "The morphing world of Artificial Intelligence"
-    excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
-    publishedDateTime: 2022-11-25T04:00:00Z
-    webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 41
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://hackaday.com/wp-content/uploads/2022/11/Drone-Race-Feature.png"
+        width: 1600
+        height: 901
         isCached: true
 
 secured: "Vjlp4my4rY4JYu2K0biKMgAu4GeekQEKjv733xg7jlULSEVEnnbHA9m9yVC0EwcchpIRTkgZtTpGmZ1cYWUqJOOoRY8+KfZbStKX5piqgaTo1wnTdmczZEWj1TnDWoJ9KRlmOq1LN1UoD0BiTCKBpjwJbi4M/iAiNWqLqOjDqLt/Jw6sV/Ohrdx1fqzSUeeCuOaKcZt4saPccs4PWuG2ZFeZ3BeJf8x2FhiAuC1jIeSK2bkBbVj8lRpz1leF5pc8MTg7+5CYAZA/D+y8+WWriMyAAEEPYmIIu9K0swaoXm4eTj6wbgS87c7UFNd+YTPhMGzHsewaF9LvVcN5raL8Z34t/m9f7sSqvIndnyX6Y4o=;j/GRezkuai8ODwT2jmVbUQ=="

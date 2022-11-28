@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-neurips
 webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-neurips-2022"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/deepmind-neuro.jpeg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "DeepMind vs CICERO: How Meta Defeated Alphabet at its Own Game"
-    excerpt: "While games have long been the cornerstone of DeepMind’s strategy to train deep neural networks, Meta beat them at their own game. Today, Meta’s AI arm made history by creating CICERO—an algorithm that can achieve human-level performance in a strategy game known as ‘Diplomacy’."
-    publishedDateTime: 2022-11-23T10:31:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-vs-cicero-how-meta-defeated-alphabet-at-its-own-game/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/How-Meta-Leapfrogged-Alphabet-In-Deep-Learning.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "G7W8RnbIdF3KfAh82Q7gLoVnxYRLr3tyi10DvLVCPrPTHuto2SPKOICZz9VkGeeGgSfDfM+46lYai3Xt/ozy5o+JWCgLfQvxZcJRX0THywaOQFak2ZRN0CEIxxKNqr6fWHrRcGkp2ghUXQc/NPSGAIiYAtFV+tblJQfvH6IKzi5cIKSiDfuZGee+bRyvXvBRRY2fT62adQD3NOeuyzbPtqu3uq1IFSNXbgQ3jDHklqFTv626gPbFDvAVPTXi1NkRY89YNWPNoo07DN7CVQveI7+RicKK8uAwcoNIqfliJm8cGLV1M6F4Jj6gOQ1xwAMEYux5ntkh8cYatG/YPpK2qzYWOSdS8bgZKKWse9BT08o=;tXuXDi/gPuLoDsSCJzEkmA=="

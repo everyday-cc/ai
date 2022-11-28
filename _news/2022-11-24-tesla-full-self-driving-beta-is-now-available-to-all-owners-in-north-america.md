@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-availa
 webUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/"
 type: article
 quality: 81
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -203,6 +203,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/30/41/15/23204675/3/rawImage.jpg"
         width: 2048
         height: 1324
+        isCached: true
+  - title: "Tesla Self-Driving Beta Feature Now In The US"
+    excerpt: "The CEO said, “Tesla Full Self-Driving Beta is now available to anyone in North America who requests it from the car screen, assuming you have bought this option.” It is a set of features that may turn autonomous driving into a standard for Tesla vehicles."
+    publishedDateTime: 2022-11-28T01:50:00Z
+    webUrl: "https://technology.inquirer.net/119784/tesla-self-driving-beta-in-us"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2022/11/Tesla-Self-Driving-featured-image-www.kpcc_.org_-620x349.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "Tesla's full self-driving beta now available: Elon Musk"
     excerpt: "Musk had come under heavy scrutiny in August over the controversial Autopilot advanced driver assistance system that has allegedly killed many."

@@ -69,6 +69,31 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Lawsuit takes aim at the way AI is built"
+    excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
+    publishedDateTime: 2022-11-24T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
+  - title: "The morphing world of Artificial Intelligence"
+    excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
+    publishedDateTime: 2022-11-25T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 41
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "eqhVDdf8+IUkJeFeTS6jx7Af8ZKB3rxvWDmneST20cLeoQn4C0VV6SSnn5Shq3IN3UqJkuWKjZrMhyK05IF3B79qW7JN5ZRv7rhBKTkIhgRkuLIOLrZ6OMYk9zYMy2h8v3wx5pQ1xvE4jbKxdgLpURVZCvE5iPn9tBYWDOs+DvFNFBVT3bOgWI3XatOMsywTnvyhT846VDrEFVTCCpq2y3HSnwmd3/Ox3HBWHMLWgCWhGb1R37eSgtV1BV/jjiG/S8J16/1AI4B8/Hf9VXUUtAQk2b7Z7/ogtxT+GWDAMKJ/BQrpkKS81sILwayhdJZlpdzbSGdg74x8woLd7rQ35OjVSa/SuZSS9rO7CRRJ+0jnC/IPW3pA7jI2hyrF3sMG6MGfXtNm6y96P8u5fJ3z8jEOV4TTD+Kw0JK/opylu8ZkwoGTWwF+t5yi7UZgTR5RxJjCAhAuMTaXRU53BcqhkCsPKI0GC3BzbdwwMQa02vbnHYzYsU0ve3ENdotQ/j1lSA31Cays6iH887eDQ6BJCA==;qk5PqxSqVG52aBWSUj9vCg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-tailors-dn
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI works on artificial DNA for future drug development"
+    excerpt: "With the help of AI, researchers in Sweden have succeeded in designing synthetic DNA that controls the cells' protein production."
+    publishedDateTime: 2022-11-24T14:06:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/ai-artificial-dna-future-drug-development/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 41
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2022/11/shutterstock-1803136597.jpg"
+        width: 1000
+        height: 446
+        isCached: true
   - title: "AI tailors artificial DNA for future drug development"
     excerpt: "With the help of an AI, researchers at Chalmers University of Technology, Sweden, have succeeded in designing synthetic DNA that controls the cells' protein production. The technology can contribute to the development and production of vaccines,"
     publishedDateTime: 2022-11-25T14:36:00Z

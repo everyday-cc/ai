@@ -62,20 +62,6 @@ related:
       name: Hawaii Tribune-Herald
       domain: hawaiitribune-herald.com
     quality: 54
-  - title: "Meta claims its AI is better at diplomacy than most humans"
-    excerpt: "Trust Zuckerburg to sort out the world Meta claims that its AI is better at playing strategy game Diplomacy than most tiny mortals. Diplomacy is a game that involves players cooperating by sharing motivations and points of view to construct plans and alliances."
-    publishedDateTime: 2022-11-23T10:56:00Z
-    webUrl: "https://fudzilla.com/news/ai/55874-meta-claims-its-ai-is-better-at-diplomacy-than-most-humans"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://fudzilla.com/media/k2/items/cache/e10ec18d9285e5e85413480f6f82bba9_L.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "The Artificial Intelligence and Data Act needs a reset"
     excerpt: "Have you recently been rejected when applying for a job or a loan, but can’t get a satisfactory reason? The best you’re told is that the decision was automated using “artificial intelligence.” Maybe you’re among the many people who find that social media platforms claiming to use AI recommender systems attuned to your interests push inflammatory but hard-to-resist material?"
     publishedDateTime: 2022-11-23T19:14:00Z

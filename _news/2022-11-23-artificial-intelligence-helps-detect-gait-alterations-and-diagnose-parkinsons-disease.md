@@ -5,9 +5,11 @@ excerpt: "Scientists affiliated with the Department of Physical Education's Huma
 publishedDateTime: 2022-11-23T13:24:00Z
 originalUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-gait-parkinson-disease.html"
 webUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-gait-parkinson-disease.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-11-artificial-intelligence-gait-parkinson-disease.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-gait-parkinson-disease.amp"
 type: article
-quality: 24
-heat: 24
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "qjij7h3hkww7XzALDOeV9dBeuvdPjFcLOJ8WebDns48x76W5bUMYDpB+n25NLAnd9JhD9Xg8AtuSGT22U6KJ8Lz5B1j5aBpHqm7wnjUMzkDNvPzMq/DHwWpf5rJ8+iCKKoQsHwkZC6yJox68HxHcD1l/Jl3OXXbXw+soN+drgYKnAk0Ei7hztDpTD9pYCwSrCWasoV5/cbArP0fltkxV26zsJqd6npwE+iJha0MXxKxgcupNxeNn+wnKhBSIoUDNSFXRx0+xrWC7tKRCh+NtOhKC6SeeI5VEAXZjqsfX7cRaYi5d0kwDPk+IJ6Ioe0R+1IBGHZCd2Vj1rtL1iss9N4QiVdIWfLZQUcgAaXIn4NW2xAtyZxGq3f8kLdAMFxt1ZUC3APJL/mwyxI39usHe67Dciagg4wOCasiIWnduq61tbFH5UP5ARgSzL5jdut/UlpN0hdIIGQJ1PFY7gtuIelRZME8wDbAPhSeOWV7bI5UPSsbsIq6SB48pm7VbWNie37RHasxO/7tY4FreUEPisA==;wJ4PIwBPZEBBKGTW6mafog=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-88.jpg"
+    width: 1737
+    height: 886
+    isCached: true
+
+secured: "RvMkkEGyF7TZyaSKo89NEHVKVzkfgeXsEDJfJb+fy6eZ9ZVkfCAcBLtxiC75K9StwWrpAuLVRFuRx6En0z7ni+YZCNBkSY56y/yiDxBbFi9BrBR/z83n+7wyxoYp0hUUdwrxex7vSYomRAOAOVib43jqcBU1ua8t0sUCM85UqoVy/CLWjIiFMTI4V03tD81grcA09/RJiRpxF2nABWTfomhKfYnBnER3eZw4Rudy9L0ZY3IXRkBU9Nc8muZIcGxqmJBL8QdgGu08kX9DZbnY7UkrncLWMNkOsgnUDbmjmWYwDf6grAaemKRBzTYJYa57jYtNg3eeEaA6xn/yTc9BesWMSQr9TODn6RjaRr4uJ8w=;DfjF5tjyoFBzjPDrWiHXDw=="
 ---
 

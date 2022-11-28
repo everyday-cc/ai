@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-18-waymo-shows-off-its-next-truly-driverless-prototype-car.md",
+      "title": "Waymo shows off its next truly driverless prototype car",
+      "excerpt": "So, for the second time now, Waymo is doing a ground-up design of a driverless vehicle, without any of those useless, legacy human controls. The car was originally announced in December ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "publishedDateTime": "2022-11-17T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-ai-drew-this-gorgeous-comic-series-youd-never-know-it.md",
+      "title": "AI Drew This Gorgeous Comic Series. You'd Never Know It",
+      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving. Leslie Katz leads a team that explores the intersection of tech and culture, plus all manner of awe-inspiring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "originalUrl": "https://www.cnet.com/culture/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "publishedDateTime": "2022-11-17T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-artificial-intelligence-based-predictive-analytics-platform-is-gaining.md",
       "title": "Artificial Intelligence Based Predictive Analytics Platform Is Gaining",
       "excerpt": "Increasing focus on Artificial Intelligence (AI)-based predictive analytics platforms is gaining popularity in the healthcare predictive analytics market trends. Players in the healthcare predictive analytics market are focusing on the launch of AI-based predictive analytics platforms to sustain their position in the market.",
@@ -1051,111 +1145,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning.md",
-      "title": "IBM Research helps extend PyTorch to enable open-source cloud-native machine learning",
-      "excerpt": "IBM Research has contributed code to the open-source PyTorch machine learning project that could help to significantly accelerate training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
-      "originalUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
-      "publishedDateTime": "2022-11-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-how-you-can-get-the-most-out-of-sentiment-analysis.md",
-      "title": "How You Can Get The Most Out Of Sentiment Analysis",
-      "excerpt": "This article will explore the uses of sentiment analysis, how proper sentiment analysis is achieved and why companies should explore its use across various business areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
-      "publishedDateTime": "2022-11-17T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

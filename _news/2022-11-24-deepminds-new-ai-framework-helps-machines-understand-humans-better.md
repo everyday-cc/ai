@@ -34,20 +34,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "DeepMind vs CICERO: How Meta Defeated Alphabet at its Own Game"
-    excerpt: "While games have long been the cornerstone of DeepMind’s strategy to train deep neural networks, Meta beat them at their own game. Today, Meta’s AI arm made history by creating CICERO—an algorithm that can achieve human-level performance in a strategy game known as ‘Diplomacy’."
-    publishedDateTime: 2022-11-23T10:31:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-vs-cicero-how-meta-defeated-alphabet-at-its-own-game/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/How-Meta-Leapfrogged-Alphabet-In-Deep-Learning.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "dYe0/AiR4ukzFF3hMBkI/bsFk/WWNC7YA1wf9DHX2Ns7C9mPktq6P0tC4hFRbGTaBxYD04spei5USe9O/2AixKPNr9aR3LNHhNuWo0hHhvro2iVPBJACul3hMeg+VAZV70bOjoqFQ+tGkP3SmWNSKFr8NDiPppxwibfBM0VcLSMYpJ7VGM8sRkQzozTTmRXSbVCS8sUit6+NY/8K+z3d6wjRVqhMv80JSzXSEQu8V03kIaOJ9PsubToaNQ2cbrDysy0XIRopFuL7+k+dynaD7PC2e1vhQvsQNlM7n0VvE8AcQTeiByB2n5GwO41xmLTU11451s9mk/w6G4tunwlfBux1MBDdsyUZNUhqyurqLEhXQnU7H4aEc73SpcdxtTVD8BP0SpY2vYkqTyULW1OKhK3dX+egl+TpEbOGtUF5MO2fsbj5mbmNoIKeIHCST1hdYPaZ+YcFYjgQnWGOQNCRctDqk4wlur7yhm6HnuX4Jr8rgEyPHUCVBS+q4mk3u8MnzgVPtimBsGYb1cg8xZ5WXA==;B9+pAy/Ep6nIzogDIbMoKw=="
 ---

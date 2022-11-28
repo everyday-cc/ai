@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.ibef.org/assets/images/loginImg.jpg"
         width: 500
         height: 665
+        isCached: true
+  - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
+    excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
+    publishedDateTime: 2022-11-24T07:45:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/health-tech-ai-startup-redbrick-ai-raises-46-million-in-sequoia-india-led-funding-36146"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
+        width: 990
+        height: 550
         isCached: true
   - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
     excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"

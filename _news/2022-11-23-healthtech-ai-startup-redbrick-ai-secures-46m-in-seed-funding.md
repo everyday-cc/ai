@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare"
-    excerpt: "(File) RedBrick AI, a Health-tech AI platform, on Wednesday announced that it raised $4.6 million in a seed funding round to accelerate the development and adoption of artificial intelligence ... about 90 percent of all healthcare data AI systems can ..."
-    publishedDateTime: 2022-11-23T10:42:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/"
-    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 69
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/09/ai1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Healthtech startup RedBrick AI raises $4.6 mn from Sequoia India, Surge"
     excerpt: "US-headquartered healthtech startup, RedBrick AI, has secured $4.6 million in a seed funding round led by Sequoia India and Southeast Asia's Surge. The funding round also saw participation from Y Combinator and angel investors."
     publishedDateTime: 2022-11-24T04:46:00Z
@@ -86,20 +70,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
-  - title: "News: Health-tech AI startup RedBrick AI raises $4.6 Million in Sequoia India-led funding"
-    excerpt: "The AI startup s funding will be utilised to hire new talent for engineering roles in the India office and expand its product offerings customer reach"
-    publishedDateTime: 2022-11-24T07:45:00Z
-    webUrl: "https://www.peoplematters.in/news/funding-investment/health-tech-ai-startup-redbrick-ai-raises-46-million-in-sequoia-india-led-funding-36146"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 28
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
-        width: 990
-        height: 550
-        isCached: true
 
 secured: "nrjg1jZ/k1wvOIveHF97wU4idFR2eGhRBETzMGcbwQIYZAKTZ/urqpAANnHYJiKL/lwoDAlogAFNoqjmFgSWu4FLSFUpbKsTxHYse1Qx8jKIaIW+vZZz7dprMYshQwR83GHGfHGpUq88kp52oFCxEm8RBq5diVU8FIYaf3tcIHJA6uuFdoCx87/X1qk5gPvIqXr0HlvPMzwttfwNzYzMG/kbQ4BYXmrkMMy93+sWjJc02KCnRTtECumSDWCQ94qXulnzQGiR9neLJbeJ2qal28HCdgJOAu2bIpVehKPahnURkj97BDLDdHCjeo1hl2s28viMDltZ+mHPXx1TVfnmUR1AFAdMqWdFLWilBAMm1gVE8IaEVSJ08uueVgthHZZL0mbm1Pgz2n/Cc81nfqfFprF6Y66DonhHvC+sJJmlzgs+M8BnLyzloBzsLblZqIs2INX8q9fScmczAwYbV8RHku3Mt4UH0lcTOaH41HCpcJ6L7OOzK5D31ze9ygWACZPcrParjIr8d6OQvmgxYzfDGg==;wOQ6JUaxA3qzoIyeMlYM1Q=="
 ---

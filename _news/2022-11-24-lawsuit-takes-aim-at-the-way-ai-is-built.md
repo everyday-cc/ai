@@ -22,35 +22,77 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Lawsuit Takes Aim at the Way A.I. Is Built"
-    excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
-    publishedDateTime: 2022-11-23T10:00:00Z
-    webUrl: "https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html"
-    ampWebUrl: "https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.amp.html"
+  - title: "How AI is transforming the Toy Industry"
+    excerpt: "The Internet of things, often known as IoT, is a platform that allows all physical items globally to be linked to the Internet. Thanks to computer chips and other wireless networks, it is now quite simple to transform a massively inefficient thing into a high-tech machine with all of the capabilities necessary to assist in"
+    publishedDateTime: 2022-11-25T05:25:00Z
+    webUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/"
+    ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 89
+      name: Impacts
+      domain: techbullion.com
+    quality: 63
     images:
-      - url: "https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://techbullion.com/wp-content/uploads/2022/11/20161005111439-Robots.jpeg"
+        width: 2000
+        height: 1334
         isCached: true
-  - title: "Lawsuit against Microsoft takes aim at the way AI is built"
-    excerpt: "In late June, Microsoft released a new kind of artificial intelligence (AI) technology that could generate its own computer code. Called Copilot, the tool was designed to speed the work of professional programmers by suggesting ready-made blocks of ..."
-    publishedDateTime: 2022-11-27T22:20:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
+  - title: "Meet the start-up using robotics, AI, and ‘per plant farming’ to transform crop cultivation"
+    excerpt: "Next-generation technology is required to make better decisions in crop agriculture, according to UK start-up The Small Robot Company."
+    publishedDateTime: 2022-11-24T16:20:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2022/11/24/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 59
+    images:
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "How Is Robotics Shaping Up To Impact The Car Manufacturing Industry?"
+    excerpt: "How is Robotics Shaping Up to Impact the Car Manufacturing Industry? November 23, 2022 by mark allinson leave a comment . The world of car man"
+    publishedDateTime: 2022-11-24T06:35:00Z
+    webUrl: "https://menafn.com/1105226434/How-Is-Robotics-Shaping-Up-To-Impact-The-Car-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/28/2022-10-25T164310Z1765510562RC2F8X9WTDTERTRMADP3MICROSOFT-RESULTS.JPG?VersionId=P3lWCc0kvg0vrlClt6QeCU7PbA1p1NPl"
-        width: 860
-        height: 573
+      - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "The morphing world of Artificial Intelligence"
+    excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
+    publishedDateTime: 2022-11-25T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 41
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "SIX fintech sectors transforming the financial industry"
+    excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
+    publishedDateTime: 2022-11-25T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/six-fintech-sectors-transforming-the-financial-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/320/a4fba8725189c23bc1c4e561a5e0713d:dc71820e8649a101a4d0de5ee1719096/gettyimages-1381334525.jpg"
+        width: 319
+        height: 241
         isCached: true
 
 secured: "vBPa0JbCAPlo/2EA8eUVDVRsEgLkP5Yhd6ayNaD9fTv9YX6xyg2lGrvvBWF87j3L08ZyzbqkYrkUm29vc/1z0y9NR2MgM9qv8KPnWbJLaN7PC3uetHklroaDqOoGJekOryNdCMq2/+IN3CvjW6ZVRY3+pQOQIe8Z1YhdjIYjidTEziwScKzfM5xCPZgoyKUFpMGq8YbyijLbCxEb6E72w4v3sU7etnMwg/qFMBf2z+PPzGVzy+o0vEoE9j9ZY8ii9D9xSOIkt4tIQR+P2iB1olrXPOo9PkVxMP7NZzMU33Q5P/I4jv0KPN/2s47tmBVLAeizpXQyQcTHinaOssNzzGBZdjVnCrRgQOmWpYg4r3tngzvC9tEvhHIxC0zTYEA5MkmPeq20S9AvJhdIXDLOGK4dCcq5X7YtLQ6XaBOY2N8GUfxaDB+oIKVGh0faGKiudujo7n3soQiqm0IIFC0VVsHMPeQ+SvB14iLIl8Oao8KlU9XRCzp0au1P4ybti+rWhT1Vp2V/iR9PcT7YivM0aA==;Taq3h002r6aCN7ib7D6+FA=="

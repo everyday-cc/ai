@@ -1,25 +1,31 @@
 ---
 category: news
 title: "How Bitcoin And Artificial Intelligence Will Free Your Time"
-excerpt: "Will robots surpass our intelligence and replace us altogether? Will we combine with machines in some symbiotic merge that creates a new super being? Or are machines merely tools that will allow our more fundamental nature to thrive?"
-publishedDateTime: 2022-11-27T02:59:00Z
-originalUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
-webUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
+excerpt: "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet."
+publishedDateTime: 2022-11-27T04:00:00Z
+originalUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+webUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+ampWebUrl: "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+cdnAmpWebUrl: "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
 type: article
-quality: 53
-heat: 53
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Bitcoin Magazine
+  domain: bitcoinmagazine.com
 
 topics:
-  - AI in Healthcare
-  - AI
-  - AI in Autos
   - AI in Robotics
+  - AI
 
-secured: "oF8n4dbVOq095q3jScrcm6iFlAF5DKi38GodUhS962NCpqAOwTlBee/kLtDNgWMDFMvwii4+lek7c+MDQjNXCQyAX1gw4FhnP/LkKtKZZBIU8v2xYiOG8X49EtwF6uYgelmDnPsInebfUEaLQ/XQY83WftDlU9TF47lAFtQgaZsag6gnAtj1nawRmv7h8Fugk489FIEnF6oXE93OKOLtEZ1KWbE6IjFawWMr3iZsJBnRQCvrNzTaXwlp7bXQTUiCDUYCwz+TF87IbaU3/SJMe4NHIjQ5Y8Rnj/+T2jEsYIZyzXE9BxScOx0ImmWDudydWlqAzVryizJff8SIhiRNtNtJ3i/+S/bavWvybWUqh7BN+fbXRVoodh+K7hirlrTW5ZmW1rR99m+NeccajEA2I8xODsT3+fj2rdLSKzcpXDKK3IA1rC5Ym5JuoweDSOpWfPrpSnekyPUiPxmcc9YEX7lyCcwQ8GlAOAZRL+tHJ/utNdEYrg0NpJ8XexxNr3vkpDAHHIm/GZaK3i9u4KVTnQ==;5/HNJwo9rGjLyibsS4J9Rw=="
+images:
+  - url: "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png"
+    width: 620
+    height: 409
+    isCached: true
+
+secured: "JxSIcAKcwMs+7YMkSqMAzpfgnj6N4Z36PvH/2Mx8U1uWdvvTEa5Lng+xHCmLeTBcXdGcCXMOA9jVgO5SnzLuDRlM8jLcwzml9oE5JZ7YB8Sl8h/sahYWFNNwzvlmqCm6YrPe8vK14Ah2iGFOtfrCkvvQmwCivVEcwSjjeklZDGej7HTnJat6s6a05lda7uOmPiskvh9WZw8YMPhad7SXpIbu4XRHgqGhN0GLbWrXhAekmAsIdfeEgNO1LuWNxGcuFOTnDIyF2LRPP3omwodQw+TS/EeFg++3m4yVjKI/esqLSE0Wa7MLSOlESF3nbgGlC1ju4Dv6nzcIaR8OyOWTE7r3RBkGyos5Ql4f9Q7N7Pc=;jXJWDg9Q/+jj+dWFVX9/vA=="
 ---
 
