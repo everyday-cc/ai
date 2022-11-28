@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/dashboards/jobs-dashboards/artificial-in
 webUrl: "https://www.just-auto.com/dashboards/jobs-dashboards/artificial-intelligence-hiring-auto-industry-q3-2022/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -26,7 +26,12 @@ related:
     provider:
       name: Just Auto
       domain: just-auto.com
-    quality: 0
+    quality: 18
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/11/download-16.png"
+        width: 773
+        height: 469
+        isCached: true
 
 secured: "SZBvTQU5dT2QREK9YSy1uJV1uBfsBk/q/RKiJx+HhUceTcxR5VWafz8MlBW65+VsjPsZ+xKcVD9/ql5s2Z6hH/JnPttlEeh/ax1NjebvzrB2/bHyq0PqGc/a2TgzBVV1TGo8Zknua4SJTtJknEKYdprTWF8UvgUaQcZZn63Jmq9dWyyc4CbPECr2NKG0e+d5ct/noSXCVbWR1rw8uV5uyFx/Y7b+Irsp2piZIqn15BEjPCFHCr358z/1sxOYy9dPftYIa7cEUb6dZtR9L45OzMqCh0O7eoWr9OVIo6yzf3fZy0XxysjvLLjt6kG3UZnp+CgjdlKAvT8dEyp9Qp3VwABlyD9HAdkYRQZ/i+9ngAw=;0h7D6ihNWOvOd+EWfe1S1g=="
 ---

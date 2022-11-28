@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-26T09:09:00Z
 originalUrl: "https://www.just-auto.com/dashboards/filings-dashboards/artificial-intelligence-mentions-automotive-industry-q3-2022/"
 webUrl: "https://www.just-auto.com/dashboards/filings-dashboards/artificial-intelligence-mentions-automotive-industry-q3-2022/"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/11/download-16.png"
+    width: 773
+    height: 469
+    isCached: true
 
 related:
   - title: "Who’s hiring who? Hiring activity related to artificial intelligence increased by 31% in the auto industry in Q3 2022"
@@ -28,6 +34,6 @@ related:
       domain: just-auto.com
     quality: 0
 
-secured: "IIF2BgNZ65gE931HOMmUDu4rF6wQaTFlIUeEZp2a1VFQrIu+Q6s9k8SniBGNikpb6ii/KrPFMQm1edKM6MvlBSO5vgzf58cPTKpxoSRkFN62JbTtL8fhZivNgAX9/8DvhI5jjkO2dSfXUWMSi29MSB3BUeBDmaHSSHR4izf1mFI4BbbWiAvuCym8ULuO/hGC2Hn6Sns3htBL3zJdaBNu+/mx0PchRqHYFB4QcSFi7aYI/GyZf1qcWu+nP9IbU/UBanGIzxozcjJze+4xnPHsBVFCB9FukPHKbbu9hWgCBwFFsZV4vSNXP5rfOIubOZo1bFuioA6nhu43Xpn9spcKgmUXRSwaaaACb6cLMqM/2gU=;MjJXDCDjm/AAVNna63ZsyA=="
+secured: "OauB+bOIdpVUuvmhAuvI3stMPLWhuUsFBHGIoB6q0gbAfsHxg8KPW8kWfq5mQ7B4SosFNITj2I9O0fH7JvH+Pr310PaFuJZ/brtk1AliqU/ozf1sc15t7OgL7QVkabcdAFcG3EgghyZqdfMCLWGJytoTLMtB15phIEZIDnzZk5gyuDX/xJoMMGA6byQGlBiGk+DbSVuMYpekFnfLSs3Z6OV18qHIbZ/qA6DwY3tQfBUfuI/EFV1vgDFndoxQgrSbRbEiluUQKN5LwawWnTcvqUH4eVYmky76isk7MAvm4vq1XjpR6JgayuJFEqbetbLAA4AOiqPsj3Ry7O5vBUrJne/AVQ9rxaffMpo0gsXBXkE=;1GdeOcxSmcbypVQzd+75CQ=="
 ---
 

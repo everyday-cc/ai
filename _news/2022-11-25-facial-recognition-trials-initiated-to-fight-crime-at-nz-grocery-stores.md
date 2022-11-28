@@ -82,20 +82,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 40
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
-    publishedDateTime: 2022-11-23T16:10:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Scientists: Facial recognition could conserve seals"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
     publishedDateTime: 2022-11-23T18:36:00Z

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "France’s sports ministry rules out facial recognition in 2024 Olympics and Paralympics: report"
+    excerpt: "In place of facial recognition, artificial intelligence will be used to facilitate security during the competition"
+    publishedDateTime: 2022-11-28T08:11:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/frances-sports-ministry-rules-out-facial-recognition-in-2024-olympics-and-paralympics-report/article66194888.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/frances-sports-ministry-rules-out-facial-recognition-in-2024-olympics-and-paralympics-report/article66194888.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/frances-sports-ministry-rules-out-facial-recognition-in-2024-olympics-and-paralympics-report/article66194888.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 47
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/41sbi7/article66194872.ece/alternates/FREE_1200/France_Paris_2024_Budget_20123.jpg"
+        width: 1200
+        height: 789
+        isCached: true
   - title: "Facial recognition ruled out for 2024 Olympics and Paralympics by French Ministry of Sport"
     excerpt: "A bill dictating the Games organizational plan totally and explicitly excludes facial recognition technology from the event."
     publishedDateTime: 2022-11-25T21:53:00Z

@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "2023 will be year of ‘hope and focus’ for AI, says PepsiCo transformation leader"
-    excerpt: "The year in AI has been aspirational but ultimately unsuccessful, says PepsiCo's Athina Kanioura. But she has high hopes for 2023."
-    publishedDateTime: 2022-11-23T16:36:00Z
-    webUrl: "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/"
-    ampWebUrl: "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/PepsiCo-Products.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "PepsiCo exec says for AI, 2023 will be year of ‘hope and focus’"
     excerpt: "When it comes to artificial intelligence (AI), the past year has been aspirational, but ultimately unsuccessful, says Athina Kanioura, who was named PepsiCo’s first chief strategy and transformation officer in September 2020."
     publishedDateTime: 2022-11-23T23:36:00Z

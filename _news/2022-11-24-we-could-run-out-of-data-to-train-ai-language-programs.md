@@ -34,7 +34,7 @@ related:
     provider:
       name: ia.acs
       domain: acs.org.au
-    quality: 37
+    quality: 41
     images:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/ai%20golden%20age.jpg"
         width: 1050
