@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Attack of the Killer Robots"
-    excerpt: "Imagine you’re living in Kyiv, a city that has been relatively calm for most of the war in Ukraine. One chilly morning, you’re awakened by a faint buzzing"
-    publishedDateTime: 2022-11-23T07:09:00Z
-    webUrl: "https://www.counterpunch.org/2022/11/23/attack-of-the-killer-robots/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 39
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2022/11/MQ-1_Predator_armed_with_AGM-114_Hellfire_missiles.jpg"
-        width: 1134
-        height: 765
-        isCached: true
   - title: "San Francisco Police Want To Use Robots to Kill Criminal Suspects"
     excerpt: "The San Francisco Police Department has struck out a line stating, “Robots shall not be used as a Use of Force against any person.\""
     publishedDateTime: 2022-11-23T20:32:00Z

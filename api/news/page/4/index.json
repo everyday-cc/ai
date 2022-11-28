@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-22-beyond-the-banhammer-how-ai-is-changing-content-moderation.md",
+      "title": "Beyond the banhammer: How AI is changing content moderation",
+      "excerpt": "NLP can help manage player-generated content at scale to increase retention, promote positivity, and build a fun game community.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/",
+      "originalUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1219162009.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/amp/",
+      "publishedDateTime": "2022-11-21T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028.md",
       "title": "Machine Learning Operations (MLOps) Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028",
       "excerpt": "Nov 21, 2022 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Research Report gives detailed facts with consideration to market size,",
@@ -161,8 +213,8 @@
       "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
       "excerpt": "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ...",
       "sourceUrl": null,
-      "webUrl": "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
-      "originalUrl": "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "webUrl": "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "originalUrl": "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -181,11 +233,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T09:00:00-08:00",
+      "publishedDateTime": "2022-11-21T08:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX31 Denver",
-        "domain": "kdvr.com",
+        "name": "Wane",
+        "domain": "wane.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1146,59 +1198,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-meta-trained-an-ai-on-48m-science-papers-it-was-shut-down-after-2-days.md",
-      "title": "Meta Trained an AI on 48M Science Papers. It Was Shut Down After 2 Days",
-      "excerpt": "Jackson Ryan is CNET's award-winning science editor. He used to be a scientist but he realized he was not very happy sitting at a lab bench all day. Now he has the best job in the world, telling stories about space,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
-      "originalUrl": "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/26630fc359684535ecd755882414e1366946848b/hub/2022/11/19/fbd72c6a-b611-4155-8538-8097c4de73e6/galactica.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
-      "publishedDateTime": "2022-11-20T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Google AI"
       ]
     }
   ],

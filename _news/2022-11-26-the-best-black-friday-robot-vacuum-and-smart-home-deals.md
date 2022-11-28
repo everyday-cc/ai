@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
 type: article
 quality: 89
-heat: 131
+heat: 129
 published: true
 
 provider:

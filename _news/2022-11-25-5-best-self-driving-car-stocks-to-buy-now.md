@@ -24,22 +24,6 @@ images:
     height: 555
     isCached: true
 
-related:
-  - title: "Self-driving buses to be tested in Israel"
-    excerpt: "Vision is to turn Israel into a world leader in autonomous public transport pilots enabling Israeli companies to become global leaders in this sector."
-    publishedDateTime: 2022-11-23T07:34:00Z
-    webUrl: "https://www.israel21c.org/self-driving-buses-to-be-tested-in-israel/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 24
-    images:
-      - url: "https://static.israel21c.org/www/uploads/2022/11/shutterstock_autonomousbus.jpg"
-        width: 1600
-        height: 898
-        isCached: true
-
 secured: "IVfJBVJ031d1io2tZUs2WT43dl/4DbVgs9d0DtUx/7ndfes6UJArj/JEdXTPTa0OI2iYv4JWGoMkestqx8fpwN61aSL7Pqk3wJpSH5FcplOkCmwzCURfACZMhUoCFAbcOktLM8/pDUeeuvd1fKojTi2k+P00Ea175wLIddldyIkUdWokBETycfOoicO401DJUrSLvxj5OG3111YcxJjlGBcxoBBe+UK3NGRqauzyGj3QBqFyEzzmzNyHn5FOTYXdeeB31/hEkWdFcIYag9PFAVf8h7Hc14/sNcmUq0NgKc1CziKsfhrP0vNyXFAHbjopIFIz9IyrtGrj0TIHv9Ea4Fz1ZU0fLO5ydETuaTmIhDiYIi+JHnHK5mO/OqevyjVMwA9wkyTB//x0NA8HnaKlHhWiNNQDI1jy09QF1QW1aKxPRVpVmCz89gSooiDNX6rKc+vIsa9lJsOCkd/Xb9FsV8GD7B0qnPOGDKLlvk8TFLDB3jmfsX/Q1gPNZNuRMfkSwLZ/o76kBUwp7iE8CCKKCA==;cyfhrTQcIzd5Bba3wEHyhw=="
 ---
 

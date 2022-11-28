@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/2023-will-be-year-of-hope-and-focus-for-ai-says-pepsico-transformation-leader/amp/"
 type: article
 quality: 82
-heat: 103
+heat: 102
 published: true
 
 provider:

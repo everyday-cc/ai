@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-20-meta-trained-an-ai-on-48m-science-papers-it-was-shut-down-after-2-days.md",
+      "title": "Meta Trained an AI on 48M Science Papers. It Was Shut Down After 2 Days",
+      "excerpt": "Jackson Ryan is CNET's award-winning science editor. He used to be a scientist but he realized he was not very happy sitting at a lab bench all day. Now he has the best job in the world, telling stories about space,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
+      "originalUrl": "https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/26630fc359684535ecd755882414e1366946848b/hub/2022/11/19/fbd72c6a-b611-4155-8538-8097c4de73e6/galactica.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/",
+      "publishedDateTime": "2022-11-20T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-waymo-will-offer-driverless-rides-to-public-soon.md",
       "title": "Waymo Will Offer Driverless Rides To Public Soon",
       "excerpt": "The latest reports prove that driverless rides are not safe. At least, at this stage, none of the major carmakers is able to provide a safe autopilot feature. However, everything is changing in ...",
@@ -1127,41 +1180,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-cognitive-stimulation-therapy-cst-and-icst.md",
-      "title": "Cognitive Stimulation Therapy (CST) and iCST",
-      "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers Cognitive Stimulation Therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
-      "originalUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Saint Louis University",
-        "domain": "slu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

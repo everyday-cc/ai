@@ -72,15 +72,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Rise of the robots, AI, and the human partnership"
-    excerpt: "How will America successfully bring manufacturing and production back to its shores at the very moment our working population is in decline?"
-    publishedDateTime: 2022-11-23T08:00:00Z
-    webUrl: "https://www.fastcompany.com/90814605/rise-of-the-robots-ai-and-the-human-partnership"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "Vjlp4my4rY4JYu2K0biKMgAu4GeekQEKjv733xg7jlULSEVEnnbHA9m9yVC0EwcchpIRTkgZtTpGmZ1cYWUqJOOoRY8+KfZbStKX5piqgaTo1wnTdmczZEWj1TnDWoJ9KRlmOq1LN1UoD0BiTCKBpjwJbi4M/iAiNWqLqOjDqLt/Jw6sV/Ohrdx1fqzSUeeCuOaKcZt4saPccs4PWuG2ZFeZ3BeJf8x2FhiAuC1jIeSK2bkBbVj8lRpz1leF5pc8MTg7+5CYAZA/D+y8+WWriMyAAEEPYmIIu9K0swaoXm4eTj6wbgS87c7UFNd+YTPhMGzHsewaF9LvVcN5raL8Z34t/m9f7sSqvIndnyX6Y4o=;j/GRezkuai8ODwT2jmVbUQ=="
 ---

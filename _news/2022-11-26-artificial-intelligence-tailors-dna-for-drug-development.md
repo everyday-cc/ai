@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-tailors-dn
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm"
 type: article
 quality: 72
-heat: 83
+heat: 82
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Rise of the robots, AI, and the human partnership"
-    excerpt: "How will America successfully bring manufacturing and production back to its shores at the very moment our working population is in decline?"
-    publishedDateTime: 2022-11-23T08:00:00Z
-    webUrl: "https://www.fastcompany.com/90814605/rise-of-the-robots-ai-and-the-human-partnership"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "Wkv2UBw7Rcd3cl5e2jsP02MOCk8np6DhlMGcrPxGKQt+QqvlZmK9DqD1JoASc+1pG8GWQaecR/IKt9eCi8KaYGDrCIJ5u1QeYRJq6u/GqxcWDJYMCCVkc3qNuQQQjrjCfvRp2Yr2V7zYL4yYaRTpPxUQVxV+8X71+zlr0zozb6fM/Nkwy+yBfKFIrIDekKrqMa/KINf3zRqQ/7B4dQ4/7JK6HnTs/WAQWmkUwOYhAbwecoSEKy/QgLCkALPtUq7KTp/QmCpGAA26gRrDklmtabQkfcmhbe6QVYyE8CiYwkMe8QH7aTs6arcYMcGF0DpH5KXzpYczthjOMhz/29r4w9HLpXVva8S/WQDo8dKk+D8JIPTPTILBFh2ZmVwBvCee8FVyCyK5m5YIujVjIPncnVhzy514zwCi/w/hqyIMCv5SP7YCyiYhxa6ReTMlmbbRsy2R615S3LBgJdTpajsbCMfFz3A7ryv8K79a6kreEXyAzXG+9/rx7FBeF6XI8dZruK+lx5B8H6bxyd8rhBN5Rg==;KdIDFWIANp2O1u61tM9Kew=="
 ---

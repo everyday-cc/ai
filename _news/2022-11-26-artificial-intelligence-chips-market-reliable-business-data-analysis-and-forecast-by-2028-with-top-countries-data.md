@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Chip Market Size Related To Time and Cost Is Expected To Grow the Industry in Upcoming Years to 2028"
-    excerpt: "Report Pages] AI Accelerator Chip Market Analysis 2022 (Pre and Post Covid is covered and Report Customization"
-    publishedDateTime: 2022-11-23T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2028-2022-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Accelerator Chip Market 2023 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI Accelerator Chip Market\" Insights 2022"
     publishedDateTime: 2022-11-25T12:52:00Z

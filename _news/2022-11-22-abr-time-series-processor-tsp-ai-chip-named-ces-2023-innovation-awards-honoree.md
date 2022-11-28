@@ -2,14 +2,14 @@
 category: news
 title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
 excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-publishedDateTime: 2022-11-21T17:00:00Z
-originalUrl: "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
-webUrl: "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+publishedDateTime: 2022-11-21T16:54:00Z
+originalUrl: "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+webUrl: "https://www.wane.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
 type: article
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: Wane
+  domain: wane.com
 
 topics:
   - AI Hardware
@@ -21,6 +21,6 @@ images:
     height: 342
     isCached: true
 
-secured: "ukDJf5wRSdslrrqpjBqw+AcUEm7SbJB+gEWmKGLJuLXiSicOIVK1HGSjNIt56fXvuwvs4dB9vwqPC0nV8ZzwlZJSji92Cq8kdjYYcafnWqVI+P7g8Pa68n4D3ON+3qtRBbNu6+95NZ5i+01/esvb0IZwyHJJhAZDgXAD7Bpv2hLTvCai+6EevxINUcLEcUhp3YbK6MxNmbTFDqvEctyUyZgmPde+/dN08B2G/AUw4bjyNSt3CTeRRC21NO78Nyj6q8cEATdcWEsDIGL5j8jbOih3uMpgm2s0FioWNVgeHlxLFQthHhommleCK29Dr81qqdzx/S+fE6ebr0m/nLe2aX9i35SGmNbsEC14r65Ivmo=;mL1V0+ejjphCkGYRzsXwGw=="
+secured: "fJFlYqcAo1eMNgWSqYKHV2bbnrJAcOIBQNQbZTruNI6HOLHvzZEos7wfEm/qbsi32cq1t5PsG1OcX0FP30l54wTQMzkB/7kSFzjs9AaQR5JLOYEpgwiGjbUTGHP9IsVOKavywdxSbbk506aOK9KkO59VBsPKAzCDkL3OL2BxLoExnN7uwwTDRJEAZH4rEQ7WkdaaCYtVrTCNOGpA+IAHB7Xd5I9jbYRx/Jmz55s7iUEglfgVcnIUSKw8H3CciwcyzVTkzAblKyKCsGbSaLY+eChCPimcSH1OfMSjpk2W/FDQ/kcNRIWVv6q/Y1b4/EleTmDPquv2NEZSfJ97JcGFqypNnjRpn+7V6O3sf2iwO1I=;vNuMfgGGLHe+ygp1ihS3EA=="
 ---
 

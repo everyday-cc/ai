@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-cla
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.amp.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Attack of the Killer Robots"
-    excerpt: "Imagine you’re living in Kyiv, a city that has been relatively calm for most of the war in Ukraine. One chilly morning, you’re awakened by a faint buzzing"
-    publishedDateTime: 2022-11-23T07:09:00Z
-    webUrl: "https://www.counterpunch.org/2022/11/23/attack-of-the-killer-robots/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 39
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2022/11/MQ-1_Predator_armed_with_AGM-114_Hellfire_missiles.jpg"
-        width: 1134
-        height: 765
-        isCached: true
 
 secured: "5mgoI8er2QN+G8It6OZVRUqnU8qUC3DZWU2ElESp58JsX9df11tJYH5wXHuubyygy+ebtiaCuNnTZa8fRnn4Qzy6D3jCAUJIPd6wWN5isKtlbZpE1yAszdgEHqSrClLPdo8S8N7D0qmD88rJ81FtGH4SD3fCH8rOaUK2WhIIjqYQpxN7XQ1wdcgKyhomCNqPrDnyP3INFufBi6RWFa/zoLfyTYjJvKY1pgJDSNThJWZxkbkPFtwFCkfCUhLv9DEaa9IXwBqqQpwT39toFMH7WNfLjyfoccnV2nhFicYX+FkhAxAExftoqhdw8UJGkfLmI6X7mz/WmhCYe0TW6onowDIoHYpi7NzPpc4079Ri1s67CVV7cPAVP3zCNTyWuVeus8b6rBizLJHnWcgM+mNR1F5Dxe7MPLdhEYSxncMBKli4/Wgl+Vm0gSbPuGsgv/uADj+K2yzx8lFCBtnLVfDi3dCu3er+raopsT2NN84bdvBLKYU9yE9FIa5kE1E7Y1uTPk5GhzwG/ERiCsiMQcwZ1Q==;oHwTv49wCipswtS2Pkt6AA=="
 ---
