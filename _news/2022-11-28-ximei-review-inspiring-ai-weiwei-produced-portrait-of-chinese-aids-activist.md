@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2022/nov/28/ximei-review-ai-weiwei-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/nov/28/ximei-review-ai-weiwei-produced-inspiring-portrait-of-chinese-aids-activist"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Chinese artist Ai Weiwei says COVID protests will not shake government"
+    excerpt: "From his Portuguese home, Ai Weiwei, the high-profile Chinese dissident whose art has often criticized Beijing's policies, said the recent wave of protests would not shake Xi Jinping's government because the police would simply crush them into silence."
+    publishedDateTime: 2022-11-28T19:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/4JzXQiiYgBFZoJU8ke76ndbpXlw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWB3QZJOYNJW5LHEASOY2U5PVE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "nOR5UUc/LJQNrpVG5h0OdYxESDj/QcYyprqJDSocUaru43fELS5oNP8ejBZtpRkzR1TN55Mb+UapATB+gyUYHwfzfN7lcZqmyU/4M+2X1nQ1RCfRxwd6odmybilHAzn7YPLdH26UPdFs17dw6AcQqM3emkJzeC8m9qP/v774EC6tiEWbjJjNHgfymjozEGhHQxUujT0KI6fMQCiLtz6p0pXBwXXxrMqMlkX1hBodBgrWZi4qLCQqwaRRCpJ/WonxZ/KeHCzxz0yHjoKZTNV7PRKZjZrSe5NBs9GNBVP9gKCiT4oMH9irQcRXrgxhMZ5GclSfzAGu16H33MN8hZgSqXiEQjKHNwJ07jFqyBuYYgdJyXScM3esTQBdOo2Hwtqi47RN1362QXsjIlsHjlnrtRhlkOuM1oj9O+52syElCNcoRSod16OFGaqd2W/PSQsphLer1HrclBSpFK1jsgjP3pzfVMz9gKbKEKUAfXT8PPwgabWnGXByo2AWzqXM/iUPi3G5TdO2+OP2i0nZlZsTUA==;bojAqF3JQwleM7zWD1ulRg=="
 ---

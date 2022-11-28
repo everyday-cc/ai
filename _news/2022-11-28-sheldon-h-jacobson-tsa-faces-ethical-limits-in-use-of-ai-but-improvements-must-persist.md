@@ -61,6 +61,15 @@ related:
       name: Hawaii Tribune-Herald
       domain: hawaiitribune-herald.com
     quality: 54
+  - title: "COMMENTARY: TSA faces ethical limits in use of AI. But work to improve the technology must persist"
+    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of"
+    publishedDateTime: 2022-11-28T13:30:00Z
+    webUrl: "https://www.daily-journal.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_5d23d6c6-6d0d-11ed-8644-53d6107213ea.html"
+    type: article
+    provider:
+      name: The Daily Journal
+      domain: daily-journal.com
+    quality: 22
 
 secured: "nki022XS8BK7k3k5pknL1NvA7vsdCaxkTU0YYghaNbOzI8li+FNs9ZcxD/VHUSrkOAeD8IPw/fnASKUohb6yTRLvqjtWqxJHaSPYfBFjLOyQL72jLUpejOznqxsLaJVE4LDKgDC9VPHB7AxDYHsRxo9vELswcindolcBKEQ01fRPNNLJ9anM/Ezpo8n0cYhnBnA3tSbcckuviFwAtsKO+6tVQZdpJiYnwf8qVY7gd3PK29bO11w/RYusC+VZc1sbOx4E/vkPs8n29gouNMRLgxPXv5CZbkhkCkXDaRW3HpcKGnLNm7W/yJIJ/Xvrvybn87kUhc0P9GD/L/igjlLOcK+GHxz5avgSJxBKPJK8pSlHPXnmKHkYinrRCPNBOBLskbE/EYHznePNB6TQzvEeJDUUrtMSPxXb5R8Asme2twOs8tRK/eIBiff0X2YeFMAYc5kwxAlRbIxyPCDgd7npA+LUOGEJhm3z+zUfAioDgr/gpB2hkSBzgdEYMDgFwpdL2nGJkJmzqJ1TJvE9f6Bi6A==;kFbd0r1hftRQJw5+6aeRlg=="
 ---

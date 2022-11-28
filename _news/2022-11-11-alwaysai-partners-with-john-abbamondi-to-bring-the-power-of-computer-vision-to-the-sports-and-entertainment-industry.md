@@ -2,19 +2,19 @@
 category: news
 title: "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry"
 excerpt: "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ..."
-publishedDateTime: 2022-11-10T17:41:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
-webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
+publishedDateTime: 2022-11-10T17:33:00Z
+originalUrl: "https://www.news10.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
+webUrl: "https://www.news10.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/"
 type: article
 
 provider:
-  name: WDAF-TV
-  domain: fox4kc.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "IpRrWEfFaYPJk7lQd4TGlB2O/JB3C+5m6J6/QKFIZzmgRLp+FsgA8fdtRAJrGVDUVsWRvGuAZYQugysxuMZ4Oa4ZTzaTuobevAchcR+KA5HzogGUkC6XziwCl97yXvkkHL3w+y1655iY8R3cnb61QZXh63RaLqwVrNmxWLBbnxkE+YF3Xqn6N+/01gvigFM8trvrLCetso7tTDHXmtNScVHqV6zXydz7pyzLFKVsOM6+PGbEJXvydOp0bjozqxwEt3BLnSVHs0r3EaxcZ8QPm0ZuU2rTetGvERyupgoel0tRwb2MP01OV7EzJSqXg0Nl7KDM591vRhPs4h6ERfoZksqnQ/3KNTx54FPCngS3IWk=;x8TYlaH+xYY6sVjO4ypxpg=="
+secured: "2IPGN/MbW8R23kYPYIOD80iZaiE7IuhZ5jVcN/jdfrEY9Pu0jXHrJgBr9FntcaguxX7/M7Jomg5Pt7tKlUleWzFT/kOkvdggSpL/x8MZmHVwj7jJE9ZWu4jWkEIwGEkP0wm6k1ZQtGANGnfmeB3j8v4BgFfIBWZE1zimnYOqppMXmZQ6kGgs0nJ9rtWEY0mAje0aP4fgHJhXDmK8OcvGSRTn7mnZ5H+iF4OZSXhIs5kRhweVG9Xk1gb0BKAoI6niQA9neX7xbjOXSlawpA9B4dAopAytltBOhOkXAnqb3GNWsdtQuPPU3+SK2vDaW52o/HptIULMZ1n/0XC+XX4cOpMO4bWjYFqSrTTrgACXwAs=;XBj4Xd1Xmc6YLMSRrl/ntA=="
 ---
 

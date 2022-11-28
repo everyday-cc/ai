@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T18:57:00Z
 originalUrl: "https://www.forbes.com/sites/jenniferhicks/2022/11/28/kiva-allgood-believes-robotics-will-transform-shipyards-and-thats-a-good-thing/"
 webUrl: "https://www.forbes.com/sites/jenniferhicks/2022/11/28/kiva-allgood-believes-robotics-will-transform-shipyards-and-thats-a-good-thing/"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Forbes

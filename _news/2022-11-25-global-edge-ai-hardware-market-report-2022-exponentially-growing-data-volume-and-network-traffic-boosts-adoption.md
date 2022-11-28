@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Mobile Learning Market Research Report 2022: Augmented"
-    excerpt: "The global mobile learning market is expected to grow from $42.16 billion in 2021 to $54.36 billion in 2022 at a compound annual growth rate (CAGR) of 28.94%. The mobile learning market is expected to reach $155."
-    publishedDateTime: 2022-11-25T20:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-mobile-learning-market-research-report-2022-augmented-/2022/11/25/9719706.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
   - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
     excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
     publishedDateTime: 2022-11-25T15:57:00Z

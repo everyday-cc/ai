@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-25T15:57:00Z
 originalUrl: "https://www.pv-magazine.com/2022/11/25/greenleap-robotics-unveils-fully-autonomous-robot-to-clean-solar-panels/"
 webUrl: "https://www.pv-magazine.com/2022/11/25/greenleap-robotics-unveils-fully-autonomous-robot-to-clean-solar-panels/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: pv magazine International

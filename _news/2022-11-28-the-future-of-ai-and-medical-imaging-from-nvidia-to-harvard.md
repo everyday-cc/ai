@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia wins award for AI that can play Minecraft on command"
+    excerpt: "A paper describing MineDojo, Nvidia's generalist AI agent that can perform actions from written prompts in Minecraft, won an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS (Neural Information Processing Systems) conference,"
+    publishedDateTime: 2022-11-28T22:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mine_dojo_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
     publishedDateTime: 2022-11-28T18:43:00Z
@@ -40,7 +56,7 @@ related:
     provider:
       name: Human Rights Watch
       domain: hrw.org
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
         width: 374

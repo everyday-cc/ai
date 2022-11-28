@@ -39,6 +39,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "I/ITSEC 2022: VRAI to collaborate with Microsoft on next-gen sim capabilities"
+    excerpt: "VR simulation solution company VRAI will collaborate with Microsoft to provide simulation capabilities to defence customers, the companies announced on 28 November at I/ITSEC 2022"
+    publishedDateTime: 2022-11-28T21:00:00Z
+    webUrl: "https://www.shephardmedia.com/news/training-simulation/iitsec-2022-vrai-to-collaborate-with-microsoft-on-next-gen-sim-capabilities/"
+    type: article
+    provider:
+      name: Shephard Media
+      domain: shephardmedia.com
+    quality: 51
+    images:
+      - url: "https://www.shephardmedia.com/media/cache/images/images/article/react4/edb5d64610f439930a1acb67142e3ee5.jpg"
+        width: 760
+        height: 505
+        isCached: true
   - title: "Lawsuit takes aim at the way AI is built"
     excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
     publishedDateTime: 2022-11-24T14:00:00Z

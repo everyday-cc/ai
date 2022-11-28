@@ -60,6 +60,15 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 27
+  - title: "COMMENTARY: TSA faces ethical limits in use of AI. But work to improve the technology must persist"
+    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of"
+    publishedDateTime: 2022-11-28T13:30:00Z
+    webUrl: "https://www.daily-journal.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_5d23d6c6-6d0d-11ed-8644-53d6107213ea.html"
+    type: article
+    provider:
+      name: The Daily Journal
+      domain: daily-journal.com
+    quality: 22
 
 secured: "8JSJbUS5cAFo5vSSnmPfuEjZb3hwzUT8h10G2mdrOd9q4gFTguPHaOFcCKOOhDgO2K3p/MrzY4tNwwk08IZhYNc9WCYsS+5bnhXTC4j5H2P25hfUtJJigp2KPd54rZhiubogkRHDL2sHCUpXWnY5unZoYp2EpTT1UHGsm5jFNDL7xbHt/SritykqbKkVSAWxmOsM6PmsSnmvREKPLH9mI81In7KH+BM/ANte5Z7+nItcL0b+t4pJgxCmAERSLbAuLdPAf/7Bk3onUwTCu+QbM+oHv70IicUFWa74o+HQfUjay3AMrXWMImo7VFXasVCI3+FabOCjcazHU1JBJ7+D/zhkm9hkTuZtLh2fFgpM4k8=;rCTLNmJU0V1vTHNz5ariUw=="
 ---

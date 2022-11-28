@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "The best Cyber Monday robot vacuum deals"
+    excerpt: "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them."
+    publishedDateTime: 2022-11-28T17:53:00Z
+    webUrl: "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "LG C2 OLED Black Friday deal"
     excerpt: "Just how good is the LG C2? The 65-inch model won our coveted Best TV Award this year. And it wasn't a one off – the 42-inch version also won the Best TV in its size category as well as Best Gaming TV gongs. It also excels at the jumbo size, with the 77 ..."
     publishedDateTime: 2022-11-25T10:01:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T18:08:00Z
 originalUrl: "https://www.forbes.com/sites/rogertrapp/2022/11/28/ai-is-already-more-prevalent-than-we-think---but-can-do-much-more/"
 webUrl: "https://www.forbes.com/sites/rogertrapp/2022/11/28/ai-is-already-more-prevalent-than-we-think---but-can-do-much-more/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

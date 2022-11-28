@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T19:49:00Z
 originalUrl: "https://news.am/eng/news/732391.html"
 webUrl: "https://news.am/eng/news/732391.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: News

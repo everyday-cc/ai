@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T19:10:00Z
 originalUrl: "https://techcrunch.com/2022/11/28/v7-labs-computer-vision-ai/"
 webUrl: "https://techcrunch.com/2022/11/28/v7-labs-computer-vision-ai/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: YAHOO!Finance

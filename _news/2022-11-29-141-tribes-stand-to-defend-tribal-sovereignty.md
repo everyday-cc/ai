@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T16:41:00Z
 originalUrl: "https://rollcall.com/2022/11/28/141-tribes-stand-to-defend-tribal-sovereignty/"
 webUrl: "https://rollcall.com/2022/11/28/141-tribes-stand-to-defend-tribal-sovereignty/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Roll Call

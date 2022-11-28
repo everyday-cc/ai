@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
+      "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
+      "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
+      "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
+      "publishedDateTime": "2022-11-28T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
       "title": "How AI adoption has yet to reveal its real potential",
       "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
@@ -64,7 +118,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -157,11 +211,11 @@
       "title": "Investors Are Losing Patience With Slow Pace of Driverless Cars",
       "excerpt": "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click",
-      "originalUrl": "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click",
+      "webUrl": "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382",
+      "originalUrl": "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1322,8 +1376,8 @@
       "title": "How artificial intelligence is being used to stop retail theft",
       "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ...",
       "sourceUrl": null,
-      "webUrl": "https://www.abcactionnews.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
-      "originalUrl": "https://www.abcactionnews.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "webUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "originalUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1340,13 +1394,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.abcactionnews.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "ampWebUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
       "publishedDateTime": "2022-11-18T07:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC Action News",
-        "domain": "abcactionnews.com",
+        "name": "fox13now",
+        "domain": "fox13now.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1392,59 +1446,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities.md",
-      "title": "‘Full-on robot writing’: the artificial intelligence challenge facing universities",
-      "excerpt": "“Waiting in front of the lecture hall for my next class to start, and beside me two students ... computer theorist Ben Goertzel proposed what he called the “robot university student test”, arguing that an AI capable of obtaining a degree in a same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "originalUrl": "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1143a55bd5f548d54d15ed8041088b5a8bf2f82e/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=7707616aa038a0125e220cf9679ed8a0",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "publishedDateTime": "2022-11-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

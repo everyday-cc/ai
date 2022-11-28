@@ -36,6 +36,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 34
+  - title: "Why researchers are teaching AI to play Minecraft"
+    excerpt: "OpenAI used 70,000 hours of Minecraft player videos to teach its computer the popular game. Here's why that matters for future technology."
+    publishedDateTime: 2022-11-28T19:01:00Z
+    webUrl: "https://www.popsci.com/technology/minecraft-ai-research/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "rg39NT+e9l4s5LhsFD0hOYQuM62B4sLRlNpUuC3d1FjHVEzcSzEUyfIjO53+e+dnMe75v+IRQCyC+oKpv4VwmkiULF5hSPGUNlKfhyiMxHcV5aIb0wcwxAjcwOqAaRUrj3/HglwlI967y9z6kGVDUbJ82hL1tSPdSbWDwjKR9iSiyxg5Cw6uiAbMihSNbVtgHD9H5YBQORkborZyDR5Bg94aqEzhidNktT12lZEspANpxS3gijCJUqsFcVtyJhJ4YBIWq9pXNuXR+Ozi98y8+yypNvsVJUsCwloyVZ58ihM3wvI4nY1GemJUo6T6X0xWQBJKFVdO3xnRs87rjYnc11tyQjfqaux3o46Brj1nYCU=;siiWtUKwIPJg0lJbVIBnGA=="
 ---

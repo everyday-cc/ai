@@ -34,6 +34,20 @@ related:
         width: 923
         height: 519
         isCached: true
+  - title: "New Fortinet service offers next-gen firewall protection for AWS environments"
+    excerpt: "Cybersecurity firm Fortinet Inc. today announced the availability of FortiGate Cloud-Native Firewall on Amazon Web Services Inc., a managed next-generation service specifically designed for AWS environments."
+    publishedDateTime: 2022-11-28T14:00:00Z
+    webUrl: "https://siliconangle.com/2022/11/28/new-fortinet-service-offers-next-gen-firewall-protection-aws-environments/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/03/fortinetlogo.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
 
 secured: "q+QhCp3VIOSEG7KpDve2pCVQ6lSA+ZKLJviCDHKBvJhWQBYIHDHw6BsTUPJ2M7ayEusofPJqySFagusJJ9VXgQYIVvre3bZM/NpvD7wTcx+ncVH3Su57wcoc6QV1x4laK2IYt3mDE9MgKZWS+oeeMvmAGO8dtbRNP9uQsuSDqbMV7CA8RoOsHQzBfuTmZbbzBydst9MsOxjbyvTCEbqvAVuYfcZm/iPb4i576KcyIGIb9E3IyOFKQr/SO97ygYzLlrcB/gmOePYLaQsJbeUMD6648q7CX2RVlKslJI5uXFCNTcKSjVtd3TWcmN3p74qLvyGSWkcpOiAQIPEAYXwmTAZggqig+K3EOHYzZx1v+9E=;dKGe9drcZZXQIaB4ocnS9Q=="
 ---

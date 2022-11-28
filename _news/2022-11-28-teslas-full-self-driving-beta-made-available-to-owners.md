@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla's Full Self-Driving Beta made available to owners"
-excerpt: "The controversial self-driving software not yet approved by federal regulators can now be accessed for Tesla owners who purchased the option."
-publishedDateTime: 2022-11-28T15:18:00Z
-originalUrl: "https://www.motorauthority.com/news/1137969_tesla-s-full-self-driving-beta-made-available-to-owners"
-webUrl: "https://www.motorauthority.com/news/1137969_tesla-s-full-self-driving-beta-made-available-to-owners"
+title: "Tesla’s Full Self-Driving Beta made available to owners"
+excerpt: "The Tesla Full Self-Driving Beta is now available to all Tesla customers in North America, CEO Elon Musk announced via Twitter over the Thanksgiving holiday. “Tesla Full Self-Driving Beta is"
+publishedDateTime: 2022-11-28T14:19:00Z
+originalUrl: "https://ktla.com/automotive/internet-brands/teslas-full-self-driving-beta-made-available-to-owners/"
+webUrl: "https://ktla.com/automotive/internet-brands/teslas-full-self-driving-beta-made-available-to-owners/"
+ampWebUrl: "https://ktla.com/automotive/internet-brands/teslas-full-self-driving-beta-made-available-to-owners/amp/"
+cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/automotive/internet-brands/teslas-full-self-driving-beta-made-available-to-owners/amp/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.hgmsites.net/hug/2022-tesla-model-s_100849982_h.jpg"
-    width: 1920
-    height: 1279
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/11/2022-tesla-model-s_100849982_m.jpg?w=1280"
+    width: 640
+    height: 426
     isCached: true
 
 related:
@@ -256,6 +258,6 @@ related:
       domain: standard.co.uk
     quality: 28
 
-secured: "L8/BzK9s4agoSAcQ6vqIaYT3ZsZSF/r4YyvmhBy3Fs+cj4lX575we5qgWC7abVllbtneZyWNcRq+RXBHraHDijXTaGwCloBE1706iR8L0Oj0KoMgE0p/YD2fgTFgPH39Fev6OGR31Q4OgxdyZRumIRnfB4irHNn5tVxWEkZyssi2a6aTcMYhXVPLYLiDFkRUdVi3/eTLXdkqmdQJUlwlRTp/jmu3TcYAKcIhYJ5eHyEWOtBEM3Ce8RXAQz6V19ny+ZGVN+jyUc6FRmC4Qf1+TKjlSlWgvM11WSJ0lOgX0OW7nqUWkIDrkZYX/Rpr5E/Vl5JA189kG+NnaJZNqowEnPmveYsPq5l/ZQMEHyZktays/CO2yBJGWWKmjRP93xlb9LmwEqhJ306yan054EgMpjI+zJyqWj1AdZoCJ5A/VOsxtzRWkjja0f7Xk6h25Bit2VQqLvRKn5KkCqaV1P15N55sph7jNtVZHN6VjgjdJtTxk59lEviHCs/l/rqreQstsL+Vq6Kgdb0PzKSR09zALA==;7vH4NLJTw2UblGZwUbNQ1g=="
+secured: "hCzsA/7PiCgz8jpH242unoTZu8tnZYtZVoCLfwOBYOzHJuN2HN4NQy2mnciVmXU3j+DG6jMF2R2sjaZ9V7P3a6Wq9I2sBKDzMqo3r4aOSUDBVhwxe3UQLoHu0aMxjI0ZeokKnQs4DuGDkDTYei02YW0G/9SDph6arzouxHjDUThFfDNO5wA21wqnnkFeY4bov4XD1kkS9/NG1MKVLsckMBtu6VUC56x2GmIaaGQhcowliLRboe9R3igxbHuXvv5wjPpX5x7Szt72f0mSn+ZtSNHjhWt4Y9Snt2BLMFqe9kfe+Nu0Tk5uUvIenDPcUloLtP9b9q7hwnvRvZBsQGe/jfmj6zSeRvFKeLGf5vj1GbE=;7qvV8cEQbZtSdla5gZevFQ=="
 ---
 

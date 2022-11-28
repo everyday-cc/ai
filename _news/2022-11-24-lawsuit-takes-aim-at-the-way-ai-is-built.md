@@ -50,6 +50,20 @@ related:
         width: 2560
         height: 1696
         isCached: true
+  - title: "I/ITSEC 2022: VRAI to collaborate with Microsoft on next-gen sim capabilities"
+    excerpt: "VR simulation solution company VRAI will collaborate with Microsoft to provide simulation capabilities to defence customers, the companies announced on 28 November at I/ITSEC 2022"
+    publishedDateTime: 2022-11-28T21:00:00Z
+    webUrl: "https://www.shephardmedia.com/news/training-simulation/iitsec-2022-vrai-to-collaborate-with-microsoft-on-next-gen-sim-capabilities/"
+    type: article
+    provider:
+      name: Shephard Media
+      domain: shephardmedia.com
+    quality: 51
+    images:
+      - url: "https://www.shephardmedia.com/media/cache/images/images/article/react4/edb5d64610f439930a1acb67142e3ee5.jpg"
+        width: 760
+        height: 505
+        isCached: true
 
 secured: "vBPa0JbCAPlo/2EA8eUVDVRsEgLkP5Yhd6ayNaD9fTv9YX6xyg2lGrvvBWF87j3L08ZyzbqkYrkUm29vc/1z0y9NR2MgM9qv8KPnWbJLaN7PC3uetHklroaDqOoGJekOryNdCMq2/+IN3CvjW6ZVRY3+pQOQIe8Z1YhdjIYjidTEziwScKzfM5xCPZgoyKUFpMGq8YbyijLbCxEb6E72w4v3sU7etnMwg/qFMBf2z+PPzGVzy+o0vEoE9j9ZY8ii9D9xSOIkt4tIQR+P2iB1olrXPOo9PkVxMP7NZzMU33Q5P/I4jv0KPN/2s47tmBVLAeizpXQyQcTHinaOssNzzGBZdjVnCrRgQOmWpYg4r3tngzvC9tEvhHIxC0zTYEA5MkmPeq20S9AvJhdIXDLOGK4dCcq5X7YtLQ6XaBOY2N8GUfxaDB+oIKVGh0faGKiudujo7n3soQiqm0IIFC0VVsHMPeQ+SvB14iLIl8Oao8KlU9XRCzp0au1P4ybti+rWhT1Vp2V/iR9PcT7YivM0aA==;Taq3h002r6aCN7ib7D6+FA=="
 ---

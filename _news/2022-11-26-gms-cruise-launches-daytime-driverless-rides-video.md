@@ -22,7 +22,7 @@ related:
   - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
     excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
     publishedDateTime: 2022-11-28T11:59:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
     type: article
     provider:
       name: Wall Street Journal
@@ -33,6 +33,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Slow Self-Driving Car Progress Tests Investors’ Patience"
+    excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
+    publishedDateTime: 2022-11-28T17:09:00Z
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=business_lead_pos10"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 34
   - title: "Seoul opens first self-driving bus route to coax public into warming up to driverless vehicles"
     excerpt: "The locally built bus – which resembles a Lego on wheels – is currently servicing a 3.4km circuit in downtown Seoul. Read more at straitstimes.com."
     publishedDateTime: 2022-11-26T03:48:00Z

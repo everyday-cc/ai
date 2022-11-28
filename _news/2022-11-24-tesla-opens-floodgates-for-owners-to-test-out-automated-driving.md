@@ -67,6 +67,22 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Tesla’s Full Self-Driving Beta made available to owners"
+    excerpt: "The Tesla Full Self-Driving Beta is now available to all Tesla customers in North America, CEO Elon Musk announced via Twitter over the Thanksgiving holiday. “Tesla Full Self-Driving Beta is"
+    publishedDateTime: 2022-11-28T14:19:00Z
+    webUrl: "https://ktla.com/automotive/internet-brands/teslas-full-self-driving-beta-made-available-to-owners/"
+    ampWebUrl: "https://ktla.com/automotive/internet-brands/teslas-full-self-driving-beta-made-available-to-owners/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/automotive/internet-brands/teslas-full-self-driving-beta-made-available-to-owners/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 74
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/11/2022-tesla-model-s_100849982_m.jpg?w=1280"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta now available to all in North America, Musk says"
     excerpt: "Tesla’s Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight. We apologize, but this video has ..."
     publishedDateTime: 2022-11-24T16:06:00Z
@@ -165,20 +181,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1669397710178.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Tesla's Full Self-Driving Beta made available to owners"
-    excerpt: "The controversial self-driving software not yet approved by federal regulators can now be accessed for Tesla owners who purchased the option."
-    publishedDateTime: 2022-11-28T15:18:00Z
-    webUrl: "https://www.motorauthority.com/news/1137969_tesla-s-full-self-driving-beta-made-available-to-owners"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: "https://images.hgmsites.net/hug/2022-tesla-model-s_100849982_h.jpg"
-        width: 1920
-        height: 1279
         isCached: true
   - title: "Tesla's 'Full Self-Driving' beta is now available to everyone in the U.S."
     excerpt: "Tesla's Full Self-Driving set of features is now available to all Tesla drivers in North America, Elon Musk announced on Thursday. There are a couple of caveats, though. FSD is only available in Teslas which have the required hardware,"

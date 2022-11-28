@@ -82,6 +82,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "An AI named Cicero can beat humans in Diplomacy, a complex alliance-building game. Here's why that's big news"
+    excerpt: "In a rare piece of good news from Meta, artificial intelligence researchers at the company have just announced a scientific breakthrough. Their AI program named Cicero can now play the board game Diplomacy at a human level."
+    publishedDateTime: 2022-11-28T20:11:00Z
+    webUrl: "https://techxplore.com/news/2022-11-ai-cicero-humans-diplomacy-complex.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 0
 
 secured: "7Tx8hqAtuWRhYegAnNGBEBY4XI3fzQMoB9GMTVmAA3uCyO8Oc1myWafeJ/tIAmSB5+NrIs0zy7jcqnYw6WHMXRFTr5Jxwm9/aICKLRI7NA27JxK2y22iStkMNv/Zoxn01+eHjr0vXOMg9NY3u0jLKCFCnLWL3xMeU5P8fV6yidh05/wn02AgWQQtko8sTOI9ImzwAbPzl3RwaY25sEVrqDrhaLRR9etSVkaXT+wdFRY1NUQhQgfGRp/Vye6HkINTSmwUWj2924gMxepEUEa9dt44DUjNzcMjJ9cJ6fx5Yz8mrApJFqrmOlmU8S8WExV7aRdFy2gJKJmSz5OHkMMnc4NxPPhklPcrLvdEKnc7MXk=;f/bNEMPYXLbNeevp1aQ69Q=="
 ---

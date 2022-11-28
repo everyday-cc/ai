@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T20:17:00Z
 originalUrl: "https://www.biometricupdate.com/202211/irish-skepticism-of-facial-recognition-use-by-cops-seems-born-out-in-scotland-canada"
 webUrl: "https://www.biometricupdate.com/202211/irish-skepticism-of-facial-recognition-use-by-cops-seems-born-out-in-scotland-canada"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Biometric Companies

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-17-machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028",
+      "excerpt": "Global Machine Learning-as-a-Service (MLaaS) Market (2022-2028) Research report offers in-depth analysis on market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-machine-learning-as-a-service-mlaas-market-size-enables-you-to-anticipate-market-changes-to-remain-ahead-of-your-competitors.md",
       "title": "Machine Learning-as-a-Service (MLaaS) Market size Enables You to Anticipate Market Changes to Remain Ahead of Your Competitors",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 17, 2022 (The Expresswire) -- Machine Learning-as-a-Service (MLaaS) Market [Spreadsheet of 96 Pages] explore investment in Market. It classify how companies deploying ...",
@@ -154,8 +198,8 @@
       "title": "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR",
       "excerpt": "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028).",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -165,7 +209,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T11:52:00-08:00",
+      "publishedDateTime": "2022-11-16T12:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1340,59 +1384,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler.md",
-      "title": "Cost-effective data preparation for machine learning using SageMaker Data Wrangler",
-      "excerpt": "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg",
-          "width": 1553,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T10:16:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
