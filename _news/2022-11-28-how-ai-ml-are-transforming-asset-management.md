@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-28T08:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28"
 webUrl: "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28"
 type: article
-quality: 88
-heat: 108
+quality: 90
+heat: 110
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Finance
+  - Computer Vision
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -40,20 +40,6 @@ related:
         width: 2048
         height: 1184
         isCached: true
-  - title: "Teradata Showcases New World of Cloud Analytics at AWS re:Invent 2022"
-    excerpt: "Teradata today announced it is participating as a Diamond sponsor at AWS re:Invent 2022 hosted by Amazon Web Services (AWS),"
-    publishedDateTime: 2022-11-28T16:33:00Z
-    webUrl: "https://www.datanami.com/this-just-in/teradata-showcases-new-world-of-cloud-analytics-at-aws-reinvent-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2021/02/teradata_logo-300x228.png"
-        width: 300
-        height: 228
-        isCached: true
 
 secured: "LFxclYU5sX7ojX2a+WvJaUDHCfGeauu1u/4jb6awIMu7C8Ty4S9JeBE8EqRAeH1foS1OHuPolVSB7rbWDAdTSb3Dhj/SwB2lMGjjhQXRunYh2ZnDMMRKUe1PUBEK1bt0XMaCQ/HRHk7kJgGLX2H1sIVBx6ahVnB7AC6gAMvf8U0Ey2FCjUjUSFTNs4bdwx89o2ZApKBEkktWJubh3hkcwOqha8RkAPLr2mylhkrQcynh/LoZ5IQkuJPoaBpChMWLMmkOgPqW4rbibbacfWuqFGbyAOdVhXPW9j2mpCLujZ6qCIhT0tAo8bW1EKV2/4+hN5pzYVyy1SIZvhOBfY4wXF4fCR4RQ314XZR+kutV0b4=;Fqb0VTjMLrGinht64JBH1g=="
 ---

@@ -26,15 +26,17 @@ images:
 
 related:
   - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-    excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-    publishedDateTime: 2022-11-28T15:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
+    excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
+    publishedDateTime: 2022-11-28T13:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
-secured: "vtcgEcz/0SYzyMah5dW2UqRtmZ8BcNUM0cW/ufIpXQIuU2VcIwrpmhCHQdG4jFDFSwVweAuzRxlkhxtPgiVoXSQYG58X3qjZ1fdOiqHcTqs3V9CiF4Fq22KcBfgOTjA9EB+qJZ7aj6n5okXbnE7P3sAt9hu9Ap2c9wKg8rG99CLn0EoCjLaPZKoZ2G9Qyx6QXzxR2SgZ0cZNPXc3jaSwr50aYzPNTVAsP8N9RvbFwyLdzzQjqwMi8Sbb10WaFkxWXRrmfJT5G+ZGYs6e1KUTTnjBvSeQyHSL/Cb27TCzPSbS4/J/bBiAHcT9lcrlD7yd3iVkvCCrhc2rtOFSo7hgM1CCNNUx/Hju/BRzLXDWauI=;PDtCeec6JQc8W9+ZelcNMA=="
+secured: "1ZJZuKTyQ90EikCrOkxfCGnTQlrmi4WF8XS2Q6ULZFjMcWQo0ywbgpnTb/gGABik78PavgiGpBoKwllUO63+cZTFsodJrdIoc40H9LTPIDF4efPjFuwtlSAPPmebzHEvmwL9NeUwMAmrYBXeMBWlUedq1dTSKiPCelu+F/T3N+1YeJwuhjtEivWnynD/GmrjTaBcQNdffpncRJ5yr8mH2ICJYsiwn5X0AJzg2JRJ3NQ/RwqKOEap7O8kAFTPtaEKhkwxF0kGWIY1YXnVeCEbSzpwIQcOMrTtLPX0tw/Yeoj3NmgGzYwvRHNEw0ZoXyAzpN1mN1b0/Tv1fw4enEbRN275bwyfi6r1Exl8TVNefP8qzfnO8bUn3dnD+M9N0TrPJpwKspcss2B9DTLt0WXhMN6FSIxDtDuzsNYN1O893WHcVdjhWaxbIv29aXbcH1BQQOHeZo5/YvEfJCfouh7PL+yYB3DIrpxaZ8OOPcN32p33Xoy/BYIVJ+n2nAb9Nlj5R6uI/MPwkx/SgwVTPxc8zg==;Ao/zyY5c4eXiWNiCBwH6WQ=="
 ---
 

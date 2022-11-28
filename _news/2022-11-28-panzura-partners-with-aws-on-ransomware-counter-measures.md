@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252527732/Panzura-partners-with-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 400
     isCached: true
 
-secured: "MRyPrVHmc+IKFC55R0BPlcSn73+LdEHIPLkIgF2pGfSGyIA9Y0Gxh02tq2vw6eqg3goq1x5yExnc71a1rIX/zWuvHA802t63QgqFHJUPm8ht3ipnkAOCuXLJ1yNd4TgB+4C/NqCLJzV8MLoRhchFUGplEcbbS1cxuZZWNFTIG7WXInncRdSfzXqdjpSEEVlIZ4eF44pI73eFmcBBVGW7QKGBq4IbVJbDkKbAIjVhDKofouGHLgPHRRHh84K4a3n1/0yfFjqTQEoxv53XcIr7ibu8hXDN3sBL0sgQ3x2gfEppgIST1cvJQ4D7xJbXy7QWOGFgiczp6eQOyW0NY6ZeUqJlj6fE/a1O2I0CvBKckGU=;fauK3Rax9MBkuplSRggoAA=="
+related:
+  - title: "TCS partners with AWS in new quantum computing initiative"
+    excerpt: "Tata Consultancy Services today launched the TCS Quantum Computing Lab on AWS, a new service designed to provide enterprise customers with insight into what it described as “one of the most promising technologies of the decade."
+    publishedDateTime: 2022-11-28T17:49:00Z
+    webUrl: "https://www.itworldcanada.com/article/tcs-partners-with-aws-in-new-quantum-computing-initiative/515846"
+    ampWebUrl: "https://www.itworldcanada.com/article/tcs-partners-with-aws-in-new-quantum-computing-initiative/515846?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/tcs-partners-with-aws-in-new-quantum-computing-initiative/515846?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/11/GettyImages-1346925522.jpg"
+        width: 788
+        height: 443
+        isCached: true
+
+secured: "xoQSURAX4iioOH0c+i4O23Dvw0qiRM0svZLrIMfu1C1W9+XGHZSQbDn2shWDklLCNQ3Hkf1jInO6BExaSy/YUvyq81CFhRK5y1n6J2mYswzFSXRVVs6+fOakS7doTiY/ryTyQ9TaqKYe9G7DBZDnAKssJeIc0f/SPPfrbLKqy6ZHMuMlEFBL3zJejMN6ZQ3sO0KdBjHnlnXUCzLjdm7spvddLRqxF5cwu176Jqm5qVwSji+OZnkvyw4fzmSRkHlxhUt4gj7EjF22/RVE1EE91dcBWHm03aQ+ot0pkgZOMI+IkjrlKbFyWKBEwfmqDJV/Z+eaCZW77qlk80BrMlhxHjqo5ZpSQLWx9J0JvkJ+uRslPeOxKD6yYtg3Xuv/f3YiQCqsC0PFEWU9rnFSB/op7YLM+329ShWqNRFcncQPyN841lXDthbA8vL1nZx0udF2QNXMZCniatZ6KQ8k6vqgf7nOLBbOkRd+fhm9pcvUUPLKKEgi7K4Vdxl+CJRwKGdkrJlbYhVlFNppW6EK1jhRSA==;VzTkVckBA0kDPPt9fW5/mA=="
 ---
 

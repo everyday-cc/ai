@@ -9,8 +9,8 @@ ampWebUrl: "https://www.traveldailymedia.com/artificial-intelligence-data-analyt
 cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Travel Daily Media
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata Showcases New World of Cloud Analytics at AWS re:Invent 2022"
-    excerpt: "Teradata today announced it is participating as a Diamond sponsor at AWS re:Invent 2022 hosted by Amazon Web Services (AWS),"
-    publishedDateTime: 2022-11-28T16:33:00Z
-    webUrl: "https://www.datanami.com/this-just-in/teradata-showcases-new-world-of-cloud-analytics-at-aws-reinvent-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2021/02/teradata_logo-300x228.png"
-        width: 300
-        height: 228
-        isCached: true
   - title: "Aqurate, an artificial intelligence-based SaaS platform for e-commerce data analytics, plans to attract a funding round of up to €500,000"
     excerpt: "Money - Aqurate, an AI-powered SaaS platform that support eCommerce companies using their data to grow, plans to attract an investment up to €500,000, part of"
     publishedDateTime: 2022-11-24T09:23:00Z

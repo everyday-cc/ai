@@ -1,22 +1,29 @@
 ---
 category: news
 title: "How Bitcoin And Artificial Intelligence Will Free Your Time"
-excerpt: "Will robots surpass our intelligence and replace us altogether? Will we combine with machines in some symbiotic merge that creates a new super being? Or are machines merely tools that will allow our more fundamental nature to thrive?"
-publishedDateTime: 2022-11-27T02:59:00Z
-originalUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
-webUrl: "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time"
+excerpt: "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet."
+publishedDateTime: 2022-11-27T04:00:00Z
+originalUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+webUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+ampWebUrl: "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
+cdnAmpWebUrl: "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
 type: article
-quality: 49
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Bitcoin Magazine
+  domain: bitcoinmagazine.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png"
+    width: 620
+    height: 409
+    isCached: true
 
 related:
   - title: "This AI-Driven Ad Optimization Tool Will Increase Your ROI"
@@ -36,6 +43,6 @@ related:
         height: 307
         isCached: true
 
-secured: "cCu17mKf8Dvt1L6SBgyDBGaS+jBMNJvSwxiVp8Y8xLp1MmBXBl34yvmPkFeNc2dcsJ3sjJ7FBWOT+XrTSu56Dvt3xftJ7CiNU1q4gKJ7ouK7T04qUujUlURe/LKlmQPqFaA++6r9U2dQWAF7X0+jueV9TGCI9X9Nc3vSY9h8q2qy7c3QzDEfy5f6/cfwiqZnmNIoPCMKRY6zx7Y7ERYdxyq27+sb7eLogI4kR96Q7cEXwnNUEAIYUhUUHMT+FXHQNiVfYEzR6WqzRsB1XnHABSZmiMp+gMX1GP4ZkV5vzhzJBy7aUN7TBgjlICjxUhIQRaT0ea0qVCNJW0C0ME3rHZycsrVRFEQE75lZJvCgyS3T3LoCYCwzHxoASK4+cmIblJZrNB/AH3yAnVYUAE6jkkaPwBR1SudmxBQW7NAR8GuDICy3XcWX8rR2pzQqwSFkfQ8MMofgK/OxmS9nsGEsA0VAMT8YpTl35mE5W1iRectQKaHJJTZaHyqy3cE6sgrtI8KFKFp7ti/o/LAuT08H4Q==;uYOEzVTCIctSOkMRnk8UZw=="
+secured: "C39eLsZE0u4U4vnCr39JH3Vw4yiDeZ/6wWUmRrWjLbhLajD0jNRITU+gHhucamQ0lu2s5/NNRiOq0FBTjrJtSdaqk3bPLzgH/kHbgA8tWPBi0wP2FIlZPqWs0C3C8qqx1giRQavC86ca9SPWn+bbHvn8bPn2xd9tj4w4QznPLqE7AnRB8299sTfFODMQ8y/YWVi1LmuZIQVaRh2caxwdV0tblhP1XkqGsAvIBDWz5u95h17QpGh0q/9TrgWKqcrHN68wbatPqvMUhG9S9sqL/m6FGZ4YfVZ4cOEJwla+Wty7SMlo/FzVqWd+jddqwM1SEH5w5TPzY/OAb7fNfmGLPekWr/sc53haVJpTmZyK3nI=;S5ZvZiIptcQv047fhCqp+w=="
 ---
 

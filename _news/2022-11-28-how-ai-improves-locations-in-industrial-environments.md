@@ -3,8 +3,8 @@ category: news
 title: "How AI Improves Locations in Industrial Environments"
 excerpt: "Indoor positioning technologies are one of the driving forces behind the digital transformation of the industrial sector. The ability to track objects, assets and people accurately and cheaply could save resources,"
 publishedDateTime: 2022-11-28T15:40:00Z
-originalUrl: "https://www.manufacturing.net/technology/news/22578085/how-ai-improves-locations-in-industrial-environments"
-webUrl: "https://www.manufacturing.net/technology/news/22578085/how-ai-improves-locations-in-industrial-environments"
+originalUrl: "https://www.manufacturing.net/operations/news/22578085/how-ai-improves-locations-in-industrial-environments"
+webUrl: "https://www.manufacturing.net/operations/news/22578085/how-ai-improves-locations-in-industrial-environments"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 673
     isCached: true
 
-secured: "U/b3LvPMdT5yn72R0sMo/09mKcZojbbM7YO7PHF/Xap/vKdLh6ImI7lQj+c97XYk55W/LBu/evhs5HwOy6qvimDQ+brSDFQGkkiv2wPtkSD95CQ1KU6DZXS6yyMR26BRODfPs3C+k/tSSyA58LI3D0LEYA1tUrEHWwF4b+D8yn8i9Al7LsSsO1DRjg27r7B+HZM2NL0tLYfhXqm+NnTQu2l0Ac7PwJCdXX/s3+bdETVC9qP74r15nR1gdwAc0yiC9y2YT/mtL8Pbo5H3j5bP3iaMMSe9oGmdOREJD8595yE6SVQ5d3xvKYnBTr3f/qQZ+Fs+IZVxerSXastkpSNkSIL61FKnnn62D8apPrMxTMs=;d1IZxufbUJTaClV4FXMvCg=="
+secured: "450cIWm3u2JnxQsBIIDkUIvkfze0f7jYIKtwr6pfec0qatAcT6HNQXl+JEDzaDLSBv07j5hNcvVfNCHzBaJDxybeQa2u21mDj/AjqTX5vpBygCETt88ZG/mRP27tO/iQLmGCNazV+2x6OmK/5IyJheKxCSP4yWYrOuztN6lR4YihutiWcZNeQfa14XZ9L0Kw8QaH84BFN6CAZuEKn4yrZMIFeNOpK3Pj+SplT2EmhLo0Mkvh/iLqOUU0B9CBKG6Pp8FmzJMqxJXExSG88HIl+qz9rTSWkIoU5rd1AdgBkhs+sHhrZwkgUHRxS5TForoQHoxjQH9BYLVzIYMgw82QxjYUOWeQnHvtrwKk+WLyX7A=;dlSgp+VBTUPChbwltPcVCg=="
 ---
 
