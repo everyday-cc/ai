@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 657
+heat: 660
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 18291324
+  followers: 18298031
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "9WCmcd2vfjwn/aPWbzJwkZfwTeqWdfz2PVo8q9Ce/IBvdmmUKk35VXBJ/2My0XArsF6GrcSnI4DN+ccnOslcfZD4RWrhRz5QGswNipNfxhH6uwx7b2IMLXNKgzAZ5iGODnmmVT7yWrIMNDOZiDsmmjg6kjAj3uiy0Wq/0IZQE8RrFBexrobL8IFgFMeT+KYFv48Jk6KY8bbNzeJa6UDdGgYM9M2EL/x6fVDVuD/fgQgBQoRpxcxxdEQD0fwTyuMKLe92kThxmgDJtcf1B6cjiRFEjzMcNIJ8oTVoZ5+S+8CbHQ3ikmaVakZ85KZPLg4Tbe2hCLpE+byMOnm/qtgEbZiIM14Plc08zXaDe3wapuKZApWmecwl+g9u8ntVFxSkurvAKugnzH1g/Wzr1VEF22512aeIR60ztlsLw6fkpTM=;dk0QoO38VWcnjCX4wdyC7Q=="
+secured: "k+ZuhCtkLV6W6GPfveCPTRpXXkbtzSpw2sAOOvXyA+jseI5C3w6hUJZaZNtZci6FolSv3vSx4hkGYUGvFU37b2YiLQUd3qB1gzzO+2GyxfwNgdrpIMcei4YD+QEog0QZOqodLjhAOFGSSn47iEkvGvvcnNoO6MC0mLFf7PKHhf7m+QdEqsgHWjnfwq2gwS1QaseKLRYTRlNvsEMZOMvAN6EyJoVna5xyAfNFr4rJl/pi6raSubaiBQUrmSB//VuJUj9a7l2HNiqOuQ3GQj+vtVmAdpdpp63FIkOngo3PvMQxxqjuKXdPXAF5alF9dExutg5b+Fa9wwPxdjYORuICD8dZFTtCsncvkq3xbIpDga6RRFl+ep91Eo1oljEKFQ6YI+PfgCUBmlAr9MLv/JgAjrLnUjw/LY0i4Rz+/X+32bY=;sJsskHFne+ddviNyOr3p5g=="
 ---
 
