@@ -3,14 +3,11 @@ category: news
 title: "‘Part of the kill chain’: how can we control weaponised robots?"
 excerpt: "From armed robot dogs to target-seeking drones, the use of artificial intelligence in warfare presents ethical dilemmas that urgently need addressing"
 publishedDateTime: 2022-11-20T15:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
-webUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
+originalUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: The Guardian
@@ -30,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "tYvqJo73ysvauKPyq2rEJlEAigv4Zf0T+gvvuYqZHxV4SS2xm+HluREj7Xu14iye0hHYbOugQfNlW/ykpb6gPZdvgD89DZT8cZPKVCCP+uKI4c4wwfuzHwW7bHkJjXoJcz/RhOyOAbYn4bsbl8H5a0MYG4jXKm8hfEG2t3FB0IV7mh5WCS0l+m+qN9iNoesU8EsMqTLxBIvQmgg3TRf8pqhg71Qt4QEmhX3lEPsy9vmf1Ow8ZphA8FvaaRk6Se5HOfoPnTWiQfpoK4yegpnRb+eOkgeuBuXKoI7nmPV84lk70fJvXPHTYSTGVQV+gXI5dtboO8f3y25V5Euc4FiVV8YKdQbVuhr3mO8OvEH4f19PQH1ur/NDuBdBHT0sCOhC4aqwnydIbZt9J+p4IyaJVyCQZyiwuQ0n+HpT7yBFQMPOTrPWSHeouGCxPWOHsnh4PelZavridMudgv7P8CFeTw8hTHTO7/tLpSDYYTUwZK2jvEka3om0Ic4iqSf31oSNNw3rtNUWmOUS4bS9Ibz9yQ==;Cqh+nruBKTtXQSrh9ApvvQ=="
+secured: "D0rGsEGKCCBKaJZ+nVlRYJu+N0UHYGKbJDghVjHtqeso1ngQCVwX/8hpxRebHuUecxdUeh3nOf8/VbFLJA2NAGN0Vm64lOYUCW/EV9Pka9Jv9I2FHMRgEKf8wHWP63fRAOoAu0rbDYARmutFquacLyWZ+DCA0sldAnHSJEguSnpHsrGdOOLrsLN+1R0s6yoXkvZdHEPmLmDbIIP5QftcjVskvrQul7PN/PsGTVylzrFMIuqSnBRRnxJ/FegWekfu3tg08p1b8b515biHrasRPWg/aPUQPX3j1zXHYGxFSYAxOseduO154TTW0+d0voZQM1ePH3as9LBD7+oPOfCxuQ3TGI3doj7SPcnYNRUUzdE=;BQPo4PuwLM1fZ+TdJFT3eg=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "FREEPORT, Maine — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it ..."
-publishedDateTime: 2022-11-23T16:12:00Z
-originalUrl: "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/"
-webUrl: "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/"
+excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
+publishedDateTime: 2022-11-23T16:10:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
+webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Star Tribune
-  domain: startribune.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1669255131"
-    width: 1680
-    height: 876
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -82,20 +82,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 40
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
-    publishedDateTime: 2022-11-23T14:05:00Z
-    webUrl: "https://www.chron.com/news/article/Facial-recognition-can-help-conserve-seals-17606526.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/30/40/07/23200247/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
     excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."
     publishedDateTime: 2022-11-24T21:49:00Z
@@ -138,6 +124,6 @@ related:
       domain: omaha.com
     quality: 19
 
-secured: "/0ZHwIFBzsrKaaeMQyXBP3PoYFEm6msLupdOt12lLfzJaYiF96B+tY81ROBHT78LXjYyzL2xcIo+wLvXobCtMugh7WtQnHCAMKO0tdQyIekslkp0oIixicq+QRjWYLtaBjcoumCow8/aalFHxsf2yxqac5FpgJ63SHtpN+PuqlwH1xrBk4HzySAilnCVpNMjJW6mRDY0cTu/9qO8qR5689FdRub1MbW3dSSOrsrHZa+0814It4KdhuQB9bS+qG+wV1TjRk3OOWsKxbZ7zr7AjJvG24MRAeRJhgKSl5CZpmE+MhQYiC1hJw6Chmq9pxZtR4GD6hOtNXWzHCLUZasp9XIaU37kR05VXTTgrMNpqpw=;DBd/PDfWskUuN/6dWECvdw=="
+secured: "83R6b/cOaCJyBK1BCfISkwtzGcRML0k5n+cKFvcSRH/1CANOemac/kwGYwiPG0htOdaTOn1phTQP0oUksN1COoPxupTAACJyCd8/lwRdat7EEPuS/iElwZiLMjHVvdf+V6xgYZZnPKURLCQE+e0l23e9kZDcramkjGpprufr982MbukElB77D91goeH2YttteKQ0MUiMSHc97cNy+aPYOUijBM26noAczT+jFjTqa8QLX1mw7VSeFyJmo+2RqM9wH+3skDoNaMFmVdbBEss7hSgjdu2AhrP7MmwLfCts+HJFJC39RLoZU3d7fYzL7izlCRtnMxJtTI7270Ao/vf+OAUO2nVwOimBzBAuEheqB9Y=;q8NPcotymkK2KqIHZLSiAA=="
 ---
 

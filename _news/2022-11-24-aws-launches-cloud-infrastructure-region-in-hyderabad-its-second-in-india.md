@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/aws-launches-cloud-infrastruct
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-launches-cloud-infrastructure-region-hyderabad-its-second-india-170248?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AWS to invest $4.4 bn in India by 2030 through new Hyderabad region service"
-    excerpt: "The Hyderabad region will give customers access to AWS technologies for data analytics, security, machine learning, and artificial intelligence. AWS has previously invested $3.71 billion in local infrastructure and jobs across India. The new investment ..."
-    publishedDateTime: 2022-11-23T13:09:00Z
-    webUrl: "https://www.rediff.com/business/report/aws-to-invest-44-bn-in-india-by-2030-through-new-hyderabad-region-service/20221123.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 17
 
 secured: "fbXwSCMy7N52Gs11kq7ZqfGkf4VfZY3biuK9VThdJLJYn9w0VtZiHz1v610ZLiPa3Ovnc9cl0LZT40p2hFl5iUX0grKFplI3Or4FQl2v6PpOfhzTa7nB5Hv3QGHQUa6JjOtbGXkaArmvybrnMSjYwSBi4rYDnJi7ExiEfvEz3teeIXPtkyaUG7qj2yfdRyMQKdhtkihxlZXbRsiT1+FHudAPTH2d8WJWvqwfEzjirZrSNs/I0o+Ikp4OoearauAR0vnmo90Nealq6rxdmSqpiehQv1aHxBFH/BxOGV2czdTZ93mq7VPAZRzfo68X0XX330BD2KcHX7W4dP/k2MOffxRp7jeT9WWsC14BII0jhcbEe+V+r50reMsRrxgUgtFv+WWUj0+K0+yyoaxsj2VxcZgiz6CUXUPnhAlj7BfdzF6G9T1M97qars20quWQci+MmUSRrhwRMniWa2B9LTp8YT1fP9rX8sTaECqjiAj0ZyvgWeDXl7hpyC4Ai/YbEFYcmpn9sV2A6EkALeAsLJtPiw==;2mONosKYM78IO4/q+Y9vCA=="
 ---

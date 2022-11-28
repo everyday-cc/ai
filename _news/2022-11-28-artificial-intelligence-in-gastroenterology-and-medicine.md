@@ -8,8 +8,8 @@ webUrl: "https://health.economictimes.indiatimes.com/news/industry/artificial-in
 ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/artificial-intelligence-in-gastroenterology-and-medicine/95816253"
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/artificial-intelligence-in-gastroenterology-and-medicine/95816253"
 type: article
-quality: 57
-heat: 57
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-95816253,imgsize-36632,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-in-gastroenterology-and-medicine.jpg"
@@ -25,6 +27,6 @@ images:
     height: 628
     isCached: true
 
-secured: "LaVIJiH40CgwmmmcLLpU0lMNmy91/S7Mvts99a/MzdTf4qwltwfp/yPbgI9mbgQdrkrt0iQCRwCOh7pm6OtMOc3dPsNylWO/l/bbyhwMebNjFECeaJA4rLhCG6rxbWNNq3u+uQ9x/3MhMlUaA7yO26BBuaR/7aOIqxP5cu98jXBq+FTyu0ceh2fvzFcMmR1vCCalIedbBvL6SFhR/mi2KGG7NPJ8oVjTGNElCgl4Prsqkazr/TNYTIWIByYHsxNsmcLl0wAO+wHt6ICnnD/7Z1NDtuLuRLCMDB6xw6H1I5JwzF5y3D3tSBQxfDd5GSuGedplVfF2E4pKOpDmsQTsbAE9O3fAaE/p3hmAEKtPSUA=;9fzZi9kFRBqsbN5r15m52A=="
+secured: "GlIaqwbNrelRrOS+cxAVnUKTE6kpC2ArtqQ3TAkNSLrGyKWdMtYbWHjNggPGZlmiuC2ekGvZXWoMvtoo6IdKeayNgYoGwQzCQHo3LzExLVELhjP1ay98DOT+T5dgF9COSYzQLQgYmLSQxk2ivnktmpaHH9+7vJ+qrLhUoNbI3Wnn7HzJ8Y56dhbwhSgQJA/6tc5i+IYaOSH3mnB01DXNkQYsjiA619JyY2yV+2jST4eAPHkIlUjFmUxbRmI5O/UXyg3E59lk95+MZkcaZKXKS/KM70SB5Y+zvU+422bjaa+bevsS5mNu9/XVcBhhs97KflHWG7c+VzrvHvrbu1LkDtGaUeuxvkCnWElf707G2PmCbp6OtHA8u4rg769Jwl/0I5s8dKf5EW3x6mzQ1IU7WwVJE8MWaHZRr+JXUJ1lbfYWD6oqC0QWarzaDKCLfK3xpgS7vNr3D/gbliqcKkFAX7ss8KZzbOtfZqWoa0HTpW3leu4lhoQ1j5qP4fq6pxb6UKBIAzZOrHwIybr8U1vuKw==;ThE9YmSEOQsENKBQ6RUzPw=="
 ---
 

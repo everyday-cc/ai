@@ -72,32 +72,18 @@ related:
         height: 1080
         isCached: true
   - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
-    publishedDateTime: 2022-11-23T14:05:00Z
-    webUrl: "https://www.chron.com/news/article/Facial-recognition-can-help-conserve-seals-17606526.php"
+    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
+    publishedDateTime: 2022-11-23T16:10:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC News
+      domain: abcnews.go.com
     quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/30/40/07/23200247/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "FREEPORT, Maine — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it ..."
-    publishedDateTime: 2022-11-23T16:12:00Z
-    webUrl: "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1669255131"
-        width: 1680
-        height: 876
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
     excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."

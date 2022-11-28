@@ -43,6 +43,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Seoul opens first self-driving bus route to coax public into warming up to driverless vehicles"
+    excerpt: "The locally built bus – which resembles a Lego on wheels – is currently servicing a 3.4km circuit in downtown Seoul. Read more at straitstimes.com."
+    publishedDateTime: 2022-11-26T03:48:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/seoul-opens-first-self-driving-bus-route-to-coax-public-into-warming-up-to-driverless-vehicles"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 27
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/26/SKOREA-TECHNOLOGY-BUS-063950_1.jpg?VersionId=6NugBvefITLnPT1b860gQVbF8bvC48bT"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Seoul launches self-driving bus experiment"
     excerpt: "South Korea’s capital launched its first self-driving bus route yesterday, part of an experiment which engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
     publishedDateTime: 2022-11-25T17:59:00Z

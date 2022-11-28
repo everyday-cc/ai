@@ -25,20 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Tech & Science Daily podcast: Driverless EVs roaming London | Plug It In"
-    excerpt: "As part of the Evening Standard’s #PlugItIn campaign, Tech & Science daily has spoken with autonomous vehicle company Wayve about the future of EVs in the city."
-    publishedDateTime: 2022-11-23T13:22:00Z
-    webUrl: "https://www.standard.co.uk/tech/uk-london-driverless-evs-roaming-b1042057.html"
+  - title: "South Korean Capital Launches Self-driving Bus Experiment"
+    excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment which engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
+    publishedDateTime: 2022-11-25T12:51:00Z
+    webUrl: "https://www.barrons.com/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
+    ampWebUrl: "https://www.barrons.com/amp/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 53
+      name: Barron's
+      domain: barrons.com
+    quality: 44
     images:
-      - url: "https://static.standard.co.uk/2022/11/23/11/Wayve%20in%20London.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP5816948334682653633411215260991052816010---1.jpg"
+        width: 768
+        height: 512
         isCached: true
+  - title: "In A First, Self-Driving Bus Experiment Begins In South Korea Capital"
+    excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment that engineers said aims to make people feel more comfortable with driverless vehicles on the roads. The new vehicle does not look like a regular bus and has rounded edges as well as large windows that make it appear more like a toy than a technological breakthrough."
+    publishedDateTime: 2022-11-26T06:51:00Z
+    webUrl: "https://www.daily-sun.com/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+    type: article
+    provider:
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 44
+    images:
+      - url: "https://www.daily-sun.com/assets/news_images/2022/11/26/Seoul-ds.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Seoul launches self-driving bus experiment"
+    excerpt: "South Korea’s capital launched its first self-driving bus route yesterday, part of an experiment which engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
+    publishedDateTime: 2022-11-25T17:59:00Z
+    webUrl: "https://www.thedailystar.net/news/asia/news/seoul-launches-self-driving-bus-experiment-3179496"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 4
 
 secured: "zCnKAA1fDYT3hOM8/5qcSnCUnGd+M/TUzYDe5QENOv2/T1+oLdCNu6sfkm/ev/+TqKEzWjlEsVUB3/xSb2/0DiKLSZpaeeiLN7j3vu2X1gkMLQO0notrwAm1Rxt7ezyqqJoI0GeR3GV1DwCHdgV0903LB9FC7p9b0PVwm698sSBr5wy4cEykD+c8yFwi75o6hAkfd2fLPxMOhp8KbW1uIJ4p3kE0C/OgYMGDBhgf2Pc+jX4JQkcRetSIi0ea7cJXOIHr5o6OwaCoIGy9ORKIUINQ6+Qcy8E5Cd4DiPG2gM5Gro+IKzNRucokMzWUDvMiHnVcFnD/Nimg/an3PUUDgbA0YFDTJ3Y5mFQ2187/VApx77wODKOa+Pj7blhGWkZlTeQNZAQUtRblAotmlxCE9pB12VussUtzUDNTRatevw5pY7WYgphbP2Aubu+M0eNoQ7Smq8FfYrN5dLqPx6q+/T8AD8yVXfCXAygdh1vPdikFNr0Jw3nUZWDjhSZY1fVEAyM+xhe6UJToiZ6ftxf8gQ==;nfrN3l5zXPr2zEfkO9blrg=="
 ---

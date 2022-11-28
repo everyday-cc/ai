@@ -83,15 +83,6 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "Meta’s game-playing AI can make and break alliances like a human"
-    excerpt: "Meta has created an AI that can beat humans at an online version of Diplomacy, a popular strategy game in which seven players compete for control of Europe by moving pieces around on a map. Unlike other board games that AI has mastered,"
-    publishedDateTime: 2022-11-23T13:52:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "el7ZzQ7IdIbGl0lL2YOpyAMKXVpwVm3gei8aD04qWik/ESTY02PqSZ4LKxw4K6bTj7tLEyVBcmy0oL7nBJILUNrNTc8zK3cyOJgIJ14Mv4ZhOoRkbXfi2dAVc4RAL5DxwxgIZdpDww7E+6GUpKaVatQEJY7I3H6zEQXQTp4s//yV8H+6/w0WNv2YUA3N0MfLB3Jcx5fLBb8zHHW38HdrVlKdA/pRxEJyDM1y2tMOjmbe823vJpJuLKhDVM9tJcIq5zrCn+erzdjl0ogeVeLiKmeVek0fHYFMjl8PWKp+yXvmQ2vYTKW9BO0o6ozBRYOeB3vg8QebyMp3z7ugvZcihpUGmyjjVT8lc3spGhjg+h8=;icL1N9OZufsQm9QCpODasg=="
 ---

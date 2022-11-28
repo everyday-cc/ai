@@ -24,22 +24,6 @@ images:
     height: 229
     isCached: true
 
-related:
-  - title: "Building an AI-Ready Staff Starts With Data Literacy and Training"
-    excerpt: "Agencies must train their workforce to get the most out of emerging technology such as artificial intelligence, federal technologists and data experts advise."
-    publishedDateTime: 2022-11-23T18:00:00Z
-    webUrl: "https://www.govexec.com/technology/2022/11/building-ai-ready-staff-data-literacy-training/380120/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2022/11/23/112122workforceNG/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "ofxFKHS3PC2BI2JmQd2kvgRUK3PRKQIYLtbbQShPgRp7XlVdkMX5fdlhiQGxY0rDjKP/Nv7lP0tkwnBYM5Kx2BdqWYa1CeO6RKHDSQObWx01Uwg3sLsXz1UulfJHVtljC15hFuPL5LoLMcHh3DwWnCGF4dqHeRrGoMTeQZNXcirMO6lQ4m7ZD7O96atOYNw6HJRJ6wvGHD2BCTVelKam0rvOTMF8a1RIPG3MA7Lp3bHNw0UVcg+MBFol5OyTtkww+S0BTbbnv8lNvTSZQh9iCqVRglwWicYI/QZL6DM+iDkAHN9HsCNdJ1fWFRPVNKoBqbF7cqs5/+1rjI3AIdqxoeoTgmUofyw+5KcW2MkdvGgE2lEqRk9ZET39dG1MkvPU/kZN7xUXmFb5gVwGWHJdUN9t23/JkFDPcFk7C8RfprSEE0KdM0ksXaFp5Tq1o+COqfLalEvlfJeqCxsExjjZ19S0AWedm+RYA8U9OQ3mJK2V0VoSHKoPYmuO/6A8yWlciQ//U0Rq11wtg3kB3V5ZIw==;0G4ojOXyfHsJqgQFqB3mEw=="
 ---
 
