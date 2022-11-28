@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/637e2d8f5e5b4ed672588243/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "KDB/X9fbf0D92hT59zO08iVJ9gdmHHX2zC+8ZweKB/ZGQfNg8cU3V+BPWJzwdLlXUMNZaRxQZwIXa9vbBogc9VaLpQt+DVNYjj0GGFUQ1FF9ts9bKdpSBQAOaHTCciO4ZrFxTMOnnJeU0hac0bW68eeaNweYkI1hyndbTRf5OjODQ4NezJY36DZULqcW/iTwo7iSFE4q8yKzVGXW6LAkEk8tmZM6+C5ew0NFzpaB2uudRXeEItMtoXvf76TNKCCAYo3o+03S4WXsoZRl/N+HwFs4QCKMtZLJzIlZN+SsyWGV8gwAhrEdslxCnpKrcRXLMYtGQpAaSctKY+HsF1Dj3y7HrFLWnf83xyXEanvIcak=;nS5MYsgD5RgK0+ltvY9Qdg=="
+secured: "yjKLE1V4lAzvxNDxT0qfCaTcd3RPZIPhVoC0IJGjHE4lU+4Q80+63vLVpZADWgDLJBFsut7tLxl0CcOpH3uKm1RTfMWo/pmZmMFY0hmNDO3NE9e3sSlsmltLD4b14o0RqlLa6WlGfE5vgxg50l0tl7+AgBm/haaR/JkZSulOibEeqhY5g0xyYajljmUEgkYS3gmqRKyk6xKikIbR2IfRaIlocnVyHqrC7xPUvL6bdZiVc4H1lS7qq50o4rB7mid3FhenqrgjBNTLYcp3wtFF8L26qH6Zom/l2sR0ldrYnOL2p+whPeMtNXUuPSH2QdsJ1CEzzkYI4ORDcw0N1uVWu/C8RtpYIVS2Q9tTGOQ9Aux7CmpuDDVJhK5IBm5iE9ECaV9OPPpK+fJTWGIeMg1NMyj0vw4QkV8upJdh6wJHVQIgQq7S5kbiJr9jhp8nYqjw83eSc1jzqDvaaZSPLDAqmF5YmOAr8pOpGu3hPTb2/46RyqlFphesrOwsz+SMMZs/3KOixHhbNeezg86Tuopi1A==;BhRya5Df/zMj+8YHk2tHeQ=="
 ---
 

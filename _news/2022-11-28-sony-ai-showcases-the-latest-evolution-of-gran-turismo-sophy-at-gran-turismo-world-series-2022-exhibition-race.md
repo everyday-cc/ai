@@ -1,32 +1,20 @@
 ---
 category: news
 title: "Sony AI Showcases the Latest Evolution of Gran Turismo Sophy™ at Gran Turismo® World Series 2022 Exhibition Race"
-excerpt: "Breakthrough Racing AI Agent Races Top Gran Turismo Players in GT7 on PlayStation 5 TOKYO, Nov. 28, 2022 /PRNewswire/ --Sony AI showcased the"
-publishedDateTime: 2022-11-28T11:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-showcases-the-latest-evolution-of-gran-turismo-sophy-at-gran-turismo-world-series-2022-exhibition-race-1031939454"
-webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-showcases-the-latest-evolution-of-gran-turismo-sophy-at-gran-turismo-world-series-2022-exhibition-race-1031939454"
+excerpt: "Sony AI showcased the newest evolution of Gran Turismo Sophy TM (GT Sophy), its breakthrough autonomous AI racing agent, at the Gran Turismo ® World Finals 2022 (GTWS 2022) organized by Polyphony Digital Inc."
+publishedDateTime: 2022-11-28T12:51:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/28/9719852.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/28/9719852.htm"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI Ethics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1956336/GT_World_Series_World_Finals.jpg"
-    width: 400
-    height: 275
-    isCached: true
-
-secured: "lTo1sZpkzLJ8W+lrAZCu1cog8RWZKcq9Cxk+33aQIOvIVa5dzh0bx9zO47kYEtdS0tDJQWeq2HpmVDRSFbNOpGmowBi6kmDqDbEdTuPU4hgtzhgjQ1M33Il+sOrsLiRmPLic9jcRqXPUd/tlzoUWwFSGQtidrVNqaVEslkThtva/1kkhKGJXHp1syHWO1XV7r2h+v44g9tH3U3fua9kaqH6CcOl5DR/eenzI0SVN5+YNmcdfleHhDdbf/RoH5I3PrK+UuPnoSWVQxsb+mkiHXO1n+tEoD0ex7UkXEqzqX2Ori6Ay6KbP0BKSvrjaK4UuKyoSMcTjKdLvB8kac8QxrM1bcLw87HCNR3oczFjyA+Q=;5N5UULTwy2Eb9d5JvmhQ+A=="
+secured: "gTBSVkckUkfkJ2hO+qriz7Uvy/qOgdnL527eNf+NpRLvSf5hXhaufQ+IB0KnEqoasrbp8o+fWhpRvXspcH93maRJ3H1fliGzvXBgtcuVkZIu/OfXHB1nMcz02zD5XsrJLiHDF16oQ1u9CvbS7g+l1zgjTZraL60y2LHjuBH8y2g/sqCBUjMSWUcu1YREH+HKz5pWCqK/wy9MI9Ge61vXUzEqH0rrHfNrdRyujJaQSZRGITV8mYU8/XNR/UiqIZWWE8bJx02e+obQX090lXZgaME9P/l/EfH1tVkh9v0ua53kpgPnKTLcDVAjaIVssMKQWPU7hB5XLeJCSal/QyHCXcfZvU+H4TciudhSmRiLnht6JAHW3gwHgmS9Q8vkkn0jmxM+YazVT6TgozcelLb1zTQASKBqFn0nGWkz7ezmrVqQKxVxH7V5ZN8w1Gd69F6Uhj3iqCOgRZla85PKJskGc2y9dvRfOvepLB1KVoHuowVoTfIyBoe3LEs25DHjArg7jgJu7Mi1s4URiSzKURSnkQ==;7Ou+ex8gzdS0bttEOQMnrw=="
 ---
 
