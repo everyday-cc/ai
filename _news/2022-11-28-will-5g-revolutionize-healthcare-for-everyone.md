@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:41:00Z
 originalUrl: "https://www.entrepreneur.com/en-in/technology/will-5g-revolutionize-healthcare-for-everyone/439957"
 webUrl: "https://www.entrepreneur.com/en-in/technology/will-5g-revolutionize-healthcare-for-everyone/439957"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Entrepreneur

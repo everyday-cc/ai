@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T14:47:00Z
 originalUrl: "https://techxplore.com/news/2022-11-steerable-soft-robots-medical-applications.html"
 webUrl: "https://techxplore.com/news/2022-11-steerable-soft-robots-medical-applications.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

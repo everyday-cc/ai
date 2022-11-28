@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T11:46:00Z
 originalUrl: "https://www.independent.co.uk/extras/indybest/black-friday/cyber-monday-robot-vacuum-deals-b2234409.html"
 webUrl: "https://www.independent.co.uk/extras/indybest/black-friday/cyber-monday-robot-vacuum-deals-b2234409.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Independent

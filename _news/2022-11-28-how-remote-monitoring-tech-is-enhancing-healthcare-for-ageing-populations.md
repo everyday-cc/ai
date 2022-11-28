@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T14:28:00Z
 originalUrl: "https://www.pharmaceutical-technology.com/sponsored/how-remote-monitoring-tech-is-enhancing-healthcare-for-ageing-populations/"
 webUrl: "https://www.pharmaceutical-technology.com/sponsored/how-remote-monitoring-tech-is-enhancing-healthcare-for-ageing-populations/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Pharmaceutical Technology

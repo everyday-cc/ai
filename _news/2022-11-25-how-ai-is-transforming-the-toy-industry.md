@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
 type: article
 quality: 63
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: Impacts
@@ -29,87 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the start-up using robotics, AI, and ‘per plant farming’ to transform crop cultivation"
-    excerpt: "Next-generation technology is required to make better decisions in crop agriculture, according to UK start-up The Small Robot Company."
-    publishedDateTime: 2022-11-24T16:20:00Z
-    webUrl: "https://www.foodnavigator.com/Article/2022/11/24/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation"
+  - title: "How AI & ML are transforming Asset Management"
+    excerpt: "Asset management is the process of managing money by determining your financial objectives and then working to"
+    publishedDateTime: 2022-11-28T08:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28"
     type: article
     provider:
-      name: FoodNavigator
-      domain: foodnavigator.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 88
     images:
-      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/the-small-robot-company-meet-the-start-up-using-robotics-ai-and-per-plant-farming-to-transform-crop-cultivation/15930260-1-eng-GB/The-Small-Robot-Company-Meet-the-start-up-using-robotics-AI-and-per-plant-farming-to-transform-crop-cultivation.jpg"
-        width: 750
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How Is Robotics Shaping Up To Impact The Car Manufacturing Industry?"
-    excerpt: "How is Robotics Shaping Up to Impact the Car Manufacturing Industry? November 23, 2022 by mark allinson leave a comment . The world of car man"
-    publishedDateTime: 2022-11-24T06:35:00Z
-    webUrl: "https://menafn.com/1105226434/How-Is-Robotics-Shaping-Up-To-Impact-The-Car-Manufacturing-Industry"
+  - title: "Artificial Intelligence & robotics can transform healthcare sector in collaboration with humans"
+    excerpt: "Robots have the potential to perform more efficiently in various fields including healthcare sector. Artificial Intelligence (AI) and robotics can play a major role in bringing greater good for the humanity,"
+    publishedDateTime: 2022-11-25T09:19:00Z
+    webUrl: "https://newsonair.com/2022/11/25/artificial-intelligence-robotics-can-transform-healthcare-sector-in-collaboration-with-humans-2/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: NEWS ON AIR
+      domain: newsonair.com
     quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/24/R&AN_8573cimage_story.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Lawsuit takes aim at the way AI is built"
-    excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
-    publishedDateTime: 2022-11-24T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
-  - title: "The morphing world of Artificial Intelligence"
-    excerpt: "For most organizations today, artificial intelligence (AI) has become a core part of their digitalization efforts. From large corporations to small"
-    publishedDateTime: 2022-11-25T04:00:00Z
-    webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 41
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/11/000_32L6823-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "How AI-drawn illustrations are teaching kids to read"
-    excerpt: "That's the breakthrough idea from Daniel Cohen, the Denver-based entrepreneur behind the startup Story Co. How it works: The company creates personalized alphabet and numbers books that include realistic drawings of the family pet on each page."
-    publishedDateTime: 2022-11-28T11:59:00Z
-    webUrl: "https://www.axios.com/local/denver/2022/11/28/two-tails-childrens-book-pet-dog-ai-drawing"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/Hl54hnGjYpisZZCtJri7eROHxbI=/0x2311:5700x5517/1366x768/2022/11/22/1669139139989.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "SIX fintech sectors transforming the financial industry"
-    excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
-    publishedDateTime: 2022-11-25T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/six-fintech-sectors-transforming-the-financial-industry"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/320/a4fba8725189c23bc1c4e561a5e0713d:dc71820e8649a101a4d0de5ee1719096/gettyimages-1381334525.jpg"
-        width: 319
-        height: 241
-        isCached: true
 
 secured: "JXnqirqgYpJnx5GBo7VrpWPb15YJhIr6UmSU/gGd8gDSrECfL/nMDKCOULijcpsr9SXWS0TLhrBMNeZwZKCRcLpFTiFBCJYLtM6dRHKUDjuwsxf2KTsHp9mtZqcre7n3uX+coquKDNgWi/utTQgH3jSFPN+zh+TAM9SuauA7Pale/WJATv5gRo4BC/8lKQYWWUX/iNtQA5doAUolIkGmU9dl6eG2lePiBPosnTB084vPXoxjokj/hZ4w7tmBBV9ldCqHL9BzgeWemROg5j+aQ+Ft9MPcWl8T8eJyNeUnCpBGoW8DR6QriCqW2F0ixQNq/5/ZVqzylSIee0hrdZTZu+y38qtTWd6XzFQEslRm/TojfJwVu06Xlh2vMbpCuhBCWhLsuORfrS8S5cNeIrk3IwE0ve2juEvJDSlRPWSRUUyLDXGpHmEYSj7BHUfMtqzuLNjOsCAn7+CFKYPjql2jwH80L/wjb77iweFR3EDso+dFX4tCkAUazSaMCemIsGAx+AqLDICVTBiss0XeSr6V5g==;r6iOg20STrae3hCfgTXb4A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T11:59:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29868536/verses-partners-with-blue-yonder-for-the-resale-of-adaptive-intelligence-solutions-for-the-global-"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/g29868536/verses-partners-with-blue-yonder-for-the-resale-of-adaptive-intelligence-solutions-for-the-global-"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2022/11/28/ai-is-a-mirror-not-a-master-says-tim-oreilly/"
 webUrl: "https://www.forbes.com/sites/gilpress/2022/11/28/ai-is-a-mirror-not-a-master-says-tim-oreilly/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

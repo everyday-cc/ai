@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/meet-your-new-corporate-office-mate-a-brainless-robot/"
 webUrl: "https://www.seattletimes.com/business/meet-your-new-corporate-office-mate-a-brainless-robot/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Seattle Times

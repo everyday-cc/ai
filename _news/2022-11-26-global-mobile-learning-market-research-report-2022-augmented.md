@@ -18,76 +18,26 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
-    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
-    publishedDateTime: 2022-11-27T02:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
+  - title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
+    excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
+    publishedDateTime: 2022-11-24T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Device Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2022 (The Expresswire) -- \"Face Recognition Device Market\" research provides significant and in-depth information on the global market. This research provides an in ..."
-    publishedDateTime: 2022-11-24T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-11-23"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
+  - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
+    publishedDateTime: 2022-11-25T15:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Intelligent Voice Assistant Market Size, Global Insights and Trends, Forecasts to 2028"
-    excerpt: "\" Intelligent Voice Assistant Market \" Insights 2022 - By Applications (Automotive Industry, Smart Home, Education Industry, Medical Industry, Consumer Electronicss), By Types (Text-Based, Text-To-Speech,"
-    publishedDateTime: 2022-11-25T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-voice-assistant-market-size-global-insights-and-trends-forecasts-to-2028-2022-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Recommendation Algorithm Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "\"Machine Learning Recommendation Algorithm Market\" Insights 2022 - By Applications (Entertainment, Retail, Others), By Types (Service, Solution), By Segmentation analysis, Regions and Forecast to 2028. The Global Machine Learning Recommendation Algorithm ..."
-    publishedDateTime: 2022-11-27T17:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
-    excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
-    publishedDateTime: 2022-11-24T03:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l4-self-driving-vehicle-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-118-report-pages-2022-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "WD/x6Kof9OQY4hvrHTOuq9BrDL587MVbuHMOTe4+xshH4uuSQRM2bUoim137srPutmVkJcnUdu+J7IXW59l0g55TFZDEJ3Sb3xzUjs/aJRK0bda/rS9dfZvUyFFCY5rnYeFCoimPllT1fpJNcPRn/hJfdmPwYLbf1Q/dHUWyR8QsFp+RPD+TeIObSvVZiaLS1sTZ6+4BSjbhjJH8Gg5KPwXgrY1LPy9L2vOwWL8ZKQlWfrULOBG/POyh5WQh6QmvTFcn6c3rPxRmESfi/5EogpuVzrVE0HeNoMu59sAmlqsYfVNM+/IsXC4CGcnB/CjjlNrcHtG82O7zHemhgF3AMoOwYCK1BPcRPayt1nYHFTY=;mXaU32273UbUTEbgnzOlWw=="
 ---

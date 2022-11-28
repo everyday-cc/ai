@@ -7,7 +7,7 @@ originalUrl: "https://gmauthority.com/blog/2022/11/gms-cruise-launches-daytime-d
 webUrl: "https://gmauthority.com/blog/2022/11/gms-cruise-launches-daytime-driverless-rides-video/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
+    excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
+    publishedDateTime: 2022-11-28T11:59:00Z
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-673439/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Seoul opens first self-driving bus route to coax public into warming up to driverless vehicles"
+    excerpt: "The locally built bus – which resembles a Lego on wheels – is currently servicing a 3.4km circuit in downtown Seoul. Read more at straitstimes.com."
+    publishedDateTime: 2022-11-26T03:48:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/seoul-opens-first-self-driving-bus-route-to-coax-public-into-warming-up-to-driverless-vehicles"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 27
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/26/SKOREA-TECHNOLOGY-BUS-063950_1.jpg?VersionId=6NugBvefITLnPT1b860gQVbF8bvC48bT"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "ziBR/F6AizM5rPk3hr7uUQF562ya+tHvVFH2ImZVFbZS786pouQeLAu1y0enikVf8bYjNF56K5ouzkWT7q4QrcfMurx52ikrfAx3Zc1uDNv7yPFkf6V+DKV1UQRIqcQfNkqLbWS5OxJ/Iggv6dWpRZ+9ygvHv/g+16dXN+0V4iMOOejt8VsAan+1svkeEhzaZqzKB9wzQDlyhUgMi8Dg785gMKOu6rzt8xCfeKDDxFnUvD6BFZgyW7zTMQnx7S4oxokAManrzlKqo32dhISA+xRrcyY8asp4x1Rq8C8QqzjVeKGpOM4pv+EtwLx5iaMf3Wt/2Egs4bs7HcFmeLDGLkiAKtAob7Zz/6JaxE24sCQ=;3/uPGj5mHYKDEgo9Fohwdw=="
 ---

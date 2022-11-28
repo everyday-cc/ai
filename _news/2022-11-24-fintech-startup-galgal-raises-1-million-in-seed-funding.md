@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1668486238/ad-drceochl.png"
         width: 990
         height: 550
+        isCached: true
+  - title: "SIX fintech sectors transforming the financial industry"
+    excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
+    publishedDateTime: 2022-11-25T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/six-fintech-sectors-transforming-the-financial-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/320/a4fba8725189c23bc1c4e561a5e0713d:dc71820e8649a101a4d0de5ee1719096/gettyimages-1381334525.jpg"
+        width: 319
+        height: 241
         isCached: true
   - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
     excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"

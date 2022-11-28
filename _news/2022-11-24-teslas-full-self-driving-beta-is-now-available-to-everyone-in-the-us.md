@@ -168,6 +168,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta made available to owners"
+    excerpt: "The controversial self-driving software not yet approved by federal regulators can now be accessed for Tesla owners who purchased the option."
+    publishedDateTime: 2022-11-28T15:18:00Z
+    webUrl: "https://www.motorauthority.com/news/1137969_tesla-s-full-self-driving-beta-made-available-to-owners"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/2022-tesla-model-s_100849982_h.jpg"
+        width: 1920
+        height: 1279
+        isCached: true
   - title: "Tesla Opens Floodgates for Owners to Test Out Automated Driving"
     excerpt: "Tesla Inc. is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
     publishedDateTime: 2022-11-24T13:00:00Z

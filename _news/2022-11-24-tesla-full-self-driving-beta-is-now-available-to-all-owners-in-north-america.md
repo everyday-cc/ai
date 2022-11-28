@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-availa
 webUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/"
 type: article
 quality: 81
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -157,6 +157,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1669397710178.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Tesla's Full Self-Driving Beta made available to owners"
+    excerpt: "The controversial self-driving software not yet approved by federal regulators can now be accessed for Tesla owners who purchased the option."
+    publishedDateTime: 2022-11-28T15:18:00Z
+    webUrl: "https://www.motorauthority.com/news/1137969_tesla-s-full-self-driving-beta-made-available-to-owners"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/2022-tesla-model-s_100849982_h.jpg"
+        width: 1920
+        height: 1279
         isCached: true
   - title: "Tesla's 'Full Self-Driving' beta is now available to everyone in the U.S."
     excerpt: "Tesla's Full Self-Driving set of features is now available to all Tesla drivers in North America, Elon Musk announced on Thursday. There are a couple of caveats, though. FSD is only available in Teslas which have the required hardware,"

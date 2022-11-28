@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:13:00Z
 originalUrl: "https://www.t3.com/news/arlos-most-precise-security-camera-has-had-a-40-price-drop-for-cyber-monday"
 webUrl: "https://www.t3.com/news/arlos-most-precise-security-camera-has-had-a-40-price-drop-for-cyber-monday"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: T3

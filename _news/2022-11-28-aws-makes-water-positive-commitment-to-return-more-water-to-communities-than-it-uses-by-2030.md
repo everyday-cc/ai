@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T07:35:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29866104/aws-makes-water-positive-commitment-to-return-more-water-to-communities-than-it-uses-by-2030"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/b29866104/aws-makes-water-positive-commitment-to-return-more-water-to-communities-than-it-uses-by-2030"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Benzinga.com

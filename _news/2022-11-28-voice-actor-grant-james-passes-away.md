@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T11:59:00Z
 originalUrl: "https://www.animenewsnetwork.com/news/2022-11-28/voice-actor-grant-james-passes-away/.192334"
 webUrl: "https://www.animenewsnetwork.com/news/2022-11-28/voice-actor-grant-james-passes-away/.192334"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Anime News Network

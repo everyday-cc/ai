@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 51
     images:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/25/1ff2a733-6569-42de-89d7-34483fd143dd/thumbnail/1200x630/8b50c3306d81bd7ee8e20e548a0c7b05/anker-eufy-25c-robot-vacuum-header.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Best Black Friday 2022 robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
-    excerpt: "Walmart has some amazing deals on robot vacuums during the retailer's Black Friday sale, Deals for Days . The iRobot Roomba i1+ is majorly discounted during Walmart's Black Friday sale, Deals for Days."
-    publishedDateTime: 2022-11-23T21:26:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 50
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
         width: 1200
         height: 630
         isCached: true

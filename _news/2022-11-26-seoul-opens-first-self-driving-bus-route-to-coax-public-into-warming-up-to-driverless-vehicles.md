@@ -25,47 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "South Korean Capital Launches Self-driving Bus Experiment"
-    excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment which engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
-    publishedDateTime: 2022-11-25T12:51:00Z
-    webUrl: "https://www.barrons.com/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
-    ampWebUrl: "https://www.barrons.com/amp/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/south-korean-capital-launches-self-driving-bus-experiment-01669366509"
+  - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
+    excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
+    publishedDateTime: 2022-11-28T11:59:00Z
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP5816948334682653633411215260991052816010---1.jpg"
-        width: 768
-        height: 512
+      - url: "https://images.wsj.net/im-673439/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "In A First, Self-Driving Bus Experiment Begins In South Korea Capital"
-    excerpt: "South Korea's capital launched its first self-driving bus route on Friday, part of an experiment that engineers said aims to make people feel more comfortable with driverless vehicles on the roads. The new vehicle does not look like a regular bus and has rounded edges as well as large windows that make it appear more like a toy than a technological breakthrough."
-    publishedDateTime: 2022-11-26T06:51:00Z
-    webUrl: "https://www.daily-sun.com/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/658610/In-A-First-SelfDriving-Bus-Experiment-Begins-In-South-Korea-Capital"
+  - title: "GM’s Cruise Launches Daytime Driverless Rides: Video"
+    excerpt: "General Motors’ autonomous vehicle technology division, Cruise, has announced that it is now conducting fully driverless rides during the daytime. Previously, Cruise was restricting its ..."
+    publishedDateTime: 2022-11-25T18:20:00Z
+    webUrl: "https://gmauthority.com/blog/2022/11/gms-cruise-launches-daytime-driverless-rides-video/"
     type: article
     provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 44
-    images:
-      - url: "https://www.daily-sun.com/assets/news_images/2022/11/26/Seoul-ds.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Seoul launches self-driving bus experiment"
-    excerpt: "South Korea’s capital launched its first self-driving bus route yesterday, part of an experiment which engineers said aims to make people feel more comfortable with driverless vehicles on the roads."
-    publishedDateTime: 2022-11-25T17:59:00Z
-    webUrl: "https://www.thedailystar.net/news/asia/news/seoul-launches-self-driving-bus-experiment-3179496"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 4
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 19
 
 secured: "zCnKAA1fDYT3hOM8/5qcSnCUnGd+M/TUzYDe5QENOv2/T1+oLdCNu6sfkm/ev/+TqKEzWjlEsVUB3/xSb2/0DiKLSZpaeeiLN7j3vu2X1gkMLQO0notrwAm1Rxt7ezyqqJoI0GeR3GV1DwCHdgV0903LB9FC7p9b0PVwm698sSBr5wy4cEykD+c8yFwi75o6hAkfd2fLPxMOhp8KbW1uIJ4p3kE0C/OgYMGDBhgf2Pc+jX4JQkcRetSIi0ea7cJXOIHr5o6OwaCoIGy9ORKIUINQ6+Qcy8E5Cd4DiPG2gM5Gro+IKzNRucokMzWUDvMiHnVcFnD/Nimg/an3PUUDgbA0YFDTJ3Y5mFQ2187/VApx77wODKOa+Pj7blhGWkZlTeQNZAQUtRblAotmlxCE9pB12VussUtzUDNTRatevw5pY7WYgphbP2Aubu+M0eNoQ7Smq8FfYrN5dLqPx6q+/T8AD8yVXfCXAygdh1vPdikFNr0Jw3nUZWDjhSZY1fVEAyM+xhe6UJToiZ6ftxf8gQ==;nfrN3l5zXPr2zEfkO9blrg=="
 ---

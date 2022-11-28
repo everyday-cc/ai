@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-25-how-ai-is-transforming-the-toy-industry.md",
-      "title": "How AI is transforming the Toy Industry",
-      "excerpt": "The Internet of things, often known as IoT, is a platform that allows all physical items globally to be linked to the Internet. Thanks to computer chips and other wireless networks, it is now quite simple to transform a massively inefficient thing into a high-tech machine with all of the capabilities necessary to assist in",
+      "path": "_news/2022-11-29-how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang.md",
+      "title": "How generative AI could create assets for the metaverse | Jensen Huang",
+      "excerpt": "Jensen Huang, CEO of AI and graphics chip maker Nvidia, believes that generative AI will be transformational and it’s just getting started. One of its biggest applications could be with the metaverse, which has huge demands for content as developers need ...",
       "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-ai-is-transforming-the-toy-industry/",
-      "originalUrl": "https://techbullion.com/how-ai-is-transforming-the-toy-industry/",
+      "webUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
+      "originalUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://techbullion.com/wp-content/uploads/2022/11/20161005111439-Robots.jpeg",
-          "width": 2000,
-          "height": 1334,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 582,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/",
-      "publishedDateTime": "2022-11-24T21:25:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
+      "publishedDateTime": "2022-11-28T08:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,9 +50,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -301,10 +308,10 @@
     {
       "path": "_news/2022-11-22-abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree.md",
       "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
-      "excerpt": "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ...",
+      "excerpt": "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
+      "webUrl": "https://www.kxan.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "originalUrl": "https://www.kxan.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -321,13 +328,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29807580",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807580",
-      "publishedDateTime": "2022-11-21T08:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "KXAN",
+        "domain": "kxan.com",
         "images": null,
         "publishers": null,
         "authors": null

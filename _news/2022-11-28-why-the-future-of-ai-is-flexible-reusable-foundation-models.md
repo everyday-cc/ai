@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:46:00Z
 originalUrl: "https://thenextweb.com/news/why-the-future-of-ai-is-flexible-reusable-foundation-models"
 webUrl: "https://thenextweb.com/news/why-the-future-of-ai-is-flexible-reusable-foundation-models"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: The Next Web

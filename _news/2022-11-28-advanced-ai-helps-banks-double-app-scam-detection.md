@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:40:00Z
 originalUrl: "https://financialit.net/news/artificial-intelligence/advanced-ai-helps-banks-double-app-scam-detection"
 webUrl: "https://financialit.net/news/artificial-intelligence/advanced-ai-helps-banks-double-app-scam-detection"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Financial IT

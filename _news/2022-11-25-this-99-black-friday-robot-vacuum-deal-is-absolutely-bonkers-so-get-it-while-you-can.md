@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Best Black Friday 2022 robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Roborock and more"
-    excerpt: "Walmart has some amazing deals on robot vacuums during the retailer's Black Friday sale, Deals for Days . The iRobot Roomba i1+ is majorly discounted during Walmart's Black Friday sale, Deals for Days."
-    publishedDateTime: 2022-11-23T21:26:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-black-friday-robot-vacuum-deals-irobot-roomba-samsung-jetbot-roborock-and-more-2022-11-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 50
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/15/17b72b77-96f7-4c62-9bcd-f23ea692ed8d/thumbnail/1200x630/64b29bf5bda41c789292a988c4673861/black-friday-robot-vacuum.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "LG C2 OLED Black Friday deal"
     excerpt: "Just how good is the LG C2? The 65-inch model won our coveted Best TV Award this year. And it wasn't a one off – the 42-inch version also won the Best TV in its size category as well as Best Gaming TV gongs. It also excels at the jumbo size, with the 77 ..."
     publishedDateTime: 2022-11-25T10:01:00Z

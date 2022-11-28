@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:00:00Z
 originalUrl: "https://blog.google/technology/ai/icad-partnership-breast-cancer-screening/"
 webUrl: "https://blog.google/technology/ai/icad-partnership-breast-cancer-screening/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Google

@@ -8,8 +8,8 @@ webUrl: "https://www.carscoops.com/2022/11/an-investment-from-amazon-could-have-
 ampWebUrl: "https://www.carscoops.com/2022/11/an-investment-from-amazon-could-have-saved-self-driving-startup-argo-ai/amp/"
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/an-investment-from-amazon-could-have-saved-self-driving-startup-argo-ai/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "2bGvzWQgcw5oV6aTjGUBkGqhKH5vCaPlUvXfANuOheutMGlmhKlPtN/eFvspfTC45ZZRpPyyrklGgLZuD6pGvOi5G8SwX23WQi+cw3RMC9kFWRHBVWhExGCpdXqa0eooSK4R/dADWwI32k0+KbgwEP0ruwgD9w+Fpg8moO4rjxV5zRNdLGPIMyjrLTaekE+wnk58ZafIgw178jm1mUdLK/xOw3OXS1ZObpb6E3kSzmz8oUW99eWG525G+SfdsWPuCOg1/e6jQ+s6o/qqgR0rr3HWgYuSjS+WEMisMzl/6SYGIxkRz1xkvZre7laBG0gLwTKqPaUjtOkUXwwswIcp3iYFgPCq8F2GAUQqO5yZ2KE=;J8FK18exv8cf5Ox8BWToTA=="
+images:
+  - url: "https://www.carscoops.com/wp-content/uploads/2019/06/7867b05d-ford-argo-ai-third-gen-ford-autonomous-vehicle-20.jpg"
+    width: 1920
+    height: 1281
+    isCached: true
+
+secured: "RM4OZBWCxE8TKi/TL/tY2bArz1Wt1CoT97c50Hpcuw/e2DDCPX4M1QnkcoBrDQwPWlIQUZ8CPDxQsizUUsljoiMgyLfy4w8z/rB/vxdEUlreY1lW0gZBVr8JUBLP9vtyeE4R9GVUSVRvIwsQBsx5Cl1hFIUVGrL62FJI491wRRA0b1kXr2mn0XjyA/cu1RKPsm3/DmD49yHjy4en0pe8B9lSVDp+RtUCuttvenU+d+c2oYPRFuHhMH79jpAB6TPOsJQ3CI1nKj2idUUKh/XHSwhNCm7W9yHtncS5s0uwZaEl9CJb3fGkILFwMK+aST1fDUHA81tD0jjLf6/W+EkUgUGUwDrSZccp5I3oXWcAEQo=;uOjGp9gY+0R5hVTW+FLt/A=="
 ---
 

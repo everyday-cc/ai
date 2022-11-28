@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T13:03:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/tesla-analyst-flags-2-features-that-prove-using-fsd-is-safer-than-driving-without-it-1031939674"
 webUrl: "https://markets.businessinsider.com/news/stocks/tesla-analyst-flags-2-features-that-prove-using-fsd-is-safer-than-driving-without-it-1031939674"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Business Insider
