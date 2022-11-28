@@ -121,15 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Systems in Healthcare Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence Systems in Healthcare Market will have significant change from previous year. By the"
-    publishedDateTime: 2022-11-23T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-size-2023-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
   - title: "L4 Self-driving Vehicle Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 118 Report Pages"
     excerpt: "According to this latest study, the 2021 growth of L4 Self-driving Vehicle will have significant change from previous"
     publishedDateTime: 2022-11-24T03:27:00Z
@@ -164,17 +155,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
-  - title: "Artificial Intelligence in Fintech Market Report 2022: Benefits Including Higher Profitability and Spending Effectiveness Fuels Adoption"
-    excerpt: "Dublin, Nov. 23, 2022 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-11-23T13:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29839066/artificial-intelligence-in-fintech-market-report-2022-benefits-including-higher-profitability-and-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29839066"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29839066"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
 
 secured: "768c8nb48qhtFGxlNSBu97nGsWwsNbtzwCUDO16OQzKKA0KqOb/eguutI8MHNBgfhM8alwUA/zjsYqfcqiEq1XRqMq2GQQDkVGsCcXJ6OYSFjZGMoIOpjnGqohqUZ4tlvqJNtMahvSz0W84NUOPnboQ9hFlW58AVMRwVG2VFbpphGg1P1uFRWX3njfeq7zfxDC7U0f98E0l7a9UrK4moA4hvK71IAomzIhiih1y8gLGsJ/z+td7H5NOZIwtAMktvHjI0RStqp9WZDnvDjp5QXwcQte5kY944r5BwiNK+wOM5J29RF64XpngW3/ZY+gNSHFlsNr2ETMiGH6LpihRxCWY7g1eGwmJOtcXAQ5k4c3c=;SEVtSPkYUu+VOJWHYWXyHQ=="
 ---

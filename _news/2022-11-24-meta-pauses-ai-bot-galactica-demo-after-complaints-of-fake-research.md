@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/meta-pauses-ai-bot-galactica-demo
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/meta-pauses-ai-bot-galactica-demo-after-complaints-of-fake-research-1669222341001"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Meta takes down AI bot after complaints of fake research"
-    excerpt: "In a statement released to The Daily Beast, the Meta AI team said that the bot was trained using \"106 billion tokens of open-access scientific text and data. This includes papers, textbooks, scientific websites,"
-    publishedDateTime: 2022-11-23T12:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp"
+  - title: "Meta Shuts Down Public Test Of Galactica, Its ‘AI For Science’"
+    excerpt: "Science took a usual and unprecedented advancement like the speed of light during the pandemic's first year. In the first"
+    publishedDateTime: 2022-11-23T16:59:00Z
+    webUrl: "https://www.techbooky.com/meta-shuts-down-public-test-of-galactica-its-ai-for-science/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/meta-630x420.png"
-        width: 630
-        height: 420
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1669071192/221121-Tran-Meta-Bot-tease_uhaksa"
+        width: 1566
+        height: 881
         isCached: true
-  - title: "Critics reject Meta-trained AI made to make scientific research easier"
-    excerpt: "Galactica, formerly known as Facebook Artificial Intelligence Research is an artificially intelligent tool developed by Meta that was rejected by scientists as soon as it came to"
-    publishedDateTime: 2022-11-24T13:12:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1012971-critics-reject-meta-trained-ai-made-to-make-scientific-research-easier"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 19
 
 secured: "wAWlZXiE0dL98I7B8zuMDJ+gHiDbKjlZIiE0rTcbTOuidTFPaMRYi5TKGN/wMEtVrhyEAuuxX2MGab3uWMW+Age8KMB1q25uQcNQmso57oho2CPndMwmqTjLBdzOApuysHvxZ9sMjiZxdu1PMkS9vIYnNCcWpwy4+Y4LxQ0q83L8eZuoph4GtVL3+v3EPKf+nIHcAu6e/PLGKzWyuX3yOzQ6+AnJJhQbTPrQ7ayXKzbvDA5WRzrLPEM4CcbIWSC+K2fFWWoixZRMLq5l4p09aaAMfH6fADyo5yqbcm+Y2JVAxHufBPzQsXpM96hU3DLJrEKncJ2mfMNhZOEBbNRhX3zueTv+A/fZnNUGVWB1/uLZUQVazjXtC482h0XVeo3I0j91dq7c7lyoH4y8V9J6fLo4hBoMzOyU74dpfh02/0msBhb/YZThJpe8GL7zCL9UQrQbWgAy874X+1g9NlCG/WdR+Q5yyFpdyhKApsp946RZnRZ9M3tE7z37+b4g5OdsoeyZ0dcbxS717l6yxET6mw==;N0FIDeJHT/6hfqjQkHNENg=="
 ---

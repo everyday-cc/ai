@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals. A research team at Colgate ..."
-    publishedDateTime: 2022-11-23T16:05:00Z
-    webUrl: "https://wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/"
-    ampWebUrl: "https://wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 59
-    images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/11/bc66e5432b204e289959913158659136.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Facial recognition can help conserve seals, scientists say: here’s how"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
     publishedDateTime: 2022-11-24T19:35:00Z
@@ -98,19 +82,19 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "The Next Steps of Facial Recognition Technology"
-    excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
-    publishedDateTime: 2022-11-23T11:48:00Z
-    webUrl: "https://www.ft.com/partnercontent/incode/the-next-steps-of-facial-recognition-technology.html"
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "FREEPORT, Maine — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it ..."
+    publishedDateTime: 2022-11-23T16:12:00Z
+    webUrl: "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Star Tribune
+      domain: startribune.com
     quality: 39
     images:
-      - url: "https://ft.com/partnercontent/incode/img/3/hero.jpg"
-        width: 1920
-        height: 870
+      - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1669255131"
+        width: 1680
+        height: 876
         isCached: true
   - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
     excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."
@@ -134,6 +118,15 @@ related:
     provider:
       name: WPRI 12
       domain: wpri.com
+    quality: 19
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "Anyone can access the link you share with no account required. Learn more. FREEPORT — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of ..."
+    publishedDateTime: 2022-11-24T19:15:00Z
+    webUrl: "https://www.pressherald.com/2022/11/24/facial-recognition-can-help-conserve-seals-scientists-say/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 19
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"

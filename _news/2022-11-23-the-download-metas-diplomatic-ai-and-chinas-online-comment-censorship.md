@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/11/23/1055294/download-meta-di
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/23/1055294/download-meta-diplomatic-ai-china-online-comment-censorship/amp/"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -27,50 +27,14 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI Unveils AI-Infused Diplomatic Charmer Which Stirs AI Ethics And AI Law Into Indelicate Tiff"
-    excerpt: "Meta AI has released a fascinating AI-infused diplomacy acting app that plays the famous board game known as Diplomacy, doing so to a level seemingly on par with human players. We take a close look and assess the AI,"
-    publishedDateTime: 2022-11-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/"
+  - title: "The Download: climate responsibility, and AI training data shortages"
+    excerpt: "The UN climate conference wrapped up over the weekend after marathon negotiations that ran way over. The most notable outcome was the establishment of a fund to help poor countries pay for climate damages,"
+    publishedDateTime: 2022-11-24T13:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/24/1063687/download-climate-responsibility-ai-training-data-shortages/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 92
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637dd91f8792833e25c808cc/0x0.jpg?format=jpg&crop=2117,1410,x20,y37,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "TSA faces ethical limits in use of AI"
-    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of innovation that has the potential to change our lives."
-    publishedDateTime: 2022-11-24T10:05:00Z
-    webUrl: "https://www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/"
-    ampWebUrl: "https://www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/amp/"
-    type: article
-    provider:
-      name: Hawaii Tribune-Herald
-      domain: hawaiitribune-herald.com
-    quality: 54
-  - title: "Optical Chip Trains AI"
-    excerpt: "Researchers develop photonics integrated circuits (an optical chip) to enhance the AI learning process. Training an Artificial Intelligence(AI) system can"
-    publishedDateTime: 2022-11-23T12:49:00Z
-    webUrl: "https://www.electronicsforu.com/news/whats-new/optical-chip-trains-ai"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 34
-  - title: "The Artificial Intelligence and Data Act needs a reset"
-    excerpt: "Have you recently been rejected when applying for a job or a loan, but can’t get a satisfactory reason? The best you’re told is that the decision was automated using “artificial intelligence.” Maybe you’re among the many people who find that social media platforms claiming to use AI recommender systems attuned to your interests push inflammatory but hard-to-resist material?"
-    publishedDateTime: 2022-11-23T19:14:00Z
-    webUrl: "https://www.hilltimes.com/story/2022/11/23/the-ai-and-data-act-needs-a-reset/356482/"
-    type: article
-    provider:
-      name: The Hill Times
-      domain: hilltimes.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 17
 
 secured: "DH3u+DfUuxfUBFCeSIK63X1sieLEpQYN0ipDorDTItLJU+s6tzdjhP9AYQBRrBexprtJRrYphEjWjjWQS3c+D9hedhVGIp9d8PRivAD4WdQzEkze3xAhhwSF/xxYU0rDa0j3F0prbjfERFRfDJ/oavoEtYPXzo/WA3adNW/kD4hFlHn65aEXPSXQm9TbmjQpek5G5e5rpGVgPqxIqQv0bkYrT6mTW4qlcMe/WTUM7iqpnCZD0rjrNCB7s9X/UvHf+suLd/Epn3aPHGMz5D2VavlR+ZjXMdHXWwwrOnKTaVKxaPpU1pagvHTnujbBlq5dYJJ94CwEVCKriQ6ICiacenXjBmBgLwnTGLk7Lr4d/tUDu9pY45MypWL5+qiB7vQkeL/EoO68Zgmpu2D1dbdGqcgx5xTORgT9NkWke+2XUHyndnLr2nJDsuOZ+LWh5zMHNiHB0wBCn4B07rwsZTbjIby107V0gThyWr7cCnt8iZR3Ac4zcHi3acfcwPEuo3OZgyOVzAHAlutV4Bsj2E6OIA==;12XBSsriEF8rbyzESt+V1Q=="

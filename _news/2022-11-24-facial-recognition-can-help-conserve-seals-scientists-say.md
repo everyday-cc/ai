@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals. A research team at Colgate ..."
-publishedDateTime: 2022-11-23T16:05:00Z
-originalUrl: "https://wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/"
-webUrl: "https://wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/"
-ampWebUrl: "https://wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/amp/"
-cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/science-news/ap-facial-recognition-can-help-conserve-seals-scientists-say/amp/"
+excerpt: "FREEPORT, Maine — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it ..."
+publishedDateTime: 2022-11-23T16:12:00Z
+originalUrl: "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/"
+webUrl: "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: Star Tribune
+  domain: startribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/11/bc66e5432b204e289959913158659136.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1669255131"
+    width: 1680
+    height: 876
     isCached: true
 
 related:
@@ -98,20 +96,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "The Next Steps of Facial Recognition Technology"
-    excerpt: "Facial recognition technology has come a long way. The science behind the technology that matches your face with your identity is growing fast and gaining ground. You can see it in airports, electronic voting systems,"
-    publishedDateTime: 2022-11-23T11:48:00Z
-    webUrl: "https://www.ft.com/partnercontent/incode/the-next-steps-of-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://ft.com/partnercontent/incode/img/3/hero.jpg"
-        width: 1920
-        height: 870
-        isCached: true
   - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
     excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."
     publishedDateTime: 2022-11-24T21:49:00Z
@@ -136,6 +120,15 @@ related:
       domain: wpri.com
     quality: 19
   - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "Anyone can access the link you share with no account required. Learn more. FREEPORT — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of ..."
+    publishedDateTime: 2022-11-24T19:15:00Z
+    webUrl: "https://www.pressherald.com/2022/11/24/facial-recognition-can-help-conserve-seals-scientists-say/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 19
+  - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
     publishedDateTime: 2022-11-27T13:31:00Z
     webUrl: "https://omaha.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_cfb3361a-d395-5065-a8c1-e71cd3fa8b9e.html"
@@ -145,6 +138,6 @@ related:
       domain: omaha.com
     quality: 19
 
-secured: "/umWmxQx7ZvAnbI/UBQTzpVy/cDhe120HIpv19Q14kGE3q1+VgfmmFZpF2ip9uO/XXU6s38sI4CynX3NCq4ROmuF+JGBGIptP9UE6IvTj9U6pNYKaO4BjcyzdmtrA5fape6fQ+gKkalPj+KAaegHfrcQ5ws9V6qwickGLIoAHSknJ5SH3mFI3u349YTOq4bB8eYYhl1I3gGN4erfLsZPG0ONMHX5DsXvIISXj8co0dCNKnWtNYV8m2HXXrNqgSPwMsaawOEIZ/XyLPzt+rkiEWOxkjESvIjne9vnR+Nd+oXpLQnDatT4rMz5Y5oNspON9EKGbd9WX1YbAGX48PxCIQ4b8R7uFKLFtXcMwcWjbvI=;x9P1EP9i+cUE0EEH9IyZzA=="
+secured: "/0ZHwIFBzsrKaaeMQyXBP3PoYFEm6msLupdOt12lLfzJaYiF96B+tY81ROBHT78LXjYyzL2xcIo+wLvXobCtMugh7WtQnHCAMKO0tdQyIekslkp0oIixicq+QRjWYLtaBjcoumCow8/aalFHxsf2yxqac5FpgJ63SHtpN+PuqlwH1xrBk4HzySAilnCVpNMjJW6mRDY0cTu/9qO8qR5689FdRub1MbW3dSSOrsrHZa+0814It4KdhuQB9bS+qG+wV1TjRk3OOWsKxbZ7zr7AjJvG24MRAeRJhgKSl5CZpmE+MhQYiC1hJw6Chmq9pxZtR4GD6hOtNXWzHCLUZasp9XIaU37kR05VXTTgrMNpqpw=;DBd/PDfWskUuN/6dWECvdw=="
 ---
 

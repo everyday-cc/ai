@@ -46,31 +46,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 53
-  - title: "Health-tech startup Redbrick AI raises $4.6 million funding from Sequoia India, Surge"
-    excerpt: "The startup, which provides AI solutions for medical imagery, also attracted investments from Y Combinator and angel investors."
-    publishedDateTime: 2022-11-23T11:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/articleshow/95715661.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-741027,msid-95715660/redbrick.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
-    excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
-    publishedDateTime: 2022-11-23T13:03:00Z
-    webUrl: "https://yourstory.com/2022/11/healthtech-ai-startup-redbrick-ai-sequoia-surge-y-combinator-funding"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 17
 
 secured: "qP6mrw6dD2zCOU665UNJwSdC6WBw+alWJR93Odo4is9fN3OW98K7l7Rc7kCCK0ez8jarV5WBaLeNOx9BZNnYASr8/HIu2YAJZ2mn/EpfwiZyPk81gbeiE8ByVRiNi1rH+Fq/IzDuzTpeG55xaai9UkYDTU717eD+pzkpg9tqU1fm3FzNLb+ef5D4V1MZCWPiZhpADYioqQbYt0wleAo6vZaTmRiTYlmRqq5hPjoy8s3bGkRsfHyeHgPp9S6oX4S0xLovPrRxPv2MPkVXvlRM0slXcNw/4UK1UDqAKXM4BqAzBBWS6Z2XVdXhipsPCz5Ki0+45paFh5UEXFC8y76G1zatr0fa1fmGsu9QBlSOyJdwOwNOqD2kOUbS8ItOVzMBNZSz5esbMV3R1fcm4J/agOX6eqTqL6E++KMZDZyibu9QNi5RCYy7mlZ6RRvdJ36gYxDG1CDgTnEYnsYzSM1d6J1gxUOrixOnto50YVvyMrANG5c1iIWBhgO35EZHNeV9R2jzC8U0pvmccrMGIJ2Elg==;Q7QMERkOPqXt2c7cEtn8Ow=="
 ---

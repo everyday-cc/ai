@@ -50,6 +50,17 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "TSA faces ethical limits in use of AI"
+    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of innovation that has the potential to change our lives."
+    publishedDateTime: 2022-11-24T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2022/11/24/opinion/their-views/tsa-faces-ethical-limits-in-use-of-ai/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 54
 
 secured: "nki022XS8BK7k3k5pknL1NvA7vsdCaxkTU0YYghaNbOzI8li+FNs9ZcxD/VHUSrkOAeD8IPw/fnASKUohb6yTRLvqjtWqxJHaSPYfBFjLOyQL72jLUpejOznqxsLaJVE4LDKgDC9VPHB7AxDYHsRxo9vELswcindolcBKEQ01fRPNNLJ9anM/Ezpo8n0cYhnBnA3tSbcckuviFwAtsKO+6tVQZdpJiYnwf8qVY7gd3PK29bO11w/RYusC+VZc1sbOx4E/vkPs8n29gouNMRLgxPXv5CZbkhkCkXDaRW3HpcKGnLNm7W/yJIJ/Xvrvybn87kUhc0P9GD/L/igjlLOcK+GHxz5avgSJxBKPJK8pSlHPXnmKHkYinrRCPNBOBLskbE/EYHznePNB6TQzvEeJDUUrtMSPxXb5R8Asme2twOs8tRK/eIBiff0X2YeFMAYc5kwxAlRbIxyPCDgd7npA+LUOGEJhm3z+zUfAioDgr/gpB2hkSBzgdEYMDgFwpdL2nGJkJmzqJ1TJvE9f6Bi6A==;kFbd0r1hftRQJw5+6aeRlg=="
 ---

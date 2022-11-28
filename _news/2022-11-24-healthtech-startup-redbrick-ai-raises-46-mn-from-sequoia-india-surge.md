@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-ra
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/healthtech-startup-redbrick-ai-raises-$46-mn-from-sequoia-india-surge-1669265213432"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -37,22 +37,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 53
-  - title: "Health-tech startup Redbrick AI raises $4.6 million funding from Sequoia India, Surge"
-    excerpt: "The startup, which provides AI solutions for medical imagery, also attracted investments from Y Combinator and angel investors."
-    publishedDateTime: 2022-11-23T11:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/articleshow/95715661.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/health-tech-startup-redbrick-ai-raises-4-6-million-funding-from-sequoia-india-surge/amp_articleshow/95715661.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-741027,msid-95715660/redbrick.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "RedBrick AI raises $4.6M to ease AI development in the healthcare sector"
     excerpt: "RedBrick AI announced the funding round today. The lead investor in the round was Surge, a joint venture between Sequoia India and Sequoia Southeast Asia that provides startups with funding along with other resources such as access to business workshops."
     publishedDateTime: 2022-11-23T19:01:00Z
@@ -62,15 +46,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
-  - title: "Healthtech AI startup RedBrick AI secures $4.6M in seed funding"
-    excerpt: "Healthtech AI startup ﻿RedBrick AI﻿ announced raising $4.6 million led by Sequoia India and Southeast Asia’s Surge, along with Y Combinator and angels"
-    publishedDateTime: 2022-11-23T13:03:00Z
-    webUrl: "https://yourstory.com/2022/11/healthtech-ai-startup-redbrick-ai-sequoia-surge-y-combinator-funding"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 17
 
 secured: "h3BmnOL1juMo1VLUhsql6S+y1dwHXQo0vQs6J98JWjCm1n2y2dvreU2/9Bb4LtIF9V33VywTyDdvWZYjgVaIhKn6ht0Jl7j9pCoM0GFm0LFN/bGzKS5HPLNwF2PxUnME1EapoJvMilJ9LFEml4ZpG1G9BlN0uKuwWpk4wpayQrMDYw2nylCvpHN/MR7LT3Zuky2n0HIcqs7RnV1f/N7lKmcWImprZEd79BtsCBCkzy/H3Z1Z6SrHat0NyXJ9Doog7jIIiyqWzIJe0sHfwPQcW0Rw/RFYzHzpzeJkOzhzHeRRFuWdwOE0mkvH8hp0pHgRCFaH4LJsM+Zz181uPKUaIsLXGSDicWxIQIgYC54RDF4=;24tEAEJbKYIND17j1CkcyQ=="
 ---
