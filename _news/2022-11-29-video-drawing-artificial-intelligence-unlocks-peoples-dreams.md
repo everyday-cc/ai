@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.err.ee/photo/crop/2022/11/29/1697710h0216t24.png"
@@ -23,6 +24,6 @@ images:
     height: 420
     isCached: true
 
-secured: "MVYLH/JY1NfEGIpUyqGsni65LXfZGY9cKz1eKVaLLs2EvZMY2Cgc6tLXyMTSTVkP8AIVzg9fRnBO6qgy846STsWlqWJ8EBK90g69HdV7BQlpKs+0vM0JoD74jOcSzLrnH57RgwTr+ZepbR4eQHPiLXO5KQlRDKH8oNEIXJmJcNqQhIUJuOcF0RCycuW0r5Jlo0ynOrkog0Q3rWF6d4qD64ykbx1fh+DCE/enBzWyU0+dM/gPWqYzWf9uxlSQ8PAkpq495eIMrQWXhp14bGshg9TDCJtkGb0y7KtWJVUSzIeQ9h7LFXZ9Tp97AFtZjtNt/eeTYAZ3dcS1uO3QlsTW5ms0G29hP2Wq2z8+NoePgaY=;T1eubnqgQw22cCQ2A0Sb7w=="
+secured: "V0JvM7dg4HDzzvgGP6Ck5Na5Xmy7zwiWT4kUyiYfr2Rmi0cvH1HYdHUSEVxKw67s8zp4NBoGYi1gT6AbTD+uLAmdOnNKnsrC47euKUPQLaVQKeEXr5yvpbLa7dwVj6HfGFtawfeeWLCm0NXl4TVvEy75NwLrT/aAu7StUsn/C3GDTJBbbrB1zv8qs4gnfHBkGEKURJfY8huynJWiuJ6H+eE6xRRbnsXB/O+re9sE0auColXontChEby69kGIOfCxAx2pbh3MdZFlyLb2Rt90XjXDJvQx6mo8m63/z21aRdThDQbchwGeJCfo540N85G/CuceMxwPWWEsRkVpomd/dxroD0Zrz8kgLO4iA0SX6+dkyAzkpJJskRmUaD4QM+d1O9eWurW2zJvgjWvZqSmOf6OCr7FlAoHeXBvsveZWSGqHu8SeiyNUcPEL11kxGlpuUtaz2+K3EvYnnneZH4L4N3T/FcIsf3Ojopcu6+z8OTACbI+QWcmYQymdD0RVYsjxVyh86IzDvBVoJY0Jf7X8RA==;Pdq3lhvdJZn/wuI9SIObkQ=="
 ---
 

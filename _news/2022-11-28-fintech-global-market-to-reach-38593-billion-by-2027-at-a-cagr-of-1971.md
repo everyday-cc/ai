@@ -1,41 +1,20 @@
 ---
 category: news
 title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
-publishedDateTime: 2022-11-28T13:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
+excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
+publishedDateTime: 2022-11-28T15:03:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
-    excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
-    publishedDateTime: 2022-11-28T14:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-multi-cloud-networking-fintech-market-reach-19-bn-/2022/11/28/9719932.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "MqTGwCBaF9dUmmHTaWlkBsPCc9fHOw3Z5VWmpnvB+vJlHXnkMI5EBtMgP1HfFKJ+L3ZWmbF22254TjbHb6lBQ0odOEgiDPNEq5EcN4WMnnUQtdCe/pRzIlrPK9TaQ6yGXaC1wD7wbE36qk9zcaLoPZvDf65PJi1QKjhPYM/uN1Cr20+xUT1W0w5QoC3PACKtfKUKB2KOBsdyxobEc13mEHxf1KD40ayWKew1CxH41HrrdGp8t8J2dJtUXa4FTWLDi7u8u0xdzMg79n0qV1pWkm6swTR/gIT7JRDq0rlFlfkTFTnVPIhmLjm78i9snSHy5jSK17YqehSbd6NixIdcLAUfFcSKHipXT1RzZQ6WHIs=;gBvFRUm5XKzn3StsHQRUwQ=="
+secured: "q/Hspfk7JgXdh18I8/uBHrovuZ3Y3/4LIIbuVRB8pg3lChFifhr2LVdJm/n1pZf/lEdCNvxnspafaXIVDr4LbSSMFM7LUYHhZI31iFprC6eKQ0elQfoZ2b9lwl1YScU275lN6GfQhO16+L4avIiL2B9SDLpzvjUnwgwnSf/86id+mZd2wIDXNIlrfmiW3yUOy7UybyTKamQNdVkBOpVjy9vkBh3PIxQJrai6rTklao10hc4kb06goqIU6bZP2z4GCmbFPulqGIjbBhUe91KdlD9jVvGOl7CnXcyycMf+4Wxzq/qawVseZLjs/hPqYHXnc8USUwXb3AWKU5UuAngyYcmDuT4uC3iPuJntmvJgRgY=;Mf7hGs1gTcBSwFIXMoqMJw=="
 ---
 
