@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/organ-donation-heart.jpg"

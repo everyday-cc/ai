@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/11/CBACA0EF-76D0-4D04-A449-ED38B04ADAFF.jpeg"

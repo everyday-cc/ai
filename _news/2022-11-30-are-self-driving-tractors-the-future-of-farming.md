@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Are self-driving tractors the future of farming?"
-excerpt: "Mitchell Hora, a farmer in Iowa, talks to Here & Now's Scott Tong about how much of farming is already automated and why he thinks it's the future of farming. Mitchell Hora is one of the hosts of the podcast \"Fieldwork."
-publishedDateTime: 2022-11-29T16:38:00Z
-originalUrl: "https://www.wbur.org/hereandnow/2022/11/29/self-driving-tractors"
-webUrl: "https://www.wbur.org/hereandnow/2022/11/29/self-driving-tractors"
+excerpt: "John Deere is planning to start selling its first fully-automated tractor this fall."
+publishedDateTime: 2022-11-29T18:52:00Z
+originalUrl: "https://www.boisestatepublicradio.org/2022-11-29/are-self-driving-tractors-the-future-of-farming"
+webUrl: "https://www.boisestatepublicradio.org/2022-11-29/are-self-driving-tractors-the-future-of-farming"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: Boise State Public Radio
+  domain: boisestatepublicradio.org
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://media.wbur.org/wp/2016/06/HereandNow-3000b.jpg"
-    width: 3000
-    height: 3000
-    isCached: true
-
-secured: "gwqMRQytLcQFwBJU5z6TsLWeFeaKpp2YwSfwfNSR1JJ722nXB8k8MYtBCG24tnm9kOLZIuu/u7FfAZTs2Lz++P/HpIwwFgs2dpaKPjjpLx7/Kugn+qlVaEPSKzv18ZFAmF94sSWhlSobyzXlJ3NFpsATJ7UtnQ/IR/vxZKfqpMkeAZa2QWab4eYtD1WJN4zq0bwi0oz8VMtKxAqwxy4zTXbM4qANiD7n0URBZlCsRBDLbk41fgkBSc1ObtrJuw20eRWnvxe5ZqSUUcVZYolZsH2m+GD6mDQQnYwUxpyMwuqIGnP2X2bvnrULS7LiqQ8W4a8r7tvevzD5Hnb5ki2DbIGZ6xBTUTUV3R/bBjWqCl0=;lyg/+sH//ODKGgowCkA2Hg=="
+secured: "v+1XwH7XFHlrLeaMnHcj6GwU7xjiKcC8T572kEyXOjuZuQkg5eH7T5k7Pi8Khk3hErRxuHEXDDWGoqeSDywptpD5XbYlgo0OWjdzTX/RQQRnGgdnljRfPcawHBRgjO5DvbzrMyz2oWY96lJ7leACOQX2bNrxmq/MONzbvcbKlOA1f1Ze8UDQ3D83gE9v3iYOaxE9HsX3m27TXPtsiDYxQqeXfFUTMLrOwFM4MubyxfDZVw+IfK1SmxeHaDaIiBi6zcnSxdoNsDuLwLct9mt7C2OrzUPOVw2JzmSaQzl1oSjctVDfWPQsnkdNxXFKUt8H0E+4ITHcfjTpkwwKnkLR3EF6RNe6PUtPOoozGwbwzRQepuEeDT9jRlu9MpY05Jo8VSHCF47n6mz+OQapqJqzm9QVsYE4ynVXrp6tlGVPuXNjLtElL4wWacUu1Yvo7hKf5INO5WPnUFT72NemMkWuRfAEvnBOG4r0qFeZqiWzpkmaSY66Gzw4kJbEw0it92Gcbji8IzOjdYEk/11lUvjWHQ==;aJJym6SGbgAOaKrWbWO3CA=="
 ---
 

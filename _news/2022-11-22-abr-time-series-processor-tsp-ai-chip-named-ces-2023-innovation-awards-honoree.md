@@ -1,26 +1,20 @@
 ---
 category: news
 title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
-excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-publishedDateTime: 2022-11-21T16:47:00Z
-originalUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
-webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+excerpt: "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ..."
+publishedDateTime: 2022-11-21T16:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree"
 type: article
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png"
-    width: 608
-    height: 342
-    isCached: true
-
-secured: "dPBdOvFb1oFS2pAoTaeLUjxcL+3Vuejvv/SULoL8Hl7pApg/MI1JkwzBw1GBfIwK78vqN6UDhQomsswkqrWElhQx2PWNMVGWDLIwNDBRRMcpBg+ZAS8kq66GmK8Za2IEJ1Lm4+YptxjgvVqb++gputVtGqTxwNZmmi4Mdy+3cvvl8VcpZMyrZaFq4MbLbmPuqpj9QkK3+IVhfh4HKSXxX7fycEfEHDeVrOR78lN1OpS3I0speBdgY2THjYvzomhy2zjujdVK1ttLxduStGUWAzyrGU70RFNSzX4mpzdJCj1Zu6LSTDcZK18YoJSRXpDa4yH4CxUE3tB52CpBZ2FpddUcoRis5Cr42I10N6346EI=;VIDP6bJcpbcNVQHn9haw3g=="
+secured: "tN57I7bjVTzvXNWzk6qgmxeoDP90LvSQl7yVWhxKsHStudfATSM8j4ujFzUqoE0zDhsAdwdM4XIoigYKBTtMz7IDoHEH+NRbHbyflBp6CKYmkIvcyEwDnuVHHQtjZB0Ka8ShtHvt/gS0HsuXqgM07JaNnlweu45+cDt6p8cXoCwgVVs+9BSTEmzN/Mjt1jFObDsc7caOEsdZoY2V31sGGYo0G+wJW3htdoFOmeL+VJptTVdrLvkJO3zrXnpEBvJhYWqXii62OzaE6piGM2GejV4Rtm89amAVATrcSq/Z2SiYEscwZUr2OMC564OautWyrmliC/ADQIUBqpI8+NTO7SxLApOopJgS0lSqRgR1R5k=;3WoPISOk6ySgeyr1AevbyQ=="
 ---
 

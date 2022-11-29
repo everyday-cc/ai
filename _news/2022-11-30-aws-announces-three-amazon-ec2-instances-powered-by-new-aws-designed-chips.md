@@ -2,89 +2,19 @@
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-publishedDateTime: 2022-11-29T18:46:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9721297.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721297.htm"
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AWS AI
+  - AI
 
-related:
-  - title: "AWS adds machine learning capabilities to Amazon Connect"
-    excerpt: "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview."
-    publishedDateTime: 2022-11-29T18:30:00Z
-    webUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html"
-    ampWebUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/11/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "AWS Announces Amazon DataZone"
-    excerpt: "New data management service helps customers catalog, discover, share, and govern data across their organization ENGIE, Fox Corporation, and Itaú among customers excited to use Amazon DataZone At AWS re:Invent,"
-    publishedDateTime: 2022-11-29T16:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29892720/aws-announces-amazon-datazone"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29892720"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29892720"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-  - title: "Descartes Labs Goes All-in on AWS to Help Organizations Harness Geospatial Data to Address Sustainability, Food Security, and Climate Change"
-    excerpt: "Invent, Amazon Web Services, Inc. announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core information technology (IT) infrastructure, including its geoprocessing and analytics platforms,"
-    publishedDateTime: 2022-11-29T15:03:00Z
-    webUrl: "https://spaceref.com/earth/descartes-labs-goes-all-in-on-aws-to-help-organizations-harness-geospatial-data-to-address-sustainability-food-security-and-climate-change/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 36
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/11/29100321/AWS.png"
-        width: 1581
-        height: 1050
-        isCached: true
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Security Lake, a service that automatically centralizes an organization's security data from cloud and on-premises sources into a purpose-built data lake in a customer's AWS account so customers can act on security data faster."
-    publishedDateTime: 2022-11-29T18:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721267.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-  - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
-    excerpt: "Many of our customers rely on multiple AWS database and analytics services to extract value from their data, and ensuring they have access to the right tool for the job is important to their success,\" said Swami Sivasubramanian,"
-    publishedDateTime: 2022-11-29T18:49:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-aws-announces-two-new-capabilities-move-toward-zero-/2022/11/29/9721251.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-
-secured: "sPL0i9sqFYpAiJ+qTICLOpru7CPFwP/FEgs3wSCQGadTc3kRwVa22d4Pf0v13UAudcyFlZFFbnyuUwtYa0FFLHt0mnEE7PiEBTSpbw/PJuI3zfTwkacC+/so+ptVjFtRekFd6cZMY4IaodIcsZruLwxDkIcfqpzVFKQpHe9LxtLoN1iaTkCZx3VsCFT102KY068zUm7K6yIeKc4z4qHkJhe34XxWXrAg0TPvodClR+wgfuLaqY7mAWzI7pJ97vuIcq5HDwe/j3ph15np598jcrX8r7PYrig4MJva7O51mvJiL1UMtJvNkwboHQYBbzk4Vr2hRbAEF9OSUmB/IFcuwsQawuPBzOl/GsbSmsBPWEk=;txRNsnvM2xuH0924SNdSvw=="
+secured: "v5Gkg5OW/hAa8gLB7hbnlXbV4KMOcFDM8g2jo+f6+zgU8D8m2JRIsqFF9L9vZrhK0tslYWCs3nbfrjFSXRi3o7ezPTvFLyY5W1A4GLPhpB+0z8AvNbnxUjbp4PVQmQwujiTLLsLUI3kPzndgsWRHTWX2UZby8Dc5rLVsKnZ3eTVeYwt8ZIgOvxBOv2p7IpoUIRujMl5qKmd0pgHT7AWePTueKsf9L+s4TXnxKqqIxzNApL3n9nH/pOFZ8LNGi0iPg8jhx1poQA4zk6/tlF+6/aobGjrw7n46qSdrRb2zfhAweYnrQ3BRf2+AN4gskv0RZy9gVXqlz0wBRvFwAHwhdMvmasG/vWcZl3MwOfdEjV8io9k2G6YvKW16vX94X6E6FE1kr+X5DKcaUdhBmfJPeZi30eslgc3Tut21Awwmejpt3i+HQKrm1FDOePmhI6DHhFgPOz/SEFLZg0Dr8dbrhWW+bH9x/Ax8rqW80rxM1YfHVQNexQA5fxnP847nhuR+3MBzMuKGoMqewAxeHAu0qA==;8dPXMkvXTOqbezBdgiFH9A=="
 ---
 
