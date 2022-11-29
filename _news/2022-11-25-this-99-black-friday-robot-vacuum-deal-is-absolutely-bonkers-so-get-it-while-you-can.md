@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "LG C2 OLED Black Friday deals: big discounts on the best value OLED TV"
-    excerpt: "The LG C2 OLED is rightly incredibly popular and you can make big savings on the set thanks to the Black Friday TV deals"
-    publishedDateTime: 2022-11-24T23:12:00Z
-    webUrl: "https://www.whathifi.com/news/lg-c2-oled-black-friday-deals-big-discounts-on-the-best-value-oled-tv"
-    type: article
-    provider:
-      name: What Hi-Fi?
-      domain: whathifi.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/BxXc3duBRcNUXq3YS5pXaM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "UG0vi9Rc5ityTc78Qky/Knfha3HUMqsDcjqG7Tf8HS7JZEdgCsw2YdjsM/OZUGlR5crWnsDbGV1kSto+Im0XY+Ui3lWiGLEExM0WSnJ5h4GFlkAcoV//4/poltLo5ZaqkH9Kg6fFpC1lHVLiRt4hJb+kpXjVBBQbZHdyK3fu5AP8VFvVPV5PgX74F/9GeAMranXVhg8DgsvJRIl7blDLn1k+944nhghTm4PD8KsTkoQ6UdMAiPMkzUki27ICnxDbOwIpYJnCh4xT3GMGQzF9fMcLoZlXzKEvoh1vr11ygnmPo2KwCy7ifBon8FRHQ7K7/NAAtQHRJyNnaVq0d2I0tQ/c3bALiz1Dv3qPLK3Voao=;2/6Llzhyek1tJCztsdN+yQ=="
 ---

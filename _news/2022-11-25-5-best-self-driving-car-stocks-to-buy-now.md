@@ -28,7 +28,7 @@ related:
   - title: "Slow Self-Driving Car Progress Tests Investors’ Patience"
     excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
     publishedDateTime: 2022-11-28T17:09:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=business_lead_pos10"
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
     type: article
     provider:
       name: Wall Street Journal

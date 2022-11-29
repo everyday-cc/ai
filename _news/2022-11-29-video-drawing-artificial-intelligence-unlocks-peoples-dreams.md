@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-29T12:18:00Z
 originalUrl: "https://news.err.ee/1608804151/video-drawing-artificial-intelligence-unlocks-people-s-dreams"
 webUrl: "https://news.err.ee/1608804151/video-drawing-artificial-intelligence-unlocks-people-s-dreams"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

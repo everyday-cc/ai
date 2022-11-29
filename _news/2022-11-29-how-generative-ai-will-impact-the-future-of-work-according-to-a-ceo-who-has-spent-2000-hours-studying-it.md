@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T05:00:00Z
 originalUrl: "https://www.fastcompany.com/90816886/how-generative-ai-will-impact-the-future-of-work-according-to-a-ceo-who-has-spent-2000-hours-studying-it"
 webUrl: "https://www.fastcompany.com/90816886/how-generative-ai-will-impact-the-future-of-work-according-to-a-ceo-who-has-spent-2000-hours-studying-it"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fast Company

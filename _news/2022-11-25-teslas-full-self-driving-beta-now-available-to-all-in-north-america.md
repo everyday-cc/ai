@@ -136,6 +136,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Tesla Releases Full Self-Driving Beta to Everyone in North America"
+    excerpt: "Full Self-Driving (FSD) mode has been in testing for years — most of those who bought the package with their cars have never even been able to use it. During the limited test, drivers had to log over 100 hours with Autopilot and hit a minimum driver safety score with Tesla’s integrated behavior tracking features."
+    publishedDateTime: 2022-11-29T13:01:00Z
+    webUrl: "https://www.extremetech.com/extreme/341164-tesla-releases-full-self-driving-beta-to-everyone-in-north-america"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "do7x8UUtTAaNxslf45Y/OpAPpABMw8UbWUMLp8WM4NYk7AlndwcHaLIE2WwaCces7XfDVAj0LYVuduhvwjBWg5qPxjn3V4erlsE9xoAPRU/BSQ8/6EvmsqrJyr9c/HRVccyNgKZ/D7qgkjeN0tlAw587/3tcBpnZTYDI//GFu6iakxYOeToihFLUNSPc9JMY1+l/In15G+iydXBG7fnAndfLU3Qj4XA1CQagVkZkY0zWEPeConqzqU9PCQ3dkvvFUXh9ZbX0542pDBLY1CUA8H13R9a7WGWgAxYw3MWVcsAIbJHO5bfEY6v58DlMbhCWRbHF6iwhd6mmzg3skrnwSnzYHUe9w+KUqStE0hd1cPs=;W4c1Bf+MVhPtKnDos4ceTw=="
 ---

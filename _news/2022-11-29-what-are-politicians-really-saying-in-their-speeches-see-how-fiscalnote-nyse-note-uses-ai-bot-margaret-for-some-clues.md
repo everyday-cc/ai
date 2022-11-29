@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T12:44:00Z
 originalUrl: "https://www.benzinga.com/markets/emerging-markets/22/11/29887036/what-are-politicians-really-saying-in-their-speeches-see-how-fiscalnote-nyse-note-uses-a"
 webUrl: "https://www.benzinga.com/markets/emerging-markets/22/11/29887036/what-are-politicians-really-saying-in-their-speeches-see-how-fiscalnote-nyse-note-uses-a"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

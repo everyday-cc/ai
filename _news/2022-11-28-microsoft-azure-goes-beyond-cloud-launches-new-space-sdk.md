@@ -53,6 +53,15 @@ related:
         width: 760
         height: 505
         isCached: true
+  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
+    excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
+    publishedDateTime: 2022-11-29T14:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "xrNxQcPqPrm06HIUmQXPqQruOFJSqrkvjjmGbtKDpIuTfp9DnEzPDNUTpkkEJ0nXfh9K4Z9JTTj+tezaMq16Cb9FCZGIy/9LdFpcFBT8nkaF7RkL/0oE2cXFpffwH+MF9evcdlF+yIrzwFEyI/tIkbhiHMgIURCbCTdymNS5zt3LWzfpekaKjYbkc8EMHxHk8zuGW0Id3XjcpSkfF1L+mQ4M4GO7ELsft7OdBcYysH2OUsOlcz4Ojrugkp5YmOgwJg9/IcPDxkanzMi1tcDCdrETFtve67BycemT0noTh3+YqjI6vPX+AXyzU3l+kd3jjZyGx1TspmqtE8lkunFC2BdGUMAT71JriivI9kyDu+eBDpCKBf8UnygfCpt8PSUYv016/SCK6IMuBV09GEthdNCMfVIVHkLH05r26lbxHkbm8cN3BmSsZtyc7U99ZgMq3VLQeHAtnRMoRY/W2Tu9L4tAOigFR09h5KniVxDY3a0fNFIFv8rcNfpOHVoz6hdZ9nYPgiqQUc9MrTh+8zFuIg==;/N1zp9+ItU4a9CnpURuhfw=="
 ---

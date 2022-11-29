@@ -1,20 +1,36 @@
 ---
 category: news
-title: "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards"
-excerpt: "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers."
-publishedDateTime: 2022-11-29T13:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
+title: "Quantiphi awarded two 2022 Regional and Global AWS Partner Awards"
+excerpt: "Already an AWS Premier-tier Partner with the AWS Machine Learning Competency, Quantiphi developed a serverless and scalable machine learning operations platform NeuralOps (MLOps), for its customers. Powered by Amazon SageMaker,"
+publishedDateTime: 2022-11-29T12:58:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Business/20221129/4008908.html"
+webUrl: "https://news.webindia123.com/news/articles/Business/20221129/4008908.html"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "OlJ1sJO4mxT/RHW9Z2ZAwHm7B0uEfA9ECwT39RxSsVPNEh7a8m91xX82Pxfqpy62+zz41jC0cWtEIkZs7vSncUxJDS6HJwWoVDD1SrIijRL5jPWe76WPbWdIVDq0Up3F6QLDacTXvV2Xb1B8VmMVUFmAl5JJ+L84Ht2+/OK73YS9Yq48G2TcxYcFmMDKrMllFFbjUfnkwdDbpCdUpzRowzGlqxOb0/D5owCae5FDd+51xP0wEUYzE/G8pQu+2zFR6o8b/K9CXntnacBQS/jLUwpXvunHCHHzjD8/YgtJkNs/5BrVMCbGPAxuxTLnbh3ymxcFLcdRa7/KwZ2YvJiRc+jNMYd9OA8RMfiO1m7fzgA=;wPB3JI4sJ4ZyBVStyukW8g=="
+related:
+  - title: "Spark Business Group Awarded 2022 Regional And Global AWS Partner Award"
+    excerpt: "Spark Business Group is excited to announce it is a recipient of a 2022 Regional and Global AWS Partner Award, recognizing leaders around the globe playing a key role helping customers drive innovation and build solutions on Amazon Web Services (AWS)."
+    publishedDateTime: 2022-11-29T01:10:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2211/S00456/spark-business-group-awarded-2022-regional-and-global-aws-partner-award.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2211/S00456/spark-business-group-awarded-2022-regional-and-global-aws-partner-award.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2211/S00456/spark-business-group-awarded-2022-regional-and-global-aws-partner-award.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
+
+secured: "aqMZIaJpRwO6wzk7wrnwIyvGc3kaaqJrctuzwmLMnyLHgLjhxvUEGOEwRJwGgogc2YGD4mcwBr5gh10a1Fx+pcG28g00Mmjy7IP+2/u/wL+MPydF6oDAVuPUyCW9QvgLuWdCvZpdh0ZEoPMHeDqSx/g9j7wvcvaMbX9mdPm1V4BrnFCvDv5IaqqtnFig5VaFCPfYSKDFmqbJlDruulhjsksfFxIzxRpyE+MQC7enTk4MKyBmydPJMLccdIjzBYPvlPVh8vIhkmX6CAmwejopjHXfWVysLy/SLMlVq7OPaqY277cbHvPFUcRNtPzvuP44kovAGKHcyMR/fktgSgXRmkZYE0xTCTvda2rqq12eokI=;FU+a0l/HXLxCb613I/E2ug=="
 ---
 

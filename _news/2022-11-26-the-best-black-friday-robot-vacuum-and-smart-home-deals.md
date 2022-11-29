@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
     quality: 24
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/2U6UayHsc2UoSQyej7BdA7-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "LG C2 OLED Black Friday deals: big discounts on the best value OLED TV"
-    excerpt: "The LG C2 OLED is rightly incredibly popular and you can make big savings on the set thanks to the Black Friday TV deals"
-    publishedDateTime: 2022-11-24T23:12:00Z
-    webUrl: "https://www.whathifi.com/news/lg-c2-oled-black-friday-deals-big-discounts-on-the-best-value-oled-tv"
-    type: article
-    provider:
-      name: What Hi-Fi?
-      domain: whathifi.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/BxXc3duBRcNUXq3YS5pXaM-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true

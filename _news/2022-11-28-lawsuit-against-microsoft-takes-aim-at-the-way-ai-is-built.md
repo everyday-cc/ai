@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-micros
 webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 760
         height: 505
         isCached: true
+  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
+    excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
+    publishedDateTime: 2022-11-29T14:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "5CDAGMx2VkJMcywRbdHcK8GrqtJ0nCLUl4Qg0c7OPVmrUh+3elwTjDQi52EYxqIZt/j5bd2+mM0b/rIcI6HL46y0F3XSghuhEgrCR2ONND9QabcBf1UnjCixqelfTMYlf6MKC5RvHoIjdzAVjKjo9HJZlHg6Bz6kZoS6v/LUz00YigI2CsxaN4SsqjR2+pocFamiVFyEr+R3kenuaI3zW2LU/v+ouL4AZT9MrEVKAoVD+0bd3AnDEkAqnYlQr+nDttmw2sSXfd3Cq8HS/dBQPOsYoGHplGaRdx+SOMvtBkVX6j1Dxj0R3qiS2m64NBJ7QF6EWOyjiK1YMZVcuNSdk7f6W9P+WLd9flqWDvejjcg=;+gD4LxsFg+0vk2pwNNt0UQ=="
 ---

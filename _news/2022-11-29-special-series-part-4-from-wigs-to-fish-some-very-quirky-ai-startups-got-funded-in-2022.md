@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T13:30:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startups-series/"
 webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startups-series/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: news.crunchbase

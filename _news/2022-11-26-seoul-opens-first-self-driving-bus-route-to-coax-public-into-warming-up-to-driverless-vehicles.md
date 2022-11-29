@@ -64,6 +64,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Alstom demonstrates driverless shunting"
+    excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
+    publishedDateTime: 2022-11-29T16:39:00Z
+    webUrl: "https://www.railjournal.com/innovations-showcase/alstom-demonstrates-driverless-shunting/"
+    type: article
+    provider:
+      name: International Railway Journal
+      domain: railjournal.com
+    quality: 39
+    images:
+      - url: "https://www.railjournal.com/wp-content/uploads/2022/11/Netherlands-ATO-tests-in-GoA4-Alstom-pic-cropped.jpg"
+        width: 598
+        height: 336
+        isCached: true
   - title: "GM’s Cruise Launches Daytime Driverless Rides: Video"
     excerpt: "General Motors’ autonomous vehicle technology division, Cruise, has announced that it is now conducting fully driverless rides during the daytime. Previously, Cruise was restricting its ..."
     publishedDateTime: 2022-11-25T18:20:00Z

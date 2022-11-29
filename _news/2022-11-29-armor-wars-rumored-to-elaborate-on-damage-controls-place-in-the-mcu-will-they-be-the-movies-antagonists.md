@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T10:38:00Z
 originalUrl: "https://comicbookmovie.com/tv/marvel/armor_wars_/armor-wars-rumored-to-elaborate-on-damage-controls-place-in-the-mcu-will-they-be-the-movies-antagonists-a198081"
 webUrl: "https://comicbookmovie.com/tv/marvel/armor_wars_/armor-wars-rumored-to-elaborate-on-damage-controls-place-in-the-mcu-will-they-be-the-movies-antagonists-a198081"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Comic Book Movie

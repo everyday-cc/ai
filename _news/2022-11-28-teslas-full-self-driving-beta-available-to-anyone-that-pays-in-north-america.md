@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available
 webUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america"
 type: article
 quality: 81
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -140,6 +140,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Tesla Releases Full Self-Driving Beta to Everyone in North America"
+    excerpt: "Full Self-Driving (FSD) mode has been in testing for years — most of those who bought the package with their cars have never even been able to use it. During the limited test, drivers had to log over 100 hours with Autopilot and hit a minimum driver safety score with Tesla’s integrated behavior tracking features."
+    publishedDateTime: 2022-11-29T13:01:00Z
+    webUrl: "https://www.extremetech.com/extreme/341164-tesla-releases-full-self-driving-beta-to-everyone-in-north-america"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "9GI9qzIx+4cXdDaq9BX4F0vj9748S2E5VTUpG4+H5fiS3/Pac6swDLunxdEudZjQYqcq79wdzCsJhbkm55hKwcm6Q2GuJTHbWmJxTZPphGY1RXZKBoSrdg5zKoYeVEmRiiIiTDPkSKUZrWSV5Zy0rd7ubDU33/Cl7yBFBuhM+mcGyNbESdewc1fs17MMp2yhlYTPmKz8g+5bfs41NCbibSCsKgkflL1JGDDDaCDmzjyAYz+HnC+n2Yv/g/0mj4JLSQzuoGgiJV0sBY6oV8obuj2Fk6EGDTAUbi1kL3mYpTtaKlW9CeyhNgG7JLI1BlC45J+Wdg0K4EvWee4nO4AuqK3pYXpUCPCXcIzNpXEYje5xK19GYc/En5jdMQc2Kh00XtyfXQv8vM5xnhspfIP1Y8ArxKDFN7GIQY4HuiCCd4lZrWKUn/4mdFaj3QEp0uYztuXdBlycuFzr5LiMtcye6BcQt+7egBLy/xIt70kan3FcwF3D64eHtxDBzZKEGe5A7jAP5bq0+upOiqWMKWaOpw==;tf9ajeglxZWhRRhjmtd5zg=="
 ---

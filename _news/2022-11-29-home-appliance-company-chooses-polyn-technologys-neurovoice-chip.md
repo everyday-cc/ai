@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T13:09:00Z
 originalUrl: "https://www.design-reuse.com/news/53100/polyn-neurovoice-chip.html"
 webUrl: "https://www.design-reuse.com/news/53100/polyn-neurovoice-chip.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Design-Reuse

@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Facial recognition trials initiated to fight crime at NZ grocery stores"
-    excerpt: "A grocery cooperative in New Zealand is testing facial recognition tools in several stores as a way to combat a rise in retail theft."
-    publishedDateTime: 2022-11-24T21:49:00Z
-    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-trials-initiated-to-fight-crime-at-nz-grocery-stores"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
-        isCached: true
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
     publishedDateTime: 2022-11-27T13:31:00Z
@@ -81,6 +67,15 @@ related:
     provider:
       name: Omaha.com
       domain: omaha.com
+    quality: 19
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — savin"
+    publishedDateTime: 2022-11-29T13:00:00Z
+    webUrl: "https://www.columbian.com/news/2022/nov/29/facial-recognition-can-help-conserve-seals-scientists-say/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
     quality: 19
 
 secured: "nfEYE8nFSoZQJlgryFcvSG1GMI/zTY47gCTFS00Ok6otQUhrtWjM3Yhm0YN7UebLdTgy2hbuh1Pxa/tqBkmSttiirFFIJxakgzX7WJUI/Cptut6x48nL9Bh2zIGDYRlaB1tObNpR404B1iXtjjQXYWCxtuHfYrZ2SnzVP2MrgQXB45ZedgKYNdzisjSCivbykMVzt3yp+ulRqNlRNGe3rS9U3FjlyTwv/otrzaEeoCCFuZsTtzsfi6IX4/vHxP7Oq3c62d3gA2OBiJ6lo+5xtr+H20gjZKmRDNR0/nEsAIvo1lAgP495crk56YAWQGVOXvXXQ3lDaT1C7OOLiPEVqHoiRILHjfrwU3nMjKJT+IlcQetZeIPoNKZB+ZW+LJcnMxPOkZ5wCHzVHUyFkBLxGhbKxNgdOpv046qRyo4nGlpqlmGtDUWrXn+koPdjEns+3gGGm2QuLPBGNL/hJtLJ1ywIqsmE9XF+PEXthBZJKpB3RL9n295I5LXGTbj1WZKhWY5NTEJa794+IlXDZSyeGw==;UTW0uxo1DYwdj3t/z51UBw=="

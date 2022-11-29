@@ -104,6 +104,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 9
+  - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
+    excerpt: "With EOT Twin Sight ™ industrial users can now leverage the power of low-code artificial intelligence (AI)-driven software to modernize how asset information and data is visualized and drive the rapid creation of use-case-specific visual dashboards,"
+    publishedDateTime: 2022-11-29T16:06:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721138.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "M57QOu9QXQwbn3SVknT5ntdaxRVXE0J7iqcnUhr8PCm3TkuquK6tCONAVbnpBKfT0xefVKwFPR5+Fk/whhJprxJany7AgpXWqTGI4ULqsmHLP+FYVp9YQTLIpXOHKv1dRNG9dbIxDBmsrnFRGBZww4uxARRRqm1G40Kfhd7bG1vMcGdwemFPZMyHDuxp5V+oIScnqMo+vK44XHGEsyFYsjUjleaeIFkQBCU11QBe3IzMG1TSFGJ0tmhSbuCQqkyIf8RK8sKjJcrNom4TkdfN2OASQ9i3mPnhK2v7v3wf5HWRIX5QCD8yCCLy8ZJnXaodhBLOe8Y9lT99aqQiToACJwzMchAw75l6WemIVZAc+V8=;KIV83nysol1TZK5Gq+NQ4g=="
 ---

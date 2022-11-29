@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T14:20:00Z
 originalUrl: "https://venturebeat.com/ai/app-marketers-are-turning-to-machine-learning-to-prevent-high-value-user-churn/"
 webUrl: "https://venturebeat.com/ai/app-marketers-are-turning-to-machine-learning-to-prevent-high-value-user-churn/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: VentureBeat

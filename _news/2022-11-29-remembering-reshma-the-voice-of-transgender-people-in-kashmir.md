@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T13:48:00Z
 originalUrl: "https://www.thequint.com/neon/gender/kashmir-reshma-abdul-rashid-transgender-singer-dead-viral-song"
 webUrl: "https://www.thequint.com/neon/gender/kashmir-reshma-abdul-rashid-transgender-singer-dead-viral-song"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Quint

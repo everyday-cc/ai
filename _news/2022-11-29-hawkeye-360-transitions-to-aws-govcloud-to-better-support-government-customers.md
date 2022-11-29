@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T13:33:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/hawkeye-360-transitions-to-aws-govcloud-to-better-support-government-customers-1031942065"
 webUrl: "https://markets.businessinsider.com/news/stocks/hawkeye-360-transitions-to-aws-govcloud-to-better-support-government-customers-1031942065"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Business Insider

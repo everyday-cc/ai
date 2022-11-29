@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the
 webUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Human creators stand to benefit as AI rewrites the rules of content creation"
+    excerpt: "Generative AI programs could free human creators from tedious tasks and enable them to focus on ideation and creative thinking."
+    publishedDateTime: 2022-11-29T15:01:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/"
+    ampWebUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 54
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
+        width: 1100
+        height: 733
+        isCached: true
   - title: "ADGM’s Financial Services Regulatory Authority launches its AI initiative on Open Regulation"
     excerpt: "The Initiative will tap the innovation community in the co-creation of AI models and applications to achieve better regulatory outcomes"
     publishedDateTime: 2022-11-29T09:46:00Z

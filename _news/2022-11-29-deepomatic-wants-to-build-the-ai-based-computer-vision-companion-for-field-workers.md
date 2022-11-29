@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T22:22:00Z
 originalUrl: "https://techcrunch.com/2022/11/28/deepomatic-wants-to-build-the-ai-based-computer-vision-companion-for-field-workers/"
 webUrl: "https://techcrunch.com/2022/11/28/deepomatic-wants-to-build-the-ai-based-computer-vision-companion-for-field-workers/"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: YAHOO!News

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-rea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/"
 type: article
 quality: 93
-heat: 95
+heat: 96
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/adding-sentiment-analysis-to-natural-lang
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adding-sentiment-analysis-to-natural-language-understanding-deepgram-brings-in-47m-%EF%BF%BC/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -31,20 +31,29 @@ images:
     isCached: true
 
 related:
+  - title: "Transcription-as-a-service startup Deepgram lands $47M in funding"
+    excerpt: "Stephenson said Deepgram will use the funding to invest in research and engineering “to address today’s most difficult speech understanding challenges, including emotion detection, intent recognition,"
+    publishedDateTime: 2022-11-29T14:54:00Z
+    webUrl: "https://siliconangle.com/2022/11/29/transcription-service-startup-deepgram-lands-47m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/artificial-intelligence-503592_1280-geralt-pixabay.jpg"
+        width: 1280
+        height: 857
+        isCached: true
   - title: "Deepgram Raises $47M to Define the Future of AI Speech Understanding"
     excerpt: "Deepgram today announced that it has raised $47 million in equity funding led by Madrona, with Alkeon participating as a new investor. Prior investors also participated in the deal. This transaction completes Deepgram's Series B round in which the company raised a total of $72 million,"
-    publishedDateTime: 2022-11-29T12:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9720588.htm"
+    publishedDateTime: 2022-11-29T14:09:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9720588.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1957162/Deepgram.jpg"
-        width: 400
-        height: 263
-        isCached: true
+    quality: 19
 
 secured: "0RO7EBBDWZGweGMvJ3bks8JT6Hd/DItTEe2SNy1wxFJNT2T43wdqXe9hWUfzbZRiNzDvPcGKGj3N2eZoGtBJER1dttsCtgA6BN3YM/K1nBnfrP9hg+dJYB+8vhQfJ3O70EjO3TMGT98f57hNJUXSidZ64s4HE9K+1RYmRgRKc9SliJw3Jaar2XKzjnfrBxJZBPhQe45aeo1WQGI69ESHULvRnYJCY24yuhJXQMfiqsx4woYYvLPdxC72Iff7rUplt9HuR8KL29zzx6hR6EQOkB1u1UNlXEevKHhVZ2RSp2nMjG1yLc0IIoWZIf9C+VBQYWNN8xJesd2YSIndAcg6MEfI0PeKvdEKJRFQObHvhfvXrc1rk+THl3hZ163enEk09elS633bddbt98PRWOc9jw9sov8JsY4Kj38aBkoICRNvRijKLJwFyGY6GfGBNCEf9YUw5M7ojcc/8miHZpkGxygWqHSUc3qWYYsLJeT8/BCmw894INcvIUVf2xMZkl9QO+1ue5/MW49IGbyd3L9IUA==;jQcE4uuZy7Ks5HqUqRjQ7Q=="
 ---

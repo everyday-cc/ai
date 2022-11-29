@@ -54,6 +54,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Alstom demonstrates driverless shunting"
+    excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
+    publishedDateTime: 2022-11-29T16:39:00Z
+    webUrl: "https://www.railjournal.com/innovations-showcase/alstom-demonstrates-driverless-shunting/"
+    type: article
+    provider:
+      name: International Railway Journal
+      domain: railjournal.com
+    quality: 39
+    images:
+      - url: "https://www.railjournal.com/wp-content/uploads/2022/11/Netherlands-ATO-tests-in-GoA4-Alstom-pic-cropped.jpg"
+        width: 598
+        height: 336
+        isCached: true
   - title: "Seoul opens first self-driving bus route to coax public into warming up to driverless vehicles"
     excerpt: "The locally built bus – which resembles a Lego on wheels – is currently servicing a 3.4km circuit in downtown Seoul. Read more at straitstimes.com."
     publishedDateTime: 2022-11-26T03:48:00Z
