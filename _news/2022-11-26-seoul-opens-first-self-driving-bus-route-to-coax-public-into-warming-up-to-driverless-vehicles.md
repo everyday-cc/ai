@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Plans to Expand Driverless Ride-Hailing Service Area"
+    excerpt: "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the"
+    publishedDateTime: 2022-11-29T06:16:00Z
+    webUrl: "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
     excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
     publishedDateTime: 2022-11-28T11:59:00Z
@@ -48,15 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Slow Self-Driving Car Progress Tests Investors’ Patience"
-    excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
-    publishedDateTime: 2022-11-28T17:09:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=business_lead_pos10"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
   - title: "GM’s Cruise Launches Daytime Driverless Rides: Video"
     excerpt: "General Motors’ autonomous vehicle technology division, Cruise, has announced that it is now conducting fully driverless rides during the daytime. Previously, Cruise was restricting its ..."
     publishedDateTime: 2022-11-25T18:20:00Z

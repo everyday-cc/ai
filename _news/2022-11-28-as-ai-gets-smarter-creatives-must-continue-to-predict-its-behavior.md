@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Creative AI is generating some messy problems"
+    excerpt: "In the last few years, artificial-intelligence systems have shifted from being able to process content – recognizing faces or reading and transcribing text — to creating digital paintings or writing essays."
+    publishedDateTime: 2022-11-29T07:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "yjKLE1V4lAzvxNDxT0qfCaTcd3RPZIPhVoC0IJGjHE4lU+4Q80+63vLVpZADWgDLJBFsut7tLxl0CcOpH3uKm1RTfMWo/pmZmMFY0hmNDO3NE9e3sSlsmltLD4b14o0RqlLa6WlGfE5vgxg50l0tl7+AgBm/haaR/JkZSulOibEeqhY5g0xyYajljmUEgkYS3gmqRKyk6xKikIbR2IfRaIlocnVyHqrC7xPUvL6bdZiVc4H1lS7qq50o4rB7mid3FhenqrgjBNTLYcp3wtFF8L26qH6Zom/l2sR0ldrYnOL2p+whPeMtNXUuPSH2QdsJ1CEzzkYI4ORDcw0N1uVWu/C8RtpYIVS2Q9tTGOQ9Aux7CmpuDDVJhK5IBm5iE9ECaV9OPPpK+fJTWGIeMg1NMyj0vw4QkV8upJdh6wJHVQIgQq7S5kbiJr9jhp8nYqjw83eSc1jzqDvaaZSPLDAqmF5YmOAr8pOpGu3hPTb2/46RyqlFphesrOwsz+SMMZs/3KOixHhbNeezg86Tuopi1A==;BhRya5Df/zMj+8YHk2tHeQ=="
 ---

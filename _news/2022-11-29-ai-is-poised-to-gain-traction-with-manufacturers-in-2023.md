@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-29T03:17:00Z
 originalUrl: "https://www.designnews.com/automation/ai-poised-gain-traction-manufacturers-2023"
 webUrl: "https://www.designnews.com/automation/ai-poised-gain-traction-manufacturers-2023"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.designnews.com/sites/designnews.com/files/KY38DR.jpg"

@@ -71,22 +71,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Tesla's Full Self-Driving Beta now available to all in North America, Musk says"
-    excerpt: "Tesla’s Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight. We apologize, but this video has ..."
-    publishedDateTime: 2022-11-24T16:06:00Z
-    webUrl: "https://torontosun.com/news/world/teslas-full-self-driving-beta-now-available-to-all-in-north-america-musk-says"
-    ampWebUrl: "https://torontosun.com/news/world/teslas-full-self-driving-beta-now-available-to-all-in-north-america-musk-says/wcm/989123ec-4e77-4514-85ad-b377ff2fd7aa/amp/"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/world/teslas-full-self-driving-beta-now-available-to-all-in-north-america-musk-says/wcm/989123ec-4e77-4514-85ad-b377ff2fd7aa/amp/"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 70
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/09/elon-musk.jpg?quality=100&strip=all"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Tesla full self driving Beta software now available in North America"
     excerpt: "Tesla's full self-driving Beta software is now available to everyone in North America. The automaker meanwhile awaits approvals."
     publishedDateTime: 2022-11-25T04:12:00Z
@@ -99,36 +83,6 @@ related:
     images:
       - url: "https://techstory.in/wp-content/uploads/2022/11/tesla-full-self-driving-bildquelle-https-insideevs.com-news-518958-tesla-fsd-beta-9-launch.jpg"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Tesla opens Full Self-Driving beta to all, safety score be damned"
-    excerpt: "Tesla is now allowing everyone in North America to sign up for its Full Self-Driving beta, no matter what their safety score might be."
-    publishedDateTime: 2022-11-24T16:45:00Z
-    webUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned"
-    ampWebUrl: "https://www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/tesla/163600-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/163600-cars-news-tesla-opens-full-self-driving-beta-to-all-safety-score-be-damned-image1-1gbivsackn.jpg"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Tesla Full Self-Driving beta now available: Musk"
-    excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
-    publishedDateTime: 2022-11-24T15:59:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/tesla-full-self-driving-beta-now-available-musk-770531"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/11/24/1321986-tesla.jpg"
-        width: 1200
         height: 720
         isCached: true
   - title: "Tesla self-driving software now available in North America, says Musk"

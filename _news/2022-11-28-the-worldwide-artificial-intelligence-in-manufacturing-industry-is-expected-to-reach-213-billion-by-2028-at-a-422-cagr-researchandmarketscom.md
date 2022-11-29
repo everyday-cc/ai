@@ -27,7 +27,7 @@ related:
     provider:
       name: Design News
       domain: designnews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.designnews.com/sites/designnews.com/files/KY38DR.jpg"
         width: 1540

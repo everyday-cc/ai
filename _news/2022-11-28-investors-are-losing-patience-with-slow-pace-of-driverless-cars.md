@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-sl
 webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Plans to Expand Driverless Ride-Hailing Service Area"
+    excerpt: "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the"
+    publishedDateTime: 2022-11-29T06:16:00Z
+    webUrl: "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
     excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the"
     publishedDateTime: 2022-11-29T06:34:00Z
@@ -38,15 +54,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Slow Self-Driving Car Progress Tests Investors’ Patience"
-    excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
-    publishedDateTime: 2022-11-28T17:09:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=business_lead_pos10"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
   - title: "Seoul opens first self-driving bus route to coax public into warming up to driverless vehicles"
     excerpt: "The locally built bus – which resembles a Lego on wheels – is currently servicing a 3.4km circuit in downtown Seoul. Read more at straitstimes.com."
     publishedDateTime: 2022-11-26T03:48:00Z
