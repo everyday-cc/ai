@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the
 webUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: IT Pro
@@ -27,6 +27,22 @@ images:
     width: 375
     height: 210
     isCached: true
+
+related:
+  - title: "ADGM’s Financial Services Regulatory Authority launches its AI initiative on Open Regulation"
+    excerpt: "The Initiative will tap the innovation community in the co-creation of AI models and applications to achieve better regulatory outcomes"
+    publishedDateTime: 2022-11-29T09:46:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/adgms-financial-services-regulatory-authority-launches-its-ai-initiative-on-open-regulation-e0j92dgj"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 28
+    images:
+      - url: "https://static.zawya.com/version/c:YzgyNGFjMmItMmQ4OS00:YTA4YTAy/abudhabiconstruction-jpg.jpg?f=1%3A1&q=0.75&w=3840"
+        width: 406
+        height: 405
+        isCached: true
 
 secured: "8dGZWCZgTtjncZxYIGajv6d1FlUMgSGEgReLoV7fwJqx/AQ8/VnsQzPVwatdb2zK+5xMwa29NxggyCBhNRQjPr5sI13YtYHCWg+Q8mgBlEMLo/Fd+Sf8w0OujMjBnPf8x86nerjJbpEJy15s7bUalTMrt9TRlCeKZBRR3gRIAghulg1a+3oXyBXazEBCJpw3P4haicE1Bwsx2wRwzKFG/DAlUx07DpkLXIntFcTBtaw8NenBm8Fok/cB9kEUcwvut3CssPN95yTKRrowkP7zzkwods29kcMlAiIfs3oU8POVItBMEEVMQYXpw8gRA2eG0RSRVgG3IUf8BT7lbbrkJyTi0A9gUNjlaBkp5baIyndZyO/mWkJpdCqTv08B6EDFKCFstiT4B7p4LErqEJpl9nWXx/UYaKlgI01lMu6H3Av1khungQFysqLp6Bqxe3CAWKW+lp4h3lsC91NmVKVWnltoOUWZKDUn4BwwlnInBsMOYG0I6k3OkrqB11mgEdQ4hn5bWnFuehKnB+SS4gn49A==;lsd0OGb6AYKxix4+ArBwKg=="
 ---

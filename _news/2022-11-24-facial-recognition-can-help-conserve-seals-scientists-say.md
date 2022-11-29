@@ -2,16 +2,16 @@
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
 excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
-publishedDateTime: 2022-11-24T00:02:00Z
-originalUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
-webUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
-ampWebUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
-cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
+publishedDateTime: 2022-11-24T06:57:00Z
+originalUrl: "https://www.10news.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
+webUrl: "https://www.10news.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
+ampWebUrl: "https://www.10news.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
 type: article
 
 provider:
-  name: WTVF
-  domain: newschannel5.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - Computer Vision
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JUnxGDitOs863t02jo8/jyqT+XkfqDj7WPq7bpU0xEXBSYm7Ap67Q2z9fwCdh+BXfLOfx7S8tSP+0GsIrHFDE5zikhhZQjkDA9ml4ubGfOMexHzq72dK/6A7v4oC9XlV3x97grQogANaaGQQqzMa4wmcscnBAx17sNDEaQguzin/AfZzOBA0zGY8slx1W7IDyJKai7ZI91fco7C4josa00+i79+2i6X0AJN3Xuuhf4ud689RVI4RZJS6zWrS2+ZcOvI7WGqCUnVCXYHy77VJzHFodaFpW/ORADzN972b/i6DOmsmLDXZ5opqF6kfNKNPP/njfs7kwEYNKu5NnkBbG3wvAFOy/bOxhGWAxTCVok4=;WFl/OWG1fN3Se6Mwm2I9ig=="
+secured: "MvHqzPtvEpcynN2woK7nkrasA89srXi/GRDZEuF2hkmq3TO7kgaPIr8u7++PyuATJc1BpLQYVdp6A4RW79jOyZ8r0XbQcqWiRLdRNGOMMeDMBOPjdbFJ/8xtZ897nv/JAiKOaISo8+kiOGkTSIORf8jhFo67t7JWAo5+DLhynP99InuVor/zfB7LOr0so96byJRdXtfiveqFygadI/mQL5BFCR/0jYpOU3lMG2a98f19BHtDK5/Qds1ZjyaZW5ghQgivBalQUVLx4JO1BHty3B7SZuHQJ4CN6Tb1rYY7JGF8bkHTNczhiJOroot9ClLzlNU349/7jr4JKPCjufNThiROdWMK1CqfKQPhZ/MpZOY=;9uKQqUFEjLZQAbXPOJUeoQ=="
 ---
 

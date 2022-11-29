@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Predicts Heart Disease Risk Using Single X-Ray"
+    excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease."
+    publishedDateTime: 2022-11-29T10:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-predicts-heart-disease-risk-using-single-x-ray-1031941529"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "NM2CLUQHeD1mDzmxcF3mYcbYryBXn65fc3TR+y8vKNJYuPDIa5sXXhjiaSTJEVOVckB1gwcU8oTHY3yiaH6w6w43n205/+Qu6gmzbg1G/SvecewQTnPJCMC5JoY8w43LfF7LOnHs825zOMZV6y8dlvYENqxMThEnO4+6bxVgIYa3TNTjrogo6C1vFLjnIAT4CmR1UNNBA5I06edQQFse+MF1QifpUP+Z1dD7fkHy07B/1IYTmEON5TzsNJEwzDRSiBvBxchoKSyXBcv2Yoq9Qzls8/6ccDjAmDKeMCZZWPzwW6rZ4F/mijF5sEcMB5218Oi0bmmSHvDxOYoITm64nY11Y4YljJl3pqSbK2dDiQbtknoMJdCU8Eg9uY7anaIldzvgmjq5c5rkGB+RgcQYKrNROZci2Xzinm6DD3Td5AMWQJFp3O69Y+uYd7yCpAHLrQwEsz5D1ScLtVOIypGUYu+Tn39wczpzVvcSHs9xudTIPrBN1EjrcjLZH+839rTADEbu1kQsvEl4isuU9J52xA==;7dVIm0y1Kfih8YyvvUI5zw=="
 ---

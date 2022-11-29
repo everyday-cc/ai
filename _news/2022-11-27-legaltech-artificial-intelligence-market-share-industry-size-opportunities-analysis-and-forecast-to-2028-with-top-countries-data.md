@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Accelerator Market 2022 : Growth Statistics, Industry Share, Latest Trends, Growth Drivers, Size and Forecast till 2028"
+    excerpt: "AI Accelerator Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corresponding detailed ana"
+    publishedDateTime: 2022-11-26T17:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-market-2022-growth-statistics-industry-share-latest-trends-growth-drivers-size-and-forecast-till-2028-2022-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market 2023 : Trend Analysis, Competitive Outlook of Top Industry Players and Future Expansion by 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence (AI) in"
     publishedDateTime: 2022-11-25T12:45:00Z

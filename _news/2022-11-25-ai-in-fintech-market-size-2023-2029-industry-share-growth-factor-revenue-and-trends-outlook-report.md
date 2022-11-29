@@ -116,17 +116,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "The US Employment Screening Market Report 2022: Leveraging Artificial Intelligence (AI) and Machine Learning Crucial for Continued Growth"
-    excerpt: "Analysis By Service, By Industry Vertical, Size & Forecast with Impact Analysis of COVID-19 and Forecast up to 2027\" report has"
-    publishedDateTime: 2022-11-24T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852782/the-us-employment-screening-market-report-2022-leveraging-artificial-intelligence-ai-and-machine-l"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29852782"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852782"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
   - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
     excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
     publishedDateTime: 2022-11-27T13:09:00Z

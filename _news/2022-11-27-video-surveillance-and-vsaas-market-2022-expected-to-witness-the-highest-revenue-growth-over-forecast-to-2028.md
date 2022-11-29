@@ -122,17 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "The US Employment Screening Market Report 2022: Leveraging Artificial Intelligence (AI) and Machine Learning Crucial for Continued Growth"
-    excerpt: "Analysis By Service, By Industry Vertical, Size & Forecast with Impact Analysis of COVID-19 and Forecast up to 2027\" report has"
-    publishedDateTime: 2022-11-24T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852782/the-us-employment-screening-market-report-2022-leveraging-artificial-intelligence-ai-and-machine-l"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29852782"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852782"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
   - title: "AI in Fintech Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Fintech Market\" Insights 2022 -"
     publishedDateTime: 2022-11-25T11:54:00Z

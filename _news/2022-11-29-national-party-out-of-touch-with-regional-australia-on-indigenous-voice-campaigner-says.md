@@ -47,22 +47,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "For the Indigenous Voice referendum to pass, Australians need a better understanding of why they're voting on it"
-    excerpt: "I quietly sat in on a \"focus group\" in inner-city Melbourne. The responses hold a cautionary tale ahead of an important national vote, writes Patricia Karvelas."
-    publishedDateTime: 2022-11-24T18:00:00Z
-    webUrl: "https://www.abc.net.au/news/2022-11-25/voice-referendum-civic-education/101694546"
-    ampWebUrl: "https://amp.abc.net.au/article/101694546"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101694546"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 23
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/c2e633b98a5f24a58556c004626bf2bd?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
-        width: 862
-        height: 575
-        isCached: true
 
 secured: "y8qR3xbOHU1M6ZyNdtzFcnxyPr+Ij49Dp2ptCT83VsXxkkirtgwdIRFrF9/3Pk69FnWPJ0uDvHV+uIRBKCwU+fdmU2d4bYLrGJen8/goYc4RgpGIVAJNatwMrcgyOxPgD2KL4Ufp4Q3w1JxEjVubXNNtN1aRPlldVbVxTZGbRGu/WuPmfJe/nYZQZYkSK+l5OQ+Y2f/YXCQJdBsFCrZqBA8y43YG7VihOv+Ozwx2xtLMmu7BzPnm0mqAJ9uRaF0KY7DRznL81PDozXmumxNugha3NZwQMFg/8+8ivePfJcSFpWyldcSH/iQkT63sctIIXu96TcT/syBWtoK60b2T1Qiupn/MuW7xaiJtLTQVnJL/zKmanKISQuiGj+HBwDVhMZQA46WgoXsQXtxsYJuHesvwqq1Cs5Fchc//l7BdA4+ifAeVjTXEyJhZ1hBc2Z64eUzfgV0jwtgv7Xw8rwDokjdtAdaPI2wnML9+aACRvBhIrbdh4FZJ+DjtnJ2l5LKRwMdaQfPd2TQGJ3Rr60QjIQ==;eGnxqBRu/ReLarq/J/bBsQ=="
 ---

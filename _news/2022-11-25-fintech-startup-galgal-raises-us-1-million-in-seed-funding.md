@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Powered Legal Tool Receives $5 Million in Funding from OpenAI"
-    excerpt: "We started the OpenAI Startup Fund to support companies using powerful AI to drive societal level impact, and Harvey’s vision for how AI can increase access to legal services and improve outcomes fits squarely within our mission. We believe Harvey will ..."
-    publishedDateTime: 2022-11-24T17:37:00Z
-    webUrl: "https://techreport.com/software/3485895/harvey-receives-5-million-in-funding-from-openai/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 17
   - title: "Conversation Intelligence: the SaaS player disrupting the FinTech space"
     excerpt: "Technologies such as AI-driven automation and SaaS solutions are rapidly transforming the way most of us carry out our financial transactions. In fact, the emergence of fintech has significantly reduced the need for people to visit banking institutions in ..."
     publishedDateTime: 2022-11-26T13:39:00Z

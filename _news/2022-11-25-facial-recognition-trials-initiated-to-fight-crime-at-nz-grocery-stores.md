@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pervert who filmed girl in toilets snared by facial recognition technology"
+    excerpt: "A registered sex offender who went into women's public toilets to film a teenage girl was snared by facial recognition technology. Now Dorniel Nica, has been jailed for three months. A court heard how on October 2 the victim had been in a cubicle of toilets in Golden Square Shopping Centre in Warrington after feeling sick when she saw a hand holding a black iPhone coming from the underneath the neighbouring cubicle."
+    publishedDateTime: 2022-11-29T10:19:00Z
+    webUrl: "https://www.manchestereveningnews.co.uk/news/uk-news/pervert-who-filmed-girl-toilets-25624562"
+    ampWebUrl: "https://www.manchestereveningnews.co.uk/news/uk-news/pervert-who-filmed-girl-toilets-25624562.amp"
+    cdnAmpWebUrl: "https://www-manchestereveningnews-co-uk.cdn.ampproject.org/c/s/www.manchestereveningnews.co.uk/news/uk-news/pervert-who-filmed-girl-toilets-25624562.amp"
+    type: article
+    provider:
+      name: Manchester Evening News
+      domain: manchestereveningnews.co.uk
+    quality: 57
+    images:
+      - url: "https://i2-prod.manchestereveningnews.co.uk/incoming/article25625387.ece/ALTERNATES/s1200/0_281122DornielNica2JPG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Garda facial recognition technology on way but worries over dangers to public"
     excerpt: "THE proposed Garda use of facial recognition technology will comply with new EU legislation, the Justice Minister has said. Helen McEntee has said she plans to introduce the tech as soon as possible. Garda Commissioner Drew Harris has said the new measure ..."
     publishedDateTime: 2022-11-26T17:20:00Z

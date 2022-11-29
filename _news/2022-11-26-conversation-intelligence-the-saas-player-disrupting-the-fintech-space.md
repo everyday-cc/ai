@@ -33,15 +33,6 @@ related:
         width: 500
         height: 665
         isCached: true
-  - title: "AI Powered Legal Tool Receives $5 Million in Funding from OpenAI"
-    excerpt: "We started the OpenAI Startup Fund to support companies using powerful AI to drive societal level impact, and Harvey’s vision for how AI can increase access to legal services and improve outcomes fits squarely within our mission. We believe Harvey will ..."
-    publishedDateTime: 2022-11-24T17:37:00Z
-    webUrl: "https://techreport.com/software/3485895/harvey-receives-5-million-in-funding-from-openai/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 17
 
 secured: "XKoAng4KEMn9h7geQ951sv2grAv34cpavP0o9pgAP5EIwdUjeY8D06dNS21FP2laMw5O/2TkEGSP6Opb9UG2PGMXF+7kTDI+IriCgZEEv8S/S//UNb8HyHgbaNEwgQqtpqwcag133OT1aM7pPu9c2nbf3Pe1+7aYzA23czUJIUUFWjmTaOBfr4TU56m+uDwJVnFHVO15MXRwQ/N5j/kQxNB+oho//isOVSh4OqycCmjNEDRm4Z/snWBA9hTvOXBEG9nYApH+esG/VscV0U1SvM9Ov2EqpDnHO0hy8nghGzcPSssTFubeJQ8y0+UdVrskxsjcDINVj17H4uGSjNNm9/1YBomwO5MidT0iCn2yDdmtSAKmVe79j1yaFe9UuFkudmn6fwfxIJ7/hzD7CcqQlUF0gX+PmoxZF8AL/r+jYSSUGIcyX1/DkVgxulNpgONv+RiO5oFDmi6UqZgxKtfa0p/Q3FoRTwbbFBTHxfEViw5rdVZqwc/88NWBuQm9St8uZQaPXHHtSbg1PMQawHxVkw==;2NhFgiWDWpBvuZ+xTD+jKw=="
 ---

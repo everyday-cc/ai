@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-29T01:12:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202211/brain-machine-interface-enables-mind-controlled-wheelchairs"
 webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202211/brain-machine-interface-enables-mind-controlled-wheelchairs"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pic2452.gif.jpg?itok=SF_YHFsD"
@@ -24,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "rIvU/2WOihwbfTrxdtzU2pdljNT0NghAyyOarz/+uwoyO5B9Paievp2GRgVXh0JnwNdZNbl13iYDwccpkSAksOjVeSTa4qk4JQDaqd23fIGC0VVp9GB6NPgvqzF3pabUx/Ur6EKt03I5vV/p+Yqf7bRgKi387HcKgVkCd4mbR/nNNsY30llZw+Mz+c+ZIEcSxmdB2PAntF66mlFntPl30eEmYDeRYvaTtuC4GgpJqMJf4gO1kt+PppnGEOB8I1aBTsMZQBVNj+IDJvMDJMoaxRGzrMGb3Lgt5tKBmlmENRYcN0l+LBE8tIBoWFo/GFNwtVYoTzpNaYVWBhHTaKIFWiUmoBS3rxbysYlq+hSulNA=;8brAIukKYzjZ6IYbZMIYjA=="
+secured: "PUcRpthoc9jdU2ZAxdubuIyRNbhZSk1NIQZTEvlvPHrVCHpgvxEUuIQwmdFndj+MPFUt1j9YK7z1zGDGJRqvo3wKpAyI9TppLG8B+Fl7cDgZKoS42Z/datcdAdZAjf8/ei70pRtmcc1lH534WY7NQeEX6wXN6R1bKM/WHd5Qrly5CyhXjCNldK3zu4GD/N4QAOPtwlpjDDYy96r7DWYX5dM+CnxzgkZb2aFcUUcdX/tKyeV32jN6KOYiJ+ntMf9Ip/AHxoruI+Oe+gyGM1sJc41y2IsuXmsZu5G1M5nACjtwU5nGtJcHKDLlEp1gc38P68hkNgYjTOTYHmDCrWytg6JjqjAuLDKacf+v0nhcO5cR/QWPcma0fO5BAhUML7xnWKxMsSPWfQYqJfRfZ0xxtVu1wpBzD7i/eBH2gzPOEBblZWvIFsJhltug51CrlcOVU9cr40PE8qgQvGCVcvu31hE0MbPeftT9Dn+yiYENHrjZGyq7Gf0fpxEZ2RP1FZ6ARMpuO7NcugP46wOFecF34A==;DNZjMoz2bK9B7pdvYQy3ng=="
 ---
 
