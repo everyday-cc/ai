@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
-    publishedDateTime: 2022-11-25T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
     excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
     publishedDateTime: 2022-11-26T17:46:00Z

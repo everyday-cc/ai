@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-22-robots-authorized-to-kill-in-sfpd-draft-policy.md",
+      "title": "Robots authorized to kill in SFPD draft policy",
+      "excerpt": "A remote-controlled police robot used to disarm bombs. Image from Shutterstock. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. A policy proposal that is heading for Board of Supervisors ...",
+      "sourceUrl": null,
+      "webUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
+      "originalUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mission Local",
+        "domain": "missionlocal.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-loreal-leverages-yseops-ai-powered-augmented-analyst-to-accelerate-complex-analysis-of-actual.md",
+      "title": "L’Oréal Leverages Yseop’s AI-Powered Augmented Analyst to Accelerate Complex Analysis of Actual ...",
+      "excerpt": "Yseop, a world-leading AI software company and pioneer in Natural Language Processing (NLP), today announced that L’Oréal deploys Yseop’s world-class enterprise automation",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/l-or-al-leverages-yseop-s-ai-powered-augmented-analyst-to-accelerate-complex-analysis-of/article_b8d36143-865e-5957-8dd6-95b3b8431c3a.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/l-or-al-leverages-yseop-s-ai-powered-augmented-analyst-to-accelerate-complex-analysis-of/article_b8d36143-865e-5957-8dd6-95b3b8431c3a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-filmmakers-can-tweak-your-tv-settings-in-more-ways-than-ever.md",
       "title": "Filmmakers Can Tweak Your TV Settings in More Ways Than Ever",
       "excerpt": "Support is growing for Filmmaker Mode, a setting on newer televisions that makes movies look how the creators intended.",
@@ -851,10 +928,10 @@
     {
       "path": "_news/2022-11-22-abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree.md",
       "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
-      "excerpt": "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ...",
+      "excerpt": "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
+      "webUrl": "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
+      "originalUrl": "https://kdvr.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -871,13 +948,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29807580",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807580",
-      "publishedDateTime": "2022-11-21T08:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "FOX31 Denver",
+        "domain": "kdvr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1087,92 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-artificial-intelligence-as-a-service-market-worth-960647-million-by-2030-grand-view-research-inc.md",
-      "title": "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc.",
-      "excerpt": "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-black-sesame-technologies-and-zte-join-forces-for-self-driving-cars.md",
-      "title": "Black Sesame Technologies and ZTE Join Forces for Self-Driving Cars",
-      "excerpt": "Black Sesame Technologies and ZTE Join forces for self-driving car technologies. This made BST the first driving chip partner of ZTE",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/",
-      "originalUrl": "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/11/black-sesame-technologies-zte-self-driving-cars-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1",
-      "publishedDateTime": "2022-11-21T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

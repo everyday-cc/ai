@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say: here’s how"
-    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving"
-    publishedDateTime: 2022-11-24T19:35:00Z
-    webUrl: "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/"
-    ampWebUrl: "https://ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nexstar-media-wire/nationworld/facial-recognition-can-help-conserve-seals-scientists-say-heres-how/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/11/AP22321559652379.jpeg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "New Garda facial recognition technology on way but worries over dangers to public"
     excerpt: "THE proposed Garda use of facial recognition technology will comply with new EU legislation, the Justice Minister has said. Helen McEntee has said she plans to introduce the tech as soon as possible. Garda Commissioner Drew Harris has said the new measure ..."
     publishedDateTime: 2022-11-26T17:20:00Z
@@ -89,15 +73,6 @@ related:
         width: 1454
         height: 800
         isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "Anyone can access the link you share with no account required. Learn more. FREEPORT — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of ..."
-    publishedDateTime: 2022-11-24T19:15:00Z
-    webUrl: "https://www.pressherald.com/2022/11/24/facial-recognition-can-help-conserve-seals-scientists-say/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 19
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
     publishedDateTime: 2022-11-27T13:31:00Z

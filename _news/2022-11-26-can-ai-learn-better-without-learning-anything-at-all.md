@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Trends in Artificial Intelligence and Machine Learning: Generative AI Unfolds"
-    excerpt: "In this contributed article, editorial consultant Jelani Harper offers his perspectives around 2023 trends for the boundless potential of generative Artificial Intelligence—the variety of predominantly advanced machine learning that analyzes content to produce strikingly similar new content."
-    publishedDateTime: 2022-11-28T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/11/28/2023-trends-in-artificial-intelligence-and-machine-learning-generative-ai-unfolds/"
+  - title: "Finance provider sets up fund aimed at AI, machine learning and data science"
+    excerpt: "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,"
+    publishedDateTime: 2022-11-29T11:54:00Z
+    webUrl: "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 65
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 68
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg"
-        width: 640
-        height: 426
+      - url: "https://www.thebusinessdesk.com/_files/images/nov_22/Dr-Marc-dAbbadie-river-capital-e1669722818427.png"
+        width: 322
+        height: 216
         isCached: true
 
 secured: "8c44dGvidtu3f+Xl9yuBURwtlfgyGzvP1V8KE9ChXJWornNXIhl57pScRKQHcDJ9I4gXR17ggJA4DbysIrjQtVuAqPuotgRsct9E5p1R81qEkrbcaSu8eG/lJ/XmJPxaBN82YzkWb0Q9rrjIth/UroXBNdyyKQRVaqUyKTfDwvXvNVyr23i3kwtNR9gCPPEdsv9rw6uGvX90RxuUq7HfZnc0SRbEEiYl8h29RQoGRp5m2CqJr/OqEiOi+kLKvc93a1osdLVdL4P1ZQHgQb2ScGED+azDvDoHQ6yVMbkcSunDKjq+y9C6gDiNaHPrc+pY3u+nXMVZAiXzStRsd+s/X+ADZlrNgUwSpOt5sVPxXGE=;zwnqmYlgx33VrB2yzrl1tQ=="

@@ -37,6 +37,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning is helping us understand Alzheimer’s disease"
+    excerpt: "Using machine learning to pinpoint the most accurate means and timelines for anticipating the advancement of Alzheimer’s disease"
+    publishedDateTime: 2022-11-29T12:52:00Z
+    webUrl: "https://www.openaccessgovernment.org/machine-learning-helping-understand-alzheimers-disease/148335/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 39
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/11/dreamstime_xxl_186175358-scaled.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Machine learning gives nuanced view of Alzheimer’s stages"
     excerpt: "A Cornell-led collaboration used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer’s disease in people who are either cognitively normal or experiencing mild cognitive impairment."
     publishedDateTime: 2022-11-28T17:42:00Z

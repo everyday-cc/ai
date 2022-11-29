@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
-    publishedDateTime: 2022-11-25T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chatbots Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence Chatbots"
     publishedDateTime: 2022-11-25T12:45:00Z

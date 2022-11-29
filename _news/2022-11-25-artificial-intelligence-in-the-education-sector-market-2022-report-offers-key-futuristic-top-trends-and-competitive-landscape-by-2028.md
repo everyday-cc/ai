@@ -29,113 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT"
-    publishedDateTime: 2022-11-26T17:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26"
+  - title: "Six AI Trends Poised To Reshape The Business Landscape"
+    excerpt: "Successfully leveraging even one of these trends can help your organization optimize its competitive advantage while also elevating its growth trajectory."
+    publishedDateTime: 2022-11-29T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence Chatbots Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence Chatbots"
-    publishedDateTime: 2022-11-25T12:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2023-2028-2022-11-25"
+  - title: "Artificial Intelligence Needs To Speak The Language Of Business, Not The Other Way Around"
+    excerpt: "An important point is that AI needs to serve the customer, and help the business put the customer front and center. Most AI projects fail to deliver value “because they don’t start from business realities,"
+    publishedDateTime: 2022-11-27T17:27:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6383aa64488fd33f44459798/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 622
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
-    excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
-    publishedDateTime: 2022-11-26T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
-    excerpt: "\" Artificial Intelligence in Precision Farming Market \" Insights 2022 - By Applications (Experimental Study, Farm Management, Private Planting), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
-    publishedDateTime: 2022-11-27T00:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Medical Artificial Intelligence Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Medical Artificial Intelligence"
-    publishedDateTime: 2022-11-25T18:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Accelerator Market 2022 : Growth Statistics, Industry Share, Latest Trends, Growth Drivers, Size and Forecast till 2028"
-    excerpt: "AI Accelerator Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corresponding detailed ana"
-    publishedDateTime: 2022-11-26T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-market-2022-growth-statistics-industry-share-latest-trends-growth-drivers-size-and-forecast-till-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "LegalTech Artificial Intelligence Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"LegalTech"
-    publishedDateTime: 2022-11-27T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market 2023 : Trend Analysis, Competitive Outlook of Top Industry Players and Future Expansion by 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence (AI) in"
-    publishedDateTime: 2022-11-25T12:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2023-trend-analysis-competitive-outlook-of-top-industry-players-and-future-expansion-by-2028-2022-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
 
 secured: "VCdsZ0a89/hsw/i5KPDYVzVXmBBD64+fmdK5WYYfG7ItKR2Q2XKknnjrRxAZiL9QN+UVn6ZRUwZS6pj270LWHl/FfUgLcWMu3Csl1sTsMBX4bHGMw0Jo4EAvCNuGq6t92838QawAQWyspNHvFzJTL3C+ccZo7uJnsxp+pn6kbRZQoGf3Xhbl586oVPEkCPQ3jQVatjIK1HHlnlGBtf0DTnbRobFWFjZ1kanFOHiUgr4PqseQ+gRIj524g506MyFNx2lRM0EEfO/DJ3vlCcQSoGVuBL27/Ara3kdkpu5W1TYLcUJl8Y+/KVivhhmfYPgXHRfG9wksbBBM6R+KtUqMPaq2sswXA+Yw31yfjUXBOFA=;3cqNbcf2YBa2pcetL455QA=="
 ---

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "AI Predicts Heart Disease Risk Using Single X-Ray"
-excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease."
-publishedDateTime: 2022-11-29T10:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-predicts-heart-disease-risk-using-single-x-ray-1031941529"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-predicts-heart-disease-risk-using-single-x-ray-1031941529"
+title: "AI predicts heart disease risk using single X-ray"
+excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke stemming from atherosclerotic cardiovascular disease."
+publishedDateTime: 2022-11-29T10:00:00Z
+originalUrl: "https://medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.html"
+webUrl: "https://medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.amp"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-predicts-heart-dise.jpg"
+    width: 784
+    height: 643
+    isCached: true
 
 related:
   - title: "Using An AI-Powered Retina Scan To Detect Kidney Disease"
@@ -54,6 +58,6 @@ related:
         height: 576
         isCached: true
 
-secured: "dnuyc41oq63BCpM60JlNG96YfWNFRGhlBfbE5juS/ef1PGIW0+TLP8ARRflewnlgKlB7+QglMXiM5TBb4xF+SI1l6ao6xerSVmiy+GdiQ5oS10JXcLlLNVrTdK4VqVcVOWZ3puuPPEcKnUQEvcNmMU7YXJm/Fqet8SiWU+Hdza4t4d3ROq+DfK1z6jgsA91ICxFqNtUqjbl6CZtz5aFjFQl1ODNIDjmNodzNNbxSyODVSCAttPBIX57XPRXC20aUOAVJ+sRL4Gv+pm8FIzS3CgbyxLkeA6cojMnqBHAVhNHX2wkl+v3kw+vurt6MgfH5V3sQ5XxokIG2QZBrQhs+2VB7SFvuY+9JRv0XdUytsv4=;VDRv21EnD5eNMP9ZjQyE9w=="
+secured: "N/Al9b6zHQ/2QKMKusXCdCraVHKnWrnr3dKWU9j8KFoFXd9BLy99dFdSGfCGwjrKxtWaE2/gxoNVOY66EhJ5OkrFRP2CFdJBoL9gHTKlG7K1hSKuoBAe2ANeSRLjU/oaJ7hX84aZJJGyddwcGu/xOLvcJ8HCIq726lTBmxAO54AKy52U7+PAU07p8523MYhT/tFgTQfNgNFYhvza7tua5Z+dQX8sppGbQiBZFMZfP6n7nDYedW29U6eqU4sQEEUi0Yok4abxo/gfekxSJ77yQEDCv5hi9WSFQ9zg9k900wS5gukK8LFKFa/Wv7M55g8sZhl+83hGt+IFGrsEl0nYxb1cGvYtxgoMAIjlINH1Lmo=;GGUw2RAvJNFFf/Qnth43QA=="
 ---
 

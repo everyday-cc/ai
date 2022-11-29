@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
-      "title": "How artificial intelligence is being used to stop retail theft",
-      "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
-      "originalUrl": "https://www.wcpo.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "publishedDateTime": "2022-11-18T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-18-roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen.md",
       "title": "Roadlink International Trading Limited Successfully Tests Driverless Car in Shenzhen",
       "excerpt": "HONG KONG, Nov. 18, 2022 (GLOBE NEWSWIRE) -- Roadlink International Trading Limited said that the testing in Shenzhen over the past six months included a \"driverless car safely navigating roads ...",
@@ -1398,6 +1355,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom.md",
+      "title": "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com",
+      "excerpt": "As technology evolves, the automobile industry has taken advantage of new discoveries to provide new ways to make driving more autonomous. Using artificial intelligence to develop self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-/article_fdc7bf0a-af1e-59b2-8ee9-043092bb0dd2.html",
+      "originalUrl": "https://www.eagletribune.com/region/automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-/article_fdc7bf0a-af1e-59b2-8ee9-043092bb0dd2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

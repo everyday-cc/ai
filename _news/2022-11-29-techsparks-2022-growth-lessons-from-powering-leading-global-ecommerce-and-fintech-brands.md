@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2022/11/techsparks-2022-growth-lessons-leadi
 webUrl: "https://yourstory.com/2022/11/techsparks-2022-growth-lessons-leading-global-ecommerce-fintech-brands"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "Crypto Remains Largest Investment Sector in 2022, Outpacing Fintech And Biotech"
+    excerpt: "Funding for crypto developer teams in Mysten Labs and Aptos Labs have lead DeFi and Web 3 deal-making in Q3 this year."
+    publishedDateTime: 2022-11-29T11:34:00Z
+    webUrl: "https://decrypt.co/115927/crypto-remains-largest-investment-sector-in-2022-outpacing-fintech-and-biotech"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 35
+    images:
+      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/crypto-token-investment-gID_6.jpg@png"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "9mKyz8Bim/SumxBIUQ6hj7eLr0ScxqRzOjR4shW87hAEG7Gib3DG7MYMot9anrmiJHOzed2pGayMzOo2ATXkWDiUKC/OUbfRHb0SLSWWmwIrl3My5oWXZQGRsw6prOwxklUZz0bm0tmUGI4lR8OcsG5avMw1/tOEBAq5RY59biIkaf4f6n43RwehoFbev32LFWWGoTNAb4LRwKGSHEbz7anP5hmktdNxYVHfixytB6t04qG/4Q22nBM+4kSEg05CjrKV2Bnn8cRCS2lmdlw9TKzN9sxm76eQ5qPcVr1YwbUecJ7gZ9xoUIJ6TqsFhXfKlp4fG43UlBtTCJwcLDaGICrbg9LjquAQF/prpzF4/ibyP1PjlXfw9qb01v2g0aWcP6BU615HVm5qCsSf9vKpaZBfjEtIeF1xr/WT1LhHaeC2gYjJXjY/hJPaNhLn4BsXwa/4IHncIcj1fX5n9XzZ6C0PY9WnFOAguFw/vcCCKVBLJd1bUEjut7sJMezBAKkM0egVqV2Ac6+fp8LkzzcTUQ==;oZFzBjPrdBfA1tElpEjzPA=="
 ---

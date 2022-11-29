@@ -113,6 +113,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Tesla makes automated driving available to North American owners"
+    excerpt: "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
+    publishedDateTime: 2022-11-28T15:18:00Z
+    webUrl: "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20driving%20BL%20web.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla’s Full Self Driving Beta Now Available To All Tesla Owners"
     excerpt: "Full self-driving for all, decreed Elon Musk. Despite being mired in controversy, Twitter, SpaceX, and Tesla owner Elon Musk still took the time to announce a big milestone for the EV brand; full-self driving is now available for all compatible North American Teslas."
     publishedDateTime: 2022-11-25T17:52:00Z
@@ -122,20 +136,6 @@ related:
       name: AutoGuide
       domain: autoguide.com
     quality: 49
-  - title: "Tesla opens floodgates for owners to test out automated driving"
-    excerpt: "Chief Executive Officer Elon Musk tweeted that the system Tesla calls Full Self-Driving Beta is now available to anyone in North America who’s bought the option and requests it from their car screen."
-    publishedDateTime: 2022-11-24T21:03:00Z
-    webUrl: "https://www.chron.com/business/technology/article/tesla-full-self-driving-beta-17609158.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/30/41/15/23204675/3/rawImage.jpg"
-        width: 2048
-        height: 1324
-        isCached: true
 
 secured: "Ecsq0jv/ywcNrkSCHOzU8MnTVus6njQ0phpGPJXRqjgvsXSYccTxQ29mkAoTugXL6cZdY4rilJuI4hcMDigkMlmhFaCLyWompz+Un53hnyqy30ygK1IGZOmMFdylD9hJVOl0CEeKuzeiwvA9vuHMEub8zhxqsAqMRHyAMNks9UZhFtRNLZkAx/oWWomq7Ye9I9s40o2oza6LXvquTf3ZFWsVxDWnbYm5jRwAgc+Vvw1Sh9lAcyMR+OBO1qG2HMZfHffl4zwBal6iDebdBy+hzWvizShx/L37EmsXL59cPpnjX5SsUbvPTsTXYOKJBPlCba6DWQZaLMXp2c9sZsOdXgo4Hqn+FZIXSZ7GhKYfyRjswjnM7Mnd2YfRJ2J5tM+J0S7CQ8A5+0dt62AyIjrWc7Wp9y8cRww4j+NtWQ0FwHqpR5rXP7Y+YrbUOe2vggCXsZGWTzHJZCLoqd7xxosCP1VlIwUDr0rkFCv+4f/a8/8CKETAfG+n+hNW4jtHFjNXg0uf1fyicOucLQqzYERLOA==;/M0O8uLdgzkAGOBa/7iV/A=="
 ---

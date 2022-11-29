@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Westpac joins consortium of experts backing responsible use of AI"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-11-29T12:39:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/westpac-joins-consortium-of-experts-backing-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/westpac.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Westpac joins collective of industry experts backing responsible use of AI"
     excerpt: "Major Australian bank Westpac has announced it will become one of six founding members forming a consortium of businesses promoting the adoption of artificial intelligence (AI) within financial services."
     publishedDateTime: 2022-11-27T23:34:00Z

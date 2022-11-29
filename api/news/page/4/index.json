@@ -2,21 +2,73 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
-      "title": "Researchers: AI in connected cars eased rush hour congestion",
-      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you.",
+      "path": "_news/2022-11-23-chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.md",
+      "title": "China's Baidu says it expects 'limited' impact from U.S. chip curbs",
+      "excerpt": "\"A large portion of our AI Cloud business and even wider AI business does not rely too much on the highly advanced chips,\" said Shen. Baidu also runs a robotaxi business, Apollo Go, which has ...",
       "sourceUrl": null,
-      "webUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
-      "originalUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "webUrl": "https://www.cnbc.com/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107156082-1669182526947-gettyimages-1242981201-AFP_32HR3QZ.jpeg?v=1669191019",
+          "width": 5813,
+          "height": 3868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "publishedDateTime": "2022-11-23T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-james-lee-on-baidus-chip-resiliency.md",
+      "title": "James Lee on Baidu's chip resiliency",
+      "excerpt": "James Lee, analyst at Mizuho Securities, says that Baidu is not reliant on highly advanced semiconductor chips and manufactures its own AI chip for its cloud computing and robotaxi businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/11/23/james-lee-on-baidus-chip-resiliency.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/11/23/james-lee-on-baidus-chip-resiliency.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://kesq.b-cdn.net/2021/06/kesq.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://image.cnbcfm.com/api/v1/image/107156088-16691838981669183896-26742912698-1080pnbcnews.jpg?v=1669190221&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +78,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T00:08:00-08:00",
+      "publishedDateTime": "2022-11-23T00:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +101,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -937,6 +998,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
+      "title": "Researchers: AI in connected cars eased rush hour congestion",
+      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "originalUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2022/11/ap_d9ad284027ec47c984d527f0f5ecd42f.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3726449/researchers-ai-in-connected-cars-eased-rush-hour-congestion/amp/",
+      "publishedDateTime": "2022-11-22T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-real-time-analysis-of-customer-sentiment-using-aws.md",
       "title": "Real-time analysis of customer sentiment using AWS",
       "excerpt": "Companies that sell products or services online need to constantly monitor customer reviews left on their website after purchasing a product. The company’s marketing and customer service departments analyze these reviews to understand customer sentiment. For example, marketing could use this data to",
@@ -1091,83 +1195,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-robots-authorized-to-kill-in-sfpd-draft-policy.md",
-      "title": "Robots authorized to kill in SFPD draft policy",
-      "excerpt": "A remote-controlled police robot used to disarm bombs. Image from Shutterstock. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. A policy proposal that is heading for Board of Supervisors ...",
-      "sourceUrl": null,
-      "webUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
-      "originalUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mission Local",
-        "domain": "missionlocal.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-loreal-leverages-yseops-ai-powered-augmented-analyst-to-accelerate-complex-analysis-of-actual.md",
-      "title": "L’Oréal Leverages Yseop’s AI-Powered Augmented Analyst to Accelerate Complex Analysis of Actual ...",
-      "excerpt": "Yseop, a world-leading AI software company and pioneer in Natural Language Processing (NLP), today announced that L’Oréal deploys Yseop’s world-class enterprise automation",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/l-or-al-leverages-yseop-s-ai-powered-augmented-analyst-to-accelerate-complex-analysis-of/article_b8d36143-865e-5957-8dd6-95b3b8431c3a.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/l-or-al-leverages-yseop-s-ai-powered-augmented-analyst-to-accelerate-complex-analysis-of/article_b8d36143-865e-5957-8dd6-95b3b8431c3a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

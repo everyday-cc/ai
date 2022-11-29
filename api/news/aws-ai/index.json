@@ -255,6 +255,59 @@
       ]
     },
     {
+      "path": "_news/2022-11-24-ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages.md",
+      "title": "AI Computer Vision Market Size, Recent Trends, Demand and Share Estimation By 2028 with Fastest Growing Countries Data | 107 Report Pages",
+      "excerpt": "According to this latest study, the 2021 growth of AI Computer Vision will have significant change from previous year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption.md",
       "title": "How JPMorgan Chase & Co. uses AWS DeepRacer events to drive global cloud adoption",
       "excerpt": "This is a guest post by Stephen Carrad, Vice President at JP Morgan Chase &amp; Co. JPMorgan &amp; Chase Co. started its cloud journey four years ago, building the integrations required to deploy cloud-native applications into the cloud in a resilient and secure manner. In the first year, three applications",
@@ -1390,49 +1443,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-aws-opens-spanish-cloud-region.md",
-      "title": "AWS opens Spanish cloud region",
-      "excerpt": "It becomes AWS' eighth infrastructure region in Europe, with this one located in Aragón. Like other regions, it will have three data centers (or availability zones). The facilities will be the company's first dedicated zones in Spain, though it currently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/AWS_Logos_Small.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
         "images": null,
         "publishers": null,
         "authors": null

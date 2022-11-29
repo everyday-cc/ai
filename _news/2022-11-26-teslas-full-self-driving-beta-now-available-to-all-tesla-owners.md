@@ -107,19 +107,19 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Tesla opens floodgates for owners to test out automated driving"
-    excerpt: "Chief Executive Officer Elon Musk tweeted that the system Tesla calls Full Self-Driving Beta is now available to anyone in North America who’s bought the option and requests it from their car screen."
-    publishedDateTime: 2022-11-24T21:03:00Z
-    webUrl: "https://www.chron.com/business/technology/article/tesla-full-self-driving-beta-17609158.php"
+  - title: "Tesla makes automated driving available to North American owners"
+    excerpt: "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
+    publishedDateTime: 2022-11-28T15:18:00Z
+    webUrl: "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
     images:
-      - url: "https://s.hdnux.com/photos/01/30/41/15/23204675/3/rawImage.jpg"
-        width: 2048
-        height: 1324
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20driving%20BL%20web.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla Self-Driving Beta Feature Now In The US"
     excerpt: "The CEO said, “Tesla Full Self-Driving Beta is now available to anyone in North America who requests it from the car screen, assuming you have bought this option.” It is a set of features that may turn autonomous driving into a standard for Tesla vehicles."
