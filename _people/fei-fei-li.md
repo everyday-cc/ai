@@ -25,7 +25,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=rDfyQnIAAAAJ
-  citations: 184906
+  citations: 185278
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Fei-Fei_Li
