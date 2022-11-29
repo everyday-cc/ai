@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-15-iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools.md",
+      "title": "IIT Jodhpur, Swiggy join hands to develop facial recognition tools",
+      "excerpt": "This partnership was established when Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "originalUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/11/IIT-Jodhpur-1-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "publishedDateTime": "2022-11-15T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-italy-outlaws-facial-recognition-tech-except-to-fight-crime.md",
       "title": "Italy outlaws facial recognition tech, except to fight crime",
       "excerpt": "REUTERS/Guglielmo Mangiapane/File Photo MILAN, Nov 14 (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two ...",
@@ -1259,49 +1302,6 @@
       "provider": {
         "name": "Al Jazeera English",
         "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service.md",
-      "title": "How to submit digital life certificate (Jeevan Pramaan) using Face Recognition Service",
-      "excerpt": "With the introduction of a Face-Recognition system based on the Aadhar database, the government has now made it possible for anyone with an Android smartphone to submit a DLC.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/articleshow/95292368.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/articleshow/95292368.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-485311,msid-95292371/old-hands.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/amp_articleshow/95292368.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/amp_articleshow/95292368.cms",
-      "publishedDateTime": "2022-11-03T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

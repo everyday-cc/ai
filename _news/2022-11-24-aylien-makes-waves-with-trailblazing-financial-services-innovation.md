@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "SIX fintech sectors transforming the financial industry"
+    excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
+    publishedDateTime: 2022-11-25T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/six-fintech-sectors-transforming-the-financial-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/320/a4fba8725189c23bc1c4e561a5e0713d:dc71820e8649a101a4d0de5ee1719096/gettyimages-1381334525.jpg"
+        width: 319
+        height: 241
+        isCached: true
 
 secured: "v3PIfwVZhxuRhzPzLgoYGBbrqZu7yT/BPLiR267g4sOsQl3fdW0IqGqSi9IUUOzk/bDqOuj1u4KiXwAenNnlu2YK4CYP3wCUlVI3Y3ccGbWMviC7PHiA50udwR5Rm3gS+0mmale4hRtOa9kTkU2+cHpPYExRFrhQRZx84s3zSVXWnlNtIUC0+eVcucQFraOMQ8KHE78PBuwq0hka9qRFHqd5+LGhXydUL3fKYjBAKdRS0umTSQ537c9PvxyHR9o6mt+hTwykh792T89JOuqIh5T7ea4HUjLXgvlK3biKq2NDYzmG/JCUON2Mekz3+9FxVZllpspN+GeTqmfuOpH7z9qCQ6Yuv36bKLhSy5LUeIo=;Fl5MuJ3FHFvq546Pwo0ouA=="
 ---

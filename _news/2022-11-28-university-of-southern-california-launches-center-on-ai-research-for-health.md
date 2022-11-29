@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/university-of-southern-califo
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/university-of-southern-california-launches-center-on-ai-research-for-health"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Russian Health Ministry launches healthcare AI platform"
-    excerpt: "\"The Russian Health Ministry has launched a healthcare AI platform. The primary objective of this platform is to create a digital environment for interaction between developers of AI-based solutions and the medical community,"
-    publishedDateTime: 2022-11-25T10:16:00Z
-    webUrl: "https://interfax.com/newsroom/top-stories/85389/"
-    type: article
-    provider:
-      name: Interfax
-      domain: interfax.com
-    quality: 34
   - title: "Deepspatial to use artificial intelligence in aiding University of Southern California's healthcare policy research"
     excerpt: "Deepspatial Inc (CSE:DSAI) said it has formed a partnership with the Department of Population and Public Health Sciences of the Keck"
     publishedDateTime: 2022-11-28T11:48:00Z

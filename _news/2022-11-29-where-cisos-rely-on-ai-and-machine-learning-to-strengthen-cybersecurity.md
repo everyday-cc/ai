@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-lea
 ampWebUrl: "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/"
 type: article
-quality: 108
-heat: 118
+quality: 112
+heat: 122
 published: true
 
 provider:
@@ -25,6 +25,8 @@ topics:
   - AI
   - Machine Learning
   - AI in Healthcare
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all"
@@ -43,6 +45,6 @@ related:
       domain: venturebeat.com
     quality: 30
 
-secured: "wfbyUHB1tBYmiGkQAi/g3Ue1E79M3OjncpUiuY4Y7/LyYbw8rUqpExMGFrhhb+yI1tDG4NdRjW3JO6EakabvNK1OI6N9RMups/E07JDfT37lnvzDFw4Mio1UFhTAxSVBloFY8rX6drjATPZwb2zUmvV+47/t1V6ktApOgz1iKRmB+cpFT/RpyqfqH0g7leTPB5JhUpK8v5HwpryKf27NOvRuz6gVQ+AK4CJMMef6DldwBV9sUM0/Z7jyUNfVS61LgW0OiMBOtFlfD4q2IuBfujKaBHpgvk0d4t4ld77S5z2T+JEtvnIdMNdmvv32mdqmiWl4KSqeL66r1KgVP/gUDOJw6FpLDqla50suWWhg41o=;MQAs90aVpPDnaQekIs59wQ=="
+secured: "HeikQ+uTXTqf002bUM3FjGIdHP4I+3o5b7y5zd2u3Hr5PytjlfLY6z5z8Bkdv+1mHtV42B7WVNNxdvOlv84tm3tqPuGmjX33otoHv3ANpKErQ7/tmCMJ7cMHUR1w44io9Ii0+3TH9fE41rGWnDRhxfXXF6rNPeFr1AY0FqbZ5GPUzXxO2B0gnlF79HRgRXSx8RlfxH7M1yjzF/p6ZSSfI0TAyFxPmkSj+KsOOxAhLbxBxK5AUIex5DgVfApX7qDKIyPbGf8ndz8aUG0hQ4YZwB+KCkV1xyMEL+fSExEJRombpGuvy2j/q/Bum7EuJaQsQa8gA6XZenyaO6sXdeGpbQu5+cfiQd7KcoBlIiBSA0XhscyAK75/7BRdwD6069K3Z1g7XxssF1OM/F6mhhDLs5asCKQbDDEa9FeAgBXlpMi5j7pHsQRwaKNrL9MJ2iXBOQlqJLNe1mTev3OYQwRqabsbc8tmqV/ZceAaZT5jfaWGkKP1F1A68roPqfGynsShRM/+4B/CyU8PKn6IsmLlhQ==;n9yqOO/OMorSvg21ZVJ5GA=="
 ---
 

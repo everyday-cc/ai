@@ -15,6 +15,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://cursus.edu/storage/thumbnails/7ZVqQtw5b8GmadzNNUhf0iyrebl1wUruX356Ujkh.jpeg"

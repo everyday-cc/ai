@@ -16,6 +16,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "jcSp4FIAMD354V5VJbgGr6OTjDXVQvjapPPQ10ffx8Q6ywJq/sWNKoz/GqRjFL8lZaT5zBFO+nCKY3wbAkqghGt6kkrgr9BP8XCfy+8eYzIEF/UgqbuJEoxAAJBJ38F5Ol28y90ZHvhMkk1BOfMwT1O4bsy9H3xXhgEpSHoW3EA0RtsyCMQ1K7stzcLyuraggCuOyIsKXsEueLZBjvbAvB26d7bSnjPhfJUMHnfMSMDLtSFhQxVkMQkqqGwMNDPUPWWB2eNWCAyPlfzPKMCVGZ5xao8L+iIC82Wng4WF20PkwVdpGbeoscbcu+xtZD5goJFgwcBJQrS2bhIpwllG94ZkncVW29k1a1Bj6qoFZ0U=;kDwfWOmqBHyNpeuGLXmUWQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1954266/image_5017766_8921820.jpg"
+    width: 400
+    height: 284
+    isCached: true
+
+secured: "NbvPSxZAOpnao+ZLabQYEIXxh6Fz7cbzVEp8SzmRdT0BxSdKiT7F5ek/iJo3knrTMpq2YpqR4FZh1F0mq8RGVhAF8rMTsEXDvWxkwWV/wvWvHZs7NXuqu8d3jpTEd/OK5+vDPuBweP2Mfkx7MHtWovGYoiLLv16Z5RJxI0SrQFpSlyfRDevMKbcoP+BxHU0SXfcYRlweIj0Zkhpz8Qi5T+48IGdthOJwrWGuZR1CGKiejKtaMc4l84o3NiuFc7kuTzWa4KEIV7IsMoMsPPRh0arR5qsV6xohH30mzhbonNyJQWUed4/rpyPvhS3f34Gdq9zqZRfMZVxNlud0nziq/CIbLLix12l29O73mTrZEaY=;T6obXRz0uv0j3tx2NXJxfg=="
 ---
 

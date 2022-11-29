@@ -18,6 +18,22 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "UCL Computer Science To Explore Natural Language Processing On Quantum Computers For Content Discovery and Archive Retrieval"
+    excerpt: "A new consortium funded by the Royal Academy of Engineering will build on work in quantum mechanics and linguistics conducted over 15 years by researchers at University College London and Quantinuum CAMBRIDGE,"
+    publishedDateTime: 2022-11-28T23:00:00Z
+    webUrl: "https://www.asiaone.com/business/ucl-computer-science-explore-natural-language-processing-quantum-computers-content"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 12
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/pr-newswire_500_4_1738.jpg?h=7de12b8a&itok=hzg9EbjN"
+        width: 600
+        height: 316
+        isCached: true
+
 secured: "XeukFEXgNEeWVyb8f4+EHz751XlwC0EwtzB6cqGbBIK68ebugod1hVCY0DZurdVNEEj/xjFjpPenyAOQUoWkbTB+75L2Dlxd2cUH3wjgCdhEWSP3plfGYgKjPwPlfQVhu/nII/dRQVgTNIPpqQMiAS2V3qFdShliV3JQeN+bd7/2TVH/f9FcV8prIwP30D/0RY9y/czvce29jsPMT03+sUNh6RUWD/FvXGAWk3IrW2BN8RBkxmUG8dNP1Qmqhe3MaTSeKs/Is1ysng8Rq3IEaWiPR3aSmgatevrqgk35qNH0tPlnpPpAxzyGfVUDn+A0W8B2sXFI7St+nuM74mHhmrXdPTrJjapiDKncNfAX/9RY5bMItqmqJTcNkAc7CSkwdsLtSZWK8VXwTAflIeIWvVvhdkAu5hWfOuBkPGWMhnLXyAFMdqDxndHXJEheh3ucjFvHgAKE4rX6eFscQF3F9pwbYSMGwKVAFlXWVcGtIf0SkiuBq7bkFHWzCuMDGMqQJcT2oVOtcgISVrBvX/kHTg==;PGCMfTU0YTF33hEIQ5NbTg=="
 ---
 

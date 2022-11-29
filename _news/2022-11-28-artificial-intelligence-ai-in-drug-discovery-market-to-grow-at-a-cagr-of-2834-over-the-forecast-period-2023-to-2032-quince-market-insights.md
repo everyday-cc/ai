@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/g29871938/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/29871938"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29871938"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - IBM AI
   - AI
   - Microsoft AI
+  - AI in Healthcare
 
 related:
   - title: "The Worldwide Artificial Intelligence in Manufacturing Industry is Expected to Reach $21.3 Billion by 2028 at a 42.2% CAGR - ResearchAndMarkets.com"

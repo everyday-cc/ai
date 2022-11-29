@@ -44,15 +44,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Russian Health Ministry launches healthcare AI platform"
-    excerpt: "\"The Russian Health Ministry has launched a healthcare AI platform. The primary objective of this platform is to create a digital environment for interaction between developers of AI-based solutions and the medical community,"
-    publishedDateTime: 2022-11-25T10:16:00Z
-    webUrl: "https://interfax.com/newsroom/top-stories/85389/"
-    type: article
-    provider:
-      name: Interfax
-      domain: interfax.com
-    quality: 34
   - title: "Deepspatial to use artificial intelligence in aiding University of Southern California's healthcare policy research"
     excerpt: "Deepspatial Inc (CSE:DSAI) said it has formed a partnership with the Department of Population and Public Health Sciences of the Keck"
     publishedDateTime: 2022-11-28T11:48:00Z

@@ -18,6 +18,38 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia AI plays Minecraft, wins machine learning conference award"
+    excerpt: "A paper describing MineDojo, Nvidia's generalist AI agent that can perform actions from written prompts in Minecraft, won an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS (Neural Information Processing Systems) conference,"
+    publishedDateTime: 2022-11-28T22:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 104
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mine_dojo_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Nvidia wins award for AI that can play Minecraft on command"
+    excerpt: "A paper describing MineDojo, Nvidia's generalist AI agent that can perform actions from written prompts in Minecraft, won an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS (Neural Information Processing Systems) conference,"
+    publishedDateTime: 2022-11-28T22:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mine_dojo_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Unlock AI’s model by watching 70,000 hours of Minecraft"
     excerpt: "OpenAI which is an Artificial Intelligence research laboratory has built another stunning AI model which is the best Minecraft-playing bot till now by making it watch 70,000 hours of video gamers playing the popular computer game Minecraft. It showcased a ..."
     publishedDateTime: 2022-11-27T08:45:00Z
