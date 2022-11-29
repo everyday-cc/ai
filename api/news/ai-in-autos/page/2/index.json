@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-19-fully-driverless-lyft-service-coming-to-los-angeles.md",
+      "title": "Fully Driverless Lyft Service Coming to Los Angeles",
+      "excerpt": "Los Angeles residents will soon be able to request an autonomous Lyft. The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/fully-driverless-lyft-service-coming-to-los-angeles",
+      "originalUrl": "https://www.pcmag.com/news/fully-driverless-lyft-service-coming-to-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03LNiC95jSpEMuFiSfH75vI-1.fit_lim.size_1200x630.v1668700444.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
       "title": "How artificial intelligence is being used to stop retail theft",
       "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ...",
@@ -41,8 +93,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -1340,58 +1391,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-waymo-is-one-step-closer-to-charging-for-self-driving-taxis-in-california.md",
-      "title": "Waymo is one step closer to charging for self-driving taxis in California",
-      "excerpt": "The firm already had permission to charge for self-driving taxi rides with a safety ... modest compared to what's available in China. Baidu's robotaxi service is available to the public in larger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "originalUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/25f6b130-60fd-11ed-ade3-926f5c8d40ba",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "publishedDateTime": "2022-11-10T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

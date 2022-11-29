@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T18:50:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29895222/axes-donates-150-000-to-ai-research-at-unlv"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/g29895222/axes-donates-150-000-to-ai-research-at-unlv"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Benzinga.com

@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI is transforming the Toy Industry"
-    excerpt: "The Internet of things, often known as IoT, is a platform that allows all physical items globally to be linked to the Internet. Thanks to computer chips and other wireless networks, it is now quite simple to transform a massively inefficient thing into a high-tech machine with all of the capabilities necessary to assist in"
-    publishedDateTime: 2022-11-25T05:25:00Z
-    webUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/"
-    ampWebUrl: "https://techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-is-transforming-the-toy-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 63
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/20161005111439-Robots.jpeg"
-        width: 2000
-        height: 1334
-        isCached: true
 
 secured: "bkPQ1JZ+1G3SczTd9+Q10+MEGM2+pprSlmf4Lf8jvoawUOBSTb1z6J9ZHrfJrTqFYFpvEBJrA/9DGi6LreVwtiMguJEUV/s+90fha4QVSZJYl9Y24YMNb7q6/D2vxoEm1DGP+OZup4iVejVdkkq0i01sNkPieh0LQrOKx4p9uAJypnUJawLpL2n+7ZsDJA7218jal1e5nvJrPt5hn4Zyi+QVIgD0/moVGGn8oSJfOK3fMRcWzEB+MAu8Cr8EM+HganDtzxXYjf/lDbeem/59xoCvGzR1qlBJZTChknV6Fv3iapjl/yzXin/iEAnulWl1A8ak3atw24Ybxx85vKjGSAqV4IILhZzHkbGIWTGnunF7e/e9vEJXG6Cu+XaYxY5LnzLpvyY90JKuzJZMufmI/1nk7SokZbx6VADpV8Dz3eVSs3nEOf0VOBxdAiJWPuDOfxl5KWwR/RyAC5zrpQKBCSWpaIuXmpfNSNdG4vA2YoRsMcOn640J1vpT2tsRR0Iy1YmEnMwAp2L0BGcXec/dUw==;cNVe2y9+G2zNjZDAVxehVQ=="
 ---

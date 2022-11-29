@@ -43,6 +43,15 @@ related:
       name: The Independent
       domain: independent.co.uk
     quality: 8
+  - title: "Score an iRobot Roomba for $288 while you still can: Plus more Cyber Monday robot vacuum deals you can still get today"
+    excerpt: "Save big on a selection of top-rated robot vacuums with the best Cyber Monday deals that you can still get today."
+    publishedDateTime: 2022-11-29T19:42:00Z
+    webUrl: "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals-2022-11-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 0
 
 secured: "UR4w+29oCB6biIm7wpHUhjMV9Fpa49XzoyjpwfWDdGKuYYut49/V4+2YlBUcX4TIgDX62sithHtbRblvZgEBWwnbJUQE3JDevpc07kren+dkxt3Bqpa9TzFbisPWAuXUuXfKHO2BHDDa6uijnng6OvB5eR3ysfh652TCztiG7xKRKPmQLGNleiU6TlKfzv7ZcgFRXcGrkoojxkPoyzASTSEvR9+OjGi+jxC5xMRN4qZNi2HHGYL2wVOwOoGXTfr9T2dxsUodBFRY2ntDz+a6jwOL1jGb9TWzUEaI9Du3++gqSf/p5dd06Vbn1l1QeL+3t1Y20ByugULe8IJH+3E46ZdaKHEIZWZy+stmxKKE8Hr2uTJO933rdLthfj3l8aClUCXDFc9/yQudoFEDSOz4rd2+UWK1xMSQ4WB2Von9E7T0T0tVbEqXB89s0NEMawwtOGhl0kuREtuMsZkvIuJWyMsGb6y3xjqiDPgsc4fz8MIat2F+F4Xb/MDG22ms969cIuAKuCZiely4o5ID0rvCkQ==;Emh5gMWugTYeMoA4S6f7+g=="
 ---

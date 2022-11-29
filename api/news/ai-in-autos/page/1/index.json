@@ -54,6 +54,60 @@
       ]
     },
     {
+      "path": "_news/2022-11-29-artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028.md",
+      "title": "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028",
+      "excerpt": "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
       "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
       "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
@@ -118,7 +172,7 @@
       "originalUrl": "https://thenextweb.com/news/london-based-flawless-ais-true-sync-tech-is-a-revolutionary-approach-to-film-dubbing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -374,7 +428,7 @@
       "originalUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1424,58 +1478,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-fully-driverless-lyft-service-coming-to-los-angeles.md",
-      "title": "Fully Driverless Lyft Service Coming to Los Angeles",
-      "excerpt": "Los Angeles residents will soon be able to request an autonomous Lyft. The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/fully-driverless-lyft-service-coming-to-los-angeles",
-      "originalUrl": "https://www.pcmag.com/news/fully-driverless-lyft-service-coming-to-los-angeles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03LNiC95jSpEMuFiSfH75vI-1.fit_lim.size_1200x630.v1668700444.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

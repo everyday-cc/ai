@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T19:55:00Z
 originalUrl: "https://phys.org/news/2022-11-team-nano-magnets-nerve-cells.html"
 webUrl: "https://phys.org/news/2022-11-team-nano-magnets-nerve-cells.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

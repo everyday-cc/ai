@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI HealthCare Apps for Companies That Put HealthFirst"
+    excerpt: "This blog profiles leading AI Healthcare Apps for companies that are putting health first. With staggering increases in depression and anxiety across the globe, all board directors and CEOs should have mental health as one of their top business priorities."
+    publishedDateTime: 2022-11-29T19:32:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/638658b2e739943876a067da/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 971
+        isCached: true
   - title: "Venture Capital Firms Are Partnering With Healthcare Organizations To Improve Digital Health"
     excerpt: "Healthcare organizations are hoping to better serve their patients and communities using VC resources and expertise."
     publishedDateTime: 2022-11-29T03:47:00Z

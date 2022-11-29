@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -65,7 +65,7 @@
       "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -86,40 +86,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "Anyone can access the link you share with no account required. Learn more. FREEPORT — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2022/11/24/facial-recognition-can-help-conserve-seals-scientists-say/",
-      "originalUrl": "https://www.pressherald.com/2022/11/24/facial-recognition-can-help-conserve-seals-scientists-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -240,35 +206,35 @@
     },
     {
       "path": "_news/2022-11-24-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial Recognition Can Help Conserve Seals, Scientists Say",
-      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
+      "title": "Facial recognition can help conserve seals, scientists say",
+      "excerpt": "Cataloguing seal faces and using machine learning to identify them can also help scientists get a better idea of where in the ocean seals are located, Ingram said. “Understanding their dispersal ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say",
-      "originalUrl": "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say",
+      "webUrl": "https://fredericksburg.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_8b11b29f-0cda-5cd0-ab88-f3f87fa93f39.html",
+      "originalUrl": "https://fredericksburg.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_8b11b29f-0cda-5cd0-ab88-f3f87fa93f39.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/d/41/d416f266-a62f-57be-a707-058ae7eec91e/637e473c8b5c2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T08:08:00-08:00",
+      "publishedDateTime": "2022-11-23T08:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1380,6 +1346,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-the-hunt-for-the-dark-webs-biggest-kingpin-part-4-face-to-face.md",
+      "title": "The Hunt for the Dark Web’s Biggest Kingpin, Part 4: Face to Face",
+      "excerpt": "The team uses a secret technique to locate AlphaBay’s server. But just as the operation heats up, the agents have an unexpected run-in with their target.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
+      "originalUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6369782f3505151fbc0b01cd/master/pass/WI110122_EX_Tracers_AlphaBay2_01.jpg",
+          "width": 2400,
+          "height": 1632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabay-series-part-4-face-to-face/amp",
+      "publishedDateTime": "2022-11-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -32,17 +32,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Queen Mary University of London: Queen Mary University of London spin-off provides the blueprint for new game-changing AI applications"
-    excerpt: "The Q3 2022 acquisition became a component of Veritone’s new solution Tracker, an AI-powered object video recognition product based on VSL technology.Veritone Tracker leverages AI to track objects thr"
-    publishedDateTime: 2022-11-25T03:11:00Z
-    webUrl: "https://indiaeducationdiary.in/queen-mary-university-of-london-queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications/"
-    ampWebUrl: "https://indiaeducationdiary.in/queen-mary-university-of-london-queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications/amp/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/queen-mary-university-of-london-queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications/amp/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 7
 
 secured: "8/b6glJLc7hgi7B7yLKg4qQsDuKizzO99DiywV6WFAPn9ZRHEH/xOjj1ay7ngRwb3KxthBjnpFuG3qNOQkq8faW87H+99zHApI9Zqs+jROCmEXZRC0fBE7ylYXNujGpqEbR0I3PolBqv1donegrZUTMrrRdXEJ7kKKnArSaMJXFooqZSLRkgqVb38j0CR0CEkkmdlo3WvI4LriO8EPMm0OJhSUnNhr77b9TIqHDa5xa66JN1wSpvbROgJGhJ7iyI8mKMM/ysNY9kB0xjgsqwQDhIdhwnq8pD215H6EtSTMGawT18/+uXG33OAjmLM4798siE2xKOA4MW+NjdeoQEnNn2lK+N5ik0hMKEn11mNKe5ap8+bpRnFzfyJ9vAMR4XTQcHHIFkIjlSq7FXIOfvEB9WE0jNFMFP4gm1fWk9XDVaLRrU2CvkPcJkxukHpwGWrPOGhNUSEYvzqTMiwk9/nwxlI0pPW+L9FufDN2RJ6eCKYRzY2PqFWVs9Ulj6PYLiBwxnCLLqJh+PftWyvWsnpA==;sJtfV2+nZv+fDOv/4PvWNw=="
 ---

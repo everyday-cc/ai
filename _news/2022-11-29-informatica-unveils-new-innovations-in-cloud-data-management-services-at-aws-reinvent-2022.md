@@ -77,6 +77,15 @@ related:
         width: 300
         height: 228
         isCached: true
+  - title: "AWS re:Invent 2022: The Future of Energy Depends On Innovative Technology"
+    excerpt: "Artificial intelligence, machine learning, Internet of Things tools and cloud migration are driving digital transformation for utilities, with support from partners such as AWS."
+    publishedDateTime: 2022-11-29T20:40:00Z
+    webUrl: "https://biztechmagazine.com/article/2022/11/aws-reinvent-2022-future-energy-depends-innovative-technology"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 18
   - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
     excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
     publishedDateTime: 2022-11-28T14:55:00Z
@@ -95,6 +104,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 14
+  - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
+    excerpt: "Invent – EOT (embassyofthings.com), a leader in software for energy, manufacturing and the Industrial Internet of Things (IIoT), has been working with Amazon Web Services (AWS) to develop two plug-and-play software-as-a-service (SaaS) solutions,"
+    publishedDateTime: 2022-11-29T14:13:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/eot-reveals-industrial-iot-asset-modeling-and-visualization-solutions-at-aws-re-invent-2022/article_589953ad-93d2-5de1-9a33-a8e3f8f63a5e.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 9
   - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
     excerpt: "With EOT Twin Sight ™ industrial users can now leverage the power of low-code artificial intelligence (AI)-driven software to modernize how asset information and data is visualized and drive the rapid creation of use-case-specific visual dashboards,"
     publishedDateTime: 2022-11-29T16:06:00Z

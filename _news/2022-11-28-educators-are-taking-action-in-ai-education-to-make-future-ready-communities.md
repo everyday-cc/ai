@@ -21,21 +21,19 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "How can AI, robotics and blockchain technology transform digital education: OECD’s Digital Education Report 2021"
-    excerpt: "Artificial intelligence(AI) and robotics and blockchain technology when used in a coordinated and combined manner, can potentially revolutionise the education system. The Organisation for Economic Cooperation and Development(OECD) report of 2021 brought to the fore the growing importance of robotics,"
-    publishedDateTime: 2022-11-25T03:47:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018"
+  - title: "How AI-drawn illustrations are teaching kids to read"
+    excerpt: "That's the breakthrough idea from Daniel Cohen, the Denver-based entrepreneur behind the startup Story Co. How it works: The company creates personalized alphabet and numbers books that include realistic drawings of the family pet on each page."
+    publishedDateTime: 2022-11-28T11:59:00Z
+    webUrl: "https://www.axios.com/local/denver/2022/11/28/two-tails-childrens-book-pet-dog-ai-drawing"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 85
+      name: Axios
+      domain: axios.com
+    quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95754018,imgsize-60418,width-1200,height-628,overlay-etcio/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecd-s-digital-education-report-2021.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.axios.com/Hl54hnGjYpisZZCtJri7eROHxbI=/0x2311:5700x5517/1366x768/2022/11/22/1669139139989.png"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "OA/kqgSY/Qme73BV1OlJSUtqTkK2LlM5d2iwU1VpkAFOo/ZR+mW28sf3kwMx7CGNGdVL5tzStWvE+pkZcupHfbHrzXN/wBpE0NKzjlN0YaFimGkcU53dF8gNhBSccDZ7aZI5txXkFM9cfWUnB9MFqf6Y3l4B7sEgqxXqlpC5Gelth8toRQHx1obqwDnA7R56rDvZDOBL39h6XpxqOedDJ0AFdL5cJdwYmndwK99g4s5gkmKqwbcWXJNu7yhWt+XsIZXXcVPRtH+eEdzrNuDb6qWf6fQSRuwCLwqYXpmp3ci4EO0xVTLC4tYne2+r/5LVggt9EKbBENF9x5SskRPB0bC4wYnD1N5mNNr+8NzXPu3cGDmAeXYlIZYkFsSOwohFwlXFEMXVOnZlJwNY/xK36VVC+CaUrnl4CuDobIJdVIiZr+J5zmEDwy9zVH4ZlDaf2eBQW9epWvC27vz2Ja6k4UIIv8qXoNaCOFGu2G2OdyyI7xxn58t/RBqXxbtNMLDlpg+Uw3cUx1d9O63nj0IvPA==;QqE+NDmw+W5WmQNNhiFsFw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 61
     images:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "This $99 Black Friday robot vacuum deal is absolutely bonkers, so get it while you can"
-    excerpt: "The Anker Eufy 25c robot vacuum doesn't skimp on features -- it connects to your home Wi-Fi and can be controlled through an app or through your home's smart speaker. It has 1,500 Pa of suction, three-layer filtration and a slim profile that helps it get under furniture to clean."
-    publishedDateTime: 2022-11-25T05:40:00Z
-    webUrl: "https://www.cbsnews.com/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/this-99-black-friday-robot-vacuum-deal-is-absolutely-bonkers-so-get-it-while-you-can-2022-11-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 51
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/25/1ff2a733-6569-42de-89d7-34483fd143dd/thumbnail/1200x630/8b50c3306d81bd7ee8e20e548a0c7b05/anker-eufy-25c-robot-vacuum-header.jpg"
         width: 1200
         height: 630
         isCached: true

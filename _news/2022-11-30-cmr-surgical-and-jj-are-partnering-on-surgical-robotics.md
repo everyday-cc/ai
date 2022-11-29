@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T19:21:00Z
 originalUrl: "https://www.massdevice.com/cmr-surgical-jj-partnering-on-surgical-robotics/"
 webUrl: "https://www.massdevice.com/cmr-surgical-jj-partnering-on-surgical-robotics/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MassDevice

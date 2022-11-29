@@ -2,27 +2,45 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-11-25-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "Anyone can access the link you share with no account required. Learn more. FREEPORT — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of ...",
+      "path": "_news/2022-11-25-review-shark-ai-ultra-2-in-1-robot-vacuum-and-mop.md",
+      "title": "Review: Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
+      "excerpt": "So my expectations for Shark’s new AI Ultra robot vacuum were very low—especially ... If you want to be able to start the vacuum from your phone, without carrying it into the kitchen, you ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2022/11/24/facial-recognition-can-help-conserve-seals-scientists-say/",
-      "originalUrl": "https://www.pressherald.com/2022/11/24/facial-recognition-can-help-conserve-seals-scientists-say/",
+      "webUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
+      "originalUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/637e69aec16b4f8de1df58df/master/pass/Shark-AI-Ultra-2-in-1-Robot-Vacuum-Review-Gear.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T11:15:00-08:00",
+      "ampWebUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
+      "publishedDateTime": "2022-11-24T11:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1132,35 +1150,35 @@
     },
     {
       "path": "_news/2022-11-24-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial Recognition Can Help Conserve Seals, Scientists Say",
-      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
+      "title": "Facial recognition can help conserve seals, scientists say",
+      "excerpt": "Cataloguing seal faces and using machine learning to identify them can also help scientists get a better idea of where in the ocean seals are located, Ingram said. “Understanding their dispersal ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say",
-      "originalUrl": "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say",
+      "webUrl": "https://fredericksburg.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_8b11b29f-0cda-5cd0-ab88-f3f87fa93f39.html",
+      "originalUrl": "https://fredericksburg.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_8b11b29f-0cda-5cd0-ab88-f3f87fa93f39.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/d/41/d416f266-a62f-57be-a707-058ae7eec91e/637e473c8b5c2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T08:08:00-08:00",
+      "publishedDateTime": "2022-11-23T08:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

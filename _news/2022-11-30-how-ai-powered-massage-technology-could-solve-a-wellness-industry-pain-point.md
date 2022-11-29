@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T20:14:00Z
 originalUrl: "https://www.inc.com/ben-sherry/how-ai-powered-massage-technology-could-solve-wellness-industry-pain-point.html"
 webUrl: "https://www.inc.com/ben-sherry/how-ai-powered-massage-technology-could-solve-wellness-industry-pain-point.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Inc

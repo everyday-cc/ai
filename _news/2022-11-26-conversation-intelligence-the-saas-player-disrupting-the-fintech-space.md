@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Fintech startup Galgal raises US$ 1 million in seed funding"
-    excerpt: "Galgal Money, a fintech startup, has received US$ 1 million in seed funding from angel investors. The firm was able to launch the app quickly and increase customer acquisition thanks to the funding. The company further plans to invest in product development to quickly improve customer experience and concentrate on providing features that can improve the neo-banking experience for Indian youth."
-    publishedDateTime: 2022-11-25T04:11:00Z
-    webUrl: "https://www.ibef.org/news/fintech-startup-galgal-raises-us-1-million-in-seed-funding"
+  - title: "PatSnap launches Eureka, an AI-driven innovation intelligence solution"
+    excerpt: "The AI-driven innovation Eureka translates legal language of intellectual property into the technical language of research and development"
+    publishedDateTime: 2022-11-25T15:57:00Z
+    webUrl: "https://www.openaccessgovernment.org/patsnap-launches-eureka-ai-driven-innovation-intelligence-solution/148190/"
     type: article
     provider:
-      name: IBEF
-      domain: ibef.org
-    quality: 39
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
     images:
-      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
-        width: 500
-        height: 665
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/11/dreamstime_xxl_141461893-scaled.jpg"
+        width: 2000
+        height: 1200
         isCached: true
 
 secured: "XKoAng4KEMn9h7geQ951sv2grAv34cpavP0o9pgAP5EIwdUjeY8D06dNS21FP2laMw5O/2TkEGSP6Opb9UG2PGMXF+7kTDI+IriCgZEEv8S/S//UNb8HyHgbaNEwgQqtpqwcag133OT1aM7pPu9c2nbf3Pe1+7aYzA23czUJIUUFWjmTaOBfr4TU56m+uDwJVnFHVO15MXRwQ/N5j/kQxNB+oho//isOVSh4OqycCmjNEDRm4Z/snWBA9hTvOXBEG9nYApH+esG/VscV0U1SvM9Ov2EqpDnHO0hy8nghGzcPSssTFubeJQ8y0+UdVrskxsjcDINVj17H4uGSjNNm9/1YBomwO5MidT0iCn2yDdmtSAKmVe79j1yaFe9UuFkudmn6fwfxIJ7/hzD7CcqQlUF0gX+PmoxZF8AL/r+jYSSUGIcyX1/DkVgxulNpgONv+RiO5oFDmi6UqZgxKtfa0p/Q3FoRTwbbFBTHxfEViw5rdVZqwc/88NWBuQm9St8uZQaPXHHtSbg1PMQawHxVkw==;2NhFgiWDWpBvuZ+xTD+jKw=="

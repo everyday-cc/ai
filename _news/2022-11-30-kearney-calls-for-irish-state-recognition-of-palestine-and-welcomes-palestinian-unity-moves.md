@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T20:07:00Z
 originalUrl: "https://www.sinnfein.ie/contents/64731"
 webUrl: "https://www.sinnfein.ie/contents/64731"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Sinn Féin

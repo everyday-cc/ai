@@ -34,6 +34,15 @@ related:
       name: Advanced Television
       domain: advanced-television.com
     quality: 19
+  - title: "Quantinuum: UCL Computer Science To Explore Natural Language Processing On Quantum Computers For Content Discovery and Archive Retrieval"
+    excerpt: "A new consortium funded by the Royal Academy of Engineering will build on work in quantum mechanics and linguistics conducted over 15 years by researchers at University College London and Quantinuum C"
+    publishedDateTime: 2022-11-28T18:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57701549-quantinuum-ucl-computer-science-to-explore-natural-language-processing-on-quantum-computers-for-content-discovery-and-archive-retrieval-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "70z9SX6P2ByDcXBq2UVmjoL3dofqeR6FSfT2zKDHPMfaLbKt6lFIYcCk2XrEjOj0Aqv3WZo8B1qIBcPbNQoeDhV/kifJJI8X2UH1FRoUsohZ2OzJvwNoA8CL8rFTms31MlWytcRcMN4BipBoWk1bYqsq/7L3+Lw+gCH21iHU31NDJcW0vjA8nv69ubmi3tVTfcphF/vhVkPf7FxX4uTIVXCZa/Cvmo+TVeFkVzP8Au7U7GOwBztWiS7LGAD2ojxoxt7kcM3HZqDUOGnDB3kxt3hf+cALrnsCiwMwy3qxlz2zsHIOdlBjkIj5KbcOeHU/2KaP68JprTEuNzuf1jAJe+KDVQsaf68ru6auLEVf0wA=;Bsf8gJGbfLg13/sdT1W6kg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T19:52:00Z
 originalUrl: "https://siliconangle.com/2022/11/29/aws-previews-security-lake-centralize-security-data-management/"
 webUrl: "https://siliconangle.com/2022/11/29/aws-previews-security-lake-centralize-security-data-management/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: SiliconANGLE

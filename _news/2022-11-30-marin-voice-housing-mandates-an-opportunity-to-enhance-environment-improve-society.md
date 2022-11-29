@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T18:30:00Z
 originalUrl: "https://www.marinij.com/2022/11/29/marin-voice-housing-mandates-an-opportunity-to-enhance-environment-improve-society/"
 webUrl: "https://www.marinij.com/2022/11/29/marin-voice-housing-mandates-an-opportunity-to-enhance-environment-improve-society/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Marin Independent Journal

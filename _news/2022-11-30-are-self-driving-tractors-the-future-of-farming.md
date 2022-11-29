@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T18:52:00Z
 originalUrl: "https://www.boisestatepublicradio.org/2022-11-29/are-self-driving-tractors-the-future-of-farming"
 webUrl: "https://www.boisestatepublicradio.org/2022-11-29/are-self-driving-tractors-the-future-of-farming"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Boise State Public Radio

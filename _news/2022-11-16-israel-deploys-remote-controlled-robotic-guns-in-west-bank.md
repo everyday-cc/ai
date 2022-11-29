@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Israel deploys remote-controlled robotic guns in West Bank"
-excerpt: "AL-AROUB REFUGEE CAMP, West Bank — In two volatile spots in the occupied West Bank, Israel has installed robotic weapons that can fire tear gas, stun grenades and sponge-tipped bullets at ..."
-publishedDateTime: 2022-11-16T02:16:00Z
-originalUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
-webUrl: "https://www.washingtonpost.com/world/israel-deploys-remote-controlled-robotic-guns-in-west-bank/2022/11/16/8ec43e50-657e-11ed-b08c-3ce222607059_story.html"
+excerpt: "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ..."
+publishedDateTime: 2022-11-16T07:23:00Z
+originalUrl: "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/"
+webUrl: "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/"
 type: article
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Finance
 
-secured: "At9JSYZ/KlHuCscR/S9GjVsT718/H+V1/k8rrssut9ll/EYMbAZFDIHW2xz/FxVb7TA1XuOewhQUxPFXbE/X1JSoImzFBYcYjikRJFPlR6hYqRwqYIvGInEGjajlBSwKd/G0OnTtsMwQWHR0Oxs2GwH3fB5OoBcxQh1uRl5NyUnWAFh6JqWbjfxXayeB+LVrJT1HNv4RUlA+ldLiCAPkw1f2qPJlfw8qW0z7Ki1DpiCUwA9Yanq7e/7F8mK1aPOtTak13KqpVNDaiAFHM0T3FAgV3ys/ymuNETJIi7hkJZ96tnLKgaGeV0g5BvjJJRmXxg9H3HvnpVKNfm/3SgJ6XgCg+nQ9kwSN4ymVMFV/d+Q=;2AK2KCxQWA+jjlH0/rT5ZA=="
+secured: "KGjLhQSTh7PoBDqSfUtuUClsmjdHEnELufz7vCwwoKvDCp5LcUkwNse8T5tKApx6/KFLdO0E9Hi/Ro+HNxnxpKUc/jLhXwG3MoxFuidVuAS4TJk2OJVQhO2v7BVBV3TYZZmNyAsUMkCWyULTy1BZUpupHxoCQcyV47rhvESGFd5e2AlVueGC2yPPK6YQo11Ogkp7lQ62Njx/43B3ccwLCjIjENK3g6DG7P9y8yMXMZgLAFZ1yYJ10Upc6mXA9D575b3z/CnlXKxGLSJN1WZW3ifE4b4hkUFkhfCmmY691f5h66ac3sR350NzW0yIWq+l60Dh4ga9Be6/sBIOvcwNJnrYeBAfqJDpMVGQfCkpgS0=;vh0Vm2RlSRYXXI67zApm7g=="
 ---
 

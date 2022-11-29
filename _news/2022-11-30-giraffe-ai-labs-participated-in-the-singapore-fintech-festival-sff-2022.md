@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T18:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/29894549/giraffe-ai-labs-participated-in-the-singapore-fintech-festival-sff-2022"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/29894549/giraffe-ai-labs-participated-in-the-singapore-fintech-festival-sff-2022"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Benzinga.com

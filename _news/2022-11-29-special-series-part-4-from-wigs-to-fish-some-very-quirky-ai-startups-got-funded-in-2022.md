@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-29T13:30:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startups-series/"
 webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startups-series/"
 type: article
-quality: 10
-heat: 10
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "PsYWrlefHaIy1hBq1yaePY3MqJP2CzI+pUXSiw2rdY+mk+kNcmFe91F72F8lti1J4V/26JyfplJqzbboI11U0787P372jXw9QKLYUq8qVdMuFlas84Fd3mqsTLYdC+KWOsGAmr/ei3wpYjYq0Q/RBvx2kjOEcCNu6JNeoiCIj4ARjzHShGuUUm8zb4s0ts/PA84/EFurpse1BU2+zkVAtHuI3UNEm6BK8z+Y/j8jH48Gvoe3GT+A4dXU1ga3qbMOfAKFpdC4YyCkSiqcTpCc+6ckLsGeLr/eLE3KJPeDpxCEf4a8Jcexoic5Qvc+GoVL7p9bkqkm/itjE6BWPyOxHh2OxDug77v9Uzf3HDWJR7Y=;+3EJ+un1CZ9XponCXyngtg=="
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+    width: 900
+    height: 506
+    isCached: true
+
+secured: "hKZmvhKGCpXeGsVrxEj7YoJ4Z55QBHAjg7fBG8L3ocQqYNr7SJb6eW5mIvvCKYL4AVx9WVLJTZBCusgvn8WU85POwL7aJmz/DYIWfzXkJO6HApfgCE5yQjBb7DxS/83T/zKiAtHg+HA25Gy2Ss5IVMLrObMJUL+yvJ3QxChc91hOkoRlWBFKnXMb4dcPefo+foEHtEdmTeM/9OgaoIabkLfR4OI+g3zdFhQCGxCDXRB/zCuc8lHCQsoCtwDpd8UBA7rIz3W4goShoPpPqx78X4gB1s3oOHj7hg5WYv7ebI2Tte0VvA8wRlWKlfn2+DNU8f+2sCgDynBGu5lAdOxR0NeSQPKbvObmIkLjqkN2PHE=;aeP8ub8rmvHQLutBybpGSw=="
 ---
 

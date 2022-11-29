@@ -33,6 +33,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Quantinuum: UCL Computer Science To Explore Natural Language Processing On Quantum Computers For Content Discovery and Archive Retrieval"
+    excerpt: "A new consortium funded by the Royal Academy of Engineering will build on work in quantum mechanics and linguistics conducted over 15 years by researchers at University College London and Quantinuum C"
+    publishedDateTime: 2022-11-28T18:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57701549-quantinuum-ucl-computer-science-to-explore-natural-language-processing-on-quantum-computers-for-content-discovery-and-archive-retrieval-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "XeukFEXgNEeWVyb8f4+EHz751XlwC0EwtzB6cqGbBIK68ebugod1hVCY0DZurdVNEEj/xjFjpPenyAOQUoWkbTB+75L2Dlxd2cUH3wjgCdhEWSP3plfGYgKjPwPlfQVhu/nII/dRQVgTNIPpqQMiAS2V3qFdShliV3JQeN+bd7/2TVH/f9FcV8prIwP30D/0RY9y/czvce29jsPMT03+sUNh6RUWD/FvXGAWk3IrW2BN8RBkxmUG8dNP1Qmqhe3MaTSeKs/Is1ysng8Rq3IEaWiPR3aSmgatevrqgk35qNH0tPlnpPpAxzyGfVUDn+A0W8B2sXFI7St+nuM74mHhmrXdPTrJjapiDKncNfAX/9RY5bMItqmqJTcNkAc7CSkwdsLtSZWK8VXwTAflIeIWvVvhdkAu5hWfOuBkPGWMhnLXyAFMdqDxndHXJEheh3ucjFvHgAKE4rX6eFscQF3F9pwbYSMGwKVAFlXWVcGtIf0SkiuBq7bkFHWzCuMDGMqQJcT2oVOtcgISVrBvX/kHTg==;PGCMfTU0YTF33hEIQ5NbTg=="
 ---

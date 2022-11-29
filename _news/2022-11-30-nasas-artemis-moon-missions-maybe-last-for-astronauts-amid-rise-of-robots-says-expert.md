@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T20:25:00Z
 originalUrl: "https://economictimes.indiatimes.com/news/international/us/nasas-artemis-moon-missions-maybe-last-for-astronauts-amid-rise-of-robots-says-expert/articleshow/95865421.cms"
 webUrl: "https://economictimes.indiatimes.com/news/international/us/nasas-artemis-moon-missions-maybe-last-for-astronauts-amid-rise-of-robots-says-expert/articleshow/95865421.cms"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Indiatimes

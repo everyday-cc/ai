@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the
 webUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
         width: 1100
         height: 733
+        isCached: true
+  - title: "ADGM's Financial Services Regulatory Authority Launches AI Initiative On Open Regulation"
+    excerpt: "Without regulatory context, AI applications will be limited in their potential to help financial services firms navigate the regulatory landscape. In this regard, OpenReg provides the regulatory context required by firms to develop their own AI solutions."
+    publishedDateTime: 2022-11-29T21:45:00Z
+    webUrl: "https://menafn.com/1105243780/ADGMs-Financial-Services-Regulatory-Authority-Launches-AI-Initiative-On-Open-Regulation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?554410"
+        width: 444
+        height: 250
         isCached: true
   - title: "ADGM’s Financial Services Regulatory Authority launches its AI initiative on Open Regulation"
     excerpt: "The Initiative will tap the innovation community in the co-creation of AI models and applications to achieve better regulatory outcomes"

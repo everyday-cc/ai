@@ -54,7 +54,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
         width: 1920

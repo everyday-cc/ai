@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "AI HealthCare Apps for Companies That Put HealthFirst"
+    excerpt: "This blog profiles leading AI Healthcare Apps for companies that are putting health first. With staggering increases in depression and anxiety across the globe, all board directors and CEOs should have mental health as one of their top business priorities."
+    publishedDateTime: 2022-11-29T19:32:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/638658b2e739943876a067da/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 971
+        isCached: true
   - title: "ROBOTICS IS CHANGING HEALTHCARE"
     excerpt: "Artificial intelligence is also playing a key role Till a few years back, it was impossible to fathom the idea that robots could be used as helping hands in the way healthcare organisations are managed."
     publishedDateTime: 2022-11-28T18:35:00Z

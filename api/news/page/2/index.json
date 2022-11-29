@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-28-university-of-southern-california-launches-center-on-ai-research-for-health.md",
+      "title": "University of Southern California Launches Center on AI Research for Health",
+      "excerpt": "Researchers from the University of Southern California launched AI4Health to enable breakthroughs in ethical AI use and big data to improve healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/university-of-southern-california-launches-center-on-ai-research-for-health",
+      "originalUrl": "https://healthitanalytics.com/news/university-of-southern-california-launches-center-on-ai-research-for-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/university-of-southern-california-launches-center-on-ai-research-for-health",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/university-of-southern-california-launches-center-on-ai-research-for-health",
+      "publishedDateTime": "2022-11-28T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-5-risks-of-ai-and-machine-learning-that-modelops-remediates.md",
+      "title": "5 risks of AI and machine learning that modelops remediates",
+      "excerpt": "Modelops improves machine learning model development, testing, deployment, and monitoring. Follow these tips to keep model risks in check and increase the efficiency and usefulness of your ML initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "originalUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior.md",
       "title": "As AI Gets Smarter, Creatives Must Continue To Predict Its Behavior",
       "excerpt": "Predicting and influencing human behavior is as old as human beings themselves, but now we’re entering a new territory—one that has never been possible until the advent of AI. Artificial intelligence helped me write the end of that last sentence.",
@@ -209,7 +305,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -264,7 +360,7 @@
       "originalUrl": "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -463,7 +559,7 @@
       "originalUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -601,58 +697,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-27-natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028.md",
-      "title": "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028",
-      "excerpt": "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-26T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-27-seal-conservation-efforts-aided-by-new-facial-recognition-technology.md",
       "title": "Seal conservation efforts aided by new facial recognition technology",
       "excerpt": "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts.",
@@ -661,7 +705,7 @@
       "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -704,7 +748,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -849,7 +893,7 @@
       "originalUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -953,7 +997,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1176,58 +1220,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-review-shark-ai-ultra-2-in-1-robot-vacuum-and-mop.md",
-      "title": "Review: Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
-      "excerpt": "So my expectations for Shark’s new AI Ultra robot vacuum were very low—especially ... If you want to be able to start the vacuum from your phone, without carrying it into the kitchen, you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
-      "originalUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/637e69aec16b4f8de1df58df/master/pass/Shark-AI-Ultra-2-in-1-Robot-Vacuum-Review-Gear.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
-      "publishedDateTime": "2022-11-24T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

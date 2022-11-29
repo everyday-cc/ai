@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T20:18:00Z
 originalUrl: "https://medicalxpress.com/news/2022-11-machine-imaging-methods-ovarian-lesions.html"
 webUrl: "https://medicalxpress.com/news/2022-11-machine-imaging-methods-ovarian-lesions.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Medical Xpress

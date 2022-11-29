@@ -47,15 +47,6 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Guess the prompt behind these AI-generated images"
-    excerpt: "Find The Prompt is a fun, missing-letter game that captures the AI zeitgeist. Like Wordle, you only get one prompt a day, but unlike Wordle, you have to guess a string of words that were used to create the AI-generated image on the page."
-    publishedDateTime: 2022-11-25T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90815870/guess-the-prompt-behind-these-ai-generated-images"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "dDSFflvx7PK9CXcB7rstL46NNl8mSo4hQ/30VMUW5KkKd8vlk7060Wgrer/ruTjlakFFdBYfdbc9AexCjDrx7FZSQ/2gahaSDdibhEE1Yd8GLxzZqMNZ1mNJlaqImzWbpKvQ1qiTfa77cyVO2KXnwTMS8K2qBladsXDSmuLctjBapbq5XMUxNTod8OnwZVEIe1dCYcdAqltaPvjxniAjZZBVF8DduoKLOcWpe2unTACXswm73LE+Dx1SLQcrTl99M80wRhkrchrqa8VSaJ4E5CznTaIV5mODW4OspP+IERpBDM21KcRfzspBNNxxoH33mWqJX0fFng41OYEJCMZGRcEa1SnV0sTrQgts+5xgQkYglq9CfTOHPaGCj20DizceWVaJK7sE3M5lh788u3mno6WKhZ+khYqSUlFWf+qYtP93SgZE2xcG6IwejbI/mfJ0yh0zOANbgveIKr4GPQr7WTtKzv0pRRFj+vgKLh/QrbNlYAbBkP2fGySXRwVkhj5WJazyOaXWruX51ov2fA600Q==;BVyhDytufmV/ocUHQHhcJg=="
 ---

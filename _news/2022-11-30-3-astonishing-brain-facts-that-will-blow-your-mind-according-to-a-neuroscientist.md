@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T19:21:00Z
 originalUrl: "https://www.popularmechanics.com/science/health/a42008689/3-brain-facts-that-will-blow-your-mind/"
 webUrl: "https://www.popularmechanics.com/science/health/a42008689/3-brain-facts-that-will-blow-your-mind/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Popular Mechanics

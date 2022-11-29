@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T19:03:00Z
 originalUrl: "https://www.techspot.com/news/96798-firefox-avoids-cloud-privacy-friendly-translation-service.html"
 webUrl: "https://www.techspot.com/news/96798-firefox-avoids-cloud-privacy-friendly-translation-service.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechSpot

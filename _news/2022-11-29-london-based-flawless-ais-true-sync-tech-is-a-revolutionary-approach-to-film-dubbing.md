@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/london-based-flawless-ais-true-sync-te
 webUrl: "https://thenextweb.com/news/london-based-flawless-ais-true-sync-tech-is-a-revolutionary-approach-to-film-dubbing"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -39,17 +39,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 17
-  - title: "Queen Mary University of London: Queen Mary University of London spin-off provides the blueprint for new game-changing AI applications"
-    excerpt: "The Q3 2022 acquisition became a component of Veritone’s new solution Tracker, an AI-powered object video recognition product based on VSL technology.Veritone Tracker leverages AI to track objects thr"
-    publishedDateTime: 2022-11-25T03:11:00Z
-    webUrl: "https://indiaeducationdiary.in/queen-mary-university-of-london-queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications/"
-    ampWebUrl: "https://indiaeducationdiary.in/queen-mary-university-of-london-queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications/amp/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/queen-mary-university-of-london-queen-mary-university-of-london-spin-off-provides-the-blueprint-for-new-game-changing-ai-applications/amp/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 7
 
 secured: "NT31XdVFRl7W9+I6Ht3yLEX6Q3RcaYTYIcJeXCiX3wZtUTGz3q3Gdm7QyqGsAl4GBNEMPaODBMFrchC7HgzuE6DZkVvUVBuDZZQ9+icc7aOXrP9t9izEkYEYpaWzKGrKcIODo1v+33H5wDVcFTKDu3dcPCZkls1UEr0qL5h9u+3eRxdP+WcoHIpowlIE3+iJVLnkSvDzOAvfeaGu0PDOyzhCE1gZkMMvrBOswoiMBNjqZc2+xTRNdryl/EfZDZMsS2ayyndcJsFuLOiAqPdj29LGi2KqUFuJdHxUt3nZML4miShygT8Db1J3lCWryi+PBBBxKb6CPb3iRz6QJXrlOZV2QT5tpjF1XgdyB1hpPo7tenhPjgvhIEA1ZUrzKaxQLGaN6+B9gormzxfbHI48ydyyKsv1nR7a3yaCAH4gBU586boYmvbo2I4zlxzPw9VmFCsZCOhbB6rTE4gnWt9nTNkpNHy4KkZN0FvdwjKqN8EMeNXC3vdDBFlhBPZXXXIhmGV6tylr61gOcL+VX43HpA==;/vgfJ2T8EqaFnigGGBmOHQ=="
 ---

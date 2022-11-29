@@ -23,15 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT"
-    publishedDateTime: 2022-11-26T17:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26"
+  - title: "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac"
+    publishedDateTime: 2022-11-29T02:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Pharmaceutical Market : Competitive Strategy Analysis and Forecast Values 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Pharmaceutical Market\" Insights"
+    publishedDateTime: 2022-11-26T12:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-competitive-strategy-analysis-and-forecast-values-2023-2028-2022-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
+    publishedDateTime: 2022-11-27T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -79,48 +107,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Medical Artificial Intelligence Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Medical Artificial Intelligence"
-    publishedDateTime: 2022-11-25T18:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-25"
+  - title: "Machine Learning Recommendation Algorithm Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "\"Machine Learning Recommendation Algorithm Market\" Insights 2022 - By Applications (Entertainment, Retail, Others), By Types (Service, Solution), By Segmentation analysis, Regions and Forecast to 2028. The Global Machine Learning Recommendation Algorithm ..."
+    publishedDateTime: 2022-11-27T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-11-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Market 2022 : Growth Statistics, Industry Share, Latest Trends, Growth Drivers, Size and Forecast till 2028"
-    excerpt: "AI Accelerator Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corresponding detailed ana"
-    publishedDateTime: 2022-11-26T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-market-2022-growth-statistics-industry-share-latest-trends-growth-drivers-size-and-forecast-till-2028-2022-11-26"
+  - title: "AI in Fintech Market Size [2023-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Fintech Market\" Insights 2022 -"
+    publishedDateTime: 2022-11-25T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2023-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-11-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "LegalTech Artificial Intelligence Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"LegalTech"
-    publishedDateTime: 2022-11-27T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 32
 
 secured: "768c8nb48qhtFGxlNSBu97nGsWwsNbtzwCUDO16OQzKKA0KqOb/eguutI8MHNBgfhM8alwUA/zjsYqfcqiEq1XRqMq2GQQDkVGsCcXJ6OYSFjZGMoIOpjnGqohqUZ4tlvqJNtMahvSz0W84NUOPnboQ9hFlW58AVMRwVG2VFbpphGg1P1uFRWX3njfeq7zfxDC7U0f98E0l7a9UrK4moA4hvK71IAomzIhiih1y8gLGsJ/z+td7H5NOZIwtAMktvHjI0RStqp9WZDnvDjp5QXwcQte5kY944r5BwiNK+wOM5J29RF64XpngW3/ZY+gNSHFlsNr2ETMiGH6LpihRxCWY7g1eGwmJOtcXAQ5k4c3c=;SEVtSPkYUu+VOJWHYWXyHQ=="
 ---

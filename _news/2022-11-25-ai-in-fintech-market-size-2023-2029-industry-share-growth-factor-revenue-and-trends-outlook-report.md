@@ -23,43 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Automated Machine Learning (AutoML) Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Automated Machine Learning (AutoML)"
-    publishedDateTime: 2022-11-25T12:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25"
+  - title: "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac"
+    publishedDateTime: 2022-11-29T02:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chips Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Chips Market \" Insights 2022 - By Applications (HPC AI Chips, Terminal AI Chips,"
-    publishedDateTime: 2022-11-26T12:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Accelerator Chip Market 2023 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI Accelerator Chip Market\" Insights 2022"
-    publishedDateTime: 2022-11-25T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -79,85 +51,85 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Manufacturing Market Geographical Segmentation By Forecast Revenue 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Machine Learning in Manufacturing"
-    publishedDateTime: 2022-11-26T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+  - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
+    publishedDateTime: 2022-11-27T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Assistant Market Geographical Segmentation By Forecast Revenue 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Voice Assistant Market\" Insights 2022 -"
-    publishedDateTime: 2022-11-25T23:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-geographical-segmentation-by-forecast-revenue-2023-2028-2022-11-25"
+  - title: "Artificial Intelligence Chatbots Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence Chatbots"
+    publishedDateTime: 2022-11-25T12:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2023-2028-2022-11-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Insurance Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \" Artificial Intelligence in Insurance Market \" Insights 2022 - By Applications (Chatbots and Virtual Assistants, Fraud Detection,"
-    publishedDateTime: 2022-11-25T11:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-25"
+  - title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
+    excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
+    publishedDateTime: 2022-11-26T17:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
-  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
-    publishedDateTime: 2022-11-27T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market : Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook and Global Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Face Recognition Systems Market\""
-    publishedDateTime: 2022-11-25T23:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-and-global-forecast-to-2028-2022-11-25"
+  - title: "Artificial Intelligence in Precision Farming Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "\" Artificial Intelligence in Precision Farming Market \" Insights 2022 - By Applications (Experimental Study, Farm Management, Private Planting), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
+    publishedDateTime: 2022-11-27T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-11-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Passenger Vehicle Voice Recognition Market 2023 : Projected to Deliver Greater Revenues during the Forecast Period 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Passenger Vehicle Voice Recognition"
-    publishedDateTime: 2022-11-25T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2023-projected-to-deliver-greater-revenues-during-the-forecast-period-2028-2022-11-25"
+  - title: "Machine Learning Recommendation Algorithm Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "\"Machine Learning Recommendation Algorithm Market\" Insights 2022 - By Applications (Entertainment, Retail, Others), By Types (Service, Solution), By Segmentation analysis, Regions and Forecast to 2028. The Global Machine Learning Recommendation Algorithm ..."
+    publishedDateTime: 2022-11-27T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-11-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market 2023 : Trend Analysis, Competitive Outlook of Top Industry Players and Future Expansion by 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Artificial Intelligence (AI) in"
+    publishedDateTime: 2022-11-25T12:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-2023-trend-analysis-competitive-outlook-of-top-industry-players-and-future-expansion-by-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "yscx0+uRpUoNVy6588zPdw6UPI1qlzFOu9Y5jnQSoRC7EDyDrthJEZgIIMHZScKmOmmP08uRlVWfOYtRIzSns+PE/NEM/jfmR438j6FAN+7ad2hJanqwk41BiUkPVHhliIVBUMvluo2G+6s24cAM9s6J8h5T28Z/DzwdxGESONMw6BkNYZ8ijGz8+h22nHEBDmV10hcDeM1sSmx1tgTo2XkCmQ1PhEJZiWTv8RdL07Mfp6BOg1d7ey4dE8d+7eu7rZu+6oZ7PYscqfUUf2WvYPKhPRMjB1KFVITgrwGzAaupXXuzJzlEc/ND+ALXtLLGlVoldINLIINvGNoZMq66Yk3GwhVYohEgzIIj1+qZTNI=;245U9CHfqQ/0WvA8ST8/+g=="
 ---

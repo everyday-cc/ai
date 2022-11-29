@@ -54,7 +54,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -109,7 +109,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -733,8 +733,8 @@
       "title": "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR",
       "excerpt": "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028).",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -744,7 +744,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T12:53:00-08:00",
+      "publishedDateTime": "2022-11-16T11:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -766,33 +766,24 @@
     {
       "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
       "title": "Israel deploys remote-controlled robotic guns in West Bank",
-      "excerpt": "Two robotic guns sit atop a guard tower bristling with surveillance cameras pointed at the Aroub refugee camp in the West Bank, Thursday, Oct. 6, 2022. Israel has installed robotic weapons that ...",
+      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/lifestyles/technology/israel-deploys-remote-controlled-robotic-guns-in-west-bank/article_d36d72af-cf97-5a6e-9ba5-8b0f3598b048.html",
-      "originalUrl": "https://omaha.com/lifestyles/technology/israel-deploys-remote-controlled-robotic-guns-in-west-bank/article_d36d72af-cf97-5a6e-9ba5-8b0f3598b048.html",
+      "webUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
+      "originalUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/8f/18fc4a2b-723c-5e81-b0e3-5f5c0a6ccdbb/6374918d6550e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T23:43:00-08:00",
+      "publishedDateTime": "2022-11-15T23:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "Las Vegas Sun",
+        "domain": "lasvegassun.com",
         "images": null,
         "publishers": null,
         "authors": null

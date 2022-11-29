@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T19:05:00Z
 originalUrl: "https://www.businessworld.in/article/Leveraging-Advanced-Image-Recognition-AI-To-Boost-FMCG-Sales-In-India/29-11-2022-456068/"
 webUrl: "https://www.businessworld.in/article/Leveraging-Advanced-Image-Recognition-AI-To-Boost-FMCG-Sales-In-India/29-11-2022-456068/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Businessworld

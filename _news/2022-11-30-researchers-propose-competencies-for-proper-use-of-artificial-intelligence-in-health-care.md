@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2022-11-proper-artificial-intelligence-h
 ampWebUrl: "https://medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.amp"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
