@@ -1,26 +1,27 @@
 ---
 category: news
-title: "AI - the future of retail"
-excerpt: "Technology is changing the retail sector, with artificial intelligence (AI) shaping shopping centers and stores of the future. The Covid-19 pandemic changed traditional retail as many customers had to shop online."
-publishedDateTime: 2022-11-28T07:42:00Z
-originalUrl: "https://vietnamnet.vn/en/ai-the-future-of-retail-2085429.html"
-webUrl: "https://vietnamnet.vn/en/ai-the-future-of-retail-2085429.html"
+title: "Nvidia gearing up for lower-spec AI GPU shipments to China"
+excerpt: "Nvidia has touted the A800 AI GPU, a downgraded version of its A100 and H100 series, for customers in China and has already attracted orders, according to industry sources."
+publishedDateTime: 2022-11-29T01:21:00Z
+originalUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
+webUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Vietnamnet
-  domain: vietnamnet.vn
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://static-images.vnncdn.net/files/publish/2022/11/28/retail-vn-930.jpg"
-    width: 1036
-    height: 816
+  - url: "https://img.digitimes.com/newsshow/20221128pd216_files/2_b.jpg"
+    width: 640
+    height: 427
     isCached: true
 
 related:
@@ -40,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia gearing up for lower-spec AI GPU shipments to China"
-    excerpt: "Nvidia has touted the A800 AI GPU, a downgraded version of its A100 and H100 series, for customers in China and has already attracted orders, according to industry sources."
-    publishedDateTime: 2022-11-29T01:21:00Z
-    webUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221128pd216_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
     publishedDateTime: 2022-11-28T18:43:00Z
@@ -68,7 +55,21 @@ related:
         width: 374
         height: 374
         isCached: true
+  - title: "AI - the future of retail"
+    excerpt: "Technology is changing the retail sector, with artificial intelligence (AI) shaping shopping centers and stores of the future. The Covid-19 pandemic changed traditional retail as many customers had to shop online."
+    publishedDateTime: 2022-11-28T07:42:00Z
+    webUrl: "https://vietnamnet.vn/en/ai-the-future-of-retail-2085429.html"
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 37
+    images:
+      - url: "https://static-images.vnncdn.net/files/publish/2022/11/28/retail-vn-930.jpg"
+        width: 1036
+        height: 816
+        isCached: true
 
-secured: "7xFKK4eMLv6qqDRcV/RqqQBishRF4hV9MDQdFiQEPW0+eL4/Lso7KqMKLvL+DgimTF02ivlA6gHyFMNj8pjiUxqDjrisPSFXoyTctmtd4BS2sx8c1i8MK2vN9xAQup4ok9AS5Zu4mhRHLyrM0AQn4IL+GvqB1sNELdR7bVW/iHuuKVqRg3iL1TP2Iktm88+xDs9yZOCsfvcoqjw6bNc0c6spafihNh1MTO3PJagQx2PmAbSWsBNqXuluXD0uxkXYuFrUbxAa2yFXLNrIqCFlZHVkBoamPEKGqCcNieVShAkOL3YLdae6dpzOXaYuuiCpTBVtABdtNsPdZZUCQrJMtoSoSHQqXipjGseatn4FdBk=;ntYVCwLdQlpaN1TtXcRSPw=="
+secured: "skupIqEfLAaPg2XZEWa3wjzSAh+LeDtIPm89x0v5M694WY1VcAnUxArrugptSAW/wM0NjjtY1QB3Ycuj7HeI4pL47msCJw4SVeKBUVH+b2+WQPg5JeQawbt2G9uZeP8msP9C58LeNNsrhQG8N3/gLJKi0jfDk3HHV0L/hRAHGU5ALI2C/C77aHD/oUzPSBXwGaZEeejXZ3TwMPJia40KZARUoqaUGIeW2KN4YBaFYo1pjBtgOjKhWRvEF1X4FdN8tUrdoY08a0RXODtGfge4aZeejWrH0fuPISWdTbM8MMGH/ghnnZi5tTqB8b3cGmLbHx3zbx/+dd3pTInURNnt1TFx0sqw6ddzNh48BVVxFBA=;reuDoSr4Avj0b+2uwZ36Tg=="
 ---
 

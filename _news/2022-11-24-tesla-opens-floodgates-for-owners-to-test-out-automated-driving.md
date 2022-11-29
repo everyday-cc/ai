@@ -182,20 +182,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' beta is now available to everyone in the U.S."
-    excerpt: "Tesla's Full Self-Driving set of features is now available to all Tesla drivers in North America, Elon Musk announced on Thursday. There are a couple of caveats, though. FSD is only available in Teslas which have the required hardware,"
-    publishedDateTime: 2022-11-24T09:18:00Z
-    webUrl: "https://www.aol.com/news/teslas-full-self-driving-beta-101829769.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 53
-    images:
-      - url: "https://media.zenfs.com/en/aol_mashable_370/29f18c7c18e2acae76ec69bad0163c6f"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Tesla’s Full Self Driving Beta Now Available To All Tesla Owners"
     excerpt: "Full self-driving for all, decreed Elon Musk. Despite being mired in controversy, Twitter, SpaceX, and Tesla owner Elon Musk still took the time to announce a big milestone for the EV brand; full-self driving is now available for all compatible North American Teslas."
     publishedDateTime: 2022-11-25T17:52:00Z

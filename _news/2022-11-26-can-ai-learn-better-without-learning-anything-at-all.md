@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Networks Learn Better by Mimicking Human Sleep Patterns"
-    excerpt: "San Diego is exploring how artificial neural networks could mimic sleep patterns of the human brain to mitigate the problem of catastrophic forgetting.  The research was published in PLOS Computational Biology."
-    publishedDateTime: 2022-11-24T15:55:00Z
-    webUrl: "https://www.unite.ai/neural-networks-learn-better-by-mimicking-human-sleep-patterns/"
+  - title: "2023 Trends in Artificial Intelligence and Machine Learning: Generative AI Unfolds"
+    excerpt: "In this contributed article, editorial consultant Jelani Harper offers his perspectives around 2023 trends for the boundless potential of generative Artificial Intelligence—the variety of predominantly advanced machine learning that analyzes content to produce strikingly similar new content."
+    publishedDateTime: 2022-11-28T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/11/28/2023-trends-in-artificial-intelligence-and-machine-learning-generative-ai-unfolds/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 65
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/cb:QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/11/mpho-mojapelo-I84vGUYGUtQ-unsplash.jpg"
-        width: 942
-        height: 600
-        isCached: true
-  - title: "Like a human? Artificial neural networks need to sleep to learn better"
-    excerpt: "According to a recent study by the University of California, San Diego, neural networks can imitate the sleep patterns of the human brain in order to tackle catastrophic forgetting. \"The brain is very busy when we sleep,"
-    publishedDateTime: 2022-11-25T11:42:00Z
-    webUrl: "https://interestingengineering.com/innovation/artificial-neural-networks-need-sleep"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/25/image/jpeg/xhdJXBIAhqGYGhRyXwbDQObolFtnQL531GXOM7UT.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg"
+        width: 640
+        height: 426
         isCached: true
 
 secured: "8c44dGvidtu3f+Xl9yuBURwtlfgyGzvP1V8KE9ChXJWornNXIhl57pScRKQHcDJ9I4gXR17ggJA4DbysIrjQtVuAqPuotgRsct9E5p1R81qEkrbcaSu8eG/lJ/XmJPxaBN82YzkWb0Q9rrjIth/UroXBNdyyKQRVaqUyKTfDwvXvNVyr23i3kwtNR9gCPPEdsv9rw6uGvX90RxuUq7HfZnc0SRbEEiYl8h29RQoGRp5m2CqJr/OqEiOi+kLKvc93a1osdLVdL4P1ZQHgQb2ScGED+azDvDoHQ6yVMbkcSunDKjq+y9C6gDiNaHPrc+pY3u+nXMVZAiXzStRsd+s/X+ADZlrNgUwSpOt5sVPxXGE=;zwnqmYlgx33VrB2yzrl1tQ=="

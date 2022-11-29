@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-29T00:39:00Z
 originalUrl: "https://www.tucsonsentinel.com/local/report/112822_artificial_intelligence_education/arizona-high-schoolers-learn-artificial-intelligence-related-career-paths"
 webUrl: "https://www.tucsonsentinel.com/local/report/112822_artificial_intelligence_education/arizona-high-schoolers-learn-artificial-intelligence-related-career-paths"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 related:
   - title: "High school students learn about artificial intelligence and related career paths"

@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-neurips
 webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-neurips-2022"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - Google AI
 
 related:
-  - title: "DeepMind’s New AI Framework Helps Machines Understand Humans Better"
-    excerpt: "DeepMind recently released a framework that will enable the creation of AI agents that can understand human instructions and perform actions."
-    publishedDateTime: 2022-11-24T10:42:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-new-ai-framework-helps-machines-understand-humans-better/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/deepmind-neuro.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "DeepMind's new chatbot uses Google Search, humans to give better answers"
     excerpt: "DeepMind, owned by Alphabet, has unveiled a new AI chatbot called Sparrow, trained on DeepMind’s large language model Chinchilla. The bot can talk to humans and answer questions using Google Search for information, which is rated by humans on usefulness ..."
     publishedDateTime: 2022-11-28T07:11:00Z

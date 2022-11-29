@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-availa
 webUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/"
 type: article
 quality: 81
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -173,20 +173,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1669397710178.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Tesla's 'Full Self-Driving' beta is now available to everyone in the U.S."
-    excerpt: "Tesla's Full Self-Driving set of features is now available to all Tesla drivers in North America, Elon Musk announced on Thursday. There are a couple of caveats, though. FSD is only available in Teslas which have the required hardware,"
-    publishedDateTime: 2022-11-24T09:18:00Z
-    webUrl: "https://www.aol.com/news/teslas-full-self-driving-beta-101829769.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 53
-    images:
-      - url: "https://media.zenfs.com/en/aol_mashable_370/29f18c7c18e2acae76ec69bad0163c6f"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Tesla Opens Floodgates for Owners to Test Out Automated Driving"
     excerpt: "Tesla Inc. is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."

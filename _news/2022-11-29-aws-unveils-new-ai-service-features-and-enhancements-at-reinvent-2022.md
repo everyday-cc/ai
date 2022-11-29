@@ -1,38 +1,34 @@
 ---
 category: news
-title: "Informatica Unveils New Innovations in Cloud Data Management Services on AWS at AWS re:Invent 2022"
-excerpt: "Informatica supports various AWS products and services at the product level to bring best-of-breed cloud data management capabilities to hundreds of mutual customers including Freddie Mac. Informatica is announcing the following new capabilities at AWS re:Invent 2022 today: Informatica Data Loader is now embedded directly in the Amazon Redshift console,"
-publishedDateTime: 2022-11-28T14:59:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/28/9720031.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/28/9720031.htm"
+title: "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022"
+excerpt: "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business"
+publishedDateTime: 2022-11-29T02:25:29Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
 type: article
-quality: 5
-heat: -1
-published: false
+quality: 104
+heat: 174
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
   - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg"
+    width: 2365
+    height: 1178
+    isCached: true
 
 related:
-  - title: "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022"
-    excerpt: "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business"
-    publishedDateTime: 2022-11-29T02:25:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg"
-        width: 2365
-        height: 1178
-        isCached: true
   - title: "Informatica strengthens AWS support, announces new features at AWS re:invent"
     excerpt: "Informatica today announced new capabilities on AWS, further simplifying data management and analysis for enterprise users."
     publishedDateTime: 2022-11-28T18:57:00Z
@@ -104,7 +100,16 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 9
+  - title: "Informatica Unveils New Innovations in Cloud Data Management Services on AWS at AWS re:Invent 2022"
+    excerpt: "Informatica supports various AWS products and services at the product level to bring best-of-breed cloud data management capabilities to hundreds of mutual customers including Freddie Mac. Informatica is announcing the following new capabilities at AWS re:Invent 2022 today: Informatica Data Loader is now embedded directly in the Amazon Redshift console,"
+    publishedDateTime: 2022-11-28T14:59:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720031.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
-secured: "M57QOu9QXQwbn3SVknT5ntdaxRVXE0J7iqcnUhr8PCm3TkuquK6tCONAVbnpBKfT0xefVKwFPR5+Fk/whhJprxJany7AgpXWqTGI4ULqsmHLP+FYVp9YQTLIpXOHKv1dRNG9dbIxDBmsrnFRGBZww4uxARRRqm1G40Kfhd7bG1vMcGdwemFPZMyHDuxp5V+oIScnqMo+vK44XHGEsyFYsjUjleaeIFkQBCU11QBe3IzMG1TSFGJ0tmhSbuCQqkyIf8RK8sKjJcrNom4TkdfN2OASQ9i3mPnhK2v7v3wf5HWRIX5QCD8yCCLy8ZJnXaodhBLOe8Y9lT99aqQiToACJwzMchAw75l6WemIVZAc+V8=;KIV83nysol1TZK5Gq+NQ4g=="
+secured: "bokySvaHUqSz8bzqy2dHBmjf8vUWbKZsbQVe9Gs/K2b+D9iIjYaYLrzJI4vdcg9w7/QQ7H6giSiIKw7EqSF2tJufOBi4tKhprzOEg8XoKXcBR2ExP1Lla52YSwk42Qwo7YLpWADfP5/7fvdNnM3ObPwA8+9zvbGBzFq/4VpFq6RuZnxQUV/3R9n2iW2eM69k0EdcK4p6V5I69bgH2l35UztonsW/KK4wS/LmgB7OSOvNkl64XduE9EQ6nUjyIm0uwlM0FKqmrETPYyzsL5z1IabQ329MYQKGPJBrZKdck4x7YVBth7T7ZkiOsX5eRqL4E+S0d3rD7CsGEcHzfjzdBFtm2RtsWzDgZdqUJ54rxaA=;WXFaO2I7VA9hbSu4cpJtmg=="
 ---
 

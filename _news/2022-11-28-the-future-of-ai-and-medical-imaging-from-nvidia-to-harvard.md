@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia gearing up for lower-spec AI GPU shipments to China"
+    excerpt: "Nvidia has touted the A800 AI GPU, a downgraded version of its A100 and H100 series, for customers in China and has already attracted orders, according to industry sources."
+    publishedDateTime: 2022-11-29T01:21:00Z
+    webUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221128pd216_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
     publishedDateTime: 2022-11-28T18:43:00Z

@@ -34,20 +34,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "DeepMind’s New AI Framework Helps Machines Understand Humans Better"
-    excerpt: "DeepMind recently released a framework that will enable the creation of AI agents that can understand human instructions and perform actions."
-    publishedDateTime: 2022-11-24T10:42:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-new-ai-framework-helps-machines-understand-humans-better/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/deepmind-neuro.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "c5XMabFJxk+XRhu7+Tr5Us9LNfK3bKKWIkZeoVotUvlud3mESE49r8D1HTUCEGtmSHtWDjof9Hjf4XKZj2i+V5OXZ8SboEkRccmh6a5DNUbk5YWJG9NBs2+ocUIhjwgStyJUBfqhO//P0ylKpIoCUCVsar9ZLnxTOGgi9IEERfq3YLCDd2hekfUSWwI7eYcHl1Yj2xbfG8RDgv9m+sYvrhaZyghcti5RXFtwXvmOKVvZ11pCYfs+YzSRHFV9slhrwRJ7J/lvJ2GsJjr/3P06c16O3LI2WmxPxa7jXUZZHsx3GaJoaRjeS2554i9phwxLbxQtXmmHoeoNLoMiCYx8LzJz2QpuaG35zszfJAJalA0=;MAjTynD9myhUkMFQZk09QQ=="
 ---

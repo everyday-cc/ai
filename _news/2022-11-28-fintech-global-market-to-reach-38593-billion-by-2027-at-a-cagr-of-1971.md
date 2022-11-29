@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
-publishedDateTime: 2022-11-28T13:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
+excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
+publishedDateTime: 2022-11-28T14:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -112,6 +110,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Ry3Yh6aNZlZdgP1xJewQA31i2lzLuaaHEKqvX4Z+E9Z8j9cmc3nv5wBYcf6LawCEcyAf1TfKoxG1FwCD+lvDDV/3RaN3ibxEySIQbNe1ZCR+tzoTNIlab6ez7XpWdmzwsUp815i5zfkhx7SnW8kBV4jl9bvSpfuh/8umwF4p39nRbtE2uCwhYHOJvyobMhEf/7jNQ9OK+V96RVO5csb+BHN/qFhoMQwWS4JxWaWfw2gs/FbITNL7wDcupdCELIPH4c1dNne0k1a5NWDdZ8jK73B2iXchaaIjaWozq4PWrKevxKAWjGCni6i6LKN1BKHJ0VumQ/H26cPcaWGxiUxe+1jowFepzK1tcnthaboByRQ=;oku9pyXDXe2TVhTlyUOCmw=="
+secured: "eprswYOaO7SUQcGTV8eLjmFU11VwwQ/D2MaU5HD1jKLKln3H4VuHR7L7vvOaaPLMG5pKAZNN9VgNZSkgFNYaiGtnZM+rwGamTj93QuH/hMmBLqoVi1iGsA19O/y1iW+amtW4JK7m/vecGAk46hW74ah8Ijxz9V9cQz1WYUP9GWh+X+fx0nG9plj4odr8tG8eaY0ZsMbLgg2XpwdwJ/hPurgcUDHI1MTUn5JobDMyZHza5N9NtGWi3qcHb+pZ15ShKpGdFMu//AMBWHyu5EOAEJ5Y9NFS6G68DgrO+Cb/+pdB5FVLHJpO67rFN5d9IoETzVMR28bqhr9AUuwqSpnRl8pG+3gzAOFK+c0GWvrRoNw=;KtES3Gvdj5kY0WO0jNAsNA=="
 ---
 

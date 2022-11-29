@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022"
+    excerpt: "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business"
+    publishedDateTime: 2022-11-29T02:25:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg"
+        width: 2365
+        height: 1178
+        isCached: true
   - title: "Informatica strengthens AWS support, announces new features at AWS re:invent"
     excerpt: "Informatica today announced new capabilities on AWS, further simplifying data management and analysis for enterprise users."
     publishedDateTime: 2022-11-28T18:57:00Z
@@ -55,15 +69,6 @@ related:
         width: 4847
         height: 2993
         isCached: true
-  - title: "Informatica tightens integration with AWS Redshift and SageMaker"
-    excerpt: "Informatica said its Data Loader software, which is a free tool for loading data into a cloud warehouse, is now embedded directly into the Redshift Console to enable users to upload data from multiple sources quickly without the extensive cleansing and governance procedures that can stretch that process to days or weeks."
-    publishedDateTime: 2022-11-28T13:30:00Z
-    webUrl: "https://siliconangle.com/2022/11/28/informatica-tightens-integration-aws-redshift-sagemaker/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
     excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
     publishedDateTime: 2022-11-28T14:55:00Z
@@ -82,15 +87,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 14
-  - title: "Informatica Extends AWS Alliance With Tighter Data Management Integration (Exclusive)"
-    excerpt: "Informatica and AWS have extended the integration between their big data management services at the Amazon re:Invent conference."
-    publishedDateTime: 2022-11-28T13:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/informatica-extends-aws-alliance-with-tighter-data-management-integration-exclusive-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 12
   - title: "Informatica Unveils New Innovations in Cloud Data Management Services at AWS re:Invent 2022"
     excerpt: "Informatica supports various AWS products and services at the product level to bring best-of-breed cloud data management capabilities to hundreds of mutual customers including Freddie Mac. Informatica is announcing the following new capabilities at AWS re:Invent 2022 today: Informatica Data Loader is now embedded directly in the Amazon Redshift console,"
     publishedDateTime: 2022-11-28T16:45:00Z

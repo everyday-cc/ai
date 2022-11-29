@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia gearing up for lower-spec AI GPU shipments to China"
+    excerpt: "Nvidia has touted the A800 AI GPU, a downgraded version of its A100 and H100 series, for customers in China and has already attracted orders, according to industry sources."
+    publishedDateTime: 2022-11-29T01:21:00Z
+    webUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221128pd216_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AI - the future of retail"
     excerpt: "Technology is changing the retail sector, with artificial intelligence (AI) shaping shopping centers and stores of the future. The Covid-19 pandemic changed traditional retail as many customers had to shop online."
     publishedDateTime: 2022-11-28T07:42:00Z
