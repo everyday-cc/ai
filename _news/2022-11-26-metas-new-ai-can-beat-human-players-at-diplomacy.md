@@ -54,6 +54,20 @@ related:
         width: 600
         height: 403
         isCached: true
+  - title: "What does Meta AI’s Diplomacy-winning Cicero Mean for AI?"
+    excerpt: "Cicero the human being (106-43 BC) was a celebrated politician, an orator, and a writer; his historical and philosophical importance is still debated two thousand years later. Cicero the computer program,"
+    publishedDateTime: 2022-11-28T00:00:00Z
+    webUrl: "https://cacm.acm.org/blogs/blog-cacm/267072-what-does-meta-ais-diplomacy-winning-cicero-mean-for-ai"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 39
+    images:
+      - url: "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc424c2-f83e-4bbc-bbd7-ea7e0e854009_936x698.jpeg"
+        width: 936
+        height: 698
+        isCached: true
   - title: "Cicero is the first AI to beat humans in strategy game Diplomacy"
     excerpt: "Training AI to imitate human language, thinking patterns and communication, especially in interactive environments has proven difficult in the past, but we"
     publishedDateTime: 2022-11-27T10:27:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Quantiphi awarded two 2022 Regional and Global AWS Partner Awards"
-excerpt: "Already an AWS Premier-tier Partner with the AWS Machine Learning Competency, Quantiphi developed a serverless and scalable machine learning operations platform NeuralOps (MLOps), for its customers. Powered by Amazon SageMaker,"
-publishedDateTime: 2022-11-29T12:58:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Business/20221129/4008908.html"
-webUrl: "https://news.webindia123.com/news/articles/Business/20221129/4008908.html"
+title: "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards"
+excerpt: "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers."
+publishedDateTime: 2022-11-29T13:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -31,6 +31,6 @@ related:
       domain: scoop.co.nz
     quality: 39
 
-secured: "aqMZIaJpRwO6wzk7wrnwIyvGc3kaaqJrctuzwmLMnyLHgLjhxvUEGOEwRJwGgogc2YGD4mcwBr5gh10a1Fx+pcG28g00Mmjy7IP+2/u/wL+MPydF6oDAVuPUyCW9QvgLuWdCvZpdh0ZEoPMHeDqSx/g9j7wvcvaMbX9mdPm1V4BrnFCvDv5IaqqtnFig5VaFCPfYSKDFmqbJlDruulhjsksfFxIzxRpyE+MQC7enTk4MKyBmydPJMLccdIjzBYPvlPVh8vIhkmX6CAmwejopjHXfWVysLy/SLMlVq7OPaqY277cbHvPFUcRNtPzvuP44kovAGKHcyMR/fktgSgXRmkZYE0xTCTvda2rqq12eokI=;FU+a0l/HXLxCb613I/E2ug=="
+secured: "uYgt0ZoK0DZBXqisuwZQULMVr4dJcsVf67DgSwRmbv/x8yJLZJtpM52wlikldox1xwclf2YTLQ044DUKBx6xRqRaSH6/wcDoq0BvgzHFyOOJilZMdTVQaO4ziHWHbsMrMfFoUgG9HhC3D2d0fLp+Xqmnwd2l+X+YYEFBRHx8BGD82oKCcEEoR8onCAc7pf0nIlAJwjlnJi1CWxRfE8HrOPx/EI+zU6Qkk2/lPmR6H7nlrLOsAqnZJavY0+CGRa5ZxhhXa4h0bmjy+4QCrRdDAQkZtiah8W5EYAQkYvVVH6EVqyrY5MY0dz+mHhepIn+1yZh7YS7t1261iNkqB1nN4BYM++MqZwLCJyYMf+mUxHk=;b9zKVkX5doV38Ebe75Lgrg=="
 ---
 

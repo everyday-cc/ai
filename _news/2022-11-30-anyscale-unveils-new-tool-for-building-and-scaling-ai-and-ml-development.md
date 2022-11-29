@@ -41,8 +41,8 @@ related:
         isCached: true
   - title: "The Anyscale Platform™, built on Ray, Introduces New Breakthroughs in AI Development, Experimentation and AI Scaling"
     excerpt: "The new capabilities extend beyond the advantages of Ray open source to make AI/ML and Python workload development, experimentation, and scaling even easier for developers. Today, thousands of organizations rely on Ray open source to scale AI workloads and applications,"
-    publishedDateTime: 2022-11-29T16:26:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721169.htm"
+    publishedDateTime: 2022-11-29T17:49:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721169.htm"
     type: article
     provider:
       name: TMCnet

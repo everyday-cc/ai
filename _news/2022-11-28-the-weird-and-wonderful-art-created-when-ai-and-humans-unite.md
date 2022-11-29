@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/future/article/20221123-the-weird-and-wonderfu
 webUrl: "https://www.bbc.com/future/article/20221123-the-weird-and-wonderful-art-created-when-ai-and-humans-unite"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: BBC
@@ -27,6 +27,22 @@ images:
     width: 624
     height: 351
     isCached: true
+
+related:
+  - title: "The Ethics of Automated Warfare and Artificial Intelligence"
+    excerpt: "These essays emerged from discussions at a webinar series exploring the ethics of AI and automated warfare hosted by the University of Waterloo’s AI Institute."
+    publishedDateTime: 2022-11-28T13:00:00Z
+    webUrl: "https://www.cigionline.org/publications/the-ethics-of-automated-warfare-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Centre for International Governance Innovation
+      domain: cigionline.org
+    quality: 54
+    images:
+      - url: "https://www.cigionline.org/static/images/AIEthics_Series_CIGI-Feature.2e16d0ba.fill-1600x900.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wdvz5jLpZ/dB+d9ioOZKHwjtyUQc7Am32Yj9RdvWtLNLkOzEnZIUZmb4Ym6emBFbaZf/qbv9R6HK5COrLPoptHBXZA3Nenjm63Y1Zg/hc5QTTh/0btVj+p+DURtNe62HwUUNpnFr0m+ioMf44l3BAHQx/9mYyl41QFaN12C72lQw68UKuJyP1Axul+uZVmOKmnS7LfJMt5ogM55UVVMzKv3rv1f/LcSUPF884Ek5VocLxAeG8wxCXLnEg8P4OpU31SQEIf/Nc7OcLPIa+0dh21C3xVH0GBysVbMTjfy3sq2EgZlQqSUBHNDs0g5hdPleEYoUbL0C5dUv7Y0/vqy3JzmnNK6kLw79xyrL5oXyCP8FggZEagZq5m+EsbXY4Q2/T/4hejVASGJPyfqsk2TwnJPUjl0h5kuINtOgHzE3dPwcG5o+9TwNJTyPYdw4R9eUsRjb0oko9FPUBvgPkgs/jP8C9s4NuEHhhizHu9gltslwnWuSg99ibWaGHe0LH2LVyk0ldYbhQHl5PDecf7NwYg==;YWAar7r/EyuSgHyiIwQ2gw=="
 ---

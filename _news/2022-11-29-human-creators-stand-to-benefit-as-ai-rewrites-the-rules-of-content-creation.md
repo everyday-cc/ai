@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stan
 ampWebUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
 type: article
-quality: 54
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
@@ -55,6 +57,6 @@ related:
         height: 405
         isCached: true
 
-secured: "Hz/z1XJwLGHcri9PYLpPFoCRSrGQZtb+5ORt8GYvF6Hx1iLqEowyHVf8NxURbfoUfGXr2GIOL1UXm5FsoSmGMa1NJtcTzjRlryQe8iijXCfLwuB+mXfZbLiY6PpCkoT8L6iTcDepyXVj/aZY1VjCgDtNqULzN7rsJgYrEpG0xJzbXZjOQVd0ZoD2zZbUD3DDx74pvFcc3Vb9yesFR0fiT8Ay+theRaVxTqxGsVTR+eFYcywG2UH8SRxhWcgdKMeU5IBrXqemDXhP+FT3ch7Xgjj6L3eu1XXFFpG31SIkntqQ9nKs3XBcI8NEhTEYsyrCIM596ah6l9Qsw//r/bnHqMGT2BOGgQ4qUO5eB0qyPPc=;M/1VnYVNfXjBzZe8Fn/t8Q=="
+secured: "mTCRrY5qdFsNrIAKd0Ly0/f0tr/YvDRqz2qNuHnbMyL4KDWUg4L5XbNQHBZA1eIPB9wtkAE5vljF3DXeXvtx175DtfQRnZSdX0D22b37B2TaCtWqJHzu//gF2A0sTDSeODwN048eMfWQ8TuyQjBBxVHw3tZljstrp2R4ttpsJG5+8czRHtBYadY6ag+lKPUTOvRb8Cr/RboTAHSwKRwhKRxoEkdIqmVzSyi5YuVuY01KsqVjAovMrxR5+SWbBfoTWUzRUaO7Ch8P0KJriTT4j7EP8rfpoasp/o+UD7Y1eyRg/qmtc4DqYOSSPdpAFA5e+EnRmaCpQH26Lr9ZGw0YfxtwASN6iWdqs7nhm+SU4DpVZhz/CAwJlDMB8RRcihv0awjw97UN/CwiJUC5G2joqciMcU4sSZmFOduu0vsVP2xXFRXEJD7LyPVz3OKGSg7JKpZN+EZ7eDegKDT/+YTH0V7TmtetvOHoWKW0C128EvvK+PaoSEheEyMLASnIUfufzqLxsLEyTpqWBiSVSrv4sQ==;Rs6YK29Is5gcGYCGgQIq9g=="
 ---
 

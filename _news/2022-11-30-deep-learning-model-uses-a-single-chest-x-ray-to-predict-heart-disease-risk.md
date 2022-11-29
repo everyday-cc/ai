@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-29T16:44:00Z
 originalUrl: "https://www.news-medical.net/news/20221129/Deep-learning-model-uses-a-single-chest-X-ray-to-predict-heart-disease-risk.aspx"
 webUrl: "https://www.news-medical.net/news/20221129/Deep-learning-model-uses-a-single-chest-X-ray-to-predict-heart-disease-risk.aspx"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"

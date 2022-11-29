@@ -6,9 +6,9 @@ publishedDateTime: 2022-11-28T22:21:00Z
 originalUrl: "https://thenextweb.com/news/london-based-flawless-ais-true-sync-tech-is-a-revolutionary-approach-to-film-dubbing"
 webUrl: "https://thenextweb.com/news/london-based-flawless-ais-true-sync-tech-is-a-revolutionary-approach-to-film-dubbing"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 63
+heat: 83
+published: true
 
 provider:
   name: The Next Web
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fflawless.jpg&signature=338909aace52cbd72dd0453bb06c1bdd"
@@ -28,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "London Based Applied AI Co. Raises $42 Million Seed To Automate Drudge"
+    excerpt: "Applied AI Company has raised a $42 million seed funding round to supply AI solutions to industry around the world."
+    publishedDateTime: 2022-11-28T19:31:00Z
+    webUrl: "https://techreport.com/software/3486126/london-based-applied-ai-co-raises-42-million-seed-to-automate-drudge/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 17
   - title: "Queen Mary University of London: Queen Mary University of London spin-off provides the blueprint for new game-changing AI applications"
     excerpt: "The Q3 2022 acquisition became a component of Veritone’s new solution Tracker, an AI-powered object video recognition product based on VSL technology.Veritone Tracker leverages AI to track objects thr"
     publishedDateTime: 2022-11-25T03:11:00Z
@@ -40,6 +51,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 7
 
-secured: "UfRI9/8rPcritMrC33LIC7HH7SwqY8aEF2lC1USp6jImMQ6PvhGuryffE1YKPSp01RxTHbgbjfMQ1qNd1jjyMSN2hmZoK80YG3vEQ/kPJg61MefooajrUIo/PWZDtFqgB0MmlsvR76gNdPxwgmVqN6GNgeTiY6EjrbCnFQi+pFnzXu+z/Fsvpw0rYIFqbaD6ITz+7dPUZCtOm6hZseRB6kicamTBPKIZJM5s+qmAX4Y/URYfFm3/A7yCafktI/85rirmvjtEtGugGxYcXb+JV7oh4R/O/20I191rIl4JSShWU0nigzezTr7HYFyP8tISYkxazfEEHUry4Uo/wtglFsgJ7osB5ka3gAGLrosUWpg=;iTEyulwcNeGAOQ1YCOQU8g=="
+secured: "NT31XdVFRl7W9+I6Ht3yLEX6Q3RcaYTYIcJeXCiX3wZtUTGz3q3Gdm7QyqGsAl4GBNEMPaODBMFrchC7HgzuE6DZkVvUVBuDZZQ9+icc7aOXrP9t9izEkYEYpaWzKGrKcIODo1v+33H5wDVcFTKDu3dcPCZkls1UEr0qL5h9u+3eRxdP+WcoHIpowlIE3+iJVLnkSvDzOAvfeaGu0PDOyzhCE1gZkMMvrBOswoiMBNjqZc2+xTRNdryl/EfZDZMsS2ayyndcJsFuLOiAqPdj29LGi2KqUFuJdHxUt3nZML4miShygT8Db1J3lCWryi+PBBBxKb6CPb3iRz6QJXrlOZV2QT5tpjF1XgdyB1hpPo7tenhPjgvhIEA1ZUrzKaxQLGaN6+B9gormzxfbHI48ydyyKsv1nR7a3yaCAH4gBU586boYmvbo2I4zlxzPw9VmFCsZCOhbB6rTE4gnWt9nTNkpNHy4KkZN0FvdwjKqN8EMeNXC3vdDBFlhBPZXXXIhmGV6tylr61gOcL+VX43HpA==;/vgfJ2T8EqaFnigGGBmOHQ=="
 ---
 

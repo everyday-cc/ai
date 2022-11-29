@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "The 10 Hottest AI Startup Companies Of 2022"
+    excerpt: "CRN’s hottest AI startups list includes AI Squared, TimeZest and Pano and experienced veterans from Microsoft, IBM, ConnectWise and Twitter."
+    publishedDateTime: 2022-11-29T17:00:00Z
+    webUrl: "https://www.crn.com/news/software/the-10-hottest-ai-startup-companies-of-2022"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12c3233d92ed-7182db298dd0-1000/artificial-intelligence-edge-globe.jpg"
+        width: 610
+        height: 458
+        isCached: true
   - title: "Guess the prompt behind these AI-generated images"
     excerpt: "Find The Prompt is a fun, missing-letter game that captures the AI zeitgeist. Like Wordle, you only get one prompt a day, but unlike Wordle, you have to guess a string of words that were used to create the AI-generated image on the page."
     publishedDateTime: 2022-11-25T04:00:00Z

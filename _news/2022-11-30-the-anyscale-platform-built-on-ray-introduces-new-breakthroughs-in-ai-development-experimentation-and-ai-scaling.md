@@ -2,9 +2,9 @@
 category: news
 title: "The Anyscale Platform™, built on Ray, Introduces New Breakthroughs in AI Development, Experimentation and AI Scaling"
 excerpt: "The new capabilities extend beyond the advantages of Ray open source to make AI/ML and Python workload development, experimentation, and scaling even easier for developers. Today, thousands of organizations rely on Ray open source to scale AI workloads and applications,"
-publishedDateTime: 2022-11-29T16:26:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9721169.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721169.htm"
+publishedDateTime: 2022-11-29T17:49:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721169.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721169.htm"
 type: article
 quality: 0
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "ykxf09xSlmz2Iee9+AO6vtAVFbCNLrvECTc3fIQVV6ronQ/PNecxSLHa4anCWKnKOqFWOALCeA1CbZqPnkqqpSfs05EqANNPxNeU7/cvoZ4o5wMWuiamdqQG1UYhys95nYxeX5viZk/ahMlFZRz7UFAPuebXS/H0esrcVZyPN2AfS2yYW9e+15PYu+EYBellopaPMDvOPJHKT5s2wIxDPi4r/E53xqGPWj3uRVIkKEZhMEvt4ZacWdpIvqoJ+F34A6aVyUKVHu0zvfknyZ0h8Nd8EF6Yfz85JDPgzwfEKj2wGpeMlawSrCF0jua82bSVBzKSFw2+wGOdvDjIqBVsZPLB8jYy300w0W5HImkpKnI=;ev+TLoCV3k783q6JmJD5Zw=="
+secured: "dVM+M4RscyQ8+Q5oPYBWzZ+ya/kGWgJU0EAoqpauN6mCAWX9akxUTUP3wh3T25/fJZDt5lCSympBlezTAeAHWqSxZ7VU5gZ32JMQ3zWpvARc3wMJ3TepB7vrz6UgVhP6p4tFg4FRNsFElAMoIghbuRDLgOYZFUv1HpuHX14C4u4L4QyeveNKpNx8hdp/2t4TAUqF+cClUEry3QjTPYBgOEcWOhkEtEWQTV9JWUjDAtilIdLSuJ8CIgu5fMfDK0Gge0iIsOowNQUWYjCQnJsR2Tt+dsbfhsh0+1oCoKZIB6ufkB+vrj0vLqkrsXmRuLXyqwotsJJ8NRvilXuCHsCXjvPGIdGUZrokSB7HG+BkV/E=;cmW7C9N94OPox8PKFJVWNQ=="
 ---
 

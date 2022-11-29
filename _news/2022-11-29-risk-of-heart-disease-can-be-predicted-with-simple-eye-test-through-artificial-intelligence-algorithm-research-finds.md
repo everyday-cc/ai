@@ -34,7 +34,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 37
+    quality: 39
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
         width: 620

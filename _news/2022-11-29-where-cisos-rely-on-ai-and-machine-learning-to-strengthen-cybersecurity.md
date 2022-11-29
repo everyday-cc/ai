@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/"
 type: article
 quality: 112
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -35,6 +35,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Deep Learning Has Proved to Be Useful for Cyber Security"
+    excerpt: "The threat of cyber attacks has recently increased dramatically and traditional measures now appear to be insufficiently competent."
+    publishedDateTime: 2022-11-29T18:16:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-has-proved-to-be-useful-for-cyber-security"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 36
   - title: "Top 5 stories of the week: Deloitte’s cybersecurity predictions, the true cost of a breach, AI’s new diet"
     excerpt: "Just as a new report published this week highlighted that enterprises pay on average about $1,200 per employee each year for breach mitigation, Deloitte shared 10 cybersecurity predictions to better secure the enterprise in 2023."
     publishedDateTime: 2022-11-26T13:00:00Z

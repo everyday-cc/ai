@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252527732/Panzura-partners-with-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Computer Weekly
@@ -40,6 +40,22 @@ related:
     quality: 59
     images:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2022/11/GettyImages-1346925522.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "TCS partners with AWS in new quantum computing initiative"
+    excerpt: "Tata Consultancy Services today launched the TCS Quantum Computing Lab on AWS, a new service designed to provide enterprise customers with insight into what it described as “one of the most promising technologies of the decade."
+    publishedDateTime: 2022-11-29T17:59:00Z
+    webUrl: "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471"
+    ampWebUrl: "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 59
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/11/GettyImages-13469255221.jpg"
         width: 788
         height: 443
         isCached: true
