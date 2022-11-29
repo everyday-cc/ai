@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AYLIEN Makes Waves with Trailblazing Financial Services Innovation"
-    excerpt: "AYLIEN, the award-winning news intelligence startup has today unveiled a pioneering breakthrough in financial services risk management which will send innovation shockwaves through the sector. AYLIEN’s Risk Signals application has been selected as one of the first three applications to be offered via a first-of-its-kind procurement marketplace - the Innovation Data Platform or iDP,"
-    publishedDateTime: 2022-11-24T13:32:00Z
-    webUrl: "https://financialit.net/news/risk-management/aylien-makes-waves-trailblazing-financial-services-innovation"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/aylien.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "eqhVDdf8+IUkJeFeTS6jx7Af8ZKB3rxvWDmneST20cLeoQn4C0VV6SSnn5Shq3IN3UqJkuWKjZrMhyK05IF3B79qW7JN5ZRv7rhBKTkIhgRkuLIOLrZ6OMYk9zYMy2h8v3wx5pQ1xvE4jbKxdgLpURVZCvE5iPn9tBYWDOs+DvFNFBVT3bOgWI3XatOMsywTnvyhT846VDrEFVTCCpq2y3HSnwmd3/Ox3HBWHMLWgCWhGb1R37eSgtV1BV/jjiG/S8J16/1AI4B8/Hf9VXUUtAQk2b7Z7/ogtxT+GWDAMKJ/BQrpkKS81sILwayhdJZlpdzbSGdg74x8woLd7rQ35OjVSa/SuZSS9rO7CRRJ+0jnC/IPW3pA7jI2hyrF3sMG6MGfXtNm6y96P8u5fJ3z8jEOV4TTD+Kw0JK/opylu8ZkwoGTWwF+t5yi7UZgTR5RxJjCAhAuMTaXRU53BcqhkCsPKI0GC3BzbdwwMQa02vbnHYzYsU0ve3ENdotQ/j1lSA31Cays6iH887eDQ6BJCA==;qk5PqxSqVG52aBWSUj9vCg=="
 ---

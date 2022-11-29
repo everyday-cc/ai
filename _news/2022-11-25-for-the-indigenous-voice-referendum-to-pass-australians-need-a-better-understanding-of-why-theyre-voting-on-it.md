@@ -43,6 +43,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Nationals fracture over federal opposition to Indigenous voice"
+    excerpt: "Andrew Gee breaks ranks to say he will support ‘yes’ campaign while WA branch also states it will back Indigenous recognition in constitution"
+    publishedDateTime: 2022-11-29T05:33:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/30aa89dbbbae34488018951c8b36ee24b24bc894/0_0_4172_2781/master/4172.jpg?width=620&quality=85&auto=format&fit=max&s=3e35877520af8e57cc5b31e8b73ecc67"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "w2n+HUPEEpxmhnABHrtmAl1xg4I4wf8PRZEo7Yi4rzzOlK1KLJpAbpnRDa8k83QsSsPfJDv2EjvogjLa3bAqG43kw39q/6jG1r0LXCayVAP3yVsk2YjPjx10x0WXfIQEa0G7l/BhkXhf4SEaS6fkm6spSZWmG1nXSqyXn05evC37QYoRNl/Pg5nGF2Tvnjt+wVcUbmZVilLPynqYWXzdXAslkXQPCWsqbb2oZ34rD70ELvaEBgTCacPAq2TWEYTJEyFPjumtvJDvU0BSA8ckdzEX3h2X36k+iOSxFGOsEoKm26+Kqe3TDAIa0ut82+HI5OmVNYkVzjYet4p+TRbHGNhf7oTpSt4s3SkmBj/P8up2C3AVd0CyTzabLjAIglbfQN+X206wMJPvlpghaJ9E/0RrcC6JL4AuMN8g+CGdD/z+yxYvrm6IiqKoAgZafzLq462GO9kYsg6j1SEpLnwSGl8w/x/85bEvl654EKenDy2GAoX3itmbjrY8wkQZbyoSus6olJCejewxKzgag8ixPQ==;GgOTZmF71I27C56VdxF1pQ=="
 ---

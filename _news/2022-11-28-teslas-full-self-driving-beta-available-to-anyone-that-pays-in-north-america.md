@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available
 webUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america"
 type: article
 quality: 81
-heat: 221
+heat: 191
 published: true
 
 provider:
@@ -186,33 +186,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Tesla's full self-driving beta now available: Elon Musk"
-    excerpt: "Musk had come under heavy scrutiny in August over the controversial Autopilot advanced driver assistance system that has allegedly killed many."
-    publishedDateTime: 2022-11-24T14:21:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/nov/24/teslas-full-self-driving-beta-now-available-elon-musk-2521725.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 34
-  - title: "Tesla’s ‘Full Self-Driving’ Beta available for all in North America: Elon Musk"
-    excerpt: "The feature was gradually rolling out since 2020 for select customers and required drivers to touch a minimum safety threshold with Tesla’s built-in Safety Score feature and covering 100 miles applying the Autopilot."
-    publishedDateTime: 2022-11-24T14:30:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/teslas-full-self-driving-beta-available-for-all-in-north-america-elon-musk-101669290879773.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 30
-  - title: "Tesla makes full self-driving beta software available to everyone in North America"
-    excerpt: "Tesla is making its full self-driving (FSD) beta software available “to anyone in North America who requests it,” CEO Elon Musk has tweeted. FSD is the most high-tech option of Tesla’s advanced driver assistance features."
-    publishedDateTime: 2022-11-24T13:48:00Z
-    webUrl: "https://www.standard.co.uk/tech/tesla-full-self-driving-beta-software-update-expansion-b1042297.html?amp"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 28
 
 secured: "9GI9qzIx+4cXdDaq9BX4F0vj9748S2E5VTUpG4+H5fiS3/Pac6swDLunxdEudZjQYqcq79wdzCsJhbkm55hKwcm6Q2GuJTHbWmJxTZPphGY1RXZKBoSrdg5zKoYeVEmRiiIiTDPkSKUZrWSV5Zy0rd7ubDU33/Cl7yBFBuhM+mcGyNbESdewc1fs17MMp2yhlYTPmKz8g+5bfs41NCbibSCsKgkflL1JGDDDaCDmzjyAYz+HnC+n2Yv/g/0mj4JLSQzuoGgiJV0sBY6oV8obuj2Fk6EGDTAUbi1kL3mYpTtaKlW9CeyhNgG7JLI1BlC45J+Wdg0K4EvWee4nO4AuqK3pYXpUCPCXcIzNpXEYje5xK19GYc/En5jdMQc2Kh00XtyfXQv8vM5xnhspfIP1Y8ArxKDFN7GIQY4HuiCCd4lZrWKUn/4mdFaj3QEp0uYztuXdBlycuFzr5LiMtcye6BcQt+7egBLy/xIt70kan3FcwF3D64eHtxDBzZKEGe5A7jAP5bq0+upOiqWMKWaOpw==;tf9ajeglxZWhRRhjmtd5zg=="
 ---

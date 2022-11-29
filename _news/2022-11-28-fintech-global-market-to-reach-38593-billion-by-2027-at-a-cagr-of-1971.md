@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
-publishedDateTime: 2022-11-28T13:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
+excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
+publishedDateTime: 2022-11-28T14:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -51,29 +49,6 @@ related:
         width: 500
         height: 665
         isCached: true
-  - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
-    excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"
-    publishedDateTime: 2022-11-24T13:27:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/fintech-connect-2022-unveils-startup-launch-pad-fintech-good-documentary"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 19
-    images:
-      - url: "https://financialit.net/sites/default/files/fintech_connect_2.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Fintech Pleo appoints former Healx CTO to leadership team"
-    excerpt: "Pleo has appointed former Healx CTO to the fintech’s senior leadership team as part of a growth strategy which has seen it roll out services across Europe"
-    publishedDateTime: 2022-11-24T13:45:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-pleo-appoints-former-healx-cto-to-leadership-team"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
   - title: "Conversation Intelligence: the SaaS player disrupting the FinTech space"
     excerpt: "Technologies such as AI-driven automation and SaaS solutions are rapidly transforming the way most of us carry out our financial transactions. In fact, the emergence of fintech has significantly reduced the need for people to visit banking institutions in ..."
     publishedDateTime: 2022-11-26T13:39:00Z
@@ -98,6 +73,6 @@ related:
         height: 400
         isCached: true
 
-secured: "0lWd7t+NayueNa3yEdhskkCepzac0d5cn59pr7tjbhhT7M3WZ8MNk5gQzzf0EgRz0bRm0I39QbTcmjQ0qumX3BJHczcOlKcO+297X7WzzNOX+VICZobKH8MrIQg8i3Z6iMWg3Nu0hzwC7j8y4KM25LtvEklXY1BgWt/SkObPgmUxKsHRucP4L7Hd+do33B2QMdU1U8RmC70fUYUUCxQyQnrqQU2jjRVsCtXhWoE/CuG4sGtd3G2N56yvbmJSqyXibD12xJG5w4ohj9Dh7LL23XDNjvMILPGqJhChoa6BYdOdnsKJyc1Ixma79j/sp5xr6zlTRNg8+ihvQr6neiYbjrjwQnP0f7DNaeSR9gTudCw=;txNNVkdaZNaxDDof4Ey+tA=="
+secured: "3111ERysYHmdf1YojeoqnazbgHjIU3SMcZI9r5oGmOxC+rqscVxUTSwwFzv+a9AjYSX4Ri7CmO9VN1QO+87rpUjDYtU86Dr4u96UuBW96gA1Ts7zYlr2rNmbsSanHatNqQI6nOeeqYzgEELQkuR0x7iGadtVVK3OvFPWcKDaUMcseVh7i7vksc00pm9SlHgrmx70YNr4rJJMy+OIeftvvOYODDk2wowuKTN5Lam5tV7FXd+KTdVwlU19FLx2Vi3MR+zWUNq3B/sBcPo59nBnYgRkVmE9FWc0E+j5avntAiWudHLoC5gbJUeYGHD0+FPQ+Y3TKThQlk97YhNdsrJUbaTkmpXip8H7rk73IdboaGY=;og/hdwoqG0dxJCNE9s9fsA=="
 ---
 

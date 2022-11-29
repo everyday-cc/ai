@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Arizona high schoolers learn about artificial intelligence & related career paths"
+    excerpt: "High school students from across the Phoenix metro were selected for Arizona's first artificial intelligence boot camp, a four-week development program held in October and November that taught them the basics of AI,"
+    publishedDateTime: 2022-11-29T00:39:00Z
+    webUrl: "https://www.tucsonsentinel.com/local/report/112822_artificial_intelligence_education/arizona-high-schoolers-learn-artificial-intelligence-related-career-paths"
+    type: article
+    provider:
+      name: Tucson Sentinel
+      domain: tucsonsentinel.com
+    quality: 16
+
 secured: "rApk2yAxzqQ+NXfUI2yU37sL+QJBo/oR3wnf/lobXwIx8vyAzzmaql0qZqIsBlHNCBfpepQ+6Rntqq9PMfFjxIFHzaROwACIalmV48dv9rhPnthJcz79v9U8XHCs38iSdf5mTW2tQRGG2qWysHMUfR3foV0eP8Sxc+T2DdOIja3tAqYR8KVqmfZOxZDy7p7eKMKf/IcK6nuF8WXQtw5rHOkfifa1WNt2mgWypwD2RtBdyLi2fri8gc6TwTvV6bEU5yryM7mU53+nSWDZlh6qTwxcN2NASGnkp4VCRFhVRsc7tVM8TpgLiV1K6uBKpHJOuht8muy8IyhYZ8RZZtq28Zw5+Trte//QVIbSVY4gK6Q+JeTzT5LqX8DKhUL0hQaGJXDDKJJSijWqGLYMRi6YZNvtoNXH7Yzhr7kTKuBkVSpqoasBxWsCtPN2oHQ7n81JV8Sp0rMmk4THLoUTwuWdiaNaw7EnJnxJAvjoihAY3QN7BPdQFmkwKpPyqmCpdff9HrSMVYbuotN00EBtrXQd5g==;6hH6N9VsyS8kJBc4w//GIw=="
 ---
 

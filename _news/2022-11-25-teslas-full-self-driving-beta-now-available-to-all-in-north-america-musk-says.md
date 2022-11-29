@@ -182,33 +182,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Tesla's full self-driving beta now available: Elon Musk"
-    excerpt: "Musk had come under heavy scrutiny in August over the controversial Autopilot advanced driver assistance system that has allegedly killed many."
-    publishedDateTime: 2022-11-24T14:21:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/nov/24/teslas-full-self-driving-beta-now-available-elon-musk-2521725.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 34
-  - title: "Tesla’s ‘Full Self-Driving’ Beta available for all in North America: Elon Musk"
-    excerpt: "The feature was gradually rolling out since 2020 for select customers and required drivers to touch a minimum safety threshold with Tesla’s built-in Safety Score feature and covering 100 miles applying the Autopilot."
-    publishedDateTime: 2022-11-24T14:30:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/teslas-full-self-driving-beta-available-for-all-in-north-america-elon-musk-101669290879773.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 30
-  - title: "Tesla makes full self-driving beta software available to everyone in North America"
-    excerpt: "Tesla is making its full self-driving (FSD) beta software available “to anyone in North America who requests it,” CEO Elon Musk has tweeted. FSD is the most high-tech option of Tesla’s advanced driver assistance features."
-    publishedDateTime: 2022-11-24T13:48:00Z
-    webUrl: "https://www.standard.co.uk/tech/tesla-full-self-driving-beta-software-update-expansion-b1042297.html?amp"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 28
 
 secured: "X7FPe17kUZjQV/2CTDgFVbZzJ3u2XyKsjawFAHBX/XOBF1D/WyREj7+EUxa3ckwkDPFPkw/sC2OyzaIgBJSeDDSZOVAlPWQBuexPKSL/eF5FX66LhVOVylliTPjDYDbjabPjzRxntMHi7TjU27tsi1JIxMPbv/b/O9ucqAZ3BtxHcbRgrbBYdBBS8bFBo56Hn3bXDzYdykITp/QTsEgR50WVUJowAZTCEbQqy43ic7eJ4Ylnc77bRKVCrtY63DWYk9GrtCi/Gq9QhbyX8gYAnlSzEGDUBAJKS2g8KnwOA18jwfVsaaqkmQtfMn7/Z4nz+wHaararzgPIpselcILQZmItA+LX3lN8GblPnTuc5yg=;EXDH5vK5XQDfcKytnjYtRA=="
 ---

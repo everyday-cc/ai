@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-micros
 webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,17 +53,6 @@ related:
         width: 760
         height: 505
         isCached: true
-  - title: "Lawsuit takes aim at the way AI is built"
-    excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
-    publishedDateTime: 2022-11-24T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
 
 secured: "5CDAGMx2VkJMcywRbdHcK8GrqtJ0nCLUl4Qg0c7OPVmrUh+3elwTjDQi52EYxqIZt/j5bd2+mM0b/rIcI6HL46y0F3XSghuhEgrCR2ONND9QabcBf1UnjCixqelfTMYlf6MKC5RvHoIjdzAVjKjo9HJZlHg6Bz6kZoS6v/LUz00YigI2CsxaN4SsqjR2+pocFamiVFyEr+R3kenuaI3zW2LU/v+ouL4AZT9MrEVKAoVD+0bd3AnDEkAqnYlQr+nDttmw2sSXfd3Cq8HS/dBQPOsYoGHplGaRdx+SOMvtBkVX6j1Dxj0R3qiS2m64NBJ7QF6EWOyjiK1YMZVcuNSdk7f6W9P+WLd9flqWDvejjcg=;+gD4LxsFg+0vk2pwNNt0UQ=="
 ---

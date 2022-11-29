@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Fintech DeltaPay Selects Provenir’s AI-Powered Data and Risk Decisioning Platform to Power its Buy Now, Pay Later Offerings"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, announced today that DeltaPay, an emerging fintech headquartered in Kenya, has selected Provenir’s AI-Powered Data and Risk Decisioning Platform to power its Buy Now,"
-    publishedDateTime: 2022-11-24T13:22:00Z
-    webUrl: "https://financialit.net/news/risk-management/fintech-deltapay-selects-provenirs-ai-powered-data-and-risk-decisioning"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 13
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_14.png"
-        width: 1366
-        height: 768
-        isCached: true
-
 secured: "QaGcpJiP0M5Fge3INDc5D1VLtra+xLat/EkELsxkDqp/U3VQAOZB7sTsuI1cXd2CbUrmKI0Dh7N4lQqY648FEsvWgst2KYUX5xWLFQ9Q2yoLyv2LJSx1CG/SoXnnQiaGqvFNNA6z1F84Mfpiyt5XbsXGpsv5Ytgh8HnkjmR5iD04cn7ClXnTc4eFy+X5LL+rsydbytZVmbHFocXf7TG0qWEEiljmxbQFZp54s2myzn+gi1QCRe0eSTnJcLtmU28nrOJT1nvhf6Bo3o+qV53aubIoftSyCUz8yGXKmNzap3ZH74UE/6H6ZDDj7qEKOAzB8qYNTpaWsNADwvgSzx7EnVBiUrXb9WTEDashYPt2K+JrxozPMkyJbnMA+6woPmnPc4BIhswEnknDMCiR77p1VRH2ySCG/7SAOwkqzs4YXZDV8CpThNM5NbA8MQUopq49203jSVRbU4XIjyY5cKEkw5mnlSAgkqrsRyJtZz9V6cwJALM4aM7Mr28UXh/mTqO651fx54rAXCbIiM4xiuRarA==;0Pm8rjJSoWixnfE/wARaQA=="
 ---
 

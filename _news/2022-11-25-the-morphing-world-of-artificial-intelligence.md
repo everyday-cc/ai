@@ -7,7 +7,7 @@ originalUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-
 webUrl: "https://techwireasia.com/2022/11/the-morphing-world-of-artificial-intelligence/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     width: 2560
     height: 1707
     isCached: true
-
-related:
-  - title: "Most of us really want to start delegating work tasks to AI already"
-    excerpt: "Task delegation in the workplace is nothing new, but a survey from The Harris Poll has identified one key difference as we look toward the future: workers will soon be delegating repetitive tasks to AI."
-    publishedDateTime: 2022-11-24T14:03:00Z
-    webUrl: "https://www.techradar.com/news/most-of-us-really-want-to-start-delegating-work-tasks-to-ai-already"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 47
-  - title: "Mammogram-reading AI starts work in hospitals"
-    excerpt: "NHS Grampian, which provides health and social care services to more than 500,000 people in Aberdeen, Aberdeenshire and Moray, is testing Mia, an AI platform developed by Kheiron Medical Technologies, to help radiologists to detect cancer, cut the backlog ..."
-    publishedDateTime: 2022-11-28T00:05:00Z
-    webUrl: "https://www.thetimes.co.uk/article/mammogram-reading-ai-starts-work-in-hospitals-h2lqdsqjk"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa61c3fc8-6d06-11ed-b8ae-c57034dfa905.jpg?crop=4608%2C2592%2C0%2C240&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Qb7iG2wQcy2+6QZmBKhWWQxD+l6hsMbI4e2GBdJI19sXHiar+hD8T9uE6opxhlUD1AE17AuXvq6jvV4ymC4cfxKRrEE0UtqIicYjFeG8XZjNoAYS0ZgU1F6HapN7ryJRr13671/TaGrItHXxNjtqZLFnLTWrCRfBVLtRqtEQke0gMh48gvjVL9ZQFaKth0v2GVV4G9q9x2AaPwH4EPVNf46UH3qm0nBqxIU8nwbZxVWalgmcQ3nEjLy0cHI3j2lptDpMWMsKl9pKeNcTlWQjaHQgi1mjFefFwcCu8pPO3y0wr+u8Rq338vOrvkRv61HHmIjWkdosr4DDOMMV2+FF7X/CGL6RP14Bo5gr2v6uW2O/MP+05x6TF5RH5fQYyB7pISt0mZH97QMuuUxCCs6aV6YGbu/+iy/4poxDb2c0bu26V3yHYriq5+/EZFKIh0gb+SNJTw2bWc3NRmJAyVXMw/1B1wn02kS/YbrhqSxQ4yUE8p+mTvta5jhJ39S1H7bZuZLOPcLUoKs0rZ2fxtnXXw==;5aGzaKFoJSu2DG8FxtZA0A=="
 ---

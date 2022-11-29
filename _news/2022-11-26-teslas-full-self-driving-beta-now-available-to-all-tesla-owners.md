@@ -181,33 +181,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Tesla's full self-driving beta now available: Elon Musk"
-    excerpt: "Musk had come under heavy scrutiny in August over the controversial Autopilot advanced driver assistance system that has allegedly killed many."
-    publishedDateTime: 2022-11-24T14:21:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/nov/24/teslas-full-self-driving-beta-now-available-elon-musk-2521725.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 34
-  - title: "Tesla’s ‘Full Self-Driving’ Beta available for all in North America: Elon Musk"
-    excerpt: "The feature was gradually rolling out since 2020 for select customers and required drivers to touch a minimum safety threshold with Tesla’s built-in Safety Score feature and covering 100 miles applying the Autopilot."
-    publishedDateTime: 2022-11-24T14:30:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/teslas-full-self-driving-beta-available-for-all-in-north-america-elon-musk-101669290879773.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 30
-  - title: "Tesla makes full self-driving beta software available to everyone in North America"
-    excerpt: "Tesla is making its full self-driving (FSD) beta software available “to anyone in North America who requests it,” CEO Elon Musk has tweeted. FSD is the most high-tech option of Tesla’s advanced driver assistance features."
-    publishedDateTime: 2022-11-24T13:48:00Z
-    webUrl: "https://www.standard.co.uk/tech/tesla-full-self-driving-beta-software-update-expansion-b1042297.html?amp"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 28
 
 secured: "fthx1Kp9cf5fZA+4osmg7nDzcK0wp2pY+M65qYIQOeGnRGz10469HK939nQbPRoEMYwjEuOtFbwrXjjP2ZCcS9AH89m8TDxqMAfcYrSefJe2U4mriS0w4g2KYq7XxM01hl1PCvEDc8lsNmd4O0eF9iUJcMtkydRswooGOfxYX2xfkeeTDm/So6VshDKz6jsgf4kArrMqQQONhhuFJae511vnfsovWe+m7oIsDs5ARpTaSi5gkmDXGqA8GloxqPCMmyc2BHsTSMddyXiEZoxsKh7vCWZi965Yk8Bc44+f31384fwRDRyI4ATvK5UcKewzmZbQ9txqWdBS7sX5V5VIVlDhtUQ+MDQ1IM+1zxooBHvPvSdR+zBuPAa11szTjDLXQtIxYyHp8KOY3iDbovfWsZg1etPTr7MgjoAtKv2z5J7ILnccqpN1pl2mUqh3gUyzVKkLAVhaKvp+Pxum2rfPurO+9mXNIu1tA9DPWpJhbhO/lW9HaeZ2YUuRaEX8JejiGdlSpmtdppYDEr4j2iV+GA==;swxodspDizyZ0Yw3eLOdoA=="
 ---

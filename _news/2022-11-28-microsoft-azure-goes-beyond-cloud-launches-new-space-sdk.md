@@ -53,17 +53,6 @@ related:
         width: 760
         height: 505
         isCached: true
-  - title: "Lawsuit takes aim at the way AI is built"
-    excerpt: "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code."
-    publishedDateTime: 2022-11-24T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/lawsuit-takes-aim-at-the-way-ai-is-built/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
 
 secured: "xrNxQcPqPrm06HIUmQXPqQruOFJSqrkvjjmGbtKDpIuTfp9DnEzPDNUTpkkEJ0nXfh9K4Z9JTTj+tezaMq16Cb9FCZGIy/9LdFpcFBT8nkaF7RkL/0oE2cXFpffwH+MF9evcdlF+yIrzwFEyI/tIkbhiHMgIURCbCTdymNS5zt3LWzfpekaKjYbkc8EMHxHk8zuGW0Id3XjcpSkfF1L+mQ4M4GO7ELsft7OdBcYysH2OUsOlcz4Ojrugkp5YmOgwJg9/IcPDxkanzMi1tcDCdrETFtve67BycemT0noTh3+YqjI6vPX+AXyzU3l+kd3jjZyGx1TspmqtE8lkunFC2BdGUMAT71JriivI9kyDu+eBDpCKBf8UnygfCpt8PSUYv016/SCK6IMuBV09GEthdNCMfVIVHkLH05r26lbxHkbm8cN3BmSsZtyc7U99ZgMq3VLQeHAtnRMoRY/W2Tu9L4tAOigFR09h5KniVxDY3a0fNFIFv8rcNfpOHVoz6hdZ9nYPgiqQUc9MrTh+8zFuIg==;/N1zp9+ItU4a9CnpURuhfw=="
 ---

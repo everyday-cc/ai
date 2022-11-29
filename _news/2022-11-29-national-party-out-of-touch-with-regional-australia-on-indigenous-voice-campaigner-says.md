@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nationals fracture over federal opposition to Indigenous voice"
+    excerpt: "Andrew Gee breaks ranks to say he will support ‘yes’ campaign while WA branch also states it will back Indigenous recognition in constitution"
+    publishedDateTime: 2022-11-29T05:33:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/30aa89dbbbae34488018951c8b36ee24b24bc894/0_0_4172_2781/master/4172.jpg?width=620&quality=85&auto=format&fit=max&s=3e35877520af8e57cc5b31e8b73ecc67"
+        width: 620
+        height: 413
+        isCached: true
   - title: "For the Indigenous Voice referendum to pass, Australians need a better understanding of why they're voting on it"
     excerpt: "I quietly sat in on a \"focus group\" in inner-city Melbourne. The responses hold a cautionary tale ahead of an important national vote, writes Patricia Karvelas."
     publishedDateTime: 2022-11-24T18:00:00Z

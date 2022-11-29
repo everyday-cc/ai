@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
+    excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the"
+    publishedDateTime: 2022-11-29T06:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Seoul opens first self-driving bus route to coax public into warming up to driverless vehicles"
     excerpt: "The locally built bus – which resembles a Lego on wheels – is currently servicing a 3.4km circuit in downtown Seoul. Read more at straitstimes.com."
     publishedDateTime: 2022-11-26T03:48:00Z

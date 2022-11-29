@@ -2,19 +2,17 @@
 category: news
 title: "The Electronic Medical Records Market Sees A Rising Adoption Of The Natural Language Processing Techniques - By The Business Research Company"
 excerpt: "LONDON, Nov. 24, 2022 /PRNewswire/ -- The adoption of Natural Language Processing (NLP) is gaining popularity in the electronic medical records market trends. NLP creates machines that can ..."
-publishedDateTime: 2022-11-24T16:27:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te"
-ampWebUrl: "https://www.benzinga.com/amp/content/29852130"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852130"
+publishedDateTime: 2022-11-24T17:22:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57678062-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57678062-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company-008.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Natural Language Processing
@@ -26,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "7bzudBj/0SQVUjA1EZBE9j4VfX1JJQuLASd/qAbLPoTIbQ4FwauzJ4qLpjdjyiKB9KSJCnKTsrVyjug9Z0eZKdVl2zwnpJpqIu+hMsxMYUTLhADCp/uXwU03d3EkjhiHosGNNwAChJbh1lOyZCa5+2BJCzKbLbZrU/H3GpkdvNWEf5mp9yxsmlIVaIauhVyYv2GawjjFmtDU1SBrpSP6RJIDjAju+xrCzp+y4u6OBllC999rnxy3v5LYdgx9JL9R4Bs+oiDz/87Jo7tNvumiGxilv4K7Rbv56MZQe29jLWuw2uCTqqPlu3DPw0mHYu8QlJ2ohds3UzOapkVp7EbN6X12ZJYya0D0gKfXry2x/tc=;Iij3r4OEYDJNleTd+t9sZA=="
+secured: "zyv9mkIy6mXdT9axOmkaLyHumdXR0itoe9EGrvekAa4g8y0BoAljYCy18kuo0srpOuyAYgeHKOBSAca19x3iLaEhKkHGngK3SwLVLrzOaSfIx8g7B3D/Ux+A6GUaPDicAEr0IMah2MUoqv9CBjxHoq2y1emUHHu73JyzkMGZSjlBgf3DFsde+g0rxqCp+tS4Jg6VIHixFmIbUSLeQZN8uBB1kobv0Ab6W969CUvqRGsEPAm0Tet2yetwmaa5sGwPeDVTqGXI3DWylTs/Z+alM9kuDF6Ex1wU8msKptKcsC2QYuqNvvsbmLDYU5qOBD3iYjWFshYHBzXpzrq9JZ1ilxgGR7smeRG4wBKWGcV5wHA=;4xT4JaDZSVNdiFqe85DheQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Vietnam's Timo Bank Builds with AWS to Promote Financial Inclusion"
 excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced that Timo, Vietnam's leading digital bank, has built and launched its cloud native core banking platform on AWS in just six months. The cloud banking platform will help Timo scale its business and acquire 5 million new customers over the next three years."
 publishedDateTime: 2022-11-23T00:00:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/23/9719288.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/23/9719288.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/11/23/9719288.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/11/23/9719288.htm"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 284
     isCached: true
 
-secured: "HBfa14cfe74USMuhKKFmAMH5ffO4o9MxnfiFoyzOBP1Wzfi720K8pWDXjHajwgiHdHdsEikqJrQr+Bu+wRvBiVjQJrv5DVGPpKkr8iSZSXdGn8KGUoDkToG7B+eq3jlEwyXW+I5vAEEM/7ytZIjSSTKq7A+NC9rn840dAMFGuRn541/zdEERm44SptKjuox7NH6gbTznumkvL0wnLomTn9jClc5pL6WnIOECbX53VzdJxj2LoDhf8gwYSuwQTBV6mufamui3IBct37c5ARvLNgjAdTXS7iyKYqctbSxrPVMiRgIilIw7lHrH4JuEugwvf+Agt9YptiJR0pwOAn3Uram2bUBMSswDCmdpYCYgEe4=;vCrDnpf0zD+WgXVaeZkqPQ=="
+secured: "BWzmfcogOf6QW7fQhVOOacPSo/0YbABwsWJVdlYjYDeptByLU0xk/DorFEfzQdZ5Q/IAD/2woSuUznkzUhbuBPncACkD0AS132sE0aOdA7HdQlLMBC3edg+kaOuXahHLWsMCNIqCGgmDMjzuswapUqs1MC9X7CZZYNTwNRCtI3R0odTIe16+jS16B9QDZQncA6Oc2dqmAwwAvjIBshk+sxW7VCvDgtWjZ8hA+CZIEaC53N7v3+y2daQD/hlx1ry1hWCcETN8u0uglJPXxiwKWC3WluseklKSm65sRgc3p37zYB1ypdr+ZgNY8dDAsiF2BQ7xiateqCTuFt98KEUHI4q+sroWtdBPPhQz5R1NGwc=;tUUdqPw4sELaNKW11wsQcA=="
 ---
 

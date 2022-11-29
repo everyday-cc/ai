@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/digital-transformation-in-banking-and-financ
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/digital-transformation-in-banking-and-financial-services/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Impacts
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AYLIEN Makes Waves with Trailblazing Financial Services Innovation"
-    excerpt: "AYLIEN, the award-winning news intelligence startup has today unveiled a pioneering breakthrough in financial services risk management which will send innovation shockwaves through the sector. AYLIEN’s Risk Signals application has been selected as one of the first three applications to be offered via a first-of-its-kind procurement marketplace - the Innovation Data Platform or iDP,"
-    publishedDateTime: 2022-11-24T13:32:00Z
-    webUrl: "https://financialit.net/news/risk-management/aylien-makes-waves-trailblazing-financial-services-innovation"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/aylien.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "SIX fintech sectors transforming the financial industry"
     excerpt: "Fintech operates across numerous financial services industry sectors that are being disrupted by digital transformation"
     publishedDateTime: 2022-11-25T09:00:00Z
