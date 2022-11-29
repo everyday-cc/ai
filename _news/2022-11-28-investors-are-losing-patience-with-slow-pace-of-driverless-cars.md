@@ -3,8 +3,8 @@ category: news
 title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
 excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
 publishedDateTime: 2022-11-28T11:59:00Z
-originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
-webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
+originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
 type: article
 quality: 69
 heat: 99
@@ -62,6 +62,6 @@ related:
       domain: gmauthority.com
     quality: 19
 
-secured: "TAkdY/i4z0Iz25MpvgeqqkRxrS7uQAtgcAonWUcAA3DXXEKq5UdxKpVarm4LOzFy/X+GTszi7aqpm++mpEDdN3EwtYu7B+RbQnlbtsWwr+OsrNB8+3WxihQJTY1q1eK2VLCOam2f0t49wQvsRRMNy6rq/bObU5m/TWXJrYuF/A3jQN/B1ekPQKAN0VlSmIMkB+mA+KpkScmov4jYjTyAaSOnRZsrARXL86OsUMdxpnM8q9YOIQpwpEdA6yFZ+2D4nfmpnfR1amSjAF+KjpKxInUZ+rQ8I6NSlUDA4wgn2JPmCd1yukAHpzlZXwl2Ig9/tamYNpRhUTVbD45XZNgiasXdLRp5dXcxHDl4nAJwgFI=;WfE+tKh9UvBwoahvqSzPZA=="
+secured: "kzvvM247uKjmeCPI7WVVIr5JgVUu+lju8fMS87i29E1tt2CtwCnrWI+A6/JDpfDVJQZy8PKisbA+0hsIDEBLE679e8K/XyxXdic1E20QZ7CKdXjMMwmqhqh6HhLC2BqvXepVpSYqooS42iaEUCbqvlTEZRx4f2il+0N3lz29blP7al0wq0ASa1NolFSj8oh8/sxex/l+o/BaTvrD1gfl605VgYACs4RRPMg9QscJGILjOh3n6GWLZA/VtThR6qGNaZCmExzb0HLmRwO5QnGeiatr1x2NcWRTrpvjmUX7uyo6LMcZxH1Wl3R3b3yf9FH7pa8Ve/BLWFtuNOIsIZ3obXp8+vsskQsZRFs5kxQWH9s=;zDJYX2Z+l8NKK6ncHfpPkg=="
 ---
 

@@ -26,7 +26,7 @@ related:
   - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
     excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
     publishedDateTime: 2022-11-28T11:59:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
     type: article
     provider:
       name: Wall Street Journal

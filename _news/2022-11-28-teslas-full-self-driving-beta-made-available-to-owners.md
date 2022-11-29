@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving Beta is now available to all owners in North America"
-    excerpt: "Beta is now available to all owners who ordered the Full Self-Driving package in North America. It’s no longer limited to drivers with a high safety score. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-11-24T11:10:00Z
-    webUrl: "https://electrek.co/2022/11/24/tesla-full-self-driving-beta-available-all-owners-north-america/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 81
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America"
     excerpt: "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week."
     publishedDateTime: 2022-11-27T22:20:00Z
@@ -117,17 +103,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Tesla full self-driving beta now available in N America, says Musk"
-    excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
-    publishedDateTime: 2022-11-24T12:00:00Z
-    webUrl: "https://www.business-standard.com/article/international/tesla-full-self-driving-beta-now-available-in-n-america-says-musk-122112400702_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/tesla-full-self-driving-beta-now-available-in-n-america-says-musk-122112400702_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/tesla-full-self-driving-beta-now-available-in-n-america-says-musk-122112400702_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
   - title: "Tesla Full Self-Driving beta now available: Musk"
     excerpt: "Elon Musk on Thursday said that the Tesla Full Self-Driving (FSD) beta is now available to anyone in North America."
     publishedDateTime: 2022-11-24T15:59:00Z
@@ -170,15 +145,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Tesla Opens Floodgates for Owners to Test Out Automated Driving"
-    excerpt: "Tesla Inc. is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
-    publishedDateTime: 2022-11-24T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-11-24/tesla-opens-floodgates-for-owners-to-test-out-automated-driving"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "Tesla’s Full Self Driving Beta Now Available To All Tesla Owners"
     excerpt: "Full self-driving for all, decreed Elon Musk. Despite being mired in controversy, Twitter, SpaceX, and Tesla owner Elon Musk still took the time to announce a big milestone for the EV brand; full-self driving is now available for all compatible North American Teslas."
     publishedDateTime: 2022-11-25T17:52:00Z

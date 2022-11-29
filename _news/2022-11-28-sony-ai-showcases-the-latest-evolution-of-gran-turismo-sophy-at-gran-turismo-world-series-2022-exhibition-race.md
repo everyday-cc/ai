@@ -1,21 +1,24 @@
 ---
 category: news
 title: "Sony AI Showcases the Latest Evolution of Gran Turismo Sophy™ at Gran Turismo® World Series 2022 Exhibition Race"
-excerpt: "Sony AI showcased the newest evolution of Gran Turismo Sophy TM (GT Sophy), its breakthrough autonomous AI racing agent, at the Gran Turismo ® World Finals 2022 (GTWS 2022) organized by Polyphony Digital Inc."
-publishedDateTime: 2022-11-28T12:51:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/28/9719852.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/28/9719852.htm"
+excerpt: "Breakthrough Racing AI Agent Races Top Gran Turismo Players in GT7 on PlayStation 5 TOKYO, Nov. 28, 2022 /PRNewswire/ --Sony AI showcased the"
+publishedDateTime: 2022-11-28T11:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-showcases-the-latest-evolution-of-gran-turismo-sophy-at-gran-turismo-world-series-2022-exhibition-race-1031939454"
+webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-showcases-the-latest-evolution-of-gran-turismo-sophy-at-gran-turismo-world-series-2022-exhibition-race-1031939454"
 type: article
-quality: 18
-heat: 18
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -24,6 +27,6 @@ images:
     height: 275
     isCached: true
 
-secured: "r5mtcdaQ06euIn8evCWosb7sz1CzoTLno3keIumxvg7YbfJEWf4VdvAiYC0YDaoVL/5lvrXqzJLiy3xdAfvqWcc/kocyGCWGfbWMlPvO7JewuQhMcWXKKG3MoPmXABdfU0cNpmE/cGzj3pD3KScEn9HC53XQ34Vg0Oa7PI5818+mJVJF2NoOmJb513/omaeWQcCM7H0TyyQkR4M3i2qFtOSgqXX/9U7YVj1cQZx763Uc78jlAyWta9QrBr7xn0jPhaAlIUzRzacz/OUpiRoke/Dyv6GpDzVKCruzVplwturS54SljpG0T0hbKnZjUqwpDvluv6pjvJD9BY8IHi8sKO3jnweUy3MQgetN8TyeKBM=;+ygpwv0q82/OnyrGid52XQ=="
+secured: "JxxEMnwDvTvGPLhLfOaHq6s4Ew7LVV0r8AohegVF17RHfBxngxWW31ZQ16D/AWIuwlJeosEYWzB/yKgxLDQ+emLY1ziGmmV+w48gIJg9V4o1WFk/JxEGx59ffeM8jnUbzJP0cjXslpH8U6yARDsn5kZC5RoW5b1FyFxb4J08+G5cGFSArfPKXE1GM9T9lMnMMXkcfEa7n1UIMtNqGYPmmGAk1xBUM3KGtMEaAieyNY5ZFQ4VGzqGGlYaoHmuHQ5hsbBuCa9ZXERjdkmcKuvfZsn1elEb42v58VntiHHXhAAvVAtsmT+syyl8mgPY2LNH+3stov7GNy9wfdD5IBaBYPukjeSqDP4pEfnuEv+Qx78=;IaHI7H69Nqq1te+twh1lLA=="
 ---
 

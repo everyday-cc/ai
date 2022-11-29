@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-publishedDateTime: 2022-11-28T14:32:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
+excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
+publishedDateTime: 2022-11-28T13:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
+ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -48,20 +50,6 @@ related:
       - url: "https://www.ibef.org/assets/images/loginImg.jpg"
         width: 500
         height: 665
-        isCached: true
-  - title: "OTB Ventures launches €150mn fund with fintech focus"
-    excerpt: "Venture capital firm OTB Ventures has launched a €150mn deeptech fund to invest in European businesses, with fintech being one of the key areas of focus"
-    publishedDateTime: 2022-11-24T12:26:00Z
-    webUrl: "https://fintechmagazine.com/articles/otb-ventures-launches-150mn-fund-with-fintech-focus"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/9b35317f2911305ae8dae2d7fcbd658f:ebf219b9885dce0296c1db0ccae639ba/ottb-ventures.jpg.jpg"
-        width: 1800
-        height: 1009
         isCached: true
   - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
     excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"
@@ -110,6 +98,6 @@ related:
         height: 400
         isCached: true
 
-secured: "eprswYOaO7SUQcGTV8eLjmFU11VwwQ/D2MaU5HD1jKLKln3H4VuHR7L7vvOaaPLMG5pKAZNN9VgNZSkgFNYaiGtnZM+rwGamTj93QuH/hMmBLqoVi1iGsA19O/y1iW+amtW4JK7m/vecGAk46hW74ah8Ijxz9V9cQz1WYUP9GWh+X+fx0nG9plj4odr8tG8eaY0ZsMbLgg2XpwdwJ/hPurgcUDHI1MTUn5JobDMyZHza5N9NtGWi3qcHb+pZ15ShKpGdFMu//AMBWHyu5EOAEJ5Y9NFS6G68DgrO+Cb/+pdB5FVLHJpO67rFN5d9IoETzVMR28bqhr9AUuwqSpnRl8pG+3gzAOFK+c0GWvrRoNw=;KtES3Gvdj5kY0WO0jNAsNA=="
+secured: "0lWd7t+NayueNa3yEdhskkCepzac0d5cn59pr7tjbhhT7M3WZ8MNk5gQzzf0EgRz0bRm0I39QbTcmjQ0qumX3BJHczcOlKcO+297X7WzzNOX+VICZobKH8MrIQg8i3Z6iMWg3Nu0hzwC7j8y4KM25LtvEklXY1BgWt/SkObPgmUxKsHRucP4L7Hd+do33B2QMdU1U8RmC70fUYUUCxQyQnrqQU2jjRVsCtXhWoE/CuG4sGtd3G2N56yvbmJSqyXibD12xJG5w4ohj9Dh7LL23XDNjvMILPGqJhChoa6BYdOdnsKJyc1Ixma79j/sp5xr6zlTRNg8+ihvQr6neiYbjrjwQnP0f7DNaeSR9gTudCw=;txNNVkdaZNaxDDof4Ey+tA=="
 ---
 

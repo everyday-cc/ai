@@ -19,17 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market to Grow at a CAGR of 28.34% over the forecast period 2023 to 2032: Quince Market Insights"
-    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market reach USD 1.01 Billion in 2022 and is expected to exhibit a CAGR of 28.34% over the forecast period 2023 to 2032,"
-    publishedDateTime: 2022-11-28T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29871938/artificial-intelligence-ai-in-drug-discovery-market-to-grow-at-a-cagr-of-28-34-over-the-forecast-p"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29871938"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29871938"
+  - title: "AI Is Poised to Gain Traction with Manufacturers in 2023"
+    excerpt: "The solution may lie in technology rather than a larger workforce. Artificial intelligence may play a growing role in manufacturing during 2023. Max Versace, CEO and co-founder of Neurala noted that the state of AI in manufacturing today has a remarkable ..."
+    publishedDateTime: 2022-11-29T03:17:00Z
+    webUrl: "https://www.designnews.com/automation/ai-poised-gain-traction-manufacturers-2023"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/KY38DR.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "mEVyiPD323VaqUC/t6ZGqKdYkOmH0I7im+yJN4mup+w/vbU9ZFFHTSrGnrTgXllxN95AvrFv2X5UJ/qYpWkrBJH1Uh0LvejGCqv1FUQJDFhrKFFGlfYKGzAIT79jyOCacpTfWGw1ixnvmVweIDrDcOUCyM1E9cFW5+nce58x1WRNs8qJniqCv3v5yJ+X6iMv6IkQ+tuAY68NHDilaX/mwmkf0rrck8fq97gR3vScTs2RXA3SQqIlhqDbzVfU0xYZVkE8SeCuAZB7JKm8EiDF3dCJuO7qfT92hbSAcLJSTM3cp4AU7/sPZVMe7E7hH+bN4lEDYz/oW7eBlEfYK9gywZZCaatkyrYZMQqfWm4lxxc=;Zh9nr6e5Orv1bZOLUm+GVQ=="
 ---

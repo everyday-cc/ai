@@ -41,20 +41,6 @@ related:
         width: 2048
         height: 1333
         isCached: true
-  - title: "Facial-recognition software will not be used for Paris 2024 Olympics security, vows Oudéa-Castéra"
-    excerpt: "The French Government has confirmed facial recognition in public spaces will not be included in a security bill related to the nation's preparations"
-    publishedDateTime: 2022-11-24T12:15:00Z
-    webUrl: "https://www.insidethegames.biz/articles/1130807/paris-2024-facial-recognition"
-    type: article
-    provider:
-      name: Inside The Games
-      domain: insidethegames.biz
-    quality: 28
-    images:
-      - url: "https://cdn.dmcl.biz/media/image/102444/o/xFF0C15W5SQzpf9Q"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "4weGY1banX2+XtqNhWT4O4Ys169ahsZ5P69r28BY5AbUEGtBekH/SsX8Ma1Nzj87WFpvfBxxImzsCVgtb2xiCVIvwRE+esN7I0b2PLVyXGKBexr3aNzPKbi9io0L14twGild13vii6AwQ1huBj7nKqKheb9I7eVSz5nTqI/Znfcf1H3+BV1UlBtgwUNI1VNAqYHEigL/tzWmJghkhorvcvQfWQuG6vfLdHMAIvTzYpN5GbysJYkgzDRBuR1054Z7Aq4ehGmsUgFoRIAYVd7YoX4L+7RoG3ISCVD4qc6amowjpcx0V7QWUMn/T2nBaurnoK5U1CaQyvg7Z4F6goZZv5RVI7wqu+hF+s0WoaVnc0k=;FlySq291BEqBGCxJLHZMag=="
 ---

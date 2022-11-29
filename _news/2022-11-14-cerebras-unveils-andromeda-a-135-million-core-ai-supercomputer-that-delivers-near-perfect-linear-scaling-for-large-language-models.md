@@ -2,19 +2,25 @@
 category: news
 title: "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models"
 excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work."
-publishedDateTime: 2022-11-14T14:11:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/14/9712263.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/14/9712263.htm"
+publishedDateTime: 2022-11-14T13:02:00Z
+originalUrl: "https://www.eagletribune.com/region/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer-that-delivers-near-perfect-linear/article_c24f2495-3df3-59ac-8b77-f96b935c0157.html"
+webUrl: "https://www.eagletribune.com/region/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer-that-delivers-near-perfect-linear/article_c24f2495-3df3-59ac-8b77-f96b935c0157.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "UOuD2knucTP4LYUCM5xXHbr+lda4mpluTYtHgawvCyV/IHClwFHVZ+SoK5xEhmxPgeOkuyUgKHpbTj2XUAMpNpwv8/YgmGx+F7xi2Sk22YQIOeTi+7wz77GS+FhUgaM1ww7f7q/bKhJKMOwzHZEAG+UVvOZZ/0HEDP7MNwTkUukYXulVzjpJz1GtjAXR6eJ/7sHc6HIc3U8D/wc0RnfwGM3rTTVe1mq5393gthbFcxkbVbZ8xUl/isqBhD4TDNEkKDX38s2cJ/W8etTNAoycL/JazLLrvV/Qdl5xi+a+FV7vIe0Fa1YK3LAA6V6ZX01zaJ9/W0DnbEQuE7FC1WPUkKmcTsk6MJvZRH0u5iOPg4uH/ZwaHVkZoXT2v5VI/0aefXtqn3EjUOuOw3KM8qskJFt4z/tSGVjco6X6asUq8MLhSuuiIaPL0oL9tR3SAD0fsIhwHZfvyNm+SJzuYlBGhqYhFnt6ZR5vZ+KL+e4Vr3zCe+dYk0Vf0t8qzKxML1zFBiwnvu7gp9otL13X+gLIew==;u6H4mxaAKOn45HIwCyw57g=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/4/cc/4cc98bb2-1a71-5110-98f6-e573aa7c24c8/63724f1bea9a9.image.jpg?crop=1981%2C1040%2C6%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "dyQDtRqgzVjD2iJWKvMQlIfX5OFPoPdiQeql8JO6FfY8TRdZiD1I9xXk6QNvov2wjTVwgvKzyQBzvIbM2ir3wDt7FhHZO32MffKgRRv9yclKALU9yvq+Yzqx5E3sk2GVYVW/4lmaWSGSOlo8W9sqS3Fd49NmQB+9rBDvoNd922TYYzSuiOh8gINLCmJ/NpWB8Unfd5ebykX7mqYIntm4FMxrUa6BYquZ/VcF0XsQFcW29iXFk9taUQH4UcGjiDL860l99xbsgfhGxTTuJuhjciTguiicasQdRhaS6Jfs9Ooz7VXf/Tw9ryO+POU1OEJUUbKn8yHnWPe24yx780Gn7Y5l045tnCBAm0ZhTicw9hY=;RARqHeVMdpqa2dNOEhuDaQ=="
 ---
 

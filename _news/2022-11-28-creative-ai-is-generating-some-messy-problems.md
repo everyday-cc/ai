@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Creative AI Is Generating Some Messy Problems"
-excerpt: "We'll probably look back on 2022 as the year generative AI exploded into mainstream attention, as image-generating systems from OpenAI and the open source startup Stability AI were released to the public,"
-publishedDateTime: 2022-11-28T14:39:00Z
-originalUrl: "https://tech.hindustantimes.com/tech/news/creative-ai-is-generating-some-messy-problems-71669624559061.html"
-webUrl: "https://tech.hindustantimes.com/tech/news/creative-ai-is-generating-some-messy-problems-71669624559061.html"
+excerpt: "A tense scene in the 2004 movie iRobot shows the character played by Will Smith arguing with an android about humanity’s creative prowess. “Can a robot write a symphony?” he asks, rhetorically. “Can a robot turn a canvas into a beautiful masterpiece?"
+publishedDateTime: 2022-11-28T07:57:00Z
+originalUrl: "https://www.washingtonpost.com/business/creative-ai-is-generating-some-messy-problems/2022/11/28/be2b2efc-6ee2-11ed-867c-8ec695e4afcd_story.html"
+webUrl: "https://www.washingtonpost.com/business/creative-ai-is-generating-some-messy-problems/2022/11/28/be2b2efc-6ee2-11ed-867c-8ec695e4afcd_story.html"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times Tech
-  domain: hindustantimes.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XSVV4TTO4II63BT4R3DJLZFPZU.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "How generative AI could create assets for the metaverse | Jensen Huang"
@@ -36,6 +41,6 @@ related:
         height: 582
         isCached: true
 
-secured: "DtY1ds1nL6D9nWp/JBuO+w37so4WRrKKAoxwVuRAhd9TWrhzxNPs79gIAtHrMSMZGDa0D/lMZwVqxa3PCIQvLH2qbcBmbcx9lCMLNeb+AYLIQQXrr30opLhMVQUyaJWmnCnfpTiPl4nEPMsMNMdFJ23SRSWzcMIrPO6AGBWI+UL/jM2UgQFTn5rHdUIMjsAgbVlDjtSB6+qIUqfqTeccQjo4tjlbQPJ1F+GyGvQsPO0/nGuFlnNLkUFPpL/18wM/DivqmNaGTNfUGdiMKiU+EwjSBkEXN9I6vyziaWQon6Y+ZJdDI2BQQ50fwBwZmLoRJsaTXTYT07oymhdVcPnyMhFJaRz7h+1lFIVt6kP3ewR9SVytUHrVm5vI1goqgkCyeHrNytd+xQPOqJjWrKS1lQtJ8HSyRaLZ6IxlCggyqvSZGkkxwHsbPVtHsLmDg5BL8PUUyWGl8KhRZtxsr8Wm7eJjTt3DNOhKwdf3Mh+F6YfZUA+/QhYVZG0zDaaEbdP4Ig+MSnpIjWeeJERRoVhsgw==;+ft+EmnJdjphAQeuKLYQcw=="
+secured: "9yo913JHuMmmAhTltpVz80xsq+toNrA+AwRFtPn2JxWUxu9v1LSrVuYnhRJlHjulFWPNoUFwPZcqONDwb0nHTB4iJXtkF21HI3wht844Tyuf537LVQjnmZOMQ+YnBIjvQtEhmfxBVhbex9qXvG8lfHUFbkYNoJqRWHDnbXs1ao6lG3ee00k/XFaMIyYXXJJiPmgmpRLeVN7MBCudTDvE2MQifmVqq/8Av2nRMlibln3En2xvbekeeRuu8rxI8wwfjrGTUaABxJ7EYGoshVkzAtqKqJxgbYgmAhUOQgHMw4KRbncJ3nChgtbn4ZrWnzV2oR+sG7mglfaygvDTMCqb8SSrar2YHPQDSJYG3f9e6nc=;msOnU0Bxg9pd6Vs/YEb04g=="
 ---
 

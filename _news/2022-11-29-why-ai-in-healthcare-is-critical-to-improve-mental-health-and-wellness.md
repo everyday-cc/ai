@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Venture Capital Firms Are Partnering With Healthcare Organizations To Improve Digital Health"
+    excerpt: "Healthcare organizations are hoping to better serve their patients and communities using VC resources and expertise."
+    publishedDateTime: 2022-11-29T03:47:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2022/11/28/venture-capital-firms-are-partnering-with-healthcare-organizations-to-improve-digital-health/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2022/11/28/venture-capital-firms-are-partnering-with-healthcare-organizations-to-improve-digital-health/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/11/28/venture-capital-firms-are-partnering-with-healthcare-organizations-to-improve-digital-health/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63857eec040583de4aa067f3/0x0.jpg?format=jpg&crop=3444,1320,x0,y0,safe&width=1200"
+        width: 1200
+        height: 460
+        isCached: true
   - title: "ROBOTICS IS CHANGING HEALTHCARE"
     excerpt: "Artificial intelligence is also playing a key role Till a few years back, it was impossible to fathom the idea that robots could be used as helping hands in the way healthcare organisations are managed."
     publishedDateTime: 2022-11-28T18:35:00Z

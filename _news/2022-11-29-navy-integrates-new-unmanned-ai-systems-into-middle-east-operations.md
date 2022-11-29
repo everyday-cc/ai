@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-28T21:38:00Z
 originalUrl: "https://executivegov.com/2022/11/navy-integrates-new-unmanned-ai-systems-into-middle-east-operations/"
 webUrl: "https://executivegov.com/2022/11/navy-integrates-new-unmanned-ai-systems-into-middle-east-operations/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://executivegov-media.s3.amazonaws.com/2022/11/28/94/13/89/7e/38/a5/be/f4/00P4y000019lNvJEAU.png"

@@ -49,20 +49,17 @@ related:
         width: 500
         height: 665
         isCached: true
-  - title: "OTB Ventures launches €150mn fund with fintech focus"
-    excerpt: "Venture capital firm OTB Ventures has launched a €150mn deeptech fund to invest in European businesses, with fintech being one of the key areas of focus"
-    publishedDateTime: 2022-11-24T12:26:00Z
-    webUrl: "https://fintechmagazine.com/articles/otb-ventures-launches-150mn-fund-with-fintech-focus"
+  - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
+    excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
+    publishedDateTime: 2022-11-28T13:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/9b35317f2911305ae8dae2d7fcbd658f:ebf219b9885dce0296c1db0ccae639ba/ottb-ventures.jpg.jpg"
-        width: 1800
-        height: 1009
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "FinTech Connect 2022 Unveils Startup Launch Pad & “FinTech For Good” Documentary"
     excerpt: "Europe’s only dedicated fintech event for the entire ecosystem, is unveiling its inaugral fintech pitching competition in collaboration with FINTECH Circle, and the world premiere of documentary “FinTech For Good”,"
     publishedDateTime: 2022-11-24T13:27:00Z
@@ -86,15 +83,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 4
-  - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-    excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-    publishedDateTime: 2022-11-28T14:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
   - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
     excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
     publishedDateTime: 2022-11-28T14:12:00Z
