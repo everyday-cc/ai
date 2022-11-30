@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/6386b09e5d55ecbfa48785f3/master/pass/effective-altruism-dangerous-ai.jpg"
@@ -30,6 +31,6 @@ images:
     height: 1350
     isCached: true
 
-secured: "ymhE8Brwo4DLjoWW5pKoIjNZC8J58aW7Z+wUs5GnduH876ZB/Eeh3kGMqBB1oVfzfid1S9KY1qGhfrGny1FZkhnWwkSorA/tVixs/Mfg8+Bfn2yuEQArRgFr6M2xu18W3Ffz8oSmjHeHsZUhp45mEjSymQnNuIa46Z0/Z1t2XU/uWuCWvJhalJu01cOQRDp6NqELWB/bg57awYSj8jcyVyhU/cdVPj7y3qC8p68pHEER2PKnofyeMgwwZ+UsCFved04rYcDJRMNOKoPbNcBqw5cc/Hc49N3vinWDQ6x+on2OBkGM2xJb3L8+0RaAij2dhHzXQkkEPQH+fPxC1FlD2tiKRQs9oN0fs1m+vx8jydM=;ims+tGFMDqaKHPaOYjsysg=="
+secured: "0JTc+HX1MW8V1jkycEos0AAAqtn6RnB8rGZvOHN9FisRpfvdARX1W0WyPNs++kFKBFVlV/a/MuP6t+IYU4KF67j5DBPyHNnYU1clpfl5DsBR5xqzQk5Hmry/k4iIOXX58UtXKeRiKZuvdV+e2AsRJXLgIpcb0tM/n6AowjVEghgEmKKLUnnngg3b66wUoRQYP4gbsk6KRjJ4LcAGYZTanqNIngJbEFH/gEfiuZCeaodCKCUBbrRs0pP8l4nkW6OksZ/MFjBS4Zc3J419kzC8FB2Ce/vdTF2FRrkuM/h1i/hHNeodZ4Mq6YUakTA9dLz/B4sqErWbcy7Yy4jV51Fxp0JQA+NwHcbWKDpyiL4Wk/IcuDIQXJZ+3Rd+MMFI/BqWswzY2Kynhp0CGZ5FLdRN0Ty+UvRH70K9XhGAbDqrBSuYWkCRpdOumbqjx3ByiAvvtGNX28ffMGim4pZKxOQTt0g7oUwnFz0AOkbKbVclBbVyo3rPkM9DxLac7RL0lvNqDGS/5yQPXz00F0eCP6vHOQ==;FyIuhXv3SyAEGQfx0hCrHA=="
 ---
 
