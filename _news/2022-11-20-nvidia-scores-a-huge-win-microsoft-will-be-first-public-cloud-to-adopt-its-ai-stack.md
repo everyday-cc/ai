@@ -19,12 +19,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/709990/semiconductors-design-chips-ai.jpg"
-    width: 5120
-    height: 2880
-    isCached: true
-
-secured: "wQ2kiOI7mwGBj3mjGgkw+XMqZg3KhhvSLQZb5Ijrm+a9MfwOVbkMbjYdHVah8bWiL6U2HqF6gMpqug9d9qTJ/QuqrHuX3Pi3I2WRutp0wIn5X7BdYreM5uIg1jXQLk7+mG3Rb5/ePmaLFi9+RQg7Nl7I4FMehUojIQA8Nd7UtmbGnOknTSceLK2kPdp7OncE5f5rQ2Dow0M3ANFgmxWXVjRBfH5s/fCK5/7VyD+wA6/VmfZ+jXK5u8/M01Ticd7y5FuTokh6N10WH2Dx+angcIE2K6x+ULBXwgupJWGBBkjRnT7vQzIRbuvU6Zo/9IZrJP2kB0MImVQoblbNOSQ1lkbFNFqaZbyUrcJOIGYkig4=;AR7VCkTnZqKmsQ+AbQLeBQ=="
+secured: "6URV83Uwxph9QJx1fPyQr1urGjTPzs6pkNhfQnFnZMi9nhIfcSIF+JO9C5qDo+KxLYvhRcItJRM14rqUj63aoWgNFkF2zMHnffJ82fyPjvG06RHWHa9Y70DOhBX26xG0tIvLxBCO74nH3w5olcQSI7tcW4SF40F1qFtMVjK3VWxyee1EYBmCY3o3iFC0470zFt6PnnbLDrXmaFiCy4ZySEYdv8wFiqXprk9AVNDwqmg0GkyQYz59wIs29VjUqgtInlMNjjTLxmUui2Q1HSIBKmSk50pbsuwQkHKuLkTSl5VkfB1EWulSM1xFoJbZo9zdnhzm+yB6Oi+6FrXleNiwzQQtAE1qsu0CTMbwk6lfsfU=;e91wfm8hDhPXo74ISIB78Q=="
 ---
 

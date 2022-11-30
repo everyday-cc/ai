@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Wallbox Goes All-In on AWS"
-excerpt: "Running on AWS enables Wallbox to increase operational efficiencies, improve analytics, and provide better customer service around the world. The software powering Pulsar Plus, Wallbox’s residential compact charging system,"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Wallbox (NYSE: WBX), a leading provider of residential and public electric-vehicle (EV) charging devices and energy-management solutions,"
 publishedDateTime: 2022-11-30T04:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/wallbox-goes-all-in-on-aws/article_686f7b07-398c-5f80-8b03-bcd43e845581.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/wallbox-goes-all-in-on-aws/article_686f7b07-398c-5f80-8b03-bcd43e845581.html"
+originalUrl: "https://www.eagletribune.com/region/wallbox-goes-all-in-on-aws/article_7bdaa48e-8e72-59ea-9d77-f19838244996.html"
+webUrl: "https://www.eagletribune.com/region/wallbox-goes-all-in-on-aws/article_7bdaa48e-8e72-59ea-9d77-f19838244996.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/a/0b/a0b90207-2353-524b-a577-923b192594b2/6386e60fb4364.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "hcFihTsr2KHJKUbEp2wodjbG66HjrGqOIZXE89PBcLUESMtIc7/79LjVMAtKnRvp9KmxboNycADnsxFweGyeKfTX0dVRGcFC/2kK6WOttk9Jnkikc6Dd8kRDkr3MLhXlB8a65nHX5p4uABSCq/cDTKaAdMY1P+SgPA7DduOZ3of8qlSoHDJuZKScI0flu7uX5Mocleko9C28eXyhXKWTuKqtkOGCyLwS5QUsMlw5nDg6lT14fPs6rNXkOj2A603WXdLcfw+xrfpwONLTeC5aZvNQJc9ILTCic0Z1y4HJLWFov33Byq/1slFKGymzYWgevW3yuawOvszYZWixm1dDXuS6338HYzeDw/O+1TK+34o=;99XHEv8uxrojWtei2WAAdQ=="
+secured: "KgovT22/PIDQDSp1ThG+2Siiyn35leD9Ji1PvjLN28GUU5WhNtI1aAw4b/I4llBLKueGr23z6uoN4y46bcW5XOmLpIlWVqMD8VibrbOL7aCvkmrqVAMZxWqQN6Gyy+lw68lP3HEn060GGdIyC0XWoirVK0t7gtRFYNk41gzuJwAuFkzGWvQrYYzkNJX/jnpsRXilLhFPYulNEeEuH+r0/37eI51VoSpVMxx7u8y7kzVYl2ujAfq3ojdkug3DnidnxxgMtWX1BHA8FS70skvWWG1fmr2TH7f4ckhA2JyFDwV8+qzgK4wpTSHbxEAA5kGpdkXnGSYAW0mefzm2z0ZH4qswncN36b1WFa1yDiFMhhx+vKsuz9H3Ph8NdSZuud9XPUepc8O56U1qIbRISGvKmhgxp6BwdA3LoO6IKvbsmKo3d42G3rRMrJahJxaoSyvSgxgfc4sADuTVkCAcIyGtXGvdudNdpdczTqCRaJrhflcMMsyIwUqxMcQblrWsWvhGeugkhA5o8y07mACtIS0tUA==;fdg2z4Zc9pN7VwfknoVy7Q=="
 ---
 

@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Facial Recognition Can Help Conserve Seals, Scientists Say"
-excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
-publishedDateTime: 2022-11-23T16:08:00Z
-originalUrl: "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say"
-webUrl: "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say"
+title: "Facial recognition can help conserve seals, scientists say"
+excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals."
+publishedDateTime: 2022-11-23T17:48:00Z
+originalUrl: "https://www.bangordailynews.com/2022/11/23/news/portland/facial-recognition-seal-conservation/"
+webUrl: "https://www.bangordailynews.com/2022/11/23/news/portland/facial-recognition-seal-conservation/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "5x3JgZ3q4twScYDJSZqsVYN+gbAMFM5b9cykkJCtaGvm6sFKNrWDlTJhWWNsX/Je1wZFB4I7+GJoRPzxSwQEhpdPZBKhaVpP7iL85ixKiRcepuHtMeaZ0YtULByVRDz2urZZkp2Xyvxr/aAkp0CaHI3ZdTbOsruaXKkRjvVWNadKtV8/d4Ja/6MkA3izmpFKjOp0jir5EaJejJqT++uJ1JYLrc0wiZtAbRGXUhtgbcrwmYuAyVjS0nZKgyh7ggKFVJwJe7YRhzHyXwKVdpjmoj6tlqcNyuF8IPPhvTunnFr442TUHwgir8N2OsZOXG4/wc5P1G45Pwm+qqBsXYHJ6Zi9HxmTGaBUxPcDfZCJNZE=;uyrmAi4g2E4eEpYPVGUvLw=="
+secured: "8rJWFA0WtfbRgXzgCoqt/Pg1WsIocQL1bsDdYOrjS3kUub26b83X4uGyUQKhCnpKfCzcif/ZoDrCU/o+mdWdRgNsl+ylY/Ee/qXhvIvDftKuSCJju+LWaMQX5tZOFzmsyf2bkrzm378mZV5QaFO055tXDyxQCOahgJIvhcTXyN7y9Hb003ztpbqPvg8lnEbInWVINHNgASPuJrJXPO0SrLd2qF0ElQsJgGqrGIy+aAuhcC2x4gYs4F2HqrE6NpMVOCEcj3KR8eDd0OSRi0HWO64WcZKJDkHT8rSRat8zFgEMylJq0kbzEqLl/PD5hK0Lx10iwF48K/0rmPfS/jehnVOldP5br4xncf1GkJ1jxrc=;1XH5G71E3JB3ZS2eD/A7rA=="
 ---
 

@@ -1,0 +1,20 @@
+---
+category: news
+title: "Scientists are using facial recognition software to track and protect seals"
+excerpt: "Marine biologists are taking a controversial technology associated with surveillance, and adapting it for science and conservation."
+publishedDateTime: 2022-11-30T19:00:00Z
+originalUrl: "https://www.cbc.ca/radio/asithappens/seal-facial-recognition-1.6668125"
+webUrl: "https://www.cbc.ca/radio/asithappens/seal-facial-recognition-1.6668125"
+type: article
+
+provider:
+  name: CBC.ca
+  domain: www.cbc.ca
+
+topics:
+  - Computer Vision
+  - AI
+
+secured: "k1AQvCvCo3swS9SeA2td3riP05H6aPG1CSGYcXzVl39T8bFdNKpgAERKuKeCA+X82XQ6q3Z1OM4weMYCVuGyNpxzEF3ncMZfbqw/7Ahp72OCgJ22zmDrUk/wgi+vmXqPmEwmu3/ArXogAnJmompZPBSfX2J7Wl5UuQWBjX17wOkIBG+oYZKK2pOrwFyPS1LOFLA6c1y/7nZxRDqjCM86/TQnggF2lS6yrCW8KaOK66OSJHDhNzy5vDnwcJnIoFNd4N/5JTqSntqscq0wTV4DIJOZbpMCcVT0lUBABr+pKeLODOAwCZw23B/viqBSnD1++BiZZAE43EwUwd+PvwJggp2wM+8oUO8Hf58xZZbQ2MgnJOXyvxCbSqjB44g5TajSWkWRWL/U6Tx/XYh7TLqN7+Ci39nsFnmbTNGLDx1SVJOhz1pBwpkMuVUqEtF+Q8KlnWPYKsn6iFfnUtxbVLVquWhlOj21Vvop57RiC5yjvie2vaDlUqr1GzsPEqcaRmLeKclKUgijiKGBc9kY6cS01Q==;/mm4p+TNy92KoOvK/uRb1g=="
+---
+

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
@@ -75,6 +76,6 @@ related:
       domain: fastcompany.com
     quality: 0
 
-secured: "JRYLKDiwJz2QUxU6Rz3InCir5f+YwlrbADCCgp6dJGLCPdrFEH15Yn19axiqC+vsEjrZZvtsq0VtQ9FzPdc0J5m6QnBxZ2EegLx+fbGmxMMOEgWqsspDYc9Vmdde/1QPVl+hFXQVUFOYUyQD6ODU/K1MEHtxspYq79syKtLlP0tq902MXbn9WB154cldCsC1+Yeg7OFfQggdQFayszfs8bv5i/DfwHuW73tboaYib9nsALe3lzvTLKVENR3C5wwnZPa3cktEptyeicrYApF6MG1v4Z4+V4LcT57j53BajXa2XjFdP1BasBhATFEoygVPGyDcc0yXyeWeBAQkwnSRcy46Hc9zY82FBpjqi3vCe2s=;1Yd70AchCHqcS8n2pyQQRQ=="
+secured: "aLuA3JMKeqbqfpYzNHMaOOlBKmPtThEgT8SB69qSaOejgiQE01zY9MAb+8zIkBrbTSG1f/26N9o41WjNqANi/fCjo/APKiw912SQVRPn6mL68O67KsavGkAJUI5zwLdiGkUKflQWYvuQI2Khvtnh6bW0RMzukEgBZaQKacZQ8uHkVjDBZcAn9ZzsEvughpkVQI+n1PSJcLZYMFJtJ8V9s6gQFRaG1pX8TBTUNpHLTSM+2rzhgDhtaLa5kub0wlVH4MY188DUsig8LizhhU5tpOnSCuT6Q5b/ZRTucoMr2JusljX3JPiyQ/xsPI25OF1TabeOWrFxrbyIrz7sseAwi08ojyFYkV3PZCWrCu1Nzk6H0ylhhKizZOTwFuu+WGS0QmH65SbkwpbS9v14p3NkT+DBoATUoh+Vw5z4HzTCpXwM/KqN3LzKjBCVq0mKc6tfLxMsGZKipyoYFuaBo6LaSLb8SdGROZUNk8yfQvZ/GBbSyz7J9ZI3FTO8jRqbo6rTzg58ESQB7cjJnzJZY/U4vw==;ZTI2SlqDgwzeqFP5zE3mkQ=="
 ---
 

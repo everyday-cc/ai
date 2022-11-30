@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Elon Musk accused of using Toronto residents as 'guinea pigs' for self-driving Teslas"
-excerpt: "It's been just over a week since Tesla finally gave beta testers the ability to use the full self-driving mode (FSD) on their vehicles in downtown"
-publishedDateTime: 2022-11-30T18:17:00Z
-originalUrl: "https://www.blogto.com/tech/2022/11/elon-musk-accused-using-toronto-guinea-pigs-self-driving-tesla/"
-webUrl: "https://www.blogto.com/tech/2022/11/elon-musk-accused-using-toronto-guinea-pigs-self-driving-tesla/"
+title: "Elon Musk accused of using Toronto residents as \"guinea pigs\" for self-driving Teslas"
+excerpt: "Critics of the self-driving technology for Tesla are accusing Elon Musk of using Toronto residents as \"guinea pigs.\""
+publishedDateTime: 2022-11-30T20:24:00Z
+originalUrl: "https://dailyhive.com/toronto/tesla-self-driving-tesla-elon-musk"
+webUrl: "https://dailyhive.com/toronto/tesla-self-driving-tesla-elon-musk"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
-  name: blogTO
-  domain: blogto.com
+  name: Daily Hive
+  domain: dailyhive.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://media.blogto.com/articles/20221130-tesla-toronto-fsd.jpeg?w=1200&cmd=resize_then_crop&height=630&quality=70"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "rs4kzReLIyiM4ETnWWW3dDU98dzM1OgekH71MxyjQxzJuboUCShjD8NryVXY0dJmPkamjVmll8rnY8BmhQM/EMzKv5/bWf28Pg1AznCJ+a4kDBWqKAA1pxxlgtUpv03r/jnsG8jbt6WRKoKHHs5ZOwvABK2Gu75o+o7o9yXts9TVR2JK5vAFDV1eZazSP2AzuD9L7Cs0uI2cYEDBZjVmFDKWDpPFQpVd05qjZWPiAsM54JWyFJL9iNF+CRKBQrwTyp92IhrM/I5yvl55hf5G1ewzyzAmi/FUljTykEpBYPoEOf6oTyPYtzpXzdmepTvARQrMzvCVJAAzj/GLJyRWUG6WnuQKZasoEqeijQYMc5M=;oGy2yWvBRvFusJQnBLSE4w=="
+secured: "spYIY8VkHDA1se7GOYnG/JvMxmAhepufo6G2+QIlUOy2P9SClctlEZJPfHCl+YHN9N4H235uZjq2QVNgh8YsSnvVKJiXmKJ7AoIQNwRXKZcKzn6F7mYuaQD6eX7fEIo7COubEmXpXifLWVGKBxEVr+lbkW7makwI6atfmUGPNhUSpUFGuc3Wz2ynnzEa1y4qKq9mus+njiB8yI+u0FNTciNmU9FmvM4M2iA4IQgNtXWMuCx5EQucapuJtXssbvtrwHUM9j1NQXvID5r89rmlJIepsp6/rPR0SSfqfaib1NXXoh9n+mH2xxL52Ac6tJCL9ZcNxkkt3khh0am3Lkef2oAVzSnoq+0nVm1ox56MTCHKxhQSouPWDEXbK6ekFwJRMREd7z5gSK4GN3QizZ19gdeChUcktnABEcCb4qVZBo3fm97ockYIL2xv67d4F3fYrW7w7pJHRP6dwpIczJb3ISn8BiEQ0N8c2b/kTtO9PXdqpLGB4boKoOCAHVYGorET3wi8k3+60zt7/9WVz0h6pw==;GJFCzvVjHDwtNptPHYO4FQ=="
 ---
 
