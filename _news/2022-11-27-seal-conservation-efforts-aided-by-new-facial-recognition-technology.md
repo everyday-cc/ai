@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-fac
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
       name: The Columbian
       domain: columbian.com
     quality: 19
+  - title: "Scientists are using facial recognition software to track and protect seals"
+    excerpt: "Marine biologists are taking a controversial technology associated with surveillance, and adapting it for science and conservation."
+    publishedDateTime: 2022-11-30T19:00:00Z
+    webUrl: "https://www.cbc.ca/radio/asithappens/seal-facial-recognition-1.6668125"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 17
 
 secured: "nfEYE8nFSoZQJlgryFcvSG1GMI/zTY47gCTFS00Ok6otQUhrtWjM3Yhm0YN7UebLdTgy2hbuh1Pxa/tqBkmSttiirFFIJxakgzX7WJUI/Cptut6x48nL9Bh2zIGDYRlaB1tObNpR404B1iXtjjQXYWCxtuHfYrZ2SnzVP2MrgQXB45ZedgKYNdzisjSCivbykMVzt3yp+ulRqNlRNGe3rS9U3FjlyTwv/otrzaEeoCCFuZsTtzsfi6IX4/vHxP7Oq3c62d3gA2OBiJ6lo+5xtr+H20gjZKmRDNR0/nEsAIvo1lAgP495crk56YAWQGVOXvXXQ3lDaT1C7OOLiPEVqHoiRILHjfrwU3nMjKJT+IlcQetZeIPoNKZB+ZW+LJcnMxPOkZ5wCHzVHUyFkBLxGhbKxNgdOpv046qRyo4nGlpqlmGtDUWrXn+koPdjEns+3gGGm2QuLPBGNL/hJtLJ1ywIqsmE9XF+PEXthBZJKpB3RL9n295I5LXGTbj1WZKhWY5NTEJa794+IlXDZSyeGw==;UTW0uxo1DYwdj3t/z51UBw=="
 ---

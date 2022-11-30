@@ -94,7 +94,7 @@ related:
     provider:
       name: Local News 8
       domain: localnews8.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
         width: 2000

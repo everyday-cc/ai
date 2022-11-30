@@ -19,15 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "AWS compute and ML services run on orbiting satellite"
-    excerpt: "Today at AWS re:Invent 2022, Amazon Web Services (AWS) announced that it ran a suite of AWS compute and machine learning (ML) software on an orbiting ... but the companies did not provide any other financial details. Yahoo will also get a seat on ..."
-    publishedDateTime: 2022-11-30T14:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/aws-compute-and-ml-services-run-on-orbiting-satellite/articleshow/95889228.cms"
+  - title: "AWS Announces AWS SimSpace Weaver"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced AWS SimSpace Weaver, a fully managed compute service that helps customers build, operate, and run large-scale spatial simulations."
+    publishedDateTime: 2022-11-29T17:16:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-aws-simspace-weaver/article_8c1f5b9e-1239-548d-9e11-3f10f780fd24.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+        width: 350
+        height: 455
+        isCached: true
+  - title: "Descartes Labs Announces AWS Migration"
+    excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
+    publishedDateTime: 2022-11-29T20:33:00Z
+    webUrl: "https://www.datanami.com/this-just-in/descartes-labs-announces-aws-migration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "Wallbox Goes All-In on AWS"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Wallbox (NYSE: WBX), a leading provider of residential and public electric-vehicle (EV) charging devices and energy-management solutions,"
+    publishedDateTime: 2022-11-30T05:39:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721508.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "yzdX8e/o0LiA9Bbw16ztUU5zfuS7MWBDsL/c9mf3/x5repelb3aeIBAqzZ/fOi1UuzvW0nADdPnozM/A7RW7xx6zBRu5N03KgS/wIJGHvCSFB7usgfWmtNUvNRFspQO5CGeQl7DITnqVVl/SN8Dhf2DpuxGt+e80I4yAAhE+LzARzGSr0orfK3hS4TXb5JjjDcuQr62FmM3yOIrVLS4nOBBWV5kheL8p1Hiv3oHpvOoJUb6v/0s9anU/ML54rNnL00fIrDmcwSHwpwmyH2OMjUvE8AEHtwBQClND4aq07wtjvAmpvNLxP+SFJVWe5MUkvzEOWcdarGdtNei32OjIMiaZ4dvSD22U7tiTW20aVTM=;nom8ylthwNWYyBCUqlGRxA=="
 ---

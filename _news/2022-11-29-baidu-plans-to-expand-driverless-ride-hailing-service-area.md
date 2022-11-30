@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverle
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://www.railjournal.com/wp-content/uploads/2022/11/Netherlands-ATO-tests-in-GoA4-Alstom-pic-cropped.jpg"
         width: 598
         height: 336
-        isCached: true
-  - title: "Seoul opens first self-driving bus route to coax public into warming up to driverless vehicles"
-    excerpt: "The locally built bus – which resembles a Lego on wheels – is currently servicing a 3.4km circuit in downtown Seoul. Read more at straitstimes.com."
-    publishedDateTime: 2022-11-26T03:48:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/seoul-opens-first-self-driving-bus-route-to-coax-public-into-warming-up-to-driverless-vehicles"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 27
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/26/SKOREA-TECHNOLOGY-BUS-063950_1.jpg?VersionId=6NugBvefITLnPT1b860gQVbF8bvC48bT"
-        width: 860
-        height: 573
         isCached: true
   - title: "China's Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
     excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."

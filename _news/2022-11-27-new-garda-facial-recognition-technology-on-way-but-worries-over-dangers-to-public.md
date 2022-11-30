@@ -77,6 +77,15 @@ related:
       name: The Columbian
       domain: columbian.com
     quality: 19
+  - title: "Scientists are using facial recognition software to track and protect seals"
+    excerpt: "Marine biologists are taking a controversial technology associated with surveillance, and adapting it for science and conservation."
+    publishedDateTime: 2022-11-30T19:00:00Z
+    webUrl: "https://www.cbc.ca/radio/asithappens/seal-facial-recognition-1.6668125"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 17
 
 secured: "7E/XDW9vc7d2gu7+lRR6NQAGIGzXA6NqVhWuDvaaQKUUL+mX2r2Miwrxzsm78jGGCogkoh39q+HzaQVS+pUpHn6NvFAzerOx6BC/zI5Mkrgo4vxW9R+UBpTwYWMBb/Y3IY5Wgl/i5h3uD4s/S/IrBXT/ZZ2Jy8+E6+Kf7+94fpd0Gbxa5Kkd7u1VzoHpFIPk6Sf+VhTfxAYtdqeFSD8n3FC2LAM/NIV3m1w6gxNAC3E76R/WDCcLXe2HtzouCLpKIOOHeMv0g9rOdCs0j+Mrrvrj0qff9OT3kDu3pPt+W1qe0W8uLaHIIu18gzlSAq2MftSxj3wNfNTNj2m2x6L7pmR0iovcQF5EBGGl+peoIKo=;xQ1n391NfrzSq23wOwreKA=="
 ---

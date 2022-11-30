@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T20:09:00Z
 originalUrl: "https://www.geekwire.com/2022/whats-wrong-with-alexa-former-insider-on-the-challenges-facing-amazons-voice-assistant/"
 webUrl: "https://www.geekwire.com/2022/whats-wrong-with-alexa-former-insider-on-the-challenges-facing-amazons-voice-assistant/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: GeekWire

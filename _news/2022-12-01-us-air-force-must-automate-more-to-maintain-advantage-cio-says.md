@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T20:24:00Z
 originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/"
 webUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Defense News
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
-secured: "Dkz/0G39VnfCZGCM+p6gFB/it1eld0QXE4rZx8vc/BgXN0kmhtvrRv3gBvuLuGZBGp8mlWq3qoiuyuoamY4oyhM1mXpp4k3+/jVq40SnoMAlyLNAqHYMXbOCu43X4v4vegby8MdgA1OqXNmvk6Tyz8V8G55KY1+VgtDE6bRlGpelu3YbiooMj3i8dYJeufIWk5/ho7ezvXuBAQX6ZWSSBs8AXWtvg2Z6CmVmJKD8Bkrt/jRd0H1d6O+DCqh5bSDo2WIr0JSANrNxomCEoVE2bmgT6F9pRnn2i9zahfnYl+4c7ePD4OFO4ajayUzr+6XjvKW4Ui9UysgEvKOfMcnLBg5N62AOIwIJvAdAaHbpfl89x+zGnFMMlt7qZYMSwFKipn3s9VB4YuZrnkEjZD5QwC8HGUdVWKiIpyNMTOP4HdWRAOvINwtxHFesCp3PVIYlbb333xYLy9H+PMUPHgbyOonmLE0ALkEDQuDF+tW9JDBMkJTxBfpt7AKl7VhwI3TUeAtFi141Oq/w8iQWrqBgzg==;ZI+jwM3Pw+fVB89Ufv+L6w=="
+images:
+  - url: "https://www.defensenews.com/resizer/5A9WTVnaKIXZeuxLOy5TqmVR8cU=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EZI5ROUSZRB3RKPUZVRYXR4QEI.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "EyBbSrkFyrCde5SmZqIpobMoic1hm+yizB5Sft+hC7a+DxxpZTHPOdY+znU8AS9pG7W6tMOFRArOIJsdeQslzUgtfDNakTDtUHwqgbBuXS0AN0qOUQZEryMFT6oMwzGYbZlWbxzW8PgrJPXHCSWy4sNiSLT8eC4VfwXl3niWEeeNDh6WWi5iMjldcZjwMcjxnhM1XQ5/DqsvBM4jk8XXuGIXUEHrfLxr3l8GVtvSgMuN/HrBYplRopNuGcAO1cS8CFfiLCef0hkZx1N5wOUXQ9KZ4kZwX8ms1Uvz0OeCovcu63NjFs/uROOHBlYWQqdo98OB4WjVTk5s0S2NEBalC6bpg3CVxE3kcFm/F0nW2kE=;mZqTnORfi/Z77pJCrsimNg=="
 ---
 

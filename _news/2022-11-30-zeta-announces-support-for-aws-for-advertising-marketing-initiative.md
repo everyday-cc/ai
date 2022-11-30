@@ -19,17 +19,6 @@ topics:
   - AI
   - AI in Marketing
 
-related:
-  - title: "Descartes Labs Announces AWS Migration"
-    excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
-    publishedDateTime: 2022-11-29T20:33:00Z
-    webUrl: "https://www.datanami.com/this-just-in/descartes-labs-announces-aws-migration/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-
 secured: "qTZWJroS05K/ox5qJsF93OX9qsCbBaprQhXBLY2Qyjlf5OGYqs4q1SGNdu7a+mvRqSWugpXVRGAVmAKG0mME1DAeHvAXg3DpZg8jWotzkIBnuA+IiRFl6yXjXXqr88R3FwzBkDmIoiaawK4XTWYfvAledahUtMTZZCMDr+oZemJp35ZexsWA2y7+qBN1tuUmjhcSIImgJYmZblXGc0LSLo9gqptyuACnjj1F8hvjM3RF7TQyOTtKIrpNqTw0lQ8we9o3IyhVn8laALLK2uBLrCYZ4S2qmx9PWduJj9L1LV0BKFiaUOppMo+w70mlcHee6urvYtnXDgZ3X8rFebWkkE4pGNu0Cn/U3zT2z1VrOc0=;ZAVA0iZgI7lKGf22OnEv/g=="
 ---
 

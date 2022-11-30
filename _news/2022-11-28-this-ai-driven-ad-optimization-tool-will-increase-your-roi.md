@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/this-ai-driven-ad-optimization-tool-will-incr
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/this-ai-driven-ad-optimization-tool-will-increase-your-roi-67909"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Bitcoin Magazine
       domain: bitcoinmagazine.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png"
         width: 620

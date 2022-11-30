@@ -83,6 +83,15 @@ related:
         width: 300
         height: 228
         isCached: true
+  - title: "AWS launches new AI educator enablement program"
+    excerpt: "The program, which was detailed at AWS re:Invent in Las Vegas, will be provided through AWS’ Machine Learning University. Machine Learning University is a platform that offers access to virtual AI courses and other educational resources developed by the cloud giant."
+    publishedDateTime: 2022-11-30T18:48:00Z
+    webUrl: "https://siliconangle.com/2022/11/30/aws-launches-new-ai-educator-enablement-program/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
   - title: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent"
     excerpt: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent - SiliconANGLE"
     publishedDateTime: 2022-11-29T23:10:00Z

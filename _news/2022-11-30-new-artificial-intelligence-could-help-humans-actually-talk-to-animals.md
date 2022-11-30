@@ -1,19 +1,46 @@
 ---
 category: news
-title: "New Artificial Intelligence Could Help Humans Actually Talk To Animals"
-excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom — with limited success."
-publishedDateTime: 2022-11-30T02:02:00Z
-originalUrl: "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/"
-webUrl: "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/"
+title: "New artificial intelligence could help humans actually talk to animals"
+excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+publishedDateTime: 2022-11-30T13:27:00Z
+originalUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
+quality: 57
+heat: 67
+published: false
 
 provider:
-  name: Newsy
-  domain: newsy.com
+  name: KXXV News Channel 25
+  domain: kxxv.com
 
 topics:
   - AI
 
-secured: "mybsUvhIhs/rQ4/CDFnwtKuQU87aeERoTd7WD2lqFQpsWKb+pEG8hRCsHhKFI4l68uMJj9+D5i2bGhnP2QnNtUvcav1HuMa5nqFn9wUv5hoqTy8DiyBWAvd5gF467glD4xr65LbHC6Pcygd5dbWvNshkxiKeOh5nRzUbfQLTN5LLcsKu6TCnXGLs4hT+D+vIQdRPalVEuS6ZovnITyrwUJ4WAtSLhZKXZd0Q/Z4/OH+iPs4WmFNuvNX6nD+8LBita/C6rpTckWEssVJRYb4uO3rkhSwxVDQjbbAPidncIqiw7aYhudzRCM16oG3a9vjXRv/P9BgZGypxg9fdbzU4mjr4cloxOCViWwXeBETVaQFrropRhcF+kRSbidIqjmJJb7zqvUigjw8eJ13WZ4L7ZiQCLAAONsZVukERIFtlHiaMk7aX1bEYsXLEQgfONZ6HZN08dqMDx+RyvZs4iehVTeas/nUnhIzV8QwguysLQpqdURPVdaX2yLJUl+61fHKZ3nPog+IPbQIMTeSX4attUQ==;QI7w7mrwEV8kRtTknPKRQw=="
+images:
+  - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence Could Help Humans Talk To Pets"
+    excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
+    publishedDateTime: 2022-11-30T02:02:00Z
+    webUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans-020200500.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "BOUG7SB+cu8abwUPpxCKYIvgUJcQ2yZPNVttuLP3c21OvtXHzQJErcd2M2jJ9sXKexEWX/7h2K9kyAHNfJw9eyEq1dgCMUdpRZijaanIGhxqz8+bnqvBJQOBQFL4kTGl8aU0JshS//FxnJvvvSwwPlVydiDbvgdgJKWaQVszWG593+GvenfyaFcIpoS5dFHIea86qAmIX5GRXuENJRCK/RptBmtpjq7Bc9bkUAx0ipagHdJYwUWFjjKZAer0gjfI2CHGa0/hdLZXsbsWEodQXB6FaOmQ1Q6yvRcpy+D/i24Ro21QCqry1rhRJYcs8z3fWaB5Gk8MM6fGdXCcTZkuI+eq5/x3rFM0ldLdKg4xfNw=;NpWxj19NDbm2se0SNZj1uw=="
 ---
 

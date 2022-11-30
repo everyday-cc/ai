@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-
 ampWebUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -52,6 +52,15 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 49
+  - title: "Bringing AI to the full C-suite"
+    excerpt: "AI enables data-driven decision-making for all types of businesses. But it must be responsible, and it must start with the C-suite."
+    publishedDateTime: 2022-11-30T19:08:00Z
+    webUrl: "https://venturebeat.com/ai/bringing-ai-to-the-full-c-suite/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "The Future of Healthcare Is Connected & Data-Driven"
     excerpt: "Erez Kaminski, CEO & Founder of Ketryx, spoke about the reality of developing cloud-based software in a changing regulatory environment."
     publishedDateTime: 2022-11-30T10:28:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T17:47:00Z
 originalUrl: "https://www.lionheartv.net/2022/12/pldt-enterprise-showcases-the-limitless-potential-of-artificial-intelligence-at-go-cebu-grand-expo/"
 webUrl: "https://www.lionheartv.net/2022/12/pldt-enterprise-showcases-the-limitless-potential-of-artificial-intelligence-at-go-cebu-grand-expo/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: lionheartv.net

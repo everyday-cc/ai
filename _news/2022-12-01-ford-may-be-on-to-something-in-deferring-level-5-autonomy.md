@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T19:42:00Z
 originalUrl: "https://www.forbes.com/sites/dalebuss/2022/11/30/ford-may-be-on-to-something-in-deferring-level-5-autonomy/"
 webUrl: "https://www.forbes.com/sites/dalebuss/2022/11/30/ford-may-be-on-to-something-in-deferring-level-5-autonomy/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

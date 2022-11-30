@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available
 webUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america"
 type: article
 quality: 81
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's full self-driving beta now available to all in North America"
-    excerpt: "Tesla Inc's Full Self-Driving Beta software is now available to everyone in North America, Elon Musk said early on Thursday, as the automaker awaits regulatory approval for its cars to be driven without human oversight."
-    publishedDateTime: 2022-11-26T06:44:00Z
-    webUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314"
-    ampWebUrl: "https://www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/teslas-full-self-driving-beta-now-available-all-north-america-539314?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/11/26/bloomberg.jpg"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Tesla self-driving software now available in North America, says Musk"
     excerpt: "Last month, Musk said Tesla's advanced driver assistant software would not gain regulatory approval in 2022. On Twitter, Musk wrote, \"Tesla Full Self-Driving Beta is now available to anyone in North America who requests it from the car screen,"
     publishedDateTime: 2022-11-27T03:54:00Z

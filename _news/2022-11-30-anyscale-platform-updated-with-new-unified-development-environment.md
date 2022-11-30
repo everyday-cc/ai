@@ -48,6 +48,15 @@ related:
         width: 2000
         height: 1200
         isCached: true
+  - title: "The Anyscale Platform, Built on Ray, Introduces New Breakthroughs in AI"
+    excerpt: "Today, thousands of organizations rely on Ray open source to scale AI workloads and applications ... the Anyscale Platform adds the ability to startup clusters up to 5x faster than Ray open source, so developers can further speed up iteration ..."
+    publishedDateTime: 2022-11-30T19:43:00Z
+    webUrl: "https://www.datanami.com/this-just-in/the-anyscale-platform-built-on-ray-introduces-new-breakthroughs-in-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
   - title: "The Anyscale Platform™, built on Ray, Introduces New Breakthroughs in AI Development, Experimentation and AI Scaling"
     excerpt: "Anyscale, the company behind Ray open source, the unified compute framework for scaling any machine learning or Python workload, announced several new advancements on the Anyscale Platform™ at AWS re:Invent in Las Vegas,"
     publishedDateTime: 2022-11-29T18:59:00Z

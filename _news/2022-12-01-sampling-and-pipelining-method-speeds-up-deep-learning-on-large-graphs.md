@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-lar
 ampWebUrl: "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: techxplore
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning model builds on imaging methods to better detect ovarian lesions"
+    excerpt: "New research yields a novel method to use ultrasound to enhance machine learning's ability to accurately diagnose -- or rule out -- ovarian cancer."
+    publishedDateTime: 2022-11-29T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221129134412.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
   - title: "Machine learning model builds on imaging methods to better detect ovarian lesions"
     excerpt: "Although ovarian cancer is the deadliest type of cancer for women, only about 20% of cases are found at an early stage, as there are no real screening tests for them and few symptoms to prompt them. Additionally,"
     publishedDateTime: 2022-11-29T20:18:00Z

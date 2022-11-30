@@ -2,19 +2,27 @@
 category: news
 title: "How artificial intelligence is being used to stop retail theft"
 excerpt: "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ..."
-publishedDateTime: 2022-11-18T15:09:00Z
-originalUrl: "https://www.wcpo.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
-webUrl: "https://www.wcpo.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+publishedDateTime: 2022-11-18T15:07:00Z
+originalUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+webUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft"
+ampWebUrl: "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true"
 type: article
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: fox13now
+  domain: fox13now.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "3h0lzbu147nryjpmkIeTzYWvT9O/3JF1MwK4vIh0GgK04oRSBB+JqFnx8yiGcgIGRVfUbtt1uAL6BXq8hs/XNlg98dA57rHkL5I5zTs17koc/hpCZPT0Rf8bCIHwPYo3j2o2X4ioxz7jSf0ha5awZSiYo01xIXBEZYNPm6DsS8ol8X4d2y36AK2p5+3RFjr2u6PlkSj+Y8t+GWBg3j6lETaXElgiJ5dWiFzmGx+IJOlWD5/uKBT8iZaaUPsH7Eyao9ZiigBvbF/+6rd8fUGyTCJfN3bUr95l0Yt3JFZ3e67nTM4r/Rbe8TZ4/Nw+vjkVCAgVNQGqXkioBnf9eZNSs7Gf0i1H5dc1c8Mh+sytc5M=;KN1WNYHs6jviR4qEq3AiLA=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "LLSYKNrBqxQuaSFBP2XYhj5g4XT/u4un4NiKAMtL4eij83xKP1oE8hD+T8WzpEzU3qzA6nNWEHmUKTfJMN6tvZKyglctrxyvA4NUq1OUBT/2CpuxE7mBEgwKU8k2xKMDTIqGP0pEbajE5ZUK2cxgfakYOM0pVDKbQAA5MbUZHewqKZwEzwMFqTtxVFH6Ug9zRpqa2SQ1/C7NuBB85Q6C3nT+vOZha+NmDASKu3vaF2c56s+DAZ2pFlbBBzLy+8K2voaX6MPwd+ABljRVQZiqBWreuqTIhuFTD+Ze3IPH6XbX+63ak+vad835BvZ8OdPzsnmhpblGcE2sqP0b2R5xjIwOyM9Lyg8WMxA6A0HqN2M=;6LRUbRHN2w7dzbLwp1rjfw=="
 ---
 

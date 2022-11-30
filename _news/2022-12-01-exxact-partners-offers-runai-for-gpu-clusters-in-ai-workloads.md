@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T19:50:00Z
 originalUrl: "https://insidehpc.com/2022/11/exxact-partners-offers-runai-for-gpu-clusters-in-ai-workloads/"
 webUrl: "https://insidehpc.com/2022/11/exxact-partners-offers-runai-for-gpu-clusters-in-ai-workloads/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: insideHPC

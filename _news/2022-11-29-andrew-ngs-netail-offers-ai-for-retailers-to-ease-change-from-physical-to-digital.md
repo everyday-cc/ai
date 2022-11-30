@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -26,6 +26,15 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Why AI startup Netail is changing its HQ from Silicon Valley to Pittsburgh"
+    excerpt: "One factor that led to Netail shifting is headquarters from Palo Alto to Pittsburgh: the expense of recruiting engineers in Silicon Valley."
+    publishedDateTime: 2022-11-30T15:52:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/11/30/why-netail-is-calling-pittsburgh-new-hq.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
   - title: "With Pittsburgh as its new headquarters, AI-powered retail pricing startup Netail sets its sights on growth"
     excerpt: "For Mark Chrystal, the CEO and co-founder of Netail, Pittsburgh will serve as a launching pad for a company that only recently came out of stealth mode."
     publishedDateTime: 2022-11-29T23:26:00Z

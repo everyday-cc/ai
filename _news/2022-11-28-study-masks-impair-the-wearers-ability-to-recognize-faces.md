@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-28T04:40:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202211/study-masks-impair-the-wearers-ability-recognize-faces"
 webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202211/study-masks-impair-the-wearers-ability-recognize-faces"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Psychology Today

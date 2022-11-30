@@ -1,23 +1,58 @@
 ---
 category: news
 title: "AWS Announces AWS SimSpace Weaver"
-excerpt: "Fully managed compute service enables complex, dynamic 3D simulations that model systems with more than a million objects, quickly predict real-world outcomes, and create immersive training spaces for"
-publishedDateTime: 2022-11-29T17:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893674/aws-announces-aws-simspace-weaver"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893674/aws-announces-aws-simspace-weaver"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced AWS SimSpace Weaver, a fully managed compute service that helps customers build, operate, and run large-scale spatial simulations."
+publishedDateTime: 2022-11-29T17:16:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-aws-simspace-weaver/article_8c1f5b9e-1239-548d-9e11-3f10f780fd24.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-aws-simspace-weaver/article_8c1f5b9e-1239-548d-9e11-3f10f780fd24.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "27clX4vKCEf+GzEyMrpaoEouUhVYvS5CrD09AFdklTwGUiFgi7IDLkIVGRM6oPABbY4W9DRGkgeWG3nNyggbCgCRvxc5D0MbfDw1F/lrYH7JUGeT6Yfv3vyBEXuE7ll3mWsi9iO4nl16mCM2uocDQr6M7akubND8VSus4iWdifX7DqficRWvN3gmbv85s4bTrMIZF3zIEhSXCgYSxwvRd5KZkJ9MZUZcP6K8/U34YIo8zyG7vs4Xtu/NtGR57BJlqtbT/k9Zf3NEpRKG6QqINDON5ICR5Y+iScdmyn5QXVzOPWcod96BWJrB8z+7SUj74gx5lO2fengfCMOSpLW2MBO0IGKznpXnm728+HI5Kys=;FHdTe8aMC+Ufk9FmJiSWJg=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
+
+related:
+  - title: "AWS Announces AWS Clean Rooms"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced AWS Clean Rooms, a new analytics service that helps companies across industries easily and securely analyze and collaborate on their combined datasets—without sharing or revealing underlying data."
+    publishedDateTime: 2022-11-29T17:27:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-clean-rooms/article_b2f7d9b2-f8b2-5d6c-ae8f-c13c71203b64.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 19
+  - title: "Descartes Labs Announces AWS Migration"
+    excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
+    publishedDateTime: 2022-11-29T20:33:00Z
+    webUrl: "https://www.datanami.com/this-just-in/descartes-labs-announces-aws-migration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "Wallbox Goes All-In on AWS"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Wallbox (NYSE: WBX), a leading provider of residential and public electric-vehicle (EV) charging devices and energy-management solutions,"
+    publishedDateTime: 2022-11-30T05:39:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721508.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+
+secured: "w/xgNrqOn/5FOnI3cM67IdQYUGCPlmFkTA/2+Xke9qn0igKeUuP0b7TfW3fAQLaPjn1eUcICIJ/MRkAANaTMPzrq3G8WnlPJAe0mqMJyslGFkv9bhZdGYWjPYasX9KrQTljRGKXDdzqwKISKnrOshdIX+ZeKJhUsnOHrS0WNhqoDVWuHEW5VSrA0VsZi8Apgt8R+Oq5RkxZTPMyrplWSK+DqXN2nAuoLd2FzZTaISFjbAyjKS5Xuf8UGWfAGgfXoYbrjYLnVwblN+YQ0+AoFWlK3haI7cN9phhXHybVuU6e5tFLBMQSdr+r0IN0VDFCRakrEVRu4yyBHcFcyHWwOtihAFV7anJH6DTXzzDHi7/M=;Ls3hI0iS9DNR0JsJ2B3/IA=="
 ---
 

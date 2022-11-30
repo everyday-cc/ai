@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-30T17:53:00Z
 originalUrl: "https://localnews8.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
 webUrl: "https://localnews8.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"

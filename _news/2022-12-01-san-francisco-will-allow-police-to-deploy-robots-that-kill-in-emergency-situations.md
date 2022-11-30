@@ -44,22 +44,6 @@ related:
         height: 641
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Debate on Tuesday ran more than two hours with members on both sides accusing the other of reckless fear mongering. Read more on Boston.com."
-    publishedDateTime: 2022-11-30T16:51:00Z
-    webUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
-    ampWebUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 59
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2022/11/San_Francisco_Police_Killer_Robots_07710-6386649ea96f1-scaled.jpg"
-        width: 2560
-        height: 1760
-        isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
     excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations."
     publishedDateTime: 2022-11-30T14:02:00Z
     webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
@@ -110,6 +94,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
+    publishedDateTime: 2022-11-30T17:05:00Z
+    webUrl: "https://www.wbaltv.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+    type: article
+    provider:
+      name: WBAL-TV
+      domain: wbaltv.com
+    quality: 19
 
 secured: "qURzI/2NUzasoXr18Jz1ev3UfT+MawQlQStQHgLhUfRKca+DR9dQOuKTgkdKh7zdC6Wsp/r7KtaT80Q2S9SKMbIrwVPHEA6bPTZ0XkmqCqL71VpI+izzRKciYh9o48Ni88ypNB8df81Zk6DcPglJ+s/FwBwSYQO1oKtRwxZfiHlXyLSryPa7K4gW5hD1nWZLChUelex0ILzoV1lMY2dD/5GgdqHjUpRln7ZsAxvw4cqnmU50vqsvp3+N7eIyzHfYaGu5BGzOiWYTd4iqTXp9h6lURkxmOYmw2mkN3IREnF6LUFgoxceLM3QK/CBRStrMe2A9a+UBH6dMVkmGnreHMWhyNtEPcQmeF3dtfLVLbew=;/vrgSAb6JhOlSNc25Nyn0g=="
 ---

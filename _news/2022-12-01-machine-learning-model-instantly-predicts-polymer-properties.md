@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T20:35:00Z
 originalUrl: "https://phys.org/news/2022-11-machine-learning-instantly-polymer-properties.html"
 webUrl: "https://phys.org/news/2022-11-machine-learning-instantly-polymer-properties.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

@@ -115,21 +115,21 @@ related:
     quality: 19
   - title: "AWS Announces Five New Database and Analytics Capabilities"
     excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
-    publishedDateTime: 2022-11-30T18:04:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722273.htm"
+    publishedDateTime: 2022-11-30T19:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-five-new-database-analytics-capabilities-/2022/11/30/9722273.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
   - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
+    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+    publishedDateTime: 2022-11-29T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 17
 
 secured: "SeWcn3dVZDir0pHNqNJq80xWuYvRaoHYGDSsrKzy8dmo+w6TDs7hUJvm+y96r+806jzsOiV1ltO99RQQ/Ahbai8jN5/tImkqG2yJfyRQ8LN5wR/XfTsUS02ze1IM9IfEBjrQRCFriWQYGYY35XxkljZrU1VcCpFHyxMFX2c2AjfwbRI6zW5JmSbeO/3hqcC06/L855mfJCdF+flkMEuDLMObSMWZBd3Q89AM8QeLwIKn1Y/KGcR0/6cG/9wYGywEWYrCgYNKn1LnaQzDkcTJ1g0ida5TASYqs8rjL31PGvsvYcTvCMvzASQtX30fdQm78Hg75eWv4eYo/WeWzX4lEPW1iZyLdjhN7p1lTp3kW8Y=;yv7JR/I3rvQw5EglegIXOQ=="

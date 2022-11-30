@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "Microsoft, Other Defense Firms Team Up for Modeling & Simulation Work"
+    excerpt: "Lockheed, BAE Systems, and other firms are using the Seattle giant's Azure cloud platform to develop training and what-if tools."
+    publishedDateTime: 2022-11-30T17:01:00Z
+    webUrl: "https://www.defenseone.com/business/2022/11/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380305/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 39
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2022/11/30/GettyImages_1198266705/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
     excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
     publishedDateTime: 2022-11-29T14:28:00Z

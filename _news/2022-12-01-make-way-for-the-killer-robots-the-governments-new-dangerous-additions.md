@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T19:37:00Z
 originalUrl: "https://www.cnsnews.com/commentary/john-w-whitehead/make-way-killer-robots-governments-new-dangerous-additions"
 webUrl: "https://www.cnsnews.com/commentary/john-w-whitehead/make-way-killer-robots-governments-new-dangerous-additions"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: CNSNews.com

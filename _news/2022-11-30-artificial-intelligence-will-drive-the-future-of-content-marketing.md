@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intellig
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
         width: 1528
@@ -52,6 +52,15 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 49
+  - title: "Bringing AI to the full C-suite"
+    excerpt: "AI enables data-driven decision-making for all types of businesses. But it must be responsible, and it must start with the C-suite."
+    publishedDateTime: 2022-11-30T19:08:00Z
+    webUrl: "https://venturebeat.com/ai/bringing-ai-to-the-full-c-suite/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "The Future of Healthcare Is Connected & Data-Driven"
     excerpt: "Erez Kaminski, CEO & Founder of Ketryx, spoke about the reality of developing cloud-based software in a changing regulatory environment."
     publishedDateTime: 2022-11-30T10:28:00Z

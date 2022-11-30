@@ -51,7 +51,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
         width: 1528
@@ -66,6 +66,15 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 49
+  - title: "Bringing AI to the full C-suite"
+    excerpt: "AI enables data-driven decision-making for all types of businesses. But it must be responsible, and it must start with the C-suite."
+    publishedDateTime: 2022-11-30T19:08:00Z
+    webUrl: "https://venturebeat.com/ai/bringing-ai-to-the-full-c-suite/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How generative AI will impact the future of work, according to a CEO who has spent 2,000 hours studying it"
     excerpt: "Sequoia predicts that by 2023, generative AI will be able to put together scientific papers and visual design mock-ups; and by 2030, it will write, design, and code better than human professionals in the field."
     publishedDateTime: 2022-11-29T05:00:00Z

@@ -41,6 +41,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Amazon To Warn Customers On Limitations Of Its AI"
+    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
+    publishedDateTime: 2022-11-30T16:09:00Z
+    webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "5+IkYVjEN8QoZxnMrxTsUpBl9Xe0nQXunajentGkWsuIKpu3crFJUm1k+TU6KLqsUymixlccLR4WhuwrCYZFd4eOlUdqVLQ0pW558R+DYprDxZvHAl5L55ayz9WoKo+TtC2OKi2evNjP0DrCP9D8YvRk6WxO4T3VYQkejQuDTaKNQ4kFK8gPrMtNvKjyiuZWkVXNeynsAzohuYviw3Y+Ranbiets+mQ1UFSzHPd7F/jjLk1r4reNuH1M0ctxwCA0YsWGezauVsiPaxdR31eTJRo6lu+rRzvcW0DBTN2O8b7OdkAe8fZvoeNnaskxDQgkj/TweqBMJUGO067o6iC7Ovzt/sSMkt2Lrz/9sWz+h0M=;Tejt+Ri16UsqvPIS70D/zg=="
 ---

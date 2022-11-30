@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T20:24:00Z
 originalUrl: "https://dailyhive.com/toronto/tesla-self-driving-tesla-elon-musk"
 webUrl: "https://dailyhive.com/toronto/tesla-self-driving-tesla-elon-musk"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Daily Hive

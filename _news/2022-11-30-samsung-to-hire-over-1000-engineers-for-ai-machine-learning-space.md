@@ -30,21 +30,14 @@ images:
 
 related:
   - title: "Samsung to hire over 1,000 engineers from IITs in AI, ML, IoT space"
-    excerpt: "According to a company statement, these young engineers will join in 2023 and will work on new-age technologies."
-    publishedDateTime: 2022-11-30T18:33:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/samsung-to-hire-over-1-000-engineers-from-iits-in-ai-ml-iot-space-71669806892512.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/samsung-to-hire-over-1-000-engineers-from-iits-in-ai-ml-iot-space-71669806892512.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/samsung-to-hire-over-1-000-engineers-from-iits-in-ai-ml-iot-space-71669806892512.html"
+    excerpt: "India's leading consumer electronics brand, Samsung, is planning to hire around 1,000 engineers for its research institutes across India. These institutes include Samsung R and D Institute Bangalore,"
+    publishedDateTime: 2022-11-30T20:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221130/4009253.html"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 76
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/11/30/1600x900/SAMSUNG-VIETNAM-SMARTPHONE-0_1669815834799_1669815834799_1669815853258_1669815853258.JPG"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
 
 secured: "Hd9ZLudtyyve1ZAH0iIDDLXSNE8kawB6AtUiV9Q0WlyelB4QwnjMAXZlXWm6PAQE0lz8LGuI6TXU/fYjOkiHzkNOp9PsINoCBK2mpxnkL0Y+W5NzCZO8XSEyD9y/Ki8L3goFzPuGrl68U8oYxOrcW7JLD2j1Yv7VU5h8dMkZpU3e+W6Eipz4Ogi/8BicZGSqU3GHRjraZMmjJWfJuKmfN8PukcqgXqRTkM/dZ3pDu/kgDoG4tvwn3tGwXRp3giOgME6UCYFqIg3mq/3vfBP1Akfx2DlqnUb/8GKE/Hr1h7D+Cs/p5dkeakQbpp+a4BfFh+zjLgrDPI8TKcIDDRx7/CLQP1tBfGSdLaFQB8ndRTrKVnW3bNKOAvuLRJRtzTrobNwv3w7l736gTR6L4g4btQNmvwADF6qqgOM6y29OT+1Sa4HZWtIrViP+3bSJ89/EHkw/cY0Q7V4dJbN3WHH0N+3MVs+SG+BEwFuN+P5JlVgPiYkoLEzIWw+Pm91xf/xamVWj7pd02eGyL0lNlSUxUw==;CmPYbqwldzm4mre9vBnVKQ=="
 ---

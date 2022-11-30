@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Leading clinical trials companies in the artificial intelligence theme"
-    excerpt: "The future of the pharma industry will be shaped by a range of disruptive themes, with artificial intelligence (AI) being one of the themes that will have a significant impact on clinical trials companies."
-    publishedDateTime: 2022-11-26T04:12:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/data-insights/leading-clinical-trials-companies-in-the-artificial-intelligence-theme/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 37
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/11/Artificial-Intelligence-in-Clinical-Trials-1038x720.jpg"
-        width: 1038
-        height: 720
-        isCached: true
 
 secured: "3GHDt3er3XmBmtPuuXTpAx4jWOfRGpRWNU8qwOIsPsO+YqSCPunSyxjDnWt9gRQNt8j9CJE9nG/0DRLnT811ci93fdjp/8WSB8ZYSoQfkcicrgNa8sC7juyFawXJMPC2SEPNLyWCN7r060iyZLYlQe6fVfgo4cq6Sd1RcMNCiE8U9nZcPOEwF66aAFbRjnskwMqcx3dXIJbXkmJdzogXYeU8YITmSpwwXluU+E07LvlHyAC0HMZz5oiotZvY1BvKo0Xr5PBHl2j2Zxr777AxKLFnPa4zjShv1mPu0CBu8qIH9aoummApKKD1vzF3cEvJn5u80S9Ud67f6q/L/fEDJVQ3Lr1kF7VUGsCc63RhzKHo3ttH4k+gEsQAy36HXIxJD7ifn2DoHtWfWDe/YPOvjovcIUXTxkMbGqpCblB5DQcAplrD07uyj+OQ5iloC+aOMrcss6Lf1i3r+eAr6Nz85cuvaAE+F8XKX4YfEeMukBoZcET6FqjkwlNIm9czN3suQ0Yl6EpZjU/TmFG7RjXHdg==;ZigZhiBALeXaz14CcKhDgg=="
 ---

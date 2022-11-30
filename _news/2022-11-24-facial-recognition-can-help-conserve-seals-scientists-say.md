@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals."
-publishedDateTime: 2022-11-23T17:48:00Z
-originalUrl: "https://www.bangordailynews.com/2022/11/23/news/portland/facial-recognition-seal-conservation/"
-webUrl: "https://www.bangordailynews.com/2022/11/23/news/portland/facial-recognition-seal-conservation/"
+excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
+publishedDateTime: 2022-11-24T00:02:00Z
+originalUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
+webUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
+ampWebUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
+cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
 type: article
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: WTVF
+  domain: newschannel5.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "8rJWFA0WtfbRgXzgCoqt/Pg1WsIocQL1bsDdYOrjS3kUub26b83X4uGyUQKhCnpKfCzcif/ZoDrCU/o+mdWdRgNsl+ylY/Ee/qXhvIvDftKuSCJju+LWaMQX5tZOFzmsyf2bkrzm378mZV5QaFO055tXDyxQCOahgJIvhcTXyN7y9Hb003ztpbqPvg8lnEbInWVINHNgASPuJrJXPO0SrLd2qF0ElQsJgGqrGIy+aAuhcC2x4gYs4F2HqrE6NpMVOCEcj3KR8eDd0OSRi0HWO64WcZKJDkHT8rSRat8zFgEMylJq0kbzEqLl/PD5hK0Lx10iwF48K/0rmPfS/jehnVOldP5br4xncf1GkJ1jxrc=;1XH5G71E3JB3ZS2eD/A7rA=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/f328cbe/2147483647/strip/true/crop/983x553+3+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F26%2Fa5%2F8c8af8954a2cbda5720e88fc5e71%2Fap22321559652379.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "X9Jb3I65pd8U1Ye/q6fK3HmpDbKm4fc+0kURgYPk5gWz7iI7nwSVCQU1/X4/lhZpMmDJmN/MzofjINbQspe7LmRAujz5psutfH0vXjm3ENn1pE0h3uZn16AJBoUBdqz0YFBigVlqaqhonGXJrpn4s0vLk7hJkUu4VrpImsTrkGrb4LMc9rHAAK2542JL/lWHCP9kcjHDeQ9IVAVtEzFRjv85xjEHKvll1LgZepdWylNERXBVE/3evf/BHw7Gz6etH3f29kTGG8a6wzQoElC1Dk1+OSsIWbEOsO3DldkwXouyyT59lyzWypTAqQsU9gFOGgyDY/tzJsoxC9jcRjidiRo3V/SYenFzd4n+nuKfxbM=;NFH7svJ0cUiec8ivZRZ4TA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T20:15:00Z
 originalUrl: "https://www.wattagnet.com/articles/46276-computer-vision-could-improve-egg-counting-accuracy"
 webUrl: "https://www.wattagnet.com/articles/46276-computer-vision-could-improve-egg-counting-accuracy"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WATTAgNet
