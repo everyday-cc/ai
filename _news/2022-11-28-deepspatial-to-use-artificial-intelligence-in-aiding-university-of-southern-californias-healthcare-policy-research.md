@@ -51,22 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Researchers propose competencies for proper use of artificial intelligence in health care"
-    excerpt: "Family medicine professional associations have sought to identify how Artificial Intelligence (AI) can support primary care. The associations have launched initiatives that bring together AI experts and primary care clinicians to tackle these challenges."
-    publishedDateTime: 2022-11-29T18:28:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
 
 secured: "HOf/Bwwp6l56wbAC+c9OgPQh0rOUqFArFYUvmgc1D3aGEwYhuqXl93cDURYYFBQqITI3pNazznaKHUq8dP6GE4iiDm07Rt7hOr2t4PSgUA3lE7BLeOE4hsdhOMLccRavlTl8vld5WRnjFmFdVWCCU37Z9YF+ZV5y0fqlTTRbrNoBOTVbuh9/hbtXSx1BCMTM3pewAZhO2guyZzHJHY0WOTK5MAw3IETA1CxitW1b84kD7+GwPN5OKsaEGP++lt5A5WHzBNu7UqYNKkOLyhYy+kUDrXwPg9aRcdGtIyLKyJxDi3KQDkr91+QOI1/v3CRLo8g/PsDTCWpJMoFccC6OXOqb0lfiNNovIjOEPMGOfv+TNlQI6cytx7z68Rx83PysIlLETHWkK+wiuJyp2Rg/tP8N/MVsNs3XjitikLuTosi/NHyYb7ta9ymgXZsVVTYP2MHw4genhIY8RBNzvXWBDNf0erb+Y9KtpZBiadnh9MX5u9gP1tfZVGfYuCgqxY7Dpz+Chq4n36c0u9218RjdCA==;3z6wdto7GGXhkWlfhbbaLw=="
 ---

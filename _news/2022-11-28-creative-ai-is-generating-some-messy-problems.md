@@ -40,6 +40,17 @@ related:
         width: 1199
         height: 582
         isCached: true
+  - title: "Future of Metaverse in the healthcare sector"
+    excerpt: "including artificial intelligence, virtual reality, augmented reality, the internet of medical devices, robotics, quantum computing, etc., through which new approaches to delivering high-quality healthcare treatments and services can be investigated."
+    publishedDateTime: 2022-11-30T10:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
 
 secured: "I3XIJAtwLEKPMtEEC4vNmRC6B9ks613Zy7tTtt0/MYAYkqVJVR6kSgGunVp6RXQFi4GpePQDmm3OWRS6Tbh/0XMkIfo/VJvEZsuBGe5qhaPt4LX+xWA2xFDF/kMlFUzqfFvhzSUhaTxqjqexu/gJ2I4iv2kuV5jhpX2OYnHOCHwMD7lM+I8Il7POhAKM62YrhUkxw7riEWsqZVDRP/cYU8YqlFhuriJ1MhzMtCasRFid4wmJI5nxn/lJ1/gBOU65/xI86tPsZ4IPAhgCEuy9dedO9rw3mn59vXVHTJKZrTNfkrgaJLOIOnBecaTi8HWN94BFkj8Z82F8bftgf3GSMxMsMR4P2sTcThs1noI2t6EE+eZAGuWV1g9shUOA/llzvR43A6w1X32Vjaj1d2Y8d0kAIPdQLIdKx7qf0R8jYX2vkczyP3hqpiz+1r3UKLmndHroddSc/Y23VsqW0q5rPXH51ti7kNoqZj50LnYzvXJuG5v+FgnNIqTgZ0hLP+S7iMiToIzWn0V/kFRZUHB6YA==;URsrrc+guSgzK696jOnW4A=="
 ---

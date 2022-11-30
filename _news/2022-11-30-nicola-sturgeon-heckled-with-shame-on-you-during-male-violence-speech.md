@@ -41,6 +41,15 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Nicola Sturgeon heckled over Scottish Government's Gender Recognition Act plans as JK Rowling praises protester"
+    excerpt: "Nicola Sturgeon has been heckled over her Government’s plans to reform the Gender Recognition Act. Speaking at an event on violence against women and girls hosted by Zero Tolerance Scotland on Tuesday,"
+    publishedDateTime: 2022-11-30T10:38:00Z
+    webUrl: "https://www.scotsman.com/news/politics/nicola-sturgeon-heckled-over-scottish-governments-gender-recognition-act-plans-as-jk-rowling-praises-protester-3936587"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 0
 
 secured: "+PGvamdAg1QSowyoRVFti/oZ4QXtAxViuF5WwJw04+4WK3g3HQ+rS1sTNaoggmd4TkvPLTJVtys0eQPkKD/hOggmeTwFqxV9Sqq6N78Mu1IGRiihh0BXp9vPsTcG9KapqCxU0NK5y8cIcGFnxsBj/rZL2+UXXzeJUQ9zoLquYtNy5lBhgZ7vaIdEEgJW/3Plmjbb07DMDCxVIoqrfcJf+N+YsJb8Qx+ennEHEe8zWn5UPFaVoQPyS5IBlsoQNblE5pLC1zf+iq+yTSMPAIst+kFqGut0K0L7v//XgnaHXmMSR08dFPztkSLuspRJL0L6vA8oX0sIf7zphzppFXU8bndFg+W4VBbEmI9eKBGWjog=;LpCqklxEKTGApzcvqx0S7Q=="
 ---

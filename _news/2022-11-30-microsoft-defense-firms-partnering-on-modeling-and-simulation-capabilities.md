@@ -51,7 +51,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
         width: 666

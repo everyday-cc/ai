@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028"
-    excerpt: "\" Automatic Speech Recognition Market \" Insights 2022 - By Applications (Robotics, Interactive Voice Response, Video Games, Home Appliances), By Types (Speaker-Dependent Speech Recognition System, Speaker-Independent Speech System),"
-    publishedDateTime: 2022-11-25T18:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Recommendation Algorithm Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
     excerpt: "\"Machine Learning Recommendation Algorithm Market\" Insights 2022 - By Applications (Entertainment, Retail, Others), By Types (Service, Solution), By Segmentation analysis, Regions and Forecast to 2028. The Global Machine Learning Recommendation Algorithm ..."
     publishedDateTime: 2022-11-27T17:01:00Z
@@ -114,6 +100,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Digital Insurance Market Report 2022: Growth in Artificial Intelligence (AI) Services Applications Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The U.S. digital insurance market revenues are forecasted to reach US$27.72 billion in 2026, growing at a CAGR of 20.70%, for the period spanning 2022-2026. Factors such as rapid urbanization, growing smartphone users,"
+    publishedDateTime: 2022-11-30T09:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "nVWuca55ZKXhbEHU7GmVcghdsVS3clBppX6bRA6XAmILM88GaPD6CunZEHX3RKlRauNHjobwwil1QAjFbA7QPR3XKe0C75iNCwzbBjUYB3Egv6ueNdwThSfjoBvxTtKuE9qcg+ndhk3XUmdOUex1njmNoNIOlTjmp1yhvKH42BSZiq2lceALqnCp32iIH2a0Odv8dY0cKiuTLD7mSt2oAw2oBSS+zgFo+KBwPmx1jlNPXB6V+R1idRYDoGELDIuInjuxFPCgiA3IwBE7XbRX7bwcBNJuyfjPnAryU5ES1xVztxHZV9/v5ENM/iPsgXafbzQY2YE0oOz/tR3mm6o8y+p3d+B9T07auqPHhg+uuUg=;gY8eiZKH2j2+hO6hBV0ILw=="
 ---

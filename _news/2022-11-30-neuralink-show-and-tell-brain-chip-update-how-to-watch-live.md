@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/neuralink-show-and-tell-brain-c
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/neuralink-show-and-tell-brain-chip-update-how-to-watch-live/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

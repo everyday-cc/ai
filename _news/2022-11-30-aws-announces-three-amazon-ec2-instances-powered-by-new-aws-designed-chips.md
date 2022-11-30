@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-th
 ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
@@ -122,6 +123,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "SzVh2sf0c2bQ9PGBeACKmE/GGuWyZFZvqBGiBBUt/YXtCtnfw0NFPlI4AefKOsvnb+8GN3c1RE5KOM/FXrpmCtgLE08OKWFUKFNrA8CkXpc4cyNphTe384wW0BjF5ruwusqMvipfLYex/OcUftyqaNuKMJ8LtG8Urr7vRMBgL6V3yYRdUzHKi6TZom9PdkMPnyzvdki+jRBHGGXzwNjRyDpzIiM/EcJR2w+dnadMGHt3hI/k2jJCX6ur2KlCTjMdlMrc5cmbUu70Pdk2G7wv3DmHrzqf1E0KKpiVYffIkHogx+rUIR9k2VAxbpVvx/FnFWW0cvz6O8TYCd1zQ2g08EffSR90BhLuY6H5ak7oQsQ=;OE9cpr08Bgm/S/18urKIMQ=="
+secured: "daSGJW/R+P48DgPtczH0eRiY5TLADyjfSGjueasN3A2rYBuLI5KEet90NThrK4h7xe/PFXvqOfIglWkhauQAebUPhd6oTwHHe33hZ5la7wtU9LAXHov9EFweTc2lrzUWl+FgwF4RVz6Dy9h4iOSW3lanr1ke48w4DlKuL0/nX0iIhb5hdzi1IDX2gm/U8Abv4bxzQleJ39hsvLekJHr4QvDXQBanP8/XU/6RB06Dvz0YLgeOgONmlkCtYyHwzouzUhEbNQ0KqsigmCXqckbhw72d09G9Rp/MlwGgJP9uPTHGRalyAQbN581zUHcY7BBqAvi27ngM80lp00csVAXdbgsBR5ln2aIo/Tbs2hhFPWjKa2w+sQqO6t0+J0Bq+7gb4MKmm2ZPCXENw8uHttoCv9j39iNrbdxP6njpSfOVQnl72qLwWvaZWMceN6xctP+aUWMDLy7v71S39P6QwOlZ+ma7t8pFdPeB+YXamnlHvnMqV4JFw8VQrAO6IJmxphKWPqfhWBh27Q5vQOgeyIhf6w==;b3qdUJIpVA9lXVnfgJ1IoA=="
 ---
 

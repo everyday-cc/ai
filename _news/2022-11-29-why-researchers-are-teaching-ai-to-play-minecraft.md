@@ -78,17 +78,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "A bot that watched 70,000 hours of Minecraft could unlock AI’s next big thing"
-    excerpt: "OpenAI has built the best Minecraft-playing bot yet by making it watch 70,000 hours of video of people playing the popular computer game. It showcases a powerful new technique that could be used to train machines to carry out a wide range of tasks by binging on sites like YouTube,"
-    publishedDateTime: 2022-11-25T17:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/25/1063707/ai-minecraft-video-unlock-next-big-thing-openai-imitation-learning/"
-    ampWebUrl: "https://www.technologyreview.com/2022/11/25/1063707/ai-minecraft-video-unlock-next-big-thing-openai-imitation-learning/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/25/1063707/ai-minecraft-video-unlock-next-big-thing-openai-imitation-learning/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 34
 
 secured: "wnZ375ROYIUXlxEj1RQ7RykFGHFGyp58mFipCvnRtGE2o4yqrKg16kpCznJHfcM9lllRDnBheWh9DaxeH0Q9PNIICdvG4KdKf3Uoetp04IAEciXDG/eteKQCds1JNSjzr69pk4ckKgkXoarjXvl/jPcVA/P0qrWXvu7xdYuHQbOjQiWkh/hgrjWnexEavjprmljBkI6LST+20ex341LyGu8DSREgEY/72z4daBNYfqsDU3nYP1IiW82CYlezcTBUVMzheYhGvyiOhnVqzR4QW8blxE5G+1HEJ+98BrV7KBnXWV5/50pKkcv0HPmB8DDXFpnHbVPcQ9tE+FwHbPT/qZfDY7YnlfP4bzB1q3Vxj75ukoffSPSgjfNZuIihyNkIFybZ0rJ7LS2aSndDknl3CNsyrYPr1Yxezv2aCHpmavCdqc5Lr6TJspxBgi/eE9m1txi87hNGQC5IL/zsCjy2BGP7g0sI88IMtb+0umzAeFRTAC4hgirlzTe6k8RBCKMunZVWYuBeQwwc+BxwK1T21Q==;pvSxfgfk2vknm2YmsVWlyA=="
 ---

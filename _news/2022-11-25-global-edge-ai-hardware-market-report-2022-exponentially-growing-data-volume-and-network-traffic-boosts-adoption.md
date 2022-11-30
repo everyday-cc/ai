@@ -1,36 +1,20 @@
 ---
 category: news
 title: "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption"
-excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio"
-publishedDateTime: 2022-11-24T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b"
-ampWebUrl: "https://www.benzinga.com/amp/content/29852870"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870"
+excerpt: "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period. The major opportunities for the edge AI hardware market include the growing demand for IoT-based edge computing solutions and the rising adoption of 5G networks to bring IT and telecom together and dedicated AI processors for on-device image analytics."
+publishedDateTime: 2022-11-24T20:44:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/24/9719518.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/24/9719518.htm"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
-    excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
-    publishedDateTime: 2022-11-25T15:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "nmz0A/VzdJ5tWbGobcLGbluyrrzPPiP3ZLe6yyqGLxH4jeHCZdN6rgb8UiGmnpskJCt2/CrmdBTX6szZixHfIz6mueAKoERAtAUrM+3whFMYiuEF2enUb8aOJPxo4RTkXXv1st00L9R+EJ8uWnQUZAT+WKEzNHRCyA+hhXm/ZnuyAYzpqdZGq+nn+TXeuDBqotBD9H4xJQCiPH1no5KH/mjeZfwyJ7NKNdFaKZftUo6J2H6AqdK6xox4lbfPFiuuMT7NmICiirxfEWn/CH0cGy0bUn3u4amDj4bFh0/h1YXMcLMmOXP/eeU8eibC8bmHxuJme6ukceqXPMOjjSWfh1dYVtfjYV9CCHI2NdDeX5s=;ICh48yAzW8PpN3lwnEFazA=="
+secured: "v4J7pnG1myY1aL/JnAWWHQU8Y6XYcqO0oka9hIfv7KC6XYxwadx8baGwrIghE+RtH1Jra8pdp0M9ThYWFlXIz4uPerXJsse+mPcDtp5D5Iz2rNvQmVq7sDrDUZiAXrjtjLAb/2CYwEoD9ptjzD7gM7dg5JWeFXFkTIabjXsxBrwW+2LW8OB76UJeTvtpIn9kiK5fOmJNXaVBO+YKm30QW1BGwotglESmVDA43hc+3ELZ2YIw/PWMYMtdeEs/ZM3Zj9soh/kri/GDnHUXXUxaX31buQa0yOHaoRYAA6vrETX3SbhEYMgqLM0uQqKen4lXHWRvn2y8CwS99IRBsjEWrJe0y20ZEoK6pgaGvcTkm1o=;yMcmphmipsZVyCxWc5u2/Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans
 webUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans-020200500.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "New Artificial Intelligence Could Help Humans Actually Talk To Animals"
-    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom — with limited success."
-    publishedDateTime: 2022-11-30T02:02:00Z
-    webUrl: "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/"
+  - title: "New artificial intelligence could help humans actually talk to animals"
+    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+    publishedDateTime: 2022-11-30T08:38:00Z
+    webUrl: "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
     type: article
     provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 37
+      name: wtvr
+      domain: wtvr.com
+    quality: 57
     images:
       - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
         width: 640

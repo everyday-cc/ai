@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/how-generative-ai-could-create-assets-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Future of Metaverse in the healthcare sector"
+    excerpt: "including artificial intelligence, virtual reality, augmented reality, the internet of medical devices, robotics, quantum computing, etc., through which new approaches to delivering high-quality healthcare treatments and services can be investigated."
+    publishedDateTime: 2022-11-30T10:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
   - title: "Creative AI Is Generating Some Messy Problems"
     excerpt: "A tense scene in the 2004 movie iRobot shows the character played by Will Smith arguing with an android about humanity’s creative prowess. “Can a robot write a symphony?” he asks, rhetorically. “Can a robot turn a canvas into a beautiful masterpiece?"
     publishedDateTime: 2022-11-28T07:57:00Z

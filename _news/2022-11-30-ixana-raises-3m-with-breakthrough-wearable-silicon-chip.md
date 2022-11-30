@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Ixana raises $3M with breakthrough wearable silicon chip"
-excerpt: "Ixana will preview its first chip-based reference hardware at the upcoming Consumer Electronics Show (CES, Booth #61305) in Jan 2023. Their proprietary chip gives them a unique edge to develop wire-free,"
-publishedDateTime: 2022-11-29T20:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ixana-raises-3m-with-breakthrough-wearable-silicon-chip-/2022/11/29/9721312.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ixana-raises-3m-with-breakthrough-wearable-silicon-chip-/2022/11/29/9721312.htm"
+excerpt: "The energy-efficient chip enables distributed computing for all-day wearable augmented reality Ixana, the wearable hardware company developing high-speed human-computer interfaces, today announced it"
+publishedDateTime: 2022-11-29T17:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29894151/ixana-raises-3m-with-breakthrough-wearable-silicon-chip"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29894151/ixana-raises-3m-with-breakthrough-wearable-silicon-chip"
+ampWebUrl: "https://www.benzinga.com/amp/content/29894151"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894151"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "UMGZvJtNHoOigEZY0RZHHJBwtKG6bdgEATiTrsYwvZYgz6N3oEPo013s4/zwBgq5j7sIgG0AtMweqVvXQOkQ8TJQScFdm1z1vU7jETc7PB4kp3KgiHcobk023Kwt0gYnaPwUu6tiMfenLjJbWSYrUNX4QJp3Zs20WfrUMCsrOQtbR8jbFjMxjNozj3f2MrTR1FlxYLYyBsrymGuAw5wlrrxCuAU0GPYcc0BogYLRcQXIxf95d+IKHgy5sOJsYktw2r/6pb5CTQMrKzehP5QKRkfHCrgYRwQmw5E6lP18mrAgydg1PDXxrc1cm7E2gtYfHBToOW3kCNpzUt2/YRT/ydXtr9nmVYgKLaCqfQ7AsHM=;B32/8NDNDuuinoWT1ebfvw=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+    width: 666
+    height: 282
+    isCached: true
+
+secured: "JNhXixNFJdzTwuNrk1chw0wSdGRs/CxRJTYm514ToMA55RF6SuC30ItvfpW7MLkjK6C15NnKKs+wAdq6y57/KLEgxMdZJeSzoqm9ZJYcbGA/z1QawzMj8GoO+HC/nVcNhTOR0GYMGomvi9UVwMihjYDo6CkvcxKbfG6vizTdZTHbM3Y7MsewNdqW+RpRR0mbLD/kZUgDelkoYtoOpAZKeUmlBffaoK7Lbc0ySwP2KIDNRpS3IjT5EpZxTx6aGPr34lxK8GUtzEm7lH72esyZn7SepZVvYZkCkXm7rBkOIHI00kBRiqS3gXkowT8joTUftR2WJTjirpCeOHwO08raiIMpAQV7aBFhqkxWaHx0TuM=;+LPfcGTwAT2J8NcjVUoILg=="
 ---
 

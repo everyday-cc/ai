@@ -24,6 +24,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "The AI making finding and repairing potholes quicker"
+    excerpt: "The system, which uses a bumper-mounted camera to detect road deterioration, has just taken out an award from Amazon Web Services."
+    publishedDateTime: 2022-11-29T18:56:00Z
+    webUrl: "https://www.stuff.co.nz/business/130614761/the-ai-making-finding-and-repairing-potholes-quicker"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 19
+
 secured: "p/foNNwpOqanv0u8X5aRV0YvtmzAuqBws0O28gEKHzLoJDCCN0gvPZ48Aei0k2x9vEjxfPqVv0LLTvIWEYiUOU7tKV0IzLpfFhg4rtO/oQ4/pPHIC9dPqUtVZ9/dPICamrFVutyzBBVOk0GPL+nZuvZE2lHmPA5yxS837fja0Bp2Cl0NV0X85r4wMYxWwMuGgz3Feeasc32+6cV5SuKntxu/3pBfm0uZGKDUszyS436oKyMFJyLYx8R31guj66+WF5ax6dPIN73i9pouCRUo2VCRhO+jH0c0pG3xjcsXIcVCfFh2UDAnNpnVvDRwBt4cZ17/7kIHdDZnOMLnszbKb6Ge3kM9VDwDV5mH5nyMmzs=;qUI6cfyrkFwp7bo61pBVtw=="
 ---
 

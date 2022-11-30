@@ -120,15 +120,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "GM’s Cruise Launches Daytime Driverless Rides: Video"
-    excerpt: "General Motors’ autonomous vehicle technology division, Cruise, has announced that it is now conducting fully driverless rides during the daytime. Previously, Cruise was restricting its ..."
-    publishedDateTime: 2022-11-25T18:20:00Z
-    webUrl: "https://gmauthority.com/blog/2022/11/gms-cruise-launches-daytime-driverless-rides-video/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 19
 
 secured: "+6Be93E75AxtA1O8/JME33iAYEP0VCVasuVsA5hw3H4UO6Lnbef6AY8kghqelcpXZaRPamM/mog5/z2gsXIGQBhzc2BExbsD/vFl4x+OUJ2FnS7lG06iYlqe3unVRQVgiW42QEX6ef2GxdFP09fcclWKbHjXENrYOeNQFfJkkDDJaa3RAjhvCg3PV0tT0yig+d2y7gdDeF6A5GIHTXW0kD2ntELxwgsE7+1susHPjHR+UID+dN/HaXPZjMLeu2D9nZWqNiNGUxTBX2tKSDWXYZUCMh5U2xd1a6jACQBtJgsbJMZz7xamtFRFx51Zr2+0cbRROBQ0RkWZcXW5vv/j4yaoJzLpBasJQSGv6Hyg4itJMHdRI7nKe1306WPuqg1r0dEIX2RNIn6gdVoKYlsja8rqs76UO3yahcY4yKClxmXyZhRB6jzpuBYyfR8adRe8ek65yrYBXuNbk+UoS3E91fBP6XnWQ2glLkodUfnTjBJqKnKptH4bJjTuaL30oCpeKf9EOAYlGdtXpDYuUxuh8g==;g865BrIEoXovY3DIw+n8/A=="
 ---

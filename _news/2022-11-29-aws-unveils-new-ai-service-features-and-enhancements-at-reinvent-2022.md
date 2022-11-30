@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-s
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/04/aws-conference.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Ahead of re:Invent, Adam Selipsky hints at the AWS next-gen cloud"
-    excerpt: "I get these questions a lot these days, so recently I sat down with AWS CEO Adam Selipsky at his office in Seattle to talk about its business, his vision, the new focus, new announcements and, as I’ve done with Amazon leadership for each of the past 10 years,"
-    publishedDateTime: 2022-11-25T18:21:00Z
-    webUrl: "https://siliconangle.com/2022/11/25/ahead-reinvent-adam-selipsky-hints-aws-next-gen-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/selipskysmile-reinvent2021.jpg"
-        width: 4847
-        height: 2993
         isCached: true
   - title: "Teradata Showcases New World of Cloud Analytics at AWS re:Invent 2022"
     excerpt: "Teradata today announced it is participating as a Diamond sponsor at AWS re:Invent 2022 hosted by Amazon Web Services (AWS),"

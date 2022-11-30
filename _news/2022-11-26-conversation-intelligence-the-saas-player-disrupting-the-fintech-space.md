@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Automotive fintech startup secures £26m investment in Series A extension round"
+    excerpt: "London based car repairs payment platform Bumper has raised £26.1m in investment from its Series A extension round via automotive… | London | Transport | Industrials | Funding | Fintech | Investment |"
+    publishedDateTime: 2022-11-30T10:49:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/11/30/automotive-fintech-startup-secures-26m-investment-in-series-a-extension-round"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 20
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/i4w12hOc4yQk5GrpMvXKufiRFlqV9KjGKY0iMUjf.png?w=1200&h=627&fm=jpg&fit=crop-50-50&s=9dd1f2f9f7d4d16d6c28eee2e1cceae7"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "TechSparks 2022: Growth lessons from powering leading global ecommerce and fintech brands"
     excerpt: "Rakuten’s global ecosystem of more than 70 diverse businesses and 1.6 billion members, serving users worldwide comes with invaluable insights for businesses looking to scale rapidly. Hear first hand from the man at the helm."
     publishedDateTime: 2022-11-29T07:02:00Z

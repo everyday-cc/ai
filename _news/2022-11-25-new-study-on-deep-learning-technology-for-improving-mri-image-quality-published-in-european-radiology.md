@@ -1,27 +1,20 @@
 ---
 category: news
 title: "New study on deep learning technology for improving MRI image quality published in European Radiology"
-excerpt: "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D"
-publishedDateTime: 2022-11-25T15:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873"
+excerpt: "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only."
+publishedDateTime: 2022-11-25T15:15:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/25/9719669.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/25/9719669.htm"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "x1NCYlZWupaqxoNzSaFAJubhkZrg/Y5X0baVR9O1URyQlTJwP71Z876ptjokcrMQR8DQ4zy2+Qf/FVpBO27ELEzh1FZeNAIKahgO1K+sMDc6gK9FeLdwukbQyR8OaVim4SvQ5poxw0XUez14FsPh2vz/Gq37pLA3a6xNand0PAY1RhFocM9JLCaFynExEL9nEHLxcPcfpi1NyyGV7hGAgUBXUmpOz5tTD9BfOERkko+3seH2NmXco8PP4eV8bfGejusmR8ZOX0v/fOPyDIhtEVFjxytGqJp3zAGY8ZXcBKXVnjOpXxyeZj/qPdSZlaEXf15x9TRd0NDO1wkDf70PUzpOTUTbavO68zWh71UXMQo=;ZihyOGz5J0e1sExKuYorgQ=="
+secured: "6HDNRX89qRsPofRyHhdL7kzTZXQujeIlL9a8FRLwq1rn4R1S9lBpkqgQC4Nk7b5jHl+cUqBfwlnm5FJBKHBKnq6TXhVWNxmhQ7fGOi6m7ZtQp6TdRMkhqoxSj2rimGMCiqUcFewl0kuxTnYqRVnGRcQnoN7R7Rhi3PAlwOUlOh9Z6h288vBmfaDqoi3Tk+hEOvTf6CiSPZPeKFN8WnJHIbr5M9jNSzfzXtXioG+i0WAKGo6WxUCjkudWZe3usNVsTanM9CXr9J5udswXd6YHF86xar8RFouIVcKiwkRXGEI6xeZyGP+mhETptI8XrvbzrPBYtHnZUbHYNs1JZUlVIYhHYXUQkiGIwd4qk87BBas=;RzWfUy3YVEkePgtC52EmbQ=="
 ---
 

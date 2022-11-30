@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ahead of re:Invent, Adam Selipsky hints at the AWS next-gen cloud"
-    excerpt: "I get these questions a lot these days, so recently I sat down with AWS CEO Adam Selipsky at his office in Seattle to talk about its business, his vision, the new focus, new announcements and, as I’ve done with Amazon leadership for each of the past 10 years,"
-    publishedDateTime: 2022-11-25T18:21:00Z
-    webUrl: "https://siliconangle.com/2022/11/25/ahead-reinvent-adam-selipsky-hints-aws-next-gen-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/selipskysmile-reinvent2021.jpg"
-        width: 4847
-        height: 2993
-        isCached: true
   - title: "AWS Introduces a Flurry of New EC2 Instances at re:Invent"
     excerpt: "AWS has announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips, as well as several new Intel-powered"
     publishedDateTime: 2022-11-30T02:30:00Z

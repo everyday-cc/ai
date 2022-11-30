@@ -28,47 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "University of Southern California Launches Center on AI Research for Health"
-    excerpt: "Researchers from the University of Southern California launched AI4Health to enable breakthroughs in ethical AI use and big data to improve healthcare."
-    publishedDateTime: 2022-11-28T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/university-of-southern-california-launches-center-on-ai-research-for-health"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/university-of-southern-california-launches-center-on-ai-research-for-health"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/university-of-southern-california-launches-center-on-ai-research-for-health"
+  - title: "U.S.-Backed Researchers Use AI to Probe for Weaknesses in Drug Supply Chains"
+    excerpt: "The U.S. Department of Homeland Security has approved research that will use artificial intelligence to delve into drug supply chains and probe for weaknesses, including foreign influence."
+    publishedDateTime: 2022-11-30T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://images.wsj.net/im-675403/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Is ‘artificial intelligence art’ really art? Yes, says this California gallery"
-    excerpt: "As artificial intelligence becomes increasingly popular for generating images, a question has roiled the art world: Can AI create art? Let's discuss the issue."
-    publishedDateTime: 2022-11-27T14:00:00Z
-    webUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/"
-    ampWebUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/11/hypatia-h_eddeec5a39f505f7c29f640c14b1998d-h_5443a445c179c9945d1e14bca24f1eb0.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Deepspatial to use artificial intelligence in aiding University of Southern California's healthcare policy research"
-    excerpt: "Deepspatial Inc (CSE:DSAI) said it has formed a partnership with the Department of Population and Public Health Sciences of the Keck"
-    publishedDateTime: 2022-11-28T11:48:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/999572/deepspatial-to-use-artificial-intelligence-in-aiding-university-of-southern-california-s-healthcare-policy-research-999572.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 27
 
 secured: "OWuTBTQ8u+FPj9WFo/tSOTuNR3RqfeUvVWqXFP5OF4V27d0EVNXfRl81vr3B7Tz0FsREu9HdnHJPiP+B3tHHUqhzIybW3rNh3/2O7eh4JkovaWlhVaivsVseEuNxu95q8rW3aYyaueF/96YcgngszOTwQd2zzxc4OfGyek2lMLK5XbPenllh96bhf5JOgkbRiDFVSiL9w6A42cBNaRXcm4jjT2onr89JL+z9FQiUeiORcM9rq/69SipTDtFz/gqNsbSNWPCCluU3vzvDUNEcwf4P/AtJCDG8mWQ6UpVLqexelsAUx4pcUh7+QtY+jzTcHNs7e4ChHVIFGBXcaX9AfRFRqC5K3/gQfcAjNIyJCtVzm0zOLse8M0ZbvhUy+F27VwlL+U3vKRLBt5i4qx3+DrrrU6zQXD6z2imX/f0QMzYIFYe0izLwtotmawWru7y9aBt8y5D39vBGGVMIKhm8EMefNzO9m+XeMajYsoEce3bVELOK2zCj3eOF67XYMRAOzD4Iz5Sx2r5y3M/ZFEC9xQ==;QrUSfJNQwoGhXwGSgzlwng=="
 ---

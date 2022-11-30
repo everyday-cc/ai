@@ -99,20 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028"
-    excerpt: "\" Automatic Speech Recognition Market \" Insights 2022 - By Applications (Robotics, Interactive Voice Response, Video Games, Home Appliances), By Types (Speaker-Dependent Speech Recognition System, Speaker-Independent Speech System),"
-    publishedDateTime: 2022-11-25T18:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-25"
+  - title: "US Digital Insurance Market Report 2022: Growth in Artificial Intelligence (AI) Services Applications Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The U.S. digital insurance market revenues are forecasted to reach US$27.72 billion in 2026, growing at a CAGR of 20.70%, for the period spanning 2022-2026. Factors such as rapid urbanization, growing smartphone users,"
+    publishedDateTime: 2022-11-30T09:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721584.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Wlh61516CJmu7W4iL5JW1vwIW4/yWFuJg/RZ090Wnb5YAeyGq7kI1kuyqsXZYpUO+bfN8JCBcW3tw4RkOe0BkRdWFVV6mzZkL38k5d7wv2D2tiOFwHS2y9Eqa8VSGuiKOshB7S3kAi64JJZn/H7wkD+R46jng3DbSvOnDteSF5wQkpRMsFLD66QZDZYhYjU+SRZSnuRiLrRSz00Ly6AffEeYwGlAnQyx7L/IFU4EdMZMZ7PnXMUl+mT+3kiBDbciEIoiaNIdrYQ3xe+1DOKTCid6DsMy2L4X9SeXktvVWki8Zxk1hKGWtdyTVOigEJmcoTJciSLq6/wi2zDWv+utWBaxZgOB6q0MH6wIxAH32Js=;mZD/cdwKdXhM7Xw6BY4Lpg=="
 ---

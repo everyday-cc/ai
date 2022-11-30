@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverle
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "GM’s Cruise Launches Daytime Driverless Rides: Video"
-    excerpt: "General Motors’ autonomous vehicle technology division, Cruise, has announced that it is now conducting fully driverless rides during the daytime. Previously, Cruise was restricting its ..."
-    publishedDateTime: 2022-11-25T18:20:00Z
-    webUrl: "https://gmauthority.com/blog/2022/11/gms-cruise-launches-daytime-driverless-rides-video/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 19
   - title: "China's Tech Giant Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
     excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
     publishedDateTime: 2022-11-29T22:00:00Z
