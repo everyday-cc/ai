@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/news/business/business-reporter/ai-t
 webUrl: "https://www.independent.co.uk/news/business/business-reporter/ai-technology-nhs-documentation-speech-b2235129.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Amazon To Warn Customers On Limitations Of Its Artificial Intelligence"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-11-30T18:31:00Z
+    webUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592"
+    ampWebUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 61
+    images:
+      - url: "https://c.ndtvimg.com/2021-04/ge98cqb_amazon-generic-_625x300_06_April_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "5+IkYVjEN8QoZxnMrxTsUpBl9Xe0nQXunajentGkWsuIKpu3crFJUm1k+TU6KLqsUymixlccLR4WhuwrCYZFd4eOlUdqVLQ0pW558R+DYprDxZvHAl5L55ayz9WoKo+TtC2OKi2evNjP0DrCP9D8YvRk6WxO4T3VYQkejQuDTaKNQ4kFK8gPrMtNvKjyiuZWkVXNeynsAzohuYviw3Y+Ranbiets+mQ1UFSzHPd7F/jjLk1r4reNuH1M0ctxwCA0YsWGezauVsiPaxdR31eTJRo6lu+rRzvcW0DBTN2O8b7OdkAe8fZvoeNnaskxDQgkj/TweqBMJUGO067o6iC7Ovzt/sSMkt2Lrz/9sWz+h0M=;Tejt+Ri16UsqvPIS70D/zg=="
 ---

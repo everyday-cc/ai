@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "New machine learning fusion model for better diagnosis of ovarian lesions"
-    excerpt: "Although ovarian cancer is the deadliest type of cancer for women, only about 20% of cases are found at an early stage, as there are no real screening tests for them and few symptoms to prompt them."
-    publishedDateTime: 2022-11-29T23:28:00Z
-    webUrl: "https://www.news-medical.net/news/20221129/New-machine-learning-fusion-model-for-better-diagnosis-of-ovarian-lesions.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20221129/New-machine-learning-fusion-model-for-better-diagnosis-of-ovarian-lesions.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221129/New-machine-learning-fusion-model-for-better-diagnosis-of-ovarian-lesions.aspx"
+  - title: "Sampling and pipelining method speeds up deep learning on large graphs"
+    excerpt: "Graphs, a potentially extensive web of nodes connected by edges, can be used to express and interrogate relationships between data, like social connections, financial transactions, traffic, energy grids,"
+    publishedDateTime: 2022-11-30T17:07:00Z
+    webUrl: "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 58
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Ovarian_Cancer-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/sampling-and-pipelinin-1.jpg"
+        width: 396
+        height: 263
         isCached: true
 
 secured: "MhJ7cB6+b4jOAk145gpdAMHskGFMTbsdL4TmKLTey4LdqQj4DZHSsMuCZztaNFnEO1qiObhfvkQhkKnPxcEZ1/Re7bP1LTRIvR1SL4q1lhgKVSErQuJ5hTYVp1HMJFy+7pWQqpciP/Y3kgYW2COI1xvJp2LgQKMt1yu8MMxfCQ/HpBl93oS4n7RisQXHEhGLnvuiMRC/n42KP9VdyhEgTmP7BpJdniAcGqiOELeCxNTQWGiGeZYz9K+L6oWvL6G8iVSDu8S+io2ZqIKBIb1MNOM/N9dZIxsvKeIZ+rB/XBsywKSwhRhTldjKVf0wXPxCBfUWsGlcq+Mz3+0f59j4dp9OA76CmCRoadA4zYvP3bgTYaNmTt7ZuklMNNfaZMj5msnG5wk7HxMNntUrO6SGM/C6XNw8bLCiLLGF4jGort4miyDgVF/fjwEnTSkRVLNgSxue/ZYkVRJIuljsgZEExkq8L7YjUo2u1tS1rauToNxiFpBsxCagMNCFMIx08dW/cSXsSZHYEE8dXLFwJv1FHA==;I6DnDe5AN/cI3NdwSRPp0A=="

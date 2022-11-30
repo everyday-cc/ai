@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20221129/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221129/New-machine-learning-fusion-model-for-better-diagnosis-of-ovarian-lesions.aspx"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Machine learning model builds on imaging methods to better detect ovarian lesions"
-    excerpt: "Although ovarian cancer is the deadliest type of cancer for women, only about 20% of cases are found at an early stage, as there are no real screening tests for them and few symptoms to prompt them. Additionally,"
-    publishedDateTime: 2022-11-29T20:18:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-machine-imaging-methods-ovarian-lesions.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 14
 
 secured: "7KHmjJ3Raa5dFjaiT1QsFKCcDyE/vJiLsLpKeQoNEErUwHB0OTGzaxHb1S2XXNj0pN5HkFI03qP9T9C8YKtFoYzMwYrN5MB7ux+zpWDyrxwCWfaZfACB7IWNdH7d71RSwqoQVRhB0ysa59o7etqkxZdjJ72sG/guKpELy1pPh0mIkjumPYSNuJzoLj0G01uQzmxK8NZLGGKDIFEVpY9rkL0rbu12nZZM8r0Ym/v0kRGKvn9bzROu5oaJqdAGsVpvW1ijzjkmEQNaVsSghXcEL0LYWNomoTFkDVlKNzLscgtnskpMXHKOy4HrkwvT/QFqOSDYDer5pCjvqWRNaycztZtY1xoB2ztxj7GOm86I14DPBJaPZnwlOFFe5KV4J9NDHWep9sxrMCPoafsELgVqWrNFmVxj+MIGFLn5eAusj0ik3YLXM8lrA6BmLfie8lLmVssYHAQUoIZ99PlocQTjqWQ2xKUzG0/S6enRxA8ceymz/G1d/tBCUCCG3XA08TBPaomfkUqHfznT0ZW6nYSoGg==;PTJi3qtZ/Vt88hOsYGHeaQ=="
 ---

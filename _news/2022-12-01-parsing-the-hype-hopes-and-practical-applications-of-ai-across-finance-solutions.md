@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
 type: article
 quality: 68
-heat: 78
+heat: 80
 published: true
 
 provider:
@@ -37,6 +37,6 @@ related:
       domain: techxplore.com
     quality: 19
 
-secured: "R2vqBoWdDIg+WxivNOvLxHksFRmB/I/IyjeSK69ZR+6nQLfX6ot/U8A2+KZsCUjtoP6Dr21PSACpb+qNRjK61nrShirInJK2ojEZw5nLdJ1TBu4l4JDCi8ZgiV+z4Z5ezerVPe8Jd6Z7FEJIwJ5mVJ/at3RZkaq6fxS81qoDwsVeZLtORcdO5wAuqDRBIMfdUTwTRV4YdpZTTApObagNB9m7jxzIe+FLNJ1UIxJ8KdbABq7RNsz9zi21Qi6yRLJWouAc/DRhA/7u2hMM8MbDMQ5XyGnyBRx9fy8Q9YhIpuGBzSi40lzTKmbCR5NDWBPcMt6l30eSsCZgSTt2xYsJYwge4J8bGM+wTwubF/68en4=;+3sIn7WbsD2WUONuHJizxw=="
+secured: "7r6ACrrLp0ufgC6yp+orrwk6cAHDuxsfD4l7ie103bqk4/Ld4yVSQEndxEPJFiLYl03RGe/34qfDTYCym+PGC2vAOqd1GgBI1f+ixazOX9UXProEbjlyrOH1P48uKVbYg0OQNsangvcOQnGu8MWKZ213kknt9AjFWWNi0idlmn2be+2DMiJ1DKdKUFO3tDWDXadOypEWk7Wr3Az2PNAp74f8N+4bXaw1urC5K+JCSXRgSCUDBu8tM1jaZwMS1ZpbxMXhKgYQ0o2G/uvW00jf1jGk/PhjYBx9ykJzHJoia4mCLUSyp7Mhs0cHIwSG3D6/u1Q5o9ChUkYPQ8JdGM0g91He5Jwve/ZzB5bn4mJgGqwQEJDAonzZ8hJVG1a/wq7Ti4tx7ag2VmBVBcX69upDWgycLcs1ePkMaT1rk2QPpbyjOh6K06p91EqNV1o5jL+kkx/J6eI2nZvJtSLKYRl0afXLkGI8oKfVEb7WieY9W1HMXwNAJHLL0qy2kOlXZqKVsYuR2DQxh4ogE1aPjJmtzA==;2IVObNXoFX7ybMyNnBEBLg=="
 ---
 

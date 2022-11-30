@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "Digi-lending fintech getting future-proof"
+    excerpt: "Lending digitally is still at a nascent stage. Fintech companies collect the data from multiple sources and use analytics and artificial intelligence (AI) to derive insights."
+    publishedDateTime: 2022-11-30T17:59:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-editorial/digi-lending-fintech-getting-future-proof/articleshow/95893904.cms"
+    ampWebUrl: "https://m.economictimes.com/opinion/et-editorial/digi-lending-fintech-getting-future-proof/amp_articleshow/95893904.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-editorial/digi-lending-fintech-getting-future-proof/amp_articleshow/95893904.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-32504,msid-95893903/12.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Crypto Remains Largest Investment Sector in 2022, Outpacing Fintech And Biotech"
     excerpt: "Funding for crypto developer teams in Mysten Labs and Aptos Labs have lead DeFi and Web 3 deal-making in Q3 this year."
     publishedDateTime: 2022-11-29T11:34:00Z

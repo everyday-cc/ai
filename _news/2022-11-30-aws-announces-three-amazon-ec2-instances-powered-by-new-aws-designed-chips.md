@@ -2,11 +2,11 @@
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-publishedDateTime: 2022-11-29T20:15:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+publishedDateTime: 2022-11-29T20:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
 type: article
-quality: 19
+quality: 17
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AWS AI
+  - AI
 
 related:
   - title: "AWS adds machine learning capabilities to Amazon Connect"
@@ -114,6 +113,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AWS Announces Five New Database and Analytics Capabilities"
+    excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
+    publishedDateTime: 2022-11-30T18:04:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722273.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
     excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
     publishedDateTime: 2022-11-29T16:17:00Z
@@ -124,6 +132,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "Xgvz5xo/RHzNtpwWXgqK7AQUzZCNqTEC3hnJtTE/IQJ/OdR+Lj5EGyuRp3qgpey5OIHzAV2yXoOHuczr52jcWklSe+71pscB2IOH5FRVeAPYt2Xc5jZO9VtRJnABCbOJ7UBcDWD6iBBl+AJMV8BqPKZyHBhzpOW2vNfkkdfxTOBYViQ1HogdE6cG0tk+uBBkmVyr1AIP0pL8OQtElQDMJwxV3o9q99rqz3bwt7dDCxxT8qEk8Mkz+78OFm7rGvqvbZ57K2vxmuzG2Kad6NxrhgMQMsWnDuKC/aahW/quR1YIxXmof4ZMfPRfMSDy6cM6IyjFEDRvQY2Gu3DrvGGH2Fs1GpUue4w+Y6mj+BIwGHG8qjLxX7utOASR+HXEDHjkBSBvrNhnw9kWPL5mIZauKv10W1Q//Jab7iaqERpf2t4q5bIyN+y3SNCjQAevQFTEvIfso0FZkdR0WOl3W1ONguTIWOsDGih5x3u+chAo1GyuOYmRxPtw9ikx0aaAk19OvVVaoyDMN89/Z40PPnSOjA==;spkqeGnA3o927VKrsHGD2g=="
+secured: "ULSqUeSeZWm05x90m5eX21jLLFWEQk3lSMHFVW93dAiW4bRSklI6ziC/QAMi2OCErS29c7T1rOPbsCV7I7W/1Hd/GUMOmMXn+esGFj72KPeqGTxNu7qDIAVqXZkfDiooGCWCit3Q+Jz4BbjSLEoTDKLOfJE5V7RxWRKDqzZodNWyu96tE7KyDanDTG2abVCJStzkKIMJU2rDDNJe8xx7oC+j9zDuUIzXxD6RYHK+q7TarK02urad0k4xT+QPnk5eUJ01s3vAd1F3qFoq/eVUcPxk2arvc/+jFTEkw6F0U0+I9528/I+L9EKRnvubAbQopdRHObeqlnkt5kzJYPBlUAOQWKHjzC7H8rYldiApWu9hehj6Ym7B0V9rM2xukYCOsxa61EfcqvvTisp8WyKA77imJeT3GDvLXjEQLa4Nhp5sEX66jTOopyXkapW0IAdv7nHbwIUehY+0DLZGpGrapZxkJsvJI589yuPQYiJsBA9QT72sdAGm+fG8rmaVMJOuyQ8au9yTqvCBRLbcqjO6BQ==;b+3kBGPOOiJkJ/OPGbmGuA=="
 ---
 

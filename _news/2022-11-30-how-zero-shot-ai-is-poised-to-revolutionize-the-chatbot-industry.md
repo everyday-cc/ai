@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-sho
 ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63876f7248308995a1c8a8b8/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "hikHLi0aG1pBGOix67jEWAsBVDO1HVmMQ2rq7/Ps/bVaLsUdFpZDK1Ketm6CJJ5YZAq5HWGDYJhSsE/+CtmjYwoX0757anHFQ2xduPAT99FfvAtfHmlOK9icigzvWtgL3HW0j7FEWpaLeTnwN5c8yECRZtNvPeVxkoifAoxWbAt36Tn9dgiFH3VzHf4e+dGltKeeLvN5GI1bgJLaVdCpSQnDntoEQko+dype9bZwg1h4R/rJKX54EcjH3MbnbZ0N/Yki6+kR/fc72DylBumw6BDT4FJA/MNMWYMFrm2slhk6rqDXA/6g/KQ06TTY5YVtqsGAOO/y5pBCK3gkSsdSmZFUqjZcVf2XQDecpZxPxvo=;KfCA/g2Rg/u9g6HJCC5daA=="
+secured: "pBQ7hsfx7imjVN+KyVEQygayxQVgo45KxOc/FeKy+a2S3h52czm20+riZN/TBxhi+DRnJ76aVoeh8M11QlS71xzxFk7XyNPzX9UpucH4+yXrclQtjRTq43jHrQJekX1Vlf1IRqSoAWApipzVMjra31Ntjf5vAflAJRAMmA84IDsH/66KXcw6dpC1f3QiOle11WG04rl3MT+vWDyoqt96Tc22IXkysD4/6JMqn5BDdjwsbRKheotZUii3KIxc0OZPe2CHTi+K8H6oVIklz8iNp8mFsz7QKHOPG/cKbEN9O/Fq07VCKqYze6Vyc1pKXve77dq17gKCkBjUkA1jGn1kHum5eD7SVODuFHBycluxQ1XqlFG7dwBynaR+3cVRrl1FxuqkaahQwa8hYFNjnhBSsB7Qsn3qQfIMKEA7/FHodCFnt0WGO2GAQ6p/AyJer4Pu3TWRzk24hQdr2Kb3/parnleHU2HK8frfAwWYCrmJVCQd4HxDXpxfOHgF/JGZ+sMk7GNoqXHuSPUQRJHW8k7osg==;RTsOl61POps0hVjlchgseQ=="
 ---
 

@@ -45,7 +45,23 @@ related:
         width: 750
         height: 378
         isCached: true
+  - title: "Honda developing advanced Level 3 self-driving technology"
+    excerpt: "Honda said it is developing Level 3 self-driving capability to function at any speed below legal limits on highways by the second half of the 2020s."
+    publishedDateTime: 2022-11-30T17:31:00Z
+    webUrl: "https://www.autoblog.com/2022/11/30/honda-level-3-self-driving/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/11/30/honda-level-3-self-driving/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/11/30/honda-level-3-self-driving/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/928x522+0+97/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/11/30123044/Honda-Sensing-360.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "mGZzO6aoL4N6umlhIYVne8F1S6iJEodfcCS4n4UIB3yntIuzxsfUM0Qx8i2iC/F1z0dgP1DNcT8XlHwWGz/772dcPmB+D7j6Ki01ppgPH+siQXFCi1qRZHRrxeMXjANexU5gOG9KpFVqTz8cmrJbMcss/FBe3hLncsKxZU7sSACp2/Y2oySnbB9ZmiIhjeHFdNMegryD9cJxpvopqbFf5Ax7kAvanf9ACXr/OrTHGTXfkTA2e8gnfNgOzyQdXxnODZz13m7dzNy0fiWLyWCDsUWoGuzqEbxtkzvZMkDejGgCRswwERbledSo6HYX95l4y41N6IPVzFcQETzg6WH9y1rLXnVlr33i6L//bWQgwQU=;IQU2qIqP4JxHvOEm5taXKg=="
+secured: "Ug46hraPA87t80OJ5Q7uIZ3OIx4VyzSEnq6dFhOW69TacGhE+BihdeRvQAn8bPzrkQzQzlDWedLllBQcuTMH9GCOIC6GpJPH0NfoEYBWAtrZpxUNP5e+hV1uErGpbR69drQ5xeYiksxORnhVkHOmiM+yrfa8hRSN//4ybNOQZeojY8+A3HXr7IL0oWz6HonSijpjf/vU/goJr8QSpfLR/iceDUAKEAOcQny8kRT3/XuTAqg+cOkijewKaqiDliIgtdFHoG/JsZylSXcqIUJVkllWeKYaQ2qnNtvsJRZVFKuQTfHQ6sGmCFFV8gpOHNXeOOEwOqLstgAUZ52aXWmDM18AEgtNFBLOBp9SG/Eg69N6+Ixpn+XpFagCW67+Jue0COncP41GM/CuHxP1TH9sFgToaBexy/tgLV56cMKH56pQ4Gmiq/s7Kdv0QPsNzAnzDIVQb29DXNAiubbgTUXyOal2PlXBoTGqQRj/2Mq5CiwCJQBFxKcljjc1U3l8kriT2ncX4qkc3X7aO9CTDoxWyA==;f2n6VcZxbvBVwv4sXyFvSw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards"
-excerpt: "Quantiphi, an artificial intelligence (AI)-first digital engineering company and AWS Premier Tier Services Partner in the Amazon Web Services (AWS) Partner Network (APN), is excited to announce it is a recipient of two 2022 Regional and Global AWS Partner Awards,"
-publishedDateTime: 2022-11-29T12:51:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9720600.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/29/9720600.htm"
+excerpt: "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers."
+publishedDateTime: 2022-11-29T13:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
 type: article
 quality: 19
 heat: -1
@@ -20,14 +20,21 @@ topics:
 
 related:
   - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
-    excerpt: "The AWS Partner Network (APN) is a global program ... eliminating friction and improving the experience of citizens and government workers using Artificial Intelligence (AI) SaaS Solutions. More than 5000 caseworkers across 8 government agencies in ..."
-    publishedDateTime: 2022-11-29T19:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102"
+    excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
+    publishedDateTime: 2022-11-29T18:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29894595"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
   - title: "Spark Business Group Awarded 2022 Regional And Global AWS Partner Award"
     excerpt: "Spark Business Group is excited to announce it is a recipient of a 2022 Regional and Global AWS Partner Award, recognizing leaders around the globe playing a key role helping customers drive innovation and build solutions on Amazon Web Services (AWS)."
     publishedDateTime: 2022-11-29T01:10:00Z
@@ -49,6 +56,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "8RQruqmx9o1WC5dsUkgIJhFNalSrgYV+4BSF+EHEbi/DKgcLhS4GPf6lY2MO+xI+Gmd2mYmAC8k6Z8JQMCpZrfiF3Sn4BOyLOnOxJ8F6U9KRB7Jmuq5rAHh/4uiyFfJJafDQ/cG8IrRyH3MLKpaxJI5V1jUUd7vARc398BgKpCrsriwkP+GzLG0SuNtR3m7PNxgr2mhRMfoFqC6brSPnk5DQSn2BO4npDyNmNtZlSDvnwTvyAEUg3LorDDUTs/I5WtdCr7jVO17t3ptecC/gSBetUa4VdxJ/44y2Q9dcLgADmE4nXiqmNy+iZ6QAWb+6W/7YBrVgDGwODX3ADWOrvUt3QKKKtzv86d/aOlzYRHo=;IzOWDDC/iIapYMkMgiEnqg=="
+secured: "7KOrQ2zTru+yNTArpDaIpT8yO0RbERsto9vwtgfHS7Z0EtIQaoVR0NK5Gp4zEHEfEeMhQgdztuZ0xGhi27JIfTe1+PXWGYg0moB+jTWRfAUm8C4KzZHv/G5aqCX53LJ7wL1kxmKGbNzweF+I0mcO6ZhwTcncH70pUaHd77h5w6PpVnfisBCcUlbR/DyLc3u0vZUmtU0We1IYI05P11H2epbEt3hNmjJDe4yFTud7byzmjr+c+XLUgqt+QMpZ4dySn23I2v/BkdanP63KVvoEnPSOku8W3TRC1vSybGBHG1qYMlfdb8yHRB7Q0otFq3L3MqnVEroHzwbaBEMo9WAMbEuBI8doapaLFddea/DPCKE=;5+TXnlTZFBuQG3tvU0t+BQ=="
 ---
 

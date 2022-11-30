@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intellig
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "4 Technologists Debate the Future of AI"
+    excerpt: "AI thinks very differently from us, raising trust issues. It's unclear whether AI is inspired by use or just copies us. AI will change the job market, for better or worse. Can we trust artificial intelligence?"
+    publishedDateTime: 2022-11-30T16:04:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Why the future of AI is flexible, reusable foundation models"
     excerpt: "topics in artificial intelligence right now. Subscribe to our newsletter now for a weekly recap of our favorite AI stories in your inbox. According to a review paper from 2021, foundation models are, “trained on broad data (generally using self ..."
     publishedDateTime: 2022-11-28T13:46:00Z

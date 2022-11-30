@@ -2,17 +2,17 @@
 category: news
 title: "NANCY BAKER CAHILL & SOPHIA THE ROBOT: STONE SPEAKS"
 excerpt: "STONE SPEAKS is narrative augmented reality (AR) artwork inspired by conversations between artist Nancy Baker Cahill and Sophia the Robot, Hanson Robotics' latest human-like robot"
-publishedDateTime: 2022-11-30T16:50:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1291879&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1291879&cat=PR News Wire"
+publishedDateTime: 2022-11-30T16:07:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/30/9722176.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722176.htm"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 245
     isCached: true
 
-secured: "cN2djJ5xwEGeKsmgAypkp+wc1Uh7d5KTFykjoU7Tx2fI353DmAKd6gfZTmkKx8xTNCeUnDfkSS9Ky3t8X2qNzmhJaXABbyZAS48ZLLFyNDRVZJlVRhp0REvsrgvAzrRFqOL3lXQj/b6UV1c3sgzbeeE8ZfNn+kAMR6xLMJmaQnsP9uQJ2erT/ZbtCcCOMYQiVdoz5F6tI0LRfoanT51ikI48toEndIXJBcIuCu1m9DbvP5gi4zWNt6fBAwBwLgVq23pQsHedMJi18njtdHMPbdUBc0SSOwiSSaVfG+pramueWJkMLR4gG9TgzaoXEMv58pf67c6FPQtASbGHyKaMrPCt3fZHYK3A2AxvbcLGnwE=;5gIloQ4R/HU+J+q6m0GBQA=="
+secured: "znCtVBO6WevUKNb7uuFZQWB3zbKYkkRdvpGxJkisKYEx8gT/LKa4Dw1FPcYfzAgf6x3YXaXGqoW72+kmzJ2/kBThrO+/+MqhaqvdqD4j5PIcJbiNjf4mWNDMRg/nC0Q2uFW2NaBXocgHXvpIIvSvcs++Nka8GSTwXnH11ViCqpwykT0iHrOazeVwUkebCPkbTcGj8Z170P8Z0T2CvNAYSGZIZSnjw/ukQlr9cB/fge4SSQyCEumvyrIQGC8vyrrXLaPVK+2RaRiRDxgpmdk5h8wf7t00ZeM53t38vgM1gatObL9d8xFRUxjdAqLWmYMfxXOi5sOWrcZP3+g8eslMrJdELdVs3tO/vJO7IyEjsV4=;2r3GxK10k94Ahmah/G3Qkg=="
 ---
 

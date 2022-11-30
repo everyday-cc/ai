@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-s
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Introducing AWS AI Service Cards: A new resource to enhance transparency and advance responsible AI"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are some of the most transformative technologies we will encounter in our generation—to tackle business and societal problems, improve customer experiences, and spur innovation. Along with the widespread use and growing scale of AI comes the recognition"
+    publishedDateTime: 2022-11-30T17:51:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai-service-cards-responsible-ai.jpg"
+        width: 1563
+        height: 780
+        isCached: true
   - title: "Informatica strengthens AWS support, announces new features at AWS re:invent"
     excerpt: "Informatica today announced new capabilities on AWS, further simplifying data management and analysis for enterprise users."
     publishedDateTime: 2022-11-28T18:57:00Z

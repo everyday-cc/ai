@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-d
 ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63840c971af0e7b9960b4382/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 426
     isCached: true
 
-secured: "XO/TBpcBnIiXfxayMOt/KDqvMgyUomErhO03dMm68B89nx2mw9AFLPiBKFYKQ2KzaZHWD8+5fpvJQuT1IwbTPgORoH5fW/O6X4HMztsZiQslG00HwTraTdxL45Dsek3Fq+DLYOUr1pE9cZptljo68Dxx1sdt3w1hnFBm7TeIX5uEPcf9UvG5ZXZPjmiPoKHrnB41LeYK2gpnwbtm9GeUu8oIJaJ6Fh3v+HvQcxtMnjk9n2OU3DG9avsX0vrhz8XpNNAhkbSqr2SpUJ6J7JrscFNrndae4KOICH2XWmxn1obPDPPxHnnU4KWfdgtVSfAtUKQdZBfsB1/jOw3jMmKv3+WmIhF2i+fYvQrQhcnisyE=;zuT2QF7jHY/BhCTi4HifMw=="
+secured: "cqnOHzWvRpae6T7iCDlV23TGrwjJaxDEIcbvyGOfwhn2TrkoTsFmYtVnlnOJjKCw1JFWRpn7ujUwKhkeKEPOSi5xarhaNiLOrVtlR34mWdoWCQv2aH2nLmUqwdKG4bqUFsh4YarpzTu3Tppg/yTbtTGkb5Wxr0gPnJqR+GMVCsDxdQg+b99s4MMc2ar8YPOsheSAcRcbXzaVb3DwOGoIyrJ9fdJrGescdvj32CW9hLNlV4lXghm+k++or1THPDpS3JdwAN8+WychyCRT2KvOvom4ZHiC4dI6RyGWHtYRHSdwT76bLNfS4W1jiDpxoAenigDKNXxwlkjZAW63/5N6n+514uA/LNYNW9Dv0EPMlsNLa1vY+xr7cUuV5OMA1Za52En9A1We5ix6oG/ivaBSmskxg5pnl7fm8RoGt5yGy1w8Tx7b1O1jCtuTWJXf+GklZX4oeDWnyxPgEny8Sev71FuyRi3/EPRyJ9YrHZTMCGrJrf0MRPRR7cpmac0dL5eXMslbp73QRFurXCSBv2v8AA==;j8TJq7r+6RQrh1cjNfONRA=="
 ---
 
