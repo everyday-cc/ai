@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "alitheon"
   url: "https://twitter.com/alitheon"
-  followers: 3616
+  followers: 3040
 
 size: 11-50 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "OxP3qvS7pqige0LELT0Qru4JxgXo+6DnP12v+rGGpvWfrWmMKhxXIvJFblEtABOdSeLM0nDLv0Slhl2rJZVfnmytijeRKOeboUwDsP/jyVPNwwTuzxLyWMo1VtR5oVqbr2q7axMk45cIDd8TVK9SSJdoiYtCd9oEJTeCof9dvyqFbcFF/QffSABGAxn6k6cpoK/hyQRzQQW90tXFRW24+DASa56geE6wDlzGiKeZuuBPLqW7ht/lqcUw/NSYhE+/R5SkyEhVQYmmBuRddat3Gc9wXpRzJUElU28dBgQu0sTdZLxMmPWXKdQVZwIGOUOpRCJBUT/26SEdK7IhmC1uhZrKg1PZ03146J/fJoJEFJ3HIPKaR34ow4lOFhER4w499W4cMI/GY0e4zLgSJ2S9qvLutmADLufLguunk73iESQ=;z+lsCzTEY7ze+0/3n6xtMg=="
+secured: "70+3Ho0soLazYk8zcYa8A/6jb0U6pq5zHWaDGFR/mbL6FdHLW0lLqmpSrlNdwaEplJ1LWxW09HEykUtVDLGeTNRjh1+HIG1FZpiHIUyymbg66Pobya2g5/IQ7FR/jn9wCYSQkuCpGxe+1YonbbArmnKAyhxQCiK0bE96d0YhvHwvAcqhjr7WSKKNLqlSm8hzJlVeX5AlhdWNx2IHKAL6MCO38FrqCBvOgdltLsaZlFv4EdMbmm8aj2QhJCtT+ka39+BZCoazO0wagF6nhXgJOTnvDRwMdAwmsujh7oGbpk5GkAYlYLz6OV5qpKMppLS6rq8eQYNaMQ9ZDjRLEoifKOB+WCQV5LP13YdZj26PkT6bej/ZymLYFontOdGGvUXMNTQNDUZWsfbcURQUvgZZ/g==;dkczL16aksizEFvBtB5f8g=="
 ---
 
