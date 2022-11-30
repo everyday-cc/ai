@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T14:39:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ensuring-clinical-ai-safety-at-scale-deepc-centaur-labs-and-segmed-form-radiology-ai-safety-initiative-1031944968"
 webUrl: "https://markets.businessinsider.com/news/stocks/ensuring-clinical-ai-safety-at-scale-deepc-centaur-labs-and-segmed-form-radiology-ai-safety-initiative-1031944968"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Business Insider

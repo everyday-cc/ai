@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "A research team at Colgate University has developed SealNet, a facial recognition database of seal faces created by taking pictures of dozens of harbor seals in Maine. FREEPORT, Maine (AP ..."
-publishedDateTime: 2022-11-23T16:23:00Z
-originalUrl: "https://www.stltoday.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_d4495b26-441b-5c58-a530-3a241a9c7519.html"
-webUrl: "https://www.stltoday.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_d4495b26-441b-5c58-a530-3a241a9c7519.html"
+title: "Facial Recognition Can Help Conserve Seals, Scientists Say"
+excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
+publishedDateTime: 2022-11-23T16:08:00Z
+originalUrl: "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say"
+webUrl: "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say"
 type: article
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Ja/XrEUpW4TBhq6Zr5wo2bnmq+w21nuISjQwn4DeuDba6+iazcQXMVNbZLqSZ/nOyak7kuV1Cmgr9Qf4xSWGJboZ+QD0i+ERxygoReD+ugYdDp5olSlsFIki0og6WCdNjdgYKSYGoQTJGUBdgpVI8ageHfGiTRAHyWWMRTUKr25dGAqrDo4162V73FNNQ5XmEj0ZdqxpCSOKSeMPGMgYEMi5gtAzpJQXuSjs79zI0kwXp+FHxDQc7ax+yWuKritF3xX0oyajrDyuuOm6SK8dcJLPVLz3XVouTsSp3BunsJK0Ab3D9eKc/omxM1ivr5xKr92Op81kndco6cYtFK5tmrfK/aaltxo13/R6RUDe+SA=;mfztn3SOpuB4HGiGcox+dQ=="
+secured: "MCFeJ8DNbgSjMGGlEizRQq1VGoREZEKJFDW0uo2+HNbtqButhry/1E+XKTO2y2yd71CoK4jJ6xCqi7EQOSntVyCTYxYSqVWKGM6nCYDmO/xSh0y4YTiUpUsKD1V2ZYdnCK/E7dowwxd/mk+vUOXYVQY4YIWF03ibGAap+DMPpjcVfcW8q84kFvpws3LWDXoDuxeKfioKmwl6hSJKYjEqk7giLT0SZ+2wtjIIAkQdHatU89SGZKgD7X4+tGt4Bo7FHfDljiQPlPyd+8FzEfIs87nt8mOi2ON7RWp2Nmk5cm7jOkEj3yJWxZXu4R66Ck1jOLt8hVWflQQsi7D6n6GJR6CYkdgIEyGV5Z0gL4vBQao=;23GQ8TqrBupbCxblTA5L0Q=="
 ---
 

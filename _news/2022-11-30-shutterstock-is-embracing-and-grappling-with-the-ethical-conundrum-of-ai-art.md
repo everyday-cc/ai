@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T13:38:00Z
 originalUrl: "https://www.adexchanger.com/creative/shutterstock-is-embracing-and-grappling-with-the-ethical-conundrum-of-ai-art/"
 webUrl: "https://www.adexchanger.com/creative/shutterstock-is-embracing-and-grappling-with-the-ethical-conundrum-of-ai-art/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: adexchanger

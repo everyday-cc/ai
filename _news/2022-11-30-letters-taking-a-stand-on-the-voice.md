@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T13:00:00Z
 originalUrl: "https://www.afr.com/politics/federal/letters-taking-a-stand-on-the-voice-20221130-p5c2mh"
 webUrl: "https://www.afr.com/politics/federal/letters-taking-a-stand-on-the-voice-20221130-p5c2mh"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian Financial Review

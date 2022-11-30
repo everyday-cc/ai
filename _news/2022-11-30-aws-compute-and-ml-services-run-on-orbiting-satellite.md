@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T14:28:00Z
 originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/aws-compute-and-ml-services-run-on-orbiting-satellite/articleshow/95889228.cms"
 webUrl: "https://timesofindia.indiatimes.com/gadgets-news/aws-compute-and-ml-services-run-on-orbiting-satellite/articleshow/95889228.cms"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: Indiatimes
@@ -16,6 +19,17 @@ topics:
   - AI
   - Machine Learning
   - AWS AI
+
+related:
+  - title: "AWS Announces AWS Clean Rooms"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced AWS Clean Rooms, a new analytics service that helps companies across industries easily and securely analyze and collaborate on their combined datasets—without sharing or revealing underlying data."
+    publishedDateTime: 2022-11-29T17:27:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-clean-rooms/article_b2f7d9b2-f8b2-5d6c-ae8f-c13c71203b64.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 19
 
 secured: "5/uyCAZl3AMOfTA8Hy6TU0YcIgBsWKbaJfDA2X438xLRkLkGQHZGo20HC5v6wqdTLYZgig4fib1ldrmH9/zqCPxTogNHI6Xcz3gnSSPDErNJ6e2Br8n2JygR4mGY7D3FpmpSMJvvvkQvxMDg8D8iR1qHPVlyRLRQwuti6fE1nZu+MgmWaQTV3sq18AYfyMmtyOkyElblluH7JKT0NIWLLI7ypp1RySmePKODuZtnwicHpWOtHDpDJw31MSvovne2BgqXZ1quIv6rLjOUxXtViJb6+i20QhQJ4SbO7hrlByeZT9c7VCCSwlzj9k/vvmv41IuVT+CzT/FximO89KyYeN+3UoqEP7DuzokfvL8eaQRxcevPZytSx1Ta996JpP3oQ61WRmjE6S8Z4ZR3biVTmYK0HR+4eqqPvsWXm+Xeb+1EnT8YqEFxM28vBTqq+A0+BBPpTIvM1aBptkrGWrkZbEmp+DEkcb9rtBJMsXhQyVvZk7NNzTr2mvlYm8Y08F/+iuyraAmnNPPAsKusFyI6uw==;Dg1BdodS5pgifo16+en3WA=="
 ---

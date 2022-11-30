@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 606
         isCached: true
+  - title: "AWS launches new cybersecurity service Amazon Security Lake"
+    excerpt: "The service automatically centralizes security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account."
+    publishedDateTime: 2022-11-30T14:12:00Z
+    webUrl: "https://www.csoonline.com/article/3681082/aws-launches-new-cybersecurity-service-amazon-security-lake.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 36
   - title: "Top 5 stories of the week: Deloitte’s cybersecurity predictions, the true cost of a breach, AI’s new diet"
     excerpt: "Just as a new report published this week highlighted that enterprises pay on average about $1,200 per employee each year for breach mitigation, Deloitte shared 10 cybersecurity predictions to better secure the enterprise in 2023."
     publishedDateTime: 2022-11-26T13:00:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T11:09:00Z
 originalUrl: "https://www.smeweb.com/2022/11/30/are-your-employee-social-media-checks-consistent-and-fair/"
 webUrl: "https://www.smeweb.com/2022/11/30/are-your-employee-social-media-checks-consistent-and-fair/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SMEweb

@@ -26,22 +26,6 @@ images:
     height: 789
     isCached: true
 
-related:
-  - title: "Facial recognition ruled out for 2024 Olympics and Paralympics by French Ministry of Sport"
-    excerpt: "A bill dictating the Games organizational plan totally and explicitly excludes facial recognition technology from the event."
-    publishedDateTime: 2022-11-25T21:53:00Z
-    webUrl: "https://www.biometricupdate.com/202211/facial-recognition-ruled-out-for-2024-olympics-and-paralympics-by-french-ministry-of-sport"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
-
 secured: "4weGY1banX2+XtqNhWT4O4Ys169ahsZ5P69r28BY5AbUEGtBekH/SsX8Ma1Nzj87WFpvfBxxImzsCVgtb2xiCVIvwRE+esN7I0b2PLVyXGKBexr3aNzPKbi9io0L14twGild13vii6AwQ1huBj7nKqKheb9I7eVSz5nTqI/Znfcf1H3+BV1UlBtgwUNI1VNAqYHEigL/tzWmJghkhorvcvQfWQuG6vfLdHMAIvTzYpN5GbysJYkgzDRBuR1054Z7Aq4ehGmsUgFoRIAYVd7YoX4L+7RoG3ISCVD4qc6amowjpcx0V7QWUMn/T2nBaurnoK5U1CaQyvg7Z4F6goZZv5RVI7wqu+hF+s0WoaVnc0k=;FlySq291BEqBGCxJLHZMag=="
 ---
 

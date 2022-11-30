@@ -2,9 +2,9 @@
 category: news
 title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
 excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
-publishedDateTime: 2022-11-28T14:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-multi-cloud-networking-fintech-market-reach-19-bn-/2022/11/28/9719932.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-multi-cloud-networking-fintech-market-reach-19-bn-/2022/11/28/9719932.htm"
+publishedDateTime: 2022-11-28T14:50:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/28/9719932.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/28/9719932.htm"
 type: article
 quality: 2
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 282
         isCached: true
 
-secured: "1ZJZuKTyQ90EikCrOkxfCGnTQlrmi4WF8XS2Q6ULZFjMcWQo0ywbgpnTb/gGABik78PavgiGpBoKwllUO63+cZTFsodJrdIoc40H9LTPIDF4efPjFuwtlSAPPmebzHEvmwL9NeUwMAmrYBXeMBWlUedq1dTSKiPCelu+F/T3N+1YeJwuhjtEivWnynD/GmrjTaBcQNdffpncRJ5yr8mH2ICJYsiwn5X0AJzg2JRJ3NQ/RwqKOEap7O8kAFTPtaEKhkwxF0kGWIY1YXnVeCEbSzpwIQcOMrTtLPX0tw/Yeoj3NmgGzYwvRHNEw0ZoXyAzpN1mN1b0/Tv1fw4enEbRN275bwyfi6r1Exl8TVNefP8qzfnO8bUn3dnD+M9N0TrPJpwKspcss2B9DTLt0WXhMN6FSIxDtDuzsNYN1O893WHcVdjhWaxbIv29aXbcH1BQQOHeZo5/YvEfJCfouh7PL+yYB3DIrpxaZ8OOPcN32p33Xoy/BYIVJ+n2nAb9Nlj5R6uI/MPwkx/SgwVTPxc8zg==;Ao/zyY5c4eXiWNiCBwH6WQ=="
+secured: "K2fpUHAsX1OmjEV3PBiimpkW3x3iZ+dkNf03kZovt+kQQdTqkMm0rnRSk4Hoy5MUTljJDaEHlyGYARw3fG/XrhnECS4MEk8+s+6iWyHCxpKtvEKwUcwEIqnxZt9HJsCHI0/wilE0olhCTolrJC5TQsQKkV6Tnn33nnZhU48f9LjLoHtitc4cZRsXIrr9rcRPYTaI+gMZG1YxMF5CHf7DgJr51BInR1TbMxbaJoeAIFO9tvD220zE0uBgQRGyJjzW+TNTCfhlUMl1rLFQVIDNk+vt/52OS1sL7lzygoQmHrjngKLYfCja35VvfjVmheQzzh9mLRZ7RMVhzRIJvw7DYYnVGPZmQa3ojwgB5DAn588=;eKmogbzAa4ZMd3eL5BtLig=="
 ---
 

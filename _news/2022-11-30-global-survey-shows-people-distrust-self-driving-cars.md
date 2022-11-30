@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T14:13:00Z
 originalUrl: "https://www.carmagazine.co.uk/autonomous/will-people-trust-autonomous-cars/"
 webUrl: "https://www.carmagazine.co.uk/autonomous/will-people-trust-autonomous-cars/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CAR Magazine

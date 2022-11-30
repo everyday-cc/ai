@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine Learning Tools Helps Predict Alzheimer’s Progression"
+    excerpt: "Researchers from Weill Cornell Medicine have used machine learning tools to identify the most accurate timelines and means of anticipating cognitive decline."
+    publishedDateTime: 2022-11-30T13:29:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-tools-helps-predict-alzheimers-progression"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-tools-helps-predict-alzheimers-progression"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-tools-helps-predict-alzheimers-progression"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Machine learning gives nuanced view of Alzheimer's stages"
     excerpt: "Researchers used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer's disease in people who are either cognitively normal or experiencing mild cognitive impairment."
     publishedDateTime: 2022-11-28T00:00:00Z

@@ -86,6 +86,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "AWS Announces Amazon Security Lake"
+    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
+    publishedDateTime: 2022-11-30T16:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
   - title: "AWS Announces Five New Capabilities for Amazon QuickSight"
     excerpt: "\"That is why more than 100,000 customers use QuickSight to power their BI needs. Today's announcement makes QuickSight even more intuitive, flexible, and accessible while streamlining BI operations with a comprehensive and fast service built for the cloud."
     publishedDateTime: 2022-11-29T19:42:00Z
@@ -103,7 +112,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
+    quality: 19
   - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
     excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
     publishedDateTime: 2022-11-29T16:17:00Z

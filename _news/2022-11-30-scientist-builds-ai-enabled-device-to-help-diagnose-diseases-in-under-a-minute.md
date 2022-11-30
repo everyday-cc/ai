@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T14:10:00Z
 originalUrl: "https://www.thebetterindia.com/304574/scientist-builds-ai-enabled-device-to-diagnose-diseases-pathology-sigtuple-medtech-startup/"
 webUrl: "https://www.thebetterindia.com/304574/scientist-builds-ai-enabled-device-to-diagnose-diseases-pathology-sigtuple-medtech-startup/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: TheBetterIndia

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T13:14:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/voice-does-not-belong-on-cultural-battlefield/news-story/c1d1818a7fbac7a688340816b1c96ded"
 webUrl: "https://www.theaustralian.com.au/commentary/voice-does-not-belong-on-cultural-battlefield/news-story/c1d1818a7fbac7a688340816b1c96ded"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

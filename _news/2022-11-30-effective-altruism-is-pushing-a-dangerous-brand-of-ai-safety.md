@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/effective-altruism-artificial-intelligence-
 ampWebUrl: "https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:

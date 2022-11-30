@@ -31,20 +31,13 @@ images:
 related:
   - title: "New AI method for public health analysis shows trends in substance use among high schoolers"
     excerpt: "High school students who have a large weekly allowance, friends who smoke and low levels of physical activity are more likely to use multiple substances over time. Conversely, being older, being Black and eating breakfast daily were factors associated with a smaller chance of transitioning to multiple use."
-    publishedDateTime: 2022-11-30T08:41:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-ai-method-health-analysis-trends.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-ai-method-health-analysis-trends.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-ai-method-health-analysis-trends.amp"
+    publishedDateTime: 2022-11-30T14:32:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/972787"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/high-school-1.jpg"
-        width: 2880
-        height: 2033
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 7
 
 secured: "Tca/9h0GUAfp2ABhJWOIMrSE6KDBqIGEw5Ie/uP0u6LImUntCRKQIHX51Hvvxcb1wCf1cGMd/jCZ/pv4aMuBbOrzsZOJr/KaplfO6IhWO4gxOe/f1kiSnkInuI6eCf1T8Dj0vyOnJhy2HfpISXq3gT4nklYYzz6taacaIX29dN3l9DnBm+TVJHJgVNOeGSUHZP7OdhhN50KslckpkDgAfCYuO1C0a6ow7ULOJa03zuL4Nz8nYVNt/6UXgDkADBda2sVgs5pt9gSmn3dgkVY6bfWQT53RXCzZzC/7V7QTghRUv4ezS/z8XUHgRzFJSMrEgfF8Q/87jxXydjNenba+RJPSgB8qsexiuSZKrpwop0tMk3NWOT+JLVtCSB2prhwchhas2W5Y0nLzJXYUt+S1K51UKVOckDN4vM/CwoD5nRBKEmA3mrxCSQfsQ/lf+/pjLxJXRM+iLwVcuFlzm+uRtS5FSrcCRpXWC4UtlKJcR4faWqcEuFAT5FaRz/nuyzVOQBKPKkcJviduGLRJDqnE+A==;+xVsGIkAPnfe/qFrQjFbFA=="
 ---

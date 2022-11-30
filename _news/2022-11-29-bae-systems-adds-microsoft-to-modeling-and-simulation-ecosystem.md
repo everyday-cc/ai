@@ -61,6 +61,20 @@ related:
         width: 760
         height: 505
         isCached: true
+  - title: "NOAA strikes climate modeling R&D agreement with Microsoft"
+    excerpt: "The National Oceanic and Atmospheric Administration will work with Microsoft to improve climate and forecast models through the use of machine learning, the agency announced Tuesday. As part of a new cooperative research and development agreement (CRADA),"
+    publishedDateTime: 2022-11-30T15:00:00Z
+    webUrl: "https://www.fedscoop.com/noaa-microsoft-modeling-agreement/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/10/NOAA.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "5YMJx7xruWIi4ZHoJbZpc7rmVoSaKOo2l0awNUpyBGDd/XdUL8bwHNQVd34vethurYmu3XWtSM42Pua7AwRa5Q/e5mbSE3kVC//7vopae1kWFC2aY6RkRMM/xKB9H8kf7A4TdhRdfybzgzUbcRVGu7LjAD1Y4DQcRdbihXoWAjnwXnJiZ19heBgwnguGjvWwAhDgsLyuOjx+DGhZ3eVTDvbFg6v04Y57mb6lbL0RYUmHeYGGrgP/8Z2jWcjzr8tRkbknDdts4tdKXIJ/KC/HjmIF3NM3TX+jlLGsiuWOr/8sfG5l465qmd9r0OpPKW1ADl+94BHQL8HFyzQViF82Oz/kVR7MZFXf6P4pXExPt6w=;azLZJeCtKGAZ1bPc6V1i/w=="
 ---

@@ -86,6 +86,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "AWS Announces Amazon Security Lake"
+    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
+    publishedDateTime: 2022-11-30T16:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
   - title: "AWS Announces Amazon DataZone"
     excerpt: "Invent, Amazon Web Services Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon DataZone, a new data management service that makes it faster and easier for customers to catalog,"
     publishedDateTime: 2022-11-29T16:22:00Z
@@ -112,7 +121,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
+    quality: 19
 
 secured: "SeWcn3dVZDir0pHNqNJq80xWuYvRaoHYGDSsrKzy8dmo+w6TDs7hUJvm+y96r+806jzsOiV1ltO99RQQ/Ahbai8jN5/tImkqG2yJfyRQ8LN5wR/XfTsUS02ze1IM9IfEBjrQRCFriWQYGYY35XxkljZrU1VcCpFHyxMFX2c2AjfwbRI6zW5JmSbeO/3hqcC06/L855mfJCdF+flkMEuDLMObSMWZBd3Q89AM8QeLwIKn1Y/KGcR0/6cG/9wYGywEWYrCgYNKn1LnaQzDkcTJ1g0ida5TASYqs8rjL31PGvsvYcTvCMvzASQtX30fdQm78Hg75eWv4eYo/WeWzX4lEPW1iZyLdjhN7p1lTp3kW8Y=;yv7JR/I3rvQw5EglegIXOQ=="
 ---

@@ -68,20 +68,6 @@ related:
         width: 936
         height: 698
         isCached: true
-  - title: "Meta's new AI can beat human players at Diplomacy"
-    excerpt: "Meta have revealed an impressive AI that can beat human players at Diplomacy, all without \"intentionally\" lying."
-    publishedDateTime: 2022-11-25T22:05:00Z
-    webUrl: "https://www.rockpapershotgun.com/metas-new-ai-can-beat-human-players-at-diplomacy"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 37
-    images:
-      - url: "https://assets2.rockpapershotgun.com/CiceoAIdiplomacy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/CiceoAIdiplomacy.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "An AI named Cicero can beat humans in Diplomacy, a complex alliance-building game. Here's why that's big news"
     excerpt: "In a rare piece of good news from Meta, artificial intelligence researchers at the company have just announced a scientific breakthrough. Their AI program named Cicero can now play the board game Diplomacy at a human level."
     publishedDateTime: 2022-11-28T20:11:00Z

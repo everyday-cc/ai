@@ -2,29 +2,43 @@
 category: news
 title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
 excerpt: "By Deidre McPhillips, CNN Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray. The preliminary findings were presented Tuesday at the annual meeting of the Radiological Society of North America."
-publishedDateTime: 2022-11-30T06:23:00Z
-originalUrl: "https://localnews8.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
-webUrl: "https://localnews8.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
+publishedDateTime: 2022-11-30T01:23:00Z
+originalUrl: "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
+webUrl: "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://ktvz.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray"
+    excerpt: "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ..."
+    publishedDateTime: 2022-11-30T16:22:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 68
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669823575-GettyImages-1251551874.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI Predicts Future Heart Disease Risk Using Single Chest X-Ray"
     excerpt: "A deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease has been developed by researchers."
     publishedDateTime: 2022-11-30T05:06:00Z
@@ -69,7 +83,16 @@ related:
         width: 2880
         height: 2160
         isCached: true
+  - title: "AI can predict risk of heart attack or stroke using single chest X-ray, early research suggests"
+    excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."
+    publishedDateTime: 2022-11-30T10:57:00Z
+    webUrl: "https://www.wlwt.com/article/ai-predict-risk-of-heart-attack-stroke-using-chest-x-ray/42102805"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 7
 
-secured: "IX1RU2vOw+XW0MBAPR3FA7CxeWN0AvpvrU8BWxnLPSmj/yPG+nDY9iupyxodnW7Ty9vfoO7jk+FotCFex4lMF4Gv05940PgAPIvonJdbcb4drDXXoIm5CyZmDAI7Hh3l57Eq4fv64orw1akd+SiPlSofndtTqBT/7ae67Vo9JFWYZEuHRsF79owW0JQGHW1AtE/QQLvbenShUeCgYAZziw/r/RbqKVEF116HL3wKry+aFjU9qMlPrApkYboRnOWB4S4aGUrEgFlqN1vtpsXyOLMYm0+Ydjs+vNC1ul/vuo5mmiiETeAqUUQcB1beVeda2P2jMNnBRgUwWigWhvi8VSG8y3xdImR3bTEZxPG3MBy9rG2ksd26rnqd8OO3VZN83QVxISkLoHvwKFk/M/lcZxN5K0dk0/9Nq7MR3riWSA62pRfa1g0CLnjLWFeruf7FnNni4r2v+csUnlYnFXwBgJcTsysdOdvMJuAgOpfTuKPHxIJOYL3bffQIwtDsb4PVa6KGAcu5F1iqR1h2SrBiaQ==;JGlhMVBvDaSM7j832LcCWQ=="
+secured: "X1nopwXVdgh9Juz7kPeOH4QsINbPVE17Fj9tNWT9OJxP8ppfwMBbNh2InvZzuwoioo/jXh3S8H20z4HRRji5cYRR/rtcMuuXaLd6ZHh32Ws7kfQARENZhf4NiUqtcA+Mewo3XdoP+nRd+wa/ntzGrKW+tFxUc4zu5L+x6DSplne+gbw3cOPxUyhTcLXqLdbvUxnUuiwTekV7BPb38K9LO6ZSzxrtauwXnu9YRlWdk+O3nLxnquw1Gji62UDnS4AZMpaIUwaBERRhQj4wIPe59OJq0C/7beLdHz5iM6LRzhuS2WcXGhueXq7q1b1yjEq5AAKx9FcsAEcBPDQGR/yodBldYkHVqpR5pLl1JsTDdj0=;Dg5lbzMQCyCKPnrWP5Sz9A=="
 ---
 

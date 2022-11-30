@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T13:18:00Z
 originalUrl: "https://internetretailing.net/delivery/robots-roll-out-in-yorkshire-as-co-op-extends-its-autonomous-food-delivery-to-leeds/"
 webUrl: "https://internetretailing.net/delivery/robots-roll-out-in-yorkshire-as-co-op-extends-its-autonomous-food-delivery-to-leeds/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: InternetRetailing

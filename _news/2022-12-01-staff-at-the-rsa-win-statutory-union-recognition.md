@@ -1,0 +1,45 @@
+---
+category: news
+title: "Staff at the RSA win statutory union recognition"
+excerpt: "UNIONS hailed a victory for “democratic processes” today after a massive majority of staff at (RSA) defied bosses and voted for statutory union recognition. The Independent Workers’ Union of Great Britain (IWGB) said 77 out of 90 of its members at the London-based organisation had turned out to vote,"
+publishedDateTime: 2022-11-30T16:00:00Z
+originalUrl: "https://morningstaronline.co.uk/article/b/staff-at-the-rsa-win-statutory-union-recognition"
+webUrl: "https://morningstaronline.co.uk/article/b/staff-at-the-rsa-win-statutory-union-recognition"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Morning Star
+  domain: morningstaronline.co.uk
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://morningstaronline.co.uk/sites/default/files/Fg6R7aAX0AAJFCi.jpeg"
+    width: 1185
+    height: 889
+    isCached: true
+
+related:
+  - title: "Amazon workers demand union recognition"
+    excerpt: "NICHOLAS JAMES reports on the successful union organising campaigns in sectors where labour casualisation is most prevalent"
+    publishedDateTime: 2022-11-30T10:35:00Z
+    webUrl: "https://morningstaronline.co.uk/article/amazon-workers-demand-union-recognition"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/amazon_stl8.jpg"
+        width: 1185
+        height: 585
+        isCached: true
+
+secured: "dllLhcw5yQpgIgIPHbYMHWjysnrxdf8wOlx5bArzXKTZpr4gyCvuy0310c5JZThlHw5aoqPHwHQMCQz32V5E+RnZkz5F4d0xQnumTvxmrtBUFdZePCnU43oIhFapDzkW60H+2hFHuKpDJSVReisMQgMXC8QgHT8AW8oJSKHgL3Jg8NId4lQPEe3CfgsUyoqvAtFJ1R7IHvHDnUxU8MlgeTpdnh9ynF9CE4HiVqoJ4suG+RvAkne1EvOSWlAAnV8KlcV1Kovx6CyJkqra0G0HzQvkmeLebHE0/Q9fnn0Zol2VO5Lm67Y30ZBkVYSoJZmweWtMJvuZKHZ6xKxsOS7lMnX/tUfsxlFyf2bxGmh6saM=;9JuNcPeFZhx7dq4bH7s04Q=="
+---
+

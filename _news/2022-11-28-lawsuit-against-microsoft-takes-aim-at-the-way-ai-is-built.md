@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-micros
 webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.shephardmedia.com/media/cache/images/images/article/react4/edb5d64610f439930a1acb67142e3ee5.jpg"
         width: 760
         height: 505
+        isCached: true
+  - title: "NOAA strikes climate modeling R&D agreement with Microsoft"
+    excerpt: "The National Oceanic and Atmospheric Administration will work with Microsoft to improve climate and forecast models through the use of machine learning, the agency announced Tuesday. As part of a new cooperative research and development agreement (CRADA),"
+    publishedDateTime: 2022-11-30T15:00:00Z
+    webUrl: "https://www.fedscoop.com/noaa-microsoft-modeling-agreement/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/10/NOAA.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
         isCached: true
   - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
     excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."

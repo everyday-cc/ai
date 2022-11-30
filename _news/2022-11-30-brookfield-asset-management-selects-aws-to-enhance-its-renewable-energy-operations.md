@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T14:11:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/brookfield-asset-management-selects-aws-to-enhance-its-renewable-energy-operations/article_f12f8f25-fc65-5ab9-a514-00e2926c7ccf.html"
 webUrl: "https://www.bakersfield.com/ap/news/brookfield-asset-management-selects-aws-to-enhance-its-renewable-energy-operations/article_f12f8f25-fc65-5ab9-a514-00e2926c7ccf.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Bakersfield Californian
@@ -14,6 +17,17 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Brookfield Asset Management Selects AWS to Enhance Its Renewable Energy Operations"
+    excerpt: "In addition to its agreement with AWS, Brookfield Renewable, a subsidiary of Brookfield Asset Management and one of the world's largest publicly traded renewable power platforms, will provide 601.6 megawatts (MW) of clean wind and solar energy capacity to power Amazon's operations in Europe,"
+    publishedDateTime: 2022-11-30T16:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722004.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "Um7hXtKcpYXEy6NxIXpV6dv/WKulBFoXYWIqguNAPGWtHDPp6eGfwHuc0m5CQxG/CPt3gN0qLoMb1ogqhAXZIRLbRlHLB/y15RmFTzMZFASAjeKc5jWG9Z6DvoCT0OYwTUZmVpzNF9b5VPWCXjlaj3mxv7nJR4Kih7mdrAWC6kAGuWjU/hC/1D+MzWB6HzAXUJ7gvCFEag+Zkb4DMbs5I3POdguv2a8bhjkR849DgzeDTHoprdGGkJAbYxrYwk18B4eBFbN8JmK0lI5hzSYlgsko6H1LpoqpfTZc+kQaFfDJjX6ucZYMXpgEag2wOjhUK57sFC2+vXZ2MWZFB5W4HcmW2drVHegNahXYqSZ02BU=;Fx+YRWLwF9MRdgtmAHesGQ=="
 ---

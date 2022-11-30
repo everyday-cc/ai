@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabil
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
 type: article
 quality: 76
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "AWS Announces Amazon Security Lake"
+    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
+    publishedDateTime: 2022-11-30T16:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
   - title: "AWS Announces Amazon DataZone"
     excerpt: "Invent, Amazon Web Services Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon DataZone, a new data management service that makes it faster and easier for customers to catalog,"
     publishedDateTime: 2022-11-29T16:22:00Z
@@ -105,7 +114,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
+    quality: 19
   - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
     excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
     publishedDateTime: 2022-11-29T16:17:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/ai-predicts-future-heart-disease-risk-usi
 webUrl: "https://scitechdaily.com/ai-predicts-future-heart-disease-risk-using-single-chest-x-ray/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray"
+    excerpt: "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ..."
+    publishedDateTime: 2022-11-30T16:22:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 68
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669823575-GettyImages-1251551874.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Deep learning model uses a single chest X-ray to predict heart disease risk"
     excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease."
     publishedDateTime: 2022-11-29T16:44:00Z
@@ -57,18 +71,27 @@ related:
         isCached: true
   - title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
     excerpt: "By Deidre McPhillips, CNN Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray. The preliminary findings were presented Tuesday at the annual meeting of the Radiological Society of North America."
-    publishedDateTime: 2022-11-30T06:23:00Z
-    webUrl: "https://localnews8.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
+    publishedDateTime: 2022-11-30T01:23:00Z
+    webUrl: "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 18
     images:
-      - url: "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://ktvz.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "AI can predict risk of heart attack or stroke using single chest X-ray, early research suggests"
+    excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."
+    publishedDateTime: 2022-11-30T10:57:00Z
+    webUrl: "https://www.wlwt.com/article/ai-predict-risk-of-heart-attack-stroke-using-chest-x-ray/42102805"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 7
 
 secured: "F8MppL78wjwvcXSxRCDTBMRqI9FSvtIDi/bWlTTaP7bj29gvHKbX9d9A+IAP5TTWpumNbyM2EC0uFMUjzEKT2E5PUP/uahFHVTGUf0IoP2rE3isbnlKidzb+pFyh4Jw8mADgvaV/Xu9YLGqGvkh9LEKXAR8mrHKgg7J/OdyU7VroN3YKExcb2nn3GAPr3WjyIeq2qt+TxpdA3WRxo9fuMW98Z19BxS2FZw2hcfoPlXu8nJ/avEpudeT9PHu7H7PyVmgREursJRcWCNIBaJ4GANHKCYs/C5SLTrm4wNCpvjcuA7kJlDMzr0mGDjuED+mDODqLEucDs/yy2WDU5tObf5MYIQA0lp/02NFOYSHfCVKtDiT4iIQRdt5kbtLM8f/SlY7nU9qap9O6mFViNuWd3Gn8p2G2KbDdXfBbz1MGTGK9Y6ljTJ6oYY/VQMH8yiKHlThoc156nXDNlUgF1FHno6dzAw01qU2M9Tawlvnqd/ewA2ftRcCIyCslqbdxmlPD1QZr6uMzGH96Wu7sEYrxmw==;5uHUZi3XLOHFqXcc16LolA=="
 ---

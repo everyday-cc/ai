@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 606
         isCached: true
+  - title: "AWS launches new cybersecurity service Amazon Security Lake"
+    excerpt: "The service automatically centralizes security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account."
+    publishedDateTime: 2022-11-30T14:12:00Z
+    webUrl: "https://www.csoonline.com/article/3681082/aws-launches-new-cybersecurity-service-amazon-security-lake.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 36
   - title: "How Deep Learning Has Proved to Be Useful for Cyber Security"
     excerpt: "The threat of cyber attacks has recently increased dramatically and traditional measures now appear to be insufficiently competent."
     publishedDateTime: 2022-11-29T18:16:00Z

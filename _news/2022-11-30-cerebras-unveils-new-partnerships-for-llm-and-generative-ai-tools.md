@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -47,21 +47,14 @@ related:
         height: 675
         isCached: true
   - title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
-    excerpt: "As one of the first customers to leverage Cerebras' new Andromeda AI supercomputer to design next set of customer-specific models, Jasper expects to vastly improve the accuracy of generative AI models Jasper,"
-    publishedDateTime: 2022-11-29T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29894429/cerebras-systems-and-jasper-partner-on-pioneering-generative-ai-work"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29894429"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894429"
+    excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
+    publishedDateTime: 2022-11-29T20:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Cerebras Announces 2 AI Partnerships – for Large Language Model Training and ‘Generative AI’ for Content Creation"
     excerpt: "Cerebras Systems, maker of the “dinner plate sized” AI processor, announced two alliances today, one with Cirrascale Cloud Services, provider of deep learning solutions for AVs, NLP and computer vision,"
     publishedDateTime: 2022-11-29T22:58:00Z
@@ -76,6 +69,15 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Cerebras Announces 2 AI Partnerships – for Large Language Model Training and ‘Generative AI’ Content Creation"
+    excerpt: "Cerebras Systems, maker of the “dinner plate sized” AI processor, announced two alliances today, one with Cirrascale Cloud Services, provider of deep learning solutions for AVs, NLP and computer vision,"
+    publishedDateTime: 2022-11-30T13:53:00Z
+    webUrl: "https://insidehpc.com/2022/11/cerebras-announces-2-ai-partnerships-for-large-language-model-training-and-generative-ai-content-creation/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 0
 
 secured: "EIHV9EPRZJYrpM60Uih8SD62k2mG1RmT9/alUFF1U1Pj2HB1U6wfIvrPC483wR8fhET+maNjqkN4dJG8PH89qeZM7vqjPXB14p++gMBcyfoAE1bKc205Q3qYfqrPPGkHA7N5uOkxbesM9PVeaB+DmVJfuxvGwEppbgvA8qB2l65IsGGh5jGyXXcl9c8HXMceUfBz5P3C2uhR42syR4TIxe5xW6SqZT/NxHQ31/MVLc7CR1hK2M73HNn1p0RNXhOuTGJurKsgf7hCCINH7ePKtzc1fUcuhXgQI3QfuJX9KAMNQnZoNGyKmA3uVIpPuJLggwkCPkzfYmwYPwJ51vQEPDQvS3hGuycoPQP6oK7UiEuC9MOLQnK1sRrTIwoKI2yPNNp9d3OBPK+BtrzWCrY8lIm8f5NCVJrNGSpviCxz0byVKAY6X7TmJMXC0h+UjZqeIDubgZQ7t4UvHc7QGgrsU3uS/nqusE+tOCrI0YIjilmiVy4MJ744eZkpqB4QoCPzDkeRguLgCPwOAwTWDh6MGQ==;wSy/N0Soe9+MhBGYZ+D33Q=="
 ---

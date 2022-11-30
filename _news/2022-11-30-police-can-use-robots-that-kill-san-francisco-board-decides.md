@@ -42,21 +42,14 @@ related:
         height: 641
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Debate on Tuesday ran more than two hours with members on both sides accusing the other of reckless fear mongering. Read more on Boston.com."
-    publishedDateTime: 2022-11-30T12:52:00Z
-    webUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
-    ampWebUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
+    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations."
+    publishedDateTime: 2022-11-30T14:02:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 59
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2022/11/San_Francisco_Police_Killer_Robots_07710-6386649ea96f1-scaled.jpg"
-        width: 2560
-        height: 1760
-        isCached: true
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
   - title: "San Francisco debates letting police deploy robots that kill"
     excerpt: "The vote comes under a new California law that requires police and sheriffs departments to inventory military-grade equipment and seek approval for their use. San Francisco police"
     publishedDateTime: 2022-11-30T01:07:00Z
@@ -70,6 +63,20 @@ related:
       - url: "https://APPREMIUM.images.worldnow.com/images/23743700_G.jpg?lastEditedDate=1669733944000"
         width: 512
         height: 352
+        isCached: true
+  - title: "San Francisco police to soon deploy robots that can kill"
+    excerpt: "Supervisors in San Francisco voted eight to three to allow city police to use potentially lethal remote-controlled robots in emergency situations. What dangers lie ahead?"
+    publishedDateTime: 2022-11-30T14:51:00Z
+    webUrl: "https://interestingengineering.com/innovation/san-francisco-police-to-soon-deploy-robots-that-can-kill"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/30/image/jpeg/iXyrmInhKX4wAD3KjSLTayfPB657Cog3S3Btptcu.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "eRjUjfuBRVV5+HCHHlSmrNZmUCi9NHnZ9ET8j2PWvkyg2HuFNgDFGxUu+442DL3EkiucO4s5cHPP5s6RE+3V3jnkE9UUmOLXjMlFVp9SCom4Flmd7Uk1JL1oadVuHNVF1x8ufqTyItEcuduiBwKkuPygf58GdtzhH+k+1TnMBVJOrwhLaGYGeBcPytYPAFF8Iwd10yAPD0zZZz89DLqQQXOOOqRETBhO3XGLV3CIgSRnT3/JdgXTs/+kp4E7ZFm00wI678+6aR3ZYeYWDWaUs+Bnock+iN5wvntSYdYYIEf9lDZrFh39Y0jk1XDOkA0DCwwdN/6oelbH+HDiqGrtk9g3jn1kRK0qyCn54PEshb8PnUQv2iy0PSuzh79fdDpPHlF3qOVC7hlz2fd1kM8TX/anNIrRuM0SWD71FoK5c/FNBsQc+ldWziMWwqh/Q7OJAS1wO3frKJGk4dLa6lpIPvEdxLvFor2tcQVNzW7fme61Lwv8mI3VP0SJYdC0GM+x2rkh4HEikmTBHCalUbb6LQ==;MHdMZNZaMSngExGNw3RItA=="

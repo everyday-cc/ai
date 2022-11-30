@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-po
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-predicts-heart-dise.jpg"
         width: 784
         height: 643
-        isCached: true
-  - title: "Using artificial intelligence to spot breast cancer"
-    excerpt: "An Indian company has developed a cheap, non-invasive test for breast cancer that uses thermal imaging and AI."
-    publishedDateTime: 2022-11-26T00:28:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/stories-63755128"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/770D/production/_127777403_p0djqfvy.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "f9Iuj/5StH3APKTnkCqeAYznuRf+9jYyg5y02ucz6Xn0B8ZUt/lUoiwLKx9RCN+GXWOUuwlRfbFS+o0IY7gQPikcyguAYYDzC7jO4YeXcqaqzbk21aIIDARa/Ls8IwmU/9aVnyJp7XEErU4tCqDoObzts36rOzayptJB9ots3QvBDaUJA2oVwjR1PxuVlU8m/zNLlIRbr0Op7NFnzJvKFMu1AtpT72DA08Ekg0aOBLLBwzU+Hg+5i/ensngsKQk2Q61Fv2cOZFMj2VCaYm7vEzeywRN2xsW9tcDGuiAQIpTMTM+jxqCS9clwhrxvq62Jrl8vKCyOf1aR9rvhPhUw4oDI5HhTKtYWuU8bpu7X6Ju0gE6drYEfww2IvEyO2qe6aBBudnNSv5FJNn1P0oskGQuBlRc0c/rRDupXegsAXhK7V0E1jT00fLpQ2zE2AnYYhyW+yBbQvG8ajh7S9bH7fRESBVCH+2leHIAicGdSeGJuyB+03shggNJxs11K1SvfGhwQElwabCdZPVKTcGtbNg==;ZpfW4toLjJRkcoQ+/G+08w=="
