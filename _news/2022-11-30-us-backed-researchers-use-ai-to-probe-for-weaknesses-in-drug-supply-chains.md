@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for
 ampWebUrl: "https://www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763"
 type: article
-quality: 84
-heat: 94
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.wsj.net/im-675403/social"
@@ -47,6 +48,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "hCZJzbm5ssrkTXold/dioRAmxYbNeKKIJyZJnWY2kanowCrI4njT6G2QK2ohRE/mnd2uZX7u/y8MoTVO7OJOFG/pbYi3SdkcnSPkov6gtRP7AqAer3n5EWNhX63L/s2M46+P2jUEnw1Y7pcSG4dXiHx6E4gfNor/r9eY1lYsHNSjL6zgONvt4rrspqhBV95aas2uDmwQZinQnUPmdQhF3Ve8QQgqexQlJbZkwZ/r/Cb4pM687SE4FXW2I6H/MjqMmhfb9txu2hlet+GiLl4vmsfRmgmOXcNJLLl0oB0ZIEz1OMX9NC8h4lBpJz2KhFTY/FgewbyfvSWoxJ/nY3aOFgfPZFGU5udwcaY6GT61Uy0=;keVk7RhzcnYrBpXqd/h6gw=="
+secured: "Ha3BTW8MxGzC9PwVZF1J0r5ReDRGGHUsaz6JbY05IBulBK8vSsuWn8zNWEccjSXQF/sBaIQpx+31ZYOnylQNiA1AHADE8sXHmQJPjU/Tgr8NMJp1Qjmu1pzdCBFZ24TfnNDmCMtkQIAnLHu0XBo4RHqAMGsPqfCs29PWiK8KXeBuVdNSgmUgALB3+sQjdOfyPj4W1frRcI3G6rGUiPuul9li4bu8sIk+Olh8w/926P/C9ZuZ917se5VP7VI6kteI8mIbu742SyQgEEeC+ryZAkv8JMB7kZCHSY8LktGyyER/DWHLn+lCv6JL7cdFmGMK2coey2OC4xkzlLNjoG5zclBk875nY8GSAAf+vzrOzqvDzDrZyI5GT2pT4IE/4vUdY6zHv3wjZWocvg5pPxyuYslVcxf1Vin9sIgDXQoRHMlq6bB8PNFXblCzKrPco5HgbS4Wqvl0juc9YjPsUdUfmqIfWkjgpMsFRmhTFWyttpVvdeSQ5SVb5M99WvwyqGACVZmHUxe20Bt8Npb6hqWhkQ==;ANxbhjp57a51S/CuT1tQxw=="
 ---
 

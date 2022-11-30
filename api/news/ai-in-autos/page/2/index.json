@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-20-waymo-will-offer-driverless-rides-to-public-soon.md",
+      "title": "Waymo Will Offer Driverless Rides To Public Soon",
+      "excerpt": "The latest reports prove that driverless rides are not safe. At least, at this stage, none of the major carmakers is able to provide a safe autopilot feature. However, everything is changing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/",
+      "originalUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/11/Waymo-One-Offering-Driverless-Taxi-Service-in-Phoenix.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/",
+      "publishedDateTime": "2022-11-19T23:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-airports-are-the-new-testbeds-for-emerging-technologies.md",
       "title": "Airports Are the New Testbeds for Emerging Technologies",
       "excerpt": "They are increasingly turning to cutting-edge technologies to meet their daily operational needs. These initiatives serve as real-world tests and economic drivers in the communities the airports serve.",
@@ -1352,58 +1395,6 @@
         "IBM AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-13-tesla-starts-rolling-wide-full-self-driving-v11-update-exciting-and-scary.md",
-      "title": "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary",
-      "excerpt": "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
-      "originalUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
-      "publishedDateTime": "2022-11-12T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

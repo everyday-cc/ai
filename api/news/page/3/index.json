@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-28-introducing-amazon-kendra-tabular-search-for-html-documents.md",
+      "title": "Introducing Amazon Kendra tabular search for HTML Documents",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content repositories",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-tabular-search-for-html-documents/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-tabular-search-for-html-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/28/kendra-tabular-search.jpg",
+          "width": 1563,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T21:49:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built.md",
+      "title": "Lawsuit against Microsoft takes aim at the way AI is built",
+      "excerpt": "In late June, Microsoft released a new kind of artificial intelligence (AI) technology that could generate its own computer code. Called Copilot, the tool was designed to speed the work of professional programmers by suggesting ready-made blocks of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built",
+      "originalUrl": "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/28/2022-10-25T164310Z1765510562RC2F8X9WTDTERTRMADP3MICROSOFT-RESULTS.JPG?VersionId=P3lWCc0kvg0vrlClt6QeCU7PbA1p1NPl",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america.md",
+      "title": "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America",
+      "excerpt": "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
+      "originalUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-using-an-ai-powered-retina-scan-to-detect-kidney-disease.md",
+      "title": "Using An AI-Powered Retina Scan To Detect Kidney Disease",
+      "excerpt": "A South Korean startup, Mediwhale, wants to use artificial intelligence (AI) to diagnose kidney disease through a non-invasive retina scan. Kevin T. Choi, Co-founder and CEO of Mediwhale says the retina is the only organ where blood vessels are directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6383a854488fd33f44459796/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
+      "publishedDateTime": "2022-11-27T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology-must-persist.md",
       "title": "Commentary: TSA faces ethical limits in use of AI. But work to improve the technology must persist",
       "excerpt": "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of",
@@ -392,10 +590,10 @@
     {
       "path": "_news/2022-11-25-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
       "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
-      "excerpt": "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only.",
+      "excerpt": "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/25/9719669.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/25/9719669.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -405,12 +603,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T07:15:00-08:00",
+      "publishedDateTime": "2022-11-25T07:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -658,40 +865,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-25-global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-boosts-adoption.md",
-      "title": "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption",
-      "excerpt": "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period. The major opportunities for the edge AI hardware market include the growing demand for IoT-based edge computing solutions and the rising adoption of 5G networks to bring IT and telecom together and dedicated AI processors for on-device image analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/24/9719518.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/24/9719518.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-25-review-shark-ai-ultra-2-in-1-robot-vacuum-and-mop.md",
       "title": "Review: Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
       "excerpt": "So my expectations for Shark’s new AI Ultra robot vacuum were very low—especially ... If you want to be able to start the vacuum from your phone, without carrying it into the kitchen, you ...",
@@ -744,21 +917,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-25-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company.md",
-      "title": "The Electronic Medical Records Market Sees A Rising Adoption Of The Natural Language Processing Techniques - By The Business Research Company",
-      "excerpt": "LONDON, Nov. 24, 2022 /PRNewswire/ -- The adoption of Natural Language Processing (NLP) is gaining popularity in the electronic medical records market trends. NLP creates machines that can ...",
+      "path": "_news/2022-11-25-global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-boosts-adoption.md",
+      "title": "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption",
+      "excerpt": "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57678062-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57678062-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company-008.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
+          "width": 666,
+          "height": 282,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -766,13 +939,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T09:22:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29852870",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870",
+      "publishedDateTime": "2022-11-24T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -782,7 +955,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -826,6 +999,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company.md",
+      "title": "The Electronic Medical Records Market Sees A Rising Adoption Of The Natural Language Processing Techniques - By The Business Research Company",
+      "excerpt": "LONDON, Nov. 24, 2022 /PRNewswire/ -- The adoption of Natural Language Processing (NLP) is gaining popularity in the electronic medical records market trends. NLP creates machines that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29852130",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852130",
+      "publishedDateTime": "2022-11-24T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -991,196 +1207,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-using-ai-to-help-write-code-the-tech-just-isnt-there-yet-says-a-company-that-tried.md",
-      "title": "Using AI to help write code? The tech just isn't there yet, says a company that tried",
-      "excerpt": "The CEO of code completion tool Kite says state-of-the-art machine learning (ML) for code synthesis isn't there yet, and says it is stopping work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
-      "originalUrl": "https://www.zdnet.com/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8afe96ebc5cae01d0037d47efb01e067aaef824b/2022/03/30/93dfb7e9-9e6e-404e-be0e-87d0d1d88aa7/tech-workers-digital-jobs-team-programmer-developer-deisgn-hinterhaus.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
-      "publishedDateTime": "2022-11-24T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-what-nvidias-new-text-to-3d-means-for-engineering-product-design.md",
-      "title": "What Nvidia’s New Text-To-3D Means For Engineering & Product Design",
-      "excerpt": "Magic3D is reportedly over twice as fast as DreamFusion, published less than 2 months prior. The rapid changes in Generative AI have huge implications for engineering and manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/",
-      "originalUrl": "https://www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637f5288847cbf8aada0e34c/0x0.png?format=png&crop=2570,1445,x0,y51,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewegner/2022/11/24/what-nvidias-new-text-to-3d-means-for-engineering--product-design/amp/",
-      "publishedDateTime": "2022-11-24T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-massive-traffic-experiment-pits-machine-learning-against-phantom-jams.md",
-      "title": "Massive traffic experiment pits machine learning against 'phantom' jams",
-      "excerpt": "Many traffic jams are caused by human behavior: a slight tap on the brakes can ripple through a line of cars, triggering a slowdown—or complete gridlock—for no apparent reason.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/massive-traffic-experi.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
-      "publishedDateTime": "2022-11-24T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-fintech-startup-galgal-raises-1-million-in-seed-funding.md",
-      "title": "Fintech startup Galgal raises $1 million in seed funding",
-      "excerpt": "Galgal Money is a new-age Mumbai-based fintech start-up that focuses on bringing efficient banking solutions to the youth, with the purpose to simplify money management and make savings as stress-free as possible. Through its AI system, the Galgal app is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/11/24/600x338/ddd54600-6bd3-11ed-a20b-ccf96773636d_1669279558141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html",
-      "publishedDateTime": "2022-11-24T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

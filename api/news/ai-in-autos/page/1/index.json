@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-30-baidu-unvails-ambitious-robotaxi-plan-in-china.md",
+      "title": "Baidu Unvails Ambitious Robotaxi Plan In China",
+      "excerpt": "Announcements came as part of a nearly 3 hour video presentation called “Apollo Day” which delved into technical details on their Apollo self-driving project",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63871313fec72f7aa0db9784/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
+      "publishedDateTime": "2022-11-30T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-how-high-school-should-change-for-an-era-of-ai-and-robots.md",
       "title": "How High School Should Change for an Era of AI and Robots",
       "excerpt": "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change",
@@ -1409,49 +1461,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-waymo-will-offer-driverless-rides-to-public-soon.md",
-      "title": "Waymo Will Offer Driverless Rides To Public Soon",
-      "excerpt": "The latest reports prove that driverless rides are not safe. At least, at this stage, none of the major carmakers is able to provide a safe autopilot feature. However, everything is changing in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/",
-      "originalUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/11/Waymo-One-Offering-Driverless-Taxi-Service-in-Phoenix.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/",
-      "publishedDateTime": "2022-11-19T23:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

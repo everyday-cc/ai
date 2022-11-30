@@ -41,6 +41,22 @@ related:
         width: 800
         height: 547
         isCached: true
+  - title: "Deepgram Acquires Additional Funding to Expand Its Enterprise Voice-Recognition Business"
+    excerpt: "Deepgram, a company that creates voice recognition software for businesses, raised USD 47 million in fresh funding from investors including"
+    publishedDateTime: 2022-11-30T11:08:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/deepgram-acquires-additional-funding-to-expand-its-enterprise-voice-recognition-business/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/deepgram-acquires-additional-funding-to-expand-its-enterprise-voice-recognition-business/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/deepgram-acquires-additional-funding-to-expand-its-enterprise-voice-recognition-business/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 35
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/Deepgram-Acquires-Additional-Funding-to-Expand-Its-Enterprise-Voice-Recognition-Business.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Deepgram Raises $47M to Define the Future of AI Speech Understanding"
     excerpt: "Deepgram today announced that it has raised $47 million in equity funding led by Madrona, with Alkeon participating as a new investor. Prior investors also participated in the deal. This transaction completes Deepgram's Series B round in which the company raised a total of $72 million,"
     publishedDateTime: 2022-11-29T14:09:00Z

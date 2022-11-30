@@ -9,7 +9,7 @@ ampWebUrl: "https://www.traveldailymedia.com/artificial-intelligence-data-analyt
 cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 2048
     height: 1184
     isCached: true
+
+related:
+  - title: "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector"
+    excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators."
+    publishedDateTime: 2022-11-30T12:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-data-center-accelerator-global-market-report-2022-growing-/2022/11/30/9721625.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "dXQmzEhrF/RrLSysOAlYgMNW44ocUOaVzxt2s7t2Qj5r3ZHxpIkp+RIiV9rTV/t6DLgLBoiwn9prU6W+Q4sB1SY/pwdxl0PRrCXndeTKdhyVeUFzMKv81flfxmSjLJ844TGHqM0MjVreJVljPkZUoj5V4StXf8+9FUXy2UEuRqMNBxxitaAUwHaG9BHd6Tx2JtGVDMcD53RruA1ESeIIeOk40lnBHKVXCXCx/nDW3kCZYqvEwVJq1GQIt/2jrwcqAzpAsLig/tUiOmfGN0Du1t2wmC6VLgOUGOYcwMKiXNytEoILwDyTfPKKlxmR+bu1oSb+SzjKAoIPU+sWQ3hTUl7rZuaxJQOnutjoxT/E8Q2xxIWkL9XOhSVYpGJ3XGjo2V02oK1sNG0yvx1r6vL69zK3B5Wp9YzubEwWgNfz7v7ZsHhmuhqPzenUxEw7FxgX5nBZcQqxdmhXnnhnP2pRhcVF+aML/CXiOFce0sQvqSpD1K+z30+5Ra/R8WY0PrtZOEdrrvvyRhaOC6AdADfW0A==;g8OaxE8J23udFwnL8hPv7A=="
 ---

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
-excerpt: "The AWS Partner Network (APN) is a global program ... eliminating friction and improving the experience of citizens and government workers using Artificial Intelligence (AI) SaaS Solutions. More than 5000 caseworkers across 8 government agencies in ..."
-publishedDateTime: 2022-11-29T19:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102"
-webUrl: "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102"
+excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
+publishedDateTime: 2022-11-29T18:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
+ampWebUrl: "https://www.benzinga.com/amp/content/29894595"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595"
 type: article
-quality: 64
-heat: 94
+quality: 74
+heat: 104
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+    width: 666
+    height: 282
+    isCached: true
 
 related:
   - title: "Spark Business Group Awarded 2022 Regional And Global AWS Partner Award"
@@ -53,6 +57,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "7SHmcJzysvlZ+6s3XJerrqak0gkpW9pPMHnmHc48FTGM0p0z8/iNdlw0DdVd4KvRENUejvhRKNdNWTptKTKtqBNquO/W6d6qibWq3YAf5aIWFZHeBSegHBrOymimVJyvTDXHglC+frlYFkfx5oM3Jg0zI+diQRx/V/fRTHoXZ+sw1NT6pl8X+CSdP+nr89vYwIA4kE7YkT76+Ff0TqPLJjh2gFmRDv9EjWBmlJ8St4sYgkVvTb7rKfjqRpqGGnOOoXFn0w51t8PdK3BIMRMQzSXJncp1hK4wJifRJaNYRYn12NzViuyq8Cr4kGPFLw3Dijy4y6XwZKxiBI+Shy/M9fOUPiWYgWikx40zWNFIE54=;qfMoOIwT57qz79mkRBHSyg=="
+secured: "zyWnVAxzgnxnq/ASiIsXj9iAZ0mHG7BsCCrMSsu/L6D9Glan+6PN978Bd5LSntSD9r+EiZFAwn+u+i5qIbqIVDr5Z89UJ5cgrwMeZxq88eM+8FHH1MulUXxm/XuFgGXYy7L5S2Wg25P/qbHFXBeE+oKOX3R0EpXbs8G+6BpkvJw1/y3/klSNvDf9MEmHfwz7TO8Ns8waRSCsELwD+Uh2ukK0LN62r5PivEAc33fdWx0bH04TcOMWN8EuqlrpUEw5a4Y6vAfDvD4Qo6y7JLJAoexNodO3EUwKxJdtkhUWNzAG351pLXzXT1G07eHILtc+u+U4eop2o4nV6ae3z5ijbs4eF8ZDFf35lePeT7IfHSQ=;jtoK3EPNRsT8aj0YEIFcVQ=="
 ---
 

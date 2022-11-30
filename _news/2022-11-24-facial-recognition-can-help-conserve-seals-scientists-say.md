@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals."
-publishedDateTime: 2022-11-23T17:48:00Z
-originalUrl: "https://www.bangordailynews.com/2022/11/23/news/portland/facial-recognition-seal-conservation/"
-webUrl: "https://www.bangordailynews.com/2022/11/23/news/portland/facial-recognition-seal-conservation/"
+title: "Facial Recognition Can Help Conserve Seals, Scientists Say"
+excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
+publishedDateTime: 2022-11-23T16:08:00Z
+originalUrl: "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say"
+webUrl: "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say"
 type: article
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/11/Seal-Facial-Recognition.jpeg"
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "G1QmdnEvFFyfbASrr9z13SyvKg3sow5jrZNmIfSfW1zdrxaUk6hgj0OUg20to/5smqmJZtGHNfMAVnVNoZ3QgM3b6kA41Im9qXrts3K+T5dZocYAwo5iYK1UkprWGipIFGpSTcAz10lyyn2/0PbgeD/ZaHb+ode7AoXv13AoUulEXVigZj6CNCdx6JljupNHGP/5rywqEe8nwNfBGPZcouNM0Rr3f6eyXidJAZ/tuD6mL+2CMTtwaC3oVcvIkCyLK+UerCSA7MsCq8K/To6/whUkMMxr/Yo2nuISuqEpnFj/30GTz4RCfxJpnYzLcA1XUS6fXImedL6/RBeZq5fNDl03sSirKEBZJKnvvCD0odo=;qBTYj8qFqI1jZwqTGWFUWA=="
+secured: "bc7v1m4DxVZw1u0jVThQ7bqf69xf5++3WCSGws5ka5M10ULN9AYMoMIzwToIDqtMdR02+JAnPbkfQzjylcGuopofNTLUF3NfFLVpr7lsSPzXQ1yzHJlh6pmQu9wl/9WoslaJOaRPIIvp/NbtDcYi65DV6+8IO1BaCNXiwbIZXnLeGi2b7XJzm/LSPgoEmANrSPO+S398gPymK40Fo7JI3wyO20uaCSaWFJZFc65W4F8VeE2aW8pvkL3OGISxazLGxmF/eKWl72EdRC0VuD9N+WPeL0/fGjrhTOy+cBBzMXBhQm9EiKWBgvIkjjzfsLDW39QmB4RQRtwbs15Z++V9V6Q8+SDjghX3xzzGKSEj46M=;4GRqRvab/IMiYAFu54Q3nQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2022/11/30/automotive-fintech-startu
 webUrl: "https://bdaily.co.uk/articles/2022/11/30/automotive-fintech-startup-secures-26m-investment-in-series-a-extension-round"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -24,45 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Crypto Remains Largest Investment Sector in 2022, Outpacing Fintech And Biotech"
-    excerpt: "Funding for crypto developer teams in Mysten Labs and Aptos Labs have lead DeFi and Web 3 deal-making in Q3 this year."
-    publishedDateTime: 2022-11-29T11:34:00Z
-    webUrl: "https://decrypt.co/115927/crypto-remains-largest-investment-sector-in-2022-outpacing-fintech-and-biotech"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 35
-    images:
-      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/crypto-token-investment-gID_6.jpg@png"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "TechSparks 2022: Growth lessons from powering leading global ecommerce and fintech brands"
-    excerpt: "Rakuten’s global ecosystem of more than 70 diverse businesses and 1.6 billion members, serving users worldwide comes with invaluable insights for businesses looking to scale rapidly. Hear first hand from the man at the helm."
-    publishedDateTime: 2022-11-29T07:02:00Z
-    webUrl: "https://yourstory.com/2022/11/techsparks-2022-growth-lessons-leading-global-ecommerce-fintech-brands"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 15
-    images:
-      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebnne-1669704543271.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Conversation Intelligence: the SaaS player disrupting the FinTech space"
-    excerpt: "Technologies such as AI-driven automation and SaaS solutions are rapidly transforming the way most of us carry out our financial transactions. In fact, the emergence of fintech has significantly reduced the need for people to visit banking institutions in ..."
-    publishedDateTime: 2022-11-26T13:39:00Z
-    webUrl: "https://www.livemint.com/industry/conversation-intelligence-the-saas-player-disrupting-the-fintech-space-11669468540369.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 4
-
-secured: "kH9nt+z/3PkLnEQfLVKiwW/IPAhawk1SMXqKTU2A9v5ZcNiu7LjVrHNwGeaGXG6P/Tq3tdPjY9UhaIOaaZ8UlFv4N9d9d1/AOzwsE/W5YS5GzMHgsoPfWc5cSxVyWCchsnKLux7mYnfepcD/MONRrp4acgdYjVzfrc3QLZWTFCwcIs7qO8Hsj+jVoinzHFcxiKZMIbF+8Ynm4p8eN5rPS4+Xuuex8Crp55cTkVr0z5Hw2piRAN050qRZeui7om2iS93a1QxIhxY8nUY3DIFiJd88XoKkC3CiVmbiWQXwp5c2T6G/IQL9zix8h37CtnWXAixBY3U3LryCXZBLOOiRp7Q/idXGcPKgrC/0G3t3LRw=;eHiJVX1Z4mnXJ2RsS06mkQ=="
+secured: "1pqR0htlWGBZSLsN2NmJIUZjswQcgnrXm6oS0+N+7TKogPmXAESbN4J8RhHpzicWozpuNIJUapzxvT926KP8Y6E+/hq7LgugIz2uGLBr6eLqdX4bqWhivtsVqEjMQPKqbKnCA5Ri+3JXCJ+lGf/BfyfElAmIhDFTRmMwA2M86CYO/jZC3qNGG+y082tAxywIZUQttdg4V/uKi/xVyI92430Mv7xboILPEhXylH9yj6jPQBEB6MkbLC8p1d3dDpBw2RU9Mwqj8tcNX5E0jkWnQqM13wstEzj6qbWGh1pcLS4QdxDHY7VtGN1SJTNcxJSTF8aRBKRgpp6nwdObMLY/oU1dpdrYB1klfMbPC2TqC3MNAzEfFVaUCQPIZcwWAUwCu45c/9zwFCLXhxbn3uDGEQ07eZXLNww7tFXTRwl5yp3lesjaPV86noJYYcul+sHS6SqQja908w3BIJ/P6WHdKe7D2/E2HzzGLGQQmZNdmesXjkkiSX5wSRMZ4BcCmpd32uoe/JRV4WTRiYatnhO49Q==;IQxAPS4ZaBd3CPl3FahSBQ=="
 ---
 

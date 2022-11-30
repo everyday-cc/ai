@@ -42,32 +42,32 @@ related:
         height: 641
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Supervisors voted to grant police the option to use potentially lethal, remote-controlled robots despite strong objections from civil liberties groups."
-    publishedDateTime: 2022-11-30T03:28:00Z
-    webUrl: "https://www.ksdk.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+    excerpt: "Debate on Tuesday ran more than two hours with members on both sides accusing the other of reckless fear mongering. Read more on Boston.com."
+    publishedDateTime: 2022-11-30T12:52:00Z
+    webUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
+    ampWebUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
     type: article
     provider:
-      name: KSDK
-      domain: ksdk.com
+      name: Boston.com
+      domain: boston.com
     quality: 59
     images:
-      - url: "https://media.ksdk.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.boston.com/wp-content/uploads/2022/11/San_Francisco_Police_Killer_Robots_07710-6386649ea96f1-scaled.jpg"
+        width: 2560
+        height: 1760
         isCached: true
   - title: "Police can use robots that kill, San Francisco board decides"
     excerpt: "Civil rights advocates opposed the idea, saying deploying robots capable of lethal force in any situation would lead to further militarization of police."
     publishedDateTime: 2022-11-30T02:30:00Z
-    webUrl: "https://billingsgazette.com/news/national/police-can-use-robots-that-kill-san-francisco-board-decides/article_e1ba5dee-0627-51bb-a11b-0a8603f2e11f.html"
+    webUrl: "https://greensboro.com/news/national/police-can-use-robots-that-kill-san-francisco-board-decides/article_ccaed498-f700-59b5-b076-8e43a49955b9.html"
     type: article
     provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
+      name: News & Record
+      domain: greensboro.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/e/1b/e1ba5dee-0627-51bb-a11b-0a8603f2e11f/6386d146b321b.preview.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/c/ca/ccaed498-f700-59b5-b076-8e43a49955b9/6386d147ac01f.preview.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

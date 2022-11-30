@@ -22,14 +22,21 @@ topics:
 
 related:
   - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
-    excerpt: "The AWS Partner Network (APN) is a global program ... eliminating friction and improving the experience of citizens and government workers using Artificial Intelligence (AI) SaaS Solutions. More than 5000 caseworkers across 8 government agencies in ..."
-    publishedDateTime: 2022-11-29T19:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102"
+    excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
+    publishedDateTime: 2022-11-29T18:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29894595"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
   - title: "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards"
     excerpt: "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers."
     publishedDateTime: 2022-11-29T13:36:00Z

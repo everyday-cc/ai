@@ -41,6 +41,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "First Minister speech disrupted by gender recognition protester"
+    excerpt: "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against"
+    publishedDateTime: 2022-11-30T10:40:00Z
+    webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss"
+    type: article
+    provider:
+      name: heraldscotland
+      domain: heraldscotland.com
+    quality: 24
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/16138459/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Nicola Sturgeon heckled over Scottish Government's Gender Recognition Act plans as JK Rowling praises protester"
     excerpt: "Nicola Sturgeon has been heckled over her Government’s plans to reform the Gender Recognition Act. Speaking at an event on violence against women and girls hosted by Zero Tolerance Scotland on Tuesday,"
     publishedDateTime: 2022-11-30T10:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://decrypt.co/115927/crypto-remains-largest-investment-sector
 webUrl: "https://decrypt.co/115927/crypto-remains-largest-investment-sector-in-2022-outpacing-fintech-and-biotech"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive fintech startup secures £26m investment in Series A extension round"
-    excerpt: "London based car repairs payment platform Bumper has raised £26.1m in investment from its Series A extension round via automotive… | London | Transport | Industrials | Funding | Fintech | Investment |"
-    publishedDateTime: 2022-11-30T10:49:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/11/30/automotive-fintech-startup-secures-26m-investment-in-series-a-extension-round"
+  - title: "How Fintech Impacts Financial Inclusivity"
+    excerpt: "What role does fintech play in financial inclusion? Southeast Asia has very high levels of smartphone penetration. In Indonesia, for example, 179 million people have smartphones,"
+    publishedDateTime: 2022-11-30T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 20
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://bdaily.co.uk/images/uploads/i4w12hOc4yQk5GrpMvXKufiRFlqV9KjGKY0iMUjf.png?w=1200&h=627&fm=jpg&fit=crop-50-50&s=9dd1f2f9f7d4d16d6c28eee2e1cceae7"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60eda0efdccb85252c59d7a9/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 627
-        isCached: true
-  - title: "TechSparks 2022: Growth lessons from powering leading global ecommerce and fintech brands"
-    excerpt: "Rakuten’s global ecosystem of more than 70 diverse businesses and 1.6 billion members, serving users worldwide comes with invaluable insights for businesses looking to scale rapidly. Hear first hand from the man at the helm."
-    publishedDateTime: 2022-11-29T07:02:00Z
-    webUrl: "https://yourstory.com/2022/11/techsparks-2022-growth-lessons-leading-global-ecommerce-fintech-brands"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 15
-    images:
-      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebnne-1669704543271.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
+        height: 660
         isCached: true
   - title: "Conversation Intelligence: the SaaS player disrupting the FinTech space"
     excerpt: "Technologies such as AI-driven automation and SaaS solutions are rapidly transforming the way most of us carry out our financial transactions. In fact, the emergence of fintech has significantly reduced the need for people to visit banking institutions in ..."

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "How Fintech Impacts Financial Inclusivity"
+    excerpt: "What role does fintech play in financial inclusion? Southeast Asia has very high levels of smartphone penetration. In Indonesia, for example, 179 million people have smartphones,"
+    publishedDateTime: 2022-11-30T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60eda0efdccb85252c59d7a9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 660
+        isCached: true
   - title: "Crypto Remains Largest Investment Sector in 2022, Outpacing Fintech And Biotech"
     excerpt: "Funding for crypto developer teams in Mysten Labs and Aptos Labs have lead DeFi and Web 3 deal-making in Q3 this year."
     publishedDateTime: 2022-11-29T11:34:00Z
@@ -32,34 +48,6 @@ related:
       - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/crypto-token-investment-gID_6.jpg@png"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Automotive fintech startup secures £26m investment in Series A extension round"
-    excerpt: "London based car repairs payment platform Bumper has raised £26.1m in investment from its Series A extension round via automotive… | London | Transport | Industrials | Funding | Fintech | Investment |"
-    publishedDateTime: 2022-11-30T10:49:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/11/30/automotive-fintech-startup-secures-26m-investment-in-series-a-extension-round"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 20
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/i4w12hOc4yQk5GrpMvXKufiRFlqV9KjGKY0iMUjf.png?w=1200&h=627&fm=jpg&fit=crop-50-50&s=9dd1f2f9f7d4d16d6c28eee2e1cceae7"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "TechSparks 2022: Growth lessons from powering leading global ecommerce and fintech brands"
-    excerpt: "Rakuten’s global ecosystem of more than 70 diverse businesses and 1.6 billion members, serving users worldwide comes with invaluable insights for businesses looking to scale rapidly. Hear first hand from the man at the helm."
-    publishedDateTime: 2022-11-29T07:02:00Z
-    webUrl: "https://yourstory.com/2022/11/techsparks-2022-growth-lessons-leading-global-ecommerce-fintech-brands"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 15
-    images:
-      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebnne-1669704543271.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "XKoAng4KEMn9h7geQ951sv2grAv34cpavP0o9pgAP5EIwdUjeY8D06dNS21FP2laMw5O/2TkEGSP6Opb9UG2PGMXF+7kTDI+IriCgZEEv8S/S//UNb8HyHgbaNEwgQqtpqwcag133OT1aM7pPu9c2nbf3Pe1+7aYzA23czUJIUUFWjmTaOBfr4TU56m+uDwJVnFHVO15MXRwQ/N5j/kQxNB+oho//isOVSh4OqycCmjNEDRm4Z/snWBA9hTvOXBEG9nYApH+esG/VscV0U1SvM9Ov2EqpDnHO0hy8nghGzcPSssTFubeJQ8y0+UdVrskxsjcDINVj17H4uGSjNNm9/1YBomwO5MidT0iCn2yDdmtSAKmVe79j1yaFe9UuFkudmn6fwfxIJ7/hzD7CcqQlUF0gX+PmoxZF8AL/r+jYSSUGIcyX1/DkVgxulNpgONv+RiO5oFDmi6UqZgxKtfa0p/Q3FoRTwbbFBTHxfEViw5rdVZqwc/88NWBuQm9St8uZQaPXHHtSbg1PMQawHxVkw==;2NhFgiWDWpBvuZ+xTD+jKw=="
