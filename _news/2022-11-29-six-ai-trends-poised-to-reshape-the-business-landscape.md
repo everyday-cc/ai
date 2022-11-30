@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-tre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

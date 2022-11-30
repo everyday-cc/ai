@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/5-ways-how-artificial-intelligence-ai-will-r
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-how-artificial-intelligence-ai-will-revolutionize-the-game-development/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 79
 published: true
 
 provider:

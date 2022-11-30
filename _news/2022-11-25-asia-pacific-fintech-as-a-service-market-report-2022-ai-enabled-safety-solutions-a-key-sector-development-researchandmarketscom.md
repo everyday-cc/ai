@@ -2,9 +2,9 @@
 category: news
 title: "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com"
 excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
-publishedDateTime: 2022-11-25T14:01:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/25/9719654.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/25/9719654.htm"
+publishedDateTime: 2022-11-25T15:57:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/25/9719654.htm"
 type: article
 quality: 0
 heat: -1
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 2
 
-secured: "kVD8jvJL1RxBZEdgQBceJkuTP6W2R3eMITAzpQyJ0Vt/mRHtHC94Sawu8XJfOh328agKm2xwR4YtLjany4ds8SlN5cgeworxr8ZLMEDlIfvezGtiBpuktuwjo4aCA1tjrXveJ9nLr4bIH+gvxL0/C7Fxu+hY67HsLTdjJG4+/N/++VWQwwuI69qT9WgYtE0vqpPf9LIKA4n8j+vKAOQmC3vRwaDCJ/HQOB5k+tIJpqkzO7qDuOD2RkwoZap+PZoMRAydcYW0rPC/9n6bBbwnnon82iiUuQ0frQB89h1s/uh4nvPbmTol7vFWMsPBTjx4qG1mqzbfoWuNr9od+IGs+cV5SNgHyQtCu5e8y/i43VA=;PDj5Fn4o5nFSP+qZ9g2AZw=="
+secured: "DBt+YF/+nplWI1mlX3dIfi659H0+y9bte7+U/+sCa6Budwwb3PG14kN9mCkREjRhtH7fuNa4wiVTWSeNVBpWply5udwQC+D8XGcvRsKh8LFmaI73PwQRzBCDTqLg1MTJ3mgpyY7Kw2iNarm/uOD1HI7jhWK9iSywUMO7QulEzhvl94gzBC3R9L/+8tZWlo3S4rnXERvv+MCNtmmL072imKbueM23FKAdbf1NDe+K8LMD6Kdnr7B1EzmaebZ5kWQUkIOXeSowq3GHWj4JG0NGQ8Khtk6J/f04DdwaY2a55qrvzmdGKK1mHHn/1EJCcZrwG5iGBbDKVmCKPn9d4yv+lFSqFuZH38dBYIBJCUuE41E=;E9yUaFKzdP2Mw2gY8DWhOg=="
 ---
 

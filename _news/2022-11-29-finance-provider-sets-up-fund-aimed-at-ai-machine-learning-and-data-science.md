@@ -7,7 +7,7 @@ originalUrl: "https://www.thebusinessdesk.com/northwest/news/2106804-finance-pro
 webUrl: "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing the Power of Data and Artificial Intelligence in Higher Education"
+    excerpt: "In this industry fireside chat, Campus Technology Editor-in-Chief Rhea Kelly will speak with industry experts about key challenges that colleges and universities face across the student lifecycle and how intelligent data analytics can help better engage leaners from the moment they express interest in admission all the way to graduation and beyond."
+    publishedDateTime: 2022-11-29T20:00:00Z
+    webUrl: "https://campustechnology.com/webcasts/2022/12/quantiphi-aws-power-of-data-webcast.aspx?tc=page0"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 53
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Can AI Learn Better without Learning Anything at All?"
     excerpt: "What if machines could also meditate or do nothing for a day or two—to learn better? As absurd as it may sound, a group of researchers have now discovered how artificial neural networks can mimic sleep patterns of the human brain,"
     publishedDateTime: 2022-11-26T10:29:00Z

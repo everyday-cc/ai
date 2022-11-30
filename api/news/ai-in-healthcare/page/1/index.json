@@ -10,7 +10,7 @@
       "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -976,6 +976,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
+      "title": "How artificial intelligence is being used to stop retail theft",
+      "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "originalUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "publishedDateTime": "2022-11-18T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox13now",
+        "domain": "fox13now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-cognitive-stimulation-therapy-cst-and-icst.md",
       "title": "Cognitive Stimulation Therapy (CST) and iCST",
       "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers Cognitive Stimulation Therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
@@ -1384,59 +1428,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-picture-limitless-creativity-at-your-fingertips.md",
-      "title": "Picture Limitless Creativity at Your Fingertips",
-      "excerpt": "Now picture Lee 43 years later, stumbling onto DALL-E, an artificial intelligence that generates original works ... “A huge portion of the entire usage is basically art therapy,” Holz, the Midjourney creator, tells me. “The images are not really ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
-      "originalUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/637549891fb094c5b94def5a/master/pass/Engines-of-WOW_AI-Art.jpg",
-          "width": 4875,
-          "height": 3331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
-      "publishedDateTime": "2022-11-17T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

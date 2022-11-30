@@ -66,6 +66,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA's generalist AI tech plays Minecraft, wins conference award"
+    excerpt: "NVIDIA's generalist AI agent plays Minecraft, wins itself an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS conference."
+    publishedDateTime: 2022-11-30T05:26:00Z
+    webUrl: "https://www.tweaktown.com/news/89694/nvidias-generalist-ai-tech-plays-minecraft-wins-conference-award/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/8/9/89694_05_nvidias-generalist-ai-tech-plays-minecraft-wins-conference-award.jpg"
+        width: 620
+        height: 348
+        isCached: true
   - title: "Why researchers are teaching AI to play Minecraft"
     excerpt: "OpenAI used 70,000 hours of Minecraft player videos to teach its computer the popular game. Here's why that matters for future technology."
     publishedDateTime: 2022-11-28T19:01:00Z

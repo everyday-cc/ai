@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Quantinuum QNLP partnership with BBC, UCL"
-    excerpt: "Quantinuum, integrated quantum computing company, has joined a consortium with University College London (UCL) and the BBC to explore the industrial relevance o"
-    publishedDateTime: 2022-11-25T13:11:00Z
-    webUrl: "https://advanced-television.com/2022/11/25/quantinuum-qnlp-partnership-with-bbc-ucl/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 19
   - title: "UCL Computer Science To Explore Natural Language Processing On Quantum Computers For Content Discovery and Archive Retrieval"
     excerpt: "A new consortium funded by the Royal Academy of Engineering will build on work in quantum mechanics and linguistics conducted over 15 years by researchers at University College London and Quantinuum CAMBRIDGE,"
     publishedDateTime: 2022-11-28T23:00:00Z

@@ -43,35 +43,33 @@ related:
         width: 1024
         height: 704
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Supervisors voted to grant police the option to use potentially lethal, remote-controlled robots despite strong objections from civil liberties groups."
-    publishedDateTime: 2022-11-30T04:27:00Z
-    webUrl: "https://www.wltx.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    ampWebUrl: "https://www.wltx.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 59
-    images:
-      - url: "https://media.wltx.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Police can use robots that kill, San Francisco board decides"
     excerpt: "Civil rights advocates opposed the idea, saying deploying robots capable of lethal force in any situation would lead to further militarization of police."
-    publishedDateTime: 2022-11-30T03:30:00Z
-    webUrl: "https://tucson.com/news/national/police-can-use-robots-that-kill-san-francisco-board-decides/article_e7bde5c9-1fa1-5f88-8fb0-212d8ee01a10.html"
+    publishedDateTime: 2022-11-30T02:44:00Z
+    webUrl: "https://www.channel3000.com/i/police-can-use-robots-that-kill-san-francisco-board-decides/"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/7b/e7bde5c9-1fa1-5f88-8fb0-212d8ee01a10/6386d14a4600d.preview.jpg?crop=1736%2C977%2C0%2C108&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/10/i/m/b7a4c7320f777fb2dd88c5f86e04f7792943bd0e.png"
+        width: 1010
+        height: 720
+        isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "The vote was 8-3, with the majority agreeing to grant police the option despite strong objections from civil liberties and other police oversight groups."
+    publishedDateTime: 2022-11-30T04:02:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2022/11/30/san-francisco-will-allow-police-to-deploy-robots-that-kill/69687813007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/11/30/PDTN/2e2f1bf1-0dfa-45e3-815d-18330bd6efdc-AP22333707907710.jpg?auto=webp&crop=2999,1687,x0,y184&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "/ULLcNiT5prUssJ4q4WOjndG1mKeMDWWTR/JR3RhgID1ruZPfFoxOFUhpSJrPPB4LCxQJuOkNewA701bx0zZA3YwfxDkdNbcOeXeBdGnMqJUXApaeOyJRIoEPbCOtKKCobFsLUR4rviV10slq/v4XGMwTTqFhnsKQDq4Pw0L4COaZ672m37e/yT/1vZ+WPcmzFnQLVqW458RdWrzq5oC5EdnCwvNLJ7GCuS6KIXFBZ1g4RplbEiu9w/QGpnnqPgJj+BEO0RQwLQNYF0x4zdU9PH3PpaGZbmmGJBGvU5oqOCskANRb5S2RontJ+2Ui+kaKDFFIK/9eH/nvmvEbJNPuZa7u6VXd2+4nLot/3Li1uk=;qgGKHBoId+4WUvnrT/ab5g=="

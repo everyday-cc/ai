@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-29T10:00:00Z
 originalUrl: "https://www.businessinsider.com/vcs-share-unfiltered-thoughts-top-ai-data-startups-snowflake-databricks-2022-9"
 webUrl: "https://www.businessinsider.com/vcs-share-unfiltered-thoughts-top-ai-data-startups-snowflake-databricks-2022-9"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI in Healthcare
   - AI in Autos
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/6360338a0b271e00186bbc5e?width=1200&format=jpeg"

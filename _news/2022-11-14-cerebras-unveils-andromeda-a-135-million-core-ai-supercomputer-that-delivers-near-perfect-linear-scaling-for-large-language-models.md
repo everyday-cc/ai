@@ -2,25 +2,19 @@
 category: news
 title: "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models"
 excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work."
-publishedDateTime: 2022-11-14T13:02:00Z
-originalUrl: "https://www.eagletribune.com/region/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer-that-delivers-near-perfect-linear/article_c24f2495-3df3-59ac-8b77-f96b935c0157.html"
-webUrl: "https://www.eagletribune.com/region/cerebras-unveils-andromeda-a-13-5-million-core-ai-supercomputer-that-delivers-near-perfect-linear/article_c24f2495-3df3-59ac-8b77-f96b935c0157.html"
+publishedDateTime: 2022-11-14T14:11:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/14/9712263.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/14/9712263.htm"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/4/cc/4cc98bb2-1a71-5110-98f6-e573aa7c24c8/63724f1bea9a9.image.jpg?crop=1981%2C1040%2C6%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "p1GrM1I6GD4tlOnoLsStEUa8AVdtqKK2maUuqqNHkcf90nsvqzZK1Bg/8LNjANPBuQCGcqzhGwlre7sniW6LwR7gLBQKT4k9ZsaH6qurkL/EepedDx9Uo+xM3yviFVRXHj5fUGRTYHHTIvabQg37mIDTsgDGaPg3h2fLxMP58S+KjgTU7Fd99DJMt9bddqOQ2AfP2mgVLT6cmknLPLcAnk/xIztk7bIb4GdQ5T8G3JqrSjNGXmdP/52ELWsLdkpBlLOvwTj9B7AARQAToQJaP6KIGn54kFIcyBR0B2qJAjobQZch7D8SvBZRSiN3UoutCtWje3uKDlUD5vM3hCQWfLc28JUJcvkZHQglUqTNsmc=;vyzD6qLPvfptaS9Y4hSdPQ=="
+secured: "7Nxkjo0S5yhPLnrGI1qHWtYYHALVy0FIYg8frnM+P1Dhb2xiiJBXMTehv7hQbXnJAOs2N03rrZqkWm3p2XXSbBU64QrNtaFxuOy9gQncKjdJZ/VUh5pDBIQb3grlshgLK78b6qXM2L3GhFYT4oE6IkOtjDSbIOgmjUoVHS8oX++G//qvxjWJhAaBA1v5PzIqvzwsyYLdGAUG/Xfc/ZL6xcrGWjE4xlm8bAGmYfM3wKTik4ByPt763nIgZc3huNIyvah8QE5FFDpS/A1BVaFXMvn4rC8TfoZB+2qlhvw4Oyj2GBrIWBZFNw+kaS/8DgQuUmDu+1EHtjSRAKSdhZ+2ZfxrIbl0r9zbeXz/PoxQtdMNaAROPcBPmiw8rkEllKndxvw8Ykbr7Xh6IALtACAHbuW8TgD/SHtqg/POFBn1ubxKm1Eyr6XNfG00MY8J/RzFjVW31DlTAPYkj0RT17bIGZaBTugURPUKRBLXoZ5blKu+RjXpBf3Fdqnjaq8NZ6zBNCLdqyPZAkhWunNslfNYqg==;ZjZIFOaUT/HfxyM9Lnnu+w=="
 ---
 

@@ -57,6 +57,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "NVIDIA's generalist AI tech plays Minecraft, wins conference award"
+    excerpt: "NVIDIA's generalist AI agent plays Minecraft, wins itself an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS conference."
+    publishedDateTime: 2022-11-30T05:26:00Z
+    webUrl: "https://www.tweaktown.com/news/89694/nvidias-generalist-ai-tech-plays-minecraft-wins-conference-award/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/8/9/89694_05_nvidias-generalist-ai-tech-plays-minecraft-wins-conference-award.jpg"
+        width: 620
+        height: 348
+        isCached: true
   - title: "A bot that watched 70,000 hours of Minecraft could unlock AI’s next big thing"
     excerpt: "OpenAI has built the best Minecraft-playing bot yet by making it watch 70,000 hours of video of people playing the popular computer game. It showcases a powerful new technique that could be used to train machines to carry out a wide range of tasks by binging on sites like YouTube,"
     publishedDateTime: 2022-11-25T17:09:00Z

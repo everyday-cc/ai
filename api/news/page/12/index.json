@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-11-17-notions-latest-feature-is-an-ai-that-can-write-blog-posts-to-do-lists-and-more.md",
+      "title": "Notion's latest feature is an AI that can write blog posts, to-do lists and more",
+      "excerpt": "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
+      "originalUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/notion-ai-announced-202032305.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html",
+      "publishedDateTime": "2022-11-16T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-global-machine-learning-market-to-reach-16405-billion-by-2028-with-a-392-cagr.md",
+      "title": "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR",
+      "excerpt": "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-machine-learning-market-reach-16405-billion-2028-/2022/11/16/9715226.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
       "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
       "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
@@ -1051,83 +1137,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
-      "title": "Israel deploys remote-controlled robotic guns in West Bank",
-      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
-      "sourceUrl": null,
-      "webUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
-      "originalUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Sun",
-        "domain": "lasvegassun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-netherlands-coalition-aims-to-demystify-artificial-intelligence.md",
-      "title": "Netherlands coalition aims to demystify artificial intelligence",
-      "excerpt": "Dutch citizens need to learn about the impact of artificial intelligence on society and their lives, says the Netherlands AI Coalition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252527232/Netherlands-coalition-aims-to-demystify-artificial-intelligence",
-      "originalUrl": "https://www.computerweekly.com/news/252527232/Netherlands-coalition-aims-to-demystify-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252527232/Netherlands-coalition-aims-to-demystify-artificial-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527232/Netherlands-coalition-aims-to-demystify-artificial-intelligence?amp=1",
-      "publishedDateTime": "2022-11-15T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

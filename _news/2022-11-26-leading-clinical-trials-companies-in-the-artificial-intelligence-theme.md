@@ -38,15 +38,6 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Using machine learning to infer rules for designing complex mechanical metamaterials"
-    excerpt: "Mechanical metamaterials are sophisticated artificial structures with mechanical properties that are driven by their structure, rather than their composition. While these structures have proved to be very promising for the development of new technologies designing them can be both challenging and time-consuming."
-    publishedDateTime: 2022-11-25T14:30:00Z
-    webUrl: "https://phys.org/news/2022-11-machine-infer-complex-mechanical-metamaterials.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
 
 secured: "ngBVnv6nubc7vnADwiu7U9yin2cfQYdgBIgKT2hyNlFClcEHZ1EmwENMMWzld6YLuwPNsxykQl3SHbODMUDLbRyhp+EVMGogynJ0m+mFUiWTzulRMoxAQlPURhCRQq3izLZ4StkJV4NLlgFIWPO5pxwtyMwVDlujVIOhD63W5jJrclO4I+/sdSyjBreyVW7wg7oBsU2bi0oyvRxyANWrscDdiXJDTXWc3SzZkO/dMmwrDnPra8LfkPIKhqnZmXUg70GdvuQLHmoLtlrgoKl1dmgJQa9zbzsNq/8SAH8EJsUICbIog0rNKvfub7CEJi9VeOo9dNtHMnHY1IkFf13AqEmp4Aq1n+4l/8oIvU7IfQA=;nGRn15xixGoQNdIF6mD/rw=="
 ---

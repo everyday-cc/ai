@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-c
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
 type: article
 quality: 78
-heat: 78
+heat: 79
 published: true
 
 provider:
