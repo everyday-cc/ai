@@ -77,6 +77,20 @@ related:
         width: 300
         height: 228
         isCached: true
+  - title: "AWS Introduces a Flurry of New EC2 Instances at re:Invent"
+    excerpt: "AWS has announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips, as well as several new Intel-powered"
+    publishedDateTime: 2022-11-30T02:30:00Z
+    webUrl: "https://www.datanami.com/2022/11/29/aws-introduces-a-flurry-of-new-ec2-instances-at-reinvent/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2021/11/aws_logo_shutterstock_Michael-Vi.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent"
     excerpt: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent - SiliconANGLE"
     publishedDateTime: 2022-11-29T23:10:00Z

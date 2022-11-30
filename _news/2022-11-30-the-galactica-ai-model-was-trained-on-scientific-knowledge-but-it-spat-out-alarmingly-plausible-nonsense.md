@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/the-galactica-ai-model-was-trained-on-scien
 ampWebUrl: "https://theconversation.com/amp/the-galactica-ai-model-was-trained-on-scientific-knowledge-but-it-spat-out-alarmingly-plausible-nonsense-195445"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-galactica-ai-model-was-trained-on-scientific-knowledge-but-it-spat-out-alarmingly-plausible-nonsense-195445"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.theconversation.com/files/497833/original/file-20221129-20-3szdx1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=475&fit=crop"

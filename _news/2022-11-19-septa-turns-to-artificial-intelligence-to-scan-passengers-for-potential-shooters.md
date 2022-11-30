@@ -5,6 +5,8 @@ excerpt: "The new software is designed to quickly identify when someone draws a 
 publishedDateTime: 2022-11-18T20:14:00Z
 originalUrl: "https://whyy.org/articles/septa-artificial-intelligence-scan-guns-zero-eyes/"
 webUrl: "https://whyy.org/articles/septa-artificial-intelligence-scan-guns-zero-eyes/"
+ampWebUrl: "https://whyy.org/articles/septa-artificial-intelligence-scan-guns-zero-eyes/amp/"
+cdnAmpWebUrl: "https://whyy-org.cdn.ampproject.org/c/s/whyy.org/articles/septa-artificial-intelligence-scan-guns-zero-eyes/amp/"
 type: article
 quality: 12
 heat: -1
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://whyy.org/wp-content/uploads/2021/04/2021-04-05-e-lee-philadelphia-somerset-station-septa-market-frankford-police-on-platform.jpg"
+    width: 2100
+    height: 1400
+    isCached: true
 
 related:
   - title: "Huge Potential – New AI Material Learns Behaviors and Adapts to Changing Conditions"
@@ -28,6 +37,6 @@ related:
       domain: scitechdaily.com
     quality: 13
 
-secured: "ZsZmvVWYq0i8+Prti0ffDSo7A315ot18Qsid6kH5pKOkF4xjXNd00vn+4NNcCfhMolW9uQWcU4y4EfulHOzgo+QeYrY21z8r6MxYykjH8EFCeswqQY5sUZ0n9egZtHdL6stJdiCt07bLanLP6ErlM9Tx/GztiZsWQ7QQ4p8LDjDw6MZWdjmMCbDBJ0lPsOfDGvgGxmP8bGXNfG0vpe1qEUgKwA0NgwHYYV8XrsrW7JZ26qR01WibEzw4MJt79hgbWztUQknoTdR+9WJ/M++pNQ70rKqv+Feg4D49jmm0c/niutX0y06T/elEf8obp+UHNAYm3/zAYWdpkGBDrIZHKW/7qekh+BfxLvViBeOdk/e3DBA8R9ncFhQ5ccQeGqmPBFs1Kh85phHqJVgD7ZvDI921E9wYm6QMzHw8y7ROW3a/XgVF+rWVWC4U/pMdJuF5HUgdCwKi0wqCRD5YDJWjrL0Z2W4+dtMz388vpFToMhl3vFPCBXjYxi/FANx3dbrwPMrmtWhL7p679Op2+esEFQ==;wDEbwi2rEWgcMDnfQus25g=="
+secured: "oWRmt//lQ8koFX1IN/TuatCiaNpavRjpO3pPBww0OX4UmlbQThz27oADRwTmKNNLK9UOnC6tz+kWAU9hMPs2EFIQycWH56XBGf/zjn+KDPHzoScvaLv7su9Z0d93zGqC1wjRqrPmYehcHAkLnbGEelfCGuGMuqYitti4jiA6Ba2uyx+9avpmXC3x5hgP0soj8jlJgV4ks5TXg+sBmL71X/A0HDW1ZCQv9kqQBtEYVe0b3yTl0htJEISDv4IzTUqFUu59NZHzDieNjb/Yn7RxcUJTOOoS9uAxCRRhNIOKUNHeoznlgiPybSCW8S37dOVCgE8utQGyt2LFYm4jhnO8AErvEVVKZ5GG/PCS4gfKxKk=;Csrmzd5mPjqBZN+BcXqw2w=="
 ---
 
