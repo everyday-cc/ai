@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
+      "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
+      "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/gesture-floating-window.jpg?p=1",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
+      "publishedDateTime": "2022-11-18T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-diverse-teams-are-needed-to-save-the-planet.md",
+      "title": "Diverse Teams Are Needed to Save the Planet",
+      "excerpt": "For Lila Ibrahim, chief operating officer at DeepMind, and Hayaatun Sillem, CEO of the Royal Academy of Engineering, being both female and people of color meant the odds were stacked against them in their industry. But for Sillem, who is the first woman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
+      "originalUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6376afe5aed231a201071873/master/pass/0393_WIREDImpact.JPG",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wired-impact-diversity-inclusion/amp",
+      "publishedDateTime": "2022-11-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-the-birth-of-ai-powered-fastsaas.md",
       "title": "The Birth of AI-powered FastSaaS",
       "excerpt": "Led by investment from OpenAI Startup Fund, Mem was the first to introduce an AI-powered workspace organisation tool, with its product, Mem X. Notion’s reinvention of its platform may have been a direct effect of the shift in tide towards many of the AI application tools.",
@@ -1070,111 +1174,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-large-scale-feature-engineering-with-sensitive-data-protection-using-aws-glue-interactive-sessions-and-amazon-sagemaker-studio.md",
-      "title": "Large-scale feature engineering with sensitive data protection using AWS Glue interactive sessions and Amazon SageMaker Studio",
-      "excerpt": "Organizations are using machine learning (ML) and AI services to enhance customer experience, reduce operational cost, and unlock new possibilities to improve business outcomes. Data underpins ML and AI use cases and is a strategic asset to an organization. As data is growing at an exponential rate,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-feature-engineering-with-sensitive-data-protection-using-aws-glue-interactive-sessions-and-amazon-sagemaker-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-feature-engineering-with-sensitive-data-protection-using-aws-glue-interactive-sessions-and-amazon-sagemaker-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/large-scale-feature-engineering-glue-sagemaker.jpg",
-          "width": 1550,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T08:35:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-speak-lands-investment-from-openai-to-expand-its-language-learning-platform.md",
-      "title": "Speak lands investment from OpenAI to expand its language learning platform",
-      "excerpt": "Prior to starting Speak, the two spent a year studying and researching machine learning and developing accent detection algorithms using YouTube videos as training data. “Most language learning software can help with the beginning part of learning basic ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/",
-      "originalUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/image_Wifi3R_2022Q1_22H024x007_007_Chatham.max-1000x1000-1.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/speak-lands-investment-from-openai-to-expand-its-language-learning-platform/amp/",
-      "publishedDateTime": "2022-11-17T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-29T20:30:00Z
 originalUrl: "https://omaha.com/news/science/15-things-ai-can-and-cant-do/article_1ac69118-1e9b-5d2c-b482-f18396a2499a.html?amp;amp"
 webUrl: "https://omaha.com/news/science/15-things-ai-can-and-cant-do/article_1ac69118-1e9b-5d2c-b482-f18396a2499a.html?amp;amp"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/ac/1ac69118-1e9b-5d2c-b482-f18396a2499a/63865d2589158.preview.jpg?crop=1007%2C529%2C0%2C94&resize=1007%2C529&order=crop%2Cresize"
@@ -35,6 +36,6 @@ related:
       domain: forbes.com
     quality: 49
 
-secured: "0udCwJcmgEpNSzQ1P3eZmkrbyuMS+yLKd40Wj5mmVSMWAk7llRidL2nuPcRigz93+6yJSeRNQb8Neqek+cyDu5p4SgrQXIUs5GnFJuXePb9LlvhUum5A7QDN6V/dEwoJouWTu/ytVgIxBGo91PUYfWfjqe81n6xkD/3YQDRMOaW4VICdkVshqGKxrbI01VB+XlhOCu9xz3EE6P7G0Oj9qmIweokW75IPdE2q12D/C/6CIvV0WFWOSbImHSKa8Kg/Ph4tJSGyLk4DeboK2T5k+V/KAdtleRJIsWWVe667aGwz/aCNvJi/UVOQWv67OTw6VA1pBE8j518gdM3kWqID0IhVBeB4Bztw370EHjPryh4=;F0Thc6xNtVB6Hx/aMuGBhg=="
+secured: "BoYUH3jS2rIrh0LlEmPLo9FHi+0XgnThmKPkEWNQZmB74chGToylcT19xj8gtcq+pv0Yj0BMwyBU4SzS01AjPvrwL/Jj5BsXTkrgR2tFpBjRJBecYPcxub+e+TjvoOy7W4HFoWxH2hUwpUP8kwgEmLJ7AO1qMwn+pGbyIOSdzHVbbMeIVu4lFfFj6+sSCGBVDchr2cxYzGzhy+IbveZbfkZqjU+fE5bw+1N+bqB7GbJMKpkdYHLTWHwQp5jrJSCSKW7m/rH9/GvyhrVQi6SU6d1beqIN+TVnCkeVV43rRRyOVC9nKtFI9n+Lv3RP7BMtLhQ/35jMv8xpU/A33zFSW6qBvDN+r+vwHKvn/kf50nDN5fO7QjGq/HQIAjVCtHIsEDk3jIKIsMcwkPRbu2TlY4r644xGJmmhqrhLAlAE8tC9umT/3NVZ7oYWdX/d7/wCKVOQ8RSbP4NOQYW8cAEdpmKwmHPqn1wlknXURCuH+ehDSloWClZ4ITW3sRmhD5tCbREujj8VUtw36Rj7STt4dA==;7Y1tnFW7GOZTdhTyaRmb/w=="
 ---
 

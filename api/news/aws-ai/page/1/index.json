@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-11-30-cardinalityai-awarded-2022-regional-and-global-aws-partner-award.md",
-      "title": "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award",
-      "excerpt": "The AWS Partner Network (APN) is a global program ... eliminating friction and improving the experience of citizens and government workers using Artificial Intelligence (AI) SaaS Solutions. More than 5000 caseworkers across 8 government agencies in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-30-aws-announces-aws-supply-chain.md",
       "title": "AWS Announces AWS Supply Chain",
       "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
@@ -129,6 +86,49 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-cardinalityai-awarded-2022-regional-and-global-aws-partner-award.md",
+      "title": "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award",
+      "excerpt": "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
+          "width": 666,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29894595",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595",
+      "publishedDateTime": "2022-11-29T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

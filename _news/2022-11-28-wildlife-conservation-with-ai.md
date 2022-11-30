@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Conversations That Matter: Working with artificial intelligence"
-    excerpt: "Anew book, Working with AI, Real Stories of Human-Machine Collaboration, endeavours to show that the needle can be moved by adding artificial Intelligence to the complex work of today’s world. Sign up to receive The Canucks Report newsletter,"
-    publishedDateTime: 2022-11-25T15:05:00Z
-    webUrl: "https://theprovince.com/business/conversations-that-matter-working-with-artificial-intelligence"
-    ampWebUrl: "https://theprovince.com/business/conversations-that-matter-working-with-artificial-intelligence/wcm/281dc7de-2ae5-4bb5-b273-484bb2a370f9/amp/"
-    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/business/conversations-that-matter-working-with-artificial-intelligence/wcm/281dc7de-2ae5-4bb5-b273-484bb2a370f9/amp/"
+  - title: "Facing Grey Swans with AI"
+    excerpt: "In today's world, everything is connected to everything. This hyperconnectivity leads to a lot of grey swan events: events that have a low probability of"
+    publishedDateTime: 2022-11-28T10:22:00Z
+    webUrl: "https://www.techzine.eu/experts/analytics/95414/facing-grey-swans-with-ai/"
     type: article
     provider:
-      name: The Province
-      domain: theprovince.com
-    quality: 57
+      name: techzine
+      domain: techzine.eu
+    quality: 37
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2022/11/tdavenport_babsonmag2019_274167335_qw.jpg"
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/11/shutterstock_540433660.jpg"
         width: 1000
-        height: 750
+        height: 625
         isCached: true
 
 secured: "ouGSieBIAUcp7nP2uaD0OlD3rCcd2fveja+uv6xQOOBy7tuGhIHi4oQXZlJl/3FwnwIEXLdklu1nCwRxZtBHh8mfk63GozmaBGGd7ngVE04k5X4gwHkCm1OymbtrTTj9cDj/ER60MRTFrZCUh7O18fceyp4EWPRx6mL8m5dbctz2tzvC22gcppaC51L8HAQeREuVlnpaVTyMJufCe5n/xXQ6as9icP3tQ7Ch+d3/GzCYjf/lr4xhsu59vdsKVkcDSkFtLBz8Ub1hGGozY1GVv3VoHat967s2u8XOyY+aNJFNb6zjjeJQ8f1LlTNE6pEzmt6x15MVzZjBQoDMkg8CajiuiPqsaupVGF6WAVZloWI=;u4wHPUJuzkH2x8tpH17qRQ=="

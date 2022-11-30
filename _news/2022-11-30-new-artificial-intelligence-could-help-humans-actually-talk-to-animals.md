@@ -1,23 +1,20 @@
 ---
 category: news
-title: "New artificial intelligence could help humans actually talk to animals"
-excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-publishedDateTime: 2022-11-30T01:55:00Z
-originalUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+title: "New Artificial Intelligence Could Help Humans Actually Talk To Animals"
+excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom — with limited success."
+publishedDateTime: 2022-11-30T02:02:00Z
+originalUrl: "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/"
+webUrl: "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/"
 type: article
-quality: 59
-heat: 69
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: Newsy
+  domain: newsy.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -42,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "F3ExS/4P4f9C4zUCvuUlOF5wBYmsnItAKpjzE1ZaLIcQ/AOo2W7+QC+Nl58Hbg8I+SvIV0lTPeg46Fyu7PU4k/6DiGSFht9tkyHqwbvbt7HcZL+R+YyCdSYmCMkokynDyBv+IF0d7SXzU093jVkrFCmBVLa8R/rNlHXuYPPZ3qsSsdKXPEpC9hhDpcF5cRCWG3uJGrLd04mxb89hE/g8tg7+XuFvFq1Tcy8hTWh0PGajWidwX7nydupUUIg5LRTeJx4/LpDUsjvXbTx9zxcty7nXqxMl+AxiTFrE3GBhK7XXq2vl/3zW4Eppt5N9CoSi/xMRza2cZFeZim6TV/FRsltZXuOsq6PNbRHlqvBiPVg=;ZjXLPqHWjdJLzsXQwAfTIA=="
+secured: "+rzF93ZaoRT5UPLwiPWNafVeKWBIsxPN92hBN0le08UrZ8VXZ2PkX0saysOfSR6IPNt6d40oeK1rodC8tG+qMT9lNEyB73bAyIatVKLSYE2ZkZDPpmgzktoCTeM/ubCNSnISCeesNBvhTnZFkf8sVDRxno98ih8BWPg85aokKVjOqk+nXTuQFxBmzdEF9ZwYs5cdag1hMjLtJnojeSwzMxf7WMtlZPAcRn+PvCW6LWqY2GNkJefvHPVqFLoW5eOVcbKjKcOtafoYbLkw+FBRaNhuvIl8Mme6slonAtDzX4uIx5lwZkjGFE0wL7bdX93N/UlVjHErHGAIPJVppfckQLKlg/0SD3XFyENFlqC081g=;Y+Ha6jfatpXyiLpxiYtyXA=="
 ---
 

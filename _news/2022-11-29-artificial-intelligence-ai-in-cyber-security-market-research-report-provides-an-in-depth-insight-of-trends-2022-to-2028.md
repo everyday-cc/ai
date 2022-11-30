@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28"
 type: article
 quality: 77
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028"
+    excerpt: "\" Automatic Speech Recognition Market \" Insights 2022 - By Applications (Robotics, Interactive Voice Response, Video Games, Home Appliances), By Types (Speaker-Dependent Speech Recognition System, Speaker-Independent Speech System),"
+    publishedDateTime: 2022-11-25T18:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

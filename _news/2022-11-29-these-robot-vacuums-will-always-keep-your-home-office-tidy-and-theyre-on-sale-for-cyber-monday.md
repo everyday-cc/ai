@@ -7,7 +7,7 @@ originalUrl: "https://www.windowscentral.com/hardware/smart-home/these-robot-vac
 webUrl: "https://www.windowscentral.com/hardware/smart-home/these-robot-vacuums-will-always-keep-your-home-office-tidy-and-theyre-on-sale-for-cyber-monday"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The best Cyber Monday robot vacuum deals"
+    excerpt: "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them."
+    publishedDateTime: 2022-11-28T17:53:00Z
+    webUrl: "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Arlo's most precise security camera has had a 40% price drop for Cyber Monday"
     excerpt: "For a pack of two cameras, it'll only cost £379 which is a 40% discount. Arlo calls this its most precise camera yet because of the 4K HDR image, 12x digital zoom and dual-band Wi-Fi. To get it up and running,"
     publishedDateTime: 2022-11-28T13:13:00Z

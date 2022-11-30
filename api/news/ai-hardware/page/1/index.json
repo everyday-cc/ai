@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
+      "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
+      "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
+      "originalUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/5nb18m7_samsung-reuters_625x300_19_August_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675?ver-20221119.02",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
+      "publishedDateTime": "2022-11-30T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-neuralink-show-and-tell-brain-chip-update-how-to-watch-live.md",
       "title": "Neuralink 'Show and Tell' Brain Chip Update: How To Watch Live",
       "excerpt": "Maybe we'll see people typing with just their minds at Wednesday's update from the brain-implant startup co-founded by Elon Musk.",
@@ -1409,49 +1454,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-intel-unveils-prototype-neuromorphic-chip-for-ai-on-the-edge.md",
-      "title": "Intel Unveils Prototype Neuromorphic Chip for AI on the Edge",
-      "excerpt": "For example, a common fruit fly, an insect studied for AI research, has about 250,000 neurons and 10 million synapses. “This has been a major research effort by Intel and today we have a fully functioning neuromorphic research chip,” Intel CEO Brian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
-      "originalUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Intel-Neuromorphic-chip-Loihi-2.jpg",
-          "width": 1709,
-          "height": 1722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

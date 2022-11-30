@@ -1,0 +1,22 @@
+---
+category: news
+title: "Israeli startup adds AI detection to stop US' active shooter epidemic"
+excerpt: "In response, one Israeli startup has been working to put an end to violent threats ... saving precious time and lives. Through AI-based sensing, automatic alerts, and instant visibility, Gabriel provides workplaces, communities, and first responders ..."
+publishedDateTime: 2022-11-30T08:25:00Z
+originalUrl: "https://www.israelnationalnews.com/news/363682"
+webUrl: "https://www.israelnationalnews.com/news/363682"
+type: article
+quality: 17
+heat: 17
+published: false
+
+provider:
+  name: Arutz Sheva
+  domain: israelnationalnews.com
+
+topics:
+  - AI
+
+secured: "1YWqhCSDW3Q8OtXDoReTm0S5tceog5ljLAU1FuhOpLHy+9noTvRY8c2ClrtR5L9fZI9BJ/Z7RoUZ59GiizBRt4H3XKiK4bKYVdmFCBvgWqJGuYzz7Iffdkqexhfbv/WoZ0963DtxzH4b+LGtNfCsN+8qpwVwrbg8h8P/PKnE9Y51OI9dB+J90BddvMHNINHqIrPL9FUvti//M8CKaEkXXIosOfArcGaiD+1ENk4l7V8PHTgdOfZzg5nCiUDSI6nQArq7wp/XVh+Zp7w8hzxz9auqpz3/Tr0r0Kq7MMTcIb+U/PBJjrmxFCo+sF9F2nK3V6Vc95YbJGy8VKFdnvpGTjLpY5LvzTzXsvVRh2OMZ0MZn3cm49NiYHy5s+8GGMRgjMUHfmckIX1xzgbQlOuuQ+gi2OeOl4Q08Jg9vwPe4wOhfyoinEVAypV7cHJXZ5FbG8YlphbOdNTuWy6h4pq6LuchkJJOZwMaNBkfEqXMuQ5ekw1+xgTEQHeApbhdPadlxqk6B7XibfcGTOppkpMPEQ==;jVPjXsiMTZEDpCpK4ju+nA=="
+---
+

@@ -4,19 +4,19 @@
     {
       "path": "_news/2022-11-30-san-francisco-debates-letting-police-deploy-robots-that-kill.md",
       "title": "San Francisco debates letting police deploy robots that kill",
-      "excerpt": "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations,",
+      "excerpt": "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides",
       "sourceUrl": null,
-      "webUrl": "https://santamariatimes.com/news/state-and-regional/san-francisco-debates-letting-police-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.html",
-      "originalUrl": "https://santamariatimes.com/news/state-and-regional/san-francisco-debates-letting-police-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.html",
+      "webUrl": "https://www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/",
+      "originalUrl": "https://www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/e/ac/eacfb6f4-c08b-5285-b84c-6520c5f8a5f8/638665c2dbed3.image.jpg?resize=1024%2C704",
-          "width": 1024,
-          "height": 704,
+          "url": "https://www.koin.com/wp-content/uploads/sites/10/2022/11/AP22333707907710.jpg?w=1280",
+          "width": 1280,
+          "height": 880,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://santamariatimes.com/news/state-and-regional/san-francisco-will-allow-police-to-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.amp.html",
-      "cdnAmpWebUrl": "https://santamariatimes-com.cdn.ampproject.org/c/s/santamariatimes.com/news/state-and-regional/san-francisco-will-allow-police-to-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.amp.html",
-      "publishedDateTime": "2022-11-29T15:17:00-08:00",
+      "ampWebUrl": "https://www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/",
+      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/",
+      "publishedDateTime": "2022-11-29T17:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Santa Maria Times",
-        "domain": "santamariatimes.com",
+        "name": "KOIN 6",
+        "domain": "koin.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -139,6 +139,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-the-best-cyber-monday-robot-vacuum-deals.md",
+      "title": "The best Cyber Monday robot vacuum deals",
+      "excerpt": "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "publishedDateTime": "2022-11-28T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1390,40 +1434,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-amp-robotics-establishes-new-headquarters-in-louisville.md",
-      "title": "AMP Robotics establishes new headquarters in Louisville",
-      "excerpt": "DENVER--(BUSINESS WIRE)--AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has opened its new corporate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221116005337/en/AMP-Robotics-establishes-new-headquarters-in-Louisville",
-      "originalUrl": "https://www.businesswire.com/news/home/20221116005337/en/AMP-Robotics-establishes-new-headquarters-in-Louisville",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
+      "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
+      "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
+      "originalUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/5nb18m7_samsung-reuters_625x300_19_August_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675?ver-20221119.02",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
+      "publishedDateTime": "2022-11-30T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-aws-adds-machine-learning-capabilities-to-amazon-connect.md",
       "title": "AWS adds machine learning capabilities to Amazon Connect",
       "excerpt": "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview.",
@@ -1381,59 +1426,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
-      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
-      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
-          "width": 698,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
         "Machine Learning"
       ]
     }

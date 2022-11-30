@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028"
+    excerpt: "\" Automatic Speech Recognition Market \" Insights 2022 - By Applications (Robotics, Interactive Voice Response, Video Games, Home Appliances), By Types (Speaker-Dependent Speech Recognition System, Speaker-Independent Speech System),"
+    publishedDateTime: 2022-11-25T18:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Wlh61516CJmu7W4iL5JW1vwIW4/yWFuJg/RZ090Wnb5YAeyGq7kI1kuyqsXZYpUO+bfN8JCBcW3tw4RkOe0BkRdWFVV6mzZkL38k5d7wv2D2tiOFwHS2y9Eqa8VSGuiKOshB7S3kAi64JJZn/H7wkD+R46jng3DbSvOnDteSF5wQkpRMsFLD66QZDZYhYjU+SRZSnuRiLrRSz00Ly6AffEeYwGlAnQyx7L/IFU4EdMZMZ7PnXMUl+mT+3kiBDbciEIoiaNIdrYQ3xe+1DOKTCid6DsMy2L4X9SeXktvVWki8Zxk1hKGWtdyTVOigEJmcoTJciSLq6/wi2zDWv+utWBaxZgOB6q0MH6wIxAH32Js=;mZD/cdwKdXhM7Xw6BY4Lpg=="
 ---

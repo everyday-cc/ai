@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
+      "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
+      "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
+      "originalUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/5nb18m7_samsung-reuters_625x300_19_August_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675?ver-20221119.02",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
+      "publishedDateTime": "2022-11-30T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-neuralink-show-and-tell-brain-chip-update-how-to-watch-live.md",
       "title": "Neuralink 'Show and Tell' Brain Chip Update: How To Watch Live",
       "excerpt": "Maybe we'll see people typing with just their minds at Wednesday's update from the brain-implant startup co-founded by Elon Musk.",
@@ -151,19 +196,19 @@
     {
       "path": "_news/2022-11-30-san-francisco-debates-letting-police-deploy-robots-that-kill.md",
       "title": "San Francisco debates letting police deploy robots that kill",
-      "excerpt": "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations,",
+      "excerpt": "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides",
       "sourceUrl": null,
-      "webUrl": "https://santamariatimes.com/news/state-and-regional/san-francisco-debates-letting-police-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.html",
-      "originalUrl": "https://santamariatimes.com/news/state-and-regional/san-francisco-debates-letting-police-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.html",
+      "webUrl": "https://www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/",
+      "originalUrl": "https://www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/e/ac/eacfb6f4-c08b-5285-b84c-6520c5f8a5f8/638665c2dbed3.image.jpg?resize=1024%2C704",
-          "width": 1024,
-          "height": 704,
+          "url": "https://www.koin.com/wp-content/uploads/sites/10/2022/11/AP22333707907710.jpg?w=1280",
+          "width": 1280,
+          "height": 880,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,13 +216,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://santamariatimes.com/news/state-and-regional/san-francisco-will-allow-police-to-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.amp.html",
-      "cdnAmpWebUrl": "https://santamariatimes-com.cdn.ampproject.org/c/s/santamariatimes.com/news/state-and-regional/san-francisco-will-allow-police-to-deploy-robots-that-kill/article_bad0430e-f39a-5f9c-9806-f0828a7cf6f6.amp.html",
-      "publishedDateTime": "2022-11-29T15:17:00-08:00",
+      "ampWebUrl": "https://www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/",
+      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/",
+      "publishedDateTime": "2022-11-29T17:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Santa Maria Times",
-        "domain": "santamariatimes.com",
+        "name": "KOIN 6",
+        "domain": "koin.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -200,7 +245,7 @@
       "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -284,49 +329,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-cardinalityai-awarded-2022-regional-and-global-aws-partner-award.md",
-      "title": "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award",
-      "excerpt": "The AWS Partner Network (APN) is a global program ... eliminating friction and improving the experience of citizens and government workers using Artificial Intelligence (AI) SaaS Solutions. More than 5000 caseworkers across 8 government agencies in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award-1031943102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -415,6 +417,49 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-cardinalityai-awarded-2022-regional-and-global-aws-partner-award.md",
+      "title": "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award",
+      "excerpt": "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
+          "width": 666,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29894595",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595",
+      "publishedDateTime": "2022-11-29T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1049,7 +1094,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1144,62 +1189,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
-      "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
-      "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "publishedDateTime": "2022-11-28T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],
