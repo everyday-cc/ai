@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2022-11-machine-imaging-methods-ova
 webUrl: "https://medicalxpress.com/news/2022-11-machine-imaging-methods-ovarian-lesions.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "New machine learning fusion model for better diagnosis of ovarian lesions"
+    excerpt: "Although ovarian cancer is the deadliest type of cancer for women, only about 20% of cases are found at an early stage, as there are no real screening tests for them and few symptoms to prompt them."
+    publishedDateTime: 2022-11-29T23:28:00Z
+    webUrl: "https://www.news-medical.net/news/20221129/New-machine-learning-fusion-model-for-better-diagnosis-of-ovarian-lesions.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20221129/New-machine-learning-fusion-model-for-better-diagnosis-of-ovarian-lesions.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221129/New-machine-learning-fusion-model-for-better-diagnosis-of-ovarian-lesions.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 58
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Ovarian_Cancer-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "MhJ7cB6+b4jOAk145gpdAMHskGFMTbsdL4TmKLTey4LdqQj4DZHSsMuCZztaNFnEO1qiObhfvkQhkKnPxcEZ1/Re7bP1LTRIvR1SL4q1lhgKVSErQuJ5hTYVp1HMJFy+7pWQqpciP/Y3kgYW2COI1xvJp2LgQKMt1yu8MMxfCQ/HpBl93oS4n7RisQXHEhGLnvuiMRC/n42KP9VdyhEgTmP7BpJdniAcGqiOELeCxNTQWGiGeZYz9K+L6oWvL6G8iVSDu8S+io2ZqIKBIb1MNOM/N9dZIxsvKeIZ+rB/XBsywKSwhRhTldjKVf0wXPxCBfUWsGlcq+Mz3+0f59j4dp9OA76CmCRoadA4zYvP3bgTYaNmTt7ZuklMNNfaZMj5msnG5wk7HxMNntUrO6SGM/C6XNw8bLCiLLGF4jGort4miyDgVF/fjwEnTSkRVLNgSxue/ZYkVRJIuljsgZEExkq8L7YjUo2u1tS1rauToNxiFpBsxCagMNCFMIx08dW/cSXsSZHYEE8dXLFwJv1FHA==;I6DnDe5AN/cI3NdwSRPp0A=="
 ---

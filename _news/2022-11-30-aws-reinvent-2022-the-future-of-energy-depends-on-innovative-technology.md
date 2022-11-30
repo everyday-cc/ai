@@ -77,6 +77,20 @@ related:
         width: 300
         height: 228
         isCached: true
+  - title: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent"
+    excerpt: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent - SiliconANGLE"
+    publishedDateTime: 2022-11-29T23:10:00Z
+    webUrl: "https://siliconangle.com/2022/11/29/new-tools-data-integration-insight-take-center-stage-opening-keynotes-aws-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/selipskykeynote2022-1.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
   - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
     excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
     publishedDateTime: 2022-11-28T14:55:00Z

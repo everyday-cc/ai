@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Zeta Announces Support for AWS for Advertising & Marketing Initiative"
-    excerpt: "AWS for Advertising & Marketing is an initiative featuring ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A."
-    publishedDateTime: 2022-11-29T22:07:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/zeta-announces-support-for-aws-for-advertising-marketing-initiative/article_8d6c5a9c-e416-5a81-b60a-23be9dbef01f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 56
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
-        isCached: true
   - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
     excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
     publishedDateTime: 2022-11-29T22:33:00Z
@@ -129,6 +115,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "xR+PrDgZ+d0qR2r2X2fAC1oyQKSTEx6o2n/lqALr5kf59vA9sALsxIrdPCLHaz0ZQgkqJnSDA/gRwoI4h9DO1Frb2gRQZsMZn5uiodEViV3+C2MBQNx64Swz6Cnvv12cchZ+mifPMntE61trCUjtGwUJd2sBKaIjO6PSmtF+usLo2sfuEYNvZMateRzsys5k5q9PgKqdnZ1yooRueYEV28YuLviincLKW3F5EY1fhJeMtl7vYUJ2K+0E1w4cr+eeW1LUrzWvp5GVK4dCQ0QpnzqzN5bkPumw0+b4vWFf/LN4NSUXR6/VUBcaLnHfn2kDolCc3KEoQKGXmwMm74Fr8dZgQY2kL9v6Nhq5cozvtHM=;w9YHU1h/BXx1s36Rb1otgA=="
+secured: "Pz+JWG6TG/CJzAsU5gc1nYWhkHD34q/2k3UUgP4ojJtInu2s8e7EvS5XGgzxcWHmH2fTEOIpjjI1nQwu7Hsr5WnXlgc1qP1ghLNxGwVbO5CGeUrLYPYAVTUByZs/NbDx6hq7xRZsSBT1VuGeofAiB8ito9TQwXXSeSbb8JiprljEXq3YAoPt5Cz4cWEjnHQNvjICye47Jma9Ru4MHAj5bDWzgSZs37DFozTfzmjhPkftxJ20gCq/XWzHiChDZ1BvIM+eEuqL/m0wFv8FVpecUKF9l3eSUZWAwxRguianUYSY17n6iPXqJvX037jm3hLDd/IeRO3yMdP+xdd4gylrCy6RlMSjgkvuw96UlIaEvPG4e4eV+oFDLoBK2mgQ6IJoLFo+zOv27UHNDSNvdDTj1KiMa/HJb97lb4uNEorS0/RCREo5iq9HMbA1p5ItxnYUMdT99d8KzIAxLqPsao7Oi6cEhoHiMwCOFzwKpnYpxl55oXyxlJh+sRTKg9hDZEhDSMIQSzcYjjTjQSLTb8PwiQ==;3V6o7sfPwSDLSa167GV5vQ=="
 ---
 

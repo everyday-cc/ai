@@ -521,8 +521,8 @@
       "title": "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR",
       "excerpt": "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028).",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
+      "webUrl": "https://it.tmcnet.com/news/2022/11/16/9715226.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/16/9715226.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -532,7 +532,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T11:52:00-08:00",
+      "publishedDateTime": "2022-11-16T13:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -683,10 +683,10 @@
     {
       "path": "_news/2022-11-16-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence.md",
       "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
-      "excerpt": "Artificial intelligence is everywhere. Once the domain of science fiction, it’s used in everything from virtual assistants, to facial recognition systems, to self-driving cars. But how, exactly, does it work? The answer has actually not been well ...",
+      "excerpt": "While we use AI more and more, the artificial intelligence research community doesn’t necessarily have a complete understanding of what neural networks are doing; they give us good results, but we don’t always know how or why. And that is what we’re ...",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
-      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -710,9 +710,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

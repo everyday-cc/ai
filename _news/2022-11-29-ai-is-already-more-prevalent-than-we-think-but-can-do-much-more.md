@@ -25,8 +25,8 @@ topics:
 related:
   - title: "15 things AI can — and can't — do"
     excerpt: "From pop star robots to autonomous cars, AI is all around us. Stacker assessed the current state of AI, from predictive models to learning algorithms, and identified the capabilities and limitations of automation in various settings."
-    publishedDateTime: 2022-11-29T21:30:00Z
-    webUrl: "https://omaha.com/news/article_1ac69118-1e9b-5d2c-b482-f18396a2499a.html"
+    publishedDateTime: 2022-11-29T20:30:00Z
+    webUrl: "https://omaha.com/news/science/15-things-ai-can-and-cant-do/article_1ac69118-1e9b-5d2c-b482-f18396a2499a.html?amp;amp"
     type: article
     provider:
       name: Omaha.com

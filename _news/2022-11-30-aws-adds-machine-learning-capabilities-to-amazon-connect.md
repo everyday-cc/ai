@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabil
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
 type: article
 quality: 76
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zeta Announces Support for AWS for Advertising & Marketing Initiative"
-    excerpt: "AWS for Advertising & Marketing is an initiative featuring ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A."
-    publishedDateTime: 2022-11-29T22:07:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/zeta-announces-support-for-aws-for-advertising-marketing-initiative/article_8d6c5a9c-e416-5a81-b60a-23be9dbef01f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 56
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
-        isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
     publishedDateTime: 2022-11-29T18:57:00Z

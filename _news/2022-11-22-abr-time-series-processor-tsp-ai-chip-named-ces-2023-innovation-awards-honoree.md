@@ -1,17 +1,15 @@
 ---
 category: news
 title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
-excerpt: "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ..."
-publishedDateTime: 2022-11-21T16:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree"
-ampWebUrl: "https://www.benzinga.com/amp/content/29807580"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807580"
+excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
+publishedDateTime: 2022-11-21T16:47:00Z
+originalUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI Hardware
@@ -23,6 +21,6 @@ images:
     height: 342
     isCached: true
 
-secured: "3A41nMoGF8YqcaHP2hs/puiZ2ZaPPptpscfV7K/xBdf8T1zprBel5KMIo03NkeRd2SMUcbmCyWyU578GnMb/ufjY2MBhsTggrGKeLPc5LTn6NkwkPj23/Wm7g2okA0uEf8pJ9h/vvcBO8ab+RwQgFl3WEkqF0ydms4Us6Y04IikZUgrYjjR80fmd/u7ep7B8SveRjwTy+k+zdNwL869nGCi1lyS4OaQ7o0gERF9Xk7canU/dxr3lHFQG4jvjCaAYM4fOSLcItiJRJPgkduUvr62eHH6ryIj5ss+cLBhn9s+cooj1ArbIaCfRhPmpC0m3wpuhW50kRSD0Oi5slLCeQ4ckba0lSjy840n6TlbH0Kw=;25hX3ij765tDQEA/yrzXFQ=="
+secured: "2+gXIz1g1t/cy62i1R6jasK1ikQAyRw9nWAfGSf4UIIDRd23ZFbVzHSF7nwZXvA5fP3XgAXZu5CoFO4H28RRzr5OAsYmpXenEkN3zbgtXCkrt9zouFPek1lFABjyMRcsTbbV4CR1M6mo2Q2DE+n8Acki7+JoJfFNhTEjDLkVpryWksjkEMO3bBZ6PYOt0wVgrEgNRiaoKoP9FggD+VPHyBOXLOSDItRSDE7TCKQ483GEZPnZcDcy7Hj3ssib+A1FrSKjNhg1/ZB4xVowrq4NqpOAFDJLxjEhD+AKwGTpx73Yg5GwzvnGKU4ynQoeC7DFqw3ZJbA/x7Ch+eM8/w+Cg4CRjt6RsTEZiSSE335eKQo=;E4twrXG5Y09HvkZLej1OXg=="
 ---
 

@@ -1,135 +1,53 @@
 ---
 category: news
 title: "Zeta Announces Support for AWS for Advertising & Marketing Initiative"
-excerpt: "AWS for Advertising & Marketing is an initiative featuring ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A."
-publishedDateTime: 2022-11-29T22:07:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/zeta-announces-support-for-aws-for-advertising-marketing-initiative/article_8d6c5a9c-e416-5a81-b60a-23be9dbef01f.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/zeta-announces-support-for-aws-for-advertising-marketing-initiative/article_8d6c5a9c-e416-5a81-b60a-23be9dbef01f.html"
+excerpt: "AWS for Advertising & Marketing is an initiative featuring services and solutions purpose-built to meet the needs of marketers, advertising agencies, publishers, technology providers, and analytics service providers."
+publishedDateTime: 2022-11-29T23:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-zeta-announces-support-aws-advertising-marketing-initiative-/2022/11/29/9721440.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-zeta-announces-support-aws-advertising-marketing-initiative-/2022/11/29/9721440.htm"
 type: article
-quality: 56
-heat: -1
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
   - AI in Marketing
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-    width: 350
-    height: 455
-    isCached: true
-
 related:
-  - title: "AWS adds machine learning capabilities to Amazon Connect"
-    excerpt: "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview."
-    publishedDateTime: 2022-11-29T18:30:00Z
-    webUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html"
-    ampWebUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
+  - title: "AWS Announces AWS Supply Chain"
+    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+    publishedDateTime: 2022-11-29T18:48:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-supply-chain/article_ff26a010-e926-5de8-96ba-a8b2612fb91c.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/11/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "AWS enhances its AI portfolio with array of automation capabilities"
-    excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
-    publishedDateTime: 2022-11-29T18:57:00Z
-    webUrl: "https://siliconangle.com/2022/11/29/aws-enhances-ai-portfolio-array-automation-capabilities/"
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 34
+  - title: "AWS Announces AWS Clean Rooms"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced AWS Clean Rooms, a new analytics service that helps companies across industries easily and securely analyze and collaborate on their combined datasets—without sharing or revealing underlying data."
+    publishedDateTime: 2022-11-29T17:27:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-clean-rooms/article_b2f7d9b2-f8b2-5d6c-ae8f-c13c71203b64.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/DSC02906.jpg"
-        width: 4896
-        height: 3672
-        isCached: true
-  - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
-    excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
-    publishedDateTime: 2022-11-29T22:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/11/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380270/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/29/vrmilGettyImages_1226582027/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Descartes Labs Goes All-in on AWS to Help Organizations Harness Geospatial Data to Address Sustainability, Food Security, and Climate Change"
-    excerpt: "Invent, Amazon Web Services, Inc. announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core information technology (IT) infrastructure, including its geoprocessing and analytics platforms,"
-    publishedDateTime: 2022-11-29T15:03:00Z
-    webUrl: "https://spaceref.com/earth/descartes-labs-goes-all-in-on-aws-to-help-organizations-harness-geospatial-data-to-address-sustainability-food-security-and-climate-change/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 36
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/11/29100321/AWS.png"
-        width: 1581
-        height: 1050
-        isCached: true
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Security Lake, a service that automatically centralizes an organization's security data from cloud and on-premises sources into a purpose-built data lake in a customer's AWS account so customers can act on security data faster."
-    publishedDateTime: 2022-11-29T19:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-amazon-security-lake-/2022/11/29/9721267.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-  - title: "AWS Announces Amazon DataZone"
-    excerpt: "Invent, Amazon Web Services Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon DataZone, a new data management service that makes it faster and easier for customers to catalog,"
-    publishedDateTime: 2022-11-29T16:22:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-amazon-datazone/article_e6b13f53-49a1-5015-bda2-5cc399fc6e22.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 19
-  - title: "AWS Announces Five New Capabilities for Amazon QuickSight"
-    excerpt: "\"That is why more than 100,000 customers use QuickSight to power their BI needs. Today's announcement makes QuickSight even more intuitive, flexible, and accessible while streamlining BI operations with a comprehensive and fast service built for the cloud."
-    publishedDateTime: 2022-11-29T19:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721262.htm"
+  - title: "Descartes Labs Announces AWS Migration"
+    excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
+    publishedDateTime: 2022-11-29T20:33:00Z
+    webUrl: "https://www.datanami.com/this-just-in/descartes-labs-announces-aws-migration/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: datanami.com
+      domain: datanami.com
     quality: 19
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
-    excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
-    publishedDateTime: 2022-11-29T16:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29892635/aws-announces-two-new-capabilities-to-move-toward-a-zero-etl-future-on-aws"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
-secured: "N2mervSyekt3mRuJEt3Ay2aUHCBSwufEP87KCwQ4k4xCPxsPffGxLoHhh4i6lP5c+AceWW2Ey8e/UYznwHQnXz+OOZZ2B91807Wbn4xbLoSsxBNAOq9IlrNozjEHpk+HKBJLKF9eQRWc+wS+S3z7nG/IAUj9aJy1RVfXZDVWxde2xC9GCtIrxPcR6Pj3AzNILxYhZ9cfQr9U2Q6iq5nM7lGCYVjHZpuZEoXacbQhDNSURdJunjRGvcz/0o5CxVcpZwlu6aq+ah3H5Q3bt5ZoBw05v/eSTt56Cb8o9BXeDMjSRK/6Ptf81VynG4cj18W9cdlDXf6cjCoYw2EEMHftD0fNTHcjJXkKFPZmZbmXK7Y=;5XpwKX43DvYJANoUSMkp9A=="
+secured: "qTZWJroS05K/ox5qJsF93OX9qsCbBaprQhXBLY2Qyjlf5OGYqs4q1SGNdu7a+mvRqSWugpXVRGAVmAKG0mME1DAeHvAXg3DpZg8jWotzkIBnuA+IiRFl6yXjXXqr88R3FwzBkDmIoiaawK4XTWYfvAledahUtMTZZCMDr+oZemJp35ZexsWA2y7+qBN1tuUmjhcSIImgJYmZblXGc0LSLo9gqptyuACnjj1F8hvjM3RF7TQyOTtKIrpNqTw0lQ8we9o3IyhVn8laALLK2uBLrCYZ4S2qmx9PWduJj9L1LV0BKFiaUOppMo+w70mlcHee6urvYtnXDgZ3X8rFebWkkE4pGNu0Cn/U3zT2z1VrOc0=;ZAVA0iZgI7lKGf22OnEv/g=="
 ---
 

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Zeta Announces Support for AWS for Advertising & Marketing Initiative"
+    excerpt: "AWS for Advertising & Marketing is an initiative featuring services and solutions purpose-built to meet the needs of marketers, advertising agencies, publishers, technology providers, and analytics service providers."
+    publishedDateTime: 2022-11-29T23:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-zeta-announces-support-aws-advertising-marketing-initiative-/2022/11/29/9721440.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
   - title: "AWS Announces AWS Supply Chain"
     excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
     publishedDateTime: 2022-11-29T18:48:00Z
@@ -28,15 +37,6 @@ related:
       name: The Bakersfield Californian
       domain: bakersfield.com
     quality: 34
-  - title: "AWS Announces AWS SimSpace Weaver"
-    excerpt: "Fully managed compute service enables complex, dynamic 3D simulations that model systems with more than a million objects, quickly predict real-world outcomes, and create immersive training spaces for"
-    publishedDateTime: 2022-11-29T17:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893674/aws-announces-aws-simspace-weaver"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Descartes Labs Announces AWS Migration"
     excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
     publishedDateTime: 2022-11-29T20:33:00Z

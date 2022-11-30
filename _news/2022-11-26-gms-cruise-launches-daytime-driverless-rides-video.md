@@ -86,6 +86,34 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "China's Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
+    excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.futurecar.com/5617/Chinas-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 24
+    images:
+      - url: "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg"
+        width: 700
+        height: 500
+        isCached: true
+  - title: "Baidu Inc. Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service in China by Next Year"
+    excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.futurecar.com/5617/Baidu-Inc-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-in-China-by-Next-Year"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
+    images:
+      - url: "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "ziBR/F6AizM5rPk3hr7uUQF562ya+tHvVFH2ImZVFbZS786pouQeLAu1y0enikVf8bYjNF56K5ouzkWT7q4QrcfMurx52ikrfAx3Zc1uDNv7yPFkf6V+DKV1UQRIqcQfNkqLbWS5OxJ/Iggv6dWpRZ+9ygvHv/g+16dXN+0V4iMOOejt8VsAan+1svkeEhzaZqzKB9wzQDlyhUgMi8Dg785gMKOu6rzt8xCfeKDDxFnUvD6BFZgyW7zTMQnx7S4oxokAManrzlKqo32dhISA+xRrcyY8asp4x1Rq8C8QqzjVeKGpOM4pv+EtwLx5iaMf3Wt/2Egs4bs7HcFmeLDGLkiAKtAob7Zz/6JaxE24sCQ=;3/uPGj5mHYKDEgo9Fohwdw=="
 ---

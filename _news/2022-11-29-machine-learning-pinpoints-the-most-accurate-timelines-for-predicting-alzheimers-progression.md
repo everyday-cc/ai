@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20221128/Machine-learning-pinp
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221128/Machine-learning-pinpoints-the-most-accurate-timelines-for-predicting-Alzheimers-progression.aspx"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning gives nuanced view of Alzheimer's stages"
+    excerpt: "Researchers used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer's disease in people who are either cognitively normal or experiencing mild cognitive impairment."
+    publishedDateTime: 2022-11-28T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221128140340.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine learning is helping us understand Alzheimer’s disease"
     excerpt: "Using machine learning to pinpoint the most accurate means and timelines for anticipating the advancement of Alzheimer’s disease"
     publishedDateTime: 2022-11-29T12:52:00Z

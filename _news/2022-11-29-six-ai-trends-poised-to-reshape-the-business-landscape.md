@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-tre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6383aa64488fd33f44459798/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 622
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market 2022 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 24, 2022 (The Expresswire) -- \"Artificial Intelligence in the Education Sector Market\" research provides significant and in-depth information on the global market."
-    publishedDateTime: 2022-11-25T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "KmipZWMEWtLK6KiSdoX4jUzqmHiGN9ro5iK1fXfWt+dLzOiGmh6Yajt7Pa5PefpPcOoZuEX7pqqCYu3Rkltev24zLCAc3l08EIxYbYvsQNmaiacNIjj/mHD70fFmHCCuBBkqj/S1ew+xt6R8r4j6nj88Ng5GZmwPlDh4Uv99d85aVs1SDM1cQmxmYwwpt6N/b1QjEIQA/Fql7IPIiE91jECqsBFDLtnBUrlN7mtIyp8AlRRfU9P0eiJrI2YjwG/SS7MirfQjtl91rIerYX+mIY4o9vzGA9GxGUeAHrBjQYF6RkJL+IkCpbF3yrNjxXvn+VfNk6+ladcVBWHNu/apdmq1ErepRN3hEJSaDms+bCRfeheJenOASyDi/yWCZG1kb5JmmVSgyY1KQI4t3P2xvhl1BghSAH5ouC2xtL/1iIKEhgkut/mmfRuWomzYnq/DMLrlAJJC52xTzB+vYvvKL4jg24pwxW1g7e3AHoXUzJR2bPvBMmlWjteZfrVHRCpgkQz4Yw5npvaor9Dy1jM/Cw==;JsjuzlCr7k9YZjaM29/LAA=="

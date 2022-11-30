@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Zeta Announces Support for AWS for Advertising & Marketing Initiative"
-    excerpt: "AWS for Advertising & Marketing is an initiative featuring ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A."
-    publishedDateTime: 2022-11-29T22:07:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/zeta-announces-support-for-aws-for-advertising-marketing-initiative/article_8d6c5a9c-e416-5a81-b60a-23be9dbef01f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 56
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
-        isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
     publishedDateTime: 2022-11-29T18:57:00Z
@@ -129,6 +115,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "TqNyIeNeIWkIyhki6ubLsnUWqDKhMdf8thcIgk2Luo6D2gcL7z36zQlN8589Wf4X21qy9fCYVb3AF8g/pSypwN4I0iyGZ15w/TJHCUrqOhTxdbCxcFLvMJLZzh40DgvoaghfGURFsdAXCzWmF4jMFB8vXtOc0KrkcxxiBI1A0A9uNR276/4OyxR5IiFNr9D0r8wzY05P3Rrd5qZSAea9A7OK76exRVnVcl9kAm4ypmozOaykrL9TIoC1cGfMzKRXuGshxymvy4p3/moOQDWB6vCgH25YBatW+wgmXzAh+cOMAHwGNRd4O7oNMuv7fhtCCEqxajjm80eN6oU/zobR9t6xlB6mVYr8oj1/MU5oMyw=;NgxX8gn6qIcSMd8TPK7X4A=="
+secured: "hNxBCgJdBouIn+rHSj+aIWMbFM0hjfZjvEDKWSXW0SBebR58eql5q2DMNk8Q4LJbMg4QdRhqgiUF8/J9/xXWw5n76Z9hHDxz3a1jARCg0RejUPcN8Pu73yf2BB5LZwgQp0H4/lZ3qodBzVRhhPWjg6IX4gG3xEbDReKOhSUJSDaNnfLA6wzOALVok0ur05M9rnWiXXNibAU1QjGY3BGoLg1POcxPmr9APLvVTDaosP5Gd+R81ZdlWUNgmR+FPWTUxCknDiN4vkk6IRNPu0c7OnGCBt4OlAw/fgV1vcHvL7kYTxA0S7jK3OA/o4typZSSxe3V4c4QEPi1yuuB4GGZFluN0OHoUBsPV3ZHq4hWPmnGRX3XCPhYCf1GCIV//teXTY5DQkhfDZa4YbiunAAlQiFUkKWEB6+a4FP2C3TCPep9qO9BokoDan1gBEJqDIZ+0iquMOCUqEOR9SJUDqqyq0s9Op03M94Pqfb5r+EqSUVKZOGmjPWDcJuisCc9k02FoS7qpA/I346FVUnTmqZfNA==;hb2Jbq2nEV/+hfZbLP4bag=="
 ---
 

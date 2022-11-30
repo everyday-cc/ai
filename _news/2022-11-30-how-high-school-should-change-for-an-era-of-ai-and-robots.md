@@ -8,9 +8,9 @@ webUrl: "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-f
 ampWebUrl: "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
 type: article
-quality: 61
-heat: 61
-published: false
+quality: 78
+heat: 78
+published: true
 
 provider:
   name: EdSurge
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop"
@@ -27,6 +28,6 @@ images:
     height: 259
     isCached: true
 
-secured: "M/yLBa9K25VohRXQX5wp5MCxKpLXhKWPYf5g0b0fRWzfhOS1IwjYO4lv+uUUB4QjfT79/tPfzbUUlwyNYCduBi+Uz3Vr7HKQOG/axe2DsBTMt5ADoFRYagpIXUInFtOCAFoTVuyQi8S/z+P7LuCTeAtinzV6YBjVTzdMBfiIVZOKvjmMbU3VDqImsRQd8Aqo+bPKKiPTLhsBs8EQLohWI8oqqGJ0sFGhAzNMWX2l18iVmAElTgr9Zdzvlvgdl1KYEJf3y5JSb20ebNbsbOu3rDc3haOW5cL/Zs9ca9tdzjbpxRGblPzv1sN97Zp+iqSxiTlKyySTJElJXuDnIeuxI7JXFRzIuPX9k3dEt+4tFC8=;u3sMN9GuqHXgp58OdM1S7w=="
+secured: "Tca/9h0GUAfp2ABhJWOIMrSE6KDBqIGEw5Ie/uP0u6LImUntCRKQIHX51Hvvxcb1wCf1cGMd/jCZ/pv4aMuBbOrzsZOJr/KaplfO6IhWO4gxOe/f1kiSnkInuI6eCf1T8Dj0vyOnJhy2HfpISXq3gT4nklYYzz6taacaIX29dN3l9DnBm+TVJHJgVNOeGSUHZP7OdhhN50KslckpkDgAfCYuO1C0a6ow7ULOJa03zuL4Nz8nYVNt/6UXgDkADBda2sVgs5pt9gSmn3dgkVY6bfWQT53RXCzZzC/7V7QTghRUv4ezS/z8XUHgRzFJSMrEgfF8Q/87jxXydjNenba+RJPSgB8qsexiuSZKrpwop0tMk3NWOT+JLVtCSB2prhwchhas2W5Y0nLzJXYUt+S1K51UKVOckDN4vM/CwoD5nRBKEmA3mrxCSQfsQ/lf+/pjLxJXRM+iLwVcuFlzm+uRtS5FSrcCRpXWC4UtlKJcR4faWqcEuFAT5FaRz/nuyzVOQBKPKkcJviduGLRJDqnE+A==;+xVsGIkAPnfe/qFrQjFbFA=="
 ---
 

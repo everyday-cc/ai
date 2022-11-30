@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Zeta Announces Support for AWS for Advertising & Marketing Initiative"
-    excerpt: "AWS for Advertising & Marketing is an initiative featuring ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A."
-    publishedDateTime: 2022-11-29T22:07:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/zeta-announces-support-for-aws-for-advertising-marketing-initiative/article_8d6c5a9c-e416-5a81-b60a-23be9dbef01f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 56
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
-        isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
     publishedDateTime: 2022-11-29T18:57:00Z
@@ -128,6 +114,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "04AkLCKr35Y6tJEqiguuPgBh1oAFC52vgL1qJ0mST2yp6FaaTtZjj76rwCzDCGcA8SrAzQn4QoBj9sM567fSv74au0qdeiHU7m5TR1krZuiF8NMgk6Lu5sFbgI9kgMDGhqxG7qYASawl1pnvq6TqoLMzwZh/MJMFLVChpHBHB5M1o6oQLv199DP+qqWXILWchbekJ3+DmanZ+IxGgy+fxcpMl5dpeTRoR4D6YVrZYqc+LIpYO5vRA9kgdq1k9FvUZEvO3u9JsyMRjsStNnHnwkE+AXuINLaubIEkisG77GUVTacEQwjydin6CNrs4SmMOCiCndTce93ikexsxVfRbE13XzIp4e2Pk0Kr5vNlo+SDfX1rfjW+U7nhFo41izt3a35HUN4E9GvAS4AUJRYNqjEg8bD6mt2KoyLNaG7q3NWX2KYpsRvrnv0KfeDt8hzYBVsH60i6palJubf1p92sPdQliUgQlxK+cEtZhWto9rSBP42BxaQd1DCpRykDFaSbn09I3BkaIfK71unOXelynw==;bWgpKDny8nXru4k/OpTinw=="
+secured: "eDQDLqGojx8QAegTKjdZFKFGvnNbvxdrIMGNX0spUKAGLVaSEZKqVViXA2lswVYFg8X8HjoCkz9Ds5smvINVBv9XkTIarY/E/B3dAVsW8CSAYlSgU601mUajRMqlPnlWKS2jYdLqnmyldf9IQyuBX0YnGShOgZ6pxScrxx4dpFTcsxM0ScZHUFW1MvlSMp0YFxP0ehmRurJdXGgWhx2atm4DmHSPZ5G9EsuL+iKhBFWakuTJP7VypvhmlgUdDYzqrB7XRLDnfYYR1EhofvvVAM80QqAcK2BmLNp+UF9zue4H9tly1ZuNhz+OjeQtjclRmwz1aVkPqKmzqDBwSp6p8eeD9TdWUr+GMHnCPjMW04cBbMaZnYybydig4vTq4iFbksuRPiomjX9BI67EfvlSA3kTWagJw6DsVlSoKpx0iV+BVWliawDz7A4MCzNld3IgiedslL8aztnKZHsuFxr7RrlrTFRxYgXLeatENugvG3+1lktpMvj3OrgsLIfik95bWxm6r3k6r0fcIanByrUe2w==;21E4Siug5L5ucC8xcRT6FQ=="
 ---
 
