@@ -1,27 +1,29 @@
 ---
 category: news
 title: "San Francisco debates letting police deploy robots that kill"
-excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides accusing the other of reckless fearmongering."
-publishedDateTime: 2022-11-30T00:56:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/San-Francisco-may-allow-police-to-deploy-robots-17618894.php"
-webUrl: "https://www.mysanantonio.com/news/article/San-Francisco-may-allow-police-to-deploy-robots-17618894.php"
+excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
+publishedDateTime: 2022-11-30T02:17:00Z
+originalUrl: "https://www.khon2.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/"
+webUrl: "https://www.khon2.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/"
+ampWebUrl: "https://www.khon2.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
+cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: mysanantonio.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/30/44/32/23217814/3/rawImage.jpg"
-    width: 2048
-    height: 1408
+  - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/11/AP22333707907710.jpg?w=1280"
+    width: 1280
+    height: 880
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 641
         isCached: true
 
-secured: "rEgO0LgB7p4dzLnp4UTDWAf0Xkf7rRdkCrvaKF3XEb9C7DgqOjrDPQdJZOQpAjfGqSumlkJXkoNtbkqWRIh0/okJj4i+B3CUm9QXoWFJMZkeTv5r1Da3ntm7nb6mc8GXFtezBHTNqhN+0tepQgbQvIdOre/Bm4tio3OkDVJrJHGFXcnBhTPbWUeUCt324xcJkndGQSRHogNZy9nJGJI8imGj1sCNlJMY2hM/rN9owkoq/UlWoQKX0oQ3ukW1RoWcDT/7hZLs4fY1+May+yNQCZq8RXf0XXW/szoVMyTjOvrPjaKP23yS8UuZnFLpu4+VgR828kn3X30NAGW2qycissfant7YSIGzrlz44g0xmB8=;dEsnu6A2G8fQu0wIcZh2tQ=="
+secured: "p0oxmUihR2rRr8LsXApitgz+JO2+C489DNM7FIgecQYABngOTpIHirOukzW+shXa9f5YhNphgE1ai1ZeN2KG6XQCw+zfLzJBST03/inyfjnQ0n8IPljdpUGcIGZS6zJLzGG3p9BnUuSXbEDX82wWkGsz85y+zRkRK1+4rUoujCUHQJR8wErKWQ6c/NiRZ3hGt8czejZNTduMpIDJdJ+kRERorrFw0iW5e5ds6nkualLH3504tTFwuw6i8O9MgUySUm3LM6KhglW/hBvY5EZy8aQeetzc336T6rTAHrL4F4FV/0TJcHPJJ9UOmhOXJ2Xiks5RNm4CT+lypE+69ANijkJ0ywBhBhrzsECO0A4i3qE=;F+58J0DQd2s+xbtRMntByQ=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-publishedDateTime: 2022-11-29T20:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Natural Language Processing
 
 related:
   - title: "AWS adds machine learning capabilities to Amazon Connect"
@@ -114,6 +115,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "eDQDLqGojx8QAegTKjdZFKFGvnNbvxdrIMGNX0spUKAGLVaSEZKqVViXA2lswVYFg8X8HjoCkz9Ds5smvINVBv9XkTIarY/E/B3dAVsW8CSAYlSgU601mUajRMqlPnlWKS2jYdLqnmyldf9IQyuBX0YnGShOgZ6pxScrxx4dpFTcsxM0ScZHUFW1MvlSMp0YFxP0ehmRurJdXGgWhx2atm4DmHSPZ5G9EsuL+iKhBFWakuTJP7VypvhmlgUdDYzqrB7XRLDnfYYR1EhofvvVAM80QqAcK2BmLNp+UF9zue4H9tly1ZuNhz+OjeQtjclRmwz1aVkPqKmzqDBwSp6p8eeD9TdWUr+GMHnCPjMW04cBbMaZnYybydig4vTq4iFbksuRPiomjX9BI67EfvlSA3kTWagJw6DsVlSoKpx0iV+BVWliawDz7A4MCzNld3IgiedslL8aztnKZHsuFxr7RrlrTFRxYgXLeatENugvG3+1lktpMvj3OrgsLIfik95bWxm6r3k6r0fcIanByrUe2w==;21E4Siug5L5ucC8xcRT6FQ=="
+secured: "vbyWdV94ZMxKO8KF5HZR/77qBC6lC2l6oJob9bMGpIGUCureeebk4Ddw4RuJ0sYaBQNia86mjCjEWpS+datjFEUMJi4Lpb2Ltn6+IYy2nsjW+LeW4x6R4J63Y8j1iQEFYqWIy0rC28jA6r7WidqQfzOoqZYtfGOnm+jZYG6Mw2T8gwtD1705ZInaQg0Mfab/uA6mDC+u45J9f47n6ma9o6E5nxx0WEkBalpn5aIbWKCrcIp/CNRSuEUr5LRRu8p3dgYXiJW+QckE9K0tRqXjCmuyvETgPTCxuHf/7nefF054cyhIdtK8FS8BIG0TFMzaCeBSBrjnagypJjIxTGKJuXfxAT8RuZaASgnoVhv4fxoKqbMrYj8GREZW7BYtK3F0BrFnc258hYyRDTuDIAlwMcz2l3rsuVO+OpgfPU6vxOOJ/FomUfjn6SGCRZFjrlISWJL+d2EU9Ley0teCar7oHy5eEklXhbkZ3AWnc/C/GA/v38VFmQ2iHbCQD1hBV9fhBNxYFHWCRic+6Xuns4Pdqg==;g1maVlicFkW8yJFpa87Ctw=="
 ---
 

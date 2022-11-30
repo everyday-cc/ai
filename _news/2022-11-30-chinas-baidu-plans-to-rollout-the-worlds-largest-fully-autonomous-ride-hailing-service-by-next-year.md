@@ -115,7 +115,21 @@ related:
       name: GM Authority
       domain: gmauthority.com
     quality: 19
+  - title: "China's Tech Giant Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
+    excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.futurecar.com/5617/Chinas-Tech-Giant-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 18
+    images:
+      - url: "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg"
+        width: 700
+        height: 500
+        isCached: true
 
-secured: "cLq22r4YzZHEGOK1UezaWoOiHTBNf8E/ia+bLj53+ArAGOO+giHS3IqOMxAc6jMkqYnoiyfIHCTafCEiip/SePH4rXt6aD21/zF+dREVfzvsywAUTd+Ux2a4i2f2mHVxG4NDNuSTPLqMTMDh/1JZKOf2dbg0ps+pCgRNi7z4/O+lFnLlIaJPdonvaH4rqK37zfRIdmtQvXtIquSj6njO6vm3PRc+EB3+SRylI8H0LhQIB+RO71Y+/prh1256SXG6OUWJGwzTB9CgwfOOHzwjlOo+4pbudfklD5Of1ufaAL/NZL03zaNp2K/io7k4fsX8/GJKLUzwctuTc2adGHJOJjxEXFOiY7LrrYh4CcMY7d0=;7Uev0canxEm/jQjaSbda7Q=="
+secured: "SUwQg6SA2N9VJOyOv6PeL3rnHImdRBBMymbZBLcgVN8sWwbCnA1BvkeWUzv5eS6vzpRkwaoAcUorr4ripKm9+0+oqOpz73kjOWNmavz9JBi8OEYrDupzxnj3Oq6OVmHZ/DcO1lPYmUx53KVc+WVoui13kc5fexrIsvPG2xRlVAlStwotSIzTqzhiQ+uTKPDuSj1PLFShsYgor8Dqz+PYhgJCP2KOWyKLdyw9zjc57o/VwkI+rgSn2RTi7ytoafAaliF6oDcnW2Qx+MmNA2TgEDJYzU6U49hAJR8YHEqvTwjGRSjGewdAfXc2HFtBw57T9lTqhN55sMHUDQNODIVUzPZ9MtkKRc039AnVc7FdnEnGpLzBvHOAikf20VfkXhg5mJKp2J8b9/9X3WWt0ZLlylrA4GtVmsAsCAkv0tgtbT0d1l0aNldctRwZXcpr0VlYBQlEXZjAMITNyeNLvcyRKVGHB/CVIja3zG1VCux+3r3d+N6JxMZEBtK8xv3B3sz5UzLa+jtWHIkCHWYU5UvFFg==;NCMGCfK2IALyVWldibuG7A=="
 ---
 

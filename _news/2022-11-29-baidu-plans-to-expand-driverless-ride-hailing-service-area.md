@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverle
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       name: GM Authority
       domain: gmauthority.com
     quality: 19
+  - title: "China's Tech Giant Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
+    excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.futurecar.com/5617/Chinas-Tech-Giant-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 18
+    images:
+      - url: "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "Gzy25CSKO1KNQpbei4htm64X5lysRLh2Sg4oRaoBBJ3FuRg0BqwxdbefF98crMwv2jKTmwx3YHnwR6nLCbqaK9LLzE7oJrTxeuN6LUeMVJ1k/MSfpAK8LMoJRehZm0tce+vQTdN5AncQlUJzyB6fFvNFknhvkvVg09mcCc7sgLNHHj4b1/Eh7n8sX//BgKFG/4UJTIwXB11JKrLHmBlvZi5RK/a7WcoxgmxsHZMJnWLYy1rQ7Rto5DhL8HX8i3rjS45k4KP0+DLCIdqS+3jcfdhJZhYQ3ktOQOeSsU+d+MI7UM6sVV8HjNbNl3VG3nR/DuNoLp71egYMXxsVVC7IlKcTTVt9pCpWip0pQxzlYrE=;shoPGvdiEmyC8SYNplREbg=="
 ---

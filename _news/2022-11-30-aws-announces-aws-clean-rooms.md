@@ -28,15 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
-  - title: "AWS Announces AWS Supply Chain"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2022-11-29T18:48:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-supply-chain/article_ff26a010-e926-5de8-96ba-a8b2612fb91c.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 34
   - title: "Descartes Labs Announces AWS Migration"
     excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
     publishedDateTime: 2022-11-29T20:33:00Z

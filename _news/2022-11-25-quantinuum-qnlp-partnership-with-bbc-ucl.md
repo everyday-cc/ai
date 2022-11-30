@@ -42,6 +42,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "UCL Computer Science To Explore Natural Language Processing On Quantum Computers For Content Discovery and Archive Retrieval"
+    excerpt: "to explore the industrial relevance of quantum natural language processing (QNLP) and quantum-inspired natural language processing. The consortium, funded by the Royal Academy of Engineering for a Senior Research Fellowship at UCL, will build on a long ..."
+    publishedDateTime: 2022-11-30T01:15:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/263811"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "XeukFEXgNEeWVyb8f4+EHz751XlwC0EwtzB6cqGbBIK68ebugod1hVCY0DZurdVNEEj/xjFjpPenyAOQUoWkbTB+75L2Dlxd2cUH3wjgCdhEWSP3plfGYgKjPwPlfQVhu/nII/dRQVgTNIPpqQMiAS2V3qFdShliV3JQeN+bd7/2TVH/f9FcV8prIwP30D/0RY9y/czvce29jsPMT03+sUNh6RUWD/FvXGAWk3IrW2BN8RBkxmUG8dNP1Qmqhe3MaTSeKs/Is1ysng8Rq3IEaWiPR3aSmgatevrqgk35qNH0tPlnpPpAxzyGfVUDn+A0W8B2sXFI7St+nuM74mHhmrXdPTrJjapiDKncNfAX/9RY5bMItqmqJTcNkAc7CSkwdsLtSZWK8VXwTAflIeIWvVvhdkAu5hWfOuBkPGWMhnLXyAFMdqDxndHXJEheh3ucjFvHgAKE4rX6eFscQF3F9pwbYSMGwKVAFlXWVcGtIf0SkiuBq7bkFHWzCuMDGMqQJcT2oVOtcgISVrBvX/kHTg==;PGCMfTU0YTF33hEIQ5NbTg=="
 ---

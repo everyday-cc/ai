@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Russian Health Ministry launches healthcare AI platform"
-    excerpt: "\"The Russian Health Ministry has launched a healthcare AI platform. The primary objective of this platform is to create a digital environment for interaction between developers of AI-based solutions and the medical community,"
-    publishedDateTime: 2022-11-25T10:16:00Z
-    webUrl: "https://interfax.com/newsroom/top-stories/85389/"
-    type: article
-    provider:
-      name: Interfax
-      domain: interfax.com
-    quality: 34
 
 secured: "+VQso8MPNo7nr65PwP0v0eAfUGB/ayicfWVhtKqRrJn6zFSNNReBhHBv6y1Tk9xP7H74s0s5sIuk0ZFp/JTXMbTiNDJmLTONH29Ej/f+e4RHTNG0FCeI1nuxdvqwd1RY8EY1hy5ZO9u7dFQSzgXPiyr0rrO+SKmjt20LHl8ZPM2L1YffyzzW1MORMln2U26t9DsfHtmCbzgsgpxtxVhqOmW0yAhuPs+BLyvsDTabebZKKqpEWrB0PHeDtjRhsTj8HgIIjMUylvUoC8Ouk0P+0kzbR9q2YL9VLwD+S2E13VNKHEqcDcLGj0MMAX76zWnOl6aHFcRGMK6WSKWkOu8GLxInU7xJHSplwG2UEacz3oxmuCACChX9oVu67EOHPGRudcz709NoMjrSPQf0gy5U/VMs0nGYT5VFizdPW/hf4gKKvhJwIGdqU2v7YfpPycKOGFnxqjTNHS38byAwJPieT9pvYHD3wxrXA2ry7Px3xR5yM+z49Ty6tiEDZtrsNsHqqBw2les+wQQracO2sixP0Q==;Ksk6+Foj6ETQeW9+2YYr4A=="
 ---

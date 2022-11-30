@@ -20,15 +20,6 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "AWS Announces AWS Supply Chain"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2022-11-29T18:48:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-supply-chain/article_ff26a010-e926-5de8-96ba-a8b2612fb91c.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 34
   - title: "AWS Announces AWS Clean Rooms"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced AWS Clean Rooms, a new analytics service that helps companies across industries easily and securely analyze and collaborate on their combined datasets—without sharing or revealing underlying data."
     publishedDateTime: 2022-11-29T17:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/95068/ai-credit-modelling-fi
 webUrl: "https://www.finextra.com/pressarticle/95068/ai-credit-modelling-fintech-finbotsai-secures-first-contract-with-mogolian-neo-bank"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Accel Funded finbots.ai Signs First Neobank in Mongolia – M Bank"
+    excerpt: "Singapore-based finbots.ai has signed its first customer in Mongolia, a neobank called M-Bank. finbots.ai is an Accel-funded Fintech that provides B2B software as a service (SaaS). finbots.ai’s utilizes artificial intelligence (AI) to provide a credit modelling solution that aims to enable M bank to rapidly develop and deploy high accuracy application and behaviour scorecards."
+    publishedDateTime: 2022-11-30T01:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 74
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Fintech-Asia-Singapore-Buddha-Museam-1024x758.jpg"
+        width: 1024
+        height: 758
+        isCached: true
   - title: "Singapore-headquartered AI credit modelling FinTech finbots.ai secures a digital bank client in Asia"
     excerpt: "AI credit modelling solution will enable M bank, Mongolia's first Neobank to build a high growth, robust and agile digital lending business   finbots.ai's Artificial Intelligence (AI) credit modelling solution,"
     publishedDateTime: 2022-11-29T00:00:00Z

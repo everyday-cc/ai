@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: VentureBeat
@@ -24,6 +24,17 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Autos
+
+related:
+  - title: "With Pittsburgh as its new headquarters, AI-powered retail pricing startup Netail sets its sights on growth"
+    excerpt: "For Mark Chrystal, the CEO and co-founder of Netail, Pittsburgh will serve as a launching pad for a company that only recently came out of stealth mode."
+    publishedDateTime: 2022-11-29T23:26:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/29/why-netail-is-calling-pittsburgh-new-hq.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "EA4/e9sLho4Cn6CZsEHIZTx9ztKeFc6y1vUaGH89+cygB64ruUbRW2G8UFSwUUZ+9hwvnkJwwskkWZqJwfabO4D4+OgxUQNbVdM2EstQ1THLu4XvfA+GsXN/BBYYOiHcYv5/QvsylRvpdYdDz8NjeEQTpCXW/ol4FTws+wHD2n9WxqHSz+e8OUQnp2CrdIiaTflv3Yu5A4P0p060eid39cXxb76G+it0KiP17KsXVLLwzdl8DfrK7nXi5SgNcCF+5W/okQMXmSpQ4+9aQixNHYUbmkDXzBXcr14fJLv00S7ZWU6QKLy5aOYMqiKBRdHbBSW7nlTCd+UrxPBDJEqvdnUbiCwBoDADxU+zmG/NbCc=;e4pgbd577p3ZsW/17QiFfw=="
 ---

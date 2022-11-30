@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "LG C2 OLED Black Friday deal"
-    excerpt: "Just how good is the LG C2? The 65-inch model won our coveted Best TV Award this year. And it wasn't a one off – the 42-inch version also won the Best TV in its size category as well as Best Gaming TV gongs. It also excels at the jumbo size, with the 77 ..."
-    publishedDateTime: 2022-11-25T10:01:00Z
-    webUrl: "https://www.whathifi.com/news/big-screen-big-saving-lg-c2-oled-black-friday-deal-slashes-55in-model-to-under-pound1000-for-first-time"
-    type: article
-    provider:
-      name: What Hi-Fi?
-      domain: whathifi.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2U6UayHsc2UoSQyej7BdA7-1200-80.png"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "t5yBTw964Vif809gtQu470UVkE1A9XAIjxZMTnwgUDhSEQT4mJYz/j7mdqxTRmKabyoApVrwrnjfWth+jHZFRULgHH1kHqH5rVKRzHo+AuIoSba99kcVMILRIOKK9uRmbQLnw+CEo8ZjcRJBoHzplEks3RWeMXqREIOZ9EoyBclL9NtfzKUz/bKAKIxSRPBI0f9TT/xa4brQUUXQMgoMMR6d9Wv8k8K6Tpr2yazhSXMXYhiL4fioYNj6GR0hlTFhzU/FSvf2xRX6ll7tpmH+XZxCCi/QUNcGHYpyi0DOjK/4DPK4Ck2jvo0ncD4GJz6HJn++/6fMpjKDmL2MN5wgI/10y3+BJHCrdDtcRHlgbFoXy2oaDba4JUpdGDwSAByyGAr2lUbr0Sd9M8hErc3FmUcm4+zKh1wNfP2ic3tjS394oJ9Ekd/4xQ8He8qNN7jqdqboDc7jWt39rWHrMhtWL8P6jGxyEhiUtmuQfFMWZdOP7kZ0vpZB5PVxHWCbhd/TQzcUjtHIzSRY4cAyhBJv2Q==;Xu4JlIwWPbo1qmBd3u50DA=="

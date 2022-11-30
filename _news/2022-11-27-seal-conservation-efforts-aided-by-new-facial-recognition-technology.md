@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-fac
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/11/helen-op.jpg?1669482032&strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "A research team at Colgate University has developed SealNet, a facial recognition database of seal faces created by taking pictures of dozens of harbor seals in Maine. (AP Photo/Robert F."
-    publishedDateTime: 2022-11-25T10:19:00Z
-    webUrl: "https://www.timesfreepress.com/news/2022/nov/24/facial-recognition-can-help-conserve-seals-scientists-say-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/11/23/AP22321559652379_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
         isCached: true
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"

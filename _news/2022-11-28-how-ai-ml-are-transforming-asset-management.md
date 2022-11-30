@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/how-ai-ml-are-transformi
 webUrl: "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence & robotics can transform healthcare sector in collaboration with humans"
-    excerpt: "Robots have the potential to perform more efficiently in various fields including healthcare sector. Artificial Intelligence (AI) and robotics can play a major role in bringing greater good for the humanity,"
-    publishedDateTime: 2022-11-25T09:19:00Z
-    webUrl: "https://newsonair.com/2022/11/25/artificial-intelligence-robotics-can-transform-healthcare-sector-in-collaboration-with-humans-2/"
-    type: article
-    provider:
-      name: NEWS ON AIR
-      domain: newsonair.com
-    quality: 54
 
 secured: "iguiFKZ76/tst7WjKTPDMIJsT35X4P3X5JAs7Ndmyr+ucheAekEMcxb3K2sEQ4iL5Hi8AEUf0TF9JnlKTeQHhxLZ+Jp0k5WPSmVcNhsje6oS6wtwPvlKUQSp6sPhY0DovPO2FESdzcm+1yqBNyD8+OhVfmKlpbLAnIKJJ5mGepofriWCF72Fjfm5h9LPpblY4PRd2JyxT87JDBgOvoeV4NhjeGDrD1XW7b7qH25Iqji4UR9RMhVuRl0vkOYoIq6aPuLuCJr6ecbjQLbr7ieewxjbw+47IXOREbRIQ2hr6ZELDts49zJuNKHYGzsmH4d04eChAEIZ/ehIk6wfpLjzBS/dzKClLiXbqAaiUMnkBzI=;G1SzUhMk++9iuy6My4hSag=="
 ---

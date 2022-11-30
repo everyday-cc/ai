@@ -115,7 +115,21 @@ related:
       name: GM Authority
       domain: gmauthority.com
     quality: 19
+  - title: "China's Tech Giant Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
+    excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.futurecar.com/5617/Chinas-Tech-Giant-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 18
+    images:
+      - url: "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg"
+        width: 700
+        height: 500
+        isCached: true
 
-secured: "4qeT2bVJwwpGJMpnnKNdDjLxfUd23/Eu0wO032xuMIwnNgOHffAZUjwDXIhS3Tfak/49ZGflkH9USt45dnEjVKvmn2KmaPSQnNue4XhbhG+SmW0BURzq8yMaMs5MQ4y1clF2l4JU7w7pfHKbzgNu3kyOHeOYWCAcOLhuC+03XQeVPg3Hy4mYnUDp6aOAf5yjJRZd8/B3KpXQ5B4ctQx77PfYuc8LOH3hdOTx+KBPjLpPKml9c0rn1TtO7AsbD2LwnSNcc83nj7AmWnJkrkN1I0A5zkeigNs0dFILvg8RKiBKPSjpdk+YiXrjgZkQAFl1mfJXDP7j0ZGFNR9EQkGOh3L7Lx7OWyfHJI6QAanV4Is=;w1gLg2eGnOfJPAJ+a/c4Bg=="
+secured: "Bbz/3DIcmtuAW1gMy//E1Uemj+TiH0r73pSsQeiM6YLFv7mSh2ZHAJgssHB5XnxTMmRJHz4ZSzAH+Y6G1jUy2n6KCjw8ykxNptjkJ6sSJz5e+7AIjRvCaiDlh8q7+0fnhwGFE/36mofpTyKGMLReAXgPoeCQ2sZxaPtJLWcBylvVXMbvFb5RmYr+31qxc7FVivLKjIkmDq2THVTJ4acY1DWVmU4ldxCBMNYRLfYSboPlH/XGT51lpZj+hnjikOXoW4TUTbc8HFB3x/MuP1ub9XWNxUxX2Iq1KP6DK3QTtgJrgt95KkYTa4IHjHyJQXv4OIUBlauP7zT0uIFyanI6I7A6MfpdSKQ3QonxTzJ5VkCx7wFzvRx/LZ4s3scqBCFddzjj0RojyGnh+HPSEb9HZmgomNTQQ82hMi7HSKZv4dbJs8gmqkVFP5m4RaYWBHiIL+Nu6bXqfVDFDZ3x2UsCY0vHdpTYmqfxtKr+/CUEwKGk1SAtdHB0G7QuGXaOewBJKYrqXbjNLXx/H1UQ9dwKxg==;/KIBMCulo58szJN5unx8hw=="
 ---
 

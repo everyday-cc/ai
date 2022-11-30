@@ -9,7 +9,7 @@ ampWebUrl: "https://www.abc10.com/amp/article/news/nation-world/san-francisco-co
 cdnAmpWebUrl: "https://www-abc10-com.cdn.ampproject.org/c/s/www.abc10.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "San Francisco debates letting police deploy robots that kill"
-    excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides accusing the other of reckless fearmongering."
-    publishedDateTime: 2022-11-30T00:56:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/San-Francisco-may-allow-police-to-deploy-robots-17618894.php"
+    excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
+    publishedDateTime: 2022-11-30T02:17:00Z
+    webUrl: "https://www.khon2.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/"
+    ampWebUrl: "https://www.khon2.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
+    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 39
+      name: KHON2
+      domain: khon2.com
+    quality: 59
     images:
-      - url: "https://s.hdnux.com/photos/01/30/44/32/23217814/3/rawImage.jpg"
-        width: 2048
-        height: 1408
+      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/11/AP22333707907710.jpg?w=1280"
+        width: 1280
+        height: 880
         isCached: true
 
 secured: "/ULLcNiT5prUssJ4q4WOjndG1mKeMDWWTR/JR3RhgID1ruZPfFoxOFUhpSJrPPB4LCxQJuOkNewA701bx0zZA3YwfxDkdNbcOeXeBdGnMqJUXApaeOyJRIoEPbCOtKKCobFsLUR4rviV10slq/v4XGMwTTqFhnsKQDq4Pw0L4COaZ672m37e/yT/1vZ+WPcmzFnQLVqW458RdWrzq5oC5EdnCwvNLJ7GCuS6KIXFBZ1g4RplbEiu9w/QGpnnqPgJj+BEO0RQwLQNYF0x4zdU9PH3PpaGZbmmGJBGvU5oqOCskANRb5S2RontJ+2Ui+kaKDFFIK/9eH/nvmvEbJNPuZa7u6VXd2+4nLot/3Li1uk=;qgGKHBoId+4WUvnrT/ab5g=="

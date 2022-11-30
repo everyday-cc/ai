@@ -98,13 +98,13 @@ related:
     quality: 19
   - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
+    quality: 19
   - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
     excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
     publishedDateTime: 2022-11-29T16:17:00Z

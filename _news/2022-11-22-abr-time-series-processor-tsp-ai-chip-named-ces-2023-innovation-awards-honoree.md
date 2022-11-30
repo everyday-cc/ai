@@ -1,15 +1,17 @@
 ---
 category: news
 title: "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE"
-excerpt: "ABR's Time Series Processor (TSP) chip is based on their revolutionary new algorithm for AI signal processing, the provably optimal Legendre Memory Unit (LMU) neural network. ABR's chip processes ..."
-publishedDateTime: 2022-11-21T16:47:00Z
-originalUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
-webUrl: "https://ktla.com/business/press-releases/globenewswire/8701131/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree/"
+excerpt: "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ..."
+publishedDateTime: 2022-11-21T16:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree"
+ampWebUrl: "https://www.benzinga.com/amp/content/29807580"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807580"
 type: article
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -21,6 +23,6 @@ images:
     height: 342
     isCached: true
 
-secured: "2+gXIz1g1t/cy62i1R6jasK1ikQAyRw9nWAfGSf4UIIDRd23ZFbVzHSF7nwZXvA5fP3XgAXZu5CoFO4H28RRzr5OAsYmpXenEkN3zbgtXCkrt9zouFPek1lFABjyMRcsTbbV4CR1M6mo2Q2DE+n8Acki7+JoJfFNhTEjDLkVpryWksjkEMO3bBZ6PYOt0wVgrEgNRiaoKoP9FggD+VPHyBOXLOSDItRSDE7TCKQ483GEZPnZcDcy7Hj3ssib+A1FrSKjNhg1/ZB4xVowrq4NqpOAFDJLxjEhD+AKwGTpx73Yg5GwzvnGKU4ynQoeC7DFqw3ZJbA/x7Ch+eM8/w+Cg4CRjt6RsTEZiSSE335eKQo=;E4twrXG5Y09HvkZLej1OXg=="
+secured: "zcda0x68gmfDZnjI7Jx7ypUZSJuIbYSI4m2yPDOje8bCMTB5rL9GCzT/YZlk65/Ajz1P6EOl/6VupiqSGcVdx2xykTiiKh/EXjbFzyzlUqq8//V0DrhxMUaMmUf6BAyrQw6YqBtdQWWloVVpSX7/TKzJvPu8wzAD2QSrq2DW3p8WcIcKLV6BUpONHrPuVsvMerKzJJqGyAkd3di6IBGQDwO73Nug06K2opNa2ZcRK/hvESQv7yrSVRgG43IzntyR1XeqPYbD/UWcqfFFs2aZ4JmBx7vjK9tJ3r7uwlTgQjOmGfX1yI9jdYogXcIUO7F4v//cPiesqC4nKLYjIBVrNIK129Y4J+mhms/o+Bti/pw=;MP5ZHC5Ykvc0ryT4Vsmr4w=="
 ---
 

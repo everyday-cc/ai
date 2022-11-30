@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "LG C2 OLED Black Friday deal"
-    excerpt: "Just how good is the LG C2? The 65-inch model won our coveted Best TV Award this year. And it wasn't a one off – the 42-inch version also won the Best TV in its size category as well as Best Gaming TV gongs. It also excels at the jumbo size, with the 77 ..."
-    publishedDateTime: 2022-11-25T10:01:00Z
-    webUrl: "https://www.whathifi.com/news/big-screen-big-saving-lg-c2-oled-black-friday-deal-slashes-55in-model-to-under-pound1000-for-first-time"
-    type: article
-    provider:
-      name: What Hi-Fi?
-      domain: whathifi.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2U6UayHsc2UoSQyej7BdA7-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "7loBLQqkC7rO41Wa9AFErB14SIJv9gijw93iN0C6+FnU2I6LznuW2wu7AnQCp448Yy0DxqXeozJ2pNKWVkPmrTSH1tdE4tyCjwvMhU0OUm7nfijJJU97VyJUoHtbnQQNhYN79HiAsAQJAwAJ/dgv/8cAe2X6VlFJccuZqrjetGezF+rBAUhws0wX33nkDDMWkOfgXEjW9XzVlWQc61UxPJaiVmnCaoMeXkCZJL+D66oOVwJdqDlCF3p6YAvNfa1pNyIvYoKIkfFFssEAS13HgmduK3RCjelndPr4gM8osPZBz/6edGQc7cqGRr8Mfc7doeKYyA21UDZSRxQx9iWpDOQBEhNeXIIQ3MdItmThvz9wnqbTZkVjC1rqPoxBbgKLIRsyEX3j48cmjJx06JKPoRn/EfBfSu3lzvXYKo8wfh8El4/RMk1S6jecPpzipqzNac30JzpU3g85qdbxPqksQ/3uP+7apYjexSNpXpTi231Hbf03cIGI4BPj9tA4IfIXlJHcMTiP9pBHPqawZLLvQw==;fz/23WPxfbiKGlPOMTVUXg=="
 ---

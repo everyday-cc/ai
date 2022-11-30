@@ -35,6 +35,22 @@ related:
         width: 925
         height: 611
         isCached: true
+  - title: "AI challenger Cerebras unveils 'pay-per-model' AI cloud service with Cirrascale, Jasper"
+    excerpt: "The pay-per-use cloud service promises to cut in half the cost of training GPT-3 and similar models while speeding up training time eightfold."
+    publishedDateTime: 2022-11-29T23:41:00Z
+    webUrl: "https://www.zdnet.com/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/640a1cb7eabbef6cca6358bb275d037648408957/2022/11/29/b6bfff51-57df-40e5-b5ab-3ff8e95db826/cerebras-neurips-2022-slide-deck-slide-26.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cerebras Announces 2 AI Partnerships – for Large Language Model Training and ‘Generative AI’ for Content Creation"
     excerpt: "Cerebras Systems, maker of the “dinner plate sized” AI processor, announced two alliances today, one with Cirrascale Cloud Services, provider of deep learning solutions for AVs, NLP and computer vision,"
     publishedDateTime: 2022-11-29T22:58:00Z

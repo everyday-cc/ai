@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI challenger Cerebras unveils 'pay-per-model' AI cloud service with Cirrascale, Jasper"
+    excerpt: "The pay-per-use cloud service promises to cut in half the cost of training GPT-3 and similar models while speeding up training time eightfold."
+    publishedDateTime: 2022-11-29T23:41:00Z
+    webUrl: "https://www.zdnet.com/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/640a1cb7eabbef6cca6358bb275d037648408957/2022/11/29/b6bfff51-57df-40e5-b5ab-3ff8e95db826/cerebras-neurips-2022-slide-deck-slide-26.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
     excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
     publishedDateTime: 2022-11-29T20:57:00Z
@@ -54,6 +70,6 @@ related:
         height: 300
         isCached: true
 
-secured: "STmGxtVahuCzYf3xNg0AmxrxAt61juRVtS+y6xyLuHZ7myQpOd2iQWahAmT/BZZNn23wPwZMvESM7dMS775h4tICsb6wPFMFxNmAfGWQeSwL5Lfat7Eh6cVjmFcuUAEq5I8SrNKhq/GnbcZVy9lhEUPBGLG6NHN0nc0QSpI4vMNDqzVeLKxbs+/xXARIaQxFOFNNRq2cZXseW1n69kDPkCXf/0SKzqsFLrfn95OEGb64MTdT2aHI/wJP3ZYuovTw1kc8zTfmRxNA/1daOZFllW8whcC6fZroaaG5/FJbBspREXsnI6wcW4UUI6XSe7FGw3S5BrJPn/MQqy0L8z/o/qOnh3N2bJygP2JdVJCVpFw=;FaVnwy0Dt4aelkX1amEeuw=="
+secured: "EIHV9EPRZJYrpM60Uih8SD62k2mG1RmT9/alUFF1U1Pj2HB1U6wfIvrPC483wR8fhET+maNjqkN4dJG8PH89qeZM7vqjPXB14p++gMBcyfoAE1bKc205Q3qYfqrPPGkHA7N5uOkxbesM9PVeaB+DmVJfuxvGwEppbgvA8qB2l65IsGGh5jGyXXcl9c8HXMceUfBz5P3C2uhR42syR4TIxe5xW6SqZT/NxHQ31/MVLc7CR1hK2M73HNn1p0RNXhOuTGJurKsgf7hCCINH7ePKtzc1fUcuhXgQI3QfuJX9KAMNQnZoNGyKmA3uVIpPuJLggwkCPkzfYmwYPwJ51vQEPDQvS3hGuycoPQP6oK7UiEuC9MOLQnK1sRrTIwoKI2yPNNp9d3OBPK+BtrzWCrY8lIm8f5NCVJrNGSpviCxz0byVKAY6X7TmJMXC0h+UjZqeIDubgZQ7t4UvHc7QGgrsU3uS/nqusE+tOCrI0YIjilmiVy4MJ744eZkpqB4QoCPzDkeRguLgCPwOAwTWDh6MGQ==;wSy/N0Soe9+MhBGYZ+D33Q=="
 ---
 

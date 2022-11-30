@@ -77,15 +77,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Russian Health Ministry launches healthcare AI platform"
-    excerpt: "\"The Russian Health Ministry has launched a healthcare AI platform. The primary objective of this platform is to create a digital environment for interaction between developers of AI-based solutions and the medical community,"
-    publishedDateTime: 2022-11-25T10:16:00Z
-    webUrl: "https://interfax.com/newsroom/top-stories/85389/"
-    type: article
-    provider:
-      name: Interfax
-      domain: interfax.com
-    quality: 34
 
 secured: "uZFOHuzWzg9L6GJr3Y7z2QGDmiR8LNFcA5OLOzF1bTQtc1WItzQvEBpTx9d/tELP40tbcPjKOzZDbdhWSakJqTWGkxGmkAKSQYhXfM8wnnazDvEttOq/C85J75JIQ/0b/+jGvCsJOHg2Hch/d068h7B1RzLRgVpj0FlLk8WW4CA9mRZn3j1nolyEoEFbgzinFqjTjd3d0RwFbP3VBQVrRPqJNWFor/oiuUhCvtx3cv7/tbcD3EoukXBzDnhDox2I1GIHGHULKPnOEXLmAKIr9HAwvaWjQ3wA5Uj7CUlWy0xXwq6+OiDRFsCe9VWztSZo7IOxst8zQu+9CR0brIy92yK5RZO2+YDvSMsbB7MH+tRl0gQWKLfOfAt3xxv7fdIxsR/1XBRQUMGETnxGlNxmsXJlS6t65R4hLKe6A+RFzZghZWUqbvN5YKY/KSAg6nn9Gv1DiXxNKT23h+TxUSIwGLNBCM5UcjIYUTySBukS+w0c7upZM07hG4OIZDCowpsDwUQFWm0oNDA5xiOQRQC05Q==;rSNiyTkYAZ7yq17lOlf33g=="
 ---

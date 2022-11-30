@@ -41,6 +41,22 @@ related:
         width: 925
         height: 611
         isCached: true
+  - title: "AI challenger Cerebras unveils 'pay-per-model' AI cloud service with Cirrascale, Jasper"
+    excerpt: "The pay-per-use cloud service promises to cut in half the cost of training GPT-3 and similar models while speeding up training time eightfold."
+    publishedDateTime: 2022-11-29T23:41:00Z
+    webUrl: "https://www.zdnet.com/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-challenger-cerebras-unveils-pay-per-model-large-model-ai-cloud-service-with-cirrascale-jasper/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/640a1cb7eabbef6cca6358bb275d037648408957/2022/11/29/b6bfff51-57df-40e5-b5ab-3ff8e95db826/cerebras-neurips-2022-slide-deck-slide-26.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
     excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
     publishedDateTime: 2022-11-29T20:57:00Z
@@ -51,6 +67,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "2SMCjOci6ABX2GMSk+kGs596nn4BM6BJG8ZjYWo1aoRZsfTPTvfdlpA62ozQ09d+eL7gM8SkYwFtLDsep3hBfkzL+nY2gHu94gJv+ZtdnRgfUK4qKauN9ufSCRuDBqe3R5M6lyy7M3T+YKfFDy+w3ZbO4jNNWdGpszA4ROE9KdedHGGFNrZD18PCxZSaiq5mmAQVFtB+YYSEQueBRN++PKT/RHF3IktBrU54+yMNec962S5/ykmWcqCNaY7GbRbhDLKtN8X1LcqQptEyU/3gYZ6skB/tOLOQT3K6N2MxgfDBSznrdlUjE7/Ks5mI+lhO/t48g8w1bDPcyt5/x6xMSuhARGjZzwd5Sce+ZeTeuD4=;tBaNBBxLiUOih3obqLCaSw=="
+secured: "z8b3L8eIG3/u+cnt+jC9ymCn1g6H5Et1+CbhC1FTklTqarjtKyVZAuuDdjhmN5aKadO/osdsGZVoOUMxXmcn+7G7cvD80bZqx8y6ntwnH+hSNO7dm/uXwS894VNGIyGLpxuEY8N8NPJZldZPSmYJjoGGKr6I2taXfYThzKOF4GUrrEkQ2/a7JEPnF1HKLO/rOOx1FeZFnZD+B/JjqvuYW8Esr7C4WnhstV+29HaXIGu8IkVhuIezp2Q4AJf3tkZGBajdjpT23bPscIw+cRRYUjMl4QF7T2pPnrkeYLJ7kHZTA2bE6+TZGfZ4TAAb7qPJoY75cQqoPjKwWh9U3/luSBLrL1gn5G24n2iy42wyIsI0+lKdW34efRoH3YyuKb3XVsq7zPr6nJwqV2WWExOK/Lb0jXnBUHWQLf3ntW14qk98XDHhkGVbU1EXxpV8H3BO64c9MhBtxwzV1Jmwh0ZsB/+8Ayd3pM4Ya1zhNFyEjzj7uJR4K7SXJF2m7U24S/0+e8BtQkMwdA7l6ioC95fJvg==;JixW2D9R54+Elxp38x1A/Q=="
 ---
 
