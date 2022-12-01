@@ -7,7 +7,7 @@ originalUrl: "https://www.thebusinessdesk.com/northwest/news/2106804-finance-pro
 webUrl: "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Can AI Learn Better without Learning Anything at All?"
-    excerpt: "What if machines could also meditate or do nothing for a day or two—to learn better? As absurd as it may sound, a group of researchers have now discovered how artificial neural networks can mimic sleep patterns of the human brain,"
-    publishedDateTime: 2022-11-26T10:29:00Z
-    webUrl: "https://analyticsindiamag.com/can-ai-learn-better-without-learning-anything-at-all/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/Ind-art-b_11zon.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "TTUZSF1WFIfaQMAdXCUXsreTsMnT4NG3206DzwAr85WjU78Z73QIvku2pCeuOsTlOcdZ8kWrAwzDScFzR5btpmP58qvuojx1toEKck9tBhStICYqKM48XgfWsB5aRypOo8dd54fPInv+CAuqzcGbREe/VIE2KD0du4v1AP0aIkY9FN5mi66OAdgMHA6rzSBkmxFEtPbXswl+B2LK2ikyY16X8o9pV7dWMB5rRTlaiBGPaaQAECPFSVNgTwpdGceYqck3gyg9L7eOnHC5LfMfOtf4wFll4tkXOqRxKFvFW/PFDOhPsoo/4o+JXeSwuz6dBrPzejdCdDHM2YcrA+6u8NT6L0gbf+8xaUYC1FSQKcjdMXpS/RZrGhRbzWEwLpKFM9mABlsjWHAOjOfYHR6rFgDjFQaa21zj5VjVTDDBumXCiz7T485wUxKAS7PLFA5s0CCNZYnbiPvKLMA/1EgdL1QI1I5D+hYDqsAlJf4Fo2FBgiwDOE1RP/EfFwdHRQF8ciPsbrtGtFwPjuy5fGaZOA==;ZMGc7dtvhAGVsbrsI9GRDw=="

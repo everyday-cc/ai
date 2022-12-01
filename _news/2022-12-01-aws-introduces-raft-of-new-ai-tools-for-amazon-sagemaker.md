@@ -40,30 +40,16 @@ related:
         width: 1564
         height: 780
         isCached: true
-  - title: "Stability AI builds foundation models on Amazon SageMaker"
-    excerpt: "We’re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough"
-    publishedDateTime: 2022-11-30T21:01:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
-        width: 1563
-        height: 785
-        isCached: true
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T21:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
 
-secured: "m0dOTV4oqwH1YiFd4G/+w030keJZfJHm/8PE5uto9ZsaNdbBYAR923tWlB0mJWiAM9p/TGBqfFNvbz53eVyXpLdBKYbfeJwj0VZ87iboS+TBhA5mjFsk9rA8pQOBq0hh/x9P3aosm2PfKEbCqCcuFOXTl/aJrzqBIBqwVt6pFlbiaZr1RaElgqNgyTuYiPd14vYugeRBO54zu9WWy9w52oG1fonmiqAeuyWbkl5vKA+WXG6zsEMY6itwVD8WMbHEhmsJ5RQaGyh4Xzq9vWkD3jqsa6pS92c6vqV4nVAC1/uJkseNQ4/ENqIrR/XK+k3l3ZBN8DtscTJuSqeVHLvmirK+i404KN2t6NxcID49oQ8=;CzvYazBuhRgmH4Z2RN+VSA=="
+secured: "9UmqpI4BdHSwzzVmPmX9WTsCzzX6+N/ZwBd1nOeko0ExjkZmmDcU2kxolhrrTl1NhGFZnlLEQIGqq4Mj6ZDYqFUjL9H6W2to8sLfpg71P/yG2W1gWwVenoBk6dw57DjTtr8ieoLCpTLLVufWPNJHM0fKg+1CCQm7hyRgi+jNH3yDM2ectAIsMf4GjewrgjzWpkV+XURa3r3KeFgjVp6KT7gk6FJLIk/H/CwbctPqdK7PqMR7ZgnP5I/pzPJTcxakXK2DAeBHjccAYO67p5d/mjTw176Zhbmwp5al+iD12TIlsxzC85cqB8sa9fSKEfGeWRvjibXlZqARA2kOSZS0aVsL6bP1hyyzqqk94xEtvSRb+EOYQ9WIIEX3yYhMb0LyKP42OW8oaU1KliBZfL4reHrK+wMUeFpbC2tKvi/+Q8BY67zEcpO73IvmmDVnvCFZ6ElH/+Z6Asai2W931MoIqOzLOAPfL2tppp+HW82gy093BtPC44uA6t2N4uc7i6+QGHp5pOnhBXqGn2SCAY6qWA==;Jqx5HdPjK92CmYh4tYHrOw=="
 ---
 

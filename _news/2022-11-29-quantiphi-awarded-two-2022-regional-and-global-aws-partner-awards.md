@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
-    excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
-    publishedDateTime: 2022-11-29T18:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29894595"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
   - title: "Spark Business Group Awarded 2022 Regional And Global AWS Partner Award"
     excerpt: "Spark Business Group is excited to announce it is a recipient of a 2022 Regional and Global AWS Partner Award, recognizing leaders around the globe playing a key role helping customers drive innovation and build solutions on Amazon Web Services (AWS)."
     publishedDateTime: 2022-11-29T01:10:00Z

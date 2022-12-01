@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitati
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon to warn customers on limitations of its artificial intelligent"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-12-01T01:24:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/AMAZON-REP-IMAGE.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How AI speech technology is helping NHS organisations stay on top of documentation"
     excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
     publishedDateTime: 2022-11-30T08:14:00Z

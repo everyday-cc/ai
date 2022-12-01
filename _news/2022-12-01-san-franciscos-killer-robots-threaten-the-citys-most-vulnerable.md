@@ -63,15 +63,6 @@ related:
         width: 800
         height: 550
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations."
-    publishedDateTime: 2022-11-30T14:02:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
   - title: "Police can use robots that kill, San Francisco board decides"
     excerpt: "Civil rights advocates opposed the idea, saying deploying robots capable of lethal force in any situation would lead to further militarization of police."
     publishedDateTime: 2022-11-30T02:30:00Z
@@ -115,6 +106,20 @@ related:
         height: 1280
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations -- following an emotionally charged debate that reflected divisions on the politically liberal board over support for law enforcement."
+    publishedDateTime: 2022-11-30T15:02:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 39
+    images:
+      - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
     excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
     publishedDateTime: 2022-11-30T17:05:00Z
     webUrl: "https://www.wbaltv.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
@@ -124,6 +129,6 @@ related:
       domain: wbaltv.com
     quality: 19
 
-secured: "jCeeHMW4k8tGyJAOsoCLKkNVv136kic7OAAOqRYpb4paFKTiOwcC8QupS7VazVE0al6bR0n4DFSBKUR7PTN+z0/qMaOlvqFkPMostSGuStlUCeKFmy+W/DBwk0NB1cXKFKYaCLxKYxDu7ysWi5+EVXsKt4mAd+P04rIg668gpqnzenDy9mU8leoiS2JFw+7R8dsJqpuMVGu/U31FibMOZ9Jl1Cfq9cuoBCI3A4UMaKvXaVTZb/dMrudaTQSQwCYB7v9eE29LpLo3Af73IYS98gxGrbFGkzAbjMCkxi0cLrVSriH5aAPw/arPwpVnWGWUVXBRK/87s/N4Kf2Hqs7WwZSF0hRCRi9w7qZxrmWxRHQ=;Q475h1u6X5F/gRN3+1wokg=="
+secured: "eQzCI1SXfsg7azOhPzf3GI2kJHCKCmcV7Vf2gUkGnOKRZQD+Z9MRfS3mRkW8szC9o9qM1kIhkAtv/N0vBRT4LLIxqCgw53PRuPeH7RaPNaIj2rjIxvCvImqX1U16/O6mM0dIn9v3BnQUMqtIaBHZ5vkuzLAyZtSJ7tV3Wx7/36ag7lgqrU8ffWnOdrOpvBqt3prjxMolqw/3GYdK+4+n5uxI/xH4xIIQMfeofrZatu4nW6sIQeehHJ5TmDVpj0lHKRsVYi6GVakNl+bbII9XxHbvQqtVbcW3XKEmEe84VNgezW4UKAhrTTdFfnSndxl6gqkidWZ4XS/u1JouxRWxMz+XzJKmDFhPCcivB0GNmuy/x8SkfY6ULIo3tsNAKyMMCQ64uJARil3ocpsanfioMhvTpW0N77wXE/QMjJVVKH8N/C3wvT/b/IzO3QOLH9S7B4uVrFx7iI3BgIkP+rVGxYJwaYjNEpSnLeNQH+DwYWRpCJwOc8hrNXm9xezrRN35LpBjxOpSKL8nmd48SaEVow==;VoC55yGwLJg4CL/QnJTAaQ=="
 ---
 

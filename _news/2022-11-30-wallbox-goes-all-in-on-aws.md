@@ -33,15 +33,6 @@ related:
         width: 350
         height: 455
         isCached: true
-  - title: "AWS Announces AWS Clean Rooms"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced AWS Clean Rooms, a new analytics service that helps companies across industries easily and securely analyze and collaborate on their combined datasets—without sharing or revealing underlying data."
-    publishedDateTime: 2022-11-29T17:27:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-clean-rooms/article_b2f7d9b2-f8b2-5d6c-ae8f-c13c71203b64.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 19
   - title: "Descartes Labs Announces AWS Migration"
     excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
     publishedDateTime: 2022-11-29T20:33:00Z

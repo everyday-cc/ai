@@ -41,6 +41,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Amazon to warn customers on limitations of its artificial intelligent"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-12-01T01:24:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/AMAZON-REP-IMAGE.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amazon To Warn Customers On Limitations Of Its AI"
     excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
     publishedDateTime: 2022-11-30T16:09:00Z

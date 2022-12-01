@@ -67,15 +67,6 @@ related:
         width: 800
         height: 550
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations."
-    publishedDateTime: 2022-11-30T14:02:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
   - title: "Police can use robots that kill, San Francisco board decides"
     excerpt: "Civil rights advocates opposed the idea, saying deploying robots capable of lethal force in any situation would lead to further militarization of police."
     publishedDateTime: 2022-11-30T02:30:00Z
@@ -117,6 +108,20 @@ related:
       - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/30/image/jpeg/iXyrmInhKX4wAD3KjSLTayfPB657Cog3S3Btptcu.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations -- following an emotionally charged debate that reflected divisions on the politically liberal board over support for law enforcement."
+    publishedDateTime: 2022-11-30T15:02:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 39
+    images:
+      - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "EdSH6YQmFxnzMZEeJQ/L8BrQglceQxHnJgMsSHYWjXQAKkQXyB3rpSOqLyXEG58IEpYDjcLyBdtoqDxCFOWN8yPS2LBVMbf43imbQ4NjzBswYii47xGvajissFqZZI3w7xrUC0whtGibUeocvTmCqIfJZpsanitYuPKylA5zpgzV8H6ahbZ5cWcA203Meogg9Lc3l5g+VZjgm1nqih48olUmxvxDTxx5Emyxgxq7N9outUqiuUIuKv6uMQX91UVMlCDv0rdPh7g7d59saEGhqHOuMMKZj6/AOkKl0JcL6sAbVcfDVrlSCGvVdre+SAvkNHw2P0Z0gjtEUXoCUsVScxAGEMSZ+ol2W2NSiI0L4rhDJQLUKiPZ+PXu9Z6dDbKfN8a3TQndTYgQHSadxYFljSavn4y201mR/57SPBNMXerFnd35Yf9Yz29JTI8JlYS7ijY5QwSGRCN7iM5s/v4DObir9ZffJSKaZy1699/F8zzkAd8UCJLknFF/oemEoUqjvt2F3FzIkvN01S9jsbygfw==;Q1zQD5EtNf6tXKXmyVuPMg=="

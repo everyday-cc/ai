@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252527818/AWS-doubles-down-on-da
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management?amp=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,107 @@ topics:
   - AI
 
 related:
-  - title: "AWS previews Security Lake to centralize security data management"
-    excerpt: "AWS re:Invent that automatically centralizes an organization’s security data from cloud and on-premises sources into a data lake in order to ease security data management. The new service, called Amazon Security Lake,"
-    publishedDateTime: 2022-11-29T19:52:00Z
-    webUrl: "https://siliconangle.com/2022/11/29/aws-previews-security-lake-centralize-security-data-management/"
+  - title: "Stability AI doubles down on AWS"
+    excerpt: "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models."
+    publishedDateTime: 2022-12-01T00:00:00Z
+    webUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/"
+    ampWebUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/2_4x.png?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Stability AI builds foundation models on Amazon SageMaker"
+    excerpt: "We’re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough"
+    publishedDateTime: 2022-11-30T21:01:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
+        width: 1563
+        height: 785
+        isCached: true
+  - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
+    excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
+    publishedDateTime: 2022-11-29T18:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29894595"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
+  - title: "AWS enhances its AI portfolio with array of automation capabilities"
+    excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
+    publishedDateTime: 2022-11-29T18:57:00Z
+    webUrl: "https://siliconangle.com/2022/11/29/aws-enhances-ai-portfolio-array-automation-capabilities/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/DSC02906.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
+  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
+    publishedDateTime: 2022-11-30T23:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS Announces Amazon Security Lake"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Security Lake, a service that automatically centralizes an organization's security data from cloud and on-premises sources into a purpose-built data lake in a customer's AWS account so customers can act on security data faster."
+    publishedDateTime: 2022-11-29T19:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-amazon-security-lake-/2022/11/29/9721267.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 36
+  - title: "AWS Announces Amazon Security Lake"
+    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
+    publishedDateTime: 2022-11-30T16:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "0Gq5NtAT2dS3UaxP6JL5ux4omUSTPtb/hHS3S3tVTqAvu31LkhWPpP9gag3M/TzE6qmvxVXv970es6ii1Q0cw5awE8Ec1j6qUkpIFH7gAAsOh6xF45FafrDBOWovcmEbWRdTRErA/1wDrQOb+S98bk5RyMLqMvH9Ct/tjiBWFD6UpZCneXae1toVzM4PSvAnHkrYIYTCCTMjAWoYQKRcv7ObHJiSCpgd7aMQYalnvme8aospI1OmNBaVxpGC/blKBQ/02TqilEL39Vjvmc19EytWGB8m5Vilne0djg6xd50YwNwhCottoEW0kyRkOzn6NcCRez4nNlJKRfsv2MrhvEIIgUA68Y08TJfNYlMrQem60akPfR6J81bf1tlVBFFCJZjy6KXRv1zoYxspOJhlJpfndGe4WCo7+zZnLIT8o+nr5kmAATDi5WD3pS0Dy71tNm5Dv2fKki0vNlX5pUewH6DrEkWoLrfnpcTU4cNAHKugvFe+pK+MLNdkQPSqm5BuZ/xy8gVuPjBAVkkT9OoW7Q==;FPmu6ZUW58GiVQqgAXRyxA=="
 ---

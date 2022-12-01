@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AWS enhances its AI portfolio with array of automation capabilities"
-    excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
-    publishedDateTime: 2022-11-29T18:57:00Z
-    webUrl: "https://siliconangle.com/2022/11/29/aws-enhances-ai-portfolio-array-automation-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/DSC02906.jpg"
-        width: 4896
-        height: 3672
-        isCached: true
   - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
     excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
     publishedDateTime: 2022-11-29T22:33:00Z
@@ -77,24 +63,6 @@ related:
         width: 1581
         height: 1050
         isCached: true
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Security Lake, a service that automatically centralizes an organization's security data from cloud and on-premises sources into a purpose-built data lake in a customer's AWS account so customers can act on security data faster."
-    publishedDateTime: 2022-11-29T19:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-amazon-security-lake-/2022/11/29/9721267.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
-    publishedDateTime: 2022-11-30T16:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 36
   - title: "AWS Announces Amazon DataZone"
     excerpt: "Invent, Amazon Web Services Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon DataZone, a new data management service that makes it faster and easier for customers to catalog,"
     publishedDateTime: 2022-11-29T16:22:00Z
@@ -103,15 +71,6 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
-    quality: 19
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 19
   - title: "AWS Announces Five New Database and Analytics Capabilities"
     excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"

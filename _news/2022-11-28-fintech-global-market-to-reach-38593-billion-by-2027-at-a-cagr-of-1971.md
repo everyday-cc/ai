@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
-publishedDateTime: 2022-11-28T13:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
+excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
+publishedDateTime: 2022-11-28T15:03:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
 type: article
-quality: 42
-heat: 42
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
 
 related:
   - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
@@ -37,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "EMqXy/hKVci/4DYrK2EwHftw1vNac4/6YBVkJ8U6NhRpBNuLY+IPaHwlBYQGcYJ6r99p3AW2dunfbNn6CCyWU4iepO/XBhQUh2CxtjCsw/MFA+S1B5GHSFzRR3nmGP9p6ammCPaLDjGtOpUX+cBoORyZBbYhTK8Sam1SpZuj4dS0unGE3s55F2s7Vivqp1ikt7rFiSpOfRMNZaPo2dqd7DBIg3fgRf/AwxMMPhy/Hpt05xb7wj/qHcWg2UjqKggVnSIzjzgPwL1qR0IwoNfWlN8C2QSrmKQmtLL2PwprQ+Y192hKKyp5ky1wYDAc+BcjPGxzJd8qqosqKR7s2dfXOFnIhCJ1Ji4zJfvAq47wr/Y=;XqEYsPF33/A0glkvD7ZEQA=="
+secured: "cW2ZT6JvADxvkvX39srw8Zh9sCb939iTqpSpCn9PuH1zMNqlQ62zdgF+ObYkoPKWlxkkq5GuZB4jNd1KMH69EKweOPjDGP29m/obdDnIYLjZsXKJ5fe1rRVsnsqDPL/Q1pRgJU7qE8Dda8Mc2KvXY02li8fBZVe6ykrqwHYfhHrHE35oQ6aBDBLlow33Kwp/81sep8aNT7L3SNXHuU+/xO1o8T6V5WL5yrl5T32ZUB/HI1fYyQb3jRPGRSQKFgbf9ErZG0j4AyZRBZa9PHsdlBLYaTwtYu3wZzsAEQVFke71dBK5Kz4kmKWPEpqinlROOP9LwK5IVGi//OEwWSMiy46cyob1IJ6rMryr8ogl7WM=;t2IpzdXjIgIL2E8LvzTDbg=="
 ---
 

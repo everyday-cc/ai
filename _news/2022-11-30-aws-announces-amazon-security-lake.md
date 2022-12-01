@@ -20,21 +20,51 @@ topics:
   - AI in Security
 
 related:
-  - title: "AWS adds machine learning capabilities to Amazon Connect"
-    excerpt: "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview."
-    publishedDateTime: 2022-11-29T18:30:00Z
-    webUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html"
-    ampWebUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
+  - title: "Stability AI doubles down on AWS"
+    excerpt: "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models."
+    publishedDateTime: 2022-12-01T00:00:00Z
+    webUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/"
+    ampWebUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 106
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/11/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/2_4x.png?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Stability AI builds foundation models on Amazon SageMaker"
+    excerpt: "We’re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough"
+    publishedDateTime: 2022-11-30T21:01:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
+        width: 1563
+        height: 785
+        isCached: true
+  - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
+    excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
+    publishedDateTime: 2022-11-29T18:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29894595"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
         isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
@@ -50,34 +80,31 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
-    excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
-    publishedDateTime: 2022-11-29T22:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/11/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380270/"
+  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
+    publishedDateTime: 2022-11-30T23:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 54
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/29/vrmilGettyImages_1226582027/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Descartes Labs Goes All-in on AWS to Help Organizations Harness Geospatial Data to Address Sustainability, Food Security, and Climate Change"
-    excerpt: "Invent, Amazon Web Services, Inc. announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core information technology (IT) infrastructure, including its geoprocessing and analytics platforms,"
-    publishedDateTime: 2022-11-29T15:03:00Z
-    webUrl: "https://spaceref.com/earth/descartes-labs-goes-all-in-on-aws-to-help-organizations-harness-geospatial-data-to-address-sustainability-food-security-and-climate-change/"
+  - title: "AWS doubles down on data management"
+    excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
+    publishedDateTime: 2022-11-29T20:51:00Z
+    webUrl: "https://www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management"
+    ampWebUrl: "https://www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management?amp=1"
     type: article
     provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 36
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/11/29100321/AWS.png"
-        width: 1581
-        height: 1050
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "AWS Announces Amazon Security Lake"
     excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
     publishedDateTime: 2022-11-30T16:06:00Z
@@ -87,24 +114,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 36
-  - title: "AWS Announces Amazon DataZone"
-    excerpt: "Invent, Amazon Web Services Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon DataZone, a new data management service that makes it faster and easier for customers to catalog,"
-    publishedDateTime: 2022-11-29T16:22:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-amazon-datazone/article_e6b13f53-49a1-5015-bda2-5cc399fc6e22.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 19
-  - title: "AWS Announces Five New Capabilities for Amazon QuickSight"
-    excerpt: "\"That is why more than 100,000 customers use QuickSight to power their BI needs. Today's announcement makes QuickSight even more intuitive, flexible, and accessible while streamlining BI operations with a comprehensive and fast service built for the cloud."
-    publishedDateTime: 2022-11-29T19:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721262.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
     publishedDateTime: 2022-11-29T20:15:00Z
@@ -114,24 +123,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AWS Announces Five New Database and Analytics Capabilities"
-    excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
-    publishedDateTime: 2022-11-30T19:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-five-new-database-analytics-capabilities-/2022/11/30/9722273.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
-    excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
-    publishedDateTime: 2022-11-29T16:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29892635/aws-announces-two-new-capabilities-to-move-toward-a-zero-etl-future-on-aws"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "5KyyLy/f/zptnl/sVxKFwUfR6uXsZFjCi2RyCb4fQf9LaMiJthp/aQ+o//gq4RWfYXS8J0y3Cy2Go6o7dY9x5tyjN8voGRwyjsghgrl6+y72TdL6A5d7cZm05fIanJMmUivgfQozdIltFfrnUnQy2r61vpu2tuDpxIS7mtKh4FgkflmQcGjpeJ8DbSavLslWa29esXiivx7ic/0CAfX+g5KLUxUmkTpAFkLzenN68p5zP+9a1/52I5UNMvZX4oZw+pd1b5gGTGsdUITnPu2RLH1pGD4LOy6r9bqo7YgF/WFCUPyzMuD+LTjxCvC7mv/1zjsGerkAS1WIc/RqZ40KhJc8d9GT/JbMLivzcMEhwIY=;URHZgZDZKpRs6q2PfW/M9A=="
 ---

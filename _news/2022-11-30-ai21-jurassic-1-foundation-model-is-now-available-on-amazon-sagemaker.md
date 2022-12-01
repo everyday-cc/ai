@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foun
 webUrl: "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foundation-model-is-now-available-on-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI builds foundation models on Amazon SageMaker"
-    excerpt: "We’re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough"
-    publishedDateTime: 2022-11-30T21:01:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
-        width: 1563
-        height: 785
-        isCached: true
   - title: "AWS introduces raft of new AI tools for Amazon SageMaker"
     excerpt: "Originally introduced in 2017, SageMaker includes more than a dozen AI development tools. Software teams use the platform to create neural networks, train them, monitor their performance after they’re deployed and perform related tasks."
     publishedDateTime: 2022-11-30T23:20:00Z
@@ -59,8 +45,8 @@ related:
         isCached: true
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T21:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet
