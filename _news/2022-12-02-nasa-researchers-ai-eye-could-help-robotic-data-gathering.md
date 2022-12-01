@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T17:11:00Z
 originalUrl: "https://phys.org/news/2022-12-nasa-ai-eye-robotic-data-gathering.html"
 webUrl: "https://phys.org/news/2022-12-nasa-ai-eye-robotic-data-gathering.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -62,7 +64,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -115,7 +117,7 @@
       "originalUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -643,7 +645,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {

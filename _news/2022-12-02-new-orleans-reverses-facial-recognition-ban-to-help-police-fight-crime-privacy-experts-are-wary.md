@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "The Irish Times view on the use of facial recognition technologies"
+    excerpt: "The Government needs to think again about plans to introduce this new technology in policing, giving its patchy record and privacy fears"
+    publishedDateTime: 2022-12-01T21:00:00Z
+    webUrl: "https://www.irishtimes.com/opinion/editorials/2022/12/01/the-irish-times-view-on-the-use-of-facial-recognition-technologies/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/resizer/iND7YnLQkyLgaMa60SCnSVgP5u4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/R652KMR53CH6EFXX6YKBNRWVII.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9BdaFYDGkvM9j9aeCl3H6//tKRNADXfM8hE23XKCNslT7BoEk4Z4zdgTJ7c0D05whcTLFoXDYhL0LfAzMhJrEjUOn2GG/EKQ25LggxfT3TJe1codmsrlJEPjN7+tFCGSmJhS12miDSJeHagon+Vdtrd/xJfIxC/GSaaa+g94sbtlGNo+iSF36gG+bbplDFrhn/FRvJRR9A4XZtFPjjxY1NdDuaDRLhdPrAdwx+rYxzW7ZqCATW5295OsMZUAK2r5hy/8gVz8qHcXMCYVLNHpmG3RWC87yQjWqTvOYLfk2LS1sdxwBYbEApAR9D31C6NrUA0jpWuAFFGhOL9KS1Il+B6OHvoqDDp1H38RN65QtjY=;reThxAT4mzFWedJuJOR0WQ=="
 ---

@@ -85,6 +85,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI and one X-ray can potentially predict the risk of a heart attack or stroke"
+    excerpt: "Researchers have created a deep learning method that can predict which patients might be eligible for life-saving medication that can prevent both diseases."
+    publishedDateTime: 2022-12-01T20:22:00Z
+    webUrl: "https://interestingengineering.com/health/ai-and-one-x-ray-can-potentially-predict-the-risk-of-a-heart-attack-or-stroke"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/01/image/jpeg/WiO6NnTNsPY99lKpkeVE4Y9wjF7V8ZnX52VvNfoJ.jpg"
+        width: 1920
+        height: 1425
+        isCached: true
   - title: "Risk of heart disease can be predicted with simple eye test through artificial intelligence algorithm, research finds"
     excerpt: "Artificial intelligence-enabled eye scans could be used to rapidly and accurately predict whether a person is at high risk of heart disease, a new study involving researchers from London's Kingston University has established. The findings could pave the ..."
     publishedDateTime: 2022-11-29T09:20:00Z

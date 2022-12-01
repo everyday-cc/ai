@@ -7,7 +7,7 @@ originalUrl: "https://www.bakersfield.com/ap/news/brookfield-asset-management-se
 webUrl: "https://www.bakersfield.com/ap/news/brookfield-asset-management-selects-aws-to-enhance-its-renewable-energy-operations/article_f12f8f25-fc65-5ab9-a514-00e2926c7ccf.html"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Yahoo Selects AWS as Its Preferred Public Cloud Provider for Its Ad Tech Business"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2022-12-01T18:26:00Z
-    webUrl: "https://www.cmswire.com/the-wire/yahoo-selects-aws-as-its-preferred-public-cloud-provider-for-its-ad-tech-business/"
+  - title: "Brookfield Asset Management Selects AWS to Enhance Its Renewable Energy Operations"
+    excerpt: "In addition to its agreement with AWS, Brookfield Renewable, a subsidiary of Brookfield Asset Management and one of the world's largest publicly traded renewable power platforms, will provide 601.6 megawatts (MW) of clean wind and solar energy capacity to power Amazon's operations in Europe,"
+    publishedDateTime: 2022-11-30T16:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722004.htm"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 34
-    images:
-      - url: "https://www.cmswire.com/-/media/ef2aefc849aa4010b88576058f4056c1.ashx?mw=0&mh=0"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "Um7hXtKcpYXEy6NxIXpV6dv/WKulBFoXYWIqguNAPGWtHDPp6eGfwHuc0m5CQxG/CPt3gN0qLoMb1ogqhAXZIRLbRlHLB/y15RmFTzMZFASAjeKc5jWG9Z6DvoCT0OYwTUZmVpzNF9b5VPWCXjlaj3mxv7nJR4Kih7mdrAWC6kAGuWjU/hC/1D+MzWB6HzAXUJ7gvCFEag+Zkb4DMbs5I3POdguv2a8bhjkR849DgzeDTHoprdGGkJAbYxrYwk18B4eBFbN8JmK0lI5hzSYlgsko6H1LpoqpfTZc+kQaFfDJjX6ucZYMXpgEag2wOjhUK57sFC2+vXZ2MWZFB5W4HcmW2drVHegNahXYqSZ02BU=;Fx+YRWLwF9MRdgtmAHesGQ=="
 ---

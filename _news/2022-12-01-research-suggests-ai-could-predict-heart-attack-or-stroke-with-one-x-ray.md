@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/ai-could-predict-your-r
 webUrl: "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148"
 type: article
 quality: 68
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "AI and one X-ray can potentially predict the risk of a heart attack or stroke"
+    excerpt: "Researchers have created a deep learning method that can predict which patients might be eligible for life-saving medication that can prevent both diseases."
+    publishedDateTime: 2022-12-01T20:22:00Z
+    webUrl: "https://interestingengineering.com/health/ai-and-one-x-ray-can-potentially-predict-the-risk-of-a-heart-attack-or-stroke"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/01/image/jpeg/WiO6NnTNsPY99lKpkeVE4Y9wjF7V8ZnX52VvNfoJ.jpg"
+        width: 1920
+        height: 1425
         isCached: true
   - title: "Risk of heart disease can be predicted with simple eye test through artificial intelligence algorithm, research finds"
     excerpt: "Artificial intelligence-enabled eye scans could be used to rapidly and accurately predict whether a person is at high risk of heart disease, a new study involving researchers from London's Kingston University has established. The findings could pave the ..."

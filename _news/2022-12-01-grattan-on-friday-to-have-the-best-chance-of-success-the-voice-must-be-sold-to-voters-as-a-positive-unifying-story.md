@@ -27,6 +27,17 @@ images:
     height: 208
     isCached: true
 
+related:
+  - title: "The Voice referendum must be sold to voters as a positive, unifying story to have the best chance of success"
+    excerpt: "Australia has a year, give or take a few months, to get itself ready to vote in one of the most important constitutional referendums in its history – and we've a long way to go, writes Michelle Grattan."
+    publishedDateTime: 2022-12-01T20:05:00Z
+    webUrl: "https://www.abc.net.au/news/2022-12-02/voice-referendum-best-chance-of-success/101724748"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 0
+
 secured: "qlua+ht+TBl0LsuUslwWNSWPJguIHcUV22ChM/IH06hozKh+n7V8Dt/WZLYZSU3KfjhSRkaH0gGVZBk2Qbj5PGjoOOrQSEOg2nPps+ADy5q9wCY9be/2N6fMiYCfkivtulZCEpH4dLKVi8no/K3UIj0+CyajPYIbzUWMXK6M6nluXaeVbVis1K+0QTST6fl4p9I6iP2cb1P6vSZ7HcyrCldmpcdBNS/1VJu/5RuosCnE4rb0UEMQ90y/rzuzfCrhJTLUyhe4oba7aDDdz0VZUVBPZLBzvANhKjVsLedEvBtMnB2ClECB76Di77CobHr8qn0bp2YmaXLacltqIFWxFaP2H1dYZn0pqecE/iYWUUY=;OMKERIenUtFhvuOmoWA++w=="
 ---
 

@@ -2,10 +2,13 @@
 category: news
 title: "Ezoic Launches Flickify, an AI Text-to-Video Tool That Turns Articles, Blogs, and Scripts into Videos Within Minutes"
 excerpt: "After a year of anticipation, Ezoic, the AI technology platform for digital publishers, launches its new AI text-to-video tool, Flickify, and makes it available to publishers worldwide. With Flickify,"
-publishedDateTime: 2022-12-01T20:57:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/01/9723334.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723334.htm"
+publishedDateTime: 2022-12-01T22:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ezoic-launches-flickify-an-ai-text-to-video-/2022/12/01/9723334.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ezoic-launches-flickify-an-ai-text-to-video-/2022/12/01/9723334.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "Bo7FxenUHEFW5qEnT/CLmyaFIWmIQvg2qa+yZamweRmM4j7QJvdtHl5x2oe5/kVDht7J6e/Ux4Q0ZuJxRdsSl7snqwT99sSR+otTyh9Yqk1bEKYIVvVWHB9IUfabDZJP66w8GOu6hcJsSvv04eRBVaY9wHtVFCAvaHeuX0V84cBgk9/O5DyMNzRqgfKpujUt3DWyPFBqDRdfUyizC8blxz6DBgZR+VurSDbJ3AGeob2unQaW2siHz1zbWSlQgiB5ulyIA5ALQfD6ld8QsgDCPbG3GKVu6XocgUSzcT6xLLXWVoAnkC3ubTcMdOp7tz4wZB9Ikoou+oC77aVF7PZd/6+blh3XwD/k6GCCLcR0uow=;UjvBRSM07+j/uED0+cDT5w=="
+secured: "F8nhb73Fk4K80zLM+gxbg+bexDqJyphRptzXGhnIsFdc1cA/Qz1DocazwWb0LYsM9Gvma0cYkO3dumNEEIv3bTXCNDwS/qLAy9B1VlMINJr0Q7JM6wmvi89IpqLbel0nP64MuIsMQR3xCYlxVg0redfCEDBbCX5fzmiGtvjNIc5n9N0qxvYpUdqQByJZf0CuExyoWs4KliAjdF9Mt9Yn+0AFqisUmlTc/A9gUhGOdyYTV0x6YeiuKqrN/o+j6VAqu9iJISGrhR+B5AZ89vB7PjR/YDWp9N4yaoeBoghAE+AOQAS9ruWkVRkKf5M6v7SmGr4qEajvH8LfMTl/Rcw6YPBVK3i9mFccWseOIDOCp5Q=;rXjVS7FwZAGQDBmkWB+ifA=="
 ---
 

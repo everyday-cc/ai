@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T19:06:00Z
 originalUrl: "https://www.ibtimes.com/max-cao-yahav-avigal-jacobi-robotics-founders-aiming-make-robots-safer-around-humans-3642554"
 webUrl: "https://www.ibtimes.com/max-cao-yahav-avigal-jacobi-robotics-founders-aiming-make-robots-safer-around-humans-3642554"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: International Business Times

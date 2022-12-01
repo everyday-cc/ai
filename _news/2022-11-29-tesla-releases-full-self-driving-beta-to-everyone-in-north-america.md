@@ -33,20 +33,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Tesla self-driving software now available in North America, says Musk"
-    excerpt: "Last month, Musk said Tesla's advanced driver assistant software would not gain regulatory approval in 2022. On Twitter, Musk wrote, \"Tesla Full Self-Driving Beta is now available to anyone in North America who requests it from the car screen,"
-    publishedDateTime: 2022-11-27T03:54:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273133323/tesla-self-driving-software-now-available-in-north-america-says-musk"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1669397710178.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Tesla makes automated driving available to North American owners"
     excerpt: "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
     publishedDateTime: 2022-11-28T15:18:00Z

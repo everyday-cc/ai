@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -77,6 +77,24 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "How Artificial Intelligence Is Transforming Healthcare"
+    excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
+    publishedDateTime: 2022-12-01T20:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "AI in Health Care: No, the Robots Are Not Taking Over"
+    excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."
+    publishedDateTime: 2022-12-01T19:31:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20221201/no-the-robots-are-not-taking-over"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 36
 
 secured: "+VQso8MPNo7nr65PwP0v0eAfUGB/ayicfWVhtKqRrJn6zFSNNReBhHBv6y1Tk9xP7H74s0s5sIuk0ZFp/JTXMbTiNDJmLTONH29Ej/f+e4RHTNG0FCeI1nuxdvqwd1RY8EY1hy5ZO9u7dFQSzgXPiyr0rrO+SKmjt20LHl8ZPM2L1YffyzzW1MORMln2U26t9DsfHtmCbzgsgpxtxVhqOmW0yAhuPs+BLyvsDTabebZKKqpEWrB0PHeDtjRhsTj8HgIIjMUylvUoC8Ouk0P+0kzbR9q2YL9VLwD+S2E13VNKHEqcDcLGj0MMAX76zWnOl6aHFcRGMK6WSKWkOu8GLxInU7xJHSplwG2UEacz3oxmuCACChX9oVu67EOHPGRudcz709NoMjrSPQf0gy5U/VMs0nGYT5VFizdPW/hf4gKKvhJwIGdqU2v7YfpPycKOGFnxqjTNHS38byAwJPieT9pvYHD3wxrXA2ry7Px3xR5yM+z49Ty6tiEDZtrsNsHqqBw2les+wQQracO2sixP0Q==;Ksk6+Foj6ETQeW9+2YYr4A=="
 ---

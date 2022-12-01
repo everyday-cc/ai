@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "AWS Boosts AI for Connect Contact Center Product"
+    excerpt: "Amazon Connect initially disrupted on a pay-per-use price model but is now flexing its artificial intelligence muscles."
+    publishedDateTime: 2022-12-01T21:34:00Z
+    webUrl: "https://www.eweek.com/cloud/aws-boosts-ai-for-connect-contact-center-product/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
   - title: "4 Technologists Debate the Future of AI"
     excerpt: "AI thinks very differently from us, raising trust issues. It's unclear whether AI is inspired by use or just copies us. AI will change the job market, for better or worse. Can we trust artificial intelligence?"
     publishedDateTime: 2022-11-30T16:04:00Z

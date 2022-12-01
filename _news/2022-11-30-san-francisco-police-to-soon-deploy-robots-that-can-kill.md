@@ -92,14 +92,14 @@ related:
   - title: "Police can use robots that kill, San Francisco board decides"
     excerpt: "Civil rights advocates opposed the idea, saying deploying robots capable of lethal force in any situation would lead to further militarization of police."
     publishedDateTime: 2022-11-30T02:30:00Z
-    webUrl: "https://greensboro.com/news/national/police-can-use-robots-that-kill-san-francisco-board-decides/article_ccaed498-f700-59b5-b076-8e43a49955b9.html"
+    webUrl: "https://mtstandard.com/news/national/police-can-use-robots-that-kill-san-francisco-board-decides/article_f666d0c1-9cf1-570d-bb5c-4cbd642e9c26.html"
     type: article
     provider:
-      name: News & Record
-      domain: greensboro.com
+      name: The Montana Standard
+      domain: mtstandard.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/c/ca/ccaed498-f700-59b5-b076-8e43a49955b9/6386d147ac01f.preview.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/f/66/f666d0c1-9cf1-570d-bb5c-4cbd642e9c26/6386d1483540b.preview.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -117,20 +117,6 @@ related:
         width: 512
         height: 352
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
-    publishedDateTime: 2022-11-30T03:37:00Z
-    webUrl: "https://azdailysun.com/news/national/san-francisco-may-allow-police-to-deploy-robots-that-kill/article_9d1845b5-b176-5f09-923e-4c6395f1f1bd.html"
-    type: article
-    provider:
-      name: Arizona Daily Sun
-      domain: azdailysun.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/9/1c/91c16613-507c-5cc2-a9f1-f0e193f91a32/63866890062f1.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "San Francisco Police Can Use Robots To Kill Suspects"
     excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"
     publishedDateTime: 2022-12-01T04:21:00Z
@@ -145,6 +131,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
+    publishedDateTime: 2022-11-30T15:02:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 19
   - title: "Everybody hates the idea of San Francisco’s killer robot police"
     excerpt: "A proposal that would give law enforcement the license to kill with a fleet of bomb-wielding robots has drawn a rebuke from the left and right."
     publishedDateTime: 2022-11-30T22:20:00Z

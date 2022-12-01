@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the
 webUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 406
         height: 405
         isCached: true
+  - title: "Insights on the Artificial Intelligence in Manufacturing Global"
+    excerpt: "The Global Artificial Intelligence in Manufacturing Market is expected to reach $21.3 billion by 2028, rising at a market growth of 42.2% CAGR during the forecast period. In recent years, artificial intelligence has become one of the fastest-growing technology."
+    publishedDateTime: 2022-12-01T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "8dGZWCZgTtjncZxYIGajv6d1FlUMgSGEgReLoV7fwJqx/AQ8/VnsQzPVwatdb2zK+5xMwa29NxggyCBhNRQjPr5sI13YtYHCWg+Q8mgBlEMLo/Fd+Sf8w0OujMjBnPf8x86nerjJbpEJy15s7bUalTMrt9TRlCeKZBRR3gRIAghulg1a+3oXyBXazEBCJpw3P4haicE1Bwsx2wRwzKFG/DAlUx07DpkLXIntFcTBtaw8NenBm8Fok/cB9kEUcwvut3CssPN95yTKRrowkP7zzkwods29kcMlAiIfs3oU8POVItBMEEVMQYXpw8gRA2eG0RSRVgG3IUf8BT7lbbrkJyTi0A9gUNjlaBkp5baIyndZyO/mWkJpdCqTv08B6EDFKCFstiT4B7p4LErqEJpl9nWXx/UYaKlgI01lMu6H3Av1khungQFysqLp6Bqxe3CAWKW+lp4h3lsC91NmVKVWnltoOUWZKDUn4BwwlnInBsMOYG0I6k3OkrqB11mgEdQ4hn5bWnFuehKnB+SS4gn49A==;lsd0OGb6AYKxix4+ArBwKg=="
 ---

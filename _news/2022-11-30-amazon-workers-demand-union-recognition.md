@@ -39,6 +39,15 @@ related:
         width: 1185
         height: 889
         isCached: true
+  - title: "Which Eagles players are deserving of Pro Bowl recognition?"
+    excerpt: "Through the first three months of the season the Philadelphia have won 10 games, and only lost 1. They are a good team, and many of their players have also been, you know, good. #Analysis. Let's take a look at which players have been good enough to warrant Pro Bowl consideration,"
+    publishedDateTime: 2022-12-01T19:37:00Z
+    webUrl: "https://www.phillyvoice.com/which-eagles-players-are-deserving-pro-bowl-recognition/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 4
 
 secured: "bXmnpFzXhKzNQ1AtlPcJYTs0CAzJKnmK2y7E5dcB+ncDC4AbvDYRvA9+MLqSi7DrIvzUNcs9bMmIdo02wE4BNTWvI5Q3YpHT2pwPzmQ5lKjJX+UygXzOfEClWMpfkj0J2jyWmpjMPxpNoNDJqpQf/uUzSMtjBZ8uEyizgRqUY7tB+7pzhXCC5VRRHkdMSzqCpFOC3C5P8UGPd5dcfBnfFksVJQYKPQDpPJXHmGcEU7KZ3IVARhsP4Zjf/cbpJQitQVvD+pzWk2P+UUiB6yuL90gGGu5CYSDTAIgsK4xuSsEkz/G5hRW+QFqIIoK8VHUhqdFNSH7FjfhsB2iEp5wIWEsbACQnyAZEQU6eD0dBnlo=;LfOVy/33QZbxKJSl8xGo5A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T19:37:00Z
 originalUrl: "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/"
 webUrl: "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: VentureBeat

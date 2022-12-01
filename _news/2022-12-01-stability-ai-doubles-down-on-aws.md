@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -134,6 +134,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 36
+  - title: "Stability AI make AWS a Preferred Provider"
+    excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
+    publishedDateTime: 2022-12-01T18:48:00Z
+    webUrl: "https://techreport.com/software/3487062/stability-ai-make-aws-a-preferred-provider/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 36
   - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"

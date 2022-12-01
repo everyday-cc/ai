@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentie
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/"
 type: article
-quality: 83
-heat: 83
+quality: 87
+heat: 87
 published: true
 
 provider:

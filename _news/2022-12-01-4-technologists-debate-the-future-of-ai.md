@@ -89,6 +89,15 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "AWS Boosts AI for Connect Contact Center Product"
+    excerpt: "Amazon Connect initially disrupted on a pay-per-use price model but is now flexing its artificial intelligence muscles."
+    publishedDateTime: 2022-12-01T21:34:00Z
+    webUrl: "https://www.eweek.com/cloud/aws-boosts-ai-for-connect-contact-center-product/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
   - title: "Amazon To Warn Customers On Limitations Of Its AI"
     excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
     publishedDateTime: 2022-11-30T16:09:00Z

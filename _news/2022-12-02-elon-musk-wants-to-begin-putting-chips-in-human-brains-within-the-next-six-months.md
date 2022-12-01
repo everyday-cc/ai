@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T17:49:00Z
 originalUrl: "https://www.ign.com/articles/elon-musk-wants-to-begin-putting-chips-in-human-brains-within-the-next-six-months"
 webUrl: "https://www.ign.com/articles/elon-musk-wants-to-begin-putting-chips-in-human-brains-within-the-next-six-months"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: IGN

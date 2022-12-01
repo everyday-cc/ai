@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/this-ai-driven-ad-optimization-tool-will-incr
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/this-ai-driven-ad-optimization-tool-will-increase-your-roi-67909"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 512
     height: 307
     isCached: true
-
-related:
-  - title: "How Bitcoin And Artificial Intelligence Will Free Your Time"
-    excerpt: "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet."
-    publishedDateTime: 2022-11-27T04:00:00Z
-    webUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time"
-    type: article
-    provider:
-      name: Bitcoin Magazine
-      domain: bitcoinmagazine.com
-    quality: 19
 
 secured: "Z6ZeOqvMTnoX/ylgpoSI17FeyJcK1TaWZu28M2+AQrudtRDPW1aKVvgEByb7nxjbLpLlSkJ/G9IRMLTe21ANsNrhvHydIOR/5BN4h1wfxrlgvv8nXdy9ZJAKNP8jrpnKdpUs+JmZTBCCU+xvYbIRfDvnMUVtjW97QLZ2oSGER0OvUot0KZDyPzUKb67oT1b8tLYS/9nDLTReRqFR7ghteHo3n6bly4S6r18uo3TGJIH31B4KrWysfGvftE7FqFmIMzwCYEn1IbV0Qew/Ek3rT5kG8zVTGs+LKhKl8v1opjB6SGaZphTE2ntErGGv+61pPo0MQFq5+P1I14VsBmq+ZOuyifALAZwbmmaRlrrivhMvH/+YsOW8fFl9q+kntr4/rW2ZeOeqgVgLVZ6h2FufNYr6BUUAXy0xs3kbU+ESzibXxWlpc+N3QKG23+F74Xopi6jALlmOrSUy2P3uyhGGaYWekhb2zwtXIQa/n0C6JZHzpVDPEZUrP4bmZX04qMWauG2u/Ldt/1dQIiETbcczag==;oPkv1M/PjppvBoFQ4MXe0Q=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-02-deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego.md",
+      "title": "DeepMind's New AI Uses Game Theory to Trounce Humans in 'Stratego'",
+      "excerpt": "Researchers from Alphabet- owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI agent capable of playing Stratego at a “human expert level.” The AI, called DeepNash,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-deep-mind-stratego-1849842361",
+      "originalUrl": "https://gizmodo.com/ai-deep-mind-stratego-1849842361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b66d609eecf6be0e3d7e555863111aac.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-operationalize-your-amazon-sagemaker-studio-notebooks-as-scheduled-notebook-jobs.md",
       "title": "Operationalize your Amazon SageMaker Studio notebooks as scheduled notebook jobs",
       "excerpt": "Amazon SageMaker Studio provides a fully managed solution for data scientists to interactively build, train, and deploy machine learning (ML) models. In addition to the interactive ML experience, data workers also seek solutions to run notebooks as ephemeral jobs without the need to refactor code as",
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -155,7 +207,9 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -262,7 +316,7 @@
       "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -409,7 +463,7 @@
       "originalUrl": "https://www.theatlantic.com/newsletters/archive/2022/12/why-the-rise-of-ai-is-the-most-important-story-of-the-year/672308/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -448,7 +502,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -460,7 +515,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -513,7 +568,7 @@
       "originalUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -714,7 +769,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -914,7 +969,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1205,50 +1260,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence.md",
-      "title": "Amazon To Warn Customers On Limitations Of Its Artificial Intelligence",
-      "excerpt": "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592",
-      "originalUrl": "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-04/ge98cqb_amazon-generic-_625x300_06_April_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1",
-      "publishedDateTime": "2022-11-30T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

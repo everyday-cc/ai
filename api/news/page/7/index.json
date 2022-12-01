@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-23-baidu-posts-65-increase-in-number-of-driverless-taxi-services.md",
+      "title": "Baidu posts 65% increase in number of driverless taxi services",
+      "excerpt": "With no one at the wheel, self-driving taxis developed by tech giant Baidu rolls down the streets of major Chinese cities. When its sensors spot the corner of a delivery cart jutt",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "originalUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_530358448.jpg?itok=77pXLNpo",
+          "width": 2362,
+          "height": 1417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
+      "publishedDateTime": "2022-11-22T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking.md",
+      "title": "How WaFd embraced Amazon Lex’s conversational AI to improve and speed up telephone banking",
+      "excerpt": "WaFd, formerly known as Washington Federal, is now using the Amazon Lex conversational AI technology to revolutionize its phone banking.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/",
+      "originalUrl": "https://venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1147786413-e1658251881115.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/amp/",
+      "publishedDateTime": "2022-11-22T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-a-simpler-path-to-better-computer-vision.md",
       "title": "A simpler path to better computer vision",
       "excerpt": "A simpler path to better computer vision Date: November 23, 2022 Source: Massachusetts Institute of Technology Summary: Research finds using a large collection of simple, un-curated synthetic ...",
@@ -319,6 +414,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-a-ceos-plan-to-monetize-health-data-rescued-from-ibm-watsons-wreckage.md",
+      "title": "A CEO’s plan to monetize health data rescued from IBM Watson’s wreckage",
+      "excerpt": "A company being built from the ashes of IBM’s Watson Health division is launching new lines of business with a much different message: The real value is in the health data, not the fancy AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/technology/ceo’s-plan-monetize-health-data-rescued-ibm-watson’s-wreckage",
+      "originalUrl": "https://www.healthleadersmedia.com/technology/ceo’s-plan-monetize-health-data-rescued-ibm-watson’s-wreckage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg",
+          "width": 820,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1030,145 +1168,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 22, 2022 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" research provides significant and in-depth information on the global market. This research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2022-11-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-how-good-are-large-language-models-at-machine-translation.md",
-      "title": "How Good Are Large Language Models at Machine Translation?",
-      "excerpt": "Are we on the cusp of yet another turning point in machine t (MT), where large language models (LLMs) with the ability to perform all kinds of downstream tasks also excel at MT, rendering current specialized MT models obsolete?",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/how-good-are-large-language-models-at-machine-translation/",
-      "originalUrl": "https://slator.com/how-good-are-large-language-models-at-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2022/11/Large-Language-Model-Machine-Translation.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T03:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-aws-researchers-propose-a-method-that-predicts-bias-in-face-recognition-models-using-unlabeled-data.md",
-      "title": "AWS Researchers Propose a Method That Predicts Bias in Face Recognition Models Using Unlabeled Data",
-      "excerpt": "Subscribe for free. AWS researchers presented a novel method for evaluating bias in face recognition algorithms at this year's European Conference on Computer Vision (ECCV), which does not require ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/11/aws-bias-face-recognition/",
-      "originalUrl": "https://www.infoq.com/news/2022/11/aws-bias-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/11/aws-bias-face-recognition/en/headerimage/generatedHeaderImage-1668807034658.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

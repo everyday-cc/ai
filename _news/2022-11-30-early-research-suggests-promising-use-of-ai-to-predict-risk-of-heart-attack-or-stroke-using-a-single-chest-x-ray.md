@@ -83,6 +83,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI and one X-ray can potentially predict the risk of a heart attack or stroke"
+    excerpt: "Researchers have created a deep learning method that can predict which patients might be eligible for life-saving medication that can prevent both diseases."
+    publishedDateTime: 2022-12-01T20:22:00Z
+    webUrl: "https://interestingengineering.com/health/ai-and-one-x-ray-can-potentially-predict-the-risk-of-a-heart-attack-or-stroke"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/01/image/jpeg/WiO6NnTNsPY99lKpkeVE4Y9wjF7V8ZnX52VvNfoJ.jpg"
+        width: 1920
+        height: 1425
+        isCached: true
   - title: "Risk of heart disease can be predicted with simple eye test through artificial intelligence algorithm, research finds"
     excerpt: "Artificial intelligence-enabled eye scans could be used to rapidly and accurately predict whether a person is at high risk of heart disease, a new study involving researchers from London's Kingston University has established. The findings could pave the ..."
     publishedDateTime: 2022-11-29T09:20:00Z
@@ -123,6 +137,6 @@ related:
       domain: wlwt.com
     quality: 7
 
-secured: "X1nopwXVdgh9Juz7kPeOH4QsINbPVE17Fj9tNWT9OJxP8ppfwMBbNh2InvZzuwoioo/jXh3S8H20z4HRRji5cYRR/rtcMuuXaLd6ZHh32Ws7kfQARENZhf4NiUqtcA+Mewo3XdoP+nRd+wa/ntzGrKW+tFxUc4zu5L+x6DSplne+gbw3cOPxUyhTcLXqLdbvUxnUuiwTekV7BPb38K9LO6ZSzxrtauwXnu9YRlWdk+O3nLxnquw1Gji62UDnS4AZMpaIUwaBERRhQj4wIPe59OJq0C/7beLdHz5iM6LRzhuS2WcXGhueXq7q1b1yjEq5AAKx9FcsAEcBPDQGR/yodBldYkHVqpR5pLl1JsTDdj0=;Dg5lbzMQCyCKPnrWP5Sz9A=="
+secured: "5mduDlWCKWlYVnUdQkf7jLvptalGiqSDmY1Mn26b6D1aLJMpe3LPBCbda0adVtys25Kh1WAf4VhlqYGFxIO/G1cU8b1r07Qdz7eTvukEWgMfC4z50E7UGf34IY1QHocnm9j3/NvnevyMcadRMoNP4wPulXdYL6htdnefTHyZid7vfNxZ0FJM1YBrh3lAX8MBee1NHeiC8vZye2hw7AnEtsm69FZBh918M+weQcqDOEG9ixMNW6Qs6juGlBBc8epAHwp7qGqJZ4QaIOKJyqOBocKmUOaHeoKGFBqphgOWkS3fFU9dfOndz/M0oiCwKWJKQuMaWasJM3Gryu/1MZhPs6POC7/rB2JpifelMtaH4rYaS1Rkw89iak3QjdUMpeaH05twuBacAhmAtvcxYKWkXjnsV8xcLVn6dn9vSHwSaM3z5SGUlStR/mZSHNKDfjiOj1kBbzzIeyJP6ZDT7pnky2Qj9CDQjEY4F/vw3TN33J+pcpUjMR0OCg3jZ46cr8WRepXhlEvkSTZWWcCQw8czEQ==;c7c5jHq5TCPkn9V+vdkeug=="
 ---
 

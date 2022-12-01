@@ -115,6 +115,22 @@ related:
         width: 1564
         height: 782
         isCached: true
+  - title: "Informatica data science framework connects with Amazon SageMaker"
+    excerpt: "Informatica INFACore promises to simplify the creation of data pipelines for building and deploying machine learning models in Amazon SageMaker Studio."
+    publishedDateTime: 2022-12-01T20:00:00Z
+    webUrl: "https://www.infoworld.com/article/3682069/informatica-data-science-framework-connects-with-amazon-sagemaker.html"
+    ampWebUrl: "https://www.infoworld.com/article/3682069/informatica-data-science-framework-connects-with-amazon-sagemaker.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3682069/informatica-data-science-framework-connects-with-amazon-sagemaker.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/certification_woman-on-laptop_programmer_devops_data-scientist_by-picjumbo-100764593-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Define customized permissions in minutes with Amazon SageMaker Role Manager"
     excerpt: "Administrators of machine learning (ML) workloads are focused on ensuring that users are operating in the most secure manner, striving towards a principal of least privilege design. They have a wide variety of personas to account for, each with their own unique sets of needs, and building the right sets"
     publishedDateTime: 2022-12-01T18:51:27Z
@@ -143,6 +159,20 @@ related:
         width: 1564
         height: 779
         isCached: true
+  - title: "Interactive data prep widget for notebooks powered by Amazon SageMaker Data Wrangler"
+    excerpt: "According to a 2020 survey of data scientists conducted by Anaconda, data preparation is one of the critical steps in machine learning (ML) and data analytics workflows, and often very time consuming for data scientists. Data scientists spend about 66% of their time on data preparation and analysis tasks,"
+    publishedDateTime: 2022-12-01T22:01:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/interactive-data-prep-widget-for-notebooks-powered-by-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/interactive-data-prep-widget.jpg"
+        width: 1548
+        height: 773
+        isCached: true
   - title: "AWS introduces raft of new AI tools for Amazon SageMaker"
     excerpt: "Originally introduced in 2017, SageMaker includes more than a dozen AI development tools. Software teams use the platform to create neural networks, train them, monitor their performance after they’re deployed and perform related tasks."
     publishedDateTime: 2022-11-30T23:20:00Z
@@ -157,6 +187,24 @@ related:
         width: 933
         height: 519
         isCached: true
+  - title: "Organize machine learning development using shared spaces in SageMaker Studio for real-time collaboration"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps, including preparing data and building, training, and deploying models. Within an Amazon SageMaker"
+    publishedDateTime: 2022-12-01T19:00:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/organize-machine-learning-development-using-shared-spaces-in-sagemaker-studio-for-real-time-collaboration/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+  - title: "Run notebooks as batch jobs in Amazon SageMaker Studio Lab"
+    excerpt: "Recently, the Amazon SageMaker Studio launched an easy way to run notebooks as batch jobs that can run on a recurring schedule. Amazon SageMaker Studio Lab also supports this feature, enabling you to run notebooks that you develop in SageMaker Studio Lab in your AWS account. This enables you to quickly"
+    publishedDateTime: 2022-12-01T20:26:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-notebooks-as-batch-jobs-in-amazon-sagemaker-studio-lab/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
   - title: "Launch Amazon SageMaker Autopilot experiments directly from within Amazon SageMaker Pipelines to easily automate MLOps workflows"
     excerpt: "Amazon SageMaker Autopilot, a low-code machine learning (ML) service that automatically builds, trains, and tunes the best ML models based on tabular data, is now integrated with Amazon SageMaker Pipelines, the first purpose-built continuous integration and continuous delivery (CI/CD) service for ML."
     publishedDateTime: 2022-11-30T18:59:06Z
@@ -171,6 +219,22 @@ related:
         width: 1564
         height: 781
         isCached: true
+  - title: "Amazon SageMaker gets eight new capabilities"
+    excerpt: "Eight new capabilities have been unveiled for Amazon SageMaker, AWS’s end-to-end machine learning (ML) service. Developers, data scientists, and business"
+    publishedDateTime: 2022-12-01T21:04:00Z
+    webUrl: "https://businessday.ng/technology/article/amazon-sagemaker-gets-eight-new-capabilities/"
+    ampWebUrl: "https://businessday.ng/amp/technology/article/amazon-sagemaker-gets-eight-new-capabilities/"
+    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/amazon-sagemaker-gets-eight-new-capabilities/"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 59
+    images:
+      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2022/12/Amazon-SageMaker-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Informatica tightens integration with AWS Redshift and SageMaker"
     excerpt: "Informatica said its Data Loader software, which is a free tool for loading data into a cloud warehouse, is now embedded directly into the Redshift Console to enable users to upload data from multiple sources quickly without the extensive cleansing and governance procedures that can stretch that process to days or weeks."
     publishedDateTime: 2022-11-28T13:30:00Z
@@ -182,8 +246,8 @@ related:
     quality: 34
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T21:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet

@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-01T18:26:00Z
 originalUrl: "https://www.uab.edu/news/research/item/13284-uab-physicians-use-cardiac-intelligence-to-address-health-inequities"
 webUrl: "https://www.uab.edu/news/research/item/13284-uab-physicians-use-cardiac-intelligence-to-address-health-inequities"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:

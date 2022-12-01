@@ -77,6 +77,24 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "How Artificial Intelligence Is Transforming Healthcare"
+    excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
+    publishedDateTime: 2022-12-01T20:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "AI in Health Care: No, the Robots Are Not Taking Over"
+    excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."
+    publishedDateTime: 2022-12-01T19:31:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20221201/no-the-robots-are-not-taking-over"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 36
 
 secured: "VkTjWvpPkCzlulEUlmkPLzy2bQxeBN7730hzKHwvGujPPOFDsYwylDacYs6zK2Nquxhfn/SeJsMTgwOP8C+jWr4RtA7oNVTK6y0GweStafqMZX48B0ZbqZ4lKTmimNvb+seYR8NQjuql4PMiGh0UX6Oly9geTYoqv0MQfvgyykVDq8wWtqEk4I4zz1Re20Z7yy9Vgttx+Gy3ae6LzB+Hoh+4jrf2qxhR1ztawL/JtloTo1k0XaosEvWnTK3/qRGtE3EikGu0xFdCIqOqz5tFdqGmJVhxUuw62mQvhnFh0G3kRsNnt2AZkVLSWiQb4XQsnrZD8b8j59uuxsACjCSR7CjrhWxB4IkzsQG96DIRC5DmF31RwVmdQhwOsf1mSmZkH78kLx5YvIxaPMqqkvV58YQbAMK8Rkzu41LdgsEMVPw1Wa71+weEWAQQUD8GvwCx1ZCzV3ZMgNNGjnCRVLQ3tS9sC0REgTS1EZOmRjARjJBK+vrFFTYHxYmv31ETYhl07t1TkXHQqm6gqmVNGqAxOQ==;Ue0nNIfm3kgsnRqnODNwaA=="
 ---

@@ -33,7 +33,7 @@ related:
     provider:
       name: The Atlantic
       domain: theatlantic.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.theatlantic.com/thumbor/rv0rbBmcltCjJ6BSXVOt88jdFIA=/0x102:4792x2598/1200x625/media/img/mt/2022/12/ai_paint/original.jpg"
         width: 1200
