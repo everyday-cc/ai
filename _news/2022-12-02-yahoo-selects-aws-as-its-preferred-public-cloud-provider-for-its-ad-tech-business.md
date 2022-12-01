@@ -1,40 +1,20 @@
 ---
 category: news
 title: "Yahoo Selects AWS as Its Preferred Public Cloud Provider for Its Ad Tech Business"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-publishedDateTime: 2022-12-01T18:26:00Z
-originalUrl: "https://www.cmswire.com/the-wire/yahoo-selects-aws-as-its-preferred-public-cloud-provider-for-its-ad-tech-business/"
-webUrl: "https://www.cmswire.com/the-wire/yahoo-selects-aws-as-its-preferred-public-cloud-provider-for-its-ad-tech-business/"
+excerpt: "Invent, Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Yahoo has selected AWS as its preferred public cloud provider for its advertising technology business Yahoo Ad Tech."
+publishedDateTime: 2022-12-01T16:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.cmswire.com/-/media/ef2aefc849aa4010b88576058f4056c1.ashx?mw=0&mh=0"
-    width: 640
-    height: 480
-    isCached: true
-
-related:
-  - title: "Brookfield Asset Management Selects AWS to Enhance Its Renewable Energy Operations"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2022-11-30T14:11:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/brookfield-asset-management-selects-aws-to-enhance-its-renewable-energy-operations/article_f12f8f25-fc65-5ab9-a514-00e2926c7ccf.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 13
-
-secured: "9DDj/jcv5QH2TvQTFeGtcPkIvlxCSNElkD62RBEvJIxY+aj1nfzWOyw/jSLrOjkBzia2+2ZZ8vw/NhmFNjPyUplmTHHyC/Eu3nphWw8hL/pw9/JTnupBBwp0M61ojeP13hX3ys40ldR9qP+7d2nmOalJ6CiY21xDNaCV9Fk80QNV+iJARtabkvhclfHXdzNRWNE9Fhvpk9Ygn/QcASFL8IT8DApgS39mGK1w/hLZWgXB/7pN69u9mfZBEsSw0XNQA7nJdfF9jbBh9mQNXsd+BahShilzbrSWu+q8a2QsJSAu86oHFSWFc8L4n21rYEYsNrN7PhOzSig2NP+Axu/MHcsmROVoVBSk3PmbokN6G/Y=;OsHbqCrQ3p6ZUhVzmU/5Ig=="
+secured: "NyX0q68WnnyGwjNnFmWu/MroUbdl1Y7a4Eu77nmJ5ISPD7QgUu7YkG39aTALKGOBGy8mmQzDoRTDidnWuC2tJWGQtnZtkKp79UVU0tKCE73V3AHi3Mg40TwpjYTkKu1cFcBo/lcWcwYSEQPEyt7QfFY0CSFphNpm/UCWplZQpQACKkl2Zj2HYOqo5LTDP11TOI4ycnHbVcXw40cowRH6sc+hky+Tgo/qAkbeCgBMIhdFwChv2XNlwzKdxUhTcF1hS9PCzzUO2rnELf41xj5ZRDV/ubJ+NK0Nagfcxcv7FCg2CxB0x9lnlsqNlBE4Vb4S6PoT0w7dh5QdJbzuWvbAQpYeeVMBXSyN/1PkbnoqdJ8=;n+SxF2/p5d5pUjxIXS/jTQ=="
 ---
 

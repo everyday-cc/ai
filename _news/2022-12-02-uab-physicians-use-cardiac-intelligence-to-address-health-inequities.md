@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.uab.edu/news/media/k2/items/cache/174ca3bd2fe3ba42ee8d175a41144ea3_XL.jpg"
