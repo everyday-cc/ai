@@ -28,57 +28,57 @@ images:
     isCached: true
 
 related:
-  - title: "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT"
-    publishedDateTime: 2022-11-26T17:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26"
+  - title: "AI Accelerator Chip Market 2022 to Eyewitness Massive Growth by 2028"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Accelerator Chip Market\" Insights 2022 | By"
+    publishedDateTime: 2022-12-01T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Market 2022 : Growth Statistics, Industry Share, Latest Trends, Growth Drivers, Size and Forecast till 2028"
-    excerpt: "AI Accelerator Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corresponding detailed ana"
-    publishedDateTime: 2022-11-26T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-market-2022-growth-statistics-industry-share-latest-trends-growth-drivers-size-and-forecast-till-2028-2022-11-26"
+  - title: "AI in Telecommunication Market 2023-2027 Find Out Essential Strategies To Expand The Business And Top Key Players"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [123 Pages Report]\"AI in Telecommunication"
+    publishedDateTime: 2022-12-01T06:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2023-2027-find-out-essential-strategies-to-expand-the-business-and-top-key-players-2022-12-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "LegalTech Artificial Intelligence Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"LegalTech"
-    publishedDateTime: 2022-11-27T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-11-27"
+  - title: "Applying Wright's Law To AI Accelerators"
+    excerpt: "Compared to the K80 chip that Nvidia released in 2014, the latest AI training accelerator delivers 195x the performance on a total cost of ownership adjusted basis. Read more"
+    publishedDateTime: 2022-11-30T17:10:00Z
+    webUrl: "https://seekingalpha.com/article/4561438-wrights-law-ai-accelerators"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Self-driving Cars Market 2022 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Self-driving"
-    publishedDateTime: 2022-11-26T17:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2022-size-value-volume-by-company-key-regions-type-and-application-2028-2022-11-26"
+  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
+    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
+    publishedDateTime: 2022-11-27T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

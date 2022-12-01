@@ -1,18 +1,20 @@
 ---
 category: news
-title: "New Artificial Intelligence Could Help Humans Actually Talk To Animals"
-excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom — with limited success."
-publishedDateTime: 2022-11-30T02:02:00Z
-originalUrl: "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/"
-webUrl: "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/"
+title: "New artificial intelligence could help humans actually talk to animals"
+excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+publishedDateTime: 2022-11-30T13:27:00Z
+originalUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Newsy
-  domain: newsy.com
+  name: KXXV News Channel 25
+  domain: kxxv.com
 
 topics:
   - AI
@@ -39,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MfWvoEzEyfu9Urv5itSU4IP5CxLyGA1Cy2UVySv8v2K/wRFTY7E+HRVzh26kO9C7oNmcc2B0S+x3V6zK8hRptTABN2FXuLBQKMKEZ8vBQjxIBwkgr8Su5GiAXHpxTUQYzw+Fli7vUHXHFEa5aJ84kZGH3/ruIxgF5B5x0JxCOqqjOWd8h6dCK6M4PlHKsIpNTXcGi7VVDWmc4OPz1SbIakWQoh5KPrmulwvaOc/kMXHuiRNHUP0vGfV7hXEajQHKMV+l/lavbWIdpznGSqfABuZfIKSMQO5NUWRQpzxtacRkZJLjGx3/3NAMSwRwUXV8hrWzGrfkyCJC1HliYiKzBPobrxktMlxUh+SEeBgNkzsxDBNmmkf4HHIoVxA6CJIW8MYABU7VKV6WmeuuZrmXFsHcluY1TQYGEzSIUUv+yqXbxPl2u9beJgfWREndAvod1UxuE3TxNiydiYCAulNYQS1pxrcN2SuMQU9NQXs8H3yZNjCTGLsOF5ocrRNu/Q/gZAZjcD5jFmUASyxe1phq7w==;osduJ1MZaQWqXMru8/kT0A=="
+secured: "9wjxEz/XnXUddEJUjuyJAgcM5tgkPnqPCYQWOy4cQn0Wl2nJUlxZcJfB4Wff6SCb+ix8qSWNsZ7bADU7IuFQtC8Ps8nRJmW0NRtcytUW6sk2/JFhW45t1jw5/bm5PsTbNZiKkuPNiuZtmZozzunenriVBZjWqY3VkFcKaXaTE5dpQpWv0kEKHe/6DfE3l/AZ4Brr9EPZYL6vxsm1P3PWzHdwXrpbx4WasHiOJoUqXvuLYFg+1biTXSIBIntF1G6gCTqnmDbSdRuZB3Ez9w9tJvKEwoFHmuN4w/aJFkCCtn9LH8eM6BsF7W8kVQ7KsEllyZDn+sZkyEdtUUK8IQAcNTEfNzDIN8bu8CdjALQOEY8=;rITkb8R8L9SY7bsF9ljAAA=="
 ---
 

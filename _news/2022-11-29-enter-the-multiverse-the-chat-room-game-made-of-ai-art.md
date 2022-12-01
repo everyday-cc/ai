@@ -33,7 +33,7 @@ related:
   - title: "TechScape: Enter the multiverse – the chat-room game made of AI art"
     excerpt: "An exciting multiplayer Discord game asks you to find things in the multiverse through an AI image generator. The hallucinatory results could mark a new frontier for AI art"
     publishedDateTime: 2022-11-29T11:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/nov/29/techscape-multiverse-ai-art-artificial-intelligence?amp"
+    webUrl: "https://www.theguardian.com/technology/2022/nov/29/techscape-multiverse-ai-art-artificial-intelligence?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/nov/29/techscape-multiverse-ai-art-artificial-intelligence"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/29/techscape-multiverse-ai-art-artificial-intelligence"
     type: article

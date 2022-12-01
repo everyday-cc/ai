@@ -59,22 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New Garda facial recognition technology on way but worries over dangers to public"
-    excerpt: "THE proposed Garda use of facial recognition technology will comply with new EU legislation, the Justice Minister has said. Helen McEntee has said she plans to introduce the tech as soon as possible. Garda Commissioner Drew Harris has said the new measure ..."
-    publishedDateTime: 2022-11-26T17:20:00Z
-    webUrl: "https://www.thesun.ie/news/9801513/garda-facial-recognition-technology-dangers/"
-    ampWebUrl: "https://www.thesun.ie/news/9801513/garda-facial-recognition-technology-dangers/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/9801513/garda-facial-recognition-technology-dangers/amp/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 54
-    images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/11/helen-op.jpg?1669482032&strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
     publishedDateTime: 2022-11-28T06:40:00Z
@@ -89,15 +73,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "For seamless travel, govt to launch facial recognition-based entry at airports today"
-    excerpt: "Digi Yatra is conceived to achieve contactless, seamless processing of passengers at airports based on Facial Recognition Technology (FRT). The project basically envisages that travellers may pass through various checkpoints at the airports through ..."
-    publishedDateTime: 2022-12-01T07:32:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221201/4009643.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 27
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — savin"
     publishedDateTime: 2022-11-29T13:00:00Z

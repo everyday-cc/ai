@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations."
-    publishedDateTime: 2022-11-30T14:02:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna59322"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna59322"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211205-san-francisco-police-vehicle-jm-1039-3a9a35.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "San Francisco's Killer Robots Threaten the City's Most Vulnerable"
     excerpt: "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color."
     publishedDateTime: 2022-11-30T22:33:00Z
@@ -146,6 +130,20 @@ related:
       - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/30/image/jpeg/iXyrmInhKX4wAD3KjSLTayfPB657Cog3S3Btptcu.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations -- following an emotionally charged debate that reflected divisions on the politically liberal board over support for law enforcement."
+    publishedDateTime: 2022-11-30T15:02:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 39
+    images:
+      - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+DT5Z7kDCcn1GKOoSFoiAcXR2b7ozBxllQLtbok00i1mgHQQaRPRPltlJreniAc0bkcL7uY9i67485QobiTBGJClr+ZwyLejJeG93l5V4KsNnYcd6+0ftjizJ6r72ikQAX3esxj9IUpVkoO8dyZv751CB9hFO3OdpRnfSUNnlTaDDOEKVqoSy+zY//das25sg/w/vMgJU6oceVAHgJhgqv2Nj/IeC/6PbESjbB2CLh12s1bPgEvPvHQCAHEueTD3AzQq2Oa3nX3iGz1X1s0PhCKPXlRjPW6EPl8ucTM0mY11y8S9E4ucefPmhqGj4lIbbG18CpUK0U71uMF6WpLdtVPGHym0D1/KNnpFnkFUbNY=;NpqOoXFm81uDkZ2gJ0BxTw=="

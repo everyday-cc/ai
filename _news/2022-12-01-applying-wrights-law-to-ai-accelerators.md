@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4561438-wrights-law-ai-accelerato
 webUrl: "https://seekingalpha.com/article/4561438-wrights-law-ai-accelerators"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,33 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Accelerates Treatment Of River Blindness"
-    excerpt: "Researchers have developed an AI model that identifies larvae in microscopic images and can help boost drug development for River Blindness. River"
-    publishedDateTime: 2022-11-30T07:10:00Z
-    webUrl: "https://www.electronicsforu.com/news/whats-new/artificial-intelligence-accelerates-treatment-of-river-blindness"
+  - title: "AI Accelerator Chip Market 2022 to Eyewitness Massive Growth by 2028"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Accelerator Chip Market\" Insights 2022 | By"
+    publishedDateTime: 2022-12-01T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
     type: article
     provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/11/Onchocerca_volvulus_emerging_from_a_black_fly.jpg"
-        width: 900
-        height: 657
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "NEXT50 to accelerate adoption of AI"
-    excerpt: "The announcement was made at NEXT50’s inaugural Executive Day which spotlighted the latest in state-of-the-art technologies including artificial intelligence and real-world applications.. NEXT50 to accelerate adoption of AI."
-    publishedDateTime: 2022-11-28T05:35:00Z
-    webUrl: "https://www.itp.net/emergent-tech/next50-to-accelerate-adoption-of-ai"
+  - title: "AI in Telecommunication Market 2023-2027 Find Out Essential Strategies To Expand The Business And Top Key Players"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [123 Pages Report]\"AI in Telecommunication"
+    publishedDateTime: 2022-12-01T06:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2023-2027-find-out-essential-strategies-to-expand-the-business-and-top-key-players-2022-12-01"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://www.itp.net/cloud/2022/10/27/shutterstock_1384554629.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
+    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
+    publishedDateTime: 2022-11-27T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Food and Beverage Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence has started to be used in food and beverage industry for a variety of reasons. One reason"
+    publishedDateTime: 2022-11-28T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverage-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "WDBIHDkL42MWLUWHF18kfw831P9QHAb9U4jb1cbit79zXWhgHjfzTGAz1tYlWCE9NIOQkRGTsPeF/LP9AmOP41iLNX0HrGjRxywdoUZ5vClzCGC8fZFnqVHpY53wmri6ZnjNYryRpRcPhOnQeolp0X/uAkkVfuC0GDDiFiwx6GcXTIGO71QW8MJZJelFVDZ8RUDqykuxGeYX4R+W0enYK43l5pNoITxustsBN4eCkhNZIjlPtmP2ZiTgeEfTUjU7d7eM7Oz41F7w7gLwhbZwRGfhoUc9N5mJGahte999L4RqJJvMMRTNu44ihELaOephYT7DQ8Vamg2r8xFnlIdGE5paeKDTErz4X5OMZF12qux8N/VkYgSHGBOv7qxYWH7prxIeB2ZYmjQchfDPf7n68mjSHJtayo8D4/jxflXufofRT/dLi3cRftfyh5GVQS5CrtMF2q35VoCamPTGKwxTM++D+rHFuzLRmBHLGmzy36lKwjvUfTHDM56ajzujg+6ey+Z4L4lhePuzJskqanUWTw==;OFGTNwo0BTiV9aPMa7WIcQ=="

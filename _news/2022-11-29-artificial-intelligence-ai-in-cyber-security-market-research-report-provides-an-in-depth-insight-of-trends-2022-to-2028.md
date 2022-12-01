@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28"
 type: article
 quality: 77
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
-    excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
-    publishedDateTime: 2022-11-26T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

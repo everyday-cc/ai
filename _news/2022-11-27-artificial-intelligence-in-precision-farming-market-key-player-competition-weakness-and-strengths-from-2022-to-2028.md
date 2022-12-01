@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
-    excerpt: "Artificial Intelligence in Aviation Market Size, Share & COVID-19 Impact Analysis By Top Manufacturers - mbn. The report also presents the market competition landscape and a corre"
-    publishedDateTime: 2022-11-26T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Recommendation Algorithm Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
     excerpt: "\"Machine Learning Recommendation Algorithm Market\" Insights 2022 - By Applications (Entertainment, Retail, Others), By Types (Service, Solution), By Segmentation analysis, Regions and Forecast to 2028. The Global Machine Learning Recommendation Algorithm ..."
     publishedDateTime: 2022-11-27T17:01:00Z
