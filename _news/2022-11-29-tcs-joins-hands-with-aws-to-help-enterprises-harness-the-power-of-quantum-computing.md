@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "UNC and AWS partner to launch 10 new digital health companies"
+    excerpt: "So, there's no shortage of companies in digital health (in fact, there are so many right now that the space starting to see a correction through consolidation) but get ready for more, as the University of North Carolina at Chapel Hill,"
+    publishedDateTime: 2022-11-30T23:17:00Z
+    webUrl: "https://vator.tv/news/2022-11-30-unc-and-aws-partner-to-launch-10-new-digital-health-companies"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 39
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21910.jpg"
+        width: 320
+        height: 240
+        isCached: true
 
 secured: "IJ34Cu9HvLuc9qBot6MiAlAHQi3K0lyOYBylthgqi58BE2oiNmzHrr56yitwF14sby+9whr/D3nsQVwEaKo7O+I1XQr9rPdggPOffPOKPfaEeL1IYZldUGoMGdmuVWKZjs8/pFN3afiO+j+7tyglL9RZ+JCX9G4mqYxW4agPrxAxfNG1NG6uvyleJC7QP12PvNr0pf8k0xx5n1D1M2mSvLIxCPPbiWGrbNOTybx88dV50EP+BPfU/Jkdkauc5aS2EVs8/e4j93Sp6kbEVGURLrG/jc6cJF3vnQVSf440rYIZsGeujTKdsjxWgS8dfJwWKT9w9n37ZISaL2fz0IcTl0h/Um1dEWo5mgDfGq2IhkBMXSFed8lluund+aMTtZxojPgn3uhNALeMdxxIXeyNN1ooGuFoXmKmK3O/P3yirsGDdEunK0LVSGKOPUrZnlLKI3wh2A5HGzzyY59MsyC2Cq6RdkbCREhsganmzohjPOquTc1VYzNm2cfZPer/Usl6stSb9fEYLmUHwzM8sUtlaQ==;clBFTtAYANbOeTylvOmuRQ=="
 ---

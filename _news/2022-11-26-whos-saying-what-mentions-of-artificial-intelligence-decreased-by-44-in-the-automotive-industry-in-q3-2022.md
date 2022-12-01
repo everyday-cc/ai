@@ -23,17 +23,6 @@ images:
     height: 469
     isCached: true
 
-related:
-  - title: "Who’s hiring who? Hiring activity related to artificial intelligence increased by 31% in the auto industry in Q3 2022"
-    excerpt: "The global auto industry recorded a 31% rise in artificial intelligence hiring activity in Q3 2022, according to GlobalData"
-    publishedDateTime: 2022-11-26T08:54:00Z
-    webUrl: "https://www.just-auto.com/dashboards/jobs-dashboards/artificial-intelligence-hiring-auto-industry-q3-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
-
 secured: "TgSqLycb6Qg+VpFzpZ5ylU1EBeTxcAQFN8wJ99JQ/aPlM0110xDSuASKo45dNsHyHDMSi1puqcSoVp+GS3uNyh6j0sfGUalLhe6lsM7N+xMhHUqdDV5+vJ4J7nraaC5tRwOVe4tU1zSti+FlTXakXrKzqB8gCYNgDKVfeX6acPANqLji3Mt9eC5hVA1tsrA215xmvTkpbS4G2pOqXl8bTFDktE5TIA1gj3ImoTmr68zYuPNr8E/ksruxV+rI4DhNSsBSP3vUNXBqbO6NEb0WwQ9Xgh26EbYPZN0Ly9JKK6O8HhJA4B3QuZ6MQIpfjanQfojuBSYT0V+8FbvnDgyGNS44cSGVzVIvVqMLJK5gyLRXCBo8PddbhpcckDygo1conEt/LxoW1EWLqMCY+30v1cOQFBnflS/AXmPjYR1FKgri47A6szD6PdGw8++jGG92Kf1xRpEDQSEM6bTfCNRzRE025LDCayVwpZHY8+nNYBguqVvRsHe3uoqUEKiF9OJe9AIB5dVloqTMLAHP0LmMfw==;DfnE56ZAWccdTe7JfeWH1w=="
 ---
 

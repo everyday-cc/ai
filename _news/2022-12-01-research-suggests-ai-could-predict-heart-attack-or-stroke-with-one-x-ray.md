@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/ai-could-predict-your-r
 webUrl: "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148"
 type: article
 quality: 68
-heat: 138
+heat: 139
 published: true
 
 provider:

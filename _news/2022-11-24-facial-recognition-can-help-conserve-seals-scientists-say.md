@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
-publishedDateTime: 2022-11-24T00:02:00Z
-originalUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
-webUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
-ampWebUrl: "https://www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
-cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
+excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
+publishedDateTime: 2022-11-24T08:31:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
+webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
 type: article
 
 provider:
-  name: WTVF
-  domain: newschannel5.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/f328cbe/2147483647/strip/true/crop/983x553+3+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F26%2Fa5%2F8c8af8954a2cbda5720e88fc5e71%2Fap22321559652379.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "X9Jb3I65pd8U1Ye/q6fK3HmpDbKm4fc+0kURgYPk5gWz7iI7nwSVCQU1/X4/lhZpMmDJmN/MzofjINbQspe7LmRAujz5psutfH0vXjm3ENn1pE0h3uZn16AJBoUBdqz0YFBigVlqaqhonGXJrpn4s0vLk7hJkUu4VrpImsTrkGrb4LMc9rHAAK2542JL/lWHCP9kcjHDeQ9IVAVtEzFRjv85xjEHKvll1LgZepdWylNERXBVE/3evf/BHw7Gz6etH3f29kTGG8a6wzQoElC1Dk1+OSsIWbEOsO3DldkwXouyyT59lyzWypTAqQsU9gFOGgyDY/tzJsoxC9jcRjidiRo3V/SYenFzd4n+nuKfxbM=;NFH7svJ0cUiec8ivZRZ4TA=="
+secured: "PKTu2wM68p2NB5Mhdg5C/0sJw99TifFVfmX4fTaJShEfcJrheZ0lvejE9tRfn/h22DJPVOrGLHGuBTs+Y42oLb1Tskd6bfOW887B6TX/D9qL6bUK6n3pBxgKG8Wkel1lNV+sDOGKuRPNWDYD9N6r3DKSz+nN2GBMXbeX9HAog47Rt20VQ62SiCymLHCQ+lJ1ax4tAhA8DsEtU7T9BUySPlXSJJJ9GrUgS034y2+mZg4F/FcrsVyoldRRZdrJml/psRfFz8SEk7yNwhwieb6mGiuty1sJs4k80vtO4JEAyc06jAwdQ/92jMlu89xpmRzamPEjQSyM1tB5pJHFfRdTDvdR7jB38/oCweeC9DnSuSg=;p07lDwtn3VyOtcV5cA6c2A=="
 ---
 

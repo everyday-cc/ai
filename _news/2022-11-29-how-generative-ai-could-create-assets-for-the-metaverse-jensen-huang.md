@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/how-generative-ai-could-create-assets-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

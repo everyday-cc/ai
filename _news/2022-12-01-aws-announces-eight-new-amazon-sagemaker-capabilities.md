@@ -47,6 +47,20 @@ related:
         width: 1563
         height: 785
         isCached: true
+  - title: "AWS introduces raft of new AI tools for Amazon SageMaker"
+    excerpt: "Originally introduced in 2017, SageMaker includes more than a dozen AI development tools. Software teams use the platform to create neural networks, train them, monitor their performance after they’re deployed and perform related tasks."
+    publishedDateTime: 2022-11-30T23:20:00Z
+    webUrl: "https://siliconangle.com/2022/11/30/aws-introduces-raft-new-ai-tools-amazon-sagemaker/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/amazon-3.png"
+        width: 933
+        height: 519
+        isCached: true
 
 secured: "K5/67qsxyGMS71WmauLzifQHSBgUznE/Yjvo/qSfs69PemnjP0QX5cH9eDY4SuQcCnZcH9mCQXfZXccsC1i0qIDgoxRFZy0jw1V404eFEQ8bYgBgVXxuRXt6oymFgW8BZnZotq7Cv6qdF6/kut+JCxDmp1cKZuoEEXUZgKiuB3hFqQ6e/9rSuf6t/UqRFFht/KKhtOrMsS/NXVnZ5U1POqijkSb8RIyfDkRR4FyjlPfyS+AlBQYJKrCiLSo7H4B3O0CcGTg5QLrgDEO7IGYNfMXFVHDaDDuvTcH7vmPCUNaGoQt1Z6GYTtX7qYe+xVnkENDu6GGJOSBLb57LADpRn4kIAbLg2K3TTCg4fwR5aGQ=;5lVHS9/7n57BDlXq5Uo4SA=="
 ---

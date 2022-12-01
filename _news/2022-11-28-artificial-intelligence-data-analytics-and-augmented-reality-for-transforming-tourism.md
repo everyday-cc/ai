@@ -9,8 +9,8 @@ ampWebUrl: "https://www.traveldailymedia.com/artificial-intelligence-data-analyt
 cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Travel Daily Media
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools"
+    excerpt: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools - SiliconANGLE"
+    publishedDateTime: 2022-11-30T23:32:00Z
+    webUrl: "https://siliconangle.com/2022/11/30/aws-sets-future-proof-enterprise-data-strategy-release-new-database-analytics-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/swami-awsreinvent2022-1.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
   - title: "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector"
     excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators."
     publishedDateTime: 2022-11-30T12:34:00Z

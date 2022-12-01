@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/crypto-token-investment-gID_6.jpg@png"
         width: 1024
         height: 512
+        isCached: true
+  - title: "The Rise of Climate Fintech"
+    excerpt: "The climate crisis is a defining challenge for Asia and the Pacific, but climate fintech can retool the financial sector to benefit people and the planet."
+    publishedDateTime: 2022-11-30T22:59:00Z
+    webUrl: "https://www.brinknews.com/the-rise-of-climate-fintech/"
+    type: article
+    provider:
+      name: Brink – The Edge of Risk
+      domain: brinknews.com
+    quality: 24
+    images:
+      - url: "https://www.brinknews.com/wp-content/uploads/2022/11/GettyImages-1238824344.jpg"
+        width: 1920
+        height: 1279
         isCached: true
   - title: "Conversation Intelligence: the SaaS player disrupting the FinTech space"
     excerpt: "Technologies such as AI-driven automation and SaaS solutions are rapidly transforming the way most of us carry out our financial transactions. In fact, the emergence of fintech has significantly reduced the need for people to visit banking institutions in ..."

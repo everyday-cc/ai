@@ -26,6 +26,24 @@ images:
     height: 511
     isCached: true
 
+related:
+  - title: "Self-driving trucks hit the road in Sweden"
+    excerpt: "In the pilot project, the self-driving truck is manoeuvring a stretch of some 300 kilometres (186 miles) between Sodertalje and Jonkoping in Sweden’s south, delivering fast-food goods. Greta Thunberg, 600 youths sue Sweden for climate inaction From the ..."
+    publishedDateTime: 2022-12-01T00:07:00Z
+    webUrl: "https://www.citizen.co.za/news/news-world/self-driving-trucks-hit-road-sweden/"
+    ampWebUrl: "https://amp.citizen.co.za/news/news-world/self-driving-trucks-hit-road-sweden/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/news/news-world/self-driving-trucks-hit-road-sweden/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 44
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2022/11/Self-driving-truck-Sweden.jpg"
+        width: 1501
+        height: 1000
+        isCached: true
+
 secured: "b9Sv+T6qp9+7QwtBSkCH9i2kemorakG8tnzJmqyewJPe29ChEV+ifv/z1beuKd+LtIr9yjmd8DQ4/ptN46C8TcSpVyRqsHmtY2rIhzkEDL7/XG9SNzYIk8FMPFOO0njnLCwljK+WqF+yU2o9GKvrZ8SFgCZGSjfKhoPyktud/KgatyFQd3BXzwFIYnlmrm8HL0IgOOXf/5B0qoywscuSNZmjdYbF6Mg3gPee2jH6EkCNFPJmXc/fqTTBrJUPKDRPve8XCvKbZe5d7TvQuEMlfUzRkEtzpAJol3q67RbjuSqXgk/M5e5z0x6kQUvrj3qVhW52n0czVKlxp7Eoz+LYSsPwxrH2iX0f3PHtbPxh1yXgQ5L6r295iB/J9apvbZfSfogldV9trLypaKrGAfSwN/G+e+IXFw6YDyjQyj3PjUvI/rbYACCkavuRc+1IWgDA6c4Ms0doMa63lYfkj3ivgEJtFiNAEr3N6MVEifKx7xc+AiHEocpP4pe04Z5ZOF55SxGl6jv5RFE3wEGz1bIyAg==;zIcTwtC4qOookt3Qp2idPA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-22-filmmakers-can-tweak-your-tv-settings-in-more-ways-than-ever.md",
+      "title": "Filmmakers Can Tweak Your TV Settings in More Ways Than Ever",
+      "excerpt": "Support is growing for Filmmaker Mode, a setting on newer televisions that makes movies look how the creators intended.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/filmmaker-mode-televisions/",
+      "originalUrl": "https://www.wired.com/story/filmmaker-mode-televisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/637c22edc16b4f8de1df58cc/master/pass/Filmmakers-Can-Tweak-Your-TV-Settings-in-More-Ways-Than-Ever-Gear-GettyImages-1385473818.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/filmmaker-mode-televisions/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/filmmaker-mode-televisions/amp",
+      "publishedDateTime": "2022-11-22T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-edge-artificial-intelligence-ai-chip-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028.md",
       "title": "Edge Artificial Intelligence (AI) Chip Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 22, 2022 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" research provides significant and in-depth information on the global market. This research ...",
@@ -1105,57 +1157,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat.md",
-      "title": "What Meta’s Galactica missteps mean for GPT-4 | The AI Beat",
-      "excerpt": "Meta’s missteps over its Galactica demo and Stanford's debut of its HELM benchmark followed weeks of rumors about OpenAI’s GPT-4.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/DALL·E-2022-11-20-10.35.38-the-thinker-statue-in-a-bright-galactic-universe-.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-metas-galactica-missteps-mean-for-gpt-4-the-ai-beat/amp/",
-      "publishedDateTime": "2022-11-21T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

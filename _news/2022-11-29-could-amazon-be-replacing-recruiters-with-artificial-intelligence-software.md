@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/amp/"
 type: article
 quality: 85
-heat: 96
+heat: 95
 published: true
 
 provider:

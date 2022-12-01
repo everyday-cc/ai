@@ -9,8 +9,8 @@ ampWebUrl: "https://www.abc10.com/amp/article/news/nation-world/san-francisco-co
 cdnAmpWebUrl: "https://www-abc10-com.cdn.ampproject.org/c/s/www.abc10.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
 type: article
 quality: 59
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: KXTV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "San Francisco's Killer Robots Threaten the City's Most Vulnerable"
+    excerpt: "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color."
+    publishedDateTime: 2022-11-30T22:33:00Z
+    webUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/"
+    ampWebUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/6387ab9b112650bb61bedb4b/master/pass/Security-SFPD-Lethal-Force-1367945379.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "San Francisco will allow police to deploy robots that kill in emergency situations"
     excerpt: "Opponents said the authority would lead to the further militarization of a police force already too aggressive with poor and minority communities."
     publishedDateTime: 2022-11-30T17:24:00Z

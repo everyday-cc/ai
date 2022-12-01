@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
-publishedDateTime: 2022-11-27T13:31:00Z
-originalUrl: "https://omaha.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_cfb3361a-d395-5065-a8c1-e71cd3fa8b9e.html"
-webUrl: "https://omaha.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_cfb3361a-d395-5065-a8c1-e71cd3fa8b9e.html"
+excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
+publishedDateTime: 2022-11-27T00:18:00Z
+originalUrl: "https://www.abc15.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
+webUrl: "https://www.abc15.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
+ampWebUrl: "https://www.abc15.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
+cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: ABC15 Arizona
+  domain: abc15.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/f328cbe/2147483647/strip/true/crop/983x553+3+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F26%2Fa5%2F8c8af8954a2cbda5720e88fc5e71%2Fap22321559652379.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Seal conservation efforts aided by new facial recognition technology"
@@ -86,6 +94,6 @@ related:
       domain: www.cbc.ca
     quality: 17
 
-secured: "JQ+W3FiG/3EdcmpcPM3m7HjEJDew+A6Q7Mdtw61ofWE/5GQnGSFZDFWPGWpBfgWy2FH/Qt3k0Jxi3TvAkIdBwSqWvTBI4uAPtfTUetIaDmoVdCBHTzMVdBN6gHt3XZDqZ2i0gPZBO+fxH2Vb5gxJiXqwYkulbKdlyRSLy+UbBBYkCia35o+po2H64nLczbTYZcJuRfbesJE71wdqP9c6iO7YERYVLLsZWbdiWSqA5m0pS7HaPKSgsfliLuTBaTcs2A7kxdEX0xZI+L581RmEWxzj15GYRP9cZv1y8YVR+TkmkpgDLhTwvQDA64PD8n6Bb2feinW4t4iKyasK297BY8jssEMEH+dboN8g6TwIbBApKIzxgDoaCHBRKTbiKgGJf1uk/qtKwY56FU1M6+eX4DCU1dQjbGrLMRn4Brrhc0x1vOE/cdbouA7p+BChMle3ZxWyjxdKqbJZLuLgpXtAOcRHFFevdz+DgeNnB3ZUS11e5TIB2VK2io481c/1LJpwU67wlAsTWQyFVAD8fmG8HA==;Wi58tx/p5izSwkn8lIU9hg=="
+secured: "p4/z5nlpyquQyPwcCiE3cBTbCokY2t+U4SOtFDaXYLTIRv8K5HQZvzgTnDwCNi2Be67AMtYw6XBG1ewIgFeeNKXzDERQq9PpPf/BVP89jJ+0JTglqlinZ6NJ+NiN3cw7lQNxyUYDV1MzjFDhlzFxwaolHKrk0S3JSU4Ai0wiJTTop0AueexAJPAZUYHHo+4xronmmidSWQpeof0hYRNz6t/jBJg4rdY/bYeItxOYUiPkXIW7wyw/1LKZsjM2IJp2puAiiD0fiZxyDMB99Z9ohXP8SmyGBvAG9eqolb2CzefByDzZwRVnivPNDFD+C+9Fc03LGoJ0iJEZBim5SKYFrzyaVP2yw1HKGqgN/iiBabE=;PbKv1OxW4gqaZvRKRq+Tcw=="
 ---
 

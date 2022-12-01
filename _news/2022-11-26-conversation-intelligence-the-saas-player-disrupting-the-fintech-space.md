@@ -65,6 +65,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "The Rise of Climate Fintech"
+    excerpt: "The climate crisis is a defining challenge for Asia and the Pacific, but climate fintech can retool the financial sector to benefit people and the planet."
+    publishedDateTime: 2022-11-30T22:59:00Z
+    webUrl: "https://www.brinknews.com/the-rise-of-climate-fintech/"
+    type: article
+    provider:
+      name: Brink – The Edge of Risk
+      domain: brinknews.com
+    quality: 24
+    images:
+      - url: "https://www.brinknews.com/wp-content/uploads/2022/11/GettyImages-1238824344.jpg"
+        width: 1920
+        height: 1279
+        isCached: true
 
 secured: "XKoAng4KEMn9h7geQ951sv2grAv34cpavP0o9pgAP5EIwdUjeY8D06dNS21FP2laMw5O/2TkEGSP6Opb9UG2PGMXF+7kTDI+IriCgZEEv8S/S//UNb8HyHgbaNEwgQqtpqwcag133OT1aM7pPu9c2nbf3Pe1+7aYzA23czUJIUUFWjmTaOBfr4TU56m+uDwJVnFHVO15MXRwQ/N5j/kQxNB+oho//isOVSh4OqycCmjNEDRm4Z/snWBA9hTvOXBEG9nYApH+esG/VscV0U1SvM9Ov2EqpDnHO0hy8nghGzcPSssTFubeJQ8y0+UdVrskxsjcDINVj17H4uGSjNNm9/1YBomwO5MidT0iCn2yDdmtSAKmVe79j1yaFe9UuFkudmn6fwfxIJ7/hzD7CcqQlUF0gX+PmoxZF8AL/r+jYSSUGIcyX1/DkVgxulNpgONv+RiO5oFDmi6UqZgxKtfa0p/Q3FoRTwbbFBTHxfEViw5rdVZqwc/88NWBuQm9St8uZQaPXHHtSbg1PMQawHxVkw==;2NhFgiWDWpBvuZ+xTD+jKw=="
 ---

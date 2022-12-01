@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
+    publishedDateTime: 2022-11-27T00:18:00Z
+    webUrl: "https://www.abc15.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say"
+    ampWebUrl: "https://www.abc15.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/f328cbe/2147483647/strip/true/crop/983x553+3+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F26%2Fa5%2F8c8af8954a2cbda5720e88fc5e71%2Fap22321559652379.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pervert who filmed girl in toilets snared by facial recognition technology"
     excerpt: "A registered sex offender who went into women's public toilets to film a teenage girl was snared by facial recognition technology. Now Dorniel Nica, has been jailed for three months. A court heard how on October 2 the victim had been in a cubicle of toilets in Golden Square Shopping Centre in Warrington after feeling sick when she saw a hand holding a black iPhone coming from the underneath the neighbouring cubicle."
     publishedDateTime: 2022-11-29T10:19:00Z
@@ -59,15 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Facial recognition can help conserve seals, scientists say"
-    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it — saving seals. A research team at Colgate University has developed SealNet,"
-    publishedDateTime: 2022-11-27T13:31:00Z
-    webUrl: "https://omaha.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_cfb3361a-d395-5065-a8c1-e71cd3fa8b9e.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 19
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — savin"
     publishedDateTime: 2022-11-29T13:00:00Z

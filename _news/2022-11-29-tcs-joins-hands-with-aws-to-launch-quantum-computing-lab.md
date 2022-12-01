@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-tcs-joins-hands-wit
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "UNC and AWS partner to launch 10 new digital health companies"
+    excerpt: "So, there's no shortage of companies in digital health (in fact, there are so many right now that the space starting to see a correction through consolidation) but get ready for more, as the University of North Carolina at Chapel Hill,"
+    publishedDateTime: 2022-11-30T23:17:00Z
+    webUrl: "https://vator.tv/news/2022-11-30-unc-and-aws-partner-to-launch-10-new-digital-health-companies"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 39
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21910.jpg"
+        width: 320
+        height: 240
+        isCached: true
   - title: "TCS Joins Hands with AWS to Help Enterprises Harness the Power of Quantum Computing"
     excerpt: "Tata Consultancy Services (TCS) has launched the TCS Quantum Computing Lab on AWS to help enterprises explore, develop, and test business solutions and accelera"
     publishedDateTime: 2022-11-28T16:26:00Z

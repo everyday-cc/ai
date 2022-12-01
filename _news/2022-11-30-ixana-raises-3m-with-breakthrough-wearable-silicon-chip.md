@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Ixana raises $3M with breakthrough wearable silicon chip"
-excerpt: "The energy-efficient chip enables distributed computing for all-day wearable augmented reality Ixana, the wearable hardware company developing high-speed human-computer interfaces, today announced it"
-publishedDateTime: 2022-11-29T17:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29894151/ixana-raises-3m-with-breakthrough-wearable-silicon-chip"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29894151/ixana-raises-3m-with-breakthrough-wearable-silicon-chip"
-ampWebUrl: "https://www.benzinga.com/amp/content/29894151"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894151"
+excerpt: "Ixana will preview its first chip-based reference hardware at the upcoming Consumer Electronics Show (CES, Booth #61305) in Jan 2023. Their proprietary chip gives them a unique edge to develop wire-free,"
+publishedDateTime: 2022-11-29T20:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ixana-raises-3m-with-breakthrough-wearable-silicon-chip-/2022/11/29/9721312.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ixana-raises-3m-with-breakthrough-wearable-silicon-chip-/2022/11/29/9721312.htm"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
-
-secured: "pn5I7eaKnnymk4W8IqSlgJ+EnjIWjsfqvCRuzahfW4rKNPT7j66OBrDCH7iGadwMR7w3xE05nvkQpqLKvH7perOAoV6zC3BPYSz4qzDgdStjbmVGmXhzrZfTZHtEsvvyCieqxSnuz71Pa5YQy48ON730llsDX2ke2Jp4Dovj3bqAetmB/CeaIOIrAXWGQKZAnQcYxLD8zUvzMf1BLK+3EIL/IOOogRawN1TWA35fwpX/8D7pwW7JQsJrb9GbTcVh0ryhBslh5JG4YcY5TpJzWUdaNCLaNi9f5arv88TuAMXOfqar8/qPD7m6rk1cBg///VmQRP52MVJVhoFHmj0UkN9Fn4DQN/+nH56shcT/ob8=;Zc9uwDb/sawZdj2V//hsZg=="
+secured: "5+P+K2UIiHi2lxv7T1SAFd8/XcNbyYN+CA24NR7DCzAraGN7l8GDPWpCpYwdNk6+nqaAdVEN/pbkN/UDIBFok8W+eKe0yeuw1phd//tdcHeKtPPlj/S0d0RG3SEtMFvOBE5kwPefu9qXJPXiksPcaJSxOqiwbi0RAgcWx0XOiE5X4VGnngLN6vN5Jk4nx5dWmfuF8NFH0hwvaD6NYYVALS3eTWlLfotct20+8gIkA6vybSO2IdHuSLovyJVgSh8awh4TVDTRDZF9RfyANChUJIHG/HoWi06D69WbFKOS59ppJxthbanqkfciAtWeHq7eXjZklQvQf0PyVxI4kXI2X9dIXKd7RQXWpCdglf7CXBs=;1DhT5CtxpF3tCBRD70AkZQ=="
 ---
 

@@ -516,7 +516,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -706,6 +706,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism.md",
+      "title": "Artificial Intelligence, data analytics and augmented reality for transforming tourism",
+      "excerpt": "Tourism Innovation Summit 2022 has once again hosted the. In which startups from all over the world presented their ideas and business models to leading tourism companies and investors to revolutionise and drive innovation in the travel and tourism industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/",
+      "originalUrl": "https://www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.traveldailymedia.com/assets/2022/11/Las-startups-ganadoras-del-Touristech-Startup-Fest-de-TIS2022-scaled.jpg",
+          "width": 2048,
+          "height": 1184,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/",
+      "publishedDateTime": "2022-11-27T19:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI",
         "AI in Healthcare"
       ]
@@ -1392,59 +1436,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-3-key-ways-artificial-intelligence-helps-organizations-drive-dei.md",
-      "title": "3 Key Ways Artificial Intelligence Helps Organizations Drive DE&I",
-      "excerpt": "Debates about the efficacy and ethics of using artificial intelligence (AI) —or not using it—when making decisions about hiring, promotions, and diversity, equity and inclusion (DE&I) have been going on for years. And while the AI Bill of Rights has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
-      "originalUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/600af5868c1bda438d3a4b6a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
-      "publishedDateTime": "2022-11-17T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Healthcare"
       ]

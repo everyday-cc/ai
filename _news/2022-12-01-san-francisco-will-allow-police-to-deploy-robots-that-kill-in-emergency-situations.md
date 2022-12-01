@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "San Francisco's Killer Robots Threaten the City's Most Vulnerable"
+    excerpt: "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color."
+    publishedDateTime: 2022-11-30T22:33:00Z
+    webUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/"
+    ampWebUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/6387ab9b112650bb61bedb4b/master/pass/Security-SFPD-Lethal-Force-1367945379.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "San Francisco may allow police to deploy robots that kill"
     excerpt: "The San Francisco Police Department said it would like the option to deploy robots equipped with explosive charges to disable suspects when lives are at stake."
     publishedDateTime: 2022-11-29T20:35:00Z

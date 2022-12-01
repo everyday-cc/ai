@@ -35,6 +35,20 @@ related:
         width: 2048
         height: 1184
         isCached: true
+  - title: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools"
+    excerpt: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools - SiliconANGLE"
+    publishedDateTime: 2022-11-30T23:32:00Z
+    webUrl: "https://siliconangle.com/2022/11/30/aws-sets-future-proof-enterprise-data-strategy-release-new-database-analytics-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/swami-awsreinvent2022-1.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
 
 secured: "2jSrOGH3hP50MA7M77XvoOYwFghXS0VS/37gu9owgRSB8eazWqu29ypxr8Tpo1VaM9P6Vja29g4aqmHdKXusBi6jnL/du3ky7x2W2XY/3RyehBtgc2FiviodLSDrf1r6qJWAvAWh5JXuk2jt8qM1jPj0I0PlpID5dLtOUJLUaxw5mvcjvtJ+yJAPdzCFM+QOPZPgdmqG2lu6KXMwQRXtnJo3J5eS//mnj67ha0QomBaqcLm/2E5HcZheQDmICQFv3Tn56OpL6tBtUb3HJkC5h0cgzoT0E1dwvAv+FZoOZdUmmZAGKajiKIWyQM1z2nvwZzfLTlUL1LwLxE8elGgM6CU5vL9HVvgbvVMG1p9GXk0=;xBzlJbh6hXf50AYj7Swszw=="
 ---

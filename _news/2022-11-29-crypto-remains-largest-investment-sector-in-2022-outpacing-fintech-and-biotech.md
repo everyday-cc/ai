@@ -57,6 +57,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "The Rise of Climate Fintech"
+    excerpt: "The climate crisis is a defining challenge for Asia and the Pacific, but climate fintech can retool the financial sector to benefit people and the planet."
+    publishedDateTime: 2022-11-30T22:59:00Z
+    webUrl: "https://www.brinknews.com/the-rise-of-climate-fintech/"
+    type: article
+    provider:
+      name: Brink – The Edge of Risk
+      domain: brinknews.com
+    quality: 24
+    images:
+      - url: "https://www.brinknews.com/wp-content/uploads/2022/11/GettyImages-1238824344.jpg"
+        width: 1920
+        height: 1279
+        isCached: true
   - title: "Conversation Intelligence: the SaaS player disrupting the FinTech space"
     excerpt: "Technologies such as AI-driven automation and SaaS solutions are rapidly transforming the way most of us carry out our financial transactions. In fact, the emergence of fintech has significantly reduced the need for people to visit banking institutions in ..."
     publishedDateTime: 2022-11-26T13:39:00Z

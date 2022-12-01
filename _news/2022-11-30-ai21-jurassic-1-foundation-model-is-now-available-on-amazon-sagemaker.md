@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foun
 webUrl: "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foundation-model-is-now-available-on-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
         width: 1563
         height: 785
+        isCached: true
+  - title: "AWS introduces raft of new AI tools for Amazon SageMaker"
+    excerpt: "Originally introduced in 2017, SageMaker includes more than a dozen AI development tools. Software teams use the platform to create neural networks, train them, monitor their performance after they’re deployed and perform related tasks."
+    publishedDateTime: 2022-11-30T23:20:00Z
+    webUrl: "https://siliconangle.com/2022/11/30/aws-introduces-raft-new-ai-tools-amazon-sagemaker/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/amazon-3.png"
+        width: 933
+        height: 519
         isCached: true
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"

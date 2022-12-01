@@ -104,6 +104,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "AWS Announces Five New Database and Analytics Capabilities"
     excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
     publishedDateTime: 2022-11-30T19:31:00Z
@@ -113,15 +122,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-    publishedDateTime: 2022-11-29T17:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
     excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
     publishedDateTime: 2022-11-29T16:17:00Z

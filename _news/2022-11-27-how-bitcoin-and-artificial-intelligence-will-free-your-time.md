@@ -8,8 +8,8 @@ webUrl: "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence
 ampWebUrl: "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
 cdnAmpWebUrl: "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time"
 type: article
-quality: 57
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png"
@@ -43,6 +44,6 @@ related:
         height: 307
         isCached: true
 
-secured: "r/kN/Ii0Aaxs072qGCfYUroAbYkrkA5cjuLsku0FNBHCNVbiG+tDySTTgDofOBGB4nl2c1PORPKpGvm5kN8qhDaa6+VddBqqigY2LTxlpHgGBnHq83rp9TZCbjnAYKZAvSrusNpryO3/N6Bk8xt7uVq/Myl+Dyl1p63Jbd6V440zg5okmXymNtRZ3921YJXzm9j4oHVKDtFNQKL29s4XNwKGieC/WkYlxMDeGdlv08RAZYfci+ort4PXpUPjh75/eKn+wJb6egcTRpmvwP+v2cVmhM5Mp3DDzaIM+zLvSSbKF/d+V8ajWzG/dxEw0WhY+Q9OIpMi8BxGKp3IG1UgsX7aoIdXfoDwHV442TQtX9k=;vaAXHeZxdp4bHrvxcCUziQ=="
+secured: "z7U/OUinsjLFluWHr1XLkc7dwRAYqAtD38+WZSWV7HcW3JWOm3YQsDQsPfbxv75FS4sG8GWCsOOPdD/fB38YNhOCJjB46EP3L+ROtnoEtSQrLxWpHZfivcxE1oCxc3Y8X5KYwM90X4JlwtdSzUosDU3dszhH8vqAENsxGRdnexQ7/ZV3FhWE16OJW5KGIHgVITSSlS9FgQLm1TaZMnBYUc1MTd1RjHgAO4Rovo17/snx7X4BQoeLeOISCkaqfqsbTa7MUq/i9ZXad5qJ0DO951zjJazFzWmrcW2/W/6uDKWgidsv3yyt2FLEzobObr63PicdoXiVkMh8rp01cku6dIhAeKOSOwECN8AO3W0cnZLzmmpNW6dfTOZKSlFgyP07ZbaXDrDDEyVSxRrmTzjvNbMhN9TQtQY2OsWtRYQ8/t6qKfZlh6steb0ck5OuSGVUa8zV1xKV6EnzaAfk2V1U+t4w6Lu+9pjVGcMLImMqhPej0+905dnh5NS/G6efDDjbPqFnG7qp23upg6P6anzm9w==;+Nl/7eNEYTMAsBnejaS8Ww=="
 ---
 
