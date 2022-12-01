@@ -83,6 +83,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
+    publishedDateTime: 2022-11-28T06:40:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Scientists are using facial recognition software to track and protect seals"
     excerpt: "Marine biologists are taking a controversial technology associated with surveillance, and adapting it for science and conservation."
     publishedDateTime: 2022-11-30T19:00:00Z

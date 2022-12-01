@@ -42,13 +42,22 @@ related:
         isCached: true
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T21:21:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
+    excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
+    publishedDateTime: 2022-12-01T04:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57729270-thundersoft-joins-the-amazon-sagemaker-ready-program-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
 
 secured: "9UmqpI4BdHSwzzVmPmX9WTsCzzX6+N/ZwBd1nOeko0ExjkZmmDcU2kxolhrrTl1NhGFZnlLEQIGqq4Mj6ZDYqFUjL9H6W2to8sLfpg71P/yG2W1gWwVenoBk6dw57DjTtr8ieoLCpTLLVufWPNJHM0fKg+1CCQm7hyRgi+jNH3yDM2ectAIsMf4GjewrgjzWpkV+XURa3r3KeFgjVp6KT7gk6FJLIk/H/CwbctPqdK7PqMR7ZgnP5I/pzPJTcxakXK2DAeBHjccAYO67p5d/mjTw176Zhbmwp5al+iD12TIlsxzC85cqB8sa9fSKEfGeWRvjibXlZqARA2kOSZS0aVsL6bP1hyyzqqk94xEtvSRb+EOYQ9WIIEX3yYhMb0LyKP42OW8oaU1KliBZfL4reHrK+wMUeFpbC2tKvi/+Q8BY67zEcpO73IvmmDVnvCFZ6ElH/+Z6Asai2W931MoIqOzLOAPfL2tppp+HW82gy093BtPC44uA6t2N4uc7i6+QGHp5pOnhBXqGn2SCAY6qWA==;Jqx5HdPjK92CmYh4tYHrOw=="
 ---

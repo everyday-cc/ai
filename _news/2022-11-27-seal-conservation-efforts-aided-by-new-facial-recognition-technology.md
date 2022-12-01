@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-fac
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/11/helen-op.jpg?1669482032&strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facial recognition can help conserve seals, scientists say"
+    excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
+    publishedDateTime: 2022-11-28T06:40:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Facial recognition can help conserve seals, scientists say"
     excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — savin"

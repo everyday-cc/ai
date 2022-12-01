@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-30T00:00:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/11/221130114556.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221130114556.htm"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Kettering Health uses artificial intelligence to prevent blindness"

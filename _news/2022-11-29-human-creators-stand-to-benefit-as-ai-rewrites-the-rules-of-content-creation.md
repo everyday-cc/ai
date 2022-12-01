@@ -42,6 +42,20 @@ related:
         width: 375
         height: 210
         isCached: true
+  - title: "The Era of Evolution for Conversational AI"
+    excerpt: "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of"
+    publishedDateTime: 2022-11-30T17:30:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "ADGM's Financial Services Regulatory Authority Launches AI Initiative On Open Regulation"
     excerpt: "Without regulatory context, AI applications will be limited in their potential to help financial services firms navigate the regulatory landscape. In this regard, OpenReg provides the regulatory context required by firms to develop their own AI solutions."
     publishedDateTime: 2022-11-29T21:45:00Z

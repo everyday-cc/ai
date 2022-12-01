@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-29-why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness.md",
+      "title": "Why AI In Healthcare Is Critical To Improve Mental Health And Wellness",
+      "excerpt": "This article focuses on Why AI in Healthcare is critical to improve mental health. With depression and anxiety on the rise, board directors and C - levels must innovate to provide more self- guiding toolkits and also recognize that mood and happiness tracking is as important as financial results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63852a261ca64d2156db9778/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/",
+      "publishedDateTime": "2022-11-28T15:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
       "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
       "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -921,7 +973,7 @@
       "originalUrl": "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1204,57 +1256,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-using-an-ai-powered-retina-scan-to-detect-kidney-disease.md",
-      "title": "Using An AI-Powered Retina Scan To Detect Kidney Disease",
-      "excerpt": "A South Korean startup, Mediwhale, wants to use artificial intelligence (AI) to diagnose kidney disease through a non-invasive retina scan. Kevin T. Choi, Co-founder and CEO of Mediwhale says the retina is the only organ where blood vessels are directly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6383a854488fd33f44459796/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
-      "publishedDateTime": "2022-11-27T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

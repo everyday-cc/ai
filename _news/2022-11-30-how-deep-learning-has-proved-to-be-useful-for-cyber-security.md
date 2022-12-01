@@ -45,15 +45,6 @@ related:
       name: CSOonline
       domain: csoonline.com
     quality: 36
-  - title: "Top 5 stories of the week: Deloitte’s cybersecurity predictions, the true cost of a breach, AI’s new diet"
-    excerpt: "Just as a new report published this week highlighted that enterprises pay on average about $1,200 per employee each year for breach mitigation, Deloitte shared 10 cybersecurity predictions to better secure the enterprise in 2023."
-    publishedDateTime: 2022-11-26T13:00:00Z
-    webUrl: "https://venturebeat.com/security/top-5-stories-of-the-week-deloittes-cybersecurity-predictions-the-true-cost-of-a-breach-ais-new-diet/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 30
 
 secured: "Se1jLm1aBMdUi9WHIw3ITUS26uQT9IQ8CQAf2cFQXn3f/0E4wXa6w2StTmYuoW+nsKv0u1QJrVJZ/h+HYzMhoAcHRI8b9RUaLPFFeksjExW6/cTLnl7jfQGxdQmxgZRqBVHZ8GdECvxgsHeURqGUMaq72bRMWIHBQGPlN4e/08bt3AzDUQ/wBki7A0Q/KB6tm0WusjukXXKEv6ezkVl/6onPiNYA8e8Nfb5O3XppbNHCoaXJSWmHr6megv80cdGo3kgD+W6Bot+xJXvmngcVbk/QLQ7Hb8FRUbeXvKKHEwGvxbE8frVH4KHOHio6pAvhDkRCY8D0gYxn2V36nHnrIk9mbAR3CmEA0+1cFuvvWQtjAUCUwr/lZrewtiLlyhim7rUS86lGv/XO2L+hbcq+Oj8Q9Cs5jvdaJwHpuau4m6OuLcN0+N5o55wcsdgXmM277NUbFyXv5HSKw/Yt2PGg0NR1jjwExvkDAZEcgnG+KHnotyUuGdXb8/p4o1T5WCv+R2VHRwA1Nrq41+XEfKWzWw==;oa9DYLdebZkATNx32eM3AQ=="
 ---

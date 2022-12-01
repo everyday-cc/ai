@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-30-baidu-unvails-ambitious-robotaxi-plan-in-china.md",
+      "title": "Baidu Unvails Ambitious Robotaxi Plan In China",
+      "excerpt": "Announcements came as part of a nearly 3 hour video presentation called “Apollo Day” which delved into technical details on their Apollo self-driving project",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63871313fec72f7aa0db9784/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
+      "publishedDateTime": "2022-11-30T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-us-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains.md",
       "title": "U.S.-Backed Researchers Use AI to Probe for Weaknesses in Drug Supply Chains",
       "excerpt": "The U.S. Department of Homeland Security has approved research that will use artificial intelligence to delve into drug supply chains and probe for weaknesses, including foreign influence.",
@@ -1102,7 +1154,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1145,58 +1197,6 @@
         "AI",
         "AI in Security",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness.md",
-      "title": "Why AI In Healthcare Is Critical To Improve Mental Health And Wellness",
-      "excerpt": "This article focuses on Why AI in Healthcare is critical to improve mental health. With depression and anxiety on the rise, board directors and C - levels must innovate to provide more self- guiding toolkits and also recognize that mood and happiness tracking is as important as financial results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63852a261ca64d2156db9778/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/",
-      "publishedDateTime": "2022-11-28T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

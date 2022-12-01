@@ -61,6 +61,22 @@ related:
         width: 666
         height: 282
         isCached: true
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+    publishedDateTime: 2022-11-29T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
     publishedDateTime: 2022-11-29T18:57:00Z
@@ -118,15 +134,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 36
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
+    publishedDateTime: 2022-11-30T22:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 32
 
 secured: "Jju4p9toY86UAxoyEaqXhY1DjXVP57SGA/4ZW8c8cLzxmMudeSPb9uEgfgu744LTx6q3kfEQYNKJn/d0BQM09KPeUoxPhOL2/nL+6xhgm9TH04QsQRUHTYZ4JN2jIKPMdYixnHGJRVcocN7IdkFz+gLFz8A26xaCi2Pk31l9W6LLkT3J+vVWVvNEej3MgErjhRRusIbD1Oft5EBdSZq9PKFdQqPkR4r9Uz466BzSeQM+O2aHYHHazYd9Fd2u/ns4cT9fPLz1/VK54GG8fQImkhqfwPNe0cwGVfBj8qMOGmKc4LecDjV5ODOhXwEtStuK9lIKOYDsMyxZGCJ5SEDfPSA2WY++FUXe/4F3QRVkcaQ=;XFcJGaFjkWz4LCta5KknMg=="
 ---

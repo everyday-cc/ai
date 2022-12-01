@@ -34,7 +34,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "NEW TECHNOLOGY USING SMARTWATCHES FOR JOINT REPLACEMENT PATIENTS CAN HELP IN THE HEALING AND RECOVERY PROCESS"
     excerpt: "Dr. DeClaire and his patients will avail themselves of the program's artificial intelligence (AI) to help determine if education and exercise remotely guided by the watch and app are as good as or better than traditional education and outpatient physical ..."
     publishedDateTime: 2022-11-30T20:24:00Z

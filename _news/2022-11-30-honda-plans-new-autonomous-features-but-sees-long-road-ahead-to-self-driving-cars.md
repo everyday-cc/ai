@@ -61,6 +61,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Honda to develop technology enabling Advanced level 3 self driving technology"
+    excerpt: "Honda said it would develop technology that would enable level 3 self-driving capability. It will function at any speed."
+    publishedDateTime: 2022-12-01T03:38:00Z
+    webUrl: "https://techstory.in/honda-to-develop-technology-enabling-advanced-level-3-self-driving-technology/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/12/38bebe2653040e575bb17d31991a8b5d.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Ug46hraPA87t80OJ5Q7uIZ3OIx4VyzSEnq6dFhOW69TacGhE+BihdeRvQAn8bPzrkQzQzlDWedLllBQcuTMH9GCOIC6GpJPH0NfoEYBWAtrZpxUNP5e+hV1uErGpbR69drQ5xeYiksxORnhVkHOmiM+yrfa8hRSN//4ybNOQZeojY8+A3HXr7IL0oWz6HonSijpjf/vU/goJr8QSpfLR/iceDUAKEAOcQny8kRT3/XuTAqg+cOkijewKaqiDliIgtdFHoG/JsZylSXcqIUJVkllWeKYaQ2qnNtvsJRZVFKuQTfHQ6sGmCFFV8gpOHNXeOOEwOqLstgAUZ52aXWmDM18AEgtNFBLOBp9SG/Eg69N6+Ixpn+XpFagCW67+Jue0COncP41GM/CuHxP1TH9sFgToaBexy/tgLV56cMKH56pQ4Gmiq/s7Kdv0QPsNzAnzDIVQb29DXNAiubbgTUXyOal2PlXBoTGqQRj/2Mq5CiwCJQBFxKcljjc1U3l8kriT2ncX4qkc3X7aO9CTDoxWyA==;f2n6VcZxbvBVwv4sXyFvSw=="
 ---

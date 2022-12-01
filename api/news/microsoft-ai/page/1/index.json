@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -667,6 +667,50 @@
       ]
     },
     {
+      "path": "_news/2022-11-20-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
+      "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
+      "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1951114/EG5120_5G_Edge_Computing_Gateway.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-super-computing-and-storage-on-earth-and-in-space.md",
       "title": "Super Computing And Storage On Earth And In Space",
       "excerpt": "DDN announced enhancements to its DDN Insights monitoring interface. Panasas announced data management and analytics tools for high performance computing applications as part of its PanFS software suite.",
@@ -975,6 +1019,49 @@
       "provider": {
         "name": "WebMD",
         "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-senior-suffering-cognitive-decline-surrenders-72-dogs-in-cabazon.md",
+      "title": "Senior Suffering Cognitive Decline Surrenders 72 Dogs in Cabazon",
+      "excerpt": "A Cabazon senior suffering cognitive decline surrendered more than 70 canines to the Riverside County Department of Animal Services Wednesday. A Cabazon senior suffering cognitive decline ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcsandiego.com/news/national-international/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3101459/",
+      "originalUrl": "https://www.nbcsandiego.com/news/national-international/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3101459/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcsandiego.com/2022/11/uss-momsen-uss-harpers-ferry-close-call.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 7 San Diego",
+        "domain": "nbcsandiego.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1299,102 +1386,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-study-parents-of-boys-more-likely-to-have-faster-cognitive-decline.md",
-      "title": "Study: Parents Of Boys More Likely To Have Faster Cognitive Decline",
-      "excerpt": "The researchers of the study found that having boys may lead to quicker cognitive decline in parents. The study showed that parents who had at least one son experienced faster rate of cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.onlymyhealth.com/parents-of-boys-to-have-faster-cognitive-decline-study-1668605562",
-      "originalUrl": "https://www.onlymyhealth.com/parents-of-boys-to-have-faster-cognitive-decline-study-1668605562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.onlymyhealth.com//imported/images/2022/November/16_Nov_2022/maincognitive.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.onlymyhealth.com/amp/parents-of-boys-to-have-faster-cognitive-decline-study-1668605562",
-      "cdnAmpWebUrl": "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/parents-of-boys-to-have-faster-cognitive-decline-study-1668605562",
-      "publishedDateTime": "2022-11-16T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Onlymyhealth",
-        "domain": "onlymyhealth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer.md",
-      "title": "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer",
-      "excerpt": "Microsoft and Nvidia have announced a multi-year partnership to build a new AI supercomputer in the Azure cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 431,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/",
-      "publishedDateTime": "2022-11-16T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

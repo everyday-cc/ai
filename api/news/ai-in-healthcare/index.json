@@ -257,7 +257,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -363,7 +363,7 @@
       "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1260,7 +1260,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

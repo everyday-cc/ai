@@ -1,27 +1,29 @@
 ---
 category: news
 title: "San Francisco will allow police to deploy robots that kill"
-excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations -- following an emotionally charged debate that reflected divisions on the politically liberal board over support for law enforcement."
-publishedDateTime: 2022-11-30T15:02:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations."
+publishedDateTime: 2022-11-30T14:02:00Z
+originalUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
+webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna59322"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna59322"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 169
+published: true
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211205-san-francisco-police-vehicle-jm-1039-3a9a35.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -115,6 +117,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "San Francisco Police Can Use Robots To Kill Suspects"
+    excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"
+    publishedDateTime: 2022-12-01T04:21:00Z
+    webUrl: "https://technology.inquirer.net/119871/san-francisco-police-robots"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2022/12/Police-Robots-featured-image-www.fox26medford.com_-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
     excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
     publishedDateTime: 2022-11-30T17:05:00Z
@@ -125,6 +141,6 @@ related:
       domain: wbaltv.com
     quality: 19
 
-secured: "l+c+1rFeH+Ozk0JVKBVNA8OlFlvRyCWhZGFzj7XVEgXmN358TyJg/t9qCHVGiTe/+FopzBwD6vCVQIf0W0mtE7vO7BPj/7+UVP3fNnvFzsDNkxGx+3VFpQ6acZslobyTbVroSdadB8/O4ZpGX0U0qGDULyQ8WXDf7vM1ouDPSew1PwUxYa4//MGl6lZ1G8djFtneVxnVmotwrOyK1mwJ+RmRPnhChKp7dGsHFlIWam+8pSC4zpwS17TLGA/hix3CHAs0egW8+r4hjCU5GoEYDWEqNaY7r0+OBQ/sWuUv3X87c3+Zge+Wm53Ti1zRdzJ440K7TCxbVz3A5Z3lc/Lcd6gfJ0AONT4/0cUD181tlOQ=;vM0rj7fetRmcu5b6GjcM2A=="
+secured: "nuNLbFr3YFx8O7TOGevmvIsPqH0WZVUjAMl/lwn8DokBfZ1QtpCfEvgrD01K/jMe2N90/+JFOaK4+ROk4SmiGgmCRX/Dg3LYVh8B8+RKP1Hd2c66QgZkd1xaYnYpQiCvyrAX5kmYzOYcrWQX6tYaRu9GhJBKmMdwRTOrNsvS1p/g1HuvJJgcBceRPGusZo3m4wKXWCsyvbTkCEmLfa7rSZu+vzKMCJ+x1NLG6IC/CY99IU6LlFVDBmWWO8uSLSrJaWmC6jRItl+V5YB4/WCCZ7likKinUex7KxPngIdVwa7OwZkuAbzAIo4CStIJzomAeN2x5LhBC6dvm0uPogteL8ZeTFbppSYzYDPSwtZ+Lcs=;mHB75P59y1/Sd1t57wK6tQ=="
 ---
 

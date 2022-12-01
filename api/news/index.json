@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-01-disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click.md",
+      "title": "Disney Developed An AI Tool That Can Make Actors Look Younger On Video With Just One Click",
+      "excerpt": "New research by Disney Research Studios, which focuses on technology innovations for filmmaking, shows off a new face aging network, named FRAN, that simplifies the aging process of actors in video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63881c64853b25bbce5b6465/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/amp/",
+      "publishedDateTime": "2022-11-30T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud.md",
       "title": "AWS unveils machine learning (ML) tools for data science in the cloud",
       "excerpt": "Amazon Web Services (AWS) detailed parts of its AI/ML strategy and announced a dizzying lineup of feature updates and new services to help organizations to better use the cloud for data science.",
@@ -107,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -149,58 +200,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-franciscos-killer-robots-threaten-the-citys-most-vulnerable.md",
-      "title": "San Francisco's Killer Robots Threaten the City's Most Vulnerable",
-      "excerpt": "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/",
-      "originalUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6387ab9b112650bb61bedb4b/master/pass/Security-SFPD-Lethal-Force-1367945379.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp",
-      "publishedDateTime": "2022-11-30T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -407,7 +406,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foundation-model-is-now-available-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -823,6 +822,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-san-francisco-will-allow-police-to-deploy-robots-that-kill.md",
+      "title": "San Francisco will allow police to deploy robots that kill",
+      "excerpt": "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211205-san-francisco-police-vehicle-jm-1039-3a9a35.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna59322",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna59322",
+      "publishedDateTime": "2022-11-30T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30.md",
       "title": "Startup Uses AI To Deliver Custom Investment Portfolios And Usher In \"wealth 3.0\"",
       "excerpt": "The next generation of investors aren’t looking to go down the same beaten path; they understand the importance of personalization and real-time decision-making. When done manually, this can be very expensive and time-consuming,",
@@ -1178,58 +1220,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-baidu-unvails-ambitious-robotaxi-plan-in-china.md",
-      "title": "Baidu Unvails Ambitious Robotaxi Plan In China",
-      "excerpt": "Announcements came as part of a nearly 3 hour video presentation called “Apollo Day” which delved into technical details on their Apollo self-driving project",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63871313fec72f7aa0db9784/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
-      "publishedDateTime": "2022-11-30T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

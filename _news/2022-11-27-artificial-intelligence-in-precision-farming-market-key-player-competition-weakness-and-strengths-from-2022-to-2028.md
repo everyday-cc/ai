@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Pharmaceutical Market : Competitive Strategy Analysis and Forecast Values 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry. \"AI in Pharmaceutical Market\" Insights"
-    publishedDateTime: 2022-11-26T12:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-competitive-strategy-analysis-and-forecast-values-2023-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
     excerpt: "\"Natural Language Processing Market\" Insights 2022 - By Applications (Machine translation, Information extraction, Report generation, Question answering, Others), By Types (Statistical NLP, Hybrid based NLP, Rule NLP), By Segmentation analysis, Regions and ..."
     publishedDateTime: 2022-11-27T02:56:00Z

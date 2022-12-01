@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chips Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Chips Market \" Insights 2022 - By Applications (HPC AI Chips, Terminal AI Chips,"
-    publishedDateTime: 2022-11-26T12:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT"
     publishedDateTime: 2022-11-26T17:24:00Z
@@ -52,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-based Home Security Camera Market Size and Share Research 2023 Key Dynamics, Leading Companies, Business Developments and Demand Forecast 2030"
-    excerpt: "Global “AI-based Home Security Camera Market” Research Report incorporates an in-depth analysis of current industry"
-    publishedDateTime: 2022-11-29T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-home-security-camera-market-size-and-share-research-2023-key-dynamics-leading-companies-business-developments-and-demand-forecast-2030-2022-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon to Warn Customers on Limitations of Its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-11-30T17:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Amazon to warn customers on limitations of its artificial intelligent"
     excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
     publishedDateTime: 2022-12-01T01:24:00Z
@@ -58,15 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Amazon To Warn Customers On Limitations Of Its AI"
-    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
-    publishedDateTime: 2022-11-30T16:09:00Z
-    webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 19
 
 secured: "jgXePcVJT3TbkEMomLV+f0Rj9adp0K2c5dYWD4pmnF65xRUwAky6snFh32aEjnNNJ6PvYS+fdhliaaxLxHWGNC0SxLW5dxA4hS6dA+XAxkhg1koQDhoEo5Fi4hvAzszL/iKaGg4cyvjrOhEqKGf9GDmTfg9vG44clnTdOSpoYZKD4TWOQfIYLeyPcOdodtyLLMdmuoj8FNRAnKVFS4hbHnenU0iGLCY+H17LTt2t5KEPAuA5RWDHuQCdK3BiLmilL3pqIfsigaqg/IcAJ4QVb5NffiY7Fe6NYcHVy4wHfIfOdPUhU7NqM0NTu4ZPGIWsL+oAX//AA1r32wQ33vexIKc+2+YOWQuqep9USYukRogCMYWOXhA4qgS44hmFLdLTaDb4u4ioKLKwR64rwnYgmdNySry7t74WzFxYwIkcjPOc4AxuyW7nHbSVxPbIZBfojea1FExFE+vizSfy9PlD5d1tup57lymiR48zBtlWK3cST7pH+Toxv5Uinsxm1AAlJrY9lsvYtsib+jAb3sCkRg==;L0v9omAmk2gf2Jy4wKbvAQ=="
 ---

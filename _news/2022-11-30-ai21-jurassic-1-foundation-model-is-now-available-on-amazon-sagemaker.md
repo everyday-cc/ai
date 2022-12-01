@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foun
 webUrl: "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foundation-model-is-now-available-on-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -45,13 +45,22 @@ related:
         isCached: true
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T21:21:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
+    excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
+    publishedDateTime: 2022-12-01T04:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57729270-thundersoft-joins-the-amazon-sagemaker-ready-program-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
 
 secured: "k+CZJPJcGwlY/igpu8zLchYHuWcpiCBOqyEYsYNQ4d0cukOn4KzUeeSgxQSKCrnrlMBrdyKouR7mLpYp+ka1tBYVlSXXk13K7xh1iL4gR3kKv3JSLvus7/LSWARmZYNyzIVDOid7TgcJbANVVAR/XDX8SK2mf/0gHHYBpHb7zlguvgerqu39pEHrU4om6bYQ9t/5hvr/tGs8sCjmmLhflRX/BCvwsGzyOheBIyYXVRZKWRgqNuDxa/Ke9SHIvDCqtl8hGiXXniRt2+CPwMLJAQ2dP+nMEAmlWyqH2lE2znrjs1/u6TquSfj2huAX/pm24OVBhghUrCPJAK81siM9LC/Z0rsehvXDmM6WqNebSrQ=;oH5treINO9QmpDZJBwqGGQ=="
 ---

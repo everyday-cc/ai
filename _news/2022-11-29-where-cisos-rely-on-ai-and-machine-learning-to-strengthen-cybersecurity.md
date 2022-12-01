@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/"
 type: article
 quality: 112
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: bbntimes
       domain: bbntimes.com
     quality: 36
-  - title: "Top 5 stories of the week: Deloitte’s cybersecurity predictions, the true cost of a breach, AI’s new diet"
-    excerpt: "Just as a new report published this week highlighted that enterprises pay on average about $1,200 per employee each year for breach mitigation, Deloitte shared 10 cybersecurity predictions to better secure the enterprise in 2023."
-    publishedDateTime: 2022-11-26T13:00:00Z
-    webUrl: "https://venturebeat.com/security/top-5-stories-of-the-week-deloittes-cybersecurity-predictions-the-true-cost-of-a-breach-ais-new-diet/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 30
 
 secured: "HeikQ+uTXTqf002bUM3FjGIdHP4I+3o5b7y5zd2u3Hr5PytjlfLY6z5z8Bkdv+1mHtV42B7WVNNxdvOlv84tm3tqPuGmjX33otoHv3ANpKErQ7/tmCMJ7cMHUR1w44io9Ii0+3TH9fE41rGWnDRhxfXXF6rNPeFr1AY0FqbZ5GPUzXxO2B0gnlF79HRgRXSx8RlfxH7M1yjzF/p6ZSSfI0TAyFxPmkSj+KsOOxAhLbxBxK5AUIex5DgVfApX7qDKIyPbGf8ndz8aUG0hQ4YZwB+KCkV1xyMEL+fSExEJRombpGuvy2j/q/Bum7EuJaQsQa8gA6XZenyaO6sXdeGpbQu5+cfiQd7KcoBlIiBSA0XhscyAK75/7BRdwD6069K3Z1g7XxssF1OM/F6mhhDLs5asCKQbDDEa9FeAgBXlpMi5j7pHsQRwaKNrL9MJ2iXBOQlqJLNe1mTev3OYQwRqabsbc8tmqV/ZceAaZT5jfaWGkKP1F1A68roPqfGynsShRM/+4B/CyU8PKn6IsmLlhQ==;n9yqOO/OMorSvg21ZVJ5GA=="
 ---

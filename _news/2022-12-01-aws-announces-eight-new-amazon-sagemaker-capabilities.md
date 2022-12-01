@@ -2,9 +2,9 @@
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
 excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-publishedDateTime: 2022-11-30T21:21:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+publishedDateTime: 2022-11-30T21:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
 type: article
 quality: 34
 heat: -1
@@ -47,7 +47,16 @@ related:
         width: 933
         height: 519
         isCached: true
+  - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
+    excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
+    publishedDateTime: 2022-12-01T04:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57729270-thundersoft-joins-the-amazon-sagemaker-ready-program-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
 
-secured: "2W8c6zvMyzg7f5Hhzl/5mxDvRWTv6/JTGJm+uCGGmUqw6rZtpE85uGzu9kKgF89Jkt8eapUosWFky/GmshFGL8v8tSg/GzUSp1bLfPaJdbBFqzBu+f1IekwEWZ+fIjKGowDlAYHJxtvqqBm/9qSDdvQjuNtoqOhwnafoMKO63H5QJbRwDcX78J+v6+ONjydzuBBa9ASrIfMKc9WPZh/KI/OPSKvBp1NyGiEBupahUZDwIzICf87LW3SqoBBTsNohgchxdvEPgAe6ECdEhLLx+5vWTtj4zXno2OGbMCA/Iq7d3M9isuYn8wpCjqIfkVkkBuG7aCtoHAcv6OIMM9AKyUvbCT+1uI67Dj+izmXa5h8=;VRT5GOE5cg5eAGQXwZEvsw=="
+secured: "cwh3RoeXk0rc8RK+dIQ7CxRMxoRcdpEIxK7Qn14u9HPlvQVU2UdCRL94kMeCm1/JxYCri/8AZDFK80s0iYtvaefQ7k96hsNUNSnJLdvOdVQRv9WCKHo6K8r0gBFf71SGtYJ1UbH0YOP4nxC8i2y13GOAltjDw8Bnhhp5I1dYNnvT+FQNcBqtycYLeKEZW1Va3fth/vJF0n9KuX+R9YeCI0TLVBVWhMgv80A+RZXRMrRswnZsggGFNZW8BpNEw+FtmquIbNpjIXE4XHBadGqe80lDkLICIsRfqK/QORBLAAIjERvlxwBpvKLMFHfO6+5ixBt1KdfYYN4pTFbIkI7nBWpe30M57GBDU9wdszqTsAg=;pk02oxHPFezCbliVZoLSHw=="
 ---
 

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth"
-excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
-publishedDateTime: 2022-11-30T19:01:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-fintech-as-a-service-market-report-/2022/11/30/9722271.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-fintech-as-a-service-market-report-/2022/11/30/9722271.htm"
+excerpt: "The \"Asia Pacific Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use, By"
+publishedDateTime: 2022-11-30T16:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29910680/asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologi"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29910680/asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologi"
+ampWebUrl: "https://www.benzinga.com/amp/content/29910680"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29910680"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+    width: 666
+    height: 282
+    isCached: true
 
 related:
   - title: "TechSparks 2022: Growth lessons from powering leading global ecommerce and fintech brands"
@@ -34,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "9BlzAWJ1Fd/hKhGjpYnp+o10Xm2hj7o1qp85PZxYut69BvPuvbR50eVIG8oHkiCOH2aHOUN7G3Kl1AM9OFX8hEgYzFwsGam/JYwW6OR6fNMty8Pnn/F0f7cxPtgHxQSTXpzTCQxt4sM0lqmcUb8XCl6/5rbZ2Iw6TVkpmAExDSI1HX6rXdPmAfzU+jPhlln0jYDq2JMOjBE3KIlKTcat6rNaZmh1QtMjZGHqQAJa3hX7GnA5qB/9PMvAjMgO42SZL4F5IoPAX1JzdgOup/Qy96gNy1iqEXh/L5f9RC3BI71CKnPgKBB+UymHe8Lsp/eXvvqvm7psvEms+yDeu6iM7iNMiQTUiD7ckvB1u85USx8=;zMB8/+50VrS+JLfiS+1pHA=="
+secured: "hSgxSD2EzY9prSMsB/XlQuktUiD1rWwcFsqep7WUBjQK3T8YyTrYXb0RNscj5xnZC4x9JBsDVpLkAeIWXeqEF7WAetQ6vBneJvBLOIuedLd+Ec74H4yYjoE8TKj44Jui8Qotqs0vmNw1IVunOxadxC/h+7qSfK2U8rVlvKx/I6tD2Otg+YbSQtwPMIfrJ5StpSnB+NbGl3eln9uaQT0V07iI6Qy3CVAHLERyhnP0bxxqBPr+wTv9ofiTAo0Lu5ezZCnYREC5X/ZJvoRHWqymYyuRNBd9HuMeUaPxnBYf0QoV9wHYliXujzMoZHRHF6fpssih5XuFvIezk7W56eJEOdRV4BjKl1tekTMegiH5Gc0=;PzqSfB0GMdYUeeaUWfQlLQ=="
 ---
 

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.medindia.net/health-images/artificial-intelligence-based-model.jpg"
