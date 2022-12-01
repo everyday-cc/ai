@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/11/pexels-garrett-morrow-682933.jpg"
