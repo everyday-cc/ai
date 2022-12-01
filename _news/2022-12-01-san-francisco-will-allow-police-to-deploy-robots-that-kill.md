@@ -1,22 +1,30 @@
 ---
 category: news
 title: "San Francisco will allow police to deploy robots that kill"
-excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
-publishedDateTime: 2022-11-30T17:05:00Z
-originalUrl: "https://www.wbaltv.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-webUrl: "https://www.wbaltv.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+excerpt: "Debate on Tuesday ran more than two hours with members on both sides accusing the other of reckless fear mongering. Read more on Boston.com."
+publishedDateTime: 2022-11-30T16:51:00Z
+originalUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
+webUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
+ampWebUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
+cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WBAL-TV
-  domain: wbaltv.com
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.boston.com/wp-content/uploads/2022/11/San_Francisco_Police_Killer_Robots_07710-6386649ea96f1-scaled.jpg"
+    width: 2560
+    height: 1760
+    isCached: true
 
 related:
   - title: "San Francisco will allow police to deploy robots that kill"
@@ -140,6 +148,6 @@ related:
         height: 349
         isCached: true
 
-secured: "EdSH6YQmFxnzMZEeJQ/L8BrQglceQxHnJgMsSHYWjXQAKkQXyB3rpSOqLyXEG58IEpYDjcLyBdtoqDxCFOWN8yPS2LBVMbf43imbQ4NjzBswYii47xGvajissFqZZI3w7xrUC0whtGibUeocvTmCqIfJZpsanitYuPKylA5zpgzV8H6ahbZ5cWcA203Meogg9Lc3l5g+VZjgm1nqih48olUmxvxDTxx5Emyxgxq7N9outUqiuUIuKv6uMQX91UVMlCDv0rdPh7g7d59saEGhqHOuMMKZj6/AOkKl0JcL6sAbVcfDVrlSCGvVdre+SAvkNHw2P0Z0gjtEUXoCUsVScxAGEMSZ+ol2W2NSiI0L4rhDJQLUKiPZ+PXu9Z6dDbKfN8a3TQndTYgQHSadxYFljSavn4y201mR/57SPBNMXerFnd35Yf9Yz29JTI8JlYS7ijY5QwSGRCN7iM5s/v4DObir9ZffJSKaZy1699/F8zzkAd8UCJLknFF/oemEoUqjvt2F3FzIkvN01S9jsbygfw==;Q1zQD5EtNf6tXKXmyVuPMg=="
+secured: "1DNY5IjWOd39xdw3ZHO5vZkD3U7uTD3ZKWZnEVnLkj2htdM0B8NBVAVzMKq2HAyHcFGQ5DJkbYie+UwVPrT8u8qDgCW0Vn+9MEmI2sOvSTnRp5GWZ3P7gpoQJk94YgFZ69kbKMOyJdTfBgjd3h0v8QUeDVgMnJEcGc8hKpDTnN17u78Q1WITCEaBhaFR1Nnbj++HEn22BAAUgJGOeLAQAlyb/YOvbN8EakR7DJU97YiR6AZzVJolNfY8+4zUnoIeBuG6Ypg7wGxv2Ksi1M1Vi7z02bZLYjASq9xqgdgfoO1Z30V1pTAtBI+0TckUC00IRxHiZ+UPuWbMEprzcjpw9N+/Z1H1VL/zshT1VSV+q0c=;4TjlheZPdiv4bUlxUfOssA=="
 ---
 

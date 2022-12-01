@@ -59,6 +59,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "Debate on Tuesday ran more than two hours with members on both sides accusing the other of reckless fear mongering. Read more on Boston.com."
+    publishedDateTime: 2022-11-30T16:51:00Z
+    webUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
+    ampWebUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 59
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2022/11/San_Francisco_Police_Killer_Robots_07710-6386649ea96f1-scaled.jpg"
+        width: 2560
+        height: 1760
+        isCached: true
   - title: "San Francisco will allow police to deploy robots that kill in emergency situations"
     excerpt: "Opponents said the authority would lead to the further militarization of a police force already too aggressive with poor and minority communities."
     publishedDateTime: 2022-11-30T17:24:00Z
@@ -131,15 +147,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
-    publishedDateTime: 2022-11-30T17:05:00Z
-    webUrl: "https://www.wbaltv.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-    type: article
-    provider:
-      name: WBAL-TV
-      domain: wbaltv.com
-    quality: 19
 
 secured: "/ULLcNiT5prUssJ4q4WOjndG1mKeMDWWTR/JR3RhgID1ruZPfFoxOFUhpSJrPPB4LCxQJuOkNewA701bx0zZA3YwfxDkdNbcOeXeBdGnMqJUXApaeOyJRIoEPbCOtKKCobFsLUR4rviV10slq/v4XGMwTTqFhnsKQDq4Pw0L4COaZ672m37e/yT/1vZ+WPcmzFnQLVqW458RdWrzq5oC5EdnCwvNLJ7GCuS6KIXFBZ1g4RplbEiu9w/QGpnnqPgJj+BEO0RQwLQNYF0x4zdU9PH3PpaGZbmmGJBGvU5oqOCskANRb5S2RontJ+2Ui+kaKDFFIK/9eH/nvmvEbJNPuZa7u6VXd2+4nLot/3Li1uk=;qgGKHBoId+4WUvnrT/ab5g=="
 ---

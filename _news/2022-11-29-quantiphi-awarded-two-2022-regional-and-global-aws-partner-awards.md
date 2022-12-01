@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards"
-excerpt: "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers."
-publishedDateTime: 2022-11-29T13:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
+excerpt: "Quantiphi, an artificial intelligence (AI)-first digital engineering company and AWS Premier Tier Services Partner in the Amazon Web Services (AWS) Partner Network (APN), is excited to announce it is a recipient of two 2022 Regional and Global AWS Partner Awards,"
+publishedDateTime: 2022-11-29T12:51:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9720600.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/29/9720600.htm"
 type: article
 quality: 19
 heat: -1
@@ -40,6 +40,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "ZFvrvT1JWexbtyPAQuB282nsxNehlzi99BobNAVZNTjPDZjiuCSIbqJqtuORuHdaLxhxghE5908s47Wl7ks1iGXd43wQ7hhenKXke7LklHcA7gKcFH4BFrvxZYOwXY8vSGm9o2SuAsoTRdN6U7gTKPXhcbUZsUjJtpXeFzOfu/PvigBLWSafFkQU8ofgmIxzHY1ZrsQ7fHNH7h5rQNf8xmjsC9s3aacx58XrDaKvXcfi0wI0xSTMGjx0ZH+STwvjChVxir6WSFIJknPwvVr7TOI63OWrVML7l8P1Qa4nHnQVhVEsnkGSzDOCtzOHgsYcPv8+f9MLo1sCy+jMpfuy6lJGhiUDBLr7LQQ5kwxXm3o=;la2vVKMYfKcyqGt1mPwHrw=="
+secured: "XKvdTEkjYtMJOsrlz+rt74WAIUswxKlpCZ0Tpq4k+caDKKz+y0dzZPinXvAyCeNuHR1+x1h7F6bQhsoPjeQRcAv/JIJxnv+yaqdXzgm/ahwyR2j6hp9wyoAuUBWk8DboAjFBXLXDPeDZW/dmxBazx6OovIbv96GDhiFdvqVyfAC5zAmqWX1xwn4SCYi+cBz+FUxNqtXuWfohoXA58BDC3TLzss3vkI8/zmBed3WQyJeq/FLqfde8rPxWZnLPiTiSFSX5TtDxzip2QnkIsmqbNif7LXZDeUtvrGHGVSm8GMa8j8WW7HRIcM8Pdn5mTDKnye9QPL1fOQmyrkv2zTsaNK/PsoJtMHwPx9afy0UUCHE=;Rks2mOGLdAygqAjkreeuEA=="
 ---
 

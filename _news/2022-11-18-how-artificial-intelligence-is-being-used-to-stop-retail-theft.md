@@ -16,7 +16,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png"
@@ -24,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uMSuq884Wjw996q+x/DV/GDEHLaYFWyY4gCjhnK5oJqDwJtBKY9+HgaJG0zHawEKp+2AVW9umo4lB7QayOcGZ5DVhtejNDfwBIKaRuYegyCeOuiN/Ilis7FWs8VRZ1J/FZJbVBj6PQtiwYxBCKgaoKCl+lQoGv2V+Q9RQxW2eEhIFZ7aaGgM1SxY8o0HWCKN41BN/3WIYkLGKAJVmE4gUf/N6a9mpDNdHd3gAGctRv0GLGjGy37eenoFUBDl7XC0UZR5Kk8xAAHf8pGaYCQLZkSPdAbD1MoyNiFPDfC1LZeF4AmFzBx29lJ9gB6z9gyitTRUCnZb+QjlUXdqd9YKWWfFcX9iSVwLDPO3OFux76A=;cRhm/pAuSGK6asFAj4usiw=="
+secured: "KqYijyYSGJWNQL/1toTyJeGjqL5NFRAtnOjcPxudY4X/fRxsj7gJT+mvE34Q+0fg27zFsotFA+upab1CWgNozb7qijU5MfVN7MXudP8vODpdMdw5sPKgh6+uih3GjbYOXXKEa9x3xLy+A321GrtaZM/hhcALGHriM2Sqf85+Vj0HQ+NpVcf8junu9ROXzjl96Gy5q+LqalSM14cLa4E0cZsGlfOIzcof3tQpNfln3EtABh5zCttlGpLdoMfzny/dwp+PXIqJrCjwAS/rKxfcpbeMQ4hZg2Cfb8p8jHqsnohxC3YuaMPdDYrDBtdisOkk/+Mi0Dy3nt3Cr65DQXrqxYsrKVRRKyFFWVMOQP6pbd8=;8RPiVU4Akr+aSGcCt/9W+g=="
 ---
 

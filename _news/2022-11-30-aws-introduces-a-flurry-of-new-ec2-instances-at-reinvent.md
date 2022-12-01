@@ -92,6 +92,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 36
+  - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
+    excerpt: "Invent – EOT (embassyofthings.com), a leader in software for energy, manufacturing and the Industrial Internet of Things (IIoT), has been working with Amazon Web Services (AWS) to develop two plug-and-play software-as-a-service (SaaS) solutions,"
+    publishedDateTime: 2022-11-29T14:13:00Z
+    webUrl: "https://www.eagletribune.com/region/eot-reveals-industrial-iot-asset-modeling-and-visualization-solutions-at-aws-re-invent-2022/article_40052da0-c87e-5474-b1b5-1f242917137c.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 29
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/7e/67ef45b3-cb79-5354-9369-8f8b4a808054/63862b08cea6b.image.jpg?crop=1924%2C1010%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent"
     excerpt: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent - SiliconANGLE"
     publishedDateTime: 2022-11-29T23:10:00Z
@@ -133,15 +147,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 14
-  - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
-    excerpt: "Invent – EOT (embassyofthings.com), a leader in software for energy, manufacturing and the Industrial Internet of Things (IIoT), has been working with Amazon Web Services (AWS) to develop two plug-and-play software-as-a-service (SaaS) solutions,"
-    publishedDateTime: 2022-11-29T14:13:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/eot-reveals-industrial-iot-asset-modeling-and-visualization-solutions-at-aws-re-invent-2022/article_589953ad-93d2-5de1-9a33-a8e3f8f63a5e.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 9
   - title: "Informatica Unveils New Innovations in Cloud Data Management Services at AWS re:Invent 2022"
     excerpt: "Informatica supports various AWS products and services at the product level to bring best-of-breed cloud data management capabilities to hundreds of mutual customers including Freddie Mac. Informatica is announcing the following new capabilities at AWS re:Invent 2022 today: Informatica Data Loader is now embedded directly in the Amazon Redshift console,"
     publishedDateTime: 2022-11-28T16:45:00Z

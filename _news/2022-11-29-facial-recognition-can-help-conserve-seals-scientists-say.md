@@ -97,6 +97,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For seamless travel, govt to launch facial recognition-based entry at airports today"
+    excerpt: "Digi Yatra is conceived to achieve contactless, seamless processing of passengers at airports based on Facial Recognition Technology (FRT). The project basically envisages that travellers may pass through various checkpoints at the airports through ..."
+    publishedDateTime: 2022-12-01T07:32:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221201/4009643.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 27
   - title: "Scientists are using facial recognition software to track and protect seals"
     excerpt: "Marine biologists are taking a controversial technology associated with surveillance, and adapting it for science and conservation."
     publishedDateTime: 2022-11-30T19:00:00Z

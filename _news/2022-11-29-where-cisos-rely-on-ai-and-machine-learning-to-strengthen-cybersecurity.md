@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/"
 type: article
 quality: 112
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -35,6 +35,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI enhanced cybersecurity services firm takes AIM on next chapter"
+    excerpt: "A Cork-based provider of AI enhanced cybersecurity services is to seek admission of its shares to trading on AIM, a market of the London Stock Exchange."
+    publishedDateTime: 2022-12-01T08:44:00Z
+    webUrl: "https://www.insidermedia.com/news/ireland/ai-enhanced-cybersecurity-services-firm-takes-aim-on-next-chapter"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 39
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-49913-1634028012-58353-1644911410-72931-1662533995-77189-1667894119-%281%29-78839-1669881083.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "AWS launches new cybersecurity service Amazon Security Lake"
     excerpt: "The service automatically centralizes security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account."
     publishedDateTime: 2022-11-30T14:12:00Z

@@ -41,6 +41,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Amazon to Warn Customers on Limitations of Its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-11-30T17:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Amazon to warn customers on limitations of its artificial intelligent"
     excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
     publishedDateTime: 2022-12-01T01:24:00Z
@@ -57,19 +66,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon to warn customers on limitations of its AI"
-    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
-    publishedDateTime: 2022-12-01T05:07:00Z
-    webUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
+  - title: "Amazon’s Customer Obsession Takes a New Form"
+    excerpt: "AWS announced AI Service Cards, a resource material for its business customers to understand its AI services better and use the tools responsibly"
+    publishedDateTime: 2022-12-01T06:49:00Z
+    webUrl: "https://analyticsindiamag.com/amazons-customer-obsession-takes-a-new-form/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS"
-        width: 1200
-        height: 676
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Amazons-Customer-Obsession-Takes-a-New-Form.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "5+IkYVjEN8QoZxnMrxTsUpBl9Xe0nQXunajentGkWsuIKpu3crFJUm1k+TU6KLqsUymixlccLR4WhuwrCYZFd4eOlUdqVLQ0pW558R+DYprDxZvHAl5L55ayz9WoKo+TtC2OKi2evNjP0DrCP9D8YvRk6WxO4T3VYQkejQuDTaKNQ4kFK8gPrMtNvKjyiuZWkVXNeynsAzohuYviw3Y+Ranbiets+mQ1UFSzHPd7F/jjLk1r4reNuH1M0ctxwCA0YsWGezauVsiPaxdR31eTJRo6lu+rRzvcW0DBTN2O8b7OdkAe8fZvoeNnaskxDQgkj/TweqBMJUGO067o6iC7Ovzt/sSMkt2Lrz/9sWz+h0M=;Tejt+Ri16UsqvPIS70D/zg=="

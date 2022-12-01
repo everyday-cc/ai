@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitati
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon to Warn Customers on Limitations of Its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-11-30T17:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Amazon to warn customers on limitations of its artificial intelligent"
     excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
     publishedDateTime: 2022-12-01T01:24:00Z
@@ -44,20 +53,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon to warn customers on limitations of its AI"
-    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
-    publishedDateTime: 2022-12-01T05:07:00Z
-    webUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "How AI speech technology is helping NHS organisations stay on top of documentation"
     excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
     publishedDateTime: 2022-11-30T08:14:00Z
@@ -71,6 +66,20 @@ related:
       - url: "https://static.independent.co.uk/2022/11/29/10/Main%20image%20-%20T-Pro%20-%20Courtesy%20of%20T-Pro.png?quality=75&width=1200&auto=webp"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Amazon’s Customer Obsession Takes a New Form"
+    excerpt: "AWS announced AI Service Cards, a resource material for its business customers to understand its AI services better and use the tools responsibly"
+    publishedDateTime: 2022-12-01T06:49:00Z
+    webUrl: "https://analyticsindiamag.com/amazons-customer-obsession-takes-a-new-form/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Amazons-Customer-Obsession-Takes-a-New-Form.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "jgXePcVJT3TbkEMomLV+f0Rj9adp0K2c5dYWD4pmnF65xRUwAky6snFh32aEjnNNJ6PvYS+fdhliaaxLxHWGNC0SxLW5dxA4hS6dA+XAxkhg1koQDhoEo5Fi4hvAzszL/iKaGg4cyvjrOhEqKGf9GDmTfg9vG44clnTdOSpoYZKD4TWOQfIYLeyPcOdodtyLLMdmuoj8FNRAnKVFS4hbHnenU0iGLCY+H17LTt2t5KEPAuA5RWDHuQCdK3BiLmilL3pqIfsigaqg/IcAJ4QVb5NffiY7Fe6NYcHVy4wHfIfOdPUhU7NqM0NTu4ZPGIWsL+oAX//AA1r32wQ33vexIKc+2+YOWQuqep9USYukRogCMYWOXhA4qgS44hmFLdLTaDb4u4ioKLKwR64rwnYgmdNySry7t74WzFxYwIkcjPOc4AxuyW7nHbSVxPbIZBfojea1FExFE+vizSfy9PlD5d1tup57lymiR48zBtlWK3cST7pH+Toxv5Uinsxm1AAlJrY9lsvYtsib+jAb3sCkRg==;L0v9omAmk2gf2Jy4wKbvAQ=="

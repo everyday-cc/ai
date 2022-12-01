@@ -104,7 +104,7 @@
       "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -977,40 +977,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-25-global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-boosts-adoption.md",
-      "title": "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption",
-      "excerpt": "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period. The major opportunities for the edge AI hardware market include the growing demand for IoT-based edge computing solutions and the rising adoption of 5G networks to bring IT and telecom together and dedicated AI processors for on-device image analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/24/9719518.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/24/9719518.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-25-review-shark-ai-ultra-2-in-1-robot-vacuum-and-mop.md",
       "title": "Review: Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
       "excerpt": "So my expectations for Shark’s new AI Ultra robot vacuum were very low—especially ... If you want to be able to start the vacuum from your phone, without carrying it into the kitchen, you ...",
@@ -1059,6 +1025,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-boosts-adoption.md",
+      "title": "Global Edge AI Hardware Market Report 2022: Exponentially Growing Data Volume and Network Traffic Boosts Adoption",
+      "excerpt": "The edge AI hardware market is projected to grow from 1,056 Million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast perio",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29852870/global-edge-ai-hardware-market-report-2022-exponentially-growing-data-volume-and-network-traffic-b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
+          "width": 666,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29852870",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852870",
+      "publishedDateTime": "2022-11-24T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },

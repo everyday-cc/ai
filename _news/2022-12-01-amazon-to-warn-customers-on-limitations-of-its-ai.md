@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Amazon to warn customers on limitations of its AI"
-excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
-publishedDateTime: 2022-12-01T05:07:00Z
-originalUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
-webUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
+title: "Amazon to Warn Customers on Limitations of Its AI"
+excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+publishedDateTime: 2022-11-30T17:07:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Amazon To Warn Customers On Limitations Of Its Artificial Intelligence"
@@ -71,7 +69,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon’s Customer Obsession Takes a New Form"
+    excerpt: "AWS announced AI Service Cards, a resource material for its business customers to understand its AI services better and use the tools responsibly"
+    publishedDateTime: 2022-12-01T06:49:00Z
+    webUrl: "https://analyticsindiamag.com/amazons-customer-obsession-takes-a-new-form/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Amazons-Customer-Obsession-Takes-a-New-Form.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "VGSjZ/D5HT8t1CPcYs4YZRkbxJCWYc71/Wkj8I/hC11Q5741S1GfUwXpSaAaPfiCwibwo10yAywD3DV6auvrTsPx0BT4CVO4jF1Eo8f0FttGkl4Bh4DbknwHbgkxK+BahHWD5WMZo6WWrOdg1kH/L4DrWC1Sa8DorBiMiAMchWOcrMhxHwS7Ka2DnqgfnQ4oSzhspv5eUEs+Tek/9qB8KTDc4YOKfpzPzlw5zVo5yOMpCAu8kwHniaWyyRkrfi+9xUXPMI/+5a+b/F0/fbtLGRlr/4ahTRvKY1krPgWCgZpPici6Q/0MmvE7QlvtuGgAWbmXJ8ePPT3IFciaref1M5bDUOig1Hpk5iQmsHuPDkc=;KNw9fryxjp6tSQozgQjHHg=="
+secured: "6F0w+30tPD/a4lUdl3LzxJjgQbLHyqJ4/C2UXbS8/sOmtiqf40a6VgeioeHUOHOVe9UUqHocMauq+whwLFwHEmT/PgSEiA94dQ8nNNYmTmJZKlSuUszfKe7vSjjrnQLK5rdt6q7/oWJU7j9AEBGHuS06Vg7EpLANUtOPgo6wDNOTv+mGJx1tYn/hAK7rTB1mgIm2BU3jx3xfo/gqrvSOIixeHyFjo8KlvyxlSOJxWlUUqf3Qc9uSRjnCPLP4VghucAtBc1DDNlkEUIVW7ieS7A+1u+ekmsz4UNzC+flb/jyw5+zz3Tq1kHf5tN2OUlZn0rfcnH3aefpaCZjb0wXutNCUlDv1qcRYbZlaICkXO8tC2F+ZtCaR1Nalxn0a+Vix+Ezje9XCaGcO75hqZKTRvOC7l4ui6/w6nTZVTvzHkCtsYwBRUPOftOnkawgl5xIXp1ps+p1tixW3ZclHyxNWlt77VhoeBB2T/KISDHFrhebWGFBLweOPLI/7OxHyQetlpIxhAR0bpg5vxpSWS0VFEA==;j7wJXGTiQoFJnOrrTvXp2A=="
 ---
 
