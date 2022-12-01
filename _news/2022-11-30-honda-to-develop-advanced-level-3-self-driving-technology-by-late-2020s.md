@@ -57,6 +57,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Honda Pursues Advanced Self-Driving Technology"
+    excerpt: "Reuters / STEPHEN LAM Carmaker Honda on Thursday unveiled the company's plans to have fully developed self-driving technology by the end of the decade in an effort to improve road safety. Honda's level 3 self-driving capability,"
+    publishedDateTime: 2022-12-01T17:28:00Z
+    webUrl: "https://www.ibtimes.com/honda-pursues-advanced-self-driving-technology-3642475"
+    ampWebUrl: "https://www.ibtimes.com/honda-pursues-advanced-self-driving-technology-3642475?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/honda-pursues-advanced-self-driving-technology-3642475?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://d.ibtimes.com/en/full/3565935/cruise-origin-autonomous-vehicle-honda-general-motors-self-driving-car-partnership-seen.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Honda to develop technology enabling Advanced level 3 self driving technology"
     excerpt: "Honda said it would develop technology that would enable level 3 self-driving capability. It will function at any speed."
     publishedDateTime: 2022-12-01T03:38:00Z

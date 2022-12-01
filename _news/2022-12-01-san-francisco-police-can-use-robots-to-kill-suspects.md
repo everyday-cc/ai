@@ -133,15 +133,15 @@ related:
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
     excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
-    publishedDateTime: 2022-11-30T02:38:00Z
-    webUrl: "https://www.stltoday.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_a2d96dea-7af1-5220-913e-b5620a5f8022.html"
+    publishedDateTime: 2022-11-30T03:37:00Z
+    webUrl: "https://azdailysun.com/news/national/san-francisco-may-allow-police-to-deploy-robots-that-kill/article_9d1845b5-b176-5f09-923e-4c6395f1f1bd.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Arizona Daily Sun
+      domain: azdailysun.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/8e/88efc3bf-371c-5b1d-870c-87c14d18b79d/63866850a8945.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/9/1c/91c16613-507c-5cc2-a9f1-f0e193f91a32/63866890062f1.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

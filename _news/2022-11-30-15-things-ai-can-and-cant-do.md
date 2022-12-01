@@ -104,15 +104,22 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Amazon to Warn Customers on Limitations of Its AI"
-    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
-    publishedDateTime: 2022-11-30T17:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+  - title: "Amazon To Warn Customers On Limitations Of Its AI"
+    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
+    publishedDateTime: 2022-11-30T16:09:00Z
+    webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+    ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Westpac among founder members of AI consortium"
     excerpt: "Westpac has joined with five other organisations to form a new consortium to drive leading-edge research into responsible adoption of artificial intelligence in the finance sector."
     publishedDateTime: 2022-11-28T10:32:00Z

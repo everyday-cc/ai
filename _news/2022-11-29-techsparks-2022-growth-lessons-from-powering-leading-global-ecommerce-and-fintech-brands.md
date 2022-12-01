@@ -28,7 +28,7 @@ related:
   - title: "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth"
     excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
     publishedDateTime: 2022-11-30T19:01:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-fintech-as-a-service-market-report-/2022/11/30/9722271.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722271.htm"
     type: article
     provider:
       name: TMCnet

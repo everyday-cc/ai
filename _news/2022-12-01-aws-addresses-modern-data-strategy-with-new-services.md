@@ -24,17 +24,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "AWS and Atos Strengthen Collaboration with New Strategic Partnership to Transform the Infrastructure Outsourcing Industry"
-    excerpt: "As part of the agreement, Atos will proactively consult with more than 800 managed infrastructure services customers spanning the globe to offer a new managed, hybrid-cloud service portfolio that features the option to move selected workloads to AWS."
-    publishedDateTime: 2022-11-30T18:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722251.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "Vp1/B1M/JhMyrFmLvR4JsA0R59XkPjwjc7Uc6msUJ8hJcau3LNXob0dFuTa26+ixiQsFkuLgIHEIe2AFCR26QHo4oGKpxnko5Eu5QxjlTYUXyWQCo73TVK6pQECGWNi6nLoAoWrMkaUwE4YFKEqDC1uQjb6Gs6UbhJPq9dWilH3ESzR5IZaxHgS2IG2azsVCtiUH/lJMwVLIn2KqgQntHv+lsSCZgFBh3F+Qa+zwu8Tyki3nO77cBJcKHdcILISD4JRVYnLzbfjOLFj/+/VM5ETnULeeea2CAppo0Oyr278igcSrS3HseFrTf2coZ3nr8bi1YWPHd3jR7rMYjMVI9Ce/XBpHYNWW1gj+H3deo2wQR1Ln/IiqZ2VhMbE8nMXr7aPcBGG7u75/3DWXDS5YB+o5RIyaGXoF7LkcACUjEOfi9wfE5WzwHktjg4hh4zwW8d59QyF02uLHqhQH1vKkDbj6t7RexBbvkcQK1AM/JkCJB0X74feCNMSHesa85NttORo1GxgvN2Q0nitrdB+EcA==;ji9bLji2UowMWg/83AtnmA=="
 ---
 

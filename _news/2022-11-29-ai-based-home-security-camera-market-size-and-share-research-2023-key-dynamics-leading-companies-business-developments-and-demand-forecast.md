@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Drug Discovery Market 2023 Recent Trends, In-depth Analysis, Size, Share, Future Plans, Competitive Landscape and Forecast Period 2028"
+    excerpt: "The ”AI Drug Discovery Market“ report offers a detailed analysis of the current market situation, as well as gives"
+    publishedDateTime: 2022-12-01T11:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-drug-discovery-market-2023-recent-trends-in-depth-analysis-size-share-future-plans-competitive-landscape-and-forecast-period-2028-2022-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Artificial Intelligence (AI) In Remote Patient Monitoring Market Size With Future Trends And Share With Revenue Forecast 2023-2033"
     excerpt: "Europe Artificial Intelligence (AI) in Remote Patient Monitoring Market <br />to Grow on Account of Rising Expenditure on Healthcare in"
     publishedDateTime: 2022-11-28T01:30:00Z

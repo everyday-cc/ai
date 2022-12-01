@@ -87,19 +87,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Stability AI offers generative AI models that create text, images, audio, video, code, and more from simple text instructions. Generative AI or foundational models—models that are adaptable to a variety of tasks in domains such as language,"
-    publishedDateTime: 2022-11-30T20:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider"
+    excerpt: "AWS has announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as"
+    publishedDateTime: 2022-12-01T16:28:00Z
+    webUrl: "https://www.datanami.com/this-just-in/stability-ai-selects-aws-as-its-preferred-cloud-provider/"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 52
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://www.datanami.com/wp-content/uploads/2022/10/stability-ai-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "AWS doubles down on data management"
     excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
@@ -130,7 +130,16 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 36
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
+    publishedDateTime: 2022-11-30T22:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 32
 
-secured: "MvcG/xFybsRgCIWghFKE/MmXQAmxMzhRsaA/5Uu/6l1010CndsEcTd3157BJMshZuqyUA/sM+nmQdPUoc619fnO09uEdvTSNo9880vV3LG+HcW8oEiw2nFihiq/Vc5TMhejaSdCwOJKIhUY5xiRRlvl52JagYe5g/DCckoVgg6I3VhUEGk9NJXwUjeYks68OWkQIalupZsTV045y/Ku0MRvaV2uG2/O0KJsG8xXfrMwnUv6729QciY8rXpLCmhAVRRfXkvtl95/uGY8Nlp/BJyLXeBrRjp1paRhewzxQM2pgr87owS3fjMi9JEXyJ8YNJIFMyMQmjlrm5F0nV5Jr/Au/h6LI+c2IXoawzf29IMY=;gH18m1RG3HG6BMeh0GTuoQ=="
+secured: "r0SUgoU6c2l4kDlHb9OZ6xzTKMFJ0kijWZ4XhQ1NYElISL2J6p6CT+1X3Ca6TFWpTGk/2YN7EtD/OtneGJkfZVvRWVsT4SYVfgMFhsYo7bPhu/PJ2HrAnYwoklFbGezKE/EC3hATeF5XGE0D0yn05HMoIMbuKWHJE1VgObdftfz3nQi9SKxhFfp8SZLPDmAHXfzNiOE7pbyGckc3XZ5WsfTNmyRHVKa+aVARaLAJhsh25FyEJAJ1NdoT748xNoH3ynaOMhOJIdxTNHnM436lGPex7+toudh76UCccOOpW3fH6qCmQZCXkycTDMCaI86FAUzSX28Q9ollxHcGwLBgDrmdczKFcbmq+CBQkv+jMtfS6FhlwdxoSpE9W7IaOFYn2H13WdikHAfF/SvX0FZLa0N8CPbkKcycEt7Ay1DFaoe1/QfAsPBRQDtiJMtV2p2y7vZJouFqP8c6jm9dcvfDrd65jrGQv1xc/wCpuUU/mpCPAqeYMiZu3gaCT5Z6/n8tAFxKmothRD4wTEsDziLqBg==;pipkoE9ZFaUgcmxV2p7aNQ=="
 ---
 

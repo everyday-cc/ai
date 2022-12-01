@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/ai-robots-used-enable-faster-000100244.html"
 webUrl: "https://www.aol.com/ai-robots-used-enable-faster-000100244.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial intelligence and robotics to help early detect urinary tract infections"
+    excerpt: "A team of researchers at the University of Edinburgh and Heriot-Watt University are developing AI and robots to detect urinary tract infections (UTIs) earlier."
+    publishedDateTime: 2022-12-01T17:24:00Z
+    webUrl: "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm"
+    type: article
+    provider:
+      name: Heriot-Watt University
+      domain: hw.ac.uk
+    quality: 63
+    images:
+      - url: "https://www.hw.ac.uk/img/Pepper.png"
+        width: 705
+        height: 371
+        isCached: true
 
 secured: "PvCa7aThcRaGfoUKuv8OSlbMC0ZNXX9FtuoeLuI56SIblUXx4oSQj6pOl23MWF4GCtp3WMoz+Ub8p+JB+mCm/zj4X4DAZ06rOMh7JaMRBvJ9v/JYYJ4zKqylsDPDH2XTlFSyGCwE5PrHtMGQP5vS0K+f7CyqymG7s6E5Y/xzTbl9Q21XZPLfjDyODhzPzZk7EvbMJt7lVFmSZupMRV9Rc6fuxlwjO9MgmiTL3coSGZxcrCOfYRFs+vYVICRCH5RfJI6SPMVBckX9pgA9sietEfeBuszmEt/o9cTtYQoaIYR0R9V8YKNgwaMGTpAJBeOx+IkTWnCcC13PHv4EpI3dLgR8YWuMGt4HviCuaAGs/fKtqzQdoudRISNM4nFqQGOWXni/0tMsEPxy6a9OdUJkf+Iva09WlZfa6woUzu0ZUNRXJ+a1uTI3j6sgynb5hzRuZVz1caAolOwCW9XLvLFJOGAAGvnu0jHcZVSXLsrWLVS81pa6qCX6j4ffnxyntohbduXr3UE3u69DisTIkBODvQ==;WbDNE5cd29PKKDtalnnhsw=="
 ---
