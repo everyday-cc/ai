@@ -69,6 +69,15 @@ related:
         width: 1036
         height: 816
         isCached: true
+  - title: "Remembering The AI Tailwinds: Nvidia And Micron Thank Meta Platforms"
+    excerpt: "I called AI a tailwind during this recession-prone economy. See why Nvidia and Micron are prime beneficiaries of this train gaining momentum in 2023."
+    publishedDateTime: 2022-12-01T13:15:00Z
+    webUrl: "https://seekingalpha.com/article/4561691-nvidia-micron-thank-meta-platforms-remembering-ai-tailwinds"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "loYbNmMYmkm41nrswfQ+hoi2rspby6upYTnw33hTp7m6+omnsTTj5jKBb6HCZk+JO07FJYPMw53ZzA9JWQQ5h3mn17/K6aM4tlAounxqfmtGZVeQRy5TpyqGtVRVbqoQLA+lWVKDlFtVHcfXkt370yoigc919WHcmw/0IdtA4J5VKz0ODtTgrUvIdTo5cMebNsz/2UlVwq3+aJC3Ct5WE2fy4gCfCIFX/oo5XNrsfsKT7UkjdGBq7GPT9ECFaO/0PKh1rHJfa8YhxFcIkdnVWD1+kddgvESU2MsMWiFDiT3P1GssAcBsguz94ac370XmmBVLL2LLgbABFiIJ2VCbT7OahtL1YKXotbDQeWJErgfotpQxSNf7+wRZ6DYEvXEvPnDiSJYuNFitpSfnVldCfGtOg2Hy4eKlMAjfizO5HJEGKBWPwfLNBu3t9oRHCMjqWOdTErwdAZOCgc1XZYOCYfoK389oBrucVPcvqIm5vDWQs/HidJ4BoD+J3I9g3tN+Ke4LP6naQrlF1KbpxQw/Rw==;viw0j3JLB+rmCLWtyZ/yig=="
 ---

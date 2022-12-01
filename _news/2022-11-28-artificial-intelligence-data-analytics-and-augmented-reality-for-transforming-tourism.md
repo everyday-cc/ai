@@ -9,8 +9,8 @@ ampWebUrl: "https://www.traveldailymedia.com/artificial-intelligence-data-analyt
 cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Travel Daily Media
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using Advanced Technology And Analytics To Fight Financial Crime"
+    excerpt: "Financial services organizations increasingly are using advanced ... to increase efficiency in identifying suspicious activities. Among various analytics, machine learning (ML) has been particularly effective, as it can identify patterns of behavior ..."
+    publishedDateTime: 2022-12-01T16:29:00Z
+    webUrl: "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/"
+    ampWebUrl: "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637cff7eadf891a4d51a9f12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools"
     excerpt: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools - SiliconANGLE"
     publishedDateTime: 2022-11-30T23:32:00Z

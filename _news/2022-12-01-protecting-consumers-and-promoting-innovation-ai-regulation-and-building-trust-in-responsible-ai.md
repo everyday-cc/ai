@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T14:01:28Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/protecting-consumers-and-promoting-innovation-ai-regulation-and-building-trust-in-responsible-ai/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/protecting-consumers-and-promoting-innovation-ai-regulation-and-building-trust-in-responsible-ai/"
 type: article
+quality: 55
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -18,6 +21,49 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Sparking ML-Powered Innovation In The Telecommunications Industry"
+    excerpt: "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges."
+    publishedDateTime: 2022-11-29T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/638632091b6e0dff39cd891c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The role of Data driven innovations in shaping the future of healthcare"
+    excerpt: "Data-driven innovation will help us further modernize, streamline, and simplify the health system. Stakeholders recognize the potential of machine learning, analytics, and other advanced digital tools in healthcare."
+    publishedDateTime: 2022-11-27T09:28:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95803977,imgsize-655400,width-1200,height-628,overlay-ethealthworld/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
+    publishedDateTime: 2022-12-01T16:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/12/01/9723031.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "qzN5Rsgob/dcIjkLLEcwa6pa2mf3B1j0thewsJQ3ajcJlR/+pcdC1Qf+Ycaz3RVPT4D0nBqQb4CxRQ6i86uofeREsEm8ZATH/7iALQzbWsMJMXcfTv44ynD/NK3A1aL+AXrHlyBTjDOxPnmwA/le1YQ4YwRFexKcb6JfQkIilKivsg1KNA3GWDixjSQKXIkVQgPTX6DpwtPL7VRho78cwUQjTm5RTIf9SEATJHrOpKZuv2/ZaivCCIxzq7NTaBJjhehltGvCV8xGwCGZO9fmKrXghloYSjkJGQPETNzQw8DhbxJ/xRVFspqjCwwJm3FDki8+OyqskUOf8cfLo/p6mwZKrXx3gL57wK1rg7tH+I8=;1kydQvUez5rWwEeC1M8aIQ=="
 ---

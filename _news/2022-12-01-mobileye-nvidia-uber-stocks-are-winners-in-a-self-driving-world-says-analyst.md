@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T13:51:00Z
 originalUrl: "https://www.barrons.com/articles/mobileye-nvidia-uber-stocks-buy-self-driving-car-51669902403"
 webUrl: "https://www.barrons.com/articles/mobileye-nvidia-uber-stocks-buy-self-driving-car-51669902403"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Barron's

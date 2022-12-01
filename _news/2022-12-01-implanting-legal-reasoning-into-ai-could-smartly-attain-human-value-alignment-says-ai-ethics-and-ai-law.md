@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T11:59:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/01/implanting-legal-reasoning-into-ai-could-smartly-attain-human-value-alignment-says-ai-ethics-and-ai-law/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/01/implanting-legal-reasoning-into-ai-could-smartly-attain-human-value-alignment-says-ai-ethics-and-ai-law/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Forbes

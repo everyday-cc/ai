@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
-    excerpt: "\" Artificial Intelligence in Precision Farming Market \" Insights 2022 - By Applications (Experimental Study, Farm Management, Private Planting), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
-    publishedDateTime: 2022-11-27T00:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Recommendation Algorithm Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
     excerpt: "\"Machine Learning Recommendation Algorithm Market\" Insights 2022 - By Applications (Entertainment, Retail, Others), By Types (Service, Solution), By Segmentation analysis, Regions and Forecast to 2028. The Global Machine Learning Recommendation Algorithm ..."
     publishedDateTime: 2022-11-27T17:01:00Z
@@ -75,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
+    excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-12-01T12:56:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-1-global-machine-learning-as-a-service-market-report-2022-to-2028-players-include-oracle-google-amazon-web-services-and-ibm-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 1
 
 secured: "OOczdLob2Wbpd8+ZkN22ThNDRga+e3KBat/xlUD5gYzkxq2eUpk/VVst45lU/9UqHQN/oOC6X8BabWy4BBtSpgHlRodmALEyKbMYkn9CHoQz5s0fcOyTcgw9uqDqsMf4Ix6vaz/FgNiGBDEO7hDHQhuPEVFXGzHbW8IUf+huaxfPTkYUxDrqWB/LJW77jZpqKfSBagc8XHw5EmFChpP6/Ube1Oi7m4YZsLXWkNj1cZuJQlFgSZE+1COQMGGvYS4KfeEXqv8FSdkU7sRw80VhZOg75GMc3lvXfexjNawsL65lKwITS2OdiHaS46g6MbdMHcn2kGNlxHBYLu9oLOg34kkLt5nXz9mD9iIGZv+m6Z8=;AYwDid6F+kUPVXlNk/xlPw=="
 ---

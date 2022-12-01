@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T13:30:00Z
 originalUrl: "https://news.crunchbase.com/venture/interesting-deals-startups-november-2022-names-resorts-ai/"
 webUrl: "https://news.crunchbase.com/venture/interesting-deals-startups-november-2022-names-resorts-ai/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: news.crunchbase

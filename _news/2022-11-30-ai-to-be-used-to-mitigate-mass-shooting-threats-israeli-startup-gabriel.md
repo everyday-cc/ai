@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Israeli AI Combats Gun Violence In USA"
+    excerpt: "Gabriel, an Israeli startup, uses artificial intelligence that detects weapons and gunshots to combat gun violence in the United States."
+    publishedDateTime: 2022-12-01T14:22:00Z
+    webUrl: "https://nocamels.com/2022/12/israeli-ai-combats-gun-violence-in-usa/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/10/Depositphotos_462428896_XL.jpg"
+        width: 1150
+        height: 590
+        isCached: true
   - title: "Israeli startup adds AI detection to stop US' active shooter epidemic"
     excerpt: "In response, one Israeli startup has been working to put an end to violent threats ... saving precious time and lives. Through AI-based sensing, automatic alerts, and instant visibility, Gabriel provides workplaces, communities, and first responders ..."
     publishedDateTime: 2022-11-30T08:25:00Z

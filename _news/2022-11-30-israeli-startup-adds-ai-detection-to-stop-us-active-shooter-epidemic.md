@@ -7,7 +7,7 @@ originalUrl: "https://www.israelnationalnews.com/news/363682"
 webUrl: "https://www.israelnationalnews.com/news/363682"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Israeli AI Combats Gun Violence In USA"
+    excerpt: "Gabriel, an Israeli startup, uses artificial intelligence that detects weapons and gunshots to combat gun violence in the United States."
+    publishedDateTime: 2022-12-01T14:22:00Z
+    webUrl: "https://nocamels.com/2022/12/israeli-ai-combats-gun-violence-in-usa/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/10/Depositphotos_462428896_XL.jpg"
+        width: 1150
+        height: 590
+        isCached: true
   - title: "AI to be used to mitigate mass shooting threats - Israeli startup Gabriel"
     excerpt: "CEO: “We can now take proactive steps to protect precious lives and prevent the common pitfalls of active threats such as human indecision, delayed calls to 911 and misinformation.”"
     publishedDateTime: 2022-11-30T14:29:00Z

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "N-iX, a leading European software development company, has earned the Modernization of Web Applications to Microsoft Azure advanced specialization. It is a validation of the company's deep knowledge and extensive experience in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2022-12-01T15:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
   - title: "Lawsuit against Microsoft takes aim at the way AI is built"
     excerpt: "In late June, Microsoft released a new kind of artificial intelligence (AI) technology that could generate its own computer code. Called Copilot, the tool was designed to speed the work of professional programmers by suggesting ready-made blocks of ..."
     publishedDateTime: 2022-11-27T22:20:00Z
@@ -53,20 +62,6 @@ related:
         width: 2560
         height: 1696
         isCached: true
-  - title: "I/ITSEC 2022: VRAI to collaborate with Microsoft on next-gen sim capabilities"
-    excerpt: "VR simulation solution company VRAI will collaborate with Microsoft to provide simulation capabilities to defence customers, the companies announced on 28 November at I/ITSEC 2022"
-    publishedDateTime: 2022-11-28T21:00:00Z
-    webUrl: "https://www.shephardmedia.com/news/training-simulation/iitsec-2022-vrai-to-collaborate-with-microsoft-on-next-gen-sim-capabilities/"
-    type: article
-    provider:
-      name: Shephard Media
-      domain: shephardmedia.com
-    quality: 51
-    images:
-      - url: "https://www.shephardmedia.com/media/cache/images/images/article/react4/edb5d64610f439930a1acb67142e3ee5.jpg"
-        width: 760
-        height: 505
-        isCached: true
   - title: "Microsoft, Other Defense Firms Team Up for Modeling & Simulation Work"
     excerpt: "Lockheed, BAE Systems, and other firms are using the Seattle giant's Azure cloud platform to develop training and what-if tools."
     publishedDateTime: 2022-11-30T17:01:00Z
@@ -81,6 +76,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "NOAA, Microsoft Will Advance National Climate Efforts Through Advanced Tech Partnership"
+    excerpt: "Microsoft’s cloud computing and artificial intelligence tools will help NOAA further its climate and weather predictions and forecast modeling through research and development efforts."
+    publishedDateTime: 2022-11-30T16:17:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/11/noaa-microsoft-will-advance-national-climate-efforts-through-advanced-tech-partnership/380284/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 31
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/30/GettyImages_988302516/860x394.jpg?1669825063"
+        width: 860
+        height: 394
+        isCached: true
   - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
     excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
     publishedDateTime: 2022-11-29T14:28:00Z
@@ -90,6 +99,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Edge Impulse to Lower Barrier to Machine Learning Application Development Through Software Integration Collaboration with Renesas"
+    excerpt: "Edge Impulse, the foremost development platform for ML on edge devices, today announced a joint initiative to advance professional machine learning implementation by bringing Renesas' DRP-AI Translator software directly into Edge Impulse Studio."
+    publishedDateTime: 2022-11-28T14:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/28/9720074.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "3YnVHmVmpaNk9W33ste79W2VfVhLgFK7f1BZZ5UcoxWNek0ewAu+lB2pO8ECKPGf27eWRMrN7eO3V9FbWpLcz/k9Bv/hUg8X8oz1eye0O9QJqo6sXqIHDjr4Co6hkCI2EHDr8oQTpAuoaHgR1CM3R/duW5ksyyAq+bGuHk5ixdPr7lfOIX545XeQX/Z51YukHw5YUTwJA2Q9j7WhaGQnMhXfVHdk98wbJ3HVtU1b3Bwkmtli2qnM6xxbYNeLUo+PfeWIqd5D2Azix5LURm4SBRCdLlJtQWlaM7QTS+EuxRPALMWBnsCwiVw8cGjVeSvDUuu8Q1zbpoPibv+4peZpzRfgMyOnmKEdq4m+xkJHsfY=;mwQ3Swxpp1Xvr5yZL0UIrg=="
 ---

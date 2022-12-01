@@ -95,13 +95,22 @@ related:
     quality: 34
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T19:32:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Domo Joins the Amazon SageMaker Ready Program"
+    excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."
+    publishedDateTime: 2022-12-01T14:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723034.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
   - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
     excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
     publishedDateTime: 2022-12-01T04:42:00Z
@@ -110,6 +119,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 19
+  - title: "Weights and Biases Joins the Amazon SageMaker Ready Program"
+    excerpt: "Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner"
+    publishedDateTime: 2022-12-01T13:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29923419/weights-and-biases-joins-the-amazon-sagemaker-ready-program"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "9UmqpI4BdHSwzzVmPmX9WTsCzzX6+N/ZwBd1nOeko0ExjkZmmDcU2kxolhrrTl1NhGFZnlLEQIGqq4Mj6ZDYqFUjL9H6W2to8sLfpg71P/yG2W1gWwVenoBk6dw57DjTtr8ieoLCpTLLVufWPNJHM0fKg+1CCQm7hyRgi+jNH3yDM2ectAIsMf4GjewrgjzWpkV+XURa3r3KeFgjVp6KT7gk6FJLIk/H/CwbctPqdK7PqMR7ZgnP5I/pzPJTcxakXK2DAeBHjccAYO67p5d/mjTw176Zhbmwp5al+iD12TIlsxzC85cqB8sa9fSKEfGeWRvjibXlZqARA2kOSZS0aVsL6bP1hyyzqqk94xEtvSRb+EOYQ9WIIEX3yYhMb0LyKP42OW8oaU1KliBZfL4reHrK+wMUeFpbC2tKvi/+Q8BY67zEcpO73IvmmDVnvCFZ6ElH/+Z6Asai2W931MoIqOzLOAPfL2tppp+HW82gy093BtPC44uA6t2N4uc7i6+QGHp5pOnhBXqGn2SCAY6qWA==;Jqx5HdPjK92CmYh4tYHrOw=="

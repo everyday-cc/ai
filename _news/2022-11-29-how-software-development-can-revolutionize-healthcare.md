@@ -37,7 +37,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 68
+    quality: 72
     images:
       - url: "https://techbullion.com/wp-content/uploads/2022/11/pexels-garrett-morrow-682933.jpg"
         width: 700

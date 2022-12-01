@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 1036
         height: 816
         isCached: true
+  - title: "Remembering The AI Tailwinds: Nvidia And Micron Thank Meta Platforms"
+    excerpt: "I called AI a tailwind during this recession-prone economy. See why Nvidia and Micron are prime beneficiaries of this train gaining momentum in 2023."
+    publishedDateTime: 2022-12-01T13:15:00Z
+    webUrl: "https://seekingalpha.com/article/4561691-nvidia-micron-thank-meta-platforms-remembering-ai-tailwinds"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "0Gnp4YZ7BwaOisFR4oNJ9VQioKdbg252bolpQkh/UowcRTBPtpvmie6CRYGTChMWq6mD65IMcE4U6YvtjOLHvFFnt0YiHOY2deME33LE6zUvoWTmVO8KJH9y4mL9mXfTNx03/7aSzqwLenHvnFOLD+KJZyrGj8OExPHQwW8eTFKoPvAIaC0iQSIexPuD2jTPgCsjAqbFkCOp/xF9hAQCdCq7zIo+2rUTH7pHVJtws5GQAX2f4rJU4UkY3ZLCriDGlBowZvJ6IsBz6vm1i8SLan+Tax4XHf/Hs/CsrSTapX07RGs4dofLDzOCjNeIv7WNkE83bC+kv1b3egrCAT4iuom1MStp0TzZH34izIdbypP0aabYj3TOQWzCpyODRLCORRPu0TNvdn104WLSBgJzWLawu+sJ2MW4KB3aHq3rZHztHHSntaUN6kcQNRxT0wgosSGcLU9aEV1M7ZqJRJ21L+5PGPFWdM8C1xOjQ5MQDX5hLc0Clu1mubvkYfuKM8ivVflxIhQvrp+3Qy4iAvnA2Q==;bObuptGjB5Xn4eupGhjElg=="
 ---

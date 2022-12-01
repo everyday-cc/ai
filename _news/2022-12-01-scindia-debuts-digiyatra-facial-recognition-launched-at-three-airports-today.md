@@ -59,6 +59,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "India launches facial recognition-based entry at airports: All you need to know"
+    excerpt: "To use this facial recognition facility at the airports, passengers would have to register at the Digi Yatra app. The registration would include Aadhaar-based validation and a self-image capture"
+    publishedDateTime: 2022-12-01T15:44:00Z
+    webUrl: "https://www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know-11669909190499.html"
+    ampWebUrl: "https://www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know/amp-11669909190499.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know/amp-11669909190499.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 70
+    images:
+      - url: "https://images.livemint.com/img/2022/12/01/600x338/CHINA-RUILI-COVID-3_1669909306245_1669909306245_1669909318210_1669909318210.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "3 Indian airports to now have facial recognition-based entry: Check details"
     excerpt: "The government on Thursday launched DigiYatra that allows entry of air passengers based on a facial recognition system at the airport in Delhi, Bangalore and Varanasi."
     publishedDateTime: 2022-12-01T11:40:00Z
@@ -93,6 +109,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 27
+  - title: "Govt rolls out facial recognition system DigiYatra at Delhi, Bengaluru and Varanasi airports"
+    excerpt: "To use this facility, one-time registration on the DigiYatra app is required using Aadhar-based validation and a self-image capture."
+    publishedDateTime: 2022-12-01T12:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/govt-rolls-out-facial-recognition-system-at-delhi-bengaluru-and-varanasi-airports-9634731.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 23
 
 secured: "ps4KGF5pIonzZ09ogoGf4H6vWR+WJIMCa4IH1IHhjl1v12ibwEw85F+Ss72UIuwUdMIOQ+a+/SUBxyHp5Zzi10KGojfuU/DFeOPuFALOwXURzZSp2sHcB21Ia83CuSJM7hZ8bQmNFYJRDdDtd2sD9D+MwMIjCBzrkUR2WspXRLLHJXtN+/Wl436LNm9JYuLJaJZQp2anyDV/Q8HudPVnL8f5Jj60QhY/9b+aOAVkZ40ern84ktI4Fl2Id1KNz/8Gj/98ZiXtvqAM6kFB81R+yKDkJCC5I8jcEKbh2OS8XYCEF9mKXfqRXduhbBTNfds3R2GCiRWzme0WPkMJKYMQl/MeDebogzwG0Kd/l51u4fU=;xgfe8cRhAAbedmz7N0QOjg=="
 ---

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AWS CEO Selipsky: We Are Making Cloud Easier To Use"
+    excerpt: "What businesses need from cloud computing is the power to work on their data without having to transport it around between different clouds, different databases and different repositories, different integrations to third-party applications,"
+    publishedDateTime: 2022-12-01T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6388600de6a886c1265b6467/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 404
+        isCached: true
   - title: "AWS CEO Adam Selipsky: The cloud is about to reinvent corporate cultures"
     excerpt: "The event is always a relentlessly upbeat gathering, but this year Amazon.com Inc.’s cloud computing unit is facing, well, a lot of storm clouds. Although some companies might envy the 27% revenue growth AWS reported in the third quarter,"
     publishedDateTime: 2022-11-29T06:13:00Z

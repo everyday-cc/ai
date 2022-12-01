@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitati
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
 type: article
 quality: 61
-heat: 91
+heat: 92
 published: true
 
 provider:

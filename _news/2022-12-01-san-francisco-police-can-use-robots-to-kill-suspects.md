@@ -132,16 +132,16 @@ related:
         height: 1280
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations -- following an emotionally charged debate that reflected divisions on the politically liberal board over support for law enforcement."
-    publishedDateTime: 2022-11-30T15:02:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
+    publishedDateTime: 2022-11-30T02:38:00Z
+    webUrl: "https://www.stltoday.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_a2d96dea-7af1-5220-913e-b5620a5f8022.html"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 39
     images:
-      - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/8e/88efc3bf-371c-5b1d-870c-87c14d18b79d/63866850a8945.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

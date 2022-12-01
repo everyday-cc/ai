@@ -63,6 +63,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Have the Nationals derailed the voice to parliament?"
+    excerpt: "Gabrielle Jackson speaks to Lenore Taylor, Lorena Allam and Mike Ticher about whether the politics of a voice to parliament is getting in the way of a genuine debate"
+    publishedDateTime: 2022-12-01T13:01:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2022/dec/02/have-the-nationals-derailed-the-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
 
 secured: "xTVuMKFI8wR36gm0wyb2NuTW5DkHf4/l/cEN5bTq4K6lvA9J/9mTrnv0QLhWf+dS2NUqoG7FkU5zH7ci2JrLcr/EJRDzrwoqh12eMuAPFa34H+wNjplwYzMBOfd2UycIBaaKyv5SlOx8Uamr8PXvKdBfhL52s5PkboR0svr7VxxC4TgLyCuwp/wVStfCcIByz+5x+HoldyEtL7kaasIRkYeZthpL3vNC5MP25jdhX9O0cZpdfMt0w//YyLlVd8ZhF5VIstI3S4z16ruicnqXCT/OmRI+PccBIfvUr8JU7iPyc6KsnF6zVyTxkQ5nqjoU9LfuyZOqT8Ob7o8M/ytdUVt8LpuDWhCokVLowcI/Eiml0apB5pfWxz/8o/sef1NJENr4F2DfrbNH2y0icPYZyFy81ZUVI0AKuYphrHWDOuEPWC4Uw7WtTNjG5DYcn4bvxnG1+fjRKWgcQxG1HH0TWGi/tPuf/XCqKOOnI8KT5vy/cgHrURXFTtk/qdnCKVk9DWfsKJhY75oP/5Crhzrssw==;ztNzi8EueLhE2P8hOHrhfw=="
 ---

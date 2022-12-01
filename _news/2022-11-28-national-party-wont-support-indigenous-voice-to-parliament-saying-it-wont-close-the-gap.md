@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Have the Nationals derailed the voice to parliament?"
+    excerpt: "Gabrielle Jackson speaks to Lenore Taylor, Lorena Allam and Mike Ticher about whether the politics of a voice to parliament is getting in the way of a genuine debate"
+    publishedDateTime: 2022-12-01T13:01:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2022/dec/02/have-the-nationals-derailed-the-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
   - title: "Nationals vote to silence talk of one Indigenous voice to parliament"
     excerpt: "Anthony Albaneses hopes of securing bipartisan support for a constitutionally enshrined Indigenous voice to parliament have been dashed after the Nationals said they would oppose the proposal in a country-wide vote."
     publishedDateTime: 2022-11-28T09:27:00Z

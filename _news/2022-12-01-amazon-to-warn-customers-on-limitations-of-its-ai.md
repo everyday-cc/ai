@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Amazon To Warn Customers On Limitations Of Its AI"
+title: "Amazon to Warn Customers on Limitations of Its AI"
 excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
-publishedDateTime: 2022-11-30T16:09:00Z
-originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+publishedDateTime: 2022-11-30T17:07:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "The Pros And Cons Of Artificial Intelligence"
@@ -37,7 +33,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -133,6 +129,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "The Impact of AI on Drug Discovery"
+    excerpt: "Artificial Intelligence, also known as “AI”, has been the talk of the past year. AI performs and responds to complex tasks, as it is built to m | Drug Discovery And Development"
+    publishedDateTime: 2022-12-01T16:05:00Z
+    webUrl: "https://www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery"
+    ampWebUrl: "https://www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 39
   - title: "Wildlife conservation with AI"
     excerpt: "These vocalisations can then be used to identify the species of whale and, when analysed by the AI algorithm alongside other data points like ocean conditions, recent sightings from trained naturalists,"
     publishedDateTime: 2022-11-27T23:30:00Z
@@ -162,6 +169,6 @@ related:
         height: 458
         isCached: true
 
-secured: "MPAON98LIYT/mzqnPfM7LoUoXB/gTA3tUu49xY1KEEMxzWFKsxo4gV8EYcUkX+UIMVgFCa10GOF1KWc+BQQZ9fwwS5ge/zupQfeqMTyX3Wepa14JnFobk74zv2CNKyhDi6XLsun8AyJoJVJY1aIMacOeACTbWEKS8n0KJXxCJ7SyjMR3vaeBngBOIqtR9PiV2u95C1JNazCETuVx4sv1OBcbqcL2oKSXhvMAA6AVBP3foZCgSnOMBWkoyP2cwVGppPuAhfKF1aSMH3vK66iupeFMESjrll92IBTBziq65pa+zDou1Av4or7fg/7T8iBnppK5TAK2EmmsC61wk54jzLGkbr6tlG9Vy2Xc7RNMBaq7/zKhSWO3geWNpPB4ehRFC/ymBHM+xhmRXzOZXSk4iZ3VJcwHApdyIp2Hd6uWYaZrxGhFSQ3ZtzeqKJRoxSUM2hMo6q9KzgJoWuPAsmjrH/aOdN3cCbMdfrEoy+qurs+TyyOJEZnlW37ZtTOOiFqZc5svIEUMr4DJR/5AL/3iRQ==;UIPZwAh5N06mnhgc4xrSww=="
+secured: "QW8pJQVVtfnxHh9ixA1+c8oPtvcuHLJmcxQmC/wF8ICecRGK1VM4gm+nktjBhCh+UOr30zC2/U0wYEoPm7fkAXdgDagauD3dhZTwiNB1TZKctp7jfyzaYG1A0k6Tt7x+K0ux5mrrMMDs3OeM5axqSDKxWgld1YPqTZwKOw2PIbV/mGVCZqnLYL5wk/g2aRX8VKA3ZcOJc2BWTcEJBPdS/Rvi/iovo/OW3LGhxg9rJNQ3V/2ItRpCVyuyOyE1LjNnT5GXx4bdHamH6M0cmuFDZ/mQizVjTgaMT7rcj4UacVwZVNqloFQRMdyXToCAefMlDkhuhYGpTa45Y/vykd9YPe4WQVko130S9+OJ5omBPCrZQKfajABGykYomGuSXO+mLqpO36SkXWnOmH51Fh0AnboivY41MeyibyOSU8bzWEgEam49U3JvTS5adYr3dd4X/tZL1VtICuH81Wz5bJqUofU9nKgzmaPPLRve1b2dJUhKKV3U1EdxfHTJU4DvZU38otDmb28DJzc/X8zzwj6KTA==;QPc2JQJ/+Iv3SO/nu4hZbw=="
 ---
 

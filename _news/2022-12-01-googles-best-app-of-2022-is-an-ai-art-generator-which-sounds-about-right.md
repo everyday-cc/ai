@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T14:56:00Z
 originalUrl: "https://www.engadget.com/google-play-store-best-of-2022-app-awards-145230579.html"
 webUrl: "https://www.engadget.com/google-play-store-best-of-2022-app-awards-145230579.html"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Engadget

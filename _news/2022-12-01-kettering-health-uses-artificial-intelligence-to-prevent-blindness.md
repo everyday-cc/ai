@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wdtn.com/dl365/healthy-living/kettering-health-uses-arti
 cdnAmpWebUrl: "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/dl365/healthy-living/kettering-health-uses-artificial-intelligence-to-prevent-blindness/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: WDTN
@@ -35,22 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "NEW TECHNOLOGY USING SMARTWATCHES FOR JOINT REPLACEMENT PATIENTS CAN HELP IN THE HEALING AND RECOVERY PROCESS"
-    excerpt: "Dr. DeClaire and his patients will avail themselves of the program's artificial intelligence (AI) to help determine if education and exercise remotely guided by the watch and app are as good as or better than traditional education and outpatient physical ..."
-    publishedDateTime: 2022-11-30T20:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29912983/new-technology-using-smartwatches-for-joint-replacement-patients-can-help-in-the-healing-and-recov"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29912983"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912983"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
 
 secured: "6MJmKs3t/NWPm75UkkihDpoGqoqTFIeiksvo1u48ufbyV4GwkaW/5T2005dIzn2nbCgKpM8cm+MAyA8t4t4eln7C30yWC6t7OhygBotn+ZuRyGQ76Y8AYDwMGMR2BZ0pBN8w5bQ84Q8PJ/gNG9hiBeLSs+m28YOrbpMKoNIuzh+zXP1i1/XU48a+V1EDwgG8uWUiwvwOzXX9/Wy9R6JMGSKDzoTHOgRLOqKc5WRFXI0YKRwWkyWd3SIni91bys/Hxy9YYTC1N/x5i4RtoWz0E4Tt/RQdPermelzkuH9UgBOOqZ5QEQQ8hMw66lfMuI+J25ky4fihlk0vn3nYlMlix3xy6Zvfol4FciDBV+SYfb0=;b6bb/qiwrLJL8ZmBkZ412Q=="
 ---

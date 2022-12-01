@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/local/denver/2022/11/28/two-tails-childrens-
 webUrl: "https://www.axios.com/local/denver/2022/11/28/two-tails-childrens-book-pet-dog-ai-drawing"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Time to Create New Models for Teaching AI is Now"
-    excerpt: "Innovation Director in the Surrey Institute for People-Centred AI shares the academic perspective of the HPC and AI skills gap in the UK, as part of techUK's #FutureofCompute Week 2022"
-    publishedDateTime: 2022-11-30T08:43:00Z
-    webUrl: "https://www.techuk.org/resource/the-time-to-create-new-models-for-teaching-ai-is-now.html"
+  - title: "Educators Are Taking Action in AI Education to Make Future-Ready Communities"
+    excerpt: "AI Explorations and Their Practical Use in School Environments is an ISTE initiative funded by General Motors. The program provides professional"
+    publishedDateTime: 2022-11-28T13:47:00Z
+    webUrl: "https://www.edsurge.com/news/2022-11-28-educators-are-taking-action-in-ai-education-to-make-future-ready-communities"
     type: article
     provider:
-      name: techUK
-      domain: techuk.org
-    quality: 39
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/48b0b13b-0657-4c8b-9c28bb22a2f78213/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/HighedEducationiStock-862661268.jpg"
-        width: 400
-        height: 267
-        isCached: true
+      name: EdSurge
+      domain: edsurge.com
+    quality: 35
 
 secured: "NSYG1DiGkrd5sNU0Mn91HvFBkC0Cle/2b0QMS5qiqi0pripq7Idqr0Yq0uA1Jm5te0JO4NHzAsDnwsDERmGgTGT9v3ivAw4P4BwgYoZR522sc93jheziBIKw1t0bGxfUFBph4xBCExvnvMgE43OJZ/y5sIIbktDkL3GSIlSr/ciGMp/3eIsiGRW/KlLRUkz+0JPLy/wZ/p6DAVk4+Kyjx4JmR260I8YFM/1f3NqSOXc3tJOaYRAYOs2dkXWtgEsrZYmPMJKV7PYDyKOY9h7V8oQV9FrfqGMovhDshH1kMX+czO6LumFceDUZJ/xtIre0Oq7W1/jpOb5GQeIaiwjKdcRdJT+S1Y4vJbqq49rFXd8P8B2EHQwy7ek+CV4m2I/a1o2DiCjAzYQRbTKDgY+rU7Wz4alAzKDaWpwKoFax3dAOOG73RYwF4pReaTaOCLACSXV8ZmwPXdyPprIX9wygxps6gBAFFtzsy4+l0C62nOJ+EQj5YugzOshZGzjB53GCtHEoIL0GEaugnYWOc7v+lg==;02zbe1Fjy+soLHgmIoIutw=="
 ---

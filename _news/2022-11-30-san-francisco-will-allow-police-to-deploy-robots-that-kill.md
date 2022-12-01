@@ -1,25 +1,25 @@
 ---
 category: news
 title: "San Francisco will allow police to deploy robots that kill"
-excerpt: "Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations -- following an emotionally charged debate that reflected divisions on the politically liberal board over support for law enforcement."
-publishedDateTime: 2022-11-30T15:02:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
+publishedDateTime: 2022-11-30T02:38:00Z
+originalUrl: "https://www.stltoday.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_a2d96dea-7af1-5220-913e-b5620a5f8022.html"
+webUrl: "https://www.stltoday.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_a2d96dea-7af1-5220-913e-b5620a5f8022.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/8e/88efc3bf-371c-5b1d-870c-87c14d18b79d/63866850a8945.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -155,6 +155,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "F8cIWWXvFxnH5oJs1vGzxMTvGeSaxj/REReige2JKSKuXxUxOZaUyH1t2lIZCnXeN0aP75uWjn52aFfPcaiVL7OIa4RDEEkZ9VB1po7ciIJ+5cNCOMg/AePpvs4DJSY5MM4LvaE03MfrHyhzf2oP2jWjja6xb/33sN2oNZb6fRdU5czcGAye6BMhMeqb6ze2k94uNZNu+JmBbEgy+nyych9r/s8gs7D4buBXYVjbjvPIsb6e7XcZznqkTc7pqhPWCYA9CsOjPVfJtKXdkTaL8YAa/TbWAQKb+9191WF8pmvknpeUhnMI8OlpAU9SDJNyzosSkf3rVGmSrkaeVKOFQP/cVyKNkryapBvNOy1lCuPYzUycRTtEMdP7jiyBbgS/ZI59DGgAQezgydvqe1zhRrBqXsvVB5yDT6qkT1cg9a8gXZ3VUzTTBSYfjt6A//apabf8cXopT7i64/dtc04d7QgAQ5YDf/3L3tAVmvxm7hj52ECv3u2vrRPIzxY1OnAHMQsmirccZ4nawJHF/4ZaUg==;wnQaGcpmzbtZ0T1bbtK+wA=="
+secured: "AVNCIdPV2XM0tfgoL7jlmJTNqvh1aYISwj5J07uLQdv3IY8F8bppMLzhf7DCyjqZ3FkPEx/2GpoGtvSiGwex48Kr1OMXHOEgcH+dDER/YoHkqSm+45xHnkCPm2p9AtFpl4J3KV9w4g8wMYPC99fSmh8ydyFWFKDpj7HNX/bEPSeJV3gqH3rNnqSY+zxx9bruMGWfxkgFVQbYtQi5gr5X/XY5UX/9IBY0uOugvEySeJNK6q2urpgZbWLB8QVQjZWr972PkuJpvaA9BtGiMWiX5d1Ik4AuSJVirJH8WZnkjtmWXc6VPIo0K83diH20llINTrkFmk0MLPSY2uX2phJ5n3eHxYffn8+0aGFVlk2XlYM=;fdzvkhRVaCMOHB94d1yYtg=="
 ---
 

@@ -102,13 +102,31 @@ related:
     quality: 34
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T19:32:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Domo Joins the Amazon SageMaker Ready Program"
+    excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."
+    publishedDateTime: 2022-12-01T14:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723034.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+  - title: "Weights and Biases Joins the Amazon SageMaker Ready Program"
+    excerpt: "Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner"
+    publishedDateTime: 2022-12-01T13:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29923419/weights-and-biases-joins-the-amazon-sagemaker-ready-program"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "ALY5zEVKLm3KknV/+b0ITJcFhB2gOtuwO+tfSd/VHJCAvElk68Jw2FH7kSCHzFXk/ZAvAA6nA0j5pA6TWY1mSbwl6giU6xbcbI1kAn22Em0CV7DNl/v7XCcqGlK9KpWWJZ6d0yYg7FpGLve9/8eCL0pcsKFgsEe1fbP4pGLoCQ2XMSZ+ebkiGFVYDtlTXlN1xI7tt+5Xy+yHeHRjcjWQjfMaVfCY30G38uvL0uQ+c3/09YW2QJB6bFYVZ6FelQG8den/5n63c64TonTaaIbkLHfZfnl/Y8aSsHiSPNGDfAsLaFIrCIPnYb3HtMNeUtzM3Brvl8LnGj/eHei/r24HaodkRJ2+x72+BGhfjdqmR0M=;nUy02GoOZl89ZbkVqOTmAg=="
 ---

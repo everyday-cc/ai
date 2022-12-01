@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T13:01:00Z
 originalUrl: "https://venturebeat.com/security/stopping-data-leaks-with-ai-shield-raises-20m/"
 webUrl: "https://venturebeat.com/security/stopping-data-leaks-with-ai-shield-raises-20m/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

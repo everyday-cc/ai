@@ -7,7 +7,7 @@ originalUrl: "https://www.techuk.org/resource/the-time-to-create-new-models-for-
 webUrl: "https://www.techuk.org/resource/the-time-to-create-new-models-for-teaching-ai-is-now.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-drawn illustrations are teaching kids to read"
-    excerpt: "That's the breakthrough idea from Daniel Cohen, the Denver-based entrepreneur behind the startup Story Co. How it works: The company creates personalized alphabet and numbers books that include realistic drawings of the family pet on each page."
-    publishedDateTime: 2022-11-28T11:59:00Z
-    webUrl: "https://www.axios.com/local/denver/2022/11/28/two-tails-childrens-book-pet-dog-ai-drawing"
+  - title: "AI Is Coming for the Thought Leaders"
+    excerpt: "Robots were considered capable only of unimaginative, routine work. Today they write articles and create award-winning art."
+    publishedDateTime: 2022-12-01T14:32:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2022/12/why-the-rise-of-ai-is-the-most-important-story-of-the-year/672308/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
     images:
-      - url: "https://images.axios.com/Hl54hnGjYpisZZCtJri7eROHxbI=/0x2311:5700x5517/1366x768/2022/11/22/1669139139989.png"
-        width: 1366
-        height: 768
+      - url: "https://cdn.theatlantic.com/thumbor/rv0rbBmcltCjJ6BSXVOt88jdFIA=/0x102:4792x2598/1200x625/media/img/mt/2022/12/ai_paint/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
+  - title: "VCs give their unfiltered thoughts on 28 AI and big-data startups that had investors buzzing this year"
+    excerpt: "The AI and data field has become one of the loudest and most crowded in tech, with firms like Midjourney, Jasper, and Tecton competing in niche areas."
+    publishedDateTime: 2022-11-29T10:00:00Z
+    webUrl: "https://www.businessinsider.com/vcs-share-unfiltered-thoughts-top-ai-data-startups-snowflake-databricks-2022-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/6360338a0b271e00186bbc5e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "THta/THL887DK1Mhw6NXIDlnI2yGeV+59w9KkMFLGpXaCjIjUQfAd1IuLC6hPuJJNO7HE5CpitM+acDgAzGz66rx4iOsEdPxW97RG1IpKts4JWPyw7ic01SJX6GHuPk66tFBCT2to13uFdewQXmkx5Jjn8WFJo2v+DekWeBQ30RqG1Q+rfSzwv/NTZagTzlgB0MMpz3RJgl6zUedRoz6I8qIiqOXrpvQr61+Xlky4ZkwZCSI3DN+g4ougVs9WZtOTX66Dch0FIkj+Vd4SZERD00ECAGdkXf5GQkjI65VKrswyU8KHmSdV1LIxG3cprJiQcw/bChKfX3gKBUPbez8sO1EfMeco1GevRAwRAT5rDM=;I7mgdPWALhmJwfF42BgL0w=="

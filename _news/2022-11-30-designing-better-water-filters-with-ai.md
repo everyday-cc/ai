@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "NEW TECHNOLOGY USING SMARTWATCHES FOR JOINT REPLACEMENT PATIENTS CAN HELP IN THE HEALING AND RECOVERY PROCESS"
-    excerpt: "Dr. DeClaire and his patients will avail themselves of the program's artificial intelligence (AI) to help determine if education and exercise remotely guided by the watch and app are as good as or better than traditional education and outpatient physical ..."
-    publishedDateTime: 2022-11-30T20:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29912983/new-technology-using-smartwatches-for-joint-replacement-patients-can-help-in-the-healing-and-recov"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29912983"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912983"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
 
 secured: "cPA+huTEF+IsAO4bAHNacAAvdkXxaUrNlVhlmZlyARUUUmXUWctdq9E9fUO0QdrOoWTfFl1ZqWYHHG2VC7yA4DCFkPemcWtjhUwxU6DvgtbFP27NfqoPTonc9dpUNzBEfCOAi8vjlfUcKX18ltS+G6dot2mz27HU+kI9GC5goEhi+0gUwBbBx3f80RstL/259BNB2o0O8PbTtyyB10J5lMO6W6KGvcVVCpZiS8EPtHwOm9fjQERikj8m/cDCUSkRZnAYTE0WXHYH6D/cLxdAbJtgRLY0myJaM/gIktCriXD1i0qZR5CN0TtOnR/O4nk9msyojVqkBWDQB8FsP4nDoOlks1vbbI3fM4ABHQcWp6c=;J+AA7xNoglpaDph2rQzkfA=="
 ---
