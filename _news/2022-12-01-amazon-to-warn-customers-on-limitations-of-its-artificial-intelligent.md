@@ -43,15 +43,20 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Amazon to Warn Customers on Limitations of Its AI"
-    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
-    publishedDateTime: 2022-11-30T17:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+  - title: "Amazon to warn customers on limitations of its AI"
+    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
+    publishedDateTime: 2022-12-01T05:07:00Z
+    webUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "How AI speech technology is helping NHS organisations stay on top of documentation"
     excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
     publishedDateTime: 2022-11-30T08:14:00Z

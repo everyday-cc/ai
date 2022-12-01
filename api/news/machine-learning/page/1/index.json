@@ -203,7 +203,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -886,10 +886,10 @@
     {
       "path": "_news/2022-11-25-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
       "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
-      "excerpt": "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only.",
+      "excerpt": "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/25/9719669.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/25/9719669.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -899,12 +899,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T07:15:00-08:00",
+      "publishedDateTime": "2022-11-25T07:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.medindia.net/health-images/artificial-intelligence-based-model.jpg"

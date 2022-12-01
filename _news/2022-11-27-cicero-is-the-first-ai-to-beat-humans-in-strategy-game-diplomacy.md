@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Named Cicero Can Beat Humans in Diplomacy, a Complex Alliance-Building Game, That’s a Big Deal"
-    excerpt: "In a rare piece of good news from Meta, artificial intelligence researchers at the company have just announced a"
-    publishedDateTime: 2022-11-26T13:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/11/an-ai-named-cicero-can-beat-humans-in-diplomacy-a-complex-alliance-building-game-thats-a-big-deal/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/11/an-ai-named-cicero-can-beat-humans-in-diplomacy-a-complex-alliance-building-game-thats-a-big-deal/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/11/an-ai-named-cicero-can-beat-humans-in-diplomacy-a-complex-alliance-building-game-thats-a-big-deal/amp/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 44
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/11/25/Untitled-design-73.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "What does Meta AI’s Diplomacy-winning Cicero Mean for AI?"
     excerpt: "Cicero the human being (106-43 BC) was a celebrated politician, an orator, and a writer; his historical and philosophical importance is still debated two thousand years later. Cicero the computer program,"
     publishedDateTime: 2022-11-28T00:00:00Z

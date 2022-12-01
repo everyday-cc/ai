@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-11-14-infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients.md",
+      "title": "Infosys BPM opens AI, automation unit in Poland for global clients",
+      "excerpt": "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/13/full/1649873871-5587.jpg?im=Resize,width=480",
+          "width": 480,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
+      "publishedDateTime": "2022-11-14T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-why-ai-governance-is-critical-for-building-more-trustworthy-explainable-ai.md",
       "title": "Why AI governance is critical for building more trustworthy, explainable AI",
       "excerpt": "AI governance is about making sure that companies are aware of what their algorithms are doing — and have the proof to back it up.",
@@ -1130,58 +1173,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination.md",
-      "title": "SoftBank, NEC, Sony, Toyota + more team up for Rapidus, Japan’s bid for next-gen chip domination",
-      "excerpt": "Major Japanese tech firms including SoftBank and Sony plan to launch a new chip company called Rapidus that aims to mass produce 3nm by 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
-      "originalUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1189756266.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
-      "publishedDateTime": "2022-11-11T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

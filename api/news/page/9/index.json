@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-21-axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidiar-jetsontm-xaviertm-nx-aie800-904-fl-dc.md",
+      "title": "Axiomtek's IP67 Outdoor Edge AI System with M12 Connectors Powered by NVIDIA(R) Jetson(TM) Xavier(TM) NX - AIE800-904-FL-DC",
+      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1952075/image_5019367_25941002.jpg",
+          "width": 400,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29799601",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29799601",
+      "publishedDateTime": "2022-11-20T23:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
       "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
       "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
@@ -1079,58 +1122,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-super-computing-and-storage-on-earth-and-in-space.md",
-      "title": "Super Computing And Storage On Earth And In Space",
-      "excerpt": "DDN announced enhancements to its DDN Insights monitoring interface. Panasas announced data management and analytics tools for high performance computing applications as part of its PanFS software suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6378183b6faf13fd0b1a9f12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
-      "publishedDateTime": "2022-11-18T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

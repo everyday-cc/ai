@@ -67,6 +67,20 @@ related:
         width: 760
         height: 505
         isCached: true
+  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
+    excerpt: "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,"
+    publishedDateTime: 2022-11-29T13:02:00Z
+    webUrl: "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/ec/1ec4b2ba-c377-559f-8217-102383a4e62a/638614c570c73.image.jpg?crop=633%2C332%2C0%2C403&resize=633%2C332&order=crop%2Cresize"
+        width: 633
+        height: 332
+        isCached: true
   - title: "NOAA strikes climate modeling R&D agreement with Microsoft"
     excerpt: "The National Oceanic and Atmospheric Administration will work with Microsoft to improve climate and forecast models through the use of machine learning, the agency announced Tuesday. As part of a new cooperative research and development agreement (CRADA),"
     publishedDateTime: 2022-11-30T15:00:00Z
@@ -81,15 +95,6 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
-    excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
-    publishedDateTime: 2022-11-29T14:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "S7JkienxJUhePP7HCzlr90ek3/t5gnGBsZaKzgdkoNXE4qagNBjeiGI4oft1wpY7eWgPlgsGjryB/9vSnlvrcFDGXtC8Zxu3w6qGxxPuQNsdBLG88QnRTE3eodkuKrvv5hhw9dNLL7nFPg0JYMqIwUwSsxXFrb3a+8A1JkTLBxbPvTPnWLE+z0Dz2lZW+c1C8A0WaGDTFlaQ57JbjI1sEnJq5UFk/vRBFqURrz5lNFHfUcVqijyffk8GvlYb1seBn1ULtQixVutFndX/9+iuKjTz4zh2kreO1Dd8FYIcxtu6vwlEMov+u8wwuqTO2JD23N8vfIEwe7rXq1OkuHjMrcxbA7N88my+sjrvlHnLkNt/V41YtGYt3piAqlLalvVyJ5bAZR+ZdRZ4M1tsB4bIb6mkv9VtfAfcm6jZf5sDUxNDv5UweYBBhjpCTYRxU5pDopfvFqucEJ5EI33Zr8ng+W4m0+xQSKBaN6lSCeGaDP3lS7USGfmtVnci6h71akm+RpGL+nIFuNbCrPpXta+dDA==;TVYdiL8O6jIPMSWin9BMNQ=="
 ---

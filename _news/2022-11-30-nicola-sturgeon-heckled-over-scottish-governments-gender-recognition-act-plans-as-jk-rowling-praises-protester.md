@@ -19,49 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "'Shame on you!' Nicola Sturgeon heckled by protester during speech on gender violence"
-    excerpt: "Nicola Sturgeon was interrupted by a protester this evening during a speech on tackling male violence against women. The First Minister was accused by the heckler of having \"let down vulnerable women in Scotland\"."
-    publishedDateTime: 2022-11-29T21:10:00Z
-    webUrl: "https://www.express.co.uk/news/politics/1703277/Nicola-Sturgeon-protester-speech-gender-violence"
-    ampWebUrl: "https://www.express.co.uk/news/politics/1703277/Nicola-Sturgeon-protester-speech-gender-violence/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1703277/Nicola-Sturgeon-protester-speech-gender-violence/amp"
+  - title: "Call for Scottish Labour MSPs to have free vote on gender recognition bill"
+    excerpt: "Anas Sarwar has been urged to give Scottish Labour MSPs a free vote on legislation which would make it easier for people to legally change their recognised gender. It comes after the Gender Recognition Reform (Scotland) Bill passed its first parliamentary hurdle last month."
+    publishedDateTime: 2022-12-01T06:35:00Z
+    webUrl: "https://news.stv.tv/politics/anas-sarwar-urged-to-allow-scottish-labour-msps-to-have-free-vote-on-gender-recognition-bill"
+    ampWebUrl: "https://news.stv.tv/politics/anas-sarwar-urged-to-allow-scottish-labour-msps-to-have-free-vote-on-gender-recognition-bill?amp"
+    cdnAmpWebUrl: "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/politics/anas-sarwar-urged-to-allow-scottish-labour-msps-to-have-free-vote-on-gender-recognition-bill?amp"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 37
+      name: news.stv
+      domain: news.stv.tv
+    quality: 42
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/139/590x/Nicola-Sturgeon-1703277.jpg?r=1669760233205"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "First Minister speech disrupted by gender recognition protester"
-    excerpt: "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against"
-    publishedDateTime: 2022-11-30T10:40:00Z
-    webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/"
-    type: article
-    provider:
-      name: heraldscotland
-      domain: heraldscotland.com
-    quality: 24
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/16138459/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Nicola Sturgeon heckled with 'shame on you' during male violence speech"
-    excerpt: "The Scottish Government's Gender Recognition Reform Bill would allow Scots aged 16 ... also warned that the plans were open to abuse from predatory men. In her speech, Ms Sturgeon said she had a \"determination to do whatever I can do to help build a ..."
-    publishedDateTime: 2022-11-29T20:58:00Z
-    webUrl: "https://www.telegraph.co.uk/politics/2022/11/29/nicola-sturgeon-heckled-shame-male-violence-speech/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 24
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/politics/2022/11/29/TELEMMGLPICT000317328853_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
+      - url: "https://news.stv.tv/wp-content/uploads/2021/11/da346c59797130b54b3890371254e546-social-default.jpg"
+        width: 1280
+        height: 672
         isCached: true
 
 secured: "VaKnBiblMw9IaL/gHqUFZ4OsTA5Kw4pYLo8LUR+Ae6+ilBaxsJOtSxPEw03NThDE1AaMLUvr5hgni88uJZFWpkzLCwDq5tBsbmME184uQm2lfpJ+aJe2u28Q8V1W34n6i0vBr5OGfcODsWWwTkDfhndUMcfN+aHrcmNHeSJmv2Pb8AqNDl0/xdwXmWq7kkUB7mptllDAu87MLb87+XdKYa00xyZcXst0oI84PM+YlnqoQ6bgItT+LvH16ET7jhuSeAp2jirrYv6i4a76cbblvlhKsYxM5BGOunJh5MrK/m3h4Uuz+Tly2WjZ7/lcQ+s7rhzf7aMM1Pgu+5Hekljo22qyBI6XW2LvUBG46PkxIGW+AnekrUIzPPIrOOZ2qyKaYwvRgO/axVxKMuKrEQp7nZkk347cr6vn/16cfmqLJY+y7QMalo8IkfzpXnyr81bg43HZeCYfzPo268Ns3yUwGjmmNrJGaxkea+NfQv+9whsQAtrEfp+1Jowd6KTxbi+ghDL477IYxbPwwzp8LCjKYA==;5lEXIDIBfz29B1xYPo3arA=="

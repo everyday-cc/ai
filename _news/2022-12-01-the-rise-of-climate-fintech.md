@@ -71,15 +71,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Conversation Intelligence: the SaaS player disrupting the FinTech space"
-    excerpt: "Technologies such as AI-driven automation and SaaS solutions are rapidly transforming the way most of us carry out our financial transactions. In fact, the emergence of fintech has significantly reduced the need for people to visit banking institutions in ..."
-    publishedDateTime: 2022-11-26T13:39:00Z
-    webUrl: "https://www.livemint.com/industry/conversation-intelligence-the-saas-player-disrupting-the-fintech-space-11669468540369.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 4
 
 secured: "mz7zPR6+mCFoUvZc3fCFTooIG+nb3T9Iy9iQhed7KHCOhnBtZHcNU2hsyq1AyovhQCNC2aAbTosbrGEN2rWVk5om78C8LzTL7mjiaSzRbb3vHdO6xCMCXp88dDSpinALx0AKt18FerHNvopU5hrA2rzdNFwaKls8n+sGdkwFnvt0Na5CqUA9eCP1l2BrR+hn182O5NIYhK/NwivEd0xrfycF0RbAYmxb0GkMvjURX0xDMRSW3qFLghT9jOpAaT8Eqn00RHV68Xhgce7fcyNF2yrgmvbkRGtaVL9mXpWXGTd4btgXr8eYL3hfkT+dGEQm78IkeX/wZjqUPcG8krwGkmxeIjFR3l1UPbroxyQb/TU=;9IE48vbC22iLPxGjrlol2g=="
 ---
