@@ -29,63 +29,141 @@ images:
     isCached: true
 
 related:
-  - title: "Can the AI Bill of Rights shape global AI regulation?"
-    excerpt: "Experts clash over whether the policy proposal is fit for purpose, with some suggesting it does more harm than good"
-    publishedDateTime: 2022-11-28T08:00:00Z
-    webUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation"
+  - title: "The Pros And Cons Of Artificial Intelligence"
+    excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
+    publishedDateTime: 2022-12-01T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1669130979/itpro/2022/November/GettyImages-US%20flag%20digital.jpg"
-        width: 375
-        height: 210
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 902
         isCached: true
-  - title: "Human creators stand to benefit as AI rewrites the rules of content creation"
-    excerpt: "Generative AI programs could free human creators from tedious tasks and enable them to focus on ideation and creative thinking."
-    publishedDateTime: 2022-11-29T15:01:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/"
-    ampWebUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
+  - title: "How High School Should Change for an Era of AI and Robots"
+    excerpt: "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change"
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
+      name: EdSurge
+      domain: edsurge.com
+    quality: 78
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
-        width: 1100
-        height: 733
+      - url: "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop"
+        width: 640
+        height: 259
         isCached: true
-  - title: "ADGM's Financial Services Regulatory Authority Launches AI Initiative On Open Regulation"
-    excerpt: "Without regulatory context, AI applications will be limited in their potential to help financial services firms navigate the regulatory landscape. In this regard, OpenReg provides the regulatory context required by firms to develop their own AI solutions."
-    publishedDateTime: 2022-11-29T21:45:00Z
-    webUrl: "https://menafn.com/1105243780/ADGMs-Financial-Services-Regulatory-Authority-Launches-AI-Initiative-On-Open-Regulation"
+  - title: "Parsing the hype, hopes, and practical applications of AI across finance solutions"
+    excerpt: "Is AI in finance a pot of gold at the end of the rainbow? Zoho's Raju Vegesna does some myth-busting and explores the the middle ground where AI has a useful place amid the hype."
+    publishedDateTime: 2022-11-30T16:04:00Z
+    webUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions"
+    ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
+      name: Diginomica
+      domain: diginomica.com
+    quality: 68
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?554410"
-        width: 444
-        height: 250
+      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_582621088.png"
+        width: 740
+        height: 450
         isCached: true
-  - title: "ADGM’s Financial Services Regulatory Authority launches its AI initiative on Open Regulation"
-    excerpt: "The Initiative will tap the innovation community in the co-creation of AI models and applications to achieve better regulatory outcomes"
-    publishedDateTime: 2022-11-29T09:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/adgms-financial-services-regulatory-authority-launches-its-ai-initiative-on-open-regulation-e0j92dgj"
+  - title: "4 Technologists Debate the Future of AI"
+    excerpt: "AI thinks very differently from us, raising trust issues. It's unclear whether AI is inspired by use or just copies us. AI will change the job market, for better or worse. Can we trust artificial intelligence?"
+    publishedDateTime: 2022-11-30T16:04:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 28
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
     images:
-      - url: "https://static.zawya.com/version/c:YzgyNGFjMmItMmQ4OS00:YTA4YTAy/abudhabiconstruction-jpg.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 406
-        height: 405
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Amazon To Warn Customers On Limitations Of Its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
+    publishedDateTime: 2022-11-30T16:09:00Z
+    webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+    ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "15 things AI can — and can't — do"
+    excerpt: "From pop star robots to autonomous cars, AI is all around us. Stacker assessed the current state of AI, from predictive models to learning algorithms, and identified the capabilities and limitations of automation in various settings."
+    publishedDateTime: 2022-11-29T20:30:00Z
+    webUrl: "https://omaha.com/news/science/15-things-ai-can-and-cant-do/article_1ac69118-1e9b-5d2c-b482-f18396a2499a.html?amp;amp"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/ac/1ac69118-1e9b-5d2c-b482-f18396a2499a/63865d2589158.preview.jpg?crop=1007%2C529%2C0%2C94&resize=1007%2C529&order=crop%2Cresize"
+        width: 1007
+        height: 529
+        isCached: true
+  - title: "Westpac among founder members of AI consortium"
+    excerpt: "Westpac has joined with five other organisations to form a new consortium to drive leading-edge research into responsible adoption of artificial intelligence in the finance sector."
+    publishedDateTime: 2022-11-28T10:32:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41384/westpac-among-founder-members-of-ai-consortium"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/david-walker-500x500.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Wildlife conservation with AI"
+    excerpt: "These vocalisations can then be used to identify the species of whale and, when analysed by the AI algorithm alongside other data points like ocean conditions, recent sightings from trained naturalists,"
+    publishedDateTime: 2022-11-27T23:30:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/28/wildlife-conservation-with-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/27/1837797.jpg"
+        width: 1240
+        height: 722
+        isCached: true
+  - title: "The 10 Hottest AI Startup Companies Of 2022"
+    excerpt: "CRN’s hottest AI startups list includes AI Squared, TimeZest and Pano and experienced veterans from Microsoft, IBM, ConnectWise and Twitter."
+    publishedDateTime: 2022-11-29T17:00:00Z
+    webUrl: "https://www.crn.com/news/software/the-10-hottest-ai-startup-companies-of-2022"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12c3233d92ed-7182db298dd0-1000/artificial-intelligence-edge-globe.jpg"
+        width: 610
+        height: 458
         isCached: true
 
 secured: "dsHFcGsle/PmiYgXn5pl/EN/5o6T7liUaXgBK095Pc4s5zb3YzuqpHhZ3lgr+U7kTsGJ7J8vtbyKDcLsu5jq8HjSWv1sunepfeKWCXsXbuQIcMunT+BekzWTWelGZ3k9tn6zdS2EugFX93D76Bp9tnqYuFOKkQCU4WGBZGrOA0F+zXnjbDP6Y2WNiwYNGbCRXaH8h1PAOol0CIGPPdlvve/oECxiOxY2qVIhLdgi1gFnmtyMkpCD3/duqpY7b1NVpIiu6d26RC/Be8gx5hCIak6VurE8k9TIFiLunHCj24oSFKlUdNu/MJX2WbJqOGdlZh2RO4xB4I1X2Rkopvsc42Y+U4NtTOP83dxIETfCUaQ=;krGS0FJV3sOHD1SCkIn7oA=="

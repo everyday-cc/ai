@@ -1098,33 +1098,24 @@
     {
       "path": "_news/2022-11-17-try-out-ai-at-mohais-artificial-intelligence-exhibit.md",
       "title": "Try out AI at MOHAI’s ‘Artificial Intelligence’ exhibit",
-      "excerpt": "A new special exhibition at the Museum of History & Industry explores how AI developed over the years and how it has affected our lives. \"Artificial Intelligence: Your Mind and the Machine\" runs through Jan.",
+      "excerpt": "“Artificial Intelligence ... You can watch what a self-driving car “sees,” or how a robotic animal programmed with AI figures out how to deal with obstacles. As with most of MOHAI, the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.html",
-      "originalUrl": "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.html",
+      "webUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
+      "originalUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/1/e6/1e68e56d-d11b-5a76-b2f5-a0fd0f0adb64/63764a809e617.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.amp.html",
-      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/news/nation_and_world/entertainment/try-out-ai-at-mohai-s-artificial-intelligence-exhibit/article_46219e30-965d-5c61-ac0a-a408c44e2230.amp.html",
-      "publishedDateTime": "2022-11-17T04:59:00-08:00",
+      "ampWebUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
+      "publishedDateTime": "2022-11-17T07:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Yakima Herald-Republic",
-        "domain": "yakimaherald.com",
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null

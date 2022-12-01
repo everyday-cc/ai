@@ -3,8 +3,8 @@ category: news
 title: "First Minister speech disrupted by gender recognition protester"
 excerpt: "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against"
 publishedDateTime: 2022-11-30T10:40:00Z
-originalUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss"
-webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss"
+originalUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/"
+webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/"
 type: article
 quality: 24
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 536
         isCached: true
 
-secured: "sWPbrR6hOBABUOZdS1sVGWbT6wc7ioaLKqaRTIBx4OaNr7An32FZPAJdiwK6PMPIXIwvO2BjBgeaNs2+OzG8sciREax+PKc/PRpNkABkP5Rb1bfZg6sP8fHl513em1SAcvir2DyinO53dv6bjAzRzoHDMH52DCPjUosJDpeveFcIysQjY+5OzqMFLiciAxPEBQoV3fFmn8aQa3cOv6aw29ZoerF2zH8xER2zShzvp1UjFWFLmBeau+WZ5k9mN3QAsPO2So92WTiOoJcKUHX9HYk0F5jk8qW81t/mDF9Ye9vKaJgoMQoQYci/mplndCUmwY5KdVSj/0ComGe7hUE2PUfV9T2vHnJeO3lHpIRAU+g=;QZkBe1iaIWXJAUM0nQ1h7g=="
+secured: "1QmyZblESg6oNie6zeQxmtVdD9uSKFT1UVqPr+qeYtOGWRepzRV19v/M/W+u9/eRfB+d46ROr7Y8/aZLpEhWU8CCEkryYAoROikyZ7P2SM6XIRIH62bbz6Qqf1b3AekFXizITysJLoFM1pgiKutN1mOEYRt2z9MRdAUQ6c1m9gktOfTAe9G/imbiitw7y4VOhpodYP5P8ivwClxAu2XtNvkPdkGb6XRq3bdiVmNPWbDM0GPKHHtYQA3IZWCGiSExTYLUEzgTh4XteyIrinvYz3fhHIOJpHf8V1PpgNWufu7X8hJv88RN0AUNJWQnNHqMIBrzmN3T/2SG1QF+3afSiL7aE8DRVaMKakpssDyv85k=;O4Nqck1vh94x54SRC+oblw=="
 ---
 

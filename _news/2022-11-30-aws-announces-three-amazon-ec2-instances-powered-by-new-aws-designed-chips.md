@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-publishedDateTime: 2022-11-29T17:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -42,20 +34,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/11/2_4x.png?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Stability AI builds foundation models on Amazon SageMaker"
-    excerpt: "We’re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough"
-    publishedDateTime: 2022-11-30T21:01:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
-        width: 1563
-        height: 785
         isCached: true
   - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
     excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
@@ -140,6 +118,6 @@ related:
       domain: buffalonews.com
     quality: 32
 
-secured: "lW2wxFYYaiXvw0q1tmOVpmuVy8aJmN/ZdoJovmeXyEw+Az1wbZo3V8OmZIgUgmlXpBoMa16CEQdBbhn5X3vyWxQ2MgNV3NXr2NY1SP2jSqfymDaIMgRwPcperGa7/8YL2nRyXcnUl548//4xM187aNSQS4NKISzO4H8yYXzej0+i11ki7gPi29ZIl7d+6f+9TH+xDwfMGoGWGyu9rkFqGrhIqoDYACVOHpDcI4RRCYgkpPT3ZdpjjrRal+komF7nU4yoHbM917phg9D4v1VnpiD3TUaYt8qinkT2SY+PV6IdQ+NMbdEkryzVUz4w6c4hksq7d3N9PsCgPl+cVGFNUanqgBRTRpiTUy012SWqlB0=;l2RfSSq/h3ZcjnzN53uKvQ=="
+secured: "Yx8Luzb1B1Ci/ns0fScbpbJkpMMhXWu+txtzmovkd4y9Pb7ohEY+Q4NUrGaUIHas7eGrHvzh0MYaJdEukYAbXd7Lq8PL5Ij8RnS+cQUD3zM6TNv/aeIaWwmzZY/Xos8AfEncBfjZMyKTKsgsU96PrieSBbk8KlqtRbUtZr5yz3nxMB7s+47ecS2Cq88hPgXB5dj2GXb85W+DqlFsI774U5J4/3dhBqiRc7CQc74ovLp7AVcsvL5GCkLhk4i+B1ZSMn3JfaCuElK5cIHmMdeTXzu4zp1nxP9EGN0p9N+O1exaNLTMJ2k4s5DmAJi2pFAGWWmvcCwIaT1lTYAYl62PRjo21H4M5QYnEOM0YF3Dw0/3CMKvk/EDmNk6KWxHXNw0dlvf5J8UunpcEqUGiccYzlmHDcObh+Gyz7siDY1y1cNMQyn2q9DG+T60tabQd2IKuMKXKmbVarhbXfWQA2ULGRGhdfQcBwd01ItvO+oGloZ8jH3dI04HjUsvrzSC6PGB0pspIc6WnKofxio0drc1bg==;sF44g8ooQV8htprzmQ8ALQ=="
 ---
 

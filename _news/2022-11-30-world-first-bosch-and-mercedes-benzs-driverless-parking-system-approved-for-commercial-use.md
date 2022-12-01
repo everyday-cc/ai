@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mercedes, Bosch open world's first self-driving valet"
+    excerpt: "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport."
+    publishedDateTime: 2022-12-01T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Mercedes Becomes First Brand Approved For Level 4 Self-Driving In Germany (But Only In One Parking Lot So Far)"
     excerpt: "“It will be with driverless parking that everyday automated driving will start.” Long time readers may remember that Mercedes (among others) already had automated valet parking at the Stuttgart airport in 2019. That operation was more limited ..."
     publishedDateTime: 2022-11-30T18:57:00Z

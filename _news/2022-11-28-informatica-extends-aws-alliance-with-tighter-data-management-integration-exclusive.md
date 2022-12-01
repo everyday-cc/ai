@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/informatica-extends-aws-alliance-wi
 webUrl: "https://www.crn.com/news/cloud/informatica-extends-aws-alliance-with-tighter-data-management-integration-exclusive-"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Informatica tightens integration with AWS Redshift and SageMaker"
-    excerpt: "Informatica said its Data Loader software, which is a free tool for loading data into a cloud warehouse, is now embedded directly into the Redshift Console to enable users to upload data from multiple sources quickly without the extensive cleansing and governance procedures that can stretch that process to days or weeks."
-    publishedDateTime: 2022-11-28T13:30:00Z
-    webUrl: "https://siliconangle.com/2022/11/28/informatica-tightens-integration-aws-redshift-sagemaker/"
+  - title: "MSH Partners with Databricks and Informatica to Leverage Machine Learning and Enterprise Cloud Data Management Capabilities"
+    excerpt: "MSH, a global provider of technology and talent solutions, today announced partnerships with Databricks and Informatica, two powerful machine learning and enterprise cloud data management companies that further empower MSH to help clients drive enterprise-wide data warehousing and transformation with speed,"
+    publishedDateTime: 2022-11-29T14:40:00Z
+    webUrl: "https://www.hrdive.com/press-release/20221128-msh-partners-with-databricks-and-informatica-to-leverage-machine-learning/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
+      name: HR Dive
+      domain: hrdive.com
+    quality: 0
 
 secured: "317dpIKOFg734dSJ7Z3tFh4ZYDaiQ/imoNceV0lTZg9nXgyht7g1Y32BcQi9hZlbOGS+BMRG4WswsDDdG5oweOBwV7qJZwXQPgbZoN5aCgGMht87m4K05dxvG/m/FuswjNbYrq/ZOtlMXG7HF1bXrfsxJJ1dSPgsmZLLMy0+k+7agNM9M2U63VtMz2xZVVSQR5tOeQpOGK1u1McEN7mHzctN72/iI3qW2+dTOygOkP7zeAPHB412t5B3XiWqQtdKmAIipJYd+H8Px79tvIKxAM+xcq4XM5SXjur8keAL+nVe/DA/+KXxtBB2vMHrpIB7putOmQn+Nag6AsYpmoSzvh3EOve7nTDLLzSdL4qfh1E=;KaXtMq36cz1dH4j1dzzGKw=="
 ---

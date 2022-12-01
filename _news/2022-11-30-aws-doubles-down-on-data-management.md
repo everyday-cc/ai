@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Stability AI builds foundation models on Amazon SageMaker"
-    excerpt: "We’re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough"
-    publishedDateTime: 2022-11-30T21:01:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
-        width: 1563
-        height: 785
-        isCached: true
   - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
     excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
     publishedDateTime: 2022-11-29T18:07:00Z
@@ -62,22 +48,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 74
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-    publishedDateTime: 2022-11-29T17:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
     images:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
         width: 666
@@ -138,6 +108,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 32
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "0Gq5NtAT2dS3UaxP6JL5ux4omUSTPtb/hHS3S3tVTqAvu31LkhWPpP9gag3M/TzE6qmvxVXv970es6ii1Q0cw5awE8Ec1j6qUkpIFH7gAAsOh6xF45FafrDBOWovcmEbWRdTRErA/1wDrQOb+S98bk5RyMLqMvH9Ct/tjiBWFD6UpZCneXae1toVzM4PSvAnHkrYIYTCCTMjAWoYQKRcv7ObHJiSCpgd7aMQYalnvme8aospI1OmNBaVxpGC/blKBQ/02TqilEL39Vjvmc19EytWGB8m5Vilne0djg6xd50YwNwhCottoEW0kyRkOzn6NcCRez4nNlJKRfsv2MrhvEIIgUA68Y08TJfNYlMrQem60akPfR6J81bf1tlVBFFCJZjy6KXRv1zoYxspOJhlJpfndGe4WCo7+zZnLIT8o+nr5kmAATDi5WD3pS0Dy71tNm5Dv2fKki0vNlX5pUewH6DrEkWoLrfnpcTU4cNAHKugvFe+pK+MLNdkQPSqm5BuZ/xy8gVuPjBAVkkT9OoW7Q==;FPmu6ZUW58GiVQqgAXRyxA=="
 ---

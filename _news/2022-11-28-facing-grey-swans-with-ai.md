@@ -23,22 +23,6 @@ images:
     height: 625
     isCached: true
 
-related:
-  - title: "Wildlife conservation with AI"
-    excerpt: "These vocalisations can then be used to identify the species of whale and, when analysed by the AI algorithm alongside other data points like ocean conditions, recent sightings from trained naturalists,"
-    publishedDateTime: 2022-11-27T23:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/28/wildlife-conservation-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/27/1837797.jpg"
-        width: 1240
-        height: 722
-        isCached: true
-
 secured: "jY6GAI8SMnlZj+aIzzwvS67mLLamsSYkl+C4QIAGPPca9MSYWVkW5/sEG26NAtF8cSdtaRvdB92uO2dpAAFKC6Pz984vNPyT/z/C3UresdKtYxerMPCNrAYqkQHQQ/pt+9n3OJbcRe/3th9fwhB8fE48a5WTN4mHbx4a+5waJm9syv59Di4D0aZHYENFTz6g7JjLLgiTVlkeduvEPYgaEKWHXEQqcfMnQz5mSkqUbzSvQ1q/iGbHSDP/3TlpXutS/kp1+kLwhBV+8DCP1AWSRW3IF6CU0bvN5sGW8s7nkvtv+G5p9ttnsh/jLsTk6zWyWcUJqiHUjip0cezLCafSqh1FCl8O6Htk6TwFp0cBmh8=;U0+A3yuz9RqJR4piEV55yA=="
 ---
 

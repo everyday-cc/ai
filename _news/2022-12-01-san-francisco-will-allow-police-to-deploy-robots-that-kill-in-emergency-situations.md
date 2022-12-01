@@ -145,6 +145,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Everybody hates the idea of San Francisco’s killer robot police"
+    excerpt: "A proposal that would give law enforcement the license to kill with a fleet of bomb-wielding robots has drawn a rebuke from the left and right."
+    publishedDateTime: 2022-11-30T22:20:00Z
+    webUrl: "https://www.fastcompany.com/90818015/everybody-hates-the-idea-of-san-franciscos-killer-robot-police"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "9KKe8rZqRHcRoAyPH13a1bAAlAL68cQVeB8UlVYK0PgMbVv3SdJML6B/ekVQq7qL4aGl++W8c/STWIgRw7jvTlplfkRcI0pRna26kmJBDCrcuU6PJxhJXTF+xbNrniRDhFpniGfJHAmtGNgJAewmtPPfgGLKKVe2mcV9X9dUYBHojkhUf0OtmGGd29VPtj4ocIo2erLuc25rwu/YltUt6dwIjIAF88GZn1SDcX2adBg7N13GXoyzoEKxlcPobe3owj415sehunkWkWOU5IbTf43Klz+KhL8KLQQYKxITOgn6mEn8+iVU5ANyf5Op98/yFhCShMD2IhlTTqwHaMkEQqBaakoYzLylqWvWhTV3riiR4vNtGljEXkvYKZ459F0yDl2pau9RLlI4uK9lh/f1IZDG7aw1MvnmL2nOJQfd/AxRQoIUkYg0fraxtE8DMxw90Mi/8gvXm6cFKZ7J5iodZJhRk3xyljyNtRt/Fg4XOI0Z1EfcayOV6m8JntpvQ2pmDhP2aIv0OmNppxl/uX+VKw==;/HnXIjCrjwLLLK4AK5N2Sw=="
 ---

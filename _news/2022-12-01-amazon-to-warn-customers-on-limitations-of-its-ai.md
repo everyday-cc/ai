@@ -27,65 +27,139 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon To Warn Customers On Limitations Of Its Artificial Intelligence"
-    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
-    publishedDateTime: 2022-11-30T18:31:00Z
-    webUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592"
-    ampWebUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
+  - title: "The Pros And Cons Of Artificial Intelligence"
+    excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
+    publishedDateTime: 2022-12-01T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://c.ndtvimg.com/2021-04/ge98cqb_amazon-generic-_625x300_06_April_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Amazon to warn customers on limitations of its artificial intelligent"
-    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
-    publishedDateTime: 2022-12-01T01:24:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligent-9629981.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/AMAZON-REP-IMAGE.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How AI speech technology is helping NHS organisations stay on top of documentation"
-    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
-    publishedDateTime: 2022-11-30T08:14:00Z
-    webUrl: "https://www.independent.co.uk/news/business/business-reporter/ai-technology-nhs-documentation-speech-b2235129.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 33
-    images:
-      - url: "https://static.independent.co.uk/2022/11/29/10/Main%20image%20-%20T-Pro%20-%20Courtesy%20of%20T-Pro.png?quality=75&width=1200&auto=webp"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
         width: 1200
+        height: 902
+        isCached: true
+  - title: "How High School Should Change for an Era of AI and Robots"
+    excerpt: "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change"
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 78
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop"
+        width: 640
+        height: 259
+        isCached: true
+  - title: "The Era of Evolution for Conversational AI"
+    excerpt: "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of"
+    publishedDateTime: 2022-11-30T17:30:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Parsing the hype, hopes, and practical applications of AI across finance solutions"
+    excerpt: "Is AI in finance a pot of gold at the end of the rainbow? Zoho's Raju Vegesna does some myth-busting and explores the the middle ground where AI has a useful place amid the hype."
+    publishedDateTime: 2022-11-30T16:04:00Z
+    webUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions"
+    ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 68
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_582621088.png"
+        width: 740
+        height: 450
+        isCached: true
+  - title: "4 Technologists Debate the Future of AI"
+    excerpt: "AI thinks very differently from us, raising trust issues. It's unclear whether AI is inspired by use or just copies us. AI will change the job market, for better or worse. Can we trust artificial intelligence?"
+    publishedDateTime: 2022-11-30T16:04:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
+        width: 1528
         height: 800
         isCached: true
-  - title: "Amazon’s Customer Obsession Takes a New Form"
-    excerpt: "AWS announced AI Service Cards, a resource material for its business customers to understand its AI services better and use the tools responsibly"
-    publishedDateTime: 2022-12-01T06:49:00Z
-    webUrl: "https://analyticsindiamag.com/amazons-customer-obsession-takes-a-new-form/"
+  - title: "15 things AI can — and can't — do"
+    excerpt: "From pop star robots to autonomous cars, AI is all around us. Stacker assessed the current state of AI, from predictive models to learning algorithms, and identified the capabilities and limitations of automation in various settings."
+    publishedDateTime: 2022-11-29T20:30:00Z
+    webUrl: "https://omaha.com/news/science/15-things-ai-can-and-cant-do/article_1ac69118-1e9b-5d2c-b482-f18396a2499a.html?amp;amp"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
+      name: Omaha.com
+      domain: omaha.com
+    quality: 41
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Amazons-Customer-Obsession-Takes-a-New-Form.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/ac/1ac69118-1e9b-5d2c-b482-f18396a2499a/63865d2589158.preview.jpg?crop=1007%2C529%2C0%2C94&resize=1007%2C529&order=crop%2Cresize"
+        width: 1007
+        height: 529
+        isCached: true
+  - title: "Westpac among founder members of AI consortium"
+    excerpt: "Westpac has joined with five other organisations to form a new consortium to drive leading-edge research into responsible adoption of artificial intelligence in the finance sector."
+    publishedDateTime: 2022-11-28T10:32:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41384/westpac-among-founder-members-of-ai-consortium"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/david-walker-500x500.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Wildlife conservation with AI"
+    excerpt: "These vocalisations can then be used to identify the species of whale and, when analysed by the AI algorithm alongside other data points like ocean conditions, recent sightings from trained naturalists,"
+    publishedDateTime: 2022-11-27T23:30:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/28/wildlife-conservation-with-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/27/1837797.jpg"
+        width: 1240
+        height: 722
+        isCached: true
+  - title: "The 10 Hottest AI Startup Companies Of 2022"
+    excerpt: "CRN’s hottest AI startups list includes AI Squared, TimeZest and Pano and experienced veterans from Microsoft, IBM, ConnectWise and Twitter."
+    publishedDateTime: 2022-11-29T17:00:00Z
+    webUrl: "https://www.crn.com/news/software/the-10-hottest-ai-startup-companies-of-2022"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12c3233d92ed-7182db298dd0-1000/artificial-intelligence-edge-globe.jpg"
+        width: 610
+        height: 458
         isCached: true
 
 secured: "TdksBPRsPt88d46yRTU3CTaA73vHEV6KwQ6l9sV1zF0JMyMd2ZcRFJeivLHDLp9btWYM1BqwXER77b9OqbWf6awFvz0ylyku+bILp//jh6uYeYo9tbl806mchKw8Qee7yVUsfNksFU+N9q6ljFzcWA3vWwpBi9JI4NMKnh4jnQ1hyLQUTl4S++WQJBzFdwdVj7VKjsVV61DG5J1XKAIYr+GZVCXtXw+pSLlJtI7emwVDJVwDh+hKMwoW0lwy8ypk00gQINv6nxicX/i5nAmskaDP1uqgbKROlanxFOEqbIjzOdbk0CCMtix23xBIw1KTjrsNQN0leSWRaZgaD6fMc1G1tp0JcAeJa6TTvMlEwtE=;v6QzbMBgRcuigSeaCMuPVQ=="

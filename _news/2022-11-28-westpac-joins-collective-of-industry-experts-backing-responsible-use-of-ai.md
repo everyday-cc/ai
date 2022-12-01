@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Westpac among founder members of AI consortium"
-    excerpt: "Westpac has joined with five other organisations to form a new consortium to drive leading-edge research into responsible adoption of artificial intelligence in the finance sector."
-    publishedDateTime: 2022-11-28T10:32:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41384/westpac-among-founder-members-of-ai-consortium"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/david-walker-500x500.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Westpac joins consortium of experts backing responsible use of AI"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-11-29T12:39:00Z

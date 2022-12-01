@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-thre
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -149,6 +149,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Everybody hates the idea of San Francisco’s killer robot police"
+    excerpt: "A proposal that would give law enforcement the license to kill with a fleet of bomb-wielding robots has drawn a rebuke from the left and right."
+    publishedDateTime: 2022-11-30T22:20:00Z
+    webUrl: "https://www.fastcompany.com/90818015/everybody-hates-the-idea-of-san-franciscos-killer-robot-police"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "eQzCI1SXfsg7azOhPzf3GI2kJHCKCmcV7Vf2gUkGnOKRZQD+Z9MRfS3mRkW8szC9o9qM1kIhkAtv/N0vBRT4LLIxqCgw53PRuPeH7RaPNaIj2rjIxvCvImqX1U16/O6mM0dIn9v3BnQUMqtIaBHZ5vkuzLAyZtSJ7tV3Wx7/36ag7lgqrU8ffWnOdrOpvBqt3prjxMolqw/3GYdK+4+n5uxI/xH4xIIQMfeofrZatu4nW6sIQeehHJ5TmDVpj0lHKRsVYi6GVakNl+bbII9XxHbvQqtVbcW3XKEmEe84VNgezW4UKAhrTTdFfnSndxl6gqkidWZ4XS/u1JouxRWxMz+XzJKmDFhPCcivB0GNmuy/x8SkfY6ULIo3tsNAKyMMCQ64uJARil3ocpsanfioMhvTpW0N77wXE/QMjJVVKH8N/C3wvT/b/IzO3QOLH9S7B4uVrFx7iI3BgIkP+rVGxYJwaYjNEpSnLeNQH+DwYWRpCJwOc8hrNXm9xezrRN35LpBjxOpSKL8nmd48SaEVow==;VoC55yGwLJg4CL/QnJTAaQ=="
 ---

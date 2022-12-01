@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "How Fintech Can Help You Weather A Recession"
+    excerpt: "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings."
+    publishedDateTime: 2022-12-01T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Digi-lending fintech getting future-proof"
     excerpt: "Lending digitally is still at a nascent stage. Fintech companies collect the data from multiple sources and use analytics and artificial intelligence (AI) to derive insights."
     publishedDateTime: 2022-11-30T17:59:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://www.brinknews.com/wp-content/uploads/2022/11/GettyImages-1238824344.jpg"
         width: 1920
         height: 1279
+        isCached: true
+  - title: "How FinTech is Transforming Financial Services and Ushering in an Amazing New Normal"
+    excerpt: "One area where technology has made deep inroads into the human experience is financial services. Thanks to FinTech, many of us don’t need use paper cheques, visit a bank branch to update our passbooks,"
+    publishedDateTime: 2022-12-01T12:08:00Z
+    webUrl: "https://techstory.in/how-fintech-is-overtaking-traditional-finance-through-innovation-and-cutting-edge-technology/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 17
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/12/88794644.jpg"
+        width: 1361
+        height: 771
         isCached: true
 
 secured: "qhglCDmP0IbHOSvRgD8fRB87DlqMl2L3Q4rGyusyOlYs0BZGa+vEpLrIc7r1Y8w/RDAZo026EoKgaQ4JEWPJ3URL9qVJJEpDUEkybljZowYHF5PRf+8t97wzeTfC25IBDEECKjwiw5yvgqFz0Q6ZtF2vxZuze5xPBGzIr0bAwYBwhytCoBIrNBS53SDXw6UoxezR+CHqeLb1TwP2SaXcbZHPNRTZIQWnADhYI6TAQk7b4slXjq0DGw1ZwnnmU82wn87aKM7UW2Uhd6VbxrSxoZezLBADFu9ReaM0hID5BYDllHr3Lc7C+P9k+38Te2WWLwR/ZTIym4EDPDDvvDhu1APJ6NQ6iPG+VjWR2OkcNP07k+aq1WSZvEfhzZVvCVBz+4JMhn+xwXoZ3MmCIYC/Xpj6lY1i0+ISeOaP3tsWXvotE2Fki0yjufIYOeZUunXadUU7+6deygVUaz2FJfSVTiJcN9WZd1PzPB7hSNhmbNfrajSFKdXMXbTC10DnXSlsJK5avEuuLZWyj0eq8sn2iA==;EmSo+wJH6J3e9NDRWtgeoQ=="

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-pow
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200"
@@ -49,6 +50,6 @@ related:
         height: 675
         isCached: true
 
-secured: "tqxbr+ir3DD6kxxwghQLuxUQ7xyRrs2Yk2ThAWKgujRiyALzFR3/9pm54z2pe5Z7ef7U2VpIw45tghBsUTXXfaEQGBhzKATJ94m9m9L/5WEVj0KWuK0EGJjFA8FPZyf8kaWklfFBfEgOywg05Hk58NcsfECjivfXIXeIiijLO/PM+gtCMqUzSbKeaeEplE1wb9BZkLsbasmZj7MRVgYPliOKUqcnF0PLRFePtXmYBLWzAmEd59rn4qkfQscgJeBIS7CmPU4J6rRt40XNz7P3VnYcDB8EeiNWYAmc2ucCSd4J9i20nu1I9KczChzWQ88d4mzNfJlYRQynXDc65+eiD+5SfQjyXSLwdrUhW7DtPWk=;zAyPitbbL7EMbCudZ5HGKA=="
+secured: "J8BK4+8o6CIpotWvB/L3Sm7awAAQc/V68zztdR9XhOX0KoMqANXuT3Bzml4cViqSLvOcCYRdYaMQsGUxbwS+lMrjg0IT0wH5jJxE35TXRaJXJ9FOUweUxpL/c22dM1ouOcmQbg7hGNXKmaYkzHyQgLPXWgdtKglFEGMwrJRc+UDv4/CYsFK+1xKDvvId9m+W79WWcjz4sdJ/VjXn6eFf1T3EsOUOYtcnR8mtlWptZMOkL0GL1QSDek4DhTKEmjHQTxDIpgOOFn2MPXugzsvFnTFq0yBKShpWh21thkBri8rL67E4Z9uIBcH2v/dgXxuJ8onxGIkXt/IdEPuatvWMdtoUC8c5h44A3pTImzVq55GKftGHY1ecPJ+IAdVJC33tPQl9NX28uXRbi9rIkQiYpucA+pipoOxNWQfLn0rGykTfOLIfG7wQ8rdyisHyPLqhMq5lbKVqVbm4rkDfXMYIOJmOyZDfdn59GKn/pWwe2mmMiR6OMaqPV2WnM3HczG7VHxHg1NxmioXForjyEnLpqA==;UzWgR2+SRRpO0WwjG+TNBw=="
 ---
 
