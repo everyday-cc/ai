@@ -2,7 +2,7 @@
 name: "Anomali"
 overview: "Anomali delivers earlier detection and identification of adversaries in your organizations network."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.anomli.com
 
@@ -22,12 +22,12 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1443654202434076673/fq7eA6HD_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1598402555716911104/qutWb0vF_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Anomali"
 
-secured: "OYxjzdoRCt/AzsY8LrJsfJXm2BDcNovvoZ1uvGOnCqzgKUOUN8QcDDaw7pSlwTEpRWb2CePKJQf/XHXoj0sOA9AUfx8hXubbIMyMwYXSnqaUAEe//rPMuCeJtm/aaQUFOpRaRQ6/WJ0YMbdTR759LWvp+BuZN8CxnXw6P+EMUWV1eUqKGuEQ3ojW123yruoLmfee2ymjaqZWx2BhCm+Sv2TNh8g1k/vCHndEonBFe7B+ak+G1lYwEzdlazHd6bOF10VkgrOtYKqOGw6nAHaQJMoU/tQ4e4VrF3s1Cc5yd3OIl0MT4m2Y5iG+FNACdFHBVoKvbWLX5V80gZ+JFpBlktugdlusNwnIiLB3ZIJdV1/DWta20RDpHS8r9EvuiCkb5lBh7od1zD3glhZFutm1tJUXs4r9H0ceV174OsT6iJA=;bY/DDEsdNN1eNfIf5UE16w=="
+secured: "Pm3LuLt+6Bh/Y40bq0wWYS4yfiHWsD9ivJmOyfdb12V96NSLYEZfguWyXlZ6tgiSInDn/88JH4DXcu+kw3pJRze82SwMlzPUGblFk5rELVk/dnCB2JmZs679WSVEx5dlxNUOH9keEmT3a5ERj+7RvdciO/4dHZqG1/VnKnpdSG7pCQKRWYm8egVZO0WLoRg98uRdNeRsy4OyVGsEY5H/WfT1+whXPLhi6ZkKJZFfxkIvc1E6r2ZTPN0gQNxhD0+T+mX1204wUODGnNRC2IZw2GycdLEnkLOEmMLOVco++GlB4YbyWaf0iElTZlhbiUVvosuu/3kD8OiKAxYPKTRlJotPn5MkryQbsmgfB6pyU2dnxFV/KYANCIYeGSLJgFhsdUfcV079No/EVRsinCpSKhOeLBb0uvu1Snn5ZLazvu4=;CAdM/3lycpfjHvAcExA9wQ=="
 ---
 

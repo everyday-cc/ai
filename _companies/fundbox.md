@@ -2,7 +2,7 @@
 name: "Fundbox"
 overview: "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways."
 type: "profile"
-heat: 0
+heat: 77
 
 website: https://fundbox.com/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "TVH3zx2Lxw5k/fh7AeUwUScDBx+Xjz5wppHhrex+96C7hTvfd/wFFXKk+wemN05KDjl1HNf51NjQ0VSYIS0RU/8ACFM71NCF29pu62k6MN7eScmcJdCiFXLnxbn49nPOJphlvi4Vjn0XqawJz0Kir/pt/vUmaIqeT8Y0PfsOlBx6XxsWbAfNMBCiCEiRFv0I/LpBHFzADBL5nXMtPOI3/gNt9Q4gYycLnDIYhgo9rlhHuCoNxRGJp/q8tWzm7IwHYjLSQquCNqKteYsVDp+Wbb6Dn49F5IGlSneoeJmo1dMj47z9z9TkPZq9dTFgj/PLI4bJ/NlhgQlTmwgCkunx23Ftqgwcjjg8tQj/pQIgGSPBVZZZdjZdN184JkmdJRtnGL1uwa8kZPLwBXnz3DKe4FIVmxWMaZ+dxQPldxUUahw=;ThiWP8zr7MU4Q/hXfeViYw=="
+secured: "1lkwRLoTPMuAA8J8HdqKcqpgcvTodBV1so9maAv8TFzFJ3TnHzevWfdU72ADCtbfX2I99cOeiladR9L9Vlwhzs0FQwnuJL9DXy9mqUrbeSuhOdRqLadIJSGklUlwdDA0ISOoa8FK1nJ6cEzKliUArU29EL5K9aFPdhW8sUI/pEgWfty4k17iqVkzI59Zce+zRHq1wYen0a3ExnMy5/A0+6eUEoWSTFlTiyItpgiPD4bnjzKufFVzIx8nFTtGvJ798jcnk0lgvb4jp7E3HjwKnriMy99L2k5W6T6CtkVSdG6+VNMKVRQTmoJlSj2lYpd6NF5rxQPLMTHGeIM8Qs3JYW3UiAIkZ+KX2cfyGNRhhuNfNK3G+CVNVwBPlDG+FvIEk3R7bOm8Ybth1jRboDyJQoCGD+PJHGHymSOY8s9/BPY=;iRyYB6X+kIBpsWUGqSleHQ=="
 ---
 
