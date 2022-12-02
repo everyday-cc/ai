@@ -26,21 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Stop your public-cloud AI projects from dripping you dry"
-    excerpt: "The public cloud helped bring AI into the mainstream, but that doesn't mean every AI application should run there. Here's how to decide."
-    publishedDateTime: 2022-12-02T01:07:00Z
-    webUrl: "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/"
-    ampWebUrl: "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/"
+  - title: "How AI Could Help Boost Help Desk Productivity In 2023"
+    excerpt: "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ..."
+    publishedDateTime: 2022-12-02T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1225889323.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 646
+        height: 800
+        isCached: true
+  - title: "New artificial intelligence could help humans actually talk to animals"
+    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+    publishedDateTime: 2022-11-30T13:27:00Z
+    webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    type: article
+    provider:
+      name: KXXV News Channel 25
+      domain: kxxv.com
+    quality: 57
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Craft Docs releases AI Assistant to boost writing productivity"
+    excerpt: "This new AI feature enables people to speed up writing, spark ideas to beat writer's block, summarize long documents, rephrase a paragraph, and more"
+    publishedDateTime: 2022-11-29T16:50:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Craft-Docs-releases-AI-Assistant-to-boost-writing-productivity-156081.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "Artificial Intelligence Could Help Humans Talk To Pets"
+    excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
+    publishedDateTime: 2022-11-30T02:02:00Z
+    webUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans-020200500.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AIm91ydXiI4yiyi90XLsQS09CqDN2OFXNRENJ2PEefWis0knzwySjPYS24PyqJhAH8pos+YpdvcGkA7jn7oUqnQNXNT9jOTQwBHyfjkk8ZhSnt0KN8LC/GPn9gettM/Pit++bv6ZqYOWPnXBdnaoaOPr0lT2FLP16hmeq0KewTuGMjMp+vULUhsGfNVZ7ZmBNlpZWZ6om0wLmrOQR66gv94dSANbvAvBP1hXYqYw93wINDTRTaQc4Vzc26IwXPL9WR1RGDZ5eiT3tW2C6BwyfVGirfePzRy685vopxGuLiXFGZEAf2VI5dFdgGY4539uX8/2p8ko0956ob63vHBlWgg/WHdWs4owqom3PQZcMjs=;kisftRY3jV5UvG3vVF3tgw=="

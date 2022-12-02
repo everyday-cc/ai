@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Navy Integrates New Unmanned, AI Systems Into Middle East Operations"
-    excerpt: "Looking for the latest Government Contracting News? Read about Navy Integrates New Unmanned, AI Systems Into Middle East Operations."
-    publishedDateTime: 2022-11-28T21:38:00Z
-    webUrl: "https://executivegov.com/2022/11/navy-integrates-new-unmanned-ai-systems-into-middle-east-operations/"
+  - title: "OpenAI’s ChatGPT shows why implementation is key with generative AI"
+    excerpt: "OpenAI released ChatGPT this week, and it's a great example of why user experience is the future for generative AI."
+    publishedDateTime: 2022-12-02T17:10:00Z
+    webUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 43
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/11/28/94/13/89/7e/38/a5/be/f4/00P4y000019lNvJEAU.png"
-        width: 272
-        height: 270
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1367281424.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Oclu0NjtPIsC+TON9CBSxxFEE8cU9xaCqVFC1l446ZVPYVGpuXiSuXTC05Z3aYPCxInHrpvcZ+7scJvOVN9Lo5Pgjl+Ie1/dZ8QXQWSwfIsTpqIKZFdYd8ivcFtNe5lc+p9yXjthAPRb08P6BvgNokBoJJq/MD5aF+FhWOopA0CrqrCvJJRXTEwichGQU9A6VTKsp33lboGlaG0zcsND0SLN/WP3CXrHcmCaTdX9Pj88FT4a/pwC4aj4VZ0bAifnbcPwRhFZBAqBVdTpsF8aUxAM+ORXeoitdOQtRRPh5ci/5HNoolKPFeIcBG8fNz6mT1W/GkOh//ybR/qz+/G3hmV3P5GrZL2d47Mjb1tybvc=;jTjgbNUKSSbWdojG+dS90A=="

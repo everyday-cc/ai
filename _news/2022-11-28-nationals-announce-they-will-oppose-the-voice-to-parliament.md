@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "National party won’t support Indigenous voice to parliament, saying it won’t close the gap"
-    excerpt: "The Liberals are yet to reach a position on the referendum, which is expected by the end of 2023"
-    publishedDateTime: 2022-11-28T03:01:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/nov/28/national-party-wont-support-indigenous-voice-to-parliament-saying-it-wont-close-the-gap"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/28/national-party-wont-support-indigenous-voice-to-parliament-saying-it-wont-close-the-gap"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/28/national-party-wont-support-indigenous-voice-to-parliament-saying-it-wont-close-the-gap"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
-    images:
-      - url: "https://i.guim.co.uk/img/media/282affe3e806e40239aa3057288ddc73d5cea644/0_438_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=a44dc7cdbc816b5650c832bf28aaa555"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Have the Nationals derailed the voice to parliament?"
     excerpt: "Gabrielle Jackson speaks to Lenore Taylor, Lorena Allam and Mike Ticher about whether the politics of a voice to parliament is getting in the way of a genuine debate"
     publishedDateTime: 2022-12-01T13:01:00Z

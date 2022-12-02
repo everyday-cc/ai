@@ -47,20 +47,6 @@ related:
         width: 1920
         height: 1279
         isCached: true
-  - title: "Tesla Self-Driving Beta Feature Now In The US"
-    excerpt: "The CEO said, “Tesla Full Self-Driving Beta is now available to anyone in North America who requests it from the car screen, assuming you have bought this option.” It is a set of features that may turn autonomous driving into a standard for Tesla vehicles."
-    publishedDateTime: 2022-11-28T01:50:00Z
-    webUrl: "https://technology.inquirer.net/119784/tesla-self-driving-beta-in-us"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2022/11/Tesla-Self-Driving-featured-image-www.kpcc_.org_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "nrYlULQr5hImPvlL8efRWzDGCzmxvZc51wzz57I9qmvNkt0vfEQKdigSpysHzgpCCuC/lSUZNeItiOGkAhZi2CNrRQlTMAUp9/Pn/6QRfRLRUsfG31Cj8gK0/Vw9FkQkWLiUQZIriKkRtIaT9YnyZ1o+0d5rOAk/yF0CBD5qaEzQPnw1Zqmpc1IbR1n0FCD6iVsRj2CeWKEOHThUIbNpsBkzhaKmU7psp21ENmi3Iwf3mxDU+6DRPSq39XhEfwTCZO44vLV3lwLV0MSJcp0FwFbZ4XKM9BR1SuOazOlnwrctTyG43nQn5S5uyflHMtDFMCaTZOh0O8vrkz1hAinMnSvkkL1q91aCOA/idtAs0j6tuiV1gsHTlvnuThSt+J/NeZwMDQBZRg0+qYnNuJ+WNE4p+QYCthunC3NTqlC7XoFUy02Nu46svut0SGHA0aXndNyW2gEhhGIiUcP/1+wqu7y4uwZhnD2KEnPoqr+MlIqQAKNPUBvdyslMBeSyF5z0Z/Nn6GcKO8JzMd4lOZS/4g==;lRgY3xXygnn329hElexvBQ=="
 ---

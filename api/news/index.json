@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-03-openais-chatgpt-shows-why-implementation-is-key-with-generative-ai.md",
+      "title": "OpenAI’s ChatGPT shows why implementation is key with generative AI",
+      "excerpt": "OpenAI released ChatGPT this week, and it's a great example of why user experience is the future for generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/",
+      "originalUrl": "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1367281424.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/",
+      "publishedDateTime": "2022-12-02T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-ai-arena-teaches-ai-to-players-by-training-and-battling-ai-fighters.md",
       "title": "AI Arena teaches AI to players by training and battling AI fighters",
       "excerpt": "ArenaX Lab's mission is to educate people about AI using a new AI platform style fighting game dubbed AI Arena.",
@@ -105,7 +156,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-writing-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -144,7 +195,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -156,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -196,7 +248,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -314,7 +367,7 @@
       "originalUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1218,57 +1271,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click.md",
-      "title": "Disney Developed An AI Tool That Can Make Actors Look Younger On Video With Just One Click",
-      "excerpt": "New research by Disney Research Studios, which focuses on technology innovations for filmmaking, shows off a new face aging network, named FRAN, that simplifies the aging process of actors in video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63881c64853b25bbce5b6465/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/30/disney-developed-an-ai-tool-that-can-make-actors-look-younger-on-video-with-just-one-click/amp/",
-      "publishedDateTime": "2022-11-30T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

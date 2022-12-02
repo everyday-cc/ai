@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
-publishedDateTime: 2022-11-28T13:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
-ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
+excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
+publishedDateTime: 2022-11-28T14:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
 type: article
-quality: 42
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Fintech Market 2023 Expected to Reach Significant Rate by 2027"
@@ -74,6 +66,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "rW6OSeMO6OVMVpTY7blHOqaDpteLplxLFKmdofuVR0c0JBuAt7C7UJdQY4w3+T17mUWY0kU0mWLLOENB4c9SB//6ZO9JhHsm0/u7vsBjhmQFSCxbcK2D3BC3jeCmtlJ7MxF1z30b6Fi/NgND0wh8bH1Z2I9LmQ/+w/Zq87GDnE9fzHPLYTY4s9u7ryBaI2q9ioEfAflThajCE/5Qbi2tVffCH+xZsDa3Wg83K1P0f5WEOrEIf9PMbXWRfZzjRZErYWQi80kXRUSsGQYFmH0k5EfOC6uYIRxqfJYyyqDhNDg7KcZaI1Bwa90rdV3P4KwbxUnYFrW0DuWoPbLs7NY3SUWT1E5HP+2nwsIsBbXfRtA=;/WmB4Zp2w6tk7NkNCS/wIw=="
+secured: "eVDntTQT/oD/tsTe5w3593BnJGstmQUz7v8o0JUgBy9/tfqUiFJrVxJnCA1kvTHt0f9m2dhzQQfUFQe3CO7Ui1UlGCbAQThKUzhIeSoVSPaTwu5ZgenP6CdubjkhNN4TgOXtrtNryS7Sbr8igOAQo9exxtjui/G71GHPjawAvFMgpD4n4OA43sVAMCZ2WvlTzMGZMCXTiY1w7ffC6YdryxyqUhgDWhIT1HlKinL92G1gKDSzCFyU/6FyrVTqaTJAaBGDfFw6wze3elAa0KCZJcx0wd4ND7Yoi3pLd0s777nD0pRHNP4JTh4G2YgSZaf6gSyY+13IQnrlo3OfJiehfKPl+L6oPXmkpoTdQxz5gQE=;Pt4bD9i9uld6rwuEd6srzw=="
 ---
 

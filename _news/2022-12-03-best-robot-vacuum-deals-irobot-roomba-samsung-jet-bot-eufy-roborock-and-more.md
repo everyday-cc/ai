@@ -1,0 +1,31 @@
+---
+category: news
+title: "Best robot vacuum deals: iRobot Roomba, Samsung Jet Bot, Eufy, Roborock and more"
+excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
+publishedDateTime: 2022-12-02T17:16:00Z
+originalUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-eufy-roborock-and-more-2022-12-02/"
+webUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-eufy-roborock-and-more-2022-12-02/"
+ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-eufy-roborock-and-more-2022-12-02/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-eufy-roborock-and-more-2022-12-02/"
+type: article
+quality: 54
+heat: 54
+published: false
+
+provider:
+  name: CBS News
+  domain: cbsnews.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/04/855a7ea3-159f-48ec-955d-d1ff89de0e09/thumbnail/1200x630/a08a2e52a3fe6d6034ef8ff1297f1c79/robot-vacuum-hero-oct-4.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "QHqMvw1f6U+ND5PhRrykkIPApVDPofyVz8+FH5sWqpAIuecQp2/onJ0mHun7F6A3wKS2bo+MAODf7vkR0MmMGK20PlTEFXvDOH5fmMVT9VzkJZWGnygauz8Hbx3nnjJb9b0405yFDAlI5Mn5lRNoH9D18Y+S0hOOrmxwoqSFXrLSZe+HwZJXBYwR7YDoEs29kv48q40qxHUnqfjlebXRPUmLsusVw+uWrOzicbR3R0ZOHyCMqEbsywdp5fmSIsrFAABul+wR6BeHwxdMECScmUZKpLZykL27EuMknkCybHo6YIWXz4p5zBJb4uaYVVboc4+jQ+1NATanvzhLP7FSpiLHdmE1Lru2azWbWkjZqZ8=;oOg4Bb6D2SZTvtQljCN1og=="
+---
+

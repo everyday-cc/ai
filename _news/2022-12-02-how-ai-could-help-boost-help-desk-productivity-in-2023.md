@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
@@ -33,14 +34,30 @@ images:
 related:
   - title: "New artificial intelligence could help humans actually talk to animals"
     excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-    publishedDateTime: 2022-11-30T01:55:00Z
-    webUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-    ampWebUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    publishedDateTime: 2022-11-30T13:27:00Z
+    webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: KXXV News Channel 25
+      domain: kxxv.com
+    quality: 57
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "New artificial intelligence could help you understand your pet"
+    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+    publishedDateTime: 2022-11-30T04:29:00Z
+    webUrl: "https://www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    type: article
+    provider:
+      name: fox17online
+      domain: fox17online.com
     quality: 57
     images:
       - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
@@ -76,6 +93,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6nA+UIJPqaBYzMwn+6zjEehIjgkCJ2yZSQNwTK3wQazFaSTgjU1Jqz2iO3fHw2V+MUVFwRUpxZyVqbVcnszDWPyvv2JRN7lDK6mlTntW2um6qmry329GC9tKZ3Ogzu+4IcImOpSkhw++pHEv33E96kpr08V6ERcaxCB+m+q1ubvFKJFKwRnBctk1goDFnR/Y1+mnSvGO6gv3/ZLeEL/sAE9ZKnkeqrH/kK7AFDtS77zCdzigGxHOEEZCQNSh1FDBXoYkUkE+aPuaSXHCUe1VhCMoOi10yfK3V7jPPwBzm/59QV4FU2RtcEKqjKYwR8TrlHo0UlR4YTr0P1863/kgcG6fqg5Rz4vTNusjuXnQYOw=;jZ2SoMSyyuqx1z7DBEbhug=="
+secured: "RJ3c1ov0qoxpM9PdbOUn4BuOPIHtTumSbkJL5zuu4OgVSc39RziBdOnrycfyLWNXrBaCtdue7UDXN++EUQMEMZ+yrkKCpQ9g78ytxZffEKa/Cza3qYF9YsVu6Blrw0mvESPffWZjzefJV3yXj/2Y9wrC0RRDjw2tVxltLQkIT25TL80EgHxHuX1wxnqneD6wro2/ooRKnQOfDsdB+TIh0DqwNXaH9eqAALU0m8qxDo3dDiHO9f/j2n6M6b2Qt/LyhZp9HJYm+jPbZyARNk3Yo5zyoXqTNZT704qtIfjvVRQ4s8Wpj2z8KpdKmEpqraMNEQhhweu7T4/MG0/NMclPfcK0xkSqeKqU6Kw3mU8kHkZTtGlK98ZEgac5H9dFojAMu2QV4SyvPyi4sMkU2emmfFg1VnHxtkqX65ZfkXcOq0A+DDfTPwdKjQZjd89oPE1Uw2NjEFhwz9bKCZDjGqa5W9C4Ss0g0xCjAwUNN8lwZXH48AP2VEjJMoYWaxD7C0Kn3dLPfMBT8TiO/o0XOFBenA==;mDDT/iYNAYmP+hA2aNyBhA=="
 ---
 

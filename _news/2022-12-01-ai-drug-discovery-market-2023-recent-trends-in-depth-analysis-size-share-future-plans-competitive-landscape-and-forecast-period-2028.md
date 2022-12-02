@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence (AI) In Remote Patient Monitoring Market Size With Future Trends And Share With Revenue Forecast 2023-2033"
-    excerpt: "Europe Artificial Intelligence (AI) in Remote Patient Monitoring Market <br />to Grow on Account of Rising Expenditure on Healthcare in"
-    publishedDateTime: 2022-11-28T01:30:00Z
-    webUrl: "https://menafn.com/1105239306/Europe-Artificial-Intelligence-AI-In-Remote-Patient-Monitoring-Market-Size-With-Future-Trends-And-Share-With-Revenue-Forecast-2023-2033"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?128803"
-        width: 333
-        height: 250
-        isCached: true
 
 secured: "0qIfE1jiZtrJ+EGlvmvEsaIG6BqFCHSJyY0478TZ5yI8psdYKzKRC8akmQO8O9pZY/i21dKh5rlKwVpbIFLjQBP1cgJK6aXtRx7fRNWNl5G763uIiUvPNYUxThpuCg6QaCjw3A+IPaByiYZVb0DWlEWRhdHGA5J4rscFCHBlzcMnVCmB2bVtVD6/IvMJ2SqWehjp0EKE/xDB5LSfdMq2/Rc5SKPnwbZ8AtzG8cqUlA5JP364BJKXZ6rEk6QSRttOqBK5PvGrxBhAsW6shJJAF7aeBHTsaKJPfsGUs2XHz+6twE5PnClPtaVjXS8LlekU38DxDNUrG2axCyTmdWnF9YZiSfnycXhuCrLw5IqPTZA=;vO2x9Zd/5cPHSdlpooHpkA=="
 ---

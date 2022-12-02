@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and the Modern Podcaster"
-    excerpt: "Many are built on artificial intelligence (AI) — a virtual audio assistant that improves podcast quality while allowing creators to focus on storytelling. “Media production is now entering a phase where if you can dream it, it can happen,” says Jay ..."
-    publishedDateTime: 2022-12-01T22:12:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/Post/Blog/Artificial-Intelligence-and-the-Modern-Podcaster-156156.aspx"
+  - title: "Inflation Forecast: Counteracting Mainstream Media's Stale Arguments"
+    excerpt: "Our time series model suggests inflation could find further calm in November. Check here for an analysis of supply side and demand side inflation."
+    publishedDateTime: 2022-12-02T16:33:00Z
+    webUrl: "https://seekingalpha.com/article/4562036-inflation-forecast-counteracting-mainstream-medias-stale-arguments"
     type: article
     provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 37
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/135433-OTT-Quality-Control-1200-ORG.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1438451370/image_1438451370.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
 
-secured: "0++l8YROgUUeiOaNS2eBRh4GAKOXnkJxUEa3HS/wYAYFTJz5/jYlKF6xRxPXQaJ6CWkERJbj5l1yVMNbnaaI39B3nU0J3SNh4+oGo6ndtaPHkk3/s3BDU9ak4oJUC6vrEZdK5VNHirKEDETLVDQU3bMzZPKjps/TURzMiS3TM9iR2vkaQPIBetX6LoIrn7hacKz9wYkSCrriZk1J6gRqvHbtGtUP0JxziIxwjQGVvIdE7lfY950jk5uqpSdIQWibl2a1R9mcbZnrGAiATEPQNEe5LZb7wX5BMYexyMAJwEV+Hc0Pn+iHhHOYcKK3S3JU0kdkzqlDgu9pUxm417kMeX/24SYVcxqcZLcC6JKkXYg=;JECfEjj/EbR0eNYTr8i0fA=="
+secured: "wd7Xx93Ppy0npU3rDZIB942RuobKFg02PvzeyspACa2sCgsKZTCae4cESJ0kcczIB22dGGO/iUyrwgjRbNzZTcHOeko4kCre40wcd2gXNZK1a7OppdNwm4sPWv3mCrL0dvGZtfp2140Z3dANQD9gXLnfU+/A1MW32LT+wUspJdSzayqektqeKtX+5swDPjAArVh3Oe5a8vALufaNgEr/JhaMzGcxqazMAf/gP+g2wOWgz7RY4ldWHalDnrikPkgb4AuzNzq/NgAKIrh4pOqqpAR6Z2ex1oh9DO6TwLNIVoP8hfjp+u5JM7qIAkqAHe06K2rNkTsICWUuIKM1hEZ5pdApZnAth8Nsye8OFuk20FiWHOeVk+Aray9Q+CvB7S19e8v1M/ZwIH6ADqS13zbz1iahVNVEvX6FR0KXN7uT0PQCV+EdhFgehq2goVi+d4r+uC7GyvvnTtXzInVNetx6GZ1ozPhKOtpeU/OTF9yKJpVbAiV8hKXWohkTC2taik6sHHWH2EwopaKTBYqkJbF74A==;WT2LN1/S25bfOOuqBvttrg=="
 ---
 

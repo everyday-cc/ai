@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-d
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 646
     isCached: true
-
-related:
-  - title: "New artificial intelligence could help you understand your pet"
-    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-    publishedDateTime: 2022-11-30T04:29:00Z
-    webUrl: "https://www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-    ampWebUrl: "https://www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-    type: article
-    provider:
-      name: fox17online
-      domain: fox17online.com
-    quality: 57
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "LDaZSQRK7kfTHG23zh+KuEB/EwQ/vm/DZ6/1sVxX+L+w29R97iu+FbMeaxhGWvhEqX+2I5xDWK6ybQOh23HdjOHC82M1nlRYFV0JPrPvR4czyxOY/JHMNivE9FxuyYXbyUbjs1vtPVFbdadO09JN2swHRcpDP7UHs4ujtSNv6K3wFBGuwz4D4Qw9o/ISspUoeWi2NascAmVR1ABmiszjRev/icBEW+PmNwmS+pyvYjfUxTZQEEHo7a3f3+bsZ5TkvfwJoeppuIrflfwzq7/lgPeWEL71TKvzjmGBsOf/QwKrK9XkQF2H8d10aqUXru98/ZYVKMSHkYyY3MJf5fgf/NhZggqw2mPsd6N6fywhfyHT6vC/2+elVhN/MEAoIcokJweT9IFdYL6weFeu55I9b5WH/ARAGIOV69xpWDX+G+7zhRhccYci3cp9xSwT8O31hyfhE/NvnsNtLdYmk4SDy64MckR28lSjQqo55IB2lHCYndg+oyFsZr5cVqzvuwsYnL/tg262Mu6rYEZEOZtvXw==;hRa7YK3opa37IAP8TGX7Kw=="
 ---

@@ -34,7 +34,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -42,14 +42,30 @@ related:
         isCached: true
   - title: "New artificial intelligence could help humans actually talk to animals"
     excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-    publishedDateTime: 2022-11-30T01:55:00Z
-    webUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-    ampWebUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    publishedDateTime: 2022-11-30T13:27:00Z
+    webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: KXXV News Channel 25
+      domain: kxxv.com
+    quality: 57
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "New artificial intelligence could help you understand your pet"
+    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+    publishedDateTime: 2022-11-30T04:29:00Z
+    webUrl: "https://www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    type: article
+    provider:
+      name: fox17online
+      domain: fox17online.com
     quality: 57
     images:
       - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"

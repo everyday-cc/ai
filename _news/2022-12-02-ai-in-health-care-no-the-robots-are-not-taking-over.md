@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-01T19:31:00Z
 originalUrl: "https://www.webmd.com/a-to-z-guides/news/20221201/no-the-robots-are-not-taking-over"
 webUrl: "https://www.webmd.com/a-to-z-guides/news/20221201/no-the-robots-are-not-taking-over"
 type: article
-quality: 36
+quality: 40
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - Machine Learning
+  - AI in Autos
 
 related:
   - title: "Why AI In Healthcare Is Critical To Improve Mental Health And Wellness"

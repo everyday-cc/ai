@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
+    excerpt: "HAGA, Japan—Honda Motor Co. said it would focus for now on partially autonomous driving technology to improve safety, adding itself to the list of auto makers that say fully self-driving cars aren’t ready for prime time. The Japanese auto maker ..."
+    publishedDateTime: 2022-11-30T16:59:00Z
+    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=business_lead_pos13"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
+    images:
+      - url: "https://images.wsj.net/im-676004/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Honda developing advanced Level 3 self-driving technology"
     excerpt: "Honda said it is developing Level 3 self-driving capability to function at any speed below legal limits on highways by the second half of the 2020s."
     publishedDateTime: 2022-11-30T17:31:00Z

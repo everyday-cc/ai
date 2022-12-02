@@ -113,7 +113,7 @@ related:
     provider:
       name: WebMD
       domain: webmd.com
-    quality: 36
+    quality: 40
 
 secured: "pmzb2JeqwsnnFwv5/CvqDFX13ivS5ExKx38qwAKlxhzS8qDnIPcheQ6IvWT6w06Wu5gozou1PsXgEbO33o2aCpQmAvD2EJwe5qQWp8WazgGhet96JiAFiHw83IImS78N6K6xYep3K179fq6Oa3G3QXcFXZcSrD1hv2GFN/xuHAoSkZ+9DozwVqqmD/l4FGHea6pbsYat7L7yWPfSDpDfjIyv5BWUec5dGxh1mNWa0k7pKRWWPbW0ktdUYCa9BPnVeD3CH8OKH5lf1pwYktBDifQ1qIeLHGUXoDWyXrPkGvRgBIc7JJ6axp2w79xJZXnEcJ8YsAeP4YbOPzCZcjJDSMbKYyX8Xbdb4oCJq0n4X4c=;QYx56gde9iaJb8RlTRfoVA=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Self-Driving Beta Feature Now In The US"
-    excerpt: "The CEO said, “Tesla Full Self-Driving Beta is now available to anyone in North America who requests it from the car screen, assuming you have bought this option.” It is a set of features that may turn autonomous driving into a standard for Tesla vehicles."
-    publishedDateTime: 2022-11-28T01:50:00Z
-    webUrl: "https://technology.inquirer.net/119784/tesla-self-driving-beta-in-us"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2022/11/Tesla-Self-Driving-featured-image-www.kpcc_.org_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Tesla Releases Full Self-Driving Beta to Everyone in North America"
     excerpt: "Full Self-Driving (FSD) mode has been in testing for years — most of those who bought the package with their cars have never even been able to use it. During the limited test, drivers had to log over 100 hours with Autopilot and hit a minimum driver safety score with Tesla’s integrated behavior tracking features."
     publishedDateTime: 2022-11-29T13:01:00Z

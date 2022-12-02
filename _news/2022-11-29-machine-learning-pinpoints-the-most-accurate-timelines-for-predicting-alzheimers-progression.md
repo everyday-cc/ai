@@ -57,17 +57,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Cornell University: Machine learning gives nuanced view of Alzheimer’s stages"
-    excerpt: "A Cornell-led collaboration used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer’s disease in people who are either cognitively normal or experiencing mild cognitive impairment."
-    publishedDateTime: 2022-11-28T01:53:00Z
-    webUrl: "https://indiaeducationdiary.in/cornell-university-machine-learning-gives-nuanced-view-of-alzheimers-stages/"
-    ampWebUrl: "https://indiaeducationdiary.in/cornell-university-machine-learning-gives-nuanced-view-of-alzheimers-stages/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/cornell-university-machine-learning-gives-nuanced-view-of-alzheimers-stages/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 36
   - title: "Machine learning gives nuanced view of Alzheimer’s stages"
     excerpt: "A Cornell-led collaboration used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer’s disease in people who are either cognitively normal or experiencing mild cognitive impairment."
     publishedDateTime: 2022-11-28T17:42:00Z

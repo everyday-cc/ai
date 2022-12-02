@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-excerpt: "Stability AI offers generative AI models that create text, images, audio, video, code, and more from simple text instructions. Generative AI or foundational models—models that are adaptable to a variety of tasks in domains such as language,"
-publishedDateTime: 2022-11-30T20:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
+publishedDateTime: 2022-11-30T22:00:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -41,6 +35,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS AI Service Cards signal Amazon’s responsible AI catch-up"
+    excerpt: "Invent, Amazon launched AI Service Cards, which a Gartner analyst says is an effort to catch up with competitors in responsible AI."
+    publishedDateTime: 2022-12-02T18:33:00Z
+    webUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/"
+    ampWebUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/aws-logo-new.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Stability AI looks to AWS cloud to power the next generation of generative AI"
+    excerpt: "Stability AI, developer of the Stable Diffusion text-to-image generative AI model, announced Amazon's AWS as its preferred cloud platform."
+    publishedDateTime: 2022-12-02T17:37:00Z
+    webUrl: "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/Stability_AI_logo_Logo.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
     excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
     publishedDateTime: 2022-11-29T18:07:00Z
@@ -52,22 +78,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 74
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-    publishedDateTime: 2022-11-29T17:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
     images:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
         width: 666
@@ -171,7 +181,16 @@ related:
       name: Eagle-Tribune
       domain: eagletribune.com
     quality: 34
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
-secured: "t/SyUPmOLS9D7ZmYX+ocsShhAFpjjhIAYmFmieIHnCtbmHm7nuEa3BwDDnDYpQMl+BDL7t1wFoN2XMMlda92k7PPJziVYRV+oexm9X7AafR/KjfFyI+rLcVinPKgyckkPuxSimmUgi3oq8YaY/VOMsdH0uXsM5c84JK5LuvNOe0t3jf0Fi5U0wiT5H4PW1uG+z9pZoDpVAPYtn8JVXCOCCoCFNBa1NHURFF1tcNB/0XyIy95MTj4kYF/1zJIW36IIIa540HkWjEB6jtUxrsB6p5esx6CmwX5T4FtjKhQKRG5NNXZI7M9N8nQd4sX1Wyw/GhWGhV8QcI0tqD3hvO/xJvgXItI6bK/mUGJ7jmwKv4=;I/Q9o2j/Aaroojrf8qTfYQ=="
+secured: "xWOyOXVko5GFDLOZMkIE54VMr8HHbabf7DUby+Y5cmW5325kGn1sxTup7qIRxw7R2JDcuHxdadAl0zc0GHtylfAJmOh1mrCoRjOw/KrXGFQf5mkhrVE9t6SZK5ZP0uWBfsPoUiXUFJmynJ4Q3bRaUv58/tmCwWrUgdHTcsfHMIPwEpsCwWdg0PcoRvl5MSdslxt2glSGq+sxuM75cP7aEkS3FdqzToS+yeY3UZR/sOcqLhlx6H8grnM/tnmzPwn0PjYlyO6vC88CzmgkA7TQgpf9SbtaGNKPYG9psd0iAoBibptsgrAgcF0+4AxAce/tTR6AYkSi2FedmB4/uKOwEFkiPrQDWE6TqhEb6Rzner0=;pdM2zQAJRiesj8J/IockGg=="
 ---
 
