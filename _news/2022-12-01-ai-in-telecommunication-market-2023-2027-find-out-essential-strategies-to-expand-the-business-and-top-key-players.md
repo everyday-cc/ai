@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence"
+    publishedDateTime: 2022-12-02T04:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Care Medical Devices Market to Witness A Pronounce Growth During 2023-2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [118 Pages Report]\"Self-Care Medical Devices"
+    publishedDateTime: 2022-12-02T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-care-medical-devices-market-to-witness-a-pronounce-growth-during-2023-2026-2022-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Applying Wright's Law To AI Accelerators"
     excerpt: "Compared to the K80 chip that Nvidia released in 2014, the latest AI training accelerator delivers 195x the performance on a total cost of ownership adjusted basis. Read more"
     publishedDateTime: 2022-11-30T17:10:00Z

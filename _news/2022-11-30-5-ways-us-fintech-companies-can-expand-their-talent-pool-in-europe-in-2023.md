@@ -25,22 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "JP Morgan eyes collaborations in fintech space in India, says global CIO Lori Beer"
-    excerpt: "Beer manages close to $14 billion of technology expenditures for the $121-billion financial services behemoth that is also the largest bank in North America by total assets."
-    publishedDateTime: 2022-11-30T00:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/jp-morgan-eyes-collaborations-in-fintech-space-in-india-says-global-cio-lori-beer/articleshow/95864160.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/jp-morgan-eyes-collaborations-in-fintech-space-in-india-says-global-cio-lori-beer/amp_articleshow/95864160.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/jp-morgan-eyes-collaborations-in-fintech-space-in-india-says-global-cio-lori-beer/amp_articleshow/95864160.cms"
+  - title: "Artificial Intelligence (AI) in Fintech Market 2023 Expected to Reach Significant Rate by 2027"
+    excerpt: "As per latest research on Artificial Intelligence (AI) in Fintech Market (Report spread across 105 Pages), the growth"
+    publishedDateTime: 2022-12-02T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2023-expected-to-reach-significant-rate-by-2027-2022-12-02"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-291038,msid-95864178/lori-beer.jpg"
-        width: 600
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
+    excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
+    publishedDateTime: 2022-11-28T13:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
+  - title: "Giraffe AI Labs Participated in the Singapore Fintech Festival (SFF) 2022"
+    excerpt: "Giraffe AI Labs is a digital financial company based in Singapore. Recently, the company has actively participated in the Singapore Fintech Festival (SFF) 2022 from the 2nd to the 4th of November.Singapore City,"
+    publishedDateTime: 2022-11-29T18:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/29894549/giraffe-ai-labs-participated-in-the-singapore-fintech-festival-sff-2022"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
+  - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
+    excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
+    publishedDateTime: 2022-11-28T14:50:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/28/9719932.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "SaznwxLotjczBSsKOINoWf6Na5CxtytfndW0jHLQSXteXkFDiDzD9tZsmAV45gQSPYECMAUrFlP0FsvwP2n526EODeYqfqjVw9aMjzvSIzjv1MtdFO+4qZ+ir69J6g6T7wF9jGS1C4ybA7D59T3tQNIxtw6F3HsBjl/Fzx5OyKAOuodj8U6WAKQJcPmhMGDmgR3fHgXSMsS+U6y+RT0LoUBR2ULjVQ/aGcqKoVGNOmDL+pPZW+gemKNdJHiQY1RAMd1egZvlNVwA3suNbHSlakOta3znquFkAW7LhGEwI6SrPCA4oxqYpg6QpJ4GEa6k/f4P6+ajf9RWCS4S2CzWnYVLy4j1jPeIEr3wH3v2bIR7l/BiWIWrIlzgHNWvlclYVEjDosjXILPqL01h1kPFt3s7z2imVK7Mzp0sQTBa220VhbFZdKq/viSSwaJa6qMyzS7KxvPxCqabkdXbrJoyvh8vlVaVPeSMmUzE9H3ypEzJ5y30D0fKQ9yL2VxgrPK+AX7Mgs8S/tS2bHly9u8Tiw==;u1s7r2gA0GeadCfnG9cM7w=="
 ---

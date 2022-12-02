@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/22/11/29894549/giraffe-ai-l
 webUrl: "https://www.benzinga.com/pressreleases/22/11/29894549/giraffe-ai-labs-participated-in-the-singapore-fintech-festival-sff-2022"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "Mkdigiworld: Giraffe AI Labs Participated in the Singapore Fintech Festival (SFF) 2022"
-    excerpt: "Giraffe AI Labs is a digital financial company based in Singapore. Recently, the company has actively participated in the Singapore Fintech Festival (SFF) 2022 from the 2nd to the 4th of November. Sin"
-    publishedDateTime: 2022-11-29T19:12:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57713760-mkdigiworld-giraffe-ai-labs-participated-in-the-singapore-fintech-festival-sff-2022-296.htm"
+  - title: "Artificial Intelligence (AI) in Fintech Market 2023 Expected to Reach Significant Rate by 2027"
+    excerpt: "As per latest research on Artificial Intelligence (AI) in Fintech Market (Report spread across 105 Pages), the growth"
+    publishedDateTime: 2022-12-02T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2023-expected-to-reach-significant-rate-by-2027-2022-12-02"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 11
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
+    excerpt: "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ..."
+    publishedDateTime: 2022-11-28T13:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29868885"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
+  - title: "5 Ways U.S. FinTech Companies Can Expand Their Talent Pool in Europe in 2023"
+    excerpt: "Finding skilled workers is the lifeblood of growth for fintech companies but the realities of the world market in 2022 make this more challenging than ever. Promise is abundant in this space that combines financial services with information technology --  the fintech industry is projected to reach $190 billion by 2026 with a CAG of 13."
+    publishedDateTime: 2022-11-30T00:27:00Z
+    webUrl: "https://www.finextra.com/blogposting/23316/5-ways-us-fintech-companies-can-expand-their-talent-pool-in-europe-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 21
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/a2ef8f7a-4b2e-4611-9e68-cb6e78f512d0.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
+    excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
+    publishedDateTime: 2022-11-28T14:50:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/28/9719932.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "XAh44hny6r9Z4/0d2eAOVEPCEsEM3M5obAhPyVsTBisMi4JLnIHhADtsqQNj4a52In6x1+CMv7V8OZ7JdbKhLeNIRyiumRMPnPdrqOGijFZLtRGMZhzQu7FgSXeXaITZKm5m3/KajqQz96wIMeXKgYGgJ3dCV2hYM6OudRNXn2tSHfuwLzD7XSQGXswz7zFMo6mFxMtH64TBEFE2KgIb+fv+ExwRX0OaJ75xyL9Num/hZyzB+qSGzvJJjowJ/i7aRYglHjUoFIaSZ2P9t+Gn/a06Jz6f/f2GyaEdmkUrDZvs5C2+cXEJdL8wb3uS9wv/2Q6rycThzwr5bndQTy0nVQo8QwCZEltqCg9AjVXhBQQ=;cSbqMn2qLvcBMMG2ry4XRg=="
 ---

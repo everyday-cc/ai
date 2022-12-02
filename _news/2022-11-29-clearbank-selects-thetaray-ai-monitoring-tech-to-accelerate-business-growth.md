@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ClearBank Selects ThetaRay AI Monitoring Tech to Accelerate Business Growth"
-excerpt: "ClearBank, the largest next-generation clearing and embedded banking platform in the UK, and ThetaRay, provider of AI-powered transaction monitoring technology, today announced they will collaborate in cloud-native anti-money laundering (AML) monitoring to protect ClearBank against financial crime with ThetaRay’s robust and industry-leading AI solution."
-publishedDateTime: 2022-11-29T11:00:00Z
-originalUrl: "https://financialit.net/news/digital-banking/clearbank-selects-thetaray-ai-monitoring-tech-accelerate-business-growth"
-webUrl: "https://financialit.net/news/digital-banking/clearbank-selects-thetaray-ai-monitoring-tech-accelerate-business-growth"
+excerpt: "Through the agreement, ClearBank will transform its AML monitoring operations to a fully cloud-native program with ThetaRay’s SaaS SONAR AML solution. The cloud-native SONAR system will provide ClearBank the flexibility to scale and support faster and safer processing of increasing transaction volumes on its platform."
+publishedDateTime: 2022-11-29T07:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/clearbank-selects-thetaray-ai-monitoring-tech-to-accelerate-business-growth/article_3b2a0e89-4322-586d-9ab7-003c79b9d879.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/clearbank-selects-thetaray-ai-monitoring-tech-to-accelerate-business-growth/article_3b2a0e89-4322-586d-9ab7-003c79b9d879.html"
 type: article
 quality: 52
 heat: 62
 published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://financialit.net/sites/default/files/clearbank_7.png"
-    width: 1366
-    height: 768
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/90/690fb192-5b10-5647-b151-77b3bd6f72d5/6385c00d5ef45.image.jpg?crop=1644%2C863%2C379%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: crowdfundinsider.com
     quality: 33
 
-secured: "Ai5SaoLTq8Xphdnu7zuwWylSgyHXJCEBWYUG/iMAAyE5qRlBZ+DbIIcfrMtExhxxARP2naz5oPEfDBCykmjfqU+qFTDG495yO2Ac9KaT+uM5cZIzYD026uX5tomvjl8apoqj0DIDxBGnVgLExqlen0WDplLxrQCrtLdEGcNqRWEERDtzBQhRk78sSONuREscJbZmH1+ofmEEOTngW5Y0+qV/bzV+hZbtUuoiJbMkc/YK7KobhvODQZLWG0xrhGKYK2P2nbxIxqvH73u7eabGGdK7CHueYrRTD5IxHuQ4QiTHgRmwByELLi2xXVYrzbvdETAmUOmMBvjcNJ6zUj38K9GCT7Gose1S8W93oDF8vlQ=;4xrokOL3hsM2/xVx5mNT9Q=="
+secured: "brTp2KnJvdTBDTuSwCj+sHGc2uys69KqQuRgl68BGEllO4P432DUwN8o/PeH0S1S+v5i9uRftLB6KZ5MC8kHZnf0c/iGe3PiWy8QPf6vdrVzw10DZ56I+AZ/xdvOLEb9b6adsJXDqTT/C4Gd21NNihV7BVwQfSw8wbqUoXLS7T+sT3nnC2o4s8P4zAVrr6lyQp1PWCug4uMY6FuivMKQeSe9xeR8CV5yiJo0zEv5grGvwkMQM6Ea113UpMnp4bB7p42jygeGH2fGksL1GRF2Gj+RZi2KlxY/NK8Ek/IvFjVrF5BYXFDPG4pHf+0ckNsIWml1F1AtjdACqlQWQiyQfJD135gPeojQPIVPVRPm/6o=;THnKcWlFRPbrx001eLbn7w=="
 ---
 

@@ -139,6 +139,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "DigiYatra: These India airports now have facial recognition technology; no boarding pass required"
+    excerpt: "This means that a facial scan will confirm the identity of DY-registered passengers, who will then not be required to show any physical ID proof, and their travel details will also be captured in this technology."
+    publishedDateTime: 2022-12-02T07:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/travel/travel-news/digiyatra-these-india-airports-now-have-facial-recognition-technology-no-boarding-pass-required/articleshow/95933374.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/travel/travel-news/digiyatra-these-india-airports-now-have-facial-recognition-technology-no-boarding-pass-required/amp_articleshow/95933374.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/travel/travel-news/digiyatra-these-india-airports-now-have-facial-recognition-technology-no-boarding-pass-required/amp_articleshow/95933374.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: "https://static.toiimg.com/img/95933380/Master.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "3 Indian airports to now have facial recognition-based entry: Check details"
     excerpt: "The government on Thursday launched DigiYatra that allows entry of air passengers based on a facial recognition system at the airport in Delhi, Bangalore and Varanasi."
     publishedDateTime: 2022-12-01T11:40:00Z
@@ -197,6 +213,6 @@ related:
       domain: moneycontrol.com
     quality: 23
 
-secured: "/+TnRXJZWYpAKqcyNjMieCDK7B3vLh+x+52p/OMmlt9c07EUKBHI0VrJ6DwML+8O3Gs6oNnpB4w/BQsQA3nDCoEJkEkhXMNb7KEXRNC68uOAqrIBFkqPmmADJvNJDCqNdVue4XShkjxeV1ep4UOEyN0cWSXFHVLkh9oCNUz/mH83c7b5A+oI8yFovR207AX84RGS88qx4Agg9yj9hp2wVI51gAHKcz04Xq/JFCG/ME/C8zakLCEYVeRa30amVPhTqsw2wWADj9b98wf0UbDZihkWyZUWwRb+vM9ZFvWADYwn/orXXZ4EyU2YiSG4XUz+nUjRfhvJSWvMambU5+cDFG6h1mr/h4teNojpueXCjNc=;luWTVXI9OaMq7WJ26CXKEQ=="
+secured: "zRlk7NNGfTyOkhiQ9D6mxJyuaGWKEDNsoOf7gqj1euOSd5N1vp7hGoi6qFReLPu8xAc4w+8O1LNbc71mvgkTgo31kcbvktsdak1T3yjy7peiDawC5knOXG1Y4iOHKayNjFPo7sHb7e5Cs7bQrFO8M4/rwvWrafiFi/2hU9hwp2Xaw7CbZ+rNSErngvqB00uJZnL+qbF9QqvqB5uj9GZgQjfHU432gOYllYo+7VZk82lc/9AdXALOHuMHuUAmDNYAXBtB5o/OVmnv3cInHFop7hZNFjMKfH4VT4oCnie9bPkNqId+rW0bu3yjEZISb7wV0tuMEeU4X/e1V9iN8gBjfAIKUBbAFirgEAd6+WH5eJiQ6tD8DHh2rwQcFbyKZjNJKBZYv8LJekd+kvoJ2M8PWTDtek/ZcqPgJIeTLmJm+CzZKOO4rekxUXabkoZfqS8NzzgEtZ0/Jhjo0JWNxSkbIo9aL5xeUaKBsdAZ3Lbzwae30uvfqXM+G5L4NISdiAD/RYJEYaAY2GILOAR6w9jqJA==;pgheeBksBnb3ggIJqZvAWA=="
 ---
 

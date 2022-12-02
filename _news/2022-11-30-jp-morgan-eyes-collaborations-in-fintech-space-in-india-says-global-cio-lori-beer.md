@@ -26,22 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "5 Ways U.S. FinTech Companies Can Expand Their Talent Pool in Europe in 2023"
-    excerpt: "Finding skilled workers is the lifeblood of growth for fintech companies but the realities of the world market in 2022 make this more challenging than ever. Promise is abundant in this space that combines financial services with information technology --  the fintech industry is projected to reach $190 billion by 2026 with a CAG of 13."
-    publishedDateTime: 2022-11-30T00:27:00Z
-    webUrl: "https://www.finextra.com/blogposting/23316/5-ways-us-fintech-companies-can-expand-their-talent-pool-in-europe-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/a2ef8f7a-4b2e-4611-9e68-cb6e78f512d0.jpg"
-        width: 500
-        height: 333
-        isCached: true
-
 secured: "ylnSQQ9ROHtcJ+8WlAlbCPnVvMcJNtcTG9veSoJ+udJY0yciPpVCyD66fkjmPd21/LuOVhvQAY+T2OqmY2K9zgW1wHEjLbHjecQiD0PS6Y9+hv1wkEL193eG/VtAQzU6UO0vTLA/SO2wJsT5ZL7xW3DvPEtyhSTS/IMMe1b/sv1HlE2s4S6hmP03F7MbhMH3YhS+iYIr+s1Xd+G3Bq6qGrK7neok91NocWfyxNAOBj2IYUn0InOFv0a98R3UrE65BujCGs9R6ScusaxbSiVtEZ/pTIJa0HJ0Kf6qrB6HUOBIPn7MrOB1UfAASlb+7tSBb6NOTSztfgCVBIvCWaty2aaEbQB2/k7sYVgCYlHi9R5fYp8vfhYC+fpTS4rxqGzAHoy9tT6NfNnJy6AXoJ4aOGkrifXWbVKicOhFZSpDH3lIipRXvrnJMkrYNfwe1WWo6PkGiOdUju7GADefTe55J716mXn4cHTvGhoIaTuqjKSW3e71vr3C4tEGo93ml6Ode0RH7rWgakLL2BPf3C9dHg==;LPTIuDS0bX3zpFACfUM1TQ=="
 ---
 

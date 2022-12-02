@@ -137,6 +137,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "DigiYatra: These India airports now have facial recognition technology; no boarding pass required"
+    excerpt: "This means that a facial scan will confirm the identity of DY-registered passengers, who will then not be required to show any physical ID proof, and their travel details will also be captured in this technology."
+    publishedDateTime: 2022-12-02T07:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/travel/travel-news/digiyatra-these-india-airports-now-have-facial-recognition-technology-no-boarding-pass-required/articleshow/95933374.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/travel/travel-news/digiyatra-these-india-airports-now-have-facial-recognition-technology-no-boarding-pass-required/amp_articleshow/95933374.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/travel/travel-news/digiyatra-these-india-airports-now-have-facial-recognition-technology-no-boarding-pass-required/amp_articleshow/95933374.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: "https://static.toiimg.com/img/95933380/Master.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Facial Recognition Based Check-Ins At Indian Airports Now; All You Need To Know About The ‘DigiYatra’ Initiative"
     excerpt: "Concerns have been raised about the potential privacy violations as data on facial maps can be misused for profiling of citizens and even mass surveillance. In the absence of a robust data protection law in the country,"
     publishedDateTime: 2022-12-02T06:06:00Z

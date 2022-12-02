@@ -174,6 +174,15 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Amazon to warn customers on limitations of its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon’s so-called AI Service Cards will be public, so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
+    publishedDateTime: 2022-12-02T07:59:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/amazon-to-warn-customers-on-limitations-of-its-ai-a8d20978-1972-5700-8177-047a5865a915"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "7r6ACrrLp0ufgC6yp+orrwk6cAHDuxsfD4l7ie103bqk4/Ld4yVSQEndxEPJFiLYl03RGe/34qfDTYCym+PGC2vAOqd1GgBI1f+ixazOX9UXProEbjlyrOH1P48uKVbYg0OQNsangvcOQnGu8MWKZ213kknt9AjFWWNi0idlmn2be+2DMiJ1DKdKUFO3tDWDXadOypEWk7Wr3Az2PNAp74f8N+4bXaw1urC5K+JCSXRgSCUDBu8tM1jaZwMS1ZpbxMXhKgYQ0o2G/uvW00jf1jGk/PhjYBx9ykJzHJoia4mCLUSyp7Mhs0cHIwSG3D6/u1Q5o9ChUkYPQ8JdGM0g91He5Jwve/ZzB5bn4mJgGqwQEJDAonzZ8hJVG1a/wq7Ti4tx7ag2VmBVBcX69upDWgycLcs1ePkMaT1rk2QPpbyjOh6K06p91EqNV1o5jL+kkx/J6eI2nZvJtSLKYRl0afXLkGI8oKfVEb7WieY9W1HMXwNAJHLL0qy2kOlXZqKVsYuR2DQxh4ogE1aPjJmtzA==;2IVObNXoFX7ybMyNnBEBLg=="
 ---

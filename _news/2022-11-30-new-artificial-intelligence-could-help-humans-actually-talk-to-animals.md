@@ -2,19 +2,19 @@
 category: news
 title: "New artificial intelligence could help humans actually talk to animals"
 excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-publishedDateTime: 2022-11-30T01:55:00Z
-originalUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+publishedDateTime: 2022-11-30T12:55:00Z
+originalUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
 quality: 57
 heat: 77
 published: true
 
 provider:
-  name: TMJ4
-  domain: tmj4.com
+  name: koaa
+  domain: koaa.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ARDvT+i4CrsKvg2rJMlXQ8sHzblvy/gA1gw5bLYwEIYs52tD+vZUkuIGmplp7n9ix9r0+ar+G28VWRdkYmFBzw2J0uPfTvhZPG9vwQOVtCavrGGuLCcenvhRLASeFWR2N+/zzXUDpyPCB8jIo7xth00e/RXkOZ1wjV08zknZ808WGyhS6uy/t8dTAu356QqlaijsiUkYIsCTVD+EQ3fe4K0DLc1CfzI6LkvIlNPQJT6RbP8lhkf+FYRI9Hxv5YM4H5A3FIWjCJjNP6byXW/yauBoiIhmyXq6c3yTCyozGie4hyadftS4VFNMUesJUIppP0U05QP7p0m0d1/rRYhF9kfSTINNWW7kgM6KLkvHw34=;bNs6Fd5TsTuerBk7ljmpYA=="
+secured: "xwKZHBLcEMOcAXer5Poa9+nEGWofVa2J2sIMjbad9EO5P6cLLpFN8tWYVHyowlpoG9IsG8Fr+jQ9eT2Oxnu4A2rokINc4CMPCS1x9OqZ1LOZ3Et8nKjJZkf807TtAawjU8jzht/ofOx9ksfo8lqTc3ynMw7TAajIbhpqCBZTKV53XOnyneDOZ5TW32r2L/Pk2dbEkoxxY9zVnoo3SG3PG2m2D1bRP9196BLsY78svEvlbu0iwCdVlnele9ph3koabzsoDC0X8R/+6UzWy8NgqyWedIu9alnDrIZ0TOFoHfRF/oXVzPPTG0AnvW7Z+CtbrNodRRLz+ukEZ8ju6UXVdE/MO4NUECzqGkKa37Hfqk4=;sqgWcLJactwgpNUd5B05HQ=="
 ---
 

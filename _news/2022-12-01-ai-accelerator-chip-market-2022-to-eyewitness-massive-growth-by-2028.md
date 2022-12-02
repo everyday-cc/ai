@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-mark
 webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
 type: article
 quality: 84
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence"
+    publishedDateTime: 2022-12-02T04:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Care Medical Devices Market to Witness A Pronounce Growth During 2023-2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [118 Pages Report]\"Self-Care Medical Devices"
+    publishedDateTime: 2022-12-02T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-care-medical-devices-market-to-witness-a-pronounce-growth-during-2023-2026-2022-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Telecommunication Market 2023-2027 Find Out Essential Strategies To Expand The Business And Top Key Players"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [123 Pages Report]\"AI in Telecommunication"
     publishedDateTime: 2022-12-01T06:52:00Z

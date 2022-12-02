@@ -23,17 +23,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "Educators Are Taking Action in AI Education to Make Future-Ready Communities"
-    excerpt: "AI Explorations and Their Practical Use in School Environments is an ISTE initiative funded by General Motors. The program provides professional"
-    publishedDateTime: 2022-11-28T13:47:00Z
-    webUrl: "https://www.edsurge.com/news/2022-11-28-educators-are-taking-action-in-ai-education-to-make-future-ready-communities"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 35
-
 secured: "NSYG1DiGkrd5sNU0Mn91HvFBkC0Cle/2b0QMS5qiqi0pripq7Idqr0Yq0uA1Jm5te0JO4NHzAsDnwsDERmGgTGT9v3ivAw4P4BwgYoZR522sc93jheziBIKw1t0bGxfUFBph4xBCExvnvMgE43OJZ/y5sIIbktDkL3GSIlSr/ciGMp/3eIsiGRW/KlLRUkz+0JPLy/wZ/p6DAVk4+Kyjx4JmR260I8YFM/1f3NqSOXc3tJOaYRAYOs2dkXWtgEsrZYmPMJKV7PYDyKOY9h7V8oQV9FrfqGMovhDshH1kMX+czO6LumFceDUZJ/xtIre0Oq7W1/jpOb5GQeIaiwjKdcRdJT+S1Y4vJbqq49rFXd8P8B2EHQwy7ek+CV4m2I/a1o2DiCjAzYQRbTKDgY+rU7Wz4alAzKDaWpwKoFax3dAOOG73RYwF4pReaTaOCLACSXV8ZmwPXdyPprIX9wygxps6gBAFFtzsy4+l0C62nOJ+EQj5YugzOshZGzjB53GCtHEoIL0GEaugnYWOc7v+lg==;02zbe1Fjy+soLHgmIoIutw=="
 ---
 
