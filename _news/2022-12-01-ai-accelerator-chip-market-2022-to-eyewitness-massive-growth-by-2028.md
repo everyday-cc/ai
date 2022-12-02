@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-mark
 webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750"
         width: 750
         height: 422
-        isCached: true
-  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
-    publishedDateTime: 2022-11-27T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence in Food and Beverage Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
     excerpt: "Artificial intelligence has started to be used in food and beverage industry for a variety of reasons. One reason"

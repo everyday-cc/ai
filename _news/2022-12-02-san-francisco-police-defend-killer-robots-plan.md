@@ -136,16 +136,16 @@ related:
         height: 1280
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
-    publishedDateTime: 2022-11-30T02:38:00Z
-    webUrl: "https://trib.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_ba79e871-2370-543f-a4b6-d31759a59895.html"
+    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
+    publishedDateTime: 2022-11-30T15:02:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
     type: article
     provider:
-      name: Casper Star-Tribune
-      domain: trib.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/8/1f/81fb8c6c-18be-5108-b96d-5f9bca2caaec/638668b3e5321.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -173,6 +173,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "iDkkBdTjvKwVjRP13xVnJi+ff6hkSrwFMjYjI/iUBImggsrQNf49P0weutHzpl5oCxsM8ucA1DCjEA31mr8jsdJ7cARlClhpDRcU53Ugkf/30WvdRyZ6IHYX7sGyc3PW4Lda57UO/ZLbA/00MjJqptQ0sBBxWe2N5jEghskRDFPDCwOQEJ7vgV6G0HOnwhZfzAkyBbwW3TQMz045wcTb0M2Yk4jtEUI1vDgH3U4FgK9hTaxdudigbXJAeLSA5slE7TKU0yjPbURsyj00cHtvThggpixzHBnzqm6ZLL81PGQcszil4meBfPXeFxA4jyKec98T5ZgRTA28FKSQSxtHoes2WG+RVfjUfBcj71LD/e4=;XqYunvIVEwnjBsAdVnNz8Q=="
+secured: "Lmj3d3k7U8nsWfeq/CLZhzaHGiAahe2bdXgveRXw+bI1DpYrn8Z3zyyouElHZlJpzdZ4GMvxQjjZ8bp+4bGLSh+k6eoMyc/5Ph/S2FUyjwtqZt61OO+a4PjKas8expUg+dsKOsGRTH101kAe0b/KXb407bOTLRMKhz1Pj1sx4E/QFssu9ckb9Xu4lWsccoXjY5CRLhLasdhF9IFPfDjqonwxEEkIQSPeXtl3oAqEjcZXLoxdxTHU+y4G0HCEr4KrjZfp0FrGH27wTNbyK2Gk8mAodtEtswxsmgPpm3zW1eS8NiWj+5Vh07lJCELqTQ3vPdvZE3WfTe105G0i4akT29dnDxdjMQQTBjdahX81nWvhgfRamfwBYlwXmqMczZSP5weRp2kZ+leBrhmixeyWkCudPxVjeZUwNR1+1+chhQTUJbF+rxPk6NeIAms+nm6Cv7TczfkLzTS05ySAOEnQAKKYr124AFyF1yVlU8t9elj2RPAxF6AGLQmF2T3yhz5S3feRMT6TAct3twx9Hp1IpQ==;ZsFrJyutdHzCKJ5zyAR6kg=="
 ---
 

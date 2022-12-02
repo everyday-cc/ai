@@ -106,6 +106,15 @@ related:
         height: 771
         isCached: true
   - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
+    excerpt: "Global financial technology leader FIS ® (NYSE: FIS) today announced the expansion of its annual InnovateIN48 fintech competition to include early-stage fintech startups in the APAC region. Originally an employee-based innovation competition in 2013,"
+    publishedDateTime: 2022-12-01T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723438.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
     excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition"
     publishedDateTime: 2022-12-02T01:29:00Z
     webUrl: "https://www.01net.it/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition/"

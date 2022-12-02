@@ -136,16 +136,16 @@ related:
         height: 630
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
-    publishedDateTime: 2022-11-30T02:38:00Z
-    webUrl: "https://trib.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_ba79e871-2370-543f-a4b6-d31759a59895.html"
+    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
+    publishedDateTime: 2022-11-30T15:02:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
     type: article
     provider:
-      name: Casper Star-Tribune
-      domain: trib.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/8/1f/81fb8c6c-18be-5108-b96d-5f9bca2caaec/638668b3e5321.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
         width: 1200
         height: 630
         isCached: true

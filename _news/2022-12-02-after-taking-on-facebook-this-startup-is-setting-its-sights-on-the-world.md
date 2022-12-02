@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theedgesingapore.com/amp/news/digital-economy/after-taki
 cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,38 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Start-Up That Took On Facebook Plans To Go International"
+    excerpt: "A Vietnamese internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
+    publishedDateTime: 2022-12-02T05:11:00Z
+    webUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291"
+    ampWebUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/0r7m10d_zalo_625x300_02_December_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "After taking on Facebook, Vietnam startup is setting its sights on the world"
+    excerpt: "A Vietnamese Internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
+    publishedDateTime: 2022-12-02T04:06:00Z
+    webUrl: "https://www.digitimes.com/news/a20221202VL204/vietnam-vng.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 21
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221202vl204_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "WQbwB5Y9Yw169vH8WmbS+H7Z3+pxNn29x3p8O/WgnaKPQSTRBqNo7DWDp3cY+R0SV3aoC8GpyN4MweVTfQ6XPc4maClLIWvLGk3hyD61t8A8mS5xMaRGlNYhFqB2RZQh8X/mm6o0DbdVG8ofq2si5vqfowmZncnFiB6oNAmP2q85zBSawDzsEUjYLvi/bTaZFj/0y1OGL8Zj32r2kocy/TVA7jm7RY1QlKXsDrGkbo/H+bDHqnGYXj5zSrchGk/c+gJB14P7lfeYbA/50JzT12D0m7w3b+aITb8g/0bNcUIrCuAqixkcMa+dIh9cnbKlV1wFiQkH7Uko5/rl92K6Z6j/ViZctVs47tXOuQ17UlI=;Y+JppzDApR4QsIUGD1bXpg=="
 ---

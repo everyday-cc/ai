@@ -35,22 +35,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Is ‘artificial intelligence art’ really art? Yes, says this California gallery"
-    excerpt: "As artificial intelligence becomes increasingly popular for generating images, a question has roiled the art world: Can AI create art? Let's discuss the issue."
-    publishedDateTime: 2022-11-27T14:00:00Z
-    webUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/"
-    ampWebUrl: "https://wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/11/27/is-artificial-intelligence-art-really-art-yes-says-this-california-gallery/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/11/hypatia-h_eddeec5a39f505f7c29f640c14b1998d-h_5443a445c179c9945d1e14bca24f1eb0.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "HOf/Bwwp6l56wbAC+c9OgPQh0rOUqFArFYUvmgc1D3aGEwYhuqXl93cDURYYFBQqITI3pNazznaKHUq8dP6GE4iiDm07Rt7hOr2t4PSgUA3lE7BLeOE4hsdhOMLccRavlTl8vld5WRnjFmFdVWCCU37Z9YF+ZV5y0fqlTTRbrNoBOTVbuh9/hbtXSx1BCMTM3pewAZhO2guyZzHJHY0WOTK5MAw3IETA1CxitW1b84kD7+GwPN5OKsaEGP++lt5A5WHzBNu7UqYNKkOLyhYy+kUDrXwPg9aRcdGtIyLKyJxDi3KQDkr91+QOI1/v3CRLo8g/PsDTCWpJMoFccC6OXOqb0lfiNNovIjOEPMGOfv+TNlQI6cytx7z68Rx83PysIlLETHWkK+wiuJyp2Rg/tP8N/MVsNs3XjitikLuTosi/NHyYb7ta9ymgXZsVVTYP2MHw4genhIY8RBNzvXWBDNf0erb+Y9KtpZBiadnh9MX5u9gP1tfZVGfYuCgqxY7Dpz+Chq4n36c0u9218RjdCA==;3z6wdto7GGXhkWlfhbbaLw=="
 ---

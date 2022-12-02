@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
-    publishedDateTime: 2022-11-27T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Food and Beverage Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
     excerpt: "Artificial intelligence has started to be used in food and beverage industry for a variety of reasons. One reason"
     publishedDateTime: 2022-11-28T19:02:00Z

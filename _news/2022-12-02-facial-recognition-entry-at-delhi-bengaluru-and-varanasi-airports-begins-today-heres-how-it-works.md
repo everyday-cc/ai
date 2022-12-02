@@ -7,7 +7,7 @@ originalUrl: "https://www.india.com/news/india/digi-yatra-facial-recognition-ent
 webUrl: "https://www.india.com/news/india/digi-yatra-facial-recognition-entry-delhi-bengaluru-varanasi-airports-how-it-works-5776219/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Airports Go High Tech | Face Recognition At Delhi, Bengaluru and Varanasi Airports | What Does This Mean?"
+    excerpt: "Airports have gone high tech in the country. In a bid to go paperless, face recognition will now be used in Delhi, Varanasi and Bengaluru airports. Union aviation minster announced that these three airports will implement the feature in the first phase followed by some more airports in the second phase."
+    publishedDateTime: 2022-12-02T04:18:00Z
+    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109"
+    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 57
+    images:
+      - url: "https://static.tnn.in/thumb/msid-95929109,imgsize-100,width-1280,height-720,resizemode-75/95929109.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jLHFWPPgcXJnVUl8a6dt7O3q4hKzzqPnD4ETihff40Dir4ZcRAze/YjScrraoZZ2GBrx+EYYwpN/GfoTzAw2E10GJLl1nhnh9qzzq5b6e8nciufvFdSPp2lsWjamMB+k2VG5YHN53T/Dr4dNgPl4Dr21UOJYR5Ry9ZxxURgPAm7DmQekPGEugHMumCH8xdAUlx5ebGa6gtieTkCSQr/niW5xLWw5s+gPNiljHsSCZJB8fSWkmnzS8RIwagPYeMCG4W6QgXx2MYXjElMeimmn+BT0TpbOBpGl61nvXWki9Ry0y3hJpzrFBWm/9AuroWi5yQJIhOd6R7Q20GnBNn97xY1SVM7jo2yTe4MqyFRvuv4=;Snf7VqgF9GBIybPMbLslBQ=="
 ---

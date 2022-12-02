@@ -70,20 +70,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Video Surveillance And Vsaas Market 2022 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Companies covered in the Video Surveillance And Vsaas Market are - Agent Video Intelligence, Arecont Vision, Avigilon Corporation, Axis Communication Ab, Bosch Security Systems In"
-    publishedDateTime: 2022-11-27T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2022-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yvbHIDQU+kKTODcJHUDguoFcKJ71/QUIDcnyq9gYn/tP2FPyNbyM/2jF2WlXcJzmFaqdPCujHnxS7yykAc41jsuhxWrfp+S3gXLZysZvV8Kk5ddvpRlK9Lp6Kd3lD2GAfvpk518gjaxi3eOi2Mm++mP5j36pDVvUt+AymBF+k/1A2ivg4hEeo8JCh4sq61mR/iHlb7tvQmb0mqT5BrRWp91oohtknx/QefcQYc+CkdVdNKlf0bEwjmAiUspI1I7oWF0vlZ31InI8uY5Ta8tGqXVqDdiuXdysJqnvxeCTpDnCf6NWittHHDk1U9f5YdiJ4Jz4jy/2PUVERyB4GTyN3wyaQCx6OxCh8xw1gNU0GAc=;R775UksWvhRlA1J1axTu3g=="
 ---

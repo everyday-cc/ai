@@ -43,6 +43,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
+    excerpt: "The Global Federated Learning Market size is expected to reach $198.7 Million by 2028, rising at a market growth of 11.1% CAGR during the forecast period. Federated learning can b"
+    publishedDateTime: 2022-12-01T23:18:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/01/9723388.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "F+cOXzMYikCkBg5UdsdM4rVrZmq7tc/l7tmGOGSP0RxMaTi+q3hawewsnKOjIbWRLA+Hi4NTEG/vRdEmVVuDsHglP3MervoKdUuzalxxYZwdbj2/HWsr1uu2G4TnQG8+s54SgeQmRgWX8aKVCF7kVPz+djszUiYFQ26OPt8Qc/v5kc7wUA001YDvkKuz6m2/hyKrHQWuITFsTFo4hJROoUtvaSKKDEGAAK/LfNVWXzOMC4aN5Egx57sEvvnI3eZQ2m1xnjYcMGCX6HNkTKP1tneNJFkoSxnYcQRPqeKoCQaINtNxND0TTW2MA6kf76QqHjPlQdFlLnPW9ZNM5nrosqXYfNfMwpOY8OZmKE8n6Yc=;5CBHj475cv5xWP0OihlV0A=="
 ---
