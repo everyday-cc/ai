@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T20:45:00Z
 originalUrl: "https://www.today.com/popculture/time-person-of-the-year-rcna59809"
 webUrl: "https://www.today.com/popculture/time-person-of-the-year-rcna59809"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Today

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
-excerpt: "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,"
-publishedDateTime: 2022-11-29T13:02:00Z
-originalUrl: "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html"
-webUrl: "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html"
+excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
+publishedDateTime: 2022-11-29T14:28:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/ec/1ec4b2ba-c377-559f-8217-102383a4e62a/638614c570c73.image.jpg?crop=633%2C332%2C0%2C403&resize=633%2C332&order=crop%2Cresize"
-    width: 633
-    height: 332
-    isCached: true
 
 related:
   - title: "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
@@ -104,6 +98,20 @@ related:
         width: 860
         height: 394
         isCached: true
+  - title: "NOAA, Microsoft Will Advance National Climate Efforts Through Advanced Tech Partnership"
+    excerpt: "Microsoft’s cloud computing and artificial intelligence tools will help NOAA further its climate and weather predictions and forecast modeling through research and development efforts."
+    publishedDateTime: 2022-12-02T16:17:00Z
+    webUrl: "https://washingtontechnology.com/contracts/2022/12/noaa-microsoft-will-advance-national-climate-efforts-through-advanced-tech-partnership/380413/?oref=wt-skybox-lander"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 31
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/12/02/GettyImages_988302516/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Edge Impulse to Lower Barrier to Machine Learning Application Development Through Software Integration Collaboration with Renesas"
     excerpt: "Edge Impulse, the foremost development platform for ML on edge devices, today announced a joint initiative to advance professional machine learning implementation by bringing Renesas' DRP-AI Translator software directly into Edge Impulse Studio."
     publishedDateTime: 2022-11-28T14:11:00Z
@@ -114,6 +122,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "R92TowZ1nPVQZv6LQtouTULAYNp/v5+nkB7OlV+8UJ2VPBr488wfYUBdKCJo8s+oOZnsslIYShDl6kR4prPQVXt8NsPF6Quo3EtAWez5AU6i0GNS+6uHnFeX0u1ve+7mOTcLN7k2jSqoMZyZPgMakpTDJbdQccvFMIXJHpaEw2WB88ZP71MkSfbvjb4TUQ9ps0ro1iBSUM+Tum/9sDp3y1KVdLjebIm1i79FBElkAwe8//YmW4sebHmka2qyn3OnYqKdmQTfMaKAHTUoubo/+9iLauYYEs77Wm8IZLeAS1BcPCTcxpdnzklhp+2mvK7hkwU2N0qkIdwJqilRhxBxqLhgf1pUI3hmYEZedf+W1tU=;9e5j1VIqhtKCNh6fIxlMgA=="
+secured: "Pvg+Daj2d91vhw01m9rNvuEzIS3THR68tXwIHTDk5R7erVOpx3n+GxKwiZtwDcQ7MRLqmkeKZ4OSZvoPTdwu5n6IaHnVFg4UpL0ED/mBYaG6qf/yTOjiqns8bckwmD11xiMfPyeKRtGOu5jVA1JzY0F3Gcvd95HnSV/7EFKfRgJ6shAsajAEeswPB+bDJ3v14dPX9FTCMAhiNVPmEpwrORT0fhzPuO388e76y/AfG4lbc6A3GscUrQu+CHcfvIIkfySBEQ4znWp9YKv4SqhP6BuxhZtOu1eja4qwvXP2lt0czmLIRpcrflGhdir8LaG0OVGuAvIWh0qM7JobSNJ1TL/jdrVdB7nYV62RLfVWuKg=;QNNmsugdnfOfQQstxcr7Kg=="
 ---
 

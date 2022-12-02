@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
+    excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
+    publishedDateTime: 2022-12-02T21:09:00Z
+    webUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "DeepMind's new chatbot uses Google Search, humans to give better answers"
     excerpt: "DeepMind, owned by Alphabet, has unveiled a new AI chatbot called Sparrow, trained on DeepMind’s large language model Chinchilla. The bot can talk to humans and answer questions using Google Search for information, which is rated by humans on usefulness ..."
     publishedDateTime: 2022-11-28T07:11:00Z

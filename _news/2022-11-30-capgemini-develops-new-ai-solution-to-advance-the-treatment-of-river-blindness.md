@@ -39,20 +39,6 @@ related:
         width: 900
         height: 657
         isCached: true
-  - title: "NEXT50 to accelerate adoption of AI"
-    excerpt: "The announcement was made at NEXT50’s inaugural Executive Day which spotlighted the latest in state-of-the-art technologies including artificial intelligence and real-world applications.. NEXT50 to accelerate adoption of AI."
-    publishedDateTime: 2022-11-28T05:35:00Z
-    webUrl: "https://www.itp.net/emergent-tech/next50-to-accelerate-adoption-of-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 37
-    images:
-      - url: "https://www.itp.net/cloud/2022/10/27/shutterstock_1384554629.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "ptD3uK3EhjdtM99s+uEH8XK6JF7e9RvaGxftQCpXtMay1B3LZmMrM2BCG7SDMa7atdgIQ6KX4HYPM1QejP+Pp8rfz1mnsf6oPIGOJaktTwGi0IBUcsu4maRL6EYJm20s46f7OrQVQy9OSXPPfhCgKfIZFnE3gxJXsoTRaqNaNoiMdI8exrGS4rDpmlOoXu4C764p8qgt0jJPCC/RiiKdUQidLwLSJmRakBe0MN9VWSOmG5MOFCrDo/UHcyNdhpCbU3AYUqb7moqMpSe/o/YFLJDUprp3M6NOs2Wg+Rfw7wBu3/6tuZnc0LEDdKX8jy+PYlW2lf+OyRSgwJmxxQpHGDdU28Eu1PhwaUwooUem8Z0=;bpmFTZ4L0E4cLJ9GwygWDA=="
 ---

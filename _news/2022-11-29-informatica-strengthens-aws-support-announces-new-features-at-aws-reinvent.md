@@ -59,6 +59,31 @@ related:
         width: 1563
         height: 780
         isCached: true
+  - title: "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent"
+    excerpt: "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency."
+    publishedDateTime: 2022-12-02T22:13:00Z
+    webUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/"
+    ampWebUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 90
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all"
+        width: 837
+        height: 440
+        isCached: true
+  - title: "AWS re:Invent 2022 roundup: Data management, AI, compute take center stage"
+    excerpt: "Invent conference, AWS launched new services and features across its storage, compute, analytics, machine learning, database, and security services, and made a foray into supply chain management."
+    publishedDateTime: 2022-12-02T20:03:00Z
+    webUrl: "https://www.infoworld.com/article/3682073/aws-reinvent-2022-roundup-data-management-ai-compute-take-center-stage.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
   - title: "Teradata Showcases New World of Cloud Analytics at AWS re:Invent 2022"
     excerpt: "Teradata today announced it is participating as a Diamond sponsor at AWS re:Invent 2022 hosted by Amazon Web Services (AWS),"
     publishedDateTime: 2022-11-28T16:33:00Z

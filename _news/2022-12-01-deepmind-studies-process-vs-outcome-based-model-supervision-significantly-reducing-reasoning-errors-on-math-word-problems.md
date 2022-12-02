@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-30T22:44:00Z
 originalUrl: "https://syncedreview.com/2022/11/30/deepmind-studies-process-vs-outcome-based-model-supervision-significantly-reducing-reasoning-errors-on-math-word-problems/"
 webUrl: "https://syncedreview.com/2022/11/30/deepmind-studies-process-vs-outcome-based-model-supervision-significantly-reducing-reasoning-errors-on-math-word-problems/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: syncedreview

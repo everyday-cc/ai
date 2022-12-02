@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 webUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
+    excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
+    publishedDateTime: 2022-12-02T21:09:00Z
+    webUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "DeepMind's new chatbot uses Google Search, humans to give better answers"
     excerpt: "DeepMind, owned by Alphabet, has unveiled a new AI chatbot called Sparrow, trained on DeepMind’s large language model Chinchilla. The bot can talk to humans and answer questions using Google Search for information, which is rated by humans on usefulness ..."
     publishedDateTime: 2022-11-28T07:11:00Z
@@ -85,6 +99,6 @@ related:
       domain: nature.com
     quality: 34
 
-secured: "MB3s5WsqXV0QvJQtn4ExZcjcVneYyFVpofNfZQ+NwISy9GTChnm6Famz9y3IH2pU5Qh2ghG13jZQaTTODAcjut8f/Uas0dzTQTW0YEuh05K0eABpmrSVhi/FiePs5F9v8ufzVGy+SJRvb+eQwYdlWyB5xqi+PFLLQwfXUvsjqh/wQle2hvjUDXTH4ZbGRCUldyXPQq+hnLTM2J0rY46QKVQcA0wtl+BVZospB3wu7qmO52i9vMRR2NGQ6u9BeXQ/4KxVmXuMG3ZcvW/BftDdcug+9E+aNJdejzyNxsiCoW0i1wCOesgOvrJDGRUspsecaSJA6JFUadLwAMVPRUI6HW6aTnQ1PB6IO04GH7JpJ5k=;7GzDs9evwaahRumYqb1Giw=="
+secured: "iprH+7asBOt1SSlN17emswLxhf3/nmF5S8pLTdZiqOUv1dMTIo3L1VZv7jFjhNE7iHY81yNR/nncPq5eDWqvkoXrHBGQXa/vGpJeHS/xNZWzQPAOzcrQvcj8h4EUK0qPtP1g7nrv/l84w4sw61awcvpLtEcMU3J7OhQlbxB5lCmw+mHrgm60rcbHMEYQWWwnHFAKW/bOKT0F7i/JFE0y0IBnt37U+UaDoe/g3j1Ht5H1Er1NcfWjUWI8G7NeIKdlwEcmQ+G1wl34Zpj6zXm0tBJ5C44GXJRv8gDGtVvyMmBnobYOIAqmS9M46gUf2NhvgqRqOiKJZSCAVuHr5x/qcs22Tx9ME0xf1ocxGk5MHZ5lO2znfNUlv7AYzYtyefewqST7FdtWwbZFOUvZkBLp02R9gG6FE1hSbzdWY6havjt+Pa+6wEdlNEwV4swmLZvDfpRm1NhjHJQYv7VQQBDISaAY+ncZtfxqv6EW38qxuadOxS6CPLQ5d3XkziQ5NTm90KUpFCIn/PK7/CcvZZ1+MQ==;SaNXJz1YU1HdtvwEDISZiQ=="
 ---
 

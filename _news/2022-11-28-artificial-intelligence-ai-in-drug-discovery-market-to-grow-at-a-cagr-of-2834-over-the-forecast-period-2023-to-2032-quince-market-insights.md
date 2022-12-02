@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29871938"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29871938"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,40 +23,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Facial Recognition Market Analysis Report 2023 along with Astonishing CAGR and Revenue, Forecasts till 2028"
-    excerpt: "The Facial Recognition market size was valued at USD 3975.52 million in 2022 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 Million"
-    publishedDateTime: 2022-11-28T03:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-report-2023-along-with-astonishing-cagr-and-revenue-forecasts-till-2028-2022-11-27"
+  - title: "GPU as a Service Market is Anticipated to Grow at a CAGR of 40.0% between 2022-32 | Future Market Insights, Inc."
+    excerpt: "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),"
+    publishedDateTime: 2022-11-30T05:04:00Z
+    webUrl: "https://www.fmiblog.com/2022/11/30/gpu-as-a-service-market-is-anticipated-to-grow-at-a-cagr-of-40-0-between-2022-32-future-market-insights-inc/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-  - title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
-    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\" report has"
-    publishedDateTime: 2022-12-01T20:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29932719/the-worldwide-federated-learning-industry-is-expected-to-reach-198-7-million-by-2028-at-a-11-1-cag"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29932719"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29932719"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-  - title: "Wallet Factory Reports Its 2022 Awards and Recognition Honors"
-    excerpt: "Despite unprecedented times, Wallet Factory has successfully addressed all the technological challenges the clients had to face during 2022 and before. Taking a deep dive into understanding end customers,"
-    publishedDateTime: 2022-11-30T18:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722299.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "xULSA0D8XAgtjfqGKK+tupSXtUL41BJvu4ReY40qszcosRwdFNbQeiCVCPeGv4R1OzWhXXzEJjkuBbX/GSYqpR8bapdRCcpZtvTF2kFl7TiGPK+oWZytxRK7G9A+w16hI4odogofilZlQmyVOtwHsI7gYfA++8/RU7P/je5A9PJCbUNxZhB8FnLd0bM2mj+srI/RtE6G/rh83TQ0m/iBPyD7Uc4VSJ+ACbIzhTEndBZJtWXja/rq6OxQiNiDR6tGQBEoGXuwiPnENXftGEqlImrZ9/bVUrCWwxcnX+pt0wghWfLYWcyQhqjEMaZPyeCawzMD+bP5b1iMq8vEcJJKe+kruf9VMEiDBlgermMAyx4=;aOb6JkaLdbqnEj2+3H1VHw=="
 ---

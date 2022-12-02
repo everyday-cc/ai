@@ -25,6 +25,17 @@ images:
     height: 299
     isCached: true
 
-secured: "Ahycjr4usBlnnYv0vdRwVwCvOfYwG8sz6oFUrMThThgHrzqMZR/76/TWs5dTsaqEolH3FJHGeuVYJkgblnQIjXIpVIM0Ya/nln4sWECFQx+LeSEV9Wr7Sg/oVJlCRovVq9IEwYFslBddV6KTwjW4QZlagJ4Li2rOCw2+Lrn4aa5mSsdOxn6PDAHqOBZUs+olmPXndfgi33gThSsmVXd4uk0T7B7Bg2Vm5tUknpMOQYuQFC2V15o1t2UPNjCVnBVYY1MHvbHYXcezBiyAUqPmbGNJPKjNmbWznlvvIdnLzN+S0orD7k5PohJNQHkp537HhGpC/QHFgRoXKXixoA+3mMTKguLr/LeBvxMPkEDMdNY=;D93cvnkzip1MFdKLg0HM7w=="
+related:
+  - title: "TSA wants to scan your face at security. Here are your rights."
+    excerpt: "Next time you're at airport security, get ready to look straight into a camera. The TSA wants to analyze your face."
+    publishedDateTime: 2022-12-02T19:12:00Z
+    webUrl: "https://www.bendbulletin.com/business/tsa-wants-to-scan-your-face-at-security-here-are-your-rights/article_b1af9642-727d-11ed-b686-efe9b266e9a0.html"
+    type: article
+    provider:
+      name: The Bulletin
+      domain: bendbulletin.com
+    quality: 21
+
+secured: "Ge9hdnGJVuKRfWY1eyD1UC39TVwXVvfXNxEelUxObWvX3ECd9RxvvcwLpumlwkiez3u0yzrYFp+S7KeWCnI38dRXg8LvIt9wzxJYVtSHcN28cNjMQWGuhG2c18bmhov2jDT5zHfA0Le3kzJoudvKmT+tVuVQH3F9fCy/IIr3H9IcO3ZeMqqYJvQjhq4X1sM4wvRfJTlVqzDlNSY7nNk1E7Gv+PL/gA0R6NIF9CDEhKaYg5ACBbP8T7sQyJTYRS1WYr2XX6jQq2ozV4wBfEn/kzEbKhiAlPP0O7+mfoGYX3MFN19j/ubUJGl6nV4vbukcHUD5FNnFOulVFHGIgLKjrJljGZQayB8WPnrN6bQxazjYWzjIDwjH0OC1sTMF0Gs2JNVRJFS3t5siT/L+aMclwMhyptrAxJQZ3eCL7OCDJXP11j/eOjRO+x4L9/wnrt7P1HnexrHSkf02F9FUHukGiHYGvaDPb3rTo73TSjlyukzSyAXICx6vcbZloYkqcGpL1eWP+ZGfeOfFjCl8AVgmAA==;EP8ovrZEnK8Y/cikDKn3kg=="
 ---
 

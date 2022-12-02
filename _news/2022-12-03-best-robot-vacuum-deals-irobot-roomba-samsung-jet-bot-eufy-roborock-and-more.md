@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-irobot-roomb
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-eufy-roborock-and-more-2022-12-02/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-eufy-roborock-and-more-2022-12-02/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:

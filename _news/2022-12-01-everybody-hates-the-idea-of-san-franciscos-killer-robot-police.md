@@ -35,22 +35,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "San Francisco debates letting police deploy robots that kill"
-    excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
-    publishedDateTime: 2022-11-30T01:16:00Z
-    webUrl: "https://www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/"
-    ampWebUrl: "https://www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 59
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2022/11/AP22333707907710.jpg?w=1280"
-        width: 1280
-        height: 880
-        isCached: true
   - title: "San Francisco may allow police to deploy robots that kill"
     excerpt: "The San Francisco Police Department said it would like the option to deploy robots equipped with explosive charges to disable suspects when lives are at stake."
     publishedDateTime: 2022-11-29T20:35:00Z
@@ -84,20 +68,20 @@ related:
         height: 641
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Debate on Tuesday ran more than two hours with members on both sides accusing the other of reckless fear mongering. Read more on Boston.com."
-    publishedDateTime: 2022-11-30T16:51:00Z
-    webUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
-    ampWebUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/?amp=1"
+    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
+    publishedDateTime: 2022-11-30T17:05:00Z
+    webUrl: "https://www.kcci.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+    ampWebUrl: "https://www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 59
     images:
-      - url: "https://www.boston.com/wp-content/uploads/2022/11/San_Francisco_Police_Killer_Robots_07710-6386649ea96f1-scaled.jpg"
-        width: 2560
-        height: 1760
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22331669831658.jpg?crop=1.00xw:0.821xh;0,0.0488xh&resize=1200:*"
+        width: 1200
+        height: 678
         isCached: true
   - title: "San Francisco police defend 'killer robots' plan"
     excerpt: "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,"
@@ -173,6 +157,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "San Francisco debates letting police deploy robots that kill"
+    excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
+    publishedDateTime: 2022-11-30T01:17:00Z
+    webUrl: "https://www.wavy.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/"
+    type: article
+    provider:
+      name: WAVY-TV
+      domain: wavy.com
+    quality: 19
 
 secured: "VUAgmD49ZfYfpGLVr3mgfR8AonZo1Jh+xtF+0itCag2ZnP2UcttJD+uro5mU7uIn7kzaUgjrLeEXdU4tw/3/RHT3vQmsQfkj0g9Wl+GAg4rYFl/a1JLqjDLNRJ9HGP5whMjxs967nfPV5Qs7InWzxJo6FzwZC0kna89qYqLxo2zMF5vgovMHasTz9/KzcALas0l8jskq/2O1QoRk1Lwv9tJaELsVw2OY9yKDcfKsq/DH4jQr4gPvw1OuwprVhlego6b9CgqkwznNjCATwynfkIc1mQDt7lk2P2v3W2A49qprR/CS2q2a8U09z402CtR9Zi+flU9r2glhe8GJarNiWWMQV5YkX/EceualRkz9BSKFWZb/4ZaoPC93MzdHJrqxGj+I8ISWjvCjLs6P2cc13z798hW/H1DIxo1R9+o+3bRemNff9ntWMMJ8dybbIk5MrXFIUHzbGb3XuyGAPlxcZ8tJ4oarONHa9/f2gxwCBiIxAQuy/PHucq1L6+vlKCNPtkh9x3xX2NWFIv9Yy8FfUA==;Iv0UB1juoO9tuMJijwnRDQ=="
 ---

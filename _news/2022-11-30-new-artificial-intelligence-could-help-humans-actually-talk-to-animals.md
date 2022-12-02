@@ -2,19 +2,19 @@
 category: news
 title: "New artificial intelligence could help humans actually talk to animals"
 excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-publishedDateTime: 2022-11-30T13:27:00Z
-originalUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+publishedDateTime: 2022-11-30T01:55:00Z
+originalUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: KXXV News Channel 25
-  domain: kxxv.com
+  name: TMJ4
+  domain: tmj4.com
 
 topics:
   - AI
@@ -87,6 +87,6 @@ related:
         height: 630
         isCached: true
 
-secured: "W6B4KTuPBfEkZuAWMtareHrx/Z+EYSKbBTMhw42usvQVJ+gnRiJ2iQmgKMkUHV8reIab2o16PUVOreRnXqsLrcuZB5MMsRI2Lgy5qc1Te1Dv7DjQjk6el11SPqjP9FOJP3DCwihJGBMEgFDaQUAqjKCbJsKEI77DKn4dnRNfhd1vtSF32IvpCEFT3WRdp1O32KnIfxpGt1zIHVsaaUJECPP4PuLJJESQ1kaWUCaLFbOVarV8oxwLULQiIAx4/36yDtmpPiFmVPIBEZTWTBr6PtE0PJCWvqU0TbvLoJTvUmCbzBNOPJixuwNguAlGPc7Hw0Qe93cvD1F/nEm94wwMIQSRX2h3GnT3wWLodxAgQEJWOjxSGpLvytmYh9yAAcEVDDxMrmRFEVYjek+VstEdbZgaonagpNlA/Me3VifzBOGQnFPQ2wWoHatO3rvdTe5O6E6VO70O/23QOVNIChYcwyOZm7hqUN489OOnKzSGxYKsVQvYKX77LlnDdXC/pfRIEGlSmcDtsjC1hW/cDVyT+g==;fF6dJQKUQ9vOkQyeYhMzHg=="
+secured: "+i+bTgN5SwtCHOh4/uN1BMsLQ4LwJwD2G5ccV5EqA33Ub+7EuB1NMAxlwwhWr2OOdjkzIaXtpNBt4xPzskEPwaGR2VfkDlcaIy2Dj4UBuU2YqBOF0Vi7ikvEYquNe6SPgjIAq4XHZagdFIoBjb3dn+/vAnahxTJJ9QckzfGROu//tm7iaT2Kzj5CXpcYUm+kEZoMsdXUGnrxf9n8AXdxFcT508h1TGY8D4P49ywL6MFnkvsvojB7oCYLls+lBa0dyxv+p68SEJYyB+CO4ZwU82pahYTtlNAVLHHp/eOBpLc5ldR1BLw/iDbv4mw9TiBaN7A2IiUyv5ahvZUhIS+H/kYncGxl6l+Rwp4QHI1Djrw=;2u8wdoq6E9tZT7W5K3tuiA=="
 ---
 

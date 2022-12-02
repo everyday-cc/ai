@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T19:22:00Z
 originalUrl: "https://www.sporttechie.com/gemini-sports-machine-learning-athlete-data-predictive-analytics"
 webUrl: "https://www.sporttechie.com/gemini-sports-machine-learning-athlete-data-predictive-analytics"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SportTechie

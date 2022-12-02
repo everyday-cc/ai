@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T20:48:00Z
 originalUrl: "https://businessday.ng/technology/article/new-features-give-aws-users-improved-control-over-data-processing/"
 webUrl: "https://businessday.ng/technology/article/new-features-give-aws-users-improved-control-over-data-processing/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: businessday

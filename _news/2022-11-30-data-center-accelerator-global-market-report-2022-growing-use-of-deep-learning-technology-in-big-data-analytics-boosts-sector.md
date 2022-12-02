@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector"
-excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators."
-publishedDateTime: 2022-11-30T12:41:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/30/9721625.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/30/9721625.htm"
+excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast peri"
+publishedDateTime: 2022-11-30T11:27:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/30/9721625.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721625.htm"
 type: article
 quality: 0
 heat: -1
@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence, data analytics and augmented reality for transforming tourism"
-    excerpt: "Tourism Innovation Summit 2022 has once again hosted the. In which startups from all over the world presented their ideas and business models to leading tourism companies and investors to revolutionise and drive innovation in the travel and tourism industry."
-    publishedDateTime: 2022-11-28T03:21:00Z
-    webUrl: "https://www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/"
-    ampWebUrl: "https://www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/"
-    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/artificial-intelligence-data-analytics-and-augmented-reality-for-transforming-tourism/amp/"
-    type: article
-    provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
-    quality: 53
-    images:
-      - url: "https://www.traveldailymedia.com/assets/2022/11/Las-startups-ganadoras-del-Touristech-Startup-Fest-de-TIS2022-scaled.jpg"
-        width: 2048
-        height: 1184
-        isCached: true
   - title: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools"
     excerpt: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools - SiliconANGLE"
     publishedDateTime: 2022-11-30T23:32:00Z
@@ -66,6 +50,6 @@ related:
         height: 3672
         isCached: true
 
-secured: "Du7jYXy2DO743VB8MFwZhQ9ON3ZgkhM6+T5ZLihQJnFlfhCNoOezZtf2q6QNZLKMen0tL19H3F72cSUCk9tHkDD3G7Q2uXY3hiQ6mmXdnCYPbzdZ7J0/QEbZBB6ZIfSSQ1Jv5RDeAmPRSEy0UfpKp3qwuSk2rQbcjeEzoSo90hW9UzhOCLt1kjdXwWBYlMJNKRphCSRoDTHSX7uEtfRdJirpIWonJ0Y5PJhaLMdyod2KodPNvQYR5+k8Rvk26KL3Jqhskjn+5bwND9bSb5ll2822O/lsOzKkFbbjpjK4nXtUfI3VNAIyB3CNAupRaVNsYu7IBADr1PrKnEfa2Ri72rxBeln1SlxgTSsogmEgciQ=;mNtHTgkheij2T5LrZLj8vg=="
+secured: "v2wzMf12D8KvvVD/2iqUEMBsASC/2XBqM6d7Z+JeO3tJ8WnxtEqAaAjf+ziF1N/GT6u04VsQ76CBJlmcC5r3dqOaJ6Sb9t8Dt2lv6gz3qDp+JlQ4Gt77gdP2py8/b9psKCleoXc6tnn6EE5g0XfyhdKysMyLoNJHv3Zw0a7EHaGkmLVgWRfSVqD9fvfRnxeFbBtZ/rgJhBsbkwbrfWakC74u15wQ6R4ZhwdQmZQrG8vL7+ZixAB3DM0w6Kx0iMeEY09nzE0WcUi9VrSPwCNJnihKb4IoEH54GzAreQFKuC/arpsY2IMNqcTfqv2tM7TDdYnm0KQ06qNkJS5QjvW7lLkO8SAKTz5+9lgixDaXZ4M=;EFM5WC49wRbxLfO1vlSmaQ=="
 ---
 
