@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "Lawsuit against Microsoft takes aim at the way AI is built"
-    excerpt: "In late June, Microsoft released a new kind of artificial intelligence (AI) technology that could generate its own computer code. Called Copilot, the tool was designed to speed the work of professional programmers by suggesting ready-made blocks of ..."
-    publishedDateTime: 2022-11-27T22:20:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/lawsuit-against-microsoft-takes-aim-at-the-way-ai-is-built"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/28/2022-10-25T164310Z1765510562RC2F8X9WTDTERTRMADP3MICROSOFT-RESULTS.JPG?VersionId=P3lWCc0kvg0vrlClt6QeCU7PbA1p1NPl"
-        width: 860
-        height: 573
-        isCached: true
   - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
     excerpt: "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,"
     publishedDateTime: 2022-11-29T13:02:00Z

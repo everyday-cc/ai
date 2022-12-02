@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-01T13:15:00Z
 originalUrl: "https://seekingalpha.com/article/4561691-nvidia-micron-thank-meta-platforms-remembering-ai-tailwinds"
 webUrl: "https://seekingalpha.com/article/4561691-nvidia-micron-thank-meta-platforms-remembering-ai-tailwinds"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://static.seekingalpha.com/uploads/2022/11/29/15511982-16697391724479105.png"
+    width: 640
+    height: 434
+    isCached: true
 
 related:
   - title: "The future of AI and medical imaging, from Nvidia to Harvard"
@@ -49,20 +55,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
-    publishedDateTime: 2022-11-28T18:43:00Z
-    webUrl: "https://www.hrw.org/news/2022/11/28/future-artificial-intelligence"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 43
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
-        width: 374
-        height: 374
-        isCached: true
   - title: "AI - the future of retail"
     excerpt: "Technology is changing the retail sector, with artificial intelligence (AI) shaping shopping centers and stores of the future. The Covid-19 pandemic changed traditional retail as many customers had to shop online."
     publishedDateTime: 2022-11-28T07:42:00Z
@@ -78,6 +70,6 @@ related:
         height: 816
         isCached: true
 
-secured: "1GLZNc7SL8KB0/cKGp638okxhYry4S2f4VV0iU4yORDj5ya95g7gBIatQ7OawB3Yb7+9fF7roc4G/ja6vqsj8imayATdxvQKn6cXCwxgxqBseXx01/4yYzb3hfqTZFn4/uoM9rFZw4DBp9350jo7BRnvTXUhh+7LUMzohHaQMYx257yyu+JTudZZipvBvXrP6QXjN88hxm5Wdw+PoSz5yVmBzemqz76zFkMrKXSeeFhlnVPP3YEOOEd6vfmK2Pk39vElC5WAOlCqu0t5mKEkHDlEUEyhfTc1D8NS1LD9CEnNxvq1VuDwIb+oaChRmwW7oko9opsN85pvQZqrdNd/6t5K9/dvFxy/pTiX+4yQr7A=;TgFdsT6atDXmFXLMxvmS8w=="
+secured: "L9WnjlFvLcj1MFP0yDOvQqACZ7tvXwA0RhLPUmOE7VXsruQIxgEH7r6wX5EMHbJH58miorobkVvbOfK/bOj6df6vML8Ka34yAQzXk4XXN8JOrChVHij8KlOxQv9vCENsIsNEPeLFaEkAlyA87P3L3VanFMl7lx9pET7mZh0WuM+X6ZiMqI3j5vz4k9Mt3TT19nAGSU5rbVt0U0kwX1BOU1a313CEbKjPVfgRcUyI2KhC6gmYWYCPQ8WY7Wn2tObvLAd0tDi24g7okArLQXsRiSUYRHKNFyKlsPm5gHBZaycv+QvZY0kdiGjW5O7GBEzyjbCjwyjgjh+IIEG3zQ4ZlOu7ZNEING0O9CqYZFfl3s4=;5m6bGzTH+UrWpnW2TmVtkw=="
 ---
 

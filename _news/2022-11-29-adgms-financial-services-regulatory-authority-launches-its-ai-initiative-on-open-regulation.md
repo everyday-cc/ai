@@ -39,6 +39,20 @@ related:
         width: 375
         height: 210
         isCached: true
+  - title: "The Era of Evolution for Conversational AI"
+    excerpt: "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of"
+    publishedDateTime: 2022-11-30T17:30:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Human creators stand to benefit as AI rewrites the rules of content creation"
     excerpt: "Generative AI programs could free human creators from tedious tasks and enable them to focus on ideation and creative thinking."
     publishedDateTime: 2022-11-29T15:01:00Z

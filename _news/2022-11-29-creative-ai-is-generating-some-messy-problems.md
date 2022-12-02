@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS Boosts AI for Connect Contact Center Product"
+    excerpt: "Amazon Connect initially disrupted on a pay-per-use price model but is now flexing its artificial intelligence muscles."
+    publishedDateTime: 2022-12-01T21:34:00Z
+    webUrl: "https://www.eweek.com/cloud/aws-boosts-ai-for-connect-contact-center-product/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
   - title: "Ludo upgrades its generative AI tools for game creativity"
     excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
     publishedDateTime: 2022-12-01T14:30:00Z

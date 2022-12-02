@@ -57,19 +57,21 @@ related:
         width: 666
         height: 282
         isCached: true
-  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
-    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
-    publishedDateTime: 2022-11-30T23:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+    publishedDateTime: 2022-11-29T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
         isCached: true
   - title: "AWS adds Yahoo and Stability AI to its growing list of cloud customers"
     excerpt: "Invent with news of some big customer wins. Both Yahoo Inc. and Stability AI Ltd. said they have chosen AWS as their preferred public cloud provider for key business workloads. In Yahoo’s case, the internet giant said it has chosen AWS to host the operations of its Yahoo Ad Tech advertising technology business."
@@ -160,15 +162,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
+    publishedDateTime: 2022-11-30T23:02:00Z
+    webUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 34
 
 secured: "Pz+JWG6TG/CJzAsU5gc1nYWhkHD34q/2k3UUgP4ojJtInu2s8e7EvS5XGgzxcWHmH2fTEOIpjjI1nQwu7Hsr5WnXlgc1qP1ghLNxGwVbO5CGeUrLYPYAVTUByZs/NbDx6hq7xRZsSBT1VuGeofAiB8ito9TQwXXSeSbb8JiprljEXq3YAoPt5Cz4cWEjnHQNvjICye47Jma9Ru4MHAj5bDWzgSZs37DFozTfzmjhPkftxJ20gCq/XWzHiChDZ1BvIM+eEuqL/m0wFv8FVpecUKF9l3eSUZWAwxRguianUYSY17n6iPXqJvX037jm3hLDd/IeRO3yMdP+xdd4gylrCy6RlMSjgkvuw96UlIaEvPG4e4eV+oFDLoBK2mgQ6IJoLFo+zOv27UHNDSNvdDTj1KiMa/HJb97lb4uNEorS0/RCREo5iq9HMbA1p5ItxnYUMdT99d8KzIAxLqPsao7Oi6cEhoHiMwCOFzwKpnYpxl55oXyxlJh+sRTKg9hDZEhDSMIQSzcYjjTjQSLTb8PwiQ==;3V6o7sfPwSDLSa167GV5vQ=="
 ---

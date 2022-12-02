@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Boosts AI for Connect Contact Center Product"
+    excerpt: "Amazon Connect initially disrupted on a pay-per-use price model but is now flexing its artificial intelligence muscles."
+    publishedDateTime: 2022-12-01T21:34:00Z
+    webUrl: "https://www.eweek.com/cloud/aws-boosts-ai-for-connect-contact-center-product/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
   - title: "Creative AI is generating some messy problems"
     excerpt: "In the last few years, artificial-intelligence systems have shifted from being able to process content – recognizing faces or reading and transcribing text — to creating digital paintings or writing essays."
     publishedDateTime: 2022-11-29T07:46:00Z

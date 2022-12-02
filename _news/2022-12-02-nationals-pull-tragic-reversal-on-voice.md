@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T14:00:00Z
 originalUrl: "https://www.thesaturdaypaper.com.au/opinion/topic/2022/12/03/nationals-pull-tragic-reversal-voice"
 webUrl: "https://www.thesaturdaypaper.com.au/opinion/topic/2022/12/03/nationals-pull-tragic-reversal-voice"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Saturday Paper

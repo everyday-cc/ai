@@ -161,59 +161,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-01-the-pros-and-cons-of-artificial-intelligence.md",
-      "title": "The Pros And Cons Of Artificial Intelligence",
-      "excerpt": "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-01T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-12-01-all-the-actually-important-stuff-neuralink-just-announced.md",
       "title": "All the Actually Important Stuff Neuralink Just Announced",
       "excerpt": "The company is vying for an edge in an increasingly crowded field that seeks to let people control machines with their minds.",
@@ -425,6 +372,51 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-how-high-school-should-change-for-an-era-of-ai-and-robots.md",
+      "title": "How High School Should Change for an Era of AI and Robots",
+      "excerpt": "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop",
+          "width": 640,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "publishedDateTime": "2022-11-29T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
       "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
       "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
@@ -575,7 +567,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -833,7 +825,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {

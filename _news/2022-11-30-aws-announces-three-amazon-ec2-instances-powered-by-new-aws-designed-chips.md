@@ -1,22 +1,30 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-publishedDateTime: 2022-11-29T20:15:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+publishedDateTime: 2022-11-29T17:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+    width: 666
+    height: 282
+    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -64,20 +72,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/DSC02906.jpg"
         width: 4896
         height: 3672
-        isCached: true
-  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
-    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
-    publishedDateTime: 2022-11-30T23:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AWS adds Yahoo and Stability AI to its growing list of cloud customers"
     excerpt: "Invent with news of some big customer wins. Both Yahoo Inc. and Stability AI Ltd. said they have chosen AWS as their preferred public cloud provider for key business workloads. In Yahoo’s case, the internet giant said it has chosen AWS to host the operations of its Yahoo Ad Tech advertising technology business."
@@ -168,7 +162,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
+    publishedDateTime: 2022-11-30T23:02:00Z
+    webUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 34
 
-secured: "naPzwaoRBe3CkwNJL/TIrZ0b5BA5U9XqAS9B7ltjB2mPHhoL/4dWTFOXZd8SEIUqIN5eBLWrSl3/iP+bgYIrIz7wR1tMxoZKoK+zM4RsMEvFrbRi1pms6iexK1PQb2Ml/ehE3DKamuWx2WBTym1dpBW2VM44nwRWKbs5nIvtSJd4gk+S5GoKAIQfPX03j+zMy7EMY81eB0Dh7pbkK6IiTdeoCK4hF++QVBo0JqjtI+hkVz9ytMdEkMPQOsWeVhmE8A1UjzSEFJ/65qdAUlQPhCzVWup7Sdee7r7r+/tVoThWPiYAY1Av48jLvqdUrAceQdt5s09XrojFVlfddnwWXPfoqhglNIZqeZ0mh+RTF/QQium9TvqrcuFERVOCLqZXf3+7OpdKZg4y32gJY7oXLdgeTxHyI9FEwG5fCOYDYEQYcIG2r1ls4iJ8Zjh5G9yntFpGDyD1aBPwH//rMBP0PmBwqX+DyatGCT/6PQWZ7ntgz+m+6vLPGpC58Rye45WKKgp9YGOqwYsSkFXClgGSLA==;SDuTCCT+gWKN0CY89Lu3Vg=="
+secured: "7GK4egdKfkT7j4iJLGNz8wvbHZ2/FIUQ9xlVUqpdsRrhbB7W8VNRRhj3ls7X4tXygZM+g2K3L2b3vR1EwUjesFmmQvNjCQxCSNhcuTu4rpCF/5UVAPLJeriAB/Dj7QdR0cepB3H3Irkb7dZ40JjXTvzXgk25zpfndv7ogdwcuEmjf9kkUvKaus+TzzT5jzf0FN/Kwef/R1W5jBY+1poizMrX2LwDQacOEXGw4Qx1h/tN+Lquzfm4/8vp4tCXXAsByxBmsI1ID1BM23WXtdqHbX68+S/TAn/16Hi8vjU9aoDzgSI8WcYrYNfkUR9XD6WmzRYKouwooCremrhaJ+EgDJXQ8J+jt4MpbrFZ9XepvO8=;xf7FlCoarXqUnMQmPI6zdQ=="
 ---
 

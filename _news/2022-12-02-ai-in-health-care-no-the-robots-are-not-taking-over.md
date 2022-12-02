@@ -105,6 +105,15 @@ related:
         width: 1530
         height: 1018
         isCached: true
+  - title: "Minority Patients Often Left Behind By Health AI"
+    excerpt: "The researchers hope that they gain a better understanding that health inequalities and exclusion can become self-reinforcing, especially when we start working with research data and healthcare-related AI systems. While there are various tools and ..."
+    publishedDateTime: 2022-12-02T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/adigaskell/2022/12/02/minority-patients-often-left-behind-by-health-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "6XuhOer717QlQ7oTI/sceqEqsnDLN7pKQfGm0+FJ1pIYaU97K0wyCsQstEyt7LMV9+nOQ5xaStYU+83R2qDLFg6Mtv0ADDW3GdYxjzAnveVOU46TLOxOayReYDptOUMXiUM3+/Ka87CmRvgQ0vnKd61CKPlbZ+/Q19dC3GQh2bCk523VTM5eC+8EbXOXXcp45IgxQHeU/g+JbhCCkipQmaSbgrqix+bYj4jFpmgqt425hobjKZD42xdobfg6FgpeA1Trr+aKzeSwPTwXrmFm7X5A8E2yDziUQ9I900GEZmogz0zisXbwF+4qfDhamSWrw8BC8X7u2Up/3W0VuUhG4xBBHFPFtsLkYqlG5mkJhsI=;wldp/9PeofueYtRavF8eDw=="
 ---

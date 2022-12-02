@@ -27,59 +27,82 @@ images:
     isCached: true
 
 related:
-  - title: "The future of AI and medical imaging, from Nvidia to Harvard"
-    excerpt: "New initiatives are scaling AI models related to medical imaging and making diverse medical imaging data available to all."
-    publishedDateTime: 2022-11-28T14:37:00Z
-    webUrl: "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/"
-    ampWebUrl: "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/"
+  - title: "I Interviewed An AI About The Ethics Of AI - And It Lied To Me"
+    excerpt: "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to"
+    publishedDateTime: 2022-12-02T10:11:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 108
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/bigstock-Bioengineering-And-Medical-Edu-455940277.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia gearing up for lower-spec AI GPU shipments to China"
-    excerpt: "Nvidia has touted the A800 AI GPU, a downgraded version of its A100 and H100 series, for customers in China and has already attracted orders, according to industry sources."
-    publishedDateTime: 2022-11-29T01:21:00Z
-    webUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
+  - title: "The Pros And Cons Of Artificial Intelligence"
+    excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
+    publishedDateTime: 2022-12-01T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 902
+        isCached: true
+  - title: "Building transparent ethics into artificial intelligence"
+    excerpt: "AI models can be complex and have thousands of variables − each of which may introduce bias in imperceptible ways − so checks and balances are vital."
+    publishedDateTime: 2022-12-01T07:22:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwMdzy83vrydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 76
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Ethics of Automated Warfare and Artificial Intelligence"
+    excerpt: "These essays emerged from discussions at a webinar series exploring the ethics of AI and automated warfare hosted by the University of Waterloo’s AI Institute."
+    publishedDateTime: 2022-11-28T13:00:00Z
+    webUrl: "https://www.cigionline.org/publications/the-ethics-of-automated-warfare-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Centre for International Governance Innovation
+      domain: cigionline.org
     quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20221128pd216_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.cigionline.org/static/images/AIEthics_Series_CIGI-Feature.2e16d0ba.fill-1600x900.png"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI - the future of retail"
-    excerpt: "Technology is changing the retail sector, with artificial intelligence (AI) shaping shopping centers and stores of the future. The Covid-19 pandemic changed traditional retail as many customers had to shop online."
-    publishedDateTime: 2022-11-28T07:42:00Z
-    webUrl: "https://vietnamnet.vn/en/ai-the-future-of-retail-2085429.html"
+  - title: "Edge AI offers advanced insight, when and where it’s needed"
+    excerpt: "By embedding AI into edge computing devices, agencies can bring AI’s immense power out to the field and more reliably provide advanced insight no matter where the mission goes."
+    publishedDateTime: 2022-11-28T14:00:00Z
+    webUrl: "https://www.govexec.com/sponsors/2022/11/edge-ai-offers-advanced-insight-when-and-where-its-needed/379993/"
     type: article
     provider:
-      name: Vietnamnet
-      domain: vietnamnet.vn
+      name: Government Executive
+      domain: govexec.com
     quality: 37
     images:
-      - url: "https://static-images.vnncdn.net/files/publish/2022/11/28/retail-vn-930.jpg"
-        width: 1036
-        height: 816
+      - url: "https://cdn.govexec.com/media/img/cd/2021/06/14/Accenture_Logo_700x394/original.png?1623692954"
+        width: 700
+        height: 394
         isCached: true
-  - title: "Remembering The AI Tailwinds: Nvidia And Micron Thank Meta Platforms"
-    excerpt: "I called AI a tailwind during this recession-prone economy. See why Nvidia and Micron are prime beneficiaries of this train gaining momentum in 2023."
-    publishedDateTime: 2022-12-01T13:15:00Z
-    webUrl: "https://seekingalpha.com/article/4561691-nvidia-micron-thank-meta-platforms-remembering-ai-tailwinds"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "FR3D4l3h3q7bfCcR0D0pL21DKmX5nL2TtY5uwBGq8mz5kQFjZZW1HIP4N7jjWcz61T6/GRqXgHuS1LbLFXo8GinJbYsm86F14XsnZ30vgz8DZrdAd/oqBkpXwnnNuVWanRwlrmPCZiR4WK+jetSc7awuaPoYMGdjXGkuXUDLd4cNDHPSYYMX4PoSiX+ixqFEuDcomPeEeRCdv4MymED0fKZZYAFb2CN/dfDoO6iTy8EDFyEtGuhGxhpNAcRho8SvS99wkG64cC1+JR1ttBLd0tAT7i+aXAuBiGpDNMXPDeT/VCIqwNvmQE/nru9yUADutVCPgJZzkc/easOdvp8ycLCUiKwgg6N0p/t0/H5cE77HnClFsSdTleBxfC1p1Lbcdqi1Yv/wlH7E709366A4CXuu+YSfc0/ABOTCeElBpqP0x4R+AWjoQjx23F7T8MIZ8+f2+DWbTvrvJuYfFUVPjKr+hh2Qmg49cE5xwDfsfnEUWcjzCVlYB0Bj7U/8cqBx4XdrG4hyJOGlGYHgwwhnfg==;oc71J+UYPS/hFD1GUveXww=="
 ---

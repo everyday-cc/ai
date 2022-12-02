@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 212
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,162 +32,80 @@ images:
     isCached: true
 
 related:
-  - title: "How High School Should Change for an Era of AI and Robots"
-    excerpt: "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change"
-    publishedDateTime: 2022-11-29T22:00:00Z
-    webUrl: "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
-    ampWebUrl: "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
-    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots"
+  - title: "I Interviewed An AI About The Ethics Of AI - And It Lied To Me"
+    excerpt: "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to"
+    publishedDateTime: 2022-12-02T10:11:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
     type: article
     provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 78
+      name: Forbes
+      domain: forbes.com
+    quality: 108
     images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop"
-        width: 640
-        height: 259
-        isCached: true
-  - title: "The Era of Evolution for Conversational AI"
-    excerpt: "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of"
-    publishedDateTime: 2022-11-30T17:30:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Parsing the hype, hopes, and practical applications of AI across finance solutions"
-    excerpt: "Is AI in finance a pot of gold at the end of the rainbow? Zoho's Raju Vegesna does some myth-busting and explores the the middle ground where AI has a useful place amid the hype."
-    publishedDateTime: 2022-11-30T16:04:00Z
-    webUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions"
-    ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 68
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_582621088.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "AWS Boosts AI for Connect Contact Center Product"
-    excerpt: "Amazon Connect initially disrupted on a pay-per-use price model but is now flexing its artificial intelligence muscles."
-    publishedDateTime: 2022-12-01T21:34:00Z
-    webUrl: "https://www.eweek.com/cloud/aws-boosts-ai-for-connect-contact-center-product/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 64
-  - title: "4 Technologists Debate the Future of AI"
-    excerpt: "AI thinks very differently from us, raising trust issues. It's unclear whether AI is inspired by use or just copies us. AI will change the job market, for better or worse. Can we trust artificial intelligence?"
-    publishedDateTime: 2022-11-30T16:04:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
-        width: 1528
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
         height: 800
         isCached: true
-  - title: "Amazon to Warn Customers on Limitations of Its AI"
-    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
-    publishedDateTime: 2022-11-30T17:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+  - title: "Building transparent ethics into artificial intelligence"
+    excerpt: "AI models can be complex and have thousands of variables − each of which may introduce bias in imperceptible ways − so checks and balances are vital."
+    publishedDateTime: 2022-12-01T07:22:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwMdzy83vrydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "15 things AI can — and can't — do"
-    excerpt: "From pop star robots to autonomous cars, AI is all around us. Stacker assessed the current state of AI, from predictive models to learning algorithms, and identified the capabilities and limitations of automation in various settings."
-    publishedDateTime: 2022-11-29T20:30:00Z
-    webUrl: "https://omaha.com/news/science/15-things-ai-can-and-cant-do/article_1ac69118-1e9b-5d2c-b482-f18396a2499a.html?amp;amp"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 41
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 76
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/ac/1ac69118-1e9b-5d2c-b482-f18396a2499a/63865d2589158.preview.jpg?crop=1007%2C529%2C0%2C94&resize=1007%2C529&order=crop%2Cresize"
-        width: 1007
-        height: 529
+      - url: "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Westpac among founder members of AI consortium"
-    excerpt: "Westpac has joined with five other organisations to form a new consortium to drive leading-edge research into responsible adoption of artificial intelligence in the finance sector."
-    publishedDateTime: 2022-11-28T10:32:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41384/westpac-among-founder-members-of-ai-consortium"
+  - title: "The Ethics of Automated Warfare and Artificial Intelligence"
+    excerpt: "These essays emerged from discussions at a webinar series exploring the ethics of AI and automated warfare hosted by the University of Waterloo’s AI Institute."
+    publishedDateTime: 2022-11-28T13:00:00Z
+    webUrl: "https://www.cigionline.org/publications/the-ethics-of-automated-warfare-and-artificial-intelligence/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Centre for International Governance Innovation
+      domain: cigionline.org
+    quality: 54
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/david-walker-500x500.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.cigionline.org/static/images/AIEthics_Series_CIGI-Feature.2e16d0ba.fill-1600x900.png"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Impact of AI on Drug Discovery"
-    excerpt: "Artificial Intelligence, also known as “AI”, has been the talk of the past year. AI performs and responds to complex tasks, as it is built to m | Drug Discovery And Development"
-    publishedDateTime: 2022-12-01T16:05:00Z
-    webUrl: "https://www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery"
-    ampWebUrl: "https://www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery/amp"
+  - title: "The Future of Artificial Intelligence"
+    excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
+    publishedDateTime: 2022-11-28T18:43:00Z
+    webUrl: "https://www.hrw.org/news/2022/11/28/future-artificial-intelligence"
     type: article
     provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 39
-  - title: "Wildlife conservation with AI"
-    excerpt: "These vocalisations can then be used to identify the species of whale and, when analysed by the AI algorithm alongside other data points like ocean conditions, recent sightings from trained naturalists,"
-    publishedDateTime: 2022-11-27T23:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/11/28/wildlife-conservation-with-ai"
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 43
+    images:
+      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
+        width: 374
+        height: 374
+        isCached: true
+  - title: "Edge AI offers advanced insight, when and where it’s needed"
+    excerpt: "By embedding AI into edge computing devices, agencies can bring AI’s immense power out to the field and more reliably provide advanced insight no matter where the mission goes."
+    publishedDateTime: 2022-11-28T14:00:00Z
+    webUrl: "https://www.govexec.com/sponsors/2022/11/edge-ai-offers-advanced-insight-when-and-where-its-needed/379993/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Government Executive
+      domain: govexec.com
     quality: 37
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/11/27/1837797.jpg"
-        width: 1240
-        height: 722
+      - url: "https://cdn.govexec.com/media/img/cd/2021/06/14/Accenture_Logo_700x394/original.png?1623692954"
+        width: 700
+        height: 394
         isCached: true
-  - title: "The 10 Hottest AI Startup Companies Of 2022"
-    excerpt: "CRN’s hottest AI startups list includes AI Squared, TimeZest and Pano and experienced veterans from Microsoft, IBM, ConnectWise and Twitter."
-    publishedDateTime: 2022-11-29T17:00:00Z
-    webUrl: "https://www.crn.com/news/software/the-10-hottest-ai-startup-companies-of-2022"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026b-12c3233d92ed-7182db298dd0-1000/artificial-intelligence-edge-globe.jpg"
-        width: 610
-        height: 458
-        isCached: true
-  - title: "Amazon to warn customers on limitations of its AI"
-    excerpt: "Akin to lengthy nutrition labels, Amazon’s so-called AI Service Cards will be public, so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
-    publishedDateTime: 2022-12-02T07:59:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/amazon-to-warn-customers-on-limitations-of-its-ai-a8d20978-1972-5700-8177-047a5865a915"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
 
 secured: "+Y6Eyu9K4IH6IjtNuQHraeOyF3dzfLFLGLQBYal1guzF5F6qEvSRLilLi5lbQ6iplVNgC+vV3K/ncldc7pi3oR+QVIokI+EAWJwhWZcInXhoBBn0QMDW1L7MDEF2bqXsg2FW88HcWEkr42QYRuFnTVXEkAk3CHw/+YRWNSX79AupyX4lY5ZVfwTU+8yjnQ0YsovLeOskReJ1r2dN7j12UmNQ97qjIQBrYXN8i8MS1hy3cN//1kD73ERmZA8RkcLnYVbuEg+oT6cKCUBrmlbdRnibzCik5mBunPrgHcAsKOF7Opqr7b8h4Hu0riG0w424fFbNIDLxY5uM8wk6b3RVb+jkm6TzVIi0HdQSfkkwACBK8S6MN7ddlhJNuU3CAUlJ+W+iLjREOemwl8jR0f71M0y0ZRy76tz53ibRhgn0BnQNzq3XZpFivGNIQWryqOB/oLlPw1906WSZ7fGnkKeJrHTeh05UzgWLPa1OUQLxigTePFJ8ZY6XI2mJKK6FY1713cox/1Vf0Ys53OCUuVGRCA==;owilv1lzLsBpt77JRB/Pvg=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 705
         height: 371
         isCached: true
-  - title: "Using AI and socially assistive robots for early detection of urinary tract infections"
-    excerpt: "A team of researchers from the University of Edinburgh and Heriot-Watt University are developing artificial intelligence (AI) and socially assistive robots to detect urinary tract infections (UTIs) earlier."
-    publishedDateTime: 2022-12-02T12:57:00Z
-    webUrl: "https://www.news-medical.net/news/20221202/Using-AI-and-socially-assistive-robots-for-early-detection-of-urinary-tract-infections.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_732655_16699856892472219.jpg"
-        width: 1200
-        height: 633
-        isCached: true
 
 secured: "PvCa7aThcRaGfoUKuv8OSlbMC0ZNXX9FtuoeLuI56SIblUXx4oSQj6pOl23MWF4GCtp3WMoz+Ub8p+JB+mCm/zj4X4DAZ06rOMh7JaMRBvJ9v/JYYJ4zKqylsDPDH2XTlFSyGCwE5PrHtMGQP5vS0K+f7CyqymG7s6E5Y/xzTbl9Q21XZPLfjDyODhzPzZk7EvbMJt7lVFmSZupMRV9Rc6fuxlwjO9MgmiTL3coSGZxcrCOfYRFs+vYVICRCH5RfJI6SPMVBckX9pgA9sietEfeBuszmEt/o9cTtYQoaIYR0R9V8YKNgwaMGTpAJBeOx+IkTWnCcC13PHv4EpI3dLgR8YWuMGt4HviCuaAGs/fKtqzQdoudRISNM4nFqQGOWXni/0tMsEPxy6a9OdUJkf+Iva09WlZfa6woUzu0ZUNRXJ+a1uTI3j6sgynb5hzRuZVz1caAolOwCW9XLvLFJOGAAGvnu0jHcZVSXLsrWLVS81pa6qCX6j4ffnxyntohbduXr3UE3u69DisTIkBODvQ==;WbDNE5cd29PKKDtalnnhsw=="
 ---

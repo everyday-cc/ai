@@ -50,6 +50,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 30
+  - title: "UNC-Chapel Hill, AWS Launch Cloud-Driven Health Startup Collaboration"
+    excerpt: "The University of North Carolina at Chapel Hill announced a collaboration with Amazon Web Services to create cloud-driven digital health research startups."
+    publishedDateTime: 2022-12-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/unc-chapel-hill-aws-launch-cloud-driven-health-startup-collaboration"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "n0cFk2nnNlRwbBIRc4fR2VyperqHB9rujeFG3yU74JaYLzmT8k6CVfbg0RdEYqkWXbYo68Asf7tYT75QusEtxKe6RpgiEtl4GyUw9KUPM0KVLz6rvyc73bgjjnlsNB8hHQ3eNjbhGvF+/6OuN9v/fitm/YUrOL8wdvxdPfSgybf2LWBgE9tQGmqoUV3M7jsxfQ6kZ7IRefYm+4N2FKP10M5UP9mR4WSOvk99U3bOiy22+Q20NrcpWBxfYHtbhxEz7e3VWcSFGrSLyR7sAiVhvl+f1VHmttKZXZjVlS2jz7ZcQGZi4Z98H+4CexAwH9E0fptNjxZ/PoNf1EMzs1etiZZynN/Kehkn8s4bT1MPOhs=;SH/cDlftizrvlZPG2YrzFA=="
 ---

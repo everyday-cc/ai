@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T13:01:00Z
 originalUrl: "https://www.businessinsider.com/pitch-deck-durable-raise-seed-funding-artificial-intelligence-solopreneur-2022-11"
 webUrl: "https://www.businessinsider.com/pitch-deck-durable-raise-seed-funding-artificial-intelligence-solopreneur-2022-11"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Business Insider

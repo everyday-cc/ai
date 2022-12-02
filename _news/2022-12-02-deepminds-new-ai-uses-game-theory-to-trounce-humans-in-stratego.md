@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 webUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind's new AI app plays Stratego at expert level"
+    excerpt: "A team of researchers at DeepMind Technologies Ltd., has created an AI application called \"DeepNash\" that is able to play the game Stratego at an expert level. In their paper published in the journal Science,"
+    publishedDateTime: 2022-12-02T15:30:00Z
+    webUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/deepminds-new-ai-app-p.jpg"
+        width: 797
+        height: 446
+        isCached: true
   - title: "AI algorithm learns how to beat expert players at complex board game Stratego"
     excerpt: "DeepMind, a Google research company, has developed a system able to strategize against humans in a game infinitely more complex than chess or poker, opening new paths for science"
     publishedDateTime: 2022-12-02T12:04:00Z

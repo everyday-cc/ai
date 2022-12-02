@@ -24,19 +24,81 @@ images:
     isCached: true
 
 related:
-  - title: "We are in a golden age of artificial intelligence"
-    excerpt: "We are living in a new golden age of artificial intelligence (AI) with the emerging technology dominating research and ushering new scientific breakthroughs, according to a report from the CSIRO, but interest in the development and use of AI may once again come to a grinding halt."
-    publishedDateTime: 2022-11-28T06:08:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/we-are-in-a-golden-age-of-artificial-intelligence.html"
+  - title: "I Interviewed An AI About The Ethics Of AI - And It Lied To Me"
+    excerpt: "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to"
+    publishedDateTime: 2022-12-02T10:11:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 108
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/ai%20golden%20age.jpg"
-        width: 1050
-        height: 591
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Pros And Cons Of Artificial Intelligence"
+    excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
+    publishedDateTime: 2022-12-01T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 902
+        isCached: true
+  - title: "Building transparent ethics into artificial intelligence"
+    excerpt: "AI models can be complex and have thousands of variables − each of which may introduce bias in imperceptible ways − so checks and balances are vital."
+    publishedDateTime: 2022-12-01T07:22:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwMdzy83vrydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 76
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Ethics of Automated Warfare and Artificial Intelligence"
+    excerpt: "These essays emerged from discussions at a webinar series exploring the ethics of AI and automated warfare hosted by the University of Waterloo’s AI Institute."
+    publishedDateTime: 2022-11-28T13:00:00Z
+    webUrl: "https://www.cigionline.org/publications/the-ethics-of-automated-warfare-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Centre for International Governance Innovation
+      domain: cigionline.org
+    quality: 54
+    images:
+      - url: "https://www.cigionline.org/static/images/AIEthics_Series_CIGI-Feature.2e16d0ba.fill-1600x900.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Future of Artificial Intelligence"
+    excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
+    publishedDateTime: 2022-11-28T18:43:00Z
+    webUrl: "https://www.hrw.org/news/2022/11/28/future-artificial-intelligence"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 43
+    images:
+      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
+        width: 374
+        height: 374
         isCached: true
 
 secured: "G6nX0jt2AKS/A2bI6FL4Obl99lUDHQH2x7cquhm+jnG7cHw0qFjDsSBdKdvx9DJXVlA5XVWyRY2LWldFm06lViqSK5so8soDXwBGIDPSSdDypt1rKxtvwVsposPefSDK1SU7GqPU0ZxL0BjZm/2wy9RvnrzRmp7znmLUQK3CDjIFzVVtaF0addd9RoaxhD5EV9WH4XbTC1+EvU2tT8jrqL7VKVlKc0Cp5UE1U4l+vhvSi6eWzwzMPGb/H4Q1rSbwbui3jghdwQI18v3Nh8ZXgfkaaxnVQN+96zUU3cjf0t0Am4y56VG4Ehsa3bfibPs1bw4rd+trbCaMrQtXsVUbHYOFcsziXBXzVn29XlxtNdq/Sd3eNJq2Noi8TMX+AcLXbEWRzbydEDEmotrrNglmb57hl4lv7+yMsvrRhRjErrPCiuDusENM15/goJpUrrL98MCB681uSVe3ucnYl93cDQHrFGyV/mB++Ck+6LKI0WrE3VrQCaY4rQbdLVq/5XOge1x9TbeeTcElz+Am5xRwWg==;M89jrBzQC5huUu+xpGV3bg=="

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth"
-excerpt: "The \"Asia Pacific Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use, By"
-publishedDateTime: 2022-11-30T16:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29910680/asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologi"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29910680/asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologi"
+excerpt: "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,"
+publishedDateTime: 2022-11-30T19:01:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-fintech-as-a-service-market-report-/2022/11/30/9722271.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-fintech-as-a-service-market-report-/2022/11/30/9722271.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -34,6 +34,6 @@ related:
         height: 400
         isCached: true
 
-secured: "kcscLOrgDds8R4mFI7WqYVQE/VXIEycmM00gXJuqTLXQ2SQ+vpTn8ec7no3cyJHNCWoBtuOUtTyAsV2TtN9kaOXvDLa/7YhOGeBSV/8SMohHgixS7FwuIGt2boYCzPG2zd176uDMMpURUyvvX6zeRcRDGgbIdAZ1RoA6g4JbfIL8jlREE53ACaPrrTeFZwdWee/s5WkHId/kjQodbNQ/62xoQCiAGMZpF/AoB9VWNTk2RTOspkUVhuqXHbrbnQFqRdNuDtAHBsmhwKt07DvNvhubBuqQIkChyzRN5sO1u9LYG8Ex2pCQ81Bor/oYjh8ARtLNChSSJFRGAWoufPQQYjGNlEcZS1phjEaG7rCjzU0=;x5qbsK9o5KeNuqAiR5v92w=="
+secured: "kXLwCZszpeTUZJXGqgQSduLFe0bGIDZDYZ65iO/n4OTe+vnb8oUCgOLwKmyjClrgOeLDUQo+gnrLHCNy6qb52F4mp3xtHxIkt1a9410v1LoWJWudiqnnLUlj/YdfquJhIHX7JUo9tgFu9ACvbz902cb/rIR75/BdatZfvsph2hb2CErrJgqDzDQbcqisLr/izVN2St/UoY5vNgLFz2nEYoj2gMimU6b0rsmqWrRujOCd1pHWhamPMZ3D0Bm44iMYgG/AyZJSmc38KZtQkY+b2jib/p25AdnciPZkaF0lIHWjkAl7dNVol+Q/1vyqf+yf+ovIiOgQHx4Zy1mbaopB3AT93HGWTb/75MkEio3yOfk=;h+KNUr4omevyPRi9n45RDA=="
 ---
 

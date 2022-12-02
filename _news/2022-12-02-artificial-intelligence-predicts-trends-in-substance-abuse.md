@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T13:44:00Z
 originalUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-trends-in-substance-abuse-209493-1.htm"
 webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-trends-in-substance-abuse-209493-1.htm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Medindia

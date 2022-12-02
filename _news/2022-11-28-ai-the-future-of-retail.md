@@ -54,20 +54,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
-    publishedDateTime: 2022-11-28T18:43:00Z
-    webUrl: "https://www.hrw.org/news/2022/11/28/future-artificial-intelligence"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 43
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
-        width: 374
-        height: 374
-        isCached: true
   - title: "Remembering The AI Tailwinds: Nvidia And Micron Thank Meta Platforms"
     excerpt: "I called AI a tailwind during this recession-prone economy. See why Nvidia and Micron are prime beneficiaries of this train gaining momentum in 2023."
     publishedDateTime: 2022-12-01T13:15:00Z
@@ -76,7 +62,12 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/11/29/15511982-16697391724479105.png"
+        width: 640
+        height: 434
+        isCached: true
 
 secured: "7xFKK4eMLv6qqDRcV/RqqQBishRF4hV9MDQdFiQEPW0+eL4/Lso7KqMKLvL+DgimTF02ivlA6gHyFMNj8pjiUxqDjrisPSFXoyTctmtd4BS2sx8c1i8MK2vN9xAQup4ok9AS5Zu4mhRHLyrM0AQn4IL+GvqB1sNELdR7bVW/iHuuKVqRg3iL1TP2Iktm88+xDs9yZOCsfvcoqjw6bNc0c6spafihNh1MTO3PJagQx2PmAbSWsBNqXuluXD0uxkXYuFrUbxAa2yFXLNrIqCFlZHVkBoamPEKGqCcNieVShAkOL3YLdae6dpzOXaYuuiCpTBVtABdtNsPdZZUCQrJMtoSoSHQqXipjGseatn4FdBk=;ntYVCwLdQlpaN1TtXcRSPw=="
 ---

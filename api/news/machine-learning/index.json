@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-02-university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education.md",
-      "title": "University of Limerick invites applications for MSc in Artificial Intelligence and Machine Learning through Fateh Education",
-      "excerpt": "University of Limerick, Ireland is now inviting applications for its MSc program in Artificial Intelligence and Machine Learning. The course aims to provide students with core knowledge of artificial intelligence technology (AI).",
+      "path": "_news/2022-12-02-pytorch-20-release-accelerates-open-source-machine-learning.md",
+      "title": "PyTorch 2.0 release accelerates open-source machine learning",
+      "excerpt": "The new PyTorch 2.0 promises to accelerate ML training and development, while being backward-compatible with existing PyTorch code.",
       "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
+      "webUrl": "https://venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/",
+      "originalUrl": "https://venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 86,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "publishedDateTime": "2022-12-01T18:55:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/amp/",
+      "publishedDateTime": "2022-12-02T07:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,10 +40,63 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
         "Machine Learning",
-        "AI in Education"
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-i-interviewed-an-ai-about-the-ethics-of-ai-and-it-lied-to-me.md",
+      "title": "I Interviewed An AI About The Ethics Of AI - And It Lied To Me",
+      "excerpt": "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "publishedDateTime": "2022-12-02T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Machine Learning"
       ]
     },
     {
@@ -151,59 +204,6 @@
         "Machine Learning",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-the-pros-and-cons-of-artificial-intelligence.md",
-      "title": "The Pros And Cons Of Artificial Intelligence",
-      "excerpt": "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-01T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -462,7 +462,7 @@
       "originalUrl": "https://healthitanalytics.com/news/machine-learning-tools-helps-predict-alzheimers-progression",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1054,7 +1054,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1106,7 +1106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {

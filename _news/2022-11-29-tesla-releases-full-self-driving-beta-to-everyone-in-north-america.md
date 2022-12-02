@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America"
-    excerpt: "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week."
-    publishedDateTime: 2022-11-27T22:20:00Z
-    webUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 81
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Tesla makes automated driving available to North American owners"
     excerpt: "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out."
     publishedDateTime: 2022-11-28T15:18:00Z

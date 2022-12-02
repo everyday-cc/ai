@@ -42,6 +42,20 @@ related:
         width: 600
         height: 398
         isCached: true
+  - title: "A galaxy of deep science fakes: The problems with Galactica AI"
+    excerpt: "Indeed, an influential paper highlighting these risks prompted Google to fire one of the paper’s authors in 2020, and eventually disband its AI ethics team altogether. Machine-learning systems infamously exacerbate existing societal biases, and Galactica ..."
+    publishedDateTime: 2022-12-02T15:34:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/galactica-ai-meta-fake-science-misinformation"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/12/AdobeStock_226347986.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The Galactica AI model was trained on scientific knowledge, and it spat out alarmingly plausible nonsense"
     excerpt: "Meta announced new AI software called Galactica: \"a large language model that can store, combine and reason about scientific knowledge\"."
     publishedDateTime: 2022-11-30T18:30:00Z

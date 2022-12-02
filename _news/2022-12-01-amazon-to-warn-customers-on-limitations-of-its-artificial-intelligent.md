@@ -71,6 +71,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Amazon To Warn Customers On Limitations Of Its AI"
+    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
+    publishedDateTime: 2022-11-30T16:09:00Z
+    webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
+  - title: "Amazon to warn customers on limitations of its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon’s so-called AI Service Cards will be public, so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
+    publishedDateTime: 2022-12-02T07:59:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/amazon-to-warn-customers-on-limitations-of-its-ai-a8d20978-1972-5700-8177-047a5865a915"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "OiFYVEfQs8f9n/ZhIKdBr2cQiPvPOyQmoWqV8WF+Fynk8Vs/WVesmZet8c/7C25pBj1rlK5/s0AGFtyE1dk/zkWoQegrInBCuT28M2XUAogt2ueDyiWPfn4DIH+I6YuZgwpzVhFWQLuVtFFRksx+krNki/BpsMu0zm0URUy5wfrW3KZqptyI4OBedT1SH9RRoLc1HTy9gZtiqPC4ni7enFidHfSdenwVALskR8qeaYS9Z3tE6c3a741u1Xx1ihIGphWCYUqGbf3FIg89POOV7RkjNBp0snQeljjCCd1RclYQV9usI1R9p0CZ/TB6fM15nbUBRr+yk/RqV/j2B7iWRtppIyamfXayavC9eaJ+p2MAwq983e7hfINxTCN7FRE4i3z3lkqG2gMImDvWxMcZQWtW44VRh7NiYW5MJy+ewj6McMehcCuThJbP3Eble6bG+FLRqG1M4rYTQByPTrSNgpHWM44rWjecpZNQ9/9UPLxY9rTavdKxncqLZ2pop03GnDcet4WJG1F0jXo/7+HZDw==;2v9ypRVTQTUYNXq3itdKGw=="
 ---

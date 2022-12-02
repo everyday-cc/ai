@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UNC-Chapel Hill, AWS Launch Cloud-Driven Health Startup Collaboration"
+    excerpt: "The University of North Carolina at Chapel Hill announced a collaboration with Amazon Web Services to create cloud-driven digital health research startups."
+    publishedDateTime: 2022-12-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/unc-chapel-hill-aws-launch-cloud-driven-health-startup-collaboration"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "C9iIilJy3Jll/HpoS/qzOCpsEJMoGswYK1Hp4wVr58GalB4UFHeaYH62fPEZ48zPURQuayBexelCTrkULmTrdCWkO82pz95+5tiVm/9Rp2Q5CZXk1KgMxUB2po3e24+QLrik69Th4N4gsjCR528eFvMY9B5Vd8AM4pJRIoEkV/KaX51yEXR8C28jnljL3/0xxTgkb5D6qXKg3nxqrZ0BBt/bj/VqNiWNBjObxxLqmuYQhr1F9Z9ojViKi/WP1vIY3UOAsTMoO6YKCPFoXFZ7sdsAB14Njm2Wf1R0WJY3/hkIVbWU5JQrzQXvlc4GRXx33M63HDfwNxj5sk6Nh4Jbsj8LJRBGqO7Fa5okiYrThgo1el0Eb5F7o2EETbMfyOUeB5lH0qSHNVrkoZXDGLR89yMMRpCcc0qHakfCnmrvnJ/fxCjYQBZtxNRSU45T45/ABaVxBJFfms8e0RyDHx4xAbxc52FlJopKyBugKR+WAihdvJjnv4/795OyGJMEW+hC4YlU7uZCeArylqppvxUzCw==;eP6WpABbFMklbc7dND1QZw=="
 ---

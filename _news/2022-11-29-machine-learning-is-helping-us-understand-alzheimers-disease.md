@@ -41,15 +41,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Machine learning gives nuanced view of Alzheimer's stages"
-    excerpt: "Researchers used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer's disease in people who are either cognitively normal or experiencing mild cognitive impairment."
-    publishedDateTime: 2022-11-28T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221128140340.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Machine learning pinpoints the most accurate timelines for predicting Alzheimer's progression"
     excerpt: "A Cornell-led collaboration used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer's disease in people who are either cognitively normal or experiencing mild cognitive impairment."
     publishedDateTime: 2022-11-28T23:24:00Z

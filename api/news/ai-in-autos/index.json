@@ -373,6 +373,51 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-how-high-school-should-change-for-an-era-of-ai-and-robots.md",
+      "title": "How High School Should Change for an Era of AI and Robots",
+      "excerpt": "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop",
+          "width": 640,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "publishedDateTime": "2022-11-29T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
       "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
       "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
@@ -730,6 +775,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-28-tesla-makes-automated-driving-available-to-north-american-owners.md",
+      "title": "Tesla makes automated driving available to North American owners",
+      "excerpt": "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners",
+      "originalUrl": "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20driving%20BL%20web.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard.md",
       "title": "The future of AI and medical imaging, from Nvidia to Harvard",
       "excerpt": "New initiatives are scaling AI models related to medical imaging and making diverse medical imaging data available to all.",
@@ -738,7 +826,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1399,92 +1487,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-baidu-posts-65-increase-in-number-of-driverless-taxi-services.md",
-      "title": "Baidu posts 65% increase in number of driverless taxi services",
-      "excerpt": "With no one at the wheel, self-driving taxis developed by tech giant Baidu rolls down the streets of major Chinese cities. When its sensors spot the corner of a delivery cart jutt",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "originalUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_530358448.jpg?itok=77pXLNpo",
-          "width": 2362,
-          "height": 1417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "publishedDateTime": "2022-11-22T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-baidu-benefits-from-online-advertising-recovery.md",
-      "title": "Baidu Benefits From Online Advertising Recovery",
-      "excerpt": "On Tuesday, the company also announced that Baidu was granted permission to conduct autonomous driving road test with an empty front row in Beijing. Apollo Go, Baidu's autonomous driving ride ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/11/22/baiduhq_G7YnEj7.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T13:20:00Z
 originalUrl: "https://www.unite.ai/technique-enables-ai-to-think-far-into-future/"
 webUrl: "https://www.unite.ai/technique-enables-ai-to-think-far-into-future/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: unite

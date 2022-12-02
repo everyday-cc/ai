@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T13:03:00Z
 originalUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/12/02/realpha-saiml-jv-airbnb-investment.html"
 webUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/12/02/realpha-saiml-jv-airbnb-investment.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Business Journals

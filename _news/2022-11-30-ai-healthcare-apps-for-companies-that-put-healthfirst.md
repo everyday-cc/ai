@@ -100,6 +100,15 @@ related:
         width: 1530
         height: 1018
         isCached: true
+  - title: "Minority Patients Often Left Behind By Health AI"
+    excerpt: "The researchers hope that they gain a better understanding that health inequalities and exclusion can become self-reinforcing, especially when we start working with research data and healthcare-related AI systems. While there are various tools and ..."
+    publishedDateTime: 2022-12-02T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/adigaskell/2022/12/02/minority-patients-often-left-behind-by-health-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI in Health Care: No, the Robots Are Not Taking Over"
     excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."
     publishedDateTime: 2022-12-01T19:31:00Z

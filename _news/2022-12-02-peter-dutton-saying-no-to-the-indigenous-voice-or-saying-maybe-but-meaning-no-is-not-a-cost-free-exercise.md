@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T13:03:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/dec/03/peter-dutton-saying-no-to-the-indigenous-voice-or-saying-maybe-but-meaning-no-is-not-a-cost-free-exercise"
 webUrl: "https://www.theguardian.com/australia-news/2022/dec/03/peter-dutton-saying-no-to-the-indigenous-voice-or-saying-maybe-but-meaning-no-is-not-a-cost-free-exercise"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian

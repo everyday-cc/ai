@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T14:11:00Z
 originalUrl: "https://www.supplychainbrain.com/articles/36206-uber-freight-aurora-expand-texas-self-driving-pilot-with-veritiv"
 webUrl: "https://www.supplychainbrain.com/articles/36206-uber-freight-aurora-expand-texas-self-driving-pilot-with-veritiv"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Supply Chain

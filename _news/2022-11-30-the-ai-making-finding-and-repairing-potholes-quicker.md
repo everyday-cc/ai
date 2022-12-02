@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "In a slowing hiring market, will AI finally revolutionize recruiting?"
-    excerpt: "In the depths of the media coverage of layoffs and hiring freezes in some large, noteworthy organizations, often in the technology sector, was one report analyzing an interesting factor that has led to some of these reductions,"
-    publishedDateTime: 2022-11-29T21:59:00Z
-    webUrl: "https://hrexecutive.com/in-a-slowing-hiring-market-will-ai-finally-revolutionize-recruiting/"
+  - title: "AI Arena teaches AI to players by training and battling AI fighters"
+    excerpt: "ArenaX Lab's mission is to educate people about AI using a new AI platform style fighting game dubbed AI Arena."
+    publishedDateTime: 2022-12-02T16:00:00Z
+    webUrl: "https://venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/"
+    ampWebUrl: "https://venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/amp/"
     type: article
     provider:
-      name: hrexecutive
-      domain: hrexecutive.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://hrexecutive.com/wp-content/uploads/2022/11/Social.Boese_.11.29.22.png"
-        width: 1280
-        height: 720
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/AI-Arena-Banner-1200-x-675.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "bH3RtBtUvhjuWiK1KFOdYCHwNVcvGpPVL9BOkR2HMtXWDzrM0jFe99zpgT1QpBXHTE6/N28nw2y1HZf7p4xiedYF2470yvUtydDIPDXQyelMlkVQJK7XcCfvqcVfTc8dzwUr+ZfVa8UNvnToebxgcuMpcmvqWxLA4uoYzhM1nw8FglEP7BJkFX9pVq/39vkeuYoeyz1udujjyPn/c3Ah244fmkCQ7L17uFATbGg2Dt3AjD1iUjqEsUOWloHW4NVX87KLgGhqg0hAvz6+qvooUwq5fsPEYngLeXM6mu3w+5lvwLWWq4uuodLfJ/BJ8Di4Ggpzb9HXxXXNFbUAMj//pRhTmf59hQbf4+LqE/23Dy3NnAF1Dj5Q76NeJypO/2Df3cUGaxStUDtg/EOL4+ptg06KORWLezHxLjQ51RUccrH3Me0rO9QcB9wbsyNPFc5OsAb7YpJrxRY+RiUQ8h0vWjPrSBgAWDJmq8w0ubaMIH4tD8qi4bcKyxqAa4+cfcjOV5P4s0VFLl31eCqaWNg0ZA==;wwppTOdlYFVzM7nlBJMt3g=="

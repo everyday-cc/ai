@@ -1,20 +1,23 @@
 ---
 category: news
-title: "Cisco Investments and Third Culture Capital Among Notable Investors in Voiceitt’s Latest Funding Round to Scale its Accessible Speech Recognition"
+title: "Cisco Investments and Third Culture Capital Among Notable Investors in Voiceitt's Latest Funding Round to Scale its Accessible Speech Recognition"
 excerpt: "Voiceitt, the Israel-based award-winning leader in speech recognition technology for non-standard speech, announced today the closing of its latest funding round led by AMIT Technion, with participation from Cisco Investments and Third Culture Capital (3CC)."
-publishedDateTime: 2022-12-02T13:51:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/cisco-investments-and-third-culture-capital-among-notable-investors-in-voiceitt-s-latest-funding-round/article_649be194-93f2-58d7-a910-6423c8543ca9.html"
-webUrl: "https://www.bakersfield.com/ap/news/cisco-investments-and-third-culture-capital-among-notable-investors-in-voiceitt-s-latest-funding-round/article_649be194-93f2-58d7-a910-6423c8543ca9.html"
+publishedDateTime: 2022-12-02T15:02:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/12/02/9723611.htm"
+webUrl: "https://it.tmcnet.com/news/2022/12/02/9723611.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "gCWYQo5ffFdDryIQ5ZLsgr6aeyY0xYIFD5YzLCoFsnyKiEVB7QNvZjw7/DkG2B8Y78D1eS8hexiHg7rdJSMz+rF1HueyyUYzGjQVUCE250/A2/AA22a0tIeVSjY3C3C6P5Kqv9xIxpDSY/Hey0DQoRS2v9yY7GMyRdrKiSNJoMBePoUgqRyvF9njMYqPoroTpuUMJTEbmg14qxpNExNQeRKgJBB1SAZpiw9fxbhmd+hCPZ0C0Kq232GwbfiuVS6z/sYPwIlvHJxml6rMIUaqYOkV0Q81O4RDSRfDN62Pc3MQohYlA10LtgTSwtO3+aYt8sBxC8NhGceozEk//Q6pxGZEJT/PG/GHpOOo7BoNVO0=;PyL6KGSoPzPi7ZWSTM2OnA=="
+secured: "Jz+kANeAlRkXoLg8PVPavh1rvmWOAHTymUR+8jvaFczv5lG0BYyVoeZbo+IyelkyBAZj5OJlahjg2ZKgZxPPPlSc85OKTqfZSD9Jqbq2yNW0iHMz9cUB4Vtbq+6x1Xbr2WdJV+OS6uKU5ohgXFTGq5RaV0MDUUquktAylP5n6RHOn1oN6xxMrlXJa2DTKDlUY7LEmvNkgxX8/DxcaWxgg44B0eFIO8aJ1diZt/8FJVt8MAc7fsAXlhtmmwr6m4aaqbuqZH6sgz4BncMBGFrsHhXvoScO8a/CKhzvVu8M+6atTcpZi7MJHbzr6y/LT1+WAGfYQavdzUxUEzVKUB63g5eU0uzAqQvYhk+oJgDZ4w8=;kJl2tjfSqN914GmObmf/6g=="
 ---
 

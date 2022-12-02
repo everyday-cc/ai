@@ -7,8 +7,8 @@ originalUrl: "https://www.autonews.com/mobility-report/tesla-makes-automated-dri
 webUrl: "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Automotive News
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America"
-    excerpt: "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week."
-    publishedDateTime: 2022-11-27T22:20:00Z
-    webUrl: "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 81
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Tesla's Full Self-Driving Beta made available to owners"
     excerpt: "The controversial self-driving software not yet approved by federal regulators can now be accessed for Tesla owners who purchased the option."
     publishedDateTime: 2022-11-28T15:18:00Z

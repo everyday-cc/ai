@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
-    publishedDateTime: 2022-11-28T18:43:00Z
-    webUrl: "https://www.hrw.org/news/2022/11/28/future-artificial-intelligence"
+  - title: "Remembering The AI Tailwinds: Nvidia And Micron Thank Meta Platforms"
+    excerpt: "I called AI a tailwind during this recession-prone economy. See why Nvidia and Micron are prime beneficiaries of this train gaining momentum in 2023."
+    publishedDateTime: 2022-12-01T13:15:00Z
+    webUrl: "https://seekingalpha.com/article/4561691-nvidia-micron-thank-meta-platforms-remembering-ai-tailwinds"
     type: article
     provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 43
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
-        width: 374
-        height: 374
+      - url: "https://static.seekingalpha.com/uploads/2022/11/29/15511982-16697391724479105.png"
+        width: 640
+        height: 434
         isCached: true
   - title: "AI - the future of retail"
     excerpt: "Technology is changing the retail sector, with artificial intelligence (AI) shaping shopping centers and stores of the future. The Covid-19 pandemic changed traditional retail as many customers had to shop online."
@@ -69,15 +69,6 @@ related:
         width: 1036
         height: 816
         isCached: true
-  - title: "Remembering The AI Tailwinds: Nvidia And Micron Thank Meta Platforms"
-    excerpt: "I called AI a tailwind during this recession-prone economy. See why Nvidia and Micron are prime beneficiaries of this train gaining momentum in 2023."
-    publishedDateTime: 2022-12-01T13:15:00Z
-    webUrl: "https://seekingalpha.com/article/4561691-nvidia-micron-thank-meta-platforms-remembering-ai-tailwinds"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "loYbNmMYmkm41nrswfQ+hoi2rspby6upYTnw33hTp7m6+omnsTTj5jKBb6HCZk+JO07FJYPMw53ZzA9JWQQ5h3mn17/K6aM4tlAounxqfmtGZVeQRy5TpyqGtVRVbqoQLA+lWVKDlFtVHcfXkt370yoigc919WHcmw/0IdtA4J5VKz0ODtTgrUvIdTo5cMebNsz/2UlVwq3+aJC3Ct5WE2fy4gCfCIFX/oo5XNrsfsKT7UkjdGBq7GPT9ECFaO/0PKh1rHJfa8YhxFcIkdnVWD1+kddgvESU2MsMWiFDiT3P1GssAcBsguz94ac370XmmBVLL2LLgbABFiIJ2VCbT7OahtL1YKXotbDQeWJErgfotpQxSNf7+wRZ6DYEvXEvPnDiSJYuNFitpSfnVldCfGtOg2Hy4eKlMAjfizO5HJEGKBWPwfLNBu3t9oRHCMjqWOdTErwdAZOCgc1XZYOCYfoK389oBrucVPcvqIm5vDWQs/HidJ4BoD+J3I9g3tN+Ke4LP6naQrlF1KbpxQw/Rw==;viw0j3JLB+rmCLWtyZ/yig=="
 ---

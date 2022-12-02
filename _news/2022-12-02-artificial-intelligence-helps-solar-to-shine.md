@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T14:09:00Z
 originalUrl: "https://pv-magazine-usa.com/2022/12/02/artificial-intelligence-helps-solar-to-shine/"
 webUrl: "https://pv-magazine-usa.com/2022/12/02/artificial-intelligence-helps-solar-to-shine/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: pv-magazine-usa
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
-secured: "JmqYlpkn7Xwlh3NpzNYlNtGBL6b7kiOymFpYT6UmYp2dfwfyCZwNV7EgmQThVixM4zxrNV/OD6Hd3UfDnfQwgaRsiHqNj67hSw3UidarB8Me7hOXrZoHlVg6BwC/NKoM43+0xOLLAX9jH5wG73hXc9my9UR9h8lDqXLHvFVsnMlIuGPnowCT5fKLEWH6cYefLWHm+bflbRZSkr4DzIIfSVD2IIzkVM9FqyIzAD3WCazXH00XcHGY1mTM1Jb019vvqZipnZJRuyG9AuqHjj6jIPFCaGPkqlcFulB2lQWM57v7cfpeyujEdi2J+xw09c49o/m1dy2KUkBhLhtXDaPRVN2kNePc5+fibjbLfdo3ZRQ+qQaXHxGb/UW/KYgIoEdMVy6FL3dBdY8x3Z42dpHgSoJAP/74TadLIjqkESE/4GnbvfHyYWZP67j0LJIjNTybtRRuhdZeSPtldx3wCb4oUIEpGVeASZT1/6uOgNfuJECO1KU9k3ls4Obs0xRKe0nS7d4LVJqKxS2EswCff6LGOQ==;f0t4zBGSK8tn+HIIecZcwQ=="
+images:
+  - url: "https://pv-magazine-usa.com/wp-content/uploads/sites/2/2022/06/shutterstock_1913036797.jpg"
+    width: 1000
+    height: 667
+    isCached: true
+
+secured: "3amIx/cGSAuy+9/K4RL0tx7kSez4yK+0tYF1W9TN8QGsy4Oto1Mj+jaLjVWxC06hqHen7I9aKt9iToVBLgipoxg96EyYjgND2whm+ZjFQfHjbWJWfzWUaeTnivkN52SdQ4I/ATF9EFxC0rn6e3OxdeLzd7orjtbNx8t+wtUD378W2SzDafelyH69WfwKrLvKCCLs7Sa1oxEsg4cQbuEZBEfIkmK9VNWh5k9TpX7jPInpJ5gHwFTIcaJ6rvhVumXgLe56iaHHfnukEH8vgKuZjPeVSkdPd9tPAU/VEKoKqttxedUyJ8UNNETD+vmyanvO3EIDZROFu/TL9NP1u/+Ruv9iaX/WVfwbRkE8gvC8oGo=;EUUB/ZQgphKVhhMwW7LjzQ=="
 ---
 
