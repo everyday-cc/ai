@@ -47,6 +47,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Why Australia is having trouble finding its Voice"
+    excerpt: "The Nationals’ decision not to support the Indigenous Voice has put a big spanner in the works for a referendum on Indigenous recognition in the constitution."
+    publishedDateTime: 2022-12-02T02:37:00Z
+    webUrl: "https://www.afr.com/politics/federal/why-australia-is-having-trouble-finding-its-voice-20221201-p5c2u6"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2371%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/383cf28c26cb87359eabb17b815fb159f6aa109d"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "y8qR3xbOHU1M6ZyNdtzFcnxyPr+Ij49Dp2ptCT83VsXxkkirtgwdIRFrF9/3Pk69FnWPJ0uDvHV+uIRBKCwU+fdmU2d4bYLrGJen8/goYc4RgpGIVAJNatwMrcgyOxPgD2KL4Ufp4Q3w1JxEjVubXNNtN1aRPlldVbVxTZGbRGu/WuPmfJe/nYZQZYkSK+l5OQ+Y2f/YXCQJdBsFCrZqBA8y43YG7VihOv+Ozwx2xtLMmu7BzPnm0mqAJ9uRaF0KY7DRznL81PDozXmumxNugha3NZwQMFg/8+8ivePfJcSFpWyldcSH/iQkT63sctIIXu96TcT/syBWtoK60b2T1Qiupn/MuW7xaiJtLTQVnJL/zKmanKISQuiGj+HBwDVhMZQA46WgoXsQXtxsYJuHesvwqq1Cs5Fchc//l7BdA4+ifAeVjTXEyJhZ1hBc2Z64eUzfgV0jwtgv7Xw8rwDokjdtAdaPI2wnML9+aACRvBhIrbdh4FZJ+DjtnJ2l5LKRwMdaQfPd2TQGJ3Rr60QjIQ==;eGnxqBRu/ReLarq/J/bBsQ=="
 ---

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
-excerpt: "As one of the first customers to leverage Cerebras' new Andromeda AI supercomputer to design next set of customer-specific models, Jasper expects to vastly improve the accuracy of generative AI models Jasper,"
-publishedDateTime: 2022-11-29T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29894429/cerebras-systems-and-jasper-partner-on-pioneering-generative-ai-work"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29894429/cerebras-systems-and-jasper-partner-on-pioneering-generative-ai-work"
-ampWebUrl: "https://www.benzinga.com/amp/content/29894429"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894429"
+excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
+publishedDateTime: 2022-11-29T20:57:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
 
 related:
   - title: "Cerebras unveils new partnerships for LLM and generative AI tools"
@@ -83,6 +75,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "tHBd0GxDuEuZBYRs5XIWfmBttw6OV85Rgq8imlW7xvsQjPkQc2eGPn/VpKa58BeCBbNNC4U7c88hB2x5r534m7jfrm/NwjRZlZ0jZBp6RaPh2illKsyJJ5FUJF9QYgRkm7CHUycwLxP8RUHGYkfC3cG/w2GZFpwFy0DXeI08XKxqQEM48twDahuC7C2GwLucbQhgWjVcah/J3uSHCqG8AS8EJwmda7W/CjrvM+Rq38saOzYsJxAc5TnVQ6dC43XQ755N8WRaRRoJF5biA9aXrunonsxHa8Xp5GjHjgx5gYhwhNNBH4R1NkV7wx91Kx54I2UaVZOtzVNPcrOWK2psVzqmG4hYjnp4SwC+T554ePw=;cDIkT7xo+9uDlV+uf+N7LQ=="
+secured: "8soYIpeRM46yFFI+vRkT12/VgVTA8aC/tpAhH4qDuvif8IpLIrRsPRoMOBdfJ7wlmnjGjL4Wu6+rH16UaaB98UhdQVd5vSQo8FaJgABHfQmN5kOw/sRuMQqo0iYCPF+cC7reGeH8ISbAVS+4po/bE7M3byD29t+i7H2K8LkIDZWKC+5VXop/7rs6KkCnRPqhr10Tb/jaUhAeQlClTwszBWVIhkcUPdWz6ddXHjxuDQdoUn7XBlhB6jCnFAE7cI5lYcy5vI0iAL3vkY7qv4WtbQZEQzboioUT6VV3e3ZAW08XxDvubb1jxzdlzJmTSDWw+AsjwGeMJz6Yt/vwBpUVsFUFfvEl1oPNOXdGBGOu0mY=;JfR8sBwa9I4hTzhjR9AeUw=="
 ---
 

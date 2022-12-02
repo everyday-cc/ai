@@ -1,22 +1,28 @@
 ---
 category: news
 title: "San Francisco will allow police to deploy robots that kill"
-excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
-publishedDateTime: 2022-11-30T15:02:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
+publishedDateTime: 2022-11-30T02:38:00Z
+originalUrl: "https://trib.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_ba79e871-2370-543f-a4b6-d31759a59895.html"
+webUrl: "https://trib.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_ba79e871-2370-543f-a4b6-d31759a59895.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Casper Star-Tribune
+  domain: trib.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/8/1f/81fb8c6c-18be-5108-b96d-5f9bca2caaec/638668b3e5321.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "San Francisco's Killer Robots Threaten the City's Most Vulnerable"
@@ -82,6 +88,22 @@ related:
       - url: "https://www.boston.com/wp-content/uploads/2022/11/San_Francisco_Police_Killer_Robots_07710-6386649ea96f1-scaled.jpg"
         width: 2560
         height: 1760
+        isCached: true
+  - title: "San Francisco police defend 'killer robots' plan"
+    excerpt: "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,"
+    publishedDateTime: 2022-12-02T03:44:00Z
+    webUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602"
+    ampWebUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 59
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png"
+        width: 600
+        height: 314
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill in emergency situations"
     excerpt: "Opponents said the authority would lead to the further militarization of a police force already too aggressive with poor and minority communities."
@@ -151,6 +173,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "pfI11MXSOtRC6dc2MB+zka5MBMj2ARl42qjj9iTmYK5TFRXlUK/P70KE+xvoHtkcEhN7Ab9J6SgcAUdJ7EaycoE4lcP1eGRt4fw3ZFfZo0AWlBDEjXteOF6Yp1ZYHq/Ii7K0KeR/0wjFOVR9LpOhuSy51lIQIcybzTRoPey1tTbmgRErboh9HA24MV7cDOa6sPnUS3IQMoua//zyfTZxxVKynWJ+5pw3kKU7j7b7YQg7TOGgeoh/irFxiFVJwWF29Pdszvrv0zV52uK6aeZVzry6IbDS2bE1n4cl/OR2t72PEgrsPshL3vsDNGXGQ+s8F/SElfqaGtRzYoVEVXjTcQUXaBufjjBoRlbXV2FCdMdOqHWNUZFy14RFv0EvAJRvlmhMWgxvK4W7FFMoHo+AF4wCb2br1xW4Egae6pjiZPU47JPUxkEqoRd42QlEXAwV3PMvfYKqELDvNrcqc8mHwiiS6AYMbphjkD6PeR23SQi5j0g4bN7XDdhi0RAGwFVlVl/ie4RTpz3Ptewro0ye3A==;SJTLhkGlr6ga7C1gmVbkJw=="
+secured: "d9B5um2BfAdQclAw8YzyrvPvDPvfnlc5ylbnI7ghhFlvVLlwwsJXupn848mcimP+CRzq1qzycsi33KmLOupXKjjoB2ZrEGrBj4Mtx2ShP/CR4LkFFxiW0cYjLlc/MScRG7IRX9fJmKz5meSnXfva+dU15i3BSv0Mq3QI0qOnpGBFXcO0GUEqMKWxHV1rsrcOVSgr9azsHuXXnnP9RXKHhWCg4VODrW3EmYwgeC7KDer7oYL/XgNlNxafwIo2ZZHnNLBVPfTxqBYSEoK8Xpa09mZZdktE2Mdi++xZmWXbqEu5N0Qnxzhnq1yPAaZceQEy23N97yothrWMaIEWzKa+9lbV9tAZIqSto+SrxgpLSEs=;YbpbNwEKIoPKT/oEL9hLww=="
 ---
 

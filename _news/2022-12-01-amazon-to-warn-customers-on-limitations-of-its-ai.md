@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Amazon To Warn Customers On Limitations Of Its AI"
-excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
-publishedDateTime: 2022-11-30T16:09:00Z
-originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+title: "Amazon to Warn Customers on Limitations of Its AI"
+excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+publishedDateTime: 2022-11-30T17:07:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "The Pros And Cons Of Artificial Intelligence"
@@ -182,6 +178,6 @@ related:
         height: 458
         isCached: true
 
-secured: "NgwmYH7bBjsiUmS5grHeBXtQTSrftLDptpW5GXHY4zTunebVS7Hcr5khhhixTlTFpsCUAYmOe1LWLRJraRYKN3QW/qzNgtzpvowf7zHTphnidv55bovtPMVPUwgCYcR3H0MpIGw3HxMdaTRn0OImhx52bt5mmiJBEdPiYCMgpDHxcYufVDUEOZPgJoA0OxS1G65kYCEO/6HSgFQbnmvvR/yCrGdlSfxRHcl8Ea1tXf3MEZk1ZtssNlYrgSSm7MKFIKuhHdKaVIfAAAIYnb/BR0ZY1mTuJbRrrjDw3ckizFFld6HswGMetp54PLwjuJAQxHt9QeFGO2dcgvlKqk4FZPaz7i5MTJJ+uhQPYw/wRt4=;bJAVV1E7sQQPPMJ6wTREvQ=="
+secured: "al+0ctl4hjCdAQbvDCkXYC5fqn6/Jj0ZDb0kmNiNuCBm4Kw/tmImas4LI/uSkpxdaYYT0KB1pnQJMB7bP5tCi0mwp/YNDhrCxtYOyTxBmVeIr3qd4jwP2tniOfpI78CfCTEXYu+w9DuA2BKyURSXKJG+Lu+aSCIsTpBW8r5wiBoGOsXIwCtRne/Ded5L/o+XxQq1RTJNDK9HmAwnEhfMR+dYFTjZw4ud2bZvYkyxii6RS05JCEV0/cWt2F6JA5CVFk8idtpXRLbNSCijQjtm2NO0GbB2UDqY5Hz+0lSaEsSi0k0RNWEKEMcz5jO/fIzxGyqxAhWcr5OBwfBBIKfYoADAdjLvDiRClcfsJ1QrCpwwS0SoyszdWw7Wtj+UdRnn/sJKefvdS9XzmA8rJj9z9fLFMQvpI1phaz1XS18dEKfPtQyzjz3JsN//2Vug51gzvW5kgG7wLSeOGD1bul33WmUwS4VBhwoNsdrgHPbOXEP2xX2HrKHio2YFap7dRwI3v6dqh3Q2MNTWkPq+bHtRCQ==;qKdrVbKKDrqdEYCwqtZLEw=="
 ---
 

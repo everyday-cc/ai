@@ -75,6 +75,22 @@ related:
         width: 2560
         height: 1760
         isCached: true
+  - title: "San Francisco police defend 'killer robots' plan"
+    excerpt: "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,"
+    publishedDateTime: 2022-12-02T03:44:00Z
+    webUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602"
+    ampWebUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 59
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "San Francisco will allow police to deploy robots that kill in emergency situations"
     excerpt: "Opponents said the authority would lead to the further militarization of a police force already too aggressive with poor and minority communities."
     publishedDateTime: 2022-11-30T17:24:00Z
@@ -119,6 +135,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
+    publishedDateTime: 2022-11-30T02:38:00Z
+    webUrl: "https://trib.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_ba79e871-2370-543f-a4b6-d31759a59895.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/8/1f/81fb8c6c-18be-5108-b96d-5f9bca2caaec/638668b3e5321.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "San Francisco Police Can Use Robots To Kill Suspects"
     excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"
     publishedDateTime: 2022-12-01T04:21:00Z
@@ -133,15 +163,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
-    publishedDateTime: 2022-11-30T15:02:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 19
   - title: "Everybody hates the idea of San Francisco’s killer robot police"
     excerpt: "A proposal that would give law enforcement the license to kill with a fleet of bomb-wielding robots has drawn a rebuke from the left and right."
     publishedDateTime: 2022-11-30T22:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS adds Yahoo and Stability AI to its growing list of cloud customers"
+    excerpt: "Invent with news of some big customer wins. Both Yahoo Inc. and Stability AI Ltd. said they have chosen AWS as their preferred public cloud provider for key business workloads. In Yahoo’s case, the internet giant said it has chosen AWS to host the operations of its Yahoo Ad Tech advertising technology business."
+    publishedDateTime: 2022-12-02T02:24:00Z
+    webUrl: "https://siliconangle.com/2022/12/01/aws-adds-yahoo-stability-ai-growing-list-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/awsreinvent2022-sign-crowd.jpg"
+        width: 4896
+        height: 3672
         isCached: true
   - title: "Stability AI Selects AWS as Its Preferred Cloud Provider"
     excerpt: "AWS has announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as"

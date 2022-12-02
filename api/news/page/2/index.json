@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-01-you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history.md",
+      "title": "You can use an AI Time Machine to see what you'd look like in different eras throughout history",
+      "excerpt": "A TikTok trend popularized the MyHeritage's AI Time Machine, which generates realistic photos of what you would have looked like in past eras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "originalUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/86ddfe1750a7efb96b8b25cae5b8ae865ab2da1e/2022/11/30/f0f35286-c582-4dd0-9d7f-646a208b153f/2022.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "publishedDateTime": "2022-11-30T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-how-the-private-sector-can-help-close-the-public-sector-ai-knowledge-gap.md",
+      "title": "How the Private Sector Can Help Close The Public Sector AI Knowledge Gap",
+      "excerpt": "This blog focuses on how the private sector can help close the public sector knowledge gap in sustainable AI practices. 5 Strategies are positioned for consideration, underlying the security threats we face of not modernizing our government institutions more rapidly with sustaining AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6387cc1b52738817bac8a8c0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "publishedDateTime": "2022-11-30T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-state-of-ai-december-2022.md",
       "title": "State Of AI, December 2022",
       "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
@@ -578,8 +680,8 @@
       "title": "New artificial intelligence could help humans actually talk to animals",
       "excerpt": "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success.",
       "sourceUrl": null,
-      "webUrl": "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "originalUrl": "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
+      "webUrl": "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
+      "originalUrl": "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
@@ -596,13 +698,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "cdnAmpWebUrl": "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "publishedDateTime": "2022-11-30T04:55:00-08:00",
+      "ampWebUrl": "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
+      "cdnAmpWebUrl": "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
+      "publishedDateTime": "2022-11-30T05:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "koaa",
-        "domain": "koaa.com",
+        "name": "KXXV News Channel 25",
+        "domain": "kxxv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1104,101 +1206,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-aws-adds-machine-learning-capabilities-to-amazon-connect.md",
-      "title": "AWS adds machine learning capabilities to Amazon Connect",
-      "excerpt": "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html",
-      "originalUrl": "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/11/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/",
-      "publishedDateTime": "2022-11-29T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-amazons-new-alexa-feature-uses-ai-to-create-animated-stories-on-echo-show.md",
-      "title": "Amazon’s new Alexa feature uses AI to create animated stories on Echo Show",
-      "excerpt": "Amazon announced today the launch of “Create with Alexa,” a new AI tool for kids that generates animated stories. The company first revealed the feature in September. “Create with Alexa” launched in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
-      "originalUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/assets.aboutamazon.webp",
-          "width": 1189,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
-      "publishedDateTime": "2022-11-29T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

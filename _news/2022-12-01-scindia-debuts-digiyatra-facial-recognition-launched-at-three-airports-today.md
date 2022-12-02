@@ -59,6 +59,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Facial Recognition For Entry To Indian Airports. Here's How It Works"
+    excerpt: "The Airports Authority Of India on Thursday launched the Digi-Yatri service that will provide contactless entry to passengers at airports by using facial recognition technology. The new service will ensure \"contactless and seamless\" processing of ..."
+    publishedDateTime: 2022-12-02T04:43:00Z
+    webUrl: "https://www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225"
+    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/h0upg38_airport_625x300_02_December_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "India launches facial recognition-based entry at airports: All you need to know"
     excerpt: "To use this facial recognition facility at the airports, passengers would have to register at the Digi Yatra app. The registration would include Aadhaar-based validation and a self-image capture"
     publishedDateTime: 2022-12-01T15:44:00Z

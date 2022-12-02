@@ -103,22 +103,15 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Amazon To Warn Customers On Limitations Of Its AI"
-    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
-    publishedDateTime: 2022-11-30T16:09:00Z
-    webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-    ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+  - title: "Amazon to Warn Customers on Limitations of Its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-11-30T17:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "15 things AI can — and can't — do"
     excerpt: "From pop star robots to autonomous cars, AI is all around us. Stacker assessed the current state of AI, from predictive models to learning algorithms, and identified the capabilities and limitations of automation in various settings."
     publishedDateTime: 2022-11-29T20:30:00Z
@@ -187,6 +180,6 @@ related:
         height: 458
         isCached: true
 
-secured: "DTRYACvxLUTKDFkg4rD1gSA9voVmQG2LVERc5ul228p2ujSHKsGhhD7JBCcgCeCXfVe8GLP9xNhp6/OxxBd77O+r+8uiuJmtSUPsXMglvvb6r9+42uX7uSNkxH4u5BazOTTIQZbs23O+vyXPZ0U0zVYgFTbGxZTfuHfgK0qDkidQTmz0WC4/usOhuXgkC2F/40mefy814lOH1gcytPW2MbnDWNQ+BKC9Vi7y9DRbDMGUUCrt5O2VVmWQzISWPBcd57qQuH8J3rzPqZHOlXsiJMOClwkudjfT/oJSO33DCdnjXs0AB5M5Y4r7WEdqz6F7/+PR4fKE0ctqj3lC1rfv5vEOqevR7OnndXP5lMdL9Nk=;2RgJc2ycBP/V8TIIcUcaDQ=="
+secured: "+Y6Eyu9K4IH6IjtNuQHraeOyF3dzfLFLGLQBYal1guzF5F6qEvSRLilLi5lbQ6iplVNgC+vV3K/ncldc7pi3oR+QVIokI+EAWJwhWZcInXhoBBn0QMDW1L7MDEF2bqXsg2FW88HcWEkr42QYRuFnTVXEkAk3CHw/+YRWNSX79AupyX4lY5ZVfwTU+8yjnQ0YsovLeOskReJ1r2dN7j12UmNQ97qjIQBrYXN8i8MS1hy3cN//1kD73ERmZA8RkcLnYVbuEg+oT6cKCUBrmlbdRnibzCik5mBunPrgHcAsKOF7Opqr7b8h4Hu0riG0w424fFbNIDLxY5uM8wk6b3RVb+jkm6TzVIi0HdQSfkkwACBK8S6MN7ddlhJNuU3CAUlJ+W+iLjREOemwl8jR0f71M0y0ZRy76tz53ibRhgn0BnQNzq3XZpFivGNIQWryqOB/oLlPw1906WSZ7fGnkKeJrHTeh05UzgWLPa1OUQLxigTePFJ8ZY6XI2mJKK6FY1713cox/1Vf0Ys53OCUuVGRCA==;owilv1lzLsBpt77JRB/Pvg=="
 ---
 

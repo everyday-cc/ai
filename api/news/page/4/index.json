@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
+      "title": "How AI adoption has yet to reveal its real potential",
+      "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1669649385546.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
+      "publishedDateTime": "2022-11-28T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-could-amazon-be-replacing-recruiters-with-artificial-intelligence-software.md",
+      "title": "Could Amazon Be Replacing Recruiters With Artificial Intelligence Software?",
+      "excerpt": "According to a confidential internal document viewed by Recode, Amazon has been working on an Automated Applicant Evaluation system that will determine which job applicants possess the most potential for success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6384fda39f75f08c7a459796/0x0.jpg?format=jpg&crop=4594,2583,x0,y123,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/amp/",
+      "publishedDateTime": "2022-11-28T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-deploy-an-mlops-solution-that-hosts-your-model-endpoints-in-aws-lambda.md",
       "title": "Deploy an MLOps solution that hosts your model endpoints in AWS Lambda",
       "excerpt": "In 2019, Amazon co-founded the climate pledge. The pledge’s goal is to achieve net zero carbon by 2040. This is 10 years earlier than the Paris agreement outlines. Companies who sign up are committed to regular reporting, carbon elimination, and credible offsets. At the time of this writing, 377 companies",
@@ -1146,102 +1251,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-artificial-intelligence-tailors-dna-for-drug-development.md",
-      "title": "Artificial Intelligence Tailors DNA For Drug Development",
-      "excerpt": "Using AI, scientists have succeeded in designing our own DNA that contains the exact instructions to control the quantity of a specific protein.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/artificial-intelligence-based-model.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
-      "publishedDateTime": "2022-11-25T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-the-best-black-friday-robot-vacuum-and-smart-home-deals.md",
-      "title": "The best Black Friday robot vacuum and smart home deals",
-      "excerpt": "Going from zero to a fully outfitted smart home is a huge undertaking — and it can get expensive fast. While we don't recommend grabbing every possible smart home device in one go, Black Friday makes smartening up areas of your home a lot easier on your wallet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "originalUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b8640800-6abd-11ed-bfee-1c74ea8ab846",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "publishedDateTime": "2022-11-25T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -83,6 +83,22 @@ related:
         width: 2560
         height: 1760
         isCached: true
+  - title: "San Francisco police defend 'killer robots' plan"
+    excerpt: "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,"
+    publishedDateTime: 2022-12-02T03:44:00Z
+    webUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602"
+    ampWebUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 59
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "San Francisco will allow police to deploy robots that kill in emergency situations"
     excerpt: "Opponents said the authority would lead to the further militarization of a police force already too aggressive with poor and minority communities."
     publishedDateTime: 2022-11-30T17:24:00Z
@@ -127,6 +143,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations. The vote Tuesday was 8 to 3. Civil rights advocates"
+    publishedDateTime: 2022-11-30T02:38:00Z
+    webUrl: "https://trib.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/article_ba79e871-2370-543f-a4b6-d31759a59895.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/8/1f/81fb8c6c-18be-5108-b96d-5f9bca2caaec/638668b3e5321.image.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "San Francisco Police Can Use Robots To Kill Suspects"
     excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"
     publishedDateTime: 2022-12-01T04:21:00Z
@@ -141,15 +171,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
-    publishedDateTime: 2022-11-30T15:02:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 19
 
 secured: "VUAgmD49ZfYfpGLVr3mgfR8AonZo1Jh+xtF+0itCag2ZnP2UcttJD+uro5mU7uIn7kzaUgjrLeEXdU4tw/3/RHT3vQmsQfkj0g9Wl+GAg4rYFl/a1JLqjDLNRJ9HGP5whMjxs967nfPV5Qs7InWzxJo6FzwZC0kna89qYqLxo2zMF5vgovMHasTz9/KzcALas0l8jskq/2O1QoRk1Lwv9tJaELsVw2OY9yKDcfKsq/DH4jQr4gPvw1OuwprVhlego6b9CgqkwznNjCATwynfkIc1mQDt7lk2P2v3W2A49qprR/CS2q2a8U09z402CtR9Zi+flU9r2glhe8GJarNiWWMQV5YkX/EceualRkz9BSKFWZb/4ZaoPC93MzdHJrqxGj+I8ISWjvCjLs6P2cc13z798hW/H1DIxo1R9+o+3bRemNff9ntWMMJ8dybbIk5MrXFIUHzbGb3XuyGAPlxcZ8tJ4oarONHa9/f2gxwCBiIxAQuy/PHucq1L6+vlKCNPtkh9x3xX2NWFIv9Yy8FfUA==;Iv0UB1juoO9tuMJijwnRDQ=="
 ---

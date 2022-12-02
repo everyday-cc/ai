@@ -2,19 +2,19 @@
 category: news
 title: "New artificial intelligence could help humans actually talk to animals"
 excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-publishedDateTime: 2022-11-30T12:55:00Z
-originalUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+publishedDateTime: 2022-11-30T13:27:00Z
+originalUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
 quality: 57
 heat: 77
 published: true
 
 provider:
-  name: koaa
-  domain: koaa.com
+  name: KXXV News Channel 25
+  domain: kxxv.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NW0RjXLF4utAv8+0OQxGaNaiwxCyzt2+bl8wpzBZvCfLobXHToB7YlK6FcsykspGxEnHGMrOAV263klQ76wT8Bxno1Jgr5KpQd58Y86NiM3hzzL0hxVQ6WjofWEVyMy/apuagtXLfl4uXhSeKUFNucm345za8VIXMGwdSeoMNknoPBOA72UkLJJ/yNAY368rIMoy1nnf57YfFgO2IWMI09uFw6QhBGvP3xI9xgUnOqjysUbv6JlxRpcv0x+21vu37EZsq9WUgQVk+NNmxfP8SEAE4U+aW44ldhBoNqp0jzKs4lKvg5lA5PJW2kujrEdgRD8oD1o2MUqm7KzXo5grjDncn5SluohA5EDQKyprkaI=;sF4afuVPB5BRCWs48w4u3w=="
+secured: "D/GbyVC+ZbfMA5oxn+q49AlUqIi+ufpaRXGpCiQONXQ0bzBlRpoE0Sue6B/zEx7TzczLEMU9zP7bqRWmFbIBQOsQfYOI5a986IWnuE5U0dG0tso9afnCDSu2RwN1V9JreevkzoDnGEasSFX+Fc5wcIB4dp3HXtem2DXa9iOiEYYE1AwYIBkmTVhDSHPy6r+ycYLMw5Glg8fq6jwALA68g4ITkLWXBtBlREBDCdJna2k1G/uVvHF5sqLeSbH1Cy7yvAUPc8easNtz+aaFwJXKc/Df6QPGafttpsa8rOfE7abfrILcbAyw/tuyuUwWVpl4pZWIb5k/ocuOPlduQD3AhwoA/nDYwsSAdJaqXackC/w=;Zb44rrPQIhGAdaN0va1vNA=="
 ---
 

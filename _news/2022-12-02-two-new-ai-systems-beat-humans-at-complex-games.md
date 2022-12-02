@@ -27,14 +27,14 @@ images:
 related:
   - title: "New artificial intelligence could help humans actually talk to animals"
     excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-    publishedDateTime: 2022-11-30T12:55:00Z
-    webUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-    ampWebUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-    cdnAmpWebUrl: "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    publishedDateTime: 2022-11-30T13:27:00Z
+    webUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
     type: article
     provider:
-      name: koaa
-      domain: koaa.com
+      name: KXXV News Channel 25
+      domain: kxxv.com
     quality: 57
     images:
       - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"

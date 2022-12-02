@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/explainers/explained-india-to-get-facial-r
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp"
 type: article
 quality: 83
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
     quality: 74
     images:
       - url: "https://c.ndtvimg.com/2019-05/soicn89g_airport-generic_625x300_10_May_19.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Facial Recognition For Entry To Indian Airports. Here's How It Works"
+    excerpt: "The Airports Authority Of India on Thursday launched the Digi-Yatri service that will provide contactless entry to passengers at airports by using facial recognition technology. The new service will ensure \"contactless and seamless\" processing of ..."
+    publishedDateTime: 2022-12-02T04:43:00Z
+    webUrl: "https://www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225"
+    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/h0upg38_airport_625x300_02_December_22.jpg"
         width: 650
         height: 400
         isCached: true

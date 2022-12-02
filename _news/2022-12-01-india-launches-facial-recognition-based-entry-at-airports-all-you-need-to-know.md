@@ -59,6 +59,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Facial Recognition For Entry To Indian Airports. Here's How It Works"
+    excerpt: "The Airports Authority Of India on Thursday launched the Digi-Yatri service that will provide contactless entry to passengers at airports by using facial recognition technology. The new service will ensure \"contactless and seamless\" processing of ..."
+    publishedDateTime: 2022-12-02T04:43:00Z
+    webUrl: "https://www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225"
+    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-for-entry-to-indian-airports-heres-how-it-works-3571225/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/h0upg38_airport_625x300_02_December_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Scindia debuts DigiYatra: Facial recognition launched at three airports today"
     excerpt: "A passenger must register their information on the DigiYatra app utilising Aadhaar-based validation and a self image capture in order to use the service. The boarding pass is then scanned, and the credentials are shared with the airport."
     publishedDateTime: 2022-12-01T11:11:00Z
@@ -133,6 +149,6 @@ related:
       domain: moneycontrol.com
     quality: 23
 
-secured: "AlYAUG6zkk1mbYenPeqAeB7zwNZU1+DFBAfrauMxxSHOUHPayIgKAhK7g7hMVh2wKLhwPCFJSr+Hpd5vv29SVt7xeElvq22iM6L5V8/p51e0iLs+VgfncUVCjCPBsXyzKjsupPu9z4zl6NqfpVA3ptnEI6iKPa15R6WX7vdbDwObRRjFyXpe1ldqhkoB1a3ov+VR56xl7m5DltKd9w+zxmCRpWneBQz8yt0XKC3F8po8P+WMPFIHNCZGFtQ5TbXJOWiyW6pKSv7g9DH19TAmuSQvZC4sOED8iEhF5qPbaYXWJ4ZBEZY8PoBYSPWthBolG06OA0jMqMJSD3rO+hDuLOlsnvmDktwfnMJM/p5r1wc=;kSKuKvzutQRDaBLK7o+TwQ=="
+secured: "D+S/2qbo4uCxE2o78qLkzISjJYAdp6iDHuQqg+a/iUbsWHUr9KJ2PRVDTlckyt1nDsWW2UX/rJNXfbS4XGyu+mVg+8MlcYyrS0USzJ6oGoZe7KY3JKvXSfi96FT9OOEQENamEaHm3W4NkdLp632qczUJsh9mMAyAQg6vbkX7w9dPiRC1P5BN92h0wijvtaIcmJb6yoDze2zlPUGTjkHGaj9AXYhvkdYapGJkRZNUDNzkIoSuhNBg32kPdLEtn6wLSodCTHjt9UOz/5XzH1zFkuwgV6WdVgZur/b0C6RbNrCxx7JwSNugP6wi3M9gfeZF+zzcX0M3u4OFph3Xtyht8oBFuRwHmTjqUJ0C/1xnKADS/VF5hKTVv5rc5Hw/Jjh8uSkIzmcrv2Pm6DPK4r/z422p/yUBYpzWldZ1IWorxxgcOOicYvqcobeowAIlPJXl9dAHExSOf6794Uelhq6e3lJL13qILmJbr+/4tltcS7H/1JgPjyNi5l4hfZS4tgVqOc5zxLsYGyXflzGGoMm3eA==;R3qIYyPqVNyLsT8kvcO9Kw=="
 ---
 

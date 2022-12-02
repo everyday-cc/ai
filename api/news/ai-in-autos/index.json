@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,61 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-ai-will-thrive-in-3-key-areas-in-2023-despite-economic-conditions.md",
+      "title": "AI will thrive in 3 key areas in 2023, despite economic conditions",
+      "excerpt": "In 2023, experts predict that AI innovation will continue, focusing on human-centric, data-driven and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/",
+      "originalUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176838131.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/amp/",
+      "publishedDateTime": "2022-12-01T11:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -1431,49 +1485,6 @@
       "provider": {
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-baidu-benefits-from-online-advertising-recovery.md",
-      "title": "Baidu Benefits From Online Advertising Recovery",
-      "excerpt": "On Tuesday, the company also announced that Baidu was granted permission to conduct autonomous driving road test with an empty front row in Beijing. Apollo Go, Baidu's autonomous driving ride ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/11/22/baiduhq_G7YnEj7.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
         "images": null,
         "publishers": null,
         "authors": null

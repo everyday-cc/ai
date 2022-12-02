@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-30T20:37:00Z
 originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/?s=08"
 webUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/?s=08"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.defensenews.com/resizer/5A9WTVnaKIXZeuxLOy5TqmVR8cU=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EZI5ROUSZRB3RKPUZVRYXR4QEI.jpg"

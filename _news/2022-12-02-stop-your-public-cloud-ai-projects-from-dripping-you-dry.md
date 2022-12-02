@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-drip
 ampWebUrl: "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1225889323.jpg?w=1200&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 360
         isCached: true
 
-secured: "DOMmeoyYjV+AYvcd+dMsyy7/gkJyfWXVGN3rfRXILhHXO35P1uW8pMrvHPMCrwbHwGYklm2bQ1tHc/lEszcAyFMnpKciRtwLzo0SfhEb+42FgIQW4YzxQNBSDy2i/ASsHtQPOeUUQP64cf9Q1bSQ6fPAtlUy/M+ouuAD55sy9E7/fI7ziXjAf5f8e5Lw2OlShjA6iksA31asPVJ1JsSfuDalOuWs4hmisiE97lMg54S7vWisb95qfw8ZK0Cn6eIBA69nkMyaFPKWecZFQOrROiChm486RlYNMD19McTlvgjGo6Jj1rKatwQzpKz5vx1b/hW+42TRvJYsznVm0uCCSUoIkgpJ8gDTsegja91vgk8=;AGXQ1iS8636il8Ujyk6bng=="
+secured: "LDaZSQRK7kfTHG23zh+KuEB/EwQ/vm/DZ6/1sVxX+L+w29R97iu+FbMeaxhGWvhEqX+2I5xDWK6ybQOh23HdjOHC82M1nlRYFV0JPrPvR4czyxOY/JHMNivE9FxuyYXbyUbjs1vtPVFbdadO09JN2swHRcpDP7UHs4ujtSNv6K3wFBGuwz4D4Qw9o/ISspUoeWi2NascAmVR1ABmiszjRev/icBEW+PmNwmS+pyvYjfUxTZQEEHo7a3f3+bsZ5TkvfwJoeppuIrflfwzq7/lgPeWEL71TKvzjmGBsOf/QwKrK9XkQF2H8d10aqUXru98/ZYVKMSHkYyY3MJf5fgf/NhZggqw2mPsd6N6fywhfyHT6vC/2+elVhN/MEAoIcokJweT9IFdYL6weFeu55I9b5WH/ARAGIOV69xpWDX+G+7zhRhccYci3cp9xSwT8O31hyfhE/NvnsNtLdYmk4SDy64MckR28lSjQqo55IB2lHCYndg+oyFsZr5cVqzvuwsYnL/tg262Mu6rYEZEOZtvXw==;hRa7YK3opa37IAP8TGX7Kw=="
 ---
 
