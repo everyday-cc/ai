@@ -14,7 +14,7 @@ website: https://datascience.uoregon.edu/jake-searcy
 twitter:
   username: jakesearcy
   url: https://twitter.com/jakesearcy
-  followers: 88
+  followers: 87
 
 linkedin:
   url: https://www.linkedin.com/in/jacob-searcy-28819b51/
